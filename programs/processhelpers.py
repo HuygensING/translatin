@@ -6,8 +6,6 @@ ORG = "HuygensING"
 REPO = "translatin"
 BACKEND = "github"
 
-TRANSCRIBERS = "Jan Bloemendal et al."
-
 _REPODIR = expanduser(f"~/{BACKEND}/{ORG}/{REPO}")
 _PROGRAMDIR = f"{_REPODIR}/programs"
 _REPORTDIR = f"{_REPODIR}/report"
@@ -23,11 +21,14 @@ TEIXDIR = f"{_TRANSDIR}/teiSimple"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _DATADIR
 TEIDIR = f"{SOURCEBASE}/tei"
+METADATA_YML = f"{_PROGRAMDIR}/metadata.yml"
 METADATA_FILE = f"{_METADIR}/work-author.xlsx"
 
 REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
 REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
 REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
+
+REPORT_TEIDIR = f"{_REPORTDIR}/tei"
 
 
 APOS_RE = re.compile(r"""['‘]""")
@@ -38,4 +39,30 @@ def normalizeChars(text):
     return APOS_RE.sub("’", text)
 
 
-SECTION_LINE_RE = re.compile(r"""^\s*/\s*(front|main|back)\s*/\s*$""", re.M)
+SECTION_LINE_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p>
+    \s*
+    /
+    \s*
+    (
+        [a-z]+
+    )
+    \s*
+    /
+    \s*
+    </p>
+    \s*
+    $
+    """, re.M | re.X
+)
+
+PARTS = """
+    front
+    main
+    back
+""".strip().split()
+
+PARTSET = set(PARTS)

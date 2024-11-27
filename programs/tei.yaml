@@ -1,0 +1,254 @@
+generic:
+  editor: Jan Bloemendal
+  title: Translatin (drama, 1500-1750))
+  language: la
+  converter: Dirk Roorda (Text-Fabric)
+  sourceFormat: DOCX
+  descriptionTf: Edition
+  institute1: HuC (Humanities Cluster) Amsterdam
+  institute2: Huygens Instituut Amsterdam
+  contributors1: |-
+    Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
+
+models:
+  - dracor
+
+prelim: true
+granularity: token
+procins: false
+parentEdges: false
+siblingEdges: false
+lineModel:
+  model: II
+pageModel:
+  model: II
+  keepPb: true
+sectionModel: 
+  model: I
+  levels:
+  - folder
+  - file
+  - chunk
+  drillDownDivs: true
+  backMatter: backmatter
+
+extra:
+  editor:
+    meta:
+      description: >-
+        Editor of the translatin corpus
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - editor
+      - titleStmt
+      - fileDesc
+    nodeType: file
+  transcribers:
+    meta:
+      description: >-
+        Transcriber(s) of the work
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - name
+      - respStmt
+      - titleStmt
+      - fileDesc
+    nodeType: file
+  titleShort:
+    meta:
+      description: >-
+        Short title of the work
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title
+      - bibl
+      - sourceDesc
+    nodeType: file
+  titleExpanded:
+    meta:
+      description: >-
+        Title of the work
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          type: main
+      - titleStmt
+      - fileDesc
+    nodeType: file
+  titleFull:
+    meta:
+      description: >-
+        Long title of the work, includes subtitle
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          type: sub
+      - titleStmt
+      - fileDesc
+    nodeType: file
+  author:
+    meta:
+      description: >-
+        Author of the work, shortened name
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - author
+      - titleStmt
+      - fileDesc
+    nodeType: file
+  source:
+    meta:
+      description: >-
+        Description of the work
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - emph:
+          "xml:id": source
+      - bibl
+      - sourceDesc
+    nodeType: file
+  sourceLink:
+    meta:
+      description: >-
+        Link to description of the work
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - ref
+      - bibl
+      - sourceDesc
+    nodeType: file
+  medium:
+    meta:
+      description: >-
+        Medium of the source: manuscript or printed
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - emph:
+          "xml:id": medium
+      - bibl
+      - sourceDesc
+    nodeType: file
+  firstEdition:
+    meta:
+      description: >-
+        Year of first edition of the work
+      valueType: int
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date
+      - bibl
+      - sourceDesc
+    nodeType: file
+  pubYear:
+    meta:
+      description: >-
+        Year of publication of the edition
+      valueType: int
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date@when
+      - publicationStmt
+      - fileDesc
+    nodeType: file
+  pubPlace:
+    meta:
+      description: >-
+        Place of publication of the edition
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - pubPlace
+      - publicationStmt
+      - fileDesc
+    nodeType: file
+  publisher:
+    meta:
+      description: >-
+        Publisher of the edition
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - publisher
+      - publicationStmt
+      - fileDesc
+    nodeType: file
+  diction:
+    meta:
+      description: >-
+        Writing style: prose or poetry
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: diction
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: file
+  genre:
+    meta:
+      description: >-
+        Genre: comedy, tragedy, etc.
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: genre
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: file
+  acts:
+    meta:
+      description: >-
+        Number of acts
+      valueType: int
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: acts
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: file
+  chorus:
+    meta:
+      description: >-
+        Whether there is a chorus: yes, None
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: chorus
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: file
+
+

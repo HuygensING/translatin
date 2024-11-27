@@ -1,0 +1,66 @@
+editor:
+  tp: str
+  value: Jan Bloemendal
+transcribers:
+  tp: str
+  value: Jan Bloemendal et al.
+titleShort:
+  tp: str
+  default: No title
+  column: title (short)
+titleExpanded:
+  tp: str
+  default: No title
+  column: title (expanded)
+titleFull:
+  tp: int
+  default: No title
+  column: title (full)
+author:
+  tp: str
+  default: Unknown
+  column: author (acro)
+source:
+  tp: str
+  default: No source description
+  column: source
+sourceLink:
+  tp: str
+  default: "" 
+  column: source link
+medium:
+  tp: str
+  default: "" 
+  column: Ms.
+firstEdition:
+  tp: int
+  default: 0 
+  column: First edition
+pubYear:
+  tp: int
+  default: 0 
+  column: year of publication
+pubPlace:
+  tp: str
+  default: "" 
+  column: place of publication
+publisher:
+  tp: str
+  default: Unknown publisher
+  column: publisher
+diction:
+  tp: str
+  default: "" 
+  column: prose/verse
+genre:
+  tp: str
+  default: unknown genre
+  column: genre
+acts:
+  tp: int
+  default: 0 
+  column: "#acts"
+chorus:
+  tp: str
+  default: "" 
+  column: chorus

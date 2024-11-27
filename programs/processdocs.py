@@ -20,107 +20,57 @@ Where task is:
 import collections
 from subprocess import run
 
-from openpyxl import load_workbook
-
 from tf.core.files import (
     dirContents,
     initTree,
     mTime,
     fileExists,
 )
-from tf.core.helpers import console, htmlEsc
+from tf.core.helpers import console
+
+from processmeta import Meta as MetaCls
 from processhelpers import (
-    TRANSCRIBERS,
     DOCXDIR,
     TEIXDIR,
     TEIDIR,
-    METADATA_FILE,
+    REPORT_TRANSDIR,
     REPORT_WARNINGS,
     SECTION_LINE_RE,
+    PARTSET,
     normalizeChars,
 )
 
 
-TITLE_SHORT = "title (short)"
-TITLE_EXPANDED = "title (expanded)"
-TITLE_FULL = "title (full)"
-AUTHOR_ACRO = "author (acro)"
-SOURCE = "source"
-SOURCE_LINK = "source link"
-DICTION = "prose/verse"
-GENRE = "genre"
-N_OF_ACTS = "#acts"
-CHORUS = "chorus"
-PUB_YEAR = "year of publication"
-PUB_PLACE = "place of publication"
-IS_MS = "Ms."
-FIRST_EDITION_YEAR = "Firs Edition"
-
-# parameters:
-#
-# filza
-# letterno
-# normalizedDate
-# date
-# settlement
-# biblScope
-# respName
-# doc2stringNotesDiv
-# doc2stringSecretarial
-# doc2stringOriginal
-# letter.querySelector('p:nth-of-type(4)').textContent
-
-TEMPLATE = """\
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://xmlschema.huygens.knaw.nl/suriano.rng" type="application/xml"  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-    <titleStmt>
-        <title>{title}</title>
-        <author>{author}</author>
-        <editor xml:id="nl">Jan Bloemendal</editor>
-        <respStmt>
-            <resp>transcription</resp>
-            <name>{respName}</name>
-        </respStmt>
-    </titleStmt>
-    <publicationStmt>
-        <publisher>{publisher}</publisher>
-        <pubPlace>{placeOfPublication}</pubPlace>
-        <date>{yearOfPublication}</date>
-    </publicationStmt>
-    <sourceDesc>
-        <p>{ms}</p>
-    </sourceDesc>
-</fileDesc>
-</teiHeader>
-<text>
-<body>
-{material}
-<div type="notes">
-    {notes}
-</div>
-</body>
-</text>
-</TEI>
-"""
-
-
 class TeiFromDocx:
     def __init__(self, silent=False):
+        self.silent = silent
+        self.error = False
+
+        initTree(REPORT_TRANSDIR, fresh=False)
+
         self.warnings = []
         self.rhw = None
 
-    def warn(self, filza, letter, textNum, ln, line, heading, summarize=False):
+    def console(self, *args, **kwargs):
+        """Print something to the output.
+
+        This works exactly as `tf.core.helpers.console`
+
+        When the silent member of the object is True, the message will be suppressed.
+        """
+        silent = self.silent
+
+        if not silent:
+            console(*args, **kwargs)
+
+    def warn(self, work, ln, line, heading, summarize=False):
         rhw = self.rhw
         warnings = self.warnings
 
-        warnings.append((filza, letter, textNum, ln, line, heading, summarize))
+        warnings.append((work, ln, line, heading, summarize))
 
         if rhw:
-            msg = f"{filza}:{letter} n.{textNum} ln {ln:>5} {heading} :: {line}"
+            msg = f"{work:<30}: ln {ln:>5} {heading:<30} :: {line}"
             rhw.write(f"{msg}\n")
 
     def showWarnings(self):
@@ -131,26 +81,28 @@ class TeiFromDocx:
         limit = 100
 
         summarized = collections.Counter()
-        ln = 0
+        i = 0
 
-        for filza, letter, textNum, ln, line, heading, summarize in warnings:
+        for work, ln, line, heading, summarize in warnings:
             if summarize:
                 summarized[heading] += 1
             else:
-                if ln >= limit:
+                if i >= limit:
                     continue
 
-                msg = f"{filza}:{letter} n.{textNum} ln {ln:>5} " f"{heading} :: {line}"
+                msg = f"{work:<30}: ln {ln:>5} {heading:<30} :: {line}"
                 self.console(msg, error=True)
-                ln += 1
+                i += 1
 
         nSummarized = len(summarized)
 
         if nSummarized:
             self.console("", error=True)
 
-        for heading, n in sorted(summarized.items(), key=lambda x: (-x[1], x[0])):
-            self.console(f"{n:>5} {'x':<6} {heading}. See warnings.txt", error=True)
+            for heading, n in sorted(summarized.items(), key=lambda x: (-x[1], x[0])):
+                self.console(f"{n:>5} {'x':<6} {heading}", error=True)
+
+            self.console("See warnings.txt", error=True)
 
         if silent:
             if nWarnings:
@@ -162,175 +114,74 @@ class TeiFromDocx:
 
         warnings.clear()
 
-    def readMetadata(self):
+    def transformWork(self, file, workName):
         if self.error:
             return
 
-        console("Collecting excel metadata ...")
+        Meta = self.Meta
 
-        try:
-            wb = load_workbook(METADATA_FILE, data_only=True)
-            ws = wb.active
-        except Exception as e:
-            console(f"\t{str(e)}", error=True)
-            self.error = True
+        if Meta.error:
             return
-
-        (headRow, *rows) = list(ws.rows)
-
-        fields = {head.value: i for (i, head) in enumerate(headRow)}
-
-        titleShortI = fields[TITLE_SHORT]
-        titleExpandedI = fields[TITLE_EXPANDED]
-        titleFullI = fields[TITLE_FULL]
-        authorAcroI = fields[AUTHOR_ACRO]
-        sourceI = fields[SOURCE]
-        sourceLinkI = fields[SOURCE_LINK]
-        dictionI = fields[DICTION]
-        genreI = fields[GENRE]
-        nOfActsI = fields[N_OF_ACTS]
-        chorusI = fields[CHORUS]
-        pubYearI = fields[PUB_YEAR]
-        pubPlaceI = fields[PUB_PLACE]
-        isMsI = fields[IS_MS]
-        firstEditionYearI = fields[FIRST_EDITION_YEAR]
-
-        rows = [
-            (r + 1, row) for (r, row) in enumerate(rows) if any(c.value for c in row)
-        ]
-
-        information = {}
-        self.extraLetterData = information
-
-        def findex(row):
-            return normalizeChars(f"{row[authorAcroI]} - {row[titleShortI]}") or ""
-
-        def fi(row, index):
-            return row[index].value or 0
-
-        def fs(row, index):
-            return htmlEsc(normalizeChars(row[index].value or ""))
-
-        for r, row in rows:
-            work = findex(row)
-            titleShort = fs(row, titleShortI)
-            titleExpanded = fs(row, titleExpandedI)
-            titleFull = fs(row, titleFullI)
-            authorAcro = fs(row, authorAcroI)
-            source = fs(row, sourceI)
-            sourceLink = fs(row, sourceLinkI)
-            diction = fs(row, dictionI)
-            genre = fs(row, genreI)
-            nOfActs = fs(row, nOfActsI)
-            chorus = fs(row, chorusI)
-            pubYear = fs(row, pubYearI)
-            pubPlace = fs(row, pubPlaceI)
-            isMs = fs(row, isMsI)
-            firstEditionYear = fs(row, firstEditionYearI)
-
-            information[work] = dict(
-                work=work,
-                titleShort=titleShort,
-                titleExpanded=titleExpanded,
-                titleFull=titleFull,
-                authorAcro=authorAcro,
-                source=source,
-                sourceLink=sourceLink,
-                diction=diction,
-                genre=genre,
-                nOfActs=nOfActs,
-                chorus=chorus,
-                pubYear=pubYear,
-                pubPlace=pubPlace,
-                isMs=isMs,
-                firstEditionYear=firstEditionYear,
-            )
-
-    def transformWork(self, file, work):
-        if self.error:
-            return
-
-        extraLetterData = self.extraLetterData
 
         with open(f"{TEIXDIR}/{file}") as f:
             text = f.read()
 
         textLines = text.split("\n")
-        newTextLines = []
+
+        newTextLines = dict(
+            front=[],
+            main=[],
+            back=[],
+        )
+        dest = None
 
         for i, line in enumerate(textLines):
             ln = i + 1
-            ln
+
+            match = SECTION_LINE_RE.match(line)
+
+            if match:
+                part = match.group(1)
+
+                if part not in PARTSET:
+                    self.warn(workName, ln, line, f"/{part}/ not recognized")
+                    continue
+
+                if dest is None:
+                    if part != "front":
+                        heading = "Missing /front/"
+
+                        if part == "back":
+                            heading += " and /main/"
+
+                        self.warn(workName, ln, line, heading)
+
+                elif (
+                    (dest == "front" and part != "main")
+                    or (dest == "main" and part != "back")
+                    or dest == "back"
+                ):
+                    self.warn(workName, ln, line, f"{part} part after main part")
+
+                dest = part
+                continue
 
             line = line.replace("""rendition=""", """rend=""")
             line = line.replace("""rend="simple:""", '''rend="''')
             line = line.replace("""<hi rend="italic"><lb /></hi>""", "")
 
-            match = SECTION_LINE_RE.match(line)
+            if dest is not None:
+                newTextLines[dest].append(line)
 
-            if match:
-                kind = match.group(1, 2)
-                kind
+        material = {part: "\n".join(newTextLines[part]) for part in PARTSET}
 
-            newTextLines.append(line)
-
-        extraData = extraLetterData.get(work, [])
-
-        if extraData is None:
-            work = ("",)
-            titleShort = ("",)
-            titleExpanded = ("",)
-            titleFull = ("",)
-            authorAcro = ("",)
-            source = ("",)
-            sourceLink = ("",)
-            diction = ("",)
-            genre = ("",)
-            nOfActs = ("",)
-            chorus = ("",)
-            pubYear = ("",)
-            pubPlace = ("",)
-            shelfmark = ("",)
-        else:
-            work = extraData[work]
-            titleShort = extraData[titleShort]
-            titleExpanded = extraData[titleExpanded]
-            titleFull = extraData[titleFull]
-            authorAcro = extraData[authorAcro]
-            source = extraData[source]
-            sourceLink = extraData[sourceLink]
-            diction = extraData[diction]
-            genre = extraData[genre]
-            nOfActs = extraData[nOfActs]
-            chorus = extraData[chorus]
-            pubYear = extraData[pubYear]
-            pubPlace = extraData[pubPlace]
-            shelfmark = extraData[shelfmark]
-
-        return TEMPLATE.format(
-            work=work,
-            respName=TRANSCRIBERS,
-            work=work,
-            titleShort=titleShort,
-            titleExpanded=titleExpanded,
-            titleFull=titleFull,
-            authorAcro=authorAcro,
-            source=source,
-            sourceLink=sourceLink,
-            diction=diction,
-            genre=genre,
-            nOfActs=nOfActs,
-            chorus=chorus,
-            pubYear=pubYear,
-            pubPlace=pubPlace,
-            shelfmark=shelfmark,
-        )
+        return Meta.fillTemplate(workName, **material)
 
     def teiFromDocx(self):
         if self.error:
             return
 
-        console("DOCX => simple TEI per filza ...")
+        console("DOCX => simple TEI per work ...")
 
         files = sorted(
             x
@@ -383,6 +234,10 @@ class TeiFromDocx:
 
         console("simple TEI => enriched TEI ...")
 
+        Meta = MetaCls()
+        self.Meta = Meta
+        Meta.readMetadata()
+
         files = dirContents(TEIXDIR)[0]
         initTree(TEIDIR, fresh=True, gentle=True)
 
@@ -392,11 +247,10 @@ class TeiFromDocx:
 
             self.console(f"\t{file}")
 
-            workFile = file.removesuffix(".xml")
-            initTree(f"{TEIDIR}/{workFile}", fresh=True, gentle=True)
-            workText = self.transformWork(file, workFile)
+            workName = file.removesuffix(".xml")
+            workText = self.transformWork(file, workName)
 
-            with open(f"{TEIDIR}/{workFile}.xml", "w") as f:
+            with open(f"{TEIDIR}/{workName}.xml", "w") as f:
                 f.write(workText)
 
         self.showWarnings()
@@ -440,5 +294,4 @@ class TeiFromDocx:
             if task == "pandoc":
                 self.teiFromDocx()
             elif task == "tei":
-                self.readMetadata()
                 self.teiFromTei()
