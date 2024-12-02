@@ -38,6 +38,8 @@ from processhelpers import (
     SECTION_LINE_RE,
     PARTSET,
     normalizeChars,
+    warnLine,
+    sanitizeFileName
 )
 
 
@@ -51,6 +53,10 @@ class TeiFromDocx:
         self.warnings = []
         self.rhw = None
 
+        self.Meta = MetaCls(self)
+
+        self.getInventory()
+
     def console(self, *args, **kwargs):
         """Print something to the output.
 
@@ -63,15 +69,14 @@ class TeiFromDocx:
         if not silent:
             console(*args, **kwargs)
 
-    def warn(self, work, ln, line, heading, summarize=False):
+    def warn(self, work=None, ln=None, line=None, heading=None, summarize=False):
         rhw = self.rhw
         warnings = self.warnings
 
         warnings.append((work, ln, line, heading, summarize))
 
         if rhw:
-            msg = f"{work:<30}: ln {ln:>5} {heading:<30} :: {line}"
-            rhw.write(f"{msg}\n")
+            rhw.write(warnLine(work, ln, line, heading))
 
     def showWarnings(self):
         silent = self.silent
@@ -90,8 +95,7 @@ class TeiFromDocx:
                 if i >= limit:
                     continue
 
-                msg = f"{work:<30}: ln {ln:>5} {heading:<30} :: {line}"
-                self.console(msg, error=True)
+                self.console(warnLine(work, ln, line, heading), error=True)
                 i += 1
 
         nSummarized = len(summarized)
@@ -114,6 +118,39 @@ class TeiFromDocx:
 
         warnings.clear()
 
+    def getInventory(self):
+        Meta = self.Meta
+
+        workFiles = {}
+        self.workFiles = workFiles
+
+        console("GET docx files and their metadata from XLS ...")
+
+        files = sorted(
+            x
+            for x in dirContents(DOCXDIR)[0]
+            if x.endswith(".docx") and not x.startswith("~")
+        )
+
+        for file in files:
+            workName = file.removesuffix(".docx")
+            saneWorkName = sanitizeFileName(workName)
+
+            if saneWorkName is None:
+                self.warn(work=workName, heading="Not a valid work name")
+                continue
+
+            workFiles[saneWorkName] = workName
+
+        console("")
+
+        goodWorkFiles = Meta.readMetadata(workFiles)
+        console(
+            f"Continuing with {len(goodWorkFiles)} good files "
+            f"among {len(workFiles)} in total"
+        )
+        self.workFiles = goodWorkFiles
+
     def transformWork(self, file, workName):
         if self.error:
             return
@@ -134,34 +171,42 @@ class TeiFromDocx:
             back=[],
         )
         dest = None
+        skipping = True
+
+        partsEncountered = []
+        mainEncountered = False
+        partsError = False
 
         for i, line in enumerate(textLines):
-            ln = i + 1
+            if skipping:
+                if line.startswith("<body>"):
+                    skipping = False
+
+                continue
+            else:
+                if line.startswith("</body>"):
+                    skipping = True
+                    continue
 
             match = SECTION_LINE_RE.match(line)
 
             if match:
                 part = match.group(1)
+                partsEncountered.append(part)
 
                 if part not in PARTSET:
-                    self.warn(workName, ln, line, f"/{part}/ not recognized")
+                    partsError = True
                     continue
 
-                if dest is None:
-                    if part != "front":
-                        heading = "Missing /front/"
-
-                        if part == "back":
-                            heading += " and /main/"
-
-                        self.warn(workName, ln, line, heading)
-
-                elif (
+                if (dest is not None) and (
                     (dest == "front" and part != "main")
                     or (dest == "main" and part != "back")
                     or dest == "back"
                 ):
-                    self.warn(workName, ln, line, f"{part} part after main part")
+                    partsError = True
+
+                if part == "main":
+                    mainEncountered = True
 
                 dest = part
                 continue
@@ -173,9 +218,23 @@ class TeiFromDocx:
             if dest is not None:
                 newTextLines[dest].append(line)
 
-        material = {part: "\n".join(newTextLines[part]) for part in PARTSET}
+        material = {
+            part: "\n".join(newTextLines[part]) or "<p></p>" for part in PARTSET
+        }
 
-        return Meta.fillTemplate(workName, **material)
+        text = Meta.fillTemplate(workName, **material)
+
+        partsMsg = f"{'-'.join(partsEncountered)}"
+
+        if not mainEncountered:
+            partsError = True
+            sep = " " if partsMsg else ""
+            partsMsg = f"NO main PART{sep}{partsMsg}"
+
+        if partsError:
+            self.warn(work=workName, heading=partsMsg)
+
+        return (partsError, partsMsg, text)
 
     def teiFromDocx(self):
         if self.error:
@@ -183,18 +242,16 @@ class TeiFromDocx:
 
         console("DOCX => simple TEI per work ...")
 
-        files = sorted(
-            x
-            for x in dirContents(DOCXDIR)[0]
-            if x.endswith(".docx") and not x.startswith("~")
-        )
+        workFiles = self.workFiles
+
         initTree(TEIXDIR, fresh=False)
 
-        for file in files:
+        for file in sorted(workFiles):
+            realFile = workFiles[file]
             self.console(f"\t{file} ... ", newline=False)
 
-            inFile = f"{DOCXDIR}/{file}"
-            outFile = f"{TEIXDIR}/{file}".removesuffix(".docx") + ".xml"
+            inFile = f"{DOCXDIR}/{realFile}.docx"
+            outFile = f"{TEIXDIR}/{file}.xml"
 
             if fileExists(outFile) and mTime(outFile) > mTime(inFile):
                 self.console("uptodate")
@@ -234,10 +291,6 @@ class TeiFromDocx:
 
         console("simple TEI => enriched TEI ...")
 
-        Meta = MetaCls()
-        self.Meta = Meta
-        Meta.readMetadata()
-
         files = dirContents(TEIXDIR)[0]
         initTree(TEIDIR, fresh=True, gentle=True)
 
@@ -245,13 +298,15 @@ class TeiFromDocx:
             if not file.endswith(".xml"):
                 continue
 
-            self.console(f"\t{file}")
+            self.console(f"\t{file} ...", newline=False)
 
             workName = file.removesuffix(".xml")
-            workText = self.transformWork(file, workName)
+            (workStatus, workMsg, workText) = self.transformWork(file, workName)
 
             with open(f"{TEIDIR}/{workName}.xml", "w") as f:
                 f.write(workText)
+
+            console(f"\r\t{workName:<30} ... {workMsg}", error=workStatus)
 
         self.showWarnings()
 

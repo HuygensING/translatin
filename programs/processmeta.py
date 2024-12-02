@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 
-from tf.core.helpers import console
+from tf.core.helpers import console, htmlEsc
 from tf.core.files import readYaml
 
 from processhelpers import METADATA_YML, METADATA_FILE
@@ -9,7 +9,7 @@ from processhelpers import METADATA_YML, METADATA_FILE
 TEMPLATE = """\
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model
-    href="https://dracor.org/schema.rng"
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
@@ -20,7 +20,7 @@ TEMPLATE = """\
         <title type="main">{titleExpanded}</title>
         <title type="sub">{titleFull}</title>
         <author>{author}</author>
-        <editor xml:id="nl">{editor}</editor>
+        <editor>{editor}</editor>
         <respStmt>
             <resp>transcription</resp>
             <name>{transcribers}</name>
@@ -29,16 +29,15 @@ TEMPLATE = """\
     <publicationStmt>
         <publisher>{publisher}</publisher>
         <pubPlace>{pubPlace}</pubPlace>
-        <date when="{pubYear}/>
+        <date>"{pubYear}"</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>
             Identifier: <name>{work}</name><lb/>
             Short title: <title>{titleShort}</title><lb/>
-            Year of first edition: <date>{firstEdition}"</date><lb/>
-            Source type: <emph xml:id="medium">{medium}</emph><lb/>
-            Source description: <emph xml:id="source">{source}</emph><lb/>
-            <ref target="{sourceLink}">See</ref>
+            Year of first edition: <date>{firstEdition}</date><lb/>
+            <emph>{source}</emph><lb/>
+            {sourceLinkRep}
         </bibl>
     </sourceDesc>
 </fileDesc>
@@ -49,14 +48,11 @@ TEMPLATE = """\
             <term type="genre">{genre}</term>
             <term type="acts">{acts}</term>
             <term type="chorus">{chorus}</term>
+            <term type="medium">{medium}</term>
         </keywords>
     </textClass>
 </profileDesc>
 </teiHeader>
-<standOff>
-</standOff>
-Balde-Iephtias
-Iephthias
 <text>
     <front>
         {front}
@@ -73,85 +69,206 @@ Iephthias
 
 
 class Meta:
-    def __init__(self):
+    def __init__(self, Process):
         self.template = TEMPLATE
-        cfg = readYaml(asFile=METADATA_YML)
-        self.cfg = cfg
-
-        corpusMeta = {
-            field: props.value for field, props in cfg.items() if "value" in props
-        }
-        self.corpusMeta = corpusMeta
-        self.workFields = set(cfg) - set(corpusMeta)
+        self.Process = Process
+        self.metaFields = readYaml(asFile=METADATA_YML)
         self.error = False
         self.workById = {}
         self.workByName = {}
 
-    def readMetadata(self):
+    def readMetadata(self, workFiles):
         if self.error:
             return
 
-        cfg = self.cfg
-        workFields = self.workFields
+        console("Collecting excel metadata ...")
+
+        Process = self.Process
+        metaFields = self.metaFields
+
         workById = self.workById
         workByName = self.workByName
 
-        console("Collecting excel metadata ...")
+        goodWorkFiles = {}
 
-        default = {}
+        default = dict(author={}, work={})
         self.default = default
 
-        metadata = {}
+        metadata = dict(author={}, work={})
         self.metadata = metadata
+        ws = {}
 
         try:
             wb = load_workbook(METADATA_FILE, data_only=True)
-            ws = wb.active
+            ws["author"] = wb["author"]
+            ws["work"] = wb["work"]
         except Exception as e:
-            console(f"\t{str(e)}", error=True)
+            Process.warn(heading=f"\t{str(e)}")
             self.error = True
-            return
+            return goodWorkFiles
 
-        (headRow, *rows) = list(ws.rows)
+        for kind in ("author", "work"):
+            (headRow, *rows) = list(ws[kind].rows)
 
-        fields = {i: head.value for (i, head) in enumerate(headRow)}
-        fieldInv = {}
+            fields = {i: head.value for (i, head) in enumerate(headRow)}
+            fieldInvHead = {v: k for (k, v) in fields.items()}
+            fieldInv = {}
 
-        for field in workFields:
-            fieldInfo = cfg[field]
-            fieldInv[fieldInfo.column] = field
-            default[field] = fieldInfo.default
+            thisDefault = default[kind]
 
-        for r, row in enumerate(rows):
-            if not any(c.value for c in row):
-                continue
+            for field, fieldInfo in metaFields[kind].items():
+                column = fieldInfo.column
 
-            thisMeta = {}
+                if column not in fieldInvHead:
+                    Process.warn(
+                        work=f"Meta {kind}",
+                        ln=0,
+                        line=column,
+                        heading="Extra column configured",
+                    )
+                    continue
 
-            for i, cell in enumerate(row):
-                field = fieldInv[fields[i]]
-                value = cell.value or default[field]
-                thisMeta[field] = value
+                fieldInv[column] = field
+                thisDefault[field] = fieldInfo.default
 
-            work = f"{thisMeta['author']}-{thisMeta['titleShort']}"
-            thisMeta["work"] = work
-            workId = f"translatin{r + 1:>04}"
-            metadata[workId] = thisMeta
-            workById[workId] = work
-            workByName[work] = workId
+            for v, k in fieldInvHead.items():
+                if v not in fieldInv:
+                    Process.warn(
+                        work=f"Meta {kind}",
+                        ln=0,
+                        line=v,
+                        heading="Column not configured",
+                    )
+                    del fields[k]
+
+            for r, row in enumerate(rows):
+                if not any(c.value for c in row):
+                    continue
+
+                rp = r + 1
+
+                thisMeta = {}
+
+                for i, cell in enumerate(row):
+                    fieldRep = fields.get(i, None)
+
+                    if fieldRep is None:
+                        continue
+
+                    field = fieldInv.get(fieldRep, None)
+
+                    if field is None:
+                        Process.warn(
+                            work=f"Meta {kind}",
+                            ln=rp,
+                            line=fieldRep,
+                            heading="Column not configured",
+                        )
+                        continue
+
+                    fieldInfo = metaFields[kind][field]
+                    value = cell.value or thisDefault[field]
+
+                    if fieldInfo.tp == "str":
+                        value = htmlEsc(str(value).strip())
+
+                    thisMeta[field] = value
+
+                if kind == "author":
+                    authorId = thisMeta["author"]
+
+                    if authorId is None:
+                        Process.warn(
+                            work="author",
+                            ln=rp,
+                            line=thisMeta["name"],
+                            heading="no acro",
+                        )
+                        continue
+                    elif authorId in metadata[kind]:
+                        Process.warn(
+                            work="author",
+                            ln=rp,
+                            line=authorId,
+                            heading="acro not unique",
+                        )
+                        continue
+
+                    metadata[kind][authorId] = thisMeta
+
+                elif kind == "work":
+                    sourceLink = thisMeta.get("sourceLink", None)
+                    sourceLinkRep = (
+                        f"<ref target='{sourceLink}'>See here.</ref>"
+                        if sourceLink
+                        else ""
+                    )
+                    thisMeta["sourceLinkRep"] = sourceLinkRep
+
+                    author = thisMeta["author"] or "Unknown"
+                    title = thisMeta["titleShort"]
+                    work = f"{author}-{title}"
+
+                    if author != "Unknown" and author not in metadata["author"]:
+                        Process.warn(
+                            work=work,
+                            ln=rp,
+                            line=author,
+                            heading="author not found",
+                        )
+
+                    if work in workFiles:
+                        realWork = workFiles[work]
+                        goodWorkFiles[work] = realWork
+
+                        thisMeta["work"] = work
+                        workId = f"translatin{rp:>04}"
+                        metadata[kind][workId] = thisMeta
+                        workById[workId] = work
+                        workByName[work] = workId
+
+                    else:
+                        Process.warn(work=work, ln=rp, heading="metadata but no data")
+
+        for work in sorted(workFiles):
+            if work not in workByName:
+                Process.warn(work=work, heading="data but no metadata")
+
+        console("Metadata collected.")
+        Process.showWarnings()
+        return goodWorkFiles
 
     def fillTemplate(self, workName, **data):
         if self.error:
             return None
 
+        metaFields = self.metaFields
         template = self.template
         metadata = self.metadata
-        corpusMeta = self.corpusMeta
         workByName = self.workByName
+        workDefault = self.default["work"]
+        authorDefault = self.default["author"]
 
-        workId = workByName[workName]
+        workId = workByName.get(workName, None)
 
-        if workId not in metadata:
-            return None
+        if workId is None or workId not in metadata["work"]:
+            thisMetadata = workDefault
+        else:
+            thisMetadata = metadata["work"][workId]
 
-        return template.format(workId=workId, **metadata[workId], **corpusMeta, **data)
+        author = thisMetadata["author"]
+
+        if author is None or author == "Unknown" or author not in metadata["author"]:
+            authorMetadata = authorDefault
+        else:
+            authorMetadata = metadata["author"][author]
+
+        authorMetadata = {k: v for k, v in authorMetadata.items() if k != "author"}
+
+        return template.format(
+            workId=workId,
+            **thisMetadata,
+            **metaFields["corpus"],
+            **authorMetadata,
+            **data,
+        )

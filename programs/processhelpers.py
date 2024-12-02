@@ -39,6 +39,19 @@ def normalizeChars(text):
     return APOS_RE.sub("’", text)
 
 
+FILENAME_RE = re.compile(r"""^(.*?)\s*-\s*(.*)$""")
+
+
+def sanitizeFileName(fName):
+    match = FILENAME_RE.match(fName)
+
+    if not match:
+        return None
+
+    (auth, work) = match.group(1, 2)
+    return f"{auth}-{work}"
+
+
 SECTION_LINE_RE = re.compile(
     r"""
     ^
@@ -66,3 +79,14 @@ PARTS = """
 """.strip().split()
 
 PARTSET = set(PARTS)
+
+
+def warnLine(work, ln, line, heading):
+    workRep = "" if work is None else f"{work:<30}"
+    lnRep = "" if ln is None else f"{ln:>5}"
+    lineRep = "" if line is None else f" :: {line}"
+    sep1 = ":" if workRep else ""
+    headingRep = "" if heading is None else f"{heading:<30}"
+    sep2 = " " if (workRep or lnRep) and (headingRep or lineRep) else ""
+
+    return f"{workRep}{sep1}{lnRep}{sep2}{headingRep}{lineRep}\n"

@@ -11,7 +11,7 @@ generic:
     Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
 
 models:
-  - dracor
+  - translatin
 
 prelim: true
 granularity: token
@@ -24,13 +24,11 @@ pageModel:
   model: II
   keepPb: true
 sectionModel: 
-  model: I
+  model: III
   levels:
-  - folder
-  - file
+  - work
+  - part
   - chunk
-  drillDownDivs: true
-  backMatter: backmatter
 
 extra:
   editor:
@@ -108,19 +106,6 @@ extra:
       - titleStmt
       - fileDesc
     nodeType: file
-  source:
-    meta:
-      description: >-
-        Description of the work
-      valueType: str
-      conversionMethod: derived
-      conversionCode: tt
-    path:
-      - emph:
-          "xml:id": source
-      - bibl
-      - sourceDesc
-    nodeType: file
   sourceLink:
     meta:
       description: >-
@@ -141,10 +126,11 @@ extra:
       conversionMethod: derived
       conversionCode: tt
     path:
-      - emph:
-          "xml:id": medium
-      - bibl
-      - sourceDesc
+      - term:
+          type: medium
+      - keywords
+      - textClass
+      - profileDesc
     nodeType: file
   firstEdition:
     meta:

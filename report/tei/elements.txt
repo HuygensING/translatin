@@ -1,0 +1,107 @@
+Inventory of tags and attributes in the source XML file(s).
+Contains the following sections:
+	Formatting Attributes
+	Keyword Attributes
+	Remaining Attributes and Elements
+
+
+
+Formatting Attributes
+
+	<hi>               rend=         591x bold
+	                          "                   7193x italic
+	                          "                    367x smallcaps
+	                          "                      9x superscript
+	                          "                     45x underline
+
+Keyword Attributes
+
+	<TEI>              lang=          73x lat
+
+	<div>              type=           1x level1
+
+	<list>             type=          25x unordered
+
+	<term>             type=          73x acts
+	                          "                     73x chorus
+	                          "                     73x diction
+	                          "                     73x genre
+	                          "                     73x medium
+
+	<title>            type=          73x main
+	                          "                     73x sub
+
+Remaining Attributes and Elements
+
+	<TEI>              id=            73x X
+
+	<author>                          73x 
+
+	<back>                            73x 
+
+	<bibl>                            73x 
+
+	<body>                            73x 
+
+	<cell>                           298x 
+
+	<date>                           146x 
+
+	<div>              id=             1x X
+
+	<editor>                          73x 
+
+	<emph>                            73x 
+
+	<fileDesc>                        73x 
+
+	<formula>          notation=       2x TeX
+
+	<front>                           73x 
+
+	<head>                             1x 
+
+	<item>                            74x 
+
+	<keywords>                        73x 
+
+	<lb>                           35269x 
+
+	<name>                           146x 
+
+	<note>                          2512x 
+
+	<p>                            70091x 
+
+	<profileDesc>                     73x 
+
+	<pubPlace>                        73x 
+
+	<publicationStmt>                 73x 
+
+	<publisher>                       73x 
+
+	<quote>                          160x 
+
+	<ref>              target=       283x X
+
+	<resp>                            73x 
+
+	<respStmt>                        73x 
+
+	<row>                            105x 
+	                   role=          65x label
+
+	<sourceDesc>                      73x 
+
+	<table>                           65x 
+
+	<teiHeader>                       73x 
+
+	<text>                            73x 
+
+	<textClass>                       73x 
+
+	<title>                           73x 
+
+	<titleStmt>                       73x 
