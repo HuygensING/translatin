@@ -248,13 +248,12 @@ class TeiFromDocx:
 
         for file in sorted(workFiles):
             realFile = workFiles[file]
-            self.console(f"\t{file} ... ", newline=False)
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
             outFile = f"{TEIXDIR}/{file}.xml"
 
             if fileExists(outFile) and mTime(outFile) > mTime(inFile):
-                self.console("uptodate")
+                # self.console(f"\t{file} :  uptodate")
                 continue
 
             run(
@@ -276,7 +275,9 @@ class TeiFromDocx:
             with open(outFile, mode="w") as fh:
                 fh.write(text)
 
-            self.console("converted")
+            self.console(f"\t{file} : converted")
+
+        self.console(f"{len(workFiles)} files done.")
 
     def teiFromTei(self):
         if self.error:

@@ -61,7 +61,9 @@ TEMPLATE = """\
 </teiHeader>
 <text>
     <front>
-        {front}
+        <div>
+            {front}
+        </div>
     </front>
     <body>
         {main}
