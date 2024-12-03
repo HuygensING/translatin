@@ -19,7 +19,7 @@ TEMPLATE = """\
     <titleStmt>
         <title type="main">{titleExpanded}</title>
         <title type="sub">{titleFull}</title>
-        <author>{author}</author>
+        <author>{name}</author>
         <editor>{editor}</editor>
         <respStmt>
             <resp>transcription</resp>
@@ -36,6 +36,12 @@ TEMPLATE = """\
             Identifier: <name>{work}</name><lb/>
             Short title: <title>{titleShort}</title><lb/>
             Year of first edition: <date>{firstEdition}</date><lb/>
+            Author information:<lb/>
+            Alias: {alias}<lb/>
+            Birth: {birth}, {birthPlace}<lb/>
+            Death: {death}, {deathPlace}<lb/>
+            Floruit: {floruit}, {activity}<lb/>
+            {linkRep}<lb/>
             <emph>{source}</emph><lb/>
             {sourceLinkRep}
         </bibl>
@@ -131,6 +137,9 @@ class Meta:
                 fieldInv[column] = field
                 thisDefault[field] = fieldInfo.default
 
+                if field in {"link", "sourceLink"}:
+                    thisDefault[f"{field}Rep"] = ""
+
             for v, k in fieldInvHead.items():
                 if v not in fieldInv:
                     Process.warn(
@@ -194,12 +203,16 @@ class Meta:
                         )
                         continue
 
+                    link = thisMeta.get("link", None)
+                    linkRep = f"""<ref target="{link}">Link</ref>""" if link else ""
+                    thisMeta["linkRep"] = linkRep
+
                     metadata[kind][authorId] = thisMeta
 
                 elif kind == "work":
                     sourceLink = thisMeta.get("sourceLink", None)
                     sourceLinkRep = (
-                        f"<ref target='{sourceLink}'>See here.</ref>"
+                        f"""<ref target="{sourceLink}">Source link</ref>"""
                         if sourceLink
                         else ""
                     )

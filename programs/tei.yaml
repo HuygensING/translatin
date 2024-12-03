@@ -97,7 +97,7 @@ extra:
   author:
     meta:
       description: >-
-        Author of the work, shortened name
+        Author of the work, full name
       valueType: str
       conversionMethod: derived
       conversionCode: tt
