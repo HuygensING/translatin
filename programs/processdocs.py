@@ -153,12 +153,12 @@ class TeiFromDocx:
 
     def transformWork(self, file, workName):
         if self.error:
-            return
+            return (False, None, None)
 
         Meta = self.Meta
 
         if Meta.error:
-            return
+            return (False, None, None)
 
         with open(f"{TEIXDIR}/{file}") as f:
             text = f.read()
@@ -234,7 +234,7 @@ class TeiFromDocx:
         if partsError:
             self.warn(work=workName, heading=partsMsg)
 
-        return (partsError, partsMsg, text)
+        return (not partsError, partsMsg, text)
 
     def teiFromDocx(self):
         if self.error:
@@ -299,15 +299,13 @@ class TeiFromDocx:
             if not file.endswith(".xml"):
                 continue
 
-            self.console(f"\t{file} ...", newline=False)
-
             workName = file.removesuffix(".xml")
             (workStatus, workMsg, workText) = self.transformWork(file, workName)
 
             with open(f"{TEIDIR}/{workName}.xml", "w") as f:
                 f.write(workText)
 
-            console(f"\r\t{workName:<30} ... {workMsg}", error=workStatus)
+            console(f"\t{workName:<30} ... {workMsg}", error=not workStatus)
 
         self.showWarnings()
 

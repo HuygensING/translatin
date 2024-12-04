@@ -10,4 +10,71 @@ Formatting Attributes
 
 Keyword Attributes
 
+	<TEI>              lang=           1x lat
+
+	<term>             type=           1x acts
+	                          "                      1x chorus
+	                          "                      1x diction
+	                          "                      1x genre
+	                          "                      1x medium
+
+	<title>            type=           1x main
+	                          "                      1x sub
+
 Remaining Attributes and Elements
+
+	<TEI>              id=             1x X
+
+	<author>                           1x 
+
+	<back>                             1x 
+
+	<bibl>                             1x 
+
+	<body>                             1x 
+
+	<date>                             2x 
+
+	<div>                              1x 
+
+	<editor>                           1x 
+
+	<emph>                             1x 
+
+	<fileDesc>                         1x 
+
+	<front>                            1x 
+
+	<keywords>                         1x 
+
+	<lb>                              10x 
+
+	<name>                             2x 
+
+	<p>                             2828x 
+
+	<profileDesc>                      1x 
+
+	<pubPlace>                         1x 
+
+	<publicationStmt>                  1x 
+
+	<publisher>                        1x 
+
+	<ref>              target=       166x X
+
+	<resp>                             1x 
+
+	<respStmt>                         1x 
+
+	<sourceDesc>                       1x 
+
+	<teiHeader>                        1x 
+
+	<text>                             1x 
+
+	<textClass>                        1x 
+
+	<title>                            1x 
+
+	<titleStmt>                        1x 
