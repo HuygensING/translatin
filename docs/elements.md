@@ -11,6 +11,7 @@ Table of contents
 
 | element | attribute | value | amount
 | --- | --- | --- | ---
+| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `italic` | 624
 
 ## Keyword Attributes
 
@@ -43,12 +44,12 @@ Table of contents
 | [keywords](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-keywords.html) |   |  | 1
 | [lb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html) |   |  | 10
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 2
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 2828
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 2420
 | [profileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html) |   |  | 1
 | [pubPlace](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pubPlace.html) |   |  | 1
 | [publicationStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html) |   |  | 1
 | [publisher](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publisher.html) |   |  | 1
-| [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 166
+| [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 2
 | [resp](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-resp.html) |   |  | 1
 | [respStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-respStmt.html) |   |  | 1
 | [sourceDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html) |   |  | 1

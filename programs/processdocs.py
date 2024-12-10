@@ -35,12 +35,15 @@ from processhelpers import (
     TEIDIR,
     REPORT_TRANSDIR,
     REPORT_WARNINGS,
+    REPORT_INFO,
     SECTION_LINE_RE,
     PARTSET,
     normalizeChars,
-    warnLine,
-    sanitizeFileName
+    msgLine,
+    sanitizeFileName,
 )
+
+SPECIAL_REPLACEMENTS = (("""<formula notation="TeX">ë</formula>""", """ë"""),)
 
 
 class TeiFromDocx:
@@ -51,7 +54,9 @@ class TeiFromDocx:
         initTree(REPORT_TRANSDIR, fresh=False)
 
         self.warnings = []
+        self.info = []
         self.rhw = None
+        self.rhi = None
 
         self.Meta = MetaCls(self)
 
@@ -69,18 +74,20 @@ class TeiFromDocx:
         if not silent:
             console(*args, **kwargs)
 
-    def warn(self, work=None, ln=None, line=None, heading=None, summarize=False):
-        rhw = self.rhw
-        warnings = self.warnings
+    def warn(
+        self, work=None, ln=None, line=None, heading=None, summarize=False, serious=True
+    ):
+        rh = self.rhw if serious else self.rhi
+        warnings = self.warnings if serious else self.info
 
         warnings.append((work, ln, line, heading, summarize))
 
-        if rhw:
-            rhw.write(warnLine(work, ln, line, heading))
+        if rh:
+            rh.write(msgLine(work, ln, line, heading))
 
-    def showWarnings(self):
+    def showWarnings(self, serious=True):
         silent = self.silent
-        warnings = self.warnings
+        warnings = self.warnings if serious else self.info
 
         nWarnings = len(warnings)
         limit = 100
@@ -95,26 +102,29 @@ class TeiFromDocx:
                 if i >= limit:
                     continue
 
-                self.console(warnLine(work, ln, line, heading), error=True)
+                self.console(msgLine(work, ln, line, heading), error=serious)
                 i += 1
 
         nSummarized = len(summarized)
 
         if nSummarized:
-            self.console("", error=True)
+            self.console("", error=serious)
 
             for heading, n in sorted(summarized.items(), key=lambda x: (-x[1], x[0])):
-                self.console(f"{n:>5} {'x':<6} {heading}", error=True)
+                self.console(f"{n:>5} {'x':<6} {heading}", error=serious)
 
-            self.console("See warnings.txt", error=True)
+            wFile = REPORT_WARNINGS if serious else REPORT_INFO
+            self.console(f"See {wFile}", error=serious)
 
         if silent:
             if nWarnings:
-                console(f"\tThere were {nWarnings} warnings.", error=True)
+                console(f"\tThere were {nWarnings} warnings.", error=serious)
         else:
             if nWarnings:
-                self.console("", error=nWarnings > 0)
-            console(f"{nWarnings} warnings", error=nWarnings > 0)
+                self.console("", error=serious)
+            label = "warning" if serious else "informational message"
+            plural = "" if nWarnings == 1 else "s"
+            console(f"{nWarnings} {label}{plural}", error=serious)
 
         warnings.clear()
 
@@ -151,7 +161,7 @@ class TeiFromDocx:
         )
         self.workFiles = goodWorkFiles
 
-    def transformWork(self, file, workName):
+    def transformWork(self, workName):
         if self.error:
             return (False, None, None)
 
@@ -160,8 +170,20 @@ class TeiFromDocx:
         if Meta.error:
             return (False, None, None)
 
-        with open(f"{TEIXDIR}/{file}") as f:
+        with open(f"{TEIXDIR}/{workName}.xml") as f:
             text = f.read()
+
+        replacementLog = self.replacementLog
+
+        for orig, repl in SPECIAL_REPLACEMENTS:
+            n = text.count(orig)
+
+            replRep = f"«{orig} → {repl}»"
+
+            if n != 0:
+                text = text.replace(orig, repl)
+
+            replacementLog[replRep] += n
 
         textLines = text.split("\n")
 
@@ -288,29 +310,40 @@ class TeiFromDocx:
         extraLog = {}
         self.extraLog = extraLog
 
+        replacementLog = collections.Counter()
+        self.replacementLog = replacementLog
+
         self.rhw = open(REPORT_WARNINGS, mode="w")
+        self.rhi = open(REPORT_INFO, mode="w")
 
         console("simple TEI => enriched TEI ...")
 
-        files = dirContents(TEIXDIR)[0]
         initTree(TEIDIR, fresh=True, gentle=True)
+        workFiles = self.workFiles
 
-        for file in sorted(files):
-            if not file.endswith(".xml"):
-                continue
-
-            workName = file.removesuffix(".xml")
-            (workStatus, workMsg, workText) = self.transformWork(file, workName)
+        for workName in sorted(workFiles):
+            (workStatus, workMsg, workText) = self.transformWork(workName)
 
             with open(f"{TEIDIR}/{workName}.xml", "w") as f:
                 f.write(workText)
 
             console(f"\t{workName:<30} ... {workMsg}", error=not workStatus)
 
+        for replRep, n in sorted(replacementLog.items()):
+            self.warn(
+                line=f"{replRep} {n} x applied",
+                heading="special replacement",
+                summarize=True,
+                serious=n == 0,
+            )
+
+        self.showWarnings(serious=False)
         self.showWarnings()
 
         self.rhw.close()
         self.rhw = None
+        self.rhi.close()
+        self.rhi = None
 
     def task(self, *args):
         if self.error:

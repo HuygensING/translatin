@@ -1,19 +1,4 @@
 tei
-	Gnapheus-Acolastus.xml
-		2545:3 fatal The element type "back" must be terminated by the matching end-tag "</back>".
-	Gretser-Timon.xml
-		82:7 fatal The element type "div" must be terminated by the matching end-tag "</div>".
-	Gretser-Underwaldius.xml
-		248:7 fatal The element type "div" must be terminated by the matching end-tag "</div>".
-	Grimald-Christus.xml
-		1746:3 fatal The element type "back" must be terminated by the matching end-tag "</back>".
-	Houthem-Gedeon.xml
-		276:29 error element "formula" not allowed anywhere; expected the element end-tag, text or
-			element "abbr", "bibl", "camera", "caption", "castList", "cb", "country",
-			"date", "ellipsis", "emph", "gap", "hi", "l", "label", "lb", "lg", "list",
-			"listPerson", "milestone", "move", "name", "note", "noteGrp", "num",
-			"orgName", "pb", "persName", "placeName", "ptr", "q", "quote", "ref", "rs",
-			"sound", "stage", "tech", "term", "title", "unclear", "unit" or "view"
 	Laurimanus-Miles.xml
 		1530:26 error element "formula" not allowed anywhere; expected the element end-tag, text or
 			element "abbr", "bibl", "camera", "caption", "castList", "cb", "country",

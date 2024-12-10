@@ -27,6 +27,7 @@ METADATA_FILE = f"{_METADIR}/work-author.xlsx"
 REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
 REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
 REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
+REPORT_INFO = f"{REPORT_TRANSDIR}/info.txt"
 
 REPORT_TEIDIR = f"{_REPORTDIR}/tei"
 
@@ -81,7 +82,7 @@ PARTS = """
 PARTSET = set(PARTS)
 
 
-def warnLine(work, ln, line, heading):
+def msgLine(work, ln, line, heading):
     workRep = "" if work is None else f"{work:<30}"
     lnRep = "" if ln is None else f"{ln:>5}"
     lineRep = "" if line is None else f" :: {line}"
