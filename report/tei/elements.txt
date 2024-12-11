@@ -8,75 +8,87 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=         624x italic
+	<hi>               rend=        1156x bold
+	                          "                   8973x italic
+	                          "                    543x smallcaps
+	                          "                     20x superscript
+	                          "                    107x underline
 
 Keyword Attributes
 
-	<TEI>              lang=           1x lat
+	<TEI>              lang=         118x lat
 
-	<term>             type=           1x acts
-	                          "                      1x chorus
-	                          "                      1x diction
-	                          "                      1x genre
-	                          "                      1x medium
+	<list>             type=          25x unordered
 
-	<title>            type=           1x main
-	                          "                      1x sub
+	<term>             type=         118x acts
+	                          "                    118x chorus
+	                          "                    118x diction
+	                          "                    118x genre
+	                          "                    118x medium
+
+	<title>            type=         118x main
+	                          "                    118x sub
 
 Remaining Attributes and Elements
 
-	<TEI>              id=             1x X
+	<TEI>              id=           118x X
 
-	<author>                           1x 
+	<author>                         118x 
 
-	<back>                             1x 
+	<back>                           118x 
 
-	<bibl>                             1x 
+	<bibl>                           118x 
 
-	<body>                             1x 
+	<body>                           118x 
 
-	<date>                             2x 
+	<date>                           236x 
 
-	<div>                              1x 
+	<div>                            118x 
 
-	<editor>                           1x 
+	<editor>                         118x 
 
-	<emph>                             1x 
+	<emph>                           118x 
 
-	<fileDesc>                         1x 
+	<fileDesc>                       118x 
 
-	<front>                            1x 
+	<front>                          118x 
 
-	<keywords>                         1x 
+	<item>                            74x 
 
-	<lb>                              10x 
+	<keywords>                       118x 
 
-	<name>                             2x 
+	<lb>                           70112x 
 
-	<p>                             2420x 
+	<name>                           236x 
 
-	<profileDesc>                      1x 
+	<note>                          3109x 
 
-	<pubPlace>                         1x 
+	<p>                            123842x 
 
-	<publicationStmt>                  1x 
+	<profileDesc>                    118x 
 
-	<publisher>                        1x 
+	<pubPlace>                       118x 
 
-	<ref>              target=         2x X
+	<publicationStmt>                118x 
 
-	<resp>                             1x 
+	<publisher>                      118x 
 
-	<respStmt>                         1x 
+	<quote>                          219x 
 
-	<sourceDesc>                       1x 
+	<ref>              target=       661x X
 
-	<teiHeader>                        1x 
+	<resp>                           118x 
 
-	<text>                             1x 
+	<respStmt>                       118x 
 
-	<textClass>                        1x 
+	<sourceDesc>                     118x 
 
-	<title>                            1x 
+	<teiHeader>                      118x 
 
-	<titleStmt>                        1x 
+	<text>                           118x 
+
+	<textClass>                      118x 
+
+	<title>                          118x 
+
+	<titleStmt>                      118x 

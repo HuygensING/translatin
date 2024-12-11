@@ -43,7 +43,11 @@ from processhelpers import (
     sanitizeFileName,
 )
 
-SPECIAL_REPLACEMENTS = (("""<formula notation="TeX">ë</formula>""", """ë"""),)
+SPECIAL_REPLACEMENTS = (
+    ("""<formula notation="TeX">ë</formula>""", """ë"""),
+    ("""<formula notation="TeX">î</formula>""", """î"""),
+    ("""<formula notation="TeX">˂</formula>""", ""),
+)
 
 
 class TeiFromDocx:
@@ -124,7 +128,7 @@ class TeiFromDocx:
                 self.console("", error=serious)
             label = "warning" if serious else "informational message"
             plural = "" if nWarnings == 1 else "s"
-            console(f"{nWarnings} {label}{plural}", error=serious)
+            console(f"{nWarnings} {label}{plural}", error=serious and nWarnings > 0)
 
         warnings.clear()
 
