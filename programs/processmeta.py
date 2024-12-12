@@ -181,7 +181,7 @@ class Meta:
                     value = cell.value or thisDefault[field]
 
                     if fieldInfo.tp == "str":
-                        value = htmlEsc(str(value).strip())
+                        value = htmlEsc(str(value).strip()) if value else None
 
                     thisMeta[field] = value
 

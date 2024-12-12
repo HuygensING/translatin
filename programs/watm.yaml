@@ -1,0 +1,11 @@
+textRepoLevel: 1
+excludeElements:
+  - pb
+  - lb
+  - chunk
+  - entity
+excludeFeatures:
+  - eoccs
+asTsv: true
+hyphenation:
+  lineType: ln

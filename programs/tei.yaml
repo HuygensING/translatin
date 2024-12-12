@@ -42,7 +42,7 @@ extra:
       - editor
       - titleStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   transcribers:
     meta:
       description: >-
@@ -55,7 +55,7 @@ extra:
       - respStmt
       - titleStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   titleShort:
     meta:
       description: >-
@@ -67,7 +67,7 @@ extra:
       - title
       - bibl
       - sourceDesc
-    nodeType: file
+    nodeType: work
   titleExpanded:
     meta:
       description: >-
@@ -80,7 +80,7 @@ extra:
           type: main
       - titleStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   titleFull:
     meta:
       description: >-
@@ -93,7 +93,7 @@ extra:
           type: sub
       - titleStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   author:
     meta:
       description: >-
@@ -105,7 +105,7 @@ extra:
       - author
       - titleStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   sourceLink:
     meta:
       description: >-
@@ -117,7 +117,7 @@ extra:
       - ref
       - bibl
       - sourceDesc
-    nodeType: file
+    nodeType: work
   medium:
     meta:
       description: >-
@@ -131,31 +131,31 @@ extra:
       - keywords
       - textClass
       - profileDesc
-    nodeType: file
+    nodeType: work
   firstEdition:
     meta:
       description: >-
         Year of first edition of the work
-      valueType: int
+      valueType: str
       conversionMethod: derived
       conversionCode: tt
     path:
       - date
       - bibl
       - sourceDesc
-    nodeType: file
+    nodeType: work
   pubYear:
     meta:
       description: >-
         Year of publication of the edition
-      valueType: int
+      valueType: str
       conversionMethod: derived
       conversionCode: tt
     path:
-      - date@when
+      - date
       - publicationStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   pubPlace:
     meta:
       description: >-
@@ -167,7 +167,7 @@ extra:
       - pubPlace
       - publicationStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   publisher:
     meta:
       description: >-
@@ -179,7 +179,7 @@ extra:
       - publisher
       - publicationStmt
       - fileDesc
-    nodeType: file
+    nodeType: work
   diction:
     meta:
       description: >-
@@ -193,7 +193,7 @@ extra:
       - keywords
       - textClass
       - profileDesc
-    nodeType: file
+    nodeType: work
   genre:
     meta:
       description: >-
@@ -207,7 +207,7 @@ extra:
       - keywords
       - textClass
       - profileDesc
-    nodeType: file
+    nodeType: work
   acts:
     meta:
       description: >-
@@ -221,7 +221,7 @@ extra:
       - keywords
       - textClass
       - profileDesc
-    nodeType: file
+    nodeType: work
   chorus:
     meta:
       description: >-
@@ -235,6 +235,6 @@ extra:
       - keywords
       - textClass
       - profileDesc
-    nodeType: file
+    nodeType: work
 
 
