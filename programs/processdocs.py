@@ -17,6 +17,7 @@ Where task is:
 
 """
 
+import re
 import collections
 from subprocess import run
 
@@ -25,6 +26,7 @@ from tf.core.files import (
     initTree,
     mTime,
     fileExists,
+    writeYaml,
 )
 from tf.core.helpers import console
 
@@ -36,6 +38,8 @@ from processhelpers import (
     REPORT_TRANSDIR,
     REPORT_WARNINGS,
     REPORT_INFO,
+    REPORT_NONSECTIONS,
+    REPORT_SECTIONS,
     SECTION_LINE_RE,
     PARTSET,
     normalizeChars,
@@ -48,6 +52,272 @@ SPECIAL_REPLACEMENTS = (
     ("""<formula notation="TeX">î</formula>""", """î"""),
     ("""<formula notation="TeX">˂</formula>""", ""),
 )
+
+
+ACT_LINE_RE = re.compile(
+    r"""
+    ^
+    \s*
+    <p[^>]*>
+    \s*
+    (\w+)
+    (?:
+        \s+
+        (\w+)
+        \W*?
+    )?
+    </p>
+    \s*
+    $
+""",
+    re.M | re.X,
+)
+
+
+SECTION_TRIGGERS_DEF = dict(
+    actores="actores",
+    actorum="actorum",
+    actus="actus",
+    argumentum="argumentum",
+    chori="chorus",
+    chorus="chorus",
+    codices="codices",
+    comoedia="comoedia",
+    comoediae="comoediae",
+    conclusio="conclusio",
+    dramatis="dramatis",
+    epitasis="epitasis",
+    epilogus="epilogus",
+    fabula="fabula",
+    finis="finis",
+    i="i",
+    incipit="incipit",
+    interlocutores="interlocutores",
+    interloquutores="interlocutores",
+    ludionum="ludionum",
+    pars="pars",
+    peroratio="peroratio",
+    personae="personae",
+    prima="prima",
+    prologus="prologus",
+    protasis="protasis",
+    scaena="scaena",
+    scena="scena",
+    strophe="strophe",
+    tragoidia="tragoedia",
+)
+
+SECTION_TRIGGERS = SECTION_TRIGGERS_DEF | {
+    k.replace("u", "v"): v for (k, v) in SECTION_TRIGGERS_DEF.items()
+}
+
+NAMES_DEF = set(
+    r"""
+    acolastus
+    aluta
+    amor
+    andrisca
+    anna
+    anima
+    angeli
+    angelus
+    asmodaeus
+    buccartius
+    byrsocopus
+    christus
+    cognitio
+    colax
+    cometa
+    cupido
+    dudelaeus
+    ecclesia
+    euripus
+    explorator
+    fides
+    genovefam
+    georgus
+    gustavus
+    hecastus
+    henricus
+    herodes
+    homulus
+    iesuah
+    ioseph
+    iosephus
+    luce
+    magi
+    maria
+    matres
+    megadorus
+    miles
+    mors
+    morosophus
+    nauta
+    nehemias
+    nomocrates
+    numina
+    nuncius
+    nuntius
+    octonarii
+    pedantius
+    pestis
+    ponus
+    primus
+    princeps
+    puella
+    raphael
+    religio
+    sanguine
+    sara
+    sathanas
+    secundus
+    senarii
+    senarij
+    senex
+    simus
+    tempus
+    tertia
+    tertius
+    timor
+    tobias
+    tristia
+    venus
+    virginum
+    """.strip().split()
+)
+
+NAMES = NAMES_DEF | {k.replace("u", "v") for k in NAMES_DEF}
+
+NONSECTION_WORDS_DEF = set(
+    r"""
+    a
+    aa
+    ab
+    abite
+    ad
+    age
+    apostolorum
+    at
+    b
+    bene
+    c
+    capta
+    carmine
+    consuetudine
+    credere
+    cum
+    cuncta
+    d
+    de
+    destrues
+    desydero
+    dilectionis
+    dimetri
+    duo
+    effare
+    e
+    eiusdem
+    en
+    equidem
+    ergo
+    esse
+    est
+    et
+    etiam
+    ex
+    exhauriendus
+    f
+    fac
+    fortiter
+    g
+    gaudia
+    h
+    hei
+    hoc
+    iambici
+    iambico
+    iambicum
+    imò
+    in
+    ita
+    itáne
+    k
+    l
+    laudate
+    laus
+    licet
+    m
+    me
+    mea
+    mihi
+    miserare
+    more
+    mortis
+    n
+    ne
+    nell
+    nihil
+    nobis
+    nomen
+    non
+    nos
+    nunc
+    nunquid
+    o
+    omnes
+    omnia
+    omnibus
+    ordine
+    p
+    pectora
+    pectore
+    proh
+    puer
+    pulvere
+    q
+    quando
+    quem
+    qui
+    quid
+    quis
+    quî
+    quod
+    r
+    regemque
+    s
+    satis
+    sed
+    serenitate
+    sic
+    sine
+    solus
+    sunt
+    t
+    tantisper
+    ubi
+    ut
+    te
+    tetrametri
+    trimetri
+    trochaici
+    tum
+    v
+    vel
+    vere
+    versu
+    versus
+    vis
+    x
+    y
+    z
+    """.strip().split()
+)
+
+NONSECTION_WORDS = NONSECTION_WORDS_DEF | {
+    k.replace("u", "v") for k in NONSECTION_WORDS_DEF
+}
+
+NONSECTION = NAMES | NONSECTION_WORDS
 
 
 class TeiFromDocx:
@@ -63,8 +333,8 @@ class TeiFromDocx:
         self.rhi = None
 
         self.Meta = MetaCls(self)
-
         self.getInventory()
+        self.analysis = {}
 
     def console(self, *args, **kwargs):
         """Print something to the output.
@@ -165,6 +435,28 @@ class TeiFromDocx:
         )
         self.workFiles = goodWorkFiles
 
+    def getActs(self, workName, textLines):
+        """Analyse the section structure of a work."""
+        analysis = self.analysis
+        sectionCount = self.sectionCount
+        sections = analysis.setdefault(workName, {}).setdefault("sections", [])
+        pseudoSections = analysis[workName].setdefault("pseudoSections", [])
+
+        for line in textLines:
+            match = ACT_LINE_RE.match(line)
+
+            if match:
+                (kind, number) = match.group(1, 2)
+
+                kindl = kind.lower()
+
+                if kindl in SECTION_TRIGGERS:
+                    sections.append((SECTION_TRIGGERS[kindl], (number or "").lower()))
+                    sectionCount[kindl] += 1
+                else:
+                    pseudoSections.append((kind, number))
+                    sectionCount[kind] += 1
+
     def transformWork(self, workName):
         if self.error:
             return (False, None, None)
@@ -243,6 +535,8 @@ class TeiFromDocx:
 
             if dest is not None:
                 newTextLines[dest].append(line)
+
+        self.getActs(workName, newTextLines.get("main", []))
 
         material = {
             part: "\n".join(newTextLines[part]) or "<p></p>" for part in PARTSET
@@ -325,6 +619,9 @@ class TeiFromDocx:
         initTree(TEIDIR, fresh=True, gentle=True)
         workFiles = self.workFiles
 
+        self.analysis = {}
+        self.sectionCount = collections.Counter()
+
         for workName in sorted(workFiles):
             (workStatus, workMsg, workText) = self.transformWork(workName)
 
@@ -340,6 +637,44 @@ class TeiFromDocx:
                 summarize=True,
                 serious=n == 0,
             )
+
+        analysis = self.analysis
+        sectionCount = self.sectionCount
+
+        actInfo = {}
+        pseudoActInfo = {}
+
+        for workName in sorted(workFiles):
+            sections = analysis.get(workName, {}).get("sections", [])
+
+            items = []
+
+            for kind, number in sections:
+                cnt = sectionCount[kind]
+                items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
+
+            actInfo[workName] = items
+
+            pseudoSections = analysis.get(workName, {}).get("pseudoSections", [])
+
+            if len(pseudoSections):
+                items = []
+
+                for kind, number in pseudoSections:
+                    cnt = sectionCount[kind]
+
+                    if kind.isdigit() or kind.lower() in NONSECTION or cnt == 1:
+                        continue
+
+                    items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
+
+                pseudoActInfo[workName] = items
+
+        writeYaml(pseudoActInfo, asFile=REPORT_NONSECTIONS)
+        self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
+
+        writeYaml(actInfo, asFile=REPORT_SECTIONS)
+        self.console(f"See for sections: {REPORT_SECTIONS}")
 
         self.showWarnings(serious=False)
         self.showWarnings()

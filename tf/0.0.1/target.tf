@@ -16,7 +16,7 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-12T14:20:54+00:00Z
+@dateWritten=2024-12-16T09:16:12+00:00Z
 
 2031685	https://en.wikipedia.org/wiki/Leon_Battista_Alberti
 https://books.google.nl/books?id=CApZAAAAYAAJ

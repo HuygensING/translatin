@@ -26,6 +26,8 @@ METADATA_FILE = f"{_METADIR}/work-author.xlsx"
 
 REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
 REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
+REPORT_SECTIONS = f"{REPORT_TRANSDIR}/sections.yml"
+REPORT_NONSECTIONS = f"{REPORT_TRANSDIR}/sections-non.yml"
 REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
 REPORT_INFO = f"{REPORT_TRANSDIR}/info.txt"
 
