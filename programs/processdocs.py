@@ -54,25 +54,45 @@ SPECIAL_REPLACEMENTS = (
 )
 
 
-ACT_LINE_RE = re.compile(
+SECTIONTRIGGER_RE = re.compile(
     r"""
-    ^
-    \s*
     <p[^>]*>
     \s*
+    (?:
+        (?:
+            \[
+            [0-9]+
+            \]
+            \s*
+        )
+        |
+        (?:
+            <note>
+            .*?
+            </note>
+            \s*
+        )
+    )*+
     (\w+)
+    \.?
     (?:
         \s+
         (\w+)
-        \W*?
     )?
+    .*?
     </p>
     \s*
-    $
 """,
-    re.M | re.X,
+    re.S | re.X,
 )
 
+"""
+NUMBER FORMATS
+(1) (2)
+[1] [2]
+<B 5v> <B 6r>
+
+"""
 
 SECTION_TRIGGERS_DEF = dict(
     actores="actores",
@@ -435,27 +455,24 @@ class TeiFromDocx:
         )
         self.workFiles = goodWorkFiles
 
-    def getActs(self, workName, textLines):
+    def sectionTriggers(self, workName, material):
         """Analyse the section structure of a work."""
         analysis = self.analysis
         sectionCount = self.sectionCount
         sections = analysis.setdefault(workName, {}).setdefault("sections", [])
         pseudoSections = analysis[workName].setdefault("pseudoSections", [])
 
-        for line in textLines:
-            match = ACT_LINE_RE.match(line)
+        matches = SECTIONTRIGGER_RE.findall(material)
 
-            if match:
-                (kind, number) = match.group(1, 2)
+        for (kind, number) in matches:
+            kindl = kind.lower()
 
-                kindl = kind.lower()
-
-                if kindl in SECTION_TRIGGERS:
-                    sections.append((SECTION_TRIGGERS[kindl], (number or "").lower()))
-                    sectionCount[kindl] += 1
-                else:
-                    pseudoSections.append((kind, number))
-                    sectionCount[kind] += 1
+            if kindl in SECTION_TRIGGERS:
+                sections.append((SECTION_TRIGGERS[kindl], (number or "").lower()))
+                sectionCount[kindl] += 1
+            else:
+                pseudoSections.append((kind, number))
+                sectionCount[kind] += 1
 
     def transformWork(self, workName):
         if self.error:
@@ -536,11 +553,11 @@ class TeiFromDocx:
             if dest is not None:
                 newTextLines[dest].append(line)
 
-        self.getActs(workName, newTextLines.get("main", []))
-
         material = {
             part: "\n".join(newTextLines[part]) or "<p></p>" for part in PARTSET
         }
+
+        self.sectionTriggers(workName, material.get("main", ""))
 
         text = Meta.fillTemplate(workName, **material)
 
