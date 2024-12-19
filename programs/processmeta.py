@@ -2,6 +2,7 @@ from openpyxl import load_workbook
 
 from tf.core.helpers import console, htmlEsc
 from tf.core.files import readYaml
+from tf.ner.helpers import toAscii
 
 from processhelpers import METADATA_YML, METADATA_FILE
 
@@ -222,7 +223,7 @@ class Meta:
 
                     author = thisMeta["author"] or "Unknown"
                     title = thisMeta["titleShort"]
-                    work = f"{author}-{title}"
+                    work = toAscii(f"{author}-{title}")
 
                     if author != "Unknown" and author not in metadata["author"]:
                         Process.warn(

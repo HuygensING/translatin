@@ -1,6 +1,9 @@
 import re
 
 from tf.core.files import expanduser
+from tf.ner.helpers import toAscii
+
+from workspecific import WorkSpecific
 
 ORG = "HuygensING"
 REPO = "translatin"
@@ -17,7 +20,9 @@ _METADIR = f"{_DATADIR}/metadata"
 METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
-TEIXDIR = f"{_TRANSDIR}/teiSimple"
+MD_RAWDIR = f"{_TRANSDIR}/mdRaw"
+MD_PRISDIR = f"{_TRANSDIR}/mdPristine"
+MDDIR = f"{_TRANSDIR}/md"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _DATADIR
 TEIDIR = f"{SOURCEBASE}/tei"
@@ -52,7 +57,7 @@ def sanitizeFileName(fName):
         return None
 
     (auth, work) = match.group(1, 2)
-    return f"{auth}-{work}"
+    return toAscii(f"{auth}-{work}")
 
 
 SECTION_LINE_RE = re.compile(
@@ -72,7 +77,8 @@ SECTION_LINE_RE = re.compile(
     </p>
     \s*
     $
-    """, re.M | re.X
+    """,
+    re.M | re.X,
 )
 
 PARTS = """
@@ -82,6 +88,101 @@ PARTS = """
 """.strip().split()
 
 PARTSET = set(PARTS)
+
+LINENUMBER_RE = re.compile(
+    r"""
+    ^
+    (
+        (?:
+            (?:
+                \w+\.
+                |
+                ,,
+                |
+                \*
+            )
+            \s*
+        )?
+    )
+    \\?\(
+    (
+        [0-9]+
+        [A-Za-z]?
+    )
+    \\?\)
+    \s*
+    (?=\S)
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_AFTER_RE = re.compile(
+    r"""
+    ^
+    (.*)
+    \s+
+    \(
+    (
+        [0-9]+
+        [A-Za-z]?
+    )
+    \)
+    \s*
+    $
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_BARE_RE = re.compile(
+    r"""
+    ^
+    (
+        .*
+        [a-z]
+        .*
+    )
+    \s+
+    (
+        [0-9]+
+    )
+    $
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_BARE_BEFORE_RE = re.compile(
+    r"""
+    ^
+    (
+        [0-9]+
+    )
+    \s+
+    (
+        .*
+        [a-z]
+        .*
+    )
+    $
+    """,
+    re.M | re.X,
+)
+
+SMALLCAPS_RE = re.compile(
+    r"""
+    (?<!\\)
+    \[
+        (
+            (?:
+                (?:\\[\[\]])
+                |
+                [^\]]+
+            )++
+        )
+    \]
+    \{\.smallcaps\}
+    """,
+    re.X | re.S,
+)
 
 
 def msgLine(work, ln, line, heading):
@@ -93,3 +194,32 @@ def msgLine(work, ln, line, heading):
     sep2 = " " if (workRep or lnRep) and (headingRep or lineRep) else ""
 
     return f"{workRep}{sep1}{lnRep}{sep2}{headingRep}{lineRep}\n"
+
+
+def cleanup(text, workName):
+    text = normalizeChars(text)
+
+    text = text.replace("\\\n", "\n\n")
+    text = text.replace("\n> ", "\n")
+    text = SMALLCAPS_RE.sub(r"\1", text)
+
+    workMethod = workName.replace("-", "_")
+
+    method = getattr(WorkSpecific, workMethod, None)
+    msg = "specific"
+
+    if method is None:
+        msg = "handled in a generic way"
+        method = WorkSpecific.identity
+
+    text = method(text)
+
+    (pre, rest) = text.split("/front/", 1)
+    (front, rest) = rest.split("/main/", 1)
+    (main, back) = rest.split("/back/", 1)
+
+    main = LINENUMBER_RE.sub(r"\1«\2» ", main)
+    main = LINENUMBER_AFTER_RE.sub(r"«\2» \1\n", main)
+    main = LINENUMBER_BARE_RE.sub(r"«\2» \1\n", main)
+    main = LINENUMBER_BARE_BEFORE_RE.sub(r"«\1» \2", main)
+    return (msg, f"{pre}/front/{front}/main/{main}/back/{back}")

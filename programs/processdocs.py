@@ -11,7 +11,7 @@ Program
 
 Where task is:
 
-*   `pandoc`: convert docx files to tei simple files
+*   `markdown`: convert docx files to markdown files
 *   `tei`: convert tei simple files to proper tei files
 *   `all`: perform the previous steps in that order
 
@@ -33,7 +33,9 @@ from tf.core.helpers import console
 from processmeta import Meta as MetaCls
 from processhelpers import (
     DOCXDIR,
-    TEIXDIR,
+    MD_RAWDIR,
+    MD_PRISDIR,
+    MDDIR,
     TEIDIR,
     REPORT_TRANSDIR,
     REPORT_WARNINGS,
@@ -42,7 +44,7 @@ from processhelpers import (
     REPORT_SECTIONS,
     SECTION_LINE_RE,
     PARTSET,
-    normalizeChars,
+    cleanup,
     msgLine,
     sanitizeFileName,
 )
@@ -483,7 +485,7 @@ class TeiFromDocx:
         if Meta.error:
             return (False, None, None)
 
-        with open(f"{TEIXDIR}/{workName}.xml") as f:
+        with open(f"{MDDIR}/{workName}.md") as f:
             text = f.read()
 
         replacementLog = self.replacementLog
@@ -573,50 +575,58 @@ class TeiFromDocx:
 
         return (not partsError, partsMsg, text)
 
-    def teiFromDocx(self):
+    def mdFromDocx(self, forceClean=False):
         if self.error:
             return
 
-        console("DOCX => simple TEI per work ...")
+        console("DOCX => Markdown per work ...")
 
         workFiles = self.workFiles
 
-        initTree(TEIXDIR, fresh=False)
+        initTree(MD_RAWDIR, fresh=False)
+        initTree(MD_PRISDIR, fresh=False)
 
         for file in sorted(workFiles):
             realFile = workFiles[file]
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
-            outFile = f"{TEIXDIR}/{file}.xml"
+            rawFile = f"{MD_RAWDIR}/{file}.md"
+            cleanFile = f"{MD_PRISDIR}/{file}.md"
 
-            if fileExists(outFile) and mTime(outFile) > mTime(inFile):
-                # self.console(f"\t{file} :  uptodate")
-                continue
+            rawUptodate = fileExists(rawFile) and mTime(rawFile) > mTime(inFile)
 
-            run(
-                [
-                    "pandoc",
-                    inFile,
-                    "-f",
-                    "docx",
-                    "-t",
-                    "tei",
-                    "-s",
-                    "-o",
-                    outFile,
-                ]
-            )
-            with open(outFile) as fh:
-                text = normalizeChars(fh.read())
+            convMessage = []
 
-            with open(outFile, mode="w") as fh:
-                fh.write(text)
+            if not rawUptodate:
+                run(
+                    [
+                        "pandoc",
+                        inFile,
+                        "--from=docx",
+                        "--to=markdown",
+                        "--standalone",
+                        f"--output={rawFile}",
+                    ]
+                )
+                convMessage.append("pandoc")
 
-            self.console(f"\t{file} : converted")
+            cleanUptodate = fileExists(cleanFile) and mTime(cleanFile) > mTime(rawFile)
+
+            if forceClean or not cleanUptodate:
+                with open(rawFile) as fh:
+                    msg, text = cleanup(fh.read(), file)
+
+                with open(cleanFile, mode="w") as fh:
+                    fh.write(text)
+
+                convMessage.extend(["clean", msg])
+
+            if len(convMessage):
+                self.console(f"\t{file} : {' '.join(convMessage)}")
 
         self.console(f"{len(workFiles)} files done.")
 
-    def teiFromTei(self):
+    def teiFromMd(self):
         if self.error:
             return
 
@@ -701,12 +711,12 @@ class TeiFromDocx:
         self.rhi.close()
         self.rhi = None
 
-    def task(self, *args):
+    def task(self, *args, **kwargs):
         if self.error:
             return
 
         tasks = dict(
-            pandoc=False,
+            markdown=False,
             tei=False,
         )
 
@@ -734,7 +744,8 @@ class TeiFromDocx:
             if not do:
                 continue
 
-            if task == "pandoc":
-                self.teiFromDocx()
+            if task == "markdown":
+                mykwargs = {k: v for (k, v) in kwargs.items() if k in {"forceClean"}}
+                self.mdFromDocx(**mykwargs)
             elif task == "tei":
-                self.teiFromTei()
+                self.teiFromMd()
