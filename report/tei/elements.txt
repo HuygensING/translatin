@@ -8,17 +8,25 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=        1156x bold
-	                          "                   8973x italic
-	                          "                    543x smallcaps
-	                          "                     20x superscript
-	                          "                    107x underline
+	<hi>               rend=        1155x bold
+	                          "                   3109x footnote
+	                          "                   8880x italic
+	                          "                     19x superscript
+	                          "                    105x underline
 
 Keyword Attributes
 
 	<TEI>              lang=         118x lat
 
-	<list>             type=          25x unordered
+	<div>              type=        3101x level1
+	                          "                    118x notes
+
+	<list>             type=         130x ordered:arabic
+	                          "                      2x ordered:loweralpha
+	                          "                      5x ordered:lowerroman
+	                          "                     15x ordered:upperalpha
+	                          "                     79x ordered:upperroman
+	                          "                     35x unordered
 
 	<term>             type=         118x acts
 	                          "                    118x chorus
@@ -35,15 +43,13 @@ Remaining Attributes and Elements
 
 	<author>                         118x 
 
-	<back>                           118x 
-
 	<bibl>                           118x 
 
 	<body>                           118x 
 
 	<date>                           236x 
 
-	<div>                            118x 
+	<div>              id=          3101x X
 
 	<editor>                         118x 
 
@@ -51,21 +57,33 @@ Remaining Attributes and Elements
 
 	<fileDesc>                       118x 
 
-	<front>                          118x 
+	<head>                          3101x 
 
-	<item>                            74x 
+	<item>                            99x 
+	                   n=             61x N
+	                          "                    120x NN
+	                          "                     38x NNN
+	                          "                      6x NNNN
 
 	<keywords>                       118x 
 
-	<lb>                           70112x 
+	<lb>                            1181x 
 
 	<name>                           236x 
 
-	<note>                          3109x 
+	<note>             id=          3109x X
 
-	<p>                            123842x 
+	<p>                            189518x 
+
+	<pb>               n=             10x N
+	                          "                    102x NN
 
 	<profileDesc>                    118x 
+
+	<ptr>              n=            290x N
+	                          "                   2035x NN
+	                          "                    784x NNN
+	                   target=      3109x X
 
 	<pubPlace>                       118x 
 
@@ -73,7 +91,7 @@ Remaining Attributes and Elements
 
 	<publisher>                      118x 
 
-	<quote>                          219x 
+	<quote>                           71x 
 
 	<ref>              target=       661x X
 

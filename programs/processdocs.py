@@ -11,8 +11,7 @@ Program
 
 Where task is:
 
-*   `markdown`: convert docx files to markdown files
-*   `tei`: convert tei simple files to proper tei files
+*   `convert`: convert docx files to tei files
 *   `all`: perform the previous steps in that order
 
 """
@@ -33,105 +32,163 @@ from tf.core.helpers import console
 from processmeta import Meta as MetaCls
 from processhelpers import (
     DOCXDIR,
-    MD_RAWDIR,
-    MD_PRISDIR,
-    MDDIR,
+    MD_ORIGDIR,
+    MD_REPAIREDDIR,
+    TEIXDIR,
     TEIDIR,
     REPORT_TRANSDIR,
     REPORT_WARNINGS,
     REPORT_INFO,
+    REPORT_LINES,
+    REPORT_PAGES,
     REPORT_NONSECTIONS,
     REPORT_SECTIONS,
-    SECTION_LINE_RE,
-    PARTSET,
-    cleanup,
     msgLine,
     sanitizeFileName,
+    normalizeChars,
+    wrapParas,
 )
 
-SPECIAL_REPLACEMENTS = (
-    ("""<formula notation="TeX">ë</formula>""", """ë"""),
-    ("""<formula notation="TeX">î</formula>""", """î"""),
-    ("""<formula notation="TeX">˂</formula>""", ""),
-)
-
+from workspecific import WorkSpecific
 
 SECTIONTRIGGER_RE = re.compile(
     r"""
-    <p[^>]*>
-    \s*
+    (?<=\n\n)
     (?:
-        (?:
-            \[
-            [0-9]+
-            \]
-            \s*
-        )
+        \\<
         |
-        (?:
-            <note>
-            .*?
-            </note>
-            \s*
-        )
-    )*+
-    (\w+)
-    \.?
-    (?:
-        \s+
-        (\w+)
+        \*\*
     )?
-    .*?
-    </p>
-    \s*
+    [\ ]?
+    (
+        (?:
+            (?:
+                ≤
+                (?: page | folio | line )
+                [\ ]
+                [0-9ivxlc]+
+                ≥
+                [\ ]?
+            )
+            |
+            (?:
+                \[\^
+                [0-9]+
+                \]
+            )
+        )*+
+    )
+    (\w+)
+    (
+        [.,:]?
+        (?:
+            [\ ]?
+            (\w+)
+        )?
+        ([^\n]*?)
+    )
+    (?:
+        \\>
+        |
+        \*\*
+    )?
+    (?=\n\n)
 """,
     re.S | re.X,
 )
 
-"""
-NUMBER FORMATS
-(1) (2)
-[1] [2]
-<B 5v> <B 6r>
-
-"""
-
-SECTION_TRIGGERS_DEF = dict(
-    actores="actores",
-    actorum="actorum",
-    actus="actus",
-    argumentum="argumentum",
-    chori="chorus",
-    chorus="chorus",
-    codices="codices",
-    comoedia="comoedia",
-    comoediae="comoediae",
-    conclusio="conclusio",
-    dramatis="dramatis",
-    epitasis="epitasis",
-    epilogus="epilogus",
-    fabula="fabula",
-    finis="finis",
-    i="i",
-    incipit="incipit",
-    interlocutores="interlocutores",
-    interloquutores="interlocutores",
-    ludionum="ludionum",
-    pars="pars",
-    peroratio="peroratio",
-    personae="personae",
-    prima="prima",
-    prologus="prologus",
-    protasis="protasis",
-    scaena="scaena",
-    scena="scena",
-    strophe="strophe",
-    tragoidia="tragoedia",
+SECTIONTRIGGER_SND_RE = re.compile(
+    r"""
+    ^
+    [.,;]?
+    [\ ]?
+    (\w+)
+    [.,;]?
+    [\ ]
+    (\w+)
+    [.,;]?
+    $
+""",
+    re.X,
 )
 
-SECTION_TRIGGERS = SECTION_TRIGGERS_DEF | {
+SNUM_RE = re.compile(
+    r"""
+    ^
+    (?:
+        [ivxvl0-9]+
+        | prim[a-z]+
+        | sec[uv]nd[a-z]+
+        | terti[a-z]+
+        | q[uv]art[a-z]+
+        | q[uv]int[a-z]+
+        | sext[a-z]+
+        | septim[a-z]+
+        | octav[a-z]+
+        | non[a-z]+
+        | decim[a-z]+
+        | [uv]ndecim[a-z]+
+        | d[uv]odecim[a-z]+
+        | decima\ terti[a-z]+
+        | decima\ quart[a-z]+
+        | decima\ q[uv]int[a-z]+
+    )
+    $
+    """,
+    re.X | re.I,
+)
+
+
+# 1: is section (or caption)
+# 2: needs a number indication
+# 3: needs a trigger as next word
+
+SECTION_TRIGGERS_DEF = dict(
+    actores=(False, False, False, "actores"),
+    actorum=(False, False, False, "actorum"),
+    actus=(True, True, False, "actus"),
+    argumentum=(True, False, False, "argumentum"),
+    chori=(False, False, False, "chorus"),
+    chorus=(False, False, False, "chorus"),
+    chor=(False, False, False, "chorus"),
+    ch=(False, False, False, "chorus"),
+    codices=(False, False, False, "codices"),
+    comoedia=(False, False, False, "comoedia"),
+    comoediae=(False, False, False, "comoediae"),
+    conclusio=(True, False, False, "conclusio"),
+    dramatis=(True, False, False, "dramatis"),
+    epitasis=(False, False, False, "epitasis"),
+    epilogus=(True, False, False, "epilogus"),
+    finis=(False, False, False, "finis"),
+    incipit=(True, False, False, "incipit"),
+    interlocutores=(True, False, False, "interlocutores"),
+    interloquutores=(True, False, False, "interlocutores"),
+    ludionum=(False, False, False, "ludionum"),
+    pars=(True, True, False, "pars"),
+    peroratio=(True, False, False, "peroratio"),
+    personae=(True, False, False, "personae"),
+    prologus=(True, False, False, "prologus"),
+    protasis=(False, False, False, "protasis"),
+    scaena=(True, True, False, "scaena"),
+    scena=(True, True, False, "scena"),
+    strophe=(False, False, False, "strophe"),
+    tragoidia=(False, False, False, "tragoedia"),
+    prima=(True, False, True, "prima"),
+    secunda=(True, False, True, "secunda"),
+    tertia=(True, False, True, "tertia"),
+    quarta=(True, False, True, "quarta"),
+    quinta=(True, False, True, "quinta"),
+    sexta=(True, False, True, "sexta"),
+)
+
+SECTION_TRIGGERS_PROTO = SECTION_TRIGGERS_DEF | {
     k.replace("u", "v"): v for (k, v) in SECTION_TRIGGERS_DEF.items()
 }
+
+SECTION_TRIGGERS = {k: v[-1] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
+SECTION_TRIGGERS_SEC = {k: v[0] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
+SECTION_TRIGGERS_NUM = {k: v[1] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
+SECTION_TRIGGERS_TRIG = {k: v[2] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
 
 NAMES_DEF = set(
     r"""
@@ -341,6 +398,135 @@ NONSECTION_WORDS = NONSECTION_WORDS_DEF | {
 
 NONSECTION = NAMES | NONSECTION_WORDS
 
+LINENUMBER_BEFORE_RE = re.compile(
+    r"""
+    ^
+    (
+        (?:
+            (?:
+                \w+[.,;]
+                |
+                ,,
+                |
+                \*
+            )
+            [\ ]?
+        )?
+    )
+    \\?\(
+    (
+        [0-9]+
+        [A-Za-z]?
+    )
+    \\?\)
+    [\ ]?
+    (?=
+        .*
+        [a-z]
+        .*
+    )
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_AFTER_RE = re.compile(
+    r"""
+    ^
+    (
+        .*
+        [a-z]
+        .*
+    )
+    [\ ]
+    \(
+    (
+        [0-9]+
+        [A-Za-z]?
+    )
+    \)
+    $
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_BARE_BEFORE_RE = re.compile(
+    r"""
+    ^
+    (
+        [0-9]+
+    )
+    [\ ]
+    (
+        .*
+        [a-z]
+        .*
+    )
+    $
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_BARE_AFTER_RE = re.compile(
+    r"""
+    ^
+    (
+        .*
+        [a-z]
+        .*
+    )
+    [\ ]
+    (
+        [0-9]+
+    )
+    $
+    """,
+    re.M | re.X,
+)
+
+LNUM_RE = re.compile(r"""≤line ([0-9]+[A-Za-z]*)≥""")
+PNUM_RE = re.compile(r"""≤page ([0-9]+)≥""")
+FNUM_RE = re.compile(r"""≤folio ([^≥]+)≥""")
+
+NUM_RE = re.compile(r"[≤≥]")
+
+SMALLCAPS_RE = re.compile(
+    r"""
+    (?<!\\)
+    \[
+        (
+            (?:
+                (?:\\[\[\]])
+                |
+                [^\]]+
+            )++
+        )
+    \]
+    \{\.smallcaps\}
+    """,
+    re.X | re.S,
+)
+
+NOTE_RE = re.compile(
+    r"""
+    <note>(.*?)</note>
+    """,
+    re.X | re.S,
+)
+
+FIX_ITALIC_RE = re.compile(
+    r"""
+    \n
+    \*
+    ([^\n]+?)
+    (\\?)
+    \n
+    \*
+    """,
+    re.X | re.S,
+)
+
+SPLIT_PARA_RE = re.compile(r"(?<=[^\n\\])\n(?=[^\n])")
+
 
 class TeiFromDocx:
     def __init__(self, silent=False):
@@ -356,7 +542,9 @@ class TeiFromDocx:
 
         self.Meta = MetaCls(self)
         self.getInventory()
-        self.analysis = {}
+
+        self.showWarnings(serious=False)
+        self.showWarnings()
 
     def console(self, *args, **kwargs):
         """Print something to the output.
@@ -409,8 +597,9 @@ class TeiFromDocx:
             for heading, n in sorted(summarized.items(), key=lambda x: (-x[1], x[0])):
                 self.console(f"{n:>5} {'x':<6} {heading}", error=serious)
 
-            wFile = REPORT_WARNINGS if serious else REPORT_INFO
-            self.console(f"See {wFile}", error=serious)
+            if hasattr(self, "rhw"):
+                wFile = REPORT_WARNINGS if serious else REPORT_INFO
+                self.console(f"See {wFile}", error=serious)
 
         if silent:
             if nWarnings:
@@ -457,24 +646,175 @@ class TeiFromDocx:
         )
         self.workFiles = goodWorkFiles
 
-    def sectionTriggers(self, workName, material):
-        """Analyse the section structure of a work."""
-        analysis = self.analysis
+    def makeLineNumRepl(self, workName):
+        lineNumbers = []
+        self.lineNumbers[workName] = lineNumbers
+
+        def replGeneric(pos, result):
+            def repl(match):
+                lNum = match.group(pos)
+                start = match.start()
+                lineNumbers.append((start, lNum))
+                return result.format(a=match.group(1), b=match.group(2))
+
+            return repl
+
+        self.lnumReplBefore = replGeneric(2, "{a}≤line {b}≥ ")
+        self.lnumReplAfter = replGeneric(2, "≤line {b}≥ {a}\n")
+        self.lnumReplBareAfter = replGeneric(2, "≤line {b}≥ {a}\n")
+        self.lnumReplBareBefore = replGeneric(1, "≤line {a}≥ {b}\n")
+
+    def makeSectionTriggerRepl(self, workName):
         sectionCount = self.sectionCount
-        sections = analysis.setdefault(workName, {}).setdefault("sections", [])
-        pseudoSections = analysis[workName].setdefault("pseudoSections", [])
+        sections = []
+        pseudoSections = []
+        self.sections[workName] = sections
+        self.pseudoSections[workName] = pseudoSections
 
-        matches = SECTIONTRIGGER_RE.findall(material)
+        def repl(match):
+            (pre, trigger, post, number, after) = match.group(1, 2, 3, 4, 5)
+            triggerL = trigger.lower()
+            number = number or ""
 
-        for (kind, number) in matches:
-            kindl = kind.lower()
-
-            if kindl in SECTION_TRIGGERS:
-                sections.append((SECTION_TRIGGERS[kindl], (number or "").lower()))
-                sectionCount[kindl] += 1
+            if triggerL in SECTION_TRIGGERS:
+                if len(post.split()) > 3:
+                    makeSection = False
+                elif SECTION_TRIGGERS_TRIG[triggerL]:
+                    nextWord = post.split()[0].rstrip(".") if post else ""
+                    makeSection = nextWord.lower() in SECTION_TRIGGERS
+                elif SECTION_TRIGGERS_NUM[triggerL]:
+                    makeSection = SNUM_RE.match(number)
+                else:
+                    makeSection = True
             else:
-                pseudoSections.append((kind, number))
-                sectionCount[kind] += 1
+                makeSection = False
+
+            if makeSection:
+                isSection = SECTION_TRIGGERS_SEC[triggerL]
+                sigil = "§" if isSection else "*"
+
+                matchSub = SECTIONTRIGGER_SND_RE.match(after)
+
+                triggerSub = ""
+                numberSub = ""
+
+                if matchSub:
+                    (tSub, nSub) = matchSub.group(1, 2)
+                    triggerSubL = tSub.lower()
+
+                    if triggerSubL in SECTION_TRIGGERS:
+                        triggerSub = f"-{SECTION_TRIGGERS[triggerSubL]}"
+                        numberSub = f"-{nSub.lower()}"
+
+                triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
+                number = f"{number.lower()}{numberSub}"
+                sections.append((triggerN, number))
+                sectionCount[triggerN] += 1
+                replacement = (
+                    f"# {pre}{trigger}{post}"
+                    if isSection
+                    else f"**{pre}{trigger}{post}**"
+                )
+            else:
+                pseudoSections.append((trigger, number))
+                sectionCount[trigger] += 1
+                replacement = match.group(0)
+
+            return replacement
+
+        return repl
+
+    def makeNoteRepl(self, workName):
+        notes = []
+        self.notes = notes
+        self.noteMark = 0
+
+        def repl(match):
+            self.noteMark += 1
+            noteMark = self.noteMark
+            note = (
+                match.group(1).strip().removeprefix("<p>").removesuffix("</p>").strip()
+            )
+
+            footNote = (
+                f"""<note xml:id="tn{noteMark}">"""
+                f"""<p><hi rend="footnote">{noteMark}</hi> """
+                f"""{note}</p></note>"""
+            )
+            notes.append(footNote)
+            return f"""<ptr target="#tn{noteMark}" n="{noteMark}"/>"""
+
+        return repl
+
+    def cleanup(self, text, workName):
+        lines = self.lines
+        specific = self.specific
+        specific.makePageRepl(workName)
+
+        # only to check whether there are unwrapped paragraphs
+        # n = len(SPLIT_PARA_RE.findall(text))
+        # return (f"{n=}", text)
+
+        text = normalizeChars(text)
+
+        text = FIX_ITALIC_RE.sub(r"\n*\1*\2\n", text)
+        text = text.replace("\\\n", "\n\n")
+        text = text.replace("\n> ", "\n")
+        text = text.replace("\n>\n", "\n\n")
+        text = text.replace("$", "")
+        text = SMALLCAPS_RE.sub(r"\1", text)
+
+        workMethod = workName.replace("-", "_")
+
+        method = getattr(specific, workMethod, None)
+        msg = "special"
+
+        if method is None:
+            msg = " " * 7
+            method = getattr(specific, "identity")
+
+        text = method(text)
+        rest = text
+        textParts = {}
+
+        kinds = ("/front/", "/main/", "/back/")
+
+        for i, kind in enumerate(kinds):
+            parts = rest.split(kind, 1)
+
+            if len(parts) == 1:
+                self.warn(work=workName, heading=f"No {kind}")
+                pre = ""
+                rest = parts[0]
+            else:
+                pre, rest = parts
+
+            if i > 0:
+                textParts[kinds[i - 1]] = pre
+
+        textParts[kinds[-1]] = parts[1]
+
+        front = textParts["/front/"]
+        main = textParts["/main/"]
+        back = textParts["/back/"]
+
+        repl = self.makeLineNumRepl(workName)
+        main = LINENUMBER_BEFORE_RE.sub(self.lnumReplBefore, main)
+        main = LINENUMBER_AFTER_RE.sub(self.lnumReplAfter, main)
+        main = LINENUMBER_BARE_AFTER_RE.sub(self.lnumReplBareAfter, main)
+        main = LINENUMBER_BARE_BEFORE_RE.sub(self.lnumReplBareBefore, main)
+
+        repl = self.makeSectionTriggerRepl(workName)
+        main = SECTIONTRIGGER_RE.sub(repl, main)
+        main = main.replace("qqq", "")
+
+        lines[workName] = int(
+            round(front.count("\n") + main.count("\n") + back.count("\n"))
+        )
+
+        text = f"# Front\n\n/{front}\n\n# Main\n\n{main}\n\n# Back\n\n{back}\n"
+        text = wrapParas(text)
+        return (msg, text)
 
     def transformWork(self, workName):
         if self.error:
@@ -485,34 +825,13 @@ class TeiFromDocx:
         if Meta.error:
             return (False, None, None)
 
-        with open(f"{MDDIR}/{workName}.md") as f:
+        with open(f"{TEIXDIR}/{workName}.xml") as f:
             text = f.read()
 
-        replacementLog = self.replacementLog
-
-        for orig, repl in SPECIAL_REPLACEMENTS:
-            n = text.count(orig)
-
-            replRep = f"«{orig} → {repl}»"
-
-            if n != 0:
-                text = text.replace(orig, repl)
-
-            replacementLog[replRep] += n
-
         textLines = text.split("\n")
+        newTextLines = []
 
-        newTextLines = dict(
-            front=[],
-            main=[],
-            back=[],
-        )
-        dest = None
         skipping = True
-
-        partsEncountered = []
-        mainEncountered = False
-        partsError = False
 
         for i, line in enumerate(textLines):
             if skipping:
@@ -525,169 +844,206 @@ class TeiFromDocx:
                     skipping = True
                     continue
 
-            match = SECTION_LINE_RE.match(line)
-
-            if match:
-                part = match.group(1)
-                partsEncountered.append(part)
-
-                if part not in PARTSET:
-                    partsError = True
-                    continue
-
-                if (dest is not None) and (
-                    (dest == "front" and part != "main")
-                    or (dest == "main" and part != "back")
-                    or dest == "back"
-                ):
-                    partsError = True
-
-                if part == "main":
-                    mainEncountered = True
-
-                dest = part
-                continue
-
             line = line.replace("""rendition=""", """rend=""")
             line = line.replace("""rend="simple:""", '''rend="''')
             line = line.replace("""<hi rend="italic"><lb /></hi>""", "")
+            line = LNUM_RE.sub(r"(\1)", line)
+            line = PNUM_RE.sub(r"""<pb n="\1"/>""", line)
+            line = FNUM_RE.sub(r"""<milestone type="folio" n="\1"/>""", line)
 
-            if dest is not None:
-                newTextLines[dest].append(line)
+            newTextLines.append(line)
 
-        material = {
-            part: "\n".join(newTextLines[part]) or "<p></p>" for part in PARTSET
-        }
+        material = "\n".join(newTextLines)
 
-        self.sectionTriggers(workName, material.get("main", ""))
+        leftovers = NUM_RE.findall(material)
+        n = len(leftovers)
 
-        text = Meta.fillTemplate(workName, **material)
+        if n:
+            self.warn(work=workName, heading=f"number leftovers: {n} x")
 
-        partsMsg = f"{'-'.join(partsEncountered)}"
+        repl = self.makeNoteRepl(workName)
+        material = NOTE_RE.sub(repl, material)
 
-        if not mainEncountered:
-            partsError = True
-            sep = " " if partsMsg else ""
-            partsMsg = f"NO main PART{sep}{partsMsg}"
+        notes = "\n".join(self.notes)
+        text = Meta.fillTemplate(workName, text=material, notes=notes)
 
-        if partsError:
-            self.warn(work=workName, heading=partsMsg)
+        return (True, "", text)
 
-        return (not partsError, partsMsg, text)
-
-    def mdFromDocx(self, forceClean=False):
+    def convert(
+        self,
+        forceDocx=False,
+        forceClean=False,
+        forceTeix=False,
+        forceTei=False,
+        skipDocx=False,
+        skipClean=False,
+        skipTeix=False,
+        skipTei=False,
+    ):
         if self.error:
             return
 
+        self.warnings = []
+        extraLog = {}
+        self.extraLog = extraLog
+        self.specific = WorkSpecific(self)
+
+        self.rhw = open(REPORT_WARNINGS, mode="w")
+        self.rhi = open(REPORT_INFO, mode="w")
+
         console("DOCX => Markdown per work ...")
+        console(
+            f"\t{'work':30} | "
+            f"{'lines':>7} | {'lnums':>5}| {'pages':>5} | {'folios':>5}| "
+            f"{'sect':>4} | "
+            f"conversion steps"
+        )
 
         workFiles = self.workFiles
 
-        initTree(MD_RAWDIR, fresh=False)
-        initTree(MD_PRISDIR, fresh=False)
+        initTree(MD_ORIGDIR, fresh=False)
+        initTree(MD_REPAIREDDIR, fresh=False)
+        initTree(TEIXDIR, fresh=False)
+        initTree(TEIDIR, fresh=True, gentle=True)
+
+        self.lines = {}
+        lines = self.lines
+        self.lineNumbers = {}
+        lineNumbers = self.lineNumbers
+        self.pages = {}
+        pages = self.pages
+        self.sections = {}
+        sections = self.sections
+        self.pseudoSections = {}
+        self.sectionCount = collections.Counter()
+
+        totLines = 0
+        totLineNumbers = 0
+        totPages = 0
+        totFolios = 0
+        totSections = 0
 
         for file in sorted(workFiles):
             realFile = workFiles[file]
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
-            rawFile = f"{MD_RAWDIR}/{file}.md"
-            cleanFile = f"{MD_PRISDIR}/{file}.md"
+            rawFile = f"{MD_ORIGDIR}/{file}.md"
+            cleanFile = f"{MD_REPAIREDDIR}/{file}.md"
+            teixFile = f"{TEIXDIR}/{file}.xml"
+            teiFile = f"{TEIDIR}/{file}.xml"
 
             rawUptodate = fileExists(rawFile) and mTime(rawFile) > mTime(inFile)
 
             convMessage = []
 
-            if not rawUptodate:
+            if not skipDocx and (forceDocx or not rawUptodate):
                 run(
                     [
                         "pandoc",
                         inFile,
                         "--from=docx",
                         "--to=markdown",
+                        "--wrap=none",
                         "--standalone",
                         f"--output={rawFile}",
                     ]
                 )
-                convMessage.append("pandoc")
+                convMessage.append("docx")
 
             cleanUptodate = fileExists(cleanFile) and mTime(cleanFile) > mTime(rawFile)
 
-            if forceClean or not cleanUptodate:
+            if not skipClean and (forceClean or not cleanUptodate):
                 with open(rawFile) as fh:
-                    msg, text = cleanup(fh.read(), file)
+                    msg, text = self.cleanup(fh.read(), file)
 
                 with open(cleanFile, mode="w") as fh:
                     fh.write(text)
 
                 convMessage.extend(["clean", msg])
 
+            teixUptodate = fileExists(teixFile) and mTime(teixFile) > mTime(cleanFile)
+
+            if not skipTeix and (forceTeix or not teixUptodate):
+                run(
+                    [
+                        "pandoc",
+                        cleanFile,
+                        "--from=markdown",
+                        "--to=tei",
+                        "--standalone",
+                        f"--output={teixFile}",
+                    ]
+                )
+                convMessage.append("teisimple")
+
+            teiUptodate = fileExists(teiFile) and mTime(teiFile) > mTime(teixFile)
+
+            if not skipTei and (forceTei or not teiUptodate):
+                (workStatus, workMsg, workText) = self.transformWork(file)
+
+                with open(teiFile, "w") as f:
+                    f.write(workText)
+
+                convMessage.append("tei")
+
+            nLines = lines.get(file, 0)
+            nLineNumbers = len(lineNumbers.get(file, 0))
+            nPages = sum(1 for x in pages.get(file, []) if x[0] == "p")
+            nFolios = sum(1 for x in pages.get(file, []) if x[0] == "f")
+            nSections = len(sections.get(file, []))
+
+            totLines += nLines
+            totLineNumbers += nLineNumbers
+            totPages += nPages
+            totFolios += nFolios
+            totSections += nSections
+
             if len(convMessage):
-                self.console(f"\t{file} : {' '.join(convMessage)}")
+                self.console(
+                    f"\t{file:30} | "
+                    f"{nLines:>7} | {nLineNumbers:>5} | {nPages:>5} | {nFolios:>5} | "
+                    f"{nSections:>4} | "
+                    f"{' '.join(convMessage)}"
+                )
 
-        self.console(f"{len(workFiles)} files done.")
+        msg = f"All works ({len(workFiles)})"
+        self.console(
+            f"\t{msg:30} | "
+            f"{totLines:>7} | {totLineNumbers:>5} |{totPages:>5} | {totFolios:>5} | "
+            f"{totSections:>4} | done"
+        )
 
-    def teiFromMd(self):
-        if self.error:
-            return
-
-        self.warnings = []
-
-        extraLog = {}
-        self.extraLog = extraLog
-
-        replacementLog = collections.Counter()
-        self.replacementLog = replacementLog
-
-        self.rhw = open(REPORT_WARNINGS, mode="w")
-        self.rhi = open(REPORT_INFO, mode="w")
-
-        console("simple TEI => enriched TEI ...")
-
-        initTree(TEIDIR, fresh=True, gentle=True)
-        workFiles = self.workFiles
-
-        self.analysis = {}
-        self.sectionCount = collections.Counter()
-
-        for workName in sorted(workFiles):
-            (workStatus, workMsg, workText) = self.transformWork(workName)
-
-            with open(f"{TEIDIR}/{workName}.xml", "w") as f:
-                f.write(workText)
-
-            console(f"\t{workName:<30} ... {workMsg}", error=not workStatus)
-
-        for replRep, n in sorted(replacementLog.items()):
-            self.warn(
-                line=f"{replRep} {n} x applied",
-                heading="special replacement",
-                summarize=True,
-                serious=n == 0,
-            )
-
-        analysis = self.analysis
         sectionCount = self.sectionCount
+        pseudoSections = self.pseudoSections
 
-        actInfo = {}
-        pseudoActInfo = {}
+        lineInfo = {}
+        pageInfo = {}
+        sectionInfo = {}
+        pseudoSectionInfo = {}
 
         for workName in sorted(workFiles):
-            sections = analysis.get(workName, {}).get("sections", [])
+            wLines = sorted(lineNumbers.get(workName, []), key=lambda x: x[0])
+            lineInfo[workName] = [x[1] for x in wLines]
+
+            wPages = sorted(pages.get(workName, []), key=lambda x: x[1])
+            pageInfo[workName] = [f"{x[0]}. {x[-1]}" for x in wPages]
+
+            wSections = sections.get(workName, ())
 
             items = []
 
-            for kind, number in sections:
+            for kind, number in wSections:
                 cnt = sectionCount[kind]
                 items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
 
-            actInfo[workName] = items
+            sectionInfo[workName] = items
 
-            pseudoSections = analysis.get(workName, {}).get("pseudoSections", [])
+            wpSections = pseudoSections.get(workName, ())
 
-            if len(pseudoSections):
+            if len(wpSections):
                 items = []
 
-                for kind, number in pseudoSections:
+                for kind, number in wpSections:
                     cnt = sectionCount[kind]
 
                     if kind.isdigit() or kind.lower() in NONSECTION or cnt == 1:
@@ -695,13 +1051,19 @@ class TeiFromDocx:
 
                     items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
 
-                pseudoActInfo[workName] = items
+                pseudoSectionInfo[workName] = items
 
-        writeYaml(pseudoActInfo, asFile=REPORT_NONSECTIONS)
-        self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
+        writeYaml(lineInfo, asFile=REPORT_LINES)
+        self.console(f"See for pages: {REPORT_LINES}")
 
-        writeYaml(actInfo, asFile=REPORT_SECTIONS)
+        writeYaml(pageInfo, asFile=REPORT_PAGES)
+        self.console(f"See for pages: {REPORT_PAGES}")
+
+        writeYaml(sectionInfo, asFile=REPORT_SECTIONS)
         self.console(f"See for sections: {REPORT_SECTIONS}")
+
+        writeYaml(pseudoSectionInfo, asFile=REPORT_NONSECTIONS)
+        self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
 
         self.showWarnings(serious=False)
         self.showWarnings()
@@ -711,13 +1073,29 @@ class TeiFromDocx:
         self.rhi.close()
         self.rhi = None
 
+    def teiFromTei(self):
+        if self.error:
+            return
+
+        console("TEI => enriched TEI ...")
+
+        initTree(TEIDIR, fresh=True, gentle=True)
+        workFiles = self.workFiles
+
+        for workName in sorted(workFiles):
+            (workStatus, workMsg, workText) = self.transformWork(workName)
+
+            with open(f"{TEIDIR}/{workName}.xml", "w") as f:
+                f.write(workText)
+
+            console(f"\t{workName:<30} ... {workMsg}", error=not workStatus)
+
     def task(self, *args, **kwargs):
         if self.error:
             return
 
         tasks = dict(
-            markdown=False,
-            tei=False,
+            convert=False,
         )
 
         good = True
@@ -744,8 +1122,20 @@ class TeiFromDocx:
             if not do:
                 continue
 
-            if task == "markdown":
-                mykwargs = {k: v for (k, v) in kwargs.items() if k in {"forceClean"}}
-                self.mdFromDocx(**mykwargs)
-            elif task == "tei":
-                self.teiFromMd()
+            if task == "convert":
+                mykwargs = {
+                    k: v
+                    for (k, v) in kwargs.items()
+                    if k
+                    in {
+                        "forceDocx",
+                        "forceClean",
+                        "forceTei",
+                        "forceTeix",
+                        "skipDocx",
+                        "skipClean",
+                        "skipTeix",
+                        "skipTei",
+                    }
+                }
+                self.convert(**mykwargs)

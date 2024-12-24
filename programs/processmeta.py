@@ -61,17 +61,12 @@ TEMPLATE = """\
 </profileDesc>
 </teiHeader>
 <text>
-    <front>
-        <div>
-            {front}
-        </div>
-    </front>
     <body>
-        {main}
+        {text}
+        <div type="notes">
+            {notes}
+        </div>
     </body>
-    <back>
-        {back}
-    </back>
 </text>
 </TEI>
 """

@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-16T09:16:12+00:00Z
+@dateWritten=2024-12-23T11:44:47+00:00Z
 
-2031685	https://en.wikipedia.org/wiki/Leon_Battista_Alberti
+2068090	https://en.wikipedia.org/wiki/Leon_Battista_Alberti
 https://books.google.nl/books?id=CApZAAAAYAAJ
 https://de.wikipedia.org/wiki/Paul_Aler
 https://play.google.com/books/reader?id=CtBEAAAAcAAJ

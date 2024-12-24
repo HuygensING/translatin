@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-16T09:16:12+00:00Z
+@dateWritten=2024-12-23T11:44:47+00:00Z
 
-2034116	Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.
+2070521	Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.
 Innocentia victrix sive Genovefa
 Iacobi Balde e Societate Jesu. Iephtias Tragoedia. Celsissimo S.R.I. Principi ac Domino D. Ioanni Weichardo Principi ab Auersperg
 Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno restitutae salutatis MDXXIIII

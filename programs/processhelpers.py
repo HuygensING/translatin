@@ -1,9 +1,8 @@
 import re
+from textwrap import TextWrapper
 
 from tf.core.files import expanduser
 from tf.ner.helpers import toAscii
-
-from workspecific import WorkSpecific
 
 ORG = "HuygensING"
 REPO = "translatin"
@@ -20,9 +19,9 @@ _METADIR = f"{_DATADIR}/metadata"
 METACSS = "meta.css"
 METAOUTDIR = f"{_REPODIR}/static/both/metadata"
 DOCXDIR = f"{_TRANSDIR}/docx"
-MD_RAWDIR = f"{_TRANSDIR}/mdRaw"
-MD_PRISDIR = f"{_TRANSDIR}/mdPristine"
-MDDIR = f"{_TRANSDIR}/md"
+MD_ORIGDIR = f"{_TRANSDIR}/mdOrig"
+MD_REPAIREDDIR = f"{_TRANSDIR}/mdRepaired"
+TEIXDIR = f"{_TRANSDIR}/teiSimple"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _DATADIR
 TEIDIR = f"{SOURCEBASE}/tei"
@@ -31,6 +30,8 @@ METADATA_FILE = f"{_METADIR}/work-author.xlsx"
 
 REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
 REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
+REPORT_LINES = f"{REPORT_TRANSDIR}/lines.yml"
+REPORT_PAGES = f"{REPORT_TRANSDIR}/pages.yml"
 REPORT_SECTIONS = f"{REPORT_TRANSDIR}/sections.yml"
 REPORT_NONSECTIONS = f"{REPORT_TRANSDIR}/sections-non.yml"
 REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
@@ -60,131 +61,6 @@ def sanitizeFileName(fName):
     return toAscii(f"{auth}-{work}")
 
 
-SECTION_LINE_RE = re.compile(
-    r"""
-    ^
-    \s*
-    <p>
-    \s*
-    /
-    \s*
-    (
-        [a-z]+
-    )
-    \s*
-    /
-    \s*
-    </p>
-    \s*
-    $
-    """,
-    re.M | re.X,
-)
-
-PARTS = """
-    front
-    main
-    back
-""".strip().split()
-
-PARTSET = set(PARTS)
-
-LINENUMBER_RE = re.compile(
-    r"""
-    ^
-    (
-        (?:
-            (?:
-                \w+\.
-                |
-                ,,
-                |
-                \*
-            )
-            \s*
-        )?
-    )
-    \\?\(
-    (
-        [0-9]+
-        [A-Za-z]?
-    )
-    \\?\)
-    \s*
-    (?=\S)
-    """,
-    re.M | re.X,
-)
-
-LINENUMBER_AFTER_RE = re.compile(
-    r"""
-    ^
-    (.*)
-    \s+
-    \(
-    (
-        [0-9]+
-        [A-Za-z]?
-    )
-    \)
-    \s*
-    $
-    """,
-    re.M | re.X,
-)
-
-LINENUMBER_BARE_RE = re.compile(
-    r"""
-    ^
-    (
-        .*
-        [a-z]
-        .*
-    )
-    \s+
-    (
-        [0-9]+
-    )
-    $
-    """,
-    re.M | re.X,
-)
-
-LINENUMBER_BARE_BEFORE_RE = re.compile(
-    r"""
-    ^
-    (
-        [0-9]+
-    )
-    \s+
-    (
-        .*
-        [a-z]
-        .*
-    )
-    $
-    """,
-    re.M | re.X,
-)
-
-SMALLCAPS_RE = re.compile(
-    r"""
-    (?<!\\)
-    \[
-        (
-            (?:
-                (?:\\[\[\]])
-                |
-                [^\]]+
-            )++
-        )
-    \]
-    \{\.smallcaps\}
-    """,
-    re.X | re.S,
-)
-
-
 def msgLine(work, ln, line, heading):
     workRep = "" if work is None else f"{work:<30}"
     lnRep = "" if ln is None else f"{ln:>5}"
@@ -196,30 +72,28 @@ def msgLine(work, ln, line, heading):
     return f"{workRep}{sep1}{lnRep}{sep2}{headingRep}{lineRep}\n"
 
 
-def cleanup(text, workName):
-    text = normalizeChars(text)
+Wrapper = TextWrapper(
+    width=72,
+    expand_tabs=False,
+    tabsize=4,
+    replace_whitespace=False,
+    drop_whitespace=True,
+    initial_indent="",
+    subsequent_indent="",
+    fix_sentence_endings=False,
+    break_long_words=False,
+    break_on_hyphens=False,
+    max_lines=None,
+)
 
-    text = text.replace("\\\n", "\n\n")
-    text = text.replace("\n> ", "\n")
-    text = SMALLCAPS_RE.sub(r"\1", text)
 
-    workMethod = workName.replace("-", "_")
+def wrapParas(text):
+    wrap = Wrapper.wrap
 
-    method = getattr(WorkSpecific, workMethod, None)
-    msg = "specific"
+    return "\n\n".join(
+        "\n".join(wrap(" ".join(para.split("\n")))) for para in text.split("\n\n")
+    )
 
-    if method is None:
-        msg = "handled in a generic way"
-        method = WorkSpecific.identity
 
-    text = method(text)
-
-    (pre, rest) = text.split("/front/", 1)
-    (front, rest) = rest.split("/main/", 1)
-    (main, back) = rest.split("/back/", 1)
-
-    main = LINENUMBER_RE.sub(r"\1«\2» ", main)
-    main = LINENUMBER_AFTER_RE.sub(r"«\2» \1\n", main)
-    main = LINENUMBER_BARE_RE.sub(r"«\2» \1\n", main)
-    main = LINENUMBER_BARE_BEFORE_RE.sub(r"«\1» \2", main)
-    return (msg, f"{pre}/front/{front}/main/{main}/back/{back}")
+def unwrapParas(text):
+    return "\n\n".join(" ".join(para.split("\n")) for para in text.split("\n\n"))
