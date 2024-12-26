@@ -1,4 +1,5 @@
 import re
+import inspect
 
 
 HEAD_PAGENUM_RE = re.compile(
@@ -62,6 +63,12 @@ ARABIC_PAGENUM_BARE_RE = re.compile(
     $
     """,
     re.M | re.X,
+)
+
+NUMERALS_NL = dict(
+    eerste="i",
+    tweede="ii",
+    derde="iii",
 )
 
 
@@ -214,7 +221,7 @@ class WorkSpecific:
             .*
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = headRe.sub(r"\1", text)
         folioRe = re.compile(
@@ -227,7 +234,7 @@ class WorkSpecific:
             )
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = folioRe.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
@@ -235,30 +242,92 @@ class WorkSpecific:
 
     Diether_Ioseph = "generic"
 
-    Enden_Philedonius = "generic"
-    Ens_Auriacus = "generic"
-    Forsett_Pedantius = "generic"
-    Foxe_Christus = "generic"
-    Gnapheus_Acolastus = "generic"
-    Gnapheus_Morosophus = "generic"
-    Goethals_Soter = "generic"
-    Gretser_Timon = "generic"
-    Gretser_Underwaldius = "generic"
-    Grimald_Christus = "generic"
-    Grotius_Adamus = "generic"
-    Grotius_Christus = "generic"
-    Grotius_Phoenissae = "generic"
-    Gwalther_Nabal = "generic"
-    Heinsius_Auriacus = "generic"
-    Heinsius_Herodes = "generic"
-    Holonius_Catharina = "generic"
-    Holonius_Laurentias = "generic"
-    Honerdus_Thamara = "generic"
-    Houcharius_Grisellis = "generic"
-    Houthem_Gedeon = "generic"
-    Ischyrius_Homulus = "generic"
-    Kerckmeister_Codrus = "generic"
-    Knuyt_Scornetta = "generic"
+    def Enden_Philedonius(self, text):
+        workName = (inspect.stack()[0][3]).replace("_", "-")
+        converter = self.converter
+
+        headRe = re.compile(
+            r"""
+            \\\[
+            fol\.
+            [\ ]?
+            (.*?)
+            \\\]
+            """,
+            re.X,
+        )
+        text = headRe.sub(self.folioRepl, text)
+
+        sections = []
+        sectionCount = converter.sectionCount
+
+        sectionRe = re.compile(
+            r"""
+            ^
+            (
+                (?:
+                    (?:DE)?|HET
+                )
+                [\ ]?
+            )
+            (
+                \w+
+                \\?\.?
+            )
+            (
+                [\ ]?
+            )
+            (
+                BEDRYF|UITKOMSTE
+            )
+            .*
+            $
+            """,
+            re.M | re.X,
+        )
+
+        def repl(match):
+            (pre, number, space, trigger) = match.group(1, 2, 3, 4)
+            start = match.start()
+            triggerL = trigger.lower()
+            triggerN = f"§{triggerL}"
+            numberL = number.lower()
+            numberN = (NUMERALS_NL[numberL] if trigger == "BEDRYF" else numberL).strip(
+                "\\."
+            )
+            sections.append([start, triggerN, numberN])
+            sectionCount[triggerN] += 1
+            return f"# {pre}{number}{space}{trigger}"
+
+        text = sectionRe.sub(repl, text)
+        ssections = [[s[1], s[2]] for s in sorted(sections, key=lambda x: x[0])]
+        converter.sections[workName] = ssections
+
+        return text
+
+    Ens_Auriacus = None
+    Forsett_Pedantius = None
+    Foxe_Christus = None
+    Gnapheus_Acolastus = None
+    Gnapheus_Morosophus = None
+    Goethals_Soter = None
+    Gretser_Timon = None
+    Gretser_Underwaldius = None
+    Grimald_Christus = None
+    Grotius_Adamus = None
+    Grotius_Christus = None
+    Grotius_Phoenissae = None
+    Gwalther_Nabal = None
+    Heinsius_Auriacus = None
+    Heinsius_Herodes = None
+    Holonius_Catharina = None
+    Holonius_Laurentias = None
+    Honerdus_Thamara = None
+    Houcharius_Grisellis = None
+    Houthem_Gedeon = None
+    Ischyrius_Homulus = None
+    Kerckmeister_Codrus = None
+    Knuyt_Scornetta = None
 
     def Laurimanus_Exodus(self, text):
         headRe = re.compile(

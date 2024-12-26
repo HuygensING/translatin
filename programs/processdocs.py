@@ -677,9 +677,8 @@ class TeiFromDocx:
 
     def makeSectionTriggerRepl(self, workName):
         sectionCount = self.sectionCount
-        sections = []
+        sections = self.sections[workName]
         pseudoSections = []
-        self.sections[workName] = sections
         self.pseudoSections[workName] = pseudoSections
 
         def repl(match):
@@ -732,7 +731,7 @@ class TeiFromDocx:
 
             return replacement
 
-        return repl
+        self.sectionRepl = repl
 
     def makeNoteRepl(self, workName):
         notes = []
@@ -759,6 +758,9 @@ class TeiFromDocx:
     def cleanup(self, text, workName):
         lines = self.lines
         specific = self.specific
+
+        self.sections[workName] = []
+
         specific.makePageRepl(workName)
 
         # only to check whether there are unwrapped paragraphs
@@ -811,14 +813,14 @@ class TeiFromDocx:
         main = textParts["/main/"]
         back = textParts["/back/"]
 
-        repl = self.makeLineNumRepl(workName)
+        self.makeLineNumRepl(workName)
         main = LINENUMBER_BEFORE_RE.sub(self.lnumReplBefore, main)
         main = LINENUMBER_AFTER_RE.sub(self.lnumReplAfter, main)
         main = LINENUMBER_BARE_AFTER_RE.sub(self.lnumReplBareAfter, main)
         main = LINENUMBER_BARE_BEFORE_RE.sub(self.lnumReplBareBefore, main)
 
-        repl = self.makeSectionTriggerRepl(workName)
-        main = SECTIONTRIGGER_RE.sub(repl, main)
+        self.makeSectionTriggerRepl(workName)
+        main = SECTIONTRIGGER_RE.sub(self.sectionRepl, main)
         main = main.replace("qqq", "")
 
         lines[workName] = int(
@@ -934,6 +936,9 @@ class TeiFromDocx:
         self.pseudoSections = pseudoSections
         self.sectionCount = sectionCount
 
+        nWorks = 0
+        allOK = True
+        someOK = False
         totLines = 0
         totLineNumbers = 0
         totPages = 0
@@ -944,6 +949,7 @@ class TeiFromDocx:
             if workName is not None and file != workName:
                 continue
 
+            nWorks += 1
             realFile = workFiles[file]
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
@@ -955,7 +961,7 @@ class TeiFromDocx:
             rawUptodate = fileExists(rawFile) and mTime(rawFile) > mTime(inFile)
 
             convMessage = []
-            status = "OK"
+            thisOK = True
             extraMsg = ""
 
             if not skipDocx and (forceDocx or not rawUptodate):
@@ -1007,7 +1013,7 @@ class TeiFromDocx:
                 (workStatus, workMsg, workText) = self.transformWork(file)
 
                 if not workStatus:
-                    status = "!!"
+                    thisOK = False
 
                 if workMsg:
                     extraMsg = workMsg
@@ -1023,6 +1029,12 @@ class TeiFromDocx:
             nFolios = sum(1 for x in pages.get(file, []) if x[0] == "f")
             nSections = len(sections.get(file, []))
 
+            if thisOK:
+                someOK = True
+            else:
+                allOK = False
+
+            status = "OK" if thisOK else "!!"
             totLines += nLines
             totLineNumbers += nLineNumbers
             totPages += nPages
@@ -1037,9 +1049,10 @@ class TeiFromDocx:
                     f"{' '.join(convMessage)} {extraMsg or ''}"
                 )
 
-        msg = f"All works ({len(workFiles)})"
+        totStatus = "OK" if allOK else "+-" if someOK else "!!"
+        msg = f"All works ({nWorks})"
         self.console(
-            f"\t{msg:30} | "
+            f"\t{totStatus} {msg:30} | "
             f"{totLines:>7} | {totLineNumbers:>5} | {totPages:>5} | {totFolios:>5} | "
             f"{totSections:>4} | done"
         )
