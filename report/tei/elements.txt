@@ -8,9 +8,9 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=        1155x bold
+	<hi>               rend=        1429x bold
 	                          "                   3109x footnote
-	                          "                   8880x italic
+	                          "                   8958x italic
 	                          "                     19x superscript
 	                          "                    105x underline
 
@@ -18,15 +18,18 @@ Keyword Attributes
 
 	<TEI>              lang=         118x lat
 
-	<div>              type=        3101x level1
+	<div>              type=        2681x level1
+	                          "                      1x level2
 	                          "                    118x notes
 
 	<list>             type=         130x ordered:arabic
 	                          "                      2x ordered:loweralpha
-	                          "                      5x ordered:lowerroman
+	                          "                      6x ordered:lowerroman
 	                          "                     15x ordered:upperalpha
-	                          "                     79x ordered:upperroman
-	                          "                     35x unordered
+	                          "                     88x ordered:upperroman
+	                          "                      5x unordered
+
+	<milestone>        unit=         111x folio
 
 	<term>             type=         118x acts
 	                          "                    118x chorus
@@ -49,7 +52,7 @@ Remaining Attributes and Elements
 
 	<date>                           236x 
 
-	<div>              id=          3101x X
+	<div>              id=          2682x X
 
 	<editor>                         118x 
 
@@ -57,26 +60,72 @@ Remaining Attributes and Elements
 
 	<fileDesc>                       118x 
 
-	<head>                          3101x 
+	<head>                          2682x 
 
-	<item>                            99x 
+	<item>                            28x 
 	                   n=             61x N
-	                          "                    120x NN
+	                          "                    121x NN
 	                          "                     38x NNN
 	                          "                      6x NNNN
 
 	<keywords>                       118x 
 
-	<lb>                            1181x 
+	<lb>                            1180x 
+
+	<milestone>        n=              1x A iiij
+	                          "                      1x A iij
+	                          "                      1x A ij
+	                          "                      1x B
+	                          "                      4x B Nr
+	                          "                      5x B Nv
+	                          "                      1x B iiij
+	                          "                      1x Bi
+	                          "                      1x Biij
+	                          "                      1x Bij
+	                          "                      7x C Nr
+	                          "                      6x C Nv
+	                          "                      1x C iiij
+	                          "                      1x C iij
+	                          "                      1x C ij
+	                          "                      1x C r
+	                          "                      1x C v
+	                          "                      1x CNv
+	                          "                      1x D
+	                          "                      7x D Nr
+	                          "                      7x D Nv
+	                          "                      1x D iiij
+	                          "                      1x D iij
+	                          "                      1x D ij
+	                          "                      1x Dr
+	                          "                      1x Dv
+	                          "                      7x E Nr
+	                          "                      5x E Nv
+	                          "                      1x E iij
+	                          "                      1x E ij
+	                          "                      2x Ev
+	                          "                      8x F Nr
+	                          "                      7x F Nv
+	                          "                      1x F iij
+	                          "                      1x F ij
+	                          "                      1x Fr
+	                          "                      1x Fv
+	                          "                      8x G Nr
+	                          "                      7x G Nv
+	                          "                      1x Gr
+	                          "                      1x Gv
+	                          "                      1x H Nr
+	                          "                      1x Hr
+	                          "                      1x Hv
 
 	<name>                           236x 
 
 	<note>             id=          3109x X
 
-	<p>                            189518x 
+	<p>                            190172x 
 
-	<pb>               n=             10x N
-	                          "                    102x NN
+	<pb>               n=             47x N
+	                          "                    447x NN
+	                          "                    417x NNN
 
 	<profileDesc>                    118x 
 
@@ -91,7 +140,7 @@ Remaining Attributes and Elements
 
 	<publisher>                      118x 
 
-	<quote>                           71x 
+	<quote>                           70x 
 
 	<ref>              target=       661x X
 

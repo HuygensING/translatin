@@ -25,6 +25,7 @@ from tf.core.files import (
     initTree,
     mTime,
     fileExists,
+    readYaml,
     writeYaml,
 )
 from tf.core.helpers import console
@@ -33,7 +34,7 @@ from processmeta import Meta as MetaCls
 from processhelpers import (
     DOCXDIR,
     MD_ORIGDIR,
-    MD_REPAIREDDIR,
+    MD_FINALDIR,
     TEIXDIR,
     TEIDIR,
     REPORT_TRANSDIR,
@@ -41,8 +42,14 @@ from processhelpers import (
     REPORT_INFO,
     REPORT_LINES,
     REPORT_PAGES,
-    REPORT_NONSECTIONS,
     REPORT_SECTIONS,
+    REPORT_NONSECTIONS,
+    REPORT_LINES_RAW,
+    REPORT_LINENUMBERS_RAW,
+    REPORT_PAGES_RAW,
+    REPORT_SECTIONS_RAW,
+    REPORT_NONSECTIONS_RAW,
+    REPORT_SECTION_COUNT_RAW,
     msgLine,
     sanitizeFileName,
     normalizeChars,
@@ -65,8 +72,8 @@ SECTIONTRIGGER_RE = re.compile(
             (?:
                 ≤
                 (?: page | folio | line )
-                [\ ]
-                [0-9ivxlc]+
+                =
+                [^≥]+
                 ≥
                 [\ ]?
             )
@@ -83,8 +90,10 @@ SECTIONTRIGGER_RE = re.compile(
         [.,:]?
         (?:
             [\ ]?
+            [.,:]?
             (\w+)
         )?
+        [.,:]?
         ([^\n]*?)
     )
     (?:
@@ -102,9 +111,11 @@ SECTIONTRIGGER_SND_RE = re.compile(
     ^
     [.,;]?
     [\ ]?
+    [.,;]?
     (\w+)
     [.,;]?
     [\ ]
+    [.,;]?
     (\w+)
     [.,;]?
     $
@@ -169,7 +180,7 @@ SECTION_TRIGGERS_DEF = dict(
     personae=(True, False, False, "personae"),
     prologus=(True, False, False, "prologus"),
     protasis=(False, False, False, "protasis"),
-    scaena=(True, True, False, "scaena"),
+    scaena=(True, True, False, "scena"),
     scena=(True, True, False, "scena"),
     strophe=(False, False, False, "strophe"),
     tragoidia=(False, False, False, "tragoedia"),
@@ -483,9 +494,9 @@ LINENUMBER_BARE_AFTER_RE = re.compile(
     re.M | re.X,
 )
 
-LNUM_RE = re.compile(r"""≤line ([0-9]+[A-Za-z]*)≥""")
-PNUM_RE = re.compile(r"""≤page ([0-9]+)≥""")
-FNUM_RE = re.compile(r"""≤folio ([^≥]+)≥""")
+LNUM_RE = re.compile(r"""≤line=([^≥]+)≥""")
+PNUM_RE = re.compile(r"""≤page=([^≥]+)≥""")
+FNUM_RE = re.compile(r"""≤folio=([^≥]+)≥""")
 
 NUM_RE = re.compile(r"[≤≥]")
 
@@ -654,15 +665,15 @@ class TeiFromDocx:
             def repl(match):
                 lNum = match.group(pos)
                 start = match.start()
-                lineNumbers.append((start, lNum))
+                lineNumbers.append([start, lNum])
                 return result.format(a=match.group(1), b=match.group(2))
 
             return repl
 
-        self.lnumReplBefore = replGeneric(2, "{a}≤line {b}≥ ")
-        self.lnumReplAfter = replGeneric(2, "≤line {b}≥ {a}\n")
-        self.lnumReplBareAfter = replGeneric(2, "≤line {b}≥ {a}\n")
-        self.lnumReplBareBefore = replGeneric(1, "≤line {a}≥ {b}\n")
+        self.lnumReplBefore = replGeneric(2, "{a}≤line={b}≥ ")
+        self.lnumReplAfter = replGeneric(2, "≤line={b}≥ {a}\n")
+        self.lnumReplBareAfter = replGeneric(2, "≤line={b}≥ {a}\n")
+        self.lnumReplBareBefore = replGeneric(1, "≤line={a}≥ {b}\n")
 
     def makeSectionTriggerRepl(self, workName):
         sectionCount = self.sectionCount
@@ -677,7 +688,7 @@ class TeiFromDocx:
             number = number or ""
 
             if triggerL in SECTION_TRIGGERS:
-                if len(post.split()) > 3:
+                if len(post.replace(".", "").split()) > 3:
                     makeSection = False
                 elif SECTION_TRIGGERS_TRIG[triggerL]:
                     nextWord = post.split()[0].rstrip(".") if post else ""
@@ -708,7 +719,7 @@ class TeiFromDocx:
 
                 triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
                 number = f"{number.lower()}{numberSub}"
-                sections.append((triggerN, number))
+                sections.append([triggerN, number])
                 sectionCount[triggerN] += 1
                 replacement = (
                     f"# {pre}{trigger}{post}"
@@ -716,8 +727,7 @@ class TeiFromDocx:
                     else f"**{pre}{trigger}{post}**"
                 )
             else:
-                pseudoSections.append((trigger, number))
-                sectionCount[trigger] += 1
+                pseudoSections.append([trigger, number])
                 replacement = match.group(0)
 
             return replacement
@@ -753,7 +763,7 @@ class TeiFromDocx:
 
         # only to check whether there are unwrapped paragraphs
         # n = len(SPLIT_PARA_RE.findall(text))
-        # return (f"{n=}", text)
+        # return (f"{n}", text)
 
         text = normalizeChars(text)
 
@@ -767,10 +777,13 @@ class TeiFromDocx:
         workMethod = workName.replace("-", "_")
 
         method = getattr(specific, workMethod, None)
-        msg = "special"
+        msg = "special  "
 
         if method is None:
-            msg = " " * 7
+            msg = "         "
+            method = getattr(specific, "identity")
+        elif method == "generic":
+            msg = "generic  "
             method = getattr(specific, "identity")
 
         text = method(text)
@@ -846,10 +859,9 @@ class TeiFromDocx:
 
             line = line.replace("""rendition=""", """rend=""")
             line = line.replace("""rend="simple:""", '''rend="''')
-            line = line.replace("""<hi rend="italic"><lb /></hi>""", "")
             line = LNUM_RE.sub(r"(\1)", line)
             line = PNUM_RE.sub(r"""<pb n="\1"/>""", line)
-            line = FNUM_RE.sub(r"""<milestone type="folio" n="\1"/>""", line)
+            line = FNUM_RE.sub(r"""<milestone unit="folio" n="\1"/>""", line)
 
             newTextLines.append(line)
 
@@ -879,6 +891,7 @@ class TeiFromDocx:
         skipClean=False,
         skipTeix=False,
         skipTei=False,
+        workName=None,
     ):
         if self.error:
             return
@@ -893,8 +906,8 @@ class TeiFromDocx:
 
         console("DOCX => Markdown per work ...")
         console(
-            f"\t{'work':30} | "
-            f"{'lines':>7} | {'lnums':>5}| {'pages':>5} | {'folios':>5}| "
+            f"\t   {'work':30} | "
+            f"{'lines':>7} | {'lnums':>5} | {'pages':>5} | {'folios':>5}| "
             f"{'sect':>4} | "
             f"conversion steps"
         )
@@ -902,20 +915,24 @@ class TeiFromDocx:
         workFiles = self.workFiles
 
         initTree(MD_ORIGDIR, fresh=False)
-        initTree(MD_REPAIREDDIR, fresh=False)
+        initTree(MD_FINALDIR, fresh=False)
         initTree(TEIXDIR, fresh=False)
         initTree(TEIDIR, fresh=True, gentle=True)
 
-        self.lines = {}
-        lines = self.lines
-        self.lineNumbers = {}
-        lineNumbers = self.lineNumbers
-        self.pages = {}
-        pages = self.pages
-        self.sections = {}
-        sections = self.sections
-        self.pseudoSections = {}
-        self.sectionCount = collections.Counter()
+        lines = readYaml(asFile=REPORT_LINES_RAW, plain=True)
+        lineNumbers = readYaml(asFile=REPORT_LINENUMBERS_RAW, plain=True)
+        pages = readYaml(asFile=REPORT_PAGES_RAW, plain=True)
+        sections = readYaml(asFile=REPORT_SECTIONS_RAW, plain=True)
+        pseudoSections = {}  # only do pseudoSections if clean is performed
+        sectionCount = readYaml(asFile=REPORT_SECTION_COUNT_RAW, plain=True)
+        sectionCount = collections.Counter(sectionCount)
+
+        self.lines = lines
+        self.lineNumbers = lineNumbers
+        self.pages = pages
+        self.sections = sections
+        self.pseudoSections = pseudoSections
+        self.sectionCount = sectionCount
 
         totLines = 0
         totLineNumbers = 0
@@ -924,17 +941,22 @@ class TeiFromDocx:
         totSections = 0
 
         for file in sorted(workFiles):
+            if workName is not None and file != workName:
+                continue
+
             realFile = workFiles[file]
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
             rawFile = f"{MD_ORIGDIR}/{file}.md"
-            cleanFile = f"{MD_REPAIREDDIR}/{file}.md"
+            cleanFile = f"{MD_FINALDIR}/{file}.md"
             teixFile = f"{TEIXDIR}/{file}.xml"
             teiFile = f"{TEIDIR}/{file}.xml"
 
             rawUptodate = fileExists(rawFile) and mTime(rawFile) > mTime(inFile)
 
             convMessage = []
+            status = "OK"
+            extraMsg = ""
 
             if not skipDocx and (forceDocx or not rawUptodate):
                 run(
@@ -960,6 +982,9 @@ class TeiFromDocx:
                     fh.write(text)
 
                 convMessage.extend(["clean", msg])
+                cleanDone = True
+            else:
+                cleanDone = False
 
             teixUptodate = fileExists(teixFile) and mTime(teixFile) > mTime(cleanFile)
 
@@ -981,6 +1006,12 @@ class TeiFromDocx:
             if not skipTei and (forceTei or not teiUptodate):
                 (workStatus, workMsg, workText) = self.transformWork(file)
 
+                if not workStatus:
+                    status = "!!"
+
+                if workMsg:
+                    extraMsg = workMsg
+
                 with open(teiFile, "w") as f:
                     f.write(workText)
 
@@ -1000,70 +1031,79 @@ class TeiFromDocx:
 
             if len(convMessage):
                 self.console(
-                    f"\t{file:30} | "
+                    f"\t{status} {file:30} | "
                     f"{nLines:>7} | {nLineNumbers:>5} | {nPages:>5} | {nFolios:>5} | "
                     f"{nSections:>4} | "
-                    f"{' '.join(convMessage)}"
+                    f"{' '.join(convMessage)} {extraMsg or ''}"
                 )
 
         msg = f"All works ({len(workFiles)})"
         self.console(
             f"\t{msg:30} | "
-            f"{totLines:>7} | {totLineNumbers:>5} |{totPages:>5} | {totFolios:>5} | "
+            f"{totLines:>7} | {totLineNumbers:>5} | {totPages:>5} | {totFolios:>5} | "
             f"{totSections:>4} | done"
         )
 
-        sectionCount = self.sectionCount
-        pseudoSections = self.pseudoSections
+        if cleanDone:
+            writeYaml(lines, asFile=REPORT_LINES_RAW)
+            writeYaml(lineNumbers, asFile=REPORT_LINENUMBERS_RAW)
+            writeYaml(pages, asFile=REPORT_PAGES_RAW)
+            writeYaml(sections, asFile=REPORT_SECTIONS_RAW)
+            writeYaml(pseudoSections, asFile=REPORT_NONSECTIONS_RAW)
+            writeYaml(dict(sectionCount), asFile=REPORT_SECTION_COUNT_RAW)
 
         lineInfo = {}
         pageInfo = {}
         sectionInfo = {}
         pseudoSectionInfo = {}
 
-        for workName in sorted(workFiles):
-            wLines = sorted(lineNumbers.get(workName, []), key=lambda x: x[0])
-            lineInfo[workName] = [x[1] for x in wLines]
+        if cleanDone:
+            for file in sorted(workFiles):
+                if workName is not None and file != workName:
+                    continue
 
-            wPages = sorted(pages.get(workName, []), key=lambda x: x[1])
-            pageInfo[workName] = [f"{x[0]}. {x[-1]}" for x in wPages]
+                wLines = sorted(lineNumbers.get(file, []), key=lambda x: x[0])
+                lineInfo[file] = [x[1] for x in wLines]
 
-            wSections = sections.get(workName, ())
+                wPages = sorted(pages.get(file, []), key=lambda x: x[1])
+                pageInfo[file] = [f"{x[0]}. {x[-1]}" for x in wPages]
 
-            items = []
+                wSections = sections.get(file, ())
 
-            for kind, number in wSections:
-                cnt = sectionCount[kind]
-                items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
-
-            sectionInfo[workName] = items
-
-            wpSections = pseudoSections.get(workName, ())
-
-            if len(wpSections):
                 items = []
 
-                for kind, number in wpSections:
+                for kind, number in wSections:
                     cnt = sectionCount[kind]
+                    items.append(f"x {cnt:>4} {kind} {number or ''}".rstrip())
 
-                    if kind.isdigit() or kind.lower() in NONSECTION or cnt == 1:
-                        continue
+                sectionInfo[file] = items
 
-                    items.append(f"({cnt:>3}) {kind} {number or ''}".rstrip())
+                wpSections = pseudoSections.get(file, ())
 
-                pseudoSectionInfo[workName] = items
+                if len(wpSections):
+                    items = []
 
-        writeYaml(lineInfo, asFile=REPORT_LINES)
-        self.console(f"See for pages: {REPORT_LINES}")
+                    for kind, number in wpSections:
+                        cnt = sectionCount[kind]
 
-        writeYaml(pageInfo, asFile=REPORT_PAGES)
-        self.console(f"See for pages: {REPORT_PAGES}")
+                        if kind.isdigit() or kind.lower() in NONSECTION or cnt == 1:
+                            continue
 
-        writeYaml(sectionInfo, asFile=REPORT_SECTIONS)
-        self.console(f"See for sections: {REPORT_SECTIONS}")
+                        items.append(f"x {cnt:>4} {kind} {number or ''}".rstrip())
 
-        writeYaml(pseudoSectionInfo, asFile=REPORT_NONSECTIONS)
-        self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
+                    pseudoSectionInfo[file] = items
+
+            writeYaml(lineInfo, asFile=REPORT_LINES)
+            self.console(f"See for pages: {REPORT_LINES}")
+
+            writeYaml(pageInfo, asFile=REPORT_PAGES)
+            self.console(f"See for pages: {REPORT_PAGES}")
+
+            writeYaml(sectionInfo, asFile=REPORT_SECTIONS)
+            self.console(f"See for sections: {REPORT_SECTIONS}")
+
+            writeYaml(pseudoSectionInfo, asFile=REPORT_NONSECTIONS)
+            self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
 
         self.showWarnings(serious=False)
         self.showWarnings()
@@ -1072,23 +1112,6 @@ class TeiFromDocx:
         self.rhw = None
         self.rhi.close()
         self.rhi = None
-
-    def teiFromTei(self):
-        if self.error:
-            return
-
-        console("TEI => enriched TEI ...")
-
-        initTree(TEIDIR, fresh=True, gentle=True)
-        workFiles = self.workFiles
-
-        for workName in sorted(workFiles):
-            (workStatus, workMsg, workText) = self.transformWork(workName)
-
-            with open(f"{TEIDIR}/{workName}.xml", "w") as f:
-                f.write(workText)
-
-            console(f"\t{workName:<30} ... {workMsg}", error=not workStatus)
 
     def task(self, *args, **kwargs):
         if self.error:
@@ -1136,6 +1159,7 @@ class TeiFromDocx:
                         "skipClean",
                         "skipTeix",
                         "skipTei",
+                        "workName",
                     }
                 }
                 self.convert(**mykwargs)
