@@ -54,28 +54,46 @@ Aler-Innocentia:
   - i
 - - §scena
   - i
+- - §personae
+  - sigefridus
 - - §scena
   - ii
+- - §personae
+  - genovefa
 - - §scena
   - iii
+- - §personae
+  - benoni
 - - §scena
   - iv
 - - §scena
   - v
+- - §pars
+  - ii
 - - §actus
   - ii
 - - §scena
   - i
+- - §personae
+  - sigefridus
 - - §scena
   - ii
+- - §personae
+  - sigefridus
 - - §scena
   - iii
 - - §scena
   - iv
 - - §scena
   - v
+- - §personae
+  - golo
+- - §personae
+  - ''
 - - §scena
   - vi
+- - §personae
+  - lindus
 - - §scena
   - vii
 - - §personae
@@ -84,14 +102,22 @@ Aler-Innocentia:
   - viii
 - - §personae
   - ''
+- - ±chorus
+  - nunc
 - - §scena
   - i
+- - ±chorus
+  - genovefae
 - - §scena
   - ii
 - - §scena
   - iii
+- - §personae
+  - ''
 - - §scena
   - iv
+- - §personae
+  - sigefridus
 Balde-Iephtias:
 - - §personae
   - ''
@@ -101,10 +127,14 @@ Balde-Iephtias:
   - i
 - - §scena
   - ii
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
+  - pulcrius
+- - ±chorus
   - ''
+- - §incipit
+  - a
 - - §actus
   - ii
 - - §scena
@@ -121,10 +151,30 @@ Balde-Iephtias:
   - vi
 - - §scena
   - vii
-- - '*chorus'
+- - ±chorus
   - vates
-- - '*chorus'
+- - ±chorus
+  - agitatur
+- - ±chorus
   - vtinam
+- - ±chorus
+  - dulcia
+- - ±chorus
+  - seria
+- - ±chorus
+  - inimicus
+- - ±chorus
+  - totus
+- - ±chorus
+  - ducem
+- - ±chorus
+  - vtinam
+- - ±chorus
+  - obscura
+- - ±chorus
+  - rursus
+- - ±chorus
+  - conticuit
 - - §actus
   - iii
 - - §scena
@@ -133,24 +183,58 @@ Balde-Iephtias:
   - ii
 - - §scena
   - iii
-- - '*chorus'
+- - ±chorus
+  - bello
+- - ±chorus
+  - ducite
+- - ±chorus
   - maspham
 - - §scena
   - iv
-- - '*chorus'
+- - ±chorus
   - militum
+- - ±chorus
+  - mis
+- - ±chorus
+  - dam
+- - ±chorus
+  - dam
+- - ±chorus
+  - exc
+- - ±chorus
+  - dam
+- - ±chorus
+  - exc
+- - ±chorus
+  - dam
 - - §actus
   - iv
 - - §scena
   - i
+- - ±chorus
+  - chor
 - - §scena
   - ii
-- - '*chorus'
+- - ±chorus
+  - quando
+- - ±chorus
+  - nescis
+- - ±chorus
   - tuo
+- - ±chorus
+  - quem
+- - ±chorus
+  - rupit
 - - §scena
   - iii
 - - §scena
   - iv
+- - ±chorus
+  - genitoris
+- - ±chorus
+  - iterum
+- - ±chorus
+  - miretur
 - - §actus
   - v
 - - §scena
@@ -161,95 +245,117 @@ Balde-Iephtias:
   - iii
 - - §scena
   - iv
-- - '*chorus'
+- - ±chorus
+  - nullus
+- - ±chorus
+  - vtinam
+- - ±chorus
+  - resonas
+- - ±chorus
+  - tale
+- - ±chorus
   - flevimus
-- - '*chorus'
+- - ±chorus
+  - quid
+- - ±chorus
   - absistat
-- - '*chorus'
+- - ±chorus
+  - pectus
+- - ±chorus
   - ''
 Barlandus-Dialogus: []
 Beza-Abrahamus:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ex
 - - §prologus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ex
 - - §actus
   - secvndvs
+- - ±chorus
+  - ex
 - - §actus
   - tertivs
 - - §epilogus
   - ''
 Brechtus-Euripus:
+- - §prologus
+  - cum
 - - §personae
   - dramatis
-- - '*chorus'
+- - ±chorus
   - lamentantium
-- - '*chorus'
+- - ±chorus
   - daemonum
-- - '*chorus'
+- - ±chorus
   - primus
-- - '*chorus'
+- - ±chorus
   - secundus
-- - '*chorus'
+- - ±chorus
   - tertius
-- - '*chorus'
+- - ±chorus
   - quartus
-- - '*chorus'
+- - ±chorus
   - daemonum
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - quintus
 - - §peroratio
   - ''
 Caussin-Felicitas:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §argumentum
   - heroico
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - celebrat
 - - §actus
   - secvndi
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
+- - ±chorus
+  - coelestis
 - - §actus
   - tertii
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvarti
+- - §incipit
+  - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
+  - coelestis
+- - ±chorus
   - ''
 - - §actus
   - qvinti
 - - §actus
   - qvintvs
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 Caussin-Hermenigildus:
 - - §personae
@@ -269,84 +375,98 @@ Caussin-Hermenigildus:
 Caussin-Nabuchodonosor:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - hebraeorvm
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
-- - '*chorus'
+- - ±chorus
+  - heu
+- - ±chorus
+  - miser
+- - ±chorus
   - principvm
+- - ±chorus
+  - heu
 Caussin-Solyma:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - hebraeorum
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - chaldaeorvm
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
-- - '*chorus'
+- - ±chorus
   - ''
+- - ±chorus
+  - heu
+- - ±chorus
+  - patris
+- - ±chorus
+  - eheu
 Caussin-Theodoricus:
 - - §personae
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
+  - eheu
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
-- - '*chorus'
+- - ±chorus
   - angelorvm
 Cellotius-Adrianus:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
@@ -360,7 +480,7 @@ Cellotius-Adrianus:
   - qvarta
 - - §scena
   - qvinta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
@@ -378,7 +498,7 @@ Cellotius-Adrianus:
   - sexta
 - - §scena
   - septima
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
@@ -396,7 +516,7 @@ Cellotius-Adrianus:
   - sexta
 - - §scena
   - septima
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
@@ -410,7 +530,7 @@ Cellotius-Adrianus:
   - qvarta
 - - §scena
   - qvinta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -427,7 +547,7 @@ Cellotius-Adrianus:
 Cellotius-Chosroes:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
@@ -437,7 +557,7 @@ Cellotius-Chosroes:
   - secvnda
 - - §scena
   - tertia
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
@@ -445,16 +565,22 @@ Cellotius-Chosroes:
   - prima
 - - §scena
   - secvnda
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
 - - §scena
   - prima
-- - '*chorus'
+- - ±chorus
   - vasaces
 - - §scena
   - secvnda
+- - ±chorus
+  - vrbem
+- - ±chorus
+  - natum
+- - ±chorus
+  - mutanda
 - - §scena
   - tertia
 - - §scena
@@ -463,7 +589,7 @@ Cellotius-Chosroes:
   - qvinta
 - - §scena
   - sexta
-- - '*chorus'
+- - ±chorus
   - christianorvm
 - - §actus
   - qvartvs
@@ -473,7 +599,7 @@ Cellotius-Chosroes:
   - secvnda
 - - §scena
   - tertia
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -605,7 +731,7 @@ Cellotius-Reviviscentes:
 Cellotius-Sapor:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
@@ -619,7 +745,7 @@ Cellotius-Sapor:
   - qvarta
 - - §scena
   - qvinta
-- - '*chorus'
+- - ±chorus
   - militvm
 - - §actus
   - secvndvs
@@ -643,7 +769,7 @@ Cellotius-Sapor:
   - nona
 - - §scena
   - decima
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
@@ -665,7 +791,7 @@ Cellotius-Sapor:
   - octava
 - - §scena
   - nona
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
@@ -699,7 +825,7 @@ Cellotius-Sapor:
   - decimaqvarta
 - - §scena
   - decimaqvinta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -745,10 +871,16 @@ Claus-Vulpanser:
   - prima
 - - §scena
   - prima
+- - §personae
+  - mopsus
 - - §scena
   - secunda
+- - §personae
+  - vulpulus
 - - §scena
   - tertia
+- - §personae
+  - accedunt
 - - §scena
   - quarta
 - - §scena
@@ -759,10 +891,14 @@ Claus-Vulpanser:
   - septima
 - - §scena
   - octava
+- - §personae
+  - vulpulus
 - - §scena
   - nona
 - - §scena
   - decima
+- - §personae
+  - vulpulus
 - - §scena
   - undecima
 - - §pars
@@ -773,22 +909,32 @@ Claus-Vulpanser:
   - secunda
 - - §scena
   - tertia
+- - §personae
+  - vulpulus
 - - §scena
   - quarta
+- - §personae
+  - vulpulus
 - - §scena
   - quinta
 - - §scena
   - sexta
+- - §personae
+  - vulpulus
 - - §scena
   - septima
 - - §pars
   - tertia
 - - §scena
   - prima
+- - §personae
+  - vulpulus
 - - §scena
   - secunda
 - - §scena
   - tertia
+- - §personae
+  - heribertus
 - - §scena
   - quarta
 - - §scena
@@ -798,7 +944,7 @@ Crocus-Ioseph:
   - personae
 - - §prologus
   - ''
-- - '*protasis'
+- - ±protasis
   - comoediae
 - - §actus-scena
   - primi-i
@@ -816,7 +962,7 @@ Crocus-Ioseph:
   - secvndi-ii
 - - §actus-scena
   - secvndi-iii
-- - '*epitasis'
+- - ±epitasis
   - comoediae
 - - §actus-scena
   - tertii-i
@@ -837,13 +983,13 @@ Crocus-Ioseph:
 Cunaeus-Dido:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 Dalanthus-Dido:
 - - §dramatis
@@ -858,7 +1004,7 @@ Dalanthus-Dido:
   - iii
 - - §scena
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -868,7 +1014,7 @@ Dalanthus-Dido:
   - iii
 - - §scena
   - iiii
-- - '*chorus'
+- - ±chorus
   - nympharum
 - - §actus-scena
   - iii-1
@@ -878,7 +1024,7 @@ Dalanthus-Dido:
   - iii
 - - §scena
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iiii-i
@@ -888,7 +1034,7 @@ Dalanthus-Dido:
   - iii
 - - §scena
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -896,7 +1042,13 @@ Dalanthus-Dido:
   - ii
 - - §scena
   - iii
-- - '*finis'
+- - ±chorus
+  - tergo
+- - ±chorus
+  - eructat
+- - ±chorus
+  - regina
+- - ±finis
   - ''
 Diether-Ioseph:
 - - §personae
@@ -931,6 +1083,8 @@ Diether-Ioseph:
   - tertii
 - - §scena
   - i
+- - ±finis
+  - quod
 - - §scena
   - ii
 - - §scena
@@ -1020,32 +1174,34 @@ Enden-Philedonius:
   - viii
 - - §uitkomste
   - ix
+- - ±chorus
+  - ''
 Ens-Auriacus:
 - - §dramatis
   - personae
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secundus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertius
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quartus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quintus
@@ -1060,81 +1216,145 @@ Forsett-Pedantius:
   - '1'
 - - §actus-scena
   - 1-2
-- - §actus
-  - primi
-- - §actus
-  - primi
-- - §actus
-  - secundus
+- - §actus-scena
+  - primi-tertia
+- - §actus-scena
+  - primi-quarta
 - - §actus
   - secundus
-- - §actus
-  - secundus
-- - §actus
-  - secundus
+- - §scena
+  - prima
+- - §actus-scena
+  - secundus-secunda
+- - §actus-scena
+  - secundus-tertia
+- - §actus-scena
+  - secundus-quarta
 - - §actus
   - tertius
 - - §scena
   - prima
-- - §actus
-  - tertius
-- - §actus
-  - tertius
-- - §actus
-  - tertius
-- - §actus
-  - tertius
-- - §actus
-  - tertius
-- - §actus
-  - quarta
+- - §actus-scena
+  - tertius-secunda
+- - §actus-scena
+  - tertius-tertia
+- - §actus-scena
+  - tertius-quarta
+- - §actus-scena
+  - tertius-quinta
+- - §actus-scena
+  - tertius-sexta
 - - §actus
   - quarta
-- - §actus
-  - quartus
-- - §actus
-  - quartus
-- - §actus
-  - quartus
-- - §actus
-  - quintus
-- - §actus
-  - quintus
-- - §actus
-  - quintus
+- - §scena
+  - prima
+- - §actus-scena
+  - quarta-secunda
+- - §actus-scena
+  - quartus-tertia
+- - §actus-scena
+  - quartus-quarta
+- - §actus-scena
+  - quartus-quinta
 - - §actus
   - quintus
-- - §actus
-  - quintus
-- - §actus
-  - quintus
+- - §scena
+  - prima
+- - §actus-scena
+  - quintus-secunda
+- - §actus-scena
+  - quintus-tertia
+- - §actus-scena
+  - quintus-quarta
+- - §actus-scena
+  - quintus-quinta
+- - §actus-scena
+  - quintus-sexta
 Foxe-Christus:
 - - §prologus
   - ''
+- - ±comoedia
+  - si
 - - §dramatis
   - personae
-- - '*chorus'
+- - ±chorus
   - quinque
-- - '*chorus'
+- - §actus-scena
+  - i-i
+- - §actus-scena
+  - i-ii
+- - §actus-scena
+  - i-iii
+- - §actus-scena
+  - i-iv
+- - §actus-scena
+  - ii-i
+- - §actus-scena
+  - ii-ii
+- - §actus-scena
+  - ii-iii
+- - §actus-scena
+  - ii-iv
+- - §actus-scena
+  - iii-i
+- - §actus-scena
+  - iii-ii
+- - §actus-scena
+  - iii-iii
+- - §actus-scena
+  - iii-iv
+- - §actus-scena
+  - iii-v
+- - §actus-scena
+  - iii-vi
+- - §actus-scena
+  - iii-vii
+- - §actus-scena
+  - iv-i
+- - §actus-scena
+  - iv-ii
+- - §actus-scena
+  - iv-iii
+- - §actus-scena
+  - iv-iv
+- - §actus-scena
+  - iv-v
+- - §actus-scena
+  - iv-vi
+- - §actus-scena
+  - iv-viii
+- - ±chorus
   - ''
-- - '*chorus'
-  - '2'
-- - '*chorus'
-  - '3'
-- - '*chorus'
-  - '4'
-- - '*chorus'
+- - §actus-scena
+  - v-i
+- - §actus-scena
+  - v-ii
+- - §actus-scena
+  - v-iii
+- - §actus-scena
+  - v-iv
+- - §actus-scena
+  - v-v
+- - ±chorus
   - '5'
-- - '*chorus'
+- - ±chorus
+  - '2'
+- - ±chorus
+  - '3'
+- - ±chorus
+  - '4'
+- - ±chorus
+  - '5'
+- - ±chorus
   - '1'
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - virginum
 Gnapheus-Acolastus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -1272,8 +1492,14 @@ Goethals-Soter:
   - secundi-prima
 - - §actus-scena
   - secundi-secunda
-- - '*chorus'
+- - ±chorus
   - aggrediar
+- - ±chorus
+  - sic
+- - ±chorus
+  - hic
+- - ±chorus
+  - delicta
 - - §actus-scena
   - secundi-tertia
 - - §actus-scena
@@ -1284,6 +1510,10 @@ Goethals-Soter:
   - tertii-secunda
 - - §actus-scena
   - tertij-tertia
+- - ±chorus
+  - saluete
+- - ±chorus
+  - recte
 - - §actus-scena
   - tertij-quarta
 - - §actus-scena
@@ -1302,6 +1532,14 @@ Goethals-Soter:
   - quinti-secunda
 - - §actus-scena
   - quinti-tertia
+- - ±chorus
+  - nulli
+- - ±chorus
+  - ''
+- - ±chorus
+  - fas
+- - ±chorus
+  - sedate
 - - §peroratio
   - ''
 Gretser-Timon:
@@ -1314,16 +1552,16 @@ Gretser-Timon:
 Gretser-Underwaldius:
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - progressu
 - - §actus-scena
   - primi-secunda
 Grimald-Christus:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - discipulorum
-- - '*chorus'
+- - ±chorus
   - galileidum
 - - §prologus
   - ''
@@ -1380,93 +1618,103 @@ Grimald-Christus:
 Grotius-Adamus:
 - - §actus
   - primus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secundus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - iii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quintus
 Grotius-Christus:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - iudaearum
-- - '*chorus'
+- - ±chorus
   - militum
 - - §actus
   - primus
-- - '*chorus'
+- - ±chorus
   - iudaearum
 - - §actus
   - secundus
-- - '*chorus'
+- - ±chorus
   - iudaearum
 - - §actus
   - tertius
-- - '*chorus'
+- - ±chorus
   - iudaearum
+- - ±chorus
+  - eheu
 - - §actus
   - quartus
-- - '*chorus'
+- - ±chorus
+  - dum
+- - ±chorus
+  - quid
+- - ±chorus
+  - positone
+- - ±chorus
   - romanorum
 - - §actus
   - quintus
 Grotius-Phoenissae:
 - - §interlocutores
   - ''
-- - '*chorus'
+- - ±chorus
   - phoenissarum
-- - '*strophe'
+- - ±strophe
   - i
-- - '*strophe'
+- - ±strophe
   - ii
-- - '*strophe'
+- - ±strophe
   - iii
-- - '*strophe'
+- - ±strophe
   - iv
-- - '*strophe'
+- - ±strophe
   - v
-- - '*strophe'
+- - ±strophe
   - vi
-- - '*strophe'
+- - ±strophe
   - vii
-- - '*strophe'
+- - ±strophe
   - viii
-- - '*strophe'
+- - ±strophe
   - ix
-- - '*strophe'
+- - ±strophe
   - x
-- - '*strophe'
+- - ±strophe
   - xi
-- - '*strophe'
+- - ±strophe
   - xii
-- - '*strophe'
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±chorus
+  - en
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±strophe
   - ''
-- - '*strophe'
+- - ±strophe
   - i
-- - '*strophe'
+- - ±strophe
   - ii
-- - '*strophe'
+- - ±strophe
   - iii
 Gwalther-Nabal:
 - - §dramatis
@@ -1586,21 +1834,21 @@ Gwalther-Nabal:
 Heinsius-Auriacus:
 - - §personae
   - tragoediae
-- - '*chorus'
+- - ±chorus
   - satellitum
-- - '*chorus'
+- - ±chorus
   - senum
 - - §actus-scena
   - ii-i
 - - §scena
   - ii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
 - - §scena
   - ii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - quartus-i
@@ -1608,24 +1856,26 @@ Heinsius-Auriacus:
   - ii
 - - §scena
   - iii
-- - '*chorus'
+- - ±finis
+  - futuri
+- - ±chorus
   - ''
 - - §actus
   - v
 Heinsius-Herodes:
-- - '*chorus'
+- - ±chorus
   - vatum
 - - §actus
   - secundus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertius
-- - '*chorus'
+- - ±chorus
   - senum
 - - §actus
   - quartus
-- - '*chorus'
+- - ±chorus
   - militum
 - - §actus
   - quintus
@@ -1636,7 +1886,7 @@ Holonius-Catharina:
   - ''
 - - §personae
   - tragoediae
-- - '*chorus'
+- - ±chorus
   - duplex
 - - §actus
   - primi
@@ -1656,7 +1906,7 @@ Holonius-Catharina:
   - primi
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - aegyptiarvm
 - - §actus
   - secvndi
@@ -1670,7 +1920,7 @@ Holonius-Catharina:
   - ii-iiii
 - - §actus
   - ii
-- - '*chorus'
+- - ±chorus
   - aegyptiarvm
 - - §actus
   - tertii
@@ -1682,7 +1932,7 @@ Holonius-Catharina:
   - iii-iii
 - - §actus-scena
   - iii-iiii
-- - '*chorus'
+- - ±chorus
   - angelorvm
 - - §actus
   - qvarti
@@ -1694,11 +1944,23 @@ Holonius-Catharina:
   - ii
 - - §actus-scena
   - iiii-iii
+- - ±chorus
+  - at
+- - ±chorus
+  - caesar
+- - ±chorus
+  - miserere
+- - ±chorus
+  - at
+- - ±chorus
+  - at
 - - §actus-scena
   - iiii-iiii
+- - ±chorus
+  - renidet
 - - §actus-scena
   - iiii-v
-- - '*chorus'
+- - ±chorus
   - aegyptiarvm
 - - §actus
   - qvinti
@@ -1729,6 +1991,8 @@ Holonius-Laurentias:
   - ''
 - - §personae
   - actionis
+- - ±chorus
+  - puellarum
 - - §actus-scena
   - i-ii
 - - §actus
@@ -1747,7 +2011,7 @@ Holonius-Laurentias:
   - i
 - - §actus-scena
   - i-vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndi
@@ -1775,6 +2039,8 @@ Holonius-Laurentias:
   - ii-vii
 - - §actus
   - ii
+- - ±chorus
+  - angelorvm
 - - §actus-scena
   - tertii-i
 - - §actus
@@ -1799,7 +2065,7 @@ Holonius-Laurentias:
   - tertii-viii
 - - §actus
   - iii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - iiii
@@ -1825,7 +2091,7 @@ Holonius-Laurentias:
   - iiii
 - - §actus
   - iiii
-- - '*chorus'
+- - ±chorus
   - angelorvm
 - - §actus
   - iiii
@@ -1868,25 +2134,29 @@ Holonius-Laurentias:
 Honerdus-Thamara:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §scena-actus
   - prima-primvs
 - - §scena
   - secvnda
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
+- - ±chorus
+  - senex
+- - ±chorus
+  - vnusne
 - - §scena
   - secvnda
 - - §scena
   - tertia
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 Houcharius-Grisellis:
 - - §prologus
@@ -1898,9 +2168,9 @@ Houcharius-Grisellis:
 - - §conclusio
   - ''
 Houthem-Gedeon:
-- - '*ludionum'
+- - ±ludionum
   - nomenclaturę
-- - '*chorus'
+- - ±chorus
   - ''
 - - §prologus
   - ''
@@ -1914,7 +2184,7 @@ Houthem-Gedeon:
   - primi-tertia
 - - §actus-scena
   - primi-quarta
-- - '*chorus'
+- - ±chorus
   - primus
 - - §actus-scena
   - secundus-prima
@@ -1922,7 +2192,7 @@ Houthem-Gedeon:
   - secundi-secunda
 - - §actus-scena
   - secundi-tertia
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - tertij-prima
@@ -1932,7 +2202,7 @@ Houthem-Gedeon:
   - tertij-tertia
 - - §actus-scena
   - tertij-quarta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - quarti-prima
@@ -1940,7 +2210,7 @@ Houthem-Gedeon:
   - quarti-secunda
 - - §actus-scena
   - quarti-tertia
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - quinti-prima
@@ -1955,7 +2225,7 @@ Houthem-Gedeon:
 Ischyrius-Homulus:
 - - §interlocutores
   - ''
-- - '*comoediae'
+- - ±comoediae
   - sequentis
 - - §prologus
   - ''
@@ -2012,123 +2282,153 @@ Ischyrius-Homulus:
 - - §scena
   - vii
 Kerckmeister-Codrus:
+- - §prologus
+  - in
 - - §argumentum
   - ''
 Knuyt-Scornetta: []
 Laurimanus-Exodus:
-- - '*actorum'
+- - ±actorum
   - nomina
+- - ±chorus
+  - ex
 - - §epilogus
   - populus
 - - §prologus
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*finis'
+- - ±finis
   - prologi
 - - §actus-scena
   - primi-prima
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
+- - ±chorus
+  - i
 - - §actus-scena
   - secundi-prima
 - - §scena
+  - '2'
+- - §scena
   - '4'
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±chorus
+  - '2'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - §actus-scena
+  - 3-1a
+- - ±comoedia
   - ''
 - - §scena
   - tertia
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '7'
 - - §scena
   - '8'
+- - ±chorus
+  - tertius
+- - §actus-scena
+  - 4-i
 - - §scena
   - '2'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '3'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '4'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '5'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
+  - '6'
+- - §scena
   - '7'
-- - '*comoedia'
+- - §scena
+  - '8'
+- - §scena
+  - '9'
+- - ±comoedia
   - ''
 - - §scena
   - '10'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - ii
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - xii
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*chorus'
+- - §scena
+  - xiii
+- - ±chorus
   - '4'
 - - §actus-scena
   - 5-i
 - - §scena
+  - '2'
+- - §scena
   - '4'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '5'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '6'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '7'
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - '8'
 - - §scena
   - '9'
+- - §scena
+  - '10'
 - - §epilogus
   - seu
-- - '*comoedia'
+- - ±comoedia
   - ''
-- - '*comoedia'
+- - ±comoedia
   - tragica
 Laurimanus-Miles:
 - - §personae
   - dramatis
+- - ±chorus
+  - ex
 - - §argumentum
   - comoediae
 - - §prologus
@@ -2153,7 +2453,7 @@ Laurimanus-Miles:
   - primi-qvinta
 - - §argumentum
   - ''
-- - '*chorus'
+- - ±chorus
   - primvs
 - - §actus-scena
   - secvndi-prima
@@ -2179,7 +2479,7 @@ Laurimanus-Miles:
   - secvndi-sexta
 - - §argumentum
   - ''
-- - '*chorus'
+- - ±chorus
   - secvndvs
 - - §actus-scena
   - tertii-prima
@@ -2203,7 +2503,7 @@ Laurimanus-Miles:
   - tertii-sexta
 - - §argumentum
   - ''
-- - '*chorus'
+- - ±chorus
   - tertivs
 - - §actus-scena
   - qvarti-prima
@@ -2213,37 +2513,41 @@ Laurimanus-Miles:
   - qvarti-tertia
 - - §actus-scena
   - iiii-qvarta
-- - '*chorus'
+- - ±chorus
   - qvartvs
 - - §actus-scena
   - qvinti-prima
 - - §actus-scena
   - v-secvnda
+- - §actus-scena
+  - v-iii
 - - §epilogus
   - ''
 Locher-Iudicium:
+- - §prologus
+  - silentium
 - - §actus
   - secvndvs
 - - §actus
   - qvartvs
 Lummenaeus-Abimelech:
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -2254,7 +2558,7 @@ Lummenaeus-Amnon:
   - prima
 - - §actus
   - i
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - i
@@ -2266,7 +2570,7 @@ Lummenaeus-Amnon:
   - ii
 - - §actus
   - ii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - ii
@@ -2274,7 +2578,7 @@ Lummenaeus-Amnon:
   - iii
 - - §actus
   - iii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - iii
@@ -2288,7 +2592,7 @@ Lummenaeus-Amnon:
   - iiii
 - - §actus
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - v
@@ -2298,116 +2602,120 @@ Lummenaeus-Amnon:
   - v
 - - §actus
   - v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - v
 Lummenaeus-Bustum:
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
 Lummenaeus-Carcer:
-- - '*chorus'
+- - ±chorus
   - chaldaeorvm
-- - '*chorus'
+- - ±chorus
   - israelitarvm
-- - §actus
-  - primi
-- - '*chorus'
+- - §actus-scena
+  - primi-i
+- - ±chorus
   - chald
 - - §actus
   - '2'
-- - '*chorus'
+- - ±chorus
   - chald
 - - §actus
   - '3'
-- - '*chorus'
+- - ±chorus
   - israelit
 - - §actus
   - '4'
-- - '*chorus'
+- - ±chorus
   - israelit
+- - ±chorus
+  - iterum
 - - §actus
   - '5'
-- - '*chorus'
+- - ±chorus
   - israelit
 Lummenaeus-Iephte:
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
 Lummenaeus-Sampson:
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
 Lummenaeus-Saul:
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
 Macropedius-Adamus:
 - - §prologus
   - ''
+- - §personae
+  - dramatis
 - - §actus-scena
   - i-i
 - - §actus-scena
@@ -2422,8 +2730,10 @@ Macropedius-Adamus:
   - i-vi
 - - §actus-scena
   - i-vii
-- - '*chorus'
+- - ±chorus
   - ''
+- - §personae
+  - dramatis
 - - §actus-scena
   - ii-i
 - - §actus-scena
@@ -2432,11 +2742,13 @@ Macropedius-Adamus:
   - ii-iii
 - - §actus-scena
   - ii-interiectitia
+- - §actus
+  - ii
 - - §actus-scena
   - ii-iv
 - - §actus-scena
   - ii-v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §personae-actus
   - dramatis-tertii
@@ -2444,6 +2756,8 @@ Macropedius-Adamus:
   - iii-i
 - - §actus-scena
   - iii-interiectitia
+- - §actus
+  - iii
 - - §actus-scena
   - iii-ii
 - - §actus-scena
@@ -2461,12 +2775,16 @@ Macropedius-Adamus:
 - - §actus-scena
   - iii-interiectitia
 - - §actus-scena
+  - iii-altera
+- - §actus
+  - iii
+- - §actus-scena
   - iii-ix
 - - §actus-scena
   - iii-x
 - - §actus-scena
   - iii-xi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §personae-actus
   - dramatis-quarti
@@ -2480,10 +2798,14 @@ Macropedius-Adamus:
   - iv-iv
 - - §actus-scena
   - iv-v
+- - ±finis
+  - super
 - - §actus-scena
   - iv-vi
-- - '*chorus'
+- - ±chorus
   - ''
+- - §dramatis
+  - personae
 - - §actus-scena
   - v-i
 - - §actus-scena
@@ -2518,9 +2840,15 @@ Macropedius-Adamus:
   - v-xvi
 - - §actus-scena
   - v-xvii
+- - §epilogus
+  - per
 Macropedius-Aluta:
 - - §dramatis
   - personae
+- - §prologus
+  - cum
+- - §prologus
+  - in
 - - §actus-scena
   - i-i
 - - §actus-scena
@@ -2533,19 +2861,21 @@ Macropedius-Aluta:
   - i-v
 - - §actus-scena
   - i-vi
+- - ±chorus
+  - ex
 - - §actus-scena
   - ii-i
 - - §actus-scena
   - ii-ii
 - - §actus-scena
   - ii-iii
-- - '*chorus'
+- - ±chorus
   - maenadum
 - - §actus-scena
   - iii-i
 - - §actus-scena
   - iii-ii
-- - '*chorus'
+- - ±chorus
   - mimallonum
 - - §actus-scena
   - iv-i
@@ -2555,7 +2885,7 @@ Macropedius-Aluta:
   - iv-iii
 - - §actus-scena
   - iv-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -2568,8 +2898,10 @@ Macropedius-Aluta:
 Macropedius-Andrisca:
 - - §prologus
   - ''
-- - '*chorus'
+- - ±chorus
   - bacchidum
+- - ±comoedia
+  - una
 - - §actus-scena
   - primi-prima
 - - §actus-scena
@@ -2578,7 +2910,7 @@ Macropedius-Andrisca:
   - primi-tertia
 - - §actus-scena
   - primi-quarta
-- - '*chorus'
+- - ±chorus
   - mimallonum
 - - §actus-scena
   - ii-i
@@ -2588,7 +2920,7 @@ Macropedius-Andrisca:
   - secundi-tertia
 - - §actus-scena
   - secundi-quarta
-- - '*chorus'
+- - ±chorus
   - mimallonum
 - - §actus-scena
   - iii-i
@@ -2598,7 +2930,7 @@ Macropedius-Andrisca:
   - tertij-tertia
 - - §actus-scena
   - tertij-quarta
-- - '*chorus'
+- - ±chorus
   - mimallonum
 - - §actus-scena
   - iiii-i
@@ -2610,7 +2942,7 @@ Macropedius-Andrisca:
   - quarta-quarti
 - - §actus-scena
   - quarti-quinta
-- - '*chorus'
+- - ±chorus
   - mimallonum
 - - §actus-scena
   - quinti-prima
@@ -2649,7 +2981,7 @@ Macropedius-Asotus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -2661,7 +2993,7 @@ Macropedius-Asotus:
   - ii-iv
 - - §actus-scena
   - ii-v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -2685,7 +3017,7 @@ Macropedius-Asotus:
   - iii-x
 - - §actus-scena
   - iii-xi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -2703,7 +3035,7 @@ Macropedius-Asotus:
   - iv-vii
 - - §actus-scena
   - iv-viii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -2724,7 +3056,7 @@ Macropedius-Asotus:
 - - §actus-scena
   - v-ultima
 Macropedius-Bassarus:
-- - '*actores'
+- - ±actores
   - fabulae
 - - §prologus
   - dromus
@@ -2738,7 +3070,7 @@ Macropedius-Bassarus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -2748,7 +3080,7 @@ Macropedius-Bassarus:
   - ii-iii
 - - §actus-scena
   - ii-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -2764,7 +3096,7 @@ Macropedius-Bassarus:
   - iii-vi
 - - §actus-scena
   - iii-vii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -2782,7 +3114,7 @@ Macropedius-Bassarus:
   - iv-vii
 - - §actus-scena
   - iv-viii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -2796,8 +3128,10 @@ Macropedius-Hecastus:
 - - §personae
   - dramatis
 - - §prologus
+  - daemones
+- - §prologus
   - in
-- - '*chorus'
+- - ±chorus
   - versu
 - - §actus-scena
   - i-i
@@ -2807,7 +3141,7 @@ Macropedius-Hecastus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -2829,7 +3163,7 @@ Macropedius-Hecastus:
   - ii-ix
 - - §actus-scena
   - ii-x
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -2845,7 +3179,7 @@ Macropedius-Hecastus:
   - iii-vi
 - - §actus-scena
   - iii-vii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -2855,7 +3189,7 @@ Macropedius-Hecastus:
   - iv-iii
 - - §actus-scena
   - iv-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -2878,6 +3212,8 @@ Macropedius-Hecastus:
 - - §actus-scena
   - v-xi
 - - §actus-scena
+  - v-xii
+- - §actus-scena
   - v-xiii
 Macropedius-Hypomone:
 - - §dramatis
@@ -2890,7 +3226,7 @@ Macropedius-Hypomone:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -2904,13 +3240,13 @@ Macropedius-Hypomone:
   - ii-v
 - - §actus-scena
   - ii-vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
 - - §actus-scena
   - iii-ii
-- - '*chorus'
+- - ±chorus
   - versu
 - - §actus-scena
   - iv-i
@@ -2920,7 +3256,7 @@ Macropedius-Hypomone:
   - iv-iii
 - - §actus-scena
   - iv-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -2932,7 +3268,7 @@ Macropedius-Hypomone:
   - v-iv
 - - §actus-scena
   - v-v
-- - '*chorus'
+- - ±chorus
   - ''
 Macropedius-Iesus:
 - - §dramatis
@@ -2941,6 +3277,8 @@ Macropedius-Iesus:
   - cum
 - - §prologus
   - ''
+- - §personae
+  - erunt
 - - §actus-scena
   - i-i
 - - §actus-scena
@@ -2949,7 +3287,7 @@ Macropedius-Iesus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - carmine
 - - §actus-scena
   - ii-i
@@ -2971,7 +3309,7 @@ Macropedius-Iesus:
   - ii-ix
 - - §actus-scena
   - ii-x
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -2987,7 +3325,7 @@ Macropedius-Iesus:
   - iii-vi
 - - §actus-scena
   - iii-vii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -3007,7 +3345,7 @@ Macropedius-Iesus:
   - iv-viii
 - - §actus-scena
   - iv-ix
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -3036,7 +3374,7 @@ Macropedius-Iosephus:
   - stratophilus
 - - §prologus
   - ''
-- - '*finis'
+- - ±finis
   - prologi
 - - §actus-scena
   - i-i
@@ -3046,7 +3384,7 @@ Macropedius-Iosephus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -3066,7 +3404,7 @@ Macropedius-Iosephus:
   - ii-viii
 - - §actus-scena
   - ii-ix
-- - '*chorus'
+- - ±chorus
   - per
 - - §actus-scena
   - iii-i
@@ -3080,7 +3418,7 @@ Macropedius-Iosephus:
   - iii-v
 - - §actus-scena
   - iii-vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -3096,7 +3434,7 @@ Macropedius-Iosephus:
   - iv-vi
 - - §actus-scena
   - iv-vii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -3135,7 +3473,7 @@ Macropedius-Lazarus:
   - ancilla
 - - §prologus
   - ''
-- - '*finis'
+- - ±finis
   - prologi
 - - §actus-scena
   - i-i
@@ -3153,7 +3491,7 @@ Macropedius-Lazarus:
   - i-vii
 - - §actus-scena
   - i-viii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -3163,7 +3501,7 @@ Macropedius-Lazarus:
   - ii-iii
 - - §actus-scena
   - ii-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -3175,7 +3513,7 @@ Macropedius-Lazarus:
   - iii-iv
 - - §actus-scena
   - iii-v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -3193,6 +3531,8 @@ Macropedius-Lazarus:
   - iv-vii
 - - §actus-scena
   - iv-viii
+- - ±chorus
+  - seu
 - - §actus-scena
   - v-i
 - - §actus-scena
@@ -3220,7 +3560,7 @@ Macropedius-Petriscus:
   - i-iii
 - - §actus-scena
   - i-iv
-- - '*chorus'
+- - ±chorus
   - scholasticorum
 - - §actus-scena
   - ii-i
@@ -3234,7 +3574,7 @@ Macropedius-Petriscus:
   - ii-v
 - - §actus-scena
   - ii-vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -3244,7 +3584,7 @@ Macropedius-Petriscus:
   - iii-iii
 - - §actus-scena
   - iii-iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -3270,7 +3610,7 @@ Macropedius-Petriscus:
   - iv-xi
 - - §actus-scena
   - iv-xii
-- - '*chorus'
+- - ±chorus
   - iambico
 - - §actus-scena
   - v-i
@@ -3299,6 +3639,10 @@ Macropedius-Rebelles:
   - personae
 - - §prologus
   - cum
+- - ±chorus
+  - ex
+- - §prologus
+  - cum
 - - §actus-scena
   - i-i
 - - §actus-scena
@@ -3309,7 +3653,7 @@ Macropedius-Rebelles:
   - i-iv
 - - §actus-scena
   - i-v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -3317,7 +3661,7 @@ Macropedius-Rebelles:
   - ii-ii
 - - §actus-scena
   - ii-iii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -3329,7 +3673,7 @@ Macropedius-Rebelles:
   - iii-iv
 - - §actus-scena
   - iii-v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -3351,7 +3695,7 @@ Macropedius-Rebelles:
   - iv-ix
 - - §actus-scena
   - iv-x
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
@@ -3384,53 +3728,57 @@ Macropedius-Rebelles:
 Malapertius-Sedecias:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - i
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - secvndvs
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - tertivs
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
+  - qui
+- - ±chorus
   - qvartvs
 - - §actus
   - qvintvs
 Muretus-Caesar:
 - - §personae
   - dramatis
-- - '*chorus'
+- - ±chorus
   - civium
 - - §actus
   - primus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secundus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertius
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quartus
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quintus
-- - '*chorus'
+- - ±chorus
+  - ''
+- - ±chorus
   - ''
 Mussato-Ecerinis:
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - i
@@ -3438,10 +3786,18 @@ Mussato-Ecerinis:
   - i
 - - §scena
   - ii
+- - ±chorus
+  - ''
 - - §actus
   - ii
 - - §scena
   - i
+- - ±finis
+  - petitus
+- - ±chorus
+  - ''
+- - ±chorus
+  - ''
 - - §actus
   - iii
 - - §scena
@@ -3452,30 +3808,40 @@ Mussato-Ecerinis:
   - iii
 - - §scena
   - iv
+- - ±chorus
+  - o
 - - §actus
   - iv
 - - §scena
   - i
 - - §scena
   - ii
+- - ±chorus
+  - ''
 - - §actus
   - v
+- - ±chorus
+  - ''
+- - ±chorus
+  - ''
 Narssius-Gustavus:
+- - ±chorus
+  - matrum
 - - §actus
   - primus
 - - §actus
   - tertius
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - procerum
 - - §actus
   - quintus
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 Papaeus-Samarites:
 - - §prologus
@@ -3502,6 +3868,8 @@ Papaeus-Samarites:
   - tertii-secunda
 - - §actus-scena
   - tertii-tertia
+- - §argumentum
+  - est
 - - §actus-scena
   - tertii-quarta
 - - §actus-scena
@@ -3531,18 +3899,58 @@ Papaeus-Samarites:
 - - §peroratio
   - ''
 Philicinus-Esther:
-- - '*chorus'
+- - §personae-interlocutores
+  - sive-huius
+- - ±chorus
   - iudaearum
-- - '*chorus'
+- - ±chorus
   - susianarum
 - - §actus
   - primus
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - iudaearum
 - - §actus
   - secundus
+- - ±chorus
+  - iudaearum
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - iudaearum
+- - ±chorus
+  - iudaearum
 - - §actus
   - tertius
+- - ±chorus
+  - iudaearum
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - iudearum
 - - §actus
   - quartus
+- - ±chorus
+  - iudearum
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - iudaearum
+- - ±chorus
+  - susianarum
+- - §actus
+  - quintus
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - susianarum
+- - ±chorus
+  - iudaearum
+- - ±finis
+  - tragediae
 - - §peroratio
   - ''
 Philicinus-Magdalena:
@@ -3620,7 +4028,7 @@ Reuchlin-Henno:
   - ''
 - - §prologus
   - ''
-- - '*codices'
+- - ±codices
   - ''
 - - §prologus
   - ''
@@ -3649,7 +4057,7 @@ Reuchlin-Sergius:
   - tertivs
 - - §epilogus
   - ''
-- - '*chorus'
+- - ±chorus
   - cvm
 Rosefeldus-Moschus:
 - - §dramatis
@@ -3712,41 +4120,41 @@ Rosefeldus-Moschus:
   - v-ii
 - - §actus-scena
   - v-ill
-- - '*finis'
+- - ±finis
   - ''
 Roulerius-Stuarta:
-- - '*chorus'
+- - ±chorus
   - angiorum
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - anglorum
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - captivorum
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - stuarta
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
 Ruggle-Ignoramus:
 - - §prologus
   - prior
-- - '*comoedia'
+- - ±comoedia
   - risus
 - - §argumentum
   - ''
@@ -3847,6 +4255,8 @@ Ruggle-Ignoramus:
 - - §actus-scena
   - v-viii
 - - §actus-scena
+  - v-ix
+- - §actus-scena
   - v-x
 - - §actus-scena
   - v-xi
@@ -3857,20 +4267,34 @@ Ruggle-Ignoramus:
 Salius-Nassovius:
 - - §dramatis
   - personae
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primus
+- - ±chorus
+  - ''
 - - §actus
   - secundus
+- - ±chorus
+  - ''
 - - §actus
   - tertius
+- - ±chorus
+  - ''
 - - §actus
   - quartus
+- - ±chorus
+  - ''
 - - §actus
   - quintus
+- - ±chorus
+  - ''
+- - ±chorus
+  - ''
+- - ±chorus
+  - ''
 Schonaeus-Ananias:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -3921,6 +4345,8 @@ Schonaeus-Ananias:
 Schonaeus-Baptistes:
 - - §dramatis
   - personae
+- - §argumentum
+  - in
 - - §prologus
   - ''
 - - §actus-scena
@@ -3958,6 +4384,8 @@ Schonaeus-Baptistes:
 - - §actus-scena
   - iv-iii
 - - §actus-scena
+  - iv-iv
+- - §actus-scena
   - v-i
 - - §actus-scena
   - v-ii
@@ -3972,7 +4400,7 @@ Schonaeus-Baptistes:
 - - §actus-scena
   - v-vii
 Schonaeus-Cunae:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -3983,6 +4411,8 @@ Schonaeus-Cunae:
 - - §actus-scena
   - i-ii
 - - §actus-scena
+  - i-iii
+- - §actus-scena
   - i-v
 - - §actus-scena
   - ii-i
@@ -3990,6 +4420,8 @@ Schonaeus-Cunae:
   - ii-ii
 - - §actus-scena
   - ii-iii
+- - §actus-scena
+  - ii-v
 - - §actus-scena
   - iii-i
 - - §actus-scena
@@ -4009,11 +4441,11 @@ Schonaeus-Cunae:
 - - §actus-scena
   - v-iii
 Schonaeus-Daniel:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - periocha
 - - §actus-scena
   - i-i
@@ -4060,7 +4492,7 @@ Schonaeus-Daniel:
 - - §peroratio
   - ''
 Schonaeus-Dyscoli:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4102,6 +4534,8 @@ Schonaeus-Dyscoli:
   - v-ii
 - - §actus-scena
   - v-iii
+- - §actus
+  - v
 Schonaeus-Fabula:
 - - §actus-scena
   - 1-1
@@ -4133,7 +4567,7 @@ Schonaeus-Fabula:
   - 5-3
 - - §actus-scena
   - 5-4
-- - '*finis'
+- - ±finis
   - ''
 - - §actus
   - '1'
@@ -4144,7 +4578,7 @@ Schonaeus-Fabula:
 - - §actus
   - '4'
 Schonaeus-Iosephus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4166,6 +4600,8 @@ Schonaeus-Iosephus:
   - ii-iii
 - - §actus-scena
   - ii-iv
+- - §actus-scena
+  - ii-v
 - - §actus-scena
   - ii-vi
 - - §actus-scena
@@ -4209,11 +4645,11 @@ Schonaeus-Iosephus:
 - - §peroratio
   - ''
 Schonaeus-Iuditha:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - periocha
 - - §actus-scena
   - i-i
@@ -4270,11 +4706,11 @@ Schonaeus-Iuditha:
 - - §peroratio
   - '64'
 Schonaeus-Naaman:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - argvmentvm
 - - §actus-scena
   - i-i
@@ -4331,11 +4767,11 @@ Schonaeus-Naaman:
 - - §peroratio
   - ''
 Schonaeus-Nehemias:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - argumentum
 - - §actus-scena
   - i-i
@@ -4392,7 +4828,7 @@ Schonaeus-Nehemias:
 - - §peroratio
   - ''
 Schonaeus-Pentecoste:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4437,7 +4873,7 @@ Schonaeus-Pentecoste:
 - - §actus
   - v
 Schonaeus-Pseudostratiotae:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4472,6 +4908,8 @@ Schonaeus-Pseudostratiotae:
 - - §actus-scena
   - iv-i
 - - §actus-scena
+  - iv-ii
+- - §actus-scena
   - v-i
 - - §actus-scena
   - v-ii
@@ -4480,7 +4918,7 @@ Schonaeus-Pseudostratiotae:
 - - §actus-scena
   - v-iv
 Schonaeus-Saulus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4539,7 +4977,7 @@ Schonaeus-Saulus:
 - - §peroratio
   - ''
 Schonaeus-Susanna:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4590,11 +5028,11 @@ Schonaeus-Susanna:
 - - §peroratio
   - ''
 Schonaeus-Tobaeus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - periocha
 - - §actus-scena
   - i-i
@@ -4669,11 +5107,11 @@ Schonaeus-Tobaeus:
 - - §peroratio
   - ''
 Schonaeus-Triumphus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
-- - '*comoediae'
+- - ±comoediae
   - periocha
 - - §actus-scena
   - i-i
@@ -4699,6 +5137,8 @@ Schonaeus-Triumphus:
   - iv-ii
 - - §actus-scena
   - iv-iii
+- - §argumentum
+  - vitae
 - - §actus-scena
   - v-i
 - - §actus-scena
@@ -4708,7 +5148,7 @@ Schonaeus-Triumphus:
 - - §peroratio
   - ''
 Schonaeus-Typhlus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4755,7 +5195,7 @@ Schonaeus-Typhlus:
 - - §actus-scena
   - v-iiii
 Schonaeus-Vitulus:
-- - '*actorum'
+- - ±actorum
   - nomina
 - - §prologus
   - ''
@@ -4804,39 +5244,75 @@ Schonaeus-Vitulus:
 Schopper-Ectrachelistes:
 - - §prologus
   - ad
+- - §argumentum
+  - ''
 - - §actus
   - i
 - - §scena
   - i
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - ii
 - - §actus-scena
   - ii-iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - iii
-- - '*chorus'
+- - §scena
+  - i
+- - §actus-scena
+  - iii-ii
+- - §actus-scena
+  - iii-iii
+- - ±chorus
   - ''
 - - §actus
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - v
-- - '*chorus'
+- - §actus-scena
+  - v-ii
+- - §actus-scena
+  - v-iii
+- - ±chorus
   - ''
 - - §epilogus
   - ''
 Simonides-Castus:
 - - §personae
   - ''
-- - '*chorus'
+- - ±chorus
   - ex
-- - '*chorus'
+- - ±chorus
   - ''
+- - ±chorus
+  - mulier
+- - ±chorus
+  - neque
+- - ±chorus
+  - et
+- - ±chorus
+  - praebere
+- - ±chorus
+  - amor
+- - ±chorus
+  - nos
+- - ±chorus
+  - sanari
+- - ±chorus
+  - prudentiam
+- - ±chorus
+  - morbóne
+- - ±chorus
+  - domina
+- - ±chorus
+  - superûm
+- - ±chorus
+  - quùm
 Stymmelius-Isaac:
 - - §prologus
   - ''
@@ -4848,11 +5324,11 @@ Stymmelius-Isaac:
   - ii
 - - §scena
   - iii
-- - '*comoedia'
+- - ±comoedia
   - ''
 - - §scena
   - iiii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - ii-i
@@ -4864,7 +5340,7 @@ Stymmelius-Isaac:
   - iiii
 - - §scena
   - v
-- - '*chorus'
+- - ±chorus
   - ii
 - - §actus-scena
   - iii-i
@@ -4880,7 +5356,7 @@ Stymmelius-Isaac:
   - vi
 - - §scena
   - vii
-- - '*chorus'
+- - ±chorus
   - iii
 - - §actus-scena
   - iiii-i
@@ -4890,7 +5366,7 @@ Stymmelius-Isaac:
   - iii
 - - §scena
   - iii
-- - '*chorus'
+- - ±chorus
   - iiii
 - - §actus-scena
   - v-i
@@ -4902,35 +5378,65 @@ Stymmelius-Isaac:
   - iiii
 - - §scena
   - v
-- - '*chorus'
+- - ±chorus
   - v
 - - §epilogus
   - ''
 Stymmelius-Studentes:
 - - §prologus
   - ''
+- - §interlocutores
+  - ''
 - - §actus
   - i
-- - '*chorus'
+- - §scena
+  - i
+- - §actus-scena
+  - i-iiii
+- - ±chorus
   - primus
 - - §actus
   - ii
-- - '*chorus'
+- - §actus-scena
+  - ii-vi
+- - ±chorus
   - secundus
 - - §actus
   - iii
-- - '*chorus'
+- - §scena
+  - i
+- - §actus-scena
+  - iii-iiii
+- - §actus-scena
+  - iii-v
+- - ±chorus
   - tertius
 - - §actus
   - iiii
-- - '*chorus'
+- - §scena
+  - i
+- - §actus-scena
+  - iiii-ii
+- - §actus-scena
+  - iiii-iiii
+- - §actus-scena
+  - iiii-v
+- - ±chorus
   - quartus
 - - §actus
   - v
 - - §scena
   - i
-- - '*chorus'
+- - §actus-scena
+  - v-v
+- - ±chorus
   - quintus
+- - §epilogus
+  - a
+- - ±comoediae
+  - quoque
+- - ±chorus
+  - musarum
 Susius-Pendularia:
 - - §dramatis
   - personae
@@ -4973,32 +5479,52 @@ Susius-Pendularia:
 - - §scena
   - iv
 Telesio-Imber:
-- - '*chorus'
+- - ±chorus
   - ex
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
+  - sile
+- - ±chorus
+  - audin
+- - ±chorus
+  - crudeliter
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
+- - ±chorus
+  - quid
+- - ±chorus
+  - misere
+- - ±chorus
+  - crudele
+- - ±chorus
+  - io
+- - ±chorus
+  - saeuus
+- - ±chorus
+  - patris
+- - ±chorus
+  - iouis
 Vernulaeus-Conradinus:
 - - §personae
   - tragaediae
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - primvs
@@ -5014,7 +5540,7 @@ Vernulaeus-Conradinus:
   - qvinta
 - - §scena
   - sexta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
@@ -5030,7 +5556,7 @@ Vernulaeus-Conradinus:
   - quinta
 - - §scena
   - sexta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
@@ -5044,7 +5570,7 @@ Vernulaeus-Conradinus:
   - quarta
 - - §scena
   - qvinta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
@@ -5056,7 +5582,7 @@ Vernulaeus-Conradinus:
   - tertia
 - - §scena
   - quarta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -5081,7 +5607,7 @@ Vernulaeus-Crispus:
   - tertia
 - - §scena
   - quarta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
@@ -5093,9 +5619,9 @@ Vernulaeus-Crispus:
   - tertia
 - - §scena
   - quarta
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*finis'
+- - ±finis
   - triumphi
 - - §actus
   - tertivs
@@ -5107,7 +5633,7 @@ Vernulaeus-Crispus:
   - tertia
 - - §scena
   - quarta
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
@@ -5121,7 +5647,7 @@ Vernulaeus-Crispus:
   - quarta
 - - §scena
   - qvinta
-- - '*chorus'
+- - ±chorus
   - militvm
 - - §actus
   - qvintvs
@@ -5133,9 +5659,17 @@ Vernulaeus-Crispus:
   - iii
 - - §scena
   - iv
+- - ±chorus
+  - en
+- - ±chorus
+  - heu
+- - ±chorus
+  - heu
 Vernulaeus-Gorcomienses:
 - - §personae
   - tragoediae
+- - ±chorus
+  - batauorum
 - - §actus-scena
   - i-i
 - - §scena
@@ -5144,6 +5678,8 @@ Vernulaeus-Gorcomienses:
   - iii
 - - §scena
   - iv
+- - ±chorus
+  - batavorvm
 - - §actus-scena
   - ii-i
 - - §scena
@@ -5154,7 +5690,7 @@ Vernulaeus-Gorcomienses:
   - iv
 - - §scena
   - v
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iii-i
@@ -5164,11 +5700,13 @@ Vernulaeus-Gorcomienses:
   - iii
 - - §scena
   - iv
+- - ±chorus
+  - o
 - - §scena
   - v
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - iv-i
@@ -5178,22 +5716,32 @@ Vernulaeus-Gorcomienses:
   - iii
 - - §scena
   - iv
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus-scena
   - v-i
+- - ±chorus
+  - lugere
+- - ±chorus
+  - admitte
 - - §scena
   - ii
+- - ±chorus
+  - miserere
+- - ±chorus
+  - miseremini
 - - §scena
   - iii
+- - ±chorus
+  - saluete
 - - §scena
   - iv
 Vernulaeus-Henricus:
 - - §personae
   - tragoediae
-- - '*chorus'
+- - ±chorus
   - virginum
-- - '*chorus'
+- - ±chorus
   - exulum
 - - §actus
   - primvs
@@ -5209,7 +5757,7 @@ Vernulaeus-Henricus:
   - v
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
@@ -5227,7 +5775,7 @@ Vernulaeus-Henricus:
   - vi
 - - §scena
   - vii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
@@ -5247,7 +5795,7 @@ Vernulaeus-Henricus:
   - vii
 - - §scena
   - viii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
@@ -5267,7 +5815,7 @@ Vernulaeus-Henricus:
   - vii
 - - §scena
   - viii
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvintvs
@@ -5296,7 +5844,7 @@ Vernulaeus-Henricus:
 Vernulaeus-Theodoricus:
 - - §personae
   - tragaediae
-- - '*chorus'
+- - ±chorus
   - angelorum
 - - §argumentum
   - ''
@@ -5316,11 +5864,11 @@ Vernulaeus-Theodoricus:
   - v
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - angelorvm
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*finis'
+- - ±finis
   - actus
 - - §actus
   - secvndvs
@@ -5338,9 +5886,9 @@ Vernulaeus-Theodoricus:
   - v
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*finis'
+- - ±finis
   - actus
 - - §actus
   - tertivs
@@ -5356,13 +5904,13 @@ Vernulaeus-Theodoricus:
   - iv
 - - §scena
   - v
-- - '*chorus'
+- - ±chorus
   - angelorvm
-- - '*chorus'
+- - ±chorus
   - angelorum
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*finis'
+- - ±finis
   - actus
 - - §actus
   - qvartvs
@@ -5372,6 +5920,8 @@ Vernulaeus-Theodoricus:
   - i
 - - §scena
   - ii
+- - ±chorus
+  - en
 - - §scena
   - iii
 - - §scena
@@ -5380,9 +5930,9 @@ Vernulaeus-Theodoricus:
   - v
 - - §scena
   - vi
-- - '*chorus'
+- - ±chorus
   - ''
-- - '*finis'
+- - ±finis
   - actus
 - - §actus
   - qvintvs
@@ -5417,7 +5967,7 @@ Vladeraccus-Tobias:
   - i-iiii
 - - §actus-scena
   - i-v
-- - '*chorus'
+- - ±chorus
   - asclepiadaeus
 - - §actus-scena
   - ii-i
@@ -5433,7 +5983,7 @@ Vladeraccus-Tobias:
   - ii-vi
 - - §actus-scena
   - ii-vii
-- - '*chorus'
+- - ±chorus
   - sapphicus
 - - §actus-scena
   - iii-i
@@ -5451,7 +6001,11 @@ Vladeraccus-Tobias:
   - iii-vii
 - - §actus-scena
   - iii-viii
-- - '*chorus'
+- - ±chorus
+  - aliorum
+- - ±chorus
+  - sperant
+- - ±chorus
   - recte
 - - §actus-scena
   - iii-ix
@@ -5459,15 +6013,15 @@ Vladeraccus-Tobias:
   - iii-x
 - - §actus-scena
   - iii-xi
-- - '*chorus'
+- - ±chorus
   - dimeter
 - - §actus-scena
   - iv-i
 - - §actus-scena
   - iv-ii
-- - '*chorus'
+- - ±chorus
   - curabitur
-- - '*chorus'
+- - ±chorus
   - fiet
 - - §actus-scena
   - iv-iii
@@ -5485,6 +6039,8 @@ Vladeraccus-Tobias:
   - iv-ix
 - - §actus-scena
   - iv-x
+- - §actus-scena
+  - iv-ultima
 - - §actus-scena
   - v-i
 - - §actus-scena
@@ -5506,11 +6062,19 @@ Vladeraccus-Tobias:
 Weitenauer-Annibal:
 - - §personae
   - ''
+- - ±chorus
+  - variarum
 - - §prologus
   - ''
-- - '*chorus'
+- - ±chorus
   - amica
-- - '*chorus'
+- - ±chorus
+  - o
+- - ±chorus
+  - tot
+- - ±chorus
+  - o
+- - ±chorus
   - laeti
 - - §actus
   - primus
@@ -5528,7 +6092,7 @@ Weitenauer-Annibal:
   - sexta
 - - §scena
   - septima
-- - '*chorus'
+- - ±chorus
   - i
 - - §actus
   - secundus
@@ -5568,7 +6132,7 @@ Weitenauer-Annibal:
   - quarta
 - - §scena
   - quinta
-- - '*chorus'
+- - ±chorus
   - ii
 - - §actus
   - quintus
@@ -5610,19 +6174,19 @@ Zevecotius-Rosimunda:
   - ''
 - - §actus
   - primvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - secvndvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - tertivs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - qvartvs
-- - '*chorus'
+- - ±chorus
   - ''
 - - §actus
   - quintvs
@@ -5662,7 +6226,7 @@ Zovitius-Didascalus:
 - - §actus-scena
   - v-v
 Zovitius-Ruth:
-- - '*ludionum'
+- - ±ludionum
   - nomenclatvrae
 - - §scena
   - secvnda

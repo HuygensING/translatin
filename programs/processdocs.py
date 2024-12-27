@@ -43,13 +43,10 @@ from processhelpers import (
     REPORT_LINES,
     REPORT_PAGES,
     REPORT_SECTIONS,
-    REPORT_NONSECTIONS,
     REPORT_LINES_RAW,
     REPORT_LINENUMBERS_RAW,
     REPORT_PAGES_RAW,
     REPORT_SECTIONS_RAW,
-    REPORT_NONSECTIONS_RAW,
-    REPORT_SECTION_COUNT_RAW,
     msgLine,
     sanitizeFileName,
     normalizeChars,
@@ -85,7 +82,9 @@ SECTIONTRIGGER_RE = re.compile(
             )
         )*+
     )
+    \**
     (\w+)
+    \**
     (
         [.,:]?
         (?:
@@ -112,12 +111,15 @@ SECTIONTRIGGER_SND_RE = re.compile(
     [.,;]?
     [\ ]?
     [.,;]?
+    \**
     (\w+)
+    \**
     [.,;]?
     [\ ]
     [.,;]?
     (\w+)
     [.,;]?
+    [^\n]*
     $
 """,
     re.X,
@@ -409,6 +411,14 @@ NONSECTION_WORDS = NONSECTION_WORDS_DEF | {
 
 NONSECTION = NAMES | NONSECTION_WORDS
 
+LINENUMBER_ALONE_RE = re.compile(
+    r"""
+    (?<=\n\n)
+    ([0-9]+)
+    (?=\n\n)
+    """,
+    re.X
+)
 LINENUMBER_BEFORE_RE = re.compile(
     r"""
     ^
@@ -494,11 +504,32 @@ LINENUMBER_BARE_AFTER_RE = re.compile(
     re.M | re.X,
 )
 
-LNUM_RE = re.compile(r"""≤line=([^≥]+)≥""")
-PNUM_RE = re.compile(r"""≤page=([^≥]+)≥""")
-FNUM_RE = re.compile(r"""≤folio=([^≥]+)≥""")
-
 NUM_RE = re.compile(r"[≤≥]")
+LNUM_RE = re.compile(r"""≤line=([^≥]+)≥""")
+FNUM_RE = re.compile(r"""≤folio=([^≥]+)≥""")
+PNUM_RE = re.compile(
+    r"""
+    ≤page=
+    (
+        [^|≥]+?
+    )
+    (?:
+        \|
+        (
+            [^≥]*
+        )
+    )?
+    ≥
+    """,
+    re.X,
+)
+
+
+def pNumRepl(match):
+    (num, facs) = match.group(1, 2)
+    facsAtt = f''' facs="{facs}"''' if facs else ""
+    return f"""<pb n="{num}"{facsAtt}/>"""
+
 
 SMALLCAPS_RE = re.compile(
     r"""
@@ -661,6 +692,12 @@ class TeiFromDocx:
         lineNumbers = []
         self.lineNumbers[workName] = lineNumbers
 
+        def replAlone(match):
+            lNum = match.group(1)
+            start = match.start()
+            lineNumbers.append([start, lNum])
+            return f"≤line={lNum}≥"
+
         def replGeneric(pos, result):
             def repl(match):
                 lNum = match.group(pos)
@@ -670,16 +707,14 @@ class TeiFromDocx:
 
             return repl
 
+        self.lnumReplAlone = replAlone
         self.lnumReplBefore = replGeneric(2, "{a}≤line={b}≥ ")
         self.lnumReplAfter = replGeneric(2, "≤line={b}≥ {a}\n")
-        self.lnumReplBareAfter = replGeneric(2, "≤line={b}≥ {a}\n")
+        self.lnumReplBareAfter = replGeneric(2, "≤line={b}≥ {a}")
         self.lnumReplBareBefore = replGeneric(1, "≤line={a}≥ {b}\n")
 
     def makeSectionTriggerRepl(self, workName):
-        sectionCount = self.sectionCount
         sections = self.sections[workName]
-        pseudoSections = []
-        self.pseudoSections[workName] = pseudoSections
 
         def repl(match):
             (pre, trigger, post, number, after) = match.group(1, 2, 3, 4, 5)
@@ -687,7 +722,7 @@ class TeiFromDocx:
             number = number or ""
 
             if triggerL in SECTION_TRIGGERS:
-                if len(post.replace(".", "").split()) > 3:
+                if len(post.replace(".", "").split()) > 6:
                     makeSection = False
                 elif SECTION_TRIGGERS_TRIG[triggerL]:
                     nextWord = post.split()[0].rstrip(".") if post else ""
@@ -701,7 +736,7 @@ class TeiFromDocx:
 
             if makeSection:
                 isSection = SECTION_TRIGGERS_SEC[triggerL]
-                sigil = "§" if isSection else "*"
+                sigil = "§" if isSection else "±"
 
                 matchSub = SECTIONTRIGGER_SND_RE.match(after)
 
@@ -719,14 +754,12 @@ class TeiFromDocx:
                 triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
                 number = f"{number.lower()}{numberSub}"
                 sections.append([triggerN, number])
-                sectionCount[triggerN] += 1
                 replacement = (
                     f"# {pre}{trigger}{post}"
                     if isSection
                     else f"**{pre}{trigger}{post}**"
                 )
             else:
-                pseudoSections.append([trigger, number])
                 replacement = match.group(0)
 
             return replacement
@@ -814,6 +847,7 @@ class TeiFromDocx:
         back = textParts["/back/"]
 
         self.makeLineNumRepl(workName)
+        main = LINENUMBER_ALONE_RE.sub(self.lnumReplAlone, main)
         main = LINENUMBER_BEFORE_RE.sub(self.lnumReplBefore, main)
         main = LINENUMBER_AFTER_RE.sub(self.lnumReplAfter, main)
         main = LINENUMBER_BARE_AFTER_RE.sub(self.lnumReplBareAfter, main)
@@ -862,7 +896,7 @@ class TeiFromDocx:
             line = line.replace("""rendition=""", """rend=""")
             line = line.replace("""rend="simple:""", '''rend="''')
             line = LNUM_RE.sub(r"(\1)", line)
-            line = PNUM_RE.sub(r"""<pb n="\1"/>""", line)
+            line = PNUM_RE.sub(pNumRepl, line)
             line = FNUM_RE.sub(r"""<milestone unit="folio" n="\1"/>""", line)
 
             newTextLines.append(line)
@@ -879,6 +913,7 @@ class TeiFromDocx:
         material = NOTE_RE.sub(repl, material)
 
         notes = "\n".join(self.notes)
+        notes = f"""\n<div type="notes">{notes}</div>\n""" if notes.strip() else ""
         text = Meta.fillTemplate(workName, text=material, notes=notes)
 
         return (True, "", text)
@@ -906,6 +941,8 @@ class TeiFromDocx:
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhi = open(REPORT_INFO, mode="w")
 
+        cleanDone = False
+
         console("DOCX => Markdown per work ...")
         console(
             f"\t   {'work':30} | "
@@ -925,20 +962,16 @@ class TeiFromDocx:
         lineNumbers = readYaml(asFile=REPORT_LINENUMBERS_RAW, plain=True)
         pages = readYaml(asFile=REPORT_PAGES_RAW, plain=True)
         sections = readYaml(asFile=REPORT_SECTIONS_RAW, plain=True)
-        pseudoSections = {}  # only do pseudoSections if clean is performed
-        sectionCount = readYaml(asFile=REPORT_SECTION_COUNT_RAW, plain=True)
-        sectionCount = collections.Counter(sectionCount)
 
         self.lines = lines
         self.lineNumbers = lineNumbers
         self.pages = pages
         self.sections = sections
-        self.pseudoSections = pseudoSections
-        self.sectionCount = sectionCount
 
         nWorks = 0
         allOK = True
         someOK = False
+        specNone = 0
         totLines = 0
         totLineNumbers = 0
         totPages = 0
@@ -983,6 +1016,9 @@ class TeiFromDocx:
             if not skipClean and (forceClean or not cleanUptodate):
                 with open(rawFile) as fh:
                     msg, text = self.cleanup(fh.read(), file)
+
+                    if not msg.strip():
+                        specNone += 1
 
                 with open(cleanFile, mode="w") as fh:
                     fh.write(text)
@@ -1056,19 +1092,17 @@ class TeiFromDocx:
             f"{totLines:>7} | {totLineNumbers:>5} | {totPages:>5} | {totFolios:>5} | "
             f"{totSections:>4} | done"
         )
+        self.console(f"Works without specifics defined: {specNone}")
 
         if cleanDone:
             writeYaml(lines, asFile=REPORT_LINES_RAW)
             writeYaml(lineNumbers, asFile=REPORT_LINENUMBERS_RAW)
             writeYaml(pages, asFile=REPORT_PAGES_RAW)
             writeYaml(sections, asFile=REPORT_SECTIONS_RAW)
-            writeYaml(pseudoSections, asFile=REPORT_NONSECTIONS_RAW)
-            writeYaml(dict(sectionCount), asFile=REPORT_SECTION_COUNT_RAW)
 
         lineInfo = {}
         pageInfo = {}
         sectionInfo = {}
-        pseudoSectionInfo = {}
 
         if cleanDone:
             for file in sorted(workFiles):
@@ -1086,25 +1120,9 @@ class TeiFromDocx:
                 items = []
 
                 for kind, number in wSections:
-                    cnt = sectionCount[kind]
-                    items.append(f"x {cnt:>4} {kind} {number or ''}".rstrip())
+                    items.append(f"{kind} {number or ''}".rstrip())
 
                 sectionInfo[file] = items
-
-                wpSections = pseudoSections.get(file, ())
-
-                if len(wpSections):
-                    items = []
-
-                    for kind, number in wpSections:
-                        cnt = sectionCount[kind]
-
-                        if kind.isdigit() or kind.lower() in NONSECTION or cnt == 1:
-                            continue
-
-                        items.append(f"x {cnt:>4} {kind} {number or ''}".rstrip())
-
-                    pseudoSectionInfo[file] = items
 
             writeYaml(lineInfo, asFile=REPORT_LINES)
             self.console(f"See for pages: {REPORT_LINES}")
@@ -1114,9 +1132,6 @@ class TeiFromDocx:
 
             writeYaml(sectionInfo, asFile=REPORT_SECTIONS)
             self.console(f"See for sections: {REPORT_SECTIONS}")
-
-            writeYaml(pseudoSectionInfo, asFile=REPORT_NONSECTIONS)
-            self.console(f"See for non-sections: {REPORT_NONSECTIONS}")
 
         self.showWarnings(serious=False)
         self.showWarnings()

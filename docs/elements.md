@@ -11,9 +11,9 @@ Table of contents
 
 | element | attribute | value | amount
 | --- | --- | --- | ---
-| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `bold` | 1429
+| [hi](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-hi.html) | [rend](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#rend) | `bold` | 1577
 | | | `footnote` | 3109
-| | | `italic` | 8958
+| | | `italic` | 8896
 | | | `superscript` | 19
 | | | `underline` | 105
 
@@ -22,16 +22,308 @@ Table of contents
 | element | attribute | value | amount
 | --- | --- | --- | ---
 | [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-TEI.html) | [lang](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#lang) | `lat` | 118
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 2681
-| | | `level2` | 1
-| | | `notes` | 118
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 2826
+| | | `notes` | 38
 | [list](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-list.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `ordered:arabic` | 130
 | | | `ordered:loweralpha` | 2
 | | | `ordered:lowerroman` | 6
 | | | `ordered:upperalpha` | 15
 | | | `ordered:upperroman` | 88
 | | | `unordered` | 5
-| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [unit](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#unit) | `folio` | 111
+| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [unit](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#unit) | `folio` | 169
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/103?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/104?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/105?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/106?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/107?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/108?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/109?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/10?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/110?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/111?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/112?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/113?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/114?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/115?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/116?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/117?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/118?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/119?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/11?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/120?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/121?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/122?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/123?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/124?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/125?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/126?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/127?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/128?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/129?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/12?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/130?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/131?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/132?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/133?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/134?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/135?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/136?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/137?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/138?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/139?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/13?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/140?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/141?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/142?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/143?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/144?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/145?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/146?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/147?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/148?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/149?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/14?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/150?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/151?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/152?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/153?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/154?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/155?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/156?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/157?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/158?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/159?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/15?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/160?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/161?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/162?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/163?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/164?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/165?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/166?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/167?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/168?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/169?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/16?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/170?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/171?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/172?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/173?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/174?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/175?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/17?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/18?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/19?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/20?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/21?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/22?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/23?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/24?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/25?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/26?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/27?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/28?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/29?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/30?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/31?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/32?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/33?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/34?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/35?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/36?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/37?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/38?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/39?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/40?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/41?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/42?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/43?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/44?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/45?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/46?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/47?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/48?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/49?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/50?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/51?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/52?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/53?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/54?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/55?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/56?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/57?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/58?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/59?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/60?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/61?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/62?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/63?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/64?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/65?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/66?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/67?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/68?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/69?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/70?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/71?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/72?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/73?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/74?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/75?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/76?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/77?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/78?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/79?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/7?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/80?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/81?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/82?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/83?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/84?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/85?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/86?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/87?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/88?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/89?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/8?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/90?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/91?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/92?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/93?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/94?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/95?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/96?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/97?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/98?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/99?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/9?hi=0;vid=14811;q1=pedantius` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/100:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/101:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/102:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/103:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/104:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/105:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/106:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/108:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/109:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/110:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/111:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/112:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/113:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/114:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/115:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/116:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/117:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/118:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/119:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/120:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/121:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/122:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/123:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/124:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/125:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/126:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/127:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/128:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/129:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/130:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/131:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/132:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/133:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/134:11?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/135:12?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/136:12?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/14:2?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/17:4?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/21:5?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/22:5?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/23:5?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/24:5?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/25:6?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/27:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/28:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/29:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/30:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/31:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/32:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/33:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/34:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/35:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/36:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/37:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/38:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/39:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/40:7?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/41:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/42:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/43:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/44:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/45:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/46:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/47:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/48:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/49:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/50:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/51:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/52:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/53:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/54:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/55:8?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/56:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/57:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/58:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/59:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/60:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/61:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/62:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/63:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/64:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/65:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/66:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/67:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/68:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/69:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/70:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/71:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/72:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/73:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/74:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/75:9?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/76:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/77:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/78:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/79:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/80:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/81:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/82:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/83:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/84:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/85:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/86:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/87:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/88:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/89:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/90:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/91:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/92:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/93:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/94:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/95:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/96:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/97:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/98:10?vid=49333` | 1
+| | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/99:10?vid=49333` | 1
 | [term](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-term.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `acts` | 118
 | | | `chorus` | 118
 | | | `diction` | 118
@@ -49,11 +341,11 @@ Table of contents
 | [bibl](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-bibl.html) |   |  | 118
 | [body](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-body.html) |   |  | 118
 | [date](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html) |   |  | 236
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 2682
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 2826
 | [editor](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-editor.html) |   |  | 118
 | [emph](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-emph.html) |   |  | 118
 | [fileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-fileDesc.html) |   |  | 118
-| [head](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html) |   |  | 2682
+| [head](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html) |   |  | 2826
 | [item](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-item.html) |   |  | 28
 |   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 61
 | | | `NN` | 121
@@ -61,56 +353,110 @@ Table of contents
 | | | `NNNN` | 6
 | [keywords](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-keywords.html) |   |  | 118
 | [lb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html) |   |  | 1180
-| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `A iiij` | 1
-| | | `A iij` | 1
-| | | `A ij` | 1
+| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `AN` | 4
+| | | `ANr` | 4
+| | | `ANv` | 4
+| | | `Aiiij` | 1
+| | | `Aiij` | 1
+| | | `Aij` | 1
 | | | `B` | 1
-| | | `B Nr` | 4
-| | | `B Nv` | 5
-| | | `B iiij` | 1
+| | | `BN` | 4
+| | | `BNr` | 8
+| | | `BNv` | 9
 | | | `Bi` | 1
+| | | `Biiij` | 1
 | | | `Biij` | 1
 | | | `Bij` | 1
-| | | `C Nr` | 7
-| | | `C Nv` | 6
-| | | `C iiij` | 1
-| | | `C iij` | 1
-| | | `C ij` | 1
-| | | `C r` | 1
-| | | `C v` | 1
-| | | `CNv` | 1
+| | | `CN` | 4
+| | | `CNr` | 11
+| | | `CNv` | 11
+| | | `Ciiij` | 1
+| | | `Ciij` | 1
+| | | `Cij` | 1
+| | | `Cr` | 1
+| | | `Cv` | 1
 | | | `D` | 1
-| | | `D Nr` | 7
-| | | `D Nv` | 7
-| | | `D iiij` | 1
-| | | `D iij` | 1
-| | | `D ij` | 1
+| | | `DN` | 4
+| | | `DNr` | 11
+| | | `DNv` | 11
+| | | `Diiij` | 1
+| | | `Diij` | 1
+| | | `Dij` | 1
 | | | `Dr` | 1
 | | | `Dv` | 1
-| | | `E Nr` | 7
-| | | `E Nv` | 5
-| | | `E iij` | 1
-| | | `E ij` | 1
+| | | `ENr` | 10
+| | | `ENv` | 7
+| | | `Eiij` | 1
+| | | `Eij` | 1
 | | | `Ev` | 2
-| | | `F Nr` | 8
-| | | `F Nv` | 7
-| | | `F iij` | 1
-| | | `F ij` | 1
+| | | `FNr` | 8
+| | | `FNv` | 7
+| | | `Fiij` | 1
+| | | `Fij` | 1
 | | | `Fr` | 1
 | | | `Fv` | 1
-| | | `G Nr` | 8
-| | | `G Nv` | 7
+| | | `GNr` | 8
+| | | `GNv` | 7
 | | | `Gr` | 1
 | | | `Gv` | 1
-| | | `H Nr` | 1
+| | | `HNr` | 1
+| | | `HNv` | 1
 | | | `Hr` | 1
 | | | `Hv` | 1
+| | | `πNr` | 2
+| | | `πNv` | 2
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 236
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 3109
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 190172
-| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 47
-| | | `NN` | 447
-| | | `NNN` | 417
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 190054
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 71
+| | | `NN` | 686
+| | | `NNN` | 507
+| | | `cl` | 1
+| | | `cli` | 1
+| | | `clii` | 1
+| | | `cliii` | 1
+| | | `cliv` | 1
+| | | `clix` | 1
+| | | `clv` | 1
+| | | `clvi` | 1
+| | | `clvii` | 1
+| | | `clviii` | 1
+| | | `clx` | 1
+| | | `clxi` | 1
+| | | `clxii` | 1
+| | | `clxiii` | 1
+| | | `clxiv` | 1
+| | | `clxv` | 1
+| | | `clxvi` | 1
+| | | `cxl` | 1
+| | | `cxli` | 1
+| | | `cxlii` | 1
+| | | `cxliii` | 1
+| | | `cxliv` | 1
+| | | `cxlix` | 1
+| | | `cxlv` | 1
+| | | `cxlvi` | 1
+| | | `cxlvii` | 1
+| | | `cxlviii` | 1
+| | | `cxxix` | 1
+| | | `cxxx` | 1
+| | | `cxxxi` | 1
+| | | `cxxxii` | 1
+| | | `cxxxiii` | 1
+| | | `cxxxiv` | 1
+| | | `cxxxix` | 1
+| | | `cxxxv` | 1
+| | | `cxxxvi` | 1
+| | | `cxxxvii` | 1
+| | | `cxxxviii` | 1
+| | | `i` | 4
+| | | `ii` | 4
+| | | `iii` | 4
+| | | `iv` | 2
+| | | `v` | 1
+| | | `vi` | 1
+| | | `vii` | 1
+| | | `viii` | 1
 | [profileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html) |   |  | 118
 | [ptr](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ptr.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 290
 | | | `NN` | 2035
@@ -120,7 +466,7 @@ Table of contents
 | [publicationStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html) |   |  | 118
 | [publisher](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publisher.html) |   |  | 118
 | [quote](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html) |   |  | 70
-| [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 661
+| [ref](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ref.html) | [target](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#target) | `X` | 368
 | [resp](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-resp.html) |   |  | 118
 | [respStmt](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-respStmt.html) |   |  | 118
 | [sourceDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html) |   |  | 118

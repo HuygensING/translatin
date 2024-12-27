@@ -65,6 +65,24 @@ ARABIC_PAGENUM_BARE_RE = re.compile(
     re.M | re.X,
 )
 
+PAGE_FACS_RE = re.compile(
+    r"""
+    \[
+    Page
+    [\ \xa0\n]+
+    (
+        [^\]]+
+    )
+    \]
+    \(
+    (
+        [^)]+
+    )
+    \)
+    """,
+    re.X | re.S,
+)
+
 NUMERALS_NL = dict(
     eerste="i",
     tweede="ii",
@@ -94,6 +112,15 @@ class WorkSpecific:
             return f"≤page={page}≥"
 
         self.pageRepl = pageRepl
+
+        def pageFacsRepl(match):
+            page = match.group(1)
+            facs = match.group(2)
+            start = match.start()
+            pages.append(["p", start, page])
+            return f"≤page={page}|{facs}≥"
+
+        self.pageFacsRepl = pageFacsRepl
 
         def folioRepl(match):
             folio = match.group(1).replace(" ", "")
@@ -259,7 +286,6 @@ class WorkSpecific:
         text = headRe.sub(self.folioRepl, text)
 
         sections = []
-        sectionCount = converter.sectionCount
 
         sectionRe = re.compile(
             r"""
@@ -296,7 +322,6 @@ class WorkSpecific:
                 "\\."
             )
             sections.append([start, triggerN, numberN])
-            sectionCount[triggerN] += 1
             return f"# {pre}{number}{space}{trigger}"
 
         text = sectionRe.sub(repl, text)
@@ -305,14 +330,73 @@ class WorkSpecific:
 
         return text
 
-    Ens_Auriacus = None
-    Forsett_Pedantius = None
-    Foxe_Christus = None
-    Gnapheus_Acolastus = None
-    Gnapheus_Morosophus = None
-    Goethals_Soter = None
-    Gretser_Timon = None
-    Gretser_Underwaldius = None
+    Ens_Auriacus = "generic"
+
+    def Forsett_Pedantius(self, text):
+        text = PAGE_FACS_RE.sub(self.pageFacsRepl, text)
+        return text
+
+    def Foxe_Christus(self, text):
+        pageRemoveRe = re.compile(
+            r"""
+            [\ ]
+            Page
+            [\ ]
+            \[
+            unnumbered
+            \]
+            [\ ]
+            """,
+            re.X | re.S,
+        )
+        text = pageRemoveRe.sub(" ", text)
+        text = PAGE_FACS_RE.sub(self.pageFacsRepl, text)
+
+        noteRe = re.compile(
+            r"""
+            \[
+            \\
+            \*
+            \]
+            \(
+            (
+                [^)]+
+            )
+            \)
+            """,
+            re.X | re.S
+        )
+
+        def noteRepl(match):
+            url = match.group(1)
+            ref = url.split("DLPS", 1)[-1].split(";", 1)[0]
+            return f"""[note {ref}]({url})"""
+
+        text = noteRe.sub(noteRepl, text)
+        return text
+
+    Gnapheus_Acolastus = "generic"
+    Gnapheus_Morosophus = "generic"
+
+    def Goethals_Soter(self, text):
+        folioRe = re.compile(
+            r"""
+            ^
+            (
+                [A-Z]
+                [\ ]?
+                [0-9]+
+            )
+            $
+            """,
+            re.X | re.M,
+        )
+        text = folioRe.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    Gretser_Timon = "generic"
+    Gretser_Underwaldius = "generic"
     Grimald_Christus = None
     Grotius_Adamus = None
     Grotius_Christus = None

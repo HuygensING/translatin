@@ -7,5 +7,5 @@ excludeElements:
 excludeFeatures:
   - eoccs
 asTsv: true
-hyphenation:
-  lineType: ln
+# hyphenation:
+#  lineType: ln

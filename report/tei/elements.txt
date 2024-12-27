@@ -8,9 +8,9 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=        1429x bold
+	<hi>               rend=        1577x bold
 	                          "                   3109x footnote
-	                          "                   8958x italic
+	                          "                   8896x italic
 	                          "                     19x superscript
 	                          "                    105x underline
 
@@ -18,9 +18,8 @@ Keyword Attributes
 
 	<TEI>              lang=         118x lat
 
-	<div>              type=        2681x level1
-	                          "                      1x level2
-	                          "                    118x notes
+	<div>              type=        2826x level1
+	                          "                     38x notes
 
 	<list>             type=         130x ordered:arabic
 	                          "                      2x ordered:loweralpha
@@ -29,7 +28,301 @@ Keyword Attributes
 	                          "                     88x ordered:upperroman
 	                          "                      5x unordered
 
-	<milestone>        unit=         111x folio
+	<milestone>        unit=         169x folio
+
+	<pb>               facs=           1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/103?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/104?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/105?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/106?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/107?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/108?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/109?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/10?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/110?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/111?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/112?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/113?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/114?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/115?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/116?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/117?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/118?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/119?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/11?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/120?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/121?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/122?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/123?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/124?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/125?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/126?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/127?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/128?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/129?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/12?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/130?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/131?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/132?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/133?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/134?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/135?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/136?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/137?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/138?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/139?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/13?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/140?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/141?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/142?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/143?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/144?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/145?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/146?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/147?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/148?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/149?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/14?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/150?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/151?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/152?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/153?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/154?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/155?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/156?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/157?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/158?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/159?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/15?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/160?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/161?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/162?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/163?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/164?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/165?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/166?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/167?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/168?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/169?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/16?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/170?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/171?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/172?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/173?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/174?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/175?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/17?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/18?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/19?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/20?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/21?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/22?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/23?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/24?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/25?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/26?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/27?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/28?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/29?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/30?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/31?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/32?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/33?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/34?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/35?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/36?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/37?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/38?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/39?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/40?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/41?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/42?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/43?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/44?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/45?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/46?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/47?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/48?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/49?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/50?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/51?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/52?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/53?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/54?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/55?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/56?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/57?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/58?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/59?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/60?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/61?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/62?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/63?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/64?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/65?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/66?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/67?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/68?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/69?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/70?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/71?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/72?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/73?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/74?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/75?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/76?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/77?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/78?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/79?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/7?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/80?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/81?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/82?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/83?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/84?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/85?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/86?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/87?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/88?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/89?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/8?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/90?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/91?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/92?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/93?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/94?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/95?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/96?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/97?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/98?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/99?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/9?hi=0;vid=14811;q1=pedantius
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/100:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/101:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/102:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/103:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/104:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/105:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/106:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/108:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/109:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/110:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/111:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/112:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/113:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/114:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/115:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/116:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/117:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/118:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/119:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/120:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/121:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/122:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/123:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/124:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/125:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/126:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/127:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/128:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/129:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/130:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/131:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/132:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/133:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/134:11?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/135:12?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/136:12?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/14:2?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/17:4?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/21:5?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/22:5?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/23:5?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/24:5?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/25:6?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/27:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/28:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/29:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/30:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/31:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/32:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/33:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/34:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/35:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/36:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/37:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/38:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/39:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/40:7?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/41:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/42:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/43:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/44:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/45:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/46:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/47:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/48:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/49:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/50:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/51:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/52:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/53:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/54:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/55:8?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/56:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/57:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/58:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/59:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/60:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/61:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/62:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/63:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/64:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/65:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/66:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/67:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/68:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/69:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/70:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/71:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/72:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/73:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/74:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/75:9?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/76:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/77:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/78:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/79:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/80:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/81:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/82:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/83:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/84:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/85:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/86:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/87:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/88:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/89:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/90:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/91:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/92:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/93:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/94:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/95:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/96:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/97:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/98:10?vid=49333
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/99:10?vid=49333
 
 	<term>             type=         118x acts
 	                          "                    118x chorus
@@ -52,7 +345,7 @@ Remaining Attributes and Elements
 
 	<date>                           236x 
 
-	<div>              id=          2682x X
+	<div>              id=          2826x X
 
 	<editor>                         118x 
 
@@ -60,7 +353,7 @@ Remaining Attributes and Elements
 
 	<fileDesc>                       118x 
 
-	<head>                          2682x 
+	<head>                          2826x 
 
 	<item>                            28x 
 	                   n=             61x N
@@ -72,60 +365,114 @@ Remaining Attributes and Elements
 
 	<lb>                            1180x 
 
-	<milestone>        n=              1x A iiij
-	                          "                      1x A iij
-	                          "                      1x A ij
+	<milestone>        n=              4x AN
+	                          "                      4x ANr
+	                          "                      4x ANv
+	                          "                      1x Aiiij
+	                          "                      1x Aiij
+	                          "                      1x Aij
 	                          "                      1x B
-	                          "                      4x B Nr
-	                          "                      5x B Nv
-	                          "                      1x B iiij
+	                          "                      4x BN
+	                          "                      8x BNr
+	                          "                      9x BNv
 	                          "                      1x Bi
+	                          "                      1x Biiij
 	                          "                      1x Biij
 	                          "                      1x Bij
-	                          "                      7x C Nr
-	                          "                      6x C Nv
-	                          "                      1x C iiij
-	                          "                      1x C iij
-	                          "                      1x C ij
-	                          "                      1x C r
-	                          "                      1x C v
-	                          "                      1x CNv
+	                          "                      4x CN
+	                          "                     11x CNr
+	                          "                     11x CNv
+	                          "                      1x Ciiij
+	                          "                      1x Ciij
+	                          "                      1x Cij
+	                          "                      1x Cr
+	                          "                      1x Cv
 	                          "                      1x D
-	                          "                      7x D Nr
-	                          "                      7x D Nv
-	                          "                      1x D iiij
-	                          "                      1x D iij
-	                          "                      1x D ij
+	                          "                      4x DN
+	                          "                     11x DNr
+	                          "                     11x DNv
+	                          "                      1x Diiij
+	                          "                      1x Diij
+	                          "                      1x Dij
 	                          "                      1x Dr
 	                          "                      1x Dv
-	                          "                      7x E Nr
-	                          "                      5x E Nv
-	                          "                      1x E iij
-	                          "                      1x E ij
+	                          "                     10x ENr
+	                          "                      7x ENv
+	                          "                      1x Eiij
+	                          "                      1x Eij
 	                          "                      2x Ev
-	                          "                      8x F Nr
-	                          "                      7x F Nv
-	                          "                      1x F iij
-	                          "                      1x F ij
+	                          "                      8x FNr
+	                          "                      7x FNv
+	                          "                      1x Fiij
+	                          "                      1x Fij
 	                          "                      1x Fr
 	                          "                      1x Fv
-	                          "                      8x G Nr
-	                          "                      7x G Nv
+	                          "                      8x GNr
+	                          "                      7x GNv
 	                          "                      1x Gr
 	                          "                      1x Gv
-	                          "                      1x H Nr
+	                          "                      1x HNr
+	                          "                      1x HNv
 	                          "                      1x Hr
 	                          "                      1x Hv
+	                          "                      2x πNr
+	                          "                      2x πNv
 
 	<name>                           236x 
 
 	<note>             id=          3109x X
 
-	<p>                            190172x 
+	<p>                            190054x 
 
-	<pb>               n=             47x N
-	                          "                    447x NN
-	                          "                    417x NNN
+	<pb>               n=             71x N
+	                          "                    686x NN
+	                          "                    507x NNN
+	                          "                      1x cl
+	                          "                      1x cli
+	                          "                      1x clii
+	                          "                      1x cliii
+	                          "                      1x cliv
+	                          "                      1x clix
+	                          "                      1x clv
+	                          "                      1x clvi
+	                          "                      1x clvii
+	                          "                      1x clviii
+	                          "                      1x clx
+	                          "                      1x clxi
+	                          "                      1x clxii
+	                          "                      1x clxiii
+	                          "                      1x clxiv
+	                          "                      1x clxv
+	                          "                      1x clxvi
+	                          "                      1x cxl
+	                          "                      1x cxli
+	                          "                      1x cxlii
+	                          "                      1x cxliii
+	                          "                      1x cxliv
+	                          "                      1x cxlix
+	                          "                      1x cxlv
+	                          "                      1x cxlvi
+	                          "                      1x cxlvii
+	                          "                      1x cxlviii
+	                          "                      1x cxxix
+	                          "                      1x cxxx
+	                          "                      1x cxxxi
+	                          "                      1x cxxxii
+	                          "                      1x cxxxiii
+	                          "                      1x cxxxiv
+	                          "                      1x cxxxix
+	                          "                      1x cxxxv
+	                          "                      1x cxxxvi
+	                          "                      1x cxxxvii
+	                          "                      1x cxxxviii
+	                          "                      4x i
+	                          "                      4x ii
+	                          "                      4x iii
+	                          "                      2x iv
+	                          "                      1x v
+	                          "                      1x vi
+	                          "                      1x vii
+	                          "                      1x viii
 
 	<profileDesc>                    118x 
 
@@ -142,7 +489,7 @@ Remaining Attributes and Elements
 
 	<quote>                           70x 
 
-	<ref>              target=       661x X
+	<ref>              target=       368x X
 
 	<resp>                           118x 
 

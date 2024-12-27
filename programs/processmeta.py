@@ -63,9 +63,7 @@ TEMPLATE = """\
 <text>
     <body>
         {text}
-        <div type="notes">
-            {notes}
-        </div>
+        {notes}
     </body>
 </text>
 </TEI>
