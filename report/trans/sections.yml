@@ -779,6 +779,7 @@ Goethals-Soter:
 - §actus-scena quinti-prima
 - §actus-scena quinti-secunda
 - §actus-scena quinti-tertia
+- §actus quinti
 - ±chorus nulli
 - ±chorus
 - ±chorus fas
@@ -809,7 +810,7 @@ Grimald-Christus:
 - §actus-scena iii-i
 - §actus-scena iii-ii
 - §actus-scena iii-iii
-- §actus-scena iii-1111
+- §actus-scena iii-iiii
 - §actus-scena iii-v
 - §actus-scena iii-vi
 - §argumentum actvs
@@ -935,6 +936,7 @@ Gwalther-Nabal:
 Heinsius-Auriacus:
 - §personae tragoediae
 - ±chorus satellitum
+- §actus primus
 - ±chorus senum
 - §actus-scena ii-i
 - §scena ii
@@ -949,6 +951,8 @@ Heinsius-Auriacus:
 - ±chorus
 - §actus v
 Heinsius-Herodes:
+- §personae
+- §actus primus
 - ±chorus vatum
 - §actus secundus
 - ±chorus
@@ -959,6 +963,8 @@ Heinsius-Herodes:
 - §actus quintus
 Holonius-Catharina:
 - §prologus in
+- §prologus
+- §prologus
 - §argumentum
 - §personae tragoediae
 - ±chorus duplex
@@ -966,49 +972,81 @@ Holonius-Catharina:
 - §scena i
 - §actus primi
 - §scena ii
+- §actus i
 - §actus-scena i-iii
+- §actus i
 - §actus-scena i-iiii
+- §actus i
 - §actus-scena i-v
+- §actus ii
 - §actus primi
 - §scena vi
+- §actus i
 - ±chorus aegyptiarvm
 - §actus secvndi
 - §scena prima
 - §actus-scena ii-ii
+- §actus ii
 - §actus-scena ii-iii
+- §actus ii
 - §actus-scena ii-iiii
 - §actus ii
+- §actus ii
+- §actus ii
 - ±chorus aegyptiarvm
+- §actus ii
 - §actus tertii
 - §scena prima
+- §actus iii
 - §actus-scena iii-ii
+- §actus iii
 - §actus-scena iii-iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
 - §actus-scena iii-iiii
 - ±chorus angelorvm
+- §actus iii
 - §actus qvarti
 - §scena prima
+- §actus iiii
 - §actus qvarti
 - §scena ii
+- §actus iiii
+- §actus iiii
 - §actus-scena iiii-iii
 - ±chorus at
 - ±chorus caesar
+- §actus iiii
 - ±chorus miserere
 - ±chorus at
 - ±chorus at
 - §actus-scena iiii-iiii
 - ±chorus renidet
+- §actus iiii
 - §actus-scena iiii-v
+- §actus iiii
 - ±chorus aegyptiarvm
+- §actus iiii
 - §actus qvinti
 - §scena prima
+- §actus v
 - §actus-scena v-ii
+- §actus iiii
 - §actus-scena v-iii
+- §actus iiii
 - §actus-scena v-iiii
+- §actus iiii
 - §actus-scena v-v
 - §actus-scena v-vi
+- §actus v
 - §actus-scena v-vii
 - §actus qvinti
 - §scena viii
+- §actus iiii
+- §actus v
 Holonius-Laurentias:
 - §prologus
 - §prologus
@@ -1045,6 +1083,7 @@ Holonius-Laurentias:
 - §actus iii
 - §actus-scena iii-iii
 - §actus-scena iii-iiii
+- §actus iii
 - §actus-scena iii-v
 - §actus-scena iii-vi
 - §actus iii
@@ -1057,6 +1096,7 @@ Holonius-Laurentias:
 - §actus iiii
 - §actus iiii
 - §actus-scena iiii-ii
+- §actus iiii
 - §actus-scena iiii-iii
 - §actus-scena iiii-iiii
 - §actus iiii
@@ -1092,12 +1132,15 @@ Honerdus-Thamara:
 - ±chorus
 - §actus secvndvs
 - ±chorus
+- §actus-scena tert-prima
 - ±chorus senex
 - ±chorus vnusne
 - §scena secvnda
 - §scena tertia
 - ±chorus
+- §actus qvart
 - ±chorus
+- §actus v
 Houcharius-Grisellis:
 - §prologus
 - §argumentum
@@ -2128,10 +2171,12 @@ Ruggle-Ignoramus:
 - §actus-scena i-iv
 - §actus-scena i-v
 - §actus-scena i-vi
+- §actus-scena i-vii
 - §actus-scena i-viii
 - §actus-scena ii-i
 - §actus-scena ii-ii
 - §actus-scena ii-iii
+- §actus-scena ii-iv
 - §actus-scena ii-v
 - §actus-scena ii-vi
 - §actus-scena ii-vii
@@ -2139,12 +2184,14 @@ Ruggle-Ignoramus:
 - §actus-scena iii-i
 - §actus-scena iii-ii
 - §actus-scena iii-iii
+- §actus-scena iii-iv
 - §actus-scena iii-v
 - §actus-scena iii-vi
 - §actus-scena iii-vii
 - §actus-scena iii-viii
 - §actus-scena iii-ix
 - §actus-scena iii-x
+- §actus-scena iii-xi
 - §actus-scena iii-xii
 - §actus-scena iii-xiii
 - §actus-scena iv-i

@@ -1532,6 +1532,8 @@ Goethals-Soter:
   - quinti-secunda
 - - §actus-scena
   - quinti-tertia
+- - §actus
+  - quinti
 - - ±chorus
   - nulli
 - - ±chorus
@@ -1590,7 +1592,7 @@ Grimald-Christus:
 - - §actus-scena
   - iii-iii
 - - §actus-scena
-  - iii-1111
+  - iii-iiii
 - - §actus-scena
   - iii-v
 - - §actus-scena
@@ -1836,6 +1838,8 @@ Heinsius-Auriacus:
   - tragoediae
 - - ±chorus
   - satellitum
+- - §actus
+  - primus
 - - ±chorus
   - senum
 - - §actus-scena
@@ -1863,6 +1867,10 @@ Heinsius-Auriacus:
 - - §actus
   - v
 Heinsius-Herodes:
+- - §personae
+  - ''
+- - §actus
+  - primus
 - - ±chorus
   - vatum
 - - §actus
@@ -1882,6 +1890,10 @@ Heinsius-Herodes:
 Holonius-Catharina:
 - - §prologus
   - in
+- - §prologus
+  - ''
+- - §prologus
+  - ''
 - - §argumentum
   - ''
 - - §personae
@@ -1896,16 +1908,26 @@ Holonius-Catharina:
   - primi
 - - §scena
   - ii
+- - §actus
+  - i
 - - §actus-scena
   - i-iii
+- - §actus
+  - i
 - - §actus-scena
   - i-iiii
+- - §actus
+  - i
 - - §actus-scena
   - i-v
+- - §actus
+  - ii
 - - §actus
   - primi
 - - §scena
   - vi
+- - §actus
+  - i
 - - ±chorus
   - aegyptiarvm
 - - §actus
@@ -1914,40 +1936,74 @@ Holonius-Catharina:
   - prima
 - - §actus-scena
   - ii-ii
+- - §actus
+  - ii
 - - §actus-scena
   - ii-iii
+- - §actus
+  - ii
 - - §actus-scena
   - ii-iiii
+- - §actus
+  - ii
+- - §actus
+  - ii
 - - §actus
   - ii
 - - ±chorus
   - aegyptiarvm
 - - §actus
+  - ii
+- - §actus
   - tertii
 - - §scena
   - prima
+- - §actus
+  - iii
 - - §actus-scena
   - iii-ii
+- - §actus
+  - iii
 - - §actus-scena
   - iii-iii
+- - §actus
+  - iii
+- - §actus
+  - iii
+- - §actus
+  - iii
+- - §actus
+  - iii
+- - §actus
+  - iii
 - - §actus-scena
   - iii-iiii
 - - ±chorus
   - angelorvm
 - - §actus
+  - iii
+- - §actus
   - qvarti
 - - §scena
   - prima
 - - §actus
+  - iiii
+- - §actus
   - qvarti
 - - §scena
   - ii
+- - §actus
+  - iiii
+- - §actus
+  - iiii
 - - §actus-scena
   - iiii-iii
 - - ±chorus
   - at
 - - ±chorus
   - caesar
+- - §actus
+  - iiii
 - - ±chorus
   - miserere
 - - ±chorus
@@ -1958,30 +2014,50 @@ Holonius-Catharina:
   - iiii-iiii
 - - ±chorus
   - renidet
+- - §actus
+  - iiii
 - - §actus-scena
   - iiii-v
+- - §actus
+  - iiii
 - - ±chorus
   - aegyptiarvm
+- - §actus
+  - iiii
 - - §actus
   - qvinti
 - - §scena
   - prima
+- - §actus
+  - v
 - - §actus-scena
   - v-ii
+- - §actus
+  - iiii
 - - §actus-scena
   - v-iii
+- - §actus
+  - iiii
 - - §actus-scena
   - v-iiii
+- - §actus
+  - iiii
 - - §actus-scena
   - v-v
 - - §actus-scena
   - v-vi
+- - §actus
+  - v
 - - §actus-scena
   - v-vii
 - - §actus
   - qvinti
 - - §scena
   - viii
+- - §actus
+  - iiii
+- - §actus
+  - v
 Holonius-Laurentias:
 - - §prologus
   - ''
@@ -2053,6 +2129,8 @@ Holonius-Laurentias:
   - iii-iii
 - - §actus-scena
   - iii-iiii
+- - §actus
+  - iii
 - - §actus-scena
   - iii-v
 - - §actus-scena
@@ -2077,6 +2155,8 @@ Holonius-Laurentias:
   - iiii
 - - §actus-scena
   - iiii-ii
+- - §actus
+  - iiii
 - - §actus-scena
   - iiii-iii
 - - §actus-scena
@@ -2146,6 +2226,8 @@ Honerdus-Thamara:
   - secvndvs
 - - ±chorus
   - ''
+- - §actus-scena
+  - tert-prima
 - - ±chorus
   - senex
 - - ±chorus
@@ -2156,8 +2238,12 @@ Honerdus-Thamara:
   - tertia
 - - ±chorus
   - ''
+- - §actus
+  - qvart
 - - ±chorus
   - ''
+- - §actus
+  - v
 Houcharius-Grisellis:
 - - §prologus
   - ''
@@ -4177,6 +4263,8 @@ Ruggle-Ignoramus:
 - - §actus-scena
   - i-vi
 - - §actus-scena
+  - i-vii
+- - §actus-scena
   - i-viii
 - - §actus-scena
   - ii-i
@@ -4184,6 +4272,8 @@ Ruggle-Ignoramus:
   - ii-ii
 - - §actus-scena
   - ii-iii
+- - §actus-scena
+  - ii-iv
 - - §actus-scena
   - ii-v
 - - §actus-scena
@@ -4199,6 +4289,8 @@ Ruggle-Ignoramus:
 - - §actus-scena
   - iii-iii
 - - §actus-scena
+  - iii-iv
+- - §actus-scena
   - iii-v
 - - §actus-scena
   - iii-vi
@@ -4210,6 +4302,8 @@ Ruggle-Ignoramus:
   - iii-ix
 - - §actus-scena
   - iii-x
+- - §actus-scena
+  - iii-xi
 - - §actus-scena
   - iii-xii
 - - §actus-scena

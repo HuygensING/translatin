@@ -132,8 +132,8 @@ SNUM_RE = re.compile(
         [ivxvl0-9]+
         | prim[a-z]+
         | sec[uv]nd[a-z]+
-        | terti[a-z]+
-        | q[uv]art[a-z]+
+        | tert(?:i[a-z]+)?
+        | q[uv]art(?:[a-z]+)?
         | q[uv]int[a-z]+
         | sext[a-z]+
         | septim[a-z]+
@@ -160,6 +160,7 @@ SECTION_TRIGGERS_DEF = dict(
     actores=(False, False, False, "actores"),
     actorum=(False, False, False, "actorum"),
     actus=(True, True, False, "actus"),
+    act=(True, True, False, "actus"),
     argumentum=(True, False, False, "argumentum"),
     chori=(False, False, False, "chorus"),
     chorus=(False, False, False, "chorus"),
@@ -202,214 +203,6 @@ SECTION_TRIGGERS = {k: v[-1] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
 SECTION_TRIGGERS_SEC = {k: v[0] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
 SECTION_TRIGGERS_NUM = {k: v[1] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
 SECTION_TRIGGERS_TRIG = {k: v[2] for (k, v) in SECTION_TRIGGERS_PROTO.items()}
-
-NAMES_DEF = set(
-    r"""
-    acolastus
-    aluta
-    amor
-    andrisca
-    anna
-    anima
-    angeli
-    angelus
-    asmodaeus
-    buccartius
-    byrsocopus
-    christus
-    cognitio
-    colax
-    cometa
-    cupido
-    dudelaeus
-    ecclesia
-    euripus
-    explorator
-    fides
-    genovefam
-    georgus
-    gustavus
-    hecastus
-    henricus
-    herodes
-    homulus
-    iesuah
-    ioseph
-    iosephus
-    luce
-    magi
-    maria
-    matres
-    megadorus
-    miles
-    mors
-    morosophus
-    nauta
-    nehemias
-    nomocrates
-    numina
-    nuncius
-    nuntius
-    octonarii
-    pedantius
-    pestis
-    ponus
-    primus
-    princeps
-    puella
-    raphael
-    religio
-    sanguine
-    sara
-    sathanas
-    secundus
-    senarii
-    senarij
-    senex
-    simus
-    tempus
-    tertia
-    tertius
-    timor
-    tobias
-    tristia
-    venus
-    virginum
-    """.strip().split()
-)
-
-NAMES = NAMES_DEF | {k.replace("u", "v") for k in NAMES_DEF}
-
-NONSECTION_WORDS_DEF = set(
-    r"""
-    a
-    aa
-    ab
-    abite
-    ad
-    age
-    apostolorum
-    at
-    b
-    bene
-    c
-    capta
-    carmine
-    consuetudine
-    credere
-    cum
-    cuncta
-    d
-    de
-    destrues
-    desydero
-    dilectionis
-    dimetri
-    duo
-    effare
-    e
-    eiusdem
-    en
-    equidem
-    ergo
-    esse
-    est
-    et
-    etiam
-    ex
-    exhauriendus
-    f
-    fac
-    fortiter
-    g
-    gaudia
-    h
-    hei
-    hoc
-    iambici
-    iambico
-    iambicum
-    imò
-    in
-    ita
-    itáne
-    k
-    l
-    laudate
-    laus
-    licet
-    m
-    me
-    mea
-    mihi
-    miserare
-    more
-    mortis
-    n
-    ne
-    nell
-    nihil
-    nobis
-    nomen
-    non
-    nos
-    nunc
-    nunquid
-    o
-    omnes
-    omnia
-    omnibus
-    ordine
-    p
-    pectora
-    pectore
-    proh
-    puer
-    pulvere
-    q
-    quando
-    quem
-    qui
-    quid
-    quis
-    quî
-    quod
-    r
-    regemque
-    s
-    satis
-    sed
-    serenitate
-    sic
-    sine
-    solus
-    sunt
-    t
-    tantisper
-    ubi
-    ut
-    te
-    tetrametri
-    trimetri
-    trochaici
-    tum
-    v
-    vel
-    vere
-    versu
-    versus
-    vis
-    x
-    y
-    z
-    """.strip().split()
-)
-
-NONSECTION_WORDS = NONSECTION_WORDS_DEF | {
-    k.replace("u", "v") for k in NONSECTION_WORDS_DEF
-}
-
-NONSECTION = NAMES | NONSECTION_WORDS
 
 LINENUMBER_ALONE_RE = re.compile(
     r"""
@@ -709,9 +502,9 @@ class TeiFromDocx:
 
         self.lnumReplAlone = replAlone
         self.lnumReplBefore = replGeneric(2, "{a}≤line={b}≥ ")
-        self.lnumReplAfter = replGeneric(2, "≤line={b}≥ {a}\n")
+        self.lnumReplAfter = replGeneric(2, "≤line={b}≥ {a}")
         self.lnumReplBareAfter = replGeneric(2, "≤line={b}≥ {a}")
-        self.lnumReplBareBefore = replGeneric(1, "≤line={a}≥ {b}\n")
+        self.lnumReplBareBefore = replGeneric(1, "≤line={a}≥ {b}")
 
     def makeSectionTriggerRepl(self, workName):
         sections = self.sections[workName]

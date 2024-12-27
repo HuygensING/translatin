@@ -30,9 +30,26 @@ ROMAN_PAGENUM_SQ_RE = re.compile(
 ARABIC_PAGENUM_SQ_RE = re.compile(
     r"""
     \\\[
+    (?:p\.)?
     [\ ]?
     ([0-9]+)
     [\ ]?
+    \\\]
+    """,
+    re.X,
+)
+
+ARABIC_PAGENUM_SQ_FACS_RE = re.compile(
+    r"""
+    \\\[
+    (?:p\.)?
+    [\ ]?
+    ([0-9]+)
+    (?:
+        :
+        [\ ]+
+        ([^\\]*)
+    )?
     \\\]
     """,
     re.X,
@@ -83,6 +100,19 @@ PAGE_FACS_RE = re.compile(
     re.X | re.S,
 )
 
+FOLIO_ALPHA_ROMAN_RE = re.compile(
+    r"""
+    ^
+    (
+        [A-Z]
+        [\ ]?
+        [ijxvcl]*
+    )
+    $
+    """,
+    re.X | re.M,
+)
+
 NUMERALS_NL = dict(
     eerste="i",
     tweede="ii",
@@ -115,20 +145,37 @@ class WorkSpecific:
 
         def pageFacsRepl(match):
             page = match.group(1)
-            facs = match.group(2)
+            facs = match.group(2) or ""
+
+            if facs:
+                facs = f"|{facs}"
+
             start = match.start()
-            pages.append(["p", start, page])
-            return f"≤page={page}|{facs}≥"
+            pages.append(["p", start, f"{page}{facs}"])
+            return f"≤page={page}{facs}≥"
 
         self.pageFacsRepl = pageFacsRepl
 
         def folioRepl(match):
-            folio = match.group(1).replace(" ", "")
+            folio = match.group(1).replace(" ", "").replace("\n", "")
             start = match.start()
             pages.append(["f", start, folio])
             return f"≤folio={folio}≥"
 
         self.folioRepl = folioRepl
+
+        def folioFacsRepl(match):
+            folio = match.group(1).replace(" ", "").replace("\n", "")
+            facs = (match.group(2) or "").replace(" ", "").replace("\n", "")
+
+            if facs:
+                facs = f"|{facs}"
+
+            start = match.start()
+            pages.append(["f", start, f"{folio}{facs}"])
+            return f"≤folio={folio}{facs}≥"
+
+        self.folioFacsRepl = folioFacsRepl
 
     def Alberti_Philodoxus(self, text):
         text = ROMAN_PAGENUM_SQ_RE.sub(self.pageRepl, text)
@@ -251,19 +298,7 @@ class WorkSpecific:
             re.X | re.M,
         )
         text = headRe.sub(r"\1", text)
-        folioRe = re.compile(
-            r"""
-            ^
-            (
-                [A-Z]
-                [\ ]?
-                [ijxvcl]*
-            )
-            $
-            """,
-            re.X | re.M,
-        )
-        text = folioRe.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
@@ -397,16 +432,110 @@ class WorkSpecific:
 
     Gretser_Timon = "generic"
     Gretser_Underwaldius = "generic"
-    Grimald_Christus = None
-    Grotius_Adamus = None
-    Grotius_Christus = None
-    Grotius_Phoenissae = None
-    Gwalther_Nabal = None
-    Heinsius_Auriacus = None
-    Heinsius_Herodes = None
-    Holonius_Catharina = None
-    Holonius_Laurentias = None
-    Honerdus_Thamara = None
+    Grimald_Christus = "generic"
+    Grotius_Adamus = "generic"
+    Grotius_Christus = "generic"
+
+    def Grotius_Phoenissae(self, text):
+        folioRe = re.compile(
+            r"""
+            \\\[
+            fol\.
+            [\ ]
+            (\w+)
+            (?:
+                :
+                [\ ]?
+                (
+                    [^\\]*
+                )
+            )?
+            \\\]
+            """,
+            re.X | re.S,
+        )
+        text = folioRe.sub(self.folioFacsRepl, text)
+        text = ARABIC_PAGENUM_SQ_FACS_RE.sub(self.pageFacsRepl, text)
+        return text
+
+    Gwalther_Nabal = "generic"
+    Heinsius_Auriacus = "generic"
+
+    def Heinsius_Herodes(self, text):
+        # there is wrongly coded greek at the end, past Back
+        folioRe = re.compile(
+            r"""
+            (?:\\\[)?
+            /
+            ([A-Za-z]?[0-9]+[rv]?)
+            /
+            (?:\\\])?
+            """,
+            re.X,
+        )
+        text = folioRe.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            /
+            p\.
+            [\ ]
+            ([0-9]+)
+            /
+            [\ ]?
+            """,
+            re.X
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Holonius_Catharina(self, text):
+        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Holonius_Laurentias(self, text):
+        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Honerdus_Thamara(self, text):
+        folioRe = re.compile(
+            r"""
+            ^
+            (
+                [A-Z]
+                (?:
+                    [\ ]?
+                    [0-9]+
+                )?
+            )
+            $
+            """,
+            re.X | re.M
+        )
+        text = folioRe.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                THAMARA
+                |
+                TRA[GC]OEDIA
+                |
+                TRAGOAEDIA
+            )
+            \.?
+            [\ ]?
+            ([0-9]+)
+            .*
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+
+        return text
+
     Houcharius_Grisellis = None
     Houthem_Gedeon = None
     Ischyrius_Homulus = None
