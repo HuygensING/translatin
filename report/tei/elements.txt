@@ -18,19 +18,21 @@ Keyword Attributes
 
 	<TEI>              lang=         118x lat
 
-	<div>              type=        2826x level1
+	<div>              type=        2890x level1
 	                          "                     38x notes
 
-	<list>             type=         130x ordered:arabic
+	<list>             type=         129x ordered:arabic
 	                          "                      2x ordered:loweralpha
 	                          "                      6x ordered:lowerroman
 	                          "                     15x ordered:upperalpha
 	                          "                     88x ordered:upperroman
 	                          "                      5x unordered
 
-	<milestone>        unit=         169x folio
+	<milestone>        unit=         504x folio
 
-	<pb>               facs=           1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius
+	<pb>               facs=          60x Graecus
+	                          "                      3x blanco
+	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/103?hi=0;vid=14811;q1=pedantius
@@ -323,6 +325,7 @@ Keyword Attributes
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/97:10?vid=49333
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/98:10?vid=49333
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/99:10?vid=49333
+	                          "                     60x textus
 
 	<term>             type=         118x acts
 	                          "                    118x chorus
@@ -345,7 +348,7 @@ Remaining Attributes and Elements
 
 	<date>                           236x 
 
-	<div>              id=          2826x X
+	<div>              id=          2890x X
 
 	<editor>                         118x 
 
@@ -353,11 +356,11 @@ Remaining Attributes and Elements
 
 	<fileDesc>                       118x 
 
-	<head>                          2826x 
+	<head>                          2890x 
 
 	<item>                            28x 
 	                   n=             61x N
-	                          "                    121x NN
+	                          "                    120x NN
 	                          "                     38x NNN
 	                          "                      6x NNNN
 
@@ -365,56 +368,146 @@ Remaining Attributes and Elements
 
 	<lb>                            1180x 
 
-	<milestone>        n=              4x AN
-	                          "                      4x ANr
-	                          "                      4x ANv
-	                          "                      1x Aiiij
-	                          "                      1x Aiij
-	                          "                      1x Aij
-	                          "                      1x B
-	                          "                      4x BN
+	<milestone>        n=              1x A
+	                          "                      9x AN
+	                          "                      8x ANr
+	                          "                      5x ANv
+	                          "                      1x Aia
+	                          "                      2x Aii
+	                          "                      1x Aiia
+	                          "                      1x Aiib
+	                          "                      1x Aiiia
+	                          "                      1x Aiiib
+	                          "                      1x Aiiiia
+	                          "                      1x Aiiiib
+	                          "                      3x Aiiij
+	                          "                      1x Aiiija
+	                          "                      1x Aiiijb
+	                          "                      5x Aiij
+	                          "                      1x Aiija
+	                          "                      1x Aiijb
+	                          "                      4x Aij
+	                          "                      1x Aija
+	                          "                      1x Aijb
+	                          "                      2x Ava
+	                          "                      2x Avb
+	                          "                      1x Avia
+	                          "                      1x Avib
+	                          "                      1x Aviia
+	                          "                      1x Aviib
+	                          "                      1x Aviiia
+	                          "                      1x Aviiib
+	                          "                      1x Aviijb
+	                          "                      1x Avija
+	                          "                      1x Avijb
+	                          "                      1x Avja
+	                          "                      1x Avjb
+	                          "                      1x Avjija
+	                          "                      8x B
+	                          "                      8x BN
 	                          "                      8x BNr
 	                          "                      9x BNv
 	                          "                      1x Bi
-	                          "                      1x Biiij
-	                          "                      1x Biij
-	                          "                      1x Bij
-	                          "                      4x CN
+	                          "                      2x Bii
+	                          "                      1x Biii
+	                          "                      3x Biiij
+	                          "                      1x Biiijb
+	                          "                      5x Biij
+	                          "                      1x Biija
+	                          "                      1x Biijb
+	                          "                      3x Bij
+	                          "                      1x Bijb
+	                          "                      1x Bja
+	                          "                      1x Bjb
+	                          "                      1x Bva
+	                          "                      1x Bvb
+	                          "                      1x Bviib
+	                          "                      1x Bviija
+	                          "                      1x Bviijb
+	                          "                      1x Bvija
+	                          "                      1x Bvja
+	                          "                      1x Bvjb
+	                          "                      5x C
+	                          "                      9x CN
 	                          "                     11x CNr
 	                          "                     11x CNv
-	                          "                      1x Ciiij
-	                          "                      1x Ciij
-	                          "                      1x Cij
+	                          "                      1x Ci
+	                          "                      1x Cii
+	                          "                      1x Ciii
+	                          "                      3x Ciiij
+	                          "                      5x Ciij
+	                          "                      5x Cij
 	                          "                      1x Cr
 	                          "                      1x Cv
-	                          "                      1x D
-	                          "                      4x DN
+	                          "                      7x D
+	                          "                      6x DN
 	                          "                     11x DNr
 	                          "                     11x DNv
-	                          "                      1x Diiij
-	                          "                      1x Diij
-	                          "                      1x Dij
+	                          "                      3x Diiij
+	                          "                      1x Diiija
+	                          "                      4x Diij
+	                          "                      1x Diija
+	                          "                      1x Diijb
+	                          "                      5x Dij
+	                          "                      1x Dijb
+	                          "                      1x Dja
+	                          "                      1x Djb
 	                          "                      1x Dr
 	                          "                      1x Dv
+	                          "                      4x E
 	                          "                     10x ENr
 	                          "                      7x ENv
-	                          "                      1x Eiij
-	                          "                      1x Eij
+	                          "                      2x Ei
+	                          "                      1x Eiiij
+	                          "                      4x Eiij
+	                          "                      4x Eij
 	                          "                      2x Ev
+	                          "                      2x F
+	                          "                      2x FN
 	                          "                      8x FNr
 	                          "                      7x FNv
-	                          "                      1x Fiij
-	                          "                      1x Fij
+	                          "                      1x Fi
+	                          "                      1x Fiiij
+	                          "                      3x Fiij
+	                          "                      3x Fij
 	                          "                      1x Fr
-	                          "                      1x Fv
+	                          "                      2x Fv
+	                          "                      4x G
+	                          "                      2x GN
 	                          "                      8x GNr
 	                          "                      7x GNv
+	                          "                      1x Gi
+	                          "                      1x Giij
+	                          "                      1x Gij
 	                          "                      1x Gr
 	                          "                      1x Gv
+	                          "                      2x H
+	                          "                      2x HN
 	                          "                      1x HNr
 	                          "                      1x HNv
+	                          "                      1x Hiij
+	                          "                      1x Hij
 	                          "                      1x Hr
 	                          "                      1x Hv
+	                          "                      4x I
+	                          "                      1x IN
+	                          "                      1x Kiij
+	                          "                      1x Kij
+	                          "                      1x L
+	                          "                      1x Liij
+	                          "                      1x Lij
+	                          "                      1x Mij
+	                          "                      1x N
+	                          "                    104x NNN
+	                          "                      1x Niij
+	                          "                      1x V
+	                          "                      8x aNr
+	                          "                      7x aNv
+	                          "                      2x aNv|blanco
+	                          "                      8x bNr
+	                          "                      8x bNv
+	                          "                      6x cNr
+	                          "                      6x cNv
 	                          "                      2x πNr
 	                          "                      2x πNv
 
@@ -422,11 +515,11 @@ Remaining Attributes and Elements
 
 	<note>             id=          3109x X
 
-	<p>                            190054x 
+	<p>                            189947x 
 
-	<pb>               n=             71x N
-	                          "                    686x NN
-	                          "                    507x NNN
+	<pb>               n=            125x N
+	                          "                   1106x NN
+	                          "                    536x NNN
 	                          "                      1x cl
 	                          "                      1x cli
 	                          "                      1x clii

@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T09:18:49+00:00Z
+@dateWritten=2024-12-27T20:46:18+00:00Z
 
-2068472	TEI header
+2067248	TEI header
 Front
 Main
 PERSONAE.
@@ -734,6 +734,7 @@ Actus quarti Scena quarta.
 Actus quinti Scena prima.
 Actus quinti Scena secunda.
 Actus quinti Scena tertia.
+Act. quinti Sce. quarta, & vltima.
 Peroratio.
 Back
 TEI header
@@ -766,7 +767,7 @@ ARGVMENTVM ACTVS III.
 ACTVS III. SCENA I.
 ACTVS III. SCENA II.
 ACTVS III. SCENA III.
-ACTVS III. SCENA 1111.
+ACTVS III. SCENA iiii.
 ACTVS III. SCENA V.
 ACTUS III. SCENA VI.
 ARGVMENTVM ACTVS IIII.
@@ -795,7 +796,9 @@ Front
 Main
 PERSONAE.
 ACTUS PRIMUS.
+ACTUS SECUNDUS.
 ACTUS TERTIUS.
+ACTUS QUARTUS.
 ACTUS QUINTUS.
 Back
 TEI header
@@ -868,6 +871,7 @@ TEI header
 Front
 Main
 PERSONAE TRAGOEDIAE
+ACTUS PRIMUS.
 ACTUS II. SCENA I.
 SCENA II.
 ACTUS. III. SCENA. I.
@@ -877,131 +881,169 @@ SCENA II.
 SCENA. III.
 ACTUS. V.
 Back
-14 div
+15 div
 TEI header
 Front
 Main
+ PERSONAE. 
+ ACTUS PRIMUS. 
 ACTUS SECUNDUS.
 ACTUS TERTIUS.
-ACTUS QUARTUS. [/339/]
+ACTUS QUARTUS. 
 ACTUS QUINTUS.
 Back
 TEI header
 Front
 Main
 PROLOGVS IN CATHARINAM.
+ PROLOGVS.
+ PROLOGVS.
 ARGVMENTVM.
 Personae Tragoediae.
 ACTVS PRIMI
 SCENA .I.
 ACTVS PRIMI,
 SCENA .II.
+ ACTVS .I.
 ACTVS. I. SCENA. III.
+ ACTVS .I.
 ACTVS. I. SCENA. IIII.
+ ACTVS. I.
 ACTVS. I. SCENA. V.
+ ACTVS .II.
 ACTVS PRIMI,
 SCENA. VI.
+ ACTVS. I.
 ACTVS SECVNDI
 SCENA PRIMA.
 ACTVS. II. SCENA. II.
+ ACTVS. II.
 ACTVS. II. SCENA. III.
+ ACTVS. II.
 ACTVS. II. SCENA. IIII.
+ ACTVS .II.
+ ACTVS .II.
 ACTVS II. SCENA.V.
+ ACTVS. II.
 ACTVS TERTII
 SCENA PRIMA.
+ ACTVS. III.
 ACTVS. III. SCENA. II.
+ ACTVS .III.
 ACTVS. III. SCENA. III.
+ ACTVS .III.
+ ACTVS .III.
+ ACTVS .III.
+ ACTVS .III.
+ ACTVS .III.
 ACTVS. III. SCENA. IIII.
+ ACTVS .III.
 ACTVS QVARTI
 SCENA PRIMA.
+ ACTVS .IIII.
 ACTVS QVARTI,
 SCENA. II.
+ ACTVS .IIII.
+ ACTVS .IIII.
 ACTVS. IIII. SCENA. III.
+ ACTVS .IIII.
 ACTVS. IIII. SCENA. IIII.
+ ACTVS .IIII.
 ACTVS. IIII. SCENA. V.
+ ACTVS .IIII.
+ ACTVS .IIII.
 ACTVS QVINTI
 SCENA PRIMA.
+ ACTVS V.
 ACTVS. V. SCENA. II.
+ ACTVS .IIII.
 ACTVS. V. SCENA. III.
+ ACTVS .IIII.
 ACTVS. V. SCENA. IIII.
+ ACTVS .IIII.
 ACTVS. V. SCENA. V.
 ACTVS. V. SCENA. VI.
+ ACTVS. V.
 ACTVS. V. SCENA. VII.
 ACTVS QVINTI
 SCENA. VIII.
+ ACTVS .IIII.
+ ACTVS. V.
 Back
 TEI header
 Front
 Main
 PROLOGVS
-PROLOGVS. [7]
+PROLOGVS. 
 ARGVMENTVM.
 Personae actionis.
 ACTVS. I. SCENA. II.
-ACTVS. I. [11]
+ACTVS. I. 
 ACTVS. I. SCENA. III.
-ACTVS. I. [13]
+ACTVS. I. 
 ACTVS. I. SCENA. IIII.
-ACTVS. I. [15]
+ACTVS. I. 
 ACTVS. I. SCENA. V.
-ACTVS. I. [17]
+ACTVS. I. 
 ACTVS.I. SCENA. VI.
 ACTVS SECVNDI.
 SCENA PRIMA.
-ACTVS. II [21]
+ACTVS. II 
 ACTVS. II. SCENA. II.
-ACTVS. II. [23]
+ACTVS. II. 
 ACTVS. II. SCENA. III.
 ACTVS. II. SCENA. IIII.
-ACTVS. II. [25]
+ACTVS. II. 
 ACTVS II. SCENA. V.
-ACTVS. II. [27]
+ACTVS. II. 
 ACTVS. II. SCENA. VI.
 ACTVS. II. SCENA. VII.
-ACTVS II. [29]
+ACTVS II. 
 ACTVS TERTII, SCENA I.
-ACTVS. IIII. [31]
+ACTVS. IIII. 
 ACTVS. III. SCENA. II.
-ACTVS III. [33]
+ACTVS III. 
 ACTVS. III. SCENA. III.
 ACTVS. III. SCENA. IIII.
+ACT. III. 
 ACTVS. III. SCENA. V.
 ACTVS. III. SCENA. VI.
-ACTVS. III. [37]
+ACTVS. III. 
 ACTVS. III. SCENA.VII.
 ACTVS TERTII SCENA. VIII.
-ACTVS. III. [39]
-ACTVS. IIII. [41]
+ACTVS. III. 
+ACTVS. IIII. 
 ACTVS QVARTI SCENA PRIMA.
-ACTVS IIII. [43]
-ACTVS. IIII. [45]
+ACTVS IIII. 
+ACTVS. IIII. 
 ACTVS. IIII. SCENA. II.
+ACT. IIII. 
 ACTVS. IIII. SCENA. III.
 ACTVS. IIII. SCENA. IIII.
-ACTVS. IIII. [49]
+ACTVS. IIII. 
 ACTVS. IIII. SCENA. V.
-ACTVS. IIII. [51]
+ACTVS. IIII. 
 ACTVS IIII. SCENA.VI.
-ACTVS IIII. [53]
-ACTVS. IIII. [55]
+ACTVS IIII. 
+ACTVS. IIII. 
 ACTVS QVINTI SCENA PRIMA.
-ACTVS. V. [57]
+ACTVS. V. 
 ACTVS QVINTI SCENA. II.
-ACTVS. V. [59]
+ACTVS. V. 
 ACTVS QVINTI SCENA. III.
 ACTVS. V. SCENA. IIII.
 ACTVS. V. SCENA. V.
-ACTVS. V. [61]
+ACTVS. V. 
 ACTVS. V. SCENA. VI.
-ACTVS. IIII. [63]
+ACTVS. IIII. 
 ACTVS. V. SCENA. VII.
-ACTVS. V. [65]
+ACTVS. V. 
 ACTVS QVINTI, SCENA. VIII.
-ACTVS V. [67]
+ACTVS V. 
 ACTVS QVINTI, SCENA. IX.
-ACTVS. V. [69]
+ACTVS. V. 
 ACTVS. V. SCENA VLTIMA.
-ACTVS. V. [71]
+ACTVS. V. 
 Back
 TEI header
 Front
@@ -1010,8 +1052,11 @@ PERSONAE.
 SCENA PRIMA. ACTVS PRIMVS.
 SCENA SECVNDA.
 ACTVS SECVNDVS.
+ACT. TERT. SCENA. PRIMA.
 SCENA SECVNDA.
 SCENA TERTIA.
+ACT. QVART. SCEN. PRIM.
+ACT. V. SCEN. I.
 Back
 TEI header
 Front
@@ -1019,6 +1064,7 @@ Main
 PROLOGVS.
 Argumentum.
 Actus secundus.
+Tertius actus
 Conclusio.
 Back
 TEI header
@@ -1035,13 +1081,18 @@ Actus secundi. Scena secunda.
 Actus secundi. Scena tertia.
 Actus tertij. Scena prima.
 Actus tertij. Scena secunda.
+Actus tertij. Scena tertia.
 Actus tertij. Scena quarta.
+Actus quarti. Scena prima.
 Actus quarti. Scena secunda.
 Actus quarti. Scena tertia
 Actus quinti. Scena prima.
+Actus quinti. Scena secunda.
 Actus quinti: Scena tertia.
 Actus quinti. Scena quarta.
-21 div
+Actus quinti: Scena quinta.
+Back
+26 div
 TEI header
 Front
 Main
@@ -1051,10 +1102,13 @@ ACTVS I.
 SCENA I.
 SCENA II.
 SCENA III.
+SCENA IIII.
 ACTVS II.
 SCENA I.
+SCENA II.
 SCENA III.
 SCENA IIII.
+ SCENA V.
 ACTVS III.
 SCENA I.
 SCENA II.
@@ -1065,13 +1119,14 @@ SCENA I.
 SCENA II
 ACTUS V
 SCENA I.
+SCENA II.
 SCENA III.
 SCENA IIII.
 SCENA V.
 SCENA VI.
 SCENA VII.
 Back
-30 div
+34 div
 TEI header
 Front
 Main
@@ -1081,6 +1136,7 @@ Back
 TEI header
 Front
 Main
+Back
 TEI header
 Front
 Main
@@ -1088,6 +1144,7 @@ Epilogus. Populus Aegyptius. Demus.
 PROLOGVS.
 Actus primi Scena prima.
 Actus secundi Scena prima.
+Scena 2. Septenarii & Octonarii.
 Scena 4. Scazontes.
 Actus 3. Scena 1a Senarii.
 Scena tertia Senarii.
@@ -1101,7 +1158,10 @@ Scena 5. Trimetri.
 Scena 6. Eiusdem generis cum superioribus
 Scena 7. Trimetri Iamb.
 Scena 8. Similis farinae vsus.
+Scena 9. Octonarii admistis Septe¬
 Scena 10. Trimetri Iambici.
+Scena II. Vt superiores.
+Scena XII.
 Scena XIII. Eiusdem generis vt sup.
 Actus 5. Scena I.
 Scena 2. Trimetri, vt superiores.
@@ -1109,10 +1169,12 @@ Scena 4. Trimetri.
 Scena 5. Senarii Iamb.
 Scena 6. Eiusdem generis.
 Scena 7. Trimetri.
+Scena 8. Similis farinae.
+Scena 9.
 Scena 10. Octonarii vt supra.
 Epilogus, seu Peroratio.
 Back
-32 div
+38 div
 TEI header
 Front
 Main
@@ -1167,9 +1229,10 @@ Front
 Main
 Prologus silentium a spectatoribus precatur.
 ACTVS SECVNDVS.
+TERTIVS ACTVS
 ACTVS QVARTVS.
 Back
-8 div
+9 div
 TEI header
 Front
 Main
@@ -1184,26 +1247,10 @@ Front
 Main
 ACTVS PRIMI
 Scena Prima.
-ACTVS I. 9
-ACTVS I. 11
-ACTVS I. 13
 ACTVS II.
-ACTVS. II 15
-ACTVS II. 17
-ACTVS II. 19
 ACTVS III.
-ACTVS III. 21
-ACTVS III. 23
-ACTVS III. 25
-ACTVS III. 27
 ACTVS IIII.
-ACTVS IIII. 29
-ACTVS IIII. 31
-ACTVS V. 33
 ACTVS V.
-ACTVS V. 35
-ACTVS. V. 37
-ACTVS V. 39
 Back
 TEI header
 Front
@@ -1227,6 +1274,7 @@ TEI header
 Front
 Main
 ACTVS PRIMVS
+ACTVS SECVNDVS
 ACTVS TERTIVS.
 ACTVS QVARTVS.
 ACTVS QVINTVS
@@ -1239,6 +1287,7 @@ ACTVS SECVNDVS.
 ACTVS TERTIVS
 ACTVS QVARTVS.
 ACTVS QVINTVS.
+Back
 TEI header
 Front
 Main
@@ -1782,6 +1831,7 @@ TEI header
 Front
 Main
 Actus primus.
+Actus tertius.
 Actus quintus.
 Back
 TEI header
@@ -1862,7 +1912,8 @@ Back
 TEI header
 Front
 Main
-4 div
+Back
+5 div
 TEI header
 Front
 Main
@@ -1957,10 +2008,12 @@ ACTUS I, SCAENA iii
 ACTUS I, SCAENA iv
 ACTUS I, SCAENA v
 ACTUS I, SCAENA vi
+ACT I, SCAENA vii
 ACTUS I, SCAENA viii
 ACTUS II, SCAENA i
 ACTUS II, SCAENA ii
 ACTUS II, SCAENA iii
+ACT II, SCAENA iv
 ACTUS II, SCAENA v
 ACTUS II, SCAENA vi
 ACTUS II, SCAENA vii
@@ -1968,12 +2021,14 @@ ACTUS II, SCAENA viii
 ACTUS III, SCAENA i
 ACTUS III, SCAENA ii
 ACTUS III, SCAENA iii
+ACT III, SCAENA iv
 ACTUS III, SCAENA v
 ACTUS III, SCAENA vi
 ACTUS III, SCAENA vii
 ACTUS III, SCAENA viii
 ACTUS III, SCAENA ix
 ACTUS III, SCAENA x
+ACT III, SCAENA xi
 ACTUS III, SCAENA xii
 ACTUS III, SCAENA xiii
 ACTUS IV, SCAENA i
@@ -2007,6 +2062,7 @@ Front
 Main
 Dramatis Personae
 ACTUS PRIMUS.
+ACTUS SECUNDUS.
 ACTUS TERTIUS.
 ACTUS QUARTUS.
 ACTUS QUINTUS.
@@ -2629,6 +2685,7 @@ Main
 Dramatis Personae.
 ACTVS PRIMI
 SCENA I.
+SCENA II.
 ACTVS SECVNDI.
 SCENA I.
 SCENA II.
@@ -2639,11 +2696,13 @@ ACTVS QVARTI
 SCENA I.
 SCENA II.
 SCENA III.
+SCENA IV.
 ACTVS QVINTI
 SCENA I.
 SCENA II.
 SCENA III.
 SCENA IV.
+Back
 TEI header
 Front
 Main
@@ -2701,6 +2760,7 @@ SCENA QUARTA.
 ACTVS SECVNDVS.
 SCENA PRIMA.
 SCENA SECUNDA.
+SCENA TERTIA.
 SCENA QUARTA.
 ACTVS TERTIVS.
 SCENA PRIMA.
@@ -2717,6 +2777,7 @@ ACTVS QVINTVS.
 SCENA PRIMA.
 SCENA SECUNDA.
 SCENA III.
+SCENA IV.
 Back
 TEI header
 Front
@@ -2808,9 +2869,11 @@ SCENA II.
 SCENA III.
 SCENA IV.
 SCENA V.
+SCENA VI.
 ACTVS SECVNDVS.
 Argumentum Actus secundi.
 SCENA I.
+SCENA II.
 SCENA III.
 SCENA IV.
 SCENA V.
@@ -2818,6 +2881,7 @@ SCENA VI.
 ACTVS TERTIVS.
 Argumentum Actus Tertij.
 SCENA I.
+SCENA II.
 SCENA III.
 SCENA IV.
 SCENA V.

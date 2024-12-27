@@ -511,6 +511,7 @@ class TeiFromDocx:
 
         def repl(match):
             (pre, trigger, post, number, after) = match.group(1, 2, 3, 4, 5)
+            start = match.start()
             triggerL = trigger.lower()
             number = number or ""
 
@@ -546,7 +547,7 @@ class TeiFromDocx:
 
                 triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
                 number = f"{number.lower()}{numberSub}"
-                sections.append([triggerN, number])
+                sections.append([start, triggerN, number])
                 replacement = (
                     f"# {pre}{trigger}{post}"
                     if isSection
@@ -912,7 +913,8 @@ class TeiFromDocx:
 
                 items = []
 
-                for kind, number in wSections:
+                for s in sorted(wSections, key=lambda x: x[0]):
+                    (kind, number) = s[1:]
                     items.append(f"{kind} {number or ''}".rstrip())
 
                 sectionInfo[file] = items

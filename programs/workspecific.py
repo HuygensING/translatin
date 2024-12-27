@@ -100,17 +100,47 @@ PAGE_FACS_RE = re.compile(
     re.X | re.S,
 )
 
-FOLIO_ALPHA_ROMAN_RE = re.compile(
+FOLIO_ALPHA_ROMAN_ALONE_RE = re.compile(
     r"""
     ^
     (
         [A-Z]
         [\ ]?
         [ijxvcl]*
+        [ab]?
     )
     $
     """,
     re.X | re.M,
+)
+
+FOLIO_ALPHA_ARABIC_ALONE_RE = re.compile(
+    r"""
+    ^
+    (
+        [A-Z]
+        (?:
+            [\ ]?
+            [0-9]+
+        )?
+    )
+    $
+    """,
+    re.X | re.M,
+)
+
+FOLIO_ALPHA_ROMAN_SQ_RE = re.compile(
+    r"""
+    \\\[
+    (
+        [A-Z]
+        [\ ]?
+        [ijxvcl]*
+        [ab]?
+    )
+    \\\]
+    """,
+    re.X,
 )
 
 NUMERALS_NL = dict(
@@ -298,7 +328,7 @@ class WorkSpecific:
             re.X | re.M,
         )
         text = headRe.sub(r"\1", text)
-        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
@@ -307,7 +337,6 @@ class WorkSpecific:
     def Enden_Philedonius(self, text):
         workName = (inspect.stack()[0][3]).replace("_", "-")
         converter = self.converter
-
         headRe = re.compile(
             r"""
             \\\[
@@ -319,9 +348,7 @@ class WorkSpecific:
             re.X,
         )
         text = headRe.sub(self.folioRepl, text)
-
         sections = []
-
         sectionRe = re.compile(
             r"""
             ^
@@ -360,9 +387,8 @@ class WorkSpecific:
             return f"# {pre}{number}{space}{trigger}"
 
         text = sectionRe.sub(repl, text)
-        ssections = [[s[1], s[2]] for s in sorted(sections, key=lambda x: x[0])]
+        ssections = sorted(sections, key=lambda x: x[0])
         converter.sections[workName] = ssections
-
         return text
 
     Ens_Auriacus = "generic"
@@ -386,7 +412,6 @@ class WorkSpecific:
         )
         text = pageRemoveRe.sub(" ", text)
         text = PAGE_FACS_RE.sub(self.pageFacsRepl, text)
-
         noteRe = re.compile(
             r"""
             \[
@@ -414,19 +439,7 @@ class WorkSpecific:
     Gnapheus_Morosophus = "generic"
 
     def Goethals_Soter(self, text):
-        folioRe = re.compile(
-            r"""
-            ^
-            (
-                [A-Z]
-                [\ ]?
-                [0-9]+
-            )
-            $
-            """,
-            re.X | re.M,
-        )
-        text = folioRe.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
@@ -489,31 +502,17 @@ class WorkSpecific:
         return text
 
     def Holonius_Catharina(self, text):
-        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
     def Holonius_Laurentias(self, text):
-        text = FOLIO_ALPHA_ROMAN_RE.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
     def Honerdus_Thamara(self, text):
-        folioRe = re.compile(
-            r"""
-            ^
-            (
-                [A-Z]
-                (?:
-                    [\ ]?
-                    [0-9]+
-                )?
-            )
-            $
-            """,
-            re.X | re.M
-        )
-        text = folioRe.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
         pageRe = re.compile(
             r"""
             ^
@@ -533,14 +532,55 @@ class WorkSpecific:
             re.X | re.M
         )
         text = pageRe.sub(self.pageRepl, text)
-
         return text
 
-    Houcharius_Grisellis = None
-    Houthem_Gedeon = None
-    Ischyrius_Homulus = None
-    Kerckmeister_Codrus = None
-    Knuyt_Scornetta = None
+    def Houcharius_Grisellis(self, text):
+        converter = self.converter
+        workName = (inspect.stack()[0][3]).replace("_", "-")
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        sections = []
+        sectionRe = re.compile(
+            r"""
+            ^
+            (Tertius)
+            [\ ]
+            (actus)
+            \.
+            [\ ]
+            (.*)
+            $
+            """,
+            re.M | re.X,
+        )
+
+        def repl(match):
+            (number, trigger, rest) = match.group(1, 2, 3)
+            start = match.start()
+            triggerL = trigger.lower()
+            triggerN = f"§{triggerL}"
+            numberN = number.lower()
+            sections.append([start, triggerN, numberN])
+            return f"# {number} {trigger}\n\n{rest}"
+
+        text = sectionRe.sub(repl, text)
+        ssections = sorted(sections, key=lambda x: x[0])
+        converter.sections[workName] = ssections
+        return text
+
+    def Houthem_Gedeon(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        return text
+
+    def Ischyrius_Homulus(self, text):
+        text = FOLIO_ALPHA_ROMAN_SQ_RE.sub(self.folioRepl, text)
+        return text
+
+    Kerckmeister_Codrus = "generic"
+
+    def Knuyt_Scornetta(self, text):
+        text = FOLIO_ALPHA_ROMAN_SQ_RE.sub(self.folioRepl, text)
+        return text
 
     def Laurimanus_Exodus(self, text):
         headRe = re.compile(
@@ -584,9 +624,93 @@ class WorkSpecific:
         text = HEAD_PAGENUM_RE.sub(self.pageRepl, text)
         return text
 
-    Locher_Iudicium = None
-    Lummenaeus_Abimelech = None
-    Lummenaeus_Amnon = None
+    def Locher_Iudicium(self, text):
+        converter = self.converter
+        workName = (inspect.stack()[0][3]).replace("_", "-")
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        sections = []
+        sectionRe = re.compile(
+            r"""
+            ^
+            (TERTIVS)
+            [\ ]
+            (ACTVS)
+            \.
+            $
+            """,
+            re.M | re.X,
+        )
+
+        def repl(match):
+            (number, trigger) = match.group(1, 2)
+            start = match.start()
+            triggerL = trigger.lower()
+            triggerN = f"§{triggerL}"
+            numberN = number.lower()
+            sections.append([start, triggerN, numberN])
+            return f"# {number} {trigger}"
+
+        text = sectionRe.sub(repl, text)
+        ssections = sorted(sections, key=lambda x: x[0])
+        converter.sections[workName] = ssections
+        return text
+
+    def Lummenaeus_Abimelech(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                ABIMELECH
+                \.
+                [\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                IACOBI
+                .*
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Lummenaeus_Amnon(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            TRAGOEDIA
+            [\ ]
+            SACRA
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        pageSecRe = re.compile(
+            r"""
+            ^
+            ACTVS
+            \.?
+            [\ ]
+            [IVX]+
+            \.?
+            [\ ]
+            ([0-9]+)
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageSecRe.sub(self.pageRepl, text)
+        return text
+
     Lummenaeus_Bustum = None
     Lummenaeus_Carcer = None
     Lummenaeus_Iephte = None

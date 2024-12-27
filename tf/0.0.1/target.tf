@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T09:18:49+00:00Z
+@dateWritten=2024-12-27T20:46:19+00:00Z
 
-2072892	#tn1
+2072235	#tn1
 #tn2
 #tn3
 #tn4
@@ -3127,7 +3127,7 @@
 #tn124
 #tn125
 #tn126
-2076425	https://en.wikipedia.org/wiki/Leon_Battista_Alberti
+2075768	https://en.wikipedia.org/wiki/Leon_Battista_Alberti
 https://books.google.nl/books?id=CApZAAAAYAAJ
 https://de.wikipedia.org/wiki/Paul_Aler
 https://play.google.com/books/reader?id=CtBEAAAAcAAJ

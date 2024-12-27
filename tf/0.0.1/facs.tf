@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T09:18:48+00:00Z
+@dateWritten=2024-12-27T20:46:18+00:00Z
 
-2068004	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+2066277	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
@@ -311,7 +311,70 @@ https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
-2072306	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+2066637	textus Graecus
+textus Graecus
+2066641	textus Graecus
+textus Graecus
+2066645	textus Graecus
+textus Graecus
+2066649	textus Graecus
+textus Graecus
+2066653	textus Graecus
+textus Graecus
+2066657	textus Graecus
+2066660	textus Graecus
+textus Graecus
+2066664	textus Graecus
+textus Graecus
+2066668	textus Graecus
+textus Graecus
+2066672	textus Graecus
+textus Graecus
+2066676	textus Graecus
+textus Graecus
+2066680	textus Graecus
+textus Graecus
+2066684	textus Graecus
+textus Graecus
+2066688	textus Graecus
+textus Graecus
+2066692	textus Graecus
+textus Graecus
+2066696	textus Graecus
+textus Graecus
+2066700	textus Graecus
+textus Graecus
+2066704	textus Graecus
+textus Graecus
+2066708	textus Graecus
+textus Graecus
+2066712	textus Graecus
+textus Graecus
+2066716	textus Graecus
+textus Graecus
+2066720	textus Graecus
+textus Graecus
+2066724	textus Graecus
+textus Graecus
+2066728	textus Graecus
+textus Graecus
+2066732	textus Graecus
+textus Graecus
+2066736	textus Graecus
+textus Graecus
+2066740	textus Graecus
+textus Graecus
+2066744	textus Graecus
+textus Graecus
+2066748	textus Graecus
+textus Graecus
+2066752	textus Graecus
+textus Graecus
+2066756	textus Graecus
+blanco
+blanco
+blanco
+2071146	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
@@ -604,3 +667,66 @@ https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
+2071506	textus Graecus
+textus Graecus
+2071510	textus Graecus
+textus Graecus
+2071514	textus Graecus
+textus Graecus
+2071518	textus Graecus
+textus Graecus
+2071522	textus Graecus
+textus Graecus
+2071526	textus Graecus
+2071529	textus Graecus
+textus Graecus
+2071533	textus Graecus
+textus Graecus
+2071537	textus Graecus
+textus Graecus
+2071541	textus Graecus
+textus Graecus
+2071545	textus Graecus
+textus Graecus
+2071549	textus Graecus
+textus Graecus
+2071553	textus Graecus
+textus Graecus
+2071557	textus Graecus
+textus Graecus
+2071561	textus Graecus
+textus Graecus
+2071565	textus Graecus
+textus Graecus
+2071569	textus Graecus
+textus Graecus
+2071573	textus Graecus
+textus Graecus
+2071577	textus Graecus
+textus Graecus
+2071581	textus Graecus
+textus Graecus
+2071585	textus Graecus
+textus Graecus
+2071589	textus Graecus
+textus Graecus
+2071593	textus Graecus
+textus Graecus
+2071597	textus Graecus
+textus Graecus
+2071601	textus Graecus
+textus Graecus
+2071605	textus Graecus
+textus Graecus
+2071609	textus Graecus
+textus Graecus
+2071613	textus Graecus
+textus Graecus
+2071617	textus Graecus
+textus Graecus
+2071621	textus Graecus
+textus Graecus
+2071625	textus Graecus
+blanco
+blanco
+blanco

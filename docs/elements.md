@@ -22,16 +22,18 @@ Table of contents
 | element | attribute | value | amount
 | --- | --- | --- | ---
 | [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-TEI.html) | [lang](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#lang) | `lat` | 118
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 2826
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 2890
 | | | `notes` | 38
-| [list](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-list.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `ordered:arabic` | 130
+| [list](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-list.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `ordered:arabic` | 129
 | | | `ordered:loweralpha` | 2
 | | | `ordered:lowerroman` | 6
 | | | `ordered:upperalpha` | 15
 | | | `ordered:upperroman` | 88
 | | | `unordered` | 5
-| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [unit](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#unit) | `folio` | 169
-| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius` | 1
+| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [unit](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#unit) | `folio` | 504
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [facs](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#facs) | `Graecus` | 60
+| | | `blanco` | 3
+| | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius` | 1
 | | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius` | 1
 | | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius` | 1
 | | | `https://quod.lib.umich.edu/e/eebo/A09214.0001.001/103?hi=0;vid=14811;q1=pedantius` | 1
@@ -324,6 +326,7 @@ Table of contents
 | | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/97:10?vid=49333` | 1
 | | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/98:10?vid=49333` | 1
 | | | `https://quod.lib.umich.edu/e/eebo/A40366.0001.001/99:10?vid=49333` | 1
+| | | `textus` | 60
 | [term](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-term.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `acts` | 118
 | | | `chorus` | 118
 | | | `diction` | 118
@@ -341,76 +344,166 @@ Table of contents
 | [bibl](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-bibl.html) |   |  | 118
 | [body](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-body.html) |   |  | 118
 | [date](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html) |   |  | 236
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 2826
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 2890
 | [editor](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-editor.html) |   |  | 118
 | [emph](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-emph.html) |   |  | 118
 | [fileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-fileDesc.html) |   |  | 118
-| [head](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html) |   |  | 2826
+| [head](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-head.html) |   |  | 2890
 | [item](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-item.html) |   |  | 28
 |   | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 61
-| | | `NN` | 121
+| | | `NN` | 120
 | | | `NNN` | 38
 | | | `NNNN` | 6
 | [keywords](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-keywords.html) |   |  | 118
 | [lb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-lb.html) |   |  | 1180
-| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `AN` | 4
-| | | `ANr` | 4
-| | | `ANv` | 4
-| | | `Aiiij` | 1
-| | | `Aiij` | 1
-| | | `Aij` | 1
-| | | `B` | 1
-| | | `BN` | 4
+| [milestone](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-milestone.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `A` | 1
+| | | `AN` | 9
+| | | `ANr` | 8
+| | | `ANv` | 5
+| | | `Aia` | 1
+| | | `Aii` | 2
+| | | `Aiia` | 1
+| | | `Aiib` | 1
+| | | `Aiiia` | 1
+| | | `Aiiib` | 1
+| | | `Aiiiia` | 1
+| | | `Aiiiib` | 1
+| | | `Aiiij` | 3
+| | | `Aiiija` | 1
+| | | `Aiiijb` | 1
+| | | `Aiij` | 5
+| | | `Aiija` | 1
+| | | `Aiijb` | 1
+| | | `Aij` | 4
+| | | `Aija` | 1
+| | | `Aijb` | 1
+| | | `Ava` | 2
+| | | `Avb` | 2
+| | | `Avia` | 1
+| | | `Avib` | 1
+| | | `Aviia` | 1
+| | | `Aviib` | 1
+| | | `Aviiia` | 1
+| | | `Aviiib` | 1
+| | | `Aviijb` | 1
+| | | `Avija` | 1
+| | | `Avijb` | 1
+| | | `Avja` | 1
+| | | `Avjb` | 1
+| | | `Avjija` | 1
+| | | `B` | 8
+| | | `BN` | 8
 | | | `BNr` | 8
 | | | `BNv` | 9
 | | | `Bi` | 1
-| | | `Biiij` | 1
-| | | `Biij` | 1
-| | | `Bij` | 1
-| | | `CN` | 4
+| | | `Bii` | 2
+| | | `Biii` | 1
+| | | `Biiij` | 3
+| | | `Biiijb` | 1
+| | | `Biij` | 5
+| | | `Biija` | 1
+| | | `Biijb` | 1
+| | | `Bij` | 3
+| | | `Bijb` | 1
+| | | `Bja` | 1
+| | | `Bjb` | 1
+| | | `Bva` | 1
+| | | `Bvb` | 1
+| | | `Bviib` | 1
+| | | `Bviija` | 1
+| | | `Bviijb` | 1
+| | | `Bvija` | 1
+| | | `Bvja` | 1
+| | | `Bvjb` | 1
+| | | `C` | 5
+| | | `CN` | 9
 | | | `CNr` | 11
 | | | `CNv` | 11
-| | | `Ciiij` | 1
-| | | `Ciij` | 1
-| | | `Cij` | 1
+| | | `Ci` | 1
+| | | `Cii` | 1
+| | | `Ciii` | 1
+| | | `Ciiij` | 3
+| | | `Ciij` | 5
+| | | `Cij` | 5
 | | | `Cr` | 1
 | | | `Cv` | 1
-| | | `D` | 1
-| | | `DN` | 4
+| | | `D` | 7
+| | | `DN` | 6
 | | | `DNr` | 11
 | | | `DNv` | 11
-| | | `Diiij` | 1
-| | | `Diij` | 1
-| | | `Dij` | 1
+| | | `Diiij` | 3
+| | | `Diiija` | 1
+| | | `Diij` | 4
+| | | `Diija` | 1
+| | | `Diijb` | 1
+| | | `Dij` | 5
+| | | `Dijb` | 1
+| | | `Dja` | 1
+| | | `Djb` | 1
 | | | `Dr` | 1
 | | | `Dv` | 1
+| | | `E` | 4
 | | | `ENr` | 10
 | | | `ENv` | 7
-| | | `Eiij` | 1
-| | | `Eij` | 1
+| | | `Ei` | 2
+| | | `Eiiij` | 1
+| | | `Eiij` | 4
+| | | `Eij` | 4
 | | | `Ev` | 2
+| | | `F` | 2
+| | | `FN` | 2
 | | | `FNr` | 8
 | | | `FNv` | 7
-| | | `Fiij` | 1
-| | | `Fij` | 1
+| | | `Fi` | 1
+| | | `Fiiij` | 1
+| | | `Fiij` | 3
+| | | `Fij` | 3
 | | | `Fr` | 1
-| | | `Fv` | 1
+| | | `Fv` | 2
+| | | `G` | 4
+| | | `GN` | 2
 | | | `GNr` | 8
 | | | `GNv` | 7
+| | | `Gi` | 1
+| | | `Giij` | 1
+| | | `Gij` | 1
 | | | `Gr` | 1
 | | | `Gv` | 1
+| | | `H` | 2
+| | | `HN` | 2
 | | | `HNr` | 1
 | | | `HNv` | 1
+| | | `Hiij` | 1
+| | | `Hij` | 1
 | | | `Hr` | 1
 | | | `Hv` | 1
+| | | `I` | 4
+| | | `IN` | 1
+| | | `Kiij` | 1
+| | | `Kij` | 1
+| | | `L` | 1
+| | | `Liij` | 1
+| | | `Lij` | 1
+| | | `Mij` | 1
+| | | `N` | 1
+| | | `NNN` | 104
+| | | `Niij` | 1
+| | | `V` | 1
+| | | `aNr` | 8
+| | | `aNv` | 7
+| | | `aNv|blanco` | 2
+| | | `bNr` | 8
+| | | `bNv` | 8
+| | | `cNr` | 6
+| | | `cNv` | 6
 | | | `πNr` | 2
 | | | `πNv` | 2
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 236
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 3109
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 190054
-| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 71
-| | | `NN` | 686
-| | | `NNN` | 507
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 189947
+| [pb](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-pb.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 125
+| | | `NN` | 1106
+| | | `NNN` | 536
 | | | `cl` | 1
 | | | `cli` | 1
 | | | `clii` | 1

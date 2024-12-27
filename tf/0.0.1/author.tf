@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T09:18:48+00:00Z
+@dateWritten=2024-12-27T20:46:18+00:00Z
 
-2078563	Alberti, Leon Baptista
+2077906	Alberti, Leon Baptista
 Aler, Paul (SJ)
 Balde, Jakob (SJ)
 Barlandus, Adrianus

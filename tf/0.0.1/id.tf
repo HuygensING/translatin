@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T09:18:48+00:00Z
+@dateWritten=2024-12-27T20:46:18+00:00Z
 
-1852036	front
+1849955	front
 main
 personae.
 incipit
@@ -145,7 +145,7 @@ actvs-qvartvs.
 actvs-qvinti-perioche.
 actvs-qvintvs.
 back
-1852164	front
+1850083	front
 main
 personae.
 prologvs.
@@ -164,7 +164,7 @@ actvs-tertivs.
 actvs-qvartvs.
 actvs-qvintvs.
 back
-1852184	front
+1850103	front
 main
 personae.
 actvs-primvs.
@@ -174,7 +174,7 @@ actvs-tertivs.
 actvs-qvartvs.
 actvs-qvintvs.
 back
-1852195	front
+1850114	front
 main
 personae.
 actvs-primvs.
@@ -221,7 +221,7 @@ page96-48scena-tertia.
 scena-qvarta.-3
 page99-50scena-qvinta.
 back
-1852243	front
+1850162	front
 main
 page241-personae.
 actvs-primvs.
@@ -254,7 +254,7 @@ scena-octava.
 page314-46scena-nona.
 scena-decima.
 back
-1852277	front
+1850196	front
 main
 personae.
 prologvs.
@@ -309,7 +309,7 @@ page419-51scena-qvarta.
 scena-qvinta.-2
 page428-55scena-sexta.
 back
-1852333	front
+1850252	front
 main
 page107-personae.
 actvs-primvs.
@@ -369,7 +369,7 @@ scena-decima.-2
 scena-vndecima.-1
 page234-81scena-dvodecima.
 back
-1852394	front
+1850313	front
 main
 actus-i.
 actus-ii.
@@ -417,7 +417,7 @@ personae.-heribertus-rosindus-eustachius-vulpulus.
 scena-quarta.-2
 scena-quinta.-2
 back
-1852443	front
+1850362	front
 main
 dramatis-personae.
 prologus.
@@ -466,7 +466,7 @@ actus.-v.-scena-.i.
 scena.-ii.-1
 scena.-iii.-2
 back
-1852493	front
+1850412	front
 main
 personae-dramatis.
 prologvs.
@@ -697,6 +697,7 @@ actus-quarti-scena-quarta.
 actus-quinti-scena-prima.
 actus-quinti-scena-secunda.
 actus-quinti-scena-tertia.
+act.-quinti-sce.-quarta-vltima.
 peroratio.
 back
 front
@@ -726,7 +727,7 @@ argvmentvm-actvs-iii.
 actvs-iii.-scena-i.
 actvs-iii.-scena-ii.
 actvs-iii.-scena-iii.
-actvs-iii.-scena-1111.
+actvs-iii.-scena-iiii.
 actvs-iii.-scena-v.
 actus-iii.-scena-vi.
 argvmentvm-actvs-iiii.
@@ -740,7 +741,7 @@ argvmentvm-actvs-v.
 actvs-v.-scena-i.
 actvs-v.-scena-ii.
 back
-1852768	front
+1850688	front
 main
 actus-primus.
 actus-secundus.
@@ -752,7 +753,9 @@ front
 main
 personae.
 actus-primus.
+actus-secundus.
 actus-tertius.
+actus-quartus.
 actus-quintus.
 back
 front
@@ -822,6 +825,7 @@ back
 front
 main
 personae-tragoediae
+actus-primus.
 actus-ii.-scena-i.
 scena-ii.
 actus.-iii.-scena.-i.
@@ -831,127 +835,165 @@ scena-ii.-1
 scena.-iii.
 actus.-v.
 back
-1852860	front
+1850783	front
 main
+folio212-personae.-folio314
+folio213-actus-primus.-folio315
 actus-secundus.
 actus-tertius.
-actus-quartus.-339
+actus-quartus.-folio339
 actus-quintus.
 back
 front
 main
 prologvs-in-catharinam.
+page6-prologvs.
+page7-prologvs.
 argvmentvm.
 personae-tragoediae.
 actvs-primi
 scena-.i.
 actvs-primi-1
 scena-.ii.
+page11-actvs-.i.
 actvs.-i.-scena.-iii.
+page13-actvs-.i.
 actvs.-i.-scena.-iiii.
+page15-actvs.-i.
 actvs.-i.-scena.-v.
+page17-actvs-.ii.
 actvs-primi-2
 scena.-vi.
+page19-actvs.-i.
 actvs-secvndi
 scena-prima.
 actvs.-ii.-scena.-ii.
+page23-actvs.-ii.
 actvs.-ii.-scena.-iii.
+page25-actvs.-ii.
 actvs.-ii.-scena.-iiii.
+page27-actvs-.ii.
+page29-actvs-.ii.
 actvs-ii.-scena.v.
+page31-actvs.-ii.
 actvs-tertii
 scena-prima.-1
+page33-actvs.-iii.
 actvs.-iii.-scena.-ii.
+page35-actvs-.iii.
 actvs.-iii.-scena.-iii.
+page37-actvs-.iii.
+page39-actvs-.iii.
+page41-actvs-.iii.
+page43-actvs-.iii.
+page45-actvs-.iii.
 actvs.-iii.-scena.-iiii.
+page47-actvs-.iii.
 actvs-qvarti
 scena-prima.-2
+page49-actvs-.iiii.
 actvs-qvarti-1
 scena.-ii.
+page51-actvs-.iiii.
+page53-actvs-.iiii.
 actvs.-iiii.-scena.-iii.
+page55-actvs-.iiii.
 actvs.-iiii.-scena.-iiii.
+page57-actvs-.iiii.
 actvs.-iiii.-scena.-v.
+page59-actvs-.iiii.
+page61-actvs-.iiii.
 actvs-qvinti
 scena-prima.-3
+page63-actvs-v.
 actvs.-v.-scena.-ii.
+page65-actvs-.iiii.
 actvs.-v.-scena.-iii.
+page67-actvs-.iiii.
 actvs.-v.-scena.-iiii.
+page69-actvs-.iiii.
 actvs.-v.-scena.-v.
 actvs.-v.-scena.-vi.
+page71-actvs.-v.
 actvs.-v.-scena.-vii.
 actvs-qvinti-1
 scena.-viii.
+page73-actvs-.iiii.
+page75-actvs.-v.
 back
 front
 main
 prologvs
-prologvs.-7
+prologvs.-page7
 argvmentvm.
 personae-actionis.
 actvs.-i.-scena.-ii.
-actvs.-i.-11
+actvs.-i.-page11
 actvs.-i.-scena.-iii.
-actvs.-i.-13
+actvs.-i.-page13
 actvs.-i.-scena.-iiii.
-actvs.-i.-15
+actvs.-i.-page15
 actvs.-i.-scena.-v.
-actvs.-i.-17
+actvs.-i.-page17
 actvs.i.-scena.-vi.
 actvs-secvndi.
 scena-prima.
-actvs.-ii-21
+actvs.-ii-page21
 actvs.-ii.-scena.-ii.
-actvs.-ii.-23
+actvs.-ii.-page23
 actvs.-ii.-scena.-iii.
 actvs.-ii.-scena.-iiii.
-actvs.-ii.-25
+actvs.-ii.-page25
 actvs-ii.-scena.-v.
-actvs.-ii.-27
+actvs.-ii.-page27
 actvs.-ii.-scena.-vi.
 actvs.-ii.-scena.-vii.
-actvs-ii.-29
+actvs-ii.-page29
 actvs-tertii-scena-i.
-actvs.-iiii.-31
+actvs.-iiii.-page31
 actvs.-iii.-scena.-ii.
-actvs-iii.-33
+actvs-iii.-page33
 actvs.-iii.-scena.-iii.
 actvs.-iii.-scena.-iiii.
+act.-iii.-page35
 actvs.-iii.-scena.-v.
 actvs.-iii.-scena.-vi.
-actvs.-iii.-37
+actvs.-iii.-page37
 actvs.-iii.-scena.vii.
 actvs-tertii-scena.-viii.
-actvs.-iii.-39
-actvs.-iiii.-41
+actvs.-iii.-page39
+actvs.-iiii.-page41
 actvs-qvarti-scena-prima.
-actvs-iiii.-43
-actvs.-iiii.-45
+actvs-iiii.-page43
+actvs.-iiii.-page45
 actvs.-iiii.-scena.-ii.
+act.-iiii.-page47
 actvs.-iiii.-scena.-iii.
 actvs.-iiii.-scena.-iiii.
-actvs.-iiii.-49
+actvs.-iiii.-page49
 actvs.-iiii.-scena.-v.
-actvs.-iiii.-51
+actvs.-iiii.-page51
 actvs-iiii.-scena.vi.
-actvs-iiii.-53
-actvs.-iiii.-55
+actvs-iiii.-page53
+actvs.-iiii.-page55
 actvs-qvinti-scena-prima.
-actvs.-v.-57
+actvs.-v.-page57
 actvs-qvinti-scena.-ii.
-actvs.-v.-59
+actvs.-v.-page59
 actvs-qvinti-scena.-iii.
 actvs.-v.-scena.-iiii.
 actvs.-v.-scena.-v.
-actvs.-v.-61
+actvs.-v.-page61
 actvs.-v.-scena.-vi.
-actvs.-iiii.-63
+actvs.-iiii.-page63
 actvs.-v.-scena.-vii.
-actvs.-v.-65
+actvs.-v.-page65
 actvs-qvinti-scena.-viii.
-actvs-v.-67
+actvs-v.-page67
 actvs-qvinti-scena.-ix.
-actvs.-v.-69
+actvs.-v.-page69
 actvs.-v.-scena-vltima.
-actvs.-v.-71
+actvs.-v.-page71
 back
 front
 main
@@ -959,14 +1001,18 @@ personae.
 scena-prima.-actvs-primvs.
 scena-secvnda.
 actvs-secvndvs.
+act.-tert.-scena.-prima.
 scena-secvnda.-1
 scena-tertia.
+act.-qvart.-scen.-prim.
+act.-v.-scen.-i.
 back
 front
 main
 prologvs.
 argumentum.
 actus-secundus.
+tertius-actus
 conclusio.
 back
 front
@@ -982,13 +1028,18 @@ actus-secundi.-scena-secunda.
 actus-secundi.-scena-tertia.
 actus-tertij.-scena-prima.
 actus-tertij.-scena-secunda.
+actus-tertij.-scena-tertia.
 actus-tertij.-scena-quarta.
+actus-quarti.-scena-prima.
 actus-quarti.-scena-secunda.
 actus-quarti.-scena-tertia
 actus-quinti.-scena-prima.
+actus-quinti.-scena-secunda.
 actus-quinti-scena-tertia.
 actus-quinti.-scena-quarta.
-1853018	front
+actus-quinti-scena-quinta.
+back
+1850988	front
 main
 interloqvvtores
 prologvs
@@ -996,39 +1047,45 @@ actvs-i.
 scena-i.
 scena-ii.
 scena-iii.
+scena-iiii.
 actvs-ii.
 scena-i.-1
+scena-ii.-1
 scena-iii.-1
-scena-iiii.
+scena-iiii.-1
+foliobiija-scena-v.
 actvs-iii.
 scena-i.-2
-scena-ii.-1
+scena-ii.-2
 scena-iii.-2
-scena-iiii.-1
+scena-iiii.-2
 actvs-iiii.
 scena-i.-3
 scena-ii
 actus-v
 scena-i.-4
+scena-ii.-3
 scena-iii.-3
-scena-iiii.-2
+scena-iiii.-3
 scena-v.
 scena-vi.
 scena-vii.
 back
-1853047	front
+1851021	front
 main
 prologus-in-codrum-feliciter-incipit.
 argumentum.
 back
 front
 main
+back
 front
 main
 epilogus.-populus-aegyptius.-demus.
 prologvs.
 actus-primi-scena-prima.
 actus-secundi-scena-prima.
+scena-2.-septenarii-octonarii.
 scena-4.-scazontes.
 actus-3.-scena-1a-senarii.
 scena-tertia-senarii.
@@ -1042,7 +1099,10 @@ scena-5.-trimetri.
 scena-6.-eiusdem-generis-cum-superioribus
 scena-7.-trimetri-iamb.
 scena-8.-similis-farinae-vsus.
+scena-9.-octonarii-admistis-septe
 scena-10.-trimetri-iambici.
+scena-ii.-vt-superiores.
+scena-xii.
 scena-xiii.-eiusdem-generis-vt-sup.
 actus-5.-scena-i.
 scena-2.-trimetri-vt-superiores.
@@ -1050,10 +1110,12 @@ scena-4.-trimetri.
 scena-5.-senarii-iamb.
 scena-6.-eiusdem-generis.
 scena-7.-trimetri.
+scena-8.-similis-farinae.
+scena-9.
 scena-10.-octonarii-vt-supra.
 epilogus-seu-peroratio.
 back
-1853085	front
+1851066	front
 main
 personae-dramatis.
 argvmentvm-comoediae.
@@ -1100,13 +1162,14 @@ actvs-v-scena-secvnda
 actvs-v.-scena-iii.-et-vltima.
 epilogus.
 back
-1853133	front
+1851114	front
 main
 prologus-silentium-a-spectatoribus-precatur.
 actvs-secvndvs.
+tertivs-actvs
 actvs-qvartvs.
 back
-1853140	front
+1851122	front
 main
 actvs-primvs.
 actvs-secvndvs
@@ -1118,26 +1181,10 @@ front
 main
 actvs-primi
 scena-prima.
-actvs-i.-9
-actvs-i.-11
-actvs-i.-13
 actvs-ii.
-actvs.-ii-15
-actvs-ii.-17
-actvs-ii.-19
 actvs-iii.
-actvs-iii.-21
-actvs-iii.-23
-actvs-iii.-25
-actvs-iii.-27
 actvs-iiii.
-actvs-iiii.-29
-actvs-iiii.-31
-actvs-v.-33
 actvs-v.
-actvs-v.-35
-actvs.-v.-37
-actvs-v.-39
 back
 front
 main
@@ -1158,6 +1205,7 @@ back
 front
 main
 actvs-primvs
+actvs-secvndvs
 actvs-tertivs.
 actvs-qvartvs.
 actvs-qvintvs
@@ -1169,6 +1217,7 @@ actvs-secvndvs.
 actvs-tertivs
 actvs-qvartvs.
 actvs-qvintvs.
+back
 front
 main
 actvs-primvs.
@@ -1695,6 +1744,7 @@ back
 front
 main
 actus-primus.
+actus-tertius.
 actus-quintus.
 back
 front
@@ -1737,7 +1787,7 @@ actus-quartus
 actus-quintus
 peroratio
 back
-1853772	front
+1851741	front
 main
 interloqvvtores.
 actvs-primi
@@ -1770,7 +1820,8 @@ peroratio.
 back
 front
 main
-1853806	front
+back
+1851776	front
 main
 peroratio
 back
@@ -1791,7 +1842,7 @@ actvs-tertivs
 actvs-qvartvs
 actvs-qvintvs
 back
-1853828	front
+1851798	front
 main
 personae.
 prologvs
@@ -1856,10 +1907,12 @@ actus-i-scaena-iii
 actus-i-scaena-iv
 actus-i-scaena-v
 actus-i-scaena-vi
+act-i-scaena-vii
 actus-i-scaena-viii
 actus-ii-scaena-i
 actus-ii-scaena-ii
 actus-ii-scaena-iii
+act-ii-scaena-iv
 actus-ii-scaena-v
 actus-ii-scaena-vi
 actus-ii-scaena-vii
@@ -1867,12 +1920,14 @@ actus-ii-scaena-viii
 actus-iii-scaena-i
 actus-iii-scaena-ii
 actus-iii-scaena-iii
+act-iii-scaena-iv
 actus-iii-scaena-v
 actus-iii-scaena-vi
 actus-iii-scaena-vii
 actus-iii-scaena-viii
 actus-iii-scaena-ix
 actus-iii-scaena-x
+act-iii-scaena-xi
 actus-iii-scaena-xii
 actus-iii-scaena-xiii
 actus-iv-scaena-i
@@ -1905,6 +1960,7 @@ front
 main
 dramatis-personae
 actus-primus.
+actus-secundus.
 actus-tertius.
 actus-quartus.
 actus-quintus.
@@ -1935,7 +1991,7 @@ actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 actvs-v.-scena-iv.
 back
-1853973	front
+1851948	front
 main
 dramatis-personae.
 argvmentvm-in-baptisten-carmine-heroico-redditum.
@@ -1966,7 +2022,7 @@ actvs-v.-scena-v.
 actvs-v.-scena-vi.
 actvs-v.-scena-vii.
 back
-1854005	front
+1851980	front
 main
 prologvs.
 prologvs.-periocha
@@ -1988,7 +2044,7 @@ actvs-v-scena-i.
 actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 back
-1854028	front
+1852003	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2014,7 +2070,7 @@ actvs-v.-scena-iiii.
 actvs-v.-scena-v.
 peroratio.
 back
-1854055	front
+1852030	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2038,7 +2094,7 @@ actvs-v-scena-ii.
 actvs-v.-scena-iii.
 actvs-v.-iv-scena-iv.
 back
-1854080	front
+1852055	front
 main
 actus-1.-scena-1.
 actus-1.-scena-2.
@@ -2095,7 +2151,7 @@ actvs-v.-scena-vii.
 actvs-v.-scena-viii.
 peroratio.
 back
-1854138	front
+1852113	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2126,7 +2182,7 @@ actvs-v.-scena-viii.
 peroratio.
 peroratio.-64
 back
-1854170	front
+1852145	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2157,7 +2213,7 @@ actvs-v.-scena-vi.
 actvs-v.-scena-vii.
 peroratio.
 back
-1854202	front
+1852177	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2188,7 +2244,7 @@ actvs-v.-scena-v.
 actvs-v.-scena-vi.
 peroratio.
 back
-1854234	front
+1852209	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2212,7 +2268,7 @@ actvs-v.-scena-iii.
 actvs-v.-scena-iv.
 actvs-v-scenav.
 back
-1854259	front
+1852234	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2236,7 +2292,7 @@ actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 actvs-v.-scena-iv.
 back
-1854284	front
+1852259	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2267,7 +2323,7 @@ actvs-v.-scena-vi.
 actvs-v.-scena-vii.
 peroratio.
 back
-1854316	front
+1852291	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2294,7 +2350,7 @@ actvs-v.-scena-iv.
 actvs-v.-scena-v.
 peroratio.
 back
-1854344	front
+1852319	front
 main
 prologvs
 actvs-i.-scena-i.
@@ -2334,7 +2390,7 @@ actvs-v.-scena-v.
 actvs-v.-scena-vi.
 peroratio
 back
-1854385	front
+1852360	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2355,7 +2411,7 @@ actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 peroratio.
 back
-1854407	front
+1852382	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2380,7 +2436,7 @@ actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 actvs-v.-scena-iiii.
 back
-1854433	front
+1852408	front
 main
 prologvs.
 actvs-i.-scena-i.
@@ -2405,7 +2461,7 @@ actvs-v.-scena-ii.
 actvs-v.-scena-iii.
 actvs-v.-scena-iv.
 back
-1854459	front
+1852434	front
 main
 prologus-ad-spectatores.
 argumentum.
@@ -2427,7 +2483,7 @@ front
 main
 personae.
 back
-1854482	front
+1852457	front
 main
 prologvs.
 personae-dramatis
@@ -2486,21 +2542,24 @@ main
 dramatis-personae.
 actvs-primi
 scena-i.
+scena-ii.
 actvs-secvndi.
 scena-i.-1
-scena-ii.
+scena-ii.-1
 scena-iii.
 actvs-tertii
 scena-i.-2
 actvs-qvarti
 scena-i.-3
-scena-ii.-1
+scena-ii.-2
 scena-iii.-1
+scena-iv.
 actvs-qvinti
 scena-i.-4
-scena-ii.-2
+scena-ii.-3
 scena-iii.-2
-scena-iv.
+scena-iv.-1
+back
 front
 main
 actvs-primvs.
@@ -2509,7 +2568,7 @@ actvs-tertivs.
 actvs-qvartvs.
 actvs-qvintvs.
 back
-1854565	front
+1852543	front
 main
 personae-tragaediae.
 actvs-primvs.
@@ -2554,22 +2613,24 @@ scena-quarta.
 actvs-secvndvs.
 scena-prima.-1
 scena-secunda.-1
+scena-tertia.-1
 scena-quarta.-1
 actvs-tertivs.
 scena-prima.-2
 scena-secunda.-2
-scena-tertia.-1
+scena-tertia.-2
 scena-quarta.-2
 actvs-qvartvs.
 scena-prima.-3
 scena-secunda
-scena-tertia.-2
+scena-tertia.-3
 scena-quarta.-3
 scena-qvinta.
 actvs-qvintvs.
 scena-prima.-4
 scena-secunda.-3
 scena-iii.
+scena-iv.
 back
 front
 main
@@ -2658,35 +2719,38 @@ scena-ii.
 scena-iii.
 scena-iv.
 scena-v.
+scena-vi.
 actvs-secvndvs.
 argumentum-actus-secundi.
 scena-i.-1
+scena-ii.-1
 scena-iii.-1
 scena-iv.-1
 scena-v.-1
-scena-vi.
+scena-vi.-1
 actvs-tertivs.
 argumentum-actus-tertij.
 scena-i.-2
+scena-ii.-2
 scena-iii.-2
 scena-iv.-2
 scena-v.-2
 actvs-qvartvs.
 argumentum-actus-quarti.
 scena-i.-3
-scena-ii.-1
+scena-ii.-3
 scena-iii.-3
 scena-iv.-3
 scena-v.-3
-scena-vi.-1
+scena-vi.-2
 actvs-qvintvs.
 argumentum-actus-quinti.
 scena-i.-4
-scena-ii.-2
+scena-ii.-4
 scena-iii.-4
 scena-iv.-4
 scena-v.-4
-scena-vi.-2
+scena-vi.-3
 back
 front
 main
@@ -2844,7 +2908,7 @@ scaena-tertia.-3
 scaena-qvarta.-3
 scaena-qvinta-.
 back
-1873989	tn1
+1872369	tn1
 tn2
 tn3
 tn4
