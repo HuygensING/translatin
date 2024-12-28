@@ -143,6 +143,17 @@ FOLIO_ALPHA_ROMAN_SQ_RE = re.compile(
     re.X,
 )
 
+FOLIO_MARK_RE = re.compile(
+    r"""
+    \\\[
+    fol\.
+    [\ ]?
+    (.*?)
+    \\\]
+    """,
+    re.X,
+)
+
 NUMERALS_NL = dict(
     eerste="i",
     tweede="ii",
@@ -337,17 +348,7 @@ class WorkSpecific:
     def Enden_Philedonius(self, text):
         workName = (inspect.stack()[0][3]).replace("_", "-")
         converter = self.converter
-        headRe = re.compile(
-            r"""
-            \\\[
-            fol\.
-            [\ ]?
-            (.*?)
-            \\\]
-            """,
-            re.X,
-        )
-        text = headRe.sub(self.folioRepl, text)
+        text = FOLIO_MARK_RE.sub(self.folioRepl, text)
         sections = []
         sectionRe = re.compile(
             r"""
@@ -502,11 +503,43 @@ class WorkSpecific:
         return text
 
     def Holonius_Catharina(self, text):
+        headRe = re.compile(
+            r"""
+            ^
+            (
+                \\\[
+                [0-9]+
+                \\\]
+            )
+            [\ ]
+            [A-Z]
+            .*
+            $
+            """,
+            re.X | re.M
+        )
+        text = headRe.sub(r"\1", text)
         text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
 
     def Holonius_Laurentias(self, text):
+        headRe = re.compile(
+            r"""
+            ^
+            [A-Z]
+            .*?
+            [\ ]
+            (
+                \\\[
+                [0-9]+
+                \\\]
+            )
+            $
+            """,
+            re.X | re.M
+        )
+        text = headRe.sub(r"\1", text)
         text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
         return text
@@ -711,20 +744,140 @@ class WorkSpecific:
         text = pageSecRe.sub(self.pageRepl, text)
         return text
 
-    Lummenaeus_Bustum = None
-    Lummenaeus_Carcer = None
-    Lummenaeus_Iephte = None
-    Lummenaeus_Sampson = None
-    Lummenaeus_Saul = None
-    Macropedius_Adamus = None
-    Macropedius_Aluta = None
-    Macropedius_Andrisca = None
-    Macropedius_Asotus = None
-    Macropedius_Bassarus = None
-    Macropedius_Hecastus = None
-    Macropedius_Hypomone = None
-    Macropedius_Iesus = None
-    Macropedius_Iosephus = None
+    def Lummenaeus_Bustum(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                BVSTVM
+                [\ ]
+                SODOMAE
+                \.
+                [\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                IACOBI
+                .*
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Lummenaeus_Carcer(self, text):
+        text = FOLIO_ALPHA_ROMAN_SQ_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Lummenaeus_Iephte(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    IEPHTE
+                    |
+                    (?:
+                        REVERENDO[\ ]VIRO
+                    )
+                )
+                \.?
+                [\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                (?:
+                    IACOBI
+                    |
+                    ARGVMENTVM
+                    |
+                    (?:
+                        REVERENDO[\ ]VIRO
+                    )
+                )
+                .*
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Lummenaeus_Sampson(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                SAMPSON
+                \.
+                [\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                (?:
+                    IACOBI
+                    |
+                    SAMPSON
+                )
+                .*
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Lummenaeus_Saul(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                SAVL
+                \.+
+                [\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                (?:
+                    IACOBI
+                    |
+                    SAVL
+                )
+                .*
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    Macropedius_Adamus = "generic"
+    Macropedius_Aluta = "generic"
+
+    def Macropedius_Andrisca(self, text):
+        text = FOLIO_MARK_RE.sub(self.folioRepl, text)
+        return text
+
+    Macropedius_Asotus = "generic"
+    Macropedius_Bassarus = "generic"
+    Macropedius_Hecastus = "generic"
+    Macropedius_Hypomone = "generic"
+    Macropedius_Iesus = "generic"
+    Macropedius_Iosephus = "generic"
     Macropedius_Lazarus = None
     Macropedius_Petriscus = None
     Macropedius_Rebelles = None

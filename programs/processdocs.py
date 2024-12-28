@@ -157,8 +157,8 @@ SNUM_RE = re.compile(
 # 3: needs a trigger as next word
 
 SECTION_TRIGGERS_DEF = dict(
-    actores=(False, False, False, "actores"),
-    actorum=(False, False, False, "actorum"),
+    actores=(True, False, False, "actores"),
+    actorum=(True, False, False, "actorum"),
     actus=(True, True, False, "actus"),
     act=(True, True, False, "actus"),
     argumentum=(True, False, False, "argumentum"),
@@ -184,6 +184,7 @@ SECTION_TRIGGERS_DEF = dict(
     prologus=(True, False, False, "prologus"),
     protasis=(False, False, False, "protasis"),
     scaena=(True, True, False, "scena"),
+    scaenae=(True, True, False, "scena"),
     scena=(True, True, False, "scena"),
     strophe=(False, False, False, "strophe"),
     tragoidia=(False, False, False, "tragoedia"),
@@ -227,12 +228,12 @@ LINENUMBER_BEFORE_RE = re.compile(
             [\ ]?
         )?
     )
-    \\?\(
+    \\?[(\[]
     (
         [0-9]+
         [A-Za-z]?
     )
-    \\?\)
+    \\?[)\]]
     [\ ]?
     (?=
         .*
@@ -532,6 +533,13 @@ class TeiFromDocx:
                 isSection = SECTION_TRIGGERS_SEC[triggerL]
                 sigil = "§" if isSection else "±"
 
+                extraTerm = "Residuum "
+                hasExtraTerm = False
+
+                if extraTerm in after:
+                    after = after.replace(extraTerm, "")
+                    hasExtraTerm = True
+
                 matchSub = SECTIONTRIGGER_SND_RE.match(after)
 
                 triggerSub = ""
@@ -543,7 +551,11 @@ class TeiFromDocx:
 
                     if triggerSubL in SECTION_TRIGGERS:
                         triggerSub = f"-{SECTION_TRIGGERS[triggerSubL]}"
+
                         numberSub = f"-{nSub.lower()}"
+
+                        if hasExtraTerm:
+                            numberSub += f"({extraTerm.strip()})"
 
                 triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
                 number = f"{number.lower()}{numberSub}"

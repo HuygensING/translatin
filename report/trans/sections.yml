@@ -689,7 +689,7 @@ Foxe-Christus:
 - ±chorus
 - ±chorus virginum
 Gnapheus-Acolastus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §argumentum comoediae
 - §actus-scena primi-prima
@@ -963,8 +963,6 @@ Heinsius-Herodes:
 - §actus quintus
 Holonius-Catharina:
 - §prologus in
-- §prologus
-- §prologus
 - §argumentum
 - §personae tragoediae
 - ±chorus duplex
@@ -972,158 +970,95 @@ Holonius-Catharina:
 - §scena i
 - §actus primi
 - §scena ii
-- §actus i
 - §actus-scena i-iii
-- §actus i
 - §actus-scena i-iiii
-- §actus i
 - §actus-scena i-v
-- §actus ii
 - §actus primi
 - §scena vi
-- §actus i
 - ±chorus aegyptiarvm
 - §actus secvndi
 - §scena prima
 - §actus-scena ii-ii
-- §actus ii
 - §actus-scena ii-iii
-- §actus ii
 - §actus-scena ii-iiii
 - §actus ii
-- §actus ii
-- §actus ii
 - ±chorus aegyptiarvm
-- §actus ii
 - §actus tertii
 - §scena prima
-- §actus iii
 - §actus-scena iii-ii
-- §actus iii
 - §actus-scena iii-iii
-- §actus iii
-- §actus iii
-- §actus iii
-- §actus iii
-- §actus iii
 - §actus-scena iii-iiii
 - ±chorus angelorvm
-- §actus iii
 - §actus qvarti
 - §scena prima
-- §actus iiii
 - §actus qvarti
 - §scena ii
-- §actus iiii
-- §actus iiii
 - §actus-scena iiii-iii
 - ±chorus at
 - ±chorus caesar
-- §actus iiii
 - ±chorus miserere
 - ±chorus at
 - ±chorus at
 - §actus-scena iiii-iiii
 - ±chorus renidet
-- §actus iiii
 - §actus-scena iiii-v
-- §actus iiii
 - ±chorus aegyptiarvm
-- §actus iiii
 - §actus qvinti
 - §scena prima
-- §actus v
 - §actus-scena v-ii
-- §actus iiii
 - §actus-scena v-iii
-- §actus iiii
 - §actus-scena v-iiii
-- §actus iiii
 - §actus-scena v-v
 - §actus-scena v-vi
-- §actus v
 - §actus-scena v-vii
 - §actus qvinti
 - §scena viii
-- §actus iiii
-- §actus v
 Holonius-Laurentias:
-- §prologus
 - §prologus
 - §argumentum
 - §personae actionis
 - ±chorus puellarum
 - §actus-scena i-ii
-- §actus i
 - §actus-scena i-iii
-- §actus i
 - §actus-scena i-iiii
-- §actus i
 - §actus-scena i-v
-- §actus i
 - §actus-scena i-vi
 - ±chorus
 - §actus secvndi
 - §scena prima
-- §actus ii
 - §actus-scena ii-ii
-- §actus ii
 - §actus-scena ii-iii
 - §actus-scena ii-iiii
-- §actus ii
 - §actus-scena ii-v
-- §actus ii
 - §actus-scena ii-vi
 - §actus-scena ii-vii
-- §actus ii
 - ±chorus angelorvm
 - §actus-scena tertii-i
-- §actus iiii
 - §actus-scena iii-ii
-- §actus iii
 - §actus-scena iii-iii
 - §actus-scena iii-iiii
-- §actus iii
 - §actus-scena iii-v
 - §actus-scena iii-vi
 - §actus iii
-- §actus iii
 - §actus-scena tertii-viii
-- §actus iii
 - ±chorus
-- §actus iiii
 - §actus-scena qvarti-prima
-- §actus iiii
-- §actus iiii
 - §actus-scena iiii-ii
-- §actus iiii
 - §actus-scena iiii-iii
 - §actus-scena iiii-iiii
-- §actus iiii
 - §actus-scena iiii-v
 - §actus iiii
-- §actus iiii
-- §actus iiii
 - ±chorus angelorvm
-- §actus iiii
 - §actus-scena qvinti-prima
-- §actus v
 - §actus-scena qvinti-ii
-- §actus v
 - §actus-scena qvinti-iii
 - §actus-scena v-iiii
 - §actus-scena v-v
-- §actus v
 - §actus-scena v-vi
-- §actus iiii
 - §actus-scena v-vii
-- §actus v
 - §actus-scena qvinti-viii
-- §actus v
 - §actus-scena qvinti-ix
-- §actus v
 - §actus-scena v-vltima
-- §actus v
 Honerdus-Thamara:
 - §personae
 - ±chorus
@@ -1211,7 +1146,7 @@ Kerckmeister-Codrus:
 - §argumentum
 Knuyt-Scornetta: []
 Laurimanus-Exodus:
-- ±actorum nomina
+- §actorum nomina
 - ±chorus ex
 - §epilogus populus
 - §prologus
@@ -1371,7 +1306,7 @@ Lummenaeus-Bustum:
 Lummenaeus-Carcer:
 - ±chorus chaldaeorvm
 - ±chorus israelitarvm
-- §actus-scena primi-i
+- §actus-scena primi-ia
 - ±chorus chald
 - §actus 2
 - ±chorus chald
@@ -1428,14 +1363,14 @@ Macropedius-Adamus:
 - §actus-scena ii-ii
 - §actus-scena ii-iii
 - §actus-scena ii-interiectitia
-- §actus ii
+- §actus-scena ii-iii(Residuum)
 - §actus-scena ii-iv
 - §actus-scena ii-v
 - ±chorus
 - §personae-actus dramatis-tertii
 - §actus-scena iii-i
 - §actus-scena iii-interiectitia
-- §actus iii
+- §actus-scena iii-i(Residuum)
 - §actus-scena iii-ii
 - §actus-scena iii-iii
 - §actus-scena iii-iv
@@ -1445,7 +1380,7 @@ Macropedius-Adamus:
 - §actus-scena iii-viii
 - §actus-scena iii-interiectitia
 - §actus-scena iii-altera
-- §actus iii
+- §actus-scena iii-viii(Residuum)
 - §actus-scena iii-ix
 - §actus-scena iii-x
 - §actus-scena iii-xi
@@ -1480,7 +1415,6 @@ Macropedius-Adamus:
 - §epilogus per
 Macropedius-Aluta:
 - §dramatis personae
-- §prologus cum
 - §prologus in
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -1506,6 +1440,7 @@ Macropedius-Aluta:
 - §actus-scena v-iii
 - §actus-scena v-iv
 Macropedius-Andrisca:
+- §dramatis personae
 - §prologus
 - ±chorus bacchidum
 - ±comoedia una
@@ -1543,8 +1478,8 @@ Macropedius-Andrisca:
 - §actus-scena quinti-undecima
 Macropedius-Asotus:
 - §dramatis personae
-- §prologus diaboli
 - §prologus
+- ±comoediae apte
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -1587,8 +1522,7 @@ Macropedius-Asotus:
 - §actus-scena v-viii
 - §actus-scena v-ultima
 Macropedius-Bassarus:
-- ±actores fabulae
-- §prologus dromus
+- §actores fabulae
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -1623,7 +1557,6 @@ Macropedius-Bassarus:
 - §actus-scena v-iv
 Macropedius-Hecastus:
 - §personae dramatis
-- §prologus daemones
 - §prologus in
 - ±chorus versu
 - §actus-scena i-i
@@ -1697,7 +1630,6 @@ Macropedius-Hypomone:
 - ±chorus
 Macropedius-Iesus:
 - §dramatis personae
-- §prologus cum
 - §prologus
 - §personae erunt
 - §actus-scena i-i
@@ -1746,7 +1678,6 @@ Macropedius-Iesus:
 - §epilogus
 Macropedius-Iosephus:
 - §dramatis personae
-- §prologus stratophilus
 - §prologus
 - ±finis prologi
 - §actus-scena i-i
@@ -1979,7 +1910,12 @@ Mussato-Ecerinis:
 Narssius-Gustavus:
 - ±chorus matrum
 - §actus primus
+- ±chorus senatorum
+- §actus secundus
+- ±chorus militum
 - §actus tertius
+- ±chorus matrum
+- §actus quartus
 - ±chorus
 - ±chorus procerum
 - §actus quintus
@@ -2222,7 +2158,7 @@ Salius-Nassovius:
 - ±chorus
 - ±chorus
 Schonaeus-Ananias:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2276,7 +2212,7 @@ Schonaeus-Baptistes:
 - §actus-scena v-vi
 - §actus-scena v-vii
 Schonaeus-Cunae:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §prologus
 - §actus-scena i-i
@@ -2297,7 +2233,7 @@ Schonaeus-Cunae:
 - §actus-scena v-ii
 - §actus-scena v-iii
 Schonaeus-Daniel:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae periocha
 - §actus-scena i-i
@@ -2323,7 +2259,7 @@ Schonaeus-Daniel:
 - §actus-scena v-v
 - §peroratio
 Schonaeus-Dyscoli:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2367,7 +2303,7 @@ Schonaeus-Fabula:
 - §actus 3
 - §actus 4
 Schonaeus-Iosephus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2401,7 +2337,7 @@ Schonaeus-Iosephus:
 - §actus-scena v-viii
 - §peroratio
 Schonaeus-Iuditha:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae periocha
 - §actus-scena i-i
@@ -2432,7 +2368,7 @@ Schonaeus-Iuditha:
 - §peroratio
 - §peroratio 64
 Schonaeus-Naaman:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae argvmentvm
 - §actus-scena i-i
@@ -2463,7 +2399,7 @@ Schonaeus-Naaman:
 - §actus-scena v-vii
 - §peroratio
 Schonaeus-Nehemias:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae argumentum
 - §actus-scena i-i
@@ -2494,7 +2430,7 @@ Schonaeus-Nehemias:
 - §actus-scena v-vi
 - §peroratio
 Schonaeus-Pentecoste:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2517,7 +2453,7 @@ Schonaeus-Pentecoste:
 - §actus-scena v-iv
 - §actus v
 Schonaeus-Pseudostratiotae:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2540,7 +2476,7 @@ Schonaeus-Pseudostratiotae:
 - §actus-scena v-iii
 - §actus-scena v-iv
 Schonaeus-Saulus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2570,7 +2506,7 @@ Schonaeus-Saulus:
 - §actus-scena v-vii
 - §peroratio
 Schonaeus-Susanna:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2596,7 +2532,7 @@ Schonaeus-Susanna:
 - §actus-scena v-v
 - §peroratio
 Schonaeus-Tobaeus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae periocha
 - §actus-scena i-i
@@ -2636,7 +2572,7 @@ Schonaeus-Tobaeus:
 - §actus-scena v-vi
 - §peroratio
 Schonaeus-Triumphus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - ±comoediae periocha
 - §actus-scena i-i
@@ -2657,7 +2593,7 @@ Schonaeus-Triumphus:
 - §actus-scena v-iii
 - §peroratio
 Schonaeus-Typhlus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -2681,7 +2617,7 @@ Schonaeus-Typhlus:
 - §actus-scena v-iii
 - §actus-scena v-iiii
 Schonaeus-Vitulus:
-- ±actorum nomina
+- §actorum nomina
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
