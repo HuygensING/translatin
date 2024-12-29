@@ -968,16 +968,107 @@ class WorkSpecific:
         text = FOLIO_ALPHA_ARABIC_BARE_RE.sub(self.folioRepl, text)
         return text
 
-    Reuchlin_Henno = None
-    Reuchlin_Sergius = None
-    Rosefeldus_Moschus = None
-    Roulerius_Stuarta = None
-    Ruggle_Ignoramus = None
-    Salius_Nassovius = None
-    Schonaeus_Ananias = None
-    Schonaeus_Baptistes = None
-    Schonaeus_Cunae = None
-    Schonaeus_Daniel = None
+    Reuchlin_Henno = "generic"
+    Reuchlin_Sergius = "generic"
+
+    def Rosefeldus_Moschus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        return text
+
+    Roulerius_Stuarta = "generic"
+    Ruggle_Ignoramus = "generic"
+    Salius_Nassovius = "generic"
+
+    def Schonaeus_Ananias(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                ANANIAS
+            )
+            \.
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Baptistes(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                TRAGICOCOMOEDIA
+                |
+                BAPTISTES
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Cunae(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                FABVLA
+                |
+                CVNAE
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Daniel(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                DANIEL
+            )
+            \.
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
     Schonaeus_Dyscoli = None
     Schonaeus_Fabula = None
     Schonaeus_Iosephus = None

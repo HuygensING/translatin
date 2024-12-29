@@ -507,6 +507,7 @@ Cunaeus-Dido:
 Dalanthus-Dido:
 - §dramatis personae
 - §prologus
+- argumentum
 - §actus-scena i-i
 - §scena ii
 - §scena iii
@@ -569,6 +570,7 @@ Diether-Ioseph:
 - §scena iii
 - §scena iiii
 - §scena v
+- §errata sint
 - §scena vi
 - §scena vii
 - §epilogus
@@ -791,7 +793,6 @@ Gretser-Timon:
 - §actus-scena secundi-prima
 Gretser-Underwaldius:
 - §prologus
-- ±comoediae progressu
 - §actus-scena primi-secunda
 Grimald-Christus:
 - §personae
@@ -1066,6 +1067,7 @@ Honerdus-Thamara:
 - §scena secvnda
 - ±chorus
 - §actus secvndvs
+- §errata sic
 - ±chorus
 - §actus-scena tert-prima
 - ±chorus senex
@@ -1082,6 +1084,7 @@ Houcharius-Grisellis:
 - §actus secundus
 - §actus tertius
 - §conclusio
+- §errata siqua
 Houthem-Gedeon:
 - ±ludionum nomenclaturę
 - ±chorus
@@ -1112,7 +1115,6 @@ Houthem-Gedeon:
 - §actus-scena quinti-quinta
 Ischyrius-Homulus:
 - §interlocutores
-- ±comoediae sequentis
 - §prologus
 - §actus i
 - §scena i
@@ -1479,7 +1481,6 @@ Macropedius-Andrisca:
 Macropedius-Asotus:
 - §dramatis personae
 - §prologus
-- ±comoediae apte
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -1728,6 +1729,7 @@ Macropedius-Iosephus:
 Macropedius-Lazarus:
 - §personae dramatis
 - §prologus
+- §errata quamvis
 - ±finis prologi
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -1993,6 +1995,7 @@ Philicinus-Magdalena:
 - §scena secvnda
 - §scena tertia
 - §scena qvarta
+- §errata dones
 - §actus qvarti
 - §scena prima
 - §scena secvnda
@@ -2015,7 +2018,6 @@ Placentius-Susanna:
 - §actus secundus
 Reuchlin-Henno:
 - §personae
-- §prologus
 - ±codices
 - §prologus
 - §actus secvndvs
@@ -2024,8 +2026,6 @@ Reuchlin-Henno:
 - §actus qvintvs
 Reuchlin-Sergius:
 - §personae
-- §prologus
-- §epilogus
 - §prologus
 - §actus primvs
 - §actus secvndvs
@@ -2063,8 +2063,10 @@ Rosefeldus-Moschus:
 - §actus-scena v-i
 - §actus-scena v-ii
 - §actus-scena v-ill
+- §errata quaedam
 - ±finis
 Roulerius-Stuarta:
+- interlocutores
 - ±chorus angiorum
 - §actus primvs
 - ±chorus anglorum
@@ -2212,7 +2214,6 @@ Schonaeus-Baptistes:
 Schonaeus-Cunae:
 - §actorum nomina
 - §prologus
-- §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2233,7 +2234,6 @@ Schonaeus-Cunae:
 Schonaeus-Daniel:
 - §actorum nomina
 - §prologus
-- ±comoediae periocha
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2337,7 +2337,6 @@ Schonaeus-Iosephus:
 Schonaeus-Iuditha:
 - §actorum nomina
 - §prologus
-- ±comoediae periocha
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2368,7 +2367,7 @@ Schonaeus-Iuditha:
 Schonaeus-Naaman:
 - §actorum nomina
 - §prologus
-- ±comoediae argvmentvm
+- argumentum
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2399,7 +2398,7 @@ Schonaeus-Naaman:
 Schonaeus-Nehemias:
 - §actorum nomina
 - §prologus
-- ±comoediae argumentum
+- argumentum
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2532,7 +2531,6 @@ Schonaeus-Susanna:
 Schonaeus-Tobaeus:
 - §actorum nomina
 - §prologus
-- ±comoediae periocha
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2572,7 +2570,6 @@ Schonaeus-Tobaeus:
 Schonaeus-Triumphus:
 - §actorum nomina
 - §prologus
-- ±comoediae periocha
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena i-iii
@@ -2736,8 +2733,8 @@ Stymmelius-Studentes:
 - §actus-scena v-v
 - ±chorus quintus
 - §epilogus a
-- ±comoediae quoque
 - ±chorus musarum
+- §errata singulorum
 Susius-Pendularia:
 - §dramatis personae
 - §actus primi
@@ -3000,6 +2997,7 @@ Vernulaeus-Theodoricus:
 - §scena vi
 Vladeraccus-Tobias:
 - §prologus
+- §errata sed
 - §dramatis personae
 - §personae mutae
 - §actus-scena i-i
@@ -3102,12 +3100,12 @@ Weitenauer-Annibal:
 - §scena octava
 Wimpheling-Stylpho:
 - §prologus
-- §prima scena
-- §secunda scena
-- §tertia scena
-- §quarta scena
-- §quinta scena
-- §sexta scena
+- scena
+- scena
+- scena
+- scena
+- scena
+- scena
 - §conclusio
 Zevecotius-Rosimunda:
 - §personae

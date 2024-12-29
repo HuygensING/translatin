@@ -168,11 +168,12 @@ SECTION_TRIGGERS_DEF = dict(
     ch=(False, False, False, "chorus"),
     codices=(False, False, False, "codices"),
     comoedia=(False, False, False, "comoedia"),
-    comoediae=(False, False, False, "comoediae"),
+    comoediae=(True, False, True, "$1"),
     conclusio=(True, False, False, "conclusio"),
     dramatis=(True, False, False, "dramatis"),
     epitasis=(False, False, False, "epitasis"),
     epilogus=(True, False, False, "epilogus"),
+    errata=(True, False, False, "errata"),
     finis=(False, False, False, "finis"),
     incipit=(True, False, False, "incipit"),
     interlocutores=(True, False, False, "interlocutores"),
@@ -187,6 +188,7 @@ SECTION_TRIGGERS_DEF = dict(
     scaenae=(True, True, False, "scena"),
     scena=(True, True, False, "scena"),
     strophe=(False, False, False, "strophe"),
+    tragoediae=(True, False, True, "$1"),
     tragoidia=(False, False, False, "tragoedia"),
     prima=(True, False, True, "prima"),
     secunda=(True, False, True, "secunda"),
@@ -532,6 +534,7 @@ class TeiFromDocx:
             (pre, trigger, post, number, after) = match.group(1, 2, 3, 4, 5)
             start = match.start()
             triggerL = trigger.lower()
+            triggerN = None
             number = number or ""
 
             if triggerL in SECTION_TRIGGERS:
@@ -539,7 +542,10 @@ class TeiFromDocx:
                     makeSection = False
                 elif SECTION_TRIGGERS_TRIG[triggerL]:
                     nextWord = post.split()[0].rstrip(".") if post else ""
-                    makeSection = nextWord.lower() in SECTION_TRIGGERS
+                    nextWordL = nextWord.lower()
+                    triggerN = SECTION_TRIGGERS.get(nextWordL, None)
+                    number = ""
+                    makeSection = triggerN is not None
                 elif SECTION_TRIGGERS_NUM[triggerL]:
                     makeSection = SNUM_RE.match(number)
                 else:
@@ -548,7 +554,7 @@ class TeiFromDocx:
                 makeSection = False
 
             if makeSection:
-                isSection = SECTION_TRIGGERS_SEC[triggerL]
+                isSection = SECTION_TRIGGERS_SEC[triggerN or triggerL]
                 sigil = "§" if isSection else "±"
 
                 extraTerm = "Residuum "
@@ -575,7 +581,9 @@ class TeiFromDocx:
                         if hasExtraTerm:
                             numberSub += f"({extraTerm.strip()})"
 
-                triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
+                if triggerN is None:
+                    triggerN = f"{sigil}{SECTION_TRIGGERS[triggerL]}{triggerSub}"
+
                 number = f"{number.lower()}{numberSub}"
                 sections.append([start, triggerN, number])
                 replacement = (
