@@ -114,6 +114,25 @@ PAGE_FACS_RE = re.compile(
     re.X | re.S,
 )
 
+PAGE_FACS_IMAGE_RE = re.compile(
+    r"""
+    image:
+    [\ \n]
+    \[
+    [a-z]0*
+    (
+        [0-9]+
+    )
+    \]
+    \(
+    (
+        [^)]+
+    )
+    \)
+    """,
+    re.X | re.S,
+)
+
 FOLIO_ALPHA_ROMAN_ALONE_RE = re.compile(
     r"""
     ^
@@ -1373,11 +1392,80 @@ class WorkSpecific:
         text = pageRe.sub(self.pageRepl, text)
         return text
 
-    Schopper_Ectrachelistes = None
-    Simonides_Castus = None
-    Stymmelius_Isaac = None
-    Stymmelius_Studentes = None
-    Susius_Pendularia = None
+    def Schopper_Ectrachelistes(self, text):
+        text = PAGE_FACS_IMAGE_RE.sub(self.pageFacsRepl, text)
+        return text
+
+    def Simonides_Castus(self, text):
+        folioRe = re.compile(
+            r"""
+            ^
+            (
+                [A-K]
+                (?:
+                    [\ ]?
+                    [0-9]+
+                )?
+            )
+            [\ ]
+            [A-Z]
+            .*
+            $
+            """,
+            re.X | re.M,
+        )
+        text = folioRe.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Stymmelius_Isaac(self, text):
+        headRe = re.compile(
+            r"""
+            ^
+            (?:
+                EPISTOLA
+                |
+                DEDICATORIA\.
+                |
+                (?:
+                    EPISTO\.
+                    [\ ]
+                    DEDICA\.
+                )
+            )
+            $
+            """,
+            re.X | re.M
+        )
+        text = headRe.sub("", text)
+        return text
+
+    Stymmelius_Studentes = "generic"
+
+    def Susius_Pendularia(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                PENDVLARIA\.[\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                (?:
+                    DRAMA.*
+                    |
+                    PENDVLARIA\.
+                )
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
     Telesio_Imber = None
     Vernulaeus_Conradinus = None
     Vernulaeus_Crispus = None

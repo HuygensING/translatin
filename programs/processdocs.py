@@ -182,6 +182,7 @@ SECTION_TRIGGERS_DEF = dict(
     pars=(True, True, False, "pars"),
     peroratio=(True, False, False, "peroratio"),
     personae=(True, False, False, "personae"),
+    periocha=(True, False, False, "periocha"),
     prologus=(True, False, False, "prologus"),
     protasis=(False, False, False, "protasis"),
     scaena=(True, True, False, "scena"),
