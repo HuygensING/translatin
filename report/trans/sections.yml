@@ -2280,6 +2280,7 @@ Schonaeus-Dyscoli:
 - §actus-scena v-iii
 - §actus v
 Schonaeus-Fabula:
+- §actorum nomina
 - §actus-scena 1-1
 - §actus-scena 1-2
 - §actus-scena 1-3
@@ -2288,8 +2289,10 @@ Schonaeus-Fabula:
 - §actus-scena 2-2
 - §actus-scena 2-3
 - §actus-scena 3-1
+- §actus-scena 3-2
 - §actus-scena 3-3
-- §actus-scena 4-i
+- §actus-scena 4-1
+- §actus-scena 4-2
 - §actus-scena 4-3
 - §actus-scena 5-1
 - §actus-scena 5-2
@@ -2409,7 +2412,7 @@ Schonaeus-Nehemias:
 - §actus-scena ii-iii
 - §actus-scena ii-iv
 - §actus-scena iii-i
-- §actus-scena iii-i
+- §actus-scena iii-ii
 - §actus-scena iii-iii
 - §actus-scena iii-iv
 - §actus-scena iii-v
@@ -2495,7 +2498,7 @@ Schonaeus-Saulus:
 - §actus-scena iv-iii
 - §actus-scena iv-iv
 - §actus-scena v-i
-- §actus-scena v-iii
+- §actus-scena v-ii
 - §actus-scena v-iii
 - §actus-scena v-iv
 - §actus-scena v-v
@@ -2537,7 +2540,7 @@ Schonaeus-Tobaeus:
 - §actus-scena i-iv
 - §actus-scena i-v
 - §actus-scena i-vi
-- §actus i
+- §actus-scena i-vii
 - §actus-scena ii-i
 - §actus-scena ii-ii
 - §actus-scena ii-iii

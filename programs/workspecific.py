@@ -183,6 +183,17 @@ FOLIO_ALPHA_ARABIC_SQ_RE = re.compile(
     re.X,
 )
 
+FOLIO_SLASH_RE = re.compile(
+    r"""
+    (?:\\\[)?
+    /
+    ([A-Za-z]?[0-9]*[rv]?)
+    /
+    (?:\\\])?
+    """,
+    re.X,
+)
+
 FOLIO_MARK_RE = re.compile(
     r"""
     \\\[
@@ -517,17 +528,7 @@ class WorkSpecific:
 
     def Heinsius_Herodes(self, text):
         # there is wrongly coded greek at the end, past Back
-        folioRe = re.compile(
-            r"""
-            (?:\\\[)?
-            /
-            ([A-Za-z]?[0-9]+[rv]?)
-            /
-            (?:\\\])?
-            """,
-            re.X,
-        )
-        text = folioRe.sub(self.folioRepl, text)
+        text = FOLIO_SLASH_RE.sub(self.folioRepl, text)
         pageRe = re.compile(
             r"""
             /
@@ -1069,20 +1070,309 @@ class WorkSpecific:
         text = pageRe.sub(self.pageRepl, text)
         return text
 
-    Schonaeus_Dyscoli = None
-    Schonaeus_Fabula = None
-    Schonaeus_Iosephus = None
-    Schonaeus_Iuditha = None
-    Schonaeus_Naaman = None
-    Schonaeus_Nehemias = None
-    Schonaeus_Pentecoste = None
-    Schonaeus_Pseudostratiotae = None
-    Schonaeus_Saulus = None
-    Schonaeus_Susanna = None
-    Schonaeus_Tobaeus = None
-    Schonaeus_Triumphus = None
-    Schonaeus_Typhlus = None
-    Schonaeus_Vitulus = None
+    def Schonaeus_Dyscoli(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                COMOEDIA
+                |
+                DYSCOLI
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Fabula(self, text):
+        text = FOLIO_SLASH_RE.sub(self.folioRepl, text)
+        return text
+
+    def Schonaeus_Iosephus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    TERENTII
+                    [\ ]
+                    CHRIST
+                )
+                |
+                IOSEPHVS
+            )
+            \.
+            [\ ]
+            ([0-9]+)
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Iuditha(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    TEREN[TR]II?
+                    [\ ]
+                    CHRIST
+                )
+                |
+                IVDITHA
+            )
+            \.
+            [\ ]
+            ([0-9]+)
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Naaman(self, text):
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Nehemias(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    TEREN[TR]II?
+                    [\ ]
+                    CHRIST
+                )
+                |
+                NEHEMIAS
+            )
+            \.?
+            [\ ]
+            ([0-9]+)
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Pentecoste(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHR[IY]ST
+                )
+                |
+                PROLOGVS
+                |
+                PENTECOSTE
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Pseudostratiotae(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            \\?\.?
+            [\ ]
+            (?:
+                FABVLA
+                |
+                PSEVDO[A-Z]*
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Saulus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    TERENTII
+                    [\ ]
+                    CHRIST
+                )
+                |
+                SAVLVS
+            )
+            \.?
+            [\ ]
+            ([0-9]+)
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Susanna(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                SVSANNA
+            )
+            \.?
+            [\ ]
+            ([0-9]+)
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                SVSANNA
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Tobaeus(self, text):
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Triumphus(self, text):
+        # N.B. the order of tha last two pages is inverted: 129, 128
+        # Also: the header/footer of these pages is consistent with their numbering.
+        # So I leave it as is.
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                (?:
+                    TRIVMPHVS
+                    [\ ]
+                    CHRISTI
+                )
+            )
+            [.:]?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Typhlus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                (?:
+                    TERENT
+                    \.
+                    [\ ]
+                    CHRIST
+                )
+                |
+                TYPHLVS
+            )
+            [.:]?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Schonaeus_Vitulus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            \\?\.?
+            [\ ]
+            (?:
+                FABVLA
+                |
+                VITVLVS
+            )
+            \.?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
     Schopper_Ectrachelistes = None
     Simonides_Castus = None
     Stymmelius_Isaac = None

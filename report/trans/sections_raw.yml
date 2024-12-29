@@ -6605,404 +6605,413 @@ Schonaeus-Dyscoli:
 - - 156
   - §prologus
   - ''
-- - 1825
+- - 1829
   - §actus-scena
   - i-i
-- - 3344
+- - 3351
   - §actus-scena
   - i-ii
-- - 4570
+- - 4575
   - §actus-scena
   - i-iii
-- - 6066
+- - 6075
   - §actus-scena
   - i-iv
-- - 8509
+- - 8513
   - §actus-scena
   - i-v
-- - 11002
+- - 11001
   - §actus-scena
   - ii-i
-- - 12428
+- - 12426
   - §actus-scena
   - ii-ii
-- - 14228
+- - 14213
   - §actus-scena
   - ii-iii
-- - 17347
+- - 17333
   - §actus-scena
   - iii-i
-- - 19241
+- - 19231
   - §actus-scena
   - iii-ii
-- - 21669
+- - 21662
   - §actus-scena
   - iii-iii
-- - 26446
+- - 26443
   - §actus-scena
   - iii-iv
-- - 28259
+- - 28252
   - §actus-scena
   - iv-i
-- - 30185
+- - 30176
   - §actus-scena
   - iv-ii
-- - 32074
+- - 32060
   - §actus-scena
   - iv-iii
-- - 33213
+- - 33196
   - §actus-scena
   - iv-iv
-- - 34049
+- - 34032
   - §actus-scena
   - v-i
-- - 36588
+- - 36574
   - §actus-scena
   - v-ii
-- - 39528
+- - 39513
   - §actus-scena
   - v-iii
-- - 41049
+- - 41038
   - §actus
   - v
 Schonaeus-Fabula:
-- - 120
+- - 2
+  - §actorum
+  - nomina
+- - 132
   - §actus-scena
   - 1-1
-- - 1219
+- - 1231
   - §actus-scena
   - 1-2
-- - 2392
+- - 2410
   - §actus-scena
   - 1-3
-- - 4057
+- - 4081
   - §actus-scena
   - 1-4
-- - 5970
+- - 6006
   - §actus-scena
   - 2-1
-- - 7865
+- - 7907
   - §actus-scena
   - 2-2
-- - 8858
+- - 8900
   - §actus-scena
   - 2-3
-- - 10976
+- - 11030
   - §actus-scena
   - 3-1
-- - 14598
+- - 12221
+  - §actus-scena
+  - 3-2
+- - 14665
   - §actus-scena
   - 3-3
-- - 15632
+- - 15705
   - §actus-scena
-  - 4-i
-- - 19911
+  - 4-1
+- - 17546
+  - §actus-scena
+  - 4-2
+- - 20002
   - §actus-scena
   - 4-3
-- - 21364
+- - 21461
   - §actus-scena
   - 5-1
-- - 21955
+- - 22058
   - §actus-scena
   - 5-2
-- - 24283
+- - 24392
   - §actus-scena
   - 5-3
-- - 25861
+- - 25976
   - §actus-scena
   - 5-4
-- - 28227
+- - 28354
   - ±finis
   - ''
-- - 31109
+- - 31248
   - §actus
   - '1'
-- - 34073
+- - 34218
   - §actus
   - '2'
-- - 36728
+- - 36879
   - §actus
   - '3'
-- - 39085
+- - 39242
   - §actus
   - '4'
 Schonaeus-Iosephus:
 - - 2
   - §actorum
   - nomina
-- - 368
+- - 376
   - §prologus
   - ''
-- - 2110
+- - 2115
   - §actus-scena
   - i-i
-- - 6924
+- - 6917
   - §actus-scena
   - i-ii
-- - 7878
+- - 7871
   - §actus-scena
   - i-iii
-- - 12968
+- - 12949
   - §actus-scena
   - i-iv
-- - 14239
+- - 14210
   - §actus-scena
   - i-v
-- - 20207
+- - 20152
   - §actus-scena
   - ii-i
-- - 22177
+- - 22119
   - §actus-scena
   - ii-ii
-- - 24028
+- - 23965
   - §actus-scena
   - ii-iii
-- - 25993
+- - 25920
   - §actus-scena
   - ii-iv
-- - 28228
+- - 28152
   - §actus-scena
   - ii-v
-- - 29267
+- - 29181
   - §actus-scena
   - ii-vi
-- - 33713
+- - 33618
   - §actus-scena
   - ii-vii
-- - 38292
+- - 38181
   - §actus-scena
   - iii-i
-- - 42472
+- - 42348
   - §actus-scena
   - iii-ii
-- - 43997
+- - 43870
   - §actus-scena
   - iii-iii
-- - 46996
+- - 46856
   - §actus-scena
   - iii-iv
-- - 52037
+- - 51882
   - §actus-scena
   - iv-i
-- - 53842
+- - 53684
   - §actus-scena
   - iv-ii
-- - 55052
+- - 54891
   - §actus-scena
   - iv-iii
-- - 58879
+- - 58712
   - §actus-scena
   - iv-iv
-- - 62505
+- - 62332
   - §actus-scena
   - iv-v
-- - 63905
+- - 63722
   - §actus-scena
   - iv-vi
-- - 67037
+- - 66841
   - §actus-scena
   - v-i
-- - 69521
+- - 69312
   - §actus-scena
   - v-ii
-- - 70695
+- - 70483
   - §actus-scena
   - v-iii
-- - 72855
+- - 72641
   - §actus-scena
   - v-iv
-- - 75608
+- - 75388
   - §actus-scena
   - v-v
-- - 78221
+- - 77995
   - §actus-scena
   - v-vi
-- - 83878
+- - 83633
   - §actus-scena
   - v-vii
-- - 85494
+- - 85246
   - §actus-scena
   - v-viii
-- - 90195
+- - 89924
   - §peroratio
   - ''
 Schonaeus-Iuditha:
 - - 2
   - §actorum
   - nomina
-- - 339
+- - 347
   - §prologus
   - ''
-- - 2742
+- - 2755
   - §actus-scena
   - i-i
-- - 5479
+- - 5487
   - §actus-scena
   - i-ii
-- - 10275
+- - 10276
   - §actus-scena
   - i-iii
-- - 13218
+- - 13214
   - §actus-scena
   - i-iv
-- - 16510
+- - 16485
   - §actus-scena
   - ii-i
-- - 19980
+- - 19943
   - §actus-scena
   - ii-ii
-- - 23494
+- - 23451
   - §actus-scena
   - ii-iii
-- - 26286
+- - 26238
   - §actus-scena
   - ii-iv
-- - 29554
+- - 29501
   - §actus-scena
   - iii-i
-- - 33109
+- - 33048
   - §actus-scena
   - iii-ii
-- - 36384
+- - 36311
   - §actus-scena
   - iii-iii
-- - 38766
+- - 38681
   - §actus-scena
   - iii-iv
-- - 40766
+- - 40679
   - §actus-scena
   - iv-i
-- - 45685
+- - 45582
   - §actus-scena
   - iv-ii
-- - 49935
+- - 49824
   - §actus-scena
   - iv-iii
-- - 52023
+- - 51910
   - §actus-scena
   - iv-iv
-- - 54731
+- - 54613
   - §actus-scena
   - iv-v
-- - 57009
+- - 56886
   - §actus-scena
   - v-i
-- - 58778
+- - 58645
   - §actus-scena
   - v-ii
-- - 61886
+- - 61739
   - §actus-scena
   - v-iii
-- - 67114
+- - 66943
   - §actus-scena
   - v-iv
-- - 69860
+- - 69677
   - §actus-scena
   - v-v
-- - 76733
+- - 76515
   - §actus-scena
   - v-vi
-- - 80479
+- - 80249
   - §actus-scena
   - v-vii
-- - 82186
+- - 81944
   - §actus-scena
   - v-viii
-- - 84024
+- - 83782
   - §peroratio
   - ''
-- - 84681
+- - 84439
   - §peroratio
   - '64'
 Schonaeus-Naaman:
 - - 2
   - §actorum
   - nomina
-- - 285
+- - 288
   - §prologus
   - ''
-- - 2031
+- - 2037
   - argumentum
   - ''
-- - 2507
+- - 2513
   - §actus-scena
   - i-i
-- - 5074
+- - 5086
   - §actus-scena
   - i-ii
-- - 9927
+- - 9948
   - §actus-scena
   - i-iii
-- - 11142
+- - 11166
   - §actus-scena
   - i-iiii
-- - 16004
+- - 16040
   - §actus-scena
   - i-v
-- - 17364
+- - 17403
   - §actus-scena
   - ii-i
-- - 22013
+- - 22061
   - §actus-scena
   - ii-ii
-- - 28685
+- - 28745
   - §actus-scena
   - ii-iii
-- - 32828
+- - 32897
   - §actus-scena
   - iii-i
-- - 36826
+- - 36904
   - §actus-scena
   - iii-ii
-- - 37424
+- - 37502
   - §actus-scena
   - iii-iii
-- - 38568
+- - 38649
   - §actus-scena
   - iii-iv
-- - 39723
+- - 39807
   - §actus-scena
   - iii-v
-- - 45395
+- - 45491
   - §actus-scena
   - iii-vi
-- - 48407
+- - 48509
   - §actus-scena
   - iv-i
-- - 52372
+- - 52483
   - §actus-scena
   - iv-ii
-- - 55043
+- - 55160
   - §actus-scena
   - iv-iii
-- - 57116
+- - 57236
   - §actus-scena
   - iv-iv
-- - 61657
+- - 61786
   - §actus-scena
   - iv-v
-- - 64487
+- - 64622
   - §actus-scena
   - v-i
-- - 67223
+- - 67364
   - §actus-scena
   - v-ii
-- - 69016
+- - 69160
   - §actus-scena
   - v-iii
-- - 71593
+- - 71743
   - §actus-scena
   - v-iv
-- - 73874
+- - 74030
   - §actus-scena
   - v-v
-- - 74548
+- - 74704
   - §actus-scena
   - v-vi
-- - 78545
+- - 78710
   - §actus-scena
   - v-vii
-- - 82106
+- - 82280
   - §peroratio
   - ''
 Schonaeus-Nehemias:
@@ -7012,88 +7021,88 @@ Schonaeus-Nehemias:
 - - 236
   - §prologus
   - ''
-- - 2279
+- - 2276
   - argumentum
   - ''
-- - 2812
+- - 2816
   - §actus-scena
   - i-i
-- - 5747
+- - 5745
   - §actus-scena
   - i-ii
-- - 7863
+- - 7855
   - §actus-scena
   - i-iii
-- - 11366
+- - 11352
   - §actus-scena
   - i-iv
-- - 12912
+- - 12895
   - §actus-scena
   - i-v
-- - 18647
+- - 18594
   - §actus-scena
   - ii-i
-- - 20744
+- - 20688
   - §actus-scena
   - ii-ii
-- - 23011
+- - 22950
   - §actus-scena
   - ii-iii
-- - 24782
+- - 24718
   - §actus-scena
   - ii-iv
-- - 27846
+- - 27776
   - §actus-scena
   - iii-i
-- - 31473
+- - 31394
   - §actus-scena
-  - iii-i
-- - 33497
+  - iii-ii
+- - 33415
   - §actus-scena
   - iii-iii
-- - 35848
+- - 35756
   - §actus-scena
   - iii-iv
-- - 37355
+- - 37251
   - §actus-scena
   - iii-v
-- - 40110
+- - 39993
   - §actus-scena
   - iv-i
-- - 42685
+- - 42563
   - §actus-scena
   - iv-ii
-- - 44598
+- - 44473
   - §actus-scena
   - iv-iii
-- - 48741
+- - 48607
   - §actus
   - iv
-- - 50627
+- - 50491
   - §actus-scena
   - iv-v
-- - 53157
+- - 53015
   - §actus-scena
   - iv-vi
-- - 54678
+- - 54533
   - §actus-scena
   - v-i
-- - 60615
+- - 60442
   - §actus-scena
   - v-ii
-- - 61948
+- - 61765
   - §actus-scena
   - v-iii
-- - 64981
+- - 64793
   - §actus-scena
   - v-iv
-- - 65510
+- - 65322
   - §actus-scena
   - v-v
-- - 66588
+- - 66397
   - §actus-scena
   - v-vi
-- - 70962
+- - 70746
   - §peroratio
   - ''
 Schonaeus-Pentecoste:
@@ -7103,64 +7112,64 @@ Schonaeus-Pentecoste:
 - - 146
   - §prologus
   - ''
-- - 1800
+- - 1795
   - §actus-scena
   - i-i
-- - 3690
+- - 3680
   - §actus-scena
   - i-ii
-- - 12113
+- - 12062
   - §actus-scena
   - i-iii
-- - 14513
+- - 14456
   - §actus-scena
   - ii-i
-- - 16692
+- - 16633
   - §actus-scena
   - ii-ii
-- - 20098
+- - 20027
   - §actus-scena
   - ii-iii
-- - 22777
+- - 22699
   - §actus-scena
   - ii-iv
-- - 25185
+- - 25101
   - §actus-scena
   - iii-i
-- - 27624
+- - 27526
   - §actus-scena
   - iii-ii
-- - 32254
+- - 32133
   - §actus-scena
   - iii-iii
-- - 33718
+- - 33592
   - §actus-scena
   - iii-iv
-- - 36272
+- - 36140
   - §actus-scena
   - iv-i
-- - 39453
+- - 39314
   - §actus-scena
   - iv-ii
-- - 40480
+- - 40339
   - §actus-scena
   - iv-iii
-- - 41897
+- - 41751
   - §actus-scena
   - iv-iv
-- - 44635
+- - 44482
   - §actus-scena
   - v-i
-- - 45941
+- - 45785
   - §actus-scena
   - v-ii
-- - 48517
+- - 48346
   - §actus-scena
   - v-iii
-- - 50229
+- - 50054
   - §actus-scena
   - v-iv
-- - 52132
+- - 51944
   - §actus
   - v
 Schonaeus-Pseudostratiotae:
@@ -7170,77 +7179,77 @@ Schonaeus-Pseudostratiotae:
 - - 198
   - §prologus
   - ''
-- - 2162
+- - 2157
   - §actus-scena
   - i-i
-- - 3962
+- - 3957
   - §actus-scena
   - i-ii
-- - 6352
+- - 6337
   - §actus-scena
   - i-iii
-- - 8071
+- - 8046
   - §actus-scena
   - i-iv
-- - 10547
+- - 10510
   - §actus-scena
   - ii-i
-- - 14399
+- - 14366
   - §actus-scena
   - ii-ii
-- - 15775
+- - 15731
   - §actus-scena
   - ii-iii
-- - 16519
+- - 16481
   - §actus-scena
   - ii-iv
-- - 18150
+- - 18101
   - §actus-scena
   - ii-v
-- - 21192
+- - 21136
   - §actus-scena
   - iii-i
-- - 22448
+- - 22398
   - §actus-scena
   - iii-ii
-- - 24011
+- - 23949
   - §actus-scena
   - iii-iii
-- - 26502
+- - 26429
   - §actus-scena
   - iii-iv
-- - 30477
+- - 30381
   - §actus-scena
   - iii-v
-- - 31375
+- - 31279
   - §actus-scena
   - iv-i
-- - 33149
+- - 33047
   - §actus-scena
   - iv-ii
-- - 37280
+- - 37179
   - §actus-scena
   - v-i
-- - 39758
+- - 39652
   - §actus-scena
   - v-ii
-- - 42107
+- - 41997
   - §actus-scena
   - v-iii
-- - 44058
+- - 43937
   - §actus-scena
   - v-iv
 Schonaeus-Saulus:
 - - 2
   - §actorum
   - nomina
-- - 354
+- - 352
   - §prologus
   - ''
-- - 3637
+- - 3632
   - §actus-scena
   - i-i
-- - 5605
+- - 5606
   - §actus-scena
   - i-ii
 - - 7283
@@ -7249,73 +7258,73 @@ Schonaeus-Saulus:
 - - 8120
   - §actus-scena
   - i-iv
-- - 11230
+- - 11210
   - §actus-scena
   - i-v
-- - 13165
+- - 13151
   - §actus-scena
   - i-vi
-- - 15110
+- - 15086
   - §actus-scena
   - i-vii
-- - 18754
+- - 18719
   - §actus-scena
   - ii-i
-- - 23767
+- - 23710
   - §actus-scena
   - ii-ii
-- - 25419
+- - 25361
   - §actus-scena
   - ii-iii
-- - 26605
+- - 26544
   - §actus-scena
   - ii-iv
-- - 29922
+- - 29857
   - §actus-scena
   - iii-i
-- - 33583
+- - 33513
   - §actus-scena
   - iii-ii
-- - 40400
+- - 40315
   - §actus-scena
   - iii-iii
-- - 43174
+- - 43078
   - §actus-scena
   - iii-iv
-- - 45949
+- - 45842
   - §actus-scena
   - iv-i
-- - 48411
+- - 48293
   - §actus-scena
   - iv-ii
-- - 52097
+- - 51975
   - §actus-scena
   - iv-iii
-- - 53274
+- - 53149
   - §actus-scena
   - iv-iv
-- - 56073
+- - 55944
   - §actus-scena
   - v-i
-- - 60874
+- - 60730
+  - §actus-scena
+  - v-ii
+- - 65542
   - §actus-scena
   - v-iii
-- - 65699
-  - §actus-scena
-  - v-iii
-- - 67591
+- - 67423
   - §actus-scena
   - v-iv
-- - 70022
+- - 69852
   - §actus-scena
   - v-v
-- - 71870
+- - 71696
   - §actus-scena
   - v-vi
-- - 77339
+- - 77157
   - §actus-scena
   - v-vii
-- - 81909
+- - 81723
   - §peroratio
   - ''
 Schonaeus-Susanna:
@@ -7325,188 +7334,188 @@ Schonaeus-Susanna:
 - - 178
   - §prologus
   - ''
-- - 1815
+- - 1814
   - §actus-scena
   - i-i
-- - 3646
+- - 3643
   - §actus-scena
   - i-ii
-- - 7420
+- - 7404
   - §actus-scena
   - i-iii
-- - 11012
+- - 10992
   - §actus-scena
   - i-iv
-- - 13724
+- - 13700
   - §actus-scena
   - ii-i
-- - 15576
+- - 15541
   - §actus-scena
   - ii-ii
-- - 20396
+- - 20348
   - §actus-scena
   - ii-iii
-- - 25402
+- - 25342
   - §actus-scena
   - ii-iv
-- - 28556
+- - 28490
   - §actus-scena
   - ii-v
-- - 29761
+- - 29693
   - §actus-scena
   - iii-i
-- - 31017
+- - 30947
   - §actus-scena
   - iii-ii
-- - 33819
+- - 33745
   - §actus-scena
   - iii-iii
-- - 35852
+- - 35769
   - §actus-scena
   - iii-iv
-- - 37859
+- - 37774
   - §actus-scena
   - iv-i
-- - 39948
+- - 39852
   - §actus-scena
   - iv-ii
-- - 42261
+- - 42154
   - §actus-scena
   - iv-iii
-- - 44271
+- - 44155
   - §actus-scena
   - iv-iv
-- - 47929
+- - 47808
   - §actus-scena
   - v-i
-- - 49461
+- - 49338
   - §actus-scena
   - v-ii
-- - 52232
+- - 52105
   - §actus-scena
   - v-iii
-- - 58143
+- - 58008
   - §actus-scena
   - v-iv
-- - 61260
+- - 61114
   - §actus-scena
   - v-v
-- - 62912
+- - 62764
   - §peroratio
   - ''
 Schonaeus-Tobaeus:
 - - 2
   - §actorum
   - nomina
-- - 374
+- - 377
   - §prologus
   - ''
-- - 2816
+- - 2825
   - §actus-scena
   - i-i
-- - 6749
+- - 6767
   - §actus-scena
   - i-ii
-- - 8151
+- - 8172
   - §actus-scena
   - i-iii
-- - 10309
+- - 10333
   - §actus-scena
   - i-iv
-- - 11955
+- - 11985
   - §actus-scena
   - i-v
-- - 13236
+- - 13269
   - §actus-scena
   - i-vi
-- - 13905
-  - §actus
-  - i
-- - 17742
+- - 13938
+  - §actus-scena
+  - i-vii
+- - 17784
   - §actus-scena
   - ii-i
-- - 20587
+- - 20635
   - §actus-scena
   - ii-ii
-- - 23215
+- - 23269
   - §actus-scena
   - ii-iii
-- - 27408
+- - 27471
   - §actus-scena
   - ii-iv
-- - 30706
+- - 30775
   - §actus-scena
   - ii-v
-- - 32783
+- - 32858
   - §actus-scena
   - ii-vi
-- - 37438
+- - 37522
   - §actus-scena
   - ii-vii
-- - 40032
+- - 40122
   - §actus-scena
   - ii-viii
-- - 41157
+- - 41250
   - §actus-scena
   - iii-i
-- - 41763
+- - 41856
   - §actus-scena
   - iii-ii
-- - 43132
+- - 43228
   - §actus-scena
   - iii-iii
-- - 44010
+- - 44109
   - §actus-scena
   - iii-iv
-- - 48144
+- - 48252
   - §actus-scena
   - iii-v
-- - 51602
+- - 51716
   - §actus-scena
   - iii-vii
-- - 54513
+- - 54633
   - §actus-scena
   - iv-i
-- - 56511
+- - 56637
   - §actus-scena
   - iv-ii
-- - 58031
+- - 58160
   - §actus-scena
   - iv-iii
-- - 60160
+- - 60292
   - §actus-scena
   - iv-iv
-- - 62683
+- - 62821
   - §actus-scena
   - iv-v
-- - 65205
+- - 65349
   - §actus-scena
   - iv-vi
-- - 67112
+- - 67262
   - §actus-scena
   - iv-vii
-- - 69120
+- - 69273
   - §actus-scena
   - iv-viii
-- - 71238
+- - 71397
   - §actus-scena
   - v-i
-- - 73920
+- - 74085
   - §actus-scena
   - v-ii
-- - 76792
+- - 76963
   - §actus-scena
   - v-iii
-- - 78427
+- - 78601
   - §actus-scena
   - v-iv
-- - 81919
+- - 82102
   - §actus-scena
   - v-v
-- - 85921
+- - 86113
   - §actus-scena
   - v-vi
-- - 88556
+- - 88754
   - §peroratio
   - ''
 Schonaeus-Triumphus:
@@ -7516,55 +7525,55 @@ Schonaeus-Triumphus:
 - - 236
   - §prologus
   - ''
-- - 2532
+- - 2520
   - §actus-scena
   - i-i
-- - 4694
+- - 4670
   - §actus-scena
   - i-ii
-- - 9314
+- - 9260
   - §actus-scena
   - i-iii
-- - 10314
+- - 10248
   - §actus-scena
   - i-iv
-- - 12587
+- - 12508
   - §actus
   - ii
-- - 15214
+- - 15121
   - §actus-scena
   - ii-ii
-- - 17245
+- - 17150
   - §actus-scena
   - ii-iii
-- - 23857
+- - 23722
   - §actus-scena
   - iii-i
-- - 26164
+- - 26020
   - §actus-scena
   - iii-ii
-- - 35904
+- - 35693
   - §actus-scena
   - iv-i
-- - 38284
+- - 38059
   - §actus-scena
   - iv-ii
-- - 40805
+- - 40559
   - §actus-scena
   - iv-iii
-- - 43925
+- - 43665
   - §argumentum
   - vitae
-- - 45971
+- - 45709
   - §actus-scena
   - v-i
-- - 46911
+- - 46637
   - §actus-scena
   - v-ii
-- - 51062
+- - 50758
   - §actus-scena
   - v-iii
-- - 52748
+- - 52432
   - §peroratio
   - ''
 Schonaeus-Typhlus:
@@ -7574,67 +7583,67 @@ Schonaeus-Typhlus:
 - - 140
   - §prologus
   - ''
-- - 1753
+- - 1744
   - §actus-scena
   - i-i
-- - 2911
+- - 2900
   - §actus-scena
   - i-ii
-- - 6032
+- - 6015
   - §actus-scena
   - i-iii
-- - 10073
+- - 10053
   - §actus-scena
   - i-iv
-- - 11869
+- - 11845
   - §actus-scena
   - i-v
-- - 14588
+- - 14553
   - §actus-scena
   - ii-i
-- - 17272
+- - 17235
   - §actus-scena
   - ii-ii
-- - 18774
+- - 18728
   - §actus-scena
   - ii-iii
-- - 21269
+- - 21212
   - §actus-scena
   - ii-iv
-- - 23254
+- - 23194
   - §actus-scena
   - iii-i
-- - 25810
+- - 25749
   - §actus-scena
   - iii-ii
-- - 27839
+- - 27767
   - §actus-scena
   - iii-iii
-- - 30310
+- - 30236
   - §actus-scena
   - iii-iv
-- - 34031
+- - 33951
   - §actus-scena
   - iv-i
-- - 36747
+- - 36663
   - §actus-scena
   - iv-ii
-- - 39994
+- - 39899
   - §actus-scena
   - iv-iii
-- - 43125
+- - 43019
   - §actus-scena
   - iv-iv
-- - 45193
+- - 45076
   - §actus-scena
   - v-i
-- - 47298
+- - 47180
   - §actus-scena
   - v-ii
-- - 49156
+- - 49036
   - §actus-scena
   - v-iii
-- - 50379
+- - 50257
   - §actus-scena
   - v-iiii
 Schonaeus-Vitulus:
@@ -7644,67 +7653,67 @@ Schonaeus-Vitulus:
 - - 206
   - §prologus
   - ''
-- - 1827
+- - 1831
   - §actus-scena
   - i-i
-- - 3542
+- - 3544
   - §actus-scena
   - i-ii
-- - 7387
+- - 7399
   - §actus-scena
   - i-iii
-- - 8535
+- - 8545
   - §actus-scena
   - i-iv
-- - 9367
+- - 9384
   - §actus-scena
   - ii-i
-- - 11671
+- - 11686
   - §actus-scena
   - ii-ii
-- - 12554
+- - 12569
   - §actus-scena
   - ii-iii
-- - 18917
+- - 18923
   - §actus-scena
   - ii-iv
-- - 20762
+- - 20766
   - §actus-scena
   - ii-v
-- - 24165
+- - 24180
   - §actus-scena
   - iii-i
-- - 25452
+- - 25465
   - §actus-scena
   - iii-ii
-- - 27720
+- - 27738
   - §actus-scena
   - iii-iii
-- - 29813
+- - 29836
   - §actus-scena
   - iii-iv
-- - 31055
+- - 31078
   - §actus-scena
   - iv-i
-- - 31968
+- - 31991
   - §actus-scena
   - iv-ii
-- - 33849
+- - 33871
   - §actus-scena
   - iv-iii
-- - 37189
+- - 37206
   - §actus-scena
   - iv-iv
-- - 39185
+- - 39209
   - §actus-scena
   - v-i
-- - 40496
+- - 40518
   - §actus-scena
   - v-ii
-- - 43574
+- - 43607
   - §actus-scena
   - v-iii
-- - 44705
+- - 44736
   - §actus-scena
   - v-iv
 Schopper-Ectrachelistes:
