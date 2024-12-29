@@ -1907,6 +1907,9 @@ Foxe-Christus:
 - - 1792
   - ±comoedia
   - si
+- - 2203
+  - §periocha
+  - ''
 - - 3231
   - §dramatis
   - personae
@@ -2570,6 +2573,9 @@ Gwalther-Nabal:
   - personae
 - - 437
   - §prologus
+  - ''
+- - 2629
+  - §periocha
   - ''
 - - 3240
   - §actus
@@ -6316,6 +6322,9 @@ Schonaeus-Ananias:
 - - 188
   - §prologus
   - ''
+- - 1185
+  - §periocha
+  - ''
 - - 1568
   - §actus-scena
   - i-i
@@ -6391,6 +6400,9 @@ Schonaeus-Baptistes:
   - in
 - - 1089
   - §prologus
+  - ''
+- - 2292
+  - §periocha
   - ''
 - - 2586
   - §actus-scena
@@ -6532,6 +6544,9 @@ Schonaeus-Daniel:
 - - 264
   - §prologus
   - ''
+- - 1628
+  - periocha
+  - ''
 - - 2173
   - §actus-scena
   - i-i
@@ -6604,6 +6619,9 @@ Schonaeus-Dyscoli:
   - nomina
 - - 156
   - §prologus
+  - ''
+- - 1408
+  - §periocha
   - ''
 - - 1829
   - §actus-scena
@@ -6742,6 +6760,9 @@ Schonaeus-Iosephus:
 - - 376
   - §prologus
   - ''
+- - 1520
+  - §periocha
+  - ''
 - - 2115
   - §actus-scena
   - i-i
@@ -6841,6 +6862,9 @@ Schonaeus-Iuditha:
   - nomina
 - - 347
   - §prologus
+  - ''
+- - 1991
+  - periocha
   - ''
 - - 2755
   - §actus-scena
@@ -7112,6 +7136,9 @@ Schonaeus-Pentecoste:
 - - 146
   - §prologus
   - ''
+- - 1292
+  - §periocha
+  - ''
 - - 1795
   - §actus-scena
   - i-i
@@ -7178,6 +7205,9 @@ Schonaeus-Pseudostratiotae:
   - nomina
 - - 198
   - §prologus
+  - ''
+- - 1638
+  - §periocha
   - ''
 - - 2157
   - §actus-scena
@@ -7334,6 +7364,9 @@ Schonaeus-Susanna:
 - - 178
   - §prologus
   - ''
+- - 1507
+  - §periocha
+  - ''
 - - 1814
   - §actus-scena
   - i-i
@@ -7409,6 +7442,9 @@ Schonaeus-Tobaeus:
   - nomina
 - - 377
   - §prologus
+  - ''
+- - 2342
+  - periocha
   - ''
 - - 2825
   - §actus-scena
@@ -7525,6 +7561,9 @@ Schonaeus-Triumphus:
 - - 236
   - §prologus
   - ''
+- - 2052
+  - periocha
+  - ''
 - - 2520
   - §actus-scena
   - i-i
@@ -7582,6 +7621,9 @@ Schonaeus-Typhlus:
   - nomina
 - - 140
   - §prologus
+  - ''
+- - 1397
+  - §periocha
   - ''
 - - 1744
   - §actus-scena
@@ -7653,6 +7695,9 @@ Schonaeus-Vitulus:
 - - 206
   - §prologus
   - ''
+- - 1279
+  - §periocha
+  - ''
 - - 1831
   - §actus-scena
   - i-i
@@ -7717,64 +7762,100 @@ Schonaeus-Vitulus:
   - §actus-scena
   - v-iv
 Schopper-Ectrachelistes:
-- - 919
+- - 886
   - §prologus
   - ad
-- - 2722
+- - 2647
   - §argumentum
   - ''
-- - 4337
-  - §actus
-  - i
-- - 4351
-  - §scena
-  - i
-- - 18185
+- - 4210
+  - §actus-scena
+  - i-i
+- - 5587
+  - §actus-scena
+  - i-ii
+- - 12009
+  - §actus-scena
+  - i-iii
+- - 17821
   - ±chorus
   - ''
-- - 19550
-  - §actus
-  - ii
-- - 33650
+- - 19142
+  - §actus-scena
+  - ii-i
+- - 24171
+  - §actus-scena
+  - ii-ii
+- - 28141
+  - §actus-scena
+  - ii-iii
+- - 32991
   - §actus-scena
   - ii-iiii
-- - 42535
+- - 37561
+  - §actus-scena
+  - ii-v
+- - 41691
   - ±chorus
   - ''
-- - 43522
-  - §actus
-  - iii
-- - 43538
-  - §scena
-  - i
-- - 46524
+- - 42653
+  - §actus-scena
+  - iii-i
+- - 45582
   - §actus-scena
   - iii-ii
-- - 50652
+- - 49648
   - §actus-scena
   - iii-iii
-- - 61306
+- - 53793
+  - §actus-scena
+  - iii-iiii
+- - 60115
   - ±chorus
   - ''
-- - 62957
-  - §actus
-  - iiii
-- - 80262
+- - 61720
+  - §actus-scena
+  - iiii-i
+- - 64193
+  - §actus-scena
+  - iiii-ii
+- - 68849
+  - §actus-scena
+  - iiii-iii
+- - 74794
+  - §actus-scena
+  - iiii-iii
+- - 78726
   - ±chorus
   - ''
-- - 81842
-  - §actus
-  - v
-- - 84928
+- - 80260
+  - §actus-scena
+  - v-i
+- - 83275
   - §actus-scena
   - v-ii
-- - 87144
+- - 85446
   - §actus-scena
   - v-iii
-- - 113136
+- - 87659
+  - §actus-scena
+  - v-iiii
+- - 92410
+  - §actus-scena
+  - v-v
+- - 97788
+  - §actus-scena
+  - v-vi
+- - 103676
+  - §actus-scena
+  - v-vii
+- - 107152
+  - §actus-scena
+  - v-viii
+- - 110947
   - ±chorus
   - ''
-- - 114885
+- - 112654
   - §epilogus
   - ''
 Simonides-Castus:
@@ -7784,43 +7865,43 @@ Simonides-Castus:
 - - 86
   - ±chorus
   - ex
-- - 10732
+- - 10767
   - ±chorus
   - ''
-- - 17521
+- - 17595
   - ±chorus
   - mulier
-- - 17756
+- - 17830
   - ±chorus
   - neque
-- - 22849
+- - 22937
   - ±chorus
   - et
-- - 29374
+- - 29481
   - ±chorus
   - praebere
-- - 34373
+- - 34500
   - ±chorus
   - amor
-- - 35663
+- - 35798
   - ±chorus
   - nos
-- - 35750
+- - 35885
   - ±chorus
   - sanari
-- - 36949
+- - 37087
   - ±chorus
   - prudentiam
-- - 37574
+- - 37715
   - ±chorus
   - morbóne
-- - 43046
+- - 43198
   - ±chorus
   - domina
-- - 48187
+- - 48353
   - ±chorus
   - superûm
-- - 67155
+- - 67385
   - ±chorus
   - quùm
 Stymmelius-Isaac:
@@ -7830,6 +7911,9 @@ Stymmelius-Isaac:
 - - 1807
   - §personae
   - dramatis
+- - 2107
+  - §periocha
+  - ''
 - - 2968
   - §actus-scena
   - i-i
@@ -7933,140 +8017,164 @@ Stymmelius-Studentes:
 - - 1697
   - §interlocutores
   - ''
-- - 3241
-  - §actus
-  - i
-- - 3255
-  - §scena
-  - i
-- - 16086
+- - 3229
+  - §actus-scena
+  - i-i
+- - 11480
+  - §actus-scena
+  - i-ii
+- - 12342
+  - §actus-scena
+  - i-iii
+- - 16060
   - §actus-scena
   - i-iiii
-- - 16822
+- - 16793
   - ±chorus
   - primus
-- - 17187
-  - §actus
-  - ii
-- - 29026
+- - 17154
+  - §actus-scena
+  - ii-i
+- - 18111
+  - §actus-scena
+  - ii-ii
+- - 21569
+  - §actus-scena
+  - ii-iii
+- - 23172
+  - §actus-scena
+  - ii-iiii
+- - 27282
+  - §actus-scena
+  - ii-v
+- - 28973
   - §actus-scena
   - ii-vi
-- - 31561
+- - 31505
   - ±chorus
   - secundus
-- - 31873
-  - §actus
-  - iii
-- - 31889
-  - §scena
-  - i
-- - 46509
+- - 31813
+  - §actus-scena
+  - iii-i
+- - 34199
+  - §actus-scena
+  - iii-ii
+- - 40541
+  - §actus-scena
+  - iii-iii
+- - 46431
   - §actus-scena
   - iii-iiii
-- - 47655
+- - 47574
   - §actus-scena
   - iii-v
-- - 50055
+- - 49971
   - ±chorus
   - tertius
-- - 50354
-  - §actus
-  - iiii
-- - 50371
-  - §scena
-  - i
-- - 51468
+- - 50266
+  - §actus-scena
+  - iiii-i
+- - 51372
   - §actus-scena
   - iiii-ii
-- - 55319
+- - 53326
+  - §actus-scena
+  - iiii-iii
+- - 55217
   - §actus-scena
   - iiii-iiii
-- - 57158
+- - 57053
   - §actus-scena
   - iiii-v
-- - 58909
+- - 58801
   - ±chorus
   - quartus
-- - 59180
-  - §actus
-  - v
-- - 59194
-  - §scena
-  - i
-- - 66958
+- - 59068
+  - §actus-scena
+  - v-i
+- - 60754
+  - §actus-scena
+  - v-ii
+- - 61285
+  - §actus-scena
+  - v-iii
+- - 62768
+  - §actus-scena
+  - v-iiii
+- - 66829
   - §actus-scena
   - v-v
-- - 68414
+- - 68282
   - ±chorus
   - quintus
-- - 68681
+- - 68545
   - §epilogus
-  - a
-- - 70582
+  - ''
+- - 70443
   - ±chorus
   - musarum
-- - 70994
+- - 70855
   - §errata
   - singulorum
 Susius-Pendularia:
 - - 2
   - §dramatis
   - personae
-- - 228
+- - 229
   - §actus
   - primi
-- - 241
+- - 242
   - §scena
   - i
-- - 2305
+- - 2301
   - §scena
   - ii
-- - 4618
+- - 4609
   - §actus
   - secvndi
-- - 4634
+- - 4625
   - §scena
   - i
-- - 6029
+- - 6015
   - §scena
   - ii
-- - 6941
+- - 6927
   - §scena
   - iii
-- - 11669
+- - 11646
   - §actus
   - tertii
-- - 11683
+- - 11660
   - §scena
   - i
-- - 16186
+- - 16139
   - §actus
   - qvarti
-- - 16200
+- - 16153
   - §scena
   - i
-- - 18002
+- - 17948
   - §scena
   - ii
-- - 21136
+- - 21073
   - §scena
   - iii
-- - 27558
+- - 27485
   - §scena
   - iv
-- - 35065
+- - 34963
   - §actus
   - qvinti
-- - 35079
+- - 34977
   - §scena
   - i
-- - 35991
+- - 35884
   - §scena
   - ii
-- - 36993
+- - 36879
   - §scena
   - iii
-- - 38387
+- - 38268
   - §scena
   - iv
 Telesio-Imber:
@@ -9139,6 +9247,9 @@ Zovitius-Didascalus:
 - - 2
   - §prologus
   - ''
+- - 1575
+  - §periocha
+  - ''
 - - 2236
   - §actus-scena
   - i-i
@@ -9191,6 +9302,9 @@ Zovitius-Ruth:
 - - 2
   - ±ludionum
   - nomenclatvrae
+- - 3580
+  - §periocha
+  - ''
 - - 6290
   - §scena
   - secvnda
