@@ -1466,9 +1466,84 @@ class WorkSpecific:
         text = pageRe.sub(self.pageRepl, text)
         return text
 
-    Telesio_Imber = None
-    Vernulaeus_Conradinus = None
-    Vernulaeus_Crispus = None
+    def Telesio_Imber(self, text):
+        headRe = re.compile(
+            r"""
+            ^
+            (?:
+                ANTONII[\ ]THYLESII
+                |
+                IMBER[\ ]AVREVS
+            )
+            \.?
+            [\ ]
+            (?=\\\[)
+            """,
+            re.X | re.M
+        )
+        text = headRe.sub("", text)
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Vernulaeus_Conradinus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    CONRADINVS
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+                \.?[\ ]
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]
+                (?:
+                    CONRADINVS
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    def Vernulaeus_Crispus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    CRISPVS
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+                \.?[\ ]?
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]?
+                (?:
+                    CRISPVS
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
     Vernulaeus_Gorcomienses = None
     Vernulaeus_Henricus = None
     Vernulaeus_Theodoricus = None
