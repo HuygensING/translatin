@@ -70,6 +70,20 @@ ARABIC_PAGENUM_RND_RE = re.compile(
     re.X,
 )
 
+ARABIC_PAGENUM_DASH_RE = re.compile(
+    r"""
+    ^
+    -
+    (
+        [0-9]+
+    )
+    -
+    [\ ]?
+    $
+    """,
+    re.M | re.X,
+)
+
 ARABIC_PAGENUM_BARE_RE = re.compile(
     r"""
     ^
@@ -129,6 +143,16 @@ FOLIO_ALPHA_ARABIC_ALONE_RE = re.compile(
     re.X | re.M,
 )
 
+FOLIO_ALPHA_ARABIC_BARE_RE = re.compile(
+    r"""
+    (
+        [A-Z]
+        [0-9]+
+    )
+    """,
+    re.X,
+)
+
 FOLIO_ALPHA_ROMAN_SQ_RE = re.compile(
     r"""
     \\\[
@@ -136,6 +160,22 @@ FOLIO_ALPHA_ROMAN_SQ_RE = re.compile(
         [A-Z]
         [\ ]?
         [ijxvcl]*
+        [\ ]?
+        [ab]?
+    )
+    \\\]
+    """,
+    re.X,
+)
+
+FOLIO_ALPHA_ARABIC_SQ_RE = re.compile(
+    r"""
+    \\\[
+    (
+        [A-Z]
+        [\ ]?
+        [0-9]*
+        [\ ]?
         [ab]?
     )
     \\\]
@@ -878,19 +918,56 @@ class WorkSpecific:
     Macropedius_Hypomone = "generic"
     Macropedius_Iesus = "generic"
     Macropedius_Iosephus = "generic"
-    Macropedius_Lazarus = None
-    Macropedius_Petriscus = None
-    Macropedius_Rebelles = None
-    Malapertius_Sedecias = None
-    Muretus_Caesar = None
-    Mussato_Ecerinis = None
-    Narssius_Gustavus = None
-    Papaeus_Samarites = None
-    Philicinus_Esther = None
-    Philicinus_Magdalena = None
-    Placentius_Clericus = None
-    Placentius_Plausus = None
-    Placentius_Susanna = None
+    Macropedius_Lazarus = "generic"
+    Macropedius_Petriscus = "generic"
+    Macropedius_Rebelles = "generic"
+    Malapertius_Sedecias = "generic"
+    Muretus_Caesar = "generic"
+    Mussato_Ecerinis = "generic"
+
+    def Narssius_Gustavus(self, text):
+        text = FOLIO_ALPHA_ARABIC_SQ_RE.sub(self.folioRepl, text)
+        # there is an extra arabic numbering between [], looks like page numbering
+        # I treat it as an extra folio numbering
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
+        return text
+
+    Papaeus_Samarites = "generic"
+    Philicinus_Esther = "generic"
+
+    def Philicinus_Magdalena(self, text):
+        text = ARABIC_PAGENUM_DASH_RE.sub(self.pageRepl, text)
+        return text
+
+    def Placentius_Clericus(self, text):
+        folioRe = re.compile(
+            r"""
+            ^
+            \**
+            p
+            \\?
+            \.?
+            [\ ]?
+            (
+                [a-z]+
+            )
+            \**
+            $
+            """,
+            re.X | re.M
+        )
+        text = folioRe.sub(self.folioRepl, text)
+        return text
+
+    def Placentius_Plausus(self, text):
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Placentius_Susanna(self, text):
+        text = FOLIO_ALPHA_ARABIC_BARE_RE.sub(self.folioRepl, text)
+        return text
+
     Reuchlin_Henno = None
     Reuchlin_Sergius = None
     Rosefeldus_Moschus = None

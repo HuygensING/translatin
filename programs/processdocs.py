@@ -237,7 +237,7 @@ LINENUMBER_BEFORE_RE = re.compile(
     [\ ]?
     (?=
         .*
-        [a-z]
+        [A-Za-z]
         .*
     )
     """,
@@ -270,6 +270,24 @@ LINENUMBER_BARE_BEFORE_RE = re.compile(
     (
         [0-9]+
     )
+    [\ ]
+    (
+        .*
+        [a-z]
+        .*
+    )
+    $
+    """,
+    re.M | re.X,
+)
+
+LINENUMBER_DASH_BEFORE_RE = re.compile(
+    r"""
+    ^
+    (
+        [0-9]+
+    )
+    -
     [\ ]
     (
         .*
@@ -658,6 +676,7 @@ class TeiFromDocx:
         main = LINENUMBER_AFTER_RE.sub(self.lnumReplAfter, main)
         main = LINENUMBER_BARE_AFTER_RE.sub(self.lnumReplBareAfter, main)
         main = LINENUMBER_BARE_BEFORE_RE.sub(self.lnumReplBareBefore, main)
+        main = LINENUMBER_DASH_BEFORE_RE.sub(self.lnumReplBareBefore, main)
 
         self.makeSectionTriggerRepl(workName)
         main = SECTIONTRIGGER_RE.sub(self.sectionRepl, main)

@@ -1727,7 +1727,6 @@ Macropedius-Iosephus:
 - §actus-scena v-xv
 Macropedius-Lazarus:
 - §personae dramatis
-- §prologus ancilla
 - §prologus
 - ±finis prologi
 - §actus-scena i-i
@@ -1767,7 +1766,6 @@ Macropedius-Lazarus:
 - §actus-scena v-vi
 Macropedius-Petriscus:
 - §dramatis personae
-- §prologus philochrysium
 - §prologus
 - §actus-scena i-i
 - §actus-scena i-ii
@@ -1812,7 +1810,6 @@ Macropedius-Petriscus:
 - §epilogus per
 Macropedius-Rebelles:
 - §dramatis personae
-- §prologus cum
 - ±chorus ex
 - §prologus cum
 - §actus-scena i-i
@@ -1908,6 +1905,7 @@ Mussato-Ecerinis:
 - ±chorus
 - ±chorus
 Narssius-Gustavus:
+- §personae tragoediae
 - ±chorus matrum
 - §actus primus
 - ±chorus senatorum
