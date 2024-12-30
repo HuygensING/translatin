@@ -3036,7 +3036,6 @@ Vernulaeus-Theodoricus:
 - §scena vi
 Vladeraccus-Tobias:
 - §prologus
-- §errata sed
 - §dramatis personae
 - §personae mutae
 - §actus-scena i-i
@@ -3139,12 +3138,12 @@ Weitenauer-Annibal:
 - §scena octava
 Wimpheling-Stylpho:
 - §prologus
-- scena
-- scena
-- scena
-- scena
-- scena
-- scena
+- §scena prima
+- §scena secunda
+- §scena tertia
+- §scena quarta
+- §scena quinta
+- §scena sexta
 - §conclusio
 Zevecotius-Rosimunda:
 - §personae
@@ -3160,6 +3159,7 @@ Zevecotius-Rosimunda:
 Zovitius-Didascalus:
 - §prologus
 - §periocha
+- §dramatis personae
 - §actus-scena i-i
 - §actus-scena i-ii
 - §actus-scena ii-i
@@ -3178,7 +3178,9 @@ Zovitius-Didascalus:
 - §actus-scena v-v
 Zovitius-Ruth:
 - ±ludionum nomenclatvrae
+- §prologus
 - §periocha
+- §actus primvs
 - §scena secvnda
 - §actus secvndus
 - §scena secvnda

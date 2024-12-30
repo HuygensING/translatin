@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T20:46:19+00:00Z
+@dateWritten=2024-12-30T10:10:32+00:00Z
 
-1849955	level1
+1844850	level1
 level1
 level1
 level1
@@ -474,6 +474,7 @@ level1
 level1
 level1
 level1
+level1
 notes
 level1
 level1
@@ -750,6 +751,9 @@ level1
 level1
 level1
 level1
+level1
+level1
+level1
 notes
 level1
 level1
@@ -845,70 +849,8 @@ level1
 level1
 level1
 level1
+level1
 notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
 level1
 level1
 level1
@@ -1084,6 +1026,7 @@ level1
 level1
 level1
 notes
+level1
 level1
 level1
 level1
@@ -1800,66 +1743,6 @@ level1
 level1
 level1
 level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
 notes
 level1
 level1
@@ -1896,695 +1779,7 @@ level1
 level1
 level1
 level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
 notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-notes
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
-level1
 level1
 level1
 level1
@@ -2757,6 +1952,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2789,6 +1985,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2811,6 +2008,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2839,6 +2037,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2865,6 +2064,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2927,6 +2127,7 @@ level1
 level1
 level1
 level1
+notes
 level1
 level1
 level1
@@ -2946,7 +2147,806 @@ level1
 level1
 level1
 level1
-1871384	unordered
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+notes
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+level1
+1866017	unordered
 unordered
 unordered
 unordered
@@ -3191,7 +3191,7 @@ ordered:arabic
 ordered:arabic
 ordered:arabic
 ordered:arabic
-2076608	diction
+2075197	diction
 genre
 acts
 chorus
@@ -3781,239 +3781,239 @@ genre
 acts
 chorus
 medium
-2077434	main
+2076023	main
 sub
-2077437	main
+2076026	main
 sub
-2077440	main
+2076029	main
 sub
-2077443	main
+2076032	main
 sub
-2077446	main
+2076035	main
 sub
-2077449	main
+2076038	main
 sub
-2077452	main
+2076041	main
 sub
-2077455	main
+2076044	main
 sub
-2077458	main
+2076047	main
 sub
-2077461	main
+2076050	main
 sub
-2077464	main
+2076053	main
 sub
-2077467	main
+2076056	main
 sub
-2077470	main
+2076059	main
 sub
-2077473	main
+2076062	main
 sub
-2077476	main
+2076065	main
 sub
-2077479	main
+2076068	main
 sub
-2077482	main
+2076071	main
 sub
-2077485	main
+2076074	main
 sub
-2077488	main
+2076077	main
 sub
-2077491	main
+2076080	main
 sub
-2077494	main
+2076083	main
 sub
-2077497	main
+2076086	main
 sub
-2077500	main
+2076089	main
 sub
-2077503	main
+2076092	main
 sub
-2077506	main
+2076095	main
 sub
-2077509	main
+2076098	main
 sub
-2077512	main
+2076101	main
 sub
-2077515	main
+2076104	main
 sub
-2077518	main
+2076107	main
 sub
-2077521	main
+2076110	main
 sub
-2077524	main
+2076113	main
 sub
-2077527	main
+2076116	main
 sub
-2077530	main
+2076119	main
 sub
-2077533	main
+2076122	main
 sub
-2077536	main
+2076125	main
 sub
-2077539	main
+2076128	main
 sub
-2077542	main
+2076131	main
 sub
-2077545	main
+2076134	main
 sub
-2077548	main
+2076137	main
 sub
-2077551	main
+2076140	main
 sub
-2077554	main
+2076143	main
 sub
-2077557	main
+2076146	main
 sub
-2077560	main
+2076149	main
 sub
-2077563	main
+2076152	main
 sub
-2077566	main
+2076155	main
 sub
-2077569	main
+2076158	main
 sub
-2077572	main
+2076161	main
 sub
-2077575	main
+2076164	main
 sub
-2077578	main
+2076167	main
 sub
-2077581	main
+2076170	main
 sub
-2077584	main
+2076173	main
 sub
-2077587	main
+2076176	main
 sub
-2077590	main
+2076179	main
 sub
-2077593	main
+2076182	main
 sub
-2077596	main
+2076185	main
 sub
-2077599	main
+2076188	main
 sub
-2077602	main
+2076191	main
 sub
-2077605	main
+2076194	main
 sub
-2077608	main
+2076197	main
 sub
-2077611	main
+2076200	main
 sub
-2077614	main
+2076203	main
 sub
-2077617	main
+2076206	main
 sub
-2077620	main
+2076209	main
 sub
-2077623	main
+2076212	main
 sub
-2077626	main
+2076215	main
 sub
-2077629	main
+2076218	main
 sub
-2077632	main
+2076221	main
 sub
-2077635	main
+2076224	main
 sub
-2077638	main
+2076227	main
 sub
-2077641	main
+2076230	main
 sub
-2077644	main
+2076233	main
 sub
-2077647	main
+2076236	main
 sub
-2077650	main
+2076239	main
 sub
-2077653	main
+2076242	main
 sub
-2077656	main
+2076245	main
 sub
-2077659	main
+2076248	main
 sub
-2077662	main
+2076251	main
 sub
-2077665	main
+2076254	main
 sub
-2077668	main
+2076257	main
 sub
-2077671	main
+2076260	main
 sub
-2077674	main
+2076263	main
 sub
-2077677	main
+2076266	main
 sub
-2077680	main
+2076269	main
 sub
-2077683	main
+2076272	main
 sub
-2077686	main
+2076275	main
 sub
-2077689	main
+2076278	main
 sub
-2077692	main
+2076281	main
 sub
-2077695	main
+2076284	main
 sub
-2077698	main
+2076287	main
 sub
-2077701	main
+2076290	main
 sub
-2077704	main
+2076293	main
 sub
-2077707	main
+2076296	main
 sub
-2077710	main
+2076299	main
 sub
-2077713	main
+2076302	main
 sub
-2077716	main
+2076305	main
 sub
-2077719	main
+2076308	main
 sub
-2077722	main
+2076311	main
 sub
-2077725	main
+2076314	main
 sub
-2077728	main
+2076317	main
 sub
-2077731	main
+2076320	main
 sub
-2077734	main
+2076323	main
 sub
-2077737	main
+2076326	main
 sub
-2077740	main
+2076329	main
 sub
-2077743	main
+2076332	main
 sub
-2077746	main
+2076335	main
 sub
-2077749	main
+2076338	main
 sub
-2077752	main
+2076341	main
 sub
-2077755	main
+2076344	main
 sub
-2077758	main
+2076347	main
 sub
-2077761	main
+2076350	main
 sub
-2077764	main
+2076353	main
 sub
-2077767	main
+2076356	main
 sub
-2077770	main
+2076359	main
 sub
-2077773	main
+2076362	main
 sub
-2077776	main
+2076365	main
 sub
-2077779	main
+2076368	main
 sub
-2077782	main
+2076371	main
 sub
-2077785	main
+2076374	main
 sub

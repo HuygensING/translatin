@@ -8,11 +8,11 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=        1577x bold
+	<hi>               rend=        1511x bold
 	                          "                   3109x footnote
-	                          "                   8896x italic
-	                          "                     19x superscript
-	                          "                    105x underline
+	                          "                   8802x italic
+	                          "                     17x superscript
+	                          "                      5x underline
 
 Keyword Attributes
 
@@ -28,10 +28,110 @@ Keyword Attributes
 	                          "                     88x ordered:upperroman
 	                          "                      5x unordered
 
-	<milestone>        unit=         504x folio
+	<milestone>        unit=        1118x folio
 
 	<pb>               facs=          60x Graecus
 	                          "                      3x blanco
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s014.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s015.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s016.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s017.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s018.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s019.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s020.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s021.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s022.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s023.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s024.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s025.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s026.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s027.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s028.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s029.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s030.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s031.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s032.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s033.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s034.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s035.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s036.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s037.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s038.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s039.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s040.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s041.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s042.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s043.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s044.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s045.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s046.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s047.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s048.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s049.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s050.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s051.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s052.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s053.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s054.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s055.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s056.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s057.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s058.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s059.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s060.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s061.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s062.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s063.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s064.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s065.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s066.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s067.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s068.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s069.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s070.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s071.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s072.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s073.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s074.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s075.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s076.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s077.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s078.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s079.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s080.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s081.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s082.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s083.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s084.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s085.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s086.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s087.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s088.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s089.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s090.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s091.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s092.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s093.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s094.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s095.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s096.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s097.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s098.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s099.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s100.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s101.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s102.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s103.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s104.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s105.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s106.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s107.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s108.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s109.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s110.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s111.html
+	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s112.html
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius
 	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius
@@ -368,10 +468,12 @@ Remaining Attributes and Elements
 
 	<lb>                            1180x 
 
-	<milestone>        n=              1x A
-	                          "                      9x AN
-	                          "                      8x ANr
-	                          "                      5x ANv
+	<milestone>        n=              3x A
+	                          "                     38x AN
+	                          "                      2x ANa
+	                          "                      2x ANb
+	                          "                     17x ANr
+	                          "                     14x ANv
 	                          "                      1x Aia
 	                          "                      2x Aii
 	                          "                      1x Aiia
@@ -383,12 +485,15 @@ Remaining Attributes and Elements
 	                          "                      3x Aiiij
 	                          "                      1x Aiiija
 	                          "                      1x Aiiijb
-	                          "                      5x Aiij
+	                          "                      6x Aiij
 	                          "                      1x Aiija
 	                          "                      1x Aiijb
+	                          "                      1x Aiijv
 	                          "                      4x Aij
 	                          "                      1x Aija
 	                          "                      1x Aijb
+	                          "                      1x Ar
+	                          "                      1x Av
 	                          "                      2x Ava
 	                          "                      2x Avb
 	                          "                      1x Avia
@@ -403,22 +508,24 @@ Remaining Attributes and Elements
 	                          "                      1x Avja
 	                          "                      1x Avjb
 	                          "                      1x Avjija
-	                          "                      8x B
-	                          "                      8x BN
-	                          "                      8x BNr
-	                          "                      9x BNv
+	                          "                     16x B
+	                          "                     42x BN
+	                          "                     17x BNr
+	                          "                     18x BNv
 	                          "                      1x Bi
 	                          "                      2x Bii
 	                          "                      1x Biii
 	                          "                      3x Biiij
 	                          "                      1x Biiijb
-	                          "                      5x Biij
+	                          "                      6x Biij
 	                          "                      1x Biija
 	                          "                      1x Biijb
-	                          "                      3x Bij
+	                          "                      4x Bij
 	                          "                      1x Bijb
 	                          "                      1x Bja
 	                          "                      1x Bjb
+	                          "                      1x Br
+	                          "                      1x Bv
 	                          "                      1x Bva
 	                          "                      1x Bvb
 	                          "                      1x Bviib
@@ -427,53 +534,55 @@ Remaining Attributes and Elements
 	                          "                      1x Bvija
 	                          "                      1x Bvja
 	                          "                      1x Bvjb
-	                          "                      5x C
-	                          "                      9x CN
-	                          "                     11x CNr
-	                          "                     11x CNv
+	                          "                     15x C
+	                          "                     37x CN
+	                          "                     18x CNr
+	                          "                     18x CNv
 	                          "                      1x Ci
 	                          "                      1x Cii
 	                          "                      1x Ciii
 	                          "                      3x Ciiij
-	                          "                      5x Ciij
-	                          "                      5x Cij
-	                          "                      1x Cr
-	                          "                      1x Cv
-	                          "                      7x D
-	                          "                      6x DN
-	                          "                     11x DNr
-	                          "                     11x DNv
+	                          "                      6x Ciij
+	                          "                      6x Cij
+	                          "                      2x Cr
+	                          "                      2x Cv
+	                          "                     16x D
+	                          "                     34x DN
+	                          "                     12x DNr
+	                          "                     12x DNv
 	                          "                      3x Diiij
 	                          "                      1x Diiija
-	                          "                      4x Diij
+	                          "                      5x Diij
 	                          "                      1x Diija
 	                          "                      1x Diijb
-	                          "                      5x Dij
+	                          "                      6x Dij
 	                          "                      1x Dijb
 	                          "                      1x Dja
 	                          "                      1x Djb
-	                          "                      1x Dr
-	                          "                      1x Dv
-	                          "                      4x E
-	                          "                     10x ENr
-	                          "                      7x ENv
+	                          "                      2x Dr
+	                          "                      2x Dv
+	                          "                     12x E
+	                          "                     23x EN
+	                          "                     11x ENr
+	                          "                      8x ENv
 	                          "                      2x Ei
 	                          "                      1x Eiiij
-	                          "                      4x Eiij
-	                          "                      4x Eij
-	                          "                      2x Ev
-	                          "                      2x F
-	                          "                      2x FN
-	                          "                      8x FNr
-	                          "                      7x FNv
+	                          "                      5x Eiij
+	                          "                      5x Eij
+	                          "                      1x Er
+	                          "                      3x Ev
+	                          "                      9x F
+	                          "                     25x FN
+	                          "                     10x FNr
+	                          "                      9x FNv
 	                          "                      1x Fi
 	                          "                      1x Fiiij
-	                          "                      3x Fiij
-	                          "                      3x Fij
-	                          "                      1x Fr
-	                          "                      2x Fv
-	                          "                      4x G
-	                          "                      2x GN
+	                          "                      4x Fiij
+	                          "                      4x Fij
+	                          "                      2x Fr
+	                          "                      3x Fv
+	                          "                     10x G
+	                          "                     23x GN
 	                          "                      8x GNr
 	                          "                      7x GNv
 	                          "                      1x Gi
@@ -481,33 +590,64 @@ Remaining Attributes and Elements
 	                          "                      1x Gij
 	                          "                      1x Gr
 	                          "                      1x Gv
-	                          "                      2x H
-	                          "                      2x HN
+	                          "                      8x H
+	                          "                     21x HN
 	                          "                      1x HNr
 	                          "                      1x HNv
 	                          "                      1x Hiij
 	                          "                      1x Hij
 	                          "                      1x Hr
 	                          "                      1x Hv
-	                          "                      4x I
-	                          "                      1x IN
+	                          "                      8x I
+	                          "                     19x IN
+	                          "                      1x Iv
+	                          "                      6x K
+	                          "                     18x KN
 	                          "                      1x Kiij
 	                          "                      1x Kij
-	                          "                      1x L
+	                          "                      4x L
+	                          "                     17x LN
 	                          "                      1x Liij
 	                          "                      1x Lij
+	                          "                      5x M
+	                          "                     16x MN
 	                          "                      1x Mij
-	                          "                      1x N
+	                          "                      8x N
+	                          "                     75x NN
 	                          "                    104x NNN
 	                          "                      1x Niij
-	                          "                      1x V
+	                          "                      2x O
+	                          "                     10x ON
+	                          "                      2x P
+	                          "                     10x PN
+	                          "                      4x Q
+	                          "                     14x QN
+	                          "                      3x R
+	                          "                     10x RN
+	                          "                      2x S
+	                          "                      4x SN
+	                          "                      2x T
+	                          "                      6x TN
+	                          "                      3x V
+	                          "                      4x VN
+	                          "                      2x X
+	                          "                      5x XN
+	                          "                      1x Y
+	                          "                      4x YN
+	                          "                      1x Z
+	                          "                      4x ZN
 	                          "                      8x aNr
 	                          "                      7x aNv
 	                          "                      2x aNv|blanco
+	                          "                      1x aijr
+	                          "                      1x aijv
 	                          "                      8x bNr
 	                          "                      8x bNv
+	                          "                      1x bijr
+	                          "                      1x bijv
 	                          "                      6x cNr
 	                          "                      6x cNv
+	                          "                      1x v
 	                          "                      2x πNr
 	                          "                      2x πNv
 
@@ -515,11 +655,11 @@ Remaining Attributes and Elements
 
 	<note>             id=          3109x X
 
-	<p>                            189947x 
+	<p>                            189963x 
 
-	<pb>               n=            125x N
-	                          "                   1106x NN
-	                          "                    536x NNN
+	<pb>               n=            240x N
+	                          "                   2218x NN
+	                          "                   1022x NNN
 	                          "                      1x cl
 	                          "                      1x cli
 	                          "                      1x clii
@@ -582,7 +722,7 @@ Remaining Attributes and Elements
 
 	<quote>                           70x 
 
-	<ref>              target=       368x X
+	<ref>              target=       268x X
 
 	<resp>                           118x 
 

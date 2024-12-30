@@ -1544,12 +1544,106 @@ class WorkSpecific:
         text = pageRe.sub(self.pageRepl, text)
         return text
 
-    Vernulaeus_Gorcomienses = None
-    Vernulaeus_Henricus = None
-    Vernulaeus_Theodoricus = None
-    Vladeraccus_Tobias = None
-    Weitenauer_Annibal = None
-    Wimpheling_Stylpho = None
-    Zevecotius_Rosimunda = None
-    Zovitius_Didascalus = None
-    Zovitius_Ruth = None
+    def Vernulaeus_Gorcomienses(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    Vernulaeus_Henricus = "generic"
+
+    def Vernulaeus_Theodoricus(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            (?:
+                (?:
+                    THEODORIC[UV]S
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+                \.?[\ ]?
+            )?
+            ([0-9]+)
+            (?:
+                [\ ]?
+                (?:
+                    THEODORIC[UV]S
+                    |
+                    NICOLA[IT][\ ]VERNVLAEI
+                )
+            )?
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    Vladeraccus_Tobias = "generic"
+    Weitenauer_Annibal = "generic"
+
+    def Wimpheling_Stylpho(self, text):
+        workName = (inspect.stack()[0][3]).replace("_", "-")
+        converter = self.converter
+        text = FOLIO_MARK_RE.sub(self.folioRepl, text)
+        sections = []
+        sectionRe = re.compile(
+            r"""
+            ^
+            \\?<?
+            (
+                prima
+                | secunda
+                | tertia
+                | quarta
+                | quinta
+                | sexta
+            )
+            [\ ]
+            (
+                scena
+            )
+            \\?>?
+            $
+            """,
+            re.M | re.X | re.I,
+        )
+
+        def repl(match):
+            (number, trigger) = match.group(1, 2)
+            start = match.start()
+            triggerL = trigger.lower()
+            triggerN = f"§{triggerL}"
+            numberN = number.lower()
+            sections.append([start, triggerN, numberN])
+            return f"# {number} {trigger}"
+
+        text = sectionRe.sub(repl, text)
+        ssections = sorted(sections, key=lambda x: x[0])
+        converter.sections[workName] = ssections
+        return text
+
+    def Zevecotius_Rosimunda(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        pageRe = re.compile(
+            r"""
+            ^
+            ([0-9]+)
+            [\ ]
+            (?:
+                I\.[ ]ZEVECOTII
+                |
+                ROSIM[UV]NDA
+            )
+            [\\.]*
+            $
+            """,
+            re.X | re.M
+        )
+        text = pageRe.sub(self.pageRepl, text)
+        return text
+
+    Zovitius_Didascalus = "generic"
+    Zovitius_Ruth = "generic"

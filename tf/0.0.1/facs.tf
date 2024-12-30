@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-27T20:46:18+00:00Z
+@dateWritten=2024-12-30T10:10:31+00:00Z
 
-2066277	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+2061540	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
@@ -311,70 +311,170 @@ https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
-2066637	textus Graecus
+2061900	textus Graecus
 textus Graecus
-2066641	textus Graecus
+2061904	textus Graecus
 textus Graecus
-2066645	textus Graecus
+2061908	textus Graecus
 textus Graecus
-2066649	textus Graecus
+2061912	textus Graecus
 textus Graecus
-2066653	textus Graecus
+2061916	textus Graecus
 textus Graecus
-2066657	textus Graecus
-2066660	textus Graecus
+2061920	textus Graecus
+2061923	textus Graecus
 textus Graecus
-2066664	textus Graecus
+2061927	textus Graecus
 textus Graecus
-2066668	textus Graecus
+2061931	textus Graecus
 textus Graecus
-2066672	textus Graecus
+2061935	textus Graecus
 textus Graecus
-2066676	textus Graecus
+2061939	textus Graecus
 textus Graecus
-2066680	textus Graecus
+2061943	textus Graecus
 textus Graecus
-2066684	textus Graecus
+2061947	textus Graecus
 textus Graecus
-2066688	textus Graecus
+2061951	textus Graecus
 textus Graecus
-2066692	textus Graecus
+2061955	textus Graecus
 textus Graecus
-2066696	textus Graecus
+2061959	textus Graecus
 textus Graecus
-2066700	textus Graecus
+2061963	textus Graecus
 textus Graecus
-2066704	textus Graecus
+2061967	textus Graecus
 textus Graecus
-2066708	textus Graecus
+2061971	textus Graecus
 textus Graecus
-2066712	textus Graecus
+2061975	textus Graecus
 textus Graecus
-2066716	textus Graecus
+2061979	textus Graecus
 textus Graecus
-2066720	textus Graecus
+2061983	textus Graecus
 textus Graecus
-2066724	textus Graecus
+2061987	textus Graecus
 textus Graecus
-2066728	textus Graecus
+2061991	textus Graecus
 textus Graecus
-2066732	textus Graecus
+2061995	textus Graecus
 textus Graecus
-2066736	textus Graecus
+2061999	textus Graecus
 textus Graecus
-2066740	textus Graecus
+2062003	textus Graecus
 textus Graecus
-2066744	textus Graecus
+2062007	textus Graecus
 textus Graecus
-2066748	textus Graecus
+2062011	textus Graecus
 textus Graecus
-2066752	textus Graecus
+2062015	textus Graecus
 textus Graecus
-2066756	textus Graecus
+2062019	textus Graecus
 blanco
 blanco
 blanco
-2071146	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+2063586	http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s014.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s015.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s016.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s017.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s018.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s019.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s020.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s021.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s022.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s023.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s024.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s025.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s026.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s027.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s028.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s029.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s030.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s031.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s032.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s033.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s034.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s035.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s036.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s037.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s038.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s039.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s040.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s041.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s042.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s043.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s044.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s045.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s046.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s047.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s048.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s049.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s050.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s051.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s052.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s053.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s054.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s055.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s056.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s057.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s058.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s059.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s060.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s061.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s062.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s063.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s064.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s065.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s066.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s067.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s068.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s069.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s070.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s071.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s072.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s073.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s074.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s075.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s076.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s077.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s078.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s079.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s080.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s081.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s082.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s083.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s084.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s085.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s086.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s087.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s088.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s089.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s090.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s091.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s092.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s093.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s094.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s095.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s096.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s097.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s098.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s099.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s100.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s101.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s102.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s103.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s104.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s105.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s106.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s107.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s108.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s109.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s110.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s111.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s112.html
+2068122	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
@@ -667,66 +767,166 @@ https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
-2071506	textus Graecus
+2068482	textus Graecus
 textus Graecus
-2071510	textus Graecus
+2068486	textus Graecus
 textus Graecus
-2071514	textus Graecus
+2068490	textus Graecus
 textus Graecus
-2071518	textus Graecus
+2068494	textus Graecus
 textus Graecus
-2071522	textus Graecus
+2068498	textus Graecus
 textus Graecus
-2071526	textus Graecus
-2071529	textus Graecus
+2068502	textus Graecus
+2068505	textus Graecus
 textus Graecus
-2071533	textus Graecus
+2068509	textus Graecus
 textus Graecus
-2071537	textus Graecus
+2068513	textus Graecus
 textus Graecus
-2071541	textus Graecus
+2068517	textus Graecus
 textus Graecus
-2071545	textus Graecus
+2068521	textus Graecus
 textus Graecus
-2071549	textus Graecus
+2068525	textus Graecus
 textus Graecus
-2071553	textus Graecus
+2068529	textus Graecus
 textus Graecus
-2071557	textus Graecus
+2068533	textus Graecus
 textus Graecus
-2071561	textus Graecus
+2068537	textus Graecus
 textus Graecus
-2071565	textus Graecus
+2068541	textus Graecus
 textus Graecus
-2071569	textus Graecus
+2068545	textus Graecus
 textus Graecus
-2071573	textus Graecus
+2068549	textus Graecus
 textus Graecus
-2071577	textus Graecus
+2068553	textus Graecus
 textus Graecus
-2071581	textus Graecus
+2068557	textus Graecus
 textus Graecus
-2071585	textus Graecus
+2068561	textus Graecus
 textus Graecus
-2071589	textus Graecus
+2068565	textus Graecus
 textus Graecus
-2071593	textus Graecus
+2068569	textus Graecus
 textus Graecus
-2071597	textus Graecus
+2068573	textus Graecus
 textus Graecus
-2071601	textus Graecus
+2068577	textus Graecus
 textus Graecus
-2071605	textus Graecus
+2068581	textus Graecus
 textus Graecus
-2071609	textus Graecus
+2068585	textus Graecus
 textus Graecus
-2071613	textus Graecus
+2068589	textus Graecus
 textus Graecus
-2071617	textus Graecus
+2068593	textus Graecus
 textus Graecus
-2071621	textus Graecus
+2068597	textus Graecus
 textus Graecus
-2071625	textus Graecus
+2068601	textus Graecus
 blanco
 blanco
 blanco
+2070168	http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s014.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s015.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s016.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s017.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s018.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s019.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s020.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s021.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s022.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s023.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s024.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s025.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s026.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s027.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s028.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s029.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s030.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s031.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s032.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s033.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s034.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s035.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s036.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s037.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s038.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s039.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s040.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s041.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s042.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s043.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s044.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s045.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s046.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s047.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s048.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s049.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s050.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s051.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s052.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s053.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s054.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s055.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s056.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s057.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s058.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s059.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s060.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s061.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s062.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s063.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s064.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s065.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s066.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s067.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s068.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s069.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s070.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s071.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s072.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s073.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s074.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s075.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s076.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s077.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s078.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s079.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s080.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s081.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s082.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s083.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s084.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s085.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s086.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s087.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s088.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s089.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s090.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s091.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s092.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s093.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s094.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s095.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s096.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s097.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s098.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s099.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s100.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s101.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s102.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s103.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s104.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s105.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s106.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s107.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s108.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s109.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s110.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s111.html
+http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s112.html

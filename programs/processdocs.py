@@ -199,6 +199,8 @@ SECTION_TRIGGERS_DEF = dict(
     sexta=(True, False, True, "sexta"),
 )
 
+SECTION_NEEDS_UPPER = {"errata"}
+
 SECTION_TRIGGERS_PROTO = SECTION_TRIGGERS_DEF | {
     k.replace("u", "v"): v for (k, v) in SECTION_TRIGGERS_DEF.items()
 }
@@ -539,7 +541,9 @@ class TeiFromDocx:
             number = number or ""
 
             if triggerL in SECTION_TRIGGERS:
-                if len(post.replace(".", "").split()) > 6:
+                if trigger in SECTION_NEEDS_UPPER and trigger == triggerL:
+                    makeSection = False
+                elif len(post.replace(".", "").split()) > 6:
                     makeSection = False
                 elif SECTION_TRIGGERS_TRIG[triggerL]:
                     nextWord = post.split()[0].rstrip(".") if post else ""

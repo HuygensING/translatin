@@ -19,10 +19,9 @@ procins: false
 parentEdges: false
 siblingEdges: false
 lineModel:
-  model: II
+  model: I
 pageModel:
-  model: II
-  keepPb: true
+  model: I
 sectionModel: 
   model: III
   levels:
