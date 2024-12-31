@@ -52,13 +52,12 @@ function k {
 
 k
 
-imageInDir="scans"
 kset translatin
 
 kcd
 latest=`cat watm/latest`
 watmSrcDir="watm/$latest"
-watmDstDir="data/deploy/suriano/$watmSrcDir"
+watmDstDir="data/deploy/translatin/$watmSrcDir"
 
 source programs/env
 
