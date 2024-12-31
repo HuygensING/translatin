@@ -24,7 +24,7 @@ MD_FINALDIR = f"{_TRANSDIR}/mdRefined"
 TEIXDIR = f"{_TRANSDIR}/teiSimple"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _DATADIR
-TEIDIR = f"{SOURCEBASE}/tei"
+TEIDIR = f"{_REPODIR}/tei"
 METADATA_YML = f"{_PROGRAMDIR}/metadata.yml"
 METADATA_FILE = f"{_METADIR}/work-author.xlsx"
 

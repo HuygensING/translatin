@@ -16,7 +16,7 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-30T10:10:32+00:00Z
+@dateWritten=2024-12-31T08:21:29+00:00Z
 
 1844850	level1
 level1
@@ -3191,7 +3191,7 @@ ordered:arabic
 ordered:arabic
 ordered:arabic
 ordered:arabic
-2075197	diction
+2071661	diction
 genre
 acts
 chorus
@@ -3781,239 +3781,239 @@ genre
 acts
 chorus
 medium
-2076023	main
+2072487	main
 sub
-2076026	main
+2072490	main
 sub
-2076029	main
+2072493	main
 sub
-2076032	main
+2072496	main
 sub
-2076035	main
+2072499	main
 sub
-2076038	main
+2072502	main
 sub
-2076041	main
+2072505	main
 sub
-2076044	main
+2072508	main
 sub
-2076047	main
+2072511	main
 sub
-2076050	main
+2072514	main
 sub
-2076053	main
+2072517	main
 sub
-2076056	main
+2072520	main
 sub
-2076059	main
+2072523	main
 sub
-2076062	main
+2072526	main
 sub
-2076065	main
+2072529	main
 sub
-2076068	main
+2072532	main
 sub
-2076071	main
+2072535	main
 sub
-2076074	main
+2072538	main
 sub
-2076077	main
+2072541	main
 sub
-2076080	main
+2072544	main
 sub
-2076083	main
+2072547	main
 sub
-2076086	main
+2072550	main
 sub
-2076089	main
+2072553	main
 sub
-2076092	main
+2072556	main
 sub
-2076095	main
+2072559	main
 sub
-2076098	main
+2072562	main
 sub
-2076101	main
+2072565	main
 sub
-2076104	main
+2072568	main
 sub
-2076107	main
+2072571	main
 sub
-2076110	main
+2072574	main
 sub
-2076113	main
+2072577	main
 sub
-2076116	main
+2072580	main
 sub
-2076119	main
+2072583	main
 sub
-2076122	main
+2072586	main
 sub
-2076125	main
+2072589	main
 sub
-2076128	main
+2072592	main
 sub
-2076131	main
+2072595	main
 sub
-2076134	main
+2072598	main
 sub
-2076137	main
+2072601	main
 sub
-2076140	main
+2072604	main
 sub
-2076143	main
+2072607	main
 sub
-2076146	main
+2072610	main
 sub
-2076149	main
+2072613	main
 sub
-2076152	main
+2072616	main
 sub
-2076155	main
+2072619	main
 sub
-2076158	main
+2072622	main
 sub
-2076161	main
+2072625	main
 sub
-2076164	main
+2072628	main
 sub
-2076167	main
+2072631	main
 sub
-2076170	main
+2072634	main
 sub
-2076173	main
+2072637	main
 sub
-2076176	main
+2072640	main
 sub
-2076179	main
+2072643	main
 sub
-2076182	main
+2072646	main
 sub
-2076185	main
+2072649	main
 sub
-2076188	main
+2072652	main
 sub
-2076191	main
+2072655	main
 sub
-2076194	main
+2072658	main
 sub
-2076197	main
+2072661	main
 sub
-2076200	main
+2072664	main
 sub
-2076203	main
+2072667	main
 sub
-2076206	main
+2072670	main
 sub
-2076209	main
+2072673	main
 sub
-2076212	main
+2072676	main
 sub
-2076215	main
+2072679	main
 sub
-2076218	main
+2072682	main
 sub
-2076221	main
+2072685	main
 sub
-2076224	main
+2072688	main
 sub
-2076227	main
+2072691	main
 sub
-2076230	main
+2072694	main
 sub
-2076233	main
+2072697	main
 sub
-2076236	main
+2072700	main
 sub
-2076239	main
+2072703	main
 sub
-2076242	main
+2072706	main
 sub
-2076245	main
+2072709	main
 sub
-2076248	main
+2072712	main
 sub
-2076251	main
+2072715	main
 sub
-2076254	main
+2072718	main
 sub
-2076257	main
+2072721	main
 sub
-2076260	main
+2072724	main
 sub
-2076263	main
+2072727	main
 sub
-2076266	main
+2072730	main
 sub
-2076269	main
+2072733	main
 sub
-2076272	main
+2072736	main
 sub
-2076275	main
+2072739	main
 sub
-2076278	main
+2072742	main
 sub
-2076281	main
+2072745	main
 sub
-2076284	main
+2072748	main
 sub
-2076287	main
+2072751	main
 sub
-2076290	main
+2072754	main
 sub
-2076293	main
+2072757	main
 sub
-2076296	main
+2072760	main
 sub
-2076299	main
+2072763	main
 sub
-2076302	main
+2072766	main
 sub
-2076305	main
+2072769	main
 sub
-2076308	main
+2072772	main
 sub
-2076311	main
+2072775	main
 sub
-2076314	main
+2072778	main
 sub
-2076317	main
+2072781	main
 sub
-2076320	main
+2072784	main
 sub
-2076323	main
+2072787	main
 sub
-2076326	main
+2072790	main
 sub
-2076329	main
+2072793	main
 sub
-2076332	main
+2072796	main
 sub
-2076335	main
+2072799	main
 sub
-2076338	main
+2072802	main
 sub
-2076341	main
+2072805	main
 sub
-2076344	main
+2072808	main
 sub
-2076347	main
+2072811	main
 sub
-2076350	main
+2072814	main
 sub
-2076353	main
+2072817	main
 sub
-2076356	main
+2072820	main
 sub
-2076359	main
+2072823	main
 sub
-2076362	main
+2072826	main
 sub
-2076365	main
+2072829	main
 sub
-2076368	main
+2072832	main
 sub
-2076371	main
+2072835	main
 sub
-2076374	main
+2072838	main
 sub

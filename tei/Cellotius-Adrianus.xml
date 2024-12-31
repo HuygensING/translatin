@@ -1,0 +1,3348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0012" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Adrianus</title>
+        <title type="sub">Tragoedia S. Adrianus martyr</title>
+        <author>Cellotius, Ludovicus (SJ)</author>
+        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Sebastien Cramoisy</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date>"1630"</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Cellotius-Adrianus</name><lb/>
+            Short title: <title>Adrianus</title><lb/>
+            Year of first edition: <date>1630</date><lb/>
+            Author information:<lb/>
+            Alias: Cellot, Louis<lb/>
+            Birth: 1588, Paris<lb/>
+            Death: 1658, Paris<lb/>
+            Floruit: None, Rouen, Paris<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Louis_Cellot">Link</ref><lb/>
+            <emph>Opera poetica / LVDOVICI CELLOTII PARISIENSIS E SOCIET. IESV. OPERA POETICA. PARISIIS. Apud SEBASTIANVM CRAMOISY, viâ Iacobaeâ, sub Ciconiis. M. DC. XXX.</emph><lb/>
+            <ref target="https://books.google.fr/books?id=ZLNxonJ82gcC">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">tragedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>[Aijr] GENEROSISSIMO ILLVSTRISSIMOQVE VIRO DOMINO, D. HENRICO DE
+  SCHOMBERG, COMITI DE NANTEVIL, DE DVRESTAL, &amp;c. EQVITI TORQVATO,
+  Franciae Polemarcho.</p>
+  <p>ADIT ad te tuus olim Adrianus (vir Illustrissime) alio sanè habitu,
+  quàm quo regiâ in scenâ tuis auspiciis spectatus est. Placuit eo die
+  tum ornatu suo, tum nominis tui gratiâ. Nunc depositâ personâ,
+  derelictus ab oculorum lenoci[Aijv]niis, ab aurium blandimentis,
+  nudus, infirmus, vt à parente prodiit, cui se tantum debet, è toto
+  choragio solum indutus cothurnum ne appareat exilitas, te iterum sibi,
+  conatibúsque suis fauentem demißè &amp; suppliciter efflagitat. Non
+  venit vt aulicus ad purpuratum, vt primus in officio ad Polemarchum,
+  vt Galerio gratiosus ad charissimum Ludouico. Meminit enim se gratiâ
+  excidisse apud Caesarem, cum impietatem exuit: te vero sola virtute
+  Regi conciliatum. Erat illi fauor comparandus furore, &amp; innocentum
+  supplicuis felicitas aulica fundabatur. Tu nisi castè atque integrè
+  Remp. administrares, nisi fortiter &amp; generosè impietatem
+  insectareris, rebellionem frangeres, haeresim edomares, esset tibi aut
+  à vitâ, aut ab aulâ sub Pio, Iustóque Principe exulandum. Hoc est quod
+  suis temporibus in orbe Romano, quò miracula [Aiijr] omnia
+  confluxerant, defuisse conqueritur: quod in te videre vehementer
+  exoptat, hominem in castris strenuum in Senatu sapientem, in Aerario
+  incorruptum, in Templis religiosum &amp; ob haec in Aulâ senescentem.
+  Commemorabitur illi fortasse ab aliquo è tuis Reacensis victoria, quâ
+  prius ipsam rerum naturam superasti, quàm hostem aspectu tuo
+  effugares. Et vtinam aspicere posset stupendam maritimi aggeris molem,
+  quam contra potentiae Anglicanae impressiones nuper ad Rupellam
+  tutabaris: certè permittes osculari vulnus illud aduersum, quo non, vt
+  olim Annibal, aceto, sed tuo ipso sanguine Alpes Regi fortissimo
+  aperuisti. Exclamabit tùm enimuero si liceat, ô tempora, quibus in
+  obsequio fides est, in pretio sanctitas! ô mores, quos sola cum
+  optimis similitudo consociat! Vbi eram quando pietas ferro flammáque
+  delebatur? Apud Francos perduellio &amp; impietas vnam causam faciunt,
+  &amp; simul à Rege optimo, eiúsque legatis proteruntur. Hanc seculi
+  felicitatem vt diutius suspiciat, in tuum conclaue rogat admitti,
+  &amp; Sanctus apud pium habitare: non eo loco quo boni versus apud
+  doctos, sed quo Poësis ipsa semper apud sapientes. Neque enim suo
+  nomine quicquam postulare audet, licet iuris nonnihil possit
+  obtendere: cum recordetur te sibi tantùm non die à teipso praestitutam
+  ereptum, vt dissipatis calumniae nebulis, aulae, gratiaeque regiae
+  postliminiò reddereris. Auctorem quoque suum, quamuis in illo secessu
+  beneuolentiâ &amp; humanitate complexus sis, non vnum tibi charum esse
+  cupit sed Ordinem in quo militat vniuersum. De quo tu Ordine pro
+  singulari tua in bonos omnes charitate bene mereri non desinis, seu
+  sententiâ in Regis concilio dicendâ, seu famâ atque existimatione
+  [Aiijv] apud homines conciliandâ. Atque is profectò praeter caetera
+  recens affectûs illius tui monumentum Rupellae recognoscit, in eâ domo
+  quam regio munere sibi concessam, operâ primùm tua auctoritatéque
+  possidere incoepit: vt scirent homines quàm id ardenter optaueris,
+  quam amanter promoueris, cuius executio non alteri commissa sit. Sed
+  quoniam tua voce toties ornata, tot beneficuis tibi deuincta Societas
+  ad gloriam tuam nihil potest addere, licet poëtae non sit ea nomina
+  explicare; tamen legatus hîc noster Adrianus omnium preces referet
+  &amp; vota, vt te temporum nostrorum heroëm poëtae omnes laudandum
+  ambiant, tragici penitus ignorent.</p>
+  <p>Tui obseruantissimus,</p>
+  <p>LVD. CELLOTIVS,</p>
+  <p>è Societ. IESV.</p>
+  <p><pb n="i"/> SVMMA PRIVILEGII.</p>
+  <p>LVDOVICI XIII. Galliae &amp; Nauarrae Regis auctoritaritate
+  sancitum est, &amp; patentibus eius litteris cautum, ne quis in Regno
+  ipsius, aliisve locis eius ditioni subiectis, intra sex proximos
+  annos, à die impressionis primae inchoandos, ac numerandos, excudat,
+  vendat, excudendum, vendendúmque quouis modo &amp; ratione curet,
+  Librum qui inscribitur, Ludouici Cellotij Parisiensis, è Societatis
+  IESV, Opera Poetica, praeter SEBASTIANVM CRAMOIY Bibliopolam iuratum,
+  ac ciuem Parisiensem, aut illos, quibus ipsemet concesserit.
+  Prohibitum insuper eâdem auctoritate Regiâ omnibus eius subditis,
+  eumdem Librum extra Regni sui limites imprimendum curare, vel
+  quempiam, vbicumque fuerit, ad id agendum impellere, ac instigare,
+  sine consensu dicti SEBRASTIANI CRAMOISY, sub poenâ confiscationis
+  librorum, alliisve poenis originali diplomate contrà delinquentes
+  expressis. Datum apud Fontem Blaudi, 9. Septembris 1629.</p>
+  <p>Signatum, De mandato Regis,</p>
+  <p>SENAVIT.</p>
+  <p>Facultas R. P. Prouincialis Societ. IESV.</p>
+  <p>IOANNES FILLAEVS Prouincialis Societatis IESV in Prouincia
+  Franciae, potestate ad id mihi facta ab admodum R.P.N. Praeposito
+  Generali Mutio Vitellesco, facultatem concedo, vt P. Ludouici Cellotij
+  Societatis nostrae Sacerdotis Orationes, &amp; Opera Poetica,
+  eruditorum ex eadem Societate nostra virorum iudicio probata, typis
+  excudantur. Datum Flexiae 3. Iulij, Anno 1619.</p>
+  <p>IOANNES FILLAEVS.</p>
+  <p><pb n="ii"/> INDEX.</p>
+  <p>Tragoedia. S. Adrianus Martyr. pag. 1.</p>
+  <p>Tragoedia. Sapor admonitus. 108.</p>
+  <p>Tragoedia. Chosroës. 238</p>
+  <p>Tragico-comoedia. Reuiuiscentes. 319.</p>
+  <p>Mauritiados Andegauensis Lib. III. 437.</p>
+  <p>OPVSCVLA POETICA varij generis.</p>
+  <p>Ad Christum nascentem Propempticum Hendecasyllabicum. 552</p>
+  <p>De Sanctißimo lesu Nomine. Oleum effusum nomen tuum. 580</p>
+  <p>Terrae Prosopopoeia ereptum sibi Deiparae Virginis corpus
+  conquerentis. 583.</p>
+  <p>Mariae aßumptae Carmen Epinicium. 588.</p>
+  <p>[-] Pietatis Triumphus de Octaui Caesaris crudelitate. 604.</p>
+  <p>Mahumetis II. Turcarum Imperatoris Nuptiae Tragicae. 615.</p>
+  <p>Auis Paradisiaca. siue Apus. 628.</p>
+  <p>Prosopopeia Caesaris. 631.</p>
+  <p>Itinerarium B. Virginis purificandae ad Templum Hierosolymitanum.
+  634.</p>
+  <p>D. Martini Liberalitas in Mendicum. 637.</p>
+  <p>Epinicium. 639.</p>
+  <p><pb n="iii"/> TRAGOEDIA S. ADRIANVS MARTYR.</p>
+  <p>ARGVMENTVM.</p>
+  <p>ACTVS I.</p>
+  <p>GALERIVS Maximianus Armentarius Christianos omni saeuitiâ &amp;
+  diritate persequebatur: praecipuóque ad eam barbariem administro
+  vtebatur Adriano, iuuene aulicorum nobilissimo aequè ac gratiosissimo.
+  Sed hic Martyrum quos torquebat constantiâ, &amp; crebris de futurâ
+  bonorum &amp; malorum vitâ sermonibus incitatus, ad eos se adiunxit
+  noménque suum per Exceptores defetri iussit inter Christianos. Sic
+  igitur animo comparatus theatrum aperit, &amp; reuocatis in memoriam
+  laboribus, cruciatibúsque, qui hoc propositum necessariò secuturi sunt
+  generosam indolem eâ commemoratione exstimulat, penitúsque aduersùs
+  omnes a[-]cerbitates corroborat. Itaque iam seipso doctior, Metellum
+  Flaminem nescio, quae de aruspicinâ superstitiosè garrientem sapienter
+  confutat. Flauium Tribunum motus in aulâ eam ob rem excitatos
+  referentem, &amp; amicè vt animum reflectat adhortantem, fortiter
+  contemnit. Inter haec prodit Galerius ipse, &amp; Adrianum casu obuium
+  conuiciis, exprobrationibus, minis salutat: interritum videlicet,
+  &amp; causam dicere paratum. Sed eâ indictâ detruditur in carcerem mox
+  crudeliter interficiendus, nisi Consul irae Caesaris, &amp; Adriani
+  poenitentiae tempus graui oratione impetraret.</p>
+  <p>ACTVS II.</p>
+  <p>HOc accepto nuncio Natalia vxor Adriani, flos matronarum. virtutis.
+  gemma, medulla constantiae, pietatis Christianae cultrix, sed adhuc
+  abditè, dum currit ad carcerem animosiùs quàm cautiùs: ipsa se
+  reprimit, &amp; re dubiâ feruorem sustinet; verita ne ea forte fabula
+  ab coniuge, ad explorandum ipsius animum, conficta sit. Omnibus tamen
+  expensis porrò ire statuit, vel cum illo, vel per illum moritura.
+  Verùm Tribuni relatu rem certiùs cognoscit, eiusdémque operâ educto è
+  carcere Adriano fruitur. Hic autem consiliorum vxoris ignarus grauiter
+  suum ipse propositum ei declarat, causámque docet mutatae religionis:
+  si se amat, exemplum sequatur: si renuit, res [-] sibi suas habeat.
+  Tùm enimuerò totam se Adriano aperit Natalia, &amp; exosculatis magnâ
+  pietate mariti vinculis, aeternum sanctioris connubii foedus cum eo
+  renouat. Ille autem voluntatem tegere, sibíque in tam attroci
+  certamine adesse rogat. Haec agentibus Consul, &amp; Praefectus
+  Praetorio veteres Adriani amici, importunè interueniunt, &amp;
+  collaudatâ Nataliâ quam à suis stare partibus existimabant, totos se
+  ad labefactandum Adriani animum applicant. Sed ille tùm Dei numine,
+  tum Anthimi iam veterani Martyris praesidio, omnes eorum impetus
+  refutat, iratosque, &amp; ad Caesaris Tribunal citantes, dimittit.</p>
+  <p>ACTVS III.</p>
+  <p>PROMISERAT Nataliae Adrianus curaturum se vt ea moneretur si quandô
+  in Martyrii arenam descenderet. Dum ergò ad Caesarem perducitur,
+  facile à Flauio impetrat vt ex itinere ad supremum coniugis osculum
+  diuertat, solus, &amp; liber. Sed in eius conspectum vix se dedit, cùm
+  illa defecisse à Christo delicatum iuuenem rata, quibus eum conuitiis,
+  quibus contumeliis è domûs fenestrâ non excipit? Verùm rem totam
+  denique edocta quò seriùs à metu respirat, eò feruentiùs Martyrii
+  candidatum complectitur, &amp; nuptiali veste splendentem ad curiam
+  prosequitur. Quo viso Caesar ornatum illum, animi mutationem
+  in[-]terpretatus, multis blanditiis honoribúsque sibi conciliat: inque
+  eius gratiam, longam ab Anthimo sene pro Christianis Apologiam
+  patienter audit. Cui dum respondere conatur Metellus, inter vtrunque
+  controuersia de religione agitatur. Sed isto iam deficiente,
+  disceptationem terminat Galerius latâ in Martyrem vtrunque sententiâ
+  vt fustibus, lignísque acriter verberentur. Cui Consul addit, vt
+  nemini aditus in carcerem pateat: quò destituti solatio vincti se
+  Deósque respicere cogantur.</p>
+  <p>ACTVS IV.</p>
+  <p>CVM nihilominus omni ope Adrianum caeterósque Martyres subleuasset
+  Natalia, edixerat Tyrannus vt matronis omnibus carcere interdiceretur.
+  Valuit ea res ad deterrendas foeminas. Natalia autem resectis
+  capillis, mutata veste, togata procedit in scenam. Hoc schemate cui
+  fucum non faciat? Primus occurrit Flauius, qui &amp; legem, &amp;
+  legis causam, &amp; egregia Nataliae in carcere facinora, Nataliae
+  narrat admirans. Illa verò cata mulier, indignissimè ferri edictum à
+  Nataliâ simulat, totámque culpam in Tribunum ipsum ab eâ deriuari. Hic
+  qui iam semimortuo Adriano Nataliam deperibat, in illius gratiam, eum,
+  quisquis est, in carcerem ad Adrianum introducit. Deinde suam secum
+  sortem lamentatur, qui certam, vt putabat, spem potiun[-]di illius
+  coniugii perdiderit. Sed ecce aliud misero malum. Galerius admonitus
+  contra edicta sua aliquos vinctis adesse, actus in furias, Tribunum,
+  &amp; oblatam sibi pro viro Nataliam, tantùm non ad mortem rapi iubet.
+  Haec autem Nataliae causam tam prudenter agit, vt non tantùm facti
+  veniam, sed etiam regrediendi in carcerem, &amp; extremum Adriani
+  spiritum legendi potestatem impetret. Nam illo iracundiae abreptus
+  aestu Galerius, Anthimum capite plecti, caeteros fractis cruribus
+  inter tormenta vitam reddere imperauerat.</p>
+  <p>ACTVS V.</p>
+  <p>PRODVCTVM Adrianum Consul omnibus inimicis molestior amicus, monet
+  vel serò sibi consulere. Sed palmam in manibus infringere penè victori
+  non potest. Caedem ergo iubet ab eo incipere, hoc ipsum eo enixè
+  rogante Nataliâ, Quę eo digresso quàm solicitè, quàm piè, quàm
+  ardenter maritum hortatur ad horam excipiendam, votis omnibus
+  expetitam! Adsunt tandem lictores incude &amp; ferreo vecte
+  terribiles. Tum maior exemplis omnibus virago, crura fasciis expedire,
+  imponere incudi, porrigere frangenda tortoribus. Supererat tenuis
+  vitae halitus: Hunc etiam abscisione dextrae manus exprimere
+  persuadet. Iussis igitur ad aliorum supplicia progredi lictoribus,
+  sola discedentem Martyris animam dulcibus lacrymis, &amp; supernae
+  felicita[-]tis contemplatione prosequitur. Corpus interim parabat
+  seruare: cùm maiore vi à militibus rapitur in ignem mittendum. E quo
+  toto vnam sibi dexteram suffurata, posteaquam sacrum pignus attriuit
+  osculis, plena Deo proripit se è theatro, in eundem cum Adriano rogum,
+  ni prohibeatur ascensura.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.">
+  <head>PERSONAE.</head>
+  <p>Galerius Maximianus Armentarius.</p>
+  <p>Titianus Cos.</p>
+  <p>Gallus Pr. Pr.</p>
+  <p>Adrianus Martyres.</p>
+  <p>Anthimus</p>
+  <p>Natalia.</p>
+  <p>Metellus Flamen dialis.</p>
+  <p>Flauius Tribunus.</p>
+  <p>Timaeus Puer honorar.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p><pb n="1"/> TRAGOEDIA S. ADRIANVS MARTYR.</p>
+</div>
+<div type="level1" xml:id="actvs-primvs.">
+  <head>ACTVS PRIMVS.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.">
+  <head><ptr target="#tn1" n="1"/>SCENA PRIMA.</head>
+  <p>ADRIANVS. §</p>
+  <p>ADRIANE iacta est alea: athletam Dei</p>
+  <p>Profiteris auctoratus, &amp; forti voues</p>
+  <p>Seruire domino: macte, vinciri imminet.</p>
+  <p>Vri, necari: grauius &amp; si quid iubes</p>
+  <p>Orci lanista, pectus addictum offeres.</p>
+  <p>Aliis locatas tendere ad populum manus,</p>
+  <p>Submittere arma, pollicis mitem licet</p>
+  <p>Statum rogare; te decet iugulum dare</p>
+  <p>Totumque ferrum recipere, &amp; stantem mori.</p>
+  <p>Sed vita prorogetur; hîc certè breuis</p>
+  <p>Dabitur honorum meta, Caesareus fauor</p>
+  <p>Residet omnis. Nempe mortalem aestimas</p>
+  <p>Christo probandus? Chara quid comitum manus?</p>
+  <p>Primae clientes vota fortunae ferunt;</p>
+  <p>Et hanc sequantur: ditior coelo venis</p>
+  <p><pb n="2"/> Mihi aequa, &amp; illis. Caesaris laesi furor</p>
+  <p>Iam pulsat aures, aulica exstimulat cohors,</p>
+  <p>Et aliquis ab hara Pontifex, nullum sibi</p>
+  <p>Litare porcum questus. Hîc pronum, hîc nefas</p>
+  <p>Vinci Adriane, siue blanditia tegunt</p>
+  <p>Fallace furias: seu catastarum minis</p>
+  <p>Satagunt timeri: morte non vnâ opprimi</p>
+  <p>Est Christianum, quandò quae vitam extrahit</p>
+  <p>Non maxima, at suprema iam fessis venit.</p>
+  <p>Vidi haud suo pallere tortorem metu:</p>
+  <p>Vidi caducâ pendulum in vulnus manu</p>
+  <p>Fugere sub, ictu: colla cùm immotus gradu</p>
+  <p>Praeberet infans, atque vix lethi capax</p>
+  <p>Victrice tenerum laureâ impleret caput.</p>
+  <p>Haec virgo potuit, potuit in vitae puer</p>
+  <p>Limine, Deo maturus; &amp; durum tibi</p>
+  <p>Erit Adriane? fors &amp; humani putas</p>
+  <p>Opus vigoris, perque pueriles fibras</p>
+  <p>Rigere ferrum? robur hoc coelo meat</p>
+  <p>In Christianos, nomini reddit pares</p>
+  <p>Dominóque. Me quoque entheat: iam se nouos</p>
+  <p>Calor per artus fundit: absimilis mei,</p>
+  <p>Meque ipse maior, &amp; ille non dudum tener.</p>
+  <p>Cui ventus oculum laesit, &amp; cyathus niue.</p>
+  <p>Male temperatus nocuit, aduersum neci</p>
+  <p>Oppono pectus. Terga plumbatis feri,</p>
+  <p>Latus vngue sulca, detrahe hanc viuo cutem,</p>
+  <p>Malis supererit animus, &amp; poenae locum</p>
+  <p>Membris negatum mentis inueniet vigor.</p>
+  <p>Hàc ire iuuat ad gloriam: hoc pretio benè</p>
+  <p>Redemptae virtus constat. Vuum est quo latus</p>
+  <p>Nudare vereor: socia genialis tori</p>
+  <p><pb n="3"/> Natalia ardet veneris innocuâ face.</p>
+  <p>Adriane amat te: genua prensabit manu,</p>
+  <p>Rigabit ora lacrymis, praesens bonum,</p>
+  <p>Tot spes futuri voce quàm blandâ occinet:</p>
+  <p>Amas adhuc moriture? virtutem abnuis</p>
+  <p>Spensare coelebis: se toro sociam inferet</p>
+  <p>Inuisa Christo? non amat, si me negat</p>
+  <p>Amare, vel sic: non amat, si quem sequor</p>
+  <p>Sequi recusat. Quicquid hic etiam est meum</p>
+  <p>Tibi reddo Christe: sit tua, aut non sit mea.</p>
+  <p>Quis ille sacro pileum filo efferens?</p>
+  <p>Metellus hic est.---</p>
+</div>
+<div type="level1" xml:id="scena-secvnda.">
+  <head><ptr target="#tn2" n="2"/>SCENA SECVNDA.</head>
+  <p>ADRIANVS. METELLVS.</p>
+  <p>-- NAENIAS iam non vacat</p>
+  <p>Audire vestras. Metell. A Ioue &amp; magnis Dei?</p>
+  <p>Quod nunciatur, naeniam appelles caue</p>
+  <p>Vt imperasti fecimus: ducta hostia</p>
+  <p>Qualis Falisco nulla de fonte exiit.</p>
+  <p>Admota Diuis sponte suscincto dabat</p>
+  <p>Iugulum ministro: cùm ille nescio quid furens</p>
+  <p><ptr target="#tn3" n="3"/>Aberrat ictu, quáque postremos pedes</p>
+  <p>Porgit, cruento poplitem cultro secat.</p>
+  <p>Stat auida caedis mater, &amp; qualis solet</p>
+  <p>Balare laetùm, perque vulnificas manus,</p>
+  <p>Quà larga cultros vena suppositos rigat,</p>
+  <p>Succisa prolis membra sanguineo rapit</p>
+  <p>Immunda rostro: concito cursu ilicet</p>
+  <p>Profugit ab aris, séque non vllâ eripit</p>
+  <p>Perienda dextrâ. Clamat attonitus Popa,</p>
+  <p><pb n="4"/> Sua sacra damnat; ac nisi hortatu, minis,</p>
+  <p>Precibus, pauenti insisterem, numerum hostia,</p>
+  <p>Idem &amp; minister, funere impleret suo.</p>
+  <p>Adrian. Haec monstra narra queis superstitio Deos</p>
+  <p>Fecit timendos: curame potior coquit.</p>
+  <p>Metell. Ambigua facies viscerum, atque inter minas,</p>
+  <p>Interque spem pependit, at propior minis.</p>
+  <p>Parùm fidele laxat omentum sinus,</p>
+  <p>Latebrásque prodit: viuidus fibris color:</p>
+  <p>Pulmo suâ receptus, alienâ iecur</p>
+  <p>In sede lentum palpitat: tristes latus</p>
+  <p>Hostile venas auget, &amp; iecoris caput</p>
+  <p>Casum ex amicâ parte, sed pinguis tremit</p>
+  <p>Cordis cacumen. Tristia auertat potus!</p>
+  <p><ptr target="#tn4" n="4"/>Nam cui litauit ante versicolor sacrum?</p>
+  <p>Tamen &amp; in ignes lance prosicias dedi,</p>
+  <p>Et vota dixi Patribus. Adrian. Vanos metus</p>
+  <p>Depone Flamen: vester insanum Tages</p>
+  <p>Superis honorem posuit, &amp; ludum puer</p>
+  <p>Immisit aris. Qui tenet Coelum Deus.</p>
+  <p>Vestri arietinis quippe visceribus notat</p>
+  <p>Momenta fativaria! si timidus mori</p>
+  <p>Taurus sub ictu mugiit; si quò salus</p>
+  <p>Fugere suasit, non suo cecidit loco,</p>
+  <p>Minantur astra! Tabe liquefactum iecur</p>
+  <p>Corque irrepertum, liuidis pulmo fibris</p>
+  <p>Imperia mutant! Quae potens rerum manus</p>
+  <p>Tam parua tantis foedere aeterno alligat?</p>
+  <p>Quis ordo mundi iecoris in fisso mei</p>
+  <p>Spem scripsit aeui? Metell. Quod vides, quod non vides,</p>
+  <p><pb n="5"/> Elementa quicquid mutuâ formant ope</p>
+  <p>Tellure, coelóque abditum, tenuis subit,</p>
+  <p>Vegetátque motu spiritus: totum Deo</p>
+  <p>Animante viuit. Ipse circùm orbe eminens</p>
+  <p>In se reducto, ne qua pars fallat, regit.</p>
+  <p>Sibíque de se genitus, aeternum igneo</p>
+  <p>Motum propagat fomite. Hinc vegetum capit</p>
+  <p>Natura semen; inde per vacuum aethera</p>
+  <p>Pennis vibrantur alites; ponti aequora</p>
+  <p>Pinna volucri squammeum verrit pecus.</p>
+  <p>Et opima bifidi prata rimantur greges:</p>
+  <p>Hominesque ab astris ducta gens, diae inclyta</p>
+  <p>Particula mentis. Ergo si magni ferit</p>
+  <p>Fortuna membrum corporis; si pars dolet,</p>
+  <p>Non ingemiscet alia? tensarum rigor</p>
+  <p>Fidium mouetur vna si resonat leui</p>
+  <p>Percussa plectro. Adrian. Rebus hic cunctis amor</p>
+  <p>Et vbíque constet, omnia indoleant mihi,</p>
+  <p>Nullúmque magni corporis nostro vacet</p>
+  <p>Labore membrum; causa sed varios facit</p>
+  <p>Eadem tumultus: terreat tristi tuus</p>
+  <p>Te taurus exto; regias hosti vices</p>
+  <p>Promittet alius: Caesar hic Iouius litat,</p>
+  <p>Herculius illic non bonas patitur fibras:</p>
+  <p>Et vterque membrum est orbis, imperii caput,</p>
+  <p>Dicam otiosos? sordidos malim Deos,</p>
+  <p>Si iecore, &amp; extis sancta consilia occulunt,</p>
+  <p>Quae vatis amans prodat Hetrusci furor.</p>
+  <p>Metell. Firmata Diuûm numine, &amp; longis patrum</p>
+  <p>Probata seclis parce vesano sacra</p>
+  <p><pb n="6"/> Temerare risu. Cùm triumphanti pede</p>
+  <p>Calcaret orbem Roma, &amp; indomita manu</p>
+  <p>Trophaea legeret axe quo flecti negat</p>
+  <p>Vmbras syene, quóque glacialem piger</p>
+  <p>Currum Bootes sequitur, hâc aquilas tulit</p>
+  <p>Pietate victrix: vrbis haec Tyriae ducem</p>
+  <p>Religio portis: arce Tarpeiâ arcuit</p>
+  <p>Barbarica Senonum tela. Te fandi parens</p>
+  <p>Terrarum alumna, Palladis castae domus:</p>
+  <p>Teque Ephyra Achiuûm lumen, immoto obiice</p>
+  <p>Quae gemina semper maria committi vetas,</p>
+  <p>Vos cultus iste domuit, in nostris prius</p>
+  <p>Cecidistis aris, saxa quàm latio impete</p>
+  <p>Quassaret aries. Adrian. Ritibus maior tuis</p>
+  <p>Arsacia Macedo sceptra, &amp; indociles iugi</p>
+  <p>Fraenauit Indos. Caesar iratâ hostiâ</p>
+  <p>Alacris iubámque, téque Scipiada, Africae</p>
+  <p>Fatale nomen, fregit &amp; felix sacrum</p>
+  <p>Vincendo fecit. Mecell. Martias doctus Tages</p>
+  <p>Canebat Idus, spreuit &amp; verax sacrum</p>
+  <p>Moriendo fecit. Nemo contempsit Deos</p>
+  <p>Impunè felix: hostiae quisquis minas</p>
+  <p>Contrà tetendit, se dedit fato hostiam.</p>
+  <p>Adrian. Si fulminastrum voce non brutâ facis,</p>
+  <p>Christum professis quicquid est coelo Deûm</p>
+  <p>Committe, Regum ponat interea furor</p>
+  <p>Pugna reductus, faciet euentus fidem</p>
+  <p>Quàm vana templis numina insideant tuis.</p>
+</div>
+<div type="level1" xml:id="page7-5scena-tertia.">
+  <head><pb n="7"/> <ptr target="#tn5" n="5"/>SCENA TERTIA.</head>
+  <p>FLAVIVS. ADRIANVS. METELLVS.</p>
+  <p>VAE cura patrum, Caesaris qui te fauor</p>
+  <p>Reflectere animum cupiat, est vanum eloqui</p>
+  <p>Benè sentienti: nulla turbatam quies</p>
+  <p>Pacauit aulam, consilî rumor tui</p>
+  <p>Inuasit ex quo regiam: qualis noto</p>
+  <p>Aduersa Boreas stridet, &amp; pontum improbo</p>
+  <p>Vexant duello: talis instabilem ciet</p>
+  <p>Tumultus aulam: iurat hic vano seri</p>
+  <p>Terrore famam; certat emotam hic tibi</p>
+  <p>Mentem venenis; ille tollendum fremit;</p>
+  <p>Hic in dolosas isse deceptum plagas</p>
+  <p>Miseratur: animum Caesar huc illuc rapit</p>
+  <p>Incertus. Adrian. Ecquid nomen exceptor dedit?</p>
+  <p>Flau. Heu! falsa sperat, vera quae credi iubes.</p>
+  <p>Veneranda procerum Caesarem ambibat cohors,</p>
+  <p>Pro se fidelem quisque perdendo manum</p>
+  <p>Christo offerebat; ille quo vultu polum</p>
+  <p>Phoebus serenat; vincet hoc, proceres mei</p>
+  <p>Labor Adriani, vincet, &amp; coelo auspice</p>
+  <p>Quiescet aut elusus, aut fessus furor.</p>
+  <p>Strident catenis oppida, angusti gemunt,</p>
+  <p>Vomuntque turbam carceres, crebrâ necè</p>
+  <p>Fessae secures, arma carnifici, reis</p>
+  <p>Tormenta desunt: dixerat, magno ambitu</p>
+  <p>Titianus intrat grande dicturus nefas.</p>
+  <p><pb n="8"/> Res periit omnis Caesar. Horrendum sonat</p>
+  <p>Murmur per aulam, Iouius an letho occidit?</p>
+  <p>Romam tyrannus occupat? largo perit</p>
+  <p>Vrbs Nicomedis igne? quid dubios tenes?</p>
+  <p>Eloquere. Christum noster Adrianus colit.</p>
+  <p>Metell. Christum Adriane? Flau. Moestus attonitis pauor</p>
+  <p>Primum ora claudit. Sic vbi aestiuo Ioue</p>
+  <p>Coruscat aether, densa messorum cohors</p>
+  <p>Praesaga cladis robore sub alto latet.</p>
+  <p>At ecee rupta nube fulmineus ruit</p>
+  <p>In opaca turbo brachia, &amp; latè ilicem</p>
+  <p>Populatur agro, pauitat exsanguis metu</p>
+  <p>Colonus hospes, séque defixum solo</p>
+  <p>Sternit bidental. Caesar attonitos supra</p>
+  <p>Bacchatur amens, pallet, aspirat, tonat,</p>
+  <p>Gemitque, trepidátque, omnis in vultu est labor</p>
+  <p>Amantis, &amp; dolentis, &amp; nondum pudet</p>
+  <p>Adriane facti? Caesaris non sic tibi</p>
+  <p>Amor est probatus? eia perspectam fidem</p>
+  <p>Felix adora. Adrian. Si cui Adrianus placet,</p>
+  <p>Et Christianus placeat. Flau. Id leges vetant.</p>
+  <p>Metell. Inimica templis capita, ferróque, &amp; face</p>
+  <p>Insequitur vltor, iamque plebeiae abstulit</p>
+  <p>Praesidia genti, militum Ausonius vigor</p>
+  <p>loui litare iussus, aut turpi ordinem</p>
+  <p>Deserere letho. Timida Cerdonum phalanx</p>
+  <p>Per te euocata, quos in horrendas specus,</p>
+  <p>Stabulata monstris antra compegit pauor</p>
+  <p>Tot perduelles inter Augusta in domo</p>
+  <p><pb n="9"/> <ptr target="#tn6" n="6"/>Seruabit vnum? numinis cultum oderit,</p>
+  <p>Cultorem amabit: Num Dioclaeâ satus</p>
+  <p>Sceptróque socium asciuit, &amp; generum toro.</p>
+  <p>Ritum vt nefandum rueret? Astraeae rigor</p>
+  <p>Aequare ciues, causa pietatis iubet</p>
+  <p>Saeuire in aulam. Adrian. Saeuiat, longa est mora.</p>
+  <p>Flau. Certum est perire? Adrian. Quod volet. Flau. Amicas
+  praeces</p>
+  <p>Suspiria aulae, Caesaris vota accipe.</p>
+  <p>Quid moliaris cogita: tenerum metis</p>
+  <p>Florem dierum, praeco quas fruges tuae</p>
+  <p>Spei, &amp; tuorum falce non miti secas.</p>
+  <p>Quid lecta coniux, nuper hymenai faces</p>
+  <p>Experta? saltem prole ditasset domum</p>
+  <p>Lucina, vestros perque reptaret sinus</p>
+  <p>Puer Adrianus, ore qui referat patrem,</p>
+  <p>Patrémque blaesus ore Iallanti vocet.</p>
+  <p>Nunc totus vno funere efferri cupis,</p>
+  <p>Nusquam superstes. Nota gradiuo manus,</p>
+  <p>Pectus pauere nescium educet gradus</p>
+  <p>Ad inuidendos. Clara quae Iouii atria.</p>
+  <p>Imago signat? Caesaris nam per casas</p>
+  <p>Armenta reboant: vetera quid frustra exsequar?</p>
+  <p>Subitum Adriani culmen, aut longo ambitu</p>
+  <p>Emptum Seuero? quique barbarici laris</p>
+  <p>Magale nostro fecit imperio inclytum,</p>
+  <p><ptr target="#tn7" n="7"/>Thrax Maximinus: patriâ quique extudit</p>
+  <p>Fornace sceptrum Pertinax, quâ te imperi</p>
+  <p>Dote anteibant? quis parem iuueni neget</p>
+  <p>Sperare sortem? tam bonas ergo malâ</p>
+  <p>Spes perdis horâ, teque crudeli obiicis</p>
+  <p><pb n="10"/> Letho nocentem? Metell. Dum salus tuta est adhuc</p>
+  <p>Resume mentem, néue sacrorum minas</p>
+  <p>Contemne praeceps; profuit multis semel</p>
+  <p>Peccasse, non est culpa quae celerem petit</p>
+  <p>Veniae regressum. Adrian. Pectore immoto sedet</p>
+  <p>Coluisse Christum; vestra tractari inscium</p>
+  <p>Monita fatigans: ite, non Caesar minis,</p>
+  <p>Non aula fuco moueat. Flau. Est aliquid super</p>
+  <p>Quo iussa tendant. Caesar allegans tibi,</p>
+  <p>Tua cura, Flaui, flectere alloquio virum.</p>
+  <p>Si renuit, inquit, carcere, &amp; vinclis doma.</p>
+  <p>Adrian. Hoc age, parata membra tormentis habes,</p>
+  <p>Mei volens amplector armillas ducis.</p>
+  <p>Innecte torques, arma de coelo expedi:</p>
+  <p>Vbi castra, &amp; hostes? video, non longum est iter.</p>
+  <p>En illa sanctis foeta suppliciis domus,</p>
+  <p>Vbi dite victo Christianorum manu</p>
+  <p>Christus triumphet. Fla. Robur aut nullum foret,</p>
+  <p>Meliore causa aut poneres! nunc vis agit</p>
+  <p>Indomita. Ceu cùm currus adductas negat</p>
+  <p>Audire habenas, séque generosa abripi</p>
+  <p>Sinit quadrigâ; non malus regitur malè.</p>
+</div>
+<div type="level1" xml:id="scena-qvarta.">
+  <head><ptr target="#tn8" n="8"/>SCENA QVARTA.</head>
+  <p>GALERIVS. ADRIANVS.</p>
+  <p>HAEC illa meriti gratia? haec nostris fides</p>
+  <p>Iurata sceptris? transfuga, &amp; nostri, &amp; tui</p>
+  <p><pb n="11"/> Oblitus hostem colere vt affectes Deum?</p>
+  <p>En queis salutem credimus! quos ad latus</p>
+  <p>Adiungit aula: quos pex obsequij dolos</p>
+  <p>Capiti imminere patimur, &amp; fiduciâ</p>
+  <p>Stolidi infideles facimus! ô nunquam satis</p>
+  <p>Officia regum tuta! quàm rarò stetit</p>
+  <p>Amoris aestus aulici! macta bonis,</p>
+  <p>Ipsos fauores inter, addictam fidem</p>
+  <p>Momento in ipso deserunt, &amp; quos erat</p>
+  <p>Emise pretium, gratis alieno locant</p>
+  <p>Animos tyranno. Nam quid aggredior miser</p>
+  <p>Elusus, exspes? ecce per memorum auia,</p>
+  <p>Per clausa Phoebo lustra, &amp; aestiferi canis</p>
+  <p>Perusta flammis arua, Christicolûm insequor</p>
+  <p>Sacrilega vindex capita, &amp; introrsus meâ</p>
+  <p>Surgunt in aulâ; quos procul venor, meo</p>
+  <p>Sub latere crescunt. Quis mihi fidum locus</p>
+  <p>Dabit recessum? Regios inter lares,</p>
+  <p>Veneranda &amp; hosti saxa, Romanus petit</p>
+  <p>Subsessor animam. Tutius libycâ gradum</p>
+  <p>Moueas arenâ qua ferâ dipsas siti</p>
+  <p>Haurit medullas, quáque bis gemina asperat</p>
+  <p>Cerasta fronte cornua; aut anceps caput</p>
+  <p>Exertat amphisbaena. Sic Regi timor</p>
+  <p>Suus est satelles: sic neque ingratus, fera</p>
+  <p>Laribus recepta, Caesarum pretio, aut prece</p>
+  <p>Mansuescit vnquam. Adrian. Multa peccare arguis</p>
+  <p>Inuicte Caesar: Christus at scelerum est caput,</p>
+  <p>Cui colla tyro subdidi: hoc leuius iugo</p>
+  <p>Nullum est Galeri: vestra religio vagum</p>
+  <p>Egit per aras mentis exsortem piae,</p>
+  <p>Scit ipse, nemo me sine admouit sacram</p>
+  <p><pb n="12"/> Tonanti acerram, victimae nemo caput</p>
+  <p>Salsâ notauit fruge: quid numerem meis,</p>
+  <p>Cerata votis aera? quid donis tholos</p>
+  <p>Pretiosiores? Nulla sed fidam dedit</p>
+  <p>Statio quietem, vinculo donec sibi</p>
+  <p>Animum alligauit Christus, &amp; vera decus</p>
+  <p>Pietatis hausi. Numen hunc credo meum,</p>
+  <p>Putare liceat, nulla libertas minor</p>
+  <p>Praestatur homini. Nam quod infidum vocas,</p>
+  <p>Quod perduellem, voce communi vteris:</p>
+  <p>Malus est latentis arbiter vulgus boni.</p>
+  <p>Olim Adriano si stetit vita innocens,</p>
+  <p>Quae Christianum culpa constituit reum?</p>
+  <p>Christus fidelem ludere incautos vetat,</p>
+  <p>Verbo aucupari perfido, fraude illice</p>
+  <p>Captare gazas; sanguine innocuo manus</p>
+  <p>Foedare, venenis scandere illicitae toros.</p>
+  <p>Haec iussa coelo elicuit, haec Christi asseclae</p>
+  <p>In verba coëunt, illa nocturnis sacra</p>
+  <p>Operta tradunt coetibus. Flammâ, &amp; pico</p>
+  <p>Artus rigaui, latera sulcaui vngulis,</p>
+  <p>Ferro reclusi viscera, hoc tantum erui,</p>
+  <p>Cecinisse Christo carmen, in noxae inscios</p>
+  <p>Jurasse mores, Caesarum multis caput</p>
+  <p>Seruasse votis: criminum illorum reos</p>
+  <p>Iniqua torquet fama, &amp; audire abnuit,</p>
+  <p>Damnare quod quaesitor auditum haud queat.</p>
+  <p>Hinc est rebellis secta, quos Christus facit</p>
+  <p>Post Christum amant &amp; Caesares: surdum Iouem,</p>
+  <p>Ipso minorem Caesare exosi, ferunt</p>
+  <p>In astra palmas, deque regnorum Deo</p>
+  <p>Inuicta poscunt regna, non pecorum horridis</p>
+  <p><pb n="13"/> Visceribus inhiant, mente sed pura litant.</p>
+  <p>Galer. Tuum est. Deos eligere? iudicio placet</p>
+  <p>Meo petatur, quae mihi petitur salus.</p>
+  <p>Adrian. A quo impetranda est poscitur: cassa prece</p>
+  <p>Metalli inane pondus impelli iubes?</p>
+  <p>Galer. Quem quondam amasti, qui te amat, magnum Iouem,</p>
+  <p>Iouisque comites, thure placari iubet.</p>
+  <p>Si me fauentem spernis, expertus scies</p>
+  <p>Quo turbine iras torqueam: quanto impios</p>
+  <p>Horrore nuper tute laceraris, memor,</p>
+  <p>Violas putato; durius in aulae ratum est</p>
+  <p>Saeuire famulos. Elige, beatum velim</p>
+  <p>Viuere: perire si obstinas, votum augeo.</p>
+  <p>Adrian. Colere Deorum ludicra, erranti fuit</p>
+  <p>Suasisse pronum; nunc vbi illuxit Deus,</p>
+  <p>Et iniqua diti veritas, iussa exequi</p>
+  <p>(Permitte fari) non licet, Galer. Conde in specus,</p>
+  <p>Onera catenis miles, operosa necis</p>
+  <p>Consilia donec pectore artifici excoquam.</p>
+  <p>Adrian. Tuus esse Christe incipio, promissum nouo</p>
+  <p>Infunde pugili robur. Inuisas domos</p>
+  <p>Et vincla subeo laetus; in vinclis habes</p>
+  <p>Galeri amicum, dubia si reliquis fides.</p>
+</div>
+<div type="level1" xml:id="page14-9scena-qvinta.">
+  <head><pb n="14"/> <ptr target="#tn9" n="9"/>SCENA QVINTA.</head>
+  <p>GALERIVS. TITIANVS.</p>
+  <p>DOminos timebit orbis; exemplum vnius,</p>
+  <p>Esto populorum terror: odisse ardeo,</p>
+  <p>Quem frustra amaui. Titia. Si rei merita aestimas,</p>
+  <p>Plumbo subactum, aut inter Arsacidum scaphas</p>
+  <p>Periisse decuit: nam quid intustum accidat</p>
+  <p>Ita perduelli? mente sed reputes velim</p>
+  <p>Quid facere deceat Casarem, non quid pati</p>
+  <p>Iubeas nocentes; aliquis est irae modus:</p>
+  <p>Inopina fecit culpa momento reum,</p>
+  <p>Cur poena properat? forte momento eluet</p>
+  <p>Metanoea culpam. Nemo quia factum est scelus</p>
+  <p>Poenam irrogat, sed nequis exemplo nocens</p>
+  <p>Peccare pergat. Ne hoc age vt pereant mali.</p>
+  <p>Sedne mali sint: dulce vindictae est genus</p>
+  <p>Homini salutem facere, saeuire in scelus.</p>
+  <p>Ergo Adriani reuocet antiquus fauor</p>
+  <p>Nomen decúsque: prosit, indigno licet,</p>
+  <p>Fuisse carum Caesari: lentâ manu</p>
+  <p>Supplicia libra, satage promissis ferum</p>
+  <p>Mollire pectus. iunge blanditiis preces.</p>
+  <p>Minásque precibus, sed diu steriles minas:</p>
+  <p>Nil dedecet si parcis, &amp; seruos amas.</p>
+  <p>Galer. Ignotae fallit pestis: in lucro putant</p>
+  <p>Lethi moras traxisse: vis subita opprimit</p>
+  <p>Sibi nocentes; quod super vitae additur,</p>
+  <p>Socios furoris comparant: coelo inseri,</p>
+  <p>Vltra Sibyllas viuere, impositis rogo</p>
+  <p><pb n="15"/> Reparanda vitae dona pellaces canunt.</p>
+  <p>Vnum putasti perdere, reorum vndique</p>
+  <p>Consurgit agmen, séque supplicio induunt</p>
+  <p>Parili rebelles, Caede defungi vnicâ,</p>
+  <p>Seruare reliquos, omnium cogit salus.</p>
+  <p>Sed ne quis aulae morte properatâ arguat</p>
+  <p>Tolli ministros, pono tormentis moram.</p>
+  <p>Vos ergo robur arte, consilio, prece</p>
+  <p>Tentate: domitum carceris squalor dabit,</p>
+  <p>Et grauia ferri pondera, &amp; residens citò</p>
+  <p>Nouitatis ardor. Mente si versâ sapit,</p>
+  <p>Patet aula, neque se nostrae subducet manus,</p>
+  <p>Amor, &amp; ab ipsa certior culpâ fides</p>
+  <p>Cumulum fauoris poscit, at, quod plus reor,</p>
+  <p>Si pergit insanire, per quicquid Deûm est</p>
+  <p>Totum in furorem spreta se bonitas aget.</p>
+  <p><hi rend="bold"><ptr target="#tn10" n="10"/>CHORVS.</hi></p>
+  <p>QVAE vis, quis rapit ardor</p>
+  <p>Christi aspergine tinctos?</p>
+  <p>Cur praesentia perdunt,</p>
+  <p>Incumbuntque futuris?</p>
+  <p>Hic nutritus in ostro,</p>
+  <p>Hic &amp; stemmate clarus,</p>
+  <p>Augustíque fauore,</p>
+  <p>Aulae vincula rumpit,</p>
+  <p>Regalisque beata</p>
+  <p>Mensae fercula damnat.</p>
+  <p>Jam non vllus honorum</p>
+  <p>Non respectus amicae.</p>
+  <p>Pubis, non pretiosis</p>
+  <p>Acquirenda periclis</p>
+  <p><pb n="16"/> Mentem gaza penetrat.</p>
+  <p>Castae Cypridis annos</p>
+  <p>Natorumque suauem</p>
+  <p>Spernit virgo popellum.</p>
+  <p>Cerni lubrica forma,</p>
+  <p>Vibrantes &amp; ocelli;</p>
+  <p>Candorémque genarum</p>
+  <p>Inter purpura lucens:</p>
+  <p>Et collum per eburnum</p>
+  <p>Crinis molliter errans:</p>
+  <p>Turgentesque papillae</p>
+  <p>Bysso non bene tecta:</p>
+  <p>Et formosior omni</p>
+  <p>Quem fert dextra smaragdo:</p>
+  <p>Per ieiunia marcent:</p>
+  <p>Et fastidia vitae,</p>
+  <p>Obscurósque recessus</p>
+  <p>Affectans nigra bilis</p>
+  <p>Coelestúmque hominúmque</p>
+  <p>Depraedatur amores.</p>
+  <p>Tali Bellerephontes</p>
+  <p>Quondam percitus oestro.</p>
+  <p>Per squalentia tesqua,</p>
+  <p>Et spelaea ferarum</p>
+  <p>Gressus fixit acerbos:</p>
+  <p>Tam non ipse sibi aequus</p>
+  <p>Quam Proeto grauis hosti.</p>
+</div>
+<div type="level1" xml:id="page17-11actvs-secvndvs.">
+  <head><pb n="17"/> <ptr target="#tn11" n="11"/>ACTVS SECVNDVS.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-1">
+  <head>SCENA PRIMA.</head>
+  <p>NATALIA.</p>
+  <p>QVID credis? aut quo pergis? aut quàm te facis</p>
+  <p>Obnoxia dolis mulier? Adrianus Deum?</p>
+  <p>Ille administer caedium, totus pio</p>
+  <p>Cruore manans, ille Christiadum timor,</p>
+  <p>Odium Tonantis? mite, feritati inuium</p>
+  <p>Natura dederat pectus; infregit furor</p>
+  <p>Dominorum, &amp; aulae ambitio, et impatiens boni</p>
+  <p>Vsus malorum, iamque plus dominis furit.</p>
+  <p>Vt gutture atro saeua maternum ebibit</p>
+  <p>Serpens venenum, quâque stagnatur palus,</p>
+  <p>Quáque nigra surgunt gramina, in tenebris agri</p>
+  <p>Depasta saniem creuit, &amp; Stygio halitu</p>
+  <p>Afflauit auras matre deterior malâ.</p>
+  <p>Vt fallere ardet cantus! vt cordis sinus</p>
+  <p>Penetrare caecos! Luna bisseno ambitu</p>
+  <p>Reparata vix dum cornua Oceano extulit,</p>
+  <p>Ex quo pudicâ iunxit Hymenaeus face</p>
+  <p>Iuueni maritant: sensit in fraudes sagax</p>
+  <p>Mihi templa sperni, vota non dici Ioui,</p>
+  <p>Non diuûm in aris, non lares inter domus</p>
+  <p>Sacrilega perdi thura: suspectam, indigam</p>
+  <p><pb n="18"/> Virtutis, inopem consili, arcanos iubet</p>
+  <p>Prodere recessus pectoris: seruum oppidò</p>
+  <p>Ad me fidelem legat: is anhelans, gemens,</p>
+  <p>Et ora foedans vnguibus, terram pede</p>
+  <p>Quatiens, perijmus Domina; quem casum gemis?</p>
+  <p>In vincla Dominus rapitur extremâ tonat</p>
+  <p>Furiosus irâ Caesar. Ego mente anxiâ,</p>
+  <p>Secura vultu; tenuis obductum abstulit</p>
+  <p>Vapor fauorem, prima quem reddet dies,</p>
+  <p>Sic aula ludit. Christus hoc, inquit, scelus</p>
+  <p>Et Magica fecit secta: Dum torquet reos,</p>
+  <p>Auditque miserûm somnia, induitur plagis</p>
+  <p>Incautus, excors, iamque Christiadum iacet</p>
+  <p>Inter cateruas. Dixit, &amp; iussâ artifex</p>
+  <p>Suffundit oculos lacrymâ, &amp; pectus manu</p>
+  <p>Vtrâque plangit, addit &amp; quae non agat</p>
+  <p>Simplex probari veritas. Sed cur meum</p>
+  <p>Explorat animum proditor? quam spem coquit?</p>
+  <p>Parúmne premimur, capitaquod bello inclyta,</p>
+  <p>Quod fortis virum Corpora immani gemunt</p>
+  <p>Discerpta letho? sexus armorum rudis,</p>
+  <p>Impos dolorum petitur? &amp; ne quà exeat</p>
+  <p>Inimica in auras secta; Christiadûm ferax</p>
+  <p>Damnatur vterus. Ergo me primam vocat</p>
+  <p>In arma coniux? specimen aliarum meo</p>
+  <p>De capite statuit? euge, celatum est nimis</p>
+  <p>Natalia, aude, Iudici dices palàm</p>
+  <p>Quod corde in imo saepe narrabas Deo.</p>
+  <p>Cui te reseruas timida? singula singulae</p>
+  <p>Vicêre quondam virgines, Prisca vngulas,</p>
+  <p>Caecilia gladium, Barbara &amp; saxa, et patrem,</p>
+  <p>Agnes iuuentam, sexum Agatha, Thecla omnia,</p>
+  <p>Et amare dubitas? &amp; times Christum sequi?</p>
+  <p><pb n="19"/> O cui superbos ante foemineus labor</p>
+  <p>Perdomuit animos hostium, &amp; tenerae manus</p>
+  <p>Ardua potentum colla truncarunt ducum</p>
+  <p>Si mihi palaestram pandis, &amp; honestâ iubes</p>
+  <p>Luctâ implicari, debiles artus tuo</p>
+  <p>Perfunde oliuo Christe, da membris statum,</p>
+  <p>Robur lacertis, si licet tecum, stygis</p>
+  <p>Furijs apertum tuta praebebo latus:</p>
+  <p>Hic dabit arenam carcer, hic socium tori</p>
+  <p>Quaero, per illum prompta, vel cum illo mori.</p>
+</div>
+<div type="level1" xml:id="scena-secvnda.-1">
+  <head><ptr target="#tn12" n="12"/>SCENA SECVNDA.</head>
+  <p>FLAVIVS. NATALIA.</p>
+  <p>BENE habet, secundâ flectis huc gressum alite</p>
+  <p>Natalia; ô si mitior cladem Deus</p>
+  <p>Praoccupasset, teque consilio bonam</p>
+  <p>Dedisset ante coniugi! staret suâ</p>
+  <p>Modo purpuratus gratiâ, &amp; magni latus</p>
+  <p>Cingeret amicum Caesaris: nunc, heu pudet</p>
+  <p>Meminisse! vinctos auget, &amp; nudâ iacens</p>
+  <p>Tellure, coelum voce blasphemâ asperat.</p>
+  <p>Nat. Ergone malorum rumor apprimè tenax</p>
+  <p>Mihi vera retulit, carceris clausum specu</p>
+  <p>Sub mole ferri gemere dimidium mei?</p>
+  <p>Flau. Queri remitte, maius auditu est malum</p>
+  <p>Quod ausus in vos Christianorum furor.</p>
+  <p>Sibi tibíque coniugem, at grauius sibi</p>
+  <p>Eripuit: ille scorpios, flammas, cruces,</p>
+  <p>Caeli execratus numina, in vota aduocat.</p>
+  <p>Iam longa iuueni vita, Circaeâ manu</p>
+  <p><pb n="20"/> Versum in Leonem dixeris: quodni iuuas,</p>
+  <p>Tibi Adrianus perijt. Natal. Ignaram mali</p>
+  <p>Rerum insuetam, vix adhuc primâ rudem</p>
+  <p>Taedâ maritam facere quid deceat, mone.</p>
+  <p>Flau. I flecte furias Caesaris, multâ prece</p>
+  <p>Roga salutem coniugi: accinget latus</p>
+  <p>Amica procerum turba, fundetur comes</p>
+  <p>Populus clientum: si placet solam ingredi,</p>
+  <p>Comitata satis est cui dedit formam Venus.</p>
+  <p>Natal. Frustrà rogamus, ille si mentem fouet</p>
+  <p>Rigidus moueri: cordis explorem sine</p>
+  <p>Prius latebras cauta. Flau. Consultè facis.</p>
+  <p>Stygiae paludis aura sed potius tibi</p>
+  <p>Toleranda veniat, quàm tenebrosae haurias</p>
+  <p>Domus mephitim: siste, dùm educo foras.</p>
+</div>
+<div type="level1" xml:id="scena-tertia.">
+  <head><ptr target="#tn13" n="13"/>SCENA TERTIA.</head>
+  <p>NATALIA.</p>
+  <p>NVNC tuta coelum aspicio, nunc plena Deos</p>
+  <p>Exsufflo buccâ: Christe tibi coniux meus,</p>
+  <p>Tibi Adrianus seruit, &amp; fidei gerit</p>
+  <p>Pignus catenas! ille non dudum Leo</p>
+  <p>Auidam cruore proluens sacro sitim,</p>
+  <p>Expectat aras agnus; &amp; votum Deo</p>
+  <p>Jnter gregales sponte dat ingulum popae.</p>
+  <p>Iam vera Sauli est fama, cui furias Deus</p>
+  <p>Excussit astris, voce non illâ tonans.</p>
+  <p>Quâ repetet olim mundus antiquum chaos</p>
+  <p>Compage ruptâ: mitiùs terret suos,</p>
+  <p>Iramque, amorémque inter exstimulat malos.</p>
+  <p><pb n="21"/> Talis maritum tetigit, &amp; patriâ manu</p>
+  <p>Vulnus reuulsit. Audio, gratae sonat</p>
+  <p>Stridor catenae: gaudia haud capiunt modum,</p>
+  <p>Tamen &amp; premantur teste dum sedes vacet.</p>
+</div>
+<div type="level1" xml:id="scena-qvarta.-1">
+  <head><ptr target="#tn14" n="14"/>SCENA QVARTA.</head>
+  <p>NATALIA. FLAVIVS.</p>
+  <p>PROH sancta coeli numina! ô rerum vices!</p>
+  <p>Adrianus hic est? Flau. Coniugem agnoscis tuum?</p>
+  <p>Talem videbas casta cùm primo Venus</p>
+  <p>Hausit medullas igne, cùm laetâ face</p>
+  <p>Roseus iugalem duxit Hymenaeus domum?</p>
+  <p>Vtrîque Roma inuidit, at plures tibi,</p>
+  <p>Mutatum ab illo cerne, quod luges, quota</p>
+  <p>Pars est futuri? doceat exemplo hic senex</p>
+  <p>Cui vermis intus bullit, &amp; coecâ effluunt</p>
+  <p>Artus peresi tabe. Nunc si quid potes</p>
+  <p>Restitue mentem coniugi; hoc Caesar iubet,</p>
+  <p>Hoc sperat aula: si pias Flaui preces</p>
+  <p>Natalia audis, oro; deceptum dolet</p>
+  <p>Perire amicum. Natal. Cura quod tangit mei,</p>
+  <p>Quod Adrianum diligis, dignas Deus</p>
+  <p>Grates rependat. Nunc quod vrgendum mones,</p>
+  <p>Quod vtérque cupimus, artibus totis agam,</p>
+  <p>Velit vt beatus esse, suadentem optima</p>
+  <p>Audiat amicum, neue se blandâ sinat</p>
+  <p>Sirene ludi. Flau. Sancta proh thalami fides?</p>
+  <p><pb n="22"/> Iam factum in aulam nuntio, quod te aggredi</p>
+  <p>Amor imperauit.</p>
+</div>
+<div type="level1" xml:id="scena-qvinta.">
+  <head><ptr target="#tn15" n="15"/>SCENA QVINTA.</head>
+  <p>ADRIANVS. NATALIA. ANTHIMVS.</p>
+  <p>-- MVLIER huc aurem, &amp; sile.</p>
+  <p>Ignémque &amp; vndam, iuncta non sacris sacra</p>
+  <p>Seu quae parentum iustus è ceris bona</p>
+  <p>Ingreditur haeres, siue quae fato occubans</p>
+  <p>Amico amicus legat, vnde vnde accidant,</p>
+  <p>Communia inter esse consortes tori</p>
+  <p>Voluêre iura Romuli: hoc animi pares</p>
+  <p>Coëunt in vnum foedere, concors domus</p>
+  <p>Clamosa nullis litibus lassat fora.</p>
+  <p>Sed aut eosdem iure connubij Deos,</p>
+  <p>Aut ritu eosdem colere, ni varij placent,</p>
+  <p>Lex nulla iussit: velle fac aliquam tamen;</p>
+  <p>Vtrum decebit cedere, &amp; placita alteri</p>
+  <p>Jnire sacra! foeminae arbitrio virum,</p>
+  <p>Virine potiùs foeminam numen dare</p>
+  <p>Geniúmque laribus? Ergo quodvinclis premi</p>
+  <p>Cernis maritum, fecit hoc Christi recens</p>
+  <p>Religio, pietásque agnita: aeternum vale</p>
+  <p>Adrianus aris dixit, &amp; saxis Deûm.</p>
+  <p>Vnum pudet, fecisse quod iubeor pati;</p>
+  <p>Sed &amp; iuuat fecisse, dum plenâ Deos</p>
+  <p>Clamant inanes voce, quos tenui halitu</p>
+  <p>Frangunt, ruuntque: Numem at Christi probant</p>
+  <p>Alacres resectis artubus, &amp; inter rogos</p>
+  <p>Dulci rigantur imbre, dum memorant piae</p>
+  <p><pb n="23"/> Seruata morti pretia: quod coelo bonum est,</p>
+  <p>Terrâque, ab vno fluere cui pereat. Nihil,</p>
+  <p>Redire in vnum cuncta cui accedat nihil;</p>
+  <p>Aspectu &amp; vno, mente purgatâ, exprimi</p>
+  <p>Quem nulla possint secla, non vlla appetat</p>
+  <p>Mutare satias: placuit &amp; virtus virûm,</p>
+  <p>Et causa: plura mente scrutatus piâ</p>
+  <p>Quid tegeret intus secta, quae sordet foris</p>
+  <p>Didici, &amp; probaui. Posse si verum eripi</p>
+  <p>Caesar catenis, aula consilio putat,</p>
+  <p>Tu flendo, blandiendo, libando oscula,</p>
+  <p>Spes porrò vanas alitis: edico palàm,</p>
+  <p>Nulla Adrianum cernet insanum dies.</p>
+  <p>Te lege soluo connubî, vt letho datus:</p>
+  <p>Viduam superstes coniugem coniux facit;</p>
+  <p>Alium iuuenta, forma, nobilitas, opes,</p>
+  <p>Et quae beata ducitis, ab aulâ dabit.</p>
+  <p>Viden’ vt catenae foedere aeterno mihi</p>
+  <p>Membrisque nubunt, squallor, &amp; situs, &amp; dolor?</p>
+  <p>Vt coniugalem carcer insternit torum?</p>
+  <p>Natalia vale: quid genas lacrymis rigas?</p>
+  <p>Non sum Adrianus ille: felicem tibi</p>
+  <p>Thalamum secundet qui virum abduxit Deus.</p>
+  <p>Stas etiam! amare pergis? ô, &amp; te soror</p>
+  <p>Amabis, &amp; me, sequere quam instituo viam,</p>
+  <p>Experta dices, spondeo, suauem malis</p>
+  <p>Jnesse sensum, supera tormentis emi,</p>
+  <p>Desinere mortem morte dum vita incipit:</p>
+  <p>Vbi nos perenni charitas iunget face:</p>
+  <p>Vterque amabit vtrumque, sed amati Deo,</p>
+  <p>Deumque amantes. Natal. Christe tam potens habes,</p>
+  <p>Tam dulce numen? Teneo te pars ô mei,</p>
+  <p><pb n="24"/> Adriane mea lux? effer euinctas manus:</p>
+  <p>Audi aula, túque Caesar, &amp; quatuor viris</p>
+  <p>Regnata tellus, audiat coelo Deus:</p>
+  <p>Nunc Adriani rite conuenio in manum</p>
+  <p>Non falsa coniux; Christus hoc vinclo inuicem,</p>
+  <p>Sibíque amantes sociat. O thalamum! ô faces</p>
+  <p>Diu cupitas! Numen aeterni patris</p>
+  <p>Natíque testor nullus humano procus</p>
+  <p>Thalamo iugandam Martyris rapiet sinu:</p>
+  <p>Non si quaterni Caesares mundi offerant</p>
+  <p>Dotale regnum: melius imperijs puto</p>
+  <p>Christi catenas ferre; nam sociam tori</p>
+  <p>Aliqua laborum parte fraudare haud velis,</p>
+  <p>Mi dulcis Adriane. Adrian. Te coniux amo</p>
+  <p>Christi sequacem iamque perpetui innouo</p>
+  <p>Leges amoris: esse te iubeo meam</p>
+  <p>Vltrà ipsa fata: qui prior pactam hic fidem</p>
+  <p>Socio, aut Tonanti fregerit, pereat sacer,</p>
+  <p>Et execrandus Tartari flammas alat.</p>
+  <p>Natal. Quodque est miserius Tartaro, coeli excidat</p>
+  <p>Fauore, gratiâque. Adrian. Dic autem soror</p>
+  <p>Vnde iste subitus pectus inuasit calor?</p>
+  <p>Natal. Fatebor equidem frater, &amp; totam dabo</p>
+  <p>Nataliam Adriano. Vnus &amp; mundo intulit,</p>
+  <p>Christóque peperit vterus: in cunis erat</p>
+  <p>Audire Christum ludus, haerentem vberi,</p>
+  <p>Christum docebat mater; accliui in sinum,</p>
+  <p>Christum canebat. Creuit interea simul</p>
+  <p>Aetas, amorque numinis, donec viro</p>
+  <p><pb n="25"/> Maturam amasti fratrer. Atque omnes licet</p>
+  <p>Virtute, formâ, genere, diuitijs procos</p>
+  <p>Longè anteires, pertinax cultus Deûm</p>
+  <p>Matrem auocabat, meque. Adrian. Tanto equidem meas</p>
+  <p>Mirabar opere penitùs eludi preces,</p>
+  <p>Mihi te negari. Natal. Restitit, donec minis</p>
+  <p>Caesar subegit: fleuimus. Nam quid dedit</p>
+  <p>Natura seruis melius? Extremum diem</p>
+  <p>Clauserat Olympo vesper, ad Laetas fores</p>
+  <p>Pilenta stabant, illa me arcanum domûs</p>
+  <p>Rapit in opertum, lapsus vbi coelo cibus,</p>
+  <p>Deúsque farre obtectus in subitae necis</p>
+  <p>Seruatur vsus. Hîc per augustas dapes,</p>
+  <p>Et habere si quid sanctius coelum potest,</p>
+  <p>Adiurat ardens, &amp; sacramentum praeit,</p>
+  <p>Omnesque in istud aduocat diras caput</p>
+  <p>Si fallo, si aras tango, si aspicio Deos.</p>
+  <p>Tum prona in humeros colla complexu pio</p>
+  <p>Dilecta stringit. Vltimum est quod te alloquor,</p>
+  <p>J nata felix: si qua relligio mouet</p>
+  <p>Dissidia, tu homini victa succumbas caue:</p>
+  <p>Quin oro vincas. In nouos Christus Lares</p>
+  <p><ptr target="#tn16" n="16"/>Domiducus esto, si datur Christum sequi:</p>
+  <p>Sin, viua nunquam tristetransilias domûs</p>
+  <p>Limen nefandae. Dixit, &amp; largè sinum</p>
+  <p>Lacrymis rigauit. Flentis abrepta è sinu</p>
+  <p>Flens ipsa currum scando: scit verax Deus</p>
+  <p>Quae vota fudi tacita, quàm stabili in minas,</p>
+  <p>Jn ferrum, in ignes robore armaui fidem.</p>
+  <p><pb n="26"/> Tibi iuncta nunquam thura delubro intuli,</p>
+  <p>Nunquam tuos ingressa spectaui lares:</p>
+  <p>Sed prima quoties nocte superatâ diem</p>
+  <p>Inuexit Eos: Cynthiam coelo Hesperus</p>
+  <p>Quoties reduxit; duplices Christo manus</p>
+  <p>Tuli, precésque mentis vt tenebras tuae</p>
+  <p>Felix bonúsque, solueret: dira interim</p>
+  <p>Sanctis parabas funera. Iratum anxiis</p>
+  <p>Vici Tonantem fletibus: iam spe irritâ</p>
+  <p>Malè fluctuantem erexit, &amp; mediâ dedit</p>
+  <p>In morte vitam quando votorum ream</p>
+  <p>Facis Adriane. Adrian. Munus agnosco soror</p>
+  <p>Tibi restitutae debeo mentis statum:</p>
+  <p>Sed &amp; queri permitte. Tàm cupidum tui,</p>
+  <p>Tàm purè amantem coniugem, tantum boni</p>
+  <p>Celare poteras? furere, bacchari in pios,</p>
+  <p>Virtutis hostem, debitum diti caput</p>
+  <p>Christo rebellem, immota spectasti virum?</p>
+  <p>Anthi. Quid virgo faceret? sanguine arentem sitim</p>
+  <p>Audax Leoni premeret? &amp; nudâ prece</p>
+  <p>Tardaret irae fulmen? humanis suum est</p>
+  <p>Adriane vitiis, &amp; suum tempus Deo.</p>
+  <p>Modò vorticosi more torrentis rapi</p>
+  <p>Sinit, suâque sponte consumi improbos.</p>
+  <p>Modò cursu in ipso frangit, &amp; stectit retrò.</p>
+  <p>Est vbi paratos, inque procinctu opprimat,</p>
+  <p>Hîc iustus, atque hîc. Pulsat interno tamen</p>
+  <p>Motu fugaces, atque peccati fodit</p>
+  <p>Stimulo, vocantem audire si sinerent Deum</p>
+  <p>Libido, &amp; animi gaudia insani mala.</p>
+  <p>Hos ergo Phlegethon vortice indomito abripit,</p>
+  <p><pb n="27"/> Auctorem &amp; ipsum culpa praecipitans agit.</p>
+  <p>Illos Deo trahente scelerata expuit</p>
+  <p>Vorago: quando? velle cùm primum incipis</p>
+  <p>Quod velle fecit; qui dedit, nouit sui</p>
+  <p>Momenta doni: quis salutarem prior.</p>
+  <p>Inuadat horam? Natal. Vera narrantem audio</p>
+  <p>Animose Martyr, omnium nouit pater</p>
+  <p>Quos, quando natis addat. Jn partem vocat</p>
+  <p>Saepe administros operis, hi si quid morâ,</p>
+  <p>Metú-ve peccant, nonne tardatae reos</p>
+  <p>Faciet salutis? Talis ad genua accido.</p>
+  <p>Jgnosce frater, facta peccaui tua,</p>
+  <p>Prohibere potui, saepe trepidantem impulit</p>
+  <p>Calestis ardor, saepe compressi impetum.</p>
+  <p>Heu! dum morantem prauus absterret pudor.</p>
+  <p>Tuas secures innocens tinxit cruor.</p>
+  <p>Tot scelera quae mors vindicet? quis me rogus</p>
+  <p>Satis rapace perfidam flamma expiet?</p>
+  <p>Nunc hora sanctos morte communi vocat</p>
+  <p>Placare manes; Cernis vt pariter reos</p>
+  <p>Vindex eandem Christus ad poenam aggregat?</p>
+  <p>Satis vnus est vtrique carcerque, &amp; dolor,</p>
+  <p>Et Caesar vnus. Adrian. Sponte metuendum viris</p>
+  <p>Tentare bellum parce, quod mecum haud licet,</p>
+  <p>Patieris in me. Natal. Non placeo consors boni?</p>
+  <p>Quae culpa damnat? scelere quo teneor nocens?</p>
+  <p>Aut si nocens sum quid mihi poenam negas?</p>
+  <p>Ego te relinquam? si quid in morte est boni</p>
+  <p>Mihi inuidetur? si quid in morte est mali</p>
+  <p>Vni irrogatur? Seu me amas, seu non amas</p>
+  <p>Crudelis, astra deligis, terram &amp; mala</p>
+  <p><pb n="28"/> Tibi spreta sumam? non hic Astraeae est tenor</p>
+  <p>Tua illa non sunt quae malè herciscis bona:</p>
+  <p>Vtriúsque partem diues implebit Deus.</p>
+  <p>Anthi. Nemo à Tonante reuocat, aut terrae bona</p>
+  <p>Curare suadet, filia; Haud vno pares</p>
+  <p>Conuexa coeli tramite beati tenent.</p>
+  <p>Diuersa vitae est forma: cupienti putas</p>
+  <p>Meritoue stadium mortis aperiri inclytae?</p>
+  <p>Deus hoc Deus dispensat, &amp; vitae arbiter,</p>
+  <p>Hic morte siccâ placidus euoluet dies,</p>
+  <p>Hic ferrum, &amp; ignes vincet: hic coelum abdito</p>
+  <p>De nemore rapiet, inquit, vt iussi gradum</p>
+  <p>Statione serui figimus, quáque euocat</p>
+  <p>Dominum volentes sequimur. An bonus est, Dei</p>
+  <p>Cui non probatur ordo? Te miti iubet</p>
+  <p>Exire letho, nulla tortorum manus</p>
+  <p>Eripiet animam: voce, fomentis, prece,</p>
+  <p>Dominum iuuabis, &amp; ministerio attrahes</p>
+  <p>Partem coronae. Martyrum primos gradus</p>
+  <p>Tenere non permissa, ne sperne alteros.</p>
+  <p>Natal. Has quando lentae destinat mortis vices</p>
+  <p>Cortina coeli, spes mihi pereant meae,</p>
+  <p>Tibi reddo votum hoc Christe: seruitij fide</p>
+  <p>Animum probabo, quolibet fatum vocet,</p>
+  <p>Vinctos per omne Caesar imperium trahat,</p>
+  <p>Sequar vsque in ignes. Multa famulantum manus</p>
+  <p>Hinc iam excubabit ne quis inopinus mihi</p>
+  <p>Vos turbo rapiat. Adrian. Parce non fidas soror</p>
+  <p><pb n="29"/> Agitare mentes, pectoris Christus sinu</p>
+  <p>Latere pergat, ipsa narrabis tibi</p>
+  <p>Quid res, &amp; vsus poscat: hinc nusquam inscia</p>
+  <p>Te demigrabo, nuntius sortis meae</p>
+  <p>Ad te recurret Martyr, aut si quis potest</p>
+  <p>Magis esse fidus. Clauis interea lares</p>
+  <p>Resignet omnes, quósque sacrilegus Deos</p>
+  <p>Coluisse doleo, frange: Vulcani pede,</p>
+  <p>Capite louis, petasóque Mercurij, indigum</p>
+  <p>Dita popellum: prosit hoc certè aureos</p>
+  <p>Fecisse diuos. Anthi. Cede confestim loco,</p>
+  <p>Compone vultus, Consulis prodit cohors.</p>
+</div>
+<div type="level1" xml:id="scena-sexta.">
+  <head><ptr target="#tn17" n="17"/>SCENA SEXTA.</head>
+  <p>TITIANVS. NATALIA.</p>
+  <p>HOc est amare, iura sic pangis tori</p>
+  <p>Natalia, euge, Caesar &amp; proceres probant,</p>
+  <p>Pietásque matronalis: iratos Deos</p>
+  <p>Optare poteras: non manum ad palmam comes.</p>
+  <p>Sed testis oculos adfero: si quid sapit</p>
+  <p>Adrianus, omne coniugi acceptum dabo.</p>
+  <p>Quo res Loco sunt? Natal. Quantus Hybernas Athos</p>
+  <p>Patitur pruinas; qualis aut Cauri minis</p>
+  <p>Inhospitale Bosphorus praebet latus,</p>
+  <p>Talis Deorum obsequia, &amp; ambitas priù</p>
+  <p>Nunc audit aras durus, intractabilis.</p>
+  <p>Nil nostra pectus verba, nil lacrymae mouent</p>
+  <p>Adamante clausum. Dicere ardentem priùs</p>
+  <p>Silere iussit: longa consilij sui</p>
+  <p><pb n="30"/> Exorsa deinde fatus, absoluit fide,</p>
+  <p>Ni sua probarem sacra. Necquicquam nouos</p>
+  <p>Ritus suasit; matris acceptum è sinu</p>
+  <p>Mihi nemo numen auferat, quin &amp; iubet</p>
+  <p>Simulacra diuûm frrangere, &amp; forti lares</p>
+  <p>Violare dextrâ. Timeo conatu irrito</p>
+  <p>Ne vestra ludat vota, ne Procerum decus</p>
+  <p>Traducat aulâ victor, aequalem sibi</p>
+  <p>Narrate potius Caesari, &amp; promptum mori.</p>
+  <p>Addite querelis comugis victae preces.</p>
+  <p>Ne longa ducat funera, aut miseri vago</p>
+  <p>Supplicia spargat orbe; quod potui hactenus</p>
+  <p>Debere viuo, praestiti, Titia. O coniux viro</p>
+  <p>Meliore digna (Caesaris iuro caput)</p>
+  <p>Quicquid Adrianus statuat, haec nunquam fides</p>
+  <p>Morietur indotata, seu primas placet</p>
+  <p>Renouare taedas, seu malè astrictam nouus</p>
+  <p>Zonam maritus soluet; at veteres velim</p>
+  <p>Durare amores; &amp; dabit spero manum</p>
+  <p>Amico amicus Consuli. Natal. Quò non prius</p>
+  <p>Blanditia subiit foeminae, per vim &amp; metum</p>
+  <p>Penetrare speras? notus est animus viri</p>
+  <p>Leuitatis expers, irrita in damnis suis</p>
+  <p>Sensi proteruum saepe, &amp; immotum gradu.</p>
+  <p>Adriane, vel si nomen antiquum probas.</p>
+  <p>Dilecte coniux, aulicae florem vides</p>
+  <p>Fidelitatis, sana consilia accipe;</p>
+  <p>Vbi scis, &amp; vnde cogita: praesens malum</p>
+  <p>Minus futuro statue: per oculos precor</p>
+  <p>Meos tuósque, pronubo iunctam annulo</p>
+  <p>Teneo malum, osculórque, per thalami fidem,</p>
+  <p>Memor supremi foederis, mentem indue</p>
+  <p><pb n="31"/> Dignam Adriano: si qua rationi negas,</p>
+  <p>Ah! tuósque perdis aeternum miser.</p>
+</div>
+<div type="level1" xml:id="scena-septima.">
+  <head><ptr target="#tn18" n="18"/>SCENA SEPTIMA.</head>
+  <p>GALLVS. TITIANVS. ADRIANVS. ANTHIMVS.</p>
+  <p>TVne hos amores rigidus, illacrymabilis</p>
+  <p>Caute rhodopoea tristior, surdo Ioue</p>
+  <p>Sprenisse speras? pectus alienum mouent.</p>
+  <p>A te remittis irritas? Titian. Vinci pudet</p>
+  <p>Vni Adrianum foeminae; agnosco virum.</p>
+  <p>Titianus alia consul, &amp; custos sacri</p>
+  <p>Gallus palatî verba non tardè expriment:</p>
+  <p>Vt haec placet promulsis? vt sectam aspero</p>
+  <p>Expertus Adriane à rudimento aestimas?</p>
+  <p>Plebeia iure talis Astraeae chalybs</p>
+  <p>In capita saeuit. Nam quod est Christi genus?</p>
+  <p>Male penulata turba, quisquiliae vrbium,</p>
+  <p>Credula mulierum seruitus, mendica plebs;</p>
+  <p>Non vllo auorum stemmate, aut opibus potens,</p>
+  <p>Honoribúsque fulta: non sophiae Attico</p>
+  <p>Lepore tincta, sortis &amp; vitae bona</p>
+  <p>Quae non habent, sperant-ve, spreuisse ambiunt.</p>
+  <p>Hinc ille regum hinc ille contemptus Deûm,</p>
+  <p>Et non inaudax animus in metâ mali.</p>
+  <p>Adde &amp; furentum somnia, hospitium in vetus</p>
+  <p>Redire laruas, busta viuendo sua</p>
+  <p>Superare cineres, siue mobilibus iocos</p>
+  <p>Dedêre ventis, membra seu tumuli indiga</p>
+  <p>Pauêre volucres: mortuis, laceris feris</p>
+  <p>Per secla mille in omne transfusis genus,</p>
+  <p><pb n="32"/> Artus suos ex iure consertum manu</p>
+  <p>Elementa repetent: haec mea, haec non sunt mea,</p>
+  <p>Haec fecit oculum portio, haec clauos pedum</p>
+  <p>Compago finxit. Christus arboreâ sedens</p>
+  <p>In sede Praetor; inite praesentes viam;</p>
+  <p>Viam redite, dicet; noc frustum arbuti,</p>
+  <p>Tuum esto, hic eius caulis est. Risum haec cient</p>
+  <p>Fletumne? leue sit error incautos agens</p>
+  <p>Si staret intrà fabulam; exundat furor</p>
+  <p>Jn ferrum, &amp; ignes, quaque difficile est mori,</p>
+  <p>Gradiuntur hac spe: dumque post mortem timent</p>
+  <p>Perire, mortem non timent. Dignum viris</p>
+  <p>Religio numen reperit, vt adorent cruces</p>
+  <p>Quas ita merentur. quî suum violant Deum,</p>
+  <p>Si sic putant placare? Si noui tuos</p>
+  <p>Adriane sensus, fabulas vulgum suas</p>
+  <p>Iussisti habere; melior ad Christum tulit</p>
+  <p>Ignota nobis causa. Praeteritos malè</p>
+  <p>Pensat labores Caesar? auditam omnibus</p>
+  <p>Aulis querelam generis: hoc Reges habent</p>
+  <p>Ingratum, iniquum, cuncta deberi putant</p>
+  <p>Quae sponte facimus publico intenti bono.</p>
+  <p>Hos tarda merces sequitur: hos sterilis fauor</p>
+  <p>In lucrum hiantes ludit: aspectu Deûm</p>
+  <p>Nati benigno (pars quota infelicium?)</p>
+  <p>Amantur, &amp; ditantur: &amp; quod plus dolet,</p>
+  <p>Quod sanguine emitur, gratiam Domini vocant.</p>
+  <p>Quamquam &amp; fauoris, non palatinae vetus</p>
+  <p>Miles cohortis, editum insistis gradum.</p>
+  <p>Quaesitor omnes lectus aequales suprà,</p>
+  <p><pb n="33"/> Senúmque canos. Caesar haud alio queat</p>
+  <p>Testari amorem pignore; huic nuper fidem</p>
+  <p>Validè probabas ipse, cum magicis retrò</p>
+  <p>Mens iuit acta vocibus, teque improbâ</p>
+  <p>Afflauit aurâ coluber incautum, &amp; sibi</p>
+  <p>Nimis imminentem. Cura si vitae est super</p>
+  <p>Deluse, mentem recipe; vel si te abdicas,</p>
+  <p>Mihi, Gallo, amicis redde. Adrian. Quod de me rogas</p>
+  <p>Titiane, doni Caesar hoc faciet sui,</p>
+  <p>Si placeo; Christum testor, impendam hoc caput,</p>
+  <p>Vitamque amicis. Nam quod in venis fluit,</p>
+  <p>Quod spirat imo in corde, quod membra haec fouet,</p>
+  <p>Regi sacrauit ortus. Innatam fidem</p>
+  <p>Quod crimen intercepit, euulsit metus,</p>
+  <p>Abstersit error? fidus, &amp;, fas sit loqui,</p>
+  <p>Rogatus aulae veni in obsequium, bonus</p>
+  <p>Potui videri cum bonis feci malè.</p>
+  <p>Erat hoc in albo regis officij decus:</p>
+  <p>Ego nunc furorem appello, &amp; immanem sitim.</p>
+  <p>Nam qualis hostes tractat &amp; scelerum reos,</p>
+  <p>Qui iubet amicos furere? sed non hoc queror;</p>
+  <p>Iubeat, reponam munus; aut si non licet</p>
+  <p>Hostire regi, ne quis ingratum arguat,</p>
+  <p>Doni fatebor gratiam, quodque est super</p>
+  <p>Vitae, ibo nexus, vile seruitium exequar</p>
+  <p>Quódque aere nequeo nomen exoluam artubus,</p>
+  <p>Debitor amoris, Vltimas addo preces,</p>
+  <p>Tenue est quod opto: libero coelum ferat</p>
+  <p>Spectare vultu, neu mihi sacra imperet,</p>
+  <p>Deúm-ve. Plures astra si coeli tenent,</p>
+  <p><pb n="34"/> Eligere detur: tota si coijt boni</p>
+  <p>Natura in vnum, qui ima, qui supera impleat.</p>
+  <p>Colatur vnus. Túne tam certo regi</p>
+  <p>Tenore mundum sub duce incerto putas?</p>
+  <p>Quando potestas vlla consortem tulit?</p>
+  <p>Romae parentes vix sub vberibus lupae</p>
+  <p>Lite abstinebant: perfidum Oedipodae genus</p>
+  <p>Commisit aestus sceptri, &amp; odiorum faces</p>
+  <p>Secutus ignis, duplicem fecit rogum</p>
+  <p>Vno è sepulchro. Perdidit generum socer,</p>
+  <p>Et quà refuso cingitur tellus mari,</p>
+  <p>Tot gentium altrix ampla, non cepit duos.</p>
+  <p>Quid alia memorem? ductor armenti gregem</p>
+  <p>Minatur vnus; regna mellita obtinet</p>
+  <p>Rex vnus apium: creditam ponto ratem</p>
+  <p>Gubernat vnus: temperat castra, &amp; feras</p>
+  <p>Dux vnus acies. Supera diuiso regi</p>
+  <p>Imperia domino credis, &amp; rerum caput</p>
+  <p>In varia spargi? quis laboranti Deo</p>
+  <p>Opus est minister? Anthi. Velle quod bonitas facit,</p>
+  <p>Dedit potestas facere, quod vasto ambitu</p>
+  <p>Coërcet orbis artifice verbo edidit,</p>
+  <p>Ipsumque nutu fecit omnifero chaos,</p>
+  <p>Genus vnde et homines duximus. Sed non pari</p>
+  <p>Quâ muta lege: copiam vitae facit</p>
+  <p>Vt grata pietas dona factori sua</p>
+  <p>Memori reponat pectore: vt mentes regat</p>
+  <p>Animosa virtus: vt per obstantum minas</p>
+  <p>Suppliciáque eluctata difficilem fides</p>
+  <p>Rapiat Olympum, séque genitori applicet</p>
+  <p>Sine fine felix. Liuor incassum fremat,</p>
+  <p>Splenem in cachinnos attici soluant sophi,</p>
+  <p><pb n="35"/> Nemo vetabit eloqui. Letho datos,</p>
+  <p>Dudum sepultos hora rediuiuo situ</p>
+  <p>Componet artus; hora quâ Christi ad thronum</p>
+  <p>Fandi, &amp; nefandi stabimus, vitae dies</p>
+  <p>Remetietur Praetor: in coelum boni,</p>
+  <p>Vos alij in orcum, dicet: vt quemque impulit</p>
+  <p>Sui potestas, pretia factorum ferat</p>
+  <p>Mutanda nunquam. Consul haec risum cient,</p>
+  <p>Fletumne? lethes gurgite immergi putas</p>
+  <p>Hominémque totum morte perpetuâ emori?</p>
+  <p>Si reuolat animus liber &amp; coeli domos</p>
+  <p>Affectat, vrnam casus, an Iudex mouet?</p>
+  <p>Damnatur orco iustus, elysiis mali</p>
+  <p>Spatiantur agris? Membra restitui negas?</p>
+  <p>Promittit ipse conditor; cùm nil forem</p>
+  <p>Verbo esse fecit, inde transfusum in feras</p>
+  <p>Non est potis reuocare? Tabescam in fretis,</p>
+  <p>Pascam leones, aethra suspensum enecet,</p>
+  <p>Ludibria ventis praebeam, flammis cibos,</p>
+  <p>Extra Pronoeam nil iacet: gremio excipit</p>
+  <p>Mundus cadentem, tutus hâc condor penu</p>
+  <p>Domini potentis. Iussa depositi fidem</p>
+  <p>Elementa reddent. Aspice vt moritur dies,</p>
+  <p>Iterumque coelo exoritur; vt veris tepor</p>
+  <p>Hyberna soluit frigora, &amp; gratâ vice</p>
+  <p>Syluae resurgunt: semen immissum solo,</p>
+  <p>Multóque aratum vomere, &amp; fimo obrutum</p>
+  <p>Non ante mortem germinat: busto exilit</p>
+  <p>Reparata Phoebi volucris, inque auras meas</p>
+  <p>Nunquam ipsa, &amp; ipsa semper. Haec rerum potens</p>
+  <p>Sic ire voluit, pignus vt certum boni</p>
+  <p>Daret futuri; quod priùs factum tulit</p>
+  <p><pb n="36"/> Transactus ordo, posse venturis probat</p>
+  <p>Redire seclis. Titian. Error hic, seu spem vocas,</p>
+  <p>(Nam quis silentum testis è regno redit?)</p>
+  <p><ptr target="#tn19" n="19"/>In aperta mittit funera, &amp; patitur cruces</p>
+  <p>lam non colendas: quíque defunctos Deus</p>
+  <p>A morte reuocat, morte defungi haud vetat:</p>
+  <p>Inique, vtrumque si potest; si non potest,</p>
+  <p>Impostor, imbecillus, immanis suis.</p>
+  <p>Anthi. Et posse ratio suadet, &amp; velle interim</p>
+  <p>Monstrauit vsus. Iacuit ad nudos pedes</p>
+  <p>leiuna tigris; ignium immanes rogos</p>
+  <p>Placidus rigauit imber; horrendum vngulae</p>
+  <p>Posuit rigorem interque luxantes puer</p>
+  <p>Suaue risit machinas. Solui interim</p>
+  <p>Sinit in dolores corpus: vt placitum, vt iuuat</p>
+  <p>Durè experitur filios. Fortem putas</p>
+  <p>Quem nemotentat, nemo virtutis probat</p>
+  <p><ptr target="#tn20" n="20"/>Robur latentis? nonne par dignum Deo est.</p>
+  <p>Forti viro composita fortunae manus,</p>
+  <p>Etiam furentis? laetus hoc spectat suo</p>
+  <p>Intentus operi praelium, &amp; stabilem parat</p>
+  <p>Brabenta laurum. Victa me Siculo inferat</p>
+  <p>Fortuna tauro, condat Arsacidum scaphis,</p>
+  <p>Plumbo vrat artus, vulnus incassum irruet</p>
+  <p>In non pauentem. Caesus adamantis rigor</p>
+  <p>Ferróque, &amp; homini iniuriam impingit suam,</p>
+  <p>Immissa in auras tela Achaemenij ducis</p>
+  <p>Fecere tenebras, vlla semotum attigit</p>
+  <p>Sagitta solem? vincla Neptuni manus</p>
+  <p>Strinxêre ponto iniecta? non miser est dolor,</p>
+  <p>Sed mens dolore fracta. Seruatae reus</p>
+  <p><pb n="37"/> Fidei, catastas Regulus, tenebras, cruces,</p>
+  <p>Et quod malorum maximum est, Poenos tulit,</p>
+  <p>Miserum putabis? vnctus epulatur Nero,</p>
+  <p>Interque largas regij luxûs dapes</p>
+  <p>In summa ludit capita; quà iussit Sporus</p>
+  <p>Cadit Senatus; Roma pulsanti Chelyn</p>
+  <p>Tumulata flammis barbarum inspirat melos,</p>
+  <p>Dices beatum? Quęmlibet mente aestima,</p>
+  <p>Vtramque virtus Domina fortunam regit:</p>
+  <p>Honesta mors, aut vita sapienti est bonum.</p>
+  <p>Gallus. Honesta ne sit, diritas poenae vetat.</p>
+  <p>Anthi. Fieri beatam nec vetat, claram facit.</p>
+  <p>Gallus. Non esse tanti non emo. Anthi. Virtus emat.</p>
+  <p>Gallus. Si porrò eundum est vnico impulsu exeam.</p>
+  <p>Anthi. Referre credis quamdiu, aut vnde exeas,</p>
+  <p>Si porrò eundum est? Gallus. Morte finitur dolor,</p>
+  <p>Nolim diu perire, ne peream semel.</p>
+  <p>Anthi. Velim ego semel perire, ne peream diu.</p>
+  <p>Gallus. Horrenda mors est illa quam leges iubent.</p>
+  <p>Anthi. At sempiternam perfidis cudit Deus.</p>
+  <p>Gallus. Amoena vitae gaudia, &amp; laetum iuuat</p>
+  <p>Coluisse genium, viuida ad ludum, &amp; iocos</p>
+  <p>Jnuitat aetas. Egone praesentum bona</p>
+  <p>Stultus dierum perdam, vt incerti metu</p>
+  <p>Crucier futuri? Anthi. Scilicet lege hâc satus</p>
+  <p>Venisti in auras? nulla virtutis tibi</p>
+  <p>Mandata cura est? vna te letho dies</p>
+  <p><pb n="38"/> Animámque rapiet? fabula, &amp; cinis, &amp; nihil</p>
+  <p>Post fata fies? Sed quid in vitâ expetis?</p>
+  <p>Quod illud est, cui totus incumbis, bonum?</p>
+  <p>Fortuna vanus mentis elusae iocus.</p>
+  <p>Spolium senectae robur, &amp; morbo decor.</p>
+  <p>Cohors amica, miseriae solatium.</p>
+  <p>Ventosa longo syrmate ambitio tumet,</p>
+  <p>Malefida in alto lubricos ponit gradus.</p>
+  <p>Quid opes? periclum possidentis, aut onus.</p>
+  <p>Et auara in omnes vota porrigitis plagas:</p>
+  <p>Solísve nomen prodigâ indulsit manu</p>
+  <p>Quodcunque nascens Phoebus, aut moriens videt?</p>
+  <p>Ager ille populum cepit, &amp; Domino vacat</p>
+  <p>Non solus vni. Fundus hic, regnum fuit.</p>
+  <p>Haec illa foribus clausa tercentum domus.</p>
+  <p>Cui vacua longas atria obiiciunt moras,</p>
+  <p>Validaeque turres acre propugnant latus,</p>
+  <p>Vrbs esse potuit. Ite littoreos sinus</p>
+  <p>Onerate villis, cycladas Hesperio mari,</p>
+  <p><ptr target="#tn21" n="21"/>Cycladas Eoo spargite; extra anni vias</p>
+  <p>Locate sedes, omnia extruitis loca,</p>
+  <p>Viuitis in vno, singuli. Sunt haec mala,</p>
+  <p>Sed pulchra. Luxus adice, Pontificum dapes</p>
+  <p>Ventris saburram. quid Dionaeae loquar</p>
+  <p>Meretricis ignes, turpe quà placuit bonum?</p>
+  <p>Quid coniugalis proditam lecti fidem?</p>
+  <p>Salit in Priapum, fascino nupta insidet:</p>
+  <p>Foeda euiratos flammea obnubunt sporos:</p>
+  <p>Ingens cinaedum tumulus Antinoüm tegit.</p>
+  <p>Ruitur in haec propudia? in hoc aninum polo</p>
+  <p>Hausistis homines? sceleribus scelera additis:</p>
+  <p>Beatitatis magna pars vestrae est, diu</p>
+  <p>Peccare: leges scilicet dirum tonent,</p>
+  <p><pb n="39"/> Immunis esse qui potest, insons erit.</p>
+  <p>Titian. Priuata quereris, hominis haud populi mala.</p>
+  <p><ptr target="#tn22" n="22"/>Anth. Vnum vnus, omnes omne complestis nefas</p>
+  <p>Titian. Sibi quisque mentem moribus fingit suis.</p>
+  <p>Anthi. Sibi quisque mores fingit ad mentem, &amp; Deum.</p>
+  <p>Titian. In praua nullus deuios ducit Deus.</p>
+  <p>Anthi. In praua multi deuios ducunt Dei.</p>
+  <p>Titian. Boni malorum vindices? Anthi. Imo rei.</p>
+  <p>Titian. Natura sanctos fecit. Anthi. At vita improbos.</p>
+  <p>Titian. Humana de diis loqueris. Anthi. Et diuos putas?</p>
+  <p>Gallus. Quid illa tangis? sacra Pontifices canant.</p>
+  <p>Adriane solùm id posceris, legum impiger</p>
+  <p>Mandata facias: quisquis est coelo Deus,</p>
+  <p>Coelum gubernet; more quo Domini volunt,</p>
+  <p>Viuatur istic. Nam coli frustra autumo</p>
+  <p>Sibi quietum, fata voluentem sua.</p>
+  <p>Haurire fumos thuris, &amp; donis capi,</p>
+  <p>Aut capere vota vulgus insanum putet,</p>
+  <p>Et hoc timore gentium constet quies.</p>
+  <p>Mens alia nobis: cuique fortuna est Deùs,</p>
+  <p>Fauorque Regum Iuppiter. Christus, simul</p>
+  <p>Vterque neuter, sunto si reges volent</p>
+  <p>Diui, &amp; colantur. Adrian. Istud impietas mihi,</p>
+  <p>Gallusne suadet? sic Deo nulli litas,</p>
+  <p>Professus omnes? Si tuam dextram, &amp; fidem</p>
+  <p>Romanus hinc, hinc hostis ad partes vocet.</p>
+  <p><pb n="40"/> Vtrique faueas casus vt quemque offerret?</p>
+  <p>O Perduelles! innocens Christi genus</p>
+  <p>Fidumque, nullo Regum in obsequio labat,</p>
+  <p>Reges habere vos putem, expertes Dei?</p>
+  <p>Gallus. Aures amicis denegas? Adrian. Ite impij,</p>
+  <p>Mea sacra testor, nunc amicitiae pudet.</p>
+  <p>Titian. Reconde latebris miles, &amp; vincla aggere,</p>
+  <p>Iter est in aulam. Caesaris te iam puta</p>
+  <p>Iustum ad Tribunal stare. Adrian. Vos rigidum Dei</p>
+  <p>Cito ad Tribunal. Gallus. Regium cingent latus</p>
+  <p>Irae, neces, tormenta. Adrian. Cum Christo irruent</p>
+  <p>Crucesque, &amp; ignes, &amp; rotae, aeterna omnia.</p>
+  <p><hi rend="bold"><ptr target="#tn23" n="23"/>CHORVS.</hi></p>
+  <p>DICITE pubes candida Christum,</p>
+  <p>Lauro circùm tempora vincti:</p>
+  <p>Christi ducat Roma choreas</p>
+  <p>Male Caesareis aucta triumphis.</p>
+  <p>Perfida sacrilegam voluebant secula noctem,</p>
+  <p>Vndabantque aris vulgus ferale Deorum:</p>
+  <p>Fudit humus superos, immortalémque creauit</p>
+  <p>Materia informis populum, super aurea coeli</p>
+  <p>Sidera, adulterio soboles Saturnia creuit.</p>
+  <p>Allijs audet dare thura Memphis:</p>
+  <p><pb n="41"/> Scythes cruento supplicat ensi:</p>
+  <p>Inuenit aras Simia turpis:</p>
+  <p>Et tu Crocodile, voratâ</p>
+  <p>Puerûm sufferte cateruâ.</p>
+  <p>Haec portenta Deûm</p>
+  <p>Seculi quos consecrat error impuri</p>
+  <p>Damnasti auerno Christe, verum</p>
+  <p>In iura sibi debita vt asseras Tonantem.</p>
+  <p>Tu Solis Radius non variabilis:</p>
+  <p>Tu fons fonte satus; tu speculi nitor</p>
+  <p>Vinam perpetuò reddis imaginem,</p>
+  <p>Spectantémque refers, vides videntem,</p>
+  <p>Nec spectante minor, nec iunior</p>
+  <p>Aeterno generante prenniter.</p>
+  <p>Omnia posse,</p>
+  <p>Omnia scire,</p>
+  <p>Optima velle, dedit Natiuitas.</p>
+  <p>Tu sanctus, tua Sanctitas:</p>
+  <p>Tu bonus, Bonitas tua:</p>
+  <p>Tu rerum archetypum vetus,</p>
+  <p>Irreprensibilis regula tu boni.</p>
+  <p>Dum te, dum redamas Patrem</p>
+  <p>Vinclo non resolubili</p>
+  <p>Sanctis nexus amoribus,</p>
+  <p>Quem producis amorem!</p>
+  <p>Quando mortalis super-induisti</p>
+  <p>Membra naturae, simul &amp; paterno</p>
+  <p>In sinu clausus, simul &amp; videri</p>
+  <p>Inter aequales facilis, liquentes</p>
+  <p>Aequorum passu solidante campos</p>
+  <p>Tutus intrasti; siluêre venti,</p>
+  <p>Et procellarum posuit tumultus.</p>
+  <p><pb n="42"/> Corporum pestes abiêre morbi [&lt; abîere]</p>
+  <p>Vocis ad nutum Dominae: sepultis</p>
+  <p>Reddidit manes libitina membris:</p>
+  <p>Hospes impuro Phlegetonte missus</p>
+  <p>Sensit imperium, maléque occupatos</p>
+  <p>Perdidit artus.</p>
+  <p>Te coelestem monstrante viam</p>
+  <p>Fugit ab aris lugubre sonans</p>
+  <p>Plebs vana Deûm: Cortina silet,</p>
+  <p>Periitque fati Phoebus ignarus sui,</p>
+  <p>Prius alieni perspicax.</p>
+  <p>Iamque Mercurius, claudicansque laeso</p>
+  <p>Poplite Vulcanus,</p>
+  <p>Satyrûmque, Faunorumque cornuta</p>
+  <p>Monstra, &amp; Olympi</p>
+  <p>Eiecto Patre tyrannus</p>
+  <p>Fraudes professi, nomina vana</p>
+  <p>Et largos populis dedere risus.</p>
+  <p>Quid styx ringeris?</p>
+  <p>Quid tot suppliciis treribiles Eumenidum manus</p>
+  <p>In Christi genus armas?</p>
+  <p>Prospero viuet data secta coelo:</p>
+  <p>Christus Romuleum tenebit orbem,</p>
+  <p>Et verum miseris mortalibus</p>
+  <p>Pandet iter sua per vestigia.</p>
+  <p>Tempus erit cum tranquillâ rate</p>
+  <p>Mundum sulcabit Christi decus.</p>
+  <p>Christum claustra canent Mareotica,</p>
+  <p>Et non inuito sub gutture</p>
+  <p>Christum stridebit scythicus rigor:</p>
+  <p>Surgentíque Indus Phoebo obuius</p>
+  <p>Dulce salutabit Christi iubar.</p>
+  <p>Génsque Iouis cultrix Maurusia,</p>
+  <p><pb n="43"/> Massagetûmque minax truculentia,</p>
+  <p>Mansuescet Christi sub nomine.</p>
+  <p>Aurea tum current promissi secula mundi,</p>
+  <p>Mutabit natura vices, reparata tumebit</p>
+  <p>Fruge nouâ tellus; Pax diuite candida peplo</p>
+  <p>Vmbrabit latè populos; terrásque reuisens</p>
+  <p>Sparget honoratum viuax Astraea serenum</p>
+</div>
+<div type="level1" xml:id="actvs-tertivs.">
+  <head>ACTVS TERTIVS.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-2">
+  <head><ptr target="#tn24" n="24"/>SCENA PRIMA.</head>
+  <p>FLAVIVS. ADRIANVS. ANTHIMVS.</p>
+  <p>Si non, iniquo tempore, exosus tuos</p>
+  <p>Ad vnum amicos, aliqua consilia accipis,</p>
+  <p>Permitte fari; Adriane quisquis te Deus</p>
+  <p>In illa adegit verba, peccasti improbè.</p>
+  <p>Proceres decebat mitius habere imperî,</p>
+  <p>Excipere honore publico, &amp; fidas boni</p>
+  <p>Consulere voces: imprimis saeuum vlceri</p>
+  <p>Doliturus vnguem, quamque sopire est opus</p>
+  <p>Tenace flammam perditus oliuo foues.</p>
+  <p>Vidi quietum Caesarem, &amp; iam iam tuo</p>
+  <p>Veniam daturum crimini: orabant tui,</p>
+  <p>Tuae &amp; propinqui coniugis. Cùm aulam gradu</p>
+  <p>Rapiunt citato Consul, &amp; Gallus comes,</p>
+  <p>Suos labores, coniugis lacrymas, tua</p>
+  <p>Responsa narrant, quódque vix credi queat,</p>
+  <p><pb n="44"/> Linguae procacis iurgio, &amp; grauibus probris</p>
+  <p>Nequiter abactos fugere se; qualis pede</p>
+  <p>Qui pressit anguem incautus. Hîc fremere aulici,</p>
+  <p>Pallere amici, Maenadum in morem faces</p>
+  <p>Oculis vibrare Caesar, &amp; toto cruces</p>
+  <p>Spirare vultu: longa quod viuis mora est,</p>
+  <p>Etiam in catenis. Ire quis contrà audeat</p>
+  <p>Si quando vastam passibus magnis tulit</p>
+  <p>Furias per aulam solus, immane infremens?</p>
+  <p>Tunc si adfuisses. Vertite hanc Superi in caput</p>
+  <p>Hostile rabiem. Parte sed magnâ ferox</p>
+  <p>Posuerat animus, iamque placari potens:</p>
+  <p>Egêre proceres parte ne indictâ alterâ</p>
+  <p>Duci iuberet, lege in auditos agi.</p>
+  <p>Tardè acquieuit. Rapite vesanum citi</p>
+  <p>Nostrum ad Tribunal, clamat; &amp; quassans caput,</p>
+  <p>Malè sic potestas luditur; iniquum cies</p>
+  <p>Furiose bellum, cadere quo solùm potes.</p>
+  <p>Sed hoc petis: sed oportet; &amp; si meus tibi</p>
+  <p>Tam laeua, dabitur quod petis, quod non petis.</p>
+  <p>Ita Caesar. At tu statue quo iustus dolor</p>
+  <p>Placetur aditu, quâ ferum euincas prece:</p>
+  <p>Certò occidisti. Adrian. Si reum facti citat</p>
+  <p>Fecisse fateor: iure si factum negat,</p>
+  <p>Non poenitet fecisse. Flau. Lictorum cohors</p>
+  <p>Robusta teneros scorpio, loris, flagris,</p>
+  <p>Cùm scindet artus, fune protensum vndique</p>
+  <p>Luxabit equulus, Consulum vestro ebria</p>
+  <p>Sanguine securis membra, non vitam auferet:</p>
+  <p>Tibi superstes truncus hanc feries humum,</p>
+  <p><pb n="45"/> Tunc poenitet, clamabis, &amp; facti pudet,</p>
+  <p>Sed voce serâ Parce si dira occino</p>
+  <p>Malè ominatus augur; vt se res habent</p>
+  <p>Grauiora metue. Fructum amicitiae puto</p>
+  <p>Fida in periclis monita. Adrian. Praesepi antehac,</p>
+  <p>Et inferendo ferre perdidici mala.</p>
+  <p>Sed me priusquam Caesar in vinclis videt,</p>
+  <p>Permitte, Flaui dulcis amplexu vltimo</p>
+  <p>Fruar maritae: tenuis est lethi mora,</p>
+  <p>Et triste numus. Flau. Debita supremum rogas</p>
+  <p>Vtriusque meritis: non facit iussis moram</p>
+  <p>Pietas licet diuturna: celeberemus tamen</p>
+  <p>Ne Caesar irae faciat hoc partem suae.</p>
+  <p>Adrian. Praecedite hinc vos, solus ad solam ferar,</p>
+  <p>Thalamus recusat conscium. Flau. Fortis quidem</p>
+  <p>Timere virtus prohibet, &amp; mortem diu</p>
+  <p>Animus lacessens: Si quis amoto tamen</p>
+  <p>Custode latebras suadet imbelles metus?</p>
+  <p>Homo es, potes nutare. Adrian. Me de te aestimas</p>
+  <p>Ignaue lixa? Scimus ô spretam tibi</p>
+  <p>Redimere vitâ gloriam, scimus gradu</p>
+  <p>Composti in vno vincere, aut pulchrè mori.</p>
+  <p>Anthi. Meliora Flaui, fortia &amp; facere, &amp; pati</p>
+  <p>Est Christianum, nemo repressit pedem</p>
+  <p>Christo incitatus: notus Adriani vigor</p>
+  <p>Per tot furores Principum &amp; Regis minas,</p>
+  <p><pb n="46"/> Praelusit orco: gestit inuictum caput:</p>
+  <p>Lauro propinquâ cingere, &amp; certam abnuat</p>
+  <p>Victus coronam? postulas mortis vadem?</p>
+  <p>En adsum, &amp; illo quotquot inclusi specu</p>
+  <p>Causâ perire non suâ laeti ambiunt.</p>
+  <p>Addo &amp; per orbem quanta Romuleum manus</p>
+  <p>Christi catenas patitur; in fratre vnico</p>
+  <p>Vadamur omnes. Flau. Plena quae vestri plaga</p>
+  <p>Non est laboris? quisve generosos negat</p>
+  <p>Christo fideles? nec tuam damno fidem</p>
+  <p>Adriane, sed me regis offensi metus</p>
+  <p>Mihi prouidere cogit. I faustâ alite</p>
+  <p>Quocunque libuit: hoc precor, ne te implicet</p>
+  <p>Familia vanis, verba, lacrymâsque amputa,</p>
+  <p>Moriturus ista rumpe quae frangunt viros.</p>
+  <p>Dissolue nexus miles, haud aliter lares</p>
+  <p>Nataliamque cernere Adrianum decet.</p>
+  <p>Adrian. Ad Caesarem ambo, mox sequar quod si fauor</p>
+  <p>Non abiit omnis, pauca pro causâ loqui</p>
+  <p>Permittat, ora. Video quae Domiuum imperî</p>
+  <p>Audire prosit. Flau. Si domi vinci cupis,</p>
+  <p>Si stas in illo coniugis charae sinu,</p>
+  <p>Quam fronte laeta Caesar id de me audiet?</p>
+</div>
+<div type="level1" xml:id="page47-25scena-secvnda.">
+  <head><pb n="47"/> <ptr target="#tn25" n="25"/>SCENA SECVNDA.</head>
+  <p>ADRIANVS.</p>
+  <p>HEV quo voluptas sancta? quo coelum fugit?</p>
+  <p>Etiamne vinclis numen, &amp; numen loco est:</p>
+  <p>Durâ reuinctus compede, infandae luto</p>
+  <p>Tenebrisque caueae clausus ô quales polo</p>
+  <p>Hausi liquores! gaudia ô quanta ebibi!</p>
+  <p>Illusa mundo pectora, heu mentes boni</p>
+  <p>Saturae fugacis, huc parum stabiles &amp; huc</p>
+  <p>Error vagari cogit, &amp; vanâ famem</p>
+  <p>Proritat vmbrâ: ferre pro Christo aspera,</p>
+  <p>Gaudere certum est. Ecce dum vincla exui</p>
+  <p>Mihi restitutus, cessit infirmos vigor</p>
+  <p>Fusus per artus, abiit adstricti Deo</p>
+  <p>Animi serenum: sentio, non est meum</p>
+  <p>Quod tot periclis extuli victor pedem.</p>
+  <p>Quod tot malorum insuetus, extrema appeto.</p>
+  <p>Quod grauia recolens in face, &amp; ferro, &amp; cruce</p>
+  <p>Mens acquiescit suauiter, non est meum.</p>
+  <p>Si prouocare fata, si duram datur</p>
+  <p>Mortem occupare fortiter, Christe est tuum,</p>
+  <p>Pugnet Adrianus, Christe tu palmam feres.</p>
+</div>
+<div type="level1" xml:id="page48-26scena-tertia.">
+  <head><pb n="48"/> <ptr target="#tn26" n="26"/>SCENA TERTIA.</head>
+  <p>TIMAEVS. ADRIANVS.</p>
+  <p>DOMINVM salutat nobilis consors tori,</p>
+  <p>Rogantque num quid desit? an saluè satis?</p>
+  <p>Adrian. Vbi illa? quid agit? Timae. Excutit totam penum,</p>
+  <p>Cellas recludit sedula, hinc byssum, hinc togas,</p>
+  <p>Hinc vile linum segregat: fama est opes</p>
+  <p>Proscribere amplas. In tuos certè lares</p>
+  <p>Saeuijt iniqua, nullus euasit Deûm,</p>
+  <p>Et quos colebas sanctiùs, ludum hostibus</p>
+  <p>Dedêre, et aurum. Me quoque in praedae bonus</p>
+  <p>Partem vocauit Iuppiter: contra aureum</p>
+  <p>Fulmen steti audax, voluit obniti quidem,</p>
+  <p>Conatu at vno brachium, &amp; telum abstuli.</p>
+  <p>Adrian. Mox ad futurum nuncia. Timae. Ad caecam domum</p>
+  <p>Adire iussus, tempore haud iusto redux,</p>
+  <p>Percellam amantem. Quid cùm &amp; Adrianum sciet</p>
+  <p>Turpi catena liberum, amissos pedem</p>
+  <p>Ferre in penates? gaudio pectus salit;</p>
+  <p>Vel cuncta fallunt, pileus vel me manet.</p>
+  <p>Sed curro, tarda est omnis optanti mora.</p>
+</div>
+<div type="level1" xml:id="page49-27scena-qvarta.">
+  <head><pb n="49"/> <ptr target="#tn27" n="27"/>SCENA QVARTA.</head>
+  <p>ADRIANVS.</p>
+  <p>LIquescit iterùm pectus, inque hominem loco</p>
+  <p>Motus relabor, terrea antiquos lares</p>
+  <p>Subit voluptas, meque coelestum eripit</p>
+  <p>Beatitati: Prima coniugii fides,</p>
+  <p>Et dulcis ardor osculi, &amp; totos tegens</p>
+  <p>Complexus artus, quódque delicias suprà est</p>
+  <p>Natalia ipsa quàm pio fragilem dolo</p>
+  <p>Furatur animum? liberum, &amp; nullo latus</p>
+  <p>Custode cinctum, penè &amp; addictum neci</p>
+  <p>Quâ fronte cernet? basia è quibus imprimet</p>
+  <p>Secura labris? quosue morituro sonos,</p>
+  <p>Quae verba fundet? Non quae adulari artifex</p>
+  <p>Nuper canebat Consuli &amp; Gallo asseclae</p>
+  <p>Factura fucum: lacrymis, precibus, probris</p>
+  <p>Videre videor, quâque plus mulier potest,</p>
+  <p>Blanditiâ, amantem, mente sollicitam anxiâ</p>
+  <p>Petere, docere, ambire, gratari, insequi.</p>
+  <p>Mihi hanc magistram christus, &amp; fides ducem</p>
+  <p>Parauit olim, nec pudet. Virtus bona est</p>
+  <p>Vndelibet adsit. Fallor! an claues sonant?</p>
+  <p>Matrona quali nostra cum ardore aduolat?</p>
+  <p>Jpsa est, quis illam turbo tam praeceps agit?</p>
+</div>
+<div type="level1" xml:id="page50-28scena-qvinta.">
+  <head><pb n="50"/> <ptr target="#tn28" n="28"/>SCENA QVINTA.</head>
+  <p>NATALIA. ADRIANVS.</p>
+  <p>HEM! Adrian. Salue amata. Natal. Martyr! Hem victor stygis,</p>
+  <p>Domitor tyrannorum! Adrian. Anime mi salue satis?</p>
+  <p>Natal. Periure, Christi proditor, generis lues,</p>
+  <p>Sacrilege, mundi dedecus:: stare hîc potes?</p>
+  <p>Nec terra ne te sorbeat rupto sinu</p>
+  <p>Foedifrage metuis? Adrian. Siccine maritum excipis</p>
+  <p>Amara mulier? Natal. Solis hanc specta facem,</p>
+  <p>Lucere vt indignatur? vt tenebras perit?</p>
+  <p>Vt fugere inardet, &amp; remetiri polum?</p>
+  <p>Tuum erubescit facinus, vt turpem impiâ</p>
+  <p>Condat latebrâ transfugam. Et coelo potes</p>
+  <p>Offerre vultum? cernere, &amp; cerni potes?</p>
+  <p>Adrian. Hîc indecorum est coniugum audiri probra,</p>
+  <p>Subeamus aedes, iurgiis dabitur modus,</p>
+  <p>Natal. Túne hos penates? Adrian Me meo excludis lare?</p>
+  <p>Natalia haec est: quis furor mentem incitat?</p>
+  <p>Quae monstra fatur? vxor heus, Natalia</p>
+  <p>Aperis? recludis? cogis effringi fores?</p>
+  <p>Adeste famuli, quíque communi leuem</p>
+  <p>Emitis salute sportulam, Dominus voco,</p>
+  <p>Voco Adrianus, rumpite obstantes moras,</p>
+  <p>Properate, patriâ Dominus eiicior domo.</p>
+  <p><pb n="51"/> Natal. Ego Caia, non tu Caius: incassum imperas,</p>
+  <p>Parere vetui. Vade, promissas opes,</p>
+  <p>Et ampla honorum culminae, hortósque &amp; domos,</p>
+  <p>Repete à Tyranno victus, &amp; coeli bonis</p>
+  <p>Exclusus. I voluente mobilior trocho,</p>
+  <p>Jnfide Proteu, Cepphe, Plutonem roga,</p>
+  <p>Domum ille auerno praeparat, multâ domum</p>
+  <p>Flammâ micantem, &amp; sulphure. Adrian. Adriano lares</p>
+  <p>Natalia aperi. Natal. Carceris custos forem!</p>
+  <p><ptr target="#tn29" n="29"/>Nunquam exiisses. Magne promissis Thraso.</p>
+  <p>Vix dum sonabat Classicum, &amp; molles tremor</p>
+  <p>Inuasit artus. Vnde? quid speras boni?</p>
+  <p>En te tyrannus odit infidum Deo</p>
+  <p>Timidum aula ridet, Martyres abortum, &amp; suae</p>
+  <p>Pestem execrantur gloriae: Christus styge</p>
+  <p>Sibi perduellem damnat; in poenam, manus</p>
+  <p>Armant ministri coelites; coelo &amp; solo</p>
+  <p>Eiectus ad me curris vt rapias parem</p>
+  <p>Tecum in ruinam? Adrian. Taedet irarum &amp; morae,</p>
+  <p>Aperi. Natal. Vt receptum te domus, méque obruat?</p>
+  <p>Vt nos, Dei odium, propius asslatu eneces?</p>
+  <p>Quid spreta faciam Martyris nuper soror,</p>
+  <p>Modo perduellis vxor? heu quis me impio</p>
+  <p>Cocyti alumno iunxit? ô nox, ô dies,</p>
+  <p>Quâ me, execrande, basio primum obtuli.</p>
+  <p>Nunc consenescam, moesta, languida, tabida,</p>
+  <p>Misera, infidelis passa conspectum viri.</p>
+  <p>Sic nata non sum, non ego ignauo, impio</p>
+  <p><pb n="52"/> Hâc dote nupsi. Adrian. Quo ruit? quo fert truces</p>
+  <p>Lymphata gressus? video quid rerum paret:</p>
+  <p>Vincla exuisse perfidum coelo putat:</p>
+  <p>Meliora Christe! semet in furias agit</p>
+  <p>Iunctamque thalamo scelere coniungi vetat.</p>
+  <p>Et hos iuuentus, hos amor taedae recens</p>
+  <p>Exeat in ignes? foeminae hoc robur vocem</p>
+  <p>Non estuantis corde sub magno Dei?</p>
+  <p>Natal. Tua tibi habeto. Porta, quàm lata est, patet,</p>
+  <p>Ingredere, fruere, peiera, Christum abnega,</p>
+  <p>Et si potes valere, perpetuum vale.</p>
+  <p>Adrian. Natalia, heus quo? Natal. Jn carcerem, abiectam tibi</p>
+  <p>Rapturae palmam, Martyrum iungar choris</p>
+  <p>Pensare possum mulier imbellem virum.</p>
+  <p>Adrian. Natalia audi, scire quod cupias, loquar.</p>
+  <p>Natal. Sile, aut nefandae stirpitùs linguae fibras</p>
+  <p>Hâc, hâc reuellam dexterâ. Adrian. Vera eloquor</p>
+  <p>Fraus abeat omnis, numen obtestor meum,</p>
+  <p>Tuúmque coniux, Christus immotâ sedet</p>
+  <p>Mihi mente victor: occidam, si me dies</p>
+  <p>Vidit fugacem. Natal. Scilicet gressum huc feras</p>
+  <p>Comite &amp; catenis liber? Adrian. Auertat polus</p>
+  <p>Quod metuis. Jn me prima tempestas furit,</p>
+  <p>Inire pugnam cogor, inuictum dolis,</p>
+  <p>Ad arma amici prouocant: Caesar citat,</p>
+  <p><pb n="53"/> Iámque vrget hora: fidus interpres meae</p>
+  <p>Promissa vocis impleo, dumque arduum</p>
+  <p>Auspicor agonem, robur è coelo ambio.</p>
+  <p>Credis? supremos iunge complexus soror.</p>
+  <p>Dubitare pergis? hinc tamen salue vltimùm.</p>
+  <p>Cúmque Adriani saeua supplicia audies,</p>
+  <p>Saltem Tonantis numen in vota aduoca.</p>
+  <p><ptr target="#tn30" n="30"/>Natal. Resiste frater. Lingua peccauit procax,</p>
+  <p>Agnosco Christi Martyrem. ô si fas foret!</p>
+  <p>Vt inuiderem! vt membra tormento inderem!</p>
+  <p>Tortoris ictum clepere, si furtim dares</p>
+  <p>O me beatam! Adrian. Pone iam votis modum,</p>
+  <p>Vocat hora, num quid imperas? Natal. Non hoc tamen</p>
+  <p>Duces triumphum schemate, ibi laurum metes,</p>
+  <p>Hic picta dabitur vestis. Huc aliquis. Togam</p>
+  <p>Citatus effer rore Sidonio ebriam,</p>
+  <p>Quam Phrygia pinxit dextera, &amp; circum duplex</p>
+  <p>Maeander auri currit. Hymenaeo dedit</p>
+  <p>Adriane pompam: sanctiùs non hos quiden</p>
+  <p>Seruata in vsus Martyrem Christi obteget.</p>
+  <p>Induere cessas? Ecce flagrantem ferunt</p>
+  <p>Pinum Camilli coelites: totis sacrum</p>
+  <p>Auditur astris carmen: it lateri comes</p>
+  <p>Virgo, parénsque pronuba: amplexus parat</p>
+  <p>Christus cupitos. Martyr i nuptum Deo,</p>
+  <p>Da coelo amores: labis hic expers torus.</p>
+  <p>O dulce mentis osculum! ô castum Dei</p>
+  <p>Complexum amantis! fontem ô aeternum boni!</p>
+  <p><pb n="54"/> Quid melius aut par Roma deliciis fouet?</p>
+  <p>Roma? ah dolosi portio mundi fugax.</p>
+  <p>Tamen &amp; per enses saepe, non dubiae per ex</p>
+  <p>Perîcla mortis itur in certum vltimae</p>
+  <p>Mortis perîclum: frigidum, aestiuum Jouem,</p>
+  <p>Curas, repulsas, taedia, &amp; Dominae probra</p>
+  <p>Fastidiosae ferre vesani iubet</p>
+  <p>Amoris aestus, his emunt horam malis,</p>
+  <p>Serúmque poenitere. Te praesta virum</p>
+  <p>Adriane; tenui poena momento parit</p>
+  <p>Aeternitatem. Adrian. Totus in coelum feror.</p>
+  <p><ptr target="#tn31" n="31"/>Hîc condita aeui meta. Sed timeo tibi</p>
+  <p>Amata coniux: lege damnatum, bona</p>
+  <p>Sequentur: vnde nobilem serues statum</p>
+  <p>Eripiet hastae Caesare offenso rigor.</p>
+  <p>Natal. Humana mitte, Martyr es, coelo &amp; Deo</p>
+  <p>Inuictus haere. Cura me tanget mei.</p>
+  <p>Tu pars mearum magna Gazarum, eripe</p>
+  <p>His te periclis, tuta sum: si te Dei</p>
+  <p>Recondo in arcammille nil Croesos moror.</p>
+  <p>Nimis est auara cui satis non est, Deo</p>
+  <p>Diues maritus. Fallor? apparet cohors</p>
+  <p>Praetoriana? Caesar hîc causam audiet.</p>
+  <p>Discedo, macte Adriane, nunc animis opus,</p>
+  <p>Deus in propinquo est. Christe luctantem adiuua.</p>
+  <p>Adrianus. Secreta vires vota luctanti dabunt.</p>
+</div>
+<div type="level1" xml:id="page55-32scena-sexta.">
+  <head><pb n="55"/> <ptr target="#tn32" n="32"/>SCENA SEXTA.</head>
+  <p>GALERIVS. ADRIANVS. ANTHIMVS. METELLVS.</p>
+  <p>QVID solus agitas? vnde hic ornatus Togae?</p>
+  <p>Gratam est quod aliud mente consilium coquis.</p>
+  <p>Sortem hanc priori confer, &amp; reducem foue</p>
+  <p>Beatitatem sedulus. nostro sede</p>
+  <p>A Consule alter; munus, officium, decus,</p>
+  <p>Sine nomine, ingens, tale quod compar Ioui</p>
+  <p>Dare possit, ora: Caesar Adriano dabit</p>
+  <p>Cui neque se ipsum denegat. Non hoc loqui</p>
+  <p>Nuper volebas? cerne quam promptè audiam,</p>
+  <p>Nondum rogatus vota qui facio rata.</p>
+  <p>Adrian. O digna Superum cura, Romulei caput</p>
+  <p>Columénque regni, tutius magni loca</p>
+  <p>Cumulum fauoris, quicquid extremum tibi est,</p>
+  <p>Meritum omne superat. Si quid obsequiis tamen</p>
+  <p>Donare spondes, commoda huic aures seni,</p>
+  <p>Hoc munus ingens esto. Galer. Quàm faciles volet.</p>
+  <p>Anth. Malum inquietum fama &amp; incertum, &amp; vagum,</p>
+  <p>Sui auctor ipsa, quae mala affinxit, timet,</p>
+  <p>Auara recti, pérque rumores procax</p>
+  <p>Crescit malignos: quamdiu minimùm probat,</p>
+  <p>Perennat audax: si probat, cadere incipit,</p>
+  <p>Munúsque functa nuncii, rebus fidem</p>
+  <p>Fieri suadet. Jlla nascentem, &amp; suo</p>
+  <p><pb n="56"/> Adhuc rubentem à patre, Christiadum fidem</p>
+  <p>Inimica sparsit: credulus vulgi timor</p>
+  <p>Audita fictis auxit, &amp; creuit tenax</p>
+  <p>Mensura falsi. Nemo iam quaeri iubet</p>
+  <p>Quod fama seclis aluit; innatum ferunt</p>
+  <p>Pietatis odium, quódque iudicio nequit.</p>
+  <p>Famâ aestimandum liberis tradit pater.</p>
+  <p>Hinc illa credunt, farreo infantem tegi</p>
+  <p>Perimíque crusto: póstque sacrilegas dapes</p>
+  <p>Miscere tenebris veneris incesta toros.</p>
+  <p>Et hoc putare satis habent, quod si foret</p>
+  <p>Nulla expiaret flamma, non sorbens maris</p>
+  <p>Elueret vnda. Quotquot externos habet,</p>
+  <p>Tot patitur hostes secta: numeroso agmine</p>
+  <p>Circùm obsidemur, coetibus se fraus quoque</p>
+  <p>Insinuat imis, pérque nocturnas meat</p>
+  <p>Inuisa tenebras, scelera quis tanta eruit?</p>
+  <p>Vidisse quis narrauit? Euicti metu</p>
+  <p>Liquêre partes plurimi, &amp; pactum sacris</p>
+  <p>Soluêre foedus, vestrum ad arbitrium impiis</p>
+  <p>Fecisse quis fatetur? absoluunt tamen</p>
+  <p>Edicta dudum vestra, nec damnant nefas</p>
+  <p>Sed Christianum nomen: ita non quod sumus.</p>
+  <p>Sed quod vocamur, crimen est. Leges reum</p>
+  <p>Plectunt fatentem; quale delicti est genus</p>
+  <p>Quod vt negetur, torqueor? fio innocens</p>
+  <p>Ego illi naturae hostis, &amp; Regum, &amp; Deûm</p>
+  <p>Post cruda puerûm pabula, &amp; raptum integrae</p>
+  <p>Florem sororis, proditam imperio fidem,</p>
+  <p>Si Christianum nomen inuitè abdico.</p>
+  <p>Quid ergo? puros sceleris iniustae neci</p>
+  <p><pb n="57"/> Tot subdidêrunt secla? Si crimen vocas</p>
+  <p>Fatemur vnum: thure non colimus Iouem,</p>
+  <p>Non supplicamus Herculi: coelum Deo,</p>
+  <p>Ritus perosi publicos vni damus.</p>
+  <p>Nam cur adorem terra quos homines tulit,</p>
+  <p>Coelo sacrauit error? &amp; nondum loquor</p>
+  <p>Portenta vatum vera quae prodi nefas,</p>
+  <p>Vos falsa fingi sinitis. Huic cornu minax,</p>
+  <p>Huic perpes alâ maximus diuûm placet.</p>
+  <p>Abnoctat isti potiùs, &amp; casti rapit</p>
+  <p>Thalami pudorem adulter: est &amp; quem iuuat</p>
+  <p>Procos tot inter facere riualem Deum.</p>
+  <p>Vxoris ille iurgia, &amp; poenam canit:</p>
+  <p>Auro pependit coniuge irato soror,</p>
+  <p>Et domina Iuno, gemina Reginae pedes</p>
+  <p>Grauauit incus. Patria Vulcanum polo</p>
+  <p>Eiecit ira, cecidit hic totum diem,</p>
+  <p>Lemnúmque claudus pressit. Exemptos solo</p>
+  <p>Vitâque cassos quis Deos, manceps Deus</p>
+  <p>Maiórque fecit? Nempe multorum manu</p>
+  <p>Erat adiuuandus? Ante Saturni genus</p>
+  <p>Non fluxit astris imber? haud vllae suprà</p>
+  <p>Micuêre flammae? tacitus, &amp; teli innocens</p>
+  <p>Dilapsus humor nubium? quos fert manu</p>
+  <p>Non timuit ignes Iuppiter? Sed quae Deos</p>
+  <p>Fecêre merita? Farris Actao seges</p>
+  <p>Primum nouali educta: Lenaeo fluens</p>
+  <p>Liquore Naxus: olea viridanti Deum</p>
+  <p>Victura trunco: valle Nemaeà Leo,</p>
+  <p>Serpens palude domitus. Occlusit fores</p>
+  <p>Jllis receptis; multa potiorum vndique</p>
+  <p>Voluuntur orco millia, &amp; coelo procul</p>
+  <p><pb n="58"/> Absiste turba, clamat, in vacuas mali</p>
+  <p>Venere sedes, hospes antiqui Dei</p>
+  <p>Excidit Olympo Ianus, at geminâ probum</p>
+  <p><ptr target="#tn33" n="33"/>Seruat pudorem fronte, quam turbae Iouis</p>
+  <p>Excussit aestus scelerum, &amp; immanis furor</p>
+  <p>Etiamne regnant pallor, &amp; pauor, &amp; febris?</p>
+  <p>Et hos velis habere praesentes Deos?</p>
+  <p>Virides ab hortis Pharia dat tellus Deos</p>
+  <p>Canémque Anubin, téque qui nunquam satis</p>
+  <p>Quaesitus Apis ludicros luctus moues,</p>
+  <p>Amissus iterum. Sanctiùs quantò Deum</p>
+  <p>Christigena format? sceptra qui coeli tenet</p>
+  <p>Ille ille (Caesar) vnus &amp; coelum, &amp; solum</p>
+  <p>Capace replet numine, &amp; rerum vices</p>
+  <p>Mutat mouétque stabilis: aeternâ sedens</p>
+  <p>In sede Dominus fluere seclorum iubet</p>
+  <p>Perennitates: terminum rebus locat</p>
+  <p>Immensus, infinitus, &amp; nusquam minor,</p>
+  <p>Et vbique totus. Quaeris huic nomen Deo!</p>
+  <p>Deus est suum ipse nomen: in plures cadit</p>
+  <p>Discreta virtus nominum, ne singulos</p>
+  <p>Confundat error omnium: sed quem facit</p>
+  <p>Natura solum, nomen est vni Deus!</p>
+  <p>Huic mundus ara est, si potest fingi, in suo</p>
+  <p>Spectetur opere. Viuidum artificis Dei</p>
+  <p>Homo simulacrum est: compos aetherei micat</p>
+  <p>Vigoris animus, mole terrena vacans</p>
+  <p>Transcurrit auras subitus, &amp; morte altior</p>
+  <p>Aeterna lustrat. Numen hoc templo sedet;</p>
+  <p>Hîc consecrandum est victimâ. Infantes vorat</p>
+  <p>Saturnus Afer, ille natorum antea</p>
+  <p>Tumulus: ad aras flagra ludentes necant</p>
+  <p>Spartana pueros: editum Maiâ viris</p>
+  <p><pb n="59"/> Cruenta placat Gallia; ignotum bibit</p>
+  <p>Inhospitalis sanguinem Phoebi soror;</p>
+  <p>Iouem eruore Roma latialem colit:</p>
+  <p>Jn honore diuûm sorbet immensas ferox</p>
+  <p>Arena caedes: sacra res ludis homo</p>
+  <p>Mactatur, inter Caesarum innocuas manus</p>
+  <p>Inter secures Iudicum: &amp; caesi arguunt</p>
+  <p>Pueri innocentes? &amp; per inuidiam reos</p>
+  <p>Faciunt suorum criminum? at noster Deus</p>
+  <p>Intaminato mentis obsequio coli,</p>
+  <p>Vt sanctus ambit. Fraudibus linguam obstrue</p>
+  <p>Occlude Veneri lumina, innocuos tege</p>
+  <p>Animo recessus, comparem factis ama,</p>
+  <p>Deo litasti. Christus hos mundo intulit</p>
+  <p>A patre ritus: Christus aequaeuus patri</p>
+  <p>Quà Deus Olympo regnat: in nostros minor</p>
+  <p>Se fudit artus, gentis humanae artifex,</p>
+  <p>Reparator idem, de salutari edidit</p>
+  <p>Haec iussa trunco, quicquid aduersum impudens</p>
+  <p>Calumnietur fama, quam docti sumus</p>
+  <p>Legem irreprensi viuimus, morum luem</p>
+  <p>Non tegimus ore, pallio &amp; barbâ boni.</p>
+  <p>Tales ab aeuo Caesarum vitae sagax</p>
+  <p>Censura reperit. Fecit Augusti nepos</p>
+  <p>Priuata Christo sacra: si sinerent Patrum</p>
+  <p>Decreta, Christus numen Ausonium foret.</p>
+  <p>In Christianos iustus inquiri vetas</p>
+  <p>Traiane mores. Templa iam Christo dabas</p>
+  <p>Adriane, quod si pergeres vatum metus</p>
+  <p>Contemnere audax, Roma sub Christi iugo</p>
+  <p>Jam militaret. Christianorum fuit</p>
+  <p>Illa illa legio fulminis, &amp; imbris potens,</p>
+  <p>Quae sempiternum peperit imperio decus,</p>
+  <p><pb n="60"/> Tibi triumphum Marce. Qui Solymam truci</p>
+  <p>Vertêre dextrâ, genitor, &amp; melior patre,</p>
+  <p>Si vita sineret, natus, in Christi genus</p>
+  <p>Quae tela legum, quasue torsêrunt faces?</p>
+  <p>Bacchante primus dite Caesareum Nero</p>
+  <p>Exacuit ensem. Roma fumantis dabat</p>
+  <p>Simulachra Troiae, regis imperio sui</p>
+  <p>Futura bustum: sensit inuidiâ obrutus,</p>
+  <p>Deriuat in nos crimen, immanes alit</p>
+  <p>Cruore flammas, Caesaris furias luunt,</p>
+  <p>Voce absoluti publicâ. Frater Titi</p>
+  <p>Bustum aliud orbis, Flauiae gentis probrum</p>
+  <p>Aggressus in nos furere, sustinuit tamen</p>
+  <p>Malè feriatos impetus. Fera non homo</p>
+  <p>Thrax Maximinus, pariter &amp; si qui impii,</p>
+  <p>Si qui Tyranni, quosque barbariae reos</p>
+  <p>Damnatis ipsi, nostra damnarunt sacra.</p>
+  <p>Nam quis probari tam malis optet bonus?</p>
+  <p>Nunc eligendum, Caesar, vtrorum magis</p>
+  <p>Te vita deceat, exitus vtrorum iuuet.</p>
+  <p>Nos aliqua mundi membra, naturâ pares,</p>
+  <p>Regni latini portio, &amp;, sectam excipe,</p>
+  <p>Ciues, propinqui ciuium, totam imperî</p>
+  <p>Molem occupamus, nullus à Christo vacat</p>
+  <p>Relictus ordo: chlamyde Romana latet</p>
+  <p>Militia Christi; nobilis Christum tegit</p>
+  <p>Abolla Patrum; purpura, &amp; vestros gerens</p>
+  <p>Praetexta fasces, se tibi obsequio probat,</p>
+  <p>Sed ante Christo. Nomen vt Christi eruas,</p>
+  <p>Euiscerandus maximi imperii status.</p>
+  <p>Curia Senatu orbanda, Iudicibus forum,</p>
+  <p>Vacuanda seruis aula, quódque hostes velint</p>
+  <p>Clara legionum robora indignâ nece</p>
+  <p><pb n="61"/> Truncanda, Caesar. Iámque quà ponto volans</p>
+  <p>Vtroque magnam Phoebus instituit viam,</p>
+  <p>Syluaeque, &amp; vrbes, saxáque, &amp; caeci specus</p>
+  <p>Natant piorum sanguine. O non sic perit</p>
+  <p>Lethi cupido nobilis: non sic cadit</p>
+  <p>Pietatis ardor! integra, insistens sibi</p>
+  <p>Animos ab ipsis secta suppliciis trahit</p>
+  <p>Damnísque crescit. Christianorum cruor,</p>
+  <p>Christi sequaces germinat: nudum feris</p>
+  <p>Obiicitis vnum, mille certantem vident,</p>
+  <p>Christo eadem arena mille spectantes parit</p>
+  <p>Dum stabilis haeret pectore immoto fides.</p>
+  <p>Ffferre nam quis lumina in coelum vetet</p>
+  <p>Quo me supinum vis tyrannorum eiicit!</p>
+  <p>Quem renuit animus colere me cogas Deum?</p>
+  <p>Vel quem animus ardet colere me impedias Deum,</p>
+  <p>Qui mente colitur? libera humanas tenet</p>
+  <p>Relligio mentes; quicquid exterius fremat,</p>
+  <p>Opertum in animo est; non colit, si quis potest</p>
+  <p>Non colere cogi. Quicquid hic à me accipis</p>
+  <p>Priuata non est causa: Me letho vocat</p>
+  <p>Languida senectus, carceris longi situs,</p>
+  <p>Et scissa plagis membra: vox Romam sonat,</p>
+  <p>Eheu! ruentem: viscera effundi dolet</p>
+  <p>Regni potentis, sanguine suorum oppida</p>
+  <p>Stagnare, &amp; agros. Corrigi natos monet</p>
+  <p>Clemente poenâ, non nouercali manu</p>
+  <p>Perire: Patrem patriae afflictis iubet</p>
+  <p>Consulere mundo, ciuibus, famae, sibi.</p>
+  <p>Demùm ista viuet secta si Augusti sinent:</p>
+  <p>Eadémque secta, non sinant, viuet tamen.</p>
+  <p>Galer. Oratum abunde est, Casarum &amp; legum satis</p>
+  <p><pb n="62"/> Tentata pietas: poscis armatâ proce</p>
+  <p>Pacem scelestis: hoc capi proceres metu</p>
+  <p>Delire speras, méque? si iustus dolor</p>
+  <p>Ebullit vnquam! ponere sed irae modum</p>
+  <p>Animóque praestat; subigere humanas placet</p>
+  <p>Ratione mentes, si quid humanum tenent.</p>
+  <p>Causam Deorum quâ fide, &amp; suadâ potes</p>
+  <p>Aggredere praesul. Mettell. Iam perorarunt bonam</p>
+  <p>Transacta causam secla: damnari nequit</p>
+  <p>Quod nemo non probauit. Heroum tulit</p>
+  <p>Partus verendos terra, cum Saturnio</p>
+  <p>Splenderet auro mundus: argento louis</p>
+  <p>Successit aetas peior: hinc sese minor</p>
+  <p>Vestiuit aere, ferreus donec rigor</p>
+  <p>Coelum occupauit, nósque degeneri nimis</p>
+  <p>Profudit ortu: per tot aetatum gradus</p>
+  <p>Micuêre sophiae sidera, &amp; mundo insitam</p>
+  <p>Fregêre noctem: Cecropis antiqui domus</p>
+  <p>Quot voluit vndas pelagus, autumni recens</p>
+  <p>Quot folia frigus decutit, nobis sophos</p>
+  <p>Tot vna peperit: edidit persis Magos,</p>
+  <p>Generosa Druidas Gallia, &amp; rapido India</p>
+  <p>Subiecta Phoebo rupe Caucaseâ videt</p>
+  <p>Pendêre nudos. Ecce tot seclis virûm</p>
+  <p>Tam multa nostros millia assensu pari</p>
+  <p>Coluêre diuos, vnus &amp; contrà impio</p>
+  <p>Incurret ausu? Singulae in ritus suos</p>
+  <p>Abiêre gentes, nulla contempsit louem.</p>
+  <p>At illa rerum Domina, terrarum potens</p>
+  <p>Alumna coeli, sacra populorum omnium</p>
+  <p>Accepit aris, regna quaesiuit manu.</p>
+  <p><pb n="63"/> Diues triumphis prosperas rerum vices</p>
+  <p>Cursu ferebat praepete, aeternos boni</p>
+  <p>Secunda fructus fata spondebant Deûm:</p>
+  <p>Cùm Christus interuenit, &amp; laeuo obiice</p>
+  <p>Pacem moratus publicam, heu quantos tibi</p>
+  <p>Peperit dolores Roma! Tu merito licet</p>
+  <p>Pilate trunco fixeris, serò tamen</p>
+  <p>Dilata scelerum est vltio, haeredes malae</p>
+  <p>Inuenit artis, credulas vulgi magus</p>
+  <p>Impleuit aures, animus hinc praui tenax,</p>
+  <p>Se se per orbem publico expertus malo</p>
+  <p>Quid sceleri inausum liquit? hic superos polo</p>
+  <p>Elicere spondet: ille commotâ styge</p>
+  <p>Exire manes: alter è membris luem</p>
+  <p>Carminibus abigit: latice deceptis, caput</p>
+  <p>Hic lustrat excantato, &amp; infandâ prece</p>
+  <p>Initiat orco. Caesarum primos recens</p>
+  <p>Pestis fefellit, atque compositae nitor</p>
+  <p>Probitásque frontis, inde per totum imperî</p>
+  <p>Effusa corpus, improbo amplexus necat.</p>
+  <p>Sic vbi sequaces robore annoso comas</p>
+  <p>Implicuit hedera, iámque supremum eminet</p>
+  <p>Lambens cacumen, impio suctu ebibit</p>
+  <p>Nutricis animam, quémque nascendo premit,</p>
+  <p>Crescendo truncum perimit. At non se Deûm</p>
+  <p>Continuit ira: cladibus quantis monet</p>
+  <p>Ni laeua mens est, terminum instare imperî?</p>
+  <p>Petis vnde dirae, &amp; pestilens Romam grauet</p>
+  <p>Mephitis? Vnde Tiberis egressus toro</p>
+  <p>Stagnetur vrbe? stare quae coelum manus</p>
+  <p>Iubeat? quis almum inuideat humorem satis?</p>
+  <p>Cur semihiante quicquid in culmo spei est</p>
+  <p>Decoquat adurus Sirius? Memphitici</p>
+  <p><pb n="64"/> <ptr target="#tn34" n="34"/>Vix summa limus arua libarit Iouis?</p>
+  <p>Vidit tenebras Phoebus, &amp; noctem dies</p>
+  <p>Elumbis hausit: fulminum nothâ face</p>
+  <p>Rubuêre noctes: vndique infaustâ alite</p>
+  <p>Vlulantur vmbrae: spiritus terrâ horridum</p>
+  <p>Clusus remugit: alia disiecti procul</p>
+  <p>Texêre montes spatia: titubanti solo</p>
+  <p>Abrupit Isthmos pontus, &amp; peperit sibi.</p>
+  <p>Armatus astris crepuit attonitis fragor</p>
+  <p>Rutilúmque pigrâ tramitem duxit face</p>
+  <p>Crinitus ardor. Monstra quid memorem hostium</p>
+  <p>Emissa dite nomina Bagaudas, Chrocum,</p>
+  <p>Carausium, Blemiásque, Francósque, &amp; Gothos?</p>
+  <p>Ac ni Deûm quadriga fortunam imperî</p>
+  <p>Jnuicta veheret, Trebia iam votis foret</p>
+  <p>Optanda, quíque spreta puniuit lacus</p>
+  <p>Auspicia superum. Dira Christiadum lues</p>
+  <p>Etiamne saeuis? Carnifex mundi furor</p>
+  <p>Quo trudis odia? deserunt aras Dei,</p>
+  <p>Tacitis aruspex incubat vanus fibris,</p>
+  <p>Auiúmque linguas damnat, &amp; pennae fidem</p>
+  <p>Elusus angur: Domina regnorum silet</p>
+  <p>Cortina Phoebi: nulla fatidicam entheat</p>
+  <p>Dodona quercum: iura tutelae abdicant</p>
+  <p>Romae penates Statue flagitiis modum</p>
+  <p>Vesana turba, vincimur; non hoc satis?</p>
+  <p>Gemimus. Parum est? obruimur: etiamnum leue?</p>
+  <p>Saturemus iras, quósque barbaries fuat</p>
+  <p>Negare miseros, esto ferali pium</p>
+  <p>Tumulare busto, rapere spirantum iecur,</p>
+  <p><pb n="65"/> Et Christiano dente scrutari abditos</p>
+  <p>Animae recessus. Anthi. Ruit in auxilium furor</p>
+  <p>Cùm ratio defit: sic malè Ausonios moues</p>
+  <p>Orator animos. Christus omnigenûm caput</p>
+  <p>Et fons malorum est. Fabulam rebus proba,</p>
+  <p>Compone testes, non facit rumor fidem.</p>
+  <p>Quid ? Christus ex quo numen in terras tulit</p>
+  <p>Natura fluxit! insitam rebus fidem</p>
+  <p>Elementa frangunt? comprimit motum reses</p>
+  <p>Vertigo coeli! bruma diuturnum tenet</p>
+  <p>Amoena solem! noctis vmbrosae moras</p>
+  <p>Extendit aestas? nullus in nubes liquor</p>
+  <p><ptr target="#tn35" n="35"/>Pendet coactus? nullus immotas vapor</p>
+  <p>Spirat per auras? Allia &amp; Trebia, &amp; probrum</p>
+  <p>Pacis redemptae Caudium, &amp; rupem citrà</p>
+  <p>Euersa Gallis Roma, Patriciae auctior</p>
+  <p>Cremera cruore gentis, &amp; iam non locus</p>
+  <p>Cannae, sed orbis tumulus, haud culti Iouis</p>
+  <p>Scelus expiarunt? Templa Christiadum manu,</p>
+  <p>Et sacra ruebant spreta, cùm Sulla impotens,</p>
+  <p>Et Marius armis melior insanas foro</p>
+  <p>Fecêre cedes? bísque ciuilem bibit</p>
+  <p>Aemus tumultum? túque Germanis feras</p>
+  <p>Pauisti in agris. Vare? Mortali hunc modum</p>
+  <p>Felicitati conditor posuit Deus,</p>
+  <p>Vt se ipsa frangat, vt per oppositas vices</p>
+  <p>Cadatque, stetque: Machinam rerum nefa</p>
+  <p>Timere solui: peccat, &amp; certo tamen</p>
+  <p>Discors aberrat ordine, vt factum semel,</p>
+  <p>Non ritè fieri ostendat. Irati Iouis</p>
+  <p><pb n="66"/> Quod si illa poena est, prospero vobis eat</p>
+  <p>Natura cursu, nos vt opposita obruat.</p>
+  <p>Vestras benigno proferat tellus sinu</p>
+  <p>Rigata segetes, culmus in nostris macer</p>
+  <p>Rarescat aruis: suppleat vestros greges</p>
+  <p>Foetura, nostros creber inuadat lupus.</p>
+  <p>Vestris ab oleis dulcis exsudet liquor</p>
+  <p>Amurca nobis: Rore bacchaeo fluat</p>
+  <p>Autumnus in vos, stillet in nostros ager</p>
+  <p>Cados auarus. Sed quis è multis Deus</p>
+  <p>Insurget vltor? fare, quem verum putas</p>
+  <p><ptr target="#tn36" n="36"/>Iouem è trecentis: Metell. Magna Tarpeio colit</p>
+  <p>Quem Roma templo. Anthi. Turba natorum Iouis</p>
+  <p>Vnde astra meruit? Metell. Generis aeterni bono.</p>
+  <p>Anthi. Et cur tot orbi Iuppiter fudit Deos?</p>
+  <p>Metell. Foret vt beatus. Anthi. Esse qui solus nequit?</p>
+  <p>Metell. Bonitas Deorum est, esse nec possunt boni</p>
+  <p>Pares bearint sorte ni multos suâ.</p>
+  <p>Anthi. Claudus beatum Mulciber fecit Iouem?</p>
+  <p>Metell. Aliíque quotquot semine aethereo sati.</p>
+  <p>Anchi. Paricida Mauors, Phoebus Amphryso greges</p>
+  <p>Agens Pheraeos. Euius cornu ferox:</p>
+  <p>Hermes peritus clepere: capripedum salax</p>
+  <p>Pecus Deorum. Mecell. Magna sub turpi latent</p>
+  <p><pb n="67"/> Operta velo. Anthi. Prisca cur tantum Deos</p>
+  <p>Peperêre mundo secla? cur diuûm ferax</p>
+  <p>Sterilescit vterus? Metell. Coelites puerum senem!</p>
+  <p>Anthi. An quia minutis cuncta numinibus scatent?</p>
+  <p>Coelum fatiscit, agmen heroum leues</p>
+  <p>Inundat auras, voluit Oceanus Deos,</p>
+  <p>Deos auernus ructat, &amp; tellus Deos.</p>
+  <p>Metel. Natura summo quà patet, paret Ioui.</p>
+  <p>Anthi. Quid si senectus fibulam iniecit Deo,</p>
+  <p>Cyprias vietum frigus extinxit faces?</p>
+  <p>Metell. Quid si iuuenta perpes, &amp; viridis Deo?</p>
+  <p>Anthi. Effoeta fors &amp; pellices tellus negat.</p>
+  <p>Danaën repone, redde Catamitum phrygem,</p>
+  <p>Europa redeat, redeat Asopi genus</p>
+  <p>Erit ignis, aurum Iuppiter, taurum induet,</p>
+  <p>Aquila volabit. Metell. E cquid haec tandem satis</p>
+  <p>Recocta crambe? Anthi. Sponte ni foetum Patri</p>
+  <p>Valens bipenni Mulciber findat caput:</p>
+  <p>Aut femore rupto bis satus Cadmi nepos</p>
+  <p>Saliat in auras. Metell. Fabulas vatum canis</p>
+  <p>Anthi. Quas vestra festis scena suppliciis agit,</p>
+  <p>Intérque pensa virgines vestrae canunt,</p>
+  <p>Galet. Odi prophano docta mentiri stylo</p>
+  <p>Lasciuientes Graeculos. Anthi. Leuibus patent</p>
+  <p><pb n="68"/> Aspersa falsis vera: ne famam putes:</p>
+  <p>Iouem Ida peperit Creta ferali tenet</p>
+  <p>Cinerem sepulchro: regna violentus patri</p>
+  <p>Extorsit haeres: profugus, afflictus senex</p>
+  <p>Aliena coluit iugera, &amp; patiens heri</p>
+  <p>Messuit aristas sceptra quâ tulerat manu</p>
+  <p>Exin magistro libera, &amp; patre, &amp; sene</p>
+  <p>Auida iuuentus quale non ausa est nefas?</p>
+  <p>Fortuna regum est ire quà nulli licet.</p>
+  <p>At ille matris dedecus, fratris pila,</p>
+  <p>Nepos nouercae, quem pererratum expulit</p>
+  <p>Virtus per orbem famula, nùm sponte Omphalem</p>
+  <p>Leno maritam passus, &amp; monstris graues,</p>
+  <p>Clauae assuetas fregit ad calathos manus?</p>
+  <p>Inde vbi stolatus fabulam Lydis dedit</p>
+  <p>Oetaea scandit busta, &amp; exosus solo</p>
+  <p>Recens per astra fecit Engonasin Deus.</p>
+  <p>Sic consecrantur scelera, fit libidinum</p>
+  <p>Coelo lupanar: vt quod arrisit Deo</p>
+  <p>Prauum videri desinat. Nam quis vetet</p>
+  <p>Quam Deus Olympo monstrat, aut aperit viam?</p>
+  <p>Et hoc choragi circulatores canunt,</p>
+  <p>Et hoc iuuentus cerea in vitium trahi</p>
+  <p>Tonante discit verbere, &amp; magnae spei est</p>
+  <p>Quicumque meliùs furta dinumerat Iouis.</p>
+  <p>Metell. Disci vetabis scripta quae mundus colit?</p>
+  <p>Anchi. Nescire pulchrum est facere quod turpe est, senex,</p>
+  <p>Metell. Quod turpiter fit, scire, vt euites, decet.</p>
+  <p><pb n="69"/> Anthi. Tale esse censes quod fit exemplo Deûm?</p>
+  <p>Galer. In vana abisse iurgia hàc liceat tenus,</p>
+  <p>Hoc iubeo: sivis viuere Tonantem louem,</p>
+  <p>Deósque adora. Anthi. Vita si tanti foret</p>
+  <p>Tuis catastis ante certassem eripi.</p>
+  <p>Nunc cùm senectae vester accessit labor,</p>
+  <p>Inspirat aliud Christus, &amp; coelo breuis</p>
+  <p>Posita doloris meta. Galer. Tundendum flagris</p>
+  <p>Abripe satelles, effluat laceros loquax</p>
+  <p>Anima per artus: taedet hoc monstro ampliùs</p>
+  <p>Spureare solem. Anthi. Christus ad palmam vocat,</p>
+  <p>Stas Adriane, an sequeris? Adrian. Iniustè facis</p>
+  <p>Aequè nocentes, Caesar, arbitrio impari,</p>
+  <p>Hostis, &amp; amicus dirimis. An plecti iubes</p>
+  <p>Quod liberè ausa est lingua! dixi quod meo</p>
+  <p>Dixit rogatu. Christus ad culpam redit?</p>
+  <p>Sum Christianus. Galer. Proditor. quis me tenet</p>
+  <p>Quin ense pectus? vltimum hoc deerat tuis</p>
+  <p>Vesane technis? fidus, &amp; patiens tui</p>
+  <p>Eram hàc petendus? Christe quàm saeuo fodis</p>
+  <p>Stimulo immerentes! quàm malâ, &amp; forti manu</p>
+  <p>Diuellis animas! Sed vbi, sed de quo queror?</p>
+  <p>Me perdidistis aulici: nam dum necem</p>
+  <p>Pietas moratur, spreta maiestas ruit.</p>
+  <p>Sarcite culpam, vester, &amp; dudum meus</p>
+  <p>Illusor hic est: fustibus quantum pote est</p>
+  <p><pb n="70"/> Nudate latera, nemo pro vitâ roget</p>
+  <p>Actum est, amorem iustus exclusit furor.</p>
+  <p>Adrian. Hoc tamen amoris pignus, heu nescis, tui est:</p>
+  <p>Grates rependo vota quod cumulas mea:</p>
+  <p>Quod per furorem, Christus ignoscat polò.</p>
+  <p>Vale Galeri, Iudicem iudex time.</p>
+</div>
+<div type="level1" xml:id="scena-septima.-1">
+  <head><ptr target="#tn37" n="37"/>SCENA SEPTIMA.</head>
+  <p>TITIANVS. GALLVS. FLAVIVS.</p>
+  <p>RAPE ad flagella; mole dein ferri grauem</p>
+  <p>Restitue cippo. Pectus attonitum stupor</p>
+  <p>Non occupauit Galle? tam similem sui,</p>
+  <p>Tam non pauentem nullus Adrianum dies</p>
+  <p>Spectarat vnquam. Gallus. Mirus hic non est rigor</p>
+  <p>Crudos tueri Martis assueto impetus.</p>
+  <p>Vidi irruentes, quáque telorum seges</p>
+  <p>Horrenda condensatur, ardentes mori.</p>
+  <p>Nuper latinâ pectus ex haustus manu</p>
+  <p>Vulnus iuuabat miles, &amp; capulo tenus</p>
+  <p>Hastam induebat, tramite vt certo suum</p>
+  <p>Referiret hostem: victus, &amp; victor pari</p>
+  <p>Jacuêre letho. Nempe quid fugiat bonae</p>
+  <p>Contemptor animus lucis, &amp; morti obuius?</p>
+  <p>Titia. Sic est, timere strepitus armorum vetat,</p>
+  <p>Resonansque murmur, cornuum &amp; toto agmine</p>
+  <p>Diffusus ardor, quódque vel summum reor,</p>
+  <p>Hos gloria, illos praeda sperantes agit.</p>
+  <p>Sed torua Regis ora spectare, &amp; diu</p>
+  <p><pb n="71"/> Vnâ quietum sede, constantem sibi,</p>
+  <p>Optare legum verba, ne pactam suo</p>
+  <p>Animus Tonanti fallat instabilis fidem,</p>
+  <p>Hoc Christianum est. Gallus. Stemma patriciae domus,</p>
+  <p>Et auita honorum decora, Caesarei recens</p>
+  <p>Munus fauoris, quodque spes reliquum facit</p>
+  <p>Proiicere iuuenem, mortis vt certus dolor</p>
+  <p>Dubias futuri credulo sortes emat,</p>
+  <p>Hoc est furori proximum. Titian. Quanquam improbâ</p>
+  <p>Laesit proteruus voce, amicitiae tamen</p>
+  <p>In iura veteris redeat: indignum quoque</p>
+  <p>Letho extrahamus. Gallus. Munus ingrato dabis.</p>
+  <p>Titian. Vtendo fiet gratus. Gallus. Inuitus nequit.</p>
+  <p>Titian. Qui secla sperat, viuere inuitum putas?</p>
+  <p>Gallus. Qui certa spernit, viuere inuitum negas?</p>
+  <p>Titian. Non ille vitam reicit, at Christum tenet.</p>
+  <p>Gall. Tenere vtrumque iure Romano nefas.</p>
+  <p>Titian. Quem lingua fallax pectore inseuit Deum.</p>
+  <p>Excutere nequeam? Gallus. Qualis humenti solo</p>
+  <p>Segetes tenace lappa complexu necat:</p>
+  <p>Inhaeret animo talis, &amp; verum obruit</p>
+  <p>Auidè recepta falsitas. Titian. Sed quis vetet</p>
+  <p>Aditus secundos aggredi, atque omni ariete</p>
+  <p><pb n="72"/> Malè peruicacem impellere? Gallus Hoc socii senis</p>
+  <p>Sperare suada prohibet, &amp; mentis vigor</p>
+  <p>Supplicio &amp; aeuo maior. euersum puta,</p>
+  <p>Vitam vt redonet Caesar? vt iustae modum</p>
+  <p>Permittat irae? Titian. Caesaris praesto fidem:</p>
+  <p>Pietas repugnat sape dum cogi cupit.</p>
+  <p>At ille suprà vegetus aetatem senex</p>
+  <p>Age segregetur. Facilis impendet labor</p>
+  <p>Tribune, caesos conde diuerso specu,</p>
+  <p>Et ahena serua claustra, ne tacito pede</p>
+  <p>Irrepat vllus, ipse vix tenuem dies</p>
+  <p>Rimetur aditum. Flau. Coniugem Adriani quoque</p>
+  <p>Arces ab antro? Titian. Foemina leuis est dolus:</p>
+  <p>Admitte, tamen &amp; lumine intento vigil</p>
+  <p>Speculare, ne quod praestet auxilium viro.</p>
+  <p><hi rend="bold"><ptr target="#tn38" n="38"/>CHORVS.</hi></p>
+  <p>MAgni propago Patris, honoribus</p>
+  <p>Intaminatis candida veritas,</p>
+  <p>O quàm peregrino laboras</p>
+  <p>Diua solo, melioris haeres!</p>
+  <p>Te purpuratis peruia simiis</p>
+  <p>Regum aula ridet: te sacer infulâ</p>
+  <p>Prodit Sacerdos: te loquentem</p>
+  <p>Sanctiùs Ausonii Senatûs</p>
+  <p>Odêre Patres. Quo semel exulas</p>
+  <p>Contempta regno, Perfidia impios</p>
+  <p><pb n="73"/> Celans recessus, falsitásque,</p>
+  <p>Fraúsque subit, pauidásque ducens</p>
+  <p>Error tenebras: omnipatentibus</p>
+  <p>Venenum adulans auribus ingerit,</p>
+  <p>Gratúsque quâ laedit ruinâ</p>
+  <p>Visceribus furit occupatis.</p>
+  <p>Tales dolosâ rupe Pelorias</p>
+  <p>Puella nautae non bene credulo</p>
+  <p>Stillauit artes, &amp; volantis</p>
+  <p>Veláque, remigiúmque cantu</p>
+  <p>Fixit carinae: risit inhospitis</p>
+  <p>Deprehensa puppis vorticibus, dabat</p>
+  <p>Mortem voluptas, &amp; volentum</p>
+  <p>Blanda lues populabat artus.</p>
+  <p>Non omnia ibunt secla nigrantibus</p>
+  <p>Corrupta fusis: sed vitia interim</p>
+  <p>Placent rudimento, grauémque</p>
+  <p>Prima leuat nouitas laborem:</p>
+  <p>Experta languent; dat satias modum.</p>
+  <p>Virtus perennat sola, boni fames</p>
+  <p>Augetur vsu, séque turpis</p>
+  <p>Impatiens senii propagat.</p>
+  <p>Cum tela lucis per liquidum aëra</p>
+  <p>Recente Phoebus fudit anhelitu,</p>
+  <p>Primóque non puros calore</p>
+  <p>Elicuit pelago vapores.</p>
+  <p>Vides vt atrâ nube tyrannidem</p>
+  <p>Coelo minantur? Stat Deus altior,</p>
+  <p>Viámque rimatus diei</p>
+  <p>Diuidit hinc tenebras, &amp; illinc.</p>
+  <p>Tandem recepto pulcrior aethere</p>
+  <p>Mundo auspicatam Caesariem explicat:</p>
+  <p>Currúque iam victor, sereno</p>
+  <p><pb n="74"/> Per solitos equitat meatus:</p>
+  <p>Talis cupitum restitues iubar</p>
+  <p>Alumna virgo temporis, &amp; iugum</p>
+  <p>Olim triumphatae sequentur</p>
+  <p>Horribiles scelerum cateruae.</p>
+</div>
+<div type="level1" xml:id="actvs-qvartvs.">
+  <head><ptr target="#tn39" n="39"/>ACTVS QVARTVS.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-3">
+  <head>SCENA PRIMA.</head>
+  <p>NATALIA, in virili habitu.</p>
+  <p>ANIMOS viriles saepe foemineo stola</p>
+  <p>Obtexit habitu: reddo depositum togae:</p>
+  <p>Audax virilem foemina ornatum induo.</p>
+  <p>Non clara virtus, non Deus sexum eligit,</p>
+  <p>Quicunque fecit fortiter, Christo vir est.</p>
+  <p>Nec maior aut securior forti latet</p>
+  <p>Virtus abollâ: crinis effusi decor,</p>
+  <p>Circumque picti syrma luxurians pepli,</p>
+  <p>Et nebula collum linea infidè tegens,</p>
+  <p>Niueum tribaccâ pectus eoâ tumens,</p>
+  <p>Et ille mundi mundus illecebra, &amp; ferae</p>
+  <p>Vox veneris anceps, quam malè ingenui locum</p>
+  <p>Seruant honoris! pallet intutus pudor</p>
+  <p>Viros tot inter, &amp; quid in vitâ, viros</p>
+  <p>Non cogit inter esse? praedatum irruunt</p>
+  <p>Quà non timentur, melleus linguae lepos</p>
+  <p>Occultat hamum, virgini illusum est priùs</p>
+  <p><pb n="75"/> Retecta quam fraus pateat. Inuasi dolum</p>
+  <p>Hominésque cepi cauta quà potui capi.</p>
+  <p>Haec vna me lux Flauio notam facit,</p>
+  <p>In hoc mariti causa me alloquium impulit:</p>
+  <p>In carcere ipso, (credat hoc quisquam?) in situ,</p>
+  <p>In morte, viuo coniuge affectat meos</p>
+  <p>Improbus amores, laudat absentem, obuiae</p>
+  <p>Occurrit vltrò, blandiùs verba eliquans</p>
+  <p>Salutat, haeret, ardet. O saencte integri</p>
+  <p>Custos pudoris, si quid Adriani potest</p>
+  <p>Vxor mereri; si qua te pietas mouet</p>
+  <p>Pro te relictae; ne, per inuicti hactenus</p>
+  <p>Ligni trophaeum, per triumphantem fidem,</p>
+  <p>Ne patere vinci robur, &amp; coelo sacra</p>
+  <p>In haec relabi membra: violaui caput,</p>
+  <p>Flauúmque secui crinis intonsi decus,</p>
+  <p>Ne rete stolidis tenderet: iam tu meum</p>
+  <p>Caput esto Christe. Cycladas, armillas, peplos,</p>
+  <p>Corymbum, inaures, lunulas, tricas meras</p>
+  <p>Tandem abdicaui: Christe potiorem dabis</p>
+  <p>Amate mundum. Mentior corpus viri,</p>
+  <p>Seruata thalamis Christe perpetuùm tuis:</p>
+  <p>Vtque Adriani spiritum praesens legam.</p>
+  <p>Nec me recentis submouet legis metus,</p>
+  <p>Ibo vxor, ibo mulier, &amp; si me pia</p>
+  <p>Fraus in periclo deserit, mortis ream</p>
+  <p>Iunget marito: &amp; ne quis immeritum putet</p>
+  <p>Subire lethum, duplices necto dolos,</p>
+  <p>Vt per volentem Flauium, ignaro specum</p>
+  <p>Natalia intret Flauio, &amp; notos viro</p>
+  <p>Vultus, Tribuno voce non fractâ tegam.</p>
+  <p>Et ecce circùm limen obscurae domus</p>
+  <p>Sollicitus errat. ---</p>
+</div>
+<div type="level1" xml:id="page76-40scena-secvnda.">
+  <head><pb n="76"/> <ptr target="#tn40" n="40"/>SCENA SECVNDA.</head>
+  <p>NATALIA. FLAVIVS.</p>
+  <p>--- QVISQVIS es, coelo auspice</p>
+  <p>Occurris; isto carcere Adrianus iacet?</p>
+  <p>Flau. Quis, &amp; vnde poscis? Natal. Coniugi eunuchus comes:</p>
+  <p>Huc missus adsum, si vel alloquio licet</p>
+  <p>Recreare Dominum, quando foemineam procul</p>
+  <p>Exesse curam Caesar iratus iubet.</p>
+  <p>Flau. O te beatum, fata quem tali obsequi</p>
+  <p>Voluére Dominae. Legis edictum nouae</p>
+  <p>Quâ mente cepit? Natal. Iura naturae sibi</p>
+  <p>Negata queritur, Caesarem exceptum dolis,</p>
+  <p>Plenâ Tribuni voce perfidiam increpat:</p>
+  <p>Amoris hostem clamat, &amp; sterbilis toro</p>
+  <p>Dignum Leaenae sancta qui taedae vetet</p>
+  <p>Foedera iugalis: in maritarum choro,</p>
+  <p>Inter quasillos virginum, immanis sonat</p>
+  <p>Nomen Tribuni, Veneris iratae iocum</p>
+  <p>Faciunt puellae. Flau. Funditus perii miser.</p>
+  <p>Natal. Túne es Tribunus ille? Flau. Sexcentos loues</p>
+  <p>Et mille diuos eligam offensos magis</p>
+  <p>Nataliâ vnâ. non capit frenos dolor,</p>
+  <p>Ibo &amp; recentis exequar facti ordinem.</p>
+  <p>Decepta credet Flauio. Natal. Frustrà iueris,</p>
+  <p>Vidi migrantem laribus, &amp; saeuo minas</p>
+  <p>Murmure frementem. Flau. Mene inauditum reis</p>
+  <p><pb n="77"/> Iniqua iunget? quid si &amp; edicto truci.</p>
+  <p>Dedit ipsa causam? sceleris euentum sui</p>
+  <p>Refundet in me? Natal. Si patrocinium petis</p>
+  <p>Tibi adero crimen explica, Nataliae</p>
+  <p>Dictum putato. Flau. Forma cui similem facit;</p>
+  <p>Si mitra crines, si pedes tegeret cyclas,</p>
+  <p>Natalia esses ipsa. Natal. Iudicium probo,</p>
+  <p>Sed occuparunt plurimi, vt quisque aspicit.</p>
+  <p>Flau. Vbi Adriano valida lictorum manus</p>
+  <p>Lignísque, fustibúsque difregit latus,</p>
+  <p>Iterum ad catenas ferre seminecem institi,</p>
+  <p>Iussúsque ahenâ carcerem obduxi serâ,</p>
+  <p>Ne quis mali solamen afflictis daret.</p>
+  <p>Aditum impetraui coniugi: irrata audiat.</p>
+  <p>Dicam furenti, gratiam hanc debet mihi,</p>
+  <p>Scit Consul, &amp; qui Consulem sequitur gradu</p>
+  <p>Gallus propinquo: venit ingenti choro</p>
+  <p>Comitata matrum. Fateor attonitus steti,</p>
+  <p>Numerúsque, personaeque secretum haud dabant.</p>
+  <p>Tandem periclo mortis addixi caput</p>
+  <p>Nataliae ergo. Quà patent valuae, loquax</p>
+  <p>Ingreditur agmen, perque cellarum abdita</p>
+  <p>Sese refundit. Tale vimineis ruit</p>
+  <p>Examen antris, &amp; susurranti thymum</p>
+  <p>Bombo salutat, illa clementi manu</p>
+  <p>Diducit oras vulnerum; haec tabum vlceris</p>
+  <p>Exsugere audet: illa manantem stolâ</p>
+  <p>Tergére saniem gaudet: haec lectos sinu</p>
+  <p>Vermes recondit, rore turgentem putes</p>
+  <p>Baccam ipso in Indo radere. Aequales suprà</p>
+  <p><pb n="78"/> Socia Adriani feruet: &amp; quamquam omnibus</p>
+  <p>Impendit animum, totus exsangui labor</p>
+  <p>Manet in marito, viscerum effusas legit</p>
+  <p>Cohibétque partes, vulnera humenti rigat</p>
+  <p>Oleo, alligátque: vincula, &amp; ferri leuat</p>
+  <p>Immane pondus: quicquid exsequitur decet.</p>
+  <p>Non hâc Machaon arte, non Phoebo satus</p>
+  <p>Affecta tractet membra: quod tetigit manu,</p>
+  <p>Conglutinatur vulnus, &amp; plagis amor</p>
+  <p>Facit medelam: deinde cum laeui cibos</p>
+  <p>Infert in ora pollice, &amp; fundit merum,</p>
+  <p>O nectar! aut cùm sustinet dextr6a caput,</p>
+  <p>Collúmque mulcet, cúmque in amplexus cadit,</p>
+  <p>O basia! Natal. Illâ coniuge Adrianus tibi</p>
+  <p>Felix videtur? Flauius. Capere quae potuit Jouem,</p>
+  <p>Iunone spretâ, namque perpetui toro</p>
+  <p>Digna erat amoris praecoce Adrianus fidem</p>
+  <p>Aetate dirimit. Natal. Nomen Adriani excidat,</p>
+  <p>Thalamos relictae melior affectat procus.</p>
+  <p>Flau. Quis ille? Natal. Genere, gloria, &amp; formâ inclytus,</p>
+  <p>Opúmque diues. Flau. Caesari inuidiam parat</p>
+  <p>Hoc quisquis ambit, Natal. Caesaris sortem suprà</p>
+  <p>Euectus, illum timeat? Flau. Herculium manet,</p>
+  <p>Iouiumne? Natal. Disces, fata si rapiunt virum.</p>
+  <p>Sed cur vetabas coniugum extrema oscula</p>
+  <p>Delator importunus? Flau. Hoc vasto caput</p>
+  <p>Tellus hiatu sorbeat, si me audiit</p>
+  <p><pb n="79"/> Consul loquentem. Vile Custodum genus</p>
+  <p>His aucupatur gratiam, &amp; crebris ferit</p>
+  <p>Proceres querelis, visa non visa aggerat;</p>
+  <p>Hinc illa legis fata muliebri negant</p>
+  <p>Aditum cohorti. Natal. Si quis est precibus locus,</p>
+  <p>Donisue, iam nunc maximè admitti ad virum</p>
+  <p>Natalia rogat. Flau. Non si achaemenias opes,</p>
+  <p>Non si in penates diuitem immittat Tagum,</p>
+  <p>A me impetrarit, Sola venisset, pius</p>
+  <p>Tutò esse potui. Natal. Sola, per tenebras, caput</p>
+  <p>Centone tecta, veniet. Flau. Excludam, ratum est.</p>
+  <p>Natal. Sunt multa, queis te si fidem hanc reddis, beet.</p>
+  <p>Flau. Fidem imperanti praesto. Natal. Pietati dabis,</p>
+  <p>Amat maritum. Flau. Mene vt alienum oderit,</p>
+  <p>Moríque cogat?. Natal. Quod times praesto malum,</p>
+  <p>Jdem erit perîclum méque, &amp; illam admittêre.</p>
+  <p>Flau. Rogare parce, gratiam introitûs tui</p>
+  <p>Nataliae omnem facio. Natal. Sat rigidè quidem</p>
+  <p>Sed tempus aderit, pauca cùm doleas, meâ</p>
+  <p>Voluisse causâ. Flau. Semiuir forti vtilem</p>
+  <p>Nauare opellam turgidus speres viro?</p>
+  <p>Natal. Dolebis inquam, meliùs ignotos habe.</p>
+  <p><pb n="80"/> Flau. Certùm ire porrò, an stare? quid dubium tenes?</p>
+  <p>Comitare tu intrò: caetera obseruet cohors</p>
+  <p>Cui claustra pateant, si quis immittat pedem</p>
+  <p>Iterum mouebo, capite supplicium exigam.</p>
+</div>
+<div type="level1" xml:id="scena-tertia.-1">
+  <head><ptr target="#tn41" n="41"/>SCENA TERTIA.</head>
+  <p>FLAVIVS.</p>
+  <p>QVI saxo amorem Thespium, aut rigido extudit</p>
+  <p>Faber metallo, mole tardauit Deum</p>
+  <p>Fragilem &amp; volucrem: penna mutantem huc &amp; huc</p>
+  <p>Fluxu reciproco portat; apprensum putat?</p>
+  <p>Digitos inanes ludit: illustri vides</p>
+  <p>Splendore cinctum? frangitur quà plus nitet.</p>
+  <p>Reuocare sparsa fragmina, incertus labor</p>
+  <p>Nec membra membris artifex vnquam manus</p>
+  <p>Sic alligarit quin per ingratas hiet</p>
+  <p>Fractura rimas. Animus ardescit, vitro</p>
+  <p>Duxisse amorem vitreâ instabilis Deus</p>
+  <p>Volabit alâ; stringere aggrediar manu</p>
+  <p>Manum refractus fallet, &amp; adacto volam</p>
+  <p>Penetrabit ictu. Vitreos plagae appetens</p>
+  <p>Lunabit arcus, cúmque fatiferum ossibus</p>
+  <p>Indiderit ignem, tela rumpentur feri</p>
+  <p>Medullâ in imâ. Stabit aligero comes</p>
+  <p>Fortuna puero diuitem ostentans penum</p>
+  <p>Cornu capacis. Caecitas vtri minor,</p>
+  <p>Leuitásque diuo? spernit immeritos vter,</p>
+  <p><pb n="81"/> Volat ad merentes? nempe non formae honum</p>
+  <p>Sed sortis amor est. Parte iam magnâ sui</p>
+  <p>Mortem Adrianus hausit, &amp; totum optima</p>
+  <p>Rapit maritum coniugi; expertem tori</p>
+  <p>Sobolisque linquit. Ergo primaeuo vigens</p>
+  <p>Natalia aeui flore, quam Veneri aureae</p>
+  <p>Fecit venustas supparem, at mentis vigor</p>
+  <p>Aequat Mineruae, vidua, deserta, anxia,</p>
+  <p>Casti tumoris nescia aeternum gemet?</p>
+  <p>Furias mariti soluet, &amp; culpam innocens?</p>
+  <p>Reparare thalamos equidem, &amp; incerti vagos</p>
+  <p>Aestus parabam pectoris nunquam irritâ</p>
+  <p>Stabilire taedâ; fateor Adriano minor,</p>
+  <p>At non pudendus. Et mihi est clarum genus</p>
+  <p>Nec dextra bello futilis: formam quoque</p>
+  <p>Dedit alma Cypris: stare plebeio gradu</p>
+  <p>Et fata vatum, &amp; stella natalis vetant.</p>
+  <p>Quid plura? coepi amare, &amp; obsequium mihi</p>
+  <p>Benè grata debet. Sensit ambita, &amp; bono</p>
+  <p>Respondit oculo: qualis os plenum exerit</p>
+  <p>Aduersa fratri Delia, &amp; nubes face</p>
+  <p>Rumpit serenâ. Sed quis heu! rutilum notus</p>
+  <p>Obduxit astrum? quis mihi eripuit diem?</p>
+  <p>Nimis inquietam de maritali sinu</p>
+  <p>Abigi imperaui Caesar: id factum meo</p>
+  <p>Credit relatu, praemia officii miser</p>
+  <p>Et tot salutes perdidi: in partes amor</p>
+  <p>Desiliit &amp; quis posse reparari autumet?</p>
+  <p>Saltem Adriani vita dum corpus reget</p>
+  <p>Non erit amari facilis: atque illud placet</p>
+  <p>Quod semiuiuo inhaeret, &amp; spirat fides</p>
+  <p>Vel morte in ipsâ pertinax: quantò aequiùs</p>
+  <p>Stabit perennis nacta connubio virum</p>
+  <p><pb n="82"/> Diuturniorem? Cuius impulsu strepit</p>
+  <p>Cardo palatiî? Caesaris prodit cohors.</p>
+</div>
+<div type="level1" xml:id="scena-qvarta.-2">
+  <head><ptr target="#tn42" n="42"/>SCENA QVARTA.</head>
+  <p>GALERIVS. FLAVIVS.</p>
+  <p>ITA non rebellat Christus, &amp; iustam imperî</p>
+  <p>Legem capessit subditus? rapite ocyus,</p>
+  <p>Eruite tenebris, fata violantem mea</p>
+  <p>Iuuat intueri. Perfidos etiam greges</p>
+  <p>Tribunus auget, capitis &amp; custos sacri</p>
+  <p>In me furentes armat? est aliquid super</p>
+  <p>Iudaea quo me consilî expertem trahat</p>
+  <p>Religio? me ipse metuo, nam circùm latus</p>
+  <p>Milite &amp; amico spoliat. Infande huc ades.</p>
+  <p>Te video perduellis? hunc aditum tua</p>
+  <p>Proditio reperit? si quid in dominos paras,</p>
+  <p>Sumus hàc petendi? Flau. Dubius infidum tibi</p>
+  <p>Rumor Galeri nunciat, an implet tuas</p>
+  <p>Delator aure? vita quam vixi, tua est:</p>
+  <p>Nec sic piget vixisse, nec mortem abnuo</p>
+  <p>A te imperatam. Cuncta cernentem Iouis</p>
+  <p>Sed testor oculum, si quid est factum improbè</p>
+  <p>Dictúmne, capiti Caesar, &amp; generi meo.</p>
+  <p>Galer. Quis ille sontis claustra penetrauit domus?</p>
+  <p>Quis carceres irrupit, vt dulci impios</p>
+  <p>Soletur ore? Flau. Nemo violentos tulit</p>
+  <p>In adyta gressus, sic mihi faueat polus,</p>
+  <p>Túque alme Caesar, nullus irrupit domum.</p>
+  <p><pb n="83"/> Galer. Ignaue, non si mille glomerentur neces,</p>
+  <p>Oculósque stringat chalybis horrificus nitor</p>
+  <p>Conuellere ausis legem, &amp; augustae vltima</p>
+  <p>Effata vocis: tunc gratuitò malus</p>
+  <p>Terrore nullo adactus, in mentis meae</p>
+  <p>Decreta pecces? Flau. Nulla fraus iussum abrogat,</p>
+  <p>Vis nulla legem; non vir immissus domum</p>
+  <p>Non foemina introgressa. Galer. Verborum dolos</p>
+  <p>Si nectis, ego te rupe praecipitem dabo,</p>
+  <p>Thebana qualem morte nobilitat lues.</p>
+  <p>Flauius. Aegnima si te fallit, aedipodem tenes.</p>
+</div>
+<div type="level1" xml:id="scena-qvinta.-1">
+  <head><ptr target="#tn43" n="43"/>SCENA QVINTA.</head>
+  <p>GALERIVS. NATALIA.</p>
+  <p>TVNE ille legum qui per obstantes moras</p>
+  <p>Irrumpis audax claustra? qui Regum minas,</p>
+  <p>Amentiae, fraudísque materiam facis:</p>
+  <p>Vbi spem salutis Caesare offenso locas?</p>
+  <p>Etiamne vitae taedet, &amp; properum mori</p>
+  <p>Furore redimis? quisquis, aut vnde aduenis,</p>
+  <p>Dispone mortem. Natal. Iustus exstimulat dolor,</p>
+  <p>Peccasse fateor, mente sed factum bona.</p>
+  <p>Ego Adriani coniugem assector comes,</p>
+  <p>Fato parentum seruus, alloquio &amp; sinu</p>
+  <p>Exclusa domini, legis augustae sonum</p>
+  <p><pb n="84"/> Attonita, pauida excepit, &amp; frustrà pia</p>
+  <p>Oculos imbres soluit. Heu fata aspera</p>
+  <p>Meam Adrianus viuat, aut moriar prior!</p>
+  <p>Vni superstes coniugi, praeda omnium</p>
+  <p>Quo timida mulier ibo? nec charum licet</p>
+  <p>Abluere lymphâ corpus, aut summum datur</p>
+  <p>Transfundere in me Spiritum. Hinc probra aggerat</p>
+  <p>In te, in Tribunum, in Consulem. Quod sic vomit</p>
+  <p>Amor est. At astra quando, superósque increpat,</p>
+  <p>Quid dixit, aut quid tacuit? ô laruae Deûm:</p>
+  <p>O muta templis saxa, cur fulmen riget</p>
+  <p>Si quid potestis: spreti, &amp; illusi diu</p>
+  <p>Feritate legum statis: Augusti sinant,</p>
+  <p>Irae recondant spicula, &amp; crudas neces,</p>
+  <p>Coelo excidetis. Iuppiter ficulnee,</p>
+  <p>Diana aprorum, Phoebe serpentum metus,</p>
+  <p>Tremenda saxis Pallas, &amp; Mauors feris</p>
+  <p>Quis vos Typhoeum mille pugnantem toris,</p>
+  <p>Gyges, briareos montibus vulsis graues</p>
+  <p>Domuisse narrat? vile Christiadum genus</p>
+  <p>Lacerata secta, virgines, pueri, Deis</p>
+  <p>Minantur, &amp; timentur, ô coeli probrum!</p>
+  <p>O male parati conscium regni Jouem!</p>
+  <p>Miserans querentem talia, eluso impuli</p>
+  <p>Custode, fateor, carceris forti dolo</p>
+  <p>Penetrare limen; sed tuae legis metu</p>
+  <p>Non ipsa veniat, moneo; submittat virum</p>
+  <p>Notum Adriano: sancta quod pietas velit</p>
+  <p>Non impediri legibus; gratum fore</p>
+  <p>Quod nunquàm amatum deserat: me me offero</p>
+  <p><pb n="85"/> Qui tot periclis vile subiiciam caput.</p>
+  <p>Et nunc paratum pectus ad mortem gero,</p>
+  <p>Fateórque crimen, iussus intraui specum.</p>
+  <p>Non vlla mihi vis, Caesar, effregit fores,</p>
+  <p>Subii volente Flauio, extremam tuli</p>
+  <p>Domino salutem. Galer. Nostra clementi vigent</p>
+  <p>Imperia sceptro, pone foemineos metus:</p>
+  <p>Quod ausus in me es parco, nec Nataliae</p>
+  <p>Condemno amores, poena nec legi addita est</p>
+  <p>Illius ergò, visus est coniux, ope</p>
+  <p>Indignus vllâ. Iamne phryx plagis sapit?</p>
+  <p>Natal. Animus dolori pugnat, &amp; fractos vigor</p>
+  <p>Sustentat artus peruicax latios Deûm</p>
+  <p>Odisse cultus, quando me fari iubes</p>
+  <p>Audebo Caesar, Domina si dictum improbat,</p>
+  <p>Seque viduari, coniugem tolli dolet,</p>
+  <p>Plus principi debemus, &amp; Domino imperî.</p>
+  <p>Quod pertinacis pectus hâc frangi manu</p>
+  <p>Putas Galeri, falleris, morbo ferox</p>
+  <p>Medela cedit: maximè in superos furit</p>
+  <p>Cùm plus vetatur; qualis effractâ crepat</p>
+  <p>Fornace clausus Mulciber, séque explicat</p>
+  <p>Per inane victor: odia per lacerum vomit</p>
+  <p>Talis cadauer, quotque carnificis manu</p>
+  <p>Patuêre plagae, tot propra in statuas Deûm</p>
+  <p>Eructat ardens, séque sic Christo probat.</p>
+  <p>Quid plura? desperatus, &amp; vitam trahens</p>
+  <p>Suspirat in te Caesar, &amp; mortem rogat.</p>
+  <p>Galer. Mortem execrando dabimus, &amp; quod non rogat</p>
+  <p>Longam, asperam, insolentem. Age incudi indito,</p>
+  <p><pb n="86"/> Manus, pedésque ferreo vecte atterat</p>
+  <p>Rumpátque validus carnifex, animam expuat</p>
+  <p>Inter dolores. Poena par dudum nocens</p>
+  <p>Populetur agmen. Summe Regnator Deûm</p>
+  <p>Qui simul amicos foedere aeterno alligas,</p>
+  <p>Tibi sum cruentus, causa me cogit tua</p>
+  <p>Furere in amicos; haec tibi hecatombe cadit.</p>
+  <p>Opima non si colla submittant greges,</p>
+  <p>Fumétque ruris toto Panchaei seges,</p>
+  <p>Meliùs litaro. Ennuche, securam iube</p>
+  <p>Nataliam esse; testor augustum caput,</p>
+  <p>Opum nihil peribit; &amp; spero, tori</p>
+  <p>Reparabo taedas, seruet hanc nobis fidem,</p>
+  <p>Mille Adrianos faciet. Natal. O fractae ratis</p>
+  <p>Portúsque, spésque sola, si famulam exigat</p>
+  <p>Tibi nexa vitam, mille si cupiat tibi</p>
+  <p>Profundere animas, viuere ingratam tamen</p>
+  <p>Caesarea pietas coget. Hoc etiam precor</p>
+  <p>Adnecte donis, certus vt triste afferam</p>
+  <p>Solamen orbae, liceat Adriani vltimum</p>
+  <p>Morari agonem. Galer. Si lubet morere insimul,</p>
+  <p>Tua esto, Consul, cura, lege actum volo.</p>
+  <p><hi rend="bold"><ptr target="#tn44" n="44"/>CHORVS.</hi></p>
+  <p>QVID par habuit foemina fortis?</p>
+  <p>Quid pretioso natura sinu</p>
+  <p>Sanctâ meliùs fudit in auras?</p>
+  <p>Illa pudicam seruare domum,</p>
+  <p>Et Palladias docta per artes</p>
+  <p>Ducere tenui pollice lanam,</p>
+  <p>Famâ celebris, formâ ignota.</p>
+  <p><pb n="87"/> Circùm dulces vbera nati,</p>
+  <p>Castae veneris praemia, pendent.</p>
+  <p>Et virtutem sub lacte trahunt:</p>
+  <p>Qualis riuus gramina tinguens</p>
+  <p>Haurit patrio fonte saporem.</p>
+  <p>Illa arcani sapiens custos</p>
+  <p>Domini in dubiis sedula rebus</p>
+  <p>Quas non animo versare vias,</p>
+  <p>Quid non lacrymis superare potens?</p>
+  <p>Vtramque pati bona fortunam,</p>
+  <p>Et concordi comes ire toro.</p>
+  <p>Sic quae rigido marmore sculptum</p>
+  <p>Intulit astris Domini nomen,</p>
+  <p>Viuâ cineres condidit vrnâ.</p>
+  <p>Quaeque Emathiis animosa virum</p>
+  <p>Perdidit aruis, plusquam socios</p>
+  <p>Ebibit ignes non vetita mori.</p>
+  <p>Et quae pectus non dolituro</p>
+  <p>Saucia ferro, Paetum docuit</p>
+  <p>Optare necem. Quaeque maritum</p>
+  <p>Obuia fatis morte redemit.</p>
+  <p>Ausa &amp; mulier saepe virilem</p>
+  <p>Cohibere fugam: saepe emotas</p>
+  <p>Reddere pauido pectore vires.</p>
+  <p>Cruenta viros strauerat agris</p>
+  <p>Sparta, sed Argis repperit hostem,</p>
+  <p>Et foemineis cincta maniplis</p>
+  <p>Quae ludenti cecinit plectro</p>
+  <p>Telesilla, manu praelia fecit.</p>
+  <p>Dedit &amp; Tyriis iura colonis</p>
+  <p>Galla virago.</p>
+  <p>Stabat in armis gens Dite sata,</p>
+  <p>In sua versis certa perire</p>
+  <p><pb n="88"/> Viscera telis. Jamque Odrysiam</p>
+  <p>Mauors auidus monerat hastam,</p>
+  <p>Quâque ille viros, quâque ille feras</p>
+  <p>Territat vrbes: iam sanguineam</p>
+  <p>Bellona facem phlegetontaeis</p>
+  <p>Animarat aquis: ibat diuam</p>
+  <p>Comitata trucem turba malorum:</p>
+  <p>Ira hostili sanguine pasta,</p>
+  <p>Et laeta suis vltio damnis,</p>
+  <p>Proprióque dolor grauis auctori,</p>
+  <p>Luctus &amp; atrae mortis imago.</p>
+  <p>Ruit in medios agmen inerme,</p>
+  <p>Et blanditiis formâque potens.</p>
+  <p>Vos state patres, vos state viri</p>
+  <p>Clamat &amp; acres cohibete minas:</p>
+  <p>Consanguineos iure tumultus</p>
+  <p>Sedare iuitat, non fraternâ</p>
+  <p>Haurire manu viscera crudâ.</p>
+  <p>Aut si furor est stringere ferrum,</p>
+  <p>Per dispositas saeuite moras,</p>
+  <p>Per mactatas ite puellas:</p>
+  <p>Et habent matrum membra cruorem.</p>
+  <p>Dixit; at ollis cecidêre minae,</p>
+  <p>Et cognati sanguinis ardor:</p>
+  <p>Tunc desertas lege vnanimi</p>
+  <p>Petiêre lares, in foemineum</p>
+  <p>Foedus ituri.</p>
+  <p>Sed quis dignam te laude canat</p>
+  <p>Thalami consors fida Adriani?</p>
+  <p>Tu ferales penetrare domos,</p>
+  <p>Et per densos vigilum cuneos</p>
+  <p>Ausa in medias ire catenas,</p>
+  <p>Per tot mortes secura tui.</p>
+  <p><pb n="89"/> Tu Caesariem verticis olim</p>
+  <p>Decus intacti potis immiti</p>
+  <p>Sternere cultro: tu syrma stolae</p>
+  <p>Mutare togâ: déque nitenti</p>
+  <p>Ditem collo gemmam eripere</p>
+  <p>Fortis, &amp; omnem spernere mundum</p>
+  <p>Mentita virum. Sed falsa loquor:</p>
+  <p>Cùm Caesaries flueret niueos</p>
+  <p>Flaua per armos: cùm crepitaret</p>
+  <p>Aure sub vnâ pretium fundi;</p>
+  <p>Tunc foemineum mentita genus</p>
+  <p>Laxata virum stola celabat.</p>
+  <p>Sexum virtus, non forma facit.</p>
+  <p>At ecce hiatu carcer obliquo patet,</p>
+  <p>Vbi Adrianum multa seminecem manus</p>
+  <p>Circunstat: oculos huc &amp; huc coniux rotat</p>
+  <p>Sollicita: luctum Consul interiùs coquit.</p>
+</div>
+<div type="level1" xml:id="actvs-qvintvs.">
+  <head><ptr target="#tn45" n="45"/>ACTVS QVINTVS.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-4">
+  <head>SCENA PRIMA.</head>
+  <p>TITIANVS. ADRIANVS. NATALIA.</p>
+  <p>SERVM est monere quando iam rerum status</p>
+  <p>Certam in ruinam pendet. Ante equidem institi</p>
+  <p>Vt prouideres, nec tuus placuit rigor</p>
+  <p>Plus dandum amicis fuerat. Et memet tamen</p>
+  <p><pb n="90"/> Incuso, posse fata speraui Deûm</p>
+  <p>Rogando flecti; parca ineluctabilis</p>
+  <p>Huc te coëgit; vincula, &amp; fustes, Iouis</p>
+  <p>Fato dedisti, caetera arbitrium sequi</p>
+  <p>Tuum iubentur: vita si cordi est, potes</p>
+  <p>Vitare mortem: si mori placitum est licet;</p>
+  <p>Nec astra iam te, sed tuum perdit scelus.</p>
+  <p>Et cur recuses viuere? attritos malo</p>
+  <p><ptr target="#tn46" n="46"/>Causaris artus? languidum ruptâ fluat</p>
+  <p>Compage corpus, solue nodosos pedum,</p>
+  <p>Manuúmque nexus, tuber in foedum exeant</p>
+  <p>Pectúsque, scapulaeque, impiam inuade in crucem,</p>
+  <p>Animámque tot tormenta tracturam trahe,</p>
+  <p>Summam bonorum vitae si superest, tenes.</p>
+  <p>Adrian. O fidei alumne, &amp;, ni Deûm cultus vetet,</p>
+  <p>O flos bonorum, quam mihi prestas, mihi</p>
+  <p>Permitte curam, vana quod poscis, dolet,</p>
+  <p>Quod iniqua, quod sacrilega, quae mihimet negem.</p>
+  <p>Huc duxi agonem fortiter, metâ velis</p>
+  <p>Naufragium in ipsâ facere? dissuadet dolor</p>
+  <p>Et corpus exantlatum, &amp; effusus Deo,</p>
+  <p>Christóque sanguis. Si me amas, his abstine</p>
+  <p>Titiane, dae breue otium cadaueri</p>
+  <p>Vt pacificè animam exuat, Consul vale.</p>
+  <p>Titian. Non te tuorum miseret, aut miseret tui</p>
+  <p>Adriane? sic nos linquis, &amp; vegetae secas</p>
+  <p>Florem iuuentae? hoc illud Augusti refers</p>
+  <p>Donum fauoris? gloria hoc culmen tenes</p>
+  <p><pb n="91"/> Positus honorum in limine? immanem colis</p>
+  <p>Deum Adriane morte qui pensat fidem.</p>
+  <p>Quem toruà spectas? Ora cur flectis retro?</p>
+  <p>Iterum, iterúmque moneo, vel tu te aspice</p>
+  <p>Aut fida amicos pectora, aut Nataliae</p>
+  <p>Vixdum maritae dulcis Hymenaei faces.</p>
+  <p>Silet. Adriane Consul appellat tuus,</p>
+  <p>Vitam reporto, viuere Augusti sinunt,</p>
+  <p>Vel Christianum. Vertice obstipo riget.</p>
+  <p>Adest quod optas, lictor ad mortem vocat.</p>
+  <p>Arridet oculis stolidus. In mortem rue</p>
+  <p>Si furere pergis, quid diu insanum moror?</p>
+  <p>Natal. Viden vt propinquâ morte luctantem trahit</p>
+  <p>Infanus animam? quando violauit Deos</p>
+  <p>Fac poena mors sit: caede naturam occupa</p>
+  <p>Tonantis vltor. legibus vitam dabit:</p>
+  <p>Hoc est honori, posteris, famae mori.</p>
+  <p>Sub vecte rigido primus infelix gemat,</p>
+  <p>Caetera sequetur turba. Titian. Non frustrà mones.</p>
+  <p>Huc triste vectis pondus incudi additum</p>
+  <p>Deuehe satelles, caedem ab Adriano inchoa.</p>
+  <p>Eadem nocentes poena dein reliquos voret.</p>
+  <p>At vos, in vrbe media quae fornax hiat,</p>
+  <p>Animate flammâ, funerum hoc illis erit</p>
+  <p>In honore bustum, quáque plus spirant Noti</p>
+  <p>Iactate cineres. Turba Galilaei gregis</p>
+  <p>Eat, &amp; Deos perosa damnatos colat.</p>
+</div>
+<div type="level1" xml:id="page92-47scena-secvnda.">
+  <head><pb n="92"/> <ptr target="#tn47" n="47"/>SCENA SECVNDA.</head>
+  <p>NATALIA. ADRIANVS.</p>
+  <p>HVC frater oculos liberè, soli sumus.</p>
+  <p>Nunc nunc minacis gurgitem emensus freti</p>
+  <p>Syrtésque, scopulósque, atque ridentis malè</p>
+  <p>Pelagi serenum, post triumphatas trucis</p>
+  <p>Aquilonis animas, post tot inferni manus</p>
+  <p>Piratae abactas fortiter saluâ tenes</p>
+  <p>Portum carinâ; Macte, iacienda anchora,</p>
+  <p>Prensanda coeli statio, ne rabies sali</p>
+  <p>Iterum reflante sorbeat cauro ratem.</p>
+  <p>Adrianus. Nil est timendum, dentis inuicti haereo</p>
+  <p>Fundatus vnco. Quicquid est Erebi asperum,</p>
+  <p>Totos furoris impetus in me imprimat,</p>
+  <p>Superare ditem morte non facili iuuat.</p>
+  <p>Natal. Animosa frater verba, sed scopulum caue;</p>
+  <p>Styge prouocatâ typhus irrepit leuis,</p>
+  <p>Et homine maior animus, &amp; fidens sibi.</p>
+  <p>Qui sis, &amp; vnde cogita: non tu potes,</p>
+  <p>Quod posse numen fecit infusum tibi.</p>
+  <p>Adrian. Quàm dulce, Christo viuere, affligi, mori!</p>
+  <p>Natal. Christus supremum tramitem vitae terens</p>
+  <p>Coelum inter &amp; nos medius, offensi patris</p>
+  <p>Excepit iram totus, &amp; iussos polo</p>
+  <p>Hausit dolores? fluxit infusus liquor</p>
+  <p><pb n="93"/> A capite in artus; sacra Martyrio cohors</p>
+  <p>Tormenta calice de propinato ebibit,</p>
+  <p>Iam non amara. Sic vbi occultas latex</p>
+  <p>Terrae medullas subiit, &amp; tacito agmine</p>
+  <p>Venas Metalli strinxit, irriguâ capit</p>
+  <p>Saporem arenâ, dein salutari exerit</p>
+  <p>Se fonte percolatus, &amp; pestes fugat</p>
+  <p>Mortalis aeui: non secus Christi replent</p>
+  <p>Venas acerba turminum, vt suauis liquor</p>
+  <p>Meet in nepotes. quanta prô pietas Dei</p>
+  <p>Adriane! dirum quicquid horribile, asperum,</p>
+  <p>Propinat orcus, primus exhausit merum:</p>
+  <p>Nos delicati spineum amplexi caput</p>
+  <p>Rosarum amoena legimus: &amp; tanto piget</p>
+  <p>Vitam parenti reddere? &amp; carum putas</p>
+  <p>Hoc pretio Olympum? Adrian. Cor dolet, circum nigror</p>
+  <p>Oberrat oculos, morior. Natal. Eia animam tene,</p>
+  <p>Mox lictor aderit, Martyri standum in gradu est,</p>
+  <p>Vel morte in ipsâ: laureae tempus venit,</p>
+  <p>Caue occuparis. Cùm Deus lacero crucem</p>
+  <p>Corpore tenebat, artuum pondus graue</p>
+  <p>Clauo imprimens vtrúmque penetranti pedem</p>
+  <p>Infirmus, attritus, ferâ exhaustus siti:</p>
+  <p>Cum sole rapto medius horrendâ dies</p>
+  <p>In nocte periit, &amp; truci silentio</p>
+  <p>Pauefacta tellus timuit aeternum chaos.</p>
+  <p>Quam fortis inter illa, quam dignus Deo</p>
+  <p>Animus stetit, boníque diuini appetens</p>
+  <p>Sustinuit artus, ante ne vellent mori</p>
+  <p>Quam iussa sinerent patria, &amp; culpa modus</p>
+  <p><pb n="94"/> Rigidè expiatae. Non sibi hanc poenam tulit</p>
+  <p>Adriane, tibi, mihíque tam constans fuit.</p>
+  <p>Age, eia, frater, euge, lictores viden’?</p>
+  <p>Coelum propinquat, pectus in coelum euehe,</p>
+  <p>O Christe. Adrian. Christo tu vicem potius soror</p>
+  <p>Gratare nostram, morior. Natal. O magni patris</p>
+  <p>Aequaeua soboles, Martyrum dux, &amp; vigor,</p>
+  <p>Salutis ara, statio iactatae ratis:</p>
+  <p>Quod vana stolidus, victimâ infami, Deûm</p>
+  <p>Simulacra coluit, quod pios morti impiae</p>
+  <p>Adrianus olim addixit insani cliens</p>
+  <p>Eheu tyranni, poenitet, &amp; illis, reus</p>
+  <p>Propria parentat morte. Quod cultu in tuo</p>
+  <p>Vitam profundit Martyr, &amp; coeli fidem</p>
+  <p>Cruore signat, quicquid est coelo tuum,</p>
+  <p>Solóque, quicquid ipse formasti, tibi,</p>
+  <p>Grates rependat, donec aethereum augeat</p>
+  <p>Populum triumphans, gloriae testis tuae.</p>
+  <p>Sint membra linguae, sanguis in voces eat,</p>
+  <p>Totóque Christum corpore in poenis sonet.</p>
+  <p>Rata vota feci, Christus ad coelum vocat,</p>
+  <p>Placet ire frater? Adrian. In tuo amplexus placet.</p>
+  <p>Natal. Quicquid superba, quicquid erraui loquax</p>
+  <p>Ignosce Martyr, méque concilia Deo.</p>
+  <p>Adrian. Natalia vale. Natal. Pars mei frater vale.</p>
+  <p>Euolue crura fasciis, profer pedem,</p>
+  <p>Ascende lentus, tibiam incudi applica.</p>
+  <p>Oculos in astra frater, en medius poli</p>
+  <p><pb n="95"/> Discedit orbis, alites circùm aduolant</p>
+  <p>Auro &amp; coronis nobiles. Adrian. Eheu! Natal. Dolor</p>
+  <p>Abscessit; actum est: macte. Nunc laeuo est opus</p>
+  <p>Et hunc beatus promoue coelo gradum.</p>
+  <p>Vtrumque Christus vulnere ostentat pari,</p>
+  <p>Vterque puras solis exsuperat faces</p>
+  <p>Splendore plagae. Quà sacer fluxit cruor,</p>
+  <p>Omnia coruscant. Adrian. Christe! Natal. Momento gemis,</p>
+  <p>Pretium perenne est. Euge. sed nimiùm diu</p>
+  <p>Trahis Adriane spiritum: vsque adeo pati</p>
+  <p>Moríue miserum est? anima quin tenui volat</p>
+  <p>Resoluta vinclo? Nempe te vitae arbiter</p>
+  <p>Vult paria cum aliis facere, quos dudum furor</p>
+  <p>Stygius cruentat. Eia quam dextram osculor</p>
+  <p>Sine resecari Martyr, hac palmam ocyus</p>
+  <p>Victor prehendes. Christus hâc laetus manu</p>
+  <p>Aeterna trahet in regna. Nil mancum est Deo,</p>
+  <p>Nisi inchoatum si quis abrumpit bonum</p>
+  <p>Extremo in actu. Adri. Ah! Natal. Frater ingemina Deum,</p>
+  <p>Christum saluta. Fallor? exangui riget</p>
+  <p>Pallore facies? frater appella Deum.</p>
+  <p>Retroacta ceruix pondus insolitum trahit:</p>
+  <p>Nataliam Adriane si spiras, vide.</p>
+  <p>Abiit, peractum est, ore, nutu, oculis silet.</p>
+  <p>Caedes ad alias lictor, Adrianum omnibus</p>
+  <p>Vixisse referes. Offici pretium accipe,</p>
+  <p>At tu vicissim sanguine illusas pio</p>
+  <p>Vestes redona, quicquid Adriani nota</p>
+  <p>Signauit, esse statuo non frustrà meum.</p>
+</div>
+<div type="level1" xml:id="page96-48scena-tertia.">
+  <head><pb n="96"/> <ptr target="#tn48" n="48"/>SCENA TERTIA.</head>
+  <p>NATALIA.</p>
+  <p>I fortis anime, victor in coelum euola</p>
+  <p>Vbi luce clarâ visus amplexum Deus</p>
+  <p>Offert capitque: amoris aeterni focus</p>
+  <p>Micat perennis; rore nectareo fluunt</p>
+  <p>Honora Christi vulnera, &amp; socios boni</p>
+  <p>Condunt laboris: lauream hoc tutus sinu</p>
+  <p>Depone Martyr, hic triumphale otium</p>
+  <p>Age dite domito: mortis &amp; ferri rigor</p>
+  <p>Buccísque quod Tyrannus inflatis crepat,</p>
+  <p>Cessit ferendo. Adriane, dimidium mei</p>
+  <p>Bene collocasti: Adriane, pietate ex tuâ</p>
+  <p>Incipio respirare, sidereos ago</p>
+  <p>In te triumphos, haurio diuûm sacros</p>
+  <p>Per te liquores, viuo quod viuis, mea</p>
+  <p>Vita, &amp; voluptas. Crinis euulsi decus</p>
+  <p>Bissena reddunt sidera, &amp; claro caput</p>
+  <p>Agmine coronant: luminum extinctas faces</p>
+  <p>Reparat Tonantis flamma quae curru emicat.</p>
+  <p>Contusa lignis ora, sub Christi latus</p>
+  <p>Quali rigaentur imbre! quae lapides Deos</p>
+  <p>Lingua execrata est, dulce ter sanctae melos</p>
+  <p>Triadi frequentat. Vecte contriti pedes</p>
+  <p>Solidati in agni passibus, ceruâ ocyùs</p>
+  <p>Per odora saliunt, montis aetherei iuga.</p>
+  <p>Quàm suaue psallentum inter aligerum choros,</p>
+  <p>Fatidica vatum nablia, &amp; voce inclytas</p>
+  <p>Assâ puellas, sanguine rubentem suo,</p>
+  <p>Palmâ decorum, spatia metiri aetheris!</p>
+  <p><pb n="97"/> Ridere curas diuitum, &amp; foetam graui</p>
+  <p>Terram metallo, quaeque porticibus iacent</p>
+  <p>Jnania amplis iugera, atque afris cedros</p>
+  <p>Fultas columnis, inque priuatas domos</p>
+  <p>Deducta riuis flumina, &amp; quae maxima</p>
+  <p>Parui putamus. Nam quid angustum neges</p>
+  <p>In illa magna admissus, in apertum Dei</p>
+  <p>Receptus adytum? sortis hîc seriem legis</p>
+  <p>Modúmque nostrae: cernis arcanum chaos,</p>
+  <p>Vbi magna rerum semina, &amp; certi latent</p>
+  <p>Causae futuri: charitas moli incubat</p>
+  <p>Factura leges, haec vt aethereas modò</p>
+  <p>Surgant in auras, illa sub tenebris adhuc</p>
+  <p>Reposta lateant: esse nunc tempus iubet</p>
+  <p>Olim futurum, idmque praeteritum in nihil</p>
+  <p>Facit relabi, stabile sed sistit sibi,</p>
+  <p>Sempérque praesens. Cernis vt massa pater</p>
+  <p>Jstos ab atrâ educit; hos foedâ sinit</p>
+  <p>Torpere culpâ: vult vt immeritis benè,</p>
+  <p>Secla ante, &amp; ante temporum primas vices.</p>
+  <p>Vnde ille donorum ordo, &amp; aeternam trahens</p>
+  <p>Catena vitam: nec odium est; idem eligit</p>
+  <p>Amor tyrannum, &amp; martyrem; colo locat,</p>
+  <p>Condemnat orco. Sed quis haerentem solo</p>
+  <p>Rapit aestus? vnde coelitum, terrae immemor,</p>
+  <p>Arcana peragro? fallor, euasit mei</p>
+  <p>Pars vna, partem hîc seruo. Simulacrum hoc tui</p>
+  <p>Adriane amarit alia, fugitiui procax</p>
+  <p>Decoris auceps rupimus carnis moras,</p>
+  <p>Animaeque adhaesit anima. Sed quando benè est</p>
+  <p>Cui plus timebam; corpus hoc consors boni,</p>
+  <p>Tonantis aram, pneumatis magni thronum,</p>
+  <p><pb n="98"/> Rigabo lacrymis, mille defigam oscula,</p>
+  <p>Hac assidebo sedula, atque iterùm meo</p>
+  <p>Spirare faciam spiritu. ---</p>
+</div>
+<div type="level1" xml:id="scena-qvarta.-3">
+  <head><ptr target="#tn49" n="49"/>SCENA QVARTA.</head>
+  <p>FLAVIVS. NATALIA.</p>
+  <p>---HOC vnum est super,</p>
+  <p>Abripite famuli. Natal. Quo scelus scelere aggeras</p>
+  <p>Cruente miles! spiritu euulso, innocens</p>
+  <p>Furis in cadauer! hac tyrannorum tenus</p>
+  <p>Ierit potestas, mors tibi eripuit virum.</p>
+  <p>Flau. Facite imperata. Natal. Iuris Adrianus sui est,</p>
+  <p>Nil iam tyrannis debet: aut Domino abstine,</p>
+  <p>Aut simul vtrumque perde communi rogo.</p>
+  <p>Flau. Properate, reliqua mox cibum flammis dabit</p>
+  <p>Turba impiorum. Natal. Ardente si prohibes pyra,</p>
+  <p>Da legere cineres, rite quo iaceant, queo</p>
+  <p>Struere sepulcrum, nulla refodiet manus.</p>
+  <p>Flau. Sat est amoris, Caesarem irrites caue,</p>
+  <p>Dominam reuise, coniugis narra necem,</p>
+  <p>Viduae parari vincla, promissi fidem,</p>
+  <p>A Rege repeti: subiice &amp; nomen proci,</p>
+  <p>Non poenitebit Flauii. ---</p>
+</div>
+<div type="level1" xml:id="page99-50scena-qvinta.">
+  <head><pb n="99"/> <ptr target="#tn50" n="50"/>SCENA QVINTA.</head>
+  <p>NATALIA.</p>
+  <p>--- STOLIDVM caput.</p>
+  <p>Non poenitebit Flauii, Adriano datam?</p>
+  <p>Vni iugatam Martyri, affinem omnibus:</p>
+  <p>Maritum abisse quisquis hoc audes, putas,</p>
+  <p>Manu retineo. Martyris testor Deum</p>
+  <p>Mentis pudicae vindicem, hic sponsus meus,</p>
+  <p>Hanc coniugi olim iuncta conueni in manum.</p>
+  <p>O dextra, primis vltimas aequa faces,</p>
+  <p>O sine smargdo cara! ô inuidiam inclytis</p>
+  <p>Factura gemmis nuda! quid post te ambiam,</p>
+  <p>Quid tecum amabo? si lacessitam polus</p>
+  <p>Distringit iram, verticem vmbrabis reum,</p>
+  <p>Potiórque lauro fulminis franges minas.</p>
+  <p>Me si benigno lumine aspiciet Deus</p>
+  <p>In dona facilis; Tornus hos auro facit</p>
+  <p>Micare digitos, inde coelesti pluet</p>
+  <p>Hyacinthus imbre. Monstra tartarei specus</p>
+  <p>In bella rapient pectus auxilii indigum?</p>
+  <p>Scutum cauenti, tela ferienti dabis</p>
+  <p>Fabricata coelo dextra. Cùm tristi excita</p>
+  <p>Mors reuomet escam classico, &amp; mundi capax</p>
+  <p>Ingente in arcu iudicem vallis feret,</p>
+  <p>Adriane terrâ maior, aethereos Deo</p>
+  <p>Rapieris inter ordines: haec me pigram</p>
+  <p>Tumulo euocabit dextera, atque isti soror</p>
+  <p>Jmplicita dextrae non truci sistet throno.</p>
+  <p>Manus ô manus prensura mortalem Deum!</p>
+  <p><pb n="100"/> Vbi te recondam? quis tibi dignam locus</p>
+  <p>Faciet quietem? Si placeo, cordis sinus</p>
+  <p>Penetra reductos, mollis hic thalamus iacet</p>
+  <p>Quo dediceris. Sed quid hîc duco diem?</p>
+  <p>Non curro ad hostes? non simul in ignem inuolo?</p>
+  <p>Xon stringo fratris colla complexu vltimo?</p>
+  <p>Adrianus ardet, &amp; sedet Natalia?</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+        
+<div type="notes"><note xml:id="tn1"><p><hi rend="footnote">1</hi> <hi rend="italic">In margine</hi> Animum aduersùs
+    blanditias &amp; tormenta in Christi cultu perferendo,
+    confirmat.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> <hi rend="italic">In margine</hi> Sacrificij dudum
+    imperati exta infelicia fuis se accipit, deque totâ Aruspicum
+    superstitione cum Flamine disputat.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> <hi rend="italic">In margine</hi> Obscurior allegoria
+    mortem Adriani &amp; Natalię constantiam subindicans.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> <hi rend="italic">In margine</hi> Quâ ex cognatione
+    naturae, &amp; quasi concentu, atque consensu, quam συμπάθειαν
+    Graeci appellant, conuenire potest, aut fissum iecoris cum lucello
+    meo, aut meus quaesticulus cum coelo, terra, rerúmque naturâ: Cicero
+    2. de Diuinat.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> <hi rend="italic">In margine</hi> Tribunus missus à
+    Cęsare conatus eum à proposito reuocare, in eo constantem, carceris
+    &amp; vinculorum eius peruicacię decretorum admonet.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> <hi rend="italic">In margine</hi> Galerius Caesar
+    Diocletiano editam sortitus est, dirempto priore coniugio. Aurel.
+    Victor.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> <hi rend="italic">In margine</hi> Hic de vico
+    Thraciae vicino, barbaro etiam patre &amp; matre genitus esse
+    perhibetur. Et in prima quidem pueritia fuit pastor, &amp;c. Iul.
+    Capitol. In Maximinis.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> <hi rend="italic">In margine</hi> Caesar casu Adriano
+    factus obuius, sua in eum merita exprobrat, &amp; perseuerantem in
+    fide susceptâ trudi iubet in carcerem.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> <hi rend="italic">In margine</hi> Caesarem consul
+    reuocat ab ira praecipiti in Adrianum tempúsque ad eius mentem
+    expugnandam impetrat.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> <hi rend="italic">In margine</hi> Mirantur Ethnici
+    Christianos praesentis vitae commoda tam alacriter abiicere.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> <hi rend="italic">In margnie</hi> Nuntius de Adriani
+    carcere solicitam reddidit Nataliam. Quare verita ne hostis
+    Christianorum, id sibi per dolum nuntiari iusserit, se se quicquid
+    feret casus, ad Martyrium animat.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> <hi rend="italic">In margine</hi> Audit à Tribuno cui
+    commissus Adrianus illum verè ob Christi fidem vinctum esse.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> <hi rend="italic">In margine</hi> Dum educit maritum
+    è carcere Tribunus, illa sibi, &amp; Deo rem tam in expectatam
+    gratulatur.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> <hi rend="italic">In margine</hi> Maritum offert
+    Tribunus, monetque vt omni prece, &amp; blanditia hanc illi mentem
+    eripiat.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> <hi rend="italic">In margine</hi> Adrianus &amp;
+    Natalia sibi inuicem religionis suae consilia aperiunt, &amp; haec
+    illi in tali agone opem &amp; obsequium pollicetur.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> <hi rend="italic">In margine</hi> Sed domum est
+    ducenda quae nubit, adhibetur Deus domiducus, vt in domo sit
+    adhibetur Deus domitius, &amp;c. Aug. l. 6. de ciuit. c. 9.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> <hi rend="italic">In margine</hi> Natalia Consuli
+    bono dolo fucum facit, &amp; eo praesente coniugem ad constantiam
+    hortatur.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> <hi rend="italic">In margine</hi> Adrianum à
+    proposito amici frustra reuocare conantur.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> <hi rend="italic">In margine</hi> Ecce pars vestrum
+    &amp; maior, &amp; melior vt dicitis, egetis, algetis, opere, fame
+    laboratis, &amp; Deus patitur, &amp; dissimulat non vult, aut non
+    potest opitulari suis, ita aut inualidus, aut iniquus est. Caecilius
+    apud Minut.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> <hi rend="italic">In margine</hi> Ecce spectaculum
+    dignum ad quod respiciat intentus operi suo Deus. Ecce par Deo
+    dignum vir fortis cum mala fortuna compositus vtique si &amp;
+    prouocauit. Seneca l. de prouid. c. 4.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> <hi rend="italic">In margine</hi> Quid hoc dicant cùm
+    ibi sit &amp; Priapus nimis masculus, super cuius inmanissimum &amp;
+    turpissimum fascinum sedere noua nupta iubebatur, more honestissimo
+    &amp; religiosissimo, matronarum? D August 2 1. 6 de ciuis.
+    c. 8.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> <hi rend="italic">In</hi>
+    <hi rend="italic">margine</hi> Omnia in omnibus vitia
+    unt, sed non omnii in singulis exstant. Senec. 4. De benef.
+    c. 27.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> <hi rend="italic">In margine</hi> Christi laudes
+    prosequuntur Christiani.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> <hi rend="italic">In margine</hi> Ad Caesaris
+    tribunal Martyres ducebat Tribunus, sed Adrianus impetrat vt ex
+    itinere ad Nataliam salutandam liceat diuertere.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> <hi rend="italic">In margine</hi> In carcere &amp;
+    vinculis diuina se voluptate perfusum miratur.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> <hi rend="italic">In margine</hi> Seruus à Natalia
+    salutat Adrianum, narrantque quàm cupidè &amp; fortiter illa Deos
+    penates in larario reperto diffregerit.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> <hi rend="italic">In margine</hi> Praecipit
+    cogitatione voluptatem, qua Nataliam ad uum aspectum perfundi debere
+    opinatur.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> <hi rend="italic">In</hi>
+    <hi rend="italic">margine</hi> Tunc illa suspicata
+    fugere eum Martyrium incredibili affecta dolore est, &amp; fleuit
+    amarissimè. Cúmque eum conspexisset, surgens proiecit è manibus quae
+    tenebat, &amp; clauso ostio exclamauit. Facessat hinc procul à me
+    qui defecit à Domino, &amp; mentitus est Deo suo. &amp;c. In vita
+    Adria.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> <hi rend="italic">In margine</hi> Dic mihi quae te
+    res in fugant compulit, nondum inito certamine? Quid ita abiecisti
+    arma nondum hoste conspecto? quomodo vulneratus es nulla adhuc missa
+    sagita? In vita Adria. Quid igitur faciam infelicissima quae
+    coniuncta sum huic ex impiis impio? Non mihi concessum est vnius
+    horae spatio vt dicerer vxor Martyris potius quàm transgressoris.
+    Ibid.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> <hi rend="italic">In margine</hi> Haec audiens
+    Natalia statim reserauit fores, &amp; mutuò sibi prostrati sunt.
+    Ibid.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> <hi rend="italic">In margine</hi> Inter eundum dixit
+    ad eam dic quaeso soror quid constitueris de facultatibus tuis. Illa
+    respondit, noli Domine mi, noli meminisse eorum quę sunt mundi
+    huius, ne animum tuum illiciant, illud solùm cogita ad quid vocaris.
+    In vita Adriani.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> <hi rend="italic">In margine</hi> Coram Caesare pro
+    Christianis Martyr, &amp; contra Deos copiosè disserit, iubetur
+    tamen vterque verberibus lacerari.</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> <hi rend="italic">In margine</hi> Ianum simulachri
+    monstrosa deformitate turparunt, nunc eum bifrontem, nunc etiam
+    quadrifronte tanquam geminum facientes An forte voluerunt, vt
+    quoniam plurimi Domini selecti erubescenda perpetrando amiserat
+    frontem, quanto iste innocentior esset, tanto frontosior appareret?
+    August. 7. de ciuit. c. 4.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> <hi rend="italic">In margine</hi> Galerio Maximiano
+    Caesare orationem in theatro aduersus Christianos iubente cùm esset
+    dies serenus, &amp; sol regionem vreret meridianam, repente erupit
+    [&lt; crupit] sonus multorum tonitruorum, &amp; elisus fuit ignis ex
+    nubibus, &amp; profundae simul tenebrae, &amp; densa grando cum
+    ventis vehementibus &amp;c. In actis Martyr. Indes &amp; Domna.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> <hi rend="italic">In margine</hi> Oro vos ante
+    Tiberium, id est, ante Christi aduentum quantae clades orbem &amp;
+    vrbem ceciderunt? &amp;c. nemo adhuc Romae Deum rerum adorabat cùm
+    Annibal apud Cannas per Romanos annulos caedes suas modio
+    metiebatur. Omnes dij vestri ab omnibus colebantur, cùm ipsum
+    Capitolium Senones occupauerunt. Tertull. In Apolog. c. 40.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> <hi rend="italic">In margine</hi> Ne longius multos
+    Ioues obeam, tot sunt Iouis monstra quot nomina Minut. in Oct.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> <hi rend="italic">In margine</hi> Mirantur Caesaris
+    adsessores Martyrum fortitudinem, eósque inuicem diuellere
+    decernunt, ne Adrianus ab Anthimo amplius corroboretur.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> <hi rend="italic">In margine</hi> Exultare ab
+    hominibus veritatem, &amp; in eius locum falsitatem aliásque morum
+    pestes admitti conqueritur.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> <hi rend="italic">In margine</hi> Lege latâ ne
+    foeminae vlli aditus in carcerem pateret ornatum virile induit
+    Natalia, tum vt Flauium à quo iam ad nuptias quęrebatur, eludat, tum
+    vt ad Adrianum ignota perueniat.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> <hi rend="italic">In margine</hi> Natalia iam non
+    ipsa Flavio lepidè os sublinit, &amp; eo pene cogente in carcerem
+    intrat.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> <hi rend="italic">In margine</hi> Dolet Tribunus se
+    in offensionem Nataliae incurrisse cuius nuptias iam animo spéque
+    praecipiebat.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> <hi rend="italic">In margine</hi> Certior factus
+    Caesar de ignoti alicuius in carcerem ingressu, grauiter increpito
+    tribuno, sibi hominem sisti imperat.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> <hi rend="italic">In margine</hi> Caesarem Nataliae
+    placat Natalia, &amp; ab eodem mortis sententiam in Adrianum
+    impetrat.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> <hi rend="italic">In margine</hi> Occasione Nataliae
+    in illustrium foeminarum virtutes excurrit.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> <hi rend="italic">In margine</hi> Adrianum vltimò sed
+    frustra tentatum, occidi tandem iubet Consul, agítque apud cum
+    Natalia vt primus omnium crucietur.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> <hi rend="italic">In margine</hi> Maecenatis hi sunt
+    versus. Debilem facito manu, | Debilem pede, coxâ: | Tuber adstrue
+    gibberum, | Lubricos quate dentes. | Vita dum superest, bene est. |
+    Hanc mihi vel acutam, | Si das, sustineo crucem.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> <hi rend="italic">In margine</hi> Natalia dudum
+    virago, nunc vir animo magis quàm veste Adrianum ad Martyrium
+    incitat, &amp; in vltimo agone ipsa ad tormentorum tolerantiam
+    adiuuat.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> <hi rend="italic">In margine</hi> Adriani in coelum
+    recepti felicitatem Natalia contemplatur.</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> <hi rend="italic">In margine</hi> Flauius obnitente
+    frustra Nataliâ Adria. ni cadauer in fornacem coniiciendum efferri
+    iubet.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> <hi rend="italic">In margine</hi> Ex toto Adriani
+    corpore seruatam manum vnam veneratur, studioséque retinet
+    Natalia.</p></note></div>
+
+    </body>
+</text>
+</TEI>

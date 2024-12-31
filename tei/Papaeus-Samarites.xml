@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0072" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Samarites Comoedia de Samaritano evangelico</title>
+        <title type="sub">Petri Papei Samarites Comoedia de Samaritano Evangelico</title>
+        <author>Papaeus, Petrus</author>
+        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Guilhelmus Montanus</publisher>
+        <pubPlace>Antwerp</pubPlace>
+        <date>"1539"</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Papaeus-Samarites</name><lb/>
+            Short title: <title>Samarites</title><lb/>
+            Year of first edition: <date>1539</date><lb/>
+            Author information:<lb/>
+            Alias: None<lb/>
+            Birth: ??, ??<lb/>
+            Death: ??, ??<lb/>
+            Floruit: 16th c., Meenen<lb/>
+            <ref target="https://www.deutsche-biographie.de/sfz93825.html#adbcontent">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://books.google.nl/books?id=sFtYAAAAcAAJ">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p><hi rend="bold">Petri Papei Samarites Comoedia de
+  Samaritano Evangelico</hi></p>
+  <p><hi rend="bold">Vaeneunt Antuerpiae sub intersignio
+  Rubri Castri Anno 1539</hi></p>
+  <p><hi rend="bold">Epistola nuncupatoria</hi></p>
+  <p>Amplissimo eruditissimoque domino, Ioanni Fallvellio, Praeposito
+  Formosellano,</p>
+  <p>Petrus Papeus salutem dicit plurimam. Praeclare et velut ab
+  humanae</p>
+  <p>sapientiae oraculo dictum est humanissime, hanc viam ad gloriam
+  esse proximam</p>
+  <p>et quasi conpendiariam: si quis id ageret, ut qualis haberi vellet,
+  talis</p>
+  <p>esset; quum enim vultus sit quaedam mentis imago et tacitus sermo,
+  animi</p>
+  <p>bene compositi splendor in vultu se explicans, facile in hominibus
+  sui morem</p>
+  <p>excitat; nimirum virtute sibi conciliante, et superorum et hominum
+  animos.</p>
+  <p>Quam rem audio superiorem praepositum adduxisse, ut te cooptaret
+  atque</p>
+  <p>inauguraret in collegium dignitatis suae. Hoc etiam humanos omnes,
+  hoc est,</p>
+  <p>philologos bonarum literarum cultores, ad te amandum, colendum,
+  suspiciendum</p>
+  <p>compellit. Quapropter ego, tametsi ne semipagani quidem nomen
+  agnosco:</p>
+  <p>ad sacra tua adferre ausus fui carmen nostrum, id est Samariten
+  Comoediam</p>
+  <p>inconditam rudemque. Sed quia actionem eius praecipitamus,
+  perendie</p>
+  <p>enim, hoc est, postridie natiuitatis Baptistae agere constituimus,
+  celeriter</p>
+  <p>Amplitudini tuae mittere fuit in animo. Ut si, qui est candor
+  humanitasque tua,</p>
+  <p>ludos nostros praesentia tua condecorare videatur, instructior
+  adsis. Si comiter</p>
+  <p>accipis, erit quod gaudeam. Si despicis, discam non adeo temere ad
+  tam</p>
+  <p>luculentos viros prosilire, sed intra meam me pelliculam continere.
+  Vale, ex</p>
+  <p>Athenaeo Meminiano, decimo Calendas Iulias, anno salutis humanae,
+  sesquimilesimo tricesimo septimo.</p>
+  <p><hi rend="bold">Dramatis Personae</hi></p>
+  <p>Megadorus Senex</p>
+  <p>Diabolus Leno</p>
+  <p>Hedylogus Servus</p>
+  <p>Gulo Parasitus</p>
+  <p>Sarcophilia Meretrix</p>
+  <p>Cupido—</p>
+  <p>Bacchus— Latrones</p>
+  <p>Mars—</p>
+  <p>Aegio Adolescens</p>
+  <p>Eubulus Paedagogus</p>
+  <p>Dromo Seruus</p>
+  <p>Stabularius Hospes</p>
+  <p>Samarites Adolescens</p>
+  <p>Sacerdos</p>
+  <p>Levita</p>
+  <p><hi rend="bold">Argumentum</hi></p>
+  <p>Trimetri.</p>
+  <p>Adoptatum Aegionem a Megadoro, illicit</p>
+  <p>In amorem Sarcophiliae Diabolus, opera</p>
+  <p>Gulonis atque Hedylogi; quo meretricula</p>
+  <p>Potiatur adolescens, deserit Hierusalem,</p>
+  <p>(5) Petit Hierichontem, cadit in latrones miser,</p>
+  <p>Dispoliatur, mactatur dire usque ad necem.</p>
+  <p>Iacet relictus, semiuiuus, in via.</p>
+  <p>Viant illac Sacerdos et Levita, sed</p>
+  <p>Medicamen non adhibent, quia vacui oleo errant.</p>
+  <p>(10) Verum Samarites illac conficiens iter</p>
+  <p>Aegro benefacit, vehit in diversorium,</p>
+  <p>Pandocheo tradit curandum, et curam ipse agit.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="prologus">
+  <head>Prologus</head>
+  <p>Quia paedotribae est non literis, sed moribus</p>
+  <p>Bonis potissimum instituere suum gregem,</p>
+  <p>Ad conscribendum Samariten animum appuli,</p>
+  <p>Blanditias et gulam ut fugiant, si sapere avent.</p>
+  <p>(5) Qui illic stat Aegio, in latrones incidet,</p>
+  <p>Elusus ab Hedylogo et Gulone; sic Adam</p>
+  <p>Periit gula, dolo serpentis, habens fidem</p>
+  <p>Uxori. Caeterum, uos adolescentuli,</p>
+  <p>Mei filioli, discipuli charissimi, hic</p>
+  <p>(10) Latetis in Aegionis persona. Si enim</p>
+  <p>Nequiter agitis semel, in uobis non est situm</p>
+  <p>Resipiscere: Talis opprimet uos calamitas</p>
+  <p>Ut neque sacrificia, neque quantumvis sacrae</p>
+  <p>Literae queant vos inde eximere, nisi prius</p>
+  <p>(15) Samaritanus misertus infundat oleum</p>
+  <p>Charismatis, hoc est gratiam Almi Spiritus.</p>
+  <p>Ad vos revertor, spectatores candidi,</p>
+  <p>Aequanimi estote: prodit in proscenium</p>
+  <p>Megadorus, adoptati pater. Hunc componimus</p>
+  <p>(20) Deo cum Patre. Aegio homo est. Eubulus refert</p>
+  <p>Rationem, cuius consiliis traditus homo est.</p>
+  <p>Studet Diabolus inducere divortium,</p>
+  <p>Quod ut efficit: perit homo, sed restituitur</p>
+  <p>A Christo. Operam date nobis per silentium.</p>
+</div>
+<div type="level1" xml:id="actus-primi-scaena-prima">
+  <head>Actus primi scaena prima</head>
+  <p>Trimetri, et eiusdem Rationis.</p>
+  <p>Megadorus senex.</p>
+  <p>Non dubium est quin salutem gnatus oderit,</p>
+  <p>Quin pessum eat. Olim ego—impurum illum Diabolum</p>
+  <p>Lenonem iniquum, pestilentem, pessimum</p>
+  <p>Plagiarium—indignum facit, qui sic meum</p>
+  <p>(5) Adoptaticium mihi ephebum filium,</p>
+  <p>Rerum imperitum, illiciat in fraudes malas.</p>
+  <p>Ipsum dehinc video praecipitem ferrier,</p>
+  <p>Per prona perque abrupta nimium lubrica.</p>
+  <p>Parabam sedulo regnum: delicias, opes,</p>
+  <p>(10) Uxorem, amicos genereque et potentia</p>
+  <p>Claros, et ingens praelaute famulitium,</p>
+  <p>Cultum, domum magnificam, rem lautissimam,</p>
+  <p>Ambrosiam, nectar, et duraturum penum</p>
+  <p>Perpetuum in aevum: ut Cleopatrae cibos,</p>
+  <p>(15) Cupediasque opiparas, adiposas dapes,</p>
+  <p>Cereales mensas, ganeata Siculaque</p>
+  <p>Fercula, uel umbras, uel potius dicas nihil,</p>
+  <p>Prae illis meis quae destinaram filio.</p>
+  <p>Haec parui si quis aestimet, addideram dies</p>
+  <p>(20) Non protoplasti, vel senis Mathusalem,</p>
+  <p>Non Aesonis, vel Tithoni, vel Nestoris,</p>
+  <p>Quis vita morbis, cladibus, doloribus</p>
+  <p>Iactata, vexata fuit exagitataque;</p>
+  <p>Sed nostro in regno, morbis omnibus est loci</p>
+  <p>(25) Nihil. At ut his tantis prae commodis, miser</p>
+  <p>Praevertat inepta poenitendaque gaudia,</p>
+  <p>Diabolus illi illic mastigia, id autor est.</p>
+  <p>Hem flagitium hominis, meae atram familiae</p>
+  <p>Pestemque perniciemque nostrum siccine</p>
+  <p>(30) Corrumpere par est? Sed virum decet gravem</p>
+  <p>Animi impetum, et dolorem acerbum reprimere.</p>
+</div>
+<div type="level1" xml:id="actus-primi-scaena-secunda">
+  <head>Actus primi scaena secunda</head>
+  <p>Trimetri eiusdem generis cum uno Septenario Iambico</p>
+  <p>Diabolus Leno, Gulo Parasitus,</p>
+  <p>Dia. Ecquid portenti nostris adfulget oculis,</p>
+  <p>Videtur ex eorum me hercule quidem grege,</p>
+  <p>Qui illudunt callide homines sycophantiis?</p>
+  <p>(35) Ut oppido detrimentosa est improbo</p>
+  <p>Homini lubrica lingua! Gulonem summum meum</p>
+  <p>Laedoria pene imprudens perstrinxeram.</p>
+  <p>Gul. Vah coruos albos, et nigros cygnos videre erit,</p>
+  <p>Leporem nunc capiet cancer, nunc aurum pluet,</p>
+  <p>(40) Et quicquid est optabile, euax. Dia. Quur? Gul. Quia</p>
+  <p>Prisca reuolvuntur tempora, seculum aureum</p>
+  <p>Recurrit, Saturnus redit. Dia. Optem Delium</p>
+  <p>Natatorem, aut Apollinem, sive Oedipum,</p>
+  <p>Qui perplexos enarret griphos mihi tuos.</p>
+  <p>(45) Gul. Omnes modo agminatim virtutes polo</p>
+  <p>Relapsae, hominum omnium imbuent corda. Dia. Quid ita?</p>
+  <p>Gul. Rogas? Tu qui in calumniam trahis omnia,</p>
+  <p>Et alio vorsum semper dicta, factaque</p>
+  <p>Interpretaris, quam quo fiunt, disseris</p>
+  <p>(50) Gravem sententiam: belle euge philosophe!</p>
+  <p>Ut grauiter metuis, et civiliter, ne qua temere</p>
+  <p>Effutias, per ipsum reditura iugulum.</p>
+  <p>Dia. Au, pseudole, ne quid opprobres; satis monet</p>
+  <p>Similitudo. Attabas si ego, tu Numenius;</p>
+  <p>(55) Si tu Bithus, ego Bacchius: trahimus idem</p>
+  <p>Iugum ex aequo. Gul. Vera loqueris; eodem ovo sumus</p>
+  <p>Prognati, et in eodem ludo edocti simul,</p>
+  <p>Farinae sane eiusdem, et consecranei.</p>
+  <p>Dia. Graculus est graculo, Attabas Numenio</p>
+  <p>(60) Coniunctus, et vulpes vulpi, et lupus lupo.</p>
+  <p>Gul. Hem, sartor scelerum.</p>
+  <p>Dia. Au, sator et messor criminum.</p>
+  <p>Gul. Uirtutis osor. Dia. Sarcinator malitiae.</p>
+  <p>Gul. Veterator pessime. Dia. Dissidii et iurgii seges.</p>
+  <p>(65) Sed heus—inopinantes nos pene hic Aegio</p>
+  <p>Oppressit; latius alias erit locus</p>
+  <p>Connugandi. Institutam fabulam interim</p>
+  <p>Saltare pergamus, curemus scilicet</p>
+  <p>Hierichontem petat, contempta Hierusalem.</p>
+  <p>(70) Gul. Recte mones; tum erit insultationibus,</p>
+  <p>Et contumeliis opportunus probe.</p>
+  <p>Dia. Gymnasium fiet flagrorum et plagipatida.</p>
+  <p>Gul. Deglubemus eum, usque ad mortem mulctabimus.</p>
+  <p>Dia. Tace, ne insidiae oboleant; lupus in fabula est.</p>
+  <p>(75) Insidiae manifestae cadunt fere irritate.</p>
+  <p>Sed captemus, quid secum solus mussitet.</p>
+  <p>Gul. Tu illuc concede, huc me illatebrabo ego strenue.</p>
+</div>
+<div type="level1" xml:id="actus-primi-scaena-tertia">
+  <head>Actus primi scaena tertia</head>
+  <p>Aegio adolescens.</p>
+  <p>Miserum me, quem severus tam miseris modis</p>
+  <p>Pater afflictet; me, iuvenem amoenum et cupidum</p>
+  <p>(80) Vult alienum esse omnibus amoenitatibus,</p>
+  <p>Amoena amoene quas adolescentia</p>
+  <p>Fert. Iure vetet eodem, ignire ignem igneum, et</p>
+  <p>Fame famentem famere, atque siti torrida</p>
+  <p>Sitientem prohibeat sitire; sed et vetat,</p>
+  <p>(85) Mandat ieiunio macere, et inedia</p>
+  <p>Fraudare genium, gemere, opes profundere,</p>
+  <p>Egenis erogare, bene velle, et etiam</p>
+  <p>Benefacere tam inimicis, quam suavibus</p>
+  <p>Amicis indiscriminatim. Praeter haec</p>
+  <p>(90) Hydroposiam, chameuniam, abstinentias,</p>
+  <p>Vigilias, cilicia, iugeis praescribit preces.</p>
+  <p>Velim excussum hoc tam intolerabile iugum meis</p>
+  <p>Humeris, feramne tam duri imperium patris?</p>
+  <p>Non faciam, non feram; aeternum valeat pater</p>
+  <p>(95) Catoniana cum disciplina; mea</p>
+  <p>Nil refert. Verum enimvero prope dum intuor,</p>
+  <p>Nimium impudenter videar facturus. Patris</p>
+  <p>Iniquae haud sunt leges, at apprime utiles.</p>
+  <p>Illis parantur defecata gaudia, ac</p>
+  <p>(10) Solida consortia divum immortalium.</p>
+  <p>At quam libido fert voluptatem hominibus?</p>
+  <p>Quum poenitenda est, tum felle uberima scatet;</p>
+  <p>Boni quippe omnis everriculum et omnium</p>
+  <p>Esca est malorum, nodo inexplicabili</p>
+  <p>(105) Illaqueans incautos nimis, ach, miseris modis.</p>
+</div>
+<div type="level1" xml:id="actus-primi-scaena-quarta">
+  <head>Actus primi scaena quarta</head>
+  <p>Octonarii Iambici.</p>
+  <p>Diabolus Leno. Gulo Parasitus.</p>
+  <p>Dia. Ehem, ganeo! Gul. Ehem, lurco! Dia. Pure pute sychophanta!
+  Gul. Eho!</p>
+  <p>Cedo—quid philosophi illum esse censes? Dia. Hem, sui gustum
+  dedit</p>
+  <p>Ingenii. Etiam si anguilla sit, pressabimus, tenebimus</p>
+  <p>Folio, ut aiunt, ficulno. Gul. E nassa nullo se expediet dolo,</p>
+  <p>(110) Ut ut palpitet et luctetur et omnes scrutetur
+  rimulas.</p>
+  <p>Dia. Titubantem de gradu deturbabimus, horrida dein mala</p>
+  <p>Coniiciemus. Gul. Reverebere videlicet hominem; hem, graves
+  cate</p>
+  <p>Loquitur sententias, putes philosophum. Dia. Tertius est Cato,</p>
+  <p>Pietatis ultor, vach, ’cultor’ volo dicere; in aequo labilis,</p>
+  <p>(115) Dico ’stabilis;’ in flagitiis alacer; O ho, iterum
+  ’acer’ puto.</p>
+  <p>Ut saepe pecco: lingua incauta mentem praecurrit. Gul. Age age.</p>
+  <p>Dia. Vitii impetus, ceu cautes fluctus maris inconcussa reicit;</p>
+  <p>Solidam super petram fidei aedicavit solerter domum,</p>
+  <p>Quae nec turbine, nec aquis torrentibus, aut ruitantibus
+  imbribus</p>
+  <p>(120) Pulsata cadat. Gul. Sane vero? Dia. Quid super arenam
+  ais, scelus?</p>
+  <p>Gul. Minime uero. Dia. Probe nunc quidem, at illum Thaletem
+  instantibus</p>
+  <p>doctisque canibus compellemus in plagas. Sed tempus hinc</p>
+  <p>Negotio est legendum, nunc Eubulo iunctus est suo,</p>
+  <p>Propterea adhuc nostrae sunt contrahendae in arctum copiae</p>
+  <p>(125) Atque instruendae, ut oportuniore dimicent loco.</p>
+</div>
+<div type="level1" xml:id="actus-secundi-scaena-prima">
+  <head>Actus secundi scaena prima</head>
+  <p>Aegio adolescens. Eubulus paedagogus.</p>
+  <p>Scazontes.</p>
+  <p>Aeg. Diabolon Eubule animo dixtin’ intento</p>
+  <p>Meam in fraudem? Eub. Admodum. Aeg. Qui raptet, afflictet,</p>
+  <p>Extingat me? Eub. Sic. Aeg. In me patris ingentes</p>
+  <p>Derivet iras? Eub. Oppido studet te ex hac</p>
+  <p>(130) Hierusalem elicere, ex pace bona, in amentem</p>
+  <p>Hierichonta, hoc est, extremas in aerumnas,</p>
+  <p>Ubi luctus, fremitus, maeror, calamitas, angor.</p>
+  <p>Et faciet, nisi caves specie boni. Aeg. Terres</p>
+  <p>Me. Eub. Terribilis profecto est eius immane</p>
+  <p>(135) Ingenium, sanguinis atque cladis humanae est</p>
+  <p>Insatiabile; proin monui et denuo edico,</p>
+  <p>Protestor, denuncio: cave sis, quasi dirum</p>
+  <p>Anguem effuge, quasi pestem morte praesenti</p>
+  <p>Grassantem. Subdolus, vafer, acer, astutus,</p>
+  <p>(140) Blandus, severus, comis, durus, instructus,</p>
+  <p>Paratus in omnia fraudis monstra, ceu Proteus</p>
+  <p>Varius; mentem obtinet polipodis, ignaris</p>
+  <p>Attemperat se, et ut auceps aream spargit</p>
+  <p>Dulcibus escis. Blanditias ille item obiectat</p>
+  <p>(145) Dum superinducat casses, et necet praedam,</p>
+  <p>Pusillanimes et studiosos voluptatum.</p>
+  <p>Sic irretit magnanimos, bile flagrante</p>
+  <p>Percit, truditque ad scelera mente cerita.</p>
+  <p>Alienat a se, hoc est, a mente mortales;</p>
+  <p>(150) Quos captat, a Deo prorsum avocat. Quod si</p>
+  <p>Patri Megadoro pares, qui te adoptavuit,</p>
+  <p>Suumque dici, hac solum lege tantisper</p>
+  <p>Vult, dum facias quae te sunt digna: proh summe</p>
+  <p>Deus, quam solida tibi parata, quam tuto in</p>
+  <p>(155) Loco tua stat salus locata! Sin firmas,</p>
+  <p>Secusque inducis animum, ut audias illum,</p>
+  <p>Extemplo te abdicabit, pacta rescindet,</p>
+  <p>Morieris: mors inobedientibus praesto est.</p>
+  <p>Vive itaque, et illum aversare, haec pater mandat.</p>
+</div>
+<div type="level1" xml:id="actus-secundi-scaena-secunda">
+  <head>Actus secundi scaena secunda</head>
+  <p>Senarii Iambici.</p>
+  <p>Diabolus leno</p>
+  <p>(160) Itane depingor? itan’ propinor? mene iam</p>
+  <p>Denique desistere incepto vuictum meo?</p>
+  <p>Quin in maiores instabo insurgere dolos,</p>
+  <p>Nec aperto decernam Marte; sed alia via,</p>
+  <p>Aliaque ineunda est ratio. Si quid te iuvat,</p>
+  <p>(165) Nec qua insistis succedit, frangier animo</p>
+  <p>Miserum est; alia est tentandum. Destinabitur</p>
+  <p>Gulo, atque Hedylogus vafer, huic provinciae,</p>
+  <p>Qui lenociniis, obsequiis, salibus, iocis,</p>
+  <p>Facetiis, ludis, amoenitatibus,</p>
+  <p>(170) Virilis paulatim effringant robur animi.</p>
+  <p>Post ego succenturiatus, omnes machinas</p>
+  <p>Adhibebo, nec denique labor erit irritus.</p>
+</div>
+<div type="level1" xml:id="actus-secundi-scaena-tertia">
+  <head>Actus secundi scaena tertia</head>
+  <p>Octonarii Septenarii, et Senarii Iambici</p>
+  <p>Hedylogus seruus. Gulo parasitus.</p>
+  <p>Hed. Quam inique comparatum est, ut, quibus minus sunt
+  prosperae</p>
+  <p>Res, ubi semel inclinarint ad mala, statim adglutinent</p>
+  <p>(175) Se confertim malae res aliae; calamitas adhaereat</p>
+  <p>Calamitati, ut trahit annulus annulum. En, ego deprimor</p>
+  <p>Servili conditione: quaero, fero, refero, tundo, molo,</p>
+  <p>Obsono, curso—circumcurso—vocatum eo adolescentulos,</p>
+  <p>Concilio, adduco, elicias facio, excarnificante interim</p>
+  <p>(180) Ventre. Exin, ne quid uorem in fame, ablegor alio
+  foras;</p>
+  <p>Cyminum ut redii seritur, gliscit rixa, iurgium</p>
+  <p>Fervescit composito, calumnia mihi intenditur.</p>
+  <p>Edundi pugni lorumque offeruntur; rapior et ulmeus</p>
+  <p>Fio. Vel si puillus (quod rarum) atri obiicitur panis, aut</p>
+  <p>(185) Vitiati casei, oculis emissitiis mox me impetunt</p>
+  <p>Configunt vultuosi; aiunt servum bonae frugi, qui edat</p>
+  <p>Parce, laboret sedulo usque cantilenam hanc occinunt:</p>
+  <p>’Parit satias ignaviam, stultitiam, malitiam.’</p>
+  <p>Si vescor avidius, in ore bovem gerere; modestius</p>
+  <p>(190) Si forte ligurio, fastidire me iurant simul</p>
+  <p>Omnes. Nunc praeter haec intolerabilia infortunia</p>
+  <p>Latrante stomacho, hiantibus longe late ilium cavis,</p>
+  <p>Me Hierosolymam legavit herus Diabolus, ut Aegio</p>
+  <p>Nunc felix impulsore me mutet coloniam.</p>
+  <p>(195) De esu nihil; viaticum non dedit: insaniam,</p>
+  <p>Quid potius faciam exenteratus, effractus fame?</p>
+  <p>Tum mordace excipit nostrum dicterio inediam,</p>
+  <p>Ut illam dii omnes eradicent stirpitus.</p>
+  <p>’Emolumento est famelicus,’ ait, ’servus. Venter artifex,</p>
+  <p>(200) Quid non effecit? Corvos, picas, psittacos nostra
+  subigit</p>
+  <p>Sonare verba; varias meditando artes iubet extundere.</p>
+  <p>Qui delicate nutrit servum, contumacem sentiet.’</p>
+  <p>Qui pereat funditus cum illa disciplina. Hic dies</p>
+  <p>Tertius est postquam ariditate crepito, ieiunio</p>
+  <p>(205) Conficior, fame tabesco, aridior pumice. Nam sitim</p>
+  <p>Ut non Bacchus, Achelous facile sedat. Caeterum</p>
+  <p>Fames molestus interpellator, quam urit. Nullum modum</p>
+  <p>Didicit servare venter ille improbus. Gul. Hedylogum mihi dari
+  in</p>
+  <p>Conspectum gestio; quo ex usu utriusque illud quod siet,</p>
+  <p>(210) Cum eo colloquar. Hed. Estne illic Gulo? Certe est, O
+  parasitatium</p>
+  <p>Columen, salve! Gul. Hem, gymnasium famis. Hed. O inediae</p>
+  <p>Colonia, ecquid suboluit praeda tibi? Gul. Nisi narium
+  sagacitas</p>
+  <p>Me fallit, olet. Hed. Quid olet? Gul. Quid oleat? Imperitus
+  callide</p>
+  <p>Ludificandus iuvenis. Hed. Si id odoraris, non pituitosus es,</p>
+  <p>(215) Nec reumatismo infestaris. Gul. Porro quasi piscis
+  itidem est</p>
+  <p>Verriculo converrendus, est paulatim proliciendus in</p>
+  <p>Amorem. Hed. Nihil est hic loci oscitantiae atque ignaviae,</p>
+  <p>Sic est hominis animus formatus, et fictus probe</p>
+  <p>Philosophicis sententiis. Nisi vulpina circumvenis</p>
+  <p>(220) Techna, magis egeris, ut qui perito tendit retia.</p>
+  <p>Gul. Intelligo, primum mens enervanda deartuandaque est.</p>
+  <p>Salva mente, in munito est constituta homini salus;</p>
+  <p>Effeminata vero it pessum momento levissimo.</p>
+  <p>Hed. Ita res est, deliciis et palpis percutiendus est; proin</p>
+  <p>(225) Assimulabo praestigiatorem, circulatoris mihi</p>
+  <p>Personam sumam, ioculares effutiam sales,</p>
+  <p>Profitebor artem Thessalicam, carminibus, herbis, fascino.</p>
+  <p>Nihil non pollicebor, tamen orationi tum vide ut</p>
+  <p>Subservias apposite, si partes praestas recte tuas,</p>
+  <p>(230) Verba dabimus, facili utemur ad escariam rem
+  commode.</p>
+  <p>Te attempera, utque ventus fuerit, exin velum verteris.</p>
+  <p>Gul. Utramque in aurem dormi, curabitur. Utar foro.</p>
+</div>
+<div type="level1" xml:id="actus-secundi-scaena-quarta">
+  <head>Actus secundi scaena quarta</head>
+  <p>Senarii omnes.</p>
+  <p>Aegio adolescens. Eubulus</p>
+  <p>Aeg. Arcte qui habetur filius, pro incommodo</p>
+  <p>Parvo, quod nunc est, commoditates sentiet</p>
+  <p>(235) Post olim solidas, gravidasque suavissimis</p>
+  <p>Venustatibus; hoc pro me imprimis adducit, ut</p>
+  <p>Patris feram imperium. In officio me hoc tenet</p>
+  <p>Vehementi auctoramento; verbis consequi</p>
+  <p>Nequeo, quantopere trahat paternus candor, et</p>
+  <p>(240) Quam gerit erga me solicitudinem piam.</p>
+  <p>Quod patrium est, invitat, monet, obsecrat; dein</p>
+  <p>Interminatur, iterum promittit bona</p>
+  <p>Daturum in officio manenti; itidem mala</p>
+  <p>Cumulatissima capturum me, si a munere</p>
+  <p>(245) Discedo filii. Eub. Viso quid agat Aegio:</p>
+  <p>Sed eccum, perquam opportune te quaerito:</p>
+  <p>Quid agis? Aeg. In cogitatione haeret animus</p>
+  <p>Atque in pavore. Eub. Multis expedit in metu</p>
+  <p>Esse; <quote>beatus qui semper est pauidus</quote>; tamen</p>
+  <p>(250) Quid est quod maceras te? Aeg. Graviter territas.</p>
+  <p>Inculcas, obtundis, de eadem saepius</p>
+  <p>Re: nescio quam adversum me fingi fabricam;</p>
+  <p>Versare Diabolum in caput meum dolos.</p>
+  <p>Metuenda verba blanda; nequaquam aspera.</p>
+  <p>(255) Eub. Recte sane, quandoquidem veluti toxicum</p>
+  <p>Auro gemmaque, haud in fictilibus urceis</p>
+  <p>Bibitur; idque ora poculi circumlita</p>
+  <p>Melle, ita animi venenum praesens dulcibus</p>
+  <p>Latitat in verbis, in picto tectorio.</p>
+  <p>(260) Sermones blandi praeferunt imaginem</p>
+  <p>Benevolentis animi, sed furtim destruunt</p>
+  <p>Mentem atque omne bonum; hinc deliciae, ludi, ioci,</p>
+  <p>Libidines, illecebrae, propulsanda ei</p>
+  <p>Suis qui rebus rite consultum velit.</p>
+  <p>(265) Aeg. Isthaec res est, uerum male me habet, quod
+  quasi</p>
+  <p>Mali praesagus instantis, toties ais,</p>
+  <p>Nisi caveo fucum. Os si sublinitur mihi,</p>
+  <p>Deciderim gratia, in me cudetur faba.</p>
+  <p>Nec, quod durum apprime est ingenuo homini, fuam</p>
+  <p>(270) Solum pro delectamento, aut ludibrio; at</p>
+  <p>Male mulctabor miser, tundar odiosius</p>
+  <p>Ptisana in pila, feriente pilo desuper.</p>
+  <p>Eub. Cauto est opus, ne tanti particeps mali,</p>
+  <p>Tam inamabili haereas (vide cautim) in luto.</p>
+  <p>(275) Aeg. Abiit, eandem cantionem recinuit.</p>
+  <p>Vah, toties officii memorem monerier?</p>
+  <p>Men’ sutelis posse capi sycophanticis?</p>
+  <p>Apage! haud capiar quidem; obfirmavui animum adeo</p>
+  <p>Et praemunivi, in portu tutus navuigo.</p>
+</div>
+<div type="level1" xml:id="actus-tertii-scaena-prima">
+  <head>Actus tertii scaena prima</head>
+  <p>Senarii Iambici et Trochaici</p>
+  <p>Gulo parasitus</p>
+  <p>(280) Ut nunc hominum est fides, par est quaestum ad suum</p>
+  <p>Unumquemque esse attentum, vigilem, callidum.</p>
+  <p>Servare si cuiquam datam pergis fidem,</p>
+  <p>Ad rastros tua actutum res redierit, teres</p>
+  <p>Digitulo salinum. Ego sum mihimet proximus;</p>
+  <p>(285) Per fas nefas si possum prospiciam mihi.</p>
+  <p>Parare studebo choenicem etiam incommodo</p>
+  <p>Hedylogi, nec quicquam verbis eius subserviam,</p>
+  <p>Adversum eum volens prudensque conferam</p>
+  <p>Orationis aciem, atque adversabor sedulo.</p>
+  <p>(290) Si facio rem, dentibus si quod molant paro,</p>
+  <p>Ille nihil feret, patiarque me vel ringier.</p>
+  <p>Si non progreditur institutum sub manus,</p>
+  <p>Tum demum aptabo me scenae, atque fabulae</p>
+  <p>Accommodabo. Fucis mantellum obviam</p>
+  <p>(295) Aliquod meis erit. Conscendo in editum</p>
+  <p>Hunc locum, ut frequens huc ad me concio confluat.</p>
+  <p>Verum quid potissimum, unde accedat spes lucri</p>
+  <p>Hic pollicear, aut comminiscar? Hocne? non</p>
+  <p>Placet. Illud? Haud expedit. Hau, quid si sic? Nihil</p>
+  <p>(300) Minus. Hem quid illud? Friget. Denique repperi!</p>
+  <p>Res compendiosa veritas est sanctaque.</p>
+  <p>Nimirum superorum conciliat et hominum</p>
+  <p>Animos; ipsam sectantur, inquirunt, amant.</p>
+  <p>Hinc quaestum facere, et hinc victum corradere</p>
+  <p>(305) Contendam hodiernum. Accurrite mortales, bonum</p>
+  <p>Summum adduco venale (Euge! en numerus bonus!</p>
+  <p>Hodie procedo pulcre), nempe coelicam</p>
+  <p>Illam veritatem; eam tenete. State, quid</p>
+  <p>Fugitis? Quin manete! Stupidiores caudice</p>
+  <p>(310) Sunt; parieti loquor, odiosa est ueritas.</p>
+  <p>Tamen obstinate, ut coepi, propositum premam.</p>
+</div>
+<div type="level1" xml:id="actus-tertii-scaena-secunda">
+  <head>Actus tertii scaena secunda</head>
+  <p>Septenarii Trochaici.</p>
+  <p>Hedylogus. Gulo. Eubulus. Aegio.</p>
+  <p>Hed. Agite, si quis est mortalium cui libitum siet</p>
+  <p>Monstra cernere, spectra, portenta, et rerum miracula,</p>
+  <p>Adsit huc, me videat, observet me, miretur! Dabo</p>
+  <p>(315) Mira prodigia. In taurum, asinum, cervum, suem, aut
+  lupum</p>
+  <p>Si velis quem abire, Iuppiter sum; efficio quod lubet.</p>
+  <p>Hermes Trismegistus, et Zoroastres, Hecate, Colchis, et</p>
+  <p>Circe, Sagana, Canidia atque Psylli, et Marsi in me sua</p>
+  <p>Omnes contulere uno veneficia animo; me suis</p>
+  <p>(320) Artibus atque dotibus imbuere. Gul. Contra fluminis</p>
+  <p>Cursum nitor, et adversis agitur ratis mea flatibus.</p>
+  <p>Ego destituor, hei, gregatim ad illum populus convolat.</p>
+  <p>Quin hinc me amolior? Qui quem occepit questum morer?</p>
+  <p>Est meo aegre animo, illi sine me obtingere quippiam boni,</p>
+  <p>(325) Proin turbas ciebo. Hed. Hermaphroditos et Tiresias
+  creo;</p>
+  <p>Et dapes Pasetis praebeo. Gul. Nugae, somnia, fabulae!</p>
+  <p>Hed. Ubi volo, incanto vesaniam, excanto prudentiam.</p>
+  <p>Verum enim ne timueritis vestram ne pecuniam</p>
+  <p>Carminibus meis crumenis e vestris huc evocem.</p>
+  <p>(330) Hercule non faciam. Gul. Non Hercule faciat, etiam
+  maxime</p>
+  <p>Si velit. Hed. Divitias si quis expetat, magis Hercle</p>
+  <p>Sum dexter, Gygis polliceor annulum, atque virgulam</p>
+  <p>Divinam. Gul. Aureis divitat nebulo sartis centonibus.</p>
+  <p>Hed. Qui rapi a Veneribus, atque optari a regibus gener,</p>
+  <p>(335) Et quicquid pedibus tetigerit, mox fiat rosa
+  postulat,</p>
+  <p>Phyltra, pocula amatoria; postremum omnes dabo gratias.</p>
+  <p>Gul. Gerrae germanae, et λῆροι λήρων! Hed. Si pericula</p>
+  <p>Omnia omnis immunis male transire gestias,</p>
+  <p>Praesentissimum offeram amuletum, et baculum laureum.</p>
+  <p>(340) Gul. Maximus nugator, fascinator ignavissimus.</p>
+  <p>Eub. Quin inquam mane, mane obsecro. Aeg. Maneam? Eub. Quid te
+  is</p>
+  <p>perditum?</p>
+  <p>Aeg. Perditum? Quid hauriam tantum mali, nunc si audiam</p>
+  <p>Paululum facetiari, et nugari, animi gratia?</p>
+  <p>Eub. Perieris, si, quae ille fabulatur, immittas tuis</p>
+  <p>(345) Auribus. Aeg. Logus me perdet unus? Eub. Unus te
+  logus,</p>
+  <p>Inquam, perdet; idque non repente, at sensim ac clanculum.</p>
+  <p>Namque ut carcinus, malum immedicabile, totum haud corripit</p>
+  <p>Continuo corpus, nec hominem protinus phthisis necat</p>
+  <p>Sed mala haec serpunt, diesque aliquot exitia proferunt,</p>
+  <p>(350) Sic colloquia praua, herbescentem segetem mentis
+  bonae</p>
+  <p>Paulatim necant. Aures igitur tuas nisi clauseris,</p>
+  <p>Delicatis, mollibus, ineptis iocis, heu claudier</p>
+  <p>Fontem senties benignitatis patriae tibi.</p>
+  <p>Hed. Deliros Acherunticos senes, etiam qui iam alterum</p>
+  <p>(355) In Charontis cymba posuere pedem! Reddo pristinae</p>
+  <p>Quum libet, iuventuti, Medeae exemplo nobilis,</p>
+  <p>Fando, si audistis coepisse reiuuenescere Aesonem</p>
+  <p>Medeae opera. Gul. Nae, frontem impudenter perfricat scelus,</p>
+  <p>Confidenter enim garrit, cuius neque pes compareat,</p>
+  <p>(360) Neque caput, bibit vel ex Gallo amne, vel larvae
+  atraque</p>
+  <p>Bilis agunt hominem. Mitte Aesonem, at Peliam vide ut perit</p>
+  <p>Illi dum parat iuventutem Medea reducere. Hic</p>
+  <p>Aureos promittit montes, mellaque et hibleos favos,</p>
+  <p>Quum neque apiculam. Imo et plumbeum nummum ne habeat quidem.</p>
+  <p>(365) Aeg. An flagitium est festivis leporibus operam dare</p>
+  <p>Exiguam? Eub. Sub omni lapide scorpius dormit tibi,</p>
+  <p>Insidias ubique tendit Diabolus, proreptat et</p>
+  <p>Quaerit rimulam angustam, qua blanduli lenocinii</p>
+  <p>Insumat uel semiunciam, quam quum transmiserit,</p>
+  <p>(370) Iacet enermis animus, tum fenestram amplam libidini</p>
+  <p>Pandit omnem ad nequitiam. Vitiorum erumpunt agmina.</p>
+  <p>Parva initia eorum erant, qui sunt nunc perditissimi.</p>
+  <p>Per gradus serpit malum: ut coepit, resiste in limine,</p>
+  <p>Opprime dum novum est. Aeg. Ah, tu enecas me; religio irrita
+  est</p>
+  <p>(375) Excolare culicem si camelum temere glutias.</p>
+  <p>Non recte ex anguilla peiorem facis angue viperam.</p>
+  <p>Eub. Ah, si sapias, Aegio, liquido sane et facile intelligas,</p>
+  <p>Demissa in animum tenerum iocularia quantum effoeminent.</p>
+  <p>Illecebra illecebram parit; Lycurgus et Cato, et Helias,</p>
+  <p>(380) Ad nequitiam possunt, si auscultent, profecto
+  adducier.</p>
+  <p>Aeg. Aufer isthaec; etiam si alliges me tormento ferreo,</p>
+  <p>Non me retineas. Eub. Eia mane! Abiit, operam perdidi.</p>
+  <p>Hed. Tam capitalis nemini est hostis, quin si libitum est mihi,</p>
+  <p>Conceptis queam verbis sarcire integre gratiam,</p>
+  <p>(385) Et redire cogam in gratiam longe efficatius</p>
+  <p>Quam aut Iunonis aut Veneris cesto. Gul. Ut ei dii malum duint;</p>
+  <p>Sic Hyberas nugas atque portentosas naenias</p>
+  <p>Blaterat. Hed. En, ego me comparo ut specimen dem artis meae.</p>
+  <p>In manu mea uestri sunt animi, confestim sacros</p>
+  <p>(390) Ut susurros murmurarim, vos vel ingratis mihi</p>
+  <p>Conciliavero. Quin Momus ille sentus, squalidus,</p>
+  <p>Et fame aeger nimia, qui nunc iam ex diametro pugnat in</p>
+  <p>Me, odium ponet, dextram iunget, favebit candide.</p>
+  <p>Gul. Ut confidit fascinator! Tenebras cudit, vuerba dat</p>
+  <p>(395) Hed. Accingor. Date operam; si non re ipsa
+  comprobavero</p>
+  <p>Quae expectatis, sim ridiculus asinus inter simias.</p>
+  <p>Iuppiter, Venus, triadesque, prospere reducite in</p>
+  <p>Gratiam aemulos; Mercurio dextero internuncio</p>
+  <p>Iras carmina atterite mea; tu mihi qui male vis, redi ad</p>
+  <p>(400) Mentem: (γνῶθι καῖρον τό ὄρνεον σπεύδει πρὸς τὸν
+  βρόχον).</p>
+  <p>Syncretismus e re est nostra, non pugna, at pax fert lucrum.</p>
+  <p>Spectatores, hoc nisi carmen, plane erga me candidos</p>
+  <p>Vobis infudit animos, mulctate, occidite, funditus</p>
+  <p>Me. Gul.Satius profecto est cum homine inire gratiam bonam,</p>
+  <p>(405) Quippe ei si commoda congruunt, ut propitios deos</p>
+  <p>Dexterosque habet. Recipiar in partem consortii,</p>
+  <p>Album addo igitur calculum: Theseus redditus ex Zoilo.</p>
+  <p>Hem! tuus sum, non meus, veneficiis ita me tuis</p>
+  <p>Alligasti, tu qui hic consutis lemurum et magicis dolis</p>
+  <p>(410) Adstas. Hed. Imo equidem tunicis consutis adsto, non
+  dolis.</p>
+  <p>Gul. Hau, hau, homo tun’ sanus es? Qui tunicis hic adstare te,</p>
+  <p>Autumas, non pedibus. Hed. Callide Hercle tu, atqui men’ vides?</p>
+  <p>Haud assum pedibus. Gul. Ita profecto elixum te mavelim!</p>
+  <p>Aeg. Euax, lepidos homines! Delicias loquuntur et rosas.</p>
+  <p>(415) Moerorem exturbant, animi propulsant aegritudinem.</p>
+  <p>Gul. Hem, nunc tu illud insta, est noster, inhiat escam, hamum
+  vorat.</p>
+  <p>Hed. Exemplum artis, en, aliud meae ovum hoc hic quod cernitis.</p>
+  <p>Auferendum ad antipodas stygiis mandabo manibus,</p>
+  <p>Et fiet. Aeg. Papae! Hed. Proserpina, Pluto, Alecto, Cerbere,</p>
+  <p>(420) Auferte hoc hinc quo uolui foras. Videtin’ daemones</p>
+  <p>Obsequi nobis? Heus! reddite hoc idem. En subserviunt.</p>
+  <p>Iterum hem mando, ut huius sit penetrabile mox annuli.</p>
+  <p>Liquido cernitis quam prompti, quam praesto usque obtemperent.</p>
+  <p>Proinde sumite hoc coenaticum genii parasitici</p>
+  <p>(425) Pro vestra bona opera hostimentum leve. Adeste, heus,
+  denuo!</p>
+  <p>Efficite hoc ut lintheum ardeat, neque tamen incendio</p>
+  <p>Ullam contrahat labem. En, igne ardet, et immune est mali</p>
+  <p>Omnis. Ecce mea ipse capio, contineo, servo manu</p>
+  <p>Ignem illaesus impune. Aeg. Hei, quo munere hic non dignus es</p>
+  <p>(430) Gul. Liberali, mehercle, tu quidem praeditus es
+  indole.</p>
+  <p>O, magnae spei expectationisque adolescentule!</p>
+  <p>O, olim tui quanta ingenii decurrant flumina.</p>
+  <p>Quam clare impetus virtutis edas, nisi retunderet,</p>
+  <p>Reprimeretque acumen istud, inhumani iugum patris.</p>
+  <p>(435) Hed. Macte animi iuvenis, nusquam ars tantam laudem
+  invenit mea,</p>
+  <p>Nec paravit amicos praeter te. Tam stupidos caudices</p>
+  <p>Plumbeos, inertes, lapides, fungos, atque imagines</p>
+  <p>Hominum videas uerius quam homines. Apud quos sit fame</p>
+  <p>Pereundum, priusquam his quicquam suppeditetur artibus.</p>
+  <p>(440) Aeg. Vah, tantas adeon’ iacere artes? Ne formida,
+  tibi</p>
+  <p>Virtus ut desit. Curaberis a me; quin penarium</p>
+  <p>Potius compilabo patris. Este animo interim bono.</p>
+</div>
+<div type="level1" xml:id="actus-tertii-scaena-tertia">
+  <head>Actus tertii scaena tertia</head>
+  <p>Trimetri Iambici.</p>
+  <p>Megadorus.</p>
+  <p>Hui, quidnam hoc est? Quae isthaec est perturbatio</p>
+  <p>Et praecipitantia? Iamdudum incursim domum</p>
+  <p>(445) Accurrit filius, exanimatus; insolens,</p>
+  <p>Anhelans; pene effregit foribus cardines,</p>
+  <p>Raptim in culinam se dedit, ubi, nescio</p>
+  <p>Quid, nisi surripuit quicquam escarium. Inde tum</p>
+  <p>Foras extemplo proruit se, hoc ut mali</p>
+  <p>(450) Portendat quippiam; animus anxius in metu est.</p>
+</div>
+<div type="level1" xml:id="argumentum-est-mali-importuna-celeritas.">
+  <head>Argumentum est mali importuna celeritas.</head>
+  <p>Vah, cui nunc credas? Ita rara est homini fides.</p>
+  <p>Nam paedagogo gnatum Eubulo tradidi</p>
+  <p>Servandum, formandum, imbuendum moribus</p>
+  <p>(455) Atque literis. Materiae artificem scilicet</p>
+  <p>Probum adhibui, hoccine est boni officium viri,</p>
+  <p>Sine arbitrio inconsultum, incomitatum, vagum</p>
+  <p>Sinere, quo fert libido, quo impellit animus?</p>
+  <p>Expostulabo graviter hanc licentiam</p>
+  <p>(460) Cum homine. Verum estne hic quem video coram? Ipsus
+  est.</p>
+  <p>Quo rem resciscam, uti se habet, exploratius,</p>
+  <p>Assimilabo quasi nihil horum noverim.</p>
+</div>
+<div type="level1" xml:id="actus-tertii-scaena-quarta">
+  <head>Actus tertii scaena quarta</head>
+  <p>Senarii eiusdem generis cum uno septenario.</p>
+  <p>Eubulus. Megadorus</p>
+  <p>Eub. Atat, quid agam nec quid tentem sat scio.</p>
+  <p>Iniquiore nunquam quod sciam in loco</p>
+  <p>(465) Fui, quam quo nunc sum: Adeamne et faciam patri</p>
+  <p>Palam, quantum expergefacit malum Aegio</p>
+  <p>Sibi? An celem? Loquarne? Incendam acerrimum,</p>
+  <p>Ita acre gestat acetum in pectore. Taceam</p>
+  <p>Quasi huius adiutor nequitiae? Deputer</p>
+  <p>(470) Quovis supplicio dignus? Sic refundere</p>
+  <p>Flagitia discipulorum in magistros assolent.</p>
+  <p>Praeterea ubi rescierit, adeo commode</p>
+  <p>Fortasse tractet adolescentulum luto</p>
+  <p>E coenoso eliciat, atque a me amoliar</p>
+  <p>(475) Simul crimen. At ubi inueniam iam herum? Sed, heus,</p>
+  <p>Ellum, here, salve. Meg. Ecquid noster? Hem tun’ pedem ab eo?</p>
+  <p>Eub. Heu, here. Meg. Quid lachrymas? Salvusne est? Eub. Vellem
+  quidem.</p>
+  <p>Meg. Me miserum, periit, periit? Eub. Haud ut tu autumas.</p>
+  <p>Animi laborat aegritudine. Meg. Oh quid audio?</p>
+  <p>(480) Eub. Disciplinae iamdudum nostrae tranfuga;</p>
+  <p>Ad parasitos, nugones, ad veneficos</p>
+  <p>Circumforaneos atque magos deficit.</p>
+  <p>Illis operam dat, adhaeret contumaciter.</p>
+  <p>Me reiicit, fastidit, odit, despuit.</p>
+  <p>(485) Meg. Heu, tales nactus est praeceptores? Capra</p>
+  <p>Gladium. Eub. Megadore, affectat ad crimina viam</p>
+  <p>Per angiportum perque anfractus devios;</p>
+  <p>Amens iam nunc hac se proripuit, nescio</p>
+  <p>Quid celatum sub chlamyde gestitans. Sequor.</p>
+  <p>(490) Quo ruis, inquam? Ehodum, ad me, resiste paululum!</p>
+  <p>Ille obsurdere. Amabo, mi Aegio, volo</p>
+  <p>Te paucis; tantundem. Fugere ipse quasi lupus</p>
+  <p>Clamorem, iamque se e nostro subtraxerat</p>
+  <p>Aspectu, Megadore, Megadore! Meg. Lachrymas</p>
+  <p>(495) Vehemens mihi absumit dolor; haec est Diaboli</p>
+  <p>Techna; hanc exorsus est telam, quo illum auferat</p>
+  <p>Nobis, nec faciet. Eub. Aspergis aquam. Meg. Spe trahor</p>
+  <p>Non parva illum porro affuturum salvum, ubi</p>
+  <p>Iuuentus refrixerit, ubi poenituit sui.</p>
+  <p>(500) Animo morem nunc gerit, olim sapiet tamen.</p>
+  <p>Porro, meditata et formidata adversa sunt</p>
+  <p>Omnia mihi. Itaque finge, molire, effice</p>
+  <p>Opera consilio, industria, quantum potes.</p>
+  <p>Redeat dehinc in vuiam; quod si te sensero</p>
+  <p>(505) Officio deesse nec conari sedulo</p>
+  <p>Hic, (intellextin’?) exempla haud levia manent</p>
+  <p>Te. Abs te, si pereat, eius sanguinem exigam.</p>
+  <p>Eub. Bona verba, quaeso. Meg. Quod res est dico. Eub. Dehinc</p>
+  <p>Operoso et uigili te esse animo, Eubule, impero.</p>
+</div>
+<div type="level1" xml:id="actus-tertii-scaena-quinta">
+  <head>Actus tertii scaena quinta</head>
+  <p>Hedylogus. Gulo. Aegio</p>
+  <p>Senarii Iambici et Trochaici, cum uno septenario</p>
+  <p>(510) Hed. Malum igitur a me mendicas tibi, furcifer?</p>
+  <p>Facesse; sis a me, abin’? Gul. Abeam? Hed. Quid tibi rei</p>
+  <p>Hic est? Gul. Nempe quod in balneo cani: hoc idem</p>
+  <p>Esse censen’ hic mihi? Hed. Nempe idipsum. Eho, mihi</p>
+  <p>Non licere rem meam me solum uti? Volo</p>
+  <p>(515) Loqui atque cogitare te sine arbitro.</p>
+  <p>Quid tu, malum, me sequeris? Gul. Decretum est mihi,</p>
+  <p>Quasi umbra siem quoquo tendis te persequi.</p>
+  <p>Hed. Quid si directus hinc abeam in malam crucem?</p>
+  <p>Gul. Est certum mihi tecum ad crucem usque pergere,</p>
+  <p>(520) Teque si detrectet carnifex, suffigere</p>
+  <p>In sublime, qui pascas coruos! Hed. Quid restitas?</p>
+  <p>Amolieris te hinc, malum, heus, umbra. Gul. Siquidem</p>
+  <p>Praedam ex aequo facis dimidiam, quaeque me</p>
+  <p>Contigit, partem actutum das. Hed. Siquidem tibi</p>
+  <p>(525) Infortunium dabo, nisi hinc te protinus</p>
+  <p>Aufers. Gul. Tun’ me, tun’ uerbis proteles tuis?</p>
+  <p>Ne fiam lucri, qui et laboris particeps</p>
+  <p>Fui? Aeg. Opportune huc contuli me, ut fabulam</p>
+  <p>Hanc spectem et suaviter arbitrer. Hed. Cessas loqui,</p>
+  <p>(530) Proterve? Tantum si lubet, hem, cape, tange sis.</p>
+  <p>Gul. Ne me irritasses; crabro sum irritabilis.</p>
+  <p>Fames et mora bilem in nares mihi conciunt,</p>
+  <p>At contumelia ista acuit iras. Hed. Itan’</p>
+  <p>Vero auferas, heus, carnifex? Gul. Trifurcifer,</p>
+  <p>(535) Feris? Hem, tibi, tu quoque vicissim vapula.</p>
+  <p>Aeg. Ha ha he! dum velitantur, certant, raptitant,</p>
+  <p>Et discernunt pugnis rixisque, uter cibo</p>
+  <p>Potiatur—hic, ut solus, ille, sortis in</p>
+  <p>Partem, ut recipiatur—uterque a cibo excidit.</p>
+  <p>(540) Ex ipsis suis bolum amisere faucibus,</p>
+  <p>Fervescente enim certamine, en vorax canis</p>
+  <p>Advenit, rapit depositam humi escam, atque illico</p>
+  <p>In pedes se dat. Risu emorior, quam gaudio</p>
+  <p>Delibutus est Molossi animus: vortit bene</p>
+  <p>(545) Ipsi profecto, at illis infoeliciter,</p>
+  <p>Ut vulgo solet inter quos male gratia coit.</p>
+  <p>Perniciosa omnibus est semper contentio.</p>
+</div>
+<div type="level1" xml:id="actus-quarti-scaena-prima">
+  <head>Actus quarti scaena prima</head>
+  <p>Octonarii et Septenarii Iambici.</p>
+  <p>Diab. Hedylogus</p>
+  <p>Dia. Ubi tandem meos invueniam? Ubi nanciscar? Differam.</p>
+  <p>Dilacerabo infortuniis. Vah, tam segniter ac frigide</p>
+  <p>(550) Mastigias delegatum sibi curare negotium?</p>
+  <p>Tantaene molis, tantae industriae, imperitum omnis rei</p>
+  <p>Iuvenem ad nequitiam pertrahere atque persuadere, quo solum</p>
+  <p>Vertat? Hed. Quis hic loquitur? Nullus sum; herus est, qui utinam
+  aut hic non</p>
+  <p>sit, aut</p>
+  <p>Ego alibi; tam, edepol, est torvus, si sinapi victitet,</p>
+  <p>(555) Adeo, Hercle, tristem reddi posse nunquam censeam.</p>
+  <p>Iracundo iracundior Hadria, Stentore clamosior.</p>
+  <p>Minus quietus Euripo, nequit consistere.</p>
+  <p>Ita est homo: semper iurgat, turbat, mulctat, malo enecat.</p>
+  <p>Quidvis potius quam tam violentum imperium perferas.</p>
+  <p>(560) Sed cesso me hinc surripere? Eia, age subita te mox
+  subtrahe fuga,</p>
+  <p>Hedyloge! Dia. Quem, malum, audio hic? Tun’ nequitiae et
+  criminum</p>
+  <p>Caput, talaria induas, surripiasque hinc te protinus?</p>
+  <p>Vos quaerito, stabula flagitii; adeon cessatum oportuit?</p>
+  <p>Hem, nondum laqueis inclusistis illum, tervenefici?</p>
+  <p>(565) Hed. Non potis est; sic Eubulus paedagogus instruit,
+  monet,</p>
+  <p>Insidias indicat, nostrisque clypeum telis obiicit.</p>
+  <p>Dia. Furcifer! ineiectam tragulam seni, factamque fabricam</p>
+  <p>Oportuit, et eiectum omnem a parendo discipuli animum.</p>
+  <p>Id si succederet minus ex sententia, sacra anchora</p>
+  <p>(570) Solvenda erat, nostrisque pugnandum triariis.</p>
+  <p>Hed. Adeo involute et nodose loqueris aenigmata.</p>
+  <p>Non Hercle intelligo. Dia. Non? Hem! Hed. Non, Hedylogus ego</p>
+  <p>Sum, haud Oedipus. Dia. Nempe ego aperte dicam: tune nescis et</p>
+  <p>Includi quasi sagena, multorum milia hominum,</p>
+  <p>(575) Sagena haec est voluptas, qua severos iam diu</p>
+  <p>Frustra omni telorum genere oppugnatos, tandem sub iugum</p>
+  <p>Subigimus? Ille hac machina, hoc erat pulsandus ariete.</p>
+  <p>Voluptatis species, ob mentis oculos posita, adamantinos,</p>
+  <p>Irrisibiles et ferreos rapiet ad nequitiam Titos.</p>
+  <p>(580) Quantumvis luctentur, si fixus haeret viatus in
+  animo,</p>
+  <p>Hac concussi balista, hac obruti cadent Phalarica.</p>
+  <p>Quid, intellextine? An nondum etiam hoc? Hed. Imo, probe.</p>
+  <p>Dia. Hac igitur nunc in harena desudascite.</p>
+</div>
+<div type="level1" xml:id="actus-quarti-scaena-secunda">
+  <head>Actus quarti scaena secunda</head>
+  <p>Scazontes.</p>
+  <p>Eubulus. Dromo</p>
+  <p>Eub. Hac illac circumcursa Dromo, cave, sodes;</p>
+  <p>(585) Ullo consistas in loco, nisi iumentum,</p>
+  <p>Adductumque prius curaveris herilem ad me</p>
+  <p>Filium. Idem porro ut faciant (quisquis est nostrae</p>
+  <p>Familiae) commoneto, si expetunt illum</p>
+  <p>Salvum. Audio in puerum fallaciam intendi</p>
+  <p>(590) Inevitabilem, nisi iuvamus nos,</p>
+  <p>Et summa nitimur ope. Nam voluptate</p>
+  <p>Adoriri adornant, violento admodum telo et</p>
+  <p>Ingente. Non temere aiunt fabulae, visa</p>
+  <p>Medusa, in saxa extemplo abiisse eos qui illam</p>
+  <p>(595) Vidissent; sic Diana quoque suum arbitrum</p>
+  <p>In cervum mutavit. Ratione eadem, quum</p>
+  <p>Voluptatum illecebra devinxerit sese</p>
+  <p>Semel animus, ingratis eadem relabetur</p>
+  <p>Ad consilia, quasi sus ad volutabrum:</p>
+  <p>(600) Nec meminit aut virtutis, aut honestatis,</p>
+  <p>Tanquam qui lothon edit patriae terrae</p>
+  <p>Redditur immemor. E sue Gryllus recusavit</p>
+  <p>Restitui, ut Circes biberat poculum; cantu</p>
+  <p>Mulcti Sirenum periere rate subversa.</p>
+  <p>(605) Docent exempla haec, vitae semitas illos</p>
+  <p>Nunquam apprehensuros, qui amplexi voluptatem</p>
+  <p>Hac deliniti sunt semel. Amplius dico:</p>
+  <p>Aspectus exurit, detorquet ad prava,</p>
+  <p>Exest medullas; incunabula aeternae</p>
+  <p>(610) Mortis, cupiditates transfundit in mentem.</p>
+  <p>Aegio animi fenestras, sedulo adservet,</p>
+  <p>Ne mors illac ad animum subdole irrepat.</p>
+  <p>Hoc ut fuat, nervos intendit huc omneis</p>
+  <p>Iniquus grex. Id nostro nuncia raptim.</p>
+  <p>(615) Ego hac approperabo, illac cursitato tu</p>
+  <p>Ocius. Opus est facto. Dro. Opera dabitur, Eubule,</p>
+  <p>Vale; nostrum iter utriusque bene Deus vertat.</p>
+</div>
+<div type="level1" xml:id="actus-quarti-scaena-tertia">
+  <head>Actus quarti scaena tertia</head>
+  <p>Diabolus. Dromo</p>
+  <p>Dia. Num nostras ille, huc magnis qui affectat viam</p>
+  <p>Gradibus? Non, Megadori est, ut grallatorius</p>
+  <p>(620) Grandes grandit gradus! Nimirum subolet his,</p>
+  <p>Quod machinamur, eludendus hic est mihi,</p>
+  <p>Ne pugnam nobis siue turbam det aliquam,</p>
+  <p>Dum ad nequitiam in nostro docetur Aegio</p>
+  <p>Ludo. Dro. Move abs te omnem moram, Dromo, atque age</p>
+  <p>(625) Hanc rem. Ubi nunc illum inveniam? Quod si quis mihi</p>
+  <p>Eum indicasset, quidvis optatum feret.</p>
+  <p>Dia. Abigendus ille hinc mihi est: Heus, tu! apage sis</p>
+  <p>Te hinc! Dro. Tu ire quenquam publica vetes uia?</p>
+  <p>Dia. Ita, Hercle, vero veto, adeoque infortunium</p>
+  <p>(630) Invenies, nisi celerem maturaris fugam.</p>
+  <p>Dro. Atqui haec vis est. Dia. Sic sum, nihil refert mea,</p>
+  <p>Dum id quod volo, modo impetrasso. Dro. Durus es.</p>
+  <p>Dia. Nullius gratiam moror, aut ingratias.</p>
+  <p>Maleficio adiungere mihi, non beneficio</p>
+  <p>(635) Consuevi homines. Dro. Quin, quo me herus ire vult,
+  sinis?</p>
+  <p>Dia. Quin nihili facio. Dro. Quin ingratis? Dia. Quin neque</p>
+  <p>Pol, sinam! Itan’ pergis mastigia? Ahu, vapula!</p>
+  <p>Dro. Hei mihi, sed eccum quem quaero; dictator, en,</p>
+  <p>Nihili in minimi precii senatu praesidet.</p>
+  <p>(640) Nec mihi conferre cum homine sermonem licet,</p>
+  <p>Neque malarum rerum autores refellere.</p>
+</div>
+<div type="level1" xml:id="actus-quarti-scaena-quarta">
+  <head>Actus quarti scaena quarta</head>
+  <p>Octonarii Septenarii Senarii, Iambici</p>
+  <p>Septenarii, Trochaici nonnulli:</p>
+  <p>Aegio. Hedylogus. Gulo. Diabolus</p>
+  <p>[Aeg.] Ecquid Sarcophilia amat nos? Hed. Amat? An ardeat potius
+  roga.</p>
+  <p>Aeg. Ain? Hed. Non sic flammivomis ignibus Aethna flagrat. Aeg.
+  Pol, beas</p>
+  <p>Me. Gul. Misera somniat, te cogitat, te deperit, ita se</p>
+  <p>(645) Cruciat, macerat, afflictat, misera, prae amore.
+  Fastidirier</p>
+  <p>Se abs te si sentiat, perierit e vestigio</p>
+  <p>Prudens, volens, videns, vivensque, sic deamat medullitus.</p>
+  <p>Non est quod causseris, ’non amari cuiquam incognita.</p>
+  <p>Unde huic notio me?’ Aeg. Pulchre scrupulum ex animo eximis.</p>
+  <p>(650) Gul. Dum virtutes praedico tuas, quasi naphtha
+  incendio</p>
+  <p>Rapitur. Hed. Ut ingenua est et liberalis, oppido est</p>
+  <p>Aegre illi, tam arte contenteque haberi te; nam spiritus</p>
+  <p>Generosus, libertatis est amans; proinde te citat</p>
+  <p>Libello venereo. Hem, sume literas sui amoris indices.</p>
+  <p>(655) Aeg. Sarcophilia Aegioni ex animo plurimam</p>
+  <p>Dicit salutem. Mi anime, misereat tui</p>
+  <p>Te, ut me tui misertum est, itidem te mei</p>
+  <p>Iuxta misereat, mea voluptas, mel meum,</p>
+  <p>Mea lux, meus ocellus, mea vita, corculum</p>
+  <p>(660) Meum; amore langueo nimio, et instar nivis</p>
+  <p>Sole incalescente liquesco. Nisi te mei</p>
+  <p>Misereat itidem, ut est misertum me tui,</p>
+  <p>Occisissima sum, ut tu etiam es occisissimus.</p>
+  <p>Veni! Duos una serva opera. Si duos</p>
+  <p>(665) Nolis, ut me malo dignam exitio putes,</p>
+  <p>Tu indignus es qui intereas; sis curae tibi.</p>
+  <p>Veni, mi pulle, veni, mi passer, carceris</p>
+  <p>Tui desere pedorum, fuge tyrannidem</p>
+  <p>Duri patris, qui te geniumque nobilem</p>
+  <p>(670) Istum, omni fraudat fructu gaudii. Vale,</p>
+  <p>Palaestra ex Hierichontea, O iterum vale.</p>
+  <p>[Aeg.] Vix apud me sum sic ardeo, aestuo cupidine.</p>
+  <p>Dia. Heus, flagricidae, adiicite uirus serpentibus, et addite
+  oleum</p>
+  <p>Camino, quem petat turdus cibum, a transenna ostendite.</p>
+  <p>(675) Hed. Ohe, teneo: uin’ Aegio videre tuae vultum
+  candidum</p>
+  <p>Veneris, et luculentam formam, ocellos perquam amabiles,</p>
+  <p>Colorem vuerum, os roseum? Aeg. Iamdudum istuc gestio.</p>
+  <p>Hed. Hem, vide.</p>
+  <p><hi rend="italic">Sarcophilia hic saltabit cum
+  Cupidine, Marte, et Como latronibus</hi>.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-prima">
+  <head>Actus quinti scaena prima</head>
+  <p>Senarii. Iambici.</p>
+  <p>Hedylogus. Aegio. Eubulus</p>
+  <p>Hed. Viden’ quam sint tibi secundae de tuo</p>
+  <p>(680) Amore res omnes? Quid sentin’? Aeg. Admodum.</p>
+  <p>Hed. Nimirum senticeto inhaeres aspero.</p>
+  <p>Aeg. Ubi tu quae tam imperiose vadimoniis</p>
+  <p>Vadata es venereis me? Ocelli me tui</p>
+  <p>Cepere, leves nutus, collum tornatile;</p>
+  <p>(685) Te suspiro, te inhio, ad te, mea vita, advolo!</p>
+  <p>Eub. Cursando atque ambulando contrivi hunc diem,</p>
+  <p>Nec quem quaero, invenio Aegionem. Sed quis est</p>
+  <p>Delirus ille, temulentus, lymphaticus?</p>
+  <p>Au, noster est, is de quo agebam. Proh Dei</p>
+  <p>(690) Fidem atque hominum! Quis ad hunc te exagitat modum?</p>
+  <p>Quae te intemperiae, quae laruae aut monstra stimulant?</p>
+  <p>Aeg. Totum me, Sarcophilia, tenes. Duc quo libet.</p>
+  <p>Ubi sim nescio; ubi sum, ibi non sum; atque ubi</p>
+  <p>Non sum, ibi animus est meus. Eub. Ad mentem obsecro redi.</p>
+  <p>(695) Eheu quo Corycaei te pepulere? Quo</p>
+  <p>Redegere? Redi, oro, in viam. Aeg. Lux mea, mea</p>
+  <p>Animula, mea voluptas, ad te vernulum, O</p>
+  <p>Meum propere ruo. Eub. Perit, occisa est salus;</p>
+  <p>In pertusum ingero dicta irrita dolium.</p>
+  <p>(700) Quid uerba mortuo facio? Versabere,</p>
+  <p>Aegio, hodie verberibus, atque incommodis</p>
+  <p>Augeris, frigere ut cicer, ut incus miser</p>
+  <p>Cuderis, plagis, flagris, sanguine horridus.</p>
+  <p>Aeg. Hierusalem vale; vale longum! Eub. Male</p>
+  <p>(705) Conciliate, peris. Eo ut apportem nuncium</p>
+  <p>Patri, cuius minime optet fieri particeps,</p>
+  <p>Meque expediam qua suspectus sum noxia.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-secunda">
+  <head>Actus quinti scaena secunda</head>
+  <p>Septenarii. Trochaici et Iambici Senarii.</p>
+  <p>Diabolus, Comus, Mars, Cupido,</p>
+  <p>Latrones. Aegio</p>
+  <p>Dia. Agite sacri adeste summistae, plagipatida appetit,</p>
+  <p>Appropinquat insidiis. Aeg. Egressus urbem commodum</p>
+  <p>(710) Sum; ecce, moles quaedam arietat, concussatque cor
+  mihi,</p>
+  <p>Et dolor animum intestinus fodicat, tanquam spiculo.</p>
+  <p>Praesagit mali mens quippiam. Redeamne, an progredi</p>
+  <p>Pergam? redeam? Non si ipsa me revocet salus.</p>
+  <p>Amoenitatibus omnibus prior est Venus</p>
+  <p>(715) Mea—O, te iamiam amplectar. Latron. Deglubite
+  hominem!</p>
+  <p>Dispoliate! Exuvias auferemus! Aeg. Heu, miser mihi!</p>
+  <p>Latron. Impurum operiamus flagris, fustibus; tuber caput,</p>
+  <p>Et reliquum corpus reddamus. Ex suis uirtutibus</p>
+  <p>Ornate, plagis ulcerate, occidite!</p>
+  <p>(720) Dia. Bene habet, auferte praedam. En, semianimus
+  iacet.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-tertia">
+  <head>Actus quinti scaena tertia</head>
+  <p>Trimetri Iambici et Trochaici uno cum Dimetro.</p>
+  <p>Megadorus</p>
+  <p>De isthac, Eubule, requietus esto; te</p>
+  <p>Extra noxam esse sat scio. Ne lachryma.</p>
+  <p>Nobis ratio inita est, illius ut sita</p>
+  <p>In tuto res sit. Samarites meus unicus,</p>
+  <p>(725) Mea potentia, meus sermo, meum brachium,</p>
+  <p>Verum aget Samariten, voci congruet suae.</p>
+  <p>Servatum curabit nobis et redditum.</p>
+  <p>Verum, ne tanti temere redimam, perditum</p>
+  <p>Tentabo primum minimo, deinde paululo;</p>
+  <p>(730) Quod si non queam, at quanti queam.</p>
+  <p>Hac gratia Sacerdotem cum victimis</p>
+  <p>Legabo, si quidem iuverit. Sin hoc minus,</p>
+  <p>Levites ibit legibus instructus sacris.</p>
+  <p>Postremum destinabo Samariten meum.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-quarta">
+  <head>Actus quinti scaena quarta</head>
+  <p>Trimetri ut superiores.</p>
+  <p>Sacerdos</p>
+  <p>(735) In lauta ne esse parte me, atque acta bene</p>
+  <p>Censeo, cui adversus violentiam hostium</p>
+  <p>Obsidentium haec itinera, dedit Deus hostias.</p>
+  <p>Quibus bene si utar, propitietur mihi Pater.</p>
+  <p>Caeterum illi tam indignis exemplis saucio</p>
+  <p>(740) Nihil queant conferre. Doleo seminecis vicem.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-quinta">
+  <head>Actus quinti scaena quinta</head>
+  <p>Trochaici septenarii.</p>
+  <p>Levites</p>
+  <p>Non est ultimae infelicitatis ducendum loco,</p>
+  <p>Si cui coelestis mysterii tradita sunt oracula.</p>
+  <p>Praescripta a Deo Lex et magni decreta numinis</p>
+  <p>Credita sunt nobis, quibus quid fas sit, quidque sit nefas,</p>
+  <p>(745) Exploramus haud inscite, sicut lapidem ad Lydium.</p>
+  <p>At bruto, insulso, fatuo si haec enarrare occeperis,</p>
+  <p>Nihilo plus agas, quam si des operam, ut caeco purpuram</p>
+  <p>Offeras diiudicandam, aut surdo referas fabulam.</p>
+  <p>Quin, irritamenta et illecebras peccandi suscitant,</p>
+  <p>(750) Nisi Deus retundat mentis impetum, et praemolliat</p>
+  <p>Animum. Proin, quum Lex mea praesidii nil ferre huic queat,</p>
+  <p>Quid agam? Miseret me quidem, atqui rustica est inscitia,</p>
+  <p>Aerumnosum adire aegrum, quem neque re, neque verbis iuves.</p>
+  <p>Progredior igitur, mando illius affecti curam Deo.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-sexta">
+  <head>Actus quinti scaena sexta</head>
+  <p>Trimetri Iambici.</p>
+  <p>Samarites. Aegio</p>
+  <p>(755) Sam. Non me piget agere, quod fugitant liberi alii.</p>
+  <p>Qui, dum paternae fontem munificentiae</p>
+  <p>In alienis aliquanto uberius sentiunt</p>
+  <p>Aperiri, metuunt posse tandem claudier</p>
+  <p>Sibi. Ad fundum profusa abierit largitas;</p>
+  <p>(760) Benignitatis idcirco praecidere</p>
+  <p>Venam operam dant. Ego contra, si cui benefacit</p>
+  <p>Pater, ex animo gaudeo. Si quem mittit manu,</p>
+  <p>Approbo. In haereditatis amplae ius meae</p>
+  <p>Adoptat, id sane lubente me facit.</p>
+  <p>(765) Sin male meritum beneficia adiungit sibi,</p>
+  <p>Laudo; ad solem comparo, qui lumen omnibus</p>
+  <p>Fruendum ultro suum dat. Si quenquam abdicat</p>
+  <p>Ob flagitia, quae facit illiberaliter,</p>
+  <p>Animi me ango; quod possum enitor sedulo</p>
+  <p>(770) Manibus ac pedibus, qui restituatur gradum</p>
+  <p>In pristinum, et in idem usque insto incumbere.</p>
+  <p>Ah, quantam adfert animo meo aegritudinem</p>
+  <p>Adoptati iampridem fratris calamitas.</p>
+  <p>Eheu, videns horresco—sanguine fluidus,</p>
+  <p>(775) Corpore lacero, vulneribus alte hiantibus;</p>
+  <p>Sanie atque tabo squalidus, aspectu horridus.</p>
+  <p>Iacet. Eheu, oculis triste spectaculum meis,</p>
+  <p>Videns excrutior, commoventur viscera</p>
+  <p>Mihi omnia. Quo mihi iumentum, vinum et oleum,</p>
+  <p>(780) Nisi haec prae fratre postputem, utraque ubi opus
+  est?</p>
+  <p>Quid cesso adire atque oleum vinumque addere</p>
+  <p>Cruentis plagis? Frater, euge, animo es bono.</p>
+  <p>Sodes, ne metue; en, infundo charismatis</p>
+  <p>Tibi gratuiti oleum, quo sis gratus Deo et</p>
+  <p>(785) Charus et electus. Hoc est oleum gaudii</p>
+  <p>Atque exultationis. Itidem usus meri,</p>
+  <p>Qui sanguis uvae est: plagis confert adhibitus.</p>
+  <p>Quis circumvecto magno studio linthea,</p>
+  <p>Ut fotae melius coeant. Tibi nempe scelera</p>
+  <p>(790) Remitto, et charitate tego; te colloco</p>
+  <p>Meum in iumentum, qui commodius hoc iter</p>
+  <p>Conficias, et incarnationis te meae in</p>
+  <p>Vehiculum traduco, quo languores fero</p>
+  <p>Cunctorum, namque ego plexus sum humanum ob scelus.</p>
+  <p>(795) Quiesce hic. Aeg. Merito maximam habeo gratiam</p>
+  <p>Tibi. Ab Orco in lucem et vitam revocas; eram</p>
+  <p>Nullus, restituis me. Excideram omni spe, patris</p>
+  <p>In gratiam reducis me; meritissimo</p>
+  <p>Amo te. Sama. Istam fac teneas mentem, et quid</p>
+  <p>(800) Possiem amicus, comperies magno tuo bono.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scaena-septima">
+  <head>Actus quinti scaena septima</head>
+  <p>Trimetri Iambici cum septenario.</p>
+  <p>Stabularius. Samarites. Aegio</p>
+  <p>Sta. Stabulum hoc est pandochium; hic constituit herus</p>
+  <p>Receptandis curandisque familiariter</p>
+  <p>Peregrinis uniuersis, qui huc diverterent.</p>
+  <p>Meque hospitem dedit, hospitalem aeque omnibus</p>
+  <p>(805) Esse iubet. Duci qui nolit, iubet trahi</p>
+  <p>Pii exemplo Abrahae et Loth. Quod sumptifacio,</p>
+  <p>Suppeditat de suo, nec sumptus sumptui</p>
+  <p>Ducit. Quantumcumque expendo, semper dati</p>
+  <p>Rationem superat acceptum, sic copiae e</p>
+  <p>(810) Cornu influit. Intendere me semper et erigi</p>
+  <p>Occasionem in omnem mandat; deputat</p>
+  <p>In lucro sibi, quod benefit de suo; exeo</p>
+  <p>Itaque huc observatum, ne quis beneficii</p>
+  <p>Expers praetereat. Sed quis hic est; videone herum?</p>
+  <p>(815) Certe ipsus est. Salve iterum atque iterum; optato
+  ades,</p>
+  <p>Here. Sam. Credo, quia servis tam liberaliter.</p>
+  <p>Sta. Si quid ago aut egi quod placet, gaudeo equidem.</p>
+  <p>Idque esse gratum tibi beneficium aestimo.</p>
+  <p>Sam. Huc fortunate ades aeger, si cui contigit</p>
+  <p>(820) Unquam auspicato esse aegro. Aeg. In me istuc
+  competit</p>
+  <p>Idque immeritissimo. Hocque est maior gratia</p>
+  <p>Ad amoenitatem atque venustatem congruit</p>
+  <p>Tam aperta, humana, inexpectataque</p>
+  <p>Mihi liberalitas. Sam. Istuc recte. Sta. Sine,</p>
+  <p>(825) Te adiutem, here. Renuit. En, quam familiariter</p>
+  <p>Introducit. Quae gerat arbitrari lubet</p>
+  <p>Hic per rimam. Proh summe Deus! Quam leviter</p>
+  <p>Depositum demulcet, curat, lauat, fovet,</p>
+  <p>Solatur. Nullis denique verbis dicere</p>
+  <p>(830) Queam, quanta pius sedulitate, studio et</p>
+  <p>Quasi officiorum sollicito certamine</p>
+  <p>Totam hanc emensus est noctem. Videre me</p>
+  <p>Iuvat, iuvat usque morari; nulla sentio</p>
+  <p>Noctis taedia. Sed nunc huc egreditur foras.</p>
+  <p>(835) Quicquid me obire muneris uelis, tibi</p>
+  <p>Me dedo; obsequii quiduis impone, impera.</p>
+  <p>Sam. Misero quod benefit, id demum gratum est mihi,</p>
+  <p>Proque istis meritis gratum me et numen fore</p>
+  <p>Olim cognosces in die illa, utque gravida</p>
+  <p>(840) Gratia sit illa cumulatissimis bonis.</p>
+  <p>Adduxi huc hominem calamitatibus obsitum,</p>
+  <p>Quem tibi curandum mando, tradoque.</p>
+  <p>In accepta refer. Accipe, hem, denarios</p>
+  <p>Duos hos, quod si quid facias impendii</p>
+  <p>(845) Haec praeter, confice tabulas, atque id refer</p>
+  <p>In rationes, et dum tecum in reditu puto</p>
+  <p>Reduc ad calculum, reponamque ampliter</p>
+  <p>Tibi. Sta. De isthoc animus in tranquillo est mihi;</p>
+  <p>Lubens in hoc incumbam, et morem tibi geram.</p>
+  <p>(850) Vale, O here; concedo intro, ut aegri curam agam.</p>
+  <p>Congratulor homini, atque gaudeo mihi:</p>
+  <p>Illi salutem, mihi parata praemia.</p>
+  <p><hi rend="bold">Morio</hi></p>
+  <p>Spectatores, hic si manetis, denuo</p>
+  <p>Huc illi dum exeant ad vos, perit opera</p>
+  <p>(855) Vobis. Intus conficietur negotium.</p>
+  <p>Aegio comiter excipitur, intus pandocheus</p>
+  <p>Nummos dispensat; qui si mihi sint crediti,</p>
+  <p>Minime domi, sed in popina absumerem.</p>
+  <p>Neu Samaritem expectate; haud hodie aderit.</p>
+</div>
+<div type="level1" xml:id="peroratio">
+  <head>Peroratio</head>
+  <p>(860) Tace, verbero! Quin, spectatores optimi,</p>
+  <p>Agite, expectate venturum dominum, quia</p>
+  <p>Vita vigilia est, et palma posita est vigilibus.</p>
+  <p>Non temere est, nec vacat mysterio hospiti</p>
+  <p>A Samaritano Christo non nisi duos</p>
+  <p>(865) Nummos, eosque argenteos decadi sacros</p>
+  <p>in impensam dari; nimirum symbola</p>
+  <p>Utriusque legis Moseae atque Euangelae,</p>
+  <p>Aut praecipui utriusque mandati, unde Lex</p>
+  <p>Dependet universa et magna oracula</p>
+  <p>(870) Vatum. Haec argenti candorem sancte retinent</p>
+  <p>Et puritatem, spectantque sacrum ad Decalogum.</p>
+  <p>Stabulario traduntur. Est Stabularius</p>
+  <p>Autem omnis homo. Scriptum est: ’Deus de proximo</p>
+  <p>Mandavit unicuique.’ Sed huc non respicit</p>
+  <p>(875) Noster Samarites; designat enim Ecclesiae</p>
+  <p>Capita et columnas, qui a Petro quasi per manus</p>
+  <p>Lampada cursu accepere commissi gregis</p>
+  <p>Curam. Petrus suis cum successoribus</p>
+  <p>Est Pandocheus, illi nummi sunt traditi</p>
+  <p>(880) Evangelici. Neque erogare solum habet</p>
+  <p>Illos, sed et alios sua pro industria.</p>
+  <p>Sed vestram, spectatores, personam Aegio</p>
+  <p>Praefert. Vos estis hiulci, laceri, saucii,</p>
+  <p>Plagis vitiorum inpactis a cacodaemone,</p>
+  <p>(885) Semper sollicitante ad pessima. Ne metuite</p>
+  <p>Tamen; ubertim vino madetis et oleo</p>
+  <p>Christi, alligatis uulneribus feliciter.</p>
+  <p>Oleum Spiritus est Sanctus, his novissimis</p>
+  <p>Diebus effusus in omnem carnem. Deus</p>
+  <p>(890) Omnes salvos uult fieri. Vinum sanguis est</p>
+  <p>Eius, in eo tincti estis, et ut erratica</p>
+  <p>Ovis reducti in stabulum. Moriens, omnia</p>
+  <p>Ad sese traxit Dominus. Alligatio</p>
+  <p>Vestrorum vulnerum numinis est charitas,</p>
+  <p>(895) Qua donat, delet, abolet vestra crimina.</p>
+  <p>Veruntamen adhuc infirmi estis; nam caro,</p>
+  <p>Nescio quo fato, est aegra ad munia spiritus.</p>
+  <p>Quapropter Pandocheo, cui vos tradidit</p>
+  <p>Iesus, ex animo morem gerite; et uti</p>
+  <p>(900) Paulus ait, subiacete; pervigilat enim</p>
+  <p>Pro vobis. Ergo in pandochio benevoli</p>
+  <p>Curatorem admittite; simul cavete, ne</p>
+  <p>Eius praescripta despuatis. Sic dies</p>
+  <p>Hic vobis fortunatus fuerit. Plaudite.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>Comoediae finis.</p>
+  <p>Antverpiae Typis Guilhelmi Montani. Anno salutis humanae
+  sesquimillesimo trigesimo nono.</p>
+</div>
+        
+    </body>
+</text>
+</TEI>

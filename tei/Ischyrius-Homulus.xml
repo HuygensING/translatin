@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0043" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Homulus</title>
+        <title type="sub">HOMVLVS PETRI DIESTHEMII, Comoedia in primis lepida &amp; pia, in rem Christiani hominis adprime faciens, Anverpiae quondam in publico civitatum Brabanticarum conventu vulgariter acta, palmamque adepta.</title>
+        <author>Ischyrius, Christianus</author>
+        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Jaspar von Gennep</publisher>
+        <pubPlace>Cologne</pubPlace>
+        <date>"1537"</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Ischyrius-Homulus</name><lb/>
+            Short title: <title>Homulus</title><lb/>
+            Year of first edition: <date>1536</date><lb/>
+            Author information:<lb/>
+            Alias: Sterck, Christiaen<lb/>
+            Birth: ??, Vrijaldenhoven<lb/>
+            Death: ??, Maastricht<lb/>
+            Floruit: 16th c., Maastricht<lb/>
+            <ref target="https://www.dbnl.org/tekst/molh003nieu08_01/molh003nieu08_01_1621.php">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://reader.digitale-sammlungen.de/resolve/display/bsb11377619.html">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">0</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>HOMVLVS</p>
+  <p>PETRI DIESTHEMII,</p>
+  <p>Comoedia in primis lepida &amp; pia,</p>
+  <p>in rem Christiani hominis adprime fa-</p>
+  <p>ciens, Anverpiae quondam in publi-</p>
+  <p>co civitatum Brabanticarum conventu</p>
+  <p>vulgariter acta, palmamque adepta.</p>
+  <p>HOMVLVS haec inscribitur comoedia, quod in ea,</p>
+  <p>hominis Christiani vita, &amp; cuiuslibet voluptatis</p>
+  <p>carnalis fugacitas graphice depingitur.</p>
+  <p>1</p>
+  <p><milestone unit="folio" n="Aija"/></p>
+  <p>CHRISTIANVS ISCHYRIVS</p>
+  <p>AD LECTOREM PIVM</p>
+  <p>&amp; CANDIDAM IUUENTUTEM.</p>
+  <p>Habes candide lector, comoediam non minus</p>
+  <p>5 lepidam quam piam, quae tametsi Teren-</p>
+  <p>tij venustatem aut Plautinon redoleat</p>
+  <p>eloquentiam, tamen Christiani hominis</p>
+  <p>vitam, mundique huius luxus fugacitatem, tanquam ex</p>
+  <p>quodam perpendiculo depingit &amp; aestimat. In ea siqui-</p>
+  <p>10 dem non turpes amorum illecebras, non vitae infamem</p>
+  <p>luxum, non denique amandi conciliationes, vt in Teren-</p>
+  <p>tianis Plautinisque comoedijs deprehendes: quae licet</p>
+  <p>syncerae Latinitatis flosculis &amp; egegregie dicendi phaleris</p>
+  <p>abunde cunctis praemineant, latet tamen saepicule sub</p>
+  <p>15 decoris herbis frigidus &amp; noxius anguis, nempe amoris</p>
+  <p>vehemens aestus: quo ipsa iuuentus, in malum vsque</p>
+  <p>propensa &amp; procliuis, nocens teneris plerunque sub</p>
+  <p>annis venenum imbibit: quod adolescentibus atque</p>
+  <p>adhuc vernantibus in penetralia admissum annis, totam</p>
+  <p>20 hominis corrumpit vitam, &amp; in pecuinos adolescit</p>
+  <p>mores. Felix igitu, o felix illa iuventus erit, quae sub</p>
+  <p>tanto verborum lenocinio delitescentem fugerit viperam.</p>
+  <p>In quem denique Terentianae aut Plautinae comoediae</p>
+  <p>Scopum tendunt, nisi quod ad conficiendas nuptias finem</p>
+  <p>25 faciunt? Sed dij immortales, nuptiae quid nuptijs praes-</p>
+  <p>tant? Illae nimirum carnales sunt &amp; periturae, istae</p>
+  <p>vero quae in Homulo conciliantur nuptiae, spiritales</p>
+  <p>sunt &amp; aeternae, quippe rationalis animae cum sponso</p>
+  <p>Christo. Operae precium igitur fuerit, iuuentutem castis</p>
+  <p>30 comoediarum assuescere lectionibus, atque ad spectan-</p>
+  <p>tem recitare populum. Nam quod rudibus animis sermo</p>
+  <p>ille viuus est, hoc comoediarum comis exhibitio, tyrun-</p>
+  <p>2</p>
+  <p><milestone unit="folio" n="Aijb"/></p>
+  <p>culorumque festiua enarratio praestare solet, atque in</p>
+  <p>imis animis ad extremam vsque senectam residere. Ad</p>
+  <p>haec, in hac nostra Homulo omnia cernes casta, atque</p>
+  <p>ita ab omni amoris spurcitia emundata, vt vel a castis-</p>
+  <p>5 simo quouis sacrae mona8tices viro &amp; legi &amp; tractari</p>
+  <p>poss.it sine offendiculo. Estque in ea augustissima</p>
+  <p>Christianae vitae institutio, atque bene moriendi ars</p>
+  <p>felicissima: quodque in humanis ac fugacibus huius</p>
+  <p>seculi rebus, fidendum sit millime, sed in sola animi</p>
+  <p>10 fortitudine &amp; vera virtute, quae vna felicem beatumque</p>
+  <p>reddere potest hominem: quippe Post obitum benefacta</p>
+  <p>manent, aeternaque virtus Quae crelos aperit, regna</p>
+  <p>beata ferens. Bene vale. Traiecti Betasiorum, anno</p>
+  <p>assertae salutis tricesimo sexto supra sesquimillesimum.</p>
+  <p>15 OGDOASTICHON EVSEBII CANDIDI IN HOMULI COM&lt;EDIAM, DE</p>
+  <p>NOMINIS RATIONE EXTEMPORALITER LUSUM.</p>
+  <p>Quilibet, heus, quondam fuit ista comoedia dicta,</p>
+  <p>Nam trepidat mortis quilibet ire vias.</p>
+  <p>Nunc Homylus passim bene scribitur: en quod in ipsa</p>
+  <p>20 Pingitur ad viuum vita fugax hominis.</p>
+  <p>Omnia diffugiunt, mortis veniente figura,</p>
+  <p>Sola mallet virtus concomitans hominem.</p>
+  <p>lllam lac comitem tibi, si sapis, euge homo, fidam</p>
+  <p>Dum viuis, mortis quae comitatur iter.</p>
+  <p>25 DISTlCHON ISCHYRII.</p>
+  <p>Quilibet ante Cui, mutato nomine, dicor.</p>
+  <p>Nunc Homulus, per me nam resipiscet homo.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p>(3)</p>
+  <p><milestone unit="folio" n="Aiija"/></p>
+</div>
+<div type="level1" xml:id="interloqvvtores">
+  <head>INTERLOQVVTORES</head>
+  <p>comoediae sequentis.</p>
+  <p>DEVS, MORS, HOMVLVS adolescens.</p>
+  <p>HANNIO, HIRTACVS, CANTAGER, LVSITOR, HARVNDIO,</p>
+  <p>(5) sodales &amp; familiares Homuli.</p>
+  <p>MEGARIVS duobus stipatus famulis, PAMPHILVS. TRA-</p>
+  <p>BILIO, CONFRANEVS. LICAMBEVS, ABAGARDVS, BELLE-</p>
+  <p>ROPHON, amici &amp; consanguinei Homuli.</p>
+  <p>CLATRIA duabus stipata puellis, HELBIA, PHYLLIRIA,</p>
+  <p>(10) OLENDRIA, OPVLENTIA, cognatae &amp; affines Homuli.</p>
+  <p>VIRTVS, COGNITIO, CONFESSIO. sacrae virgines instar,</p>
+  <p>Vestalium aut matronarum.</p>
+  <p>MARIA, virgo mater supplex ad filium.</p>
+  <p>PRVDENTIA, PVLCHRITVDO, QVINISENSVS, formosae</p>
+  <p>(15) puellae.</p>
+  <p>FORTITVDO vir armatus &amp; egregiae staturae.</p>
+  <p>LARVICOLA, CRAMBARABVS, cacodaemones.</p>
+  <p>ANGELVS deducens Homulum.</p>
+  <p>(4)</p>
+  <p><milestone unit="folio" n="Aiijb"/></p>
+</div>
+<div type="level1" xml:id="prologvs">
+  <head>PROLOGVS</head>
+  <p>SIVE ARGVMENTVM</p>
+  <p>ASCLEPIADEVM CHORIAMBICVM IN FABVLAM HOMVLI</p>
+  <p>PER ISCHYRIVM.</p>
+  <p>SPECTORES cupidi, huc currite, postulo.</p>
+  <p>Apporto lepidam, credite, fabulam,</p>
+  <p>Quam dicunt Homulum, certe adamabilem</p>
+  <p>Nam profert hominis casum &amp; originem.</p>
+  <p>(5) Qui laesit nimium coelica numilla</p>
+  <p>Peccati maculis, vitae &amp; ineptijs,</p>
+  <p>Vt mortem minitans Iuppiter abditam.</p>
+  <p>Effrenos homines sub Styga truderet.</p>
+  <p>Pallescens Homulo Mors mala mittitur,</p>
+  <p>(10) Horrenda heu nimium: dicaque scribitur,</p>
+  <p>Vt vitae properans it rationibus,</p>
+  <p>Adsit judicio praeceleri gradu.</p>
+  <p>Frigens horripilat tunc Homulus miser:</p>
+  <p>Moerens poscit opem forte sodalibus</p>
+  <p>(15) A cunctis, properent vt comitarier</p>
+  <p>Per durum hoc itiner mortis amarulae.</p>
+  <p>Spondent vnanimes, se fore quoslibet</p>
+  <p>Per casus comites inseparabiles</p>
+  <p>Et vitae atque necis, si quid opimius</p>
+  <p>(20) Fors fortuna ferat, mensave pinguior.</p>
+  <p>Sed verum nimis est, acta probant fidem.</p>
+  <p>Si res laeta siet, tu comitaberis</p>
+  <p>Heros splendidulis saepe sodalibus:</p>
+  <p>Sed si aduersa fuat, diffugient procul.</p>
+  <p><milestone unit="folio" n="Aiiija"/></p>
+  <p>(25) Sic spondent Homulo se fore comites,</p>
+  <p>Sed Mortis pauidae nomen amariter</p>
+  <p>(5)</p>
+  <p>Cunctorum trepidis auribus insonat,</p>
+  <p>Et se posse negant. dum petit, adfore. <ptr target="#tn1" n="1"/></p>
+  <p>Sic fit tristitiae tempore nubilo,</p>
+  <p>(30) Discedunt pariter. qui tibi pulchrius</p>
+  <p>Spondebant faciles, quum bona laetius</p>
+  <p>Sors risit, volucri nube fugacior.</p>
+  <p>Virtus sola manet fida &amp; amabilis.</p>
+  <p>Non linquens Homulum, fataque despicit,</p>
+  <p>(35) Nec casus metuit siue pericula</p>
+  <p>Et vitae atque necis, sed comes optuma.</p>
+  <p>Haec placat superos, astra pijs duit,</p>
+  <p>Infernum spoliat, regna acherontica</p>
+  <p>Perfrongens, itiner monstrat olympicis</p>
+  <p>(40) Regnis, aetherea &amp; pace fruiscitur .</p>
+  <p>Quam nobis tribuat Iuppiter optumus,</p>
+  <p>A fatis properis sumere gressibus.</p>
+  <p>Aeterno &amp; hilares vivere gaudio.</p>
+  <p>Amen ferte pij, &amp; plaudite vocibus.</p>
+  <p>6 HOMVLI 1,1, 45-72.</p>
+  <p><milestone unit="folio" n="Aiiijb"/></p>
+</div>
+<div type="level1" xml:id="actvs-i.">
+  <head>ACTVS I.</head>
+  <p>DEVS, MORS, HOMVLVS.</p>
+</div>
+<div type="level1" xml:id="scena-i.">
+  <head>SCENA I.</head>
+  <p>[DEVS.]</p>
+  <p>(45) Principio genus mortalium e limo condidi,</p>
+  <p>Telluris vt esset colonus omniparae,</p>
+  <p>Huic vnicum, vti virtutem colat ingenuam,</p>
+  <p>Praeceptum dedi, seque noxijs amoribus</p>
+  <p>Abstineat, blandisque voluptatibus,</p>
+  <p>(50) Perfidia, &amp; summis imisque ingrata superbia</p>
+  <p>At ille coelestis habenae repugnans, &amp;</p>
+  <p>In vitium praeceps actus, vulnere contabuit,</p>
+  <p>Venitque fera pessima leuiathan,</p>
+  <p>Quae vitale ejus robur abstulit mordicus.</p>
+  <p>(55) Quamobrem misertum est me depereuntis hominis,</p>
+  <p>Illumque beluinis miserans excussi faucibus,</p>
+  <p>Priori denuo redditum incolumitati.</p>
+  <p>Ast vbi supremo, paruo post tempore, solio</p>
+  <p>Despicio terras. O dolor, O labor irritus,</p>
+  <p>(60) Omnes exorbitant in peius, defluunt timoris inanes,</p>
+  <p>Caeca peruersitas occupat omnia,</p>
+  <p>Quae sanam deuellit pectore mentem.</p>
+  <p>Aes malesuadum aurumque vitae perda,</p>
+  <p>In suum pellexit mortales arbitrium.</p>
+  <p>(65) Omens lethaeo epota poculo,<ptr target="#tn2" n="2"/></p>
+  <p>Commeministine in cruce expassi redemptoris?</p>
+  <p>Tui causa o homo fatum subiui ingratissime.</p>
+  <p>Ah, nefandus vitae tumor, &amp; scelesta cupido,</p>
+  <p>Et reliqua scelerata cohors, late per orbem</p>
+  <p>(70) Sparserunt mores &amp; sceptra regalia,</p>
+  <p>Septenis virgunculis violenter pulsis</p>
+  <p>Exilio, regnoque virtutibus actis.</p>
+  <p>(7)</p>
+  <p>1,1, 73-103. ACTVS I</p>
+  <p>Nuper candida venit queritans innocentia,</p>
+  <p><milestone unit="folio" n="Ava"/> Fas &amp; pietatem ill terris proscribi,</p>
+  <p>(75) Se probris exag.ftari maximis,</p>
+  <p>lmpune pessundari quicquid manauit olympo.</p>
+  <p>Iam plane perspicio, quo benignitas maior est mea<ptr target="#tn3" n="3"/></p>
+  <p>Et lenta vindicta, vluscrescit errantium vaesallia.</p>
+  <p>Quare haec mea stat sententia, metam</p>
+  <p>(80) Vt ponam sceleribus, &amp; meis calculum colonis,</p>
+  <p>Paululum si sinam voluptari, peius</p>
+  <p>Quam in beluam degenerabunt stolidam,</p>
+  <p>Et mutuo rapidis dissecabunt dentibus.</p>
+  <p>Extincta fides, atque edicta mea salutaria</p>
+  <p>(85) Spreta iacent: nemo est, qui faciat recolatque.</p>
+  <p>Optabam coelestis ruinae deserta reparare,<ptr target="#tn4" n="4"/></p>
+  <p>Sed spe abij mea, &amp; vacuis sedibus astra linquuntur.</p>
+  <p>Infelix homo, mlserum quem iuuat esse libenter.</p>
+  <p>O mors rerum omnium aequissima, vbi es?<ptr target="#tn5" n="5"/></p>
+  <p>(90) Quid cessas? coram adesto.</p>
+  <p>Animaduerte, quae tua opera perferri velim iussa.</p>
+  <p>MORS.</p>
+  <p>Ad nutum, maxime diuorum rector,<ptr target="#tn6" n="6"/></p>
+  <p>Praesto sum tibi paratissima; effare exequenda pater</p>
+  <p>Pennigero expediam gradu, etiam si plutonia</p>
+  <p>(95) Iubeas perrumpere claustra.</p>
+  <p>DEVS.</p>
+  <p>I rapido gressu ad Homulum, simulque</p>
+  <p>Illi ex me dicito, peregrillationi vt se praecingat ocyus,</p>
+  <p>Aqua mortalium nemillem vel prece vel precio</p>
+  <p>Eximi fas est, exactaeque vitae sine mora vt ponat rationem,</p>
+  <p>(100) Haec esse summi iudicis decreta, referto.</p>
+  <p>MORS.</p>
+  <p>Aeternum numen, tua dicta capesso<ptr target="#tn7" n="7"/></p>
+  <p>Imper &amp; rite, nec me labor iste grauabit</p>
+  <p>Nil Hercle hoc me delectat ludo amplius.</p>
+  <p>(8) HOMVLl I, 1,104-134.</p>
+  <p>O fortunata dies, O faustissima tempora,</p>
+  <p>(105) Hodie imperium nanciscor in terris latissimum.</p>
+  <p>Nunc leges condam regnatura meas,</p>
+  <p><milestone unit="folio" n="Avb"/> Efficiamque, ne quisquam temerarius vel temulentus</p>
+  <p>Audeat tempsisse, scio quibus vtar ipse flagellis,</p>
+  <p>Et quibus effodiam iaculis oculos &amp; cuspide iecur.</p>
+  <p>(110) Saepe tuli claros violens regiosque triumphos.</p>
+  <p>Quemlibet deijciam, licet Hectora spiret,</p>
+  <p>Vomentem tumido pectore flammas.</p>
+  <p>Quot nunc vndique gentium volupe victitant,<ptr target="#tn8" n="8"/></p>
+  <p>Praesertim diebus istis pergraecantur, commessantur,</p>
+  <p>(115) Genium colunt accuratius, &amp; bibunt meracius</p>
+  <p>Belle percipient, vbi imparatos occupauero periugulum.</p>
+  <p>Sed primum pergo ad Homulum mei negocij perferendi gratia,</p>
+  <p>Hic degit impudens prope bestia, liber a metu</p>
+  <p>Nec amat coelum, nec odit tartara.</p>
+  <p>(120) Terrestrem deum domi habet in arca.<ptr target="#tn9" n="9"/></p>
+  <p>Abcedo, vrget imperium tonantis.</p>
+  <p>Magne diespiter, quam Opportunus adest Homulus!<ptr target="#tn10" n="10"/></p>
+  <p>Quam minimum super aduentu pensitabit hic meo,</p>
+  <p>Heus Homule, hodie suspirabis grauiter,<ptr target="#tn11" n="11"/></p>
+  <p>(125) Hodie reddes multos seruare per annos per manum</p>
+  <p>Quod fortasse putabas. O Homule, quam fragilis hominum spes!
+  studet</p>
+  <p>Dies ista tibi nigro signanda lapillo</p>
+  <p>Aduehit ista dies discrimina mille.</p>
+  <p>Iudicium, tribunal, iudex deus, morantur te.</p>
+  <p>(130) Sed quo nunc properas tam candido vultu.</p>
+  <p>Venustoque redimitus habitu?</p>
+  <p>Quae te coelestium necat obliuio?</p>
+  <p>Scilicet hic superum cultus est?</p>
+  <p>HOMVLVS.</p>
+  <p>Quid isthaec rogitas?</p>
+  <p>(9)</p>
+  <p>I, 2, 135-156. ACTVS I</p>
+</div>
+<div type="level1" xml:id="scena-ii.">
+  <head>SCENA II.</head>
+  <p>MORS.</p>
+  <p>(135) Id scies quamprimulum, ausculta, paucis edocebo.</p>
+  <p>Imperatoria fungor legatione ex alto polorum</p>
+  <p>Vertice, maximus vbi coelituum pater multa gemit</p>
+  <p>Super humanitate, per abrupta vitiorum</p>
+  <p>Et aprica voluptatum depereunte.</p>
+  <p><milestone unit="folio" n="Avja"/> 140 Ille me misit ad te.</p>
+  <p>HOMVLVS.</p>
+  <p>Ad me?<ptr target="#tn12" n="12"/></p>
+  <p>MORS.</p>
+  <p>Ita plane.</p>
+  <p>Ne haesita. me vna verum nil magis est.</p>
+  <p>Seria sum, &amp; loquor, nil me iuuat garrire inaniter.</p>
+  <p>Deus quenquam sui oblitum haud negligit vnquam</p>
+  <p>(145) Arbiter aequus &amp; integer omnibus Homule semper,</p>
+  <p>Nec quisquam mortalium tam vafer est vel astutus, ora</p>
+  <p>Illius &amp; lynceos qui possit ocellos</p>
+  <p>Euasisse, videt omnia, coeloque terraque marique.</p>
+  <p>HOMVLVS.</p>
+  <p>Quid negocij habet mecum?</p>
+  <p>(150) Quid rerum postulor?</p>
+  <p>MORS.</p>
+  <p>Dicam, &amp; quidem satis</p>
+  <p>Dilucide, ne tibi haereat quid scrupuli,</p>
+  <p>Calculum vt ponas exacto symposio.</p>
+  <p>Crepusculascit vespera, nunc demum redeundum est</p>
+  <p>domum celeriter .</p>
+  <p>HOMVLVS</p>
+  <p>Non capio sermonis huius inuolucrum,<ptr target="#tn13" n="13"/></p>
+  <p>(155) Clarius effer, pensiculanda negocia tanti</p>
+  <p>Iudicisambiguis quis responsare querelis</p>
+  <p>10 HOMVLI 1,2,157-3,180.</p>
+  <p>Rite queat? quid hoc verbi est, domum redeundum vt sit mihi?</p>
+  <p>Cui id curae est, si quo minus redeam nunc?</p>
+  <p>MORS</p>
+  <p>Eruditiorem te ilico reddam, depone hominem,</p>
+  <p>(160) Completum est curriculum tui villicatus.</p>
+  <p>HOMVLVS.</p>
+  <p>Cuius villicatus?</p>
+  <p>MORS</p>
+  <p>O stolidum pecus,</p>
+  <p>Nil nouit crelestium hic homo terreus:</p>
+  <p>Quid sacra canat pagina. nequidem audiuit vnquam.</p>
+  <p>Sic totus fuit theatri comes circumforaneus,</p>
+  <p>(165) Nugigerulus, sedentarius, bibax, corinthiarius.</p>
+  <p>S[tulte. hac nocte rep]etent animam tuam.</p>
+  <p>[Hoc peregre proficisci oporte]t irreuocahili tramite.</p>
+  <p>[Quapropter pugillarem caution]um, chartasque papyrace;</p>
+  <p>[Deferto tecum ac prospice, vt] salua sint tibi omnia,</p>
+  <p>(170) [Quia immortali &amp; omniscio deo| rationem ponere
+  ineuitabilem cogit necessitas,</p>
+  <p><milestone unit="folio" n="Avjb"/> Quo tempora pacto duxisti rapido circumuoluta
+  rotatu,</p>
+  <p>Et quibus actibus vita est redempta nefandis,</p>
+  <p>Quae pietas superis gratissima, fastum</p>
+  <p>Reppulit, infernis piandum sulfureisque lacunis.</p>
+  <p>(175) Caeterum haec vna tibi spes est &amp; solatium.</p>
+  <p>Vt vltro capias, quod vitare non poles.</p>
+</div>
+<div type="level1" xml:id="scena-iii.">
+  <head>SCENA III.</head>
+  <p>HOMVLVS.</p>
+  <p>Eheu quam dura conditio, o crux inuisa.</p>
+  <p>Huius dandae rationis immemor vixi semper,</p>
+  <p>Nec fuit quicquam tam absens animo. quam res ista, meo.</p>
+  <p>(180) Sed quisnam es tu, qui hos adfers terrores atque
+  horripilationes?</p>
+  <p>(11)</p>
+  <p>I, 3, 181-211. ACTVS III</p>
+  <p>MORS.</p>
+  <p>Mors ego peccatorum pessima,</p>
+  <p>Aequalitatis normula cui cuncta parent</p>
+  <p>Humile meum pariter &amp; celsum caput:</p>
+  <p>Nam qui meis legibus non subiectus est, haud latet vsquam</p>
+  <p>(185) Sed nunc abde moras, per me hic calculus</p>
+  <p>Mandato principis discutiendus est</p>
+  <p>HOMVLVS.</p>
+  <p>O triste fatum. siccine properas? inopinanti</p>
+  <p>Ah nimium importuna venisti</p>
+  <p>Mitesce obsecro. huic necessitati conniueto.</p>
+  <p>(190) Mille dabo libras hodie auri rarissimi,</p>
+  <p>Mille minas argenti probatioris.</p>
+  <p>Istud si exiguum videbitur electri omnium preciosissimi</p>
+  <p>Mille addam sestertia, vt praesenti me solicitudine demas.</p>
+  <p>MORS.</p>
+  <p>Nequaquam Homule assentior tibi.</p>
+  <p>(195) Nunquam diuertam ab aequitatis itinere.</p>
+  <p>Non rerum opulentia, non augustissima regna,</p>
+  <p>Vel gemmarum praestantissima virtus,</p>
+  <p>Animum dimoueant me[um, spernit omnia fatum,]</p>
+  <p>Non papa eminentissimu[s]</p>
+  <p>(200) Vel ducum comitumque p[raeclarissima turba,]</p>
+  <p>Nec heros toto inuictiss[imus orbe],</p>
+  <p><milestone unit="folio" n="Avija"/> Nec tu quidem Homule hoc effugies iaculum.<ptr target="#tn14" n="14"/></p>
+  <p>Vos etiam spectatores spectatricesque belle* reperiam,</p>
+  <p>Vbi messem occepero demetere meam</p>
+  <p>(205) Si syluestris caprea, famelici venata leonis</p>
+  <p>Faucibus, eluctari se poterit, &amp; ipsi</p>
+  <p>Retibus meis vos pulchre expedietis.</p>
+  <p>O Homule, si me ista oblectarent,</p>
+  <p>lam olim medio r.hrep.us quicquid circunspicit axe</p>
+  <p>(210) In mea congestum haberem ditione, tametsi</p>
+  <p>Vtilissima rerum auri est possessio.</p>
+  <p>12 HOMVLI. I,3,212-4,239.</p>
+  <p>HOMVLVS.</p>
+  <p>Omnium infelicium infelicissimus ego,<ptr target="#tn15" n="15"/></p>
+  <p>Quo me nunc diuertam? quo pedem</p>
+  <p>Conferam animumque. meum,</p>
+  <p>(215) Auxilij &amp; rationis egentem?</p>
+  <p>Heu quo me vesania, quo dementia vexit?</p>
+  <p>Quid nunc actitem melius.</p>
+  <p>Quam gladio me iugulem meo?<ptr target="#tn16" n="16"/></p>
+  <p>Nempe quia schedula &amp; papyrus mea</p>
+  <p>(220) Neglecta, atque incustodita, &amp; obsoleta est,</p>
+  <p>Et muribus tineisque obesa, vt ne sententiam</p>
+  <p>Queas inde haurire quidem bonam</p>
+  <p>Nunc quo pacto possem absolutum dare calculum?</p>
+  <p>O stelliferi conditor poli,<ptr target="#tn17" n="17"/></p>
+  <p>(225) Si mihi fatales duo lustra sorores</p>
+  <p>Consensu parili praestent indulgenter ad aeuum,</p>
+  <p>Accuratissime operam darem resarciendis chartulis.</p>
+  <p>Et ordine digererem vaga debita.</p>
+  <p>O chara mors, suspende paulisper vindictam,</p>
+  <p>(230) Dum consulam paucis huic meae calamitati.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.">
+  <head>SCENA IIII.</head>
+  <p>MORS.</p>
+  <p>Nequicquam voces latum sparguntur in aera tristes.</p>
+  <p>Non delaenifica verba, non graues querimoniae,</p>
+  <p>Non minae truces, blandique precatus,</p>
+  <p>Te poterunt nostris hodie excussisse lacertis.</p>
+  <p>HOMVLVS.</p>
+  <p><milestone unit="folio" n="Avijb"/> 235 Vnum te rogito, vt sciam, facito,<ptr target="#tn18" n="18"/></p>
+  <p>Licebitne rursus commeare domum,</p>
+  <p>Simul ac computum fecero?</p>
+  <p>MORS</p>
+  <p>Minime, irreuocabilis est hic gradus</p>
+  <p>Aeterna lege fixum stabit. ab inferis n.emo redire potest.</p>
+  <p>I, 4, 240-266. ACTVS I 13</p>
+  <p>HOMVLVS.</p>
+  <p>(240) Magne pater superum, semper miserate dolentes</p>
+  <p>Adsis, &amp; hac grandi curdis me mole keuato</p>
+  <p>Sed .asne, est comitari quenquam,</p>
+  <p>Qui moerores consoletur meos?</p>
+  <p>MORS.</p>
+  <p>Vtique, si quis hominum l1os induet animos,</p>
+  <p>(245) Si quis intrepida gestat modo pectora laruis.</p>
+  <p>Acceleremus iter, ne seros verbera pungant.</p>
+  <p>Nam deus arbiter pro tribunali nos remoratur</p>
+  <p>Agedum, chartulas tecum deferto. vt testes</p>
+  <p>Sint tibi, albus an ater sis. satis vixisti</p>
+  <p>(250) Non enim donatus vitae, sed mutuatus eras.</p>
+  <p>Neque enim haec caduca &amp; fluxa,sed immortalia sectari,</p>
+  <p>HOMVLVS.</p>
+  <p>O caecum pectus, sola haec temporalia<ptr target="#tn19" n="19"/></p>
+  <p>Veras duxi semper diuitias.</p>
+  <p>MORS.</p>
+  <p>Cum tibi vivaces vegetent in vertice sensus</p>
+  <p>(255) Homule, nescio quae tanta fefellit</p>
+  <p>Cura voluptatum, nec subrepentia fata notasti!</p>
+  <p>De me dici solet, vocata atque non vocata venit.</p>
+  <p>HOMVLVS.</p>
+  <p>Vtinam usquam terrarum tam tutum</p>
+  <p>Inueniri possit asylum, quo ego</p>
+  <p>(200) Turbulentam hanc effugiam persecutionem.</p>
+  <p>Nullus me vno hodie foret laetior.</p>
+  <p>O chara mors, vnius inducias fautrix largire diei.<ptr target="#tn20" n="20"/></p>
+  <p>Vt mecum medlter peragenda, sciamque sodalis</p>
+  <p>Si quis fidus erit, qui me comitetur euntem.</p>
+  <p>MORS.</p>
+  <p>(265) Non equidem dabo<ptr target="#tn21" n="21"/></p>
+  <p>Nam satis induciarum est hic sermo prolixus,</p>
+  <p>14 HOMVLI I,4,267-II,1,290.</p>
+  <p>Heu quot saepe dedi momentaneas hac cuspide strages,</p>
+  <p><milestone unit="folio" n="Avjija"/> Fortia vibratu deieci cominus vno</p>
+  <p>Robora, dum nec vox, nec spiritus obstrepit vllus.</p>
+  <p>(270) Vltima namque dies stat ista parandis</p>
+  <p>Tuis Homule negocijs, sed paulisper</p>
+  <p>Intus abeo, vultusque occultabo meos.</p>
+  <p>Tu rem geras sapienter tuam &amp; celeriter.</p>
+</div>
+<div type="level1" xml:id="actvs-ii.">
+  <head>ACTVS II.</head>
+  <p>HOMVLVS. HANNIO, HIRTACVS. CANTAGER,</p>
+  <p>HARVNDIO. BELLEROPHON.</p>
+</div>
+<div type="level1" xml:id="scena-i.-1">
+  <head>SCENA I.</head>
+  <p>[HOMVLVS.]</p>
+  <p>Perditissimus omnium ego sum, qui in terra degunt<ptr target="#tn22" n="22"/></p>
+  <p>(275) Tantum mali gemitus &amp; molestiae obtulit iste dies
+  mihi.</p>
+  <p>O mea moestitudo perquam grauissima,</p>
+  <p>Vtinam hanc lucem intuitus essem nunquam,</p>
+  <p>Nec me parens edidisset hominem,</p>
+  <p>Communis participem &amp; mundialis aeris,</p>
+  <p>(280) Pessima ne haec calamitas obtunderet miserum.</p>
+  <p>Nondum solidioris aeui metas conspexi fragiles,</p>
+  <p>Et cogor adolescens loeti flebilem inire tramitem.</p>
+  <p>O coelum, O sidera, O dira necessitas,</p>
+  <p>Quam minimum isthuc mentem solebam conferre meam!<ptr target="#tn23" n="23"/></p>
+  <p>**</p>
+  <p>(285) Lusitabam indies, &amp; passim coruos sectabar
+  inaniter</p>
+  <p>Nympharum sponsus eram, choreasque ductiles</p>
+  <p>Optabam &amp; componebamgratus &amp; amabilis</p>
+  <p>Flosculos dabam odoriferos, similiterque accipiebam.</p>
+  <p>Opulentia rerum &amp; fortuna benignior,</p>
+  <p>(290) Suadebant omne scelus &amp; lasciuiam damnabilem.</p>
+  <p>II,1,291.322. ACTVS II 15</p>
+  <p>Vir voluptatum eram, virtutum negligens.</p>
+  <p>Denique tot benefacta &amp; mores congessi probos,</p>
+  <p>Quot vola pilos haec habet intimos.</p>
+  <p><milestone unit="folio" n="Aviijb"/> O caecus amor mundi. tantos qui mergit in alta<ptr target="#tn24" n="24"/></p>
+  <p>(205) Tartara, tantosque animos excludit ab astris.</p>
+  <p>Clementissime pater, quamtuto sita esset,</p>
+  <p>Quae nunc iniquiori sedet loco, vita mea.</p>
+  <p>Si me ad sanctae religionis contubernia</p>
+  <p>Appulissem, abiectosque fratrum conuentus,</p>
+  <p>(300) Et caluus, &amp; glaber, &amp; lignipes,</p>
+  <p>Et colore griseo despicabilis,</p>
+  <p>Superas nunc possem euadere ad auras</p>
+  <p>Sed quia inulta queror, &amp; saucia</p>
+  <p>Pectora diris vulneribus lacero,</p>
+  <p>(305) Ah tempus abit volucri fuga.</p>
+  <p>Iam titania lampas medio declinat ab axe,<ptr target="#tn25" n="25"/></p>
+  <p>Et nigras festillat ad vmbras:</p>
+  <p>Quem modo sanctorum solicitabo prece?</p>
+  <p>Coelum aeIleum est, &amp; obsurduit miserorum aerumnis.</p>
+  <p>(310) Homule, spem tui bonam non habeo.<ptr target="#tn26" n="26"/></p>
+  <p>Veruntamen iam ibo. aliud tentaturus auxilium,</p>
+  <p>Dulce meum pulsabo sodalitium,</p>
+  <p>Blandamque (dum sospes eram familiaritatem.</p>
+  <p>Hos ego conueniam, &amp; exorabo,</p>
+  <p>(315) Vt huius peregrinationis meae se socios applicent.</p>
+  <p>Nemo, vt aestimo, refragabitur.</p>
+  <p>Tam chara dudum contraximus amicitiarum foedera.</p>
+  <p>Sed miror, quod hodie nullus inuisit me.</p>
+  <p>Pergam ipse ad eos ocyus, vt sciam<ptr target="#tn27" n="27"/></p>
+  <p>(320) Saluete, quotquot adestis amici sodales.</p>
+  <p>Optati quidem huc aduentatis.</p>
+  <p>Nam ego ad vos gradum conuerteram meum.</p>
+  <p>(16) HOMVLI n,2,323-346.</p>
+</div>
+<div type="level1" xml:id="scena-ii.-1">
+  <head>SCENA II.</head>
+  <p>HANNIO.</p>
+  <p>Et tu Homule salue festiuissime.</p>
+  <p>Quid causae est. quod hodie nusquam pedem contuleris?</p>
+  <p>(325) Quid ita domi desides ?</p>
+  <p>Saluane sunt omnia ?</p>
+  <p><milestone unit="folio" n="Bja"/> Quis malus satan te disturbauit cardine tuo?</p>
+  <p>HOMVLVS.</p>
+  <p>Emota sunt, confracta sunt,</p>
+  <p>Illimica sunt omnia et improspera mihi.</p>
+  <p>(330) Quod nunquam animo volutum est. hodie vulnerauit
+  grauiter.</p>
+  <p>HANNIO.</p>
+  <p>Quis tantus dolor deiecit</p>
+  <p>Vultum pallentesque genas? effare obsecro,</p>
+  <p>Mihi palam facito hanc animi pestem tui.</p>
+  <p>Curabo, superis fauentibus. Si res postulet,<ptr target="#tn28" n="28"/></p>
+  <p>(335) Comes ero tibi per medios erebi tutissimus ignes,</p>
+  <p>Vel phlegetontaeas inconcussus ad vndas.</p>
+  <p>Nil metuas, abiectis, animo cape gaudia, curis.</p>
+  <p>HOMVLVS</p>
+  <p>Audacter loqueris. amo te, amicus es Hannio,</p>
+  <p>At ego perij radicitus.</p>
+  <p>HANNIO.</p>
+  <p>(340) Ne spem ipse tibi reseca, mihi aus(~ulta.</p>
+  <p>Ex me vno salus hodie reparabitur tua.</p>
+  <p>Tantum huius disturbij caput ne celes.</p>
+  <p>Si quis mortem imprecatus est hodie, funus erit,</p>
+  <p>Etsi me {vt verum proloquar)<ptr target="#tn29" n="29"/></p>
+  <p>(345) Aduerso contingat simul enecari gladio.</p>
+  <p>HOMVLVS.</p>
+  <p>Noui animi tui ingenuum decorem.</p>
+  <p>II,2,347-II,3,370. ACTVS II 17</p>
+  <p>HANNIO.</p>
+  <p>Quid decorem? rem mihi pande.</p>
+  <p>Vt hoc voraci te liberem tristitiae barathro.</p>
+  <p>HOMVLVS.</p>
+  <p>Si tibi detegam vulnus meum</p>
+  <p>S50 Atque diros animi moerores,</p>
+  <p>Vereor ne horrori8 immanitate</p>
+  <p>Aut remedij difficultate territem te.</p>
+  <p>Sicque crudeliorem reddam mihi</p>
+  <p>Destitutus amicis aegritudinem.</p>
+  <p>(855) Habeo tibi gratias Hannio.</p>
+  <p>HANNIO.</p>
+  <p>Syncerus sum &amp; absque dolot</p>
+  <p>Candidus &amp; sine stybio verbi factor.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-1">
+  <head>SCENA III.</head>
+  <p>HOMVLVS.</p>
+  <p>Praeclara dicis &amp; quidem fraterna,</p>
+  <p><milestone unit="folio" n="Bjb"/> Necvnquam teaut periurij aut vanitatis suspectum
+  hahui.</p>
+  <p>HIRTACVS.</p>
+  <p>(360) Homule mi, nunquam secus de me dici poterit.<ptr target="#tn30" n="30"/></p>
+  <p>Et quidem duos hoc calamo scriptitio</p>
+  <p>Dormitum composuit nunc addam tertium.</p>
+  <p>Tantummodo prode hominem nomine,</p>
+  <p>Qui hanc in te exercuit fabricam.</p>
+  <p>HOMVLVS.</p>
+  <p>(365) Non equidem diffido tibi,</p>
+  <p>Meritas deferant tibi numina grates.</p>
+  <p>Nonnihil accreuit animi, hac adiutrice</p>
+  <p>Atque praepugnaci eloquentia.</p>
+  <p>HIRTACVS.</p>
+  <p>Esto fidens animi, neve<ptr target="#tn31" n="31"/></p>
+  <p>(370) Muliebri virum collutules.</p>
+  <p>18 HOMVLI II,3,371-II,4,300.</p>
+  <p>Mascula virtus impauido fert pectore casus.</p>
+  <p>Explorant aduersa viros.</p>
+  <p>Quo te cunque trahit, sequar, ista tempestas.</p>
+  <p>HOMVLVS.</p>
+  <p>Acceptum habeo mi Pylades.</p>
+  <p>(375) Si me superstitem fata seruauerint, scies aliquando</p>
+  <p>In quem collocaueris beneuolentiam.</p>
+  <p>HANNIO.</p>
+  <p>Conticesce ab 3gendis gratijs,</p>
+  <p>At potius experire, si quis praestabit gratiam</p>
+  <p>Nam ego indignum arbitror<ptr target="#tn32" n="32"/></p>
+  <p>(380) Recenseri sodalis nomine, qui c~ndidus ore,</p>
+  <p>Ast ubi opus est opera, cancros imitatur.</p>
+  <p>Quare si te adiutari desideres,</p>
+  <p>Diutius ne celatum velis. nam quicquid</p>
+  <p>Mihi vni dixeris, amico dixeris integerrimo.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-1">
+  <head>SCENA IIII.</head>
+  <p>HOMVLVS.</p>
+  <p>(385) Hannio, deuicit me amor tuus</p>
+  <p>Et ahaena tui confidentia. enarrabo tibi</p>
+  <p>Et altos lingososque pectoris explicabo recessus.<ptr target="#tn33" n="33"/></p>
+  <p>Peregrinari me oportet locis arduis</p>
+  <p>Simulque longinquis, &amp; itineris sum ignarus,</p>
+  <p>(390) Nec fas est differre vel diem vnum,</p>
+  <p>Sed auspicari oportet gradum,</p>
+  <p>(Bija) Antequam huius noctis tempus labatur tempestum</p>
+  <p>Etiam denunciatum est mihi faciundi</p>
+  <p>Calculi irrefragabile mandatum: nec via,</p>
+  <p>(395) Nec modus est vllus, quo me queam subducere.</p>
+  <p>Nam maximus coelicolarum pater,</p>
+  <p>Qui terris solo imperitat nutu, coeloque renutu</p>
+  <p>(7) Accersiuit: idcirco tecum reputes,</p>
+  <p>Si hanc mecum dignaberis partiri methodum.</p>
+  <p>(19) n, 4, 400-427. ACTVS II</p>
+  <p>HANNIO.</p>
+  <p>(400) Aequum est stare pollicitis, &amp;</p>
+  <p>Inuiolatam seruare sodalium fidem,</p>
+  <p>Plane fateor, nec inficiabor vnquam,</p>
+  <p>Me spopondisse comitem tibi.</p>
+  <p>Sed si ob peregrinationem tantum laboris</p>
+  <p>(405) Et ignoti itineris capesserem.</p>
+  <p>Taederet me lassitudinis, &amp;</p>
+  <p>Huius petitionis exhorrescerem verba.</p>
+  <p>Veruntamen volumus melioris amici fungi munere,</p>
+  <p>Necnon consultare super postulatis desiderijs.</p>
+  <p>HOMVLVS.</p>
+  <p>(410) O compar &amp; collega meus,</p>
+  <p>Itane claudicat &amp; vacillat magnificus ille sermo,</p>
+  <p>Quem coram his testibus protulisti praesentissimum?</p>
+  <p>Cedo, nonne contestatus es, mei causa</p>
+  <p>Vel inferos subire, vel morte ipsa depasci prius,</p>
+  <p>(415) Quam me incomitatum relinquere, si te flagitassem?</p>
+  <p>HANNIO.</p>
+  <p>Ita me Hercle fecissem.</p>
+  <p>At nunc ista me terret formidolosa conditio,</p>
+  <p>Et ancipites viarum anfractus.</p>
+  <p>Sed esto, arripiamus iter hodie.</p>
+  <p>(420) Quando acce]erabimus reditum?</p>
+  <p>Si etiam ingens sulcabimus aequor?</p>
+  <p>HOMVLVS.</p>
+  <p>Non aequor, sed mare acerrimum,</p>
+  <p>Nullis vnquam remeabile ratibus.</p>
+  <p>CANTAGER.</p>
+  <p>Sane Homule, ego tecum proficisci nolo.</p>
+  <p><milestone unit="folio" n="Bijb"/> 425 Nimis sum pelagi metuens, Charybdin,</p>
+  <p>Syrtim, Scyllaeque voraginem, caeteraque</p>
+  <p>Maris discrimina horresco recitans.</p>
+  <p>(20) HOMVLl II, 4, 428-457.</p>
+  <p>Sed centuplo magis expauesco, quod remeare non licebit</p>
+  <p>Quo tandem perueniendum est, aut tigenda ancora?</p>
+  <p>(430) Quis huius nuncij tabellio fuit?</p>
+  <p>HOMVLVS.</p>
+  <p>O miseranda necessitas,<ptr target="#tn34" n="34"/></p>
+  <p>Mors omnium malorum maxima,</p>
+  <p>Pestis atrocissima, laruarum longe teterrima,</p>
+  <p>Difforme &amp; inexorabile monstrum.</p>
+  <p>CANTAGER.</p>
+  <p>(435) 0 diua &amp; olympica numina, quid audio?</p>
+  <p>Fuitne mors huius internuncia rei,</p>
+  <p>Mreroris &amp; tartarei fellis freculldissima lues?</p>
+  <p>Huius commercium non secus deuito,</p>
+  <p>Atque ipsum atrum daemona,</p>
+  <p>(440) Seu orcum nocentibus infestissimum.</p>
+  <p>Si dones aurum quantum amplissima</p>
+  <p>Terra capax est, nihil ducam,</p>
+  <p>Si hoc odiosum queam effugere portentum.</p>
+  <p>Tantum abest Homule, vt tecum accingar peregrinationi .</p>
+  <p>HOMVLVS.</p>
+  <p>(445) Attamen vt pollicitis tidelioribus</p>
+  <p>Me munitum aestimabam firmiter,</p>
+  <p>Verum, vt video, innixus sum arundineo calamo,</p>
+  <p>Qui me incumbentem fallaci hallucinatus est specie.</p>
+  <p>Spes mea fluctibus illocata est mobilibus,</p>
+  <p>(450) Et abijt ventis exagitata inalignis.</p>
+  <p>Haeccine tides mihi promissa est?</p>
+  <p>CANTAGER.</p>
+  <p>Non diffiteor, sodalem me spopondisse paratissimum,</p>
+  <p>Siquidem compotandum si esset ad lucem<ptr target="#tn35" n="35"/></p>
+  <p>Vel vsque matutinam, vel totos vsque dies</p>
+  <p>(455) Si epularum dies extra moenia condictus esset,</p>
+  <p>Libenter irem : aut chorus puellarum inuitaret vspiam,</p>
+  <p>A latere tuo disccderem nunquam.</p>
+  <p>(21) ll,5,458-485. ACTVS II</p>
+</div>
+<div type="level1" xml:id="foliobiija-scena-v.">
+  <head><milestone unit="folio" n="Biija"/> SCENA V.</head>
+  <p>HOMVLVS.</p>
+  <p>Recte profiteris, libenter quidem illo</p>
+  <p>Concedebas &amp; vltroneus horis omnibus,</p>
+  <p>(400) Nec chlamydem tibi diuellere opus erat.</p>
+  <p>Si te ad festos expeterem dies, si ad prophana bacchanalia,</p>
+  <p>Nil remoraretur o Cantager iter tuum.</p>
+  <p>LVSITOR</p>
+  <p>Nec ego medius fidius hoc calle tecum congredi volo,</p>
+  <p>Neque vnquam tam eleganter concionaberis,</p>
+  <p>(465) Vt vulpeculam ad aegrotum introducas leonem.</p>
+  <p>Si cupis argenti sitibundam visere Romam,</p>
+  <p>Vel aliud lustrare solum, nil detinet; assum.</p>
+  <p>Si quis te odio aemulatur iniquo, vindicabo acerrime,</p>
+  <p>Et ita me deus amet, tenus vmbilico diffindam medium,</p>
+  <p>(470) Etiam si coelum contingat vertice.</p>
+  <p>HOMVLVS.</p>
+  <p>Lusitor, quorsum ista iactanter?</p>
+  <p>Quando aurum postulo mutuari mihi,</p>
+  <p>Tu frenum ingeris, quo nihil opus est.</p>
+  <p>Istud non est praesenti succurrere malo,</p>
+  <p>(475) Diuertisti animum pariter atque operam ab amico.</p>
+  <p>Recole obsecro, atque reminiscere illius quondam</p>
+  <p>Cont ractae familiaritatis, incorruptaeque fidei.</p>
+  <p>Ah nimis verum est, aduersitate amicos propari.</p>
+  <p>LVSITOR.</p>
+  <p>Siue fidem, siue familiaritatem vlulas,</p>
+  <p>(480) Vtrique renuncio, tui satur sum, satis verborum
+  aggerasti.</p>
+  <p>HOMVLVS.</p>
+  <p>Hei misero mihi, at vnam saltem</p>
+  <p>Petitiunculam o amantissimi sodales sinite ut exorem.</p>
+  <p>Obambulate mecum, animoque succedite,</p>
+  <p>Et aeternum vale dicite ad vltimos</p>
+  <p>(485) Duntaxat portarum cardines, en obsecro.</p>
+  <p>.</p>
+  <p>22 HOMVLI II,5,486-502.</p>
+  <p>HARVNDIO.</p>
+  <p>Per sanctum Osyrim, ne vestigium quidem aut latum pedem,</p>
+  <p>Dum tuos spiritus vitales motitasset artus,</p>
+  <p>Nulla vnquam tam acerba fortuna obtigisset,</p>
+  <p>Quae me tui Homule faceret desertorem.</p>
+  <p><milestone unit="folio" n="Biijb"/> 490 Nunc te coeleste comitetur praesidium</p>
+  <p>Abeundum est mihi, te valere cupio.</p>
+  <p>HOMVLVS.</p>
+  <p>Quid tu Bellerophon meum suauium, meaque ludicra,</p>
+  <p>Vin te comitem praebere mihi?</p>
+  <p>BELLEROPHON.</p>
+  <p>Quo?</p>
+  <p>Ad suburbana virginum comitia! ad vespertinas iuuencularum</p>
+  <p>(495) Excubias? placet, lubens veniam.</p>
+  <p>HOMVLVS.</p>
+  <p>Commonstrabo</p>
+  <p>Tibi: mihi te iunge socium, vt soles, bellissimus assecla.</p>
+  <p>Versus occidentem gradiemur, ad speluncam ultimam, quid stas?</p>
+  <p>Via haec nota est, hoc iter est vniversae carnis.</p>
+  <p>BELLEROPHON.</p>
+  <p>Quid ibi agendum est? an belle curabimus</p>
+  <p>(500) Cuticulam? convivia et symbola sodalitia si etiam
+  parabimus?</p>
+  <p>HOMVLVS.</p>
+  <p>Hecates coena nunquam deerit.</p>
+  <p>BELLEROPHON.</p>
+  <p>Ibi etiam</p>
+  <p>Formosae veneres?</p>
+  <p>HOMVLVS.</p>
+  <p>Millia formosarum.</p>
+  <p>II,5,503-517. ACTVS II 23</p>
+  <p>BELLEROPHON.</p>
+  <p>Sed age, effare etiam modo, si a breuiusculo tempore redibimus.</p>
+  <p>HOMVLVS.</p>
+  <p>Nunquam profecto.</p>
+  <p>BELLEROPHON.</p>
+  <p>Aegre &amp; grauiter hoc</p>
+  <p>(505) Verbum illabitur mihi, hic volo apud meos sodales
+  1aetos</p>
+  <p>Consumere dies. Quemuis alium tibi nanciscare viatorem.</p>
+  <p>HOMVLVS.</p>
+  <p>Hic adolescentulus praecoci perditus lasciuia omni se<ptr target="#tn36" n="36"/></p>
+  <p>Oblectamento a primis anniculis dedidit, ob incuriam parentum.</p>
+  <p>Edoctus est plenos epotare calices, lautissime per omnes epulari
+  dies.</p>
+  <p>(510) Peierare, audere quicquid alter, vel triplo aetate
+  grandior:</p>
+  <p>BELLEROPHON.</p>
+  <p>Si contumeliose &amp; praue loqui iuuat, ipse sat</p>
+  <p>Habes quod de te praedices, mihi tuo praeconio nihil opus est.</p>
+  <p>HOMVLVS.</p>
+  <p>Deumneque homines curare, obscoenis assuescere, nvcticoraces
+  agitare.</p>
+  <p>Nulli quod lubitum est abstinere. Ah sero ille, vt ego, sapiet
+  <ptr target="#tn37" n="37"/></p>
+  <p>(515) Nulla infirmiora praesidia, quam amicos esse.</p>
+  <p>Itane diffugitis? Siccine ad vnum omnes?</p>
+  <p>Nunquam magis solus fui, quam hodie, infelix ego disperij.</p>
+  <p>(24) HOMVLI III,1,&amp;18-D4i3.</p>
+  <p>Lbiiija]</p>
+</div>
+<div type="level1" xml:id="actvs-iii.">
+  <head>ACTVS III.</head>
+  <p>HOMVLVS. MEGARIVS, PAMPHILVS, TRABILIO, CONFRANEVS,</p>
+  <p>LICAMBEVS, ABAGARDUS,</p>
+  <p>CLATRIA, HELBIA, OLENDRIA. PHYLLIRIA.</p>
+</div>
+<div type="level1" xml:id="scena-i.-2">
+  <head>SCENA I.</head>
+  <p>[HOMVLVS.]</p>
+  <p>Omnium qui terras incolunt, nemo<ptr target="#tn38" n="38"/></p>
+  <p>Me vno expertus est magis hominum fidem</p>
+  <p>(520) Instabilitate longe peruincunt populare folium.</p>
+  <p>Quos ego intraneo amore copulatos aestimabam,</p>
+  <p>Execrandae infidelitatis sese detegunt fabricatores.</p>
+  <p>Mox vt nimbosa exoritur procellula,</p>
+  <p>Fugaciores euro effugitant vel tigride.</p>
+  <p>(525) Si mundo adhuc pollerem spectabilis,</p>
+  <p>Auri diues &amp; rerum praepotens,</p>
+  <p>Tot me stiparent amici, quot fert polus astra:</p>
+  <p>Alluderent suauiter. inseruirent studiosius.</p>
+  <p>At nunc lachrymantem nemo consolatur,</p>
+  <p>(530) Egeno vel adminiculatur Homulo.</p>
+  <p>Nequaquam amici sunt, sed mendicabula atque ventriculi.</p>
+  <p>O sententiam coelestibus depromptam bibliothecis:</p>
+  <p>Personatum hominem, si cupis agnoscere, calamitosus fias.</p>
+  <p>Quem ista doceri nequeunt, talpa est caecior:</p>
+  <p>(535) Plumbeus est, insensatus est, truncus est iners</p>
+  <p>Qui malo venturo non prospicit suo</p>
+  <p>Quo miser ibo? quem reliquum deposcam adiutorem?</p>
+  <p>Scio, necessarios &amp; vnius sanguinis propagines,</p>
+  <p>Quos etiam inuitos Datura pertrahit ad succurrendum,</p>
+  <p>(540) Solicitabo. vrgebo precibus, &amp; quidem impensius,</p>
+  <p>Cognatos omnes vt adessint hodie.<ptr target="#tn39" n="39"/></p>
+  <p>Nec segniter cessandum est mihi.</p>
+  <p>Noui quis me intro expectat grauiter.</p>
+  <p>III,1,544-2,568. ACTVS III 25</p>
+  <p>Amiculi consanguinei,quid rerum agitis?</p>
+  <p><milestone unit="folio" n="Biiijb"/> 545 Vbinam locorum estis? adeste, quaeso.</p>
+  <p>MEGARIVS.</p>
+  <p>Adsumus Homule nepos, tuis negocijs</p>
+  <p>Atque desiderijs semper obsequentissimi, quid causae habes?</p>
+  <p>PAMPHILVS.</p>
+  <p>Homule, si me aut meis facultatibus</p>
+  <p>Opus est, vtere: pelle pudorem inutilem tibi.</p>
+  <p>(550) Fare inter amicos liberrime tuos</p>
+  <p>MEGARIVS.</p>
+  <p>Quid mali obtigit?</p>
+  <p>Hilariori esse fronte consueras, age palam</p>
+  <p>Mihi facito, rem, vti est. enarra mihi<ptr target="#tn40" n="40"/></p>
+  <p>Quod auro propulsari nequit, gladio forte poterit</p>
+  <p>(555) Si quis iniuriatus est, hos duos tecum</p>
+  <p>Sume clientulos, atque illi iecur effodias.</p>
+  <p>PAMPHILVS</p>
+  <p>Propinquos genere, oportet</p>
+  <p>Mutuo defensare &amp; prodesse inuicem.</p>
+</div>
+<div type="level1" xml:id="scena-ii.-2">
+  <head>SCENA II.</head>
+  <p>HOMVLVS</p>
+  <p>Benigni estis, babetur gratia.</p>
+  <p>(560) Venjo ad VOS, vt paucis dicam,</p>
+  <p>Graui oppressus amaritudine.</p>
+  <p>Eminentissimus ille siderum conditor.</p>
+  <p>Legato denuncjauit mihi. peregre vt proficiscar</p>
+  <p>Quamprimum porrectioribus spatijs,</p>
+  <p>(565) A quibus nec fas est referre gradum.</p>
+  <p>Insuper calculanda est huius deductio vitae,</p>
+  <p>Omnium difficillima, ante iudicis conspectum.</p>
+  <p>TRABILIO.</p>
+  <p>Calculanda? tibine? quo pacto?</p>
+  <p>26 HOMVLI III,2,569-592.</p>
+  <p>HOMVLVS.</p>
+  <p>De villicatus regij gubernatione possessa,</p>
+  <p>(570) Et quibus indulta saluti tempora traduxerim actibus</p>
+  <p>Reliquisque mortalium accommodatis rebus, vt locatae sint.</p>
+  <p>Hac mecum vt pergas, ob nixe supplico,</p>
+  <p>Meumque calculum, vbi iniquior erit, ad purum supputes.</p>
+  <p>TRABILIO.</p>
+  <p>Quid? vt tecum pergam?</p>
+  <p>CONFRANEVS.</p>
+  <p>(575) Proh, istane sorbitio</p>
+  <p>Tibi decocta est Homule?</p>
+  <p>Profecto aliud mente concepi, aliunde inuitatus sum</p>
+  <p>TRABILIO.</p>
+  <p><milestone unit="folio" n="Bva"/> Vertex mihi prurit ab ista cantilena.</p>
+  <p>Parcius deinceps promittendum censeo.</p>
+  <p>CONFRANEVS.</p>
+  <p>(580) Pestilens &amp; detestanda res est simulatio.</p>
+  <p>ldcirco ex animo dicam m~am sententiam.</p>
+  <p>Semper ego fui exiguo corde, timor prostrauit me</p>
+  <p>Nimis ego sum meticulosus</p>
+  <p>Sed si comnlodum videbitur, tecum dabo</p>
+  <p>(585) Ancillam comitem libenter, nam &amp; illa</p>
+  <p>Nuptiarum percupida est atque spectaculorum.</p>
+  <p>LICAMBEVS.</p>
+  <p>Itidem atque ego proloquor,</p>
+  <p>Nondum dimidio viae peracto. mihi spiritus fathisceret,</p>
+  <p>Ita sum &amp; semper Cui pauido pectore rebus gerendis.</p>
+  <p>HOMVLVS.</p>
+  <p>(500) Siccine destituitis miserum misere?</p>
+  <p>ABAGARDVS</p>
+  <p>Homule, ne quid age praecipiti mente.</p>
+  <p>Res Don parua est. voluta iterum atque iterum.</p>
+  <p>III,2,593-3,618. ACTVS III 27</p>
+  <p>Nec itur ad puellaria tripudia</p>
+  <p>Vtricularesque tibias, vt heri &amp; nudiustertius.</p>
+  <p>HOMVLVS</p>
+  <p>(595) Missum facito ambages atque moras.</p>
+  <p>Vt animus est, ita quoque lingua canat.</p>
+  <p>LICAMBEVS.</p>
+  <p>Consultandi diem capio, ardua res est,</p>
+  <p>Quae pensiculari debet, nec stulta temeritate aggredi.</p>
+  <p>ABAGARDVS.</p>
+  <p>Recte quidem comperendinandum est.</p>
+  <p>(600) Nam &amp; paranda sunt calceamenta &amp; vtres
+  ciliarij,</p>
+  <p>Caeteraque longi itineris viatica.</p>
+  <p>HOMVLVS.</p>
+  <p>Isthaec verba sunt atque diuerticula infidorum.</p>
+  <p>Quam pulchre speraui inaniter.</p>
+  <p>Multa pollicitantur homines &amp; magnifica.</p>
+  <p>(605) Ast vbi venit angustia, faciunt nihil.</p>
+  <p>LICAMBEVS.</p>
+  <p>Nepos, proficiscere bonis auibus</p>
+  <p>Et telici sidere, non vacat mihi in praesentiarum</p>
+  <p>Absistere domo, meisque occupationibus.</p>
+  <p>Retentant me mea negocia,</p>
+  <p>(610) Nam libellus meus ratiocinarius</p>
+  <p><milestone unit="folio" n="Bvb"/> Intortus est &amp; incultus &amp; deformi
+  charactere.</p>
+  <p>Itaque satius esse reor, ista domi digerere.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-2">
+  <head>SCENA III.</head>
+  <p>HOMVLVS.</p>
+  <p>Cognatos apprime nunc cognoui meos.</p>
+  <p>Natiui moriones, non sunt moriones .</p>
+  <p>(615) Verus ego stultus sum &amp; morio,</p>
+  <p>Qui spem locaui apud homines meam.</p>
+  <p>O coelum, O sidera, O rector aetherei culminis,<ptr target="#tn41" n="41"/></p>
+  <p>Perij amissa est salutis ancora.</p>
+  <p>28 HOMVLI III,3,619-642.</p>
+  <p>CLATRIA.</p>
+  <p>Homule, quid rei est? quidnam</p>
+  <p>(620) Haec tam turbulenta vociferatio queritur?</p>
+  <p>Quamobrem mihi non indicasti,</p>
+  <p>Vt mater ego tibi sim, vt fui semper?</p>
+  <p>HOMVLVS.</p>
+  <p>Nec statio, nec sessio tuta est mihi hodie.</p>
+  <p>OLATRIA.</p>
+  <p>Stultescis plus satis.</p>
+  <p>HOMVLVS.</p>
+  <p>Verax es.</p>
+  <p>CLATRIA.</p>
+  <p>(625) Si ad me detulisses primitus hanc tui pectoris
+  vomicam,</p>
+  <p>Dicto citius emancipassem te.</p>
+  <p>Merito accidit tibi, quod dici solitum est.</p>
+  <p>Sua mora cuilibet nociua est homini.</p>
+  <p>HOMVLVS.</p>
+  <p>Nimis sum ego miser &amp; expes.</p>
+  <p>CLATRIA.</p>
+  <p>(630) Tace, desine ita proloqui.</p>
+  <p>Dum mihi vita comes erit, nullius egentem</p>
+  <p>Seruabo. contuebor, si quis vnquam impia inuaserit manu.</p>
+  <p>Nepos, non tam chara sunt haec pignora mea,</p>
+  <p>Quam tu, animo meo Deum inuoco testem,<ptr target="#tn42" n="42"/></p>
+  <p>(635) Tecum viuam moriarque fidelis</p>
+  <p>Pande, quaeso, hunc tantum dolorem</p>
+  <p>HELBIA.</p>
+  <p>Nepos, ab ipsis incunabulis</p>
+  <p>Praecipuum erga te gessi amorem:</p>
+  <p>Nec possem non lachrymis manare,</p>
+  <p>(640) Si quippiam hodie contingeret mali tibi.</p>
+  <p>Nulla tam saeua oboriri poterit tempestas,</p>
+  <p>Quae nos disseparet aut diuellat vnanimes.</p>
+  <p>III,3,643-4,664. ACTVS III 29</p>
+  <p>HOMVLVS.</p>
+  <p>Lubens isthaec audio.</p>
+  <p>CLATRIA.</p>
+  <p><milestone unit="folio" n="Bvja"/> Et quidem faciemus ex animo promptissime.</p>
+  <p>OLENDRIA.</p>
+  <p>(645) Cognita tibi sum Homule,</p>
+  <p>Nec opus est vt me ipsam iactitem.</p>
+  <p>Hoc enim (quia foemina sum) scio satis.</p>
+  <p>At si quis improbus tibi technas machinaretur,</p>
+  <p>Aut fralldem moliretur. virum</p>
+  <p>(650) Me aedepol sentiet atque leaenam.</p>
+  <p>PHYLLIRIA.</p>
+  <p>Si dimidiumanimae desideres meae,</p>
+  <p>Ita me deus amet, donabo libenter .</p>
+  <p>Tanti te habeo (tantus amor in te meus est)</p>
+  <p>Et amicos omnes nostri generis &amp; sanguinis.</p>
+  <p>HOMVLVS.</p>
+  <p>(655) Deus optumus tibi reddat vicissitudinem.</p>
+  <p>CLATRIA.</p>
+  <p>Semperne celabis intra te edacissimam</p>
+  <p>Hanc pestem? obsecro vt edicas mihi.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-2">
+  <head>SCENA IIII.</head>
+  <p>HOMVLVS.</p>
+  <p>Exhilarasti me paulul!1m dicam.</p>
+  <p>Calcululli humanorum operum a deo postulatus sum,</p>
+  <p>(660) Et hodie proficisci oportet, vt abso]uam ocyus..</p>
+  <p>Huius rei improuidllS vixi semper &amp; negligens.</p>
+  <p>Qua in re rogatam te habeo. vt congrediaris mihi .</p>
+  <p>CLATRIA.</p>
+  <p>Vbinam discutiendus erit hic calculus?</p>
+  <p>HOMVLVS.</p>
+  <p>Ante tribunal iudicis</p>
+  <p>30 HOMVLI III,4,664-IV,1,688.</p>
+  <p>CLATRIA.</p>
+  <p>Eheu, tribunal?</p>
+  <p>(665) Vereor ne maritus succenseat, si vspiam</p>
+  <p>Absque illius nutu me contulerim.</p>
+  <p>Pergam ad inuestigandui:n illius animum.</p>
+  <p>Et siquidem ilico non reroearo, poscentem scies retrusam.</p>
+  <p>Homule, bene vale, forti esto animo.</p>
+  <p>HOMVLVS.</p>
+  <p>(670) Omnes vno ore loquuntur grandia.</p>
+  <p>Et omnes vno more faciunt nihil.</p>
+  <p>Sperabam muliebrem animum,</p>
+  <p>Vt clementiorem, inflectere ah Homule,<ptr target="#tn43" n="43"/></p>
+  <p>Mortalium nulla labellis est adhibenda fides.</p>
+  <p>(675) Pollicentur verbo, quod vafro corde negant,</p>
+  <p>Mellituli veniuIit sciscitantes omnes simul,</p>
+  <p><milestone unit="folio" n="Bvjb"/> &quot;Nepos, si qua re opus est, suppeditabimus:</p>
+  <p>Si infortunium accidit, opibus nostris medebimur.&quot;</p>
+  <p>Et id genus mille mendaciorum</p>
+  <p>(680) Belle nouimus. certe nihil est, certe vent us inanis
+  est.</p>
+  <p>Sed quid nunc tentabo spe melioris successus?<ptr target="#tn44" n="44"/></p>
+  <p>Nescio. paulisper Intus mecum meditabor,</p>
+  <p>Si quid consilij queam reperire mihi.</p>
+</div>
+<div type="level1" xml:id="actvs-iiii.">
+  <head>ACTVS IIII.</head>
+  <p>HOMVLVS, OPVLENTIA.</p>
+</div>
+<div type="level1" xml:id="scena-i.-3">
+  <head>SCENA I.</head>
+  <p>Non sum, ut arbitror, (secundet deus)</p>
+  <p>(685) Incassum congressus mecum. instruit sophos quidam,</p>
+  <p>AmaI~ &amp; amatum vnum esse per amoris vim atque efficaciam;</p>
+  <p>Idcirco accedam ad fortunam meam thesaurariam,</p>
+  <p>Quam ego sedulo adamaui &amp; impensissime.</p>
+  <p>IV,1,689-715. ACTVS IIII 3l.</p>
+  <p>Aderit spero mihi, dabitque amoresreciprocos.</p>
+  <p>(600) Heus bona fortuna, quo recubas antro?</p>
+  <p>Quave ferrata arca recJnderis? adesto.</p>
+  <p>OPVLENTIA.</p>
+  <p>Hic sum compedita, obserata,</p>
+  <p>Muscosa, &amp; tineis lacerata edacibus.</p>
+  <p>HOMVLVS.</p>
+  <p>Huc propera celeriter, atque sub aspectum</p>
+  <p>(695) Consiste meum, consultura mihi.</p>
+  <p>OPVLENTIA.</p>
+  <p>Consilij expers sum ego boni.</p>
+  <p>Malesuada vocor. terrena incommoda</p>
+  <p>Si infestant, depellam protinus.</p>
+  <p>HOMVLVS.</p>
+  <p>Est quo aliud animi discrucior.</p>
+  <p>(700) Ad me venit hodie deforme &amp; inexorabile
+  monstrum.</p>
+  <p>Perferens me summo judice accersitum.</p>
+  <p>Ac vitae rationem daturum hac mihi</p>
+  <p>Te sponde comitem, opera vt adiutes tua.</p>
+  <p>Pecuniae enim obediunt omnia,</p>
+  <p><milestone unit="folio" n="Bvija"/> 705 Atque iniquiora efficiunt rectissima.</p>
+  <p>OPVLENTIA.</p>
+  <p>Nequaquam Homule parebo tibf.</p>
+  <p>Tui ipse expetis perrlitionem</p>
+  <p>Plus mali quam boni a]latura sum tibi,</p>
+  <p>Multum quidem dispendij. impendij nihil.</p>
+  <p>(710) Simulque labefeci mentem &amp; decoros corpore
+  sensus.</p>
+  <p>Neminem hoc calle sectabor euntem.</p>
+  <p>HOMVLVS.</p>
+  <p>Id sera mihi illachrymabitur poenitentia.</p>
+  <p>Attamen te solicito semper complexus amore fui.</p>
+  <p>OPVLENTIA.</p>
+  <p>Mucronem ipse cudis, quo te feriat</p>
+  <p>(715) Iudex meritissimum.</p>
+  <p>32 HOMVLI ~ IV,11716-2,740.</p>
+  <p>Immodice qui me colunt quam par est,</p>
+  <p>Superi oderunt bonique homines</p>
+  <p>Quod abundat necessitati, egenis dispartiendum est.</p>
+</div>
+<div type="level1" xml:id="scena-ii">
+  <head>SCENA II</head>
+  <p>HOMVLVS.</p>
+  <p>Non queo refragari,</p>
+  <p>(720) Meumque me remordet pectusculum</p>
+  <p>OPVLENTIA.</p>
+  <p>Quanti naufragalltur meis irretiti voluptatibus,</p>
+  <p>Quot perditos enutriui puerulos,</p>
+  <p>Dum blandissima offero fercula sensibus,</p>
+  <p>Mollia strata, obsccenae fomenta libidinis!</p>
+  <p>(725) Plures strangulantur olenti crapula,</p>
+  <p>In orco cum diuite sepeliendi epulone,</p>
+  <p>Stricto quam cadunt ense totum per orbem.</p>
+  <p>HOMVLVS.</p>
+  <p>O caecas hominum mentes, O inueterata malorum</p>
+  <p>Pectora, oculos fascinata misellos. quid volui mihi?<ptr target="#tn45" n="45"/></p>
+  <p>OPVLENTIA.</p>
+  <p>(730) Facesse Homule, &amp; thesauros teneris relinque
+  nepotibus,</p>
+  <p>Quos ego itidem illectabo, &amp; aureo</p>
+  <p>Cyatho potabo meo atque Babylonico, vt quondam proauos.</p>
+  <p>HOMVLVS.</p>
+  <p>Execranda &amp; funesta belua, tetro abdere auerno.</p>
+  <p>Tu infelicitatis scelus es &amp; caput meae.</p>
+  <p>OPVLENTIA.</p>
+  <p>(735) Cachinnum mihi moues ridicule.</p>
+  <p>Vbi vulnus acceperint, recte sapiunt stulti.</p>
+  <p>Gaudeo, ex voto acta sunt omnia meo.</p>
+  <p>HOMVLVS.</p>
+  <p><milestone unit="folio" n="Bviib"/> Gaudesne scelestissima contigisse cladem miseris?</p>
+  <p>Saeuior es Alecto, tartareisque furijs.</p>
+  <p>OPVLENTIA.</p>
+  <p>(740) Nectare &amp; melle sum dulcior.</p>
+  <p>IV, 2, 741-V,1,765. ACTVS V 4 33</p>
+  <p>HOMVLVS.</p>
+  <p>Scilicet tu venefica mortem ingeris.</p>
+  <p>Pulchre roe delusit huius nefandae fortunae opulentia,</p>
+  <p>Quam ego tantopere complexus iln vita,</p>
+  <p>Nil verius, nil ditius arbitrabar,</p>
+  <p>(745) Nil tenacius mente volutabam noctes atque noctes.</p>
+  <p>Rem plenam insidiarum &amp; llihili,</p>
+  <p>Tam solerter quaeritabam miser.</p>
+  <p>O rerum omnium dominator, miseresce tui seruuli.</p>
+  <p>Quid? hic emoriar, an aliquo pergam</p>
+  <p>(750) Subsidij gratia, quaerendis suppetijs?</p>
+  <p>Labascunt vires, tremor occupat artus.</p>
+  <p>Ita metuo mortem illam sicariam,</p>
+  <p>Quae me mallet intro miserum.</p>
+  <p>Adhuc semel duntaxat conuocatis</p>
+  <p>(755) Sensibus, ingenio, memoria,</p>
+  <p>Caput intervtrasque collocabo palmas.<ptr target="#tn46" n="46"/></p>
+  <p>Si queam reminisci cuiuspiam auxiliatoris.</p>
+</div>
+<div type="level1" xml:id="actus-v">
+  <head>ACTUS V</head>
+  <p>HOMVLVS, VIRTVS. COGNITIO, FORTITVDO, CONFESSIO,</p>
+  <p>PRVDENTIA, PVLCHRITVDO,</p>
+  <p>QVINISENSVS, CRAMBARABVS, LARVICOLA.</p>
+</div>
+<div type="level1" xml:id="scena-i.-4">
+  <head>SCENA I.</head>
+  <p>Actum est. Terras percurri omnes.</p>
+  <p>Nemo est cui ego fidam,</p>
+  <p>(700) Dubia tamen &amp; ancipiti spe</p>
+  <p>Occurrit mihi mea virtus.</p>
+  <p><milestone unit="folio" n="Bviija"/> Sed o mea prauitas tantis est attenuata plagis,</p>
+  <p>Vt ne quidem pedem moueat inde,</p>
+  <p>Vbi semel constiterit aut resederit,</p>
+  <p>(765) Aut recubuerit tenerrima.</p>
+  <p>34 HOMVLI V;1,766-791.</p>
+  <p>Non audebo compellare eam.</p>
+  <p>Volo, an ne? tentabo, licet rubicunda fronte</p>
+  <p>Cedat seu prospere, seu perperam.</p>
+  <p>Mea virtus, vbi es? vt vales?</p>
+  <p>VIRTVS.</p>
+  <p>(770) Hoc ego recubo viribus destituta cubili,<ptr target="#tn47" n="47"/></p>
+  <p>Inualida, languida, membris distorta,</p>
+  <p>Et incompos meorum artuum.</p>
+  <p>Hoc pacto tuis afflicta sum erroribus,</p>
+  <p>Improbis moribus atque tua impietate.</p>
+  <p>(775) Quid me obtundis aegram altis clamoribus?<ptr target="#tn48" n="48"/></p>
+  <p>HOMVLVS</p>
+  <p>Mille cruces, mille patior discrimina.</p>
+  <p>Virgo chara, mihi succurre petenti:</p>
+  <p>Opem, consiliumque ministra.</p>
+  <p>VIRTVS.</p>
+  <p>Non equidem ignoro diuini numinis il’am</p>
+  <p>(780) Accensam tibi, ob noxas &amp; turpis luenda piacula
+  vitae,</p>
+  <p>Simulque faciundae rationis adesse tempora</p>
+  <p>HOMVLVS.</p>
+  <p>Haec moles est animo grauissima meo:</p>
+  <p>Tibi supplico charissima virtus, pauido comes adsis.</p>
+  <p>VIRTVS.</p>
+  <p>Etiam si totius orbis thesauros<ptr target="#tn49" n="49"/></p>
+  <p>(785) Adipiscar, ne vnum possem stabilire pedem.</p>
+  <p>HOMVLVS.</p>
+  <p>O casta virguncula, tantaue est aegritudo?</p>
+  <p>VIRTVS.</p>
+  <p>Sic me tuo demerito tua vanitate confecisti<ptr target="#tn50" n="50"/></p>
+  <p>Si enim recta monenti obsecundasses,</p>
+  <p>Calculus tuus meliori nunc staret loco.</p>
+  <p>(700) Aspice, vt papyrus tua hic iacet puluerulenta</p>
+  <p>Fuligine, situque obsoleta vetusto.<ptr target="#tn51" n="51"/></p>
+  <p>V,1,792-816. I ACTVS V 35</p>
+  <p>HOMVLVS.</p>
+  <p>O siderum rector, o rex diuumque hominumque;</p>
+  <p>Clementer indulge, quaeso, mihi.</p>
+  <p>Nulla hic litera reperiri potest legibilis.</p>
+  <p><milestone unit="folio" n="Bviijb"/> 795 Haeccine sunt mea scripta?</p>
+  <p>VIRTVS.</p>
+  <p>Plane tua sunt Homule.</p>
+  <p>Ex me tua scripta cognosce.</p>
+  <p>HOMVLVS.</p>
+  <p>Colendissima virtus, vnica mjserorum spes,<ptr target="#tn52" n="52"/></p>
+  <p>Ne me hodie desolatum deseras:</p>
+  <p>(800) Quoniam sodales, cognati, amici omnes,</p>
+  <p>Atque egentissima opulentia mea, abierunt infideles.</p>
+  <p>Deprecor. assiste calculanti mihi,</p>
+  <p>Ne me neruo inijciat iudex hodie.</p>
+  <p>VIRTVS.</p>
+  <p>Plus satis vrges me Homule.<ptr target="#tn53" n="53"/></p>
+  <p>(800) Libens me tuae praestarem necessitati,</p>
+  <p>Si quo modo possem virium vti beneficio.</p>
+  <p>HOMVLVS,</p>
+  <p>Estne consilium tibi, quo me consoleris?</p>
+  <p>VIRTVS.</p>
+  <p>Hoc ipsum mente pertractare coepi,</p>
+  <p>Licet nusquam qi1eam proficisci.</p>
+  <p>(810) Soror mihi est, cui vocabulum Cognitio.</p>
+  <p>Tecum illa commeabit, solicitabitque</p>
+  <p>Vt indemnis negocium absoluas tuum.</p>
+  <p>COGNITIO.</p>
+  <p>Comes fidelis ero tibi<ptr target="#tn54" n="54"/></p>
+  <p>Homule, recto te tramite ducam.</p>
+  <p>HOMVLVS,</p>
+  <p>(815) Dies exoritur aperto candida coelo,</p>
+  <p>Phoebus stillare radios occipit suos,</p>
+  <p>36 HOMVLI V,1,817;.842.</p>
+  <p>Nuncque recalescit gelido mihi corpore sanguis.</p>
+  <p>Debitor sum ego gratiarum superis,</p>
+  <p>Atque officiosae adiutrici meae.</p>
+  <p>VIRTVS.</p>
+  <p>(820) Animaduerte parumper quid eloquar tibi,</p>
+  <p>Vbi ilia te doloris immunem adduxerit regi</p>
+  <p>Calculaturum, pleno reualescam robore:</p>
+  <p>Veniamque tibi adminiculo tuae</p>
+  <p>Contuendae partis sagaciter, nunc subtrahendo,</p>
+  <p>(825) Nunc addendo, pro tua Homule vtilitate quaerenda</p>
+  <p>HOMVLVS.</p>
+  <p>Nunquam tantis gratijs par referre quibo.</p>
+  <p>Supra quam dici potest, gaudio recreatus sum.</p>
+  <p>[cja] Tam mirificis verbulis, melle suauioribus,</p>
+  <p>Quibus polus nil continet desideratius,</p>
+  <p>(830) Nec terra complexu amabilius.</p>
+  <p>COGNITIO.</p>
+  <p>Absque mora properemus ambo</p>
+  <p>Ad pulchrae confessionis aediculam.</p>
+  <p>Illa in morem riuuli velociter labentis,</p>
+  <p>Illa te reddet puriorem defecatum scelere.</p>
+  <p>HOMVLVS.</p>
+  <p>(835) Ex animo perplacet, pariter gradiamur obsecro.</p>
+  <p>Quam habitat domum 1 quae tecta vicina colit?</p>
+  <p>COGNITIO.</p>
+  <p>Amoena tecta salutis, decorosque</p>
+  <p>Inhabitat felicitatis lares, haec, vt arbitror.</p>
+  <p>Degit secure, victitat hilariter.</p>
+  <p>HOMVLVS</p>
+  <p>(840) Deus bene vortat, nostrisque votis faueat benignus,</p>
+  <p>Vt opportunitatem gratam nanciscamur,</p>
+  <p>Illaque nos laetioribus remittat animis.</p>
+  <p>(37) V.l.843-2.869, ACTVS V</p>
+  <p>COGNITIO.</p>
+  <p>Haec est praeclara professio, intactaque nympha.</p>
+  <p>Genibus procumbe illius ante pedes.</p>
+  <p>(845) Nanque deo superisque simul gratissjma virgo est,</p>
+</div>
+<div type="level1" xml:id="scena-ii.-3">
+  <head>SCENA II.</head>
+  <p>HOMVLVS.</p>
+  <p>O lilium hyberna niue candidius,</p>
+  <p>Perquam suauissimos spirans odores.</p>
+  <p>O floscule viridanti vere vernantior,</p>
+  <p>Omni decore venustior, oblectantior,</p>
+  <p>(850) Supplex geniculor ante tuos virguncula vultus.</p>
+  <p>Miseresce, precor. dignare meas diluere sordes,</p>
+  <p>Contractosque expiare pectore neuos.</p>
+  <p>Adsum cognitione pia comite, mente saucius,</p>
+  <p>Et graues patiens luctusque molestos.</p>
+  <p>(855) Nam morte nuncia, magnum coeli ad imperatorem citatus
+  sum,</p>
+  <p>Et mortalis vitae rationem postulatus.</p>
+  <p>Quapropter amica professio, sospitatis reginula,</p>
+  <p>Schedulas calculatorias reparato meas,</p>
+  <p>Quoniam virtus emarcuit ob aduersam valetudinem.</p>
+  <p>CONFESSIO.</p>
+  <p>(800) Homule, non latet aduentus me causa tui.</p>
+  <p>[cjb] Quandoquidem respicio Cognitionem congressam tibi sororem
+  meam.</p>
+  <p>Spem foueto bonam, solabor,</p>
+  <p>Et iniquo pondere presso subueniam tibi.</p>
+  <p>Daboque simul munuscula regi non inuisa deo,</p>
+  <p>(865) Quibus dolor gaudet, odiumque malorum,</p>
+  <p>Quibus noxia corpora scelerum ministra<ptr target="#tn55" n="55"/></p>
+  <p>Piabis, afficiesque flagellis salubriter.</p>
+  <p>Accipe chare mihi, sanandi vulneris apta</p>
+  <p>Haec emplastra tibi &amp; duros pro sorde labores,</p>
+  <p>(38) HOMVLl V,2,870-899.</p>
+  <p>(870) In mentemque tibi veniat crux, effusique cruoris</p>
+  <p>Imber, &amp; haec mors saluatoris Iesu.</p>
+  <p>Sed tu o Cognitio, ne abesto viro, vt melioribus.<ptr target="#tn56" n="56"/></p>
+  <p>Haereat monitis, &amp; ab aspero ne resiliat</p>
+  <p>Salutls tramite, haec cura gnauiter.</p>
+  <p>(875) Illius hoc modo reuirescet virtus robusta repente.</p>
+  <p>Homule, caue diffidas vnquam, sed cogita facitoque religiose,</p>
+  <p>Quoniam breuiori migrabis spatio, terrasque relinques</p>
+  <p>Deum crebrius offensum efflagita veniam,</p>
+  <p>Nec plagas desine reuelare tuas.</p>
+  <p>(880) Soror Cognitio quando mederi occeperit tibi.</p>
+  <p>Abfore tibi fas non erit vnquam.</p>
+  <p>COGNITIO..</p>
+  <p>Libens faciam, praesentem praesens</p>
+  <p>Hortabor, vt equos auriga suus.</p>
+  <p>HOMVLVS</p>
+  <p>Fortunet deus. exordium faciam</p>
+  <p>(885) Poenitentiae, expurgandique criminis.</p>
+  <p>Nec metus absterret acris flagelli,</p>
+  <p>Cum mea viscera torret crelestilampade feruor.</p>
+  <p>COGNITIO.</p>
+  <p>Age, multa leuant promissa timorem</p>
+  <p>Dona dei, &amp; ftdutiam praestet bonam</p>
+  <p>(890) Pietas eximia, &amp; indulgentia Christi.</p>
+  <p>Nam humana subiuit ergastula,</p>
+  <p>Factusque terrigenarum germanus. irritamenta satanis.</p>
+  <p>Saepe tulit egregius pugil in nostram salutem.</p>
+  <p>[cija] Itaque naturae fragilis expertus lubricitatem,</p>
+  <p>(895) Ad miserationem pronus &amp; clemens.</p>
+  <p>Tamen si fautrix adsit benign tuae causae,<ptr target="#tn57" n="57"/></p>
+  <p>Non eris aspernabilis, Mariam compellare memento.</p>
+  <p>Haec tanti est amoris atque pulchritudinis.</p>
+  <p>Vt suum apud ftlium frustrari nequeat. petito.</p>
+  <p>V,2,900-3,929. ACTVS V 39</p>
+  <p>(900) Matri alumnus fit morigerus vnicae,</p>
+  <p>Quando blanda conspicit hubera atque oscula.</p>
+  <p>Pater filio crudelia perferenti vulnera,</p>
+  <p>Quibus exemit morte mortales, nihil abnegat.</p>
+  <p>His propugnatoribus protecti,</p>
+  <p>(905) Felici potimur beatitudine</p>
+  <p>Igitur illo conuerte manus. simul ora, &amp;</p>
+  <p>Pectora tunde, sideream expetiturus opem.</p>
+  <p>HOMVLVS</p>
+  <p>Salue decus coeli, salue regina tonantis,<ptr target="#tn58" n="58"/></p>
+  <p>Quam qui quaerit inops:-nunquam repulsus abibit:</p>
+  <p>(910) In me flecte tuos candida virgo oculos.</p>
+  <p>O miseresce, precor, miseri bene fausta clientis,</p>
+  <p>Atque fathiscentes artus &amp; corda pauore,</p>
+  <p>Sustenta pietate tua, ne linquar perditus atris</p>
+  <p>Daemonibus, circumuallantibus vndique pressum</p>
+  <p>(015) O veneranda mihi, cui Dauid ludere plectro,</p>
+  <p>Arca dei, miraque extollere laude solebat,</p>
+  <p>Irrorato meam supero de flumine mentem.</p>
+  <p>Emica, emitte tui fulgoris iubar radiosque,</p>
+  <p>Dum lachrymis imploro tuum numen moestus egensque.</p>
+  <p>(920) Omnibus, ah dolor, desertus socijs &amp; amicis.</p>
+  <p>O virgo, dulcem exora natum, mihi vt fiat propitius,</p>
+  <p>Placabilis, &amp; super delicto praestabilis,</p>
+  <p>Ne me sinat aeternis interire supplicijs.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-3">
+  <head>SCENA III.</head>
+  <p>MARIA AD FILIVM.</p>
+  <p>O fili, mea est conditio, mortalibus adminiculari :</p>
+  <p>(925) Meum est munus. naufragos portu donare,</p>
+  <p>[cijb] Vndisonum &amp; pelagus sidere illustrare flammeo.</p>
+  <p>O nate, mea vota poscentibus, facilem</p>
+  <p>Praebe benignus aurem.</p>
+  <p>Prosit matrem interpellasse, miseris.</p>
+  <p>40 HOMVLI V,3,930.960.</p>
+  <p>(930) Neminem mei nominis recolentem</p>
+  <p>Fas sit mala nece raptari.</p>
+  <p>Deprome, obsecro, inexhaustae pietatis mellifluos fontes.</p>
+  <p>Effunde inaestimabiles diuitiarum fontes,</p>
+  <p>Atque aeui indefecti largire congiarium.</p>
+  <p>(935) Gratum &amp; acceptum mihi praestabis beneficium.</p>
+  <p>DEVS AD MATREM.</p>
+  <p>Mea genitrix, dulce stabulum, dulce conclinatorium,</p>
+  <p>Me nihil vnquam frustra rogaueris.</p>
+  <p>Exaudiam quoscumque voles, &amp; amanter quidem.</p>
+  <p>Omnesque tuum qui nomen honorant,</p>
+  <p>(940) Excipiam placide, mecumque iubebo</p>
+  <p>Aethereis accumbere mensis, semper &amp; ambrosia</p>
+  <p>Et nectare vesci diuorum epulis.</p>
+  <p>COGNlTIO.</p>
+  <p>Homule, quid his possit oraculis<ptr target="#tn59" n="59"/></p>
+  <p>Vel optari dulcius, vel charius?</p>
+  <p>(945) Satis fidutiarum relictum est nobis hodie.</p>
+  <p>In portu nauigamus, nihil itaque</p>
+  <p>Immorantes nos poenitentiae accingamus.</p>
+  <p>Hoc vnum caue, ne te frangat dolor,</p>
+  <p>Sanguineaeque vibices &amp; cruenta verbera.</p>
+  <p>(950) Efficiam tua regi negocia clara.</p>
+  <p>-HOMVLVS.</p>
+  <p>O vita viuentium, o panis beatorum</p>
+  <p>Indeficiens, angelorum pabulum mellitissimum,<ptr target="#tn60" n="60"/></p>
+  <p>Mortalium viaticum, trames deuiantium</p>
+  <p>Rectissimus &amp; inoffensus gradientibus:</p>
+  <p>(955) Qui a paternis regalibus sedibus</p>
+  <p>Virgineo illapsus es thalamo,</p>
+  <p>Vt Homuli medereris vulneribus,</p>
+  <p>[ciija Primis contractis parentibus.</p>
+  <p>Quid tantis referam dignum benefactis,</p>
+  <p>(960) Misellus ego &amp; exiguus homuncio?</p>
+  <p>V.3.961-991. ACTVS V 41</p>
+  <p>O deitas thesauraria deliciarum,</p>
+  <p>O augustissima gratiarum plenitudo,</p>
+  <p>Omnium spes &amp; solamen vnicum,</p>
+  <p>Cuius splendore polus terraque coruscat:</p>
+  <p>(965) Has querulas voces pijs auribus</p>
+  <p>Excipe, porrectasque in excelsa preces</p>
+  <p>Ne despice pater, arcanorum cognitor.</p>
+  <p>Terge meas o clementissime labes,<ptr target="#tn61" n="61"/></p>
+  <p>Scribe volumina vitae meo nomine,</p>
+  <p>(970) Auge meos titulos. vt tecum post fata quiescam.</p>
+  <p>Cognitio, has mihi porrige purgatrices virgules,</p>
+  <p>Vt hanc pulpam castigem acriter,</p>
+  <p>Quae me toties in obscoena pellexit vitia,</p>
+  <p>Reddam huic voluptatum amatrici vicissitudinem,</p>
+  <p>(975) Quae me prope perdidit, ego illam perdam.</p>
+  <p>COGNITIO.</p>
+  <p>Lenta dei vindicta, moras spatiumque</p>
+  <p>Ministret tibi expiandi criminis,</p>
+  <p>Intrepidum &amp; fortem adhibe virum.</p>
+  <p>Si te poenitet delicti, satis res prosperabitur.</p>
+  <p>(980) Totum te supernae dedas protectioni,</p>
+  <p>Qua nemo se impostum cognouit vnquam.</p>
+  <p>HOMVLVS.</p>
+  <p>Bonae confidentiae nihil anteponam.<ptr target="#tn62" n="62"/></p>
+  <p>Pater aeterne, adesto mihi, o numen ab aeterno</p>
+  <p>Numine ignosce mihi noxam meam.</p>
+  <p>(985) O vtriusque compar spiritus, gratiam praesta tuam.</p>
+  <p>O trias ineffabilis, tuis auspicijs</p>
+  <p>Exordior salutis opus meae salutiferum.</p>
+  <p>Accipe, perniciosa caro, plagas meritissimas,<ptr target="#tn63" n="63"/></p>
+  <p>Superba pu.chritudo, dignas accipe grates.</p>
+  <p>(900) Pene in omnem recidi labem,</p>
+  <p>[ciijb] Ob tuam fallacem formositatem</p>
+  <p>42 HOMVLI V,3,992.:1021.</p>
+  <p>Referam par tuae vanitati.<ptr target="#tn64" n="64"/></p>
+  <p>Verbere expiabo grauissimo,</p>
+  <p>Quod molliter persuasisti pessuma</p>
+  <p>(995) O fratres, sic a olenda sunt commissa vitia,</p>
+  <p>Antequam via pergatur ineuitabilis laeti,</p>
+  <p>Quae indicta est mihi hodie.</p>
+  <p>VIRTVS.</p>
+  <p>Laus deo &amp; superis omnibus,</p>
+  <p>Conualesco, redit mihi vitae incolumitas.</p>
+  <p>(1000) Gressum nunc solidiorem statuo.</p>
+  <p>Nam per Homulum salus redit optabilis.</p>
+  <p>Quare illius contubernio me sociam dabo</p>
+  <p>I1lius praesentiam nunquam abesse patiar,</p>
+  <p>Comes ero illi fidelissima resipiscenti,</p>
+  <p>(1005) Felicitatem suam nunciabo illi,</p>
+  <p>Valetudinem gratulabor i1li meam.</p>
+  <p>Pergam ad eum quamprimum.</p>
+  <p>COGNITIO.</p>
+  <p>Homule, gaude &amp; laetare impensius</p>
+  <p>Facessat luctus, aduentat tuum solatium</p>
+  <p>(1010) Tuum vnicum adest desiderium</p>
+  <p>Noua gaudia afferuntur tibi inopinanti.</p>
+  <p>HOMVLVS.</p>
+  <p>Quis est qui gradum huc accelerat,</p>
+  <p>Gaudij portitor mei?</p>
+  <p>COGNITIO.</p>
+  <p>Homule, tua virtus. quae paulo ante</p>
+  <p>(1015) Aegro thoro decumbebat. iam adest</p>
+  <p>Agilis. &amp; pisce integrior gelido.</p>
+  <p>Languorem abiecit, quasi qui sarcinam praecipitat humi.</p>
+  <p>HOMVLVS.</p>
+  <p>Ingens gaudium in lachrymas prorumpit.</p>
+  <p>Vocem intercluctit mentis tripudium.</p>
+  <p>(1020) Nunc insistam robustior infligendis plagis.</p>
+  <p>Dolorem aduentu illius nihili pendam.</p>
+  <p>V&quot;J22-1048. -AcTvs V 43,</p>
+  <p>VIRTVS.</p>
+  <p>Homule, peregrinantium. amantissime,</p>
+  <p>Magnus es* athleta, qui tantum bellicosus</p>
+  <p>[ciiija] Consequutus es victoriae palmam.</p>
+  <p>(1025) Pro foribus residet tibi perennis gloriae</p>
+  <p>Immortale decus &amp; aureum.</p>
+  <p>Mox coelestis patriae fles incola &amp; municeps,</p>
+  <p>Tu me etiam fecisti tuis sospitem bonis coeptis~</p>
+  <p>Ideoque tuo c()mitatui no11 auellar vnquam</p>
+  <p>(1030) Quicquid etiam acciderit tibi.</p>
+  <p>Nihil metuas. tuae dcns placabitur offensae.</p>
+  <p>Pristil1ae indu]gebit conuersationi.</p>
+  <p>Tantum, te facias tuae culpae osorem.</p>
+  <p>HOMVLVS</p>
+  <p>Salue mea spes vnica.</p>
+  <p>(1035) Lachrymas continere nequeo, sic tua praesentia gauisus
+  sum.<ptr target="#tn65" n="65"/></p>
+  <p>Nullius vnquam tam dulci amore hominis</p>
+  <p>De]ectatus sum, quam nunc tuo mea virtus.</p>
+  <p>COGNITIO.</p>
+  <p>Plagis abstine. flagellum cohibe.</p>
+  <p>Clementissimus deus est. ne diffide,</p>
+  <p>(1040) Mitem respexit animum, &amp; promptam in vulnera
+  mentem.<ptr target="#tn66" n="66"/></p>
+  <p>Hanc indue penulam, in tuam salutem</p>
+  <p>Viriumque reparationem, vestem lachrymis amicam.</p>
+  <p>Indue minime exanimatus.</p>
+  <p>Nobis quidem vtilius nihil, deo nihil potestesse acceptius.</p>
+  <p>HOMVLVS.</p>
+  <p>(1045) Quo vocabulo censetur haec tunica?</p>
+  <p>COGNITIO.</p>
+  <p>Grato nomine dicitur poenitentium candor,</p>
+  <p>Purpura electior Tyrijsque coloribus.</p>
+  <p>Qui angelos de]ectat, coelituumque cateruas.</p>
+  <p>44 HOMVLI V,3,1049-11)72..</p>
+  <p>VIRTVS.</p>
+  <p>Ne respue hanc vestem,</p>
+  <p>(1050) Quia soror mea Cognitio donauit te hoc munere</p>
+  <p>HOMVLVS.</p>
+  <p>Acceptabo libenter poenitentiae vestem decoram.</p>
+  <p>Quae tantae est apud superos dignitatis,</p>
+  <p>Quae tantopere iudici placet meo.</p>
+  <p>Nec iam iter agemus pauidi auspicandum ..</p>
+  <p>(1055) Chara virtus. calculus noster estne integer</p>
+  <p>Atque ordine bono, anne?</p>
+  <p>VIRTVS</p>
+  <p>[ciiijb] Aequus est &amp; planus vndique.</p>
+  <p>HOMVLVS</p>
+  <p>Laus superis. totus gaudeo, reuixi denuo,</p>
+  <p>Nunquam excidet menti meae tanta beneuolentia.</p>
+  <p>100) lam animi quietus sum &amp; placidus.<ptr target="#tn67" n="67"/></p>
+  <p>Vos obsecro amiculas, absquc me ut pedem nusquam conferatis.</p>
+  <p>COGNITIO</p>
+  <p>Nequaquam Homule a te vel latum digitum.</p>
+  <p>Vt axis rotam, ita te comitabimur.</p>
+  <p>VIRTVS.</p>
+  <p>Numerum augeri oportet nostrum.</p>
+  <p>(1005) Tres tecum adhibe itineris socias eximij roboris.</p>
+  <p>HOMVLVS.</p>
+  <p>Quae nam istae erunt itineris duces?</p>
+  <p>VIRTVS.</p>
+  <p>Prudentia, Fortitudo, &amp; tertia</p>
+  <p>Quae abesse neutiquam potest, tua Pulchritudo.</p>
+  <p>Magnae in rebus arduis adlufrices.</p>
+  <p>COGNITIO</p>
+  <p>(1070) Insuper vt associes necesse est &amp; perutile</p>
+  <p>Quinque moderatrices capitis sensus,</p>
+  <p>Quibus tanquam consiliarijs vtaris amicis.</p>
+  <p>V,3,1073-4,1095. ACTV8 V 45</p>
+  <p>HOMVLVS.</p>
+  <p>Quo pacto praesentes vt adsint, efficere potero?</p>
+  <p>COGNITIO.</p>
+  <p>Vocabis omnes altiori vocula.</p>
+  <p>(1075) Ilico vt insonueris, absque mora aderunt.</p>
+  <p>HOMVLVS.</p>
+  <p>Adesto omnes quotquot estis<ptr target="#tn68" n="68"/></p>
+  <p>Formosae nymphae &amp; amiculae. quae Homulum adamatis.</p>
+  <p>Adeste, obsecro, in diem eius o Prudentia,</p>
+  <p>Fortitudo, Pulchritudo &amp; Quinisensus.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-3">
+  <head>SCENA IIII.</head>
+  <p>PRVDENTIA. FORTITVDO, PVLCHRITVDO, QVINISENSVS.</p>
+  <p>FORTITVDO.</p>
+  <p>(1080) Coram, quas quaeris, adsumus omnes</p>
+  <p>In iuum Homule obsequium spontaneae.</p>
+  <p>Qllid nostra efflci exoptas opera?</p>
+  <p>Quid actitari placet nostris viribus?</p>
+  <p>VIRTVS.</p>
+  <p>Vt cum eo proficiscamini comites,</p>
+  <p>(1085) Nisi grauiora vos detinent negocia peregre,</p>
+  <p>Vtillaesus per tot immensa spatia, quae metuenda sunt,</p>
+  <p>Ad destinatam perueniat metam ,</p>
+  <p>[cva) Vestris &amp; praesentia &amp; seruatus meritis.</p>
+  <p>Dicite, si huic comitari est animus.</p>
+  <p>PVLCHRITVDO.</p>
+  <p>(1090) Ad vnum omnes commeabimus illi,</p>
+  <p>Consultantes atque ab omni iniuria custoditum perferentes.</p>
+  <p>Quocunque eum tulerit animi voluntas sui.</p>
+  <p>PRVDENTIA.</p>
+  <p>Nihil optatius euenire potuit.</p>
+  <p>Iamdudum peregrinatio animum pulsauit meum,</p>
+  <p>(1005) Vtvspiam me incolumitatis gratia conferrem.</p>
+  <p>(46) HOMVLl V; 4, 1096-1123.</p>
+  <p>HOMVLVS.</p>
+  <p>O rerum omnium maxime plastes.</p>
+  <p>Aequum est me tibi componere laudes.</p>
+  <p>Quia tuo favore factum scio. quod omnes</p>
+  <p>Istae amiculae meo se dedicant consortio</p>
+  <p>(1100) Honorata Prudentia, grata Pulchritudo,</p>
+  <p>Admiranda Fortitudo, &amp; amica Quinisensus,</p>
+  <p>Atque et.iam intemerata Virtus&amp; candida Cognitio.</p>
+  <p>Sathabeo sodalium, plures non effiagito.</p>
+  <p>Laus superis omnibus &amp; bonis fautoribus.</p>
+  <p>FORTITVDO.</p>
+  <p>(1105) Tecum audax ad omnia pergam,</p>
+  <p>Quae pedibus fas est penetrare vel equo.</p>
+  <p>In galeatds aereasque cohortes</p>
+  <p>Prima ferar truci turbida vultu,</p>
+  <p>Sude succincta trabali, nullo perterrita casu.</p>
+  <p>(1110) Nil duce me pauitandum. mille dabo</p>
+  <p>Strages. vt olim Samson hoc robore querci.</p>
+  <p>QVINISENSVS.</p>
+  <p>Seu oriens, seu vocauerit accidens,</p>
+  <p>Tecum ero: vel vt simul dicam omnia.</p>
+  <p>Totius tellurls spatiosissimus circulus,</p>
+  <p>(1115) Nunquam (solem lunamque iuro) a te digrediar.</p>
+  <p>PVLCHRITVDO.</p>
+  <p>Homule, non linquam te, si etiam</p>
+  <p>Fato me tecum depasci oporteat hodie.</p>
+  <p>Mihi eueniat, quicquid inferi superique decreuerint.</p>
+  <p>Faciam, ita me Venus adiuuet.</p>
+  <p>PRVDENTIA.</p>
+  <p>(1120) Vt ego iubebo, ita facito.</p>
+  <p>[cvb] Mature gradiundum est tibi atque circunspecto vestigio.</p>
+  <p>Nos tibi consultabimus in omni rerum euentu,</p>
+  <p>Solicitantes quicquid tuae voluntatis esse poterit.</p>
+  <p>V,4,1124-1153. ACTVS V 47</p>
+  <p>HOMVLVS.</p>
+  <p>Isti sunt amici quibus fucus nullus est,</p>
+  <p>(1125) Minime personati, candidi, synceri absque stibio</p>
+  <p>Quos pl1ter astrorum meritos remuneret abunde.</p>
+  <p>Nunc igitur omnes intenti praebete aurem mihi.</p>
+  <p>Suadet animus, vt testamentum condam meum</p>
+  <p>Vobis testibus. vobis praesentibus.</p>
+  <p>(1130) Rerum dimidium mearum dispartior infelicitati
+  mendicantium.</p>
+  <p>I{eljquum iure haeredjtario cedat nepotibus.</p>
+  <p>Haec Stygio Plutoni vt displiceant, effeci.</p>
+  <p>Meque ab illius vt expediam vngulis.</p>
+  <p>COGNITIO.</p>
+  <p>Animaduorte Homule. quid deinde actitandum censeo.</p>
+  <p>(1135) Magni tonantis sacrum adi ministrum.</p>
+  <p>Illumque obnixe deprecaberis, vt te</p>
+  <p>Pane illo subcineritio muniat inexhausto viatico,</p>
+  <p>Qui te indefessum reddat itineri.</p>
+  <p>Simulque expete sanctae vnctionis charisma.</p>
+  <p>(1140) Nos hic tuum praesto)abimur reditum,</p>
+  <p>Nec locum, nec animum abs te mutabimus.</p>
+  <p>QVINISENSVS</p>
+  <p>Agedum cum primis istud exequere,</p>
+  <p>Verum vt decet Christicolam, coelique cultorem.</p>
+  <p>Neque enim vsquam gentium degit tam praepotens &amp; inclyto</p>
+  <p>(1145) Stemmate ductus princeps. non maximus Caesar,</p>
+  <p>Non phalerati reguli, magnanimique duces,</p>
+  <p>Qui tantae dignitatis sortiuntur munia,</p>
+  <p>Vt vnus vel infimus Christi sacrificulus.</p>
+  <p>Illius manu nostra salus sita est.</p>
+  <p>(1150) Habetque nostrae salutis aurea pharmaca,</p>
+  <p>Ab ipsa aeterna sophia docte temperata,</p>
+  <p>Septena scilicet sacratissima munuscula.</p>
+  <p>Quae seculo migraturis relligio consueuit exhibere.</p>
+  <p>(48) HOMVLI V.4,1l54.1l84.</p>
+  <p>HOMVLVS.</p>
+  <p>Sacram eucharistiam esitare atque praelibare</p>
+  <p>[cvja] 1155 Amanter cupio. Supplex adibo sacerdotem</p>
+  <p>Et mansueto pectore arcanumque illi recludam meum.</p>
+  <p>QVINISENSVS.</p>
+  <p>Saluberrimum concepisti facinus<ptr target="#tn69" n="69"/></p>
+  <p>Faxit optimus deus, salubriter vt compleas.</p>
+  <p>Veteres abit illle euomere mente satanas</p>
+  <p>(1160) Illius aspiret superum clemenlia crnptis.</p>
+  <p>Siquidem nihil alit terra dignius sacerdotibus</p>
+  <p>Isti nobis sunt sacrae pagellae interpretes,</p>
+  <p>Rerum diuinarum prudentes &amp; sermonis mystici,</p>
+  <p>Qui vetant atque propellunt strictius</p>
+  <p>(1165) A noxijs erroribus leuem &amp; vagum populum.</p>
+  <p>Colligunt enodantque, vt fas suadet &amp; ratio,</p>
+  <p>Mortalium nexus &amp; vincula tartarea.</p>
+  <p>O regale genus &amp; sacer conuentus presbyterorum,</p>
+  <p>Supernis quibus vel angelis nec data grandior,</p>
+  <p>117O Vel est potestas nobilior.</p>
+  <p>Verbigenam coelo paucis deducunt verbulis.</p>
+  <p>Et manibus contingunt sanctum &amp; ineffabile pignus</p>
+  <p>Haec dedit aeternus rerum moderator &amp; autor</p>
+  <p>Dona suis: abiensque suis praefecit sede locoque.</p>
+  <p>COGNITIO.</p>
+  <p>l175 Fateor, nihil esset his eximius</p>
+  <p>Atque honoratius ministris,</p>
+  <p>Si religiose uitam agerent &amp; emendatius.</p>
+  <p>Atqui ille redemptor orbis maximus</p>
+  <p>Dum trabe penderet ab alta,</p>
+  <p>(1180) Nobis de effosso pectore septena donauit,</p>
+  <p>Nequaquam auro vendidit gratiarum fluenta.</p>
+  <p>At nunc licitantur, veneuntque, mercantur,</p>
+  <p>Numerantque aureorum millibus, non secus</p>
+  <p>Quam in nundinis oues atque boues</p>
+  <p>(49) V,4,l185-5,1204. ACTVS V</p>
+  <p>(1185) Execrandus hic mos increbuit vndique.</p>
+  <p>Roma caput mundi scelerisque,</p>
+  <p>[cvjb] Hoccine dicis regale genus1 scilicet regis inferi.</p>
+  <p>Denique mandauit deus, quos supra ccelituum honorarat agmina,</p>
+  <p>Ccelibem quoque in terris ducere vitam virgineamque.</p>
+  <p>(9100) Respice compita, quibus scateant sacerdotum liberi,</p>
+  <p>Temploque vt cursitent pusioli, docti vocitare parentem heri
+  nomine:</p>
+  <p>O nefas impurissimum &amp; inexpiabile scelus.</p>
+  <p>QVINISENSVS.</p>
+  <p>Meliora opinabimur &amp; optima quaeque,</p>
+  <p>Rem tanti incestus auertat deus.</p>
+  <p>(1195) Nos illos vt animarum antistites reuereamur,</p>
+  <p>Magisque verba quam opera, sermones quam exempla amplexemur.</p>
+  <p>Missum isthoc faciamus, nostra nihil refert.</p>
+  <p>COGNITIO.</p>
+  <p>Candida cognitio nil nisi vera canit,</p>
+  <p>Verum tibi obtemperabo libens, nec verbum amplius addam.</p>
+</div>
+<div type="level1" xml:id="scena-v.">
+  <head>SCENA V.</head>
+  <p>QUERIMONIA DAEMONUM DE AMISSO HOMULO.</p>
+  <p>LARVICOLA &amp; CRAMBARABVS daemones.</p>
+  <p>LARVICOLA.</p>
+  <p>(1200) Crambarabe, vnde te huc appulisti?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Ex nostri reuerendi principis curia.</p>
+  <p>LARVICOLA.</p>
+  <p>Quid noui adfers1 vt valet ipse princeps?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Bene quidem ex sententia.</p>
+  <p>LARVICOLA.</p>
+  <p>Sed vt noster se gerit Homulus</p>
+  <p>50 HOMVLI V,5,1205-1228.</p>
+  <p>CRAMBARABVS.</p>
+  <p>(1205) Recte, vt arbitror. nam heri totus erat nostri
+  arbitrij</p>
+  <p>LARVICOLA.</p>
+  <p>Per magnum Plutonem, auersus est nobis,</p>
+  <p>Rebellat imperio nostro, muliercularum praestigia illum
+  euerterunt.</p>
+  <p>CRAMBARABVS.</p>
+  <p>Nequaquam, falleris. Nimis erat nostrae sectae obsequens,</p>
+  <p>Ac Galilaei cruciflxi negligentissimus.</p>
+  <p>(1210) Tam exiguo spatio totum hominem immutari,</p>
+  <p>Nulla industria fieri potest.</p>
+  <p>Nec Mercurius quidem animi rhetorum princeps,</p>
+  <p>[cvija) Id efficere posset linguacissimus.</p>
+  <p>LARVICOLA.</p>
+  <p>Per Iouem, prospiciundum est nobis, ne tanta damna patiamur,</p>
+  <p>(1215) Ne tam chari amici iacturam faciamus.</p>
+  <p>CRAMBARABVS.</p>
+  <p>Vbi nunc est ille?</p>
+  <p>LARVICOLA.</p>
+  <p>Certum non habeo.</p>
+  <p>Nam paulo ante hoc eodem loco sua infortunia audiui
+  queritantem.</p>
+  <p>Erantque cum illo duae Christicolae virgines,</p>
+  <p>(1220) Quarum commercia fugiens, paulisper abij.</p>
+  <p>At nunc nec illas nec Homulum reperio.</p>
+  <p>Nobis non est dormitandum, Ilec dandus desidiae locus.</p>
+  <p>Rem malam suspicor ab illis machinari t’reminis.</p>
+  <p>Insidias molitur nobis hic sexus incredulus</p>
+  <p>CRAMBARABVS.</p>
+  <p>(1225) Larvicola, aurem admoue parieti,</p>
+  <p>Si vspiam audiatur Homulus.</p>
+  <p>LARVICOLA.</p>
+  <p>Strepitum audiui, atque etiam hominis vocem.</p>
+  <p>Tu itidem ausculta propius. si queas internoscere.</p>
+  <p>V,5,1229-1252. ACTUS V 51</p>
+  <p>CRAMBARABVS.</p>
+  <p>Pro Iuppiter, Homulus noster est.</p>
+  <p>LARVICOLA.</p>
+  <p>(1230) Quid gemit? quid lachrymatur?</p>
+  <p>Quo cum verba facit? quis sermo volat?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Animaduortere nequeo, ita crebra suspiria interrumpunt verba
+  mihi</p>
+  <p>LARVICOLA.</p>
+  <p>Crambarabe, infringe fores,</p>
+  <p>Cardines postesque deijcito.</p>
+  <p>CRAMBARABVS.</p>
+  <p>(1235) Territat me haec superscriptio.</p>
+  <p>Deuito huius odiosae freminae aspectus turpissimos.</p>
+  <p>Tantisper hic ego me stabiliam,</p>
+  <p>Donec sciam quae sit fabula.</p>
+  <p>LARVICOLA.</p>
+  <p>Grande saxum in aethera tollam,</p>
+  <p>(1240) Atque diuellam totam hanc fabricam.</p>
+  <p>CRAMRARABVS.</p>
+  <p>O Stygia numina, defiet {vt mihi videor)</p>
+  <p>Nostrae conuersationis commiIitium, actaeque vitae illum
+  prenitentia ducit.</p>
+  <p>LARVICOLA.</p>
+  <p>[cvijb] O mulieris ingenium fallacissimum.</p>
+  <p>Non abs re esse sciebam, quum illum</p>
+  <p>(1245) Cum illa contuerer sermocinantem.</p>
+  <p>Sed experire rem melius, mihi adhuc</p>
+  <p>Persuaderi non potest, vt tantae sodaIitatis &amp; fidei homo</p>
+  <p>Tam repente se in aliud praecipitarit.</p>
+  <p>Saepe enim numero admonitum illum habui,</p>
+  <p>(1250) Vt nunquam se friuolis Christianorum legibus</p>
+  <p>Sineret irretiri: eratque tantae constantiae.</p>
+  <p>Vt. illum dementari non posse, tu quoque attestatus esses.</p>
+  <p>.</p>
+  <p>52 HOMVLI V,5,1253-1275.</p>
+  <p>CRAMBARABVS.</p>
+  <p>O erebi maxime rector, disrupit foedus.</p>
+  <p>Nimium ego nunc intellexi. Audiui enim,<ptr target="#tn70" n="70"/></p>
+  <p>(1255) &quot;Confiteor&quot;, Christianorum deliram vocem.</p>
+  <p>LARVICULA.</p>
+  <p>Audistin? dij deaeque omnes illum perdant, eradicent.</p>
+  <p>Tua Crambarabe socordja actum est,</p>
+  <p>Vt nos iste desereret perfidus transfuga.</p>
+  <p>Quare vellatum pedem ab ejus latere discessisti?</p>
+  <p>(1260) Ego te apud Plutonem insimulabo ignauiae atque
+  infidelitatis.</p>
+  <p>CRAMBARABVS.</p>
+  <p>O magne pater Vulcane, tuo illum</p>
+  <p>Diuino inflamma incendio, vt denuo resipiscat .</p>
+  <p>LARVICOLA.</p>
+  <p>Ego te Vulcani incendio faciam inflammari</p>
+  <p>Caput sceleratissimum. Tu tanti dispendij causa es.</p>
+  <p>CRAMBARABVS.</p>
+  <p>(1265) Sile Laruicola, atque comprime garrula labra.</p>
+  <p>Facinus audax tentabo hodje. Tace.</p>
+  <p>Caput ingeram in thalamum, vt sciam rem vti est.</p>
+  <p>Per sanctum louis verticem, crelesti vescitur manna.</p>
+  <p>Actum est. Ille religioni nostrae renunciauit.</p>
+  <p>LARVICOLA</p>
+  <p>(1270) Cerebrum illi putrescat in dementiam.</p>
+  <p>Astraeam superos perhibent habitare lares.</p>
+  <p>Vbi illius nunc est aequitas, obsecro?</p>
+  <p>Siccine agitur, crelicolarum pater?</p>
+  <p>CRAMBARABVS.</p>
+  <p>lamdudum discordes cognoui diuos.</p>
+  <p>LARVICOLA.</p>
+  <p>(1275) Verum ne?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Vero nihil est verius.</p>
+  <p>V,5.1276-1297. ACTVS V 53</p>
+  <p>LARVICOLA.</p>
+  <p>[cviija] Quiscis? quo doctore babes?</p>
+  <p>An praesens aderas. quum terrae poljque metireris distantiam?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Conticesce scelus, tu itidem quoque dimensus es.</p>
+  <p>LARVICOLA.</p>
+  <p>Absque controuersia. breui coelum teres</p>
+  <p>(1280) Ad nostrum voluetur imperiuin.</p>
+  <p>OmJle .regnum in se diuisum. desolabitur.</p>
+  <p>Inter se diglaciiantur crelites superni,</p>
+  <p>Aguntque fauores &amp; partes vnus &amp; alter.</p>
+  <p>Nam Iustitia hunc nostrum Homul.um</p>
+  <p>(1285) Extra rationis limitem vendicauit sibi.</p>
+  <p>Quis vnquam a tenero aeuo sub nostris ita mililauit signis?</p>
+  <p>Fideliter &amp; nostris legibus instructus est.</p>
+  <p>A nobis debuit hic corollari seruulus</p>
+  <p>Quis nuper in Cruce pessimum latronem.</p>
+  <p>(1290) Infernis dignum supplicijs, ab omni immeritum absoluit
+  crimine?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Quis? Galilaeus ille Christianorum deus.</p>
+  <p>LARVICOLA.</p>
+  <p>Viden vt fauor atque violentia</p>
+  <p>Agitat raptatque incolas coeli?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Belle video.</p>
+  <p>Sed quid apud principem comminiscemur causae,</p>
+  <p>(1295) Pro tantae nunquam formidata amissione praedae?</p>
+  <p>Vapulabimus ambo.</p>
+  <p>LARVICOLA.</p>
+  <p>Ambo, inquis ?</p>
+  <p>CRAMBARABVS.</p>
+  <p>Plane ambo.</p>
+  <p>54 HOMVLI V,5,1297-6,1321.</p>
+  <p>LARVICOLA.</p>
+  <p>Tu illius perditionis origo es</p>
+  <p>Verbero, in te haec damna rependam.</p>
+  <p>CRAMBARABVS.</p>
+  <p>Ego verbero sum.</p>
+</div>
+<div type="level1" xml:id="scena-vi.">
+  <head>SCENA VI.</head>
+  <p>VIRTVS.</p>
+  <p>Adueniat Homulus. Rem peregit suam.<ptr target="#tn71" n="71"/>,</p>
+  <p>Huc omnes conferte gradum virgines,</p>
+  <p>Quotquot estis promissi officij obnoxiae.</p>
+  <p>Tempus in ipsam labitur horam itineris.</p>
+  <p>Accingite vos, atque instanti praeuidete necessitati.</p>
+  <p>HOMVLVS;</p>
+  <p>(1305) Aeterne pater. quam nunc sum quietus animi!</p>
+  <p>[cviijh] Quam sum procellis turbinum defunctus?<ptr target="#tn72" n="72"/></p>
+  <p>Totus in lachrymas liquor, tener vt infantulus.</p>
+  <p>Ita dulci gaudio sum vndique exhilaratus.</p>
+  <p>Coelesti pabulo mens est exaturata mea.</p>
+  <p>(1310) Gratias illi habeo, quae hoc suo mihi suasit
+  consilio.</p>
+  <p>Simulque charissimae amiculae maxime laetor</p>
+  <p>Quod omnes vos praesentes adesse video, fidei obseruantissimas.</p>
+  <p>Omnes hanc manibus contingite Crucem,</p>
+  <p>Et sequaci properate pede, primus ibo</p>
+  <p>]3J5 Qub me ducit suprema necessitas.</p>
+  <p>Magnus siderum rector, mei flat itineris comes.</p>
+  <p>FORTITUDO.</p>
+  <p>Vt pedem pes comitatur, atque vt haec dextera adest mihi,</p>
+  <p>Ita tibi praesens ero, dum tui voti compos flas,</p>
+  <p>Donec te reuocet aura sequunda domum.</p>
+  <p>]320 Nil erit in me perfidiae, nilque struam fallaciae.</p>
+  <p>Accipe, fidem do, adero tibi semper.</p>
+  <p>V,6;1322-~351. ACTVS V 55</p>
+  <p>PRVDENTTA.</p>
+  <p>Nulla occasio, nullum tempus,</p>
+  <p>Nulla tam saeua tempestas, nullus rerum euentus</p>
+  <p>Me tui faciet vnquam. desertricem.<ptr target="#tn73" n="73"/></p>
+  <p>(1325) Accidat etiam quicquid ater auernus excliat
+  malorum,</p>
+  <p>Plura agam dicits, strenua tecum,</p>
+  <p>Et complexis ibo lacertis in omnes casus.</p>
+  <p>Non monstra, non laruata prodigia</p>
+  <p>Me tuo diuellent amico lateri.</p>
+  <p>COGNITIO.</p>
+  <p>(1330) Ah quam importuna &amp; iniucunda</p>
+  <p>Et inamabilis est ista Homuli peregrinatio,</p>
+  <p>Quae nunc illum vrget, nec differri pacto potest aliquo.</p>
+  <p>Ille properat, quo eius proauus deuenit.</p>
+  <p>Huius viae timor omnes habet maximus.</p>
+  <p>FORTITVDO.</p>
+  <p>(1335) Quid si inculta deserta</p>
+  <p>Seu montium ardua occurrant?</p>
+  <p>Ne manum vortero, ne pedem mouero.</p>
+  <p>Homule. aspice vt valido sum corpore,</p>
+  <p><milestone unit="folio" n="Dja"/> Vt neruis vndique crassis, &amp; corpulentis
+  brachijs.</p>
+  <p>(1340) Omnes vos ambulando necabo.</p>
+  <p>Nihil minus metuo quam viarum inaccessam difficultatem.</p>
+  <p>HOMVLVS.</p>
+  <p>Ah vndique emanat mihi sudor artubus,</p>
+  <p>Membra ingrauescunt, fathiscit corporeum robur,</p>
+  <p>Et quasi me pedes non ferunt mei.</p>
+  <p>(1345) Charae sodales, iam terga dare nolumus.</p>
+  <p>Ego si meam explebo peregrinationem,</p>
+  <p>Hac me oportet subsidere fossa,<ptr target="#tn74" n="74"/></p>
+  <p>Hoc puteo recondi puluis vt fiam modo.</p>
+  <p>PVLCHRITVDO.</p>
+  <p>Hoc puteo vt te sequar .</p>
+  <p>(1350) Hoc inniso capulo? haeccine est peregrinatio</p>
+  <p>Toties auribus instillata meis?</p>
+  <p>56 HOMVLI V,6.1352-1378.</p>
+  <p>HOMVLVS.</p>
+  <p>Scilicet. hac proficisci oportet. quicquid tellure resurgit,</p>
+  <p>Spirat atque alitur. exiguum simul &amp; grande caput.</p>
+  <p>PVLCHRITVDO.</p>
+  <p>Hic in putrem verti puluerem. solidamque terram.</p>
+  <p>(1355) Hic animam efflare, &amp; hanc dulcem spernere
+  lucem?</p>
+  <p>HOMVLVS.</p>
+  <p>Hac vmbrosa inuolui caligine, atque emori.</p>
+  <p>Illa etiam solari orbari lampade coeli.</p>
+  <p>Sed o pulchritudo aeternis alibi viuere seclis</p>
+  <p>PVLCHRITVDO.</p>
+  <p>Nil iuuat me Homule haec fabula.</p>
+  <p>(1360) Vale bonis auibus, ego promissis abeo omnibus,</p>
+  <p>Fidemque retracto meam &amp; fas abrogo.</p>
+  <p>Proh chorus charitum, itane seruatis</p>
+  <p>Collegam vestram pulchritudinem?</p>
+  <p>Quo me hic Homulus vult abducere barathro?</p>
+  <p>IS65 Homule vale, vale felici sidere.</p>
+  <p>HOMVLVS.</p>
+  <p>Quid pulchritudo. sic fas abrumpis.</p>
+  <p>Atque hominum deumque periura fidem?</p>
+  <p>PVLCHRITVDO.</p>
+  <p>Auriculas oppilatas habeo. surda sum.</p>
+  <p>Grauiter audio, ne semel reflectam visum,<ptr target="#tn75" n="75"/></p>
+  <p>(1370) Totum etiam polliciteris orbem mihi.</p>
+  <p><milestone unit="folio" n="Djb"/> Sanior sum, quam vt auscultem tibi.</p>
+  <p>HOMVLVS.</p>
+  <p>In quam speraui miser &amp; excors,</p>
+  <p>Quid ex illius decore gloriolam captaui.</p>
+  <p>Fallax &amp; vana est. pulchritudo mea,</p>
+  <p>(1375) Fugit quasi fugata hostili iaculo</p>
+  <p>Leuibus multo est fugacior ventis.</p>
+  <p>11la tamen ex me percontata. se comitem spopondit,</p>
+  <p>Comitem &amp; lucis &amp; noctis vitaeque necisque.</p>
+  <p>V,6..1379-1403. ACTVS V 57</p>
+  <p>FORTITVDO.</p>
+  <p>Homule, tuae amicitiae satura sum.</p>
+  <p>(1380) Relinquo te; hoc ludo nihil vnquam displicuit magis</p>
+  <p>Prospere &amp; feliciter opto vt tibi cedat,</p>
+  <p>BOna vespera vt tibi contingat, ex animo cupio.</p>
+  <p>HOMVLVS.</p>
+  <p>Fortitudo? tu me etiam linques incomitatum?</p>
+  <p>FORTITVDO.</p>
+  <p>Abcedo, nimis est ardulim negocium,</p>
+  <p>(1385) Nec vllius amore auri subeundum.</p>
+  <p>Nunc intro pergendum est mihi, vnde exiui</p>
+  <p>HOMVLVS.</p>
+  <p>Obsecro mea fortitudo, paulisper</p>
+  <p>Hic moras age mecum in solamen meum.</p>
+  <p>FORTITVDO.</p>
+  <p>Per sacram Herculis dextram, non agam,</p>
+  <p>(1300) Nec momentum breue, nec nictum oculi.</p>
+  <p>Hic puteus horripilationem mihi facit.</p>
+  <p>Putas hoc conditorio velis effocarier?</p>
+  <p>HOMVLVS.</p>
+  <p>Siccine irritas illa grandisona spumosaque pollicita?</p>
+  <p>FORTITVDO.</p>
+  <p>Ita profecto, etiam si diuino essent sancita iuramento,</p>
+  <p>(1395) Fidem rescindo, abnego, pernego, discedo.</p>
+  <p>Nec mea refert. si vmbilicum tibi euelias,</p>
+  <p>Huberius alque impensius lachrymando</p>
+  <p>HOMVLVS.</p>
+  <p>Istane est probitas atque fidelitas animi?</p>
+  <p>In te qui sperat homo, in nihilum sperat.</p>
+  <p>FORTITVDO.</p>
+  <p>(1400) lam satis tecum deambulaui, longoque satis deduxi
+  calle.</p>
+  <p>Nec aetas prohibet te solitarium proficisci.</p>
+  <p>Ipse tibi esto comes, solus tuam perage peregrinationem.</p>
+  <p>[pija] Poenitet me huc vnquam tui gratia tulisse pedem.</p>
+  <p>58 HOMVLI V,6,1404-1430.</p>
+  <p>HOMVLVS.</p>
+  <p>Ah mea Fortitudo, nolo stomachum perturbare tibi,</p>
+  <p>(1400) Nec bilem ciere tibi, en obmutesco.</p>
+  <p>FORTITVDO.</p>
+  <p>Facias oro, tuoque capiti quietem dato.</p>
+  <p>Nam verba teris simul &amp; tempora inaniter.</p>
+  <p>Laedit me hllec molesta importunitas tua,</p>
+  <p>Quae te meo efficit indignum sodalitio.</p>
+  <p>(1410) Pone tuae modum petitioni, hisque abde caput
+  vmbris.</p>
+  <p>HOMVLVS.</p>
+  <p>Fortitudo. meliorem tui ftdem habui.</p>
+  <p>Fefellisti inopinantem fragilis spes.</p>
+  <p>Nemo non diffidat suae fortitudini.</p>
+  <p>Volucri, ut pulchritudo. labitur illa fuga:</p>
+  <p>(1415) O mendaces &amp; increduli amicularum mores,</p>
+  <p>Quam magniftce promisistis nihil!</p>
+  <p>PRVDENTIA.</p>
+  <p>Ego itidem intro sequi atque huius</p>
+  <p>Peregrinationis inducjas mihi dari volo.<ptr target="#tn76" n="76"/></p>
+  <p>Arbitrarisne, quod hanc fossulam metiri cupiam?</p>
+  <p>(1420) Minime. ne metuas, bene cauebitur.</p>
+  <p>Etiam si auro sternenda esset tegundaque.</p>
+  <p>Alium quaerito, me frustra rogaueris.</p>
+  <p>Vin paucjs sententiam scire meam?</p>
+  <p>Si frustrari nolis, precibus abstine,</p>
+  <p>(1425) Neque fatiges inexorabilem.</p>
+  <p>HOMVLVS.</p>
+  <p>O Prudentia, itane prudentia?</p>
+  <p>PRVDENTIA.</p>
+  <p>Incassum indagatur Prudentia IlIa secum decreuit.<ptr target="#tn77" n="77"/></p>
+  <p>Vt quamprimum hinc se dlmoueat ab Homull conspectibus.</p>
+  <p>Res enim ipsi suboleuit plusquam seria.</p>
+  <p>(1400) Hoc ne ego dabo corpusculum inpuluerandum terrae?</p>
+  <p>V;6,1431-1459. ACTVS V 59</p>
+  <p>Desipere non decet prudentiam</p>
+  <p>Sed si qua mihi est sapientiae scintillula.</p>
+  <p>In hoc vtar. ne tibi auscultem hodie,</p>
+  <p>Neve me tibi comitem tradam.</p>
+  <p><milestone unit="folio" n="Dijb"/> HOMVLVS.</p>
+  <p>(1435) Ne fugam proripe. sed accede propior ,</p>
+  <p>Huius vt visas capuli fundum.</p>
+  <p>Accede, oro te, amica Prudentia</p>
+  <p>PRVDENTIA</p>
+  <p>Accedam? scilicet versus calcaneum.</p>
+  <p>Per magnam Iezabel, tibi hodie non iungar vicinior</p>
+  <p>(1440) Sepulchri huius vocem horresco praepauida<ptr target="#tn78" n="78"/></p>
+  <p>Sed si visu comprenderem, praemortua subsiderem</p>
+  <p>Vale Homule. Nos iam intro gradimur.</p>
+  <p>HOMVLVS</p>
+  <p>Iam Homuli abijt decus.</p>
+  <p>O motitor aetherei culminis, nauigij clauum perdidi.</p>
+  <p>(1445) Nunc fera flumina exagitabunt *miserum,
+  illudentque.</p>
+  <p>Prudentia, Pulchritudo &amp; Fortitudo,</p>
+  <p>Quam auolant celerrime, mors vbi venerit.</p>
+  <p>Ah nimium instabiles auiculae.</p>
+  <p>QVINISENSVS.</p>
+  <p>Homule, heram suam oportet sequi pedissequam.</p>
+  <p>(1450) Forti esto animo. Moram vel hic agere non licet
+  paruulam,</p>
+  <p>Ne male audiam domi ancillula.</p>
+  <p>HOMVLVS.</p>
+  <p>O Quinisensus, ne me deseras obsecro.</p>
+  <p>QVINISENSVS.</p>
+  <p>Metum incutit mihi territlcum</p>
+  <p>Creber aliarum recessus sodalium.</p>
+  <p>(1455) Omnes enim isthinc diffugiunt quasi conspecto
+  dracone.</p>
+  <p>Qui naribus fumosos expuat ignes.</p>
+  <p>Ne crede quod ego tantis me temeraria committam periculis</p>
+  <p>Flammiuomam sub hoc busto latere reor viperam.</p>
+  <p>Nequiequam me postulaueris adiutricem.</p>
+  <p>60 HOMVLI</p>
+</div>
+<div type="level1" xml:id="scena-vii.">
+  <head>SCENA VII.</head>
+  <p>HOMVLVS.</p>
+  <p>(1460) An omnibus vobis linquendus sum hodie?</p>
+  <p>VIRTVS.</p>
+  <p>Minime: nam virtutem fallere quempiam</p>
+  <p>Fas non est, quam nihil est fidum magis mortalibus.</p>
+  <p>Illa deserit neminem, nisi qui illam aspernatur prior</p>
+  <p>Adero tibi, deiecti ne sis animi</p>
+  <p>HOMVLVS</p>
+  <p>(1465) Ah Quinisensus, quid criminis commerui,</p>
+  <p>Quod te mei non commiserescit?</p>
+  <p>QVINISENSVS.</p>
+  <p><milestone unit="folio" n="Diija"/> Vt voles, ita vocem efferas.</p>
+  <p>Pulmonem &amp; guttura rumpe, non audiam.</p>
+  <p>Nec voltum hodie, nec frontem contueris meam.</p>
+  <p>HOMVLVS.</p>
+  <p>(1470) O candida Virtus, tu saltem fidem seruato mihi.</p>
+  <p>VIRTVS.</p>
+  <p>Homule, ne discrede virtuti neque ambigas.</p>
+  <p>Quo Homulus, illuc pariter feretur sola virtus.</p>
+  <p>Seu fato, seu vita, seu mille supplicijs,</p>
+  <p>Rebus in aduersis semper fuit vnica virtus fida comes</p>
+  <p>HOMVLVS</p>
+  <p>(1475) Nunc veros dinosco ab infidis sodales;</p>
+  <p>Iniquus ego atque exoculatus, qui plus amoris contuli</p>
+  <p>In vmbratiles personatosque amiculos,</p>
+  <p>Qui vulpina duplicitate speciem tantum praeferunt fidelitatis</p>
+  <p>In eos, qui synceri sunt &amp; fraudis alieni.</p>
+  <p>(1480) O Cognitio tune etiam abibis auersa mihi?<ptr target="#tn79" n="79"/></p>
+  <p>V.7,1481-1504. ACTVS V 61</p>
+  <p>COGNITIO.</p>
+  <p>Non prius diuertam abs te pedem vnum,</p>
+  <p>Quam animos supremo concesseris fato tuos,</p>
+  <p>Relictoque solo, penetraueris astra perennis.</p>
+  <p>HOMVLVS.</p>
+  <p>Dulciter consolaris me &amp; amice.</p>
+  <p>(1485) Refertur gratia, mea candida soror Cognitio.</p>
+  <p>COGNITIO</p>
+  <p>Non absistam tibi, donec te suprema meta receptet,</p>
+  <p>Locetque virum destinatis sedibus,</p>
+  <p>Et tuae peregrinationis compotem.</p>
+  <p>HOMVLVS.</p>
+  <p>O splendor, O lux aurea coeli,</p>
+  <p>(1490) Ah tempus adest. nimis propere propellor ire.<ptr target="#tn80" n="80"/></p>
+  <p>Migrare oportet, &amp; debitum exoluere meum.</p>
+  <p>En omnes in me conuertite lumina, animum intendite.</p>
+  <p>Tempori sapite, viuite virtutum memores.</p>
+  <p>Perspicitisne vt nunc diffugiunt omnia?</p>
+  <p>(1495) Vnica virtus haeret, &amp; manet comes indiuidua.</p>
+  <p>VIRTVS.</p>
+  <p>Instabile &amp; infidum est, quicquid tellure progignitur.</p>
+  <p>HOMVLVS.</p>
+  <p>Quaeso animaduortite, vt nemo promissi verax est.</p>
+  <p>VIRTVS.</p>
+  <p>Pulchritudo, Fortitudo &amp; Prudentia</p>
+  <p><milestone unit="folio" n="Diijb"/> Raptim abierunt, vbi venit I1ece8sitas.</p>
+  <p>(1500) Sodales illius simul amici &amp; cognati,</p>
+  <p>Comperta angustia. transiliere perniciter.</p>
+  <p>Ex omnibus charis eius non est qui consoletur eam .</p>
+  <p>HOMVLVS.</p>
+  <p>Videte obsecro auditores, vt me deserunt omnes.</p>
+  <p>Sola amplexanda virtus est comes misero.</p>
+  <p>62 HOMVLI V,7,1505-1531.</p>
+  <p>(1505) O rex angelorum clementissime,</p>
+  <p>O regina &amp; mater tonantis clementissima,</p>
+  <p>E coelo feratis opem &amp; pacis amica munera.</p>
+  <p>VIRTVS.</p>
+  <p>Coram aeterno rege candidabo meos</p>
+  <p>Vultus, &amp; ora niue candidiora rutilabunt</p>
+  <p>HOMVLVS.</p>
+  <p>(1510) O angelorum rex &amp; clementissime pater.</p>
+  <p>VIRTVS.</p>
+  <p>O rector altissimi aetheris,</p>
+  <p>Facilem praebe exitum, &amp; prenam succinge breuem.</p>
+  <p>Da celerem amarae mortis finem Homulo.</p>
+  <p>O crudele fatum in omnes mortales.</p>
+  <p>HOMVLVS.</p>
+  <p>(1515) O rex coelestium legionum clementissime.</p>
+  <p>O regina mater tonantis clementissima,</p>
+  <p>In tuam protectionem pater commendo spiritum meum.<ptr target="#tn81" n="81"/></p>
+  <p>Terras relinquo, emigro virtute comite.</p>
+  <p>COGNITIO,</p>
+  <p>Communem omnibus nunc obiuit Homulus interitum,</p>
+  <p>(1520) Virtus &amp; illius digna feret praemia,</p>
+  <p>Opulentam requiem &amp; pacis pulchritudinem,</p>
+  <p>Largitore deo. qui duros labores &amp; flagra vellicantia,</p>
+  <p>Suaui nectare &amp; gaudio permutat intermino.</p>
+  <p>Angelicum. videor mihi aure captare melos,</p>
+  <p>(1525) Coelicolae dulces cantillant modulos,</p>
+  <p>Ob redeuntis animae optata desideria.</p>
+  <p>En suspicite, magnus recluditur olympus,<ptr target="#tn82" n="82"/></p>
+  <p>Venienti (vt arbitror) Homulo, salua sunt omnia.</p>
+  <p>ANGELVS.</p>
+  <p>Candida sponsa veni, propera decora</p>
+  <p>(1530) Animula in superos lares sedesque perpetuas,</p>
+  <p><milestone unit="folio" n="Diiija"/> Tua virtute comite fideli, regnique socia,</p>
+  <p>(63) V,7,1532-1539. ACTVS v</p>
+  <p>Coelituum turmis intersis laeta canentibus.</p>
+  <p>Aeternosque cape &amp; stabiles age dies modo.</p>
+  <p>Immortalem hoc lutulento corpore spiritum</p>
+  <p>(1535) Excipio Illius ratio absoluta est integra</p>
+  <p>Coram judice, virtute mediatrice optuma.</p>
+  <p>Nunc Illum aereo vectito gradu</p>
+  <p>Ad regia tecta celsitonantis, domosque sidereas,</p>
+  <p>Quo omnes vos peruenire cupio feliciter.</p>
+  <p>Laus deo trino &amp; vni.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+        
+<div type="notes"><note xml:id="tn1"><p><hi rend="footnote">1</hi> Alludit Terentianum illud in Phormione, Non possum adesse.
+    Frequens prouerbium.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Exclamatio in vecordem hominem.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ingratitudo conditi hominis</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Causa conditi hominis</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Accersit Deus Mortem.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Aduolat Mors iaculum manu gestans.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> exultabunda Mors iussis Dei paret.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> carniuales subindicat dies &amp; lupercales</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Procul conspiciens Homulum secum Mors loquitur.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Aggreditur Mors Homulum; per manum apprehendens.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Fugae studet Homulus splendide vestitus.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Admirabundus &amp; gemens.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Secum loquitur Homulus pectora tundens.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> Vibrat manu Mors iaculatum.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> Moeroris plena Homuli exclamatio.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> Desperabundus Homulus gladium admouet gutturi.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> Subleuatis in coelum oculis orat Homulus.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> Prendit Mors Homulum per brachia.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> cum accusatione sui.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> Precatur Homulus Mortem supplex.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> Ostentat dextra telum</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> Querimonia Homuli cum animi exhulceratione</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> Suam Homulus damnat vitae stultitiam.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> Opprobratio in huius Mundi insanum amorem.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> Vesperi periphrasis.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> Sibi loquitur mutata persona.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> Homulus ad amicos &amp; sodales quosque omnes.</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> Pulchra amici pollicitatio.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> Vibrat manu gladium Hannio.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> Ostendit manu strictum gladium.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> Laus virtutis.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> Ficta amicitia graphice depingitur</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> Exponit homulus sui moeroris causam.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> Mortis periphrasis.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> Studia iuuentutis.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> In Bellerophontem execratur homulus.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> Cum summa animi desperatione.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> Querimonia Homuli de sua infelicitate hominumque
+    instabilitate.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> Alta voce nunc vocat amicos Homulus</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> Habebit Megarius duos famulos stipatores.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> Ad hunc Homuli clamorem mulieres exibunt.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> Hic clatria ostendet Homulosibi adstantes proles.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> Sibi Homulus loquitur.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> Gemebundus sibi loquitur Homulus.</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> Habebit opulentia aureum in manu scyphum vini plenum.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> Reclinabit sedens Homulus inter manus caput instar meditabundi
+    cogitabundique paulisper in propatulo, vt videatur ab omnibus. Inde
+    surget, hoc modo proloquens.</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> Sedebit moerens virtus.</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> Complodet manus supplicans Homulus.</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> Stabit nutabunda virtus.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> Ostendit veteres &amp; fuliginosas literas.</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> Voluit reuoluitque literas instar querentis.</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> Manu retinet volentem virtutem.</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> Languida loquitur virtus.</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> Non rogata accedit cognitio.</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> Tradit confessio Homulo crucem in manum.</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> Alloquitur Confessio Cognitionem.</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> Hic ascendat Maria in thronum assessura filio ad sinistram.</p></note>
+<note xml:id="tn58"><p><hi rend="footnote">58</hi> Hic procumbat homulus ante Mariam supplex, quae sedebit iuxta
+    christum filium ad sinistram in throno qui cortinis vndique claudi
+    possit &amp; aperiri.</p></note>
+<note xml:id="tn59"><p><hi rend="footnote">59</hi> Hic clauditur thronus dei, &amp; Homulus vertit se ad
+    cognitionem.</p></note>
+<note xml:id="tn60"><p><hi rend="footnote">60</hi> Aperiatur rursus thronus, et procidens in genua Homulus &amp;
+    humeros nudos flagellans, oret ad deum.</p></note>
+<note xml:id="tn61"><p><hi rend="footnote">61</hi> Exuit Homulus vestes &amp; capit virgas a cognitione quibus nudos
+    flagellet humeros.</p></note>
+<note xml:id="tn62"><p><hi rend="footnote">62</hi> Orat Homulus ad sanctam trinitatem, gratiam agens de percepta
+    poenitentia.</p></note>
+<note xml:id="tn63"><p><hi rend="footnote">63</hi> Hic se flagellat Homulus.</p></note>
+<note xml:id="tn64"><p><hi rend="footnote">64</hi> Iterum flagellat loquens. Surgit Homulus &amp; loquitur astanti
+    turbae. Surgit virtus.</p></note>
+<note xml:id="tn65"><p><hi rend="footnote">65</hi> Porrigit Homulus Virtuti manum.</p></note>
+<note xml:id="tn66"><p><hi rend="footnote">66</hi> Dat Homulo cilicium induendum.</p></note>
+<note xml:id="tn67"><p><hi rend="footnote">67</hi> Complectitur dextera virtutem &amp; cognitionem.</p></note>
+<note xml:id="tn68"><p><hi rend="footnote">68</hi> Acutiori voce inclamabit Homulus &amp; mox prodibunt quatuor
+    nimphae.</p></note>
+<note xml:id="tn69"><p><hi rend="footnote">69</hi> Hoc dicto abit Homulus ad sacerdotem confessurus reatus, &amp;
+    aperitur locus cortinis clausus vbi sedebat poenitentiarius, qui
+    dicta confessione, tradet homulo Eucharistiae speciem.</p></note>
+<note xml:id="tn70"><p><hi rend="footnote">70</hi> Conuiciantur mutuo cacodaemones ob amissum Homulum.</p></note>
+<note xml:id="tn71"><p><hi rend="footnote">71</hi> Est noua scena, nam cacodaemones mutuo se verberibus caedentes
+    hinc abeunt.</p></note>
+<note xml:id="tn72"><p><hi rend="footnote">72</hi> Et succedit Virtus &amp; Homulus cum reliquis virginibus, vnde
+    Virtus rem orditur dicens. Habebit Homulus crucem in manibus.</p></note>
+<note xml:id="tn73"><p><hi rend="footnote">73</hi> Hic prudentia Homulum per dextram amplectatur.</p></note>
+<note xml:id="tn74"><p><hi rend="footnote">74</hi> Vrnam manu indicabit &amp; sepulchrum.</p></note>
+<note xml:id="tn75"><p><hi rend="footnote">75</hi> Abit ab Homulo pulchritudo.</p></note>
+<note xml:id="tn76"><p><hi rend="footnote">76</hi> Indicat manu sepulchrum.</p></note>
+<note xml:id="tn77"><p><hi rend="footnote">77</hi> Sibi loquitur Prudentia.</p></note>
+<note xml:id="tn78"><p><hi rend="footnote">78</hi> Abit procul prudentia ab Homulo.</p></note>
+<note xml:id="tn79"><p><hi rend="footnote">79</hi> Astabit in proscenio cognitio.</p></note>
+<note xml:id="tn80"><p><hi rend="footnote">80</hi> Manu indicabit Homulus sepulchrum.</p></note>
+<note xml:id="tn81"><p><hi rend="footnote">81</hi> Hic Homulus cum Virtute incidit in vicinum sepulchrum.</p></note>
+<note xml:id="tn82"><p><hi rend="footnote">82</hi> aperietur thronus dei.</p></note></div>
+
+    </body>
+</text>
+</TEI>

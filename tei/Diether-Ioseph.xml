@@ -1,0 +1,3150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0021" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Ioseph. Comoedia</title>
+        <title type="sub">Ioseph. Comoedia</title>
+        <author>Diether, Andreas</author>
+        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Ioannes Oporinus</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date>"1547"</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Diether-Ioseph</name><lb/>
+            Short title: <title>Ioseph</title><lb/>
+            Year of first edition: <date>1544</date><lb/>
+            Author information:<lb/>
+            Alias: None<lb/>
+            Birth: ??, ??<lb/>
+            Death: 1561, ??<lb/>
+            Floruit: None, Augsburg<lb/>
+            <ref target="https://de.m.wikisource.org/wiki/ADB:Diether,_Andreas">Link</ref><lb/>
+            <emph>Camena Universität Mannheim</emph><lb/>
+            <ref target="http://mateo.uni-mannheim.de/camena/drama/">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>IOSEPH</p>
+  <p>COMOEDIA EIVSDEM CVM</p>
+  <p>Praecedente argumenti, Andrea Die-</p>
+  <p>thero Augustano autore.</p>
+  <p>PERIOCHA.</p>
+  <p>FRatres Ioseph cum intelligerent puerum, fere</p>
+  <p>Quem in ultima senectute genuerat, seni</p>
+  <p>Patri in delicijs esse: commoti boni</p>
+  <p>Fauoris afflatu, uendunt innoxium</p>
+  <p>Negociatoribus auaris. Qui dein</p>
+  <p>Paulo post regio praefecto militum</p>
+  <p>In Aegypto uenit. cui cum gratus foret,</p>
+  <p>Ob bene compositos artus, atque candidam</p>
+  <p>Faciem adamatus dominae. cui, dum nititur</p>
+  <p>Pellicere blanditijs ad incestum (memor</p>
+  <p>Ioseph probandae exemplar castitatis) hic</p>
+  <p>Repugnat totis uiribus: castus tamen,</p>
+  <p>Falso: coargutus adulterij sordidi,</p>
+  <p>In carcerem conijcitur. saeuis uinculis</p>
+  <p>Postquam diu retentus, iussu regio</p>
+  <p><ref target="http://www.uni-mannheim.de/mateo/camena/drama/jpg/s0219.html">dram219</ref>X</p>
+  <p>Tandem eductus, cum somnia Pharaoni scite</p>
+  <p>Interpretatus esset: constitutus est</p>
+  <p>In dignitatis excelsissimum gradum</p>
+  <p>A rege. Post uocat suos (qui uener ant</p>
+  <p>Emptum frumenta tempore difficilimo)</p>
+  <p>Per fratres, dilectum parentem adse, sua</p>
+  <p>Cognatione cum omni, et supellectili,</p>
+  <p>Quam possidet, terramque lacte et melle dat</p>
+  <p>Fluentem patri habitandam, grandaeuo seni.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae-dramatis.">
+  <head>PERSONAE DRAMATIS.</head>
+  <p>Iacob duodecim filiorum pater Gabriel Angeli</p>
+  <p>Ioseph Michael</p>
+  <p>Simeon Dromo Lorarij</p>
+  <p>Zabulon Desmius</p>
+  <p>Leui Pharao rex</p>
+  <p>Gad Oenochous pincerna</p>
+  <p>Ruben Nephthalim</p>
+  <p>Xenius peregrinus Aser</p>
+  <p>Negociatores duo Isachar</p>
+  <p>Iudas Daetrus coquus</p>
+  <p>Dan Oeconomus dispensa</p>
+  <p>Potiphar militum praefectus tor</p>
+  <p>Zephirah uxor Potipharis Beniamin.</p>
+</div>
+<div type="level1" xml:id="prologvs.">
+  <head>PROLOGVS.</head>
+  <p>SI quem iuuat constantia, atque castitas,</p>
+  <p>Huc sensibus se referat quam integerrimis.</p>
+  <p>Auribus acutis res gestas diuinitus</p>
+  <p>Cupidissime hauriet. Non hac Comoedia</p>
+  <p>Mulieres depinguntur, quae hortos Adonidis</p>
+  <p>Ad pauculos dies uernantes, testulis</p>
+  <p>Quibusdam nutriunt, fouentque animas breui</p>
+  <p>Duraturas Non hic Iberae neniae.</p>
+  <p>Multo minus bellipotens quo modo Hercules</p>
+  <p>Tricipitem Cerberum, introitum cum Theseum</p>
+  <p>Et Alcesten Admeti Phoerei coniugem</p>
+  <p>Ab inferis eduxerit ad superos, ei</p>
+  <p>Negantem, barba coeperit, triplicique eum</p>
+  <p>Catena per Taenaron ad superos traxerit.</p>
+  <p>Sed hic uides sapientiam (auditor) Dei</p>
+  <p>Diuinam, atque regimen potens. nam quem Deue</p>
+  <p>Exaltaturus est, primum deicit ita,</p>
+  <p>Vt quasi nullum eius respectum habeat amplius,</p>
+  <p>Deprimit ad inferos. Sic Ioseph contigit.</p>
+  <p>Attamen omnipotens mundi rector deserit</p>
+  <p>Nunquam sibi fidentes. Quod testatur hic</p>
+  <p>Sapiens, cum inquit, Sapientia iustum uenditum</p>
+  <p>Non dereliquit, uerum a peccatoribus</p>
+  <p>Liberat eum, descenditque cum eo in foueam atra,</p>
+  <p>In uineulis non dereliquit. Dum potens</p>
+  <p>Illi offerret sceptrum regni, aduersusque eos</p>
+  <p>Potentiam, qui deprimebant. Simulin hac</p>
+  <p>Historia Christus nobis quam scitissime</p>
+  <p>Depictus est per Ioseph. Similiter etenim</p>
+  <p>Actum est cum saluatore nostro ab inuidis</p>
+  <p>Iudaeis, iuxta carnem fratribus. Patri</p>
+  <p>Primum diligitur filijs prae caeteris.</p>
+  <p>Hinc tunicam contextam filys uarijs, pater</p>
+  <p>Dedit minori natu, quem coniunx parit</p>
+  <p>In nonagesimo primo aetatis uiro.</p>
+  <p>Hic primogenitus filius felicis est</p>
+  <p>Rachel Iacob dilectae uxoris. Christus est</p>
+  <p>Sic primogenitus, in quo omnes alij sumus</p>
+  <p>Fratres dilecti. Varijs quae coloribus</p>
+  <p>Autem tunica inter texta, sancta ecclesia est,</p>
+  <p>Quae donis externis insignita uarijs,</p>
+  <p>Vnum tamen corpus, et aethereus spiritus</p>
+  <p>Vnus, fides eadem, alij quidem fidem</p>
+  <p>Habeni firmam, alij infirmam continent fidem.</p>
+  <p>Illis datum est, diuinitus ut annuncient</p>
+  <p>Promissiones diuinas culiu pio:</p>
+  <p>His uero orare, et pauperibus ut seruiant.</p>
+  <p>Somnia duo, loseph quibus uocatus est</p>
+  <p>Ad imperium, referum saluatorem probe,</p>
+  <p>Dicentem, Ego et parens, unum sumus meus.</p>
+  <p>Oracula sunt prophetarum ista somnia,</p>
+  <p>Nec nonfigurae de Christo, quas infidi</p>
+  <p>Iudaei, neque prophetarum qui spiritu</p>
+  <p>Sancto loquebantur, neque Christi uocibus</p>
+  <p>Percipere uoluerunt. misit gnatum Deus</p>
+  <p>In Sichem, id est ad debitores asperae</p>
+  <p>Legis, sed inuenti traditionbus</p>
+  <p>Humanis seruientes sunt. Ac denique,</p>
+  <p>Tunciam cruore tinctam transmittunt patri,</p>
+  <p>Interque mortuos, atque reos deputant</p>
+  <p>Criminis, et dicunt deuoratum a bestijs,</p>
+  <p>Id est, Pilato et gentibus. Postremo eum</p>
+  <p>Lacui demittunt, uelut ad mortem et inferos,</p>
+  <p>Quare, qui amas audire uicissitudines</p>
+  <p>Rerum iocundas, et Ioseph constantiam,</p>
+  <p>Faue aequo animo nobis, et cum silentio</p>
+  <p>Aduertito, ut quid sibi uelit Ioseph queas</p>
+  <p>Cognoscere, atque hinc mores transformes tuos.</p>
+</div>
+<div type="level1" xml:id="actvs-primi">
+  <head>ACTVS PRIMI</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-i.">
+  <head>SCENA I.</head>
+  <p>Iacob.</p>
+  <p>Qvibus tibi uerbis Deus dignas agam</p>
+  <p>Suppreme gratias, pro inexhausta tua in</p>
+  <p>Me liberalitate? Cuius perpetis</p>
+  <p>Benignitatis fontem nunquam claudier</p>
+  <p>In me sensi. Neque etiam unquam preces meas</p>
+  <p>Mea in tribulatione contempsti pater.</p>
+  <p>Sed potius in rebus dubijs porrexeras</p>
+  <p>Dextram manum. dux, et propinquantis mali</p>
+  <p>Depulsor eras perpetuo, fidusque in meis</p>
+  <p>Profectionibus comes fueras mihi.</p>
+  <p>Per saxa, per syrtes, uoracesque scopulos,</p>
+  <p>Per frigora, atque inges per horridos procul</p>
+  <p>Insomnis, impiger peragrans iussu tuo,</p>
+  <p>Noctu diuque urgebar aestu, etiam gelu:</p>
+  <p>Et fugiebat somnus saepe ab oculis meis.</p>
+  <p>Sedistam afflictonem, atque laborem meum</p>
+  <p>Manuum mearum respexisti denique.</p>
+  <p>Forti manu incolumem reseruasti tamen</p>
+  <p>Seruum audientem semper dictis omnibus</p>
+  <p>Tuis. Dolores mitigasti pergraues,</p>
+  <p>Tusolus exhibuisti amara dulcia.</p>
+  <p>Vias molestas uertisti in suauissimas.</p>
+  <p>Ex improborum eripuisti me faucibus,</p>
+  <p>Mortalium mihi inuidentium nimis.</p>
+  <p>Largitus es beneuole abundatia bona.</p>
+  <p>Bonorum enim thesaurum abundantissimum</p>
+  <p>Congessi, uti pecoris, et auri fulgidi:</p>
+  <p>Vberrimos greges, campos latissimos.</p>
+  <p>Mille meae Gaiaad errant agnae mmontibus.</p>
+  <p>Frugifer hortus non fabulosi Tantali,</p>
+  <p>Sed omnium celeberrimorum fructuum</p>
+  <p>Ferax, amomi, balsamique, et caeteras</p>
+  <p>Preciosas continet arbores multiuarias.</p>
+  <p>Sunt aedium longi recessus, hinc mihi</p>
+  <p>Scatet campus pecoris niuei prae copia.</p>
+  <p>Lac mihi nec aestate nouum, nec defit hyeme.</p>
+  <p>Dedit mihi de humi Deus pinguedine,</p>
+  <p>De rore caeli, uini, olei abundantiam.</p>
+  <p>Crescere me fecit, ac multiplicauit, modo</p>
+  <p>Praefecit me populorum turbis, et meae</p>
+  <p>Peregrinationis terram fertilem</p>
+  <p>Possedi. et dilatatus sum ad orientem, et ad</p>
+  <p>Septentrionem, ac relliquas plagas duas.</p>
+  <p>Cunctae benedictae sunt inme, et semine meo</p>
+  <p>Terrae tribus. Fortunae muneribus, quoque</p>
+  <p>Naturae commodis abundo largiter.</p>
+  <p>Mihi bonorum aceruus influit in domum</p>
+  <p>Sine fraude, nemini patrata iniuria.</p>
+  <p>Nec secus ac formicarum properantum greges,</p>
+  <p>Sic semper multiplicantur mihi magnifice opes.</p>
+  <p>Atque ista quoties infpicio, patriam domum,</p>
+  <p>Et coniugem, atque liberos. toties Dei</p>
+  <p>Beneficium uidere me dico boni.</p>
+  <p>Porrouager senex, senectam supprimens?</p>
+  <p>Rigent manus mihi laboribus seni,</p>
+  <p>Sunt debiles pedes, pectora trementia:</p>
+  <p>Hebescunt sensus, membra torquentur male:</p>
+  <p>Praemoritur uisus, auditus minuitur, et</p>
+  <p>Dentes ex ordine excidunt. porro uager?</p>
+  <p>Non faciam. quia nunc partum est mihi quo uictitem.</p>
+  <p>Reconditumque, quod teram cum filijs.</p>
+  <p>Quorum duodecim numero, magna fpes mihi</p>
+  <p>Sobolis futurae, quorum Ioseph suauior.</p>
+  <p>Sat hercle donorum Dei, quo filij</p>
+  <p>Viuant honeste cum parentibus, suis.</p>
+  <p>Quod supererit uitae, ocio dare statui, ut</p>
+  <p>Indulgeat geniosenectus ultima.</p>
+  <p>Tamen laboris ut uacuum ne dem mihi</p>
+  <p>Tempus, curabo: sed quod est necesse, agam.</p>
+  <p>Fodere, aut arare, aut aliquid ferre denique,</p>
+  <p>Ruriagere uitam fecundos inter greges</p>
+  <p>Pecorum, susurrantes super gaudens apes,</p>
+  <p>Inter sacros fontes, liceat dulcissime</p>
+  <p>Senectutem finire depressam precor.</p>
+  <p>Nec tamen usque adeo ulli est uoluptas blandiens</p>
+  <p>Syncere, sed subinde aliquid interuenit</p>
+  <p>Sollicitum laetis, nunc pluit, claroque nune</p>
+  <p>Aethere Deus lucet, cuique ita mortalium</p>
+  <p>In uita comparatum est, ita placitum Deo,</p>
+  <p>Felicitati ut maeror assiduus comes</p>
+  <p>Sequatur. Nil quicquam datum diuinitus</p>
+  <p>Tam profpere hominibus, quin admixtum tamen</p>
+  <p>Sit difficultatis aliquid. Nunc tristibus</p>
+  <p>Vitam Deus, nunc laetis miscet. omnia</p>
+  <p>Velut aestuario quodam recedere</p>
+  <p>Fluxu, refluxuque atque accedere subito.</p>
+  <p>Et reliqua miscet cuncta tempus impotens.</p>
+  <p>Terrae per has uis atque robur interit,</p>
+  <p>Simulque nostri corporis perit uigor,</p>
+  <p>Moritur fides, perfidia pullulat inuicem.</p>
+  <p>Nec animus idem, nec eadem concordia.</p>
+  <p>Haud unquam dur at amicus erga amiculum:</p>
+  <p>Si quidem his statim, illis post pusillum temporis</p>
+  <p>Incunda quae fuerant, amara ac tristia.</p>
+  <p>Dolia namque Dei duo stant plena in limine</p>
+  <p>Muneribus, quae donat Deus, in hoc sunt mala,</p>
+  <p>In illo bona. miscens hinc dispensat, mala</p>
+  <p>Nunc distribuens, ac tristia, nunc rursum bona.</p>
+  <p>Et bona se iungere nobis haud malis licet.</p>
+  <p>Atque haec ex me coniectura assequi licet.</p>
+  <p>Gnatorum nam meorum, ex insolentia,</p>
+  <p>Pars morbidae parant senectae plurimas,</p>
+  <p>Diras quoque aerumnas, et indies grauant</p>
+  <p>Maerore, cura, iniuria me adeo senem:</p>
+  <p>Solus Ioseph ueretur, est modestus, et</p>
+  <p>In eo me oblecto, solus est charus mihi,</p>
+  <p>Frugi satis nobis, sibique maxime.</p>
+  <p>Sedest ne hic ipse de quo agebam? certe is est.</p>
+  <p>Tristem plus solito uideo, fratres arbitror</p>
+  <p>Iurgasse cum ipso (uti solent) acerrime.</p>
+  <p>Satin tibi omnia cedunt ex sententia?</p>
+  <p>IO. Ego horreo dicere pater de iniuria</p>
+  <p>Fratrum meorum, quid querar? facere sine</p>
+  <p>Summo dolore non queo. qui maxumo</p>
+  <p>Amore in eos flagrat, ei reddunt pro bono</p>
+  <p>Malum. Me unum esse uideo, quem pro maxima</p>
+  <p>Pater obseruantia, iram opus subire sit.</p>
+  <p>Tanta est leuitas in fratribus meis. eos</p>
+  <p>Vt non obedientia delectet mea</p>
+  <p>Quam splendor et fauor, quo me pater optume</p>
+  <p>Prosequeris, offendat, adeo sunt singuli</p>
+  <p>Mihi inuisi, ut nihil ego acerbum non putem</p>
+  <p>Quod sit commune cum illis. manifeste inuident,</p>
+  <p>Praesenti irascuntur mihi, absentem nimis</p>
+  <p>Execrantur, tantam inuidiam uix diutius</p>
+  <p>Potis sum sustinere. IA. Tangitur animus</p>
+  <p>Meus dolore nimiumque necessario.</p>
+  <p>IO. Omnia habeo aequiora, et suauiora, quam</p>
+  <p>Animum sratrum. IA. Furore ab incepto cito</p>
+  <p>Perfecero reuocentur. IO. In falsam pater</p>
+  <p>Et iniquam probrorum uocatus, ut siem</p>
+  <p>Video simulationem, cum tamen queat</p>
+  <p>Vestigium nullum libidinis mihi</p>
+  <p>Obici, aut petulantiae. sed has iniurias</p>
+  <p>Terere et contundere debeo, istuc taedium</p>
+  <p>Vorare. IA. Miror, quod uiris praestantibus,</p>
+  <p>Virtutis et Probitatis studiosis, uelut</p>
+  <p>Fato accidit quodam, improbos ut procreent</p>
+  <p>Plerunque filios. aequet raro patrem</p>
+  <p>Proles, sed ab his degenerant gnati plurimi.</p>
+  <p>Pauci parentes probitate super ant suos.</p>
+  <p>IO Ego sane putabam nos eiusmodi</p>
+  <p>Fratres coniunctos esse necessitudine,</p>
+  <p>Vt nulla nasceretur inter nos parens</p>
+  <p>Irae atque belli discordia, regnis comes.</p>
+  <p>IA. Non meritas fratrum iniurias committito</p>
+  <p>Deo, qui uin dex mali, ille ulciscitur</p>
+  <p>Iras iniustas. fili mi, quanto magis</p>
+  <p>Ingratitudinem significant tibi, minus</p>
+  <p>Tanto fauorem consequentur apud patrem</p>
+  <p>Suum. Illud cogitabis, maiorem quoque</p>
+  <p>Laudem ferendo iniurias nos consequi,</p>
+  <p>Quam ulciscendo. Solius ultio Dei,</p>
+  <p>Qui uindicabit iniquitates omnium.</p>
+</div>
+<div type="level1" xml:id="scena-ii.">
+  <head>SCENA II.</head>
+  <p>Simeon. Zabulon. Leui. Gad.</p>
+  <p>Ioseph. Iacob.</p>
+  <p>Pater relictis omnibus iussit greges</p>
+  <p>Pascere nos, in campis pasturis optimis,</p>
+  <p>Retinens domi loseph dilectum filium:</p>
+  <p>Reliquaque familia uacat a laboribus.</p>
+  <p>Dijbom, quam misera nostra seruitus?</p>
+  <p>Vnum Ioseph fidum, et probum in suis bonis</p>
+  <p>Existimat inter caeteros. utinam puer</p>
+  <p>Sublatus e medio foret, dij uelint.</p>
+  <p>Consultandum nobis fratres profecto erit,</p>
+  <p>Et uehementissime instandum omnibus modis,</p>
+  <p>Vt hanc tetram, tam horribilem, tam infestam omnibus</p>
+  <p>Nobis effugiamus luem, nullo modo</p>
+  <p>Possumus ijsdem existere tuto parietibus</p>
+  <p>Cum Ioseph. ZA. Vendamus eum mercatoribus.</p>
+  <p>SI. Hoc quis ferre potest, hominem inertem fortibus</p>
+  <p>Viris insidiari. puerum stultissimum</p>
+  <p>Prudentibus? Nae ille uehementer errat, hic</p>
+  <p>Si pristinam illam lenitatem iam meam</p>
+  <p>Sperat futuram perpetuam. non est locus</p>
+  <p>Hic lenitati, sedres ipsa flagitat</p>
+  <p>Seueritatem. ZA. Occasionem cernimus,</p>
+  <p>Quandoquidemque datam nobis, aduocabimus</p>
+  <p>Adnos eum, nihil dum suspicantem. Ad hanc</p>
+  <p>Rem conficiendam delectus sum ego optime.</p>
+  <p>Nihil est quod ipse non obire iam uelim,</p>
+  <p>Vigilare, laborare, ut ego hanc a ceruicibus</p>
+  <p>Nostris solus depellam molem saxeam.</p>
+  <p>Si ex his laqueis, quos strictim tendo exuerit, ac</p>
+  <p>Aliqua ui ac ratione modo se explicauerit,</p>
+  <p>Incidet in casses, atque maiores plagas</p>
+  <p>Ex improuiso. mortem acerbam struximus-</p>
+  <p>LE. Occasionem oblatam arripiemus cito.</p>
+  <p>Namque aestas non semper fuerit. Componimus</p>
+  <p>Ad institutum nos. uiuit Ioseph enim</p>
+  <p>Non ad deponendam proditionem, sed ad</p>
+  <p>Confirmandam rabiem, et ferocem nequitiam.</p>
+  <p>GAD. Latet mihi sub pectore repositus dolor,</p>
+  <p>Frequentis accusationis ad patrem,</p>
+  <p>Quem ego: sed praestat motum animum componere.</p>
+  <p>Ecce aduenit, quid nunc sibi uolt os impudens?</p>
+  <p>Adibo, quid sit, per contabor ocyus.</p>
+  <p>Cur his regionibus te confpicio Ioseph?</p>
+  <p>Salue, ecquid mandati genitor tibi dedit,</p>
+  <p>Quod nobis praecipias? IO. Nihil, frater, aliud.</p>
+  <p>ZA. Quid isthuc, obsecro narra, si quidem placet,</p>
+  <p>Effunde nenias, quas fingis somnians.</p>
+  <p>Alienius tibi uidetur, fratribus</p>
+  <p>Vtcollo quaris? IO. Non, sed quidam me et pudor</p>
+  <p>Subrusticus tenet, et graue est haec dicier,</p>
+  <p>Quae uidi per somnum. SI. Dic, auscultabimus,</p>
+  <p>Ne tamdiu rerum nouarum nos tene</p>
+  <p>Suspensos expectatione. IO. Somnium</p>
+  <p>Audite fratres iam meum, quod uideram</p>
+  <p>Secundum proxumam quietem, aduortite</p>
+  <p>Animum. Putabam nos ligare manipulos,</p>
+  <p>In agro messis temporibus: et manipulum</p>
+  <p>Meum inter caeteros stare, et consurgere.</p>
+  <p>Cir cumsteterunt cito parati mergites</p>
+  <p>Vestri meum, inclinantes terrae mergitem</p>
+  <p>Adorare extensis palmis ad sidera.</p>
+  <p>SI. Nunquid eris rex noster? tibi strati ad pedes</p>
+  <p>Cogemur seruire, traeque (malum) subicimur</p>
+  <p>Potestati? discede hinc in crucem malam</p>
+  <p>Praestigiator istis somnijs tuis.</p>
+  <p>IA. En glomer ati adsunt pueri, et inter se gerunt</p>
+  <p>Nescio quid occultae rei, minime integrae. heus</p>
+  <p>Quid mussitatis mutuo, nolite me</p>
+  <p>Celare, dum mea interest: quin dicite.</p>
+  <p>IO. Aliud quiescenti apparuit insomnium.</p>
+  <p>Vidi quasi Solem et Lunam, quoque undecim</p>
+  <p>Stellas adorare adeo potentiam meam.</p>
+  <p>IA. Quid uolt sibi hoc instar monstri adeo somnium,</p>
+  <p>Quod uideras? num ego pater et mater tua,</p>
+  <p>Fratresque tui ador abimus te ceu Deum</p>
+  <p>Terram super? quae filij praesumptio?</p>
+  <p>Custodiam tacitus haec uerba somnij</p>
+  <p>Cordibus his intimis. Vos discedite, greges</p>
+  <p>Ouium boumque armenta pascitote iam,</p>
+  <p>Iussa capessite parentis, tu me intro sequere.</p>
+</div>
+<div type="level1" xml:id="scena-iii.">
+  <head>SCENA III.</head>
+  <p>Ruben.</p>
+  <p>Si quando simultas inter fratres incidit,</p>
+  <p>Easolet esse atrocior uulgarium</p>
+  <p>Simultate inimicorum, qui supra modum</p>
+  <p>Cum amant, ijdem saepius supra modum</p>
+  <p>Oderunt inuicem. lues foedissima est,</p>
+  <p>Res dira, uerbis inuicem altercarier,</p>
+  <p>Dictisque fratres dimicare mutuis,</p>
+  <p>Si quando lis inciderit, aut contentio,</p>
+  <p>At tollate medio res est teterrima,</p>
+  <p>Frater fratrem, non perpendentes sedulo</p>
+  <p>Quam destituta est uita humana, obnoxia</p>
+  <p>Quantis periculis, quantis angustijs.</p>
+  <p>Sexcenta morborum genera hominem indies</p>
+  <p>Infestat, nec iam pauciores impetunt</p>
+  <p>Casus. ruinae, bella, terraemotus, et</p>
+  <p>Lapsus fulmen, et aliud quid non homini accidit?</p>
+  <p>Et hoc est animal illud, quod tantos parit</p>
+  <p>Et molitur tumultus? cuius orbis hic</p>
+  <p>Angustus est mundi uagi cupidini.</p>
+  <p>Illud uelim considerent exactius,</p>
+  <p>Victoriarum ut omnium longe optima est.</p>
+  <p>Etprima, si quis seipsum belle uicerit:</p>
+  <p>Ita ipsum seipso inferiorem esse, est omnium</p>
+  <p>Turpissimum et foedissimum. Vincit quidem</p>
+  <p>Seipsum, qui proficit in melius. Euadere</p>
+  <p>Autem seipso inferiorem, est flecti semper in</p>
+  <p>Peius. et hi cantiones patrias haud canunt.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.">
+  <head>SCENA IIII.</head>
+  <p>Iacob. Ioseph.</p>
+  <p>Adesdum, paucis te uolo, fili, tui</p>
+  <p>Fratres morantur in Sichem, gregibus meis</p>
+  <p>Pascendis praefecti, arduis in montibus.</p>
+  <p>Percipe, dimittam nunc te celeriter ad eos.</p>
+  <p>IO. En adsum tibi, faciam quodcunque iusseris,</p>
+  <p>Hem praesto sum uoluntati tuae obsequi.</p>
+  <p>IA. Vade, et uide num cuncta prospera sint tuos</p>
+  <p>Inter fratres, et errantes ouium greges.</p>
+  <p>Renuncia mihi quid agatur, gnate mi,</p>
+  <p>Tuo charissimum patri pignus quidem.</p>
+  <p>IO. Obediens faciam gentior mandata, quae</p>
+  <p>Iubes, meis cunctis diebus, mi pater</p>
+  <p>Per secula, ut uiuam super faciem soli</p>
+  <p>Incolumis, et precium feram diui Abraam,</p>
+  <p>Cui Dominus dicit, quod obedisti in omnibus,</p>
+  <p>Custodisti mandata omnia Domini tui,</p>
+  <p>Iis te accommodasti, propterea tui</p>
+  <p>Nunquam deficient filij stirpe a tua,</p>
+  <p>Immo diebus cunctis coram me firmiter</p>
+  <p>Stabunt. Abeo, morandi non est hic locus.</p>
+  <p>IA. Heus fili mi, uale longum. Deus tibi</p>
+  <p>Omnipotens benedicat, ducant atque reducem</p>
+  <p>Incolumem faciant te dij, feliciter</p>
+  <p>Ingredere iter tuum, Deus sit tibi comes.</p>
+  <p>IO. Vale pater. IA. Tu quoque uale perenniter.</p>
+  <p>Ioseph ingreditur aedes, et se itineri accingit.</p>
+  <p>Obstupuit animus, gelidusque tremor mihi nimis</p>
+  <p>Currit per ossa, gelidus formidine coit</p>
+  <p>Sanguis, stantque comae horrore, et haeret faucibus</p>
+  <p>Vox iam. quis nam dolor mentem incessit meam?</p>
+  <p>Quis ue tremor manuum, quis ue oris habitus mihi?</p>
+  <p>Animus timore contabescit maxime.</p>
+  <p>Vix animi sum compos senex miserrimus.</p>
+  <p>Nescio mali quid animus praesagit mihi.</p>
+  <p>Tu tamen o supreme Deus, eripies meis</p>
+  <p>Periclis me futuris. tum praeconia</p>
+  <p>Tua cantabo cithara resonanteque grauiter,</p>
+  <p>Quam sint magna tua quae facis pater omnia.</p>
+  <p>Quando opera aspicio, quae tua manus conficit,</p>
+  <p>Totus ceu laetitia rapiente confluo.</p>
+  <p>Qui sine principio es, qui sine fine manes Deus.</p>
+  <p>Et cuius sancta domus durabit firmiter</p>
+  <p>Annos in perpetuos, nulla hinc sccula ferent</p>
+  <p>Diem extremum. Qui sceptrum quassas fortiter</p>
+  <p>Dextra manu, tibi fido, tu cornua</p>
+  <p>Meae salutis attolles sursum, uelut</p>
+  <p>Procera cornigerae ferae cornua Deus</p>
+  <p>Erigis. Ah caelestis pater tu protege,</p>
+  <p>Gnati salutem, et dirigas feliciter</p>
+  <p>Gressus mei, donec incolumis redierit.</p>
+</div>
+<div type="level1" xml:id="scena-v.">
+  <head>SCENA V.</head>
+  <p>Ioseph. Xenus.</p>
+  <p>Enimuero Ioseph loci nihil tibi</p>
+  <p>Est segnitiae, quantum intellexi patris hic</p>
+  <p>Sententiam, de abitione nunc tui.</p>
+  <p>Sed ubi queram? quem conter? quam insistam uiam!</p>
+  <p>Vbi inuestigem fratres incertum est meos.</p>
+  <p>Hunc ego cesso montem ascendere ualde arduum?</p>
+  <p>Abeo, ascendo, num possint illinc confpici,</p>
+  <p>Videbo accurate ex umbrosis uallibus:</p>
+  <p>Defpexi, non quisquam apparet. quid nunc ago?</p>
+  <p>Alio me conferam? quorsum? perrexero</p>
+  <p>Ne ad laeuam, aut dextram? utinam aliquis modo hicsiet</p>
+  <p>Quem perconter de proxima ad fratres uia.</p>
+  <p>Ecce ex inopinato tibiuir conspectus est.</p>
+  <p>Heus heus ades, resiste. XE. Quis homo me uocat?</p>
+  <p>IO. Statua Mercurialis mi uir sies mihi</p>
+  <p>Precor, benignius monstra erranti uiam.</p>
+  <p>XE. Mi adolescens, qua fortuna ductus aduenis!</p>
+  <p>IO. Fratres quaesitum me pater misit meus,</p>
+  <p>Ah nescis ubi sint, non uidisti forte eos?</p>
+  <p>Demonstrato locum mihi ubi pascant greges.</p>
+  <p>XE. Recesserunt multo ante tempore ex loco</p>
+  <p>Isthoc. huc ades, o formose puer, hac greges</p>
+  <p>Compulerant Simeon, Zabulon, Nepthalique Dan,</p>
+  <p>Adolescentes iam florentes aetatibus.</p>
+  <p>Oues huc Simeon, Zabulon huc pepulit greges</p>
+  <p>Capellarum. cuncti requiescere poterant</p>
+  <p>Hic ubi uiridis ripas praetexit arundine</p>
+  <p>Riuus tenera, eque sacra quercu examina</p>
+  <p>Resonant, ubi uallis acuta atque densa erat</p>
+  <p>Cupressu conifera, herbis salubribus uirens.</p>
+  <p>Cuius in extremo est antrum ualde concauum,</p>
+  <p>Qua cauus exesum antrum pumex testudinat,</p>
+  <p>Arte laboratum nulia. simular at suo</p>
+  <p>Ingenio natura artem: nam puimce caua,</p>
+  <p>Et leuibus tofis natiuum arcum duxcrat,</p>
+  <p>Fons sonat a dextra tenui perlucidus aqua.</p>
+  <p>Hiatus gramineo succinctus margine</p>
+  <p>Patulos. Suauia posthabuerunt haec omnia,</p>
+  <p>Perrexeruntque unanimes in Dathain locum.</p>
+  <p>IO. Ago tibi suauissimas uir gratias,</p>
+  <p>Molestiam quod caeperis tantam mea.</p>
+  <p>Hic gratia, mihi in demonstranda uia.</p>
+  <p>XEN. Pergas feliciter, atque bellissime uale.</p>
+  <p>IO. Tu quoque uale, dilecte amice quam optime.</p>
+</div>
+<div type="level1" xml:id="actvs-secvndi">
+  <head>ACTVS SECVNDI,</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-i.-1">
+  <head>SCENA I.</head>
+  <p>Simeon. Ruben. Ioseph.</p>
+  <p>Negociatores. Iudas.</p>
+  <p>NEscio quid hoc negoti sit, nisi mihi</p>
+  <p>Male timeam, ne quam turbam Ioseph domi</p>
+  <p>Nobis fecerit: ecce nisi oculi parummei</p>
+  <p>Prospiciunt, festinanter aduenit eminus.</p>
+  <p>Is ipsus est. uenite citi, dabimus eum</p>
+  <p>Neci, mittemusque in fontem algidum. graues</p>
+  <p>Poenas barathro praeceps immersus fero</p>
+  <p>Dabit, gemat barathro inclusus longius.</p>
+  <p>Dicemus patri: Absorbuit fera pessima</p>
+  <p>Eum. iam apparebit, uidisse somnium</p>
+  <p>Quid conducat scitissimo: tenebitur.</p>
+  <p>RV. Non inter ficiamus nostri fratris animam:</p>
+  <p>Deus etenim requiret eius sanguinem</p>
+  <p>Ex nostris manibus. Immo mandati Dei</p>
+  <p>Recordemur, iubentis, non homicidium</p>
+  <p>Facies. Nescitis qua poena multatus est</p>
+  <p>Cain? cum occidisset suum fratrem ferox.</p>
+  <p>Vbi est perustae frontis impudens scelus,</p>
+  <p>Dixit Deus. nunc igitur maledictus sies</p>
+  <p>Almam super terram, quae aperuit os suum,</p>
+  <p>Suscipiens sanguinem tui fratris, manu ex</p>
+  <p>Tua. Cum operatus fueris eam, nullos ea</p>
+  <p>Fructus dabit, et uagus et profugus eris sper</p>
+  <p>Terram. praedixi enim, si semper egeris</p>
+  <p>Bene, recipies: sin autem male, statim tuum</p>
+  <p>In foribus peccatum aderit horridum tibi,</p>
+  <p>Sciens quandoquidem conatus saeuum scelus,</p>
+  <p>Primus impium attulisti umbris scelus,</p>
+  <p>Teque scelere inexpiabili implicas, ego</p>
+  <p>Deus sanguinei uindex sceleris. an improbe</p>
+  <p>Non hac poena terribili terreris? nefas,</p>
+  <p>Si mens rebellat tua adhuc poenae uindici.</p>
+  <p>Nihil times. ipsus poenis atrocibus</p>
+  <p>Vltro occurres? non te poenas existimas</p>
+  <p>Hausturum? SI. Dixisti pulchre. sapientia</p>
+  <p>Non nobis eadem est, quae tibi. consentis et</p>
+  <p>Tu in facinus Ioseph contra nos? utinam esset hic</p>
+  <p>Discer ptus orci pallidi de faucibus,</p>
+  <p>Et draco squamosus furui orci ianitor</p>
+  <p>Absorbuisset eum. beatus ego forem.</p>
+  <p>RV. Prius homini supremus fatorum dies</p>
+  <p>Expectandus, ne se beatum iudicet</p>
+  <p>Quisquam, nisi nihil mali ille exegerit</p>
+  <p>Aeuum, passus. nec quenquam dic mortalium</p>
+  <p>Vnquam beatum citius, atque mortuo</p>
+  <p>Illo, supremum uideris uitae diem.</p>
+  <p>Tu te beatum existimas, quod flatibus</p>
+  <p>Fortuna prouehit benignis iam tuum</p>
+  <p>Facinus? erras, in melius animo flectere.</p>
+  <p>Abijce scelesta cogitationis (ut</p>
+  <p>Posterior esse ali quando cogitatio</p>
+  <p>Prudentior queat tibi, siquidem solent)</p>
+  <p>Consilia: si quid est Parum recte, licet</p>
+  <p>Corrigere posterioribus sententijs.</p>
+  <p>Beneficium semper beneficium parit,</p>
+  <p>Et gratiam concors meretur gratia.</p>
+  <p>Considerate quam felix concordia</p>
+  <p>Sit, fratres quae unanimes ligat. fructus habet</p>
+  <p>Vberrimos. consona fraterno uita si</p>
+  <p>Sit omnis amori, quis uerae dubitet opus</p>
+  <p>Dicere pacis? tam sanctam sequitur gestiens</p>
+  <p>Pacem uoluptas, quam pius pascens amor</p>
+  <p>Aethereo nectare. quoniam Dominus suam</p>
+  <p>In talibus mandauit contubernijs</p>
+  <p>Benedictionem firmiter manere, nec</p>
+  <p>Non uitam eorum durare in secula nimis.</p>
+  <p>SI. Ni fallor, ipsus aduenit. IO. Fidissimi,</p>
+  <p>Saluete una salute fratres singuli.</p>
+  <p>SI. In laqueos lupus, ades, teneris optime</p>
+  <p>Medius. Ornaberis uirtutibus tuis.</p>
+  <p>Dignas lues Ioseph poenas factis tuis.</p>
+  <p>Inuenit impium Deus tandem bonus.</p>
+  <p>IO. Qui sic? nunquid mihi irascimini innoxio?</p>
+  <p>RV. Tales simus in alios, quales nos poscimus</p>
+  <p>Illos in nos futuro. qua mensura enim</p>
+  <p>Fueritis alijs mensi, eadem caeteri</p>
+  <p>Remetientur uobis: et quo iudicio</p>
+  <p>Vos iudicatis, eodem iudicemini.</p>
+  <p>Ob ista ne quid occultes, siquidem intuens</p>
+  <p>Cuncta, audiensque cuncta proferet dies.</p>
+  <p>Omnia pariter immensus ordo temporum</p>
+  <p>Occulta prodit, et idem prodita occulit,</p>
+  <p>Subigit atque fateri, quae quis superos apud</p>
+  <p>Furtim laetatus inani forte piacula</p>
+  <p>Commissa, in seram nimium mortem distulit.</p>
+  <p>Celatum nil quod non reuelabitur, et est</p>
+  <p>Nihil occultum, quod nescietur. quin Deus</p>
+  <p>Quanquam nocentem non castigat illico,</p>
+  <p>At faciet tandem, luerint sua crimina mali.</p>
+  <p>Vbi enim Deum quis laeserit, nemo queat</p>
+  <p>Effugere, quamlibet potens: et quispiam</p>
+  <p>Si falsurum speret Deum, cum agit aliquid,</p>
+  <p>Errat. Sed potius incidit mens improba</p>
+  <p>Inextremam noxam. SI. Quin iam taces, sine</p>
+  <p>Tandem effutire somnium uanissimum.</p>
+  <p>Agamus arbitrio nostro, poenas dabit</p>
+  <p>Garrulitatis diras, furiae plectent scelus</p>
+  <p>Huiusmodi. RV. Ex malefactis perceptam dolor</p>
+  <p>Supplicij consequitur uoluptatem nuser.</p>
+  <p>Hominibus et Deo malignum est hoc scelus.</p>
+  <p>Et abominabile, ita caedem fratris tui</p>
+  <p>Persicere, quo scilicet interfecto pater</p>
+  <p>Perimetur, et mater luctu maesto simul,</p>
+  <p>Priuatione filij, non legibus</p>
+  <p>Humanis facta: sed potius fratres mei,</p>
+  <p>Deseruitote cuncti temperantiae.</p>
+  <p>Praeterea uobis cunctis iracundiam</p>
+  <p>Supernam saeuiorem concitabitis,</p>
+  <p>Si trucidetis, quem dignum iudicauerit</p>
+  <p>Noster Deus, praesit qui olim fratrum gregi.</p>
+  <p>SI. Lues quod admisisti, non sine fenore.</p>
+  <p>RV. Flectite animos, ad iniquitatem celeriter</p>
+  <p>Nimis propensos, ultionisque cupidos</p>
+  <p>Ferripotentis. Ferocem frenetis animum</p>
+  <p>Fratres. SI. Vnde nouus concionator uenit?</p>
+  <p>Vnde isthaec relligio noua tibi tam cito?</p>
+  <p>RV. Ego quandoquidem nihil proficio tristibus</p>
+  <p>Minis, discedam, nolo caedis particeps.</p>
+  <p>Videri. quum rapaces cernetis minas,</p>
+  <p>Ceruicibus imminere uestris, tum feram</p>
+  <p>Frenabitis primum uestram cupidinem.</p>
+  <p>SI. Quid de cupidine ais? num ego mouear tuo</p>
+  <p>Adhortatu? dabimus fratrem dirae neci.</p>
+  <p>RV. Ah non, sed potius has in cisternas, aqua</p>
+  <p>Carentes conijcite. bene si morem mihi,</p>
+  <p>Quamprimum gesserint, innoxium auferam</p>
+  <p>De cisterna clam fratribus, caedis auidis.</p>
+  <p>SI. Lues improbe poenas, factis dignas tuis:</p>
+  <p>IO. Ah quid peccaui contra uos innoxius?</p>
+  <p>Ita’ne praeda feris sum futurus ego lupis?</p>
+  <p>SI. Os comprimas iubeo: lateash cimprobe.</p>
+  <p>IV. Negotiatoribus his potius uendite.</p>
+  <p>SI. Heus impiger mercator, heus adesto. MER. Quis</p>
+  <p>Me uolt? numquis me hic uocat? abeo. SI. Adesdum mane,</p>
+  <p>Inquam mane, est tecum mihi negotij</p>
+  <p>Quiddam. ME. Quin dic quidest? SI. En mancipium illud est</p>
+  <p>Venale nobis. MER. Quanti abiectum uenditas</p>
+  <p>Mancipium? SI. Agam paucis, uiginti argenteis.</p>
+  <p>MER. En tibi pro mancipio quod postulas habes.</p>
+  <p>SI. Proh Iupiter, nunquis hic homo sequitur? nihil,</p>
+  <p>Nemo est. iam erumpere isthoc gaudium licet?</p>
+  <p>Nunc tempus est. o fors fortuna, quam bene</p>
+  <p>Stetisti ex partibus nostris, conatibus</p>
+  <p>Afpirasti meis, nisi stimuleum tibi</p>
+  <p>Statuissem supplicium, etsi omississem morae</p>
+  <p>Longe poenas ultrices, Mandrabuli modo</p>
+  <p>In peius euasisses indies. quia,</p>
+  <p>Qui uitulum aliquando tulerit, taurum denique</p>
+  <p>Tollet. semper enim degenerasses moribus,</p>
+</div>
+<div type="level1" xml:id="scena-ii.-1">
+  <head>SCENA II.</head>
+  <p>Ruben. Iacob. Dan. Iudas.</p>
+  <p>Ioseph, Ioseph heus, non respondes? ubi lates?</p>
+  <p>Pro Iupiter, facinus foecum, o adolescentulum</p>
+  <p>Infelicem, o scelestum, ui sub duxerit</p>
+  <p>Ex hoc lacu fratrem mihi charissimum.</p>
+  <p>IA. Me uox tua exciuit foras amarior,</p>
+  <p>Mi gnate, cur non ingredere domum? quid? et</p>
+  <p>Turbatus hic perstas foris? quid est rei?</p>
+  <p>RV. Opater, eloquar, id quod res tempusque expetit?</p>
+  <p>Quim difficile est (dij boni) tacere, cum</p>
+  <p>Doleas. ferae faces ardentes de manu</p>
+  <p>Atque gladios, diras’q uoluntates eis</p>
+  <p>Extorquerre pater cupij, ut defendam meum</p>
+  <p>Fratrem, quem ex medio conabantur tollere.</p>
+  <p>Damque haec animo reuoluo sedulus meo,</p>
+  <p>Circumspicio, fratrem iuuare cogitans,</p>
+  <p>Ex faucibusque eruere ardentibus fame</p>
+  <p>Caedis uolens, ecce e medio sublatus est.</p>
+  <p>IA. Lucis adimere usuram conati filio?</p>
+  <p>RV. Sic est pater. IA. O Deus, gubernacula tenes</p>
+  <p>Qui caeli qui terrae. o fortuna grauior es</p>
+  <p>In me, quam caeteros. ecquod unquam excidit</p>
+  <p>Ore meo uerbum grauius, quo dieos laederet?</p>
+  <p>Ex magnis diuturnisque gaudijs mihi</p>
+  <p>Repente pestis erupitiam maxima.</p>
+  <p>Quam cito laetitia conuersa est in lachrumas?</p>
+  <p>(O dura fata) atque uoluptas recidit breui</p>
+  <p>Ad luctum omnis. Quid est mali, quod iam mihi</p>
+  <p>Miserrimo deesse uidetur, filio</p>
+  <p>Crudeliter spoliato? aut alij cui nouae</p>
+  <p>Calamitati relictus ullus est locus?</p>
+  <p>Existunt quaedam beluae immanes, ac ferae</p>
+  <p>Forma hominum indutae (portenta) hoc in tempore,</p>
+  <p>Istos non ad confirmandum scelus, sed ad</p>
+  <p>Poenas luendas furiae nunc agunt suae.</p>
+  <p>RV. Ecce pater. IA. Hem. RV. Nisi oculi me fallum mei,</p>
+  <p>Aduenientem con conspicio Dan. quid est rei?</p>
+  <p>Quid adproperat? quid gestat in manu sua?</p>
+  <p>Vereor mali quid sit. IA. Dolore augetur hoc</p>
+  <p>Spectaculo aeger animus. joc sparsam gerit</p>
+  <p>Vestem cruore sanguineo. Vestis quid haec,</p>
+  <p>Crudeli tabe peresa? DAN. Hanc inueni pater.</p>
+  <p>Aspice, charissimi num fuerit filij</p>
+  <p>Tui tnica. IA. Cognosco, filij mei est,</p>
+  <p>Nota nimis misero, liuido tabo madens.</p>
+  <p>Hunc ego te aspicio, fili mi miserrime?</p>
+  <p>Tu’ne illa requies, tusera senectae meae?</p>
+  <p>Ah fili fili, non te in tanta pericula</p>
+  <p>Misi, non affari extremum copia data</p>
+  <p>Misero patri. heu terra ignota iaces, data</p>
+  <p>Praeda feris, alitibusque. Nec funera pater</p>
+  <p>Tua produxi, pressi’ue oculos, aut uulnera</p>
+  <p>Laui. Quo te consequar, aut quae tellus habet</p>
+  <p>Artus tuos, auulsaque membra, atque lacerum</p>
+  <p>Funus? querelarum causa es lugibrium.</p>
+  <p>Onate: tanta’ne me uoluptas noxia</p>
+  <p>Tenuit uidendi? quem genui, tua’ne haec pater</p>
+  <p>Per uulnera asseruor uiuens te mortuo?</p>
+  <p>Heu nunc misero demum mihi infelix seni</p>
+  <p>Exilium, nunc me fata tangunt impia:</p>
+  <p>Ofatum ineluctabile, quo praeceps me agis?</p>
+  <p>Quem quondam uirtutis gloria laude extulit</p>
+  <p>Cum summa ad caelum, eundem iniuriae premunt</p>
+  <p>Praui secli, inuidiaque temporum nimis.</p>
+  <p>Ah quod putaui gaudium fore, extitit</p>
+  <p>Id in exitium. o spem falsam, uolucremque nimium</p>
+  <p>Sortem, Potest’ne tibi huius uitae haec lux probe,</p>
+  <p>Aut huius caeli spiritus reficere tuam</p>
+  <p>Mentem? uix credo. nullam in spem amplius uocor,</p>
+  <p>Abrepto filio obsequente probissime.</p>
+  <p>Fugiam conspectum uulgi, nusquam prorepam</p>
+  <p>Nulli uidebor in publico atratus nisi.</p>
+  <p>Filt heus, affer cilicium uestem lugubrem,</p>
+  <p>Domo. IV. Pater mi, faciam quod me iusseris.</p>
+  <p>En tibi, ne te adeo discrucies pater rogo,</p>
+  <p>Ne tantopere luge mortem gnati tui.</p>
+  <p>Homines nos esse meminerimus, eo modo</p>
+  <p>Natos, ut omnibus telis proposita sit</p>
+  <p>Fortunae uita nostra, nos neque grauiter</p>
+  <p>Eos feramus casus, quos non possumus</p>
+  <p>Vitare ullo consilio: euentus repete iam</p>
+  <p>Aliorum memoria, nihil tibi noui</p>
+  <p>Existimabis accidisse. IA. Beatus est,</p>
+  <p>Fili mi, qui natos nunquam susceperit.</p>
+  <p>RV. Genitor, minus uidentur hi miseri mihi,</p>
+  <p>Qui amiserunt temporibus difficillimis</p>
+  <p>Gnatos, His etenim tempestatibus cum eo</p>
+  <p>Non pessime actum est, cui culpa sine licitum</p>
+  <p>Est mortem cum uita commutare, genitor.</p>
+  <p>Vidimus aliquoties secundam ferre te,</p>
+  <p>Aspirantemque fortunam pulcherrime:</p>
+  <p>Fac nunc intelligamus te aduorsam quoque</p>
+  <p>Posse aeque ferre. nec id maius, quod accidit,</p>
+  <p>Quam debeat uideri, onus tibi. Dolor</p>
+  <p>Est nullus, quem non temporis longinquitas</p>
+  <p>Emolliat. IA. Tua consolatio leuat</p>
+  <p>Me paululum. sed quoties reminiscor mei</p>
+  <p>Gnati, emergit luctus rursus, et ingens dolor.</p>
+  <p>Nihil tam uidi mite, ac placatum nihil.</p>
+  <p>Hunc unum fortuna hominum inconstans, omnium</p>
+  <p>Quos unquam sol Titaneus conspexerit,</p>
+  <p>Terris ostendit optimum, atque maximum.</p>
+  <p>Sed heu facinus, ostendit tantum, ac protinus</p>
+  <p>Subduxit: quid diuinitus dari potest</p>
+  <p>Mortalibus, Deo inspectore cordium,</p>
+  <p>Quod non in illo fuerit cumulatissimum?</p>
+  <p>Nihil potuit (ut uisum est) dulcius mihi</p>
+  <p>Esse, idque cum uerbis, uultu, tum denique</p>
+  <p>Animo. Magnus dolor meus, magnus pudor</p>
+  <p>Secli nunc magna iniuria ademptae sobolis.</p>
+  <p>Tu mi fili, qui curam mihi saepissime,</p>
+  <p>Et angorem animi sermone leuasti tuo,</p>
+  <p>Vbi nam es? ah quanto nunc fructu domestico</p>
+  <p>Priuatus sum? iocunda mihi omnia ex eo</p>
+  <p>Contingebant. Verum Deo te maximo</p>
+  <p>Commendo. IV. Pater nil est praecipue quod in eo</p>
+  <p>Doleas, quod uniuersis accidere solet.</p>
+  <p>Et si cares fructu quoque iocundissimo,</p>
+  <p>Et hilari uultu gnati, et consuetudine:</p>
+  <p>Multum tamen maerori diminutum erit,</p>
+  <p>Si hoc unum detrahi tibi potest, ne quid</p>
+  <p>Huic quem amisisti, contigisse putes mali.</p>
+  <p>Nemo mortalis est, quem non tangat dolor,</p>
+  <p>Morbusque: multi sunt humandi liberi,</p>
+  <p>Rursus creandi, morsque est finita omnibus.</p>
+  <p>Reddenda est terra terrae, tum uita omnibus</p>
+  <p>Metenda, ut fruges, sic iubet necessitas.</p>
+  <p>Sic cogitandum erit pijs parentibus:</p>
+  <p>Ego, quod genui, moriturum sciui bene,</p>
+  <p>Futuras mecum commentabar miserias.</p>
+  <p>IA. Fili, uera quidem narras: si non ob oculos</p>
+  <p>Versaretur miserriors gnati mei,</p>
+  <p>Leuarer, ceu Deus me dicinam fecerit.</p>
+  <p>Ah refugere oculi, corpus macie extabuit,</p>
+  <p>Et lachrumae exedere humore exangues genas,</p>
+  <p>Situ nidoris barba pedore horrida,</p>
+  <p>Luctus me totum compraehendit, coepitque me.</p>
+  <p>Reuertar in aedes, luctui dabo locum.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-1">
+  <head>SCENA III.</head>
+  <p>Ioseph.</p>
+  <p>O mundi rector, superum praestantissime,</p>
+  <p>Cuius ab humana nomen non effabile est</p>
+  <p>Voce: o rerum spes, uia, uita, salus omnium,</p>
+  <p>In te praesidium statui per totum mihi.</p>
+  <p>Tota salutis spes in manibus condita tuis.</p>
+  <p>Non sine, ut abducant mala scandala mentem meam,</p>
+  <p>Sed me fide certa confirmabis, pater.</p>
+  <p>Huc age tuas aures felcte, quibus omnia</p>
+  <p>Percipis, et cito fer opem, quam ambit supplex tuus.</p>
+  <p>Sis mihi in auxilium, ceu rupes fortissima,</p>
+  <p>Quam uis armorum nequeat ulla rumpere.</p>
+  <p>Tu siquidem mea rupes, turris fortissima:</p>
+  <p>Tu dux igitur, tu rector eris gressus mei.</p>
+  <p>Quod posuere mali, de reti captum eripe.</p>
+  <p>Longe plus roboris est tibi, quam caeteris.</p>
+  <p>Errantibus lata uia est pedibus: te duce</p>
+  <p>Autem peruestigabo semitas ego tuas.</p>
+  <p>Respice me, miserere pater, esto pius mihi</p>
+  <p>Roganti, miser immodicis aerumnis premor.</p>
+  <p>Contabuit luctu facies anxia rigido:</p>
+  <p>Vulnera sua sunt facta animae crudelia meae.</p>
+  <p>Aetas languit assiduis trita doloribus,</p>
+  <p>Fathiscunt aegra corda in aegro corpore,</p>
+  <p>Vix succus miseris ullus ossibus inerit,</p>
+  <p>En omnibus ludibrio sum fratrbus.</p>
+  <p>Negociatoribus en uenditus uagis</p>
+  <p>Primo, posthac rursus praefecto militum,</p>
+  <p>Factus denique fabula foeda omnibus meis</p>
+  <p>Digressumque foribus noti fugere, nec</p>
+  <p>Amicorum ullus uoluit ferre opem mihi:</p>
+  <p>Nec siperest ulla ratio reliqua miserrimo.</p>
+  <p>Creditus abiectae sum quasi silens rei</p>
+  <p>Vmbra ego, cunctisque parbibus meis uagus</p>
+  <p>Incessit corporis tremor, consilia dum</p>
+  <p>Capiunt, qua ratione interficiant me, et meam</p>
+  <p>Animam qua conditione capiant. nostra spes</p>
+  <p>Soli tamen constanter adhaereat tibi3</p>
+  <p>Manibus certe in tuis uita mea est condita.</p>
+  <p>Eripies me alme pater ab hostili manu,</p>
+  <p>Sparge in me radios, et lumina uultus tui,</p>
+  <p>Ne pudefiam fragilis uitae discrimine.</p>
+  <p>Hoc etenim seculum immites dominos tulit:</p>
+  <p>Aequom aut iniquom imperent, pensio omnino nihil</p>
+  <p>Habent: quod collubitum est, licere existimant.</p>
+  <p>Abeo, quid agendum sit uidebo in aedibus.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-1">
+  <head>SCENA IIII.</head>
+  <p>Simeon. Zabulon. Ruben.</p>
+  <p>LAtius opinione erat (fratres) malum hoc</p>
+  <p>Disseminatum fecunde, manauerat</p>
+  <p>Per plurimas regiones pestis undique,</p>
+  <p>Ascenderat altas alpes serpendo malum,</p>
+  <p>Id opprimi sustentando non potuerat,</p>
+  <p>Quacunque potuit ratione reluctarier</p>
+  <p>Necesse fuit, nobis mox uindicandum erat.</p>
+  <p>ZA. Plaudamus fratres, quoniam non nobis minus</p>
+  <p>Iocundi atque illustres debent illi dies</p>
+  <p>Esse, quibus conseruamur, quam illi, nos quibus</p>
+  <p>Nascimur. est namque salutis certum gaudium,</p>
+  <p>Nascendi incerta conditio: et quod nascimur,</p>
+  <p>Amabili sine sensu, nos cum maxime</p>
+  <p>Voluptate alacri conseruati carbasa</p>
+  <p>Euro dabo, atque frena laxabo genio.</p>
+  <p>Scelerum improbumque mach natorem omnium</p>
+  <p>Aegyptijs mercatoribus hinc uendidi.</p>
+  <p>RV. Harum omnium rerum uicissitudo erit.</p>
+  <p>Impietate tua crudelis, quid arrogans</p>
+  <p>Superbis improbe? quid iactas de Dei</p>
+  <p>Bonitate talia? quorum nulla lux feret</p>
+  <p>Veniam tibi, perniciem lingua nocens tua</p>
+  <p>Cur meditatur sine intermissione? ceu</p>
+  <p>Acutum ferrum, ueri nesciaque redamans</p>
+  <p>Doli? tibi nec est fides nota, nec ubi</p>
+  <p>Petenda sit, curas? num sapiunt tibi mali?</p>
+  <p>Qui populi corpus comedunt? qui ’ue sanguine</p>
+  <p>Iustorum uiuunt? eruet robora quae</p>
+  <p>Stirpis radicitus sata, nec erit tibi</p>
+  <p>In uiuis nomen. qui facit foueam alij,</p>
+  <p>Plerunque primus incidit subito in eam:</p>
+  <p>Exitium qui alteri parat, sciat sibi</p>
+  <p>Pestem paratam, certo ut participet parem.</p>
+  <p>Hominum tibi poenas deesse adhuc puta,</p>
+  <p>Furorem supplicium deorum existima.</p>
+  <p>Quis est tam corde duro, cum suspexerit</p>
+  <p>In caelum, uindicem Deum non sentiat,</p>
+  <p>Hoc perse qui sancto uelle suo numine?</p>
+  <p>Quis ex gigantibusque est illis, quos ferunt</p>
+  <p>Bellum conatos immortalibus dijs</p>
+  <p>Inferre, tam impius? qui non mali hoc putet</p>
+  <p>Punitum iri a Deo ter longe maximo?</p>
+  <p>ZA. Relinquamus nugantem hominem (fratres) nihil</p>
+  <p>Quim fabulas nescio quas incipit leues.</p>
+  <p>RV. At praedixi, malum si quod uos obruat,</p>
+  <p>Non praedictum tibi nullo dices modo.</p>
+  <p>II. Delirus est, abeamus hinc. ZA. I prae, sequar.</p>
+</div>
+<div type="level1" xml:id="scena-v.-1">
+  <head>SCENA V.</head>
+  <p>Potiphar. Ioseph.</p>
+  <p>IN rebus prosperis, et affluentibus</p>
+  <p>Voluntatem ad nostram, ne nos superbia</p>
+  <p>Amara tangat: uix enim superbia</p>
+  <p>Tumefacta, semper euentus dulces habet.</p>
+  <p>Indomitus et furor, atque fastus absiet</p>
+  <p>A me procul, freni impatiens superbia,</p>
+  <p>Quorum uisque animus contingit Olympum ferox.</p>
+  <p>Nam ut aduersas res immoderate ferre, sic</p>
+  <p>Secundas fastu, desultoria leuitas</p>
+  <p>Est. Cum luxuriant animi rebus forsitan</p>
+  <p>Secundis, uel consilijs seipsos construent</p>
+  <p>Salubribus, uel legibus bonis parent.</p>
+  <p>Huic cogitationi tribuamus locum:</p>
+  <p>Consideremus aliquando, quanto sumus</p>
+  <p>Superiores, tanto nos ut submissius</p>
+  <p>Geramus. Et cauendum, ne Gnatonibus</p>
+  <p>Patefaciamus aures nostras uilibus,</p>
+  <p>Qui fortuna et felicitate citissime</p>
+  <p>Alterius excitati, amici coeperint,</p>
+  <p>Ventri quo consulant, cum ceu lupus ululet,</p>
+  <p>Assentando aucupantur magnam gratiam,</p>
+  <p>Atque adeo ementiendo, obtrectandoque eis,</p>
+  <p>Qui de ipsis bene meriti sunt, saeuas inferunt</p>
+  <p>Iniurias. et cu seruum frugi sibi</p>
+  <p>Quis comparauerit, per quem praesens, item</p>
+  <p>Absens negotium confectum redditur,</p>
+  <p>Abalienare quam primum conantur hi.</p>
+  <p>Quare prudenti animo necesse est hic sies.</p>
+  <p>Custodias Ioseph, a mercatoribus</p>
+  <p>Emptum impigris Ismaelitis, qui iam mihi</p>
+  <p>Inde obse quenter usque seruit maxime,</p>
+  <p>Iuxtaque fideliter, atque adeo ex sententia</p>
+  <p>Animi mei. magna est opinio de eo,</p>
+  <p>In excelso atque illustri est laus sua posita</p>
+  <p>Loco. Generosa uirtus rebus singulis</p>
+  <p>Patiens, et immota omnibus adeo est casibus.</p>
+  <p>In illo sic adsunt adolescente omnia,</p>
+  <p>Vt cum quolibet antiquorum facillime</p>
+  <p>Eius uirtutes compar ari possient.</p>
+  <p>Vera quidem laude probitatis dignus est.</p>
+  <p>IO. Laetus sum, laudari me ab laudato uiro.</p>
+  <p>Ea est enim iocunda laus, quae permeat</p>
+  <p>Ab ijs, qui aliquando et ipsi in laude uixerant.</p>
+  <p>PO. Nec minus id donum, quod uel plurimum potest,</p>
+  <p>Diuinum duco, quod feliciter omnia,</p>
+  <p>Atque adeo prospere agit, quaecunque agenda sunt.</p>
+  <p>Deum caeli terraeque rectorem cum eo</p>
+  <p>Esse uideo. nam prosperantem cuncta sub</p>
+  <p>Eius manus intelligo. modestus est,</p>
+  <p>Compositus, et promptus, non indisertus, et</p>
+  <p>Nil est eo tractabilius, nil clarius</p>
+  <p>Ingenio, industriaque, mitis gratia,</p>
+  <p>Pura fides, et concors amor erga singulos.</p>
+  <p>Suauem placidus comitatur uultus gratiam.</p>
+  <p>In omnes conseruos officiosissimus,</p>
+  <p>Aduersus nemini, sed omnibus obsequi.</p>
+  <p>Quare iam cognitis eius uirtutibus,</p>
+  <p>Faciam, iusta illi aqud me seruitus siet.</p>
+  <p>Vtque animus maneat idem, qui est ei modo,</p>
+  <p>Precor deos. nam captus hic rarissimus</p>
+  <p>Est, seruom agilem et frugi sortirier, fides</p>
+  <p>Quem comprobat relligiosa, et constantia</p>
+  <p>Dictorum inuicta, et factorum impenetrabilis.</p>
+  <p>Praeficiam domut (ut otioso post mihi</p>
+  <p>Liceat esse) meae, atque animo liceat obsequi.</p>
+  <p>Heus Ioseph, heus serue fidelis prodi foras,</p>
+  <p>Est quod loquar tecum Ioseph. IO. Domine quid est,</p>
+  <p>Quod tibi mea ars efficere possit amplius?</p>
+  <p>PO. Te a paruulo postquam emerim, ut semper tibi</p>
+  <p>Apud me iusta et clemens fuerit seruitus,</p>
+  <p>Scis: faciam e seruo nunc sis libertus mihi,</p>
+  <p>Propterea quod seruisti liberaliter.</p>
+  <p>IO. Si tibi quid feci, aut facio, quod placet,</p>
+  <p>Atque id fuisse gratum tibi, habeo gratiam.</p>
+  <p>PO. Haud muto factum. IO. Ingentes gratias ago.</p>
+  <p>Sed tu uno uerbo dic, quid est quod uolueris.</p>
+  <p>PO. Breuiter exponam tibi animi sententiam</p>
+  <p>Mei. Potestatem uides super omnia</p>
+  <p>Regis mihi attributamque potentissimi:</p>
+  <p>Animum meum uides ceu fluctibus obrui,</p>
+  <p>Negotiorum semper magnitudine</p>
+  <p>Herilium, distentum in rebus maximis</p>
+  <p>Gerundis, sustinendisque, ut molestia</p>
+  <p>Frangar fere. Insuper domesticae rei</p>
+  <p>Debilitat cura me. ueniunt examine</p>
+  <p>Longo insomnes curae, ac angunt me mordicut</p>
+  <p>Vigiles. quare perspectis uirtutibus ego</p>
+  <p>Ioseph tuis, praepono te omnibus bonis</p>
+  <p>Meis, gubernabis riteque familiam.</p>
+  <p>Habeto ius summum conseruos in tuos:</p>
+  <p>Credo uniuersa tibi, excepta coniuge mea</p>
+  <p>Casta. quapropter si te ipse excitaueris</p>
+  <p>Ad omnes partes audiendi quam optime,</p>
+  <p>Non ut cum caeteris, sedut quam maxime</p>
+  <p>Tecum ipse certes, etsi omnem denique tuam</p>
+  <p>Mentem, curam, consilium in rebus omnibus</p>
+  <p>Exellens excitaueris tuum modo,</p>
+  <p>Laboribus parabis aeternam tibi,</p>
+  <p>Et posteris olim futuris gloriam.</p>
+  <p>Delectat quoniam strenuos gloria nobilis.</p>
+  <p>IO. Cupio domine secundum nutum uiuere</p>
+  <p>Tuum, modo praescribas aliquot leges mihi.</p>
+  <p>IO. Sic te domestici intuebuntur mei,</p>
+  <p>Vt quendam caelo delapsum hominem existiment.</p>
+  <p>Quare, ut maris gubernatores optimi</p>
+  <p>Vim pellunt, eius impetum saepissime</p>
+  <p>Euitant: sic regesque familiam meam.</p>
+  <p>Tibi data est summa potestas rerum omnium.</p>
+  <p>Nihil negotij est eos, praesis quibus,</p>
+  <p>Tranquille continere, cum te contines.</p>
+  <p>Voluptatibus abstineas, quae datae hominibus</p>
+  <p>Natura, cuius auidae sunt libidines,</p>
+  <p>Etessrenatae, quando in homines noxios</p>
+  <p>Remigrant, furtim uirtuti inuident graui.</p>
+  <p>Euersiones hinc rerum tristes. malo hinc</p>
+  <p>Luxu uoluptas coniuncta, trahit perditos</p>
+  <p>Secum casus. homines in praeceps haec rapit.</p>
+  <p>Tum corpori morsus uenenatos quoque,</p>
+  <p>Tum animo stimulos addit acres, et morsus feros.</p>
+  <p>Voluptas nomen inuidiosum, infamiae</p>
+  <p>Subiectum est, mater omnium improbissima</p>
+  <p>Malorum. corporis nulla capitalior</p>
+  <p>Pestis. Voluptates dominae blandissimae,</p>
+  <p>Maiores saepe partes animi detrahunt</p>
+  <p>A uirtute dolorum cumque faces admouent,</p>
+  <p>Plerique exterrentur primo praeter modum.</p>
+  <p>Denique nullum est facinus, nullum demque scelus,</p>
+  <p>Ad quod fuscipiendum uoluptatis furens</p>
+  <p>Libido non impellat, non praeceps agat.</p>
+  <p>IO. Cauebo ab omnibus, quibus te sentio</p>
+  <p>Laedi, certe: qui fructus debentur tibi</p>
+  <p>Ex me, praestantiores ut queas eos,</p>
+  <p>Atque uberiores capere, curabo lubens.</p>
+  <p>Omnia studia, curam, operam, mentem denique</p>
+  <p>Tuis in rebus curandis figo. et loco.</p>
+  <p>Statui enim non officij duntaxat in eo</p>
+  <p>Fructum, sed eitam pietatis laudem mihi</p>
+  <p>Acquirere. et quid est, si defraudent tuos</p>
+  <p>Oculos: Domini tamen effugere nequeo mei</p>
+  <p>Conspectum, lumine qui conspicit omnia suo.</p>
+  <p>Ego quae ad te here pertinere existimo,</p>
+  <p>Tuosque liberos, omnis quam sedulo</p>
+  <p>Curabo: quae cum faciam, beneuolentiam</p>
+  <p>Tuam studiose imitabor erga me. sequar</p>
+  <p>Etiam merita. Sed perge praecipere mihi.</p>
+  <p>PO. Domui toti rogo meae fac cognitum,</p>
+  <p>Tibi omnium (quibus praees) charissima,</p>
+  <p>Salutem, famam, fortunas, et liberos</p>
+  <p>Esse. et si quis erit, in quo nimis offenderis,</p>
+  <p>De quo aliquid senseris, huic cerdideris iam nihil.</p>
+  <p>Existimationis amplius tuae</p>
+  <p>Partem nullam, neque minimam commiseris,</p>
+  <p>Multis enim simulationum conditur</p>
+  <p>In uolucris, et quasi uelis obtenditur</p>
+  <p>Quibusdam, cuiusuis natura callida.</p>
+  <p>Frons, oculi, uultus, saepius pedes, manus</p>
+  <p>Ementiuntur, oratio saepissime.</p>
+  <p>Et sic fallaces sunt quidam, atque adeo leues,</p>
+  <p>Vtseruitute longa perditam parent</p>
+  <p>Se ad assentationem: quos ego tibi</p>
+  <p>Fugiendos ceu luem censeo: sunt namque non</p>
+  <p>Nobis fideles, uerum assentando inuident</p>
+  <p>Partam nobis dulcem, et lucentem gloriam.</p>
+  <p>Quare sint fundamenta dignitatis haec:</p>
+  <p>Tua primum integritas, et continentia,</p>
+  <p>Probitas, iustitia, facilitas, atque grauitas,</p>
+  <p>Quae non solum blandae resistat gratiae,</p>
+  <p>Verum tacitae suspicioni. Et omnia</p>
+  <p>Huc referas, ut ij qui sub imperto tuo</p>
+  <p>Erunt, beati penitus uideantur sibi.</p>
+  <p>Sic omnes tibi domesticos deuincies,</p>
+  <p>Amicitia, officio, atque beneuolentia</p>
+  <p>Habebis implicatos, obseruantia</p>
+  <p>Summa erga te, bonos uiros adiunxeris</p>
+  <p>Officijs, ad necessitudinem tuam.</p>
+  <p>Audistin haec? IO. Etiam domine, curabitur.</p>
+  <p>Neque isthic, neque alibi usquam erit per me mora.</p>
+  <p>PO. Nihil est, quam ut utuas ex praescriptis legibus</p>
+  <p>IO. Curabitur. P. Eamus nunc intro. IO. I prae, sequar.</p>
+</div>
+<div type="level1" xml:id="actvs-tertii">
+  <head>ACTVS TERTII,</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-i.-2">
+  <head>SCENA I.</head>
+  <p>Sephirah. Ioseph.</p>
+  <p>Ah Ioseph, laudibus quibus te nunc uebam?</p>
+  <p>Quim seruorum aliorum es dissimilis? capta sum</p>
+  <p>Virtute tua. Crediderim uirtuti simul.</p>
+  <p>Et naturae pugnam fuisse maxumam</p>
+  <p>In ornando te: conueniunt mores tui</p>
+  <p>Diuini, eorum gratia est blandissima,</p>
+  <p>Et suauem placidus se quitur uultus gratiam.</p>
+  <p>Index ingenij, atque animi compositi bene</p>
+  <p>Cordata oratio. Figura corporis</p>
+  <p>Noua, color, uultus absque fuco uerus est.</p>
+  <p>Qui uestitus, quae nitida habitudo corporis?</p>
+  <p>Linguaque nunquam riget, carent rubigine</p>
+  <p>Dentes, nec male odorati tristis est tui</p>
+  <p>Oris anhelitus, aspectuque decorus probe.</p>
+  <p>Ah tota flagro amore tui, tantum mihi</p>
+  <p>Icendium molli facit falgrans amor</p>
+  <p>In pectore, ut nequeam durare longius,</p>
+  <p>Quin infelix ab eo impetrem, quod postulo.</p>
+  <p>Acer enim in extremis haeret amor ossibus.</p>
+  <p>Quid igitur daciam? quid rstat miserae mihi?</p>
+  <p>Quanto minus spei est, tanto magis ego amo.</p>
+  <p>Ecce animum blanditijs furtim praenderre placet.</p>
+  <p>Vt non quicquam recuset, sic deuinciam.</p>
+  <p>Benignitatem herilem quis seruos datam</p>
+  <p>Non amplectatur cupide? etiam secum bene</p>
+  <p>Actum putet, felicitatis non loco</p>
+  <p>Ducat magnae, heram habere supplicem sibi?</p>
+  <p>Nec faciem te pigeat eius laudare, nec</p>
+  <p>Ocellos, Phoebi clariores luce mi,</p>
+  <p>Et teretes digitos, nec non auratas comas,</p>
+  <p>Collum niueum, teneros artus. excitat enim</p>
+  <p>Laus adolescentulos, propensos maxime</p>
+  <p>A natura ad amorem. formae praeconia</p>
+  <p>Eitam abstinentes, fortesque oblectant uiros.</p>
+  <p>Auis Iunonia ostendit saepissime</p>
+  <p>Laudata, pennas, singulari prosequor</p>
+  <p>Te affectu. ut stipulae demptis adolentur leues</p>
+  <p>Aristis, ardent ut spinosae facibus</p>
+  <p>Sepes, uiator quas uel admouit nimis,</p>
+  <p>Vel iam reliquit gaudens luce forsitan:</p>
+  <p>Sic in flammas nimis ego acres misera abeo.</p>
+  <p>Sic toto pectore uror, sterilem nutrio</p>
+  <p>Sperando amorem, uix sustineo lachrumas.</p>
+  <p>At lachrumae prosunt, alliciuntque iuuenes</p>
+  <p>Ad nostri amorem. fac igitur ille uideat</p>
+  <p>Madidas genas. si deficiunt lachrumae tibi,</p>
+  <p>Vda manu tere oculos, num allicier queat.</p>
+  <p>Tranantur obsequio flumina: nec uincere</p>
+  <p>Potes si conta aquam, quae te rapit, nates.</p>
+  <p>Rustica paulatim taurus indomitus subit</p>
+  <p>Aratra. hunc non flectas lachrymis, nec mitiges?</p>
+  <p>En ad opus omnes uires exigam meas.</p>
+  <p>Dij coeptis aspirent, perennes rogo deos,</p>
+  <p>Vt impetrem bona uenia, quod postulo.</p>
+  <p>Ioseph aedibus egreditur.</p>
+  <p>Atque eccum egreditur aedibus, spero satis</p>
+  <p>Mollescet. sedsatis incedo culta? haec satis</p>
+  <p>Fulgens purpura dominam me exornat protegens?</p>
+  <p>Tingit rubor niueas flore decenti genas?</p>
+  <p>En nobilis auratos armos haec purpura</p>
+  <p>Vestit, non auersabitur meas preces.</p>
+  <p>IO. Nescio domina quid secum murmuret mea.</p>
+  <p>Accedo. Pax tibi domina candida: quid est</p>
+  <p>Quod adeo tacida tecum loqueris hera? dic</p>
+  <p>Quid est? SE. O Ioseph Ioseph, iam te offers mihi</p>
+  <p>Opportune. felicitatis aduenit</p>
+  <p>Tempus. IO. Quid laeta sis, curque toties gemas,</p>
+  <p>Dicas. SE. O lux, o me a uoluptas unica,</p>
+  <p>Anime mi, noltto reluctari meis</p>
+  <p>Quaeso precibus. hera tibi quod sum, intelligis,</p>
+  <p>Quae possum pro meo iure imperare, quae</p>
+  <p>Cogere potis sum te facere. quod postulo.</p>
+  <p>Tum quod uehementer flagro amoribus tui,</p>
+  <p>Et neque par esse potero diutius mihi.</p>
+  <p>Meaeque amores cogunt obliuiscier</p>
+  <p>Ah dignitatis. tu igitur iam quod femina</p>
+  <p>Potens, atque adeo domina tua offet, accipe,</p>
+  <p>Dum tibi copia, dumque aetas florens fert tua.</p>
+  <p>Ah Ioseph Ioseph, tua quae forma sit uides.</p>
+  <p>Niueo lucet in ore rubor, argutos habes</p>
+  <p>Ocellos, qui radiant in morem fiderum.</p>
+  <p>Facies amorem exornat tua. brachia niue</p>
+  <p>Sithonia candidiora, allicere uel deas</p>
+  <p>In amorem possent quoque castissimas tui.</p>
+  <p>IO. Fragilis et fluxa est omnis formae gloria.</p>
+  <p>Formae meae nitor rapidus, uernalium</p>
+  <p>Florum prompta uelocitate fugacior</p>
+  <p>Est: et quodcunque in me miraris, id potest</p>
+  <p>Dissolui triuanae febriculae ignibus.</p>
+  <p>Vitreum et breue est, exigut donum temporis.</p>
+  <p>Sola est uirtus clara, atque aeterna, quae facit</p>
+  <p>Fortissimum quemuis cupidum constantiae.</p>
+  <p>Nihil (crede mihi) uirtute est formosius,</p>
+  <p>Alnssimis defixa est haec radicibus.</p>
+  <p>SE. Luctantur, et leue ducunt in contraria</p>
+  <p>Pectus meum, hac amor, odium hac: sed amor puto</p>
+  <p>Superat. odero, si potero. si non, inuitus hunc</p>
+  <p>Amabo. nec iuga taurus amat, sed tamen habet</p>
+  <p>Quod odit. rogo per faciem magni numinis</p>
+  <p>Instar mihi, perque tuos oculos, qui meos</p>
+  <p>Rapuere, ut mollescat tuum cor saxeum.</p>
+  <p>Quicquid eris, meus eris semper, tu selige</p>
+  <p>Tantum me quoque uelle. et ne me contempseris,</p>
+  <p>Candida minus si sim: iunguntur saepius</p>
+  <p>Albae columbae uarijs, et niger ab aue</p>
+  <p>Viridi turtur amatur. non effectu caret</p>
+  <p>Ioseph, quod uoluere duo. precibus te meis</p>
+  <p>Rogatum, rem tentasse non paeniteat: et</p>
+  <p>Dum bene ponendi munera tempus habes, tibi</p>
+  <p>Ne defuisse multo post tetmpore putes.</p>
+  <p>IO. Haec forma uera est, hera, quae placet Deo,</p>
+  <p>Quae honestatem insignem tuetur omnium,</p>
+  <p>Et feruidam coercet arctis uinculis</p>
+  <p>Libidinem, excitata membra fortibus</p>
+  <p>Captiua dat uinculis: non quae mortalium</p>
+  <p>Animos alliciat cupidos ad libibinem.</p>
+  <p>Si cura recti esset, si iustitiae tibi,</p>
+  <p>Cedere deberes ignibus feruentibus,</p>
+  <p>Et amborum conferre pericula horrida.</p>
+  <p>Tu dominum si tuum fefelleris, feres</p>
+  <p>Tristia cum magno damna pudore. nam Deus</p>
+  <p>Fronte oculos centum, nec ceruice minus gerit.</p>
+  <p>Nullum hominum scelus ignorat,sed uidet omnia.</p>
+  <p>SEP. Herum latebit facile hoc peccatum unicum.</p>
+  <p>Et si Deus conspexerit facinus, tamen</p>
+  <p>Longos in annos saepius differt grauem</p>
+  <p>Poenam. est enim cunctator. et si id accidit</p>
+  <p>Nobis quoque, interim qgemus paenitentiam.</p>
+  <p>IO. Deus quidem cunctator est, sed desidem</p>
+  <p>Quoque tarditatem grauitate ultor pensitat</p>
+  <p>Poenae, atque peccati reos crudelius</p>
+  <p>Punit. Tantum inferam pro meritis ego mei</p>
+  <p>Heri malum? ah nimium ingratus merito aestimer.</p>
+  <p>Quouis malo dignissimum me deputem.</p>
+  <p>Est multo melius habere fiduciam in bonis,</p>
+  <p>Quae cognoscuntur, quam in malis, quae solicito</p>
+  <p>Timore celantur, spargunturque populo.</p>
+  <p>SEP. Amandus est equidem, qui clara praemia</p>
+  <p>Meritis praeclaris digna reddidit tuis.</p>
+  <p>Horsum tuos in me stecte oculos lux mea,</p>
+  <p>Largire nunc mihi suauissimum osculum.</p>
+  <p>IO. Ah domina, fumo feruens flamma est proxuma.</p>
+  <p>Qui cupiat euitare prudenter malum,</p>
+  <p>Vitanda et (ceu pestis) est occasio.</p>
+  <p>Qui non uelit corruptis esse moribus,</p>
+  <p>Ab improborum abstineat consuetudine.</p>
+  <p>Qui cum puella non uelit cubare, ne</p>
+  <p>Det osculum. quamuis fumo nihil potest</p>
+  <p>Comburi, at flamma multa possunt. Fumus est</p>
+  <p>Indicium flammae, erupturae citissime.</p>
+  <p>SEP. Ah non te credidi adeo inhumanum fore.</p>
+  <p>Existim aui eodem te ingenio, uelut</p>
+  <p>Sunt caeteri, proni ac prompti ad muliebria</p>
+  <p>Officia conficiendum. Formam dedecet,</p>
+  <p>Et indolem tuam egregiam, superbia.</p>
+  <p>Vultus seueros exue, nec rigidi uiri</p>
+  <p>Iura tuere. placet inconcessa enim Venus.</p>
+  <p>IO. In uetitum nitimur quidem, et negata nos</p>
+  <p>Cupimus, et uelut infirmi mortales graui</p>
+  <p>Morbo cum aestu, febrique iactantur, si aquam</p>
+  <p>Gelidam biberint, releuati uidentur, at</p>
+  <p>Posthac grauius multo afflictantur:ssemel</p>
+  <p>Si celebris honestatis fines transgressa sis,</p>
+  <p>Et genio indulseris satis ex bitrio</p>
+  <p>Tuo, insanoque amori femina applices.</p>
+  <p>Et dux malorum, et artifex scelerum, tamen</p>
+  <p>Nunquam satiaberis. Verum prioribus</p>
+  <p>Postrema fiunt deteriora, affectui</p>
+  <p>Isti satis nemo fecit mortalium.</p>
+  <p>SE. Ah quid refert succubuisse uni noxiae?</p>
+  <p>IO. Aut me rapax mittat edendum Scylla canibus,</p>
+  <p>Aut quoque supponat aquae statim Trinacriae.</p>
+  <p>Nocuisse posse sat est, si ipsa potestas iuuat</p>
+  <p>Alique. per mala nostra precor, quorum esse poteris</p>
+  <p>Leuamen, per genus, atque pernumen Dei</p>
+  <p>Cuncta uidentis, adhibere preces molles sine.</p>
+  <p>Spiritus enim meus per auras has leues</p>
+  <p>Vanescat, quam thalamum domini uiolem mei.</p>
+  <p>Iudicium, non affectum, qui semper solet</p>
+  <p>Esse inconsultus, in consilium adhibe tuum.</p>
+  <p>Respice finem. nec cogita in praesentia</p>
+  <p>Quid placeat, quam quod semper placiturum siet.</p>
+  <p>Nunc uelle iuuat, at mox uoluisse nos piget.</p>
+  <p>Affectibus domina resistendum est malis,</p>
+  <p>Ac fortiter reluctandum, si possies</p>
+  <p>Obstare principijs. Orsus mali, malus</p>
+  <p><hi rend="bold">Finis. quod coeptum est prauisque
+  rationibus,</hi></p>
+  <p>Quamuis uidetur primo succedere, tamen</p>
+  <p>Habet malum plerunque postremo exitum.</p>
+  <p>Et insuper Dei graues metue minas:</p>
+  <p>Quibus potest nemo, potens quamuis siet,</p>
+  <p>Effugere. aquilam Deus ferocem assequitur, et</p>
+  <p>Idem marinum delphinum praeuertitur.</p>
+  <p>BE. Ne me sperne (precor) mundera pro facto feres</p>
+  <p>Vberrima, uultus seueros tandem exue,</p>
+  <p>Qui tenero lachrymas laetus im ore meo uides.</p>
+  <p>IO. Quidfles? et teneros lachrymis teris oculos?</p>
+  <p>Et pectora tenera plangis indomita manu?</p>
+  <p>Multae manent, quamuis custodibus carent,</p>
+  <p>Inter quam plurimos intemeratae procos.</p>
+  <p>Miror domina, unde hic appetitus sit tuus?</p>
+  <p>SE. Si formosus minus esses, petereris minus.</p>
+  <p>Audax uenusta facie cogor ego tua</p>
+  <p>Esse. facis tu hoc, oculique tui, cedunt quibus</p>
+  <p>Ignea sidera, qui causa sunt flammae meae.</p>
+  <p>Hoc faciunt flaui crmes, atque eburnea</p>
+  <p>Ceruix. Nox sunt leuiter districta pectora</p>
+  <p>Telo, descendit uulnus ad ossa mea graue.</p>
+  <p>Ab nimium simplex loseph ne inquam rusticus:</p>
+  <p>Ab nunquam cresces Ioseph, nescis obsequi.</p>
+  <p>IO. Crescere ego non cupio per turpitudinem.</p>
+  <p>Parum melius est cum timoribus Dei,</p>
+  <p>Quam habere cum rubore magnas copias.</p>
+  <p>Qui iniquitatem seminat, metetmala.</p>
+  <p>SE. Hanc faciem culpa posse carere tuam putas?</p>
+  <p>Ah Ioseph, non tibi uerba damus, uulnera</p>
+  <p>Mea sentis. Quod si forsitan praecordia</p>
+  <p>Ferrea tangunt preces meae, nunc percipe</p>
+  <p>Animo uerba minora meo. namque sum tibi</p>
+  <p>Supplex, mihi quod tu fuisti saepius.</p>
+  <p>Nec moror ante tuos procubuisse iam pedes.</p>
+  <p>Non flecteris? crudelis et durus nimis.</p>
+  <p>Quid autem est hirto durius saxo? atque quid</p>
+  <p>Est mollius gelida aqua? dura tamen, aqua</p>
+  <p>Molli cauantur saxa. Tempore ueniunt</p>
+  <p>Difficiles ad ar atra iuuenci. tempore pati</p>
+  <p>Docentur lenta frena equi saepe alipedes.</p>
+  <p>Tu feminae resistis unicae? rogo</p>
+  <p>Per istas lachrymas, dexstramque te tuam,</p>
+  <p>Si bene quid de te merui, miserescat mei</p>
+  <p>Te. Quid precibus nostris esse potest mollius?</p>
+  <p>Hanc amplecti potes, arbitrio frui tuo.</p>
+  <p>Rogo per tuam fidem, et per solitudinem</p>
+  <p>Nostram. ecce texui lectum meum tibi,</p>
+  <p>Pictis straui tapetibus pulcherrime,</p>
+  <p>Aspersi quoque roseum cubile fructibus</p>
+  <p>Beneolentibus, myrrha, cynamomo, et balsamo.</p>
+  <p>Veni fruamur concupitis (dum licet)</p>
+  <p>Amplexibus. non est enim uir in domo.</p>
+  <p>Abijt uia longissima. IO. Quaeso aedepol</p>
+  <p>Domina, quando id fieri nequit quod uis, uelis</p>
+  <p>Id quod possit. Quanto satius est te id dare</p>
+  <p>Operam, quo amoueas istum amorem hera ex tuo</p>
+  <p>Animo, quam semper id loqui, quo tua magis</p>
+  <p>Lubido incendatur? SE. Damus facillime</p>
+  <p>Omnes aegrotis (quum ualemus) prouida</p>
+  <p>Consilia. tusi h c sis, longe aliter sentias.</p>
+  <p>Grauior mihi morte est, repulsa, pallida.</p>
+  <p>IO. Domina, omnibus precibus oro atque obtestor, ut</p>
+  <p>Inmaximo affectu tuo aliquid temporis</p>
+  <p>Huic cogitationi impertias. Deus</p>
+  <p>Quam horribiliter Pharonem tum punit potens.</p>
+  <p>Plagis regem crudelibus, cum Sarai</p>
+  <p>Proposuisset uitiare Abraae coniugem?</p>
+  <p>Nimis ego ignauos sim, si, cum fratres mei</p>
+  <p>Ob raptum concubitum sororis, liberae</p>
+  <p>Puellae amoris desiderio, nuptijs</p>
+  <p>Pensandum regijs, cunctis caesis uiris</p>
+  <p>Reliquam diripuere urbem: ego tantum mea</p>
+  <p>Mollitie admittam facinus, domina, absit procul.</p>
+  <p>Hem cogita, quod coniugem decet probam</p>
+  <p>Munus, pudicitia, modestia, pietas,</p>
+  <p>Timor Dei. confidit in frugi uiri</p>
+  <p>Cor coniuge, reddet ei maritus omnibus</p>
+  <p>Diebus, operum mercedem uitae suae.</p>
+  <p>Casta et pudica mulier corona est uiri.</p>
+  <p>At quae confusione res dignas gerit,</p>
+  <p>Deterrima est putredo in ossibus uiri.</p>
+  <p>Quare accinge tuos lumbos fortitudine,</p>
+  <p>Et firma brachium tuum, ut resistere</p>
+  <p>Possis malis affectibus tuis, decor</p>
+  <p>Marito sis. considera domus tuae</p>
+  <p>Semitas, beatam dicant filij tui.</p>
+  <p>Est pulchritudo uana, et fallax gratia.</p>
+  <p>Nunc hic dies aliam uitam adfert, et alios</p>
+  <p>Mores iam postulat, abice mollitiem animi.</p>
+  <p>Difficile erit tibi, mihi in isthacre dare</p>
+  <p>Verba. SE. O mi Ioseph, tibi uerba dare me putu?</p>
+  <p>Penitus quae amore pereo tui miserrima?</p>
+  <p>Ah loseph Ioseph, quod datur gratis boni,</p>
+  <p>Amittere, Ioseph permagna est inscitia.</p>
+  <p>IO. Atqui hoc dono peius nihil nec est mihi.</p>
+  <p>Tibique. nusquam me auellas, firmatus est</p>
+  <p>Animus. Qui adulter est, cordis sui ob inopiam</p>
+  <p>Animam suam perdet, sibique congregat</p>
+  <p>Damnosam ignominiam, atque turpitudinem,</p>
+  <p>Et opprobrium eius neutiquam delebitur.</p>
+  <p>Hominis uias Dominus scit, et considerat</p>
+  <p>Eius gressus. Iniquitates impium</p>
+  <p>Capiunt suae, et peccatorum constringitur</p>
+  <p>Compedibus, et tandem morte moritur miser.</p>
+  <p>SE. Non merui tandem precibus, dignae ut femin</p>
+  <p>Miserearis? quin amplectere, quid differes?</p>
+  <p>IO. Vel ante optem tellus dehiscat mihi prius,</p>
+  <p>Vel omnipotens pater adigat me fulmine</p>
+  <p>Ad umbras pallentes Erebi, mortemque me</p>
+  <p>Profundam, quam alieni subsessor sim thori.</p>
+  <p>SE. Ioseph, si amore non flectere, senties</p>
+  <p>Quid possit ira mea. feram’ ne ineptias?</p>
+  <p>Et magnifica uerba tua? quid si ui expleam</p>
+  <p>Amorem, tamen esset reluctaturus hic?</p>
+  <p>IO. Amor affectu exhibetur, haud ui cogitur.</p>
+  <p>SE. Dij deaeque perdiunt, ingratus es</p>
+  <p>Nimis. Abeo intro. quando proficio nihil.</p>
+  <p>Sed credito mihi, exacerbabo nimis</p>
+  <p>Dominum aduersum te, ut non restinguere liceat</p>
+  <p>Vnquam ir am coniectam mariti in te mei.</p>
+  <p>Silices habes, et durum ferrum in pectore.</p>
+  <p>Te lapis, et montes, innataque te robora</p>
+  <p>Rupibus altis, te saeuae genuerunt ferae:</p>
+  <p>Duris te genuit perfide horrens cautibus</p>
+  <p>Caucasus, et tigres admouerunt ubera.</p>
+  <p>Nunquam fletu ingemuisti crudelis meo:</p>
+  <p>Non lumina flexti, non miseratus amantis es.</p>
+  <p>Quae sim, mox senties. inultum hoc auferes</p>
+  <p>Nunquam. IO. Isthaec non amantis dicta sunt. ego</p>
+  <p>Patiar inuidiam, passo dentur praemia.</p>
+  <p>Quamlibet accuses, et sis irata liceat,</p>
+  <p>Et licet imperiosa capillos uellas meos,</p>
+  <p>Oraque sint digitis liuida facta tuis mea,</p>
+  <p>Perperiar omnia. reseruent me compedes</p>
+  <p>Vinctum catenis (dum bene se, et quantum solet</p>
+  <p>Ira satiauerit ipsa) tum dices tibi,</p>
+  <p>Quam diligenter munit castitate se.</p>
+  <p>SE. Quid sim factura, furcifer experibere.</p>
+</div>
+<div type="level1" xml:id="scena-ii.-2">
+  <head>SCENA II.</head>
+  <p>Ioseph.</p>
+  <p>Furore multo saeuit iratum mare,</p>
+  <p>Pronique fluuij, et ignis acris impetus,</p>
+  <p>Inopta acerba, a erba alia quam plurima:</p>
+  <p>Sed nil ita acerbum, et noxium, ut mulier malae.</p>
+  <p>Quod etiam testatur quaedam mala inquiens:</p>
+  <p>Sumus quidem quales sumus nos feminae,</p>
+  <p>Neque enim malae ausim dicere. namque incendio</p>
+  <p>Vt nihil formidabilius est, saeuo mari</p>
+  <p>Nihil periculosius, unda uincitur</p>
+  <p>Raro maris: sic, his mulier simillima est.</p>
+  <p>Heram meam mulierum praestantissimam, et</p>
+  <p>Esse omnium probissimam, et castissimam,</p>
+  <p>Eius mentem longe remotam credidi</p>
+  <p>Ab omnibus libidinis et affectibus.</p>
+  <p>Sed experior miser diuersu. euellere</p>
+  <p>Aculeum uesanae libidini puto.</p>
+  <p>Sed sic amore caeca fertur improbo, ut</p>
+  <p>Cupiditatem ipsius nulla retardare eam</p>
+  <p>Videatur turpitudo, etiam foedissima.</p>
+  <p>O feminae scelus longe turpissimum,</p>
+  <p>O feminae libidinem effrenem nimis,</p>
+  <p>Quae cupijt allicere ad nefandum me sui</p>
+  <p>Amorem. et ni monitus fuissem saepius</p>
+  <p>Parentibus meis, coepisset me suis</p>
+  <p>Callida retibus, huiusmodi praecepta sunt</p>
+  <p>Patris mei: Fili, cum praecordia licet</p>
+  <p>Modici motus tangunt, in primo limine</p>
+  <p>Pedem refer (dum tibi licet) mala opprime</p>
+  <p>Semina, dum noua sunt. nam medicina saepius</p>
+  <p>Sero paratur, praecipue cum per moras</p>
+  <p>Longas malum conualuit. nam uires mora</p>
+  <p>Dat, et teneras uuas coquit segnis mora.</p>
+  <p>Et ualidas segetes, quod fuit gramen, facit.</p>
+  <p>Id quale sit, quodcunque amas, circmspice</p>
+  <p>Mente celeri, et laesuro subtrahas iugo</p>
+  <p>Collum tuum, nec longe differes malum.</p>
+  <p>Dat uerba amans omnis, reperitque (credito</p>
+  <p>Mihi) morando alimenta optima, sed proxuma</p>
+  <p>Vindictam quaecunque dies, diram ate exigit.</p>
+  <p>Quare, antequam laesus sies amoribus,</p>
+  <p>Dum furor in cursu est, tum furori cedito.</p>
+  <p>Natator difficulter ibit contra aquas</p>
+  <p>Aduersantes, etiam si pugnet maxime.</p>
+  <p>Fallax amat mollia nimis Venus ocia.</p>
+  <p>Quare qui quaeris finem amori, res age:</p>
+  <p>Tutus ab amoribus iam eris, quciunque amas.</p>
+  <p>Sed de his satis dictum puto. quae agenda sunt</p>
+  <p>Domi, curabo sedulo. o Deus iuua,</p>
+  <p>Ne herae meae blanditijs ducar impijs.</p>
+  <p>Abeo intro, dij bene uortant, et mecum sient.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-2">
+  <head>SCENA III.</head>
+  <p>Sephira. Ioseph. Gabriel.</p>
+  <p>Michael.</p>
+  <p>Perij, nisi quis me Deus respexerit,</p>
+  <p>Nemon prodit, qui miserae feminae ferat</p>
+  <p>Opem? uenite cito, uenite iuuate me,</p>
+  <p>Rapite moechum, rapite, dui uim mihi intulit.</p>
+  <p>Ioseph hic ex domo domini fui effugit celeriter.</p>
+  <p>IO. O sancte Deus, qui caelum, qui terram regis,</p>
+  <p>In cuius omnium uita est condita manu,</p>
+  <p>Serua obsecro me, en quippiam nostrae domi</p>
+  <p>Operis facturus, nacta solitudinem</p>
+  <p>Hera ferox appraehendit pallium meum.</p>
+  <p>Per uim trahit castum constratum ad lectulum,</p>
+  <p>Cupiens explere libidinem diram suam.</p>
+  <p>O feminam procacem, o mulieris scelus</p>
+  <p>Incredibile et inaudittum, o libidinem</p>
+  <p>Indomitam, o audaciam praecipitem feminae.</p>
+  <p>Non timuist Deum malorum uindicem,</p>
+  <p>Si hominum minus famam? prostrauisti omnia</p>
+  <p>Libidine ac furore, uicit indecens</p>
+  <p>Pudorem cupiditas, honorem audacia,</p>
+  <p>Rectam uicit rationem ipsius amentia.</p>
+  <p>Nil in mea uita uidi scelestius.</p>
+  <p>Quae me, quae herum (facinus audax) fallere petit,</p>
+  <p>Omnipotens pro laude tui me aegrum nominis</p>
+  <p>Conserua, et opem feras mihi: tu’nam potes.</p>
+  <p>Duc dextra manu miseros, et percipe</p>
+  <p>Preces meas, animum tuum maesta moueat</p>
+  <p>Querela. En aspice, ut insultet domina mihi?</p>
+  <p>En quam furit feroctier in clades meas?</p>
+  <p>Crimen mihi quaerit nefan dum obtrudere.</p>
+  <p>Animum metus, et horror saeuus circumdedit.</p>
+  <p>O si mihi uolucres quis alas necteret,</p>
+  <p>Qualibus ire in uentos columba saepius</p>
+  <p>Rapidos solet, cunctando haud differrem diu</p>
+  <p>Sed ocyus effugerem, si sorsitan queam</p>
+  <p>Euadere has tempestatis saeuas a quas.</p>
+  <p>Quid est enim loci relictum iam bonis</p>
+  <p>Virtutibus, pudori, rectisque studijs,</p>
+  <p>Probitati, uerae libertati hoc tempore</p>
+  <p>Grauissimo? ingratissimoque seculo?</p>
+  <p>O Deus, quibus pro nostris immortalibus</p>
+  <p>Benefieys, salus charissima debeat</p>
+  <p>Esse, et me ae fortunae. tum propter scelus</p>
+  <p>Eorundem, nihil mihi intra parietes</p>
+  <p>Tutum domi, insidijs nihil uacuum ubique.</p>
+  <p>Quare age Deus linguas infames contere.</p>
+  <p>Hic ingrediantur angeli in proscenium.</p>
+  <p>Sed ecce quos cerno eminus illustres uiros,</p>
+  <p>Eoobuiam, et flexo | genu honorem exhibuero.</p>
+  <p>Pijssimi uiri, quid est, quo pergitis?</p>
+  <p>Qui ue estis illustrissimi? ad me tenditis</p>
+  <p>Iter? GA. Ministri et custodes sumus tuae</p>
+  <p>Animae, atque corporis, legati a maxumo</p>
+  <p>Deo omnium, qui exaudijt miseras tuas</p>
+  <p>Querelas: nos misit, minuendi gratia</p>
+  <p>Tui doloris. quare fac animo sies</p>
+  <p>Eorti, Deo confide maxumo, fore</p>
+  <p>Speresque, ut impetu dominae leuissimo</p>
+  <p>Fracto, tua (credito mihi) gloria uetus,</p>
+  <p>Et dignitas rursus cedet tibi pristina.</p>
+  <p>Etsi tibi ex ijs rebus, quas forsitan</p>
+  <p>Fortuna largita est, quid ereptum siet,</p>
+  <p>Et hominum inuidia quippiam detraxerit,</p>
+  <p>Credas tamen id majori fraudi illis fore,</p>
+  <p>Nec non periculo, quam tibi molestiae.</p>
+  <p>Rectae uoluntatis, nam conscientia</p>
+  <p>Incommodis rebus sit consolatio</p>
+  <p>Longe praestantissima. nec est ullum malum</p>
+  <p>Tremen dum, quod praeter culpas euenerit.</p>
+  <p>Quando moderate praestitimus id quod decet,</p>
+  <p>Vacare culpa, maximum est solatium.</p>
+  <p>IO. In multis et uarijs molestijs meis,</p>
+  <p>Tum me in dolore summo conscientia</p>
+  <p>Recte factorum consolatur maxime.</p>
+  <p>Iniurias existimo leues, graui</p>
+  <p>Et firmo animo, tanquam fluctum a saxi impet</p>
+  <p>Frangi oportere. quare conscientia</p>
+  <p>Recti mihi uiuo, ne mortuo quidem</p>
+  <p>Vnquam eripietur. At tu fidus es comes,</p>
+  <p>Durissimis Deus rebus mihi cognitus.</p>
+  <p>MI. Ioseph audijt et gemitus, et rogantia</p>
+  <p>Verba Deus supplicis. certaque fides facit,</p>
+  <p>Vt pacificam praestet ab inimicis tibi Deus</p>
+  <p>Tandem quietem, qui tibi tot iam modis</p>
+  <p>Esse studuerunt noxij. illos deprimet,</p>
+  <p>Solus manens in regno inexpugnabili,</p>
+  <p>Eorumque studia mala subito conteret.</p>
+  <p>Nulla est enim spes, posse mutari malos,</p>
+  <p>Nisi Deus saeuis terat poenis eos.</p>
+  <p>Quare, qui amas iocunda pacis foedera,</p>
+  <p>Curas tuas omnes domino committito</p>
+  <p>Potenti: is tua, teque ipsum defendere potest.</p>
+  <p>Ipsus loco stabili facit consistere</p>
+  <p>Iustum, et laetificae pacis habere dat bona,</p>
+  <p>Ipsus pater gaudentes fuso sanguine</p>
+  <p>Tandem in mortis foueam praecipitanter feret.</p>
+  <p>IO. Habeo Domine magnam tuis uerbis fidem.</p>
+  <p>Manebit in uerbo Domini mihi gloria</p>
+  <p>Vera, et meas spes semper fixero in Deum.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-2">
+  <head>SCENA IIII.</head>
+  <p>Sephirah. Potiphar. Ioseph.</p>
+  <p>Dromo. Desmius.</p>
+  <p>VBiubi est, celari non potest scelus diu.</p>
+  <p>Hoccine tam audax facinus facere ausus furcifer?</p>
+  <p>Vt heram falleret conari sordidus</p>
+  <p>Seruus suam? hoccine est pium? si nunc mihi</p>
+  <p>Detur, ut ego facile unguibus uenefico</p>
+  <p>In oculos inuolem meis. PO. Perij, quid est</p>
+  <p>Absente me turbatum in nostris aedibus?</p>
+  <p>Adeo, quid isthuc? quem quaeris coniunx mea?</p>
+  <p>Quid festinas? SE. Egon’ quem conquiram, rogas?</p>
+  <p>Hebraeus, quem nobis dedisti, quas dedit</p>
+  <p>Turbas? PO. Perij, quid est rei? SE. Tu, illuderet</p>
+  <p>Vt nobis, hunc introduxti? diram suam</p>
+  <p>Libidinem cum femina castissima</p>
+  <p>Exerceat? (malum infandum) ecce ingressus est</p>
+  <p>Ad me, ut mecum condormiat, ui comprimens.</p>
+  <p>PO. Siquidem sunt uera, quae narras, quantum scelus?</p>
+  <p>SB. Tam uera sunt haec, quam supra nos est polus.</p>
+  <p>Ego nisi pudicior fuissem eo,</p>
+  <p>Et uim pepulissem a me nefandam, domine mi,</p>
+  <p>Succubuissem misera peccato maxumo.</p>
+  <p>Cum succlamassem, et audisset uocem meam,</p>
+  <p>Scelestus aufugit, relinquens pallium.</p>
+  <p>In argumentum igitur fidei certissimum,</p>
+  <p>Retinui pallium. PO Quid ais lectissima?</p>
+  <p>Quidisthuc’nam monstri fuit? Pro Iupiter.</p>
+  <p>Exi foras sceleste. at etiam restitas?</p>
+  <p>Fugitiue prodi, male conciliate. IO. Obsecro.</p>
+  <p>PO. Illud uide, os ut sibi distorsit carnufex.</p>
+  <p>Quid huc reditio est, quid denudatio haec?</p>
+  <p>Cur me enecas, aedes contaminando meas?</p>
+  <p>Tantam doloris ferre uim non possum ego</p>
+  <p>In posterum, quod totius adeo familiae,</p>
+  <p>Nostrique nominis famam celeberrimi,</p>
+  <p>Probris tuis, flagitijsque uiolaueris.</p>
+  <p>Non magnitudo maleficij, si te minus</p>
+  <p>Existimatio mouit mortalium?</p>
+  <p>IO. Opinionem falsam uestris mentibus</p>
+  <p>De me concepistis, nam conscius mihi</p>
+  <p>Sum bene recti, testor salutiferos deos.</p>
+  <p>PO. Huius tumet calamitatis es ingens tuae</p>
+  <p>Causa, et pudicas feminas, et candidas</p>
+  <p>Officiorum insimulatione furcifer</p>
+  <p>Fallendo. IO. Domine, homini innocenti nil magis</p>
+  <p>Est optandum, quam aequum iudicium. PO. Quid? quasi</p>
+  <p>Famae tuae quicquam per inuidiam siet</p>
+  <p>Cuiuspiam nostri detractum iniuria?</p>
+  <p>Rem certiorem facere uidetur et timor,</p>
+  <p>Et perturbatio, nec non creberrima</p>
+  <p>Mutatio coloris, et qui uultus est</p>
+  <p>Suspensus, ac incertus, furcifer, tuus,</p>
+  <p>Suspicionemque haec omnia faciunt mihi.</p>
+  <p>Animus item demissus. Homo acutissime ad</p>
+  <p>Excogitandum, et ad audendum improbissime,</p>
+  <p>Et ad efficiendum acerrime, et maleficij</p>
+  <p>Recentis conscientia conterrite,</p>
+  <p>Nil respondes? redargue me, si mentiar.</p>
+  <p>IO. Here, ut mare est tranquillum naturasua,</p>
+  <p>Quod ui uentorum concitarisaepius</p>
+  <p>Tamen uidemus: sic ego sponte sum mea</p>
+  <p>Placatus, sed iniquissimorum uocibus</p>
+  <p>Conoitor. ah res ipsa indicat, te cogniti</p>
+  <p>Habere nihil, ac comperti de faeinore</p>
+  <p>Meo, insimulor cuius ego insons a coniuge</p>
+  <p>Tua. o si causa nunc pro se posset loqui,</p>
+  <p>Defenderer facile ab obiecto crimine.</p>
+  <p>PO. A crimine cupis liberarier scelus,</p>
+  <p>Es qui princeps et architectus turbinis?</p>
+  <p>Heus heus coniunx, exi foras citissime.</p>
+  <p>SE. Hem praesto sum mi uir, quid est quod me euocas?</p>
+  <p>Trifurcifer factum negas turpissime?</p>
+  <p>Hic cupiditatibus omnibus domum</p>
+  <p>Nostram marite manifestauit, caedere</p>
+  <p>Et familiam suo pro arbitrio, et sua</p>
+  <p>Lubidine. PO. Hem, quid audio de te mali?</p>
+  <p>SE. Abusus est demum omnibus nostris bonis,</p>
+  <p>Scortarier, baccharier, furarier,</p>
+  <p>Et nil coepit sceleris pudendi omittere.</p>
+  <p>Os impudens, quid poteris his praetexere?</p>
+  <p>Eloquere. quid obmutescis? et quid concidit</p>
+  <p>Vultus tuus? quin respondes? quid mussitas?</p>
+  <p>IO. Profecto erumpet aliquando ex me uera uox,</p>
+  <p>Et dicam sine mora miser quod sentio.</p>
+  <p>PO. Quid inquies trifurcifer? quod’nam genus</p>
+  <p>Sceleris, aut improbitatis praetermittier</p>
+  <p>Solitum est a te hoc facto unico? Ehem familiae</p>
+  <p>Columen, cui fidem habui maxumam miser.</p>
+  <p>Scelus, tuam dominam, an me adeo dignum putas,</p>
+  <p>Quos ludas? IO. Occidi, nescio quid sit rei</p>
+  <p>Cur me accusent. quid peccaui, aut commerui ego?</p>
+  <p>SE. Nimia illa licentia euasit tantum in malum.</p>
+  <p>PO. O ingentem confidentiam, tantam’ne rem</p>
+  <p>Posse occultariexistmas? ita’ne semel</p>
+  <p>Apertam circumfers (malum) fraudem tuam?</p>
+  <p>IO. Permitte, me expurgem, domine audi me obsecro.</p>
+  <p>SE. Mirum ni quod concinnat iam mendacium.</p>
+  <p>Caue isti quicquam credas mir uir, qui in malis</p>
+  <p>Suis ut fit, quae conferant, loquetur. IO. Ah</p>
+  <p>Si quicquam mentitum inuenies, occidito</p>
+  <p>PO. Age nunc, iam ego pol hodie, si uiuo, tibi</p>
+  <p>Ostendam, heram quid sit periclifallere.</p>
+  <p>Hic potiphar euocat lorarium.</p>
+  <p>Audi obsecro. DR. quid uis? p. sublimem intro hunc rapt</p>
+  <p>Qua ntum potes. DE. Quem? PO. Ioseph. IO.</p>
+  <p>Quid feci? PO. Rape.</p>
+  <p>Cura adseruandum uinctum. atque audin’, quadrupedem</p>
+  <p>Constringito. IO. o Domine, flectere, quoniam meae</p>
+  <p>Fortunae multum iactatae diu hactenus</p>
+  <p>Portus fuisti, libera me a uinculis.</p>
+  <p>PO. Tuas preces cognosco, et uota nefaria.</p>
+  <p>Apagete, sin abducitis, omnes peristis hic.</p>
+  <p>Rapite, ducite, tanti ut sceleris paeniteat.</p>
+  <p>Tuam libidinem domare carceris</p>
+  <p>Poena uolo. licentiam praedidam eam,</p>
+  <p>Libertatemque uiuendi, qua abusus es.</p>
+  <p>Ab in coepto furore seuoceris. hoc</p>
+  <p>Itaque supplicio forte redibis in uiam.</p>
+  <p>O. Me miserum, qui meis uirtutibus, fide,</p>
+  <p>Probitate, humanitate in tantas incidi</p>
+  <p>Aerumnas, o maxima nostri insectatio.</p>
+  <p>Ah possum ego obliuisci sortis pristinae?</p>
+  <p>Qui fuerim, qui iam sim, quo honore et gloriae</p>
+  <p>Caream? o malorum uindex, ubi lates, Deus?</p>
+  <p>Quin uindicas me? sedmultorum saepius</p>
+  <p>Hominum improbitate diu depressa ueritas,</p>
+  <p>Emergit tandem, et praeclara innocentiae</p>
+  <p>Defensio interclusa, respirat, diu.</p>
+  <p>Quem uirtutis gloria summa laude extulit,</p>
+  <p>Inuidia eundem feminae improbissimae</p>
+  <p>Iam deprimit me ad supllicium indignissimum.</p>
+  <p>Vos uos, dij immortales, testor, qui meae</p>
+  <p>Menti, qui splendentia praefertis lumina,</p>
+  <p>Quod ad hanc calamitatem solus (deus) innocens</p>
+  <p>Delectus sum, mentes mouere debeo</p>
+  <p>Iure omnium mortalium miserrimus.</p>
+  <p>Periculum iniuste creaui nemini,</p>
+  <p>Si lingua est mihi concertandum, innocentiae</p>
+  <p>Virtutibus fretus uincam celerrime.</p>
+  <p>Sed est mihi praecisa iam defensio.</p>
+  <p>Laetor tamen, et obtestor maximum Deum,</p>
+  <p>Atque adeo uos: non uitae turpitudine</p>
+  <p>Me, aut magnitudine scelerum, aut infamiam</p>
+  <p>Propter, subire iure, aut me persoluere</p>
+  <p>Supplicia merita. Quapropter uidete, ne</p>
+  <p>Atrocitas, atque adeo Isthaec crudelitas</p>
+  <p>Experta in me, in uos conualescat, et repat</p>
+  <p>Longius. Ego ceruices audacter meas</p>
+  <p>Praebebo, ac animo aequo tacebo: quando me</p>
+  <p>Tacente, uirtus pro me agit causam meam.</p>
+  <p>DR. Quando loseph praestiteris, quod tuum decet</p>
+  <p>Officium, liberaberis dubio procul.</p>
+</div>
+<div type="level1" xml:id="scena-v.-2">
+  <head>SCENA V.</head>
+  <p>Pharao rex Oenochous.</p>
+  <p>INcessit ingens me timor, et subitus tremor</p>
+  <p>Corpus ferit. necesse nuncut cogitem,</p>
+  <p>Res est opinione maiorque grauior.</p>
+  <p>Haec somnium quid sibi uelit, quod proxume</p>
+  <p>Apparuit mihi secundum languidam</p>
+  <p>Quietem. nam non obrui nimio cibo,</p>
+  <p>Nec me potu heri largiore grauauerim.</p>
+  <p>Nam tunc solet fieri, ut moueatur maxime,</p>
+  <p>Et concitetur animus uarijs somnijs</p>
+  <p>Inanibus. nos contra moderatissimo</p>
+  <p>Victu quieti tradidimus. neque uiguit</p>
+  <p>Noster animus motibus indefessis, neque</p>
+  <p>Subiectus altis cogitationibus,</p>
+  <p>Quae mentes adeo sollicitant mortalium.</p>
+  <p>Horum nihil. nam solis mersum circiter,</p>
+  <p>Sedataiam ciborum mole in corpore,</p>
+  <p>Deposita rerum denique cura omnium,</p>
+  <p>Oblata species est praepinguium boum</p>
+  <p>Per somnium. quandoquidem conspecta sit</p>
+  <p>Visio solis ad exortum, iudico magis</p>
+  <p>Obseruandam, quodsol Phoebusque (fabulis</p>
+  <p>Si credimus) uates futurorum exhibent</p>
+  <p>Se: sanguinei quoque spiritus hoc tempore</p>
+  <p>Dominantes, claritatem conferunt suam</p>
+  <p>Cum somniali claritate: itaque solet</p>
+  <p>Eorum fieri magna concordantia.</p>
+  <p>At nunc quem interpretationem somnij</p>
+  <p>Rogem? o si detur aliquis obuiam mihi</p>
+  <p>Apollo, qui explicaret hoc insomnij.</p>
+  <p>Omnes | uocaui congregatim, qui mihi</p>
+  <p>Regi antecellere sophia doctissimi</p>
+  <p>Videbantur, consului, at non quicquam sua</p>
+  <p>Scientia explicare. Sed quis proxume</p>
+  <p>Astat? Peritos non uiros sapientia</p>
+  <p>Qui praestent, nosti? magicis qui imbuti artibus?</p>
+  <p>Nuper confusus portentosis somnijs,</p>
+  <p>Cunctis diuinis coniectoribus undique,</p>
+  <p>Et quotquot tota in Aegypto sapientia</p>
+  <p>Pretstant, consultis frustra, ut cui prorsus nihil</p>
+  <p>Explicari quicquam possit, quare mihi</p>
+  <p>Iam longius perquirendum est. OE. o Rex pie,</p>
+  <p>Incarceratus quispiam fuit puer</p>
+  <p>Hebraeus mecum, excellenti modestia,</p>
+  <p>Fuisse se diuenditum propter sui</p>
+  <p>Ingenij acumen, nec non excellentiam</p>
+  <p>A fratribus, peregrinis, dixit mihi.</p>
+  <p>A mercatoribus posthac deuectus est</p>
+  <p>In Aegyptum, hausit ibi puer breuissimo</p>
+  <p>Tempore magicas artes, atque solertissimus</p>
+  <p>Insomniorum uates euasit. nihil</p>
+  <p>Ei iuris diuini, humanique nihil est</p>
+  <p>Incognitum, atque adeo hoc potui facillime</p>
+  <p>Insomnij ex solutione consequi</p>
+  <p>Mei. Videbam forte botris palmitem</p>
+  <p>Oneratum, per quietem, iam praegrandibus,</p>
+  <p>Aptis uindemiae: quibus promptissime</p>
+  <p>Resectis, expressisque in calicem regium,</p>
+  <p>Mustum tibi offerre bibituro protinus.</p>
+  <p>Anxius ei retuli. is mox me iubet bono</p>
+  <p>Esse animo, restitutionem pristinae</p>
+  <p>Portendi dignitatis. quod clementia</p>
+  <p>Est concessum mihi tua. PH. Adducto est opus.</p>
+  <p>Quam maxime potest, celer andum censeo.</p>
+  <p>Abi, pedem refer cito. iam libera.</p>
+  <p>OE. Maturabo domine meis pro uiribus.</p>
+</div>
+<div type="level1" xml:id="scena-vi.">
+  <head>SCENA VI.</head>
+  <p>Oenochous. Dromo. Desmius.</p>
+  <p>Ioseph. Pharao.</p>
+  <p>HEus heus aperite, ecquis prodit mihi obuiam?</p>
+  <p>DR. Hoc quis pultauit ostium? OE. Menhoc rogas?</p>
+  <p>Qui proxume astat. Ioseph producto est opus,</p>
+  <p>Ex mandato regis. DE. Factum optume, feram</p>
+  <p>Illi ergo gaudium iuueni gratissimum.</p>
+  <p>Ego quidem te fortunatum fecero</p>
+  <p>Ioseph: Pharonis regis missus sum modo, ut</p>
+  <p>Adducerem in conspectum te Ioseph. Dij</p>
+  <p>Te seruatum mites uolunt. IO. Vtinam sient</p>
+  <p>Quae noua narrasti, uera. num fides tuis</p>
+  <p>Verbis habenda? num’nam ludis obsecro?</p>
+  <p>DR. Egonte? quem dignum summis honoribus</p>
+  <p>Existimaui semper. experibere</p>
+  <p>Regis breuissime suauem clementiam.</p>
+  <p>Ecce tibi adest. tristem caue ne uiderit</p>
+  <p>Te, aut immaturos sermones profundere</p>
+  <p>Intelligat, uel uerbis inconstantibus</p>
+  <p>Insomnium explices. IO. Meminero horum omnium.</p>
+  <p>Nunc ergo eamus. PH. Adesdum, paucis te peto.</p>
+  <p>Mi fili, de tua opportune maxima</p>
+  <p>Sapientia suggestum’st. uidi somnia,</p>
+  <p>Nec est qui edisserat mihi. conijcere te,</p>
+  <p>Nec non discutere posse sapientissime</p>
+  <p>Audiui. IO. Pharaoni Deus dicet sine</p>
+  <p>Me, quam prosperrima: et ostendetur, quae salus</p>
+  <p>Futura sit regi Pharaoni per Deum</p>
+  <p>Meum, tuumque rex adeo inuictissime.</p>
+  <p>PH. Me stare putabam supra ripam fluminis,</p>
+  <p>Deque amne conscedere boues septem nimis</p>
+  <p>Pulchras, praestanti forma, et obesis carnibus,</p>
+  <p>Quae pascebantur in locis palustribus.</p>
+  <p>Has consequebantur aliae septem boues</p>
+  <p>Emergentes, de quo priores flumine,</p>
+  <p>Foedae, confectaeque macie, uix ossibus</p>
+  <p>Haerebant. atque in tantum deformes, ut in</p>
+  <p>Terra Aegypti nun quam tales ego uiderim</p>
+  <p>Quae deuoratis, consumptisque prioribus,</p>
+  <p>Quorum fuit habitudo mira corporum,</p>
+  <p>Nullum tamen saturitatis uestigium</p>
+  <p>Dedere, sed simili macie, et squalore iam</p>
+  <p>Torpebant, nec fames repressa erat in eis.</p>
+  <p>Ego euigilans pressus sopore, denuo</p>
+  <p>Vidi aliud somnium. IO. Quieto animo audiam.</p>
+  <p>PH. Septem spicae plenae, omnium pulcherrimae</p>
+  <p>In uno culmo pullulabant, quas quoque</p>
+  <p>Aliae septem tenues, percussae uredine</p>
+  <p>Sequebantur, quae pulchritudinem nimis</p>
+  <p>Priorum deuorantes. tum uigilans mane</p>
+  <p>Pauore post quietem saeuo territus,</p>
+  <p>Ad omnes misi coniectores ocyus</p>
+  <p>Aegypti totius, quibus iussu meo</p>
+  <p>Praesentibus narraui somnium, rogans</p>
+  <p>Eos ut explicarent, atque edisserant.</p>
+  <p>Eorum uero nullus uatum inuentus est,</p>
+  <p>Quiposset somnij coniecturam assequi.</p>
+  <p>IO. Insomnium tuum (rex o pijssime)</p>
+  <p>Vnum est, quae facturus Pharaoni nunc Deus</p>
+  <p>Ostendit. PH. Hanc per imaginem quodammodo?</p>
+  <p>IO. Sic est. Sed percipe porro sermones meos.</p>
+  <p>Septem boues egregiae obesis carnibus,</p>
+  <p>Plenae spicae quae eodem culmo pullulant,</p>
+  <p>Vbertatis septem anni sunt, et somnij</p>
+  <p>Eandem uim complectuntur. septem quoque</p>
+  <p>Tenues boues, atque macilentae, post quae eas</p>
+  <p>Ascenderant: pariter spicae, quas uideras,</p>
+  <p>Repercussas uento atque uredine nimium,</p>
+  <p>Significant annos septem uenturae famis.</p>
+  <p>Et ecce complebuntur (Rex) hoc ordine.</p>
+  <p>Anni septem uenturi sunt uberrimi,</p>
+  <p>Et fertilitate maxima affluentia</p>
+  <p>Tempora, in omni Aegypti terra, regno tuo.</p>
+  <p>Quos anni alij septem sequentur post (famis</p>
+  <p>Pestis) tantae sterilitatis, rerum omnium</p>
+  <p>Inopiae, ut omnis abun dantia rerum prior</p>
+  <p>Obliuioni detur. consumptura inops</p>
+  <p>Est undique omnem terram latius fames,</p>
+  <p>Et perdet ubertatis magnitudinem</p>
+  <p>Inopiae magnitudo ita, ut non tam ferox</p>
+  <p>Charybdis, neque Scylla infesta siet nauitis,</p>
+  <p>Quam uentura fames nauarchis terrestribus.</p>
+  <p>PH. Ioseph, quae uero sunt rationes duplicis</p>
+  <p>Insomnij, obuersati mihi, dic obsecro?</p>
+  <p>IO. Quod uideras (domine) secundo, pertinet</p>
+  <p>Eandem ad rem, atque firmitatis maximae</p>
+  <p>Est indicium, eo quod Dei sermo grauis</p>
+  <p>Sit, et uelocius impleatur. Nunc uirum</p>
+  <p>Ergo eligat elementia tua industrium,</p>
+  <p>Et sapientem, quem praeficiat regionibus</p>
+  <p>Regni tui Aegypti, qui praepositos cito</p>
+  <p>Constituat per regiones, atque fructuum</p>
+  <p>Qui quintam partem per septem annos fertiles,</p>
+  <p>Qui iam futuri sunt, congreget in horrea,</p>
+  <p>Et cuius operis nobis et laboribus</p>
+  <p>Frumenti uis cellis condatur maxima,</p>
+  <p>Compressa sub regis potestato unica,</p>
+  <p>In urbibus seruetur ad diram famem</p>
+  <p>Repellendum futuram, septem proximis,</p>
+  <p>Post fertiles, annis, ne conficiat fames</p>
+  <p>Aegyptios, populum tuum. PH. Ioseph placet</p>
+  <p>Consilium, atque tua diuina sapientia.</p>
+  <p>Ad spectatores.</p>
+  <p>Num poterimus reperire tempestatibus</p>
+  <p>Nostris uirum excellentiorem isto uiro?</p>
+  <p>Qui spiritu plenus Dei sit? Cuius os</p>
+  <p>Diuina cogitet? loquatur? uel magis</p>
+  <p>Pius, modestusque siet? ergo accommodus</p>
+  <p>Nemo magis mihi uidetur partibus</p>
+  <p>Praeficiendus, uel dignior, regni mei.</p>
+</div>
+<div type="level1" xml:id="actvs-qvarti">
+  <head>ACTVS QVARTI,</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-i.-3">
+  <head>SCENA I.</head>
+  <p>Pharao. Ioseph.</p>
+  <p>MVltis tibi nominibus defero mei</p>
+  <p>Imperij splendidissima gubernacula,</p>
+  <p>(Suauissimum nostrae ornamentum familiae)</p>
+  <p>Vt dignitatem amplificari tuam uelim,</p>
+  <p>Ductus tua erga me sum beneuolentia,</p>
+  <p>Quae non opinionibus tacitis, sed et</p>
+  <p>Certis quibusdam declar ationibus,</p>
+  <p>Et perspicuis signis ostenditur mihi.</p>
+  <p>Vir es fide, atque incredibili constantia.</p>
+  <p>Qui liberabis ingruente peste nos,</p>
+  <p>Ab immani terrore nos famis auidae.</p>
+  <p>IO. Clementiae tuae cliens, per omnia</p>
+  <p>Tuus, seque suosque labores modo regiae</p>
+  <p>Commendat. Sed scientiam pijssime</p>
+  <p>Rex, quam in me esse putas, non mihi ascisco lubens.</p>
+  <p>PH. Quoniam Deus Ioseph tibi ostendit sua</p>
+  <p>Benignitate, quae locutus es mihi,</p>
+  <p>Sapientiorem, aut similem esse tui haud arbitror.</p>
+  <p>Quare tu eris rector super domum meam,</p>
+  <p>Et sub tui oris imperio cunctus tremet</p>
+  <p>Populus, atque ad nutum tuum conuertier</p>
+  <p>Cogatur, audiens te studiostssime,</p>
+  <p>Et obsequens erit uoluntati tuae.</p>
+  <p>Cum igitur nil excellentius fuerit tua</p>
+  <p>Humanitate, quam ipse si pro uiribus</p>
+  <p>Te ad omnes partes audiendi quam optume</p>
+  <p>Paraueris, si omnem tuam incitaueris</p>
+  <p>Mentem, curam, atque excellentem cupidinem</p>
+  <p>In rebus omnibus, tibi paraueris</p>
+  <p>(Crede mihi) aeternam gloriamque posteris.</p>
+  <p>Quapropter hoc primum rogo, ne contrahas,</p>
+  <p>Aut demittas animum, ne tanquam fluctibus,</p>
+  <p>Sic magnitudine obrui negotij</p>
+  <p>Mentem sinas, contra sed ito audentior,</p>
+  <p>Et erigas. ultro occurras negotijs</p>
+  <p>Hortor. non etenim eiusmodi republicae</p>
+  <p>Partem geres, in qua fortuna perfida,</p>
+  <p>Sed plurimum ratio atque diligentia</p>
+  <p>Dominetur. in uirtute quam positam tua,</p>
+  <p>Atque moder atione animi tui uides.</p>
+  <p>Quid est negotij tenere eos, quibus</p>
+  <p>Praees, si te ipse contines? facilimum</p>
+  <p>Tibi, cuius natura talis est, ut hic</p>
+  <p>Etiam sine doctrina uideatur fulgida</p>
+  <p>Posse moderata dici. ea autem est adhibita</p>
+  <p>Doctrina, quae uel possit uitiosissimam</p>
+  <p>Excolere natur am. tu tum pecuniae,</p>
+  <p>Atque uoluptati, tum omnium rerum (ut facis)</p>
+  <p>Facilius cupiditati dirae cesseris.</p>
+  <p>Quid autem reperiri potest celebrius,</p>
+  <p>Aut expetendum tibi magis, quam istam tui</p>
+  <p>Animi moderationem et temper antiam,</p>
+  <p>In tenebris non latere, non esse abditam?</p>
+  <p>Sed in oculis clarissimae prouinciae,</p>
+  <p>Etluce totius mei regni sitam?</p>
+  <p>In auribus famam tuam esse gentium</p>
+  <p>Adeo omnium? non itineribus homines tuis</p>
+  <p>Perterreri, nec sumptibus moleste eos</p>
+  <p>Exhauries: ut urbibus tuis uirum</p>
+  <p>Mitem et pium uideatur excepisse, non</p>
+  <p>Domus tyrannum, sed protectorem sui</p>
+  <p>Existimet recepisse. nec est iam satis</p>
+  <p>Te praeditum esse huiusmodi uirtutibus:</p>
+  <p>Studiosius cir cumuagarier animum</p>
+  <p>Necesse fuerit, ut in ista prouinciae</p>
+  <p>Custodia, non tibi soli, sed omnibus</p>
+  <p>Tui ministris imperij, atque ciuibus,</p>
+  <p>Atque socijs, id quod debes, praestare iam</p>
+  <p>Videare. praestabis uero istis finibus,</p>
+  <p>Quos ex domesticis coniunctionibus,</p>
+  <p>Aut ex necessarijs uoles tecum esse, non</p>
+  <p>Horum modo facta, sed etiam dicta omnia</p>
+  <p>Praestanda nobis sunt. minus uero tuae</p>
+  <p>Existimationi cupientes bene</p>
+  <p>Facillimum coherceas, a quis rudis</p>
+  <p>Cum esses, uidetur liberalitas tua</p>
+  <p>Potuisse decipi. nam ut quisque est optumus</p>
+  <p>Vir, itaque difficillime esse caeteros</p>
+  <p>Aut suspicatur improbos, aut perfidos.</p>
+  <p>Aures ad id quod audiunt, sient tuae</p>
+  <p>Attentae, ut aestimentur quam gratissime</p>
+  <p>Audire. non in quas lucelli gratia,</p>
+  <p>Aut exigui quaestus ficte insusurritur.</p>
+  <p>Sit annulus tuus non ut uas fictile,</p>
+  <p>Sed ipse tu tanquam, uirum prae se ferat</p>
+  <p>Excellentem atque praestantem. nun quam sies</p>
+  <p>Minister alienae uoluntatis, sed et</p>
+  <p>Testis tuae. sit cognitum prouinciae</p>
+  <p>Denique toti, esse tibi omnium (praees quibus)</p>
+  <p>Famam, salutem, liberos, charissima.</p>
+  <p>Et omnium fortunas ex aequo tibi</p>
+  <p>Esse et commendatissimas et gratius</p>
+  <p>Nil posse contingere. si qui nunquam tibi in</p>
+  <p>Suspicionem uenerit, nil est ei</p>
+  <p>Cur non committere, aut credere quicquam putes,</p>
+  <p>Sed si quis est, in quo sies offensus, et</p>
+  <p>Iam senseris quiddam, huic credideris prope nihil.</p>
+  <p>Existimationis huic commiseris</p>
+  <p>Nullam tuae ssartem amplius. si autem tui</p>
+  <p>Fortasse cognoueris amantiorem, eum</p>
+  <p>Numerum ad tuum libenter adscribito. genus</p>
+  <p>Nullum adeo in familiaritatibus siet</p>
+  <p>Magis cauendum, quam si uideas temporis</p>
+  <p>Amantiorem, quam tui. quod nouerint</p>
+  <p>Omnes uias pecuniae, et quod omnia</p>
+  <p>Pecuniae ipsi gratia faciunt, neque</p>
+  <p>Qui cum uicturi non sint: cuius gratia est</p>
+  <p>Rara apud eos, inter quos uiuere est opus,</p>
+  <p>Existimationi laudatissimae</p>
+  <p>Eius consulere curant. at si est quispiam</p>
+  <p>Fidelium seruorum, is sit rebus tibi in</p>
+  <p>Priuatis praepositus, nec non domesticis.</p>
+  <p>Quaeres ad imperij tui officium aliquod,</p>
+  <p>Aut partem aliquam Reipublicae pertinuerit,</p>
+  <p>Ne quid de his rebus seruus attingat tuus.</p>
+  <p>Ac nemini fidas, nisi cum quo prius</p>
+  <p>Absumpseris modium salis, suadeo tibi.</p>
+  <p>Hominis enim ingenium potest non perspicai,</p>
+  <p>Nisi conuictu diuturno, et commercio</p>
+  <p>Longo. Ioseph, prudente nam sapientia</p>
+  <p>Haud alia res utilior est mortalibus.</p>
+  <p>Neque est amicus absque temporis mora.</p>
+  <p>Mora temporis probum arguit tantum uirum:</p>
+  <p>At improbum uel unico agnoscas die.</p>
+  <p>Sit summa in iure dicendo seueritas,</p>
+  <p>Et uniuersis siet ex aequo aequabilis.</p>
+  <p>Constantia et grauitas adhibenda est gratiae</p>
+  <p>Quae sine mora resistat, atque facilitas</p>
+  <p>Adiungenda est in audiendo, et lenitas</p>
+  <p>Indiscernendo, et summa diligentia</p>
+  <p>Inomnibus. si forte sies austerior,</p>
+  <p>Ne subditis seueritas acerbior</p>
+  <p>Videatur, multis condimentis lenies</p>
+  <p>Humanitatis. multae enim urbes unius</p>
+  <p>Nutum hominis intuentur. Idcirco tuum</p>
+  <p>Fuerit, cuius natura cum moderata sit,</p>
+  <p>Tum etiam excellenti doctrina sit praedita.</p>
+  <p>Atque artium optimarum studijs, maxime</p>
+  <p>Cauere, in tam celebri potentia tua,</p>
+  <p>Ne alia potestas ulla ab ijs quos subditos</p>
+  <p>Habes, desideretur. atque in oppidis</p>
+  <p>Prudentia abs te prouideri debet, ut</p>
+  <p>Non ferueant tumultibus, aut discordijs,</p>
+  <p>Aut turbidis urbes seditionibus.</p>
+  <p>Pacem toti prouinciae laetus feres.</p>
+  <p>Aures tuae omnium querelis pateant,</p>
+  <p>Nullius inopiam aut solitudinem tuo</p>
+  <p>Accessu excludas. Idcirco id confeceris,</p>
+  <p>Prouinciae ut laetitia nostrum leniat</p>
+  <p>Desiderium. Quare quoniam in his urbibus</p>
+  <p>Summa potestare, atque cum celeberrimo</p>
+  <p>Verseris imperio. in quibus cernes tuas</p>
+  <p>Virtutes consecratas, laudatasque, et in</p>
+  <p>Numero deorum collocatas omnibus</p>
+  <p>In rebus, quas statues, quas decernes, ages,</p>
+  <p>Quid tantis hominum de te opinionibus,</p>
+  <p>Quid debeas denique tantis honoribus,</p>
+  <p>Tui prouincialaes quis te affecerint,</p>
+  <p>Excogites, erit necesse. id autem erit</p>
+  <p>Eiusmodi, ut consultum uolueris omnibus,</p>
+  <p>Salutaribus us a legibus, quarum autor, et</p>
+  <p>Exactor es, non latius discedere.</p>
+  <p>Te unum esse cogitabis nunc omnium oculis</p>
+  <p>Expositum, qui uel ueluti sidus splendidum</p>
+  <p>Atque salutare moribus innocentibus,</p>
+  <p>Rebusque humanis posse salutem maximam</p>
+  <p>Afferre. princeps etenim eo quasi loco</p>
+  <p>Est, ut si quid leuiter ab honesto flexerit,</p>
+  <p>Protinus ad subditos multos serpat grauis</p>
+  <p>Vitae lues. atque haec eo non dicta sunt,</p>
+  <p>Vt mea te oratio excitasse sedulum,</p>
+  <p>Sed potius incitasse currentem bonas</p>
+  <p>Ad uirtutes uideatur. Idcirco tibi</p>
+  <p>Sume auream hanc tor quem, bene concordantium</p>
+  <p>Virtutum consensum indicantem: tum quoque</p>
+  <p>Gemmis coronam insignitam, quae te quidem</p>
+  <p>Admoneat, omnibus ut praecellas caeteris</p>
+  <p>hcroicis uirtutibus. Ecce sceptra, quae</p>
+  <p>Iustitiae, et undecunque pectoris integri,</p>
+  <p>Et incorrupti symbolum. Ecce purpuram,</p>
+  <p>Indicium eximij cuiusdam in rempublicam</p>
+  <p>Amoris. Haec tua cum uita, conferas</p>
+  <p>Gestamina. IO. Ego rex, ardenti studio quidem</p>
+  <p>Conabor manibus, pedibus, noctesque et dies</p>
+  <p>Capitis periculum adibo, dum prosim tibi.</p>
+  <p>Tuum erit, si quid praeter spem euenit, ignoscere.</p>
+  <p>Hoc forte efficiam, quod saepe uiatoribus,</p>
+  <p>Cum properent, euenit: ut quando surrexerint,</p>
+  <p>Quam uoluerint, fortasse serius quoque</p>
+  <p>Properando citius perueniant, quo’nam uolunt,</p>
+  <p>Quam si de multa nocte fuissent per agiles.</p>
+  <p>Sic ego, qui in te colendo indormiui diu</p>
+  <p>Profecto tarditatem cursu corrigam</p>
+  <p>Tum uelis, tumque equis, tum quadrigis Dei.</p>
+  <p>PHA. Occasionem oblatam manibus arripe.</p>
+  <p>IO. Fiet domine omni sine mora. nam occasio</p>
+  <p>Neglecta omnia. subuertit, et multa uariat.</p>
+</div>
+<div type="level1" xml:id="scena-ii.-3">
+  <head>SCENA II.</head>
+  <p>Iacob. Ruben. Simeon. Leui.</p>
+  <p>Judas. Dan. Nephthalim. Gad.</p>
+  <p>Aser. Isachar. Zabulon.</p>
+  <p>Os habeo amarum, dentes plenos, lippiunt</p>
+  <p>Fauces fame, ita uacuitate adeo lactibus</p>
+  <p>Lassis uenio. Dura quoniam est mortalibus</p>
+  <p>Miseris mors omnis. at perijsse miserrima</p>
+  <p>Fame, nihil est miserius: nec uis ulla sit</p>
+  <p>Crediderim, quae uitae afferat dispendium</p>
+  <p>Maius. Salutis detrimentum dira fert</p>
+  <p>Fames. affectum omnem excludit, uerecundiam</p>
+  <p>In primis. Quare o filij, campum famis</p>
+  <p>Vbique cernitis, ingrauescit in omnibus</p>
+  <p>Orbis finibus annona iam, unde explebimus</p>
+  <p>Hiantes uentris latratus rapidissimi?</p>
+  <p>Inops genus mortis fames ignobile,</p>
+  <p>Impatiens omnium, bilem in nasum trahit.</p>
+  <p>Maagistra multorum improba existit fames.</p>
+  <p>Abeuntes descendite in Aegyptum iam citi,</p>
+  <p>Et emite nobis, quorum usus nunc indiget,</p>
+  <p>Necessaria. ne consum amur inopia:</p>
+  <p>Neres eo demum deueniat inopiae,</p>
+  <p>Vt alimentis absumptis, nos radicibus,</p>
+  <p>Et corticibus teneris, strictis oporteat</p>
+  <p>Vescirubis, uel plane suffocarier</p>
+  <p>Nostram familiam famis omnem fluctibus.</p>
+  <p>V. Quanquam a pueritia mea semper, tamen</p>
+  <p>Temporibus hisce maxime, sicut decet</p>
+  <p>Gnatum, parentis audiam dictis mei.</p>
+  <p>Hoc tibi pater spondeo, nec animum, nec mihi</p>
+  <p>Assiduam diligentiam unquam defore,</p>
+  <p>Et detrimenti ne quid fiat omnibus</p>
+  <p>Nobis dabitur opera. Cupio enim mehercule</p>
+  <p>Nullam residuam sollicitudinem esse. Ego</p>
+  <p>Omnia momenta obseruabo, ut praestem exitum</p>
+  <p>Tis tibi quae polliceor, nullum tui</p>
+  <p>Locum iuuandi praetermittam mi pater.</p>
+  <p>Tu sis modo quieto animo, ingredere domum,</p>
+  <p>In aurem utramuis ociose ut dormias,</p>
+  <p>Volo. IA. Omnia uobiscum sumite, uiaticum,</p>
+  <p>Res caeteras quae sunt necessaria uiae.</p>
+  <p>Pecuniam, qua soluere fruges uos decet.</p>
+  <p>RV. Abimus omnia quibus opus est ad uiam</p>
+  <p>Parare, ne quid nobis desit in uia.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-3">
+  <head>SCENA III.</head>
+  <p>Issachar. Simeon. Leui. Iudas. Dan.</p>
+  <p>Nephthalim Gad. Aser. Zabulon</p>
+  <p>loseph. Dromo. Desmius.</p>
+  <p>Lucessit, hoc iam cesso pultare ostium?</p>
+  <p>Quid ago? quid commoror? adeo, heus heus promptius.</p>
+  <p>IO. Quis quis pultauerit ostium, huc se paululum</p>
+  <p>Conferat ad me intro, quidque uelit breuissime</p>
+  <p>Indicet. ISA. Ego cum fratribus simul meis,</p>
+  <p>Domine, haud sum dignus ingredi tectum tuum.</p>
+  <p>IO. Viri uenite, et causam mihi proponite</p>
+  <p>Aduentus uestri. aures sunt attentae meae</p>
+  <p>Adid percipiendum, quod uos me poseitis.</p>
+  <p>IS. Ego tibi dicam Regio quae uberrima</p>
+  <p>Fuit hactenus, prae frugum inopia iam fame</p>
+  <p>Perit. IO. Quid audio? ISA. Rotat sic omnia</p>
+  <p>Fatum. grauissime fames premit Chanan</p>
+  <p>Patrium solum: nobis nec est quo uiuere</p>
+  <p>Possimus, et perijt pars hominum maxima</p>
+  <p>Nostris in urbibus. quae res miserrima</p>
+  <p>Spectaculum tremendum, adegit nos tua</p>
+  <p>Petere limina. quare rogamus nos tuam</p>
+  <p>Humanit atem, tempore difficillimo</p>
+  <p>Subuenias nobis, suppeditatis frugibus.</p>
+  <p>Annonae charitate subleuaueris.</p>
+  <p>Et quoniam praeclare admonemur hoc loco,</p>
+  <p>Nobis non natos esse solum, sed quoque</p>
+  <p>Ortus nostri partem sibi patria uendicat,</p>
+  <p>Partem parentes, partem amici: atque omnia</p>
+  <p>Quae in terris gignuntur, ad usum hominum nascier:</p>
+  <p>Homines autem hominum causa gener ati sumus:</p>
+  <p>Vt inter nos, ut alijs alij maxime</p>
+  <p>Prodesse possimus, et in hoc ducem sequi</p>
+  <p>Natur am debemus, quae nos commoda docet</p>
+  <p>Communia in medium mutationibus</p>
+  <p>Officiorum afferre, accipiendo, rursus et</p>
+  <p>Dando, artibus, tum opere, tumque facultatibus</p>
+  <p>Deuincire hominum inter homines foedera decet.</p>
+  <p>Hominis Deus creauit agros gratia,</p>
+  <p>Caelum nitescere, arbores frondescere,</p>
+  <p>Vites, laetificas pampinis pubescere,</p>
+  <p>Ramos baccarum ubertate incuruescere,</p>
+  <p>Segetes largiri fruges, florere omnia,</p>
+  <p>Fontes scatere, herbis pratum uestirier.</p>
+  <p>Cum igitur Deus largitus est haec omnia,</p>
+  <p>Auxilio humano generi, te obsecramus, ut</p>
+  <p>Iuues nos annona, quoniam abundas ea.</p>
+  <p>Honestum erit, feras nobis hac in re opem.</p>
+  <p>Vrbs seruat urbem, seruat itidem uir uirum.</p>
+  <p>Est liberale officium, serere beneficium,</p>
+  <p>Vt metere possies fructum. Si singulis</p>
+  <p>Beneficia, atque priuatim dantur, solent</p>
+  <p>Ea esse ijs, a quis profecta sunt, magis</p>
+  <p>Iam fructuosa, quam si non beneficium</p>
+  <p>Dedissent. IO. Exploratores estis soli</p>
+  <p>Aegyptij, tragulam adornas inijcere mi.</p>
+  <p>Putas’ne me in transennam doctis ducere</p>
+  <p>Posse dolis te? ac cuniculis me oppugnarier</p>
+  <p>Censes’ne inters? SI. Ah nesaeui tantopere, te</p>
+  <p>Nostri misereat: nam serui sumus tui.</p>
+  <p>IO. Infirmiora ut uideatis terrae meae,</p>
+  <p>Venistis huc. Nil agis, assequeris, et nihil</p>
+  <p>Moliris, quod mihi latere in tempore</p>
+  <p>Valeat. multorum seruant aures et oculi</p>
+  <p>Vos speculantur non sentientes, atque uos</p>
+  <p>Custodiunt, sica illa extorquebitur inops</p>
+  <p>De manibus, quamuis uos peperit ad amentiam</p>
+  <p>Natura, exercuit uoluntas, iam diu</p>
+  <p>Fortuna seruauit, tamen quos comparas</p>
+  <p>Malleolos, et faces ad incendia mei</p>
+  <p>Regni, tibi de manibus torquebo facile.</p>
+  <p>LE. Non est ita domine, sed uenerunt huc tui</p>
+  <p>Serui ut parent cibos. uiri omnes unius</p>
+  <p>Pijssimi, integerrimique filij |</p>
+  <p>Sumus. uenimus pacifici, neque famuli</p>
+  <p>Hi machinantur quicquam facinoris mali.</p>
+  <p>IO. Cur igitur uobis uertitur color nimis,</p>
+  <p>Atque subinde euariat, nec mens certa manet, huc</p>
+  <p>Et illuc migrans, et uacillans cordibus,</p>
+  <p>Pedes in utrosque considit? cor palpitat?</p>
+  <p>Nec non tremit ualde subter praecordia?</p>
+  <p>Fata putantes instare, dentes iam quoque</p>
+  <p>Occipiunt stridere. At innocenti neque color</p>
+  <p>Variat, neque ualde horrescit fata instantia.</p>
+  <p>Sed mentem habes polypi uafri, qui protinus</p>
+  <p>Saxis quibus se admouerit, statim refert</p>
+  <p>Colorem eorum: sic tu quemcunque populum</p>
+  <p>Accesseris, genti huic te aptas scitissime:</p>
+  <p>Et in morem Protei, in omnem dictis tuis</p>
+  <p>Speciem te uertis, dum deorsum uolueris,</p>
+  <p>Ac sursum, homo furens audacia (scelus)</p>
+  <p>Anhelans pestem. Res uos iam pridem, fides</p>
+  <p>Nuper deficere coepit, improbissimi</p>
+  <p>Scelerum omnium constructores. ISA. Nil fecimus</p>
+  <p>Serui tui unquam domine, quod contra tuam</p>
+  <p>Existimationem nos uellemus, et</p>
+  <p>Nunquam profecto tibi nocere uoluimus.</p>
+  <p>Sed domine ita habe certo statutum, nos tui</p>
+  <p>Memor iam et beneficium cum beneuolentia</p>
+  <p>Summa seruaturos, si nobis dederis id</p>
+  <p>Quod te poposcimus, frumenta scilicet.</p>
+  <p>IO. Vnde est famis uobis tantum, nisi impijs</p>
+  <p>Ex moribus uestris repit uobis malum hoc?</p>
+  <p>Ex hominum enim improbitate, animi atque corporis</p>
+  <p>Omnes morsus, egestas ac mendicitas</p>
+  <p>Conse quitur. Et si mente uos Deum pia</p>
+  <p>Coleretis, haec utique euenirent non mala.</p>
+  <p>Ementiendo multa falsa fingitis.</p>
+  <p>Quinetiam uestrum bis senos estis mihi</p>
+  <p>Mentiti, quorum numero duntaxat decem</p>
+  <p>Video. quid haec enormia uos mendacia</p>
+  <p>Contexitis? IV. Nobis ah parcius uiris</p>
+  <p>Obijcienda ista memento. Minimus cum patre</p>
+  <p>Nostro est domi, domine, alius non est super.</p>
+  <p>Nihil esse debet in nobis inane,,nil</p>
+  <p>Huiusmodi in nos conuenit probri mali.</p>
+  <p>IO. Quid uero inuidiosa isthaec nunc atrocitas,</p>
+  <p>Et uerborum fulmina tuorum furcifer?</p>
+  <p>Iam nunc experimentum uestri capiam, fidem</p>
+  <p>Vestram probabo. uos non egrediemini</p>
+  <p>Hinc, donec ueniat frater minimus. mittite</p>
+  <p>Ex uobis unum, qui adductum curauerit.</p>
+  <p>Vos interim in tenebrosi uinculis carceris</p>
+  <p>Custodiemini. ISA. Hau hau, ita’ne iam decet?</p>
+  <p>IO. Donec probentur, quae dixistis, uera sint,</p>
+  <p>An falsa. alioquin per salutem estis uiri</p>
+  <p>Pharonis exploratores. adeste mox</p>
+  <p>Satellites, heus quid moramini? morae</p>
+  <p>Quae causa? DR. Adsumus here. IO. Homines hos uos uinculis</p>
+  <p>Mandate. et aeternis custodite tenebris.</p>
+  <p>ISA. Hoi hoi quid fecimus? num’nam perimus hic?</p>
+  <p>Vtinam mihi esset aliquid hic, quo me darem</p>
+  <p>Praecipitem, una cum fratribus miseris meis.</p>
+  <p>O rem totam odiosam: sed haec fors uiderit,</p>
+  <p>Nam consilio nostro non multum uti licet.</p>
+  <p>O rem difficilem, et inexplicabilem: attamen</p>
+  <p>Est explicanda, quod fiat breuissime</p>
+  <p>Deos precor. IO. Diduc eos in carcerem.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-3">
+  <head>SCENA IIII.</head>
+  <p>Ioseph. Simeon. Rub. Leui.</p>
+  <p>Iudas. Dan Nephthalim Gad.</p>
+  <p>Aser Isachar Zabulon.</p>
+  <p>Dromo Desmius.</p>
+  <p>Versantur in animo multae et graues meo</p>
+  <p>Iam cogitationes, quae nullam mihi</p>
+  <p>Partem quietis neque diurnae impertiunt,</p>
+  <p>Neque nocturnae, qui quam meam rectissime</p>
+  <p>Istam gubernem functionem. Ecce uteris</p>
+  <p>Officio iudicis, captos habes tuos</p>
+  <p>Germanos. propterea quid iuris, est tibi</p>
+  <p>Videndum, habeas. sapientis est, absoluere</p>
+  <p>Hominem, quem odit, quem non odit, damnare eum:</p>
+  <p>Et semper non quid ipse uelit, sed quid bonae</p>
+  <p>Leges uelintm, et religio consideret,</p>
+  <p>Anim a duertere: qua lege reus citetur, et</p>
+  <p>Quae res in quaestione uersetur. Boni</p>
+  <p>Item fuerit, et iusti officium iudicis,</p>
+  <p>Cum iudicandi sumpserit tabulam, sibi</p>
+  <p>Non quodcunque cupierit licere, aut se putet</p>
+  <p>Solum esse, sed legem in consilio habeat sibi,</p>
+  <p>Fidem, aequitatem, et religionem maxime:</p>
+  <p>Autem libidinem, odium, et arrogantiam,</p>
+  <p>Inuidiam, postremo etiam cupiditatis ab</p>
+  <p>Se omnem gustum remouere: conscientiam</p>
+  <p>Mentis suae quam maximi aestimare, quam</p>
+  <p>Ab immortalibus dijs acceperit.</p>
+  <p>Quae non potest unquam a nobis diuellier.</p>
+  <p>Quae si optimorum consiliorum testis est,</p>
+  <p>Et factorum in cuncta uita nobis, sine</p>
+  <p>Vllo metu, et cum summa honestate, atque cum</p>
+  <p>Amplissimis honoribus uiuemus. En</p>
+  <p>Fratres meos aliquid obscure agere argui,</p>
+  <p>Simulationis aliud specie, aliud quoque</p>
+  <p>Spe ostentare. Haec omnia suspicionibus</p>
+  <p>A me, et coniecturis duntaxat aliquibus</p>
+  <p>Coarguuntur. Hem desideria mea</p>
+  <p>Vexarier | nunc? sicque latere in lachrymis,</p>
+  <p>Et sordibus foedis? idque fieri mea</p>
+  <p>Saeuitia permittam perire uos meos</p>
+  <p>Dilectos? Et si ob uestram inuidiam, qua diu</p>
+  <p>Aduersus me inflammati eratis, sumpseram</p>
+  <p>Cornua, tamen labat consilium iam meum,</p>
+  <p>Quod hactenus fixum uidebatur satis.</p>
+  <p>Quos magnitudo periculi, et summus timor</p>
+  <p>Hic Ioseph li | berat fratres | suos et ex |</p>
+  <p>oarcere edu- | Terret, uado</p>
+  <p>deliberaturus cito</p>
+  <p>Miserrimos de uinculis crepitantibus.</p>
+  <p>Quantum (uiri) est in me situm, uobis feram</p>
+  <p>Opem et salutem: itaque facillime meae</p>
+  <p>Et functioni, atque uoluntati intelligo</p>
+  <p>Vestrae satisfacturum. non putabitis</p>
+  <p>Me adhortamenta uestra, quae cordi mihi</p>
+  <p>Et sunt, et haerent in uisceribus intimis,</p>
+  <p>Abiecisse, uiri, ed eorum fui memor.</p>
+  <p>Itaque petitio mihi ista maximae</p>
+  <p>Curae fuit, non de me adeo, cui satis</p>
+  <p>Feci uel aetate, ueletiam factis, uel (hoc</p>
+  <p>Si ad rem quid attinet) praestanti gloria.</p>
+  <p>Sed me solicitat inopia. quare saculos</p>
+  <p>Vestros repleri iussi tritico. SI. Si tua</p>
+  <p>Clementia fert opem, omnibus re bus fore</p>
+  <p>Nos in tua potestate affirmamus, et</p>
+  <p>Tibi omnia officia, studia, curas, tuam</p>
+  <p>Qzae ad gloriam spectare uidentur, profiteor.</p>
+  <p>IO. Abite uos unanimes, et ferte triticum</p>
+  <p>Laeti domum uestram, et fratrem deducite mihi</p>
+  <p>Qui uestrum est minimus, ut queam probate uos,</p>
+  <p>Vestrosque sermones. tamen uestrum unus hic</p>
+  <p>Ligetur. SI. Ah ne saeui tantopere, mei</p>
+  <p>Nec non meorum te miserescat, iam rogo.</p>
+  <p>IO. Nequeo loquit porro, lachrumarum tanta uisIoseph</p>
+  <p>auer- | tit se.</p>
+  <p>Oboritur: attamen perficiendum est, cum eis</p>
+  <p>Quod coepi. Heus exi nunc foras, constringito (do.</p>
+  <p>Hunc. DR. Here adsum. IO. In carcere custodias mo-</p>
+  <p>SI. Hoo hoi parce innocenti domine, neminem</p>
+  <p>Praeter te habeo. te apello, reliquae spem tibi</p>
+  <p>Vitae committo. IO. Rape Vos interim domum</p>
+  <p>Abite, et facite quae iussi, celerrime.</p>
+</div>
+<div type="level1" xml:id="scena-v.-3">
+  <head>SCENA V.</head>
+  <p>Dan. Iudas. Iacob. Leui. Ruben.</p>
+  <p>Nephthalim. Gad. Aser.</p>
+  <p>Isachar. Zabulon.</p>
+  <p>Etsi ea sit perturbatio rerum omnium,</p>
+  <p>Suae fortunae ut quemlibet, regionibus</p>
+  <p>Praecipue nostris, maxime propter famem,</p>
+  <p>Quae suffocare coepit nos, paeniteat:</p>
+  <p>Nemoque sit, quin ubiusi, quam ibi ubi est, esse iam</p>
+  <p>Malit: tamen dubium mihi non est, bono</p>
+  <p>Viro apud nos esse miserrimum sit. idem ei</p>
+  <p>Sensus, et eadem est acerbitas, penuria</p>
+  <p>Rerum suarum atque publicarum. augent tamen</p>
+  <p>Oculi dolorem, qui ea quae caeteri audiunt,</p>
+  <p>Coguntur intueri, nec diuertere</p>
+  <p>A cogitationum miserijs sinunt.</p>
+  <p>Et quanquam nos uiuamus in ingenti inopia</p>
+  <p>Rerum, tamen miserius est nobios nibil,</p>
+  <p>Quam petere ab alienis auxilium: quod adeo per</p>
+  <p>Praefectum Aegypti expertus sum. Exaruit enim</p>
+  <p>Vrbanitas plane uetus apud principem</p>
+  <p>Prouinciae, summae uidetur esse mi</p>
+  <p>Dementiae et inhum anitatis. maxima</p>
+  <p>Est eius insolentia, insectatio</p>
+  <p>Nostri. Imperatoris nos insolentia</p>
+  <p>Illudimur: non ratio, non apud uirum</p>
+  <p>Mos, non officium, non existimatio,</p>
+  <p>Non apud eum ualet uerecundia, nihil</p>
+  <p>Denique quod uel multis solet esse commodo.</p>
+  <p>O infelix uide as pater gnatum tuum:</p>
+  <p>Quem non talem, qualem reliqueras, neque</p>
+  <p>Quem noras, non eum quem flens dimiseras</p>
+  <p>Flentem ex tuo complexu, ne uestigium</p>
+  <p>Eius quidem, ne simulachrum, sed mortui</p>
+  <p>Spirantis effigiem quandam nunc cerneres:</p>
+  <p>O fili fili, diceres cum lachrymis,</p>
+  <p>Quo tua recessit forma? quo redactus es?</p>
+  <p>IV. Crepuit fores, pater egreditur, linguam tuam</p>
+  <p>Compesce, ne nos tristiores sentiat.</p>
+  <p>IA. Quid mussitatis filij inuicem? quid haec</p>
+  <p>O fili fili exclamatio? ubi empta est ceres?</p>
+  <p>IV. Hic est pater. IA. Simeon ubi? IV. O pater iacet.</p>
+  <p>In praefecti Aegypti horrida custodia</p>
+  <p>Vinculis asseruatus, manibus atque pedibus,</p>
+  <p>Eadem nos poena mulctati carceris.</p>
+  <p>IA. Me miserum, uos ista uirtute, uos fide,</p>
+  <p>Atque probitate, humanitate, modestia,</p>
+  <p>Tantas in aerumnas propter me denique</p>
+  <p>Subito incidisse? Ah ordiar ego ab initio,</p>
+  <p>Et ad extremum ducam, etiam nouissima</p>
+  <p>Cum primis conferam, quae non postera dies</p>
+  <p>Acerbior priore? et quae’nam hora inse quens</p>
+  <p>Calamitosior? aut ego profecto sum miser,</p>
+  <p>Ingenio egregie ad omnem natus miseriam:</p>
+  <p>Aut illud falsum est, quod passim uulgo audio</p>
+  <p>Dici, diem aegritudinem auferre hominibus.</p>
+  <p>Quoniam quotidie mihi quidem augescit magis</p>
+  <p>De filio aegritudo: et quanto diutius</p>
+  <p>Abest, magis tanto cupio, et desidero.</p>
+  <p>Sed dicite porro mihi retentifilij</p>
+  <p>Causam. LE. Locutus est pater durissime</p>
+  <p>Nobis prouinciae heros nos putauit hic</p>
+  <p>Exploratores esse suae prouinciae.</p>
+  <p>Cui respondimus, pacifici nos sumus,</p>
+  <p>Nec ullas molimur domine insidias. tui</p>
+  <p>Serui duodecim fratres uno patre nos</p>
+  <p>Geniti sumus, non superest unus: cum patre</p>
+  <p>Minimus natu domi est nostrae in terra Chanan.</p>
+  <p>Qui ait ad nos: Sic probabo, num bona fide</p>
+  <p>Sitis, fratrum uestrum unum dimittite meis</p>
+  <p>In uincilis, et cererem in uestras sumite</p>
+  <p>Aedes. abite, et minimum, fratrem adducite:</p>
+  <p>Ac deinceps habeatis semper licentiam</p>
+  <p>Emendi apud me, quae uolitis. Cum singuli</p>
+  <p>Interea effunderemus frumenta celeres,</p>
+  <p>Inuenimus pecunias nostrum omnium</p>
+  <p>In ore saccorum ligatas. quid sibi</p>
+  <p>Miraculum hoc uelit, nequeo perpendere.</p>
+  <p>IA. Ah duras partes praedicas. non uirium</p>
+  <p>Habeo tantum, ut dolorem ingentem hunc perferam.</p>
+  <p>Scio fuisse honestius tempus mihi</p>
+  <p>Moriendi, et utilius, sed non eo modo</p>
+  <p>Praetermisi. Ah non possum commorarier</p>
+  <p>Diutius in tam misera uita: et qui modo</p>
+  <p>Non liberis solum, atque copijs fui</p>
+  <p>Beatus, uerum genere ipso pecuniae,</p>
+  <p>Authoritate et dignitate caeteris</p>
+  <p>Praecellui, atque existimatione ego,</p>
+  <p>Et gratia non inferior, quam amplissimi,</p>
+  <p>Qui unquam fuerunt. Est quoque id miserrimum,</p>
+  <p>et maximum in meis malis, atque numero</p>
+  <p>Magno mearum miseriarum, liberis</p>
+  <p>Meis decrepita sub senectute (ah malum</p>
+  <p>Ingens) spoliarier. Ioseph non est super,</p>
+  <p>Simeon tenetur uinculis: et filium</p>
+  <p>Natu minorem Beniamin diducere,</p>
+  <p>Et ex complexu amabili diuellere</p>
+  <p>Cupitis patris, secundum iussa principis.</p>
+  <p>Quid est praetermissum nunc atrocissimi</p>
+  <p>Mali? uagabimur’ne egentes liberis</p>
+  <p>Nostris, et cum coniugibus? hoc quid est mihi</p>
+  <p>Miserrimo miserius? suffocarier</p>
+  <p>Nos, et mancipia, nostraque pecora omnia</p>
+  <p>Per horridam famem? ecce denuo premit</p>
+  <p>Omnem terram fames atrox, rursum ibitis</p>
+  <p>Gnati in Aegyptum, et emite nobis paululum</p>
+  <p>Escarum. IV. Vir pronunciauit omnibus</p>
+  <p>Nobis, sub attestationeque dixerat</p>
+  <p>Iurisiur andi: Non uidebitis meam</p>
+  <p>Faciem, nisi fratrem minorem ad me citi</p>
+  <p>Adduxeritis uobiscum. Si igitur eum</p>
+  <p>Vis mittere nobiscum, pergemus pariter, et</p>
+  <p>Ememus tibi necessaria: si autem minus,</p>
+  <p>Non ibimus pater. uir etenim (ut diximus)</p>
+  <p>Denunciauit uobis dicens, Non meam</p>
+  <p>Videbitis faciem, nisi adduxeritis</p>
+  <p>Fratrem minimum. IA. Hoc in miseriam (pueri) meam</p>
+  <p>Fecistis, ut indicaretis ei, habere uos</p>
+  <p>Fratrem. LE. Ipse interrogauit nos per ordinem,</p>
+  <p>Nostram progeniem, num nam supresset pater,</p>
+  <p>Num nobis essent plures fratres. Singuli</p>
+  <p>Igitur respondimus, iuxta id quod nos erat</p>
+  <p>Scitatus consequenter. et nesciuimus,</p>
+  <p>Quod esset dicturus, Fratrem adducite mihi</p>
+  <p>Vestrum. IV. Rogamus te pater, mitte puerum</p>
+  <p>Nobiscum, ut abeamus fruges emptum omnibus</p>
+  <p>Nobis, ne pere amus nos, atque paruuli</p>
+  <p>Nostri fame. Ego suscipio puerem: de manu</p>
+  <p>Mea require eum. et nisi reduxero,</p>
+  <p>Et reddidero tibi, peccati ero reus</p>
+  <p>In tempore omni. Si nobis dilatio</p>
+  <p>Non intercessisset, iam uenissemus, et</p>
+  <p>Vice altera adportassemus fruges pater.</p>
+  <p>IA. Quoniam quidem ista conditio data est mihi,</p>
+  <p>Acerbitates et dolores ut feram,</p>
+  <p>Et omnes (filij mei charissima</p>
+  <p>Pignora quidem) cruciatus animi adeo mei</p>
+  <p>Libenter perferam, dummodo doloribus</p>
+  <p>Vobis meis, amicitia atque gratia,</p>
+  <p>Nec nonsalus pariatur. Hactenus tuli,</p>
+  <p>Et multa uos propter concessi, quo salus</p>
+  <p>Vestra esset maior. Et magno dolore me</p>
+  <p>Hic filius afficeret, nisi ipsa ratio, quae</p>
+  <p>Pepulisset omnes mihi fere molestias,</p>
+  <p>Et rerum desperatione mens mea</p>
+  <p>Obduruisset ad dolorem iam nouum.</p>
+  <p>Etsi necesse sic est, quod uoltis, mora</p>
+  <p>Per me non stat, facite optimis de frugibus</p>
+  <p>Terrae sumite, resinae, et parumper mellis, et</p>
+  <p>Stactes; storacis, et terebinthi, et amygdalae.</p>
+  <p>Pecuniamque duplicem, illam quae data</p>
+  <p>Est in saccos uestros, uiro retribuite,</p>
+  <p>Et aliam, qua denuo ematis fruges: simul</p>
+  <p>Fratrem hinc minorem tollite, accedite uirum</p>
+  <p>Toti Aegypto praefectum. Omnipotens iam Deus,</p>
+  <p>In cuius conspectu ambulauerunt patres</p>
+  <p>Mei, Deus qui pauit me largissime</p>
+  <p>Ab adolescentia usque in praesentem diem;</p>
+  <p>Et angelus qui me eruit cunctis malis,</p>
+  <p>Benedicat istis pueris, et nomen meum</p>
+  <p>Super eos inuocetur. omnipotens Deus</p>
+  <p>Faciat uirum uobis placabilem, meum</p>
+  <p>Gnatum tenet qui uinculis, remittat huc</p>
+  <p>Vobiscum una cum Beniamin gratissimo</p>
+  <p>Pignore mihi. Valete cuncti filij.</p>
+  <p>FI. Et tu charissime genitor, longum uale.</p>
+</div>
+<div type="level1" xml:id="actvs-qvinti">
+  <head>ACTVS QVINTI,</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-i.-4">
+  <head>SCENA I.</head>
+  <p>Aser. Nephthalim. Gad. Ioseph.</p>
+  <p>Daetrus. Isachar. Oeconomus.</p>
+  <p>Ruben. Iudas. Simeon. Zabulon. Dan. Leui.</p>
+  <p>AS. Nobis secundo si herus cererem uenderet,</p>
+  <p>Fratres quae fortuna, aut quae tanta temporum</p>
+  <p>Iniuria, aut quis horridus casus uiri,</p>
+  <p>Huius queat delere gratam me moriam?</p>
+  <p>NE. Immo uetustas quae, ipsius tanti erga nos</p>
+  <p>Officij, quae obliuio delebit memoriam?</p>
+  <p>Tranquillitatem omnem, et quietem, referimus</p>
+  <p>Eius clementiae acceptam. GA. Quis est locus,</p>
+  <p>Aut ora quae, in qua non tum fortitudinis,</p>
+  <p>Tum uero humanitatis huius non patent</p>
+  <p>Impressa uestigia? IO. Meis laboribus,</p>
+  <p>VIri, et beneficijs meis hanc gratiam</p>
+  <p>Sum consecutus. non cesso benefacere.</p>
+  <p>GA. Ecce lupus est in fabula. IO. Rursus uiri</p>
+  <p>Adestis, conspectus mihi est gratissimus.</p>
+  <p>Daetre heus heus iam tibi dico, introduc uiros</p>
+  <p>In regiam orchestram domum, atque occidito</p>
+  <p>Mox uictimam saginatam probissime.</p>
+  <p>Et instruas conuiuium, quoniam uiri</p>
+  <p>Isti comesturi mecum funt aedibus</p>
+  <p>In nostris. quare laute compara omnia,</p>
+  <p>Vt nos epulemur, et laetemur hoc die.</p>
+  <p>DAE. Ad nutum consequar tuum per omnia.</p>
+  <p>Sub hac, uiri, umbra gelida conquiescite.</p>
+  <p>IS. Propter pecuniam, quam retulimus prius</p>
+  <p>Nostris domum saccis, nos introducimur</p>
+  <p>Dubio procul, deuoluat ut calumniam</p>
+  <p>In nos, et uiolenti sua potentia</p>
+  <p>Nos seruituti subiciat. Domine audias</p>
+  <p>Nos, te rogamus uniuersi supplices.</p>
+  <p>OE. Dicite uiri forti animo, sunt aures meae</p>
+  <p>Attentae. RV. Nos descendimus iussu patris</p>
+  <p>Nostri, ut emeremus escas. emptis iam quibus,</p>
+  <p>Cum uenissemus recta ad diuersorium,</p>
+  <p>Resolutis saccis inuenimus in oribus</p>
+  <p>Eorum nos pecuniam: quam pondere</p>
+  <p>Iam nunc eodem referimus. sed et aliud</p>
+  <p>Accepimus nobiscum argentum, ut quae sient</p>
+  <p>Nobis necessaria, paremus. territis</p>
+  <p>Nobis, minime constat per conscientiam</p>
+  <p>Nostram, quis’nam posuerit in marsupijs,</p>
+  <p>OE. Nolite timere: Deus uester fortissimus,</p>
+  <p>Et patris uestri, uobis thesauros dedit.</p>
+  <p>Pecuniam, quam mihi dedistis, habeo ego</p>
+  <p>Probatam. Quocirca omnibus molestijs</p>
+  <p>Leuate animo, erroris est causa optime</p>
+  <p>Sublata. Et quoniam omnes languetis e uia,</p>
+  <p>Quiescite hic sub umbra frigidissima.</p>
+  <p>Pedibus lauandis limpidam apportabo aquam,</p>
+  <p>Simulque curo fratrem liberarier</p>
+  <p>Vestrum. IO. Quid haec sarcina grauis, quid est</p>
+  <p>rei?Ruben sarci- | na onustus.</p>
+  <p>RV. En munera, quae pater tibi mittit, cliens</p>
+  <p>Tuus: rogatque ut placide accipias, et boni</p>
+  <p>aequique consulas munus leuiculum:</p>
+  <p>Et officium, quod offertur tibi, probes.</p>
+  <p>IO. Donis uel ipsum dictitant flecti Deum.</p>
+  <p>Certe inter homines, mille dictis luteum</p>
+  <p>Praepollet aurum prorsus, ac praeponderat.</p>
+  <p>Quin mihi uoluntas uestra sit gratissima,</p>
+  <p>Et ceu diuinae uirgulae sint munera,</p>
+  <p>Oblatio. facitis enim alienum nihil</p>
+  <p>Necessitudine, et gratissima est mihi</p>
+  <p>Memoria tua coniunctionis patriae.</p>
+  <p>Quin eius augendae uoluntas optime</p>
+  <p>His donis perplacet mihi placidissimis.</p>
+  <p>Quaeso, pater uester senex ualetudine</p>
+  <p>Fuit secunda hactenus, et integra usus est?</p>
+  <p>IV. Beneficio ualuit Dei bellissime.</p>
+  <p>IO. Faxint superi, ut isthuc semper sit proprium.</p>
+  <p>Est hoc mihi auditu nam iucundissimum.</p>
+  <p>Magnam mihi uoluptatem denuncias.</p>
+  <p>Est hic frater, quem adducere iussi, paruulus?</p>
+  <p>ISA. Est, domine, promissis satis’ne fecimus?</p>
+  <p>IO. Recte inquam, perscitus natus seni puer:</p>
+  <p>Qnaeso deos, ut sit superstes. qui quidem</p>
+  <p>Fert indolem prae se genero sissimam.</p>
+  <p>Ingredimini mecum uiri, conuiuium</p>
+  <p>Quidem est paratum, laeti conuiuabimur.</p>
+  <p>ISA. Nos euestigio consequimur singuli.</p>
+</div>
+<div type="level1" xml:id="scena-ii.-4">
+  <head>SCENA II.</head>
+  <p>Ioseph. Oeconomus.</p>
+  <p>ADesdum, paucis te uolo. OEC. Dictum puta,</p>
+  <p>Nempe ut curentur istaec. IO. Imo aliud. OE Quid est</p>
+  <p>Quod tibi mea ars efficere possit amplius?</p>
+  <p>IO. Nihil isthac opus est arte ad rem, quam ego paro,</p>
+  <p>Sed his, quas semper in te intellexi sitas,</p>
+  <p>Fide, taciturnitate. OE. Expecto quid uelis.</p>
+  <p>IO. Saccos uirorum imple frumentis optimis,</p>
+  <p>In tantum, quantum possunt capere, et ponito</p>
+  <p>Pecuniam inscientibus adeo singulis</p>
+  <p>In summitate sacci. calicem autem meum</p>
+  <p>Argenteum, atque precium quod minor dedit</p>
+  <p>Pro cerere, pone in oribus sacci ipsius.</p>
+  <p>Et postquam fulget roseis aurora aurea</p>
+  <p>Capillis, acrore madet matutino humus,</p>
+  <p>Pariter eos dimitte ex nostra regia.</p>
+  <p>OEC. Fiet. sed quid mihi mandas amplius? IO. Nihil.</p>
+</div>
+<div type="level1" xml:id="scena-iii.-4">
+  <head>SCENA III.</head>
+  <p>Ioseph. Oeconomus. Gad. Iudas.</p>
+  <p>Ruben. Simeon. Leui. Dan. Ne</p>
+  <p>phtalim. Aser. Isachar.</p>
+  <p>Zabulon. Beniamin.</p>
+  <p>ME cum uetustas antiquae uirtutis, et Versus patri |</p>
+  <p>an Chanam u- | nanimiter ten- | dunt cum fru |</p>
+  <p>mento.</p>
+  <p>Tum dignitas hominum, tum uera ratio me</p>
+  <p>Humanitatis hortaretur, ut labor</p>
+  <p>Meus, sollicitudo, officia praesto omnibus</p>
+  <p>Viris sient istis, deceptus sum male.</p>
+  <p>heus tu uoca egressos uiros, ac dicito</p>
+  <p>Apprechensis, Quare reddidistis pro bono</p>
+  <p>Domini malum uestri? OEC. Nutu faciam tuo.</p>
+  <p>Heus heus uiri sistite gradum. calix mei</p>
+  <p>Domini sublatus est a uobis clanculo.</p>
+  <p>Est ipsus, in quo dominus augurarier</p>
+  <p>Solet: male egistis uiri. GA. Cur dominus id</p>
+  <p>Loquitur noster, serui ut tui commiserint</p>
+  <p>Tantum sceleris? pecuniam, quam inuenimus</p>
+  <p>In summitate fundarum, retulimus huc</p>
+  <p>Adte, de terra Chanaan. et quo consequens</p>
+  <p>Modo est, ut aurum aut argentum nos de domo</p>
+  <p>Domini simus nostri furati? conuenit</p>
+  <p>Nullo modo: sed apud quemcunque id poculum</p>
+  <p>Inuentum fuerit, morte multetur, erimus</p>
+  <p>Nos caeteriseruitio perpetuo tui</p>
+  <p>Deuincti. OEC. Fiat hoc iuxta sententiam</p>
+  <p>Hic Oecono- | mus saccis so- | lutis</p>
+  <p>inuenit</p>
+  <p>calicem in fun- | da minoris.A zibus iosus</p>
+  <p>ductan: apud quem poculum</p>
+  <p>Fuerit repertum, ipsus siet seruus meus,</p>
+  <p>Vos autem caeteri sitis iam innoxij.</p>
+  <p>Deponite in terram fundas aequaliter</p>
+  <p>Huc singuli, scrutabor etenim exordiens</p>
+  <p>A maiore usque ad minimum. Non’ne uera ego</p>
+  <p>Iam praedicaui? Sed tamen putaueram,</p>
+  <p>Vestri inueniri non minimi fraterculi</p>
+  <p>Folle. IV. Hau, quid respondebimus donuno meo?</p>
+  <p>Vel quid loquemur, aut iuste praetexere</p>
+  <p>Poterimus? Hau hau, quid restat nobis mali,</p>
+  <p>Quod non contigerit nobis innocentibus?</p>
+  <p>Hic ducit eos | ad Ioseph.OEC. Quam uana est, et</p>
+  <p>uaga iuuentus, et lubrica.</p>
+  <p>Vt iusser as, adsunt uiri, discrimine</p>
+  <p>Tuo aut plectendi, aut seruandi. O. Hem quid ausus</p>
+  <p>es?</p>
+  <p>SA. Ah parcito seruis supplicibus his tuis,</p>
+  <p>Iniquitatem seruorum inuenit Deus.</p>
+  <p>En finguli domini nostri serui sumus.</p>
+  <p>IO. Satis uiri, satis spectata est iam mea</p>
+  <p>Erga uos beneficentiae largitio.</p>
+  <p>Satis periculi, superque adire nunc</p>
+  <p>Coepi, orandi uos finem facite. nam ei</p>
+  <p>Faciam offerendi finem, quoque paui canes</p>
+  <p>Catulosque luporum, qui me semper lanient.</p>
+  <p>An ulla fera tam ingrata sit, quae cum hominibus</p>
+  <p>Sit conferenda ingratitudine? (proh deum</p>
+  <p>Atque fidem hominum) quam beneficiorum fragilis est</p>
+  <p>Et fluxa memoria? quam tenax iniuriae?</p>
+  <p>Cur superiorum non habetur ratioque</p>
+  <p>Officiorum auobis? ingratitudinis</p>
+  <p>Quare subitis crimen? GA. Inscientibus</p>
+  <p>Domine nobis, nescimus quis’nam imposuerit</p>
+  <p>Scyphum. Vnam hanc noxam mittito nobis leuem.</p>
+  <p>IO. Videte quam sitis iniqui, neque modum</p>
+  <p>Benignitatis, neque quid me, perpenditis,</p>
+  <p>Oretis. Nam si cogitetis dedulo,</p>
+  <p>Remittatis me onerare istis iniurijs.</p>
+  <p>IV. Domine quibus? IO. At rogitas? Pensasti iniuria</p>
+  <p>Beneficium. Ego posthac non ulli ero placidus,</p>
+  <p>Neque bengnus, nec mitis: sed fuero ferus.</p>
+  <p>Simulatque enim misertum, interijt gratia.</p>
+  <p>IV. Saeuire desine, ecce omnes sumus tui</p>
+  <p>Serui. IO. Absit a me, ut sic agam. sed poculum</p>
+  <p>Qui surripuerit, ipsus sit seruus meus.</p>
+  <p>Vos autem abite liberi ad uestrum patrem.</p>
+  <p>IV. Oro domine, audi me, loquatur ut tuus</p>
+  <p>Cliens in auribus tuis, et ne tuo</p>
+  <p>Irascaris famulo. rogasti nos prius,</p>
+  <p>Seruos tuos, habetis’ne fratrem, aut patrem?</p>
+  <p>Respondimus tibi nostro domino: Senex</p>
+  <p>Est nobis pater, et paruulus domi puer,</p>
+  <p>Cuius uterinus diem obijt frater suum.</p>
+  <p>Ast cum dixisses, Ducite ad me, nam meos</p>
+  <p>Oculos super iuuenem ponam. dixi insuper:</p>
+  <p>Si abduxero patri dilectum filium,</p>
+  <p>Is prae dolore morietur. Tum dixeras</p>
+  <p>Seruis tuis, Abite, nisi ueniat minor</p>
+  <p>Frater uester, uidebitis nunquam meam</p>
+  <p>Faciem. Cum ergo ascendissemus seruum ad tuum,</p>
+  <p>Nostrum patrem, narrauimus nos omnia</p>
+  <p>Ei, locutus est quae herus nobis meus.</p>
+  <p>Ad quae ille respondit. Vos scitis, quod duos</p>
+  <p>Vxor mihi genuerit filios mea.</p>
+  <p>Egressus est quorum alter ad meos greges,</p>
+  <p>Et dixistis, bestia eum deuorauit, ac</p>
+  <p>Hucusque non apparet. et si tuleritis</p>
+  <p>Istum, deducetis canos ad inferos</p>
+  <p>Meos. At cum spoponderim pro filio,</p>
+  <p>Dicendo, nisi reduxero, peccati ero</p>
+  <p>Reus. tandem cum caepissem in fidem meam,</p>
+  <p>Magno cum gemitu, et plurimis cum lachrymis</p>
+  <p>Dimisit nobiscum. Manebo itaque tuus</p>
+  <p>Seruus ego pro puero, in ministerio mei</p>
+  <p>Domini, ut puer cum fratribus suis simul</p>
+  <p>Cito reuertatur domum. non possum enim</p>
+  <p>Absque puero ad patrem reuerti, ne siem</p>
+  <p>Calamitatis ego testis, quae premet patrem:</p>
+  <p>Ac ne parentis cogar augere et metu</p>
+  <p>Et ingenti luctu dolorem diutius.</p>
+  <p>IO. Ingredimini mecum uiri, desideroAlligent e- | quos</p>
+  <p>clauis | parieti affi- | xis.</p>
+  <p>Porro loqui de rebus his. Animo sitis</p>
+  <p>Forti, ne corda perturbentur hic metu.</p>
+</div>
+<div type="level1" xml:id="scena-iiii.-4">
+  <head>SCENA IIII.</head>
+  <p>Iacob.</p>
+  <p>VIso, queam num filios nunc uspiam</p>
+  <p>Reduces uidere. en isthic non sunt, quam mei</p>
+  <p>Me (filij) expectatio uestri tenet</p>
+  <p>Mirabilis? quantoque uos cupio magis,</p>
+  <p>Tanto minus uidere uos conceditur.</p>
+  <p>Ego quid sperem, non dispicio: plurimum</p>
+  <p>Crescit fames. linquunt amici, deserunt</p>
+  <p>Partimque familiam meam. Istis rebus est</p>
+  <p>Non ulla spes, sed est dolor maior. etenim</p>
+  <p>Video uoluntatem omnium solutam, et est</p>
+  <p>Virtus ligata. Reliquum est, ut me angant, suis</p>
+  <p>Quod absunt infelices a pulcherrimis</p>
+  <p>Gnatis, quibus nil potest festiuius</p>
+  <p>Esse, ac summa pietate uos desiderant,</p>
+  <p>Et diligunt, absentes nihil minus colunt.</p>
+  <p>Quam in spem uocor? nobis prospicio ocyssime</p>
+  <p>In hac uita esset tabescendum. Non enim</p>
+  <p>Vlla hic si spes nostrae salutis iam foret,</p>
+  <p>Pro singulari in me senem persquallidum</p>
+  <p>Amore, absentes essent grati tam diu.</p>
+  <p>Itaque nec praesidium, parandi gratia</p>
+  <p>Cuius retentus est apud me filius</p>
+  <p>Natu minor, cum et hic abreptus sit meo</p>
+  <p>Ex complexu, nec ullum praesidij locum</p>
+  <p>Video. sed quid? Commemorando augetur dolor,</p>
+  <p>Ingrediar aedes, expectabo filios.</p>
+</div>
+<div type="level1" xml:id="scena-v.-4">
+  <head>SCENA V.</head>
+  <p>Ioseph. Ruben. Simeon. Leui.</p>
+  <p>Iudas. Dan. Nephtalim. Gad.</p>
+  <p>Aser. Isachar. Zabulon.</p>
+  <p>Beniamin.</p>
+  <p>Absque equis | egrediuntur.Quod ego (uiri) summa</p>
+  <p>officia, beneficia,</p>
+  <p>Et quaecunque in me sunt bona, aut beneficio</p>
+  <p>Diuino mihi tributa, aut parta laboribus</p>
+  <p>Meis, ’in uos hucusque fratres contuli,</p>
+  <p>Miraculum debet ui deri nemini.</p>
+  <p>Id feci adductus nimia charitate, qua</p>
+  <p>Incredibiliter erga uos motus. quis est</p>
+  <p>Enim nostrum, qui bene, qui liberaliter</p>
+  <p>Sit educatus, cui non quam charissimi</p>
+  <p>Educatores? cuique non cordi sient</p>
+  <p>Probi magistri, et doctores? cui non locus</p>
+  <p>Ipsus mutus, ubi alitus et eruditus est</p>
+  <p>Quilibet, in mente uersentur cum gratia,</p>
+  <p>Atque recordatione? Sic fratres ego,</p>
+  <p>Vere estis etenim germani fratres mei,</p>
+  <p>Ego’nam sum Ioseph: quotiescunque mentio</p>
+  <p>Senis parentis facta a uobis est mei,</p>
+  <p>Non potui nunquam benefacere. proeo meam</p>
+  <p>Siuitam profundam, nullam partem tamen</p>
+  <p>Euis meritorum uideor assequutus: ac,</p>
+  <p>Sed lachrymae impediunt ora rigantes loqui,</p>
+  <p>Spargunt enim lachrymae mihi corpus piae.</p>
+  <p>Pater meus uiuit? propius accedite,</p>
+  <p>Ego sum Ioseph, quem uendidistis, nescijHic fratres |</p>
+  <p>Ioseph tre- | munt, ac no- | mine fratris</p>
+  <p>audito, stupent | ac in terram</p>
+  <p>prostrati la- | chrymis uul- | tus rigant.Quid</p>
+  <p>nam Deusper me foret acturus. neque</p>
+  <p>Pauete: nec dura esse uideatur salus</p>
+  <p>Vestra, quod his uendidistis me regionibus.</p>
+  <p>Leuate sursum fratres uestra corpora,</p>
+  <p>Salute pro uestra Deus praemisit in</p>
+  <p>Aegyptum me. biennium est enim, fames</p>
+  <p>Quod coeperit. Restant adhuc quoque residui</p>
+  <p>Quinque, in quibus non poterit arari, nec meti.</p>
+  <p>Igitur Deus praemisit me, ut seruemini,</p>
+  <p>Terra super diuite hahere queatis cibos</p>
+  <p>Ad uiuendum, non uestro consilio, Dei</p>
+  <p>Vero uoluntate huc missus, qui me patrem</p>
+  <p>Quasi Pharaonis fecit, atque eius domus</p>
+  <p>Dominum uniuersae, et principem in regionibus</p>
+  <p>His, quas uidetis, atque Aegypti singulis</p>
+  <p>Partibus. Idcirco festinate, ascendite</p>
+  <p>Patrem ad meum. dicetis, Haec mandat tuus</p>
+  <p>Gnatus Ioseph: Fecit Deus me totius</p>
+  <p>Aegypti dominum, descende ad me celerius.</p>
+  <p>Ne remoreris, et habita in terra Iessen, % eris</p>
+  <p>Iuxta me tu, tuique chari filij,</p>
+  <p>Et filiorum filij, tuaeque oues,</p>
+  <p>Atque armenta tua, et uniuersa quae tenes:</p>
+  <p>Ibi te pascam: adhuc quinque anni sunt famis</p>
+  <p>Residui, ne et tu pereas, atque omnis domus</p>
+  <p>Tua, et omnia quae in possessionibus tuis</p>
+  <p>Habes. en oculi uestri, ac Beniamin mei</p>
+  <p>Fratris oculi uident, quod os ad uos meum</p>
+  <p>Loquatur. Nunciate patri gloriam</p>
+  <p>Meam uniuersam, et cuncta quae uidistis in</p>
+  <p>Aegypto. festinate, adducite ocyus</p>
+  <p>Ad me. Iam singulos amplectar suauiter</p>
+  <p>A minori in- | cipit Ioseph | amplecti fra- |</p>
+  <p>tres.Iynge trahor, medullitus uos diligo.</p>
+  <p>Adeste deliciae meae (o fratres) meum</p>
+  <p>Suauium, desiderate iam diu.</p>
+  <p>RV. Addicti Domino pueri laudate Dominum,</p>
+  <p>Laudibus aeternis nomina maximi Dei,</p>
+  <p>Laus Domini primo phoebi floreat inclyta</p>
+  <p>Surgentis ab ortu, usque super occiduas plagas.</p>
+  <p>O felicem, quem diuinus tangit timor,</p>
+  <p>Qui scrutans praecepta Dei, et se oblectat in ijs,</p>
+  <p>Praeclara posteritas nascetur a uiro</p>
+  <p>Illo, huius erit semen in omni terra potens.</p>
+  <p>Huic rerum cunctarum copia nunquam deerit,</p>
+  <p>et qui est bonus, facile ingenua pietate se</p>
+  <p>Aceommodat, tribuens uicino largiter</p>
+  <p>Mutua pensa suo. dispergit pauperibus, et</p>
+  <p>Largas opes tribuit egenis. Opie</p>
+  <p>Frater, si quaedam offensiuncula facta sit</p>
+  <p>Peruersitate nostra, animo tuo mihi</p>
+  <p>Ignoscito cum caeteris, et te uelim</p>
+  <p>Ad lenitatem des, sceleris remittere</p>
+  <p>Poenam. Id enim est quod uocatur hic ignoscere.</p>
+  <p>Liceat semel peccasse impune, sit satis</p>
+  <p>Precanti medicinae ueri confessio.</p>
+  <p>IO. Deus quidem precantibus e ueniam</p>
+  <p>Peccati dimittit. Quid ego seruem meis</p>
+  <p>Peccata germanis? ignota singulis</p>
+</div>
+<div type="level1" xml:id="errata-sint-uobis.-ite-ad-parandum-iter.">
+  <head>Errata sint uobis. Ite ad parandum iter.</head>
+  <p>Ego, necesse quae fuerint, nunc porrigam.</p>
+  <p>Ne quid uobis desit, cum iam eritis in uia.</p>
+</div>
+<div type="level1" xml:id="scena-vi.-1">
+  <head>SCENA VI.</head>
+  <p>Oenochous. Pharao. Ioseph.</p>
+  <p>In hac scena Oenochous primo, postea rex egreditur,</p>
+  <p>Ioseph uero euocatur.</p>
+  <p>DIi boni, boni quid apporto? PH. Quid est</p>
+  <p>Quod sic gestiat? OE. At ubi inueniam regem meum,</p>
+  <p>Vt expleam nunc maximo eius gaudio</p>
+  <p>Animum? Atque eccum, opportune adest: teipsum uolo.</p>
+  <p>PH. Quid nuncias? OE. Fratres Ioseph prudentiae</p>
+  <p>Excellentes uiri uenere ex patria</p>
+  <p>Chanan. PH. Quid ais? OE. Summae probitatis afferunt</p>
+  <p>Spem maximam, etiamnum antiquae uirtutis, et</p>
+  <p>Clarae modestiae, summaeque industriae:</p>
+  <p>Quare dabis operam, ut tam praestantes uiros,</p>
+  <p>Quorum iucundissima uita est, seueraque,</p>
+  <p>Verum seueritas summa coniugitur</p>
+  <p>Cum humanitate, et tum firmis uirtutibus,</p>
+  <p>Tum etiam fortuna (si hoc quid ad rem pertinet)</p>
+  <p>Honoribus afficias, quorum mores pij</p>
+  <p>Apparent, uere, si uideas, deos putes.</p>
+  <p>PH. Heus nunc accerse ad me foras Ioseph cito,</p>
+  <p>Vt mandem ei, quid ego uelim de fratribus.</p>
+  <p>OE. Fiat, Ioseph heus ex iussu regis uoco.</p>
+  <p>IO. Quis me? sed eccum regem. quid uelit sibi</p>
+  <p>Scire cupio, accedo. PH. Ex sermone hominum tuos</p>
+  <p>Fratres recenti, copiam sui tibi</p>
+  <p>Videndi fecisse audij. IO. Sic est pie</p>
+  <p>Rex. PH. Impera tuis fratribus, ut Chanaan hinc</p>
+  <p>Repetant, dicens, Tollite iussu regis patrem</p>
+  <p>Vestrum, et totam cognationem, pergite</p>
+  <p>Ad me, dabo uobis omnia terrae bona</p>
+  <p>Aegypti, ut comedatis medullam nostrae humi.</p>
+  <p>Praecipe etiam, ut tollant ex Aegypto mea ad</p>
+  <p>Subuectionem paruulorum et coniugum,</p>
+  <p>Plaustra. Atque dicito, dimittatis nihil</p>
+  <p>De uestra supellectili. Nam omnes opes</p>
+  <p>Aegypti erunt uestrae. IO. Domine uerbis quibus</p>
+  <p>Agam tibi excellenti gratias uiro,</p>
+  <p>Non reperio. Sed praesenti obseruantia,</p>
+  <p>Et assiduitate memorem officij uolo</p>
+  <p>Me tibi probari in posterum. PHA=Quod iussi, age.</p>
+  <p>IO. Fiat. Vos dilectissimi fratres adhuc</p>
+  <p>Moramini, exeatis pariter singuli</p>
+  <p>Ad me foras. En tibi dilectissime mihi,</p>
+  <p>Xenia, pecuniam, et tantundem uestium</p>
+  <p>Mittam mero patri, atque uobis singulis</p>
+  <p>Intus dabo munera quam preciosissima.</p>
+  <p>Nos hinc concedimus, uos me omnes sequimini.</p>
+</div>
+<div type="level1" xml:id="scena-vii.">
+  <head>SCENA VII.</head>
+  <p>Iacob. Simeon. Ruben. Leui.</p>
+  <p>Iudas. Dan. Nephthalim. Gad.</p>
+  <p>Aser. Isachar. Zabulon.</p>
+  <p>Beniamin.</p>
+  <p>Sicut solent, suum qui amculum diuPost oratio- | nem</p>
+  <p>partis sui | Iacob, cum e- | quis egressi | patrem conue |</p>
+  <p>niunt.</p>
+  <p>Absentem gestiunt redire, singulas</p>
+  <p>Perlustrare uias, per quas hospitem putant</p>
+  <p>Sese excepturos: sicque agendum censui</p>
+  <p>Mihi. Sed quanto diutius, tanto minus</p>
+  <p>Apparent filij. Proh dolor, quam durus et</p>
+  <p>Miser certe status parentum est omnium.</p>
+  <p>Ego quia filij non redierunt mei,</p>
+  <p>Quae cogito? rebus quibus nunc solicitor?</p>
+  <p>Sed hic (nisi me animus fallit) nunc de quibus</p>
+  <p>Agebam, eos ipsos uidi, profecto sunt.</p>
+  <p>Conspectus omnium uestrum est multo mihi</p>
+  <p>(O filij) iocundissimus, estis’ne ij,</p>
+  <p>Qui per fidem iurarunt se breuissime</p>
+  <p>Reuersuros? quae causa desidis morae?</p>
+  <p>SIM. Tibi salutem det Deus ter maximus.</p>
+  <p>Tantum tibi feremus gaudij pater,</p>
+  <p>Vt anteuortat omnibus facillime</p>
+  <p>Maeroribus cerdis tui. IA. Quid gaudij?</p>
+  <p>SIM. Deum supremum testor, saluum filium,</p>
+  <p>Et incolumem tuum esse Ioseph. IAC. Lachrymas</p>
+  <p>Profecto tenere non queo prae gaudio.</p>
+  <p>Viuit’ne filius meus, quem bestijs</p>
+  <p>Putaui deuoratum? SI. Sic (pater optime) est.</p>
+  <p>Aegyptij maiores unquam nemini</p>
+  <p>Habere honores, quam fratri. inque amplissimum</p>
+  <p>Ipsum ordinem coaptarunt, ae ipsi ea</p>
+  <p>Vltro petenti nunquam, quae petentibus</p>
+  <p>Multis negarunt, ea tuo obtulere cum</p>
+  <p>Summis honoribus et amore, filio.</p>
+  <p>IA. Quid audio? SI. Quis clarioribus uiris</p>
+  <p>Iucundior? quis ue meliorum partium?</p>
+  <p>IA. Quam laetus ista percipio. RV. In amplissimo</p>
+  <p>Gradu locatus est. Et hoc robore animi,</p>
+  <p>Et indole hac, uirtute, ac continentia est,</p>
+  <p>Vt respuat cunstas uoluptates, ita</p>
+  <p>Cursum ut suae uitae in laude, ac constantia</p>
+  <p>Et dignitate conficiat. Sed qui locus,</p>
+  <p>Aut quae facultas redditur denique pater,</p>
+  <p>Honores atque maiestatem filij,</p>
+  <p>Qui ei exhibentur, enarrandi? Religio, et</p>
+  <p>Pietas in ipso abundat. IA. Impetus animi</p>
+  <p>Atque ardor mentis eius in pueritia</p>
+  <p>Ad iustitiam significauerunt: sicuti</p>
+  <p>In herbis fit, quae uirtutis maturitas,</p>
+  <p>Et quantae fruges sint futurae industriae.</p>
+  <p>RV. Adduximus nobiscum ex iussu regis, et</p>
+  <p>Mulos, equos, camelos, et plaustra, omnia,</p>
+  <p>Viaticum, necesse fuerit hic quibus.</p>
+  <p>En xenia quae gnatus laetus mitt tibi.</p>
+  <p>IA. Hem, munera offers quam mihi gratissima.</p>
+  <p>RV. Iter suscipiendum | quoque est nobis pater.</p>
+  <p>IA. Quo’nam dilecti filij? RV. Ad Ioseph tuum</p>
+  <p>Gnatum. Rex etenim ad habitandum terram dedit</p>
+  <p>Nobis fluentem melle et lacte, denique</p>
+  <p>Rerum omnium quas fert, abundantissimam.</p>
+  <p>Quare celerrime matur andum puto,</p>
+  <p>Steriles relinquentes agros, qui postulant</p>
+  <p>Desiderantque cultores, quales modo</p>
+  <p>Praestare nos non possumus. Nitidissimos</p>
+  <p>Campos potius, et agros fructu uberrimos</p>
+  <p>Possideamus, qui largius uictum exhibent.</p>
+  <p>IA. Reuixit spiritus meus, si uera sunt,</p>
+  <p>Quae dixisti modo. RV. Ex diuino oraculo</p>
+  <p>Te accepisse putato. IA. Satis fili mihi,</p>
+  <p>Si adhuc meus uiuit gnatus Ioseph. Eam,</p>
+  <p>Illum uidebo, priusquam moriar. Interim</p>
+  <p>Dum redeant uestri ex campis filij, omnia</p>
+  <p>Parabimus. Plaustris imponemus bona</p>
+  <p>Nostra, et res omnes caeteras, ne quid morae</p>
+  <p>Nobis sit, omnibus reuersis filijs</p>
+  <p>E’ pascuis, gregibus abactisque pecorum.</p>
+  <p>Ingredior, sequimini. Videre filium</p>
+  <p>Quam primum ex animo gestio. RV. Sequimur pater.</p>
+</div>
+<div type="level1" xml:id="epilogvs.">
+  <head>EPILOGVS.</head>
+  <p>Exhibita uobis, spectatores candidi,</p>
+  <p>(Nigros enim haud moramur) est non fabula</p>
+  <p>Expers ueri, sed historia, nobis canens</p>
+  <p>Canam fidem, antiquam uirtutem, et conscium</p>
+  <p>Pudorem castitatis, claram quae parat</p>
+  <p>Authoritatem. Quae non spectatoribus</p>
+  <p>Vt risum moueat, actasit proteruius.</p>
+  <p>Sed hic uides exemplar integerrimi</p>
+  <p>Adolescentis, quem cum fallax occasio,</p>
+  <p>Et quotidiana tentatio circumdarent,</p>
+  <p>Inquit, Mihi omnia tradidit dominus meus,</p>
+  <p>Praeter te, quae uxor eius es: contra Deum</p>
+  <p>Vt faciam, procul absit. Vides hic, quam Dei</p>
+  <p>Pro uerbo concepto seruarit intergram</p>
+  <p>Hic castitatem? Non te saeua terreant</p>
+  <p>Pericla, quod Ioseph primo diuenditus,</p>
+  <p>Posthac coniectus siet in caecum carcerem</p>
+  <p>Propter temerariam adulteram. Nos talibus</p>
+  <p>In difficultatibus oportet inscios</p>
+  <p>Esse Dei consilij, ut uitae nostrae breuis</p>
+  <p>Ductus fide in sola sit constitutus. Et</p>
+  <p>Quando omnia aduersa adparent, tunc optima</p>
+  <p>Quaecunque sunt uicina. Quis’nam tam sagax</p>
+  <p>Esse potuit, qui crederet ei Aegyptios</p>
+  <p>Genua paratos flectere, qui ceusordidus</p>
+  <p>Adulter, in tetrum conijcitur carcerem?</p>
+  <p>Sic contra, qui uoluptatem sectaniur, ex</p>
+  <p>Insperato in mortem subito auaram incidunt.</p>
+  <p>Constans fides haec cernit, et complectitur,</p>
+  <p>Quae nunquam confundit: sed potius erigit</p>
+  <p>Infirmos, consolatur peccati reos.</p>
+  <p>Quare orat hic grex noster, ut re mystica,</p>
+  <p>Pro corrigendis moribus fruamini:</p>
+  <p>Vestigiaque Ioseph sectemini probe.</p>
+  <p>Tum nobis, hic quicquam si commodauimus,</p>
+  <p>Actusque noster placuerit, plausum date.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>IOSEPHI FINIS.</p>
+</div>
+        
+    </body>
+</text>
+</TEI>

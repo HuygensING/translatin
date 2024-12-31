@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-30T10:10:31+00:00Z
+@dateWritten=2024-12-31T08:21:28+00:00Z
 
-2076495	{'tp': 'str', 'value': 'Jan Bloemendal'}
+2072959	{'tp': 'str', 'value': 'Jan Bloemendal'}
 {'tp': 'str', 'value': 'Jan Bloemendal'}
 {'tp': 'str', 'value': 'Jan Bloemendal'}
 {'tp': 'str', 'value': 'Jan Bloemendal'}

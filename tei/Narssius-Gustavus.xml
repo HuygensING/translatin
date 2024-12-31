@@ -1,0 +1,2055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0071" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Gustavus saucius tragoedia</title>
+        <title type="sub">GUSTAVUS SAUCIUS TRAGOEDIA: IN QUA RES SUECO-POLONICAE IN BORUSSIA GESTAE ANNO MDCXXVII Majore ex parte enarrantur</title>
+        <author>Narsius, Johannes</author>
+        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Unknown publisher</publisher>
+        <pubPlace>None</pubPlace>
+        <date>"0001"</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Narssius-Gustavus</name><lb/>
+            Short title: <title>Gustavus</title><lb/>
+            Year of first edition: <date>0001</date><lb/>
+            Author information:<lb/>
+            Alias: Naarsen, Johan van<lb/>
+            Birth: 1580, Dordrecht<lb/>
+            Death: 1637, Indonesia<lb/>
+            Floruit: None, Hamburg, etc.<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Johannes_Narssius#cite_note-ADB-4">Link</ref><lb/>
+            <emph>J. Bolte (ed.), Coligny, Gustav Adolf, Wallenstein. Drie zeitgenössische lateinische Dramen von Rhodius, Narssius, Vernulaeus Leipzig 1933. Bibliothek des literarischen Vereins in Stuttgart Sitz Tübingen. Publikation 280</emph><lb/>
+            
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">None</term>
+            <term type="genre">unknown genre</term>
+            <term type="acts">0</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>GUSTAVUS SAUCIUS</p>
+  <p>TRAGOEDIA:</p>
+  <p><hi rend="italic">IN QUA</hi></p>
+  <p>RES SUECO‑POLONICAE</p>
+  <p>IN BORUSSIA GESTIAE</p>
+  <p><hi rend="italic">ANNO M DC XXVII</hi></p>
+  <p>Majore ex parte</p>
+  <p>enarrantur</p>
+  <p>à</p>
+  <p>JOANNE NARSSIO Anastasij F.</p>
+  <p>Dordraco Batavo.</p>
+  <p>[]</p>
+  <p><hi rend="italic">HAFNIAE</hi></p>
+  <p>TYPIS SALOMONIS SARTORII.</p>
+  <p>ANNO M. D. C. XXVIII,</p>
+  <p><pb n="43"/></p>
+  <p><milestone unit="folio" n="A2a"/></p>
+  <p>Illustri ac generoso Domino</p>
+  <p>Dn. Iacobo de la Gardie</p>
+  <p>Comiti in Leckoe, Domino in Kolcke, Kyde et Runssoe etc. Equiti
+  aurato: S. R. M. regnique Sueciae Senatori, Mareschallo, Generali
+  exercituum prae fecto etc.</p>
+  <p><hi rend="italic">Joannes Narssius</hi> felicia omnia a
+  Deo opt. max. precatur.</p>
+  <p>Offero te dignum, Ductor fortissime, donum.</p>
+  <p>Nil tenue hic aliud quam mea verba vides.</p>
+  <p>Offero, quod magnum est, Regem quando offero tantum,</p>
+  <p>Iudice te maius quo nihil orbis habet.</p>
+  <p>5 Offero, quod magnum, Regis si Vulnera spectes,</p>
+  <p>Quo magis haud sensit Suecia triste malum.</p>
+  <p>Haec tibi conveniunt, qui viva es Regia imago,</p>
+  <p>Cui curae haud dubio Vulnera Regis erunt.</p>
+  <p>Post Livones domitos et multo tempore Moschos</p>
+  <p>10 Sani nunc Regis ora vidore datur.</p>
+  <p>Gratia sit Superis. Sors laeta utrique perennet,</p>
+  <p>Ne sit opus tragicis invigilare modis.</p>
+  <p><milestone unit="folio" n="A2b"/> Ad Clarissimum et Excellentissimum Dn. Ioannem
+  Narssium</p>
+  <p>Anastasium, Med. Doctorem atque Screnissimo Suecorum Regi ab
+  Historiis.</p>
+  <p><hi rend="italic">Narssi</hi>, Thespiadum Dux 1) inter
+  claro Poetas,</p>
+  <p>Asclepiadei fulgide luce chori,</p>
+  <p>Qui tricoronigero Historicus das lumina Suedo:</p>
+  <p>Quam bene te Batavo finxit Apollo solo!</p>
+  <p>5 Nunc verba in numeros cogis tua docta Maronis</p>
+  <p>Et Flacci et Senecae nunc modularis epos.</p>
+  <p>Singula rara quidem: Sed raro rarius, unum</p>
+  <p>Omnia concursu <hi rend="italic">Narssium</hi> habere
+  meum.</p>
+  <p>Deproperavit <hi rend="italic">Casparus
+  Bartholinus</hi>, SS. Theol. Philos. et Med. Doctor ac sac. Iit. in
+  Academia Regia Hafniensi Professor ordinarius.</p>
+  <p>1) Nempe ut <hi rend="italic">Dux gregis ipse
+  caper</hi>: Alioqui excessus hic in laude amici. Quid Grotius,
+  Heinsius, Barlaeus? Quid Bartholini inge nium? Semper in poesi
+  extemporaneum, alioquin quid non praestiturum?</p>
+  <p><pb n="44"/></p>
+  <p><milestone unit="folio" n="A8a"/> Benigne lector.</p>
+  <p>Ut antehac in <hi rend="italic">Rigae devictae</hi> ac
+  postea in <hi rend="italic">Mevae liberatae editione</hi>
+  de institutionis defectu conquestus sum, ita nunc cramben eandem
+  querelarum recoquere cogor, non sine maiore animi aegritudine, ob
+  remoram toties iniectam non tan tum nugis meis poeticis, sed iis
+  imprimis, quae mandato regio prosa mihi scribenda erant. Dignata fuit
+  clementissime ante biennium fere ipsa S. R. M. inter summas
+  occupationes bellicas me instituere per horae fere spatium
+  elegantissima oratione Latina (quamquam extemporanea), cui parem a
+  Professore nullo vel praemeditato in Suecia audivi, et mandavit aliis,
+  scio, ut plenius me instituerent ac documenta necessaria ex archivis
+  commonstrarent. Nihil autem hactenus percepi, quod vel mini mum ad rem
+  faciat. De causis nunc non disputo nec quemquam adhuc palam accuso
+  (feci litteris privatis, quod oportuit), quam quam materia non deesset
+  et ratio iusta quosdam exagitandi, magis exteris vexandis ac rebus
+  suis augendis intentos, quam ut regio mandato obsequentes Regni totius
+  honori et existima tioni tuendae consulant. Sed deploro tantummodo
+  sortem meam et rogo, ne levitatis atque inconstantiae insimuler, si
+  morae nimis longae pertaesus hoc agam dictante conscientia, ut post
+  hac bona cum gratia S. R. M. quiescam ac sileam, gravioribus in
+  posterum studiis incumbens, quibus magis aetatem trivi quam nugis
+  hisce poeticis; quas, si amicorum suasu non omnino lin quendae erunt,
+  sacris aliisque rebus decantandis per otium oc cupari velim potius
+  quam Principum controversiis. Hanc tamen Tragoediam vel iniussus in
+  lucem depropero, ut re ipsa ostendam me non ex impetu aliquo
+  inordinato et quasi re infecta statio nem deserere velle; nec tam
+  iniquum esse, ut errores ministrorum regiorum ipsi S. R. M., qua
+  neminem mortalium aequiorem novi, ac Proceribus Regni melioribus etiam
+  imputem. Vale et labo ribus nostris qualibuscunque atque etiam quieti
+  ac silentio, si illo opus, benigne fave!</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p><pb n="45"/></p>
+</div>
+<div type="level1" xml:id="folioa3b-personae-tragoediae.">
+  <head><milestone unit="folio" n="A3b"/> Personae tragoediae.</head>
+  <p><hi rend="italic">Gustavus Adolphus</hi> Rex Sueciae
+  etc.</p>
+  <p><hi rend="italic">Maria Eleonora</hi> Regina</p>
+  <p><hi rend="italic">Axelius Oxenstern</hi> Magnus Regni
+  Sueciae Cancellarius etc.</p>
+  <p><hi rend="italic">Franciscus Bernardus</hi> Comes
+  <hi rend="italic">Turnensis</hi>, Legionum Ger manarum et
+  Equitum praefectus.</p>
+  <p><hi rend="italic">Joannes Bannerius</hi> Tribunus
+  militaris.</p>
+  <p>Senatorum Regni Sueciae.</p>
+  <p>Militum veteranorum.</p>
+  <p><hi rend="bold">Chorus Matrum nobilium.</hi></p>
+  <p>Procerum belli et Militum.</p>
+  <p><hi rend="italic">Amor coniugalis.</hi></p>
+  <p><hi rend="italic">Nutrix.</hi></p>
+  <p><hi rend="italic">Nuntius.</hi></p>
+  <p><hi rend="italic">Mercurius.</hi></p>
+  <p><milestone unit="folio" n="7"/></p>
+  <p><hi rend="bold">Gustavus saucius, tragoedia.</hi></p>
+</div>
+<div type="level1" xml:id="actus-primus.">
+  <head>Actus primus.</head>
+  <p>Gustavus Adolphus, Rex Sueciae. Maria Eleonora Regina.</p>
+  <p>[I, 1] <hi rend="bold">Gustavus.</hi></p>
+  <p>Quicunque summum statuit in Sceptris bonum</p>
+  <p>Et iusta quamvis Regna, quamvis
+  sp<hi rend="bold">l</hi>endida</p>
+  <p>Haud credit amens mille condiri malis,</p>
+  <p>Me videat et te, <hi rend="italic">Suecia</hi>, multis
+  saeculis</p>
+  <p>(5) Quassata Marte; quamlibet victrix, tamen</p>
+  <p>Labore plena semper et suspiriis.</p>
+  <p>Me, quem benignum, pacis almae et artium</p>
+  <p>Themidisque amantem finxerat rerum parens</p>
+  <p>Natura, ad arma casus invitum rapit.</p>
+  <p>(10) Paterna, avita Regna Mavortem trahunt.</p>
+  <p>Triplicis coronae factus heres triplicis</p>
+  <p>Hereditate Martis aerumnas tuli</p>
+  <p>Primis ab annis. <hi rend="italic">Danus</hi> hinc
+  factus</p>
+  <p>Patri Inopinus hostis. Inde
+  <hi rend="italic">Moschus</hi>, immemor</p>
+  <p>(15) Datae salutis, classico grates dabat.</p>
+  <p><milestone unit="folio" n="8"/> Tum maxime <hi rend="italic">Polonus</hi>
+  implacabilis</p>
+  <p>Urgebat, igno ac caedibus vastans agros.</p>
+  <p>Hos ego inventae regiique spiritus</p>
+  <p>Habui magistros, hos voluptatum duces.</p>
+  <p>(20) Armare nostram docuit hostis Pallada</p>
+  <p><pb n="46"/></p>
+  <p>Animoque forti dura quaelibet pati.</p>
+  <p>Pro delicata veste, tincta murice</p>
+  <p>Craore tinctus ferreus mihi thorax;</p>
+  <p>Diadema galea est; fulgidus sceptri loco</p>
+  <p>(25) Portatur ensis; hinniens melos est equus,</p>
+  <p>Ferrique et aeris sulphure accensi fragor.</p>
+  <p>Tellus cubanti lectuli vicem dedit</p>
+  <p>Strataeque ramis arborum crebro nives.</p>
+  <p>Exercitatus ast diu laboribus</p>
+  <p>(30) Nunc ista sperno. Robur accrescit malis,</p>
+  <p>Et quae timenda atque horrida ignavi vocant,</p>
+  <p>A\ssueta duris grata virtus aestimat.</p>
+  <p>Mens recta, fas tutata, propellens nefas</p>
+  <p>Amara quaevis vertit in dulcedinem.</p>
+  <p>(35) Victricia arma si quis imprimis gerit,</p>
+  <p>Leve est gravamen. Attamen ne sanguine</p>
+  <p>(Crebro immerentum) terra foedetur nimis</p>
+  <p>Agerque vastus Marte ne fruges neget,</p>
+  <p>Saepe ipse victor hostibus pacem offero</p>
+  <p>(40) Lege haud iniqua.
+  <hi rend="italic">Danus</hi> hanc pridem accipit</p>
+  <p>Tandemque <hi rend="italic">Moschus</hi>. Solus hostis
+  pervicax</p>
+  <p><milestone unit="folio" n="9"/> Remanet <hi rend="italic">Polonus</hi>,
+  pectus intractabile</p>
+  <p>Cui indit atrox infularum factio</p>
+  <p>Mentita <hi rend="italic">Iesum</hi>, pacis ac vitae
+  ducem,</p>
+  <p>(45) Et qui superbus rupe Tarpeia sedet</p>
+  <p>Servique titulo iussibus mundum premit.</p>
+  <p>Gens versipellis sanctitatis tegmine</p>
+  <p>Perdocta mire fascinare Principes,</p>
+  <p>Pacem perosa, sanguinem ac caedes ciens,</p>
+  <p>(50) Quin et cruore Principum lavans manus,</p>
+  <p>Obsequia caeca si Dei memores negent.</p>
+  <p>Has credulus qui Martis audit buccinas</p>
+  <p>Moderata nunquam statuit, infelix, miser</p>
+  <p>Bello implicatus semper et laboribus</p>
+  <p>(55) Dum petit iniqua, perdit haud raro sua.</p>
+  <p>Saepe et cruoris vindicem horrescens Deum,</p>
+  <p>Utcunque mens sopita fraude dormiat.</p>
+  <p>Vigilasne, <hi rend="italic">Sigismunde</hi>, tandem et
+  impia</p>
+  <p><pb n="47"/></p>
+  <p>Deponis arma? Damna iam sentis tua?</p>
+  <p>(60) Cruore fuso sentis iratum tibi,</p>
+  <p>Nohis benignum Numen? An ruere iuvat</p>
+  <p>Ductore caeco ulterius et volens peris?</p>
+  <p>Pertaesa belli monita non curas Patrum,</p>
+  <p>Quos cura Regni tangit. Est solus tibi</p>
+  <p>(65) Dignus fide oonsultor, amissae diu</p>
+  <p>Qui causa <hi rend="italic">Sueciae</hi>, causa cur
+  <hi rend="italic">Livoniae</hi></p>
+  <p>Expulsus agris nuper et
+  <hi rend="italic">Borussiae</hi></p>
+  <p><milestone unit="folio" n="10"/> Haud parte parva, iam propinquum sentias,</p>
+  <p>Quem spernis, hostem. Causa maioris mali</p>
+  <p>(70) Ne sit vide consultor et sero expetas,</p>
+  <p>Nune quod recusas spiritus altos gerens!</p>
+  <p>Pax spreta crebro semper haud refert gradum.</p>
+  <p>Iniqua bella, patribus invitis, amans</p>
+  <p>Invito et hoste, sanguini parcens suo,</p>
+  <p>(75) Cruoris at civilis usque prodigus,</p>
+  <p>Hosti usque cedens, civium vastans agros</p>
+  <p>Armis perire dignus et regno exui.</p>
+  <p>Qui vult perire, pereat. Oblatum est satis.</p>
+  <p>Haud victor hosti supplices tendam manus</p>
+  <p>(80) Nec regna Papae sub iugum ignavus dabo.</p>
+  <p>Quod ratio debuit, arma porro extorqueant,</p>
+  <p>Pacem, quietem, sacra, iura libera.</p>
+  <p>Urgendus hostis pervicax intus magis,</p>
+  <p>Iugulum petendum inque ipsa regni viscera</p>
+  <p>(85) Adigendus ensis. Ipsa, Alartem quae fovet,</p>
+  <p><hi rend="italic">Warsavia</hi> armis territanda.
+  Lectulo</p>
+  <p>Pellendi et aula, qui mihi pacem negant,</p>
+  <p>Discant et ipsi frigidum pati Iovem.</p>
+  <p>Perruptus aditus nuper est.
+  <hi rend="italic">Pillaviae</hi></p>
+  <p>(90) Portus reclusus classibus nostris patet,</p>
+  <p>Occlusus hosti. Sedulus ligonibus</p>
+  <p>Armisque miles <hi rend="italic">Prussicas</hi> servat
+  fores.</p>
+  <p>Olim Poloni, noster est nune
+  <hi rend="italic">VistuIa</hi></p>
+  <p><milestone unit="folio" n="11"/> <hi rend="italic">Nogathi</hi> que fluctus
+  Vistula gaudens patre.</p>
+  <p>(95) Haee in Polonum cursibus retrogradis</p>
+  <p>Vectare Martis pondus exoptant vada.</p>
+  <p><pb n="48"/></p>
+  <p>Pertaesa domini veteris. His primordiis</p>
+  <p>Insistam et ultra, iussa quod caelo dabit</p>
+  <p>Fortuna, capiam. Provide ut paream meis,</p>
+  <p>(100) Hostilem in agrum porro Martem transferam.</p>
+  <p>Sed maesta nimium, classibus nectens moras</p>
+  <p>Suspiriis votisque, qua potis, prius</p>
+  <p>Firmanda coniunx, saepe solamen mihi</p>
+  <p>Virtute rara, gentis et regni decus,</p>
+  <p>(105) At nunc gravamen, fateor, immodico nimis,</p>
+  <p>Casto licet amoris oestro percita</p>
+  <p>Nostrum quod abitum corde tam tristi ferat,</p>
+  <p>Magis mariti quam sui curam gerens</p>
+  <p>Prolisque, Regni vota quam tot expetunt;</p>
+  <p>(110) Magisque solito grande praecinens malum</p>
+  <p>Infausta vates: qualiter Agamemnoni</p>
+  <p>Caedem occinebat Dardanae vatis furor.</p>
+  <p>Sic optima etiam femina est oneri viro.</p>
+  <p>Peior quid erit ? Amara sic mortalium</p>
+  <p>(115) Dulcedini miscere consuevit Deus.</p>
+  <p>Quid faciam? Amore et ipse vinci me sinam?</p>
+  <p>Terrebit animum, quod timet, coniunx amans?</p>
+  <p>Amore Regni regium est quidvis pati</p>
+  <p>Ipsamque mortem spernere et mortis metum.</p>
+  <p><milestone unit="folio" n="12"/> Mala ipsa vera fortis haud multum timet.</p>
+  <p>Minus timenda vana, quae metuit amor. </p>
+  <p>Iam prodit ipsa, membra vix luctu trahens.</p>
+  <p>Stabo et querelas liberas tacite audiam.</p>
+  <p>[I, 2] Maria Eleonora.</p>
+  <p>Quisquamne regno gaudet et vel mutuo</p>
+  <p>(125) Felicem amore quempiam reddi autumat?</p>
+  <p>Ah, blandiens utrumque quam fallax bonum!</p>
+  <p>Regina Sueonum incedo. Regem amo virum,</p>
+  <p>Quo nemo maior, nemo amore dignior</p>
+  <p>Vel indice hoste. Redamor ipsa non minus</p>
+  <p>(130) Nec ulla prae me coniugi, certum est, placet.</p>
+  <p>At quantus animum concoquit semper timor,</p>
+  <p>Cum tot subit pericla tam carum caput,</p>
+  <p><pb n="49"/></p>
+  <p>Nullum relinquens precibus aut monitis locum!</p>
+  <p>Qui facilis alias, hic inexorabilis</p>
+  <p>(135) Et Holmiana rupo quavis durior.</p>
+  <p>O dura, dira, ferrea heroum comes,</p>
+  <p>Cupido laudis, quos mihi luctus paras!</p>
+  <p>Quantum malorum fronte quam blanda vehis!</p>
+  <p>Per te, virorum devoratrix fortium,</p>
+  <p>(140) Viduata ne sim, vereor. Hectori meo</p>
+  <p>Haud metuo frustra Andromache, et unicae tibi</p>
+  <p>Iam coniugalis forsitan cessit viri</p>
+  <p>Amor fidelis.</p>
+  <p>Gustavus.</p>
+  <p>Tempus est abrumpere,</p>
+  <p>Ne longius se fundat immodicus dolor.</p>
+  <p>(145) O socia thalami, rege digna coninge,</p>
+  <p><milestone unit="folio" n="13"/> Tandem querelis regium statue modum</p>
+  <p>Nec suspicacem vanus efficiat metus!</p>
+  <p>Ut magna peragant, caelitus calcar datur</p>
+  <p>Cupido laudis regibus. Alios quoque</p>
+  <p>(150) Ad honesta stimulo hoc incitari cernimus.</p>
+  <p>Virtutis haec est mater et nutrix simul</p>
+  <p>Cupido, honestis ambiens laudem modis.</p>
+  <p>Moderata solum poscitur. Talem mihi</p>
+  <p>Precare, amori haud obfuturam mutuo,</p>
+  <p>(155) Qui coniugali nos beavit vinculo.</p>
+  <p>Haud vacuum amore coniugis pectus gero,</p>
+  <p>Quin urit intus haud levis mentem calor,</p>
+  <p>Magis sed urit data prius Regno fides.</p>
+  <p>Moderamen haee privato amori praecipit</p>
+  <p>(160) Meo tuoque. Coniugem haud solum viro</p>
+  <p>Venisse te, sed Sueciae datum insuper</p>
+  <p>Diadoma fac ut cogites! Regni bonum</p>
+  <p>Ne, quaeso, pergas impedire lacrimis!</p>
+  <p>Pectus mariti fletibus si mollias,</p>
+  <p>(165) Extorris alibi plura ne plores, vide!</p>
+  <p>Maria Eleonora.</p>
+  <p>Te si reservo, lacrimis nusquam est locus.</p>
+  <p>Tu mille regnis, mille vitis carior.</p>
+  <p><pb n="50"/></p>
+  <p>Te vel per ignes sospitem lubens sequar</p>
+  <p>Vastasque rupes et per insanum mare,</p>
+  <p>(170) Si vel Moluccas classe vel Iavam petas</p>
+  <p>Nostrae vel Ursae forsan obiectum Polum.</p>
+  <p><milestone unit="folio" n="14"/> Regina vivam quolibet tecum loco.</p>
+  <p>Te caeso (ad ipsa verba tota exhorreo.</p>
+  <p>Ah, absit omen!) vita cum Regno perit.</p>
+  <p>(175) Sed ipse Regni num bonum curas satis,</p>
+  <p>Qui tot periclis regium obiectas caput,</p>
+  <p>Dum natus heres nullus aula lusitat?</p>
+  <p>Gustavus.</p>
+  <p>Pericla, quae videntur, haud pericla sunt.</p>
+  <p>Tutator adstat regibus semper Deus.</p>
+  <p>Maria Eleonora.</p>
+  <p>(180) Tot ergo reges unde pugnantes cadunt?</p>
+  <p>Gustavus.</p>
+  <p>Tutator adstat, dum cavent pericula.</p>
+  <p>Maria Eleonora.</p>
+  <p>Tentare Numen quisquis audet, linquitur.</p>
+  <p>Gustavus.</p>
+  <p>Haud tentat ille, iussa qui caelo facit.</p>
+  <p>Maria Eleonora.</p>
+  <p>Iussumne solis regibus cuncta exsequi?</p>
+  <p>Gustavus.</p>
+  <p>(185) Rex inter arma providus cunctis adest.</p>
+  <p>Maria Eleonora.</p>
+  <p>Rex imperator esto, pugnent ceteri.</p>
+  <p>Gustavus.</p>
+  <p>Pugnante rege fortius miles ferit.</p>
+  <p>Maria Eleonora.</p>
+  <p>Etiamne inermi rege tutius ferit?</p>
+  <p>Gustavus.</p>
+  <p>Regem retardant arma, corpus aggravant.</p>
+  <p><pb n="51"/></p>
+  <p>Maria Eloonora.</p>
+  <p>(190) Utrum tibi gravius, arma ferre an vulnera?</p>
+  <p>Gustavus</p>
+  <p>Huc usque vulnus haud fero.</p>
+  <p>Maria Eleonora.</p>
+  <p>Ne feras, vide!</p>
+  <p>Quem saepe transit casus, aliquando invenit.</p>
+  <p>Ah, horret animus, grande praesagit malum.</p>
+  <p>Cruor, cruor versatur ante oculos! Cruor</p>
+  <p>(195) Tibi foedat artus, at mihi cor enecat.</p>
+  <p><milestone unit="folio" n="15"/> Gustavus.</p>
+  <p>Credis timori? Vanus est vates Timor.</p>
+  <p>Maria Eleonora.</p>
+  <p>Ah, vera timeo, tu nihil quoniam times.</p>
+  <p>Securitatem sequitur infelix comes.</p>
+  <p>Procerum monelas saepe spernis, nunc meas.</p>
+  <p>Gustavus.</p>
+  <p>(200) Atqui serenus commonentes audio.</p>
+  <p>Maria Eleonora.</p>
+  <p>Audis monentes, attamen placitum facis.</p>
+  <p>Gustavus.</p>
+  <p>Hoc regium.</p>
+  <p>Maria Eleonora.</p>
+  <p>Est et regium regere impetum,</p>
+  <p>Recte monentes, feminas etiam, sequi.</p>
+  <p>Ratione vinci nullus aestimet probrum</p>
+  <p>(205) Victor Monarcha.</p>
+  <p>Gustavus.</p>
+  <p>Vincere ut sexum hunc iuvat!</p>
+  <p>Cum femina certare si quis occipit</p>
+  <p>Verbis, triumphus rarus est. Ni dem manus,</p>
+  <p>Recurret usque amoris haec contentio.</p>
+  <p>Vietum fatebor; interim, quod fas, agam.</p>
+  <p>(210) Quae, fida coniunx, suggeris, mentem movent.</p>
+  <p><pb n="52"/></p>
+  <p>Rationi et ipse cedo, tuque carior</p>
+  <p>Monendo cautum senties magis virum.</p>
+  <p>Nunc sacra mecum perage et ad classem veni,</p>
+  <p>Boreas in aequor navitas donec vocat!</p>
+  <p>Maria Eleonora.</p>
+  <p>(215) Regum supremus servet (ah) mentem hanc tibi!</p>
+  <p>Quas fundo toties, audiat tandem preces!</p>
+  <p><hi rend="bold"><milestone unit="folio" n="16"/> Chorus Senatorum regni
+  Sueciae.</hi></p>
+  <p>Numinis summi est genuina proles</p>
+  <p>Rex, cui leges pietasque curae,</p>
+  <p>Cui salus tantum populi voluptas,</p>
+  <p>(220) Cui magis virtus probitasque lucet</p>
+  <p>Splendida gemma Pario vel auro:</p>
+  <p>In bonos mitis, facilis, benignus,</p>
+  <p>Sontibus poena modica severus,</p>
+  <p>Quamlibet iustam moderatus iram,</p>
+  <p>(225) Haud amans Bacchi aut Veneris nefandae,</p>
+  <p>Gnarus insomnes tolerare noctes,</p>
+  <p>Sedulus, dignas capiat ut artes,</p>
+  <p>Otium causam fugiens malorum,</p>
+  <p>Providus mente, at minime dolosus,</p>
+  <p>(230) Integre servans sacra iura pacis,</p>
+  <p>Pace si rupta ferus hostis urget,</p>
+  <p>Impiger armis.</p>
+  <p>Rege nil tali Superi faventes</p>
+  <p>Mittere in terras potuere maius.</p>
+  <p>(235) Talis ex eaelo tibi missus alto,</p>
+  <p><hi rend="italic">Suecia</hi>, venit,</p>
+  <p>Numen humano nisi rege maius</p>
+  <p>Oocupat terras. Tuas ille
+  <hi rend="italic">Rector</hi></p>
+  <p>Omnium gnarus, tamen usque gnavus,</p>
+  <p><milestone unit="folio" n="17"/> Omnibus carus, quia semper aequas.</p>
+  <p>Ipsus orator gravis in Senatu,</p>
+  <p>Ipse eonsultor potius fidelis</p>
+  <p>Quam ferox iussu tumidusque sceptro,</p>
+  <p>Ipse regnorum peragrare fines</p>
+  <p>(245) Et metallorum penetrare fundum</p>
+  <p><pb n="53"/></p>
+  <p>Sustinens crebro, meliora cunctis</p>
+  <p>Ut ferat praesens, patriaeque lucro</p>
+  <p>Ipse bellator, cui par vel ipse</p>
+  <p>Non manet Mavors; feritatis expers</p>
+  <p>(250) Interim et victum miseratus hostem;</p>
+  <p>Sanguinis parens propriaeque tantum</p>
+  <p>Prodigus vitae. Bona tot minaci</p>
+  <p>Credimus Ponto levibusque ventis?</p>
+  <p>Credimus Marti? Licet iste favit</p>
+  <p>(255) Hactenus, forsan superatus odit.</p>
+  <p>Aemulus semper metuendus ardor.</p>
+  <p>Credimus victi meritis volentis</p>
+  <p>Regis, at casum miseri timemus.</p>
+  <p>Summe ventorum domitor marisque,</p>
+  <p>(260) Qui simul Martis moderaris iras,</p>
+  <p>Sospitem serva pelago atque terris,</p>
+  <p>Redde <hi rend="italic">Gustavum</hi> patriae atque in
+  uno</p>
+  <p>Rego salutem!</p>
+</div>
+<div type="level1" xml:id="folio18-actus-secundus.">
+  <head><milestone unit="folio" n="18"/> Actus secundus.</head>
+  <p>[II, 1] Axelius Oxenstern.</p>
+  <p>Prima inventa Marte doctus plurimum</p>
+  <p>(265) Potest in armis. Nec tamen parum potest,</p>
+  <p>Quem prima Pallas, Mars secundus instruit.</p>
+  <p>Mihi prima cura, fateor, et primus labor</p>
+  <p>Fuere libri: sacra, leges discere</p>
+  <p>Et scire, quidquid gaudet humanum genus.</p>
+  <p>(270) Sic eruditus, mente factus providus,</p>
+  <p>Generosa avorum stirpe digna praestiti.</p>
+  <p>Haud paenitendus regibus binis fui</p>
+  <p>Pridem Senator, iamque <hi rend="italic">Gustavo</hi>
+  intimus,</p>
+  <p>Nestor fidelis, fortis Atlas, Sueciae</p>
+  <p>(275) Sub Rege, qua fas, pondus et molem gero.</p>
+  <p>Curam togatam dum gero, Martem docet,</p>
+  <p>Qui Marte maior, iamque docto praecipit</p>
+  <p>Gestare pondus Martis et togam simul.</p>
+  <p>Hinc parta tueor gnavus et feliciter</p>
+  <p><pb n="54"/></p>
+  <p>(280) (Fremat Polonus)
+  <hi rend="italic">Prussiae</hi> teneo solum.</p>
+  <p>Teneo fidelis non mihi, sed patriae</p>
+  <p>Regique, honores qui mihi tantos dedit.</p>
+  <p>Ut teneam, honore haud turgidus Proceres amo</p>
+  <p>Dudum peritos Martis et modice impero</p>
+  <p>(285) Humanitate iussa semper temperans.</p>
+  <p><milestone unit="folio" n="19"/> Heroum honore mutuam pacem colo.</p>
+  <p>Consilia Martis rogito et audio lubens</p>
+  <p>Recte monentes. Quaero, quae docentibus</p>
+  <p>A rege doctus forsan haud minus scio.</p>
+  <p>(290) Sic vana nullum tangit aemulatio</p>
+  <p>Et pari et armis noxium crebro nefas.</p>
+  <p>Sed pariter omnes quaerimus Regni bonum,</p>
+  <p>Durum nee ulli Rege pro tanto mori.</p>
+  <p>His acquiescat utinam et, o, parcat sibi</p>
+  <p>(295) Rex semper alias aequus, hic iniquior</p>
+  <p>Sibi atque regno, surdus hic monentibus!</p>
+  <p>Bella imperando Ducibus <hi rend="italic">Hispanus</hi>
+  gerit</p>
+  <p>Latitatque semper ipse post primordia</p>
+  <p>Absens, inermis subdidit Germaniam</p>
+  <p>(300) Cimbrosque
+  <hi rend="italic">Ferdinandus</hi>.
+  <hi rend="italic">Anglus</hi> eminus</p>
+  <p>Commissa Ducibus tela trans pontum iacit.</p>
+  <p>Praesens Rupellam <hi rend="italic">Gallus</hi>
+  infestat suam,</p>
+  <p>Sed parcius Regnique clausus finibus.</p>
+  <p>Sic cautiores alibi Reges militant.</p>
+  <p>(305) <hi rend="italic">Gustavus</hi> unus, sortis
+  humanae immemor</p>
+  <p>Hostilem in agrum, finibus Regni procul,</p>
+  <p>Toties cohortes ductitans vasto mari,</p>
+  <p>Vult ipse semper omnia esse in omnibus,</p>
+  <p>Dux ipse, Miles ipse et ipse navita;</p>
+  <p>(310) Inermis hosti regium obiectans caput</p>
+  <p><milestone unit="folio" n="20"/> Dum cuncta lustrat, saepe et exigua manu</p>
+  <p>Invadit hostem. Regium hoc quis iudicet</p>
+  <p>Ardore nisi par? Audiat multis licet</p>
+  <p>Animosa virtus, error est, ni sit modus.</p>
+  <p>(315) Mirandus Orbi, fateor, imperterritae</p>
+  <p>Hic mentis ardor, at probandus nemini,</p>
+  <p>Qui fas et aequam ac Principum vitas amat.</p>
+  <p><pb n="55"/></p>
+  <p>Fors victor orbis <hi rend="italic">Macedo</hi>, quem
+  multis refert</p>
+  <p>Rex, ut pericla spernat, exemplo facit.</p>
+  <p>(320) Sed et ille, felix quamlibet diu ac deus</p>
+  <p>Dominusque Sortis visus, hostili tamen</p>
+  <p>Ex vulnere hominem sensit. Utinam haud sentiat</p>
+  <p>Graviora noster neve Rege saucio</p>
+  <p>Mortifera Regno sentiamus vulnera!</p>
+  <p>(325) Fortuna fortibus invida, etsi blandula</p>
+  <p>Favensque dudum visa, tandem iniquior,</p>
+  <p>Levitate constans, dona commutat malis,</p>
+  <p>Et cum minata est saepius, tandem ferit.</p>
+  <p>Nescio, quid animus dictat. Insolitus ruit</p>
+  <p>(330) Tremor per artus, sospitem quando audio</p>
+  <p>Rediisse Regem. Gaudio est mixtus dolor.</p>
+  <p>Hinc cernere illos laeta mens vultus avet</p>
+  <p>Regem probantes. Inde formido mali</p>
+  <p>Ignoti, at interim horridi mentem gravat.</p>
+  <p>(335) Adire <hi rend="italic">Regem</hi> est
+  animus et, quae Sors dabit,</p>
+  <p><milestone unit="folio" n="21"/> Perferre. Monitis debitam Domino fidem</p>
+  <p>Praestabo rursum, forte si tandem audiat.</p>
+  <p>Monela saepius iteranda, urgentibus</p>
+  <p>Mali periclis; nec nimis fidelibus</p>
+  <p>(340) Metuenda servis ira regum, errore fors</p>
+  <p>Si concitetur. Dura potius perpeti</p>
+  <p>Fas immerentem quam metu abicere fidem.</p>
+  <p>Haec spreta dudum, saepe tandem agnoscitur</p>
+  <p>Errore pulso ac digna habetur praemio.</p>
+  <p>[II, 2] Gustavus Adolfus. Axelius Oxenstern.</p>
+  <p>Gustavus.</p>
+  <p>(345) Regnum per aequor si quis insanum petit</p>
+  <p>Magno emit, inermi quamlibet dono datum.</p>
+  <p>Quodsi arma iuncta sentit aequoreus labor,</p>
+  <p>Pretium est iniquum nimis, et infelix nimis</p>
+  <p>Ac stolidus emptor. Vanus hanc sortem mihi</p>
+  <p>(350) Si fabricaret ambitus calor, reo</p>
+  <p>Poena ipsum crimen esset, accumulans mala.</p>
+  <p>At me Sacrorum, iuris amor et Patriae</p>
+  <p><pb n="56"/></p>
+  <p>Non petere sceptra, sed tueri compulit</p>
+  <p>Hereditate parta. Sic tolero lubens</p>
+  <p>(355) Necessitatis dura tela, degener</p>
+  <p>Ne dicar atque ignavus heres. Classibus</p>
+  <p>Hinc tento totios pontum. Et hactenus dedit</p>
+  <p><milestone unit="folio" n="22"/> Superare monstrum hoc turgidum, immensum, vorax,</p>
+  <p>Tuenda sceptra qui dedit. Sit omen hoc</p>
+  <p>(360) Superandi et hostis. Turgeat, spiret minas</p>
+  <p>Vastoque hiatu devorare nos paret,</p>
+  <p>Potentiorem sentiet dominum maris</p>
+  <p>Dominumque belli. Suscitare spes novas</p>
+  <p>Iuvat, subactum Marte cum calco solum.</p>
+  <p>(365) Spes robur animis addit in malis quoque</p>
+  <p>Linquenda nunquam, duplicanda in prosperis.</p>
+  <p>Iam salva Classis <hi rend="italic">Prussiae</hi>
+  portum tenet</p>
+  <p>Avidusque pugnae miles in terram exsilit.</p>
+  <p>Servata video gnaviter munimina</p>
+  <p>(370) Tutata portum. Digna cura
+  <hi rend="italic">Lesseli</hi>,</p>
+  <p>Cui mox equestris praemium sit laurea.</p>
+  <p>Exquirere alia propero. Nunc utinam brevi,</p>
+  <p>Vocatus adsit noster
+  <hi rend="italic">Oxensternius</hi>,</p>
+  <p>Socius laborum fidus ille et impiger,</p>
+  <p>(375) Consilia magno saepe suggerens bono!</p>
+  <p>Iam venit, ecce, nec diu nectit moras.</p>
+  <p>Oxenstern.</p>
+  <p>Ah, magne rex parensque, quam feliciter</p>
+  <p>Desideratus omnibus tandem venis</p>
+  <p>Gustavus.</p>
+  <p>Desideratus et mihi vultus tuus,</p>
+  <p>(380) Fulcrum fidele patriae. Agnosco lubens,</p>
+  <p>Quae praestitisse fama te pridem refert,</p>
+  <p><milestone unit="folio" n="23"/> Haud praemio caritura. Quo res sunt loco?</p>
+  <p>Audire coram certiora mens avet.</p>
+  <p>0xenstern.</p>
+  <p>Res salva, salvus miles et salva omnia.</p>
+  <p>(385) Cum salvus adsis, Rex, salus hoc maior est.</p>
+  <p><pb n="57"/></p>
+  <p>In Regna postquam Te, tuis gratantia</p>
+  <p>Avido triumphis, serus autumnus tulit,</p>
+  <p>Obsequia debita praestitere, quos mihi</p>
+  <p>Dabas regendos. Omnia aequata hactenus</p>
+  <p>(390) Imperia factis. Omne virtute ac fide</p>
+  <p>Victum est periclum. Degener solum fuit</p>
+  <p>Turba illa, propere <hi rend="italic">Wormitam</hi> cui
+  linquere</p>
+  <p>Cogente nondum Marte persuasit timor</p>
+  <p>Haud gente nostra dignus, exemplo nocens.</p>
+  <p>(395) Hinc crimen expiare fuso sanguine</p>
+  <p>Nocentiores ceteris iussi duo.</p>
+  <p>Gustavus.</p>
+  <p>Severitatem saepe Mavors postulat,</p>
+  <p>Ne lenitate longius serpat malum.</p>
+  <p>Amissa Wormita interim damnum est leve.</p>
+  <p>(400) Exempli, honoris pondus est magis grave.</p>
+  <p>Et <hi rend="italic">Poutsca</hi> victa est, audio, sed
+  fortius</p>
+  <p>Defensa.</p>
+  <p>Oxenstern.</p>
+  <p><hi rend="italic">Poutscas</hi> saepe si sic
+  vicerit,</p>
+  <p>Devictus Hostis supplices dabit manus,</p>
+  <p><milestone unit="folio" n="24"/> Victoria ulla vix decus tantum attulit</p>
+  <p>(405) Lucrumque Regno,
+  <hi rend="italic">Poutsca</hi> quantum perdita.</p>
+  <p>Urbs, quam repente vicerat gens nautica,</p>
+  <p>Mandare vix dignante
+  <hi rend="italic">Guldenhelmio</hi>,</p>
+  <p>Munimen omne cui Suecus miles fuit,</p>
+  <p>Sibi ipse vallum tenue subito fabricans,</p>
+  <p>(410) Quantum ferebat tempus et loci valor,</p>
+  <p>Hostile robur omne, sustinens diu</p>
+  <p>Attrivit. Ipsis hostibus miraculum est</p>
+  <p>Comperta nostri fortitudo militis.</p>
+  <p>Hic, mille quamvis impotitus machinis,</p>
+  <p>(415) Cessante nunquam fulmine aerato, tamen</p>
+  <p>Crebro relictis moenibus pugnam movet</p>
+  <p>Campis apertis impari numero nimis</p>
+  <p>Hostemque in ipsa castra persequens ferit.</p>
+  <p>Sic cum trophaeis centies victor redit</p>
+  <p><pb n="58"/></p>
+  <p>(420) Et quidquid ultra est. Viribus tandem minor</p>
+  <p>Nec arma regere corpore exhausto potis,</p>
+  <p>Haud fractus hoste, sed magis dura fame,</p>
+  <p>Quam strage multa et mensibus sex emerat</p>
+  <p>Hostis, relinquit urbem honestis legibus,</p>
+  <p>(425) Urbem obfuturam commodis nostris parum.</p>
+  <p>Hostilis ipse militem invictum intuens</p>
+  <p>Stupescit <hi rend="italic">Imperator</hi> et
+  praeconio</p>
+  <p>Epulisque dignos singulos censet suis.</p>
+  <p>Tales Polono exoptat esse milites</p>
+  <p><milestone unit="folio" n="25"/> Ducesque, forti qui pares
+  <hi rend="italic">Sitonio</hi></p>
+  <p>Reliquisque, robur qui dedere militi.</p>
+  <p>Gustavus.</p>
+  <p>Iactura facilis est quidem
+  <hi rend="italic">Poutskae</hi> mihi,</p>
+  <p>At Hostibus rursum hac potiri commodum est,</p>
+  <p>Cum tutius nunc Pomeranus advehat,</p>
+  <p>(435) Quae Mars requirit. Interim virtus placet</p>
+  <p>Consueta nostris et famem tolerans labor</p>
+  <p>Meliore dignus cura. In Hoste perplacet,</p>
+  <p>Laudabilem exemplo meo quod aestimet</p>
+  <p>Virtutem in hoste. Si quis aliter sentiat,</p>
+  <p>(440) Haud ipse laude dignus est, sed barbarus,</p>
+  <p>Sicarii, non militis habendus loco.</p>
+  <p>Ferenda nunc haec damna levia. Nunc mihi,</p>
+  <p>Nunc Hostibus benigna Sors, forsan brevi</p>
+  <p>Meliora redditura. Fortitudinem</p>
+  <p>(445) Ac spem relinquens abstulit parum aut nihil.</p>
+  <p>Sed praeda an hostis uspiam aut incendiis</p>
+  <p>Vastavit agros?</p>
+  <p>Oxenstern.</p>
+  <p>More consueto diu</p>
+  <p>Tentavit ista saepius, cum frigore</p>
+  <p>Duratus amnis pontis instar substitit</p>
+  <p>(450) Leviora alicubi damna tum velox dedit.</p>
+  <p>Gravioribus sed obstitere gnaviter</p>
+  <p>Dispositae in agris turmae, et haud raro simul</p>
+  <p>Evomere praedam compulere et sanguinem</p>
+  <p><pb n="59"/></p>
+  <p>Turbam rapacem. Maxime
+  <hi rend="italic">nitichii</hi>,</p>
+  <p>(455) Cum victor hostis visus est ovans sibi,</p>
+  <p><milestone unit="folio" n="26"/> Praedamque mente volvit, agmen abditum</p>
+  <p>Pedestre domibus impetu subito irruit,</p>
+  <p><hi rend="italic">Sperlingio</hi> ductore, palantes
+  ferit</p>
+  <p>Ac strage facta pellit urbo. Ceteros</p>
+  <p>(460) Tum <hi rend="italic">Tottus</hi> acer
+  proxima villa latens</p>
+  <p>Pavidos equestri sequitur ac caedit manu.</p>
+  <p>Gustavus,</p>
+  <p>Sic iure factus praeda simul et victima</p>
+  <p>Praedator Hostis. Laudo virtutem impigram</p>
+  <p>Nostrorum et artem provido dignam duce.</p>
+  <p>(465) Sic Patriae invigilare perge commodis,</p>
+  <p>Et bene merenti crescet in dies honos.</p>
+  <p>Nunc fac in unum convocare militem!</p>
+  <p>Bellique Proceres praemio dignissimos</p>
+  <p>Videre gestio, ut, quid expediat magis,</p>
+  <p>(470) Votis fideles suggerant. His
+  <hi rend="italic">InsuIa</hi>,</p>
+  <p>Quae dicta <hi rend="italic">Maior</hi>, aptior visus
+  locus.</p>
+  <p>Centri instar erit haec, miles unde quaslibet</p>
+  <p>Diffundi in oras poterit. Huc celer vehat</p>
+  <p>Nos navita ambos, subsequantur ceteri.</p>
+  <p>Oxenstern.</p>
+  <p>(475) Mandata peragam gnaviter.  Iam gaudeo,</p>
+  <p>Desiderata quod dabitur occasio</p>
+  <p>Regem monendi clanculum Regni bono.</p>
+  <p>Fere apud honestos, Principes quam maxime</p>
+  <p>Privata publicae monela praevalet.</p>
+  <p><hi rend="bold"><milestone unit="folio" n="27"/> Chorus militum
+  veteranorum.</hi></p>
+  <p>(480) Martia pubes, belli socii,</p>
+  <p>Sive in pugnas ire pedestres</p>
+  <p>Sive quadrupedum tergore sueti,</p>
+  <p>Date laetitiae Martia signa!</p>
+  <p>Suavi resonet buccina cantu,</p>
+  <p>(485) Forti resonent tympana pulsa,</p>
+  <p>Fortius aera tonantia nitro,</p>
+  <p><pb n="60"/></p>
+  <p>Dent et ferrea fulmina lucem!</p>
+  <p>Lux nova nobis laeta refulget.</p>
+  <p>Lux illa orbis, fulmen belli,</p>
+  <p>(490) Dux ille leo, quo duce cervi</p>
+  <p>Agmina possint esse leonum,</p>
+  <p>Toties qui nos omine fausto</p>
+  <p>Duxit victoresque reduxit,</p>
+  <p>Toties qui se verum patriae</p>
+  <p>(495) Et nostrum probat esse parentem;</p>
+  <p>Rex <hi rend="italic">Gustavus</hi>, regum summus,</p>
+  <p>Sueonum nova nunc agmina ducens</p>
+  <p>Salvus rediit, nobis rediit.</p>
+  <p>Venit, rediit, nos qui docuit</p>
+  <p>(500) Arma perita versare manu,</p>
+  <p>Rite explodere missile plumbum,</p>
+  <p>Rite oblongum quatere hastile,</p>
+  <p><milestone unit="folio" n="28"/> Regere indomitos rite caballos,</p>
+  <p>Ordine iusto progredi in armis,</p>
+  <p>(505) Ordine vario flectere turmas,</p>
+  <p>Dense nunc arctare maniplos,</p>
+  <p>Nunc aciem diffundere campo.</p>
+  <p>Venit, venit, cuius cura</p>
+  <p>Ora fames ne pallida reddat,</p>
+  <p>(510) Cereris capimus munera castris,</p>
+  <p>Munera sicca simulque liquentia</p>
+  <p>Et nonnunquam munera Bacchi,</p>
+  <p>Queis firmati, madidi, calidi</p>
+  <p>Possumus atras pellere curas,</p>
+  <p>(515) Nivibus mediis atque pruinis</p>
+  <p>Saepe quietum carpere somnum,</p>
+  <p>Saepe insomnes fallere noctes.</p>
+  <p>Venit, venit semper amicis</p>
+  <p>Dans animos et robora dictis,</p>
+  <p>(520) Dans imprimis robora factis,</p>
+  <p>Cum, quae mandat adire, pericla</p>
+  <p>Ipse subit spretoque timore</p>
+  <p>Ruit armatos primus in hostes.</p>
+  <p>Venit, venit, cuius ductu</p>
+  <p><pb n="61"/></p>
+  <p>(525) Datur hostiles ducere praedas,</p>
+  <p>Agmina rapida abducere equorum,</p>
+  <p>Rapere argenti pondus et aeris,</p>
+  <p>Rapere Ungariai dona Lyaei</p>
+  <p><milestone unit="folio" n="29"/> Et caesi gestare
+  <hi rend="italic">PoIoni</hi></p>
+  <p>(530) Tunicas auro et vellere dites.</p>
+  <p>Venit, venit fortibus ausis</p>
+  <p>Digna rependere praemia gnarus,</p>
+  <p>Nunc dare munia, nunc dare nummos,</p>
+  <p>Nunc alios Mavortis honores.</p>
+  <p>Quisquis patrio raptus aratro</p>
+  <p>Martem discit <hi rend="italic">Rege</hi> sub isto</p>
+  <p>Et gnavus mandata capescit,</p>
+  <p>Martis crebro sorte beatus</p>
+  <p>Stemmate claris cedere nescit.</p>
+  <p>(540) Vivat Rex, o talis in aevum!</p>
+  <p>Vivat, vivat! Nos moriamur,</p>
+  <p>Rex modo vivat! Marte secundo</p>
+  <p>Rursum hostiles rumpens acies</p>
+  <p>Longe pellat sede Polonum</p>
+  <p>(545) Et nova <hi rend="italic">Regem</hi> laurea
+  cingat!</p>
+</div>
+<div type="level1" xml:id="actus-tertius.">
+  <head>Actus tertius.</head>
+  <p>[III,1] Amor coniugalis. Nuntius. Maria Eleonora Regina.</p>
+  <p>Amor coniagalis.</p>
+  <p>Servus Tonantis aliger, quem cernitis,</p>
+  <p>Sum, Coniagalis dictus a priscis Amor.</p>
+  <p>Non impudicae natus ille Cypriae,</p>
+  <p><milestone unit="folio" n="30"/> Verum Tonante natus, innocens sacri</p>
+  <p>(550) Dictata caelo iura qui servo tori.</p>
+  <p>Epulis deorum quamlibet frui datur,</p>
+  <p>Maciata membra et pallidos vultus gero,</p>
+  <p>Ambrosia quoniam nostra felle plurimum</p>
+  <p>Commixta et acidus nectari infusus liquor</p>
+  <p>(555) Volente Patre, mente cuius provida</p>
+  <p>Coniuncta semper amaritudo dulcibus,</p>
+  <p><pb n="62"/></p>
+  <p>Rebus dolor quantumlibet laetis comes.</p>
+  <p>Pennas videtis, montis haud notas levis,</p>
+  <p>Sed expeditas servitutis indices.</p>
+  <p>(560) Celer volatu his permeo vastum mare</p>
+  <p>Orbemque peragro, gnarus ipsos impetu</p>
+  <p>Anteire ventos, ipsa adaequans fulmina</p>
+  <p>Et cogitata montis atque oculi iubar,</p>
+  <p>Tam longa nusquam spatia quin penetrem ocius.</p>
+  <p>(565) Hic talis adsto, nuntium ut iussus feram.</p>
+  <p>Regem in Borussis Martis ictu saucium</p>
+  <p><hi rend="italic">Regina</hi> Sueonum faxo mox terris
+  sciat.</p>
+  <p>Referre miseret tristia, infausta, horrida,</p>
+  <p>At nuntianda, tristiora ne sient,</p>
+  <p>(570) Dum nesciuntur. Cognita in bonum mala</p>
+  <p>Mens sana crebro mutat. Abditum nocet</p>
+  <p>Magis, medela quando nulla poscitur.</p>
+  <p><milestone unit="folio" n="31"/> Adibo thalamum, nostra quem fecit manus</p>
+  <p>Feliciorem, Mars nisi invidus foret.</p>
+  <p>(575) Altus misellae venit ex auris sopor,</p>
+  <p>Hoc altior, quo rarior. Sed interim</p>
+  <p>Sopore medio non datur menti quies.</p>
+  <p>Ut bracchia iactat! Mobile ut versat caput!</p>
+  <p>Quos ductat imo spiritus de pectore!</p>
+  <p>(580) Ut bullientes lacrimae ex oculis ruunt</p>
+  <p>Vultumque tristem gemmeus liquor rigat!</p>
+  <p>Ah, anima mitis, blanda, fraudis nescia,</p>
+  <p>Meliore digna sorte, qualem te intuor!</p>
+  <p>Quid nuntiabo? Mens mali iam conscia</p>
+  <p>(585) Hos prodit actus. Nuntii haud verbis eges.</p>
+  <p>Plorare malim, orare vix sinit dolor.</p>
+  <p>Verbo tamen monebo, quo iussa exsequar. </p>
+  <p><hi rend="italic">Regina</hi>, dormis,
+  <hi rend="italic">Rex</hi> tuus cum saucius?</p>
+  <p>Exsurge, votis vince gnava caelitos!</p>
+  <p>(590) Nam maius etiam saucium vulnus manet.</p>
+  <p>Maria Eleonora.</p>
+  <p>Quid hoc rei? Quid audio videns neminem?</p>
+  <p>Re nuntiata Nuntius trepidus fugit.</p>
+  <p><pb n="63"/></p>
+  <p>Mane, mane, quicunque es! Iram ne time</p>
+  <p>Vix ire iusta pectus in nostrum cadit,</p>
+  <p>(595) Iniusta nunquam. Nuntius culpa vacat.</p>
+  <p><milestone unit="folio" n="32"/> Favore dignus, corde qui fido monet.</p>
+  <p>Redi atque casus fortiter fare asperos!</p>
+  <p>Cupit animus, quod horret, scire praevisum diu.</p>
+  <p>Narrando pauca vulneras. Solacium</p>
+  <p>(600) Dabis et medelam, cuncta si narraveris.</p>
+  <p>Redisne an animo, dure, suspensam tenes?</p>
+  <p>Fugitivus abiit nec redit. Deerat meo</p>
+  <p>Istud dolori; neglegit servus preces.</p>
+  <p>Sed anne servus? Forsitan Termaximus</p>
+  <p>(605) Dominator orbis. Subvenit visus mihi</p>
+  <p>Fugientis alas. Spirat etiam nunc odor</p>
+  <p>Ambrosius ille, caelitum fragrans odor,</p>
+  <p>Quo nos beare coniuges <hi rend="italic">Amor</hi>
+  solet.</p>
+  <p>Amor est. Amoris numen ipsum exhorruit</p>
+  <p>(610) Ad dicta propria; fugit haud fari potis.</p>
+  <p>Haud fugit omnis. Membra fugerint licet</p>
+  <p>Levesque pennae, vis Amoris intimis</p>
+  <p>Haeret medullis. Quin et impetu novo</p>
+  <p>Novisque flammis pectus intus aestuat.</p>
+  <p>(615) Maiora solito sentio. Crescentibus</p>
+  <p>Malis Mariti crescit in nobis Amor</p>
+  <p>Hic verus Amor est, fidus ille et integer,</p>
+  <p>Solamen unum in maximis doloribus.</p>
+  <p>Auget dolorem, cum iuvare non datur.</p>
+  <p>(620) Fateor. Sed ipse nunc iuvat miseram dolor.</p>
+  <p><milestone unit="folio" n="33"/> Lugere iuvat, ah, lacrimis nostris iuvat</p>
+  <p>Eluere saniem vulneris. Vel eminus</p>
+  <p>Iuvat lavare. Spiritu extremo meo,</p>
+  <p><hi rend="italic">Gustave</hi>, volupe est ire in
+  occursum tuo.</p>
+  <p>(625) Ascende, dolor, ad ultimum propera gradum,</p>
+  <p>Sic finiende, summa cum durent parum!</p>
+  <p>Mors grata finem rebus afflictis dabit,</p>
+  <p>Nec antevertet mors Mariti vulnere</p>
+  <p>Graviore mentis sauciam. Me me prius</p>
+  <p>(630) Fas liberari. Haud imparem tantis malis,</p>
+  <p><pb n="64"/></p>
+  <p><hi rend="italic">Gustave</hi>, linques. Ibo prior et
+  regibus</p>
+  <p>Atavis nefandi nuntium casus feram.</p>
+  <p>Ah, summe regum, sospitator unice,</p>
+  <p>Hunc, quem dedisti, spiritum fessum cape!</p>
+  <p>[III,2] Nutrix. Maria Eleonora.</p>
+  <p>Nutrix.</p>
+  <p>(635) Sollicita mens amantium quantum advehat</p>
+  <p>Miseris dolorem, alumna nostra perdocet</p>
+  <p>Regina Sueonum. Quantus, ah, illam timor</p>
+  <p>Seu iustus ille sive vanus, attamen</p>
+  <p>Timor perennis, pertinax miseram enecat!</p>
+  <p>(640) Quin mille mortes irrogans, nimis horride</p>
+  <p>Absumit igne lento. Et ipsa particeps</p>
+  <p>Fio dolorum tantae amore Principis,</p>
+  <p>In qua relucet omne virtutum genus.</p>
+  <p><milestone unit="folio" n="34"/> Piget referre, quantus hanc urat dolor</p>
+  <p>(645) Quieta nunquam mens, mali dum praescia</p>
+  <p>Sibi visa. Membris, mente turbata, quies</p>
+  <p>Etiam negatur. Lacrimat, plangit, gemit</p>
+  <p>Sine fine. Gressum trepida nunc huc dirigit,</p>
+  <p>Nunc alio. Ad sequor nunc sese vehi cubet,</p>
+  <p>(650) Nunc aliam ad arcem. Et advenam quemvis vocat,</p>
+  <p>Quaerit, rogat, minata, ni verum ferat.</p>
+  <p>Nunc sola lacrimas fundit ac preces Deo,</p>
+  <p>Nunc solitudine territa revocat suos.</p>
+  <p>Vix cura cereris ulla, nec pascit cibus.</p>
+  <p>(655) Depascit artus anxiae mentis pavor.</p>
+  <p>Cibare potius pauperum iubet greges,</p>
+  <p>Sollicita rogitans saepe, num fiat satis.</p>
+  <p>Maerore totos cum fatigata est dies,</p>
+  <p>Nec nox quietem dare potis. Somni immemor</p>
+  <p>(660) Noctem querelis ducit aut insomniis</p>
+  <p>Pavefacta lucem quamlibet tristem expetit.</p>
+  <p>Hinc viribus defecta. Pallescunt genae</p>
+  <p>Roseoque cedit ore purpureus rubor</p>
+  <p>Multumque nitidi corporis cadit decor.</p>
+  <p>(665) Vix onere curvum sustinet collum caput</p>
+  <p><pb n="65"/></p>
+  <p>Et levia macie membra vix portant pedes.</p>
+  <p>Vis, haec doloris exitum qualim dabit?</p>
+  <p>Metuo, marite misera dum metuit nimis,</p>
+  <p>Ne causa nobis ipsa lugendi siet.</p>
+  <p><milestone unit="folio" n="35"/> Cubare sola voluit, omnes atrio</p>
+  <p>Exire mandans, posset ut sommo frui.</p>
+  <p>Tamen querelas audiisse visa sum</p>
+  <p>Solito haud minores. Clamor etiam tristior</p>
+  <p>Nec usitatus auribus sonuit meis.</p>
+  <p>(675) Iniussa adibo forsitan nostri indigam.</p>
+  <p>Mandata quamvis regia ingressum vetant,</p>
+  <p>Iuvare miseros praecipit semper fides.</p>
+  <p>Silentii quae causa nunc, scire expeto.</p>
+  <p>Haud somaus est! Mors est vel aliquid praevium</p>
+  <p>(680) Mortis! Benignus hoc malum avertat Deus!</p>
+  <p>Adeste, famulae! Nobile, matrum chori,</p>
+  <p>Adeste! Regum quisquis aerumnis doles,</p>
+  <p>Concurre, medicas adfer ocius manus!</p>
+  <p>Regina, moreris? Languidos, o, si potis,</p>
+  <p>(685) Attolle vultus!</p>
+  <p>Maria Eleonora.</p>
+  <p>Ah, quid optata via</p>
+  <p>Revocas euntem? Vita, cur miserae redis?</p>
+  <p>Mors verius quam vita, mille quae vehis</p>
+  <p>Mortes.</p>
+  <p>Nutrix.</p>
+  <p>Alumna, regios animos cape!</p>
+  <p>Maria Eleonora.</p>
+  <p>Omitte nomen regium! Haud regina sum</p>
+  <p>(690) Nec esse curo. Rex meus, pro, Rex meus</p>
+  <p>Gustavus, ah! Diadema, sceptra tollite,</p>
+  <p>Adferte saccos sordidumque pulverem!</p>
+  <p>Gustavus, ah, ah!</p>
+  <p>Nutrix.</p>
+  <p>Fare, Alumna, quid times?</p>
+  <p><pb n="66"/></p>
+  <p>Maria Eleonora.</p>
+  <p>Quid verba poscis? Loquitur exiguus dolor,</p>
+  <p>(695) Mutescit ingens. Anne adhuc Timor tibi,</p>
+  <p><milestone unit="folio" n="86"/> Qui nuntius tam verus? Ah, silentium</p>
+  <p>Permitte saltem, dura, quae mori vetas!</p>
+  <p>Nutrix.</p>
+  <p>Silendo crescit abditum crebro malum.</p>
+  <p>Novus unde tristis error iste Nuntii?</p>
+  <p>Maria Eleonora.</p>
+  <p>(700) Haud error est noster. Potius incredulae</p>
+  <p>Quaerentis error.</p>
+  <p>Nutrix.</p>
+  <p>Nuntius quis hic fuit?</p>
+  <p>Maria Eleonora.</p>
+  <p>Quem vetula spernis, carus at nobis, Amor.</p>
+  <p>Nutrix.</p>
+  <p>Qua venit, arcis foribus non patentibus?</p>
+  <p>Maria Eleonora.</p>
+  <p>Penetrare qua consueta vis caelestium.</p>
+  <p>Nutrix.</p>
+  <p>(705) Quid nuntiare visus?</p>
+  <p>Maria Eleonora.</p>
+  <p>Haud visus modo,</p>
+  <p>Credenda dixit: saucium <hi rend="italic">Regem</hi>
+  meum</p>
+  <p>Magisque vulnerandum. Ah, plura non queo,</p>
+  <p>Et tu rogare desine, importunior</p>
+  <p>Quam fas ministrae!</p>
+  <p>Nutrix.</p>
+  <p>Taceo. Miserae insomniis</p>
+  <p>(710) Turbata mens est. Error hic priscis fuit</p>
+  <p>Deum esse Amorem. Fingit hunc sibi nuntium</p>
+  <p>Verumque credit. Mentibus caliginem</p>
+  <p>Sic magnus animi motus offundit Timor</p>
+  <p>Et quilibet alius. Ferendum nunc mihi,</p>
+  <p><pb n="67"/></p>
+  <p>(715) Quod ambigenti durior vetat loqui.</p>
+  <p>Morbus vetat, non ipsa, qua nil mitius.</p>
+  <p>Quandoque mores aegra mens exasperat.</p>
+  <p>In Regiis hoc ferre si cui grave,</p>
+  <p>Is careat aula ac regiis virtutibus,</p>
+  <p><milestone unit="folio" n="37"/> A viliore haec saepe passurus grege.</p>
+  <p>Suadebo, somnum capiat ut silens novum.</p>
+  <p>Post quaeritanda occasio, qua commode</p>
+  <p>Ad recta flecti regu mores solent.</p>
+  <p>Curis, Alumna, lenis o utinam sopor</p>
+  <p>(725) Ferat levamen!</p>
+  <p>Maria Eleonora.</p>
+  <p>Aeviterna utinam quies!</p>
+  <p>[III, 8] Senatorum chorus. Nuntius alter.</p>
+  <p>Senator.</p>
+  <p>Caelestis aurae portio aut Dei ipsius</p>
+  <p>Mens dicta, priscis saepe, nescia qui sciat,</p>
+  <p>Futura praescit. Causa latet, ast interim</p>
+  <p>Gnaram futuri comprobatur exitu.</p>
+  <p>(730) Delusa sed quandoque falsa imagine</p>
+  <p>Haud visa se videre credit. Pervicax</p>
+  <p>Raro error iste veritati dat locum.</p>
+  <p>Hinc de futuris dicta mente provida</p>
+  <p>Fas iudicare. Prona nec nimium fides</p>
+  <p>(735) Hic esto, nec negetur omne, quod latet.</p>
+  <p>Mens dubia caelo nosse quod satis petat,</p>
+  <p>Arcana linquat Numini, praesens cui</p>
+  <p>Quidquid futurum, cuncta quod nutu regit.</p>
+  <p>Ut fausta veniant quae futura, supplices</p>
+  <p>(740) Tendat manus. Sortem interim ut quamvis ferat,</p>
+  <p>Quod fas agendo roboret se sedulo</p>
+  <p>Nec imparatum pectus aerumnis gerat.</p>
+  <p>Haec cogitamus, suadet infelix metu</p>
+  <p><milestone unit="folio" n="38"/> <hi rend="italic">Regina</hi>, vates visa
+  quae dudum mali,</p>
+  <p>(745) Quo gravius ullum
+  <hi rend="italic">Sueciae</hi> nondum tulit</p>
+  <p>Mavortis ira. Vanus an vates Timor</p>
+  <p><pb n="68"/></p>
+  <p>An verus hic, et noster ambigit metus</p>
+  <p>Amore natus Principis, cui parem</p>
+  <p>Haec nostra nullum, prisca vix ullum dedit</p>
+  <p>(750) Aetas, parentis qui datus nobis loco.</p>
+  <p>Hoc stante stant res Succiae. Si concidat,</p>
+  <p>(Ah, absit omen) cadimus omnes nostraque</p>
+  <p>Ruina gentes plurimas secum trahet.</p>
+  <p>Incerta quamvis fama mentes aggravat</p>
+  <p>(755) Regisque solito longius silentium.</p>
+  <p>Sed venit, ecce, Nuntius tardus gradu.</p>
+  <p>Silentis, eheu, quid ferat, vultus docet.</p>
+  <p>Nuntius.</p>
+  <p>Quem non tridente terruit salsae potens</p>
+  <p>Dominator undae, nec minacis Aeoli</p>
+  <p>(760) Egressa claustris tota ventorum cohors,</p>
+  <p>Non saevientis mille Martis spicula,</p>
+  <p>Me nunc inermis territat Patrum chorus.</p>
+  <p>Non ora terrent aut mali mens conscia,</p>
+  <p>Sed nuntianda nemini non tristia,</p>
+  <p>(765) Novitate tristiora, cunctis noxia.</p>
+  <p>Cor palpitat, vox deficit, labant pedes.</p>
+  <p>Senator.</p>
+  <p>Turbatus animo, fare, quos casus refers?</p>
+  <p>Nuntius.</p>
+  <p>Infausta, Proceres, nuntiare si scelus,</p>
+  <p>Morte expietur nuntiantis. Omnium</p>
+  <p><milestone unit="folio" n="39"/> In me feratur impetus. Namque omnium</p>
+  <p>Porto dolorem, lacrimas, suspiria.</p>
+  <p>Consueta pollo gaudia. Eiulatibus</p>
+  <p>Metaque regna compleo, iussus tamen.</p>
+  <p>Senator.</p>
+  <p>Quae iussus adfers vera, fare libere!</p>
+  <p>(775) Praevisa forsam tela nos ferient minus.</p>
+  <p>Nuntius.</p>
+  <p>Pater ille <hi rend="italic">Sueonum</hi>, Martis pubis
+  parens,</p>
+  <p>Domitor Poloni, spes Dani ac Germaniae,</p>
+  <p><pb n="69"/></p>
+  <p>Grassantis ille terror unus Austrii,</p>
+  <p>Decus illud orbis, victor ille tam frequens,</p>
+  <p>(780) Fortuna cui famulata visa est hactenus,</p>
+  <p>Eheu, cruentus vulnere infesto iacet.</p>
+  <p>Senatores.</p>
+  <p>Iacet? Quid istud? Vulnere an datus neci?</p>
+  <p>Hoc, summe regum, averte, quaesumus, malum!</p>
+  <p>Nuntius.</p>
+  <p>Iacet cruentus vulnere, at spirans tamen.</p>
+  <p>Spiraculi quando futurus exitus,</p>
+  <p>Haud novit ullus praeter illum, qui dedit.</p>
+  <p>Pericla mortis magna satis. Abdominis</p>
+  <p>Pertusa regio glande. An usque ad ilia</p>
+  <p>Penetrarit ictus, postmodum dies dabit.</p>
+  <p>Senatores.</p>
+  <p>(700) Pericla mortis sola tristia sunt satis</p>
+  <p>In <hi rend="italic">Rege</hi> tanto. Precibus hic
+  tamen est locus,</p>
+  <p>Dum vita superest. Mors inoxorabilis.</p>
+  <p>Sed fare, <hi rend="italic">Regis</hi> vulneri quid
+  attulit</p>
+  <p>Occasionem? Quis rei gestae modus?</p>
+  <p><milestone unit="folio" n="40"/> Quandoque nosse tristia in solidum iuvat.</p>
+  <p>Nuntius.</p>
+  <p>Est in Borussis, <hi rend="italic">Gedano</hi> haud
+  procul, <hi rend="italic">Insula</hi>,</p>
+  <p>Quae dicta Minor aut Gedani de nomine;</p>
+  <p>In cuius oris extimis, qua Vistula</p>
+  <p>Secatur, Hostis terream magna manu</p>
+  <p>(800) Molem, incubantem flumini, congesserat</p>
+  <p>Damna inferentem Suedico munimini,</p>
+  <p>Adversa in ora fluminis quod fecerat</p>
+  <p><hi rend="italic">Flamingus</hi> (hoc
+  <hi rend="italic">Neringiae</hi> vocant
+  <hi rend="italic">Caput</hi>)</p>
+  <p>Aliaque nostris adferentem incommoda.</p>
+  <p>(805) Hac gnavus hostem sede pellendum ratus</p>
+  <p>Tentare Martem hic <hi rend="italic">Rex</hi>, spei
+  plenus, iubet.</p>
+  <p>Maiorem in Insulam evocato militi</p>
+  <p>Cymbas adornat, Vistulam queis remiges</p>
+  <p>Superent et oram molis hostilis petant,</p>
+  <p><pb n="70"/></p>
+  <p>(810) Paulum fugata nocte, quo sit tutior</p>
+  <p>Traiectum amnis. Hinc repente improvidum</p>
+  <p>Invadere hostem statuit. Ordine dividit</p>
+  <p>Operum labores. Fulminante dextera</p>
+  <p>Certare suetis impetus primus datur.</p>
+  <p>(815) Ductare iussi hos
+  <hi rend="italic">Turnius</hi>,
+  <hi rend="italic">Bannerius</hi>,</p>
+  <p>Mox adiuvandi <hi rend="italic">Regis</hi> ipsius
+  manu,</p>
+  <p>Stipantibus queis usus est hostilium.</p>
+  <p>Rates maniplis singulis dantur suae.</p>
+  <p>Agenda discunt singuli: qui progredi,</p>
+  <p><milestone unit="folio" n="41"/> Qui stare in armis fas sit, alterius ope</p>
+  <p>Ut roborandus alter. Omnes edocet</p>
+  <p><hi rend="italic">Rex</hi> ipse, doctor Martis et
+  ductor simul.</p>
+  <p>Regis secutae iussa si turmae forent,</p>
+  <p>Humana quantum ratio dictat, ilicet</p>
+  <p>(825) Hostem fugassent pristino exanimem metu,</p>
+  <p>Multa potitae fulminante machina.</p>
+  <p>Ast mente laeva, forte missa caelitus</p>
+  <p>Turbatus ordo (causa adhuc mali latet)</p>
+  <p>Ripam <hi rend="italic">Duvaldus</hi> unus hostilem
+  tenet</p>
+  <p>(830) Tranante puppe. Ceteri aut latentia</p>
+  <p>In brevia rapti aut impediti mutuis</p>
+  <p>Haesere remoris. Pars supina navigans</p>
+  <p>Iniussa, qua non debuit, propere nimis</p>
+  <p>Hosti appropinquat, fluminis vi percita,</p>
+  <p>(835) Ictusque patitur glandium ac sero sapit</p>
+  <p>Ad alia tendens. Gnaviter monent Duces,</p>
+  <p>Ut corrigant errata, iustum in ordinem</p>
+  <p>Redeant; minantur, increpant, docent, rogant.</p>
+  <p>Urgendo perstat sedulus
+  <hi rend="italic">Bannerius</hi>.</p>
+  <p>(840) Sed praepeditus glandis ictu
+  <hi rend="italic">Turnius</hi></p>
+  <p>Medio fatiscit opere, non tam vulnere</p>
+  <p>Fractus cruento quam vicem Sueonum dolens,</p>
+  <p>Ut exterorum nemini cedit fide</p>
+  <p>Regisque amore. <hi rend="italic">Rex</hi> ubi ista
+  percipit,</p>
+  <p>(845) Dolore et ira totus intus aestuans</p>
+  <p><milestone unit="folio" n="42"/> Aegerque curis ipse palantes petit</p>
+  <p>Leviore vectus cymba aditque singulos.</p>
+  <p><pb n="71"/></p>
+  <p>Altum dolorem corde providus premens</p>
+  <p>Timore fractis robur addere satagit</p>
+  <p>(850) Verbis amicis. ’Error est, socii, levis,</p>
+  <p>Corrigere facilis’, inquit. ’Hac me remigem</p>
+  <p>Sequatur ille, qui decus vitamque amat</p>
+  <p>Patriaeque aolumen. Hostis hactenus fugax</p>
+  <p>Nunc terga vestra perforabit eminus?</p>
+  <p>Qua tendo, ripam petite mecum et comminus</p>
+  <p>Nudate vultus, ferre quos nunquam potis!</p>
+  <p>Fugiet repente et praeda moles haec erit.’</p>
+  <p>Vox nota cunctis pellit extemplo metum</p>
+  <p>Phoeboque iam surgente vultus agnitus</p>
+  <p>(860) <hi rend="italic">Regis</hi> serenus,
+  attamen Martem exprimens.</p>
+  <p>Redintegrari tota iam res occipit,</p>
+  <p>Dum iussa quisque peragit: Hi fluctus domant</p>
+  <p>Verbere iterato saepius, retrahunt rates</p>
+  <p>Errore lapsas. Arma ceteri manu</p>
+  <p>(865) Versare gaudent. Litus optat quilibet</p>
+  <p>Videre destinatum et impatiens morae</p>
+  <p>Hostilem in agrum fervide saltum parat.</p>
+  <p>Cum mox (dolorem duplico vulnus refricans)</p>
+  <p>Ratis inopinum transvolat plumbum latus</p>
+  <p>(870) Et ventris imas regii partes ferit.</p>
+  <p>Percellitur <hi rend="italic">Rex</hi> vulnere, hominem
+  sentiens</p>
+  <p>Et ad supernam praeparans se regiam:</p>
+  <p><milestone unit="folio" n="43"/> ’Ah, Domine, nostra qui tulisti vulnera,</p>
+  <p>Miserere saucii!’ inquit. Et mox militem</p>
+  <p>(875) Revocat frementem. Rebus adeo turbidis</p>
+  <p>Et sorte iniqua vult quiesci, occasio</p>
+  <p>Rebus gerendis donec opportunior.</p>
+  <p>Heu quantus animos omnium invasit dolor!</p>
+  <p>Quis gemitus et quis planctus! Insolitae viris</p>
+  <p>(880) Lacrimae cadunt per ora. Pars luctu stupet,</p>
+  <p>Pars ardet animo vindicare sanguinem</p>
+  <p>Tanti parentis. Mussitant Proceres, gemunt</p>
+  <p>Quatiuntque capita. Ceteris spem suggerunt</p>
+  <p>Ipsi carentes forsitan, pleni metu.</p>
+  <p><pb n="72"/></p>
+  <p>Senator.</p>
+  <p>(885) Malo boni qui non movetur Principis,</p>
+  <p>Meruit iniquum. Maxime Proceres decet</p>
+  <p>Timor. Timenda tuta cuncta providis.</p>
+  <p>Quanto magis tam tristia! Interea spei</p>
+  <p>Quantum relietum, tantum et in malo est boni.</p>
+  <p>(890) Et nos superstes vita speremus iubet.</p>
+  <p>Sed vota mox mandare fas est publica,</p>
+  <p><hi rend="italic">Regem</hi> misertus sospitem ut
+  reddat Deus.</p>
+  <p>Diem querelis absque votis ducere</p>
+  <p>Haud fert medelam. Sed iuvare qui potis,</p>
+  <p>(895) Votis benigne se Deus cogi sinit.</p>
+  <p>Et Regiae iam coningis solamine</p>
+  <p>Firmandus animus. Utinam et hic vinci velit</p>
+  <p>Servetque iustus quamlibet dolor malum!</p>
+  <p><hi rend="bold"><milestone unit="folio" n="44"/> Chorus Matrum
+  nobilium</hi></p>
+  <p>Troiam cum peteret Dulichius rate,</p>
+  <p>(900) Absentem doluit Penelope virum.</p>
+  <p>Aleiden doluit Megara coniugem,</p>
+  <p>Tunc cum praecipites ibat ad inferos,</p>
+  <p>Quamvis victor ovans Tartara subdidit.</p>
+  <p>Nos nostros pelagi mille periculis</p>
+  <p>(905) Et Martis toties expositos malis</p>
+  <p>Heu, semper querimur, proficimus parum.</p>
+  <p>Absentes lacrimis prosequimur licet</p>
+  <p>Et totus rapitur pectore spiritus,</p>
+  <p>Vix unquam reditus accelerant suos.</p>
+  <p>(910) Semper coniugibus publica praevalent.</p>
+  <p>Vinctos compedibus laudis amor tenet,</p>
+  <p>Aeternum stolide pollicitus sibi,</p>
+  <p>Phoebus perpetuum cum videat nihil.</p>
+  <p>Vitam qui moriens longius extrahi;</p>
+  <p>(915) Longaevis hominum laudibus aestimat,</p>
+  <p>Istas sera etiam quando rapit dies,</p>
+  <p>Delusus specie bis moritur miser.</p>
+  <p>Verum qui didicit caelituum decus</p>
+  <p>Et vitam satagit vivere caelicam,</p>
+  <p><pb n="73"/></p>
+  <p>(920) Huic nec vita perit nec decus interit.</p>
+  <p>Raro sed nimium talia cogitans</p>
+  <p>Frustra saepe perit Martius impetus</p>
+  <p>Nec merces sequitur digna periculis.</p>
+  <p><milestone unit="folio" n="45"/> Felix, o, nimium rustica Caria,</p>
+  <p>(925) Dilecto assidue quae potitur Nilo,</p>
+  <p>Cum quo tuta domi dulce canit melos,</p>
+  <p>Nunc summo residens culmine rupium,</p>
+  <p>Nunc valle umbrifera, nunc viridi prato.</p>
+  <p>Somnum dat Zephyro suave sonans nemus,</p>
+  <p>(930) Dant et decidui murmura rivuli.</p>
+  <p>Nec Martem metuit nec pelagi minas.</p>
+  <p>Nos semper pavidas exanimat metus.</p>
+  <p>Si quos ire vias irremeabiles</p>
+  <p>Audimus, trepidans quaeque timet sibi.</p>
+  <p>(935) Privatis aliud triste doloribus</p>
+  <p>Ne maius veniat, haud metus est levis.</p>
+  <p>Ipsis haud solitus parcere regibus</p>
+  <p><hi rend="italic">Regem</hi> ne perimat Mars, misere
+  timet</p>
+  <p><hi rend="italic">Regina</hi>, ah, perhibens vulnere
+  saucium.</p>
+  <p>(940) Hoc si verus Amor nuntius attulit,</p>
+  <p>Heu, commune malum et pernicies adest.</p>
+  <p>Qui nos tam variis excruciat modis,</p>
+  <p>Martem pro meritis odimus, odimus.</p>
+  <p>Vindiecam tenerae despiciat manus,</p>
+  <p>(945) Linguae femineae spicula sentiet.</p>
+  <p>Martem caelicolam qui statuit deum,</p>
+  <p>Mentitur. Stygius nil nisi carnifex,</p>
+  <p>Dignus, Tartareo qui lateat specu</p>
+  <p>Et poenis rigidum sentiat Aeacum.</p>
+</div>
+<div type="level1" xml:id="folio46-actus-quartus.">
+  <head><milestone unit="folio" n="46"/> Actus quartus.</head>
+  <p>[IV, 1] Franciscus Bernardus comes Turnensis. Ioannes Bannerius.
+  Axelius Oxenstern.</p>
+  <p>Turnius. [vgl. Turnus uit Aeneis]</p>
+  <p>(950) Tutatus aras patrias dudum et focos</p>
+  <p>Haud vulnus unquam pertuli. Fors sanguine</p>
+  <p>Indigna nostro degener Germania,</p>
+  <p><pb n="74"/></p>
+  <p>Magis Lavernae militare plurimum</p>
+  <p>Bacchoque doota, Marte quam prisco potens.</p>
+  <p>(955) Dignus cruore <hi rend="italic">Turnii</hi>,
+  qui Turnio</p>
+  <p>Cunctisque maior sceptra
+  <hi rend="italic">Suedorum</hi> gerit.</p>
+  <p>Germania istum si tulisset Principem,</p>
+  <p>Nunc misera sors quanto foret beatior!</p>
+  <p>Pro Rege tanto vulnus hoc tandem fero.</p>
+  <p>(960) Fero lubens. Fudisse sanguinem parum est.</p>
+  <p>Hunc, <hi rend="italic">Rege</hi> salvo, spiritum
+  lubens darem.</p>
+  <p>Nunc intus animum sauciat multo magis</p>
+  <p><hi rend="italic">Rex</hi> vulneratus. Horreo,
+  indignor, fremo</p>
+  <p>Ipsique honesto vulneri irascor meo,</p>
+  <p>(965) Vindicta quo tam iusta nunc patitur moram,</p>
+  <p>Vindicta magnis dulce solamen malis</p>
+  <p>Solamen unum hoc rebus hisce tristibus,</p>
+  <p>Gnava quod Aesculapiorum indagine</p>
+  <p>Illaesa <hi rend="italic">Regis</hi> esse constat
+  ilia.</p>
+  <p><milestone unit="folio" n="47"/> Haerere glandem ventris in pinguedine,</p>
+  <p>Pertusa postquam fregit impetum ratis.</p>
+  <p>Vitae ac salutis spem dat iste nuntius,</p>
+  <p>Nobis medelam. Sentio vires novas,</p>
+  <p>Nec detineri lectulo amplius queo.</p>
+  <p>(975) Videre <hi rend="italic">Regem</hi> gestio,
+  ut sim certior.</p>
+  <p>Ah, <hi rend="italic">Rege</hi> salvo salva cuncta, et
+  Turnii</p>
+  <p>Vel saucii vindicta posoetur manu.</p>
+  <p>Sed iunctus, en, <hi rend="italic">Bannerio
+  Oxensternius</hi>.</p>
+  <p>Occasio opportuna vindictae haec erit.</p>
+  <p>Bannerius.</p>
+  <p>(980) Diomedis ictu saucia olim Cypria</p>
+  <p>Et Mars adulter vindicare sanguinem</p>
+  <p>Haud destitere. Nos inulti cernimus</p>
+  <p>Lacerum, cruentum, sanguini immersum suo</p>
+  <p>Martem pudicum, providum, fortem, pium,</p>
+  <p>(955) Patriae parentem. Proh pudor! Quo vindices</p>
+  <p>Abiere curae? Quis manus torpor tenet?</p>
+  <p>Ubi gratus animus? Vis ubi iam pristina?</p>
+  <p>Tantumne rebus prosperis fortes sumus?</p>
+  <p><pb n="75"/></p>
+  <p>Ah, urit animum iustus, o, nimium dolor.</p>
+  <p>(990) Puero doloris causa non levis fuit,</p>
+  <p>Nimis fidelem cum <hi rend="italic">Sigismundi</hi>
+  fides</p>
+  <p>Victoris irae tradidit quondam patrem</p>
+  <p>Miserosque natos sprevit ingratum caput.</p>
+  <p>Magni parentis nunc magis doleo vicem,</p>
+  <p>(995) Nostris misertus aequius qui patriam</p>
+  <p><milestone unit="folio" n="48"/> Decusque tanto reddidit cum faenore.</p>
+  <p>Doleo. Dolebo, donec immane, impium</p>
+  <p>Ultrice dextera expiavero scelus.</p>
+  <p>Turnius.</p>
+  <p>Iustus dolor, vindicta iusta est. Sanguinis</p>
+  <p>(1000) Reliquum omne fundam, Regius ne sit cruor</p>
+  <p>Nobis inultus.</p>
+  <p>Oxenstern.</p>
+  <p>Si quis istos dixerit</p>
+  <p>Haud laude dignos pectoris magni impetus,</p>
+  <p>Fuerit iniquas. Attamen </p>
+  <p>Bannerius.</p>
+  <p>Laudabilis</p>
+  <p>Cur ardor impeditus ergo? Abrumpere</p>
+  <p>(1005) Cur coepta miles
+  <hi rend="italic">Rege</hi> iussus saucio?</p>
+  <p>Oxenstern.</p>
+  <p>Laudandus animus gratus ac fortis; tamen</p>
+  <p>Moderandus ardor mente semper provida.</p>
+  <p>Saepe ultor esse qui cupit, adauget malum.</p>
+  <p>Dum laedere alios tentat, ipse laeditur.</p>
+  <p>Bannerius.</p>
+  <p>(1010) Laedar, perimar, hostis modo scelus luat.</p>
+  <p>Communis hosti casus haud fortem gravat.</p>
+  <p>Oxenstern.</p>
+  <p>Sperare quisquis desiit, sic indicat.</p>
+  <p>Conandum, ut hostis stantibus nobis cadat.</p>
+  <p>Sed ultor hoste stante si detur neci</p>
+  <p>(1015) Sociosque secum victus ad casum trahat,</p>
+  <p><pb n="76"/></p>
+  <p>An non triumphus maior hinc hosti venit,</p>
+  <p>Probrum cadenti vindici maius? Quis hoc,</p>
+  <p>Obtingere aliis quod solet, nobis neget</p>
+  <p>Accidere posse?</p>
+  <p>Bannerius.</p>
+  <p>Fortis ira militis</p>
+  <p>(1020) Iam concitata spem dabat vietoriae.</p>
+  <p><milestone unit="folio" n="49"/> Oxenstern.</p>
+  <p>Spes saepe fallit. Nec deest spes hostibus,</p>
+  <p>Idem nec ardor omnibus nostris erat.</p>
+  <p>Robur dolore crescit his, illis metus.</p>
+  <p>Tentanda sors ambigua nimium non fuit,</p>
+  <p>(1025) Iussisque <hi rend="italic">Regis</hi>
+  paruisse praestitit.</p>
+  <p>Turnius.</p>
+  <p>Mandare, quae Rex salvus ac sanus solet,</p>
+  <p>Haud neglegenda fateor. Interim potest</p>
+  <p>Incidere causa, innoxie cur neglegat</p>
+  <p>Servus fidelis iussa. Cum mentem rapit</p>
+  <p>(1030) Febrilis ardor, morbus aut alius ferit</p>
+  <p>Cerebrum iubentis, noxium crebro foret</p>
+  <p>Parere iussis. <hi rend="italic">Rex</hi> nefando
+  vulnere</p>
+  <p>Turbatus animo, regna caeli cogitans,</p>
+  <p>Terrena linquens arma, si quid viderit,</p>
+  <p>(1035) Quam vidit ante, obscurius, caligine</p>
+  <p>Doloris impeditus, haud fuerit nefas</p>
+  <p>Probrumque <hi rend="italic">Regi</hi>. Nee nefas
+  ductoribus</p>
+  <p>Forsan fuisset sponte sectari bonum</p>
+  <p>Mandata tamquam regia ignorantibus.</p>
+  <p>Oxenstern.</p>
+  <p>(1040) Incerta nimium commoda haud bona aestimo</p>
+  <p>Emenda tot periculis. Sat perspicax</p>
+  <p>Dolore medio <hi rend="italic">Rex</hi> fuit. Nec
+  expedit</p>
+  <p>Obsequia temere denegare regibus.</p>
+  <p>Speciosa quamvis ratio, publico nocet,</p>
+  <p>(1045) Malisque coeptis facile nimium assuescimus.</p>
+  <p>Differtur interim, haud negatur ultio.</p>
+  <p><pb n="77"/></p>
+  <p>D t50] Nee defutura occasio, qua sentiat</p>
+  <p>Scelere superbus hostis utrices manus. </p>
+  <p>Cubile nunc ad regium fas progredi.</p>
+  <p>(1050) Solamen aeger ipse
+  <hi rend="italic">Rex</hi> ac spem dabit.</p>
+  <p>[IV, 2][IV, 2] Gustavus Adolphus. Axelius Oxenstern. Franciscus
+  Bernardus comes Turnensis. Ioannes Bannerius. Nuntius. Chorus Procerum
+  belli.</p>
+  <p>Gustavus.</p>
+  <p>Adeste, Proceres, fida gens, grati hospites!</p>
+  <p>Alloquia vestra ferre iam vires sinunt</p>
+  <p>Et ipse fari perfero. Dolor est minor,</p>
+  <p>Minus periclum, quam fuit visum prius.</p>
+  <p>(1055) Grates supremo Numini persolvite,</p>
+  <p>Agnoscere hominem quod benigne nos docet</p>
+  <p>Miseroque parcit supplici! Ah, regum decus,</p>
+  <p>Sublimis animus, corporis vires, opes,</p>
+  <p>Duces periti, miles acer, obsequens</p>
+  <p>(1060) Ac totus orbis quid nisi umbra pulveris?</p>
+  <p>Consilia magna, sacpius quae maximis</p>
+  <p>Agitantur animis, quam levis res impedit!</p>
+  <p>Conamen ingens, quamlibet bonum, tamen</p>
+  <p>Summo haud volente Rege, successu caret.</p>
+  <p>(1065) Vult semper orbis rector ille, quod bonum,</p>
+  <p>Bonum petenti non tamen dat quodlibet;</p>
+  <p><milestone unit="folio" n="51"/> Ius eligendi servat, ut fas est, sibi.</p>
+  <p>Bonis dat interim, quod expedit magis.</p>
+  <p>Seu laeta sint haec dona sive tristia,</p>
+  <p>(1070) Suffieere debet; quod bona esse indicat,</p>
+  <p>Et expedire, qui unus in solidum sapit.</p>
+  <p>Hinc aequa mens ut acquiescat tristibus</p>
+  <p>Summoque regi obsequia praestet, discite</p>
+  <p>Mecum, nec animum casus hic frangat nimis.</p>
+  <p>(1075) Sors aequa cunctis, semper haud laetis frui</p>
+  <p>Nec expediret. Facile nimium prosperis</p>
+  <p>Mens intumescit immemor Dei ac sui.</p>
+  <p>Facile secundis incitati Principes</p>
+  <p>Excutere summi Numinis tentant iugum.</p>
+  <p><pb n="78"/></p>
+  <p>(1080) Unde ira caeli, regna plena cladibus</p>
+  <p>Solioque reges ssepe depulsi iacent,</p>
+  <p>Cum iure socium ferre Rex summus neget.</p>
+  <p>Optanda sunt quandoque tristia regibus,</p>
+  <p>Quibus monentur commodo quam maximo.</p>
+  <p>Oxenstern.</p>
+  <p>(1085) Audire videor, provida quae Macedo</p>
+  <p>Rebus secundis mente poscebat deos,</p>
+  <p>Ut temperandis, quae ferebantur, bonis</p>
+  <p>Triste aliquid, animo ne efferatur, adderent.</p>
+  <p>Gratamur istud, magne <hi rend="italic">Rex</hi>, etiam
+  tibi</p>
+  <p>(1090) Moderamen animi (rege quam dignum!) datum,</p>
+  <p>Pietate natum, regibus rara, decus.</p>
+  <p>Sperare virtus optima haec Regno iubet.</p>
+  <p><milestone unit="folio" n="52"/> Gustavus.</p>
+  <p>Pietate spreta nemo sceptro dignus est.</p>
+  <p>Parere populos quisquis optat sibi,</p>
+  <p>(1095) Obsequia regum maximo praestet prior.</p>
+  <p>Ni faciat, animos qui regit mortalium,</p>
+  <p>Hunc sibi profanus iure metuendum putet</p>
+  <p>Deum haud amandum ne sit exosus suis</p>
+  <p>Aliisque et hostis impium regno exuat.</p>
+  <p>(1100) Solamen adfert sola Pietas. Cetera,</p>
+  <p>Quae leniendis saepe dicuntur malis,</p>
+  <p>Inania omnia, ficta tantum insomnia,</p>
+  <p>Solis piis adversa cedunt in bonum,</p>
+  <p>Et tristia et secunda perdunt impios.</p>
+  <p>(1105) His pectus armis roborari regium</p>
+  <p>Procerumque fas est. Verus hoe scutum ferat</p>
+  <p>Bellator, alias perditus sicarius</p>
+  <p>Aut carnifex infamis. Haec et vulnerum</p>
+  <p>Medela vera ceterisque certior,</p>
+  <p>(1110) Vitam vel ipsa morte donans saucius.</p>
+  <p>Hanc tanta vobis adferentem oommoda</p>
+  <p>Commendo, Proceres. Tuque, Regis aemule</p>
+  <p>Cruore fuso, sentias fractum precor,</p>
+  <p>Magnanime <hi rend="italic">Turni</hi>, Patriae et
+  nostrum decus.</p>
+  <p><pb n="79"/></p>
+  <p>Turnius.</p>
+  <p>(1115) Cruore nostro, magne Rex, si regium</p>
+  <p>Redimere fas fuisset, ut reliquum lubens</p>
+  <p>Fudissem! Ut animam hanc laetus etiamnum darem!</p>
+  <p><milestone unit="folio" n="53"/> Nunc quod negarunt Fata servando, tamen</p>
+  <p>Hoc vindicando sanguini, spero, dabunt.</p>
+  <p>(1120) Et nostra pietas, debita haud tantum Deo,</p>
+  <p>Sed regio etiam vulneri probabitur.</p>
+  <p>Bannerius.</p>
+  <p>Mens illa cunctis, fervor idem. Durior</p>
+  <p>Est morte nobis ultionis haec mora.</p>
+  <p>Gustavus.</p>
+  <p>Speciosus ardor dexterae ultricis. Tamen</p>
+  <p>(1125) Examinandus provide, quam sit pius</p>
+  <p>Et temporatus acquitate. Regium</p>
+  <p>Qui destinato sanguinem conamine</p>
+  <p>Profundit, unctum Numinis cum vulnerat,</p>
+  <p>Ipsum ferire Numen aestimandus est</p>
+  <p>(1130) Poenisque dignus. Agmine ast medio hostium</p>
+  <p>Improvidus si forte quis Regem ferit,</p>
+  <p>Veniam meretur. Nec nefas ob unius</p>
+  <p>Saevire temere in plurimos fas aestimo.</p>
+  <p>Fors aequiores plurimi factum haud probant.</p>
+  <p>(1135) Fors noster etiam fervor haud culpa vacat,</p>
+  <p>Humanus optimis ut error obrepit.</p>
+  <p>Satius supernam mihi monelam agnoscere</p>
+  <p>Quam vindicando provocare vindicem.</p>
+  <p>Depellat hostem, regna tutetur manu</p>
+  <p>Miles. Sat est. Crudele nil patret volo.</p>
+  <p>Vindicta saeva vindicem poscit Deum,</p>
+  <p>Ut victus ultor Numine irato cadat.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>En nuntius, <hi rend="italic">Rex</hi> magne,
+  <hi rend="italic">Brunsberga</hi> venit</p>
+  <p><milestone unit="folio" n="54"/> Hostile referens agmen urbi proximum.</p>
+  <p>Nuntius.</p>
+  <p>(1145) Mihi visa refero et litteras testes fero.</p>
+  <p>Ductore cingunt moenia
+  <hi rend="italic">Casanovio</hi></p>
+  <p><pb n="80"/></p>
+  <p>Turmae <hi rend="italic">Polonae</hi>. Maximos animos
+  gerunt</p>
+  <p>Dudum fugaces; utque nostris sit metus,</p>
+  <p><hi rend="italic">Regem</hi> peremptum clamitant ceu
+  Stentores</p>
+  <p>(1150) Et iam triumphos spe oanunt victoriae.</p>
+  <p>Sollicita nostros cura <hi rend="italic">Regis</hi>
+  occupat.</p>
+  <p>Gustavus.</p>
+  <p>Credenda narras. Ihcet nostris refer,</p>
+  <p>Quae cernis oculis! Vindicem mox adfore</p>
+  <p>Promitte Regem saucium, sed militis</p>
+  <p>(1155) Cui cura fidi robur infundit novum!</p>
+  <p>Hosti fugando vindices nunc dexterae</p>
+  <p>Optata peragant, quo tamen iussi, modo.</p>
+  <p>Pars castra peditum subdita
+  <hi rend="italic">Oxensternio</hi></p>
+  <p>Tutetur. Hostem ceteri mecum petant</p>
+  <p>(1160) Equitumque turmae. Huc indumenta seduli</p>
+  <p>Portate, famuli, atque arma! Gressu huc commodus</p>
+  <p>Ducatur equos! Haud ulla sit rebus mora!</p>
+  <p>Oxenstern.</p>
+  <p>Per Regna fida Regiaeque Coniugis</p>
+  <p>Nostrosque gemitus oro, <hi rend="italic">Rex</hi>
+  magne, impetum</p>
+  <p>(1165) Compesee tandem! Saucio saltem quies</p>
+  <p>Donetur aliqua. Numen haud tenta amplius!</p>
+  <p>Aut peris et omnes tecum ad interitum rapis.</p>
+  <p>Gustavus.</p>
+  <p>Equo vehi duetore Martis dignius</p>
+  <p>Quam lectulo cubare. Grata haec est quies.</p>
+  <p>(1170) Quae grata menti, sanitatem promovent.</p>
+  <p><milestone unit="folio" n="55"/> Tentare Numen an sit hoc, quod molior,</p>
+  <p>Examinetur, cum per hostem tutum erit.</p>
+  <p>Non verba nunc, sed arma tempus exigit.</p>
+  <p>Utrimque Numen invocetur interim,</p>
+  <p>(1175) Vietoria aut beemur aut pulchra nece.</p>
+  <p>Properate cuncti ad iussa! Quid cessant tubae?</p>
+  <p>Turmae sonoris quin vocantur tympanis?</p>
+  <p>Oxenstern.</p>
+  <p>Ut aeger animo linquo <hi rend="italic">Regem</hi>
+  saucium</p>
+  <p>Plenusque curis! Spiritum exhaurit dolor.</p>
+  <p><pb n="81"/></p>
+  <p>(1180) Tali beatos <hi rend="italic">Rege</hi> nos
+  hostes vocant,</p>
+  <p>Suoque spreto optant sibi talem dari.</p>
+  <p>Interea miseros saepe nos metu facit</p>
+  <p>Haec fortitudo regia. Ah, quam lubrica</p>
+  <p>Est ipsa virtus! Facile blanditur sibi</p>
+  <p>(1185) Laudata multum et tempore minus provida</p>
+  <p>Suique amore caeca transit in malum,</p>
+  <p>Repente vili molliter capitur dolo.</p>
+  <p><hi rend="bold">Chorus Procerum belli.</hi></p>
+  <p>Haud fert lubens habenas</p>
+  <p>Generosior caballus.</p>
+  <p>(1190) Multo aegrius domatur</p>
+  <p>Grege viliore frenis.</p>
+  <p>Et robore insoleseens</p>
+  <p>Ac cursibus citatis,</p>
+  <p>Dum libere vagari</p>
+  <p>(1195) Per cuncta laetus ardet,</p>
+  <p>Pericla cuncta spernens</p>
+  <p><milestone unit="folio" n="66"/> Crebro perit periclis.</p>
+  <p>Mens alta sic potentum</p>
+  <p>Vix flectitur monelis;</p>
+  <p>(1200) Ratione docta quamvis,</p>
+  <p>Aegre impetum coercet.</p>
+  <p>Vis illa celsa <hi rend="italic">Regis</hi></p>
+  <p>Utinam velit domari</p>
+  <p>Precibus sibique parcat,</p>
+  <p>(1205) Nobis pericla linquens</p>
+  <p>Regni minore damno!</p>
+  <p>At talibus videtur</p>
+  <p>Usque irrito labore</p>
+  <p>Vix spes adesse votis.</p>
+  <p>(1210) Nil undique est beatum,</p>
+  <p>Iniquiora crebro</p>
+  <p>A regibus ferenda.</p>
+  <p>Nobis et hic feratur</p>
+  <p>Nimium fidelis ardor.</p>
+  <p>(1215) <hi rend="italic">Regem</hi> sed
+  aemulantes</p>
+  <p><pb n="82"/></p>
+  <p>Media inter arma Regis</p>
+  <p>Certabimus fideli</p>
+  <p>Ac pertinaci amore.</p>
+</div>
+<div type="level1" xml:id="actus-quintus.">
+  <head>Actus quintus.</head>
+  <p>[V,1] Axelius Oxenstern.</p>
+  <p>Miranda sors mortalibus crebro venit,</p>
+  <p>(1220) Inopina portans plurimum. Cum tristia</p>
+  <p><milestone unit="folio" n="57"/> Visa est minari, laeta donat. Blandior</p>
+  <p>Cum vultus, ingens fallit incautos malum.</p>
+  <p>Acerba cuncta <hi rend="italic">Rege</hi> metui
+  saucio,</p>
+  <p>Et displicebat saucii, fateor, calor,</p>
+  <p>(1225) Frusta indumenti cuius audio vulnere</p>
+  <p>Prodisse, postquam victor hostem depulit</p>
+  <p><hi rend="italic">Brunsberga</hi>. At omnia laetiora
+  accepimus.</p>
+  <p><hi rend="italic">Brunsberga</hi> vindicata. Turpiter
+  fugax</p>
+  <p>Hostilis acies <hi rend="italic">Regis</hi> haud vultum
+  fuit,</p>
+  <p>(1230) Superstitis perculsa solo nuntio</p>
+  <p>Et iam propinqui. Perfidi poenis scelus</p>
+  <p>Luere cives, patriam qui prodere</p>
+  <p>Conati et hostis advocaverant manum,</p>
+  <p>Papale, scelere dignum, ut obtineant sacrum.</p>
+  <p>(1235) <hi rend="italic">Gedani</hi> illa moles,
+  Regii auctor vulneris,</p>
+  <p>Parere <hi rend="italic">Regi</hi> iam coacta,
+  nausea</p>
+  <p>Evomuit uno <hi rend="italic">Regis</hi> ictu
+  nobiles,</p>
+  <p>Quem casus, haud imbellium virtus dedit.</p>
+  <p>Pavefacta solo fulmine aeris eminus</p>
+  <p>(1240) Ignava turba gloriari desiit.</p>
+  <p>Bis sena fugiens aera magni ponderis</p>
+  <p>Liquit triumpho <hi rend="italic">Lisemannus</hi>
+  regio.</p>
+  <p>Captosque <hi rend="italic">Tisenhusium</hi> ac
+  <hi rend="italic">Doenhovium</hi></p>
+  <p><hi rend="italic">Astonque</hi>, fidos Sarmatae regis
+  duces</p>
+  <p>(1245) Aliosque centum quinquies prensos fuga.</p>
+  <p>Centena prope ter caesi Regi victima</p>
+  <p><milestone unit="folio" n="58"/> Sceleri expiando verberante tergora</p>
+  <p>Mavortis ira. Luce eadem
+  <hi rend="italic">Lesseli</hi></p>
+  <p><hi rend="italic">Totti</hi>que virtus attuit nobis
+  decus</p>
+  <p><pb n="83"/></p>
+  <p>(1250) Hostique maculam, Vistulae cunctis vadis</p>
+  <p>Haud eluendam. Forte cum turmis decem</p>
+  <p>Tribusque cincta Gedanorum in Insula</p>
+  <p>Centum decemque quinquies equitum cohors,</p>
+  <p>Pedites ducenti, fortiter facto impetu</p>
+  <p>(1255) Aciem Poloni rumpere ausi et exitum</p>
+  <p>Parare dextra, strage magna, equitum prope</p>
+  <p>Aequante numerum, uno suorum hostilibus</p>
+  <p>Cadente telis. Quattuor aquilas, indices</p>
+  <p>Victoriae, victori ad evictum aggerem</p>
+  <p>(1260) Tulere <hi rend="italic">Regi</hi>. Superat
+  haec multis modis</p>
+  <p>Hesterna felix quod dedit nobis dies,</p>
+  <p>Felicior, si longior. Toto agmine,</p>
+  <p><hi rend="italic">Dirsavia</hi> spectante, totis
+  viribus</p>
+  <p>Pugnavit hostis, clade tandem maxima</p>
+  <p>(1265) Totus fugatus. Regio conamini</p>
+  <p>Ni facta remora noctis instantis motu,</p>
+  <p>Iam pulsus omnis protinus castris foret.</p>
+  <p>Victoriam nunc prosequi <hi rend="italic">Regi</hi>
+  placet.</p>
+  <p>Servanda mihi <hi rend="italic">Dirsavia</hi>. Hic
+  etiam dies</p>
+  <p>(1270) Felicia an daturus, ille dixerit,</p>
+  <p>Qui cuncta novit. Magna sperat quilibet,</p>
+  <p>Nec ratio dictat aliud. Attamen metus</p>
+  <p><milestone unit="folio" n="59"/> Haud spe mihi minor. Error an sit hic meus</p>
+  <p>Praesaga an haee a mente, metuentem latet.</p>
+  <p>(1275) Creseit loquenti terror. Horror occupat</p>
+  <p>Artus timenti Regis ut vulnus prius.</p>
+  <p>Vanum sit omen, vanus horror! Interim</p>
+  <p>Ego blandienti fidere haud Sorti audeo.</p>
+  <p>Fidam fideli Numini et fundam preces,</p>
+  <p>(1280) Ut, quod timesco, avertat a nobis malum.</p>
+  <p>[V,2] Gustavua Adolphus. Ioannes Bannerius. Chorus Procerum
+  belli.</p>
+  <p>Gustavus.</p>
+  <p>Equitum superbus robore hostis hactenus</p>
+  <p>Nostrosque spernens damna iam sensit sua</p>
+  <p>Spretique vires equitis, haud media amplius</p>
+  <p>Manu fugatus, pedite nullo. Quinquies</p>
+  <p><pb n="89"/></p>
+  <p>(1285) Impacta nostris lancea haud damnum tulit.</p>
+  <p>Incursus omnis vanus, acri quamlibet</p>
+  <p>Conamine repetitus ac digno viris.</p>
+  <p>Vix hostis unquam fortior; tandem tamen</p>
+  <p>A fortiore victus et fugae datus.</p>
+  <p>(1290) Fugatus omnis, quantus in castris fuit</p>
+  <p>Nostrisque numero maior, at non robore.</p>
+  <p>Meminerit huius ipse
+  <hi rend="italic">Koniespolskius</hi></p>
+  <p><hi rend="italic">Salkoviusque</hi>, maximi hostium
+  duces,</p>
+  <p><milestone unit="folio" n="60"/> Equis peremptis vix pedum salvi fuga</p>
+  <p>(1295) Alterque non sine vulnere. Hunc signent diem</p>
+  <p>Equitesque post ridere nostros desinant.</p>
+  <p>Ingrata Nox, quae damna viotori dabas,</p>
+  <p>Rupta phalange cum fugacem persequi</p>
+  <p>Hostem vetabas! Alma Lux, meliora da</p>
+  <p>(1300) Et lucis almae rector, arma qui regis!</p>
+  <p>Vincamus aut moriamur. Hodie terminum</p>
+  <p>Constitue belli! Victimam Paci offero</p>
+  <p>Vel me vel Hostem. Da, quod expediet, Pater! [Bolte: Hoftem]</p>
+  <p>Peragenda, proceres, gnaviter quae sors dedit</p>
+  <p>(1305) Coepisse. Trepidans hostis urgendus magis.</p>
+  <p>Pedestris acies iuncta equitibus hostium</p>
+  <p>Ad castra properet, unde prodire abnuit</p>
+  <p>Bellator audax, scilicet fidens fugae.</p>
+  <p>Impune fugiat? Aequius, ut emat fugam</p>
+  <p>(1310) Decimasque solvat sanguinis nobis prius</p>
+  <p>Et opima nostro castra linquat militi.</p>
+  <p>Ut tuta sit fuga, tuta castra, muniit</p>
+  <p>Haec nocte media sedulus ligonibus;</p>
+  <p>Res digna risu visa prius. Aera ocius</p>
+  <p>(1315) Hosti propinquis fulminent ex collibus</p>
+  <p>Et complicatis iam metu tentoriis</p>
+  <p>Dignum Vale dicatur. Alio tu tuos,</p>
+  <p><hi rend="italic">Banneri</hi>, in hostem, qua monebo,
+  ducito.</p>
+  <p>Tutatus hostis castra rivus transitum</p>
+  <p><milestone unit="folio" n="61"/> Dat parte laeva, qua serunt
+  <hi rend="italic">Rakiskii</hi></p>
+  <p>Agros coloni. Miles huic custos datus.</p>
+  <p>Custode pulso ad castra nos ducet via,</p>
+  <p><pb n="85"/></p>
+  <p>Ambagine aliqua, non tamen longa nimis.</p>
+  <p>Hac rumpere aditum fortis aude, qua soles</p>
+  <p>(1325) Virtute, Rigae qua petebas moenia.</p>
+  <p>Ipse ego fidelis adero, monstrabo viam.</p>
+  <p>Bannerius.</p>
+  <p>Nimium fidelis. Iussa perficiam lubens;</p>
+  <p>Lubentius, Rex magne, si parcas tibi.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p><hi rend="italic">Rex</hi> magne, manda, quod voles;
+  parebimus.</p>
+  <p>(1330) Sed ipse tandem sortis humanae memor</p>
+  <p>Monere, quod vel sola glans satis queat</p>
+  <p>Membris inhaerens, regium serva modum!</p>
+  <p>Sat iam ernoris fusum ab Eoste regii.</p>
+  <p><hi rend="italic">Regis Poloni</hi> sanguini cum
+  parcitur,</p>
+  <p>(1335) Te prodigum esse sanguinis parum decet.</p>
+  <p>Gustavus.</p>
+  <p>Regis Poloni scilicet factum sequar</p>
+  <p>Macedone ille maior atque Regulo</p>
+  <p>Aliisque, vitam qui dedere patriae.</p>
+  <p>Ipsi ex Polonis quaerite, hic quid iudicent!</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>(1340) Minora Regno damna sint Polonico</p>
+  <p>Rege interempto; Rex tamen parcit sibi.</p>
+  <p>Gustavuus.</p>
+  <p>Repeto: Ex Polonis quaerite, hic quid indicent!</p>
+  <p>Adsunt rogandi. Disputare qui volet,</p>
+  <p><milestone unit="folio" n="62"/> Hos adeat, argumenta ferrea adferat.</p>
+  <p>(1345) Haud verba nunc, sed verbera hora flagitat.</p>
+  <p>Ad postulata audite tamen hoc, quod satis:</p>
+  <p>(Irata est monela amoris. Huic morem geram.</p>
+  <p>Pericula evitabo, qua fas Regibus.</p>
+  <p>Virtute vos haec vincite, et merces erit</p>
+  <p>(1350) Virtute digna. Gnaviter nunc pergite,</p>
+  <p>Socii! Secundet coepta, qui potest, Deus.</p>
+  <p>Nos ocoupandam ad semitam vehant equi.</p>
+  <p><pb n="86"/></p>
+  <p>[V,3]</p>
+  <p>Axelius Oxenstern. Nuntius.</p>
+  <p>Oxenstern.</p>
+  <p>Turbatus animus anxio ssmper motu</p>
+  <p>Haud contineri uno diu loco potis.</p>
+  <p>(1355) Huc vagor et illuc. Castra nune
+  <hi rend="italic">Dirsaviae</hi></p>
+  <p>Contigua peragro, nunc in urbem pes redit,</p>
+  <p>Egressus urbe nunc sequor <hi rend="italic">Regem</hi>
+  eminus.</p>
+  <p>Comes est ubique vulnerans montem pavor.</p>
+  <p>Fecunda poenis viscera ut Titgi enecat</p>
+  <p>(1360) Semper feralis vultur ille morsibus,</p>
+  <p>Sic mordet animum, vellicat, rodit timor.</p>
+  <p>Quaecunque glans exploditur, mentem ferit,</p>
+  <p>Dum metuo <hi rend="italic">Regi</hi>. Subvenit,
+  pericula</p>
+  <p>Quae nuper adiit <hi rend="italic">Rex</hi> inermis
+  proelio</p>
+  <p>(1365) Minore, capulus ensis quando regii</p>
+  <p>Confractus ictu audacis Hussari, impetu</p>
+  <p>Qui magno adortus, ceteros linquens, caput</p>
+  <p><milestone unit="folio" n="68"/> Regalo et ictu pileo damnum tulit,</p>
+  <p>Galea carente Rege, inermis omnia</p>
+  <p>(1370) Qui peragit unus, foedere icto scilicet</p>
+  <p>Cum Morte, Parcas solus aut terrens minis,</p>
+  <p>Vitae secare fila ne propere audeant.</p>
+  <p>Nune rursum inermis, audio,
+  <hi rend="italic">Rakiskias</hi></p>
+  <p>Vult visere oras. Rarus it <hi rend="italic">Regi</hi>
+  comes</p>
+  <p>(1375) Et tutiore ceteri manent loco,</p>
+  <p>Ut, <hi rend="italic">Rex</hi> quid explorator adforat
+  boni,</p>
+  <p>Discant periclis regiis. Hoc quis probet</p>
+  <p>Nisi <hi rend="italic">Regis</hi> hostis? Mente quis
+  non horreat</p>
+  <p>Tandemque certam <hi rend="italic">Regis</hi> exspectet
+  necem ?</p>
+  <p>Nuntius.</p>
+  <p>(1380) Ah, ah, citato saucium ad
+  <hi rend="italic">Regem</hi> gradu</p>
+  <p>Accurre, Domine! <hi rend="italic">Rex</hi> iubrt,
+  vultus avet</p>
+  <p>Videre Procerum. Metuo, ah, ut videat diu.</p>
+  <p>Oxenstern.</p>
+  <p>Satisne dixi? Saucius, dic, quo modo ?</p>
+  <p><pb n="87"/></p>
+  <p>Nuntius</p>
+  <p>Colle ex propinquo rivuli hostilis loca</p>
+  <p>(1385) Dum perspicillo longiore lustrat, ah,</p>
+  <p>Emissa subito ex valle <hi rend="italic">Regem</hi>
+  glans ferit,</p>
+  <p>Casum minata, fida ni Bannerii</p>
+  <p>Equo levasset commode <hi rend="italic">Regem</hi>
+  manus.</p>
+  <p>Oxenstern.</p>
+  <p>Longinqua spectans saepe noscit, quod prope est.</p>
+  <p>(1390) Qua parte laesus?</p>
+  <p>Nuntius.</p>
+  <p>Impium umeri dextri</p>
+  <p>Excepit ictum pars propinqua gutturi.</p>
+  <p>Vas aliquod ingens sanguinis ruptum indicat</p>
+  <p><milestone unit="folio" n="64"/> Ingens cruoris fluxus. Hic medicorum ope</p>
+  <p>Iam sistitur agris, cum moram haud longam ferat</p>
+  <p>(1395) Ducendi in urbem Regis, ah, quam languidi!</p>
+  <p>Oxenstern.</p>
+  <p>Hic fructus ille Regii tandem impetus.</p>
+  <p>Hoc, Rex, volebas; ardor hoc suasit tuus,</p>
+  <p>Agendo cuncta cuncta simul amittere.</p>
+  <p>Visurus ibo, monte praevisum diu,</p>
+  <p>(1400) <hi rend="italic">Regem</hi> peremptum,
+  Regna nosque perditos.</p>
+  <p>[V, 4] Ioannes Bannerius. Gustavus Adolphus. Chorus Procerum et
+  militum.</p>
+  <p>Axelius Oxenstern. Mercurius.</p>
+  <p>Bannerius.</p>
+  <p>Periere cuncta: sacra, patria, opes, decus</p>
+  <p>Et quidquid usquam dulce. Nil reliquum est boni.</p>
+  <p>Excussa manibus unice victoria</p>
+  <p>Heu, <hi rend="italic">Regis</hi> ictu. Fide nunc
+  magnae spei</p>
+  <p>(1405) Sortique blandae! Ad hostis haec iam castra abit,</p>
+  <p>Nobis reliquit tristia, horrida omnia.</p>
+  <p>Letale vulnus <hi rend="italic">Regis</hi> omnibus
+  feret</p>
+  <p>Letum, dolores, carceres, furcas, rotas</p>
+  <p>Et quidquid Orco iniqua portat ultio</p>
+  <p>(1410) Fucata sacris. Pacis optatae diu</p>
+  <p><pb n="88"/></p>
+  <p><milestone unit="folio" n="65"/> Frustra sequestri venerint
+  <hi rend="italic">Bickerius</hi>,</p>
+  <p><hi rend="italic">Honardus</hi> atque
+  <hi rend="italic">Bellimontus</hi>,
+  <hi rend="italic">Batava</hi></p>
+  <p>A gente missi: Clade nimium turgidus</p>
+  <p>Ista Polonus aut boni primordia</p>
+  <p>(1415) Conaminis negabit aut saltem exitum</p>
+  <p>Desideratum. Nil dabit gratum ferox.</p>
+  <p>Spirabit arma. Flamina addet ac faces</p>
+  <p>Intus Megaeram gens, foris Iesum gerens.</p>
+  <p>Spes aucta fractis robur infundet novam.</p>
+  <p>(1420) Truncata capite Suecia (heu, quam provido,</p>
+  <p>Quam Marte docto) Marte quid dignum dabit?</p>
+  <p>Mille involuta incommodis domi, foris</p>
+  <p>Tandem Polonis praeda, tota concidet.</p>
+  <p>Haec ego superstes videro? Ah, absit nefas.</p>
+  <p>(1425) <hi rend="italic">Gustave</hi>, te cadente
+  fas, et ego ut cadam.</p>
+  <p>Errore magno vulneratum est bracchium.</p>
+  <p>Hoc, hoc petendum cor fuit. Utinam adhuc petat</p>
+  <p>Et mille totum glandibus transverberet</p>
+  <p>Crudelis hostis, gratus at nostra nece! </p>
+  <p>(1430) Iam ductat, ecce, saucium Oxensternius.</p>
+  <p>Heu, triste fido militi spectaculum!</p>
+  <p>Gustavus.</p>
+  <p>Dilecta Procerum et Martiae pubis cohors,</p>
+  <p>Vobis parentem amore Regem agnoscitis,</p>
+  <p><milestone unit="folio" n="66"/> Nee error est. Amore feci patriae</p>
+  <p>(1435) Bonoque vestro, quidquid actum est hactenus</p>
+  <p>Regem fidelem, sedulum me praestiti.</p>
+  <p>Toleranda nunc remora aliqua hoc a vulnere,</p>
+  <p>Patriae atque vestro quod lubens bono fero.</p>
+  <p>Quis sit futurus exitus, dabit dies.</p>
+  <p>(1440) Vos pergite alacres; qui fuistis hactenus,</p>
+  <p>Manete! Patriae nil bono maius peto.</p>
+  <p>Regis fidelis mens memor maneat lubens.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Cruore Regis pectora intus aestuant.</p>
+  <p>Hunc vindicare dextera qui negleget,</p>
+  <p>(1445) Pereat nec unquam Marte felix gaudeat.</p>
+  <p><pb n="89"/></p>
+  <p>Oxenstern.</p>
+  <p>Hac sede membris da quietem languidis,</p>
+  <p>Turba remota paululum, et quae dixero,</p>
+  <p>Ignosce, <hi rend="italic">Rex</hi>, fors durius, iuste
+  tamen!</p>
+  <p>Servare magnus vix potest dolor modum.</p>
+  <p>(1450) Piscator ictus sapit. At idem,
+  <hi rend="italic">Rex</hi>, manes.</p>
+  <p>Frenare qui se nescit, alios qui reget?</p>
+  <p>Haud fidus animus sufficit. Caute omnia</p>
+  <p>Agenda Regi. Neglogens Te neglegis</p>
+  <p>Et Regna nosque et militum fidam manum.</p>
+  <p>(1455) Prodesse dum vis, maxime omnium noces.</p>
+  <p>Nos perdis omnes, hostibus praedam obicis.</p>
+  <p>Spernis monelas Regiaeque Coniugis</p>
+  <p>Suspiria lacrimasque susque deque habes.</p>
+  <p><milestone unit="folio" n="67"/> Toleranda semper Numini haec summo putes?</p>
+  <p>(1460) Ignosce, <hi rend="italic">Rex</hi>, aut
+  dicta mox luam nece,</p>
+  <p>Sint vera quamvis. Nam mori tecum lubet.</p>
+  <p>Plorare qui me cogis, et mori iube!</p>
+  <p>Gustavus</p>
+  <p>Absiste dictis! Vulneras mentem quoque.</p>
+  <p>Animo quieto liceat, ah, <hi rend="italic">Regi</hi>
+  mori.</p>
+  <p>(1465) Vita inquieta sat bono vestro fuit.</p>
+  <p>Oxenstern.</p>
+  <p>Moriere semel, at mille nos mortes manent.</p>
+  <p>Beata mors ut sit, dolere maxime</p>
+  <p>Oportet animum criminis sibi conscium.</p>
+  <p>Gustavus.</p>
+  <p>Tantumne crimen Regis est indagine</p>
+  <p>(1170) Cognoscere, hostis unde pellendus, loca?</p>
+  <p>Oxonstern.</p>
+  <p>Sors misera Regum, proprio si lumine</p>
+  <p>Lustranda cuncta, maxime armis cum earent.</p>
+  <p>Gustavus.</p>
+  <p>Arma induebam nuper, haud tutus tamen</p>
+  <p>Hostili sb ictu.</p>
+  <p><pb n="90"/></p>
+  <p>Oxenstern.</p>
+  <p>Vulnerata corporis</p>
+  <p>(1475) Pars caruit armis. Pectus armatum fuit,</p>
+  <p>Non venter imus. Nunc et ipsa pectoris,</p>
+  <p>Tamquam lacessens Numen, arma respuis.</p>
+  <p>Haec si tulisses, liber a malo fores,</p>
+  <p>Cui Regna tecum involvis. Ah, quantum malum!</p>
+  <p>Gustavus.</p>
+  <p>(1480) Labor impeditur pondere armorum nimis.</p>
+  <p>Oxenstern.</p>
+  <p>Etiam laboris temperandus est calor.</p>
+  <p>Moderata durant. Regis haud est unius</p>
+  <p><milestone unit="folio" n="68"/> Peragere cuncta. Sunt ministri regii,</p>
+  <p>Proceres periti Marte, fidi, seduli.</p>
+  <p>(1485) Laboris his mandare partem oportuit.</p>
+  <p>Absente <hi rend="italic">Rege</hi> quanta iecit
+  <hi rend="italic">Gardius</hi>,</p>
+  <p>Miraculi instar habitus ipsis hostibus!</p>
+  <p>Inest et aliis gnarus hic Martis vigor.</p>
+  <p>Gustavus.</p>
+  <p>Fors sera quereris. Si dabit vitam Deus,</p>
+  <p>(1490) De temperando ardore consilia audiam.</p>
+  <p>Nunc digna venia indicentur, Patriae</p>
+  <p>Quae fido amore facta, fors improvide.</p>
+  <p>Mystes vocetur. Sacra nunc ante omnia</p>
+  <p>Curanda, post et alia, qua vires ferent.</p>
+  <p>Mercurius.</p>
+  <p>(1495) Iussu Tonantis quae benignus nuntio, [vgl. Sen. H.F.
+  Soror Tonantis]</p>
+  <p>Audite, Sueones! Spem tenete! Regium</p>
+  <p>Letale vulnus haud tamen letum dabit.</p>
+  <p>Pietate quoniam carus est <hi rend="italic">Rex</hi>
+  Numini</p>
+  <p>Patriaeque multis utilis virtutibus,</p>
+  <p>(1500) Remittitur nunc error alter. Tertium</p>
+  <p>Cave, cave, <hi rend="italic">Gustave</hi>, compesce
+  impetum!</p>
+  <p>Perit periclis, qui pericla diligit.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+        
+    </body>
+</text>
+</TEI>
