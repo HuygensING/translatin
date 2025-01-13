@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Crispus tragoedia</title>
-        <title type="sub">Crispus tragoedia</title>
+        <title type="sub"></title>
         <author>Vernulaeus, Nicolaus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Petrus Sassenus &amp; Hieronymus Nempaeus</publisher>
         <pubPlace>Louvain</pubPlace>
-        <date>"1656"</date>
+        <date>1656</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

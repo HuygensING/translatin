@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Tragoedia Ecerinis</title>
-        <title type="sub">Tragoedia Ecerinis</title>
+        <title type="sub"></title>
         <author>Mussato, Albertino</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Zanichelli</publisher>
         <pubPlace>Bologna</pubPlace>
-        <date>"1900"</date>
+        <date>1900</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

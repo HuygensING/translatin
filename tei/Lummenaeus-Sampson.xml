@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Sampson. Tragoedia sacra</title>
-        <title type="sub">Sampson. Tragoedia sacra</title>
+        <title type="sub"></title>
         <author>Lummenaeus a Marca, Jacobus Cornelius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Jean de Fampoux</publisher>
         <pubPlace>Douai</pubPlace>
-        <date>"1628"</date>
+        <date>1628</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

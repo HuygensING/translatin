@@ -11,16 +11,16 @@
         <title type="main">Nassovius tragoedia</title>
         <title type="sub">Panagii Salii Nassovius tragoedia</title>
         <author>Salius, Panagius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Dionysius a Prato</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>"1589"</date>
+        <date>1589</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

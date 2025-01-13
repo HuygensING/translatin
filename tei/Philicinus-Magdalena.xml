@@ -11,16 +11,16 @@
         <title type="main">Comoedia tragica, quae inscribitur Magdalena Evangelica</title>
         <title type="sub">Comoedia Tra|GICA, QVAE INSCRI|BITVR MAGDALENA EVAN-|gelica, Autore Petro | Philicino.</title>
         <author>Philicinus, Petrus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Steelsius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1546"</date>
+        <date>1546</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

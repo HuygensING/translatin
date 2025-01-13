@@ -11,16 +11,16 @@
         <title type="main">Sergius vel Capitis caput</title>
         <title type="sub">Comoedia cui nomen Sergius Ioannis Capniois vulgo Reuchlin phorcensis LL. doctoris latine grece et hebraice doctissimi</title>
         <author>Reuchlin, Johann</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Wolfgang Schenck</publisher>
         <pubPlace>Erfurt</pubPlace>
-        <date>"1504"</date>
+        <date>1504</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -11,16 +11,16 @@
         <title type="main">Susanna</title>
         <title type="sub">Susanna per Placentium evangelisten lusa</title>
         <author>Placentius, Johannes Leo</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Martinus Caesar</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1534"</date>
+        <date>1534</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

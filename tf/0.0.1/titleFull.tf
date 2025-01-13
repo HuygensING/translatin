@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-31T08:21:29+00:00Z
+@dateWritten=2025-01-13T12:40:42+00:00Z
 
-2072959	Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.
+2068905	Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.
 Innocentia victrix sive Genovefa
 Iacobi Balde e Societate Jesu. Iephtias Tragoedia. Celsissimo S.R.I. Principi ac Domino D. Ioanni Weichardo Principi ab Auersperg
 Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno restitutae salutatis MDXXIIII
@@ -33,12 +33,12 @@ Tragoedia S. Adrianus martyr
 Tragoedia Chosroes
 Tragicocomoedia Reviviscentes
 Tragoedia Sapor admonitus
-Ludus Dianae
-Vulpanser
+
+
 Comoedia sacra cui titulus Ioseph, ad Christianae iuventutis institutionem iuxta locos inventionis, veteremque artem, nunc primum et scripta et edita per Cornelium Crôcum Amsterodami ludimagistrum
 Tragoedia Dido P. Cunaei
-Dido. Tragoedia nova
-Ioseph. Comoedia
+
+
 PHILEDONIUS. TONNEELSPEL; Slaande op de woorden des Wijzemans: In alle uwe werken gedenk uwe uitersten, en ghy zult in der eeuwigheit niet zondigen. Ten tonneele gebracht op den Doorluchtigen SCHOUBURCH VAN AMSTERDAM. Door FRANCISCUS VAN DEN ENDEN
 Princeps Auriacus, sive Libertas defensa, tragoedia nova
 Pedantius. Comoedia. Olim Cantabrig. acta in Coll. Trin.
@@ -53,26 +53,26 @@ Sacra in quibus Adamus exul tragoedia
 Tragoedia Christus Patiens
 Euripidis tragoediae Phoenissae, emendata ex manuscriptis et Latina facta
 NABAL. RODOLPHI GUALTHERI TIGURINI COMOEDIA sacra, quae inscribitur Nabal, desumpta ex I. Samuelis XXV. cap. nunc primum conscripta et edita
-Auriacus, sive Libertas saucia
-Herodes infanticida
+
+
 Catharina, tragoedia de fortissimo S. Catharinae Virginis, Doctoris & Martyris certamine
 Laurentias. Tragoedia de Martyrio constantissimi Leuitae D. Laurentii, Romae sub Decio passi.
-Thamara tragoedia
+
 IN HOC OPERE CONTENTA GRISELLIS tribus actibus Scęnicis per Eligium Eucharium Ludimagistrum Gandensem decorata
 GEDEON TRAGICO¬COMOEDIA sacra in qua tamquam in speculo nitidißimo nostrorum temporum faciem manifestißime relucentem intueri licet.
 HOMVLVS PETRI DIESTHEMII, Comoedia in primis lepida & pia, in rem Christiani hominis adprime faciens, Anverpiae quondam in publico civitatum Brabanticarum conventu vulgariter acta, palmamque adepta.
-Codrus
-Scornetta
+
+
 Exodus sive Transitus maris rubri, comoedia tragica
-Miles christianus, comoedia sacra
+
 IACOBI PHILOMVSI LOCHER ORATORIS ET Poetae praeclari, Iudicium Paridis Iudi cuiusdam instar carmine luculenter descriptum, ac nuper exactiori cura a superfluis, & erroribus antea commissis prorsus emendatum. Secutus uero est autor Fulgentii Mythologiam.
-Abimelech. Tragoedia sacra
+
 AMNON TRAGOEDIA SACRA. Autore Rdo. Domino D. IACOBO CORNELIO LVMMENAEO à MARCA
-Bustum Sodomae
+
 ad D. Petri in Monte Blandinio.
-Iephte. Tragoedia sacra
-Sampson. Tragoedia sacra
-Saul. Tragoedia sacra
+
+
+
 Adamus Macropedii fabula christianae pietatis plena in qua kômikôs ostenditur, quo pacto lapsus homo post multas multorum saeculorum calamitates et miserias per Christum ab initio promissum, tandemque mundo exhibitum, saluti restituitur
 ALUTA Macropedii Fabula admodum iucunda et lepida, denuo recognita et Traiectinae iuventuti denuo nuncupata
 Georgii Macropedii Andrisca fabula lepidissima
@@ -85,9 +85,9 @@ IOSEPHUS Macropedii, Fabula sacra, pietatis et pudicitiae cultoribus perlegenda
 LAZARUS MENDICUS Georgii Macropedii
 PETRISCUS Georgii Macropedii Fabula iucundissima
 REBELLES Macropedii Fabula longe iucundissima, rudibus adhuc et tenellis Traiectinae scholae auditoribus nuncupata
-Sedecias tragoedia
-Iulius Caesar tragoedia
-Tragoedia Ecerinis
+
+
+
 GUSTAVUS SAUCIUS TRAGOEDIA: IN QUA RES SUECO-POLONICAE IN BORUSSIA GESTAE ANNO MDCXXVII Majore ex parte enarrantur
 Petri Papei Samarites Comoedia de Samaritano Evangelico
 Tragoedia Esther, autore Petro Philicino, Canonico Binchiensi
@@ -99,7 +99,7 @@ Ioannis Reuchlin Phorcensis Scaenica progymnasmata hoc est Ludicra praeexercitam
 Comoedia cui nomen Sergius Ioannis Capniois vulgo Reuchlin phorcensis LL. doctoris latine grece et hebraice doctissimi
 Iacobi Rosefeldi Franci Moschus, comoedia altera, histrionice tornata et adornata
 Stuarta Tragoedia sive Caedes Mariae serenissimae Scotorum reginae in Anglia perpetrata, Exhibita ludis Remigialibus a iuventute gymnasii Marcianensi
-Ignoramus
+
 Panagii Salii Nassovius tragoedia
 Terentii Christiani Ananias
 Terentii Christiani Baptistes
@@ -113,26 +113,26 @@ Terentii Christiani Naaman
 Nehemias. De instauratione Hierosolymae comoedia sacra
 Terentii Christiani Pentecoste
 Pseudostratiotae fabula ludicra
-Saulus conversus
+
 Terentii Christiani Susanna
 Terentii Christiani Tobaeus
 Terentii Christiani Triumphus Christi
 Terentii Christiani Typhlus
 Vitulus fabula ludicra
 Ectrachelistes sive Iohannes decollatus, tragoedia nova et sacra
-Castus Ioseph
-De immolatione Isaac
+
+
 Studentes, comoedia de vita studiosorum, nunc primum in lucem edita auctore M. Christophoro Stymmelio
 Drama comicum Pendularia
-Imber aureus
-Conradinus tragoedia
-Crispus tragoedia
+
+
+
 Gorcomienses sive fidei exilium, tragoedia
 Henricus Octavus seu schisma Anglicanum, tragoedia
-Theodoricus tragoedia
+
 Tobias sive comice conscripta sacra Veteris Instrumenti Tobiae historia, praeter alia pietatis et virtutum documenta perspicuum quoddam coniugalis continentiae et in rebus adversis patientiae exemplar proponens, iam primum iambico versu composita et in proscenium producta per Fratrem Petrum Vladeraccum
 Annibal moriens, tragoedia
 Stilpho Jacobi Vimpfelingii Sletstatini
-Rosimunda tragoedia
+
 DIDASCALVS / COMOEDIA / ut doctissima, ita & lepidissi-/ma, Autore Iacobo Zo/uitio Driescharo, / Paedotriba fide-/lissimo. / [Drukkersmerk:] RECENS NATA. / [Drukkersmerk] / Coloniae apud Ioannem Gymnicum / ANNO M D XXXXI.
 RVTH AUTHORE IACOBO ZOVITIO DRIESCHARO, ludi Hoochstratani hypodidascalo

@@ -11,16 +11,16 @@
         <title type="main">Euripidis Phoenissae</title>
         <title type="sub">Euripidis tragoediae Phoenissae, emendata ex manuscriptis et Latina facta</title>
         <author>Grotius, Hugo</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Jacobus Ruart</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>"1630"</date>
+        <date>1630</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

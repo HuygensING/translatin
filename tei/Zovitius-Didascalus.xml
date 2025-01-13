@@ -11,16 +11,16 @@
         <title type="main">Didascalus comoedia</title>
         <title type="sub">DIDASCALVS / COMOEDIA / ut doctissima, ita &amp; lepidissi-/ma, Autore Iacobo Zo/uitio Driescharo, / Paedotriba fide-/lissimo. / [Drukkersmerk:] RECENS NATA. / [Drukkersmerk] / Coloniae apud Ioannem Gymnicum / ANNO M D XXXXI.</title>
         <author>Zovitius, Jacobus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Gymnicus</publisher>
         <pubPlace>Cologne</pubPlace>
-        <date>"1541"</date>
+        <date>1541</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

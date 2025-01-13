@@ -11,16 +11,16 @@
         <title type="main">Scaenica progymnasmata</title>
         <title type="sub">Ioannis Reuchlin Phorcensis Scaenica progymnasmata hoc est Ludicra praeexercitamenta</title>
         <author>Reuchlin, Johann</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Johann Bergmann von Olpe</publisher>
         <pubPlace>Basel</pubPlace>
-        <date>"1498"</date>
+        <date>1498</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

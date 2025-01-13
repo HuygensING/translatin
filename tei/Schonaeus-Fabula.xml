@@ -11,16 +11,16 @@
         <title type="main">Fabula comica</title>
         <title type="sub">Fabula comica , In commendationem aedificij, egenis senibus Harlemi extruendi: Scripta, aut lusa potius a  Cornelio Schonaeo Goudano, Gymnasiarcha Harlemensi</title>
         <author>Schonaeus, Cornelius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Zacharias Heyns</publisher>
         <pubPlace>Zwolle</pubPlace>
-        <date>"1607"</date>
+        <date>1607</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

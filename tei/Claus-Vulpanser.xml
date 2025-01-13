@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Vulpanser</title>
-        <title type="sub">Vulpanser</title>
+        <title type="sub"></title>
         <author>Claus, Anton (SJ)</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Joseph Wolff</publisher>
         <pubPlace>Augsburg</pubPlace>
-        <date>"1755"</date>
+        <date>1755</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -11,16 +11,16 @@
         <title type="main">Stuarta tragoedia</title>
         <title type="sub">Stuarta Tragoedia sive Caedes Mariae serenissimae Scotorum reginae in Anglia perpetrata, Exhibita ludis Remigialibus a iuventute gymnasii Marcianensi</title>
         <author>Roulerius, Adrianus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Widow Buscardus</publisher>
         <pubPlace>Douai</pubPlace>
-        <date>"1593"</date>
+        <date>1593</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

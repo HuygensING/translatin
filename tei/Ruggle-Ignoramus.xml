@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Ignoramus</title>
-        <title type="sub">Ignoramus</title>
+        <title type="sub"></title>
         <author>Ruggle, Thomas</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Walter Burre</publisher>
         <pubPlace>London</pubPlace>
-        <date>"1615"</date>
+        <date>1615</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -11,16 +11,16 @@
         <title type="main">Adamus fabula</title>
         <title type="sub">Adamus Macropedii fabula christianae pietatis plena in qua kômikôs ostenditur, quo pacto lapsus homo post multas multorum saeculorum calamitates et miserias per Christum ab initio promissum, tandemque mundo exhibitum, saluti restituitur</title>
         <author>Macropedius, Georgius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Hermannus Borculous</publisher>
         <pubPlace>Utrecht</pubPlace>
-        <date>"1552"</date>
+        <date>1552</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

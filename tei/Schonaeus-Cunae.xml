@@ -11,16 +11,16 @@
         <title type="main">Cunae</title>
         <title type="sub">Cunae fabula ludicra</title>
         <author>Schonaeus, Cornelius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Gerhard Grevenbruch</publisher>
         <pubPlace>Cologne</pubPlace>
-        <date>"1614"</date>
+        <date>1614</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

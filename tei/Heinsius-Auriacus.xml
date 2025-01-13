@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Auriacus, sive Libertas saucia</title>
-        <title type="sub">Auriacus, sive Libertas saucia</title>
+        <title type="sub"></title>
         <author>Heinsius, Daniel</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Andreas Clouquius</publisher>
         <pubPlace>Leiden</pubPlace>
-        <date>"1602"</date>
+        <date>1602</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

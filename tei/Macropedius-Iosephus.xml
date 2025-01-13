@@ -11,16 +11,16 @@
         <title type="main">Iosephus fabula sacra</title>
         <title type="sub">IOSEPHUS Macropedii, Fabula sacra, pietatis et pudicitiae cultoribus perlegenda</title>
         <author>Macropedius, Georgius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Hermannus Borculous</publisher>
         <pubPlace>Utrecht</pubPlace>
-        <date>"1552"</date>
+        <date>1552</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

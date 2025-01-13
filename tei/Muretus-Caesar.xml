@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Iulius Caesar tragoedia</title>
-        <title type="sub">Iulius Caesar tragoedia</title>
+        <title type="sub"></title>
         <author>Muretus, Marcus Antonius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Stephanus Myliandrus</publisher>
         <pubPlace>Rostock</pubPlace>
-        <date>"1591"</date>
+        <date>1591</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

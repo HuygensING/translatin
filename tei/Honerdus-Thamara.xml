@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Thamara tragoedia</title>
-        <title type="sub">Thamara tragoedia</title>
+        <title type="sub"></title>
         <author>Honerdus, Rochus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Paets</publisher>
         <pubPlace>Leiden</pubPlace>
-        <date>"1611"</date>
+        <date>1611</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

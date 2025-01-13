@@ -11,16 +11,16 @@
         <title type="main">Iudicium Paridis</title>
         <title type="sub">IACOBI PHILOMVSI LOCHER ORATORIS ET Poetae praeclari, Iudicium Paridis Iudi cuiusdam instar carmine luculenter descriptum, ac nuper exactiori cura a superfluis, &amp; erroribus antea commissis prorsus emendatum. Secutus uero est autor Fulgentii Mythologiam.</title>
         <author>Locher, Jacob</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Singrever</publisher>
         <pubPlace>Vienna</pubPlace>
-        <date>"c.1520"</date>
+        <date>c.1520</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-31T08:21:28+00:00Z
+@dateWritten=2025-01-13T12:40:41+00:00Z
 
-2064586	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
+2060532	https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
 https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
@@ -311,70 +311,70 @@ https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
 https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
-2064946	textus Graecus
+2060892	textus Graecus
 textus Graecus
-2064950	textus Graecus
+2060896	textus Graecus
 textus Graecus
-2064954	textus Graecus
+2060900	textus Graecus
 textus Graecus
-2064958	textus Graecus
+2060904	textus Graecus
 textus Graecus
-2064962	textus Graecus
+2060908	textus Graecus
 textus Graecus
-2064966	textus Graecus
-2064969	textus Graecus
+2060912	textus Graecus
+2060915	textus Graecus
 textus Graecus
-2064973	textus Graecus
+2060919	textus Graecus
 textus Graecus
-2064977	textus Graecus
+2060923	textus Graecus
 textus Graecus
-2064981	textus Graecus
+2060927	textus Graecus
 textus Graecus
-2064985	textus Graecus
+2060931	textus Graecus
 textus Graecus
-2064989	textus Graecus
+2060935	textus Graecus
 textus Graecus
-2064993	textus Graecus
+2060939	textus Graecus
 textus Graecus
-2064997	textus Graecus
+2060943	textus Graecus
 textus Graecus
-2065001	textus Graecus
+2060947	textus Graecus
 textus Graecus
-2065005	textus Graecus
+2060951	textus Graecus
 textus Graecus
-2065009	textus Graecus
+2060955	textus Graecus
 textus Graecus
-2065013	textus Graecus
+2060959	textus Graecus
 textus Graecus
-2065017	textus Graecus
+2060963	textus Graecus
 textus Graecus
-2065021	textus Graecus
+2060967	textus Graecus
 textus Graecus
-2065025	textus Graecus
+2060971	textus Graecus
 textus Graecus
-2065029	textus Graecus
+2060975	textus Graecus
 textus Graecus
-2065033	textus Graecus
+2060979	textus Graecus
 textus Graecus
-2065037	textus Graecus
+2060983	textus Graecus
 textus Graecus
-2065041	textus Graecus
+2060987	textus Graecus
 textus Graecus
-2065045	textus Graecus
+2060991	textus Graecus
 textus Graecus
-2065049	textus Graecus
+2060995	textus Graecus
 textus Graecus
-2065053	textus Graecus
+2060999	textus Graecus
 textus Graecus
-2065057	textus Graecus
+2061003	textus Graecus
 textus Graecus
-2065061	textus Graecus
+2061007	textus Graecus
 textus Graecus
-2065065	textus Graecus
+2061011	textus Graecus
 blanco
 blanco
 blanco
-2066632	http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
+2062578	http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
 http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s014.html
 http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s015.html
 http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s016.html

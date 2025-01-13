@@ -11,16 +11,16 @@
         <title type="main">Studentes</title>
         <title type="sub">Studentes, comoedia de vita studiosorum, nunc primum in lucem edita auctore M. Christophoro Stymmelio</title>
         <author>Stymmelius, Christophorus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Iohannes Eichorn</publisher>
         <pubPlace>Frankfurt a/d Oder</pubPlace>
-        <date>"1550"</date>
+        <date>1550</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -11,16 +11,16 @@
         <title type="main">Hypomone seu Patientia</title>
         <title type="sub">HYPOMONE, seu Patientia Macropedii. Fabula sacra.</title>
         <author>Macropedius, Georgius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Hermannus Borculous</publisher>
         <pubPlace>Utrecht</pubPlace>
-        <date>"1554"</date>
+        <date>1554</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

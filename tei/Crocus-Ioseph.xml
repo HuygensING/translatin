@@ -11,16 +11,16 @@
         <title type="main">Comoedia sacra cui titulus Ioseph</title>
         <title type="sub">Comoedia sacra cui titulus Ioseph, ad Christianae iuventutis institutionem iuxta locos inventionis, veteremque artem, nunc primum et scripta et edita per Cornelium Crôcum Amsterodami ludimagistrum</title>
         <author>None</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Steelsius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1536"</date>
+        <date>1536</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

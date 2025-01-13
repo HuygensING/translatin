@@ -11,16 +11,16 @@
         <title type="main">Pendularia</title>
         <title type="sub">Drama comicum Pendularia</title>
         <author>Susius, Nicolaus (SJ)</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Heirs Martinus Nutius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1620"</date>
+        <date>1620</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

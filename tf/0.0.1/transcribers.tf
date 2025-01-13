@@ -16,123 +16,123 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-31T08:21:29+00:00Z
+@dateWritten=2025-01-13T12:40:42+00:00Z
 
-2072959	{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
-{'tp': 'str', 'value': 'Jan Bloemendal et al.'}
+2068905	Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.
+Jan Bloemendal et al.

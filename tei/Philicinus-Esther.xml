@@ -11,16 +11,16 @@
         <title type="main">Tragoedia Esther</title>
         <title type="sub">Tragoedia Esther, autore Petro Philicino, Canonico Binchiensi</title>
         <author>Philicinus, Petrus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Latius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1563"</date>
+        <date>1563</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

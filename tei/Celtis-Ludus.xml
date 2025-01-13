@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Ludus Dianae</title>
-        <title type="sub">Ludus Dianae</title>
+        <title type="sub"></title>
         <author>Celtis, Konrad</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Egyetemi Nyomda</publisher>
         <pubPlace>Budapest</pubPlace>
-        <date>"1945"</date>
+        <date>1945</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

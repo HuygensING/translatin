@@ -30,7 +30,7 @@ TEMPLATE = """\
     <publicationStmt>
         <publisher>{publisher}</publisher>
         <pubPlace>{pubPlace}</pubPlace>
-        <date>"{pubYear}"</date>
+        <date>{pubYear}</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>
@@ -265,6 +265,9 @@ class Meta:
         else:
             thisMetadata = metadata["work"][workId]
 
+        if thisMetadata.get("titleFull", None) == thisMetadata.get("titleExpanded", None):
+            thisMetadata["titleFull"] = ""
+
         author = thisMetadata["author"]
 
         if author is None or author == "Unknown" or author not in metadata["author"]:
@@ -274,10 +277,12 @@ class Meta:
 
         authorMetadata = {k: v for k, v in authorMetadata.items() if k != "author"}
 
+        corpusMetadata = {k: v.value for k, v in metaFields["corpus"].items()}
+
         return template.format(
             workId=workId,
             **thisMetadata,
-            **metaFields["corpus"],
+            **corpusMetadata,
             **authorMetadata,
             **data,
         )

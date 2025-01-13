@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Dido. Tragoedia nova</title>
-        <title type="sub">Dido. Tragoedia nova</title>
+        <title type="sub"></title>
         <author>Dalanthus, Gerardus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Latius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1559"</date>
+        <date>1559</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

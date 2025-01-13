@@ -11,16 +11,16 @@
         <title type="main">Nabal</title>
         <title type="sub">NABAL. RODOLPHI GUALTHERI TIGURINI COMOEDIA sacra, quae inscribitur Nabal, desumpta ex I. Samuelis XXV. cap. nunc primum conscripta et edita</title>
         <author>Gwalther, Rudolph</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Christof. Froschover</publisher>
         <pubPlace>Zurich</pubPlace>
-        <date>"1540?"</date>
+        <date>1540?</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

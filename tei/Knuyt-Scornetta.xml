@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Scornetta</title>
-        <title type="sub">Scornetta</title>
+        <title type="sub"></title>
         <author>Knuyt van Slythoven, Hermann</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Unknown publisher</publisher>
         <pubPlace>None</pubPlace>
-        <date>"1497"</date>
+        <date>1497</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

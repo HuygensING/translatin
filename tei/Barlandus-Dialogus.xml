@@ -11,16 +11,16 @@
         <title type="main">Dialogus in Ecyram</title>
         <title type="sub">Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno restitutae salutatis MDXXIIII</title>
         <author>Barlandus, Adrianus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Dirk Martens</publisher>
         <pubPlace>Louvain</pubPlace>
-        <date>"1524"</date>
+        <date>1524</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

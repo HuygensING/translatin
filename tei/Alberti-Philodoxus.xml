@@ -11,16 +11,16 @@
         <title type="main">Philodoxeos Fabula</title>
         <title type="sub">Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.</title>
         <author>Alberti, Leon Baptista</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Juan Gysser</publisher>
         <pubPlace>Salmantica</pubPlace>
-        <date>"1501"</date>
+        <date>1501</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Miles christianus, comoedia sacra</title>
-        <title type="sub">Miles christianus, comoedia sacra</title>
+        <title type="sub"></title>
         <author>Laurimanus, Cornelius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Gulielmus Silvius</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1565"</date>
+        <date>1565</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

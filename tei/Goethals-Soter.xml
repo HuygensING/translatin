@@ -11,16 +11,16 @@
         <title type="main">Soter gloriosus</title>
         <title type="sub">Comoedia nova et sacra, cui titulus Soter gloriosus, Auctore Francisco Eucolo Gandensi</title>
         <author>Goethals, Franciscus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Bogardus</publisher>
         <pubPlace>Louvain</pubPlace>
-        <date>"1563"</date>
+        <date>1563</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

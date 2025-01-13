@@ -11,16 +11,16 @@
         <title type="main">Amnon, tragoedia sacra</title>
         <title type="sub">AMNON TRAGOEDIA SACRA. Autore Rdo. Domino D. IACOBO CORNELIO LVMMENAEO à MARCA</title>
         <author>Lummenaeus a Marca, Jacobus Cornelius</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Cornelius Marius</publisher>
         <pubPlace>Ghent</pubPlace>
-        <date>"1617"</date>
+        <date>1617</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

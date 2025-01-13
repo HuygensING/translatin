@@ -11,16 +11,16 @@
         <title type="main">Henricus Octavus</title>
         <title type="sub">Henricus Octavus seu schisma Anglicanum, tragoedia</title>
         <author>Vernulaeus, Nicolaus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Philippus Dormalius</publisher>
         <pubPlace>Louvain</pubPlace>
-        <date>"1624"</date>
+        <date>1624</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

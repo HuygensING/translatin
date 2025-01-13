@@ -12,16 +12,16 @@
         <title type="sub">Euripus Tragoedia Christiana nova, authore F. Livino Brechto Antverpiensi e familia franciscana Louaniensi.
 Ad Reuerendissimum in Christo |Patrem, et illustrissimum Principem, D. Georgium ab Austria</title>
         <author>Brechtus, Livinus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Martinus Rotarius and Petrus Phalesius</publisher>
         <pubPlace>Louvain</pubPlace>
-        <date>"1549"</date>
+        <date>1549</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

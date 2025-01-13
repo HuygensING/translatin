@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Imber aureus</title>
-        <title type="sub">Imber aureus</title>
+        <title type="sub"></title>
         <author>Telesio, Antonio</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Frideriecus Preypus</publisher>
         <pubPlace>Nuremberg</pubPlace>
-        <date>"1530"</date>
+        <date>1530</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Castus Ioseph</title>
-        <title type="sub">Castus Ioseph</title>
+        <title type="sub"></title>
         <author>Simonides, Simon</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Lazarus</publisher>
         <pubPlace>Cracow</pubPlace>
-        <date>"1587"</date>
+        <date>1587</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

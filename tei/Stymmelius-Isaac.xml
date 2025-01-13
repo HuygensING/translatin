@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">De immolatione Isaac</title>
-        <title type="sub">De immolatione Isaac</title>
+        <title type="sub"></title>
         <author>Stymmelius, Christophorus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Andreas Kellner</publisher>
         <pubPlace>Stettin</pubPlace>
-        <date>"1579"</date>
+        <date>1579</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

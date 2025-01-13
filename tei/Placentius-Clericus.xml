@@ -11,16 +11,16 @@
         <title type="main">Clericus eques</title>
         <title type="sub">Clericus eques, authore evangelista Placentio Trudonense Dominicano</title>
         <author>Placentius, Johannes Leo</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Simon Cocus</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1435"</date>
+        <date>1435</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -11,16 +11,16 @@
         <title type="main">Adamus exul tragoedia</title>
         <title type="sub">Sacra in quibus Adamus exul tragoedia</title>
         <author>Grotius, Hugo</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Albertus Henricus</publisher>
         <pubPlace>The Hague</pubPlace>
-        <date>"1601"</date>
+        <date>1601</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

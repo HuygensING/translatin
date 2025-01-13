@@ -7,7 +7,7 @@
 @institute1=HuC (Humanities Cluster) Amsterdam
 @institute2=Huygens Instituut Amsterdam
 @language=la
-@levelConstraints=note < chunk, p; salute < opener, closer; div < chapter; teiHeader < chapter; fileDesc < chunk; profileDesc < chunk; p < chunk; head < chunk
+@levelConstraints=note < chunk, p; salute < opener, closer; teiHeader < chapter; div < chapter; profileDesc < chunk; head < chunk; p < chunk; fileDesc < chunk
 @schema=TEI + translatin
 @sectionFeatures=work,part,chunk
 @sectionTypes=work,part,chunk
@@ -16,5 +16,5 @@
 @title=Translatin (drama, 1500-1750))
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2024-12-31T08:21:30+00:00Z
+@dateWritten=2025-01-13T12:40:43+00:00Z
 

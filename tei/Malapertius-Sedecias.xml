@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Sedecias tragoedia</title>
-        <title type="sub">Sedecias tragoedia</title>
+        <title type="sub"></title>
         <author>Malapertius, Carolus</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Ioannes Cnobbarus</publisher>
         <pubPlace>Antwerp</pubPlace>
-        <date>"1632"</date>
+        <date>1632</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

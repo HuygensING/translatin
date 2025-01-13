@@ -11,16 +11,16 @@
         <title type="main">Chosroes</title>
         <title type="sub">Tragoedia Chosroes</title>
         <author>Cellotius, Ludovicus (SJ)</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Sebastien Cramoisy</publisher>
         <pubPlace>Paris</pubPlace>
-        <date>"1630"</date>
+        <date>1630</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>

@@ -9,18 +9,18 @@
 <fileDesc>
     <titleStmt>
         <title type="main">Codrus</title>
-        <title type="sub">Codrus</title>
+        <title type="sub"></title>
         <author>Kerckmeister, Johannes</author>
-        <editor>{'tp': 'str', 'value': 'Jan Bloemendal'}</editor>
+        <editor>Jan Bloemendal</editor>
         <respStmt>
             <resp>transcription</resp>
-            <name>{'tp': 'str', 'value': 'Jan Bloemendal et al.'}</name>
+            <name>Jan Bloemendal et al.</name>
         </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Johann Limburg</publisher>
         <pubPlace>Münster</pubPlace>
-        <date>"1485"</date>
+        <date>1485</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>
