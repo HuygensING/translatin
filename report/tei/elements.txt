@@ -8,734 +8,978 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=        1511x bold
-	                          "                   3109x footnote
-	                          "                   8802x italic
-	                          "                     17x superscript
-	                          "                      5x underline
+	<hi>               rend=          1511x bold
+	                                  3109x footnote
+	                                  8802x italic
+	                                    17x superscript
+	                                     5x underline
 
 Keyword Attributes
 
-	<TEI>              lang=         118x lat
+	<TEI>              lang=           118x lat
 
-	<div>              type=        2890x level1
-	                          "                     38x notes
+	<div>              type=           354x level1
+	                                  2536x level2
+	                                    38x notes
 
-	<list>             type=         129x ordered:arabic
-	                          "                      2x ordered:loweralpha
-	                          "                      6x ordered:lowerroman
-	                          "                     15x ordered:upperalpha
-	                          "                     88x ordered:upperroman
-	                          "                      5x unordered
+	<list>             type=           129x ordered:arabic
+	                                     2x ordered:loweralpha
+	                                     6x ordered:lowerroman
+	                                    15x ordered:upperalpha
+	                                    88x ordered:upperroman
+	                                     5x unordered
 
-	<milestone>        unit=        1118x folio
+	<milestone>        facs=            11x 1
+	                                    32x 10
+	                                    11x 100
+	                                    10x 101
+	                                    11x 102
+	                                    10x 103
+	                                    11x 104
+	                                    10x 105
+	                                    11x 106
+	                                    10x 107
+	                                    11x 108
+	                                    10x 109
+	                                    33x 11
+	                                    11x 110
+	                                    10x 111
+	                                    10x 112
+	                                     9x 113
+	                                    10x 114
+	                                     9x 115
+	                                    10x 116
+	                                     9x 117
+	                                    10x 118
+	                                     9x 119
+	                                    35x 12
+	                                     8x 120
+	                                     8x 121
+	                                    10x 122
+	                                     8x 123
+	                                     9x 124
+	                                     8x 125
+	                                     8x 126
+	                                     5x 127
+	                                     8x 128
+	                                     6x 129
+	                                    35x 13
+	                                     7x 130
+	                                     6x 131
+	                                     6x 132
+	                                     6x 133
+	                                     7x 134
+	                                     6x 135
+	                                     7x 136
+	                                     6x 137
+	                                     7x 138
+	                                     6x 139
+	                                    35x 14
+	                                     7x 140
+	                                     6x 141
+	                                     7x 142
+	                                     6x 143
+	                                     7x 144
+	                                     6x 145
+	                                     7x 146
+	                                     6x 147
+	                                     7x 148
+	                                     6x 149
+	                                    35x 15
+	                                     7x 150
+	                                     6x 151
+	                                     7x 152
+	                                     6x 153
+	                                     7x 154
+	                                     6x 155
+	                                     7x 156
+	                                     5x 157
+	                                     6x 158
+	                                     5x 159
+	                                    33x 16
+	                                     6x 160
+	                                     5x 161
+	                                     5x 162
+	                                     5x 163
+	                                     6x 164
+	                                     5x 165
+	                                     6x 166
+	                                     5x 167
+	                                     4x 168
+	                                     4x 169
+	                                    36x 17
+	                                     5x 170
+	                                     4x 171
+	                                     5x 172
+	                                     4x 173
+	                                     4x 174
+	                                     4x 175
+	                                     5x 176
+	                                     4x 177
+	                                     5x 178
+	                                     4x 179
+	                                    33x 18
+	                                     5x 180
+	                                     4x 181
+	                                     5x 182
+	                                     4x 183
+	                                     5x 184
+	                                     4x 185
+	                                     5x 186
+	                                     4x 187
+	                                     5x 188
+	                                     4x 189
+	                                    35x 19
+	                                     5x 190
+	                                     4x 191
+	                                     5x 192
+	                                     4x 193
+	                                     5x 194
+	                                     4x 195
+	                                     5x 196
+	                                     4x 197
+	                                     5x 198
+	                                     4x 199
+	                                    24x 2
+	                                    35x 20
+	                                     5x 200
+	                                     4x 201
+	                                     4x 202
+	                                     3x 203
+	                                     4x 204
+	                                     2x 205
+	                                     3x 206
+	                                     2x 207
+	                                     3x 208
+	                                     1x 209
+	                                    34x 21
+	                                     4x 210
+	                                     4x 211
+	                                     4x 212
+	                                     3x 213
+	                                     4x 214
+	                                     3x 215
+	                                     4x 216
+	                                     3x 217
+	                                     4x 218
+	                                     3x 219
+	                                    34x 22
+	                                     4x 220
+	                                     3x 221
+	                                     4x 222
+	                                     3x 223
+	                                     4x 224
+	                                     3x 225
+	                                     3x 226
+	                                     3x 227
+	                                     3x 228
+	                                     3x 229
+	                                    34x 23
+	                                     4x 230
+	                                     3x 231
+	                                     4x 232
+	                                     3x 233
+	                                     4x 234
+	                                     3x 235
+	                                     4x 236
+	                                     2x 237
+	                                     3x 238
+	                                     3x 239
+	                                    33x 24
+	                                     4x 240
+	                                     4x 241
+	                                     5x 242
+	                                     4x 243
+	                                     5x 244
+	                                     4x 245
+	                                     5x 246
+	                                     4x 247
+	                                     5x 248
+	                                     4x 249
+	                                    33x 25
+	                                     5x 250
+	                                     4x 251
+	                                     5x 252
+	                                     4x 253
+	                                     5x 254
+	                                     3x 255
+	                                     4x 256
+	                                     3x 257
+	                                     4x 258
+	                                     2x 259
+	                                    32x 26
+	                                     4x 260
+	                                     2x 261
+	                                     3x 262
+	                                     2x 263
+	                                     3x 264
+	                                     2x 265
+	                                     3x 266
+	                                     2x 267
+	                                     3x 268
+	                                     2x 269
+	                                    32x 27
+	                                     3x 270
+	                                     2x 271
+	                                     3x 272
+	                                     2x 273
+	                                     3x 274
+	                                     2x 275
+	                                     2x 276
+	                                     1x 277
+	                                     2x 278
+	                                     1x 279
+	                                    32x 28
+	                                     1x 280
+	                                     1x 281
+	                                     1x 282
+	                                     1x 283
+	                                     1x 284
+	                                     1x 285
+	                                     1x 286
+	                                     1x 287
+	                                     1x 288
+	                                     1x 289
+	                                    33x 29
+	                                     1x 290
+	                                     1x 291
+	                                     1x 292
+	                                     1x 293
+	                                     1x 294
+	                                     1x 295
+	                                     1x 296
+	                                     1x 297
+	                                     1x 298
+	                                     1x 299
+	                                    28x 3
+	                                    33x 30
+	                                     1x 300
+	                                     1x 301
+	                                     1x 302
+	                                     1x 303
+	                                     1x 304
+	                                     1x 305
+	                                     1x 306
+	                                     1x 307
+	                                     1x 308
+	                                     1x 309
+	                                    34x 31
+	                                     1x 310
+	                                     1x 311
+	                                     2x 312
+	                                     2x 313
+	                                     2x 314
+	                                     2x 315
+	                                     2x 316
+	                                     2x 317
+	                                     2x 318
+	                                     2x 319
+	                                    32x 32
+	                                     2x 320
+	                                     2x 321
+	                                     2x 322
+	                                     2x 323
+	                                     2x 324
+	                                     2x 325
+	                                     2x 326
+	                                     2x 327
+	                                     2x 328
+	                                     2x 329
+	                                    33x 33
+	                                     2x 330
+	                                     3x 331
+	                                     2x 332
+	                                     2x 333
+	                                     2x 334
+	                                     2x 335
+	                                     2x 336
+	                                     3x 337
+	                                     3x 338
+	                                     2x 339
+	                                    33x 34
+	                                     1x 340
+	                                     2x 341
+	                                     2x 342
+	                                     2x 343
+	                                     2x 344
+	                                     2x 345
+	                                     2x 346
+	                                     2x 347
+	                                     2x 348
+	                                     2x 349
+	                                    34x 35
+	                                     2x 350
+	                                     2x 351
+	                                     3x 352
+	                                     2x 353
+	                                     2x 354
+	                                     2x 355
+	                                     2x 356
+	                                     2x 357
+	                                     2x 358
+	                                     1x 359
+	                                    32x 36
+	                                     2x 360
+	                                     2x 361
+	                                     2x 362
+	                                     2x 363
+	                                     2x 364
+	                                     2x 365
+	                                     1x 366
+	                                     1x 367
+	                                     1x 368
+	                                     1x 369
+	                                    34x 37
+	                                     1x 370
+	                                     1x 371
+	                                     1x 372
+	                                     1x 373
+	                                     1x 374
+	                                     1x 376
+	                                     1x 377
+	                                     1x 378
+	                                     1x 379
+	                                    34x 38
+	                                     1x 380
+	                                     1x 381
+	                                     1x 382
+	                                     2x 383
+	                                     1x 384
+	                                     1x 386
+	                                     1x 387
+	                                     1x 388
+	                                     1x 389
+	                                    34x 39
+	                                     1x 390
+	                                     1x 391
+	                                     1x 392
+	                                     1x 393
+	                                     1x 394
+	                                     2x 395
+	                                     1x 396
+	                                     1x 397
+	                                     1x 398
+	                                     1x 399
+	                                    27x 4
+	                                    34x 40
+	                                     1x 400
+	                                     1x 402
+	                                     1x 403
+	                                     1x 404
+	                                     1x 405
+	                                     1x 406
+	                                     1x 407
+	                                     1x 408
+	                                     1x 409
+	                                    31x 41
+	                                     1x 410
+	                                     1x 411
+	                                     1x 412
+	                                     1x 413
+	                                     1x 414
+	                                     1x 415
+	                                     1x 416
+	                                     1x 417
+	                                     1x 418
+	                                     1x 419
+	                                    30x 42
+	                                     1x 420
+	                                     1x 421
+	                                     1x 422
+	                                     1x 423
+	                                     1x 425
+	                                     2x 426
+	                                     1x 427
+	                                     1x 428
+	                                     1x 429
+	                                    32x 43
+	                                     1x 430
+	                                    32x 44
+	                                    32x 45
+	                                    31x 46
+	                                    30x 47
+	                                    33x 48
+	                                    30x 49
+	                                     1x 491
+	                                    30x 5
+	                                    30x 50
+	                                    30x 51
+	                                    31x 52
+	                                    29x 53
+	                                    30x 54
+	                                    29x 55
+	                                    29x 56
+	                                    28x 57
+	                                    28x 58
+	                                    26x 59
+	                                    28x 6
+	                                    28x 60
+	                                    25x 61
+	                                    25x 62
+	                                    22x 63
+	                                    23x 64
+	                                    21x 65
+	                                    23x 66
+	                                    21x 67
+	                                    22x 68
+	                                    18x 69
+	                                    29x 7
+	                                    21x 70
+	                                    20x 71
+	                                    18x 72
+	                                    17x 73
+	                                    18x 74
+	                                    18x 75
+	                                    16x 76
+	                                    15x 77
+	                                    16x 78
+	                                    15x 79
+	                                    33x 8
+	                                    15x 80
+	                                    14x 81
+	                                    15x 82
+	                                    15x 83
+	                                    14x 84
+	                                    14x 85
+	                                    16x 86
+	                                    14x 87
+	                                    14x 88
+	                                    14x 89
+	                                    33x 9
+	                                    13x 90
+	                                    12x 91
+	                                    11x 92
+	                                    12x 93
+	                                    12x 94
+	                                    11x 95
+	                                    12x 96
+	                                    11x 97
+	                                    12x 98
+	                                    11x 99
+	                                     3x A
+	                                     2x A1r
+	                                     2x A1v
+	                                     9x A2
+	                                     1x A2a
+	                                     1x A2b
+	                                     4x A2r
+	                                     4x A2v
+	                                     8x A3
+	                                     1x A3b
+	                                     3x A3r
+	                                     2x A3v
+	                                    10x A4
+	                                     3x A4r
+	                                     2x A4v
+	                                     8x A5
+	                                     2x A5r
+	                                     1x A5v
+	                                     1x A6
+	                                     1x A6r
+	                                     1x A6v
+	                                     1x A7
+	                                     1x A7r
+	                                     1x A7v
+	                                     1x A8
+	                                     1x A8a
+	                                     1x A8r
+	                                     1x A8v
+	                                     1x Aia
+	                                     2x Aii
+	                                     1x Aiia
+	                                     1x Aiib
+	                                     1x Aiiia
+	                                     1x Aiiib
+	                                     1x Aiiiia
+	                                     1x Aiiiib
+	                                     3x Aiiij
+	                                     1x Aiiija
+	                                     1x Aiiijb
+	                                     6x Aiij
+	                                     1x Aiija
+	                                     1x Aiijb
+	                                     1x Aiijv
+	                                     4x Aij
+	                                     1x Aija
+	                                     1x Aijb
+	                                     1x Ar
+	                                     1x Av
+	                                     2x Ava
+	                                     2x Avb
+	                                     1x Avia
+	                                     1x Avib
+	                                     1x Aviia
+	                                     1x Aviib
+	                                     1x Aviiia
+	                                     1x Aviiib
+	                                     1x Aviijb
+	                                     1x Avija
+	                                     1x Avijb
+	                                     1x Avja
+	                                     1x Avjb
+	                                     1x Avjija
+	                                    16x B
+	                                     1x B1
+	                                     2x B1r
+	                                     2x B1v
+	                                    13x B2
+	                                     3x B2r
+	                                     3x B2v
+	                                    12x B3
+	                                     2x B3r
+	                                     2x B3v
+	                                     8x B4
+	                                     2x B4r
+	                                     2x B4v
+	                                     7x B5
+	                                     1x B5r
+	                                     2x B5v
+	                                     1x B6
+	                                     3x B6r
+	                                     2x B6v
+	                                     2x B7r
+	                                     2x B7v
+	                                     2x B8r
+	                                     3x B8v
+	                                     1x Bi
+	                                     2x Bii
+	                                     1x Biii
+	                                     3x Biiij
+	                                     1x Biiijb
+	                                     6x Biij
+	                                     1x Biija
+	                                     1x Biijb
+	                                     4x Bij
+	                                     1x Bijb
+	                                     1x Bja
+	                                     1x Bjb
+	                                     1x Br
+	                                     1x Bv
+	                                     1x Bva
+	                                     1x Bvb
+	                                     1x Bviib
+	                                     1x Bviija
+	                                     1x Bviijb
+	                                     1x Bvija
+	                                     1x Bvja
+	                                     1x Bvjb
+	                                    15x C
+	                                     2x C1r
+	                                     2x C1v
+	                                    12x C2
+	                                     4x C2r
+	                                     4x C2v
+	                                    12x C3
+	                                     3x C3r
+	                                     3x C3v
+	                                     7x C4
+	                                     3x C4r
+	                                     3x C4v
+	                                     6x C5
+	                                     2x C5r
+	                                     2x C5v
+	                                     2x C6r
+	                                     2x C6v
+	                                     1x C7r
+	                                     1x C7v
+	                                     1x C8r
+	                                     1x C8v
+	                                     1x Ci
+	                                     1x Cii
+	                                     1x Ciii
+	                                     3x Ciiij
+	                                     6x Ciij
+	                                     6x Cij
+	                                     2x Cr
+	                                     2x Cv
+	                                    16x D
+	                                     1x D1r
+	                                     1x D1v
+	                                    11x D2
+	                                     3x D2r
+	                                     3x D2v
+	                                    11x D3
+	                                     2x D3r
+	                                     2x D3v
+	                                     6x D4
+	                                     2x D4r
+	                                     2x D4v
+	                                     6x D5
+	                                     1x D5r
+	                                     1x D5v
+	                                     1x D6r
+	                                     1x D6v
+	                                     1x D7r
+	                                     1x D7v
+	                                     1x D8r
+	                                     1x D8v
+	                                     3x Diiij
+	                                     1x Diiija
+	                                     5x Diij
+	                                     1x Diija
+	                                     1x Diijb
+	                                     6x Dij
+	                                     1x Dijb
+	                                     1x Dja
+	                                     1x Djb
+	                                     2x Dr
+	                                     2x Dv
+	                                    12x E
+	                                     1x E1r
+	                                     1x E1v
+	                                     7x E2
+	                                     3x E2r
+	                                     2x E2v
+	                                     7x E3
+	                                     2x E3r
+	                                     1x E3v
+	                                     5x E4
+	                                     1x E4r
+	                                     4x E5
+	                                     1x E5r
+	                                     1x E5v
+	                                     1x E6r
+	                                     1x E6v
+	                                     1x E7r
+	                                     1x E7v
+	                                     1x E8r
+	                                     1x E8v
+	                                     2x Ei
+	                                     1x Eiiij
+	                                     5x Eiij
+	                                     5x Eij
+	                                     1x Er
+	                                     3x Ev
+	                                     9x F
+	                                     1x F1
+	                                     6x F2
+	                                     2x F2r
+	                                     2x F2v
+	                                     7x F3
+	                                     2x F3r
+	                                     1x F3v
+	                                     5x F4
+	                                     1x F4r
+	                                     2x F4v
+	                                     5x F5
+	                                     1x F5r
+	                                     1x F5v
+	                                     1x F6
+	                                     2x F6r
+	                                     1x F6v
+	                                     1x F7r
+	                                     1x F7v
+	                                     1x F8r
+	                                     1x F8v
+	                                     1x Fi
+	                                     1x Fiiij
+	                                     4x Fiij
+	                                     4x Fij
+	                                     2x Fr
+	                                     3x Fv
+	                                    10x G
+	                                     6x G2
+	                                     2x G2r
+	                                     1x G2v
+	                                     7x G3
+	                                     1x G3r
+	                                     1x G3v
+	                                     5x G4
+	                                     1x G4r
+	                                     1x G4v
+	                                     5x G5
+	                                     1x G5r
+	                                     1x G5v
+	                                     1x G6r
+	                                     1x G6v
+	                                     1x G7r
+	                                     1x G7v
+	                                     1x G8r
+	                                     1x G8v
+	                                     1x Gi
+	                                     1x Giij
+	                                     1x Gij
+	                                     1x Gr
+	                                     1x Gv
+	                                     8x H
+	                                     7x H2
+	                                     1x H2r
+	                                     1x H2v
+	                                     6x H3
+	                                     4x H4
+	                                     4x H5
+	                                     1x Hiij
+	                                     1x Hij
+	                                     1x Hr
+	                                     1x Hv
+	                                     8x I
+	                                     6x I2
+	                                     5x I3
+	                                     4x I4
+	                                     4x I5
+	                                     1x Iv
+	                                     6x K
+	                                     5x K2
+	                                     5x K3
+	                                     4x K4
+	                                     4x K5
+	                                     1x Kiij
+	                                     1x Kij
+	                                     4x L
+	                                     5x L2
+	                                     5x L3
+	                                     3x L4
+	                                     4x L5
+	                                     1x Liij
+	                                     1x Lij
+	                                     5x M
+	                                     5x M2
+	                                     5x M3
+	                                     3x M4
+	                                     3x M5
+	                                     1x Mij
+	                                     5x N
+	                                     5x N2
+	                                     5x N3
+	                                     4x N4
+	                                     3x N5
+	                                     1x Niij
+	                                     2x O
+	                                     3x O2
+	                                     3x O3
+	                                     2x O4
+	                                     2x O5
+	                                     2x P
+	                                     3x P2
+	                                     3x P3
+	                                     2x P4
+	                                     2x P5
+	                                     4x Q
+	                                     4x Q2
+	                                     4x Q3
+	                                     3x Q4
+	                                     3x Q5
+	                                     3x R
+	                                     3x R2
+	                                     3x R3
+	                                     2x R4
+	                                     2x R5
+	                                     2x S
+	                                     1x S2
+	                                     1x S3
+	                                     1x S4
+	                                     1x S5
+	                                     2x T
+	                                     2x T2
+	                                     2x T3
+	                                     1x T4
+	                                     1x T5
+	                                     3x V
+	                                     2x V2
+	                                     1x V3
+	                                     1x V5
+	                                     2x X
+	                                     2x X2
+	                                     1x X3
+	                                     1x X4
+	                                     1x X5
+	                                     1x Y
+	                                     1x Y2
+	                                     1x Y3
+	                                     1x Y4
+	                                     1x Y5
+	                                     1x Z
+	                                     1x Z2
+	                                     1x Z3
+	                                     1x Z4
+	                                     1x Z5
+	                                     1x a1r
+	                                     1x a1v|blanco
+	                                     1x a2r
+	                                     1x a2v
+	                                     1x a3r
+	                                     1x a3v
+	                                     1x a4r
+	                                     2x a4v
+	                                     1x a5r
+	                                     1x a5v
+	                                     1x a6r
+	                                     1x a6v|blanco
+	                                     1x a7r
+	                                     1x a7v
+	                                     1x a8r
+	                                     1x a8v
+	                                     1x aijr
+	                                     1x aijv
+	                                     1x b1r
+	                                     1x b1v
+	                                     1x b2r
+	                                     1x b2v
+	                                     1x b3r
+	                                     1x b3v
+	                                     1x b4r
+	                                     1x b4v
+	                                     1x b5r
+	                                     1x b5v
+	                                     1x b6r
+	                                     1x b6v
+	                                     1x b7r
+	                                     1x b7v
+	                                     1x b8r
+	                                     1x b8v
+	                                     1x bijr
+	                                     1x bijv
+	                                     1x c1r
+	                                     1x c1v
+	                                     1x c2r
+	                                     1x c2v
+	                                     1x c3r
+	                                     1x c3v
+	                                     1x c4r
+	                                     1x c4v
+	                                     1x c5r
+	                                     1x c5v
+	                                     1x c6r
+	                                     1x c6v
+	                                     1x cl
+	                                     1x cli
+	                                     1x clii
+	                                     1x cliii
+	                                     1x cliv
+	                                     1x clix
+	                                     1x clv
+	                                     1x clvi
+	                                     1x clvii
+	                                     1x clviii
+	                                     1x clx
+	                                     1x clxi
+	                                     1x clxii
+	                                     1x clxiii
+	                                     1x clxiv
+	                                     1x clxv
+	                                     1x clxvi
+	                                     1x cxl
+	                                     1x cxli
+	                                     1x cxlii
+	                                     1x cxliii
+	                                     1x cxliv
+	                                     1x cxlix
+	                                     1x cxlv
+	                                     1x cxlvi
+	                                     1x cxlvii
+	                                     1x cxlviii
+	                                     1x cxxix
+	                                     1x cxxx
+	                                     1x cxxxi
+	                                     1x cxxxii
+	                                     1x cxxxiii
+	                                     1x cxxxiv
+	                                     1x cxxxix
+	                                     1x cxxxv
+	                                     1x cxxxvi
+	                                     1x cxxxvii
+	                                     1x cxxxviii
+	                                     4x i
+	                                     4x ii
+	                                     4x iii
+	                                     2x iv
+	                                     2x v
+	                                     1x vi
+	                                     1x vii
+	                                     1x viii
+	                                     1x π1r
+	                                     1x π1v
+	                                     1x π2r
+	                                     1x π2v
+	                   unit=          1118x folio
+	                                  3536x page
 
-	<pb>               facs=          60x Graecus
-	                          "                      3x blanco
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s013.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s014.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s015.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s016.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s017.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s018.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s019.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s020.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s021.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s022.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s023.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s024.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s025.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s026.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s027.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s028.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s029.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s030.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s031.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s032.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s033.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s034.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s035.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s036.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s037.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s038.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s039.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s040.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s041.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s042.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s043.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s044.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s045.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s046.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s047.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s048.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s049.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s050.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s051.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s052.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s053.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s054.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s055.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s056.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s057.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s058.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s059.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s060.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s061.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s062.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s063.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s064.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s065.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s066.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s067.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s068.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s069.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s070.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s071.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s072.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s073.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s074.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s075.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s076.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s077.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s078.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s079.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s080.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s081.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s082.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s083.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s084.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s085.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s086.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s087.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s088.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s089.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s090.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s091.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s092.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s093.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s094.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s095.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s096.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s097.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s098.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s099.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s100.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s101.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s102.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s103.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s104.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s105.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s106.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s107.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s108.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s109.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s110.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s111.html
-	                          "                      1x http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s112.html
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/100?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/101?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/102?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/103?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/104?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/105?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/106?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/107?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/108?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/109?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/10?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/110?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/111?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/112?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/113?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/114?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/115?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/116?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/117?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/118?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/119?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/11?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/120?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/121?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/122?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/123?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/124?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/125?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/126?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/127?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/128?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/129?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/12?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/130?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/131?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/132?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/133?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/134?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/135?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/136?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/137?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/138?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/139?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/13?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/140?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/141?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/142?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/143?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/144?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/145?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/146?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/147?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/148?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/149?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/14?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/150?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/151?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/152?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/153?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/154?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/155?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/156?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/157?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/158?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/159?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/15?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/160?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/161?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/162?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/163?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/164?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/165?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/166?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/167?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/168?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/169?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/16?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/170?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/171?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/172?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/173?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/174?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/175?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/17?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/18?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/19?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/20?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/21?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/22?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/23?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/24?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/25?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/26?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/27?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/28?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/29?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/30?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/31?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/32?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/33?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/34?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/35?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/36?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/37?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/38?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/39?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/3?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/40?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/41?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/42?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/43?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/44?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/45?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/46?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/47?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/48?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/49?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/4?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/50?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/51?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/52?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/53?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/54?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/55?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/56?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/57?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/58?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/59?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/5?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/60?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/61?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/62?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/63?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/64?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/65?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/66?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/67?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/68?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/69?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/6?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/70?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/71?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/72?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/73?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/74?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/75?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/76?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/77?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/78?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/79?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/7?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/80?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/81?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/82?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/83?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/84?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/85?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/86?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/87?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/88?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/89?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/8?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/90?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/91?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/92?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/93?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/94?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/95?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/96?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/97?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/98?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/99?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A09214.0001.001/9?hi=0;vid=14811;q1=pedantius
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/100:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/101:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/102:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/103:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/104:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/105:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/106:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/108:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/109:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/110:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/111:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/112:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/113:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/114:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/115:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/116:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/117:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/118:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/119:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/120:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/121:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/122:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/123:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/124:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/125:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/126:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/127:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/128:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/129:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/130:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/131:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/132:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/133:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/134:11?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/135:12?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/136:12?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/137:12?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/138:12?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/143:13?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/144:14?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/14:2?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/17:4?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/21:5?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/22:5?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/23:5?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/24:5?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/25:6?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/27:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/28:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/29:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/30:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/31:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/32:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/33:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/34:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/35:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/36:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/37:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/38:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/39:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/40:7?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/41:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/42:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/43:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/44:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/45:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/46:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/47:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/48:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/49:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/50:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/51:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/52:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/53:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/54:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/55:8?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/56:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/57:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/58:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/59:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/60:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/61:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/62:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/63:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/64:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/65:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/66:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/67:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/68:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/69:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/70:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/71:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/72:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/73:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/74:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/75:9?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/76:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/77:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/78:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/79:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/80:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/81:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/82:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/83:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/84:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/85:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/86:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/87:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/88:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/89:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/90:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/91:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/92:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/93:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/94:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/95:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/96:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/97:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/98:10?vid=49333
-	                          "                      1x https://quod.lib.umich.edu/e/eebo/A40366.0001.001/99:10?vid=49333
-	                          "                     60x textus
+	<term>             type=           118x acts
+	                                   118x chorus
+	                                   118x diction
+	                                   118x genre
+	                                   118x medium
 
-	<term>             type=         118x acts
-	                          "                    118x chorus
-	                          "                    118x diction
-	                          "                    118x genre
-	                          "                    118x medium
-
-	<title>            type=         118x main
-	                          "                    118x sub
+	<title>            type=           118x main
+	                                   118x sub
 
 Remaining Attributes and Elements
 
-	<TEI>              id=           118x X
+	<TEI>              id=             118x X
 
-	<author>                         118x 
+	<author>                           118x 
 
-	<bibl>                           118x 
+	<bibl>                             118x 
 
-	<body>                           118x 
+	<body>                             118x 
 
-	<date>                           236x 
+	<date>                             236x 
 
-	<div>              id=          2890x X
+	<div>              id=            2890x X
 
-	<editor>                         118x 
+	<editor>                           118x 
 
-	<emph>                           118x 
+	<emph>                             118x 
 
-	<fileDesc>                       118x 
+	<fileDesc>                         118x 
 
-	<head>                          2890x 
+	<head>                            2890x 
 
-	<item>                            28x 
-	                   n=             61x N
-	                          "                    120x NN
-	                          "                     38x NNN
-	                          "                      6x NNNN
+	<item>                              28x 
+	                   n=               61x N
+	                                   120x NN
+	                                    38x NNN
+	                                     6x NNNN
 
-	<keywords>                       118x 
+	<keywords>                         118x 
 
-	<lb>                            1180x 
+	<lb>                              1180x 
 
-	<milestone>        n=              3x A
-	                          "                     38x AN
-	                          "                      2x ANa
-	                          "                      2x ANb
-	                          "                     17x ANr
-	                          "                     14x ANv
-	                          "                      1x Aia
-	                          "                      2x Aii
-	                          "                      1x Aiia
-	                          "                      1x Aiib
-	                          "                      1x Aiiia
-	                          "                      1x Aiiib
-	                          "                      1x Aiiiia
-	                          "                      1x Aiiiib
-	                          "                      3x Aiiij
-	                          "                      1x Aiiija
-	                          "                      1x Aiiijb
-	                          "                      6x Aiij
-	                          "                      1x Aiija
-	                          "                      1x Aiijb
-	                          "                      1x Aiijv
-	                          "                      4x Aij
-	                          "                      1x Aija
-	                          "                      1x Aijb
-	                          "                      1x Ar
-	                          "                      1x Av
-	                          "                      2x Ava
-	                          "                      2x Avb
-	                          "                      1x Avia
-	                          "                      1x Avib
-	                          "                      1x Aviia
-	                          "                      1x Aviib
-	                          "                      1x Aviiia
-	                          "                      1x Aviiib
-	                          "                      1x Aviijb
-	                          "                      1x Avija
-	                          "                      1x Avijb
-	                          "                      1x Avja
-	                          "                      1x Avjb
-	                          "                      1x Avjija
-	                          "                     16x B
-	                          "                     42x BN
-	                          "                     17x BNr
-	                          "                     18x BNv
-	                          "                      1x Bi
-	                          "                      2x Bii
-	                          "                      1x Biii
-	                          "                      3x Biiij
-	                          "                      1x Biiijb
-	                          "                      6x Biij
-	                          "                      1x Biija
-	                          "                      1x Biijb
-	                          "                      4x Bij
-	                          "                      1x Bijb
-	                          "                      1x Bja
-	                          "                      1x Bjb
-	                          "                      1x Br
-	                          "                      1x Bv
-	                          "                      1x Bva
-	                          "                      1x Bvb
-	                          "                      1x Bviib
-	                          "                      1x Bviija
-	                          "                      1x Bviijb
-	                          "                      1x Bvija
-	                          "                      1x Bvja
-	                          "                      1x Bvjb
-	                          "                     15x C
-	                          "                     37x CN
-	                          "                     18x CNr
-	                          "                     18x CNv
-	                          "                      1x Ci
-	                          "                      1x Cii
-	                          "                      1x Ciii
-	                          "                      3x Ciiij
-	                          "                      6x Ciij
-	                          "                      6x Cij
-	                          "                      2x Cr
-	                          "                      2x Cv
-	                          "                     16x D
-	                          "                     34x DN
-	                          "                     12x DNr
-	                          "                     12x DNv
-	                          "                      3x Diiij
-	                          "                      1x Diiija
-	                          "                      5x Diij
-	                          "                      1x Diija
-	                          "                      1x Diijb
-	                          "                      6x Dij
-	                          "                      1x Dijb
-	                          "                      1x Dja
-	                          "                      1x Djb
-	                          "                      2x Dr
-	                          "                      2x Dv
-	                          "                     12x E
-	                          "                     23x EN
-	                          "                     11x ENr
-	                          "                      8x ENv
-	                          "                      2x Ei
-	                          "                      1x Eiiij
-	                          "                      5x Eiij
-	                          "                      5x Eij
-	                          "                      1x Er
-	                          "                      3x Ev
-	                          "                      9x F
-	                          "                     25x FN
-	                          "                     10x FNr
-	                          "                      9x FNv
-	                          "                      1x Fi
-	                          "                      1x Fiiij
-	                          "                      4x Fiij
-	                          "                      4x Fij
-	                          "                      2x Fr
-	                          "                      3x Fv
-	                          "                     10x G
-	                          "                     23x GN
-	                          "                      8x GNr
-	                          "                      7x GNv
-	                          "                      1x Gi
-	                          "                      1x Giij
-	                          "                      1x Gij
-	                          "                      1x Gr
-	                          "                      1x Gv
-	                          "                      8x H
-	                          "                     21x HN
-	                          "                      1x HNr
-	                          "                      1x HNv
-	                          "                      1x Hiij
-	                          "                      1x Hij
-	                          "                      1x Hr
-	                          "                      1x Hv
-	                          "                      8x I
-	                          "                     19x IN
-	                          "                      1x Iv
-	                          "                      6x K
-	                          "                     18x KN
-	                          "                      1x Kiij
-	                          "                      1x Kij
-	                          "                      4x L
-	                          "                     17x LN
-	                          "                      1x Liij
-	                          "                      1x Lij
-	                          "                      5x M
-	                          "                     16x MN
-	                          "                      1x Mij
-	                          "                      8x N
-	                          "                     75x NN
-	                          "                    104x NNN
-	                          "                      1x Niij
-	                          "                      2x O
-	                          "                     10x ON
-	                          "                      2x P
-	                          "                     10x PN
-	                          "                      4x Q
-	                          "                     14x QN
-	                          "                      3x R
-	                          "                     10x RN
-	                          "                      2x S
-	                          "                      4x SN
-	                          "                      2x T
-	                          "                      6x TN
-	                          "                      3x V
-	                          "                      4x VN
-	                          "                      2x X
-	                          "                      5x XN
-	                          "                      1x Y
-	                          "                      4x YN
-	                          "                      1x Z
-	                          "                      4x ZN
-	                          "                      8x aNr
-	                          "                      7x aNv
-	                          "                      2x aNv|blanco
-	                          "                      1x aijr
-	                          "                      1x aijv
-	                          "                      8x bNr
-	                          "                      8x bNv
-	                          "                      1x bijr
-	                          "                      1x bijv
-	                          "                      6x cNr
-	                          "                      6x cNv
-	                          "                      1x v
-	                          "                      2x πNr
-	                          "                      2x πNv
+	<milestone>        source=           3x blanco
+	                                   100x http://mateo.uni-mannheim.de/camena/schopjacN/jpg/sNNN.html
+	                                     7x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/N?hi=N;vid=NNNNN;qN=pedantius
+	                                    56x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NN:N?vid=NNNNN
+	                                    24x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NN:NN?vid=NNNNN
+	                                    90x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NN?hi=N;vid=NNNNN;qN=pedantius
+	                                    40x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NNN:NN?vid=NNNNN
+	                                    76x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NNN?hi=N;vid=NNNNN;qN=pedantius
+	                                    60x textus Graecus
 
-	<name>                           236x 
+	<name>                             236x 
 
-	<note>             id=          3109x X
+	<note>             id=            3109x X
 
-	<p>                            189963x 
+	<p>                             189877x 
 
-	<pb>               n=            240x N
-	                          "                   2218x NN
-	                          "                   1022x NNN
-	                          "                      1x cl
-	                          "                      1x cli
-	                          "                      1x clii
-	                          "                      1x cliii
-	                          "                      1x cliv
-	                          "                      1x clix
-	                          "                      1x clv
-	                          "                      1x clvi
-	                          "                      1x clvii
-	                          "                      1x clviii
-	                          "                      1x clx
-	                          "                      1x clxi
-	                          "                      1x clxii
-	                          "                      1x clxiii
-	                          "                      1x clxiv
-	                          "                      1x clxv
-	                          "                      1x clxvi
-	                          "                      1x cxl
-	                          "                      1x cxli
-	                          "                      1x cxlii
-	                          "                      1x cxliii
-	                          "                      1x cxliv
-	                          "                      1x cxlix
-	                          "                      1x cxlv
-	                          "                      1x cxlvi
-	                          "                      1x cxlvii
-	                          "                      1x cxlviii
-	                          "                      1x cxxix
-	                          "                      1x cxxx
-	                          "                      1x cxxxi
-	                          "                      1x cxxxii
-	                          "                      1x cxxxiii
-	                          "                      1x cxxxiv
-	                          "                      1x cxxxix
-	                          "                      1x cxxxv
-	                          "                      1x cxxxvi
-	                          "                      1x cxxxvii
-	                          "                      1x cxxxviii
-	                          "                      4x i
-	                          "                      4x ii
-	                          "                      4x iii
-	                          "                      2x iv
-	                          "                      1x v
-	                          "                      1x vi
-	                          "                      1x vii
-	                          "                      1x viii
+	<profileDesc>                      118x 
 
-	<profileDesc>                    118x 
+	<ptr>              n=              290x N
+	                                  2035x NN
+	                                   784x NNN
+	                   target=        3109x X
 
-	<ptr>              n=            290x N
-	                          "                   2035x NN
-	                          "                    784x NNN
-	                   target=      3109x X
+	<pubPlace>                         118x 
 
-	<pubPlace>                       118x 
+	<publicationStmt>                  118x 
 
-	<publicationStmt>                118x 
+	<publisher>                        118x 
 
-	<publisher>                      118x 
+	<quote>                             70x 
 
-	<quote>                           70x 
+	<ref>              target=         268x X
 
-	<ref>              target=       268x X
+	<resp>                             118x 
 
-	<resp>                           118x 
+	<respStmt>                         118x 
 
-	<respStmt>                       118x 
+	<sourceDesc>                       118x 
 
-	<sourceDesc>                     118x 
+	<teiHeader>                        118x 
 
-	<teiHeader>                      118x 
+	<text>                             118x 
 
-	<text>                           118x 
+	<textClass>                        118x 
 
-	<textClass>                      118x 
+	<title>                            118x 
 
-	<title>                          118x 
-
-	<titleStmt>                      118x 
+	<titleStmt>                        118x 

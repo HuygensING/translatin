@@ -55,7 +55,7 @@
         <div type="level1" xml:id="front">
   <head>Front</head>
   <p>/</p>
-  <p><milestone unit="folio" n="π1r"/></p>
+  <p><milestone unit="folio" facs="π1r"/></p>
   <p>PHILEDONIUS.</p>
   <p>TONNEELSPEL;</p>
   <p>Slaande op de woorden des Wijzemans:</p>
@@ -70,7 +70,7 @@
   <p>t’AMSTERDAM,</p>
   <p>Ter Drukkerye van KORNELIS DE BRUIN, Boekdrukker,</p>
   <p>vooraan in de Nieuwe Lelystraat, in Sonsbeek. ANNO 1657,</p>
-  <p><milestone unit="folio" n="π1v"/></p>
+  <p><milestone unit="folio" facs="π1v"/></p>
   <p>AD LECTOREM.</p>
   <p>Non, quod scriptione hac magnopere nobis plaudamus, drama hoc
   publici juris factum est; sed quod votis multorum fuit obsequendum,
@@ -82,7 +82,7 @@
   belgica scenarum explicatio praefixa est, ut romani sermonis
   imperitus, curiosus tamen spectator, quid geratur capiat, quamvis,
   quid dicatur, non intelligat.</p>
-  <p><milestone unit="folio" n="π2r"/></p>
+  <p><milestone unit="folio" facs="π2r"/></p>
   <p>TOONEELKRANS</p>
   <p>Voor den Edelen Jongkheere</p>
   <p>NIKOLAES VAN VLOOSWYK,</p>
@@ -112,7 +112,7 @@
   <p>(20) Bekleet, daer ghy de weerelt leert verlaeten,</p>
   <p>En d’ydelheit, die, als een mist, verdwijnt</p>
   <p>In leerzaem brein, waar ’t hemelsch licht verschijnt.</p>
-  <p><milestone unit="folio" n="π2v"/></p>
+  <p><milestone unit="folio" facs="π2v"/></p>
   <p>Wie vrolijck leert en sticht verdient Godts prijzen.</p>
   <p>De wijsheit is een zelve, ’t onderwijzen</p>
   <p>(25) In middelen verscheiden. Wijsheit spreeckt</p>
@@ -133,1201 +133,1203 @@
 </div>
 <div type="level1" xml:id="main">
   <head>Main</head>
-  <p><milestone unit="folio" n="A1r"/></p>
+  <p><milestone unit="folio" facs="A1r"/></p>
   <p>PHILEDONIUS.</p>
-</div>
-<div type="level1" xml:id="het-eerste-bedryf">
-  <head>HET EERSTE BEDRYF</head>
-  <p></p>
-</div>
-<div type="level1" xml:id="de-i.-uitkomste">
-  <head>DE I. UITKOMSTE</head>
-  <p>Philedonius of Lusthart stelt sijn geluk boven den staat der</p>
-  <p>Koningen en Doorluchtige Helden, brengt de Fortuin on-</p>
-  <p>der sijne macht, en waant der Goden gelijk te zijn.</p>
-  <p>Phil. QUacumque vultu lucido terram aspicit</p>
-  <p>Lustrator orbis aureo cinctus die,</p>
-  <p>Seu cum rubentem purpuram mane induit,</p>
-  <p>Seu cum diurna jam Fatigatus via</p>
-  <p>(5) Permensus aethram abnoctat hesperio mari,</p>
-  <p>Beatiorem neminem, quam me videt.</p>
-  <p>Sublimis alto rex solio sedet quidem;</p>
-  <p>Sed cura eodem: laureae pulchrum est decus;</p>
-  <p>At sanguine emitur: regium sceptrum has manus</p>
-  <p>(10) Satis deceret; sed grave est pondus nimis.</p>
-  <p>Regnent timeri, qui volunt, simul &amp; timent:</p>
-  <p>Nos tutiori subvehit cursu quies.</p>
-  <p>Fortuna adesdum, quicquid in cunctos potes,</p>
-  <p>Expende in unum, si quid est in me tui,</p>
-  <p>(15) Nolo meum sit, unicum hoc deereat mihi:</p>
-  <p>Sortem timebam: summa jam rerum attigi,</p>
-  <p>Et haec subacta est: jam feror cunctos supra,</p>
-  <p>Mundoque major: sed quid in terris moror?</p>
-  <p>Jam me Lyaei tigres, aut Martis ferant</p>
-  <p>(20) Equi per astra: debitum hoc regnum mihi:</p>
-  <p>Petatur aether. sed nec hic placet labor,</p>
-  <p>Dimitto Superos; imperet coelo Deus,</p>
-  <p>Mihi terra coelum est; claustra si pateant poli,</p>
-  <p><milestone unit="folio" n="A1v"/></p>
-  <p>Quid esse vile dixero, &amp; primo Jove</p>
-  <p>(25) Regnare nollem; major, aut par sum Diis.</p>
-  <p>Ibo ibo quo me fata, quo venti ferent.</p>
-</div>
-<div type="level1" xml:id="de-ii.-uitkomste">
-  <head>DE II. UITKOMSTE</head>
-  <p>De Voorzichtigheit leert Philedonius te vergeefs, dat ’er</p>
-  <p>een eenige Godtheit is, die elk een te vreezen staat.</p>
-  <p>Quid insolenter turgidis buccis crepas?</p>
-  <p>Dum plena nimius vela distendit favor,</p>
-  <p>Distenta prudens contrahe; in scyllas rues,</p>
-  <p>(30) Si tota laxo flamina admittis sinu.</p>
-  <p>Prope sunt charybdes; Dona fortunae putas</p>
-  <p>Dolis carere. Philed. Dona fortunae execror.</p>
-  <p>Mendicet illa supplici timidus prece</p>
-  <p>Ruris colonus. Prud. illa te coelo efferunt.</p>
-  <p>Phil. (35) Fortuna non, Diis sed parem virtus facit.</p>
-  <p>Prud. Thrasone plenus Marte ventoso tumes;</p>
-  <p>Magna illa virtus. Phil. tanta, quam metuant Dii;</p>
-  <p>Ego terror ingens caelitum. Juno Herculem</p>
-  <p>Vides renatum. Prud. Macte cui Mavors tumet</p>
-  <p>(40) Pugnace lingua: bella cum Diis geris,</p>
-  <p>Sed fabulosis; territas vacuos Polos.</p>
-  <p>Meliora disce; metue, qui cunctos, Deum</p>
-  <p>Habet sub ictu Phil. Quem mihi Deum canis?</p>
-  <p>Prud. Hunc qui superbos spiritus major domat.</p>
-  <p>Phil. (45) Quis ille, quis me major? Prud. is cujus manu</p>
-  <p>Roratur, aether, sive qua cursum incipit</p>
-  <p>Auriga lucis, sive qua figit rotam.</p>
-  <p>Phil. Mihi hic timendus, qui procul caelum incolit.</p>
-  <p>Prud. Ut longa Regum, longa sic Dei est manus:</p>
-  <p>(50) Idem ille vibrat fulmen excussum eminus.</p>
-  <p><milestone unit="folio" n="A2r"/></p>
-  <p>Phil. Collisa nubes fulmen e caelo excutit:</p>
-  <p>Prud. Quis convolutos nubium rotat globos?</p>
-  <p>Phil. Agitator aethrae ventus, &amp; motor sali.</p>
-  <p>Prud. Quis ergo ventos impetu primo incitat?</p>
-  <p>Phil. (55) Mens magna mundi, quae timens caeli luem</p>
-  <p>Auras recenti semper aflatu innovat.</p>
-  <p>Prud. O grande &amp; altum mentis inflatae sophos?</p>
-  <p>Quis te, gigantem fastus, e Nano facit</p>
-  <p>Pygmaee? sic ne pumilius insultet Deo?</p>
-  <p>(60) Nec terret animum sortis incertae fides?</p>
-  <p>Phil. Mihi jam ligatas illa concessit manus.</p>
-  <p>Prud. At en solutas ad fugam pennas quatit.</p>
-  <p>Phil. Mene illa fugiat? Prud. Nempe mireris globum</p>
-  <p>Hinc inde volvi, aut lubrico flexu rotam</p>
-  <p>(65) Sursum &amp; deorsum: sors sua tantum sibi</p>
-  <p>Levitate constat. Phil. Ista tu timidis cane.</p>
-  <p>Prud. Et tu verere, subde jam Deo manus,</p>
-  <p>Jam dum piae sunt, forsitan sero voles.</p>
-  <p>Phil. Bene est, abivit: ocyus pedem efferat,</p>
-  <p>(70) Migretque Athenas, quisquis elato ambulat</p>
-  <p>Minax cothurno, soccipes lepor hic placet.</p>
-  <p>Procul este momi: Judicum vultus decet</p>
-  <p>Barbata gravitas; prima nunquam aetas capit</p>
-  <p>Morum senectam: sapere qui patruos jubet</p>
-  <p>(75) Parvum nepotem, desipit: etiam Cato</p>
-  <p>Primae tributum ludicrum aetati dedit.</p>
-  <p><milestone unit="folio" n="A2v"/></p>
-</div>
-<div type="level1" xml:id="de-iii.-uitkomste">
-  <head>DE III. UITKOMSTE</head>
-  <p>Overvloet en Eer beloven Philedonius te verrijken. De</p>
-  <p>Wellust bekoort hem tot alle wulpscheit, en viert met hem</p>
-  <p>de feest van Bacchus.</p>
-  <p>Opul. Quicumque mundo fidit, &amp; plenus mei</p>
-  <p>Curisque vacuus liberos ducit dies,</p>
-  <p>Verè est beatus. Phil. Sic reor, vox haec meo</p>
-  <p>(80) Sapit palato: Stoicum lingat salem</p>
-  <p>Unguesque rodat, quisquis est parcus sui</p>
-  <p>Durusque censor: vivitur parvo bene,</p>
-  <p>Fabella Codri est; sobrias pauper dapes</p>
-  <p>Laudet Platones, me juvant mensae Jovi</p>
-  <p>(85) Quoque invidendae, quidquid emungunt suis</p>
-  <p>Praelis Calabri, quicquid uvi fluo bibit</p>
-  <p>Cratere Bacchus, id meam sitim decet.</p>
-  <p>Hon. Sed &amp; hoc agendum; te suo fama evehat</p>
-  <p>Super astra curru, moxque centenas tubas</p>
-  <p>(90) Et huc, &amp; illuc solem ad utrumque explicans,</p>
-  <p>Tuum per oras ultimas nomen ferat.</p>
-  <p>Phil. Idem ipse tacitus volvo: quo trahitur sua</p>
-  <p>Phaebus quadriga, nec meae laudes vehent.</p>
-  <p>Orchestra me mirare; proh! qualem virum</p>
-  <p>(95) Exclamet index digitus ingeminans, hic est.</p>
-  <p>Opul. Et ipsa plena munera adjiciam manu</p>
-  <p>Opulenta terrae, quodque pretioso natat</p>
-  <p>Gemmantis Hermi gurgite, aut Tagi alveo</p>
-  <p>Vestras ad arcas aureo rivo fluet.</p>
-  <p>Phil. (100) Jam me beatum! quicquid arcanis alit</p>
-  <p><milestone unit="folio" n="A3r"/></p>
-  <p>Plutus latebris, quicquid optavit Mydas</p>
-  <p>Partum, &amp; paratum est; vota transcendi mea.</p>
-  <p>Sed quae sonanti turba prosiliens solo</p>
-  <p>Procax protervum ducit in scenam pedem?</p>
-  <p>Vol. (105) Libet libet jocari,</p>
-  <p>Sic nos monet juventa,</p>
-  <p>Iuv. Libet libet jocari,</p>
-  <p>Sic nos monet voluptas</p>
-  <p>Vol. Decet implicare vernis</p>
-  <p>(110) Nitidos rosis capillos;</p>
-  <p>Mero juvat madere:</p>
-  <p>His influat labellis,</p>
-  <p>Sitientibus labellis</p>
-  <p>Autumnus, atque Bacchus.</p>
-  <p>(115) Huc gratiae nitentes,</p>
-  <p>Jocique saltitantes,</p>
-  <p>Citatulis choreis,</p>
-  <p>Passuque mollicello Huc advolent lepores,</p>
-  <p>(120) Quos laxior cachinnus,</p>
-  <p>Decorque fronte blanda,</p>
-  <p>Et fulgurans ocellis</p>
-  <p>Circumvolat, strepitque:</p>
-  <p>Dulcem juvat furorem</p>
-  <p>(125) Agitare cum Lyaeo:</p>
-  <p>Furebat olim Orestes</p>
-  <p>Sed ille matricida;</p>
-  <p>Nos, nos suaviore</p>
-  <p>Ardebimus calore.</p>
-  <p>(130) Libet libet jocari</p>
-  <p>Sic nos docet juventa</p>
-  <p>Sic nos docet voluptas</p>
-  <p>Prud. Gens absque consilio, &amp; prudentia, utinam saperent, &amp;
-  intelli-</p>
-  <p>gerent, &amp; novissima providerent.</p>
-</div>
-<div type="level1" xml:id="de-iv.-uitkomste">
-  <head>DE IV. UITKOMSTE</head>
-  <p>De Voorzichtigheit beklaagt Philedonius blintheit, en</p>
-  <p>voorzegt hem het inwendig knagen des gemoedts.</p>
-  <p>Quam triste caecis incubat terris chaos!</p>
-  <p>(135) Non una nox est; quodque in extremis solet*</p>
-  <p><milestone unit="folio" n="A3v"/></p>
-  <p>Ipsas tenebras aureum vocant diem:</p>
-  <p>Eheu voluptas mentis obtenebrat jubar,</p>
-  <p>Caecosque, seu Sampsonis ad molam, trahit:</p>
-  <p>Nec esse sub labore se miseri putant.</p>
-  <p>(140) Ite, ite; vindex sequitur à tergo Deus:</p>
-  <p>Sibi notus ultor animus excutiet tibi</p>
-  <p>Tenebras, miseriae sub quibus latitant tuae:</p>
-  <p>Dum vina capies; lachrymae in vinum cadent;</p>
-  <p>Sic laeta maestus pocla miscebit dolor.</p>
-  <p>(145) Epulabere auro; sed tuas intus fibras</p>
-  <p>Scelerum colubri dente mordaci appetent.</p>
-  <p>At ipse passu languido in scenam subit;</p>
-  <p>Non sic abibat: qualis, en qualis venit.</p>
-  <p>Retro aucupabor commodum verbis locum.</p>
-</div>
-<div type="level1" xml:id="de-v.-uitkomste">
-  <head>DE V. UITKOMSTE</head>
-  <p>Philedonius wordt in zijn gemoet schrickelijk gepijnight.</p>
-  <p>(150) Quam se cruentis animus incurset flagris,</p>
-  <p>Quicunque culpa plenus, &amp; timidus mori,</p>
-  <p>Didicisse potuit; qui novum exemplum petit</p>
-  <p>Me videat; unum pectus hoc, cruces, rotas</p>
-  <p>Serras acuto dente mordaces nimis,</p>
-  <p>(155) Saturumque nunquam vulturem Tytii gerit.</p>
-  <p>Quis tot timores, quis tot equuleos ferat?</p>
-  <p>Det aliquis ensem, si quis è vobis pius,</p>
-  <p>Licet immerentem liberet tantis malis,</p>
-  <p>Centumque in una morte consumat neces.</p>
-  <p>(160) Quam crucior! âh quam crucior! ante oculos volat</p>
-  <p>Nigra turba scelerum, seque nolenti ingerunt,</p>
-  <p><milestone unit="folio" n="A4r"/></p>
-  <p>Mihique memet exprobrant. Nemo hunc potest</p>
-  <p>Animum innocentem facere, nam sibi nocens</p>
-  <p>A se tenetur, seque seu reum arguit.</p>
-  <p>(165) Peccasse nollem; jam recrudescit nefas,</p>
-  <p>Semperque fieri, quod semel factum puto.</p>
-  <p>Quid me futurum? si forem parum nocens</p>
-  <p>Tigres rogarem, vel famem ultricis Leae.</p>
-  <p>Graviora jam timenda; tu tellus viam</p>
-  <p>(170) Mihi fac ad umbras. ibo: sed sonti plaga</p>
-  <p>Decreta turbae me fugit; aliquid meis,</p>
-  <p>Majus sceleribus debitum; infernus quoque</p>
-  <p>Mihi parva poena est: quisquis animarum arbiter</p>
-  <p>Rigidum tribunal ultimi exercet fori,</p>
-  <p>(175) Jnveniat* aliquid, quod mea dignè queat</p>
-  <p>Piare noxas; non potest Acheron satis.</p>
-  <p>Quid vivo? vâh me! credite, expertus loquor,</p>
-  <p>Si tota tellus Thessala in virus fluat,</p>
-  <p>Unoque centum Dipsades jungat scypho</p>
-  <p>(180) Minus venenum est, quam quod aurato Venus</p>
-  <p>Cratere miscet. o mori, o mori, o mori.</p>
-</div>
-<div type="level1" xml:id="de-vi.-uitkomste">
-  <head>DE VI. UITKOMSTE</head>
-  <p>De Voorzichtigheit troost Philedonius: hy beraat</p>
-  <p>zich met haar.</p>
-  <p>Prud. Quis ille vultus? turbidus, timidum fremens,</p>
-  <p>Plenus minarum, spumat in labris furor;</p>
-  <p>Oculus citato flammeos motu rotat,</p>
-  <p>(185) Et mille formas Proteus, variat color.</p>
-  <p>At quae furoris causa? num Phoebo tumet,</p>
-  <p>Aut entheatum pectus à Baccho calet?</p>
-  <p><milestone unit="folio" n="A4v"/></p>
-  <p>Phil. Non illa causa est, nec pati coepit Deum</p>
-  <p>Plenum futuri pectus, &amp; sui inscium:</p>
-  <p>(190) Solem intueri conscium scelerum omnium,</p>
-  <p>Nec posse memet fugere, quem fugio tamen;</p>
-  <p>Hoc impotentem me mei, &amp; rabidum facit.</p>
-  <p>Prud. Revertere ad te: video lymphatum furor</p>
-  <p>Externat animum, da moram ac spatium tibi</p>
-  <p>(195) Et tempus irae. Phil. Capere consilium nequit</p>
-  <p>Turbatus animus. Prud. In malis vinci malum est.</p>
-  <p>Resiste, temet coge meliora exequi.</p>
-  <p>Phil. Ubi sumus anime, quo tui oblitus ruis?</p>
-  <p>Quid ipse temet moribus variis agis,</p>
-  <p>(200) Torquesque in iras? sed quis eripiet Deus</p>
-  <p>Tantis periclis? Prud. Euge maerorem excute</p>
-  <p>Te gaudio imple: si mea haec nunc non sinas</p>
-  <p>Perire monita, jam prope est, prope est salus.</p>
-  <p>Phil. En me obsequentem, flecte, quo lubet, sequar.</p>
-  <p>Prud. (205) Huc advocabo concilj mei arbitros.</p>
-  <p>Phil. Adhuc tremiscit animus &amp; sese putat</p>
-  <p>Timore, &amp; ira concuti: ut saepe Africo</p>
-  <p>Fugiente fluctus; ipsa pax Pelagi tumet,</p>
-  <p>Ventique meminit, languidas quamvis quies</p>
-  <p>(210) Fluat per undas.</p>
-</div>
-<div type="level1" xml:id="de-vii.-uitkomste">
-  <head>DE VII. UITKOMSTE</head>
-  <p>De Voorzichtigheit brengt haere raetslieden* te voorschijn,</p>
-  <p>den Tijdt, de Doot, het Oordeel, de Hel, de He-</p>
-  <p>melsche glorie, en d’Eeuwigheit, die</p>
-  <p>Philedonius onderwijzen.</p>
-  <p>Quis hic senatus, pallidâ livens togâ.</p>
-  <p>Quaenam illa monstra? mortuis vivae domus</p>
-  <p><milestone unit="folio" n="B1r"/></p>
-  <p>Repetuntur iterum? Quae novi forma haec fori?</p>
-  <p>Roma obstupesce; quantus inscribit rigor</p>
-  <p>(215) Ora atque vultus! non mihi lunas pedum,</p>
-  <p>Clavoque pictam purpuram obijciat Cato,</p>
-  <p>Magis haec verenda. Diva tu dubium rege.</p>
-  <p>Prud. Etsi humanae mentis ea sit vis, ut res absentes, tan-</p>
-  <p>quam sibi praesentes intellectui possit subiicere, &amp;</p>
-  <p>futura cogitatione praecipere: Quoniam tamen</p>
-  <p>ea plerumque (prô dolor!) hominum caecitas,</p>
-  <p>ut aetati, &amp; tempori, non aeternitati nati videantur,</p>
-  <p>omninô putavi necessarium, ut a vobis audirent, quo</p>
-  <p>pede, qua via ad patriam suam, quam propemodum</p>
-  <p>ignorare videntur, debeant decurrere. Vos ergo</p>
-  <p>quoniam jam intellexistis quanta sit res, quae in</p>
-  <p>praesenti quaestione versatur, quod nempe ex ea o-</p>
-  <p>mnis, &amp; praesens, &amp; futura felicitas dependeat,</p>
-  <p>quod rectum bonumque judicatis. ex animi senten-</p>
-  <p>tia pronunciate.</p>
-  <p>Mutator aevi, mensium bis sex pater,</p>
-  <p>(220) Cujus rotatu perpeti sequax sui</p>
-  <p>In se refertur annus, &amp; sibi redux</p>
-  <p>Occurrit ipse circulo exacto brevi.</p>
-  <p>Qualis citatis dum dies eunt rotis</p>
-  <p>Ducenda vita, dubia ne res sit, doce.</p>
-  <p>Temp. (225) Quot quot vetustas per tot annorum gradus</p>
-  <p>Tulit Platones, pectore hoc ûno gero;</p>
-  <p>Me longus usus docuit; ut quondam Jovi</p>
-  <p>Postvorta &amp; Antevorta, vel veluti data est</p>
-  <p>Anceps bifronsque forma clavigero Deo</p>
-  <p>(230) Sic unus ipse, fronte tricipiti tamen,</p>
-  <p>Quidquid capaci aeternitas claudit sinu</p>
-  <p><milestone unit="folio" n="B1v"/></p>
-  <p>Retroque lapsum est, video; mihi positum procul,</p>
-  <p>Prope est futurum; quaeque jam fluit dies</p>
-  <p>Per has arenas currit, &amp; mihi tumet</p>
-  <p>(235) Lunaris unda menstruo cursu aestuans.</p>
-  <p>Audi ergo turba, tuque qui dubius rogas;</p>
-  <p>Qualem per annos ire te deceat tuos.</p>
-  <p>Seu jam recedens auferat mundo jubar,</p>
-  <p>Seu reddat orbi rursus* accedens dies;</p>
-  <p>(240) Te moneat animus: ecce, quam celeri ruunt</p>
-  <p>Horae volatu: quodque tum factum voles</p>
-  <p>Cum summa dicet hora momentum ultimum est,</p>
-  <p>Hoc nunc agendum.</p>
-  <p>Prud. Tu quae extrema saepe hominum vota surda licet</p>
-  <p>(245) Aure accepisti: haerentem in bivio adolescentem</p>
-  <p>Consilio tuô ad rectiorem vitam dirige.</p>
-  <p>Mors. Mors certa, vita incerta; crescendo perit,</p>
-  <p>Pereundo crescit: interim tamen sui,</p>
-  <p>Deperdit aliquid, quod mihi in lucrum venit.</p>
-  <p>(250) Sic mors fugacis semper it vitae comes.</p>
-  <p>Dies diei cedit; atque annum sequens</p>
-  <p>Expellit annus. credat imprudens homo</p>
-  <p>Vitae ruentis pondus in mortem haud trahi:</p>
-  <p>Ad fata it infans quadrupes, juvenis bipes,</p>
-  <p>(255) Tripes senecta currit &amp; baculo incitat</p>
-  <p>Gressum morantem, ceu timens sero mori.</p>
-  <p>Manus haec per omnes saevit aetatum gradus.</p>
-  <p>Cavete telum hoc: sed quis evitet satis?</p>
-  <p>Nunquam cavetur. tunc adhuc dubius rogas,</p>
-  <p>(260) Quae sint agenda? respice ad cineres tuos,</p>
-  <p>Vermesque, quos post fata convivas ales,</p>
-  <p>Hi te docebunt. Prud. Fare quid factum voles,</p>
-  <p>Cum tanget illas creditor summus fores:</p>
-  <p><milestone unit="folio" n="B2r"/></p>
-  <p>Dicetque: vitae redde depositum, haud dedi</p>
-  <p>(265) Sed mutuavi: mentis hoc ima occupet.</p>
-  <p>Phil. Lux illa veniet, veniet &amp; quidem brevi,</p>
-  <p>Sed me sequetur, quando frigentis latus</p>
-  <p>Fax tristis uret, subdita aversa manu.</p>
-  <p>Fecisse, quod tunc expetes, hoc nunc age.</p>
-  <p>Prud. (270) Tu, quae bilancem nesciam falli geris,</p>
-  <p>Ad cujus urnam veritas testis sedet</p>
-  <p>Ignara falli: Quod decet palam edoce.</p>
-  <p>Iudic. Justitia, quae nunc laneo arrepit pede,</p>
-  <p>Illa, illa tandem ferreâ feriet manu.</p>
-  <p>(275) Cum vasta terrae machina incumbet sibi</p>
-  <p>Totusque mundus Troja flagrabit nova,</p>
-  <p>Tunc astra coelum deserent: validis gemet</p>
-  <p>Percussa ventis unda, &amp; ad planctum ultimum</p>
-  <p>Natura veniet tota; tunc Phoebus retro</p>
-  <p>(280) In se recurrens, semet involvet sibi,</p>
-  <p>Tenebrasque quaeret exul in patrio polo.</p>
-  <p>Una illa mundi crimina ostendet dies,</p>
-  <p>Et in medullis condita arcana eruet</p>
-  <p>Spectanda cunctis, quaeque nunc latebras habent,</p>
-  <p>(285) Protrusa cernent crimina invisum diem.</p>
-  <p>Tunc cum severus syngrapham exactor petet.</p>
-  <p>Si nunc protervos stat sequi mentis procos</p>
-  <p>Risus jocosque, judicem iratum tua</p>
-  <p>Habitura causa.</p>
-  <p>Prud. (290) Tu inferne, qui aeternis suppliciis destinatos
-  accipis,</p>
-  <p>&amp; omni tormentorum genere exagitas; doce qua</p>
-  <p>homines ratione, ea possint evitare.</p>
-  <p>Inf. Invitus, &amp; coactus effabor meis</p>
-  <p>Adversa votis, quaeque nesciri expeto.</p>
-  <p>Tellure mediâ, quâ cavum pandens sinum</p>
-  <p><milestone unit="folio" n="B2v"/></p>
-  <p>Hiante ruptum valle discessit solum,</p>
-  <p>(295) Horrenda solvit ora, populorum capax,</p>
-  <p>Sitiensque praedae, caeca Luciferi domus.</p>
-  <p>Eheu quot illuc mole compactà impiae</p>
-  <p>Glomerantur animae! densior numquam cadit</p>
-  <p>Dejecta grando, quando crepitanti insilit</p>
-  <p>(300) Fragore tectis, nec tot extrudit Ceres</p>
-  <p>Campis aristas, quot in hoc barathrum trahit</p>
-  <p>Blando voluptas fascinans oculos dolo.</p>
-  <p>Cavete, moneo. Flamma quae, miseros cremat</p>
-  <p>Foecunda semper semet absumens alit.</p>
-  <p>(305) Tu sequere veneris castra si paenae hae placent.</p>
-  <p>Prud. Tu vero, quae omni felicitate affluis, coelestis glo-</p>
-  <p>ria, exprome quid agendum, ut a vita hae</p>
-  <p>tuarum voluptatum fiamus participes.</p>
-  <p>Coel. Glor. Assurge coelo, qui polo dignam geris.</p>
-  <p>Deoque mentem, quidquid est grave, id leve;</p>
-  <p>Tormenta, ludus; vita, mors; paenae, joci;</p>
-  <p>(310) Labor, voluptas. Utque jam dura haec forent,</p>
-  <p>Aeterna restant. Cum suis flammis agi</p>
-  <p>Lentum videret Ilium, ignovit decem</p>
-  <p>Tum victor annis. Dulcis in portu quies</p>
-  <p>Periculorum navitam immemorem facit.</p>
-  <p>(315) Nil te fatiget; gratior semper sopor,</p>
-  <p>Cum lassa membra durus exhausit labor.</p>
-  <p>Laboriosa ducit ad superos via,</p>
-  <p>Verum est: sed illa trita jam: coelum voco</p>
-  <p>Exemplum in ingens: Christus occurrat tibi</p>
-  <p>(320) Trabeatus ostro sanguinis, qualis redux</p>
-  <p>Polos petivit, post graves nimium crucis</p>
-  <p>Pro te dolores, sed leves pro te tamen.</p>
-  <p>Phil. Assurge mens alasque jam tibi indue,</p>
-  <p><milestone unit="folio" n="B3r"/></p>
-  <p>I per beatas insulas fausto pede,</p>
-  <p>(325) Ubi multa laurus aureis foliis viret</p>
-  <p>Mollesque spirant Arabos aurae crocos</p>
-  <p>Prud. Tu rerum* omnium longissimum aeternitas finem</p>
-  <p>huic quaestioni imponito.</p>
-  <p>Aet. Timete, quotquot culpa jam reos facit:</p>
-  <p>Aeternitatis ecce se pandit via,</p>
-  <p>(330) Et ante vos est. O grave &amp; longum nimis</p>
-  <p>Est, quod perennat! quisquis hic vitam trahis,</p>
-  <p>Memento momenti: potes, jam nunc potes</p>
-  <p>Terris relictis coelitum sequi domos.</p>
-  <p>Tu qui trementem temet huc illuc trahis</p>
-  <p>(335) Partes in omnes. Elige, aeternos rogos,</p>
-  <p>Luctus perennes gaudium fugax dabit;</p>
-  <p>Labore parvo, si voles, jam nunc potes</p>
-  <p>Emere perennis gloriae aeternum decus.</p>
-  <p>Prud. I nunc &amp; inter tinnulos cytharis jocos,</p>
-  <p>(340) Notasque mensas, quas Ceres Baccho ebria</p>
-  <p>Facit loquaces, si lubet, vitam exige.</p>
-  <p>Dementis est errare cum sciat viam.</p>
-</div>
-<div type="level1" xml:id="de-viii.-uitkomste">
-  <head>DE VIII. UITKOMSTE</head>
-  <p>Philedonius erkaaut den raat aan hem gegeven.</p>
-  <p>Vides fugaces, &amp; nimium breves</p>
-  <p>Truduntur anni, nec volucres necis</p>
-  <p>(345) Tardabis alas, mox futurus</p>
-  <p>Victima te sitientis orci es.</p>
-  <p>I clarus hospes per liquidum aethera,</p>
-  <p>Deoque mentem consociare ama,</p>
-  <p>Lucosque felices subintra,</p>
-  <p>(350) Quos liquido rigat amne nectar.</p>
-  <p><milestone unit="folio" n="B3v"/></p>
-  <p>Quid sit futurum quaere; fluit retro</p>
-  <p>Aetas amaena, cui senii rigor</p>
-  <p>Succedet, aeternis protervam</p>
-  <p>Consiliis cohibe juventam.</p>
-  <p>(355) Quodcumque vitae est, dum loquimur fugit,</p>
-  <p>Agente nimbos ocyus Africo.</p>
-  <p>Memento momenti: perennat</p>
-  <p>Quod sequitur dolor, aut voluptas.</p>
-</div>
-<div type="level1" xml:id="het-tweede-bedryf">
-  <head>HET TWEEDE BEDRYF</head>
-  <p></p>
-</div>
-<div type="level1" xml:id="i.-uitkomste">
-  <head>I. UITKOMSTE</head>
-  <p>De Voorzichtigheit vertoont den twijfelenden Philedonius</p>
-  <p>de twee wegen, de eenen ter behoudenisse, den anderen ter</p>
-  <p>verdoemenisse; ook de kortheit van ’s menschen leven.</p>
-  <p>Phil. UT aestuosis spuma vorticibus furit,</p>
-  <p>(360) Ubi implicatos fluctibus fluctus rotat,</p>
-  <p>Torquetque Nereus, dubia cum semet fugit,</p>
-  <p>Seseque sequitur unda, simul instans sibi,</p>
-  <p>Sibique cedens; sic meum, sic, vel magis</p>
-  <p>Cor fluctuatur; inter incertas vices</p>
-  <p>(365) Aestusque refluos mentis ambiguus trahor.</p>
-  <p>Tu summe Conse, caelici praeses fori,</p>
-  <p>Aeterna sophia flecte, quo dubium voles.</p>
-  <p>Huc anime adesdum: quid retro metuens fugis,</p>
-  <p>Quid te reflectis? crede consulitur tibi.</p>
-  <p>(370) Quid dubius haeres? semita, en duplex patet,</p>
-  <p>Ecquam sequeris? elige, ast quamnam vide.</p>
-  <p>Hier worden de twee wegen verthoont.</p>
-  <p>Prud. Ecce ego do coram vobis viam vitae, &amp; viam mortis.</p>
-  <p><milestone unit="folio" n="B4r"/></p>
-  <p>Angusta porta &amp; arcta via quae ducit ad vitam,</p>
-  <p>Et pauci sunt qui inveniunt eam.</p>
-  <p>(375) Lata porta &amp; spaciosa via, quae ducit ad
-  perditionem,</p>
-  <p>&amp; multi sunt, qui intrant per eam.</p>
-  <p>Phil. O vita fallax auream larvam geris,</p>
-  <p>Cerussa nota est: blandulus frontis decor</p>
-  <p>Longaeva Pylii fata promittit senis;</p>
-  <p>(380) Promittit, at non praestat.</p>
-  <p>De kortheit des levens word verscheidentlyk uitgebeelt.</p>
-  <p>Chor. En vaga sublimes conscendit bullula in auras,</p>
-  <p>Bullula sed leni flamine tacta perit:</p>
-  <p>Sic tua vita perit minimâ percussa procellâ</p>
-  <p>Crede mihi fragilis bullula vita tua est:</p>
-  <p>(385) Es flos mane puer, mediâ vir floscule luce,</p>
-  <p>Fisque idem subito sole cadente senex:</p>
-  <p>Sic tua vita fluit properantibus incita pennis</p>
-  <p>Quodque vocas annos, vix erit una dies</p>
-  <p>Quondam Pythagoras, hominum quid vita, rogatus.</p>
-  <p>(390) Et responsa dabat, nec tamen ulla dabat.</p>
-  <p>Tempore conspicuus pauco stetit; inde recessit,</p>
-  <p>Sic nostra apparet tempore vita brevi.</p>
-  <p>Gramine conspicuum viridi se tollit in auras</p>
-  <p>Foenum, molle ornat dum rosa flore caput.</p>
-  <p>(395) Sic homo primaevo vernans in flore Juventae</p>
-  <p>Promittit vitae tempora longa sibi;</p>
-  <p>Sed faenum subitâ procumbit falce; Juventam</p>
-  <p>Mors rapit; estque brevi vilis utrumque cinis.</p>
-  <p>Vitam utraque manu complexuque assere toto,</p>
-  <p>(400) Nam si tardus eris; errabis: transiet aetas,</p>
-  <p>Quam cito non segnis it, remeatque dies.</p>
-  <p>Quam cito purpureos deperdit terra colores,</p>
-  <p><milestone unit="folio" n="B4v"/></p>
-  <p>Quam cito formosas populus alta comas.</p>
-  <p>Quid vita est hominis? rerm bene dixeris umbram,</p>
-  <p>(405) Vel si vitalis sit nimis umbra, nihil.</p>
-  <p>Prud. Testes invoco hodie coelum, &amp; terrarum quod
-  proposuerim</p>
-  <p>vobis vitam &amp; mortem: elige ergo vitam.</p>
-  <p>Phil. Quonam ibo? quonam? quo ferar? quo non ferar?</p>
-  <p>Utroque pronus pondere aequali trahor,</p>
-  <p>Et huc, &amp; illuc dividor, nec sum meus.</p>
-  <p>Quod cogito, non cogito: nolo, &amp; volo,</p>
-  <p>(410) Neutrum, atque utrumque: nil sibi certum invenit,</p>
-  <p>Nihilque tutum mentis ambiguae timor.</p>
-</div>
-<div type="level1" xml:id="ii.-uitkomste">
-  <head>II. UITKOMSTE</head>
-  <p>De wellust, Overvloet, Jongkheit en Eer trecken den</p>
-  <p>twijffelmoedigen Philedonius op haer zijde.</p>
-  <p>Phil. Sed quis sonanti saltitans prodit pede,</p>
-  <p>Dubiasque certo temperat fides sono?</p>
-  <p>Ah nota nimium turba, quid iterum meos</p>
-  <p>(415) Oculos oberras? tuque dissuasor sacri,</p>
-  <p>Spretorque honesti luxus ad veteres trahis</p>
-  <p>Rursus choreas. Volup. Nempe sic meos potes</p>
-  <p>Fugisse casses! qualis imbelli furit</p>
-  <p>Avis volatu, quando deceptos pedes</p>
-  <p>(420) Gluten coërcet, alaque implexis stupet</p>
-  <p>Detenta plumis, aërem plausu irrito</p>
-  <p>Totosque vano convocans motu nothos.</p>
-  <p>I nunc, &amp; arctâ compede innexus pedem</p>
-  <p>Meditare libertatis optatum decus,</p>
-  <p>(425) Plenusque terra coelitum affecta viam.</p>
-  <p>Opul. Agedum jocorum mille vectigal* sibi</p>
-  <p>Deposcit aetas: quid necas laetam indolem?</p>
-  <p><milestone unit="folio" n="C1r"/></p>
-  <p>Iuv.* Haec docta duri nil sonare barbitos</p>
-  <p>Curas fugabit. video se pedes movent</p>
-  <p>(430) Sponte ad choreas; sequere juvenilem impetum.</p>
-  <p>Phil. Quam varia species agmine ambiguo irruit!</p>
-  <p>Ut cum serena phoebus arrisit face,</p>
-  <p>Vitreoque nimbo lucidum infudit jubar,</p>
-  <p>Tunc ille dubiis circulum pingit notis</p>
-  <p>(435) Nullusque, &amp; omnis cernitur coelo color:</p>
-  <p>Sic animus inter variat, &amp; dubius sui</p>
-  <p>Idem, nec idem est.</p>
-</div>
-<div type="level1" xml:id="de-iii.-uitkomste-1">
-  <head>DE III. UITKOMSTE</head>
-  <p>De Voorzichtigheit en haare raatslieden willen Philedo-</p>
-  <p>nius tot de Deugt leiden: maar hy stelt dit uit, tot</p>
-  <p>zijnen ouden dagh, en begeeft zich tot d’uitterste</p>
-  <p>ongebondenheit.</p>
-  <p>Prud. Ergone excidimus tibi?</p>
-  <p>Mors. Nullumne vulnus tela fecerunt mea?</p>
-  <p>Inf. (440) Adeone credis tartari exstinctos rogos,</p>
-  <p>Nec expavescis, quam timent cuncti styga?</p>
-  <p>Vol. Quam nempe mendax veritas vatum facit</p>
-  <p>Orbi timendam: mens suum repetit chaos,</p>
-  <p>Nihilque fit quod fuerat: hoc erimus loco,</p>
-  <p>(445) Quo nata nunquam: nulla pars nostri manet,</p>
-  <p>Totique morimur, cum fugax anima avolat,</p>
-  <p>Seseque nebulis miscet; &amp; perdit simul.</p>
-  <p>Aeter. Aeternitatis testis est animus tibi,</p>
-  <p>Contraque clamans timidus &amp; trepidus rogat,</p>
-  <p>(450) Quid post futurum. Phil. sentio hoc: procul joci;</p>
-  <p>Fallacis undae amasius vacuos amet</p>
-  <p><milestone unit="folio" n="C1v"/></p>
-  <p>Sub fonte vultus. rem volo, rem, rem volo;</p>
-  <p>Umbrae facessant; Munde cum tuis vale.</p>
-  <p>Hon. Itane? nec illam summovent mentem tibi</p>
-  <p>(455) Fasces honoris, quaeque dimidios trahunt</p>
-  <p>Fumosa proavos atria, ubi magnum genus</p>
-  <p>Parvum nepotem cera non muta edocet.</p>
-  <p>Coel. Glor. Honoris alia panditur coelo via.</p>
-  <p>Quicunque proavos laudat &amp; regum genus,</p>
-  <p>(460) Inane nomen jactat, &amp; levem nimis</p>
-  <p>Venatur umbram, lucis alienae appetens.</p>
-  <p>Phil. Ita est fatemur: quidquid hic mundus stupet,</p>
-  <p>Obliviosus obruet tandem cinis:</p>
-  <p>Aeterna sunt spectanda; jam totus feror,</p>
-  <p>(465) Quo sacra vis, &amp; mentis accensae calor,</p>
-  <p>Hospesque pleni pectoris Deus rapit.</p>
-  <p>Vol. Si ridet adeo sentibus rigens iter,</p>
-  <p>Ignosce saltem tempori. Iuvent. Aetatem aspice:</p>
-  <p>Monet illa cytharas inter, &amp; dulces jocos</p>
-  <p>(470) Movere puro mite certamen mero.</p>
-  <p>Vol.* Proscribe curas, quando sulcabit genas</p>
-  <p>Rugis senectus, perque nigrantes comas</p>
-  <p>Errabit albis candidus plumis olor,</p>
-  <p>Vicina morti tempora impendes Deo.</p>
-  <p>Phil. (475) Sic est, eamus; prima nunc aetas favet.</p>
-  <p>Eundum, eundum est; quidquid idaliis rosis</p>
-  <p>Condit voluptas, ad meos luxus fluat.</p>
-  <p>Quando senectus tetrica morosum obtuet,</p>
-  <p>Vivam salino paupere, &amp; tenui dape.</p>
-  <p>(480) Jam nolo: talem videat, &amp; doleat Deus:</p>
-  <p>Pius esse nolo; frigida hoc aetas dabit.</p>
-  <p><milestone unit="folio" n="C2r"/></p>
-</div>
-<div type="level1" xml:id="iv.-uitkomste">
-  <head>IV. UITKOMSTE</head>
-  <p>De Voorzichtigheit met haer gezelschap dreight</p>
-  <p>Philedonius.</p>
-  <p>Prud. Faex nempe vitae, &amp; ultima aetatis labor;</p>
-  <p>Cum fracta luxu membra debetur Deo?</p>
-  <p>Mor. Innitere annis, cana nix nil me movet,</p>
-  <p>(485) Nec flos Juventae, caeca mors nescit senem</p>
-  <p>Juvenemve figat; tumulus hos pares facit.</p>
-  <p>Inf. Ridemur etiam? flammaque in fumos abit</p>
-  <p>Fabellulasque? sic juvat luxus brevis,</p>
-  <p>Pereas ut aeternum? scies sero scies,</p>
-  <p>(490) Supplicia quam cruenta damnatos premant.</p>
-  <p>Cael. Glor. Placet voluptas? laudo: sed cur non placet.</p>
-  <p>Aeterna quae sit? quae Deo toto ebriam</p>
-  <p>Implebit animam? Aetern. Perge qua coeptum via;</p>
-  <p>Sed brevia longus gaudia excipiet dolor.</p>
-  <p>Temp. (495) Opus juventa est, ut quis invadat polos,</p>
-  <p>Senecta animum infirma, quae tremulo gradu</p>
-  <p>Vix ferre se, vix pondus annorum potest.</p>
-  <p>Tunc sera surdas vota pulsabunt fores.</p>
-  <p>Iud. Cur nunc benigna tela suspendis manu</p>
-  <p>(500) Librator ingens fulminis?* totus rue</p>
-  <p>In flammam &amp; ignem: sicne contemptor tui</p>
-  <p>Impune ut abeat? ibo, &amp; ulciscar nefas.</p>
-  <p><milestone unit="folio" n="C2v"/></p>
-</div>
-<div type="level1" xml:id="het-derde-bedryf">
-  <head>HET DERDE BEDRYF</head>
-  <p></p>
-</div>
-<div type="level1" xml:id="i.-uitkomste-1">
-  <head>I. UITKOMSTE</head>
-  <p>De Hardtneckigheit, zich tegens God, en alle Goddelijke</p>
-  <p>middelen kantende, wort van de Barmhertigheit,</p>
-  <p>die op der Godtvruchtigen gebeden uit den hemel</p>
-  <p>nederdaalt, overwonnen.</p>
-  <p>Pert. Ego sum rigidis nata sub undis</p>
-  <p>Durae soboles saxea terrae.</p>
-  <p>(505) Hoc stant uno pectore fixa</p>
-  <p>Marmora, rupes, scopuli, montes.</p>
-  <p>Cum placuit animo perfido dirum scelus,</p>
-  <p>Licet ignivomis hiet infernus</p>
-  <p>Minax cavernis, fulminibus licet,</p>
-  <p>(510) Juppiter horrisonis quatiat fundamina mundi,</p>
-  <p>Non flectat unquam: nil cor hoc movent minae;</p>
-  <p>Sed nec blanditiae: cadaverosos</p>
-  <p>Promtius flectas precibus sepultos</p>
-  <p>Quam pectus hoc.</p>
-  <p>Chor. (515) Supreme mundi rector, atque hominum sator</p>
-  <p>Cui prona semper parcere, &amp; tarda ad minas</p>
-  <p>Dextera: vibrati fulminis quamvis rigor</p>
-  <p>Poenas reposcat; siste. vel hodie genus.</p>
-  <p>Mortale discat: ut pares nunquam dei.</p>
-  <p>(520) Ullae resistere viribus vires queunt;</p>
-  <p>Ita bonitati par dari nullum scelus.</p>
-  <p>Scio pertinaci cor chalybe vinctum riget</p>
-  <p>Nec ulla terris media, quae tantum doment</p>
-  <p>Mentis rigorem. Jam perjt, miser perjt</p>
-  <p>(525) Nisi mittis altis sedibus, propriam tibi,</p>
-  <p>Bonitate semper quae scelera vincit Deam.</p>
-  <p><milestone unit="folio" n="C3r"/></p>
-  <p>Mis. Huc age saevis nata cavernis</p>
-  <p>Durae soboles saxea terrae,</p>
-  <p>Exue saevis chalybem fibris,</p>
-  <p>(530) Excute duri pondera saxi.</p>
-  <p>Rumpere, rumpere caucaseum disrumpere pectus;</p>
-  <p>Este procul rupes, saxa, chalybsque procul.</p>
-  <p>Pert. Frendeo, ringor, rugio; vincor</p>
-  <p>Majore manu morior, morior.</p>
-  <p><hi rend="bold">Chor. (535) Quosvis Diva haec
-  subjugat animos,</hi></p>
-  <p>Erebique truces superans hostes</p>
-  <p>Cedere cogit, quidquid Avernus*</p>
-  <p>Rigido rigidis adamante fibris</p>
-  <p>Vinxerat, alto bella Tonanti,</p>
-  <p>(540) Bella in sese ruitura movens.</p>
-</div>
-<div type="level1" xml:id="de-ii.-uitkomste-1">
-  <head>DE II. UITKOMSTE</head>
-  <p>Philedonius, in zijn harte bewogen, kant zich tegen de goede</p>
-  <p>genegentheden met een Goddeloos geraas, waar door hy</p>
-  <p>in slaap geraakt.</p>
-  <p>Quis ille magnes ferreum pectus movet?</p>
-  <p>Ignave, iners, imbellis excedit tumor</p>
-  <p>Et se remittit, regelat mentis rigor.</p>
-  <p>Quid hoc? madescunt ora, quatiuntur manus,</p>
-  <p>(545) Meumque genitu non meo pectus sonat!</p>
-  <p>Nolente me, quis jam pium hunc animum facit?</p>
-  <p>Quisnam timori reddit, &amp; Deum incutit?</p>
-  <p>Nolente me, nolente si quis est silex,</p>
-  <p>Qui fulminanten* saepius sensit Jovem,</p>
-  <p>(550) Nec cessit unquam; durior si quis chalybs,</p>
-  <p>Quem nulla domuit Brontis aut Steropis manus,</p>
-  <p>In pectus hoc descendat: orphaeam chelyn.</p>
-  <p><milestone unit="folio" n="C3v"/></p>
-  <p>Secuta Rhodope, nunc meas etiam velim</p>
-  <p>Sequatur iras; det suam Amphion lyram,</p>
-  <p>(555) Thebas secundas pectore hoc meo extruam.</p>
-  <p>Duresce mollis rixa; sed nondum haec satis:</p>
-  <p>Majora posco, quidquid opposuit diis</p>
-  <p>Monstripara tellus, quando fulmineos duces,*</p>
-  <p>Non ante viso terruit bello gigas,</p>
-  <p>(560) Demigret in me. Saxa quoque Niobes placent,</p>
-  <p>Sed absque lachrymis quodque faemineum haec habent</p>
-  <p>Viri execramur: Quicquid oceani ferit,</p>
-  <p>Frangitque fluctus, has meas fibras petat.</p>
-  <p>Nunc ut volebam saxeum pectus riget:</p>
-  <p>(565) Nec esse superis ira par poterat mea,</p>
-  <p>Nisi talis esset: ibo jam plenus mei,</p>
-  <p>Et inane forti fulmen excutiam manu,</p>
-  <p>Raptumque victor vertam in auctoris caput:</p>
-  <p>Rebellis adsto: Si quis est coelo abditus</p>
-  <p>(570) Potentior me, veniat, ast fulmen gerat,</p>
-  <p>Satis resistam: pectus opponam hoc meum;</p>
-  <p>Sed quale nunc est. At quis exarmat minas</p>
-  <p>Irasque sopit? victus in somnum cado.</p>
-</div>
-<div type="level1" xml:id="de-iii.-uitkomste-2">
-  <head>DE III. UITKOMSTE</head>
-  <p>De Barmhartigheit neemt de gelegentheit van dezen slaape</p>
-  <p>waar, en roept de Droomen, op dat sy Philedo-</p>
-  <p>nius door schrik tot deught bewegen.</p>
-  <p>Mis. Dum vaga surgit bullula in auras,</p>
-  <p>(575) Cadit ignifluo tacta calore:</p>
-  <p>Dum petit aethram fragili pennâ</p>
-  <p>Icarus audax, deserit aethram,</p>
-  <p>Spoliatque suo nomine pontum.</p>
-  <p><milestone unit="folio" n="C4r"/></p>
-  <p>I ventoso turgens fastu</p>
-  <p>(580) Infer magno bella Tonanti;</p>
-  <p>Disces propriâ morte ruinam,</p>
-  <p>Nisi submittas colla superba:</p>
-  <p>Tu, cui dius sopor exarmat</p>
-  <p>Nimium insanae rabiem mentis,</p>
-  <p>(585) Dubiae noctis territus umbris,</p>
-  <p>Tandem in melius carbasa flectes.</p>
-  <p>Non irato fulmine pugnat</p>
-  <p>Rector coeli, certat amore:</p>
-  <p>Cedere pulchrum vincente Deo.</p>
-  <p>(590) Jacet hic alto vinctus somno,</p>
-  <p>Facilisque capi praeda trahetur;</p>
-  <p>Sed fausta Deo.</p>
-  <p>Huc, huc tardum somnoque gravem*</p>
-  <p>Flectito gressum, histrio noctis.</p>
-  <p>(595) Pallide Morpheu.</p>
-</div>
-<div type="level1" xml:id="de-iv.-uitkomste-1">
-  <head>DE IV. UITKOMSTE</head>
-  <p>De Droomgodt Morpheus, en zijne slaapgezellen, van</p>
-  <p>vierderhande aart, verbeelden Philedonius verscheide</p>
-  <p>Droomen, en leggen een dootshooft onder zijne hant.</p>
-  <p>Mor. En ego vacuae ludio scenae</p>
-  <p>Qui modo tristes ingero mortes</p>
-  <p>Sicco irrorans sanguine thalamos,</p>
-  <p>Et modo fictis recinens Cytharis</p>
-  <p>(600) Irrita moestis gaudia porto.</p>
-  <p>Mis. Hic dum vario turbidus aestu</p>
-  <p>Vigiles pugnat vincere somnos;</p>
-  <p>Vestrae vires sentiat artis.</p>
-  <p><milestone unit="folio" n="C4v"/></p>
-  <p>Mor. Huc huc languiduli venite fratres</p>
-  <p>(605) Quos nigris genuit sopor latebris.</p>
-  <p>Somni sang. En nos blandidulos, comatulosque,</p>
-  <p>En nos aurea bracteata turba.</p>
-  <p>Quales mittere porta eburna suevit,</p>
-  <p>Dum somnus breve, dat rapitque regnum</p>
-  <p>Chol. (610) En nos sanguineo furore pleni</p>
-  <p>Multi somnia fingimus cruoris.</p>
-  <p>Et stragem facimus, sed absque strage.</p>
-  <p>Phil. En nos humiduli maris nepotes</p>
-  <p>Stertentis facimus torum carinam:</p>
-  <p>(615) Nam dum Mercurii beata virga</p>
-  <p>Illos attigit, interesse nautis</p>
-  <p>Et pisces sibi tum fere videntur</p>
-  <p>Mel. En nos palliduli &amp; cadaverosi</p>
-  <p>Criniti stygiis caput colubris;</p>
-  <p>(620) Quales testaceo exeunt camino:</p>
-  <p>Non incendia nil nocente flamma</p>
-  <p>Hostesque ingerimus, nigrosque luctus</p>
-  <p>Et quidquid pavidis solet timeri.</p>
-  <p>Mor. Nunc vestris opus artibus, meisque;</p>
-  <p>(625) Sed mutis, tacitis, silentiosis:</p>
-  <p>Tantum nutibus, horridisque grillis,</p>
-  <p>Tantum questibus haec agenda scena est.</p>
-  <p>Vos sceptrum, diadema, purpuramque</p>
-  <p>Et plausus date, pollicesque faustos,</p>
-  <p>(630) Sed regnum breve pollicesque fictos.</p>
-  <p>Vos, Vos horrida bella, bella, bella,</p>
-  <p>Totis viribus ite concitate:</p>
-  <p>Sed sint praelia muta &amp; absque bombo.</p>
-  <p>Et vos retia non datura praedam</p>
-  <p>(635) Hic expandite, jactitate dextras,</p>
-  <p><milestone unit="folio" n="D1r"/></p>
-  <p>Ut qui per liquidum natant profundum:</p>
-  <p>Plenis carbasa follicate ventis.</p>
-  <p>Plenis flamina fingitote buccis.</p>
-  <p>Vos nunc mortiferas ciète larvas.</p>
-  <p>Mel. (640) En pallet, gemit, aestuat, minatur.</p>
-  <p>Sese contrahit, ut solent colubri,</p>
-  <p>Dum phoebi fugiunt jubar coruscum.</p>
-  <p>Mor. Huc huc sandapilae nigraeque tumbae.</p>
-  <p>Phil. A! aya! Amy! mor! mor! morior!</p>
-</div>
-<div type="level1" xml:id="de-v.-uitkomste-1">
-  <head>DE V. UITKOMSTE</head>
-  <p>Philedonius, de goddelyke Droomen niet achtende, valt</p>
-  <p>weder in slaap. De Goddelijke Inspraak, Godtvruch-</p>
-  <p>tigheit, Bekeeringe, en Godvreezentheit on-</p>
-  <p>derwyzen hem: hy onleerzaam versmaat alle</p>
-  <p>goede middelen, en haar vermaningen.</p>
-  <p>Phil. (645) Ubi sum? quis instat? vivone, an functo gregi,</p>
-  <p>Immixtus erro? qualis exterret meos</p>
-  <p>Imago sensus? Ludicros forsan dolos</p>
-  <p>Mimus diei somnus ante oculos trahit.</p>
-  <p>Caecumque cogit cernere? At quidnam manus</p>
-  <p>(650) Attrectat? horreo, deserit venas cruor.</p>
-  <p>Sed excute anime mortis ignavos metus.</p>
-  <p>Dic larva, siquid vocis elinguis geris,</p>
-  <p>Quaenam es, vel unde, quâ caput quondam hoc stetit</p>
-  <p>Cervice? quid me territas? quonam loco est,</p>
-  <p>(655) Qui nuper animus &amp; loqui, &amp; formam dabat?</p>
-  <p>Sed ipsus erro, mortuos fari rogo.</p>
-  <p>Ludibria somni! sed ferunt, timeo, ferunt</p>
-  <p>Omen futurae mortis. Ast iterum excidis?</p>
-  <p>Et te relinquis? siccine oblitus tui es?</p>
-  <p><milestone unit="folio" n="D1v"/></p>
-  <p>(660) Te te reposco. testor has vacuas stryges,</p>
-  <p>Umbratilesque fictili mortes dolo,</p>
-  <p>Meliora nolo: quod potest, faciat Deus.</p>
-  <p>Agnosco numen: cogere invitum nequit:</p>
-  <p>Hinc quando fallax inscium elusit sopor</p>
-  <p>(665) Cuniculos tum pectori incauto admovet.</p>
-  <p>Sed fraus reperta est, dedecent reges quoque</p>
-  <p>Latrunculorum furta, &amp; insidiae &amp;, doli,</p>
-  <p>Artesque lavernae: ast Deum, credo, haec decent.</p>
-  <p>Ignave rector coelitum, nec sic capi</p>
-  <p>(670) Hic poterit animus; nota fraus, cessit sopor,</p>
-  <p>Nondum tenemur, jam vigil te te advoco</p>
-  <p>Rebellis adsum &amp; contumax: si non satis.</p>
-  <p>Magis esse cupio, si nec hoc etiam satis,</p>
-  <p>Relinquite erebi stagna discordes Deae.</p>
-  <p>(675) Ut vester animos impleat nostros furor.</p>
-  <p>Magis moveri fluctibus scopuli queant.</p>
-  <p>Sic semper ira perge: jam tuto in loco</p>
-  <p>Versaris: euge, plaude, vicisti furor.</p>
-  <p>Jo triumphe: vicimus gemitus, preces.</p>
-  <p>(680) Fortesque siccis vidimus lachrymas genis.</p>
-  <p>Tandem anime, tandem gratulor parta est quies.</p>
-  <p>Jam tutus obdormisce, jam somnum cape.</p>
-  <p>Susp. Nocturna nil te spectra, nil minae movent?</p>
-  <p>Phil. Quae nempe debellare, sed timidos queant.</p>
-  <p>Piet. (685) Nihil paternis sedibus lapsus Dei</p>
-  <p>Natus, deusque non inaequalis patri,</p>
-  <p>Nil flectit animum adamantinum fusus cruor</p>
-  <p>Pro te, salutis dum lytrum solvit polo</p>
-  <p>Sator ipse nostri generis, &amp; diros tulit</p>
-  <p>(690) Crucis labores: sanguis hic mentem occupet.</p>
-  <p>Phil. Piare noxas ille post poterit meas.</p>
-  <p><milestone unit="folio" n="D2r"/></p>
-  <p>Met. Metanoea lachrymis ferreas cordis fibras</p>
-  <p>Mollire nulla poterit! abscedat rigor</p>
-  <p>Meliora jam mens vota concipiar, opem</p>
-  <p>(695) Deo ferente; perfidum Petri scelus</p>
-  <p>Magdalenesque* multiplex, pius abluit</p>
-  <p>Largo redundans flumine oculorum liquor.</p>
-  <p>Tim. Dei. Admitte molli pectore, initium boni</p>
-  <p>Cuncti, timorem numinis: facilis amor</p>
-  <p>(700) Sequitur, timor si praevius monstrat viam.</p>
-  <p>Met. Nec lachrymae ullae molliunt duras fibras.</p>
-  <p>Phil. Magis moveri fluctibus scopuli queant.</p>
-  <p>Sic semper ira perge, jam tuto in loco</p>
-  <p>Versaris, euge, plaude, vicisti furor.</p>
-  <p>(705) Jo triumphe, risimus, gemitus, preces,</p>
-  <p>Fortesque siccis vidimus lachrymas genis.</p>
-  <p>Tandem anime, tandem gratulor, parta est quies.</p>
-  <p>Jam tutus obdormisce, jam somnum cape.</p>
-</div>
-<div type="level1" xml:id="de-vi.-uitkomste-1">
-  <head>DE VI. UITKOMSTE</head>
-  <p>De Barmhartigheit, na haar beklagh over den ellendigen staat</p>
-  <p>van Philedonius, neemt voor hem te bekeeren door de ver-</p>
-  <p>tooninge van eenen verdoemden.</p>
-  <p>Mis. Eheu flecti nescia corda,</p>
-  <p>(710) Corda ossaeis mage saeva fibris,</p>
-  <p>Quas indurat ferrata silex,</p>
-  <p>Sive diurnum fulvi solis</p>
-  <p>Luceat aurum, seu nocturnum</p>
-  <p>Niveae Phebes micet argentum,</p>
-  <p>(715) Hora remittit nulla rigorem.</p>
-  <p>Piet. O cor duro durius aere</p>
-  <p>Met. Non hoc lachrymae mollire queunt</p>
-  <p>Insp. Non divinae fulmina linguae</p>
-  <p>Non ultricis verbera dextrae.</p>
-  <p>Met. (720) Nulla hos animos metanoea subit.</p>
-  <p>Mis. Cedunt rupes vincente mari,</p>
-  <p>Cedit marmor ferrum admittens,</p>
-  <p>Duramque manum: licet obluctans</p>
-  <p>Cautes, saepe est passa securim.</p>
-  <p>(725) Hominum pectus riget impatiens,</p>
-  <p>Cedere nescit, flecti indocile est.</p>
-  <p>Eheu nimium ferrea corda</p>
-  <p>Corda indomito vincta adamante.</p>
-  <p><milestone unit="folio" n="D2v"/></p>
-  <p>Mis. Quas admovebo machinas? quisnam domet</p>
-  <p>(730) Hoc pectus aries? jam scio. in scenam dabo</p>
-  <p>Loquax cadaver, cujus ex erebo redux</p>
-  <p>Animus futuri testis, &amp; monitor mali,</p>
-  <p>Meliora tandem doceat errantem sequi.</p>
-  <p>Mox atra turba funebrem promet pedem.</p>
-</div>
-<div type="level1" xml:id="de-vii.-uitkomste-1">
-  <head>DE VII. UITKOMSTE</head>
-  <p>Een Lyk wort ’er uitgedragen met een princelijke statie,
-  gestoort</p>
-  <p>door het verschijnen van den Geest des Overledens.</p>
-  <p>Praef. (735) Eheu quam celeri velox pede cursitat aetas,</p>
-  <p>Quam cito lux noctem, nox perimitque diem:</p>
-  <p>Quam rapido motu teretis rota volvitur anni:</p>
-  <p>Quam cito pegasei tempori ala volat!</p>
-  <p>Hora horam trudit, velut unda fugatur ab undâ,</p>
-  <p>(740) Quando equitat siculas Aeolus hostis aquas.</p>
-  <p>Interea magnum miseri sectamur inane,</p>
-  <p>Tendimus infidis carbasa nostra nothis.</p>
-  <p>O curvae in terras animae &amp; coelestium inanes!</p>
-  <p>Sicne nihil lethi tela timoris habent.</p>
-  <p>(745) Post breve non certi consumptum temporis aevum</p>
-  <p>Succedet picea mors metuenda trabe.</p>
-  <p>Een Prins met het gelt, en Gout.</p>
-  <p>Quo tibi quod nimium loculus satur evomat aurum,</p>
-  <p>Ebriaque obrisum ructitet arca Deum?</p>
-  <p>Quid prodest tibi Pactoli si flumina gemment?</p>
-  <p>(750) Non fluet ad nigras hic Acherontis aquas.</p>
-  <p>In rutilis fruticet signata pecunia campis;</p>
-  <p>Aurea sit tellus, aurea sitque domus.</p>
-  <p>In morte ex cunctis vix naula Charontis habebis;</p>
-  <p>Defunctum infidae non comitantur opes.</p>
-  <p><milestone unit="folio" n="D3r"/></p>
-  <p>Praef. (755) Divitiae vestrae putrefactae sunt, thesaurizastis
-  vobis iram Dei.</p>
-  <p>Een Prins met de kleederen.</p>
-  <p>India quidquid habet, quidquid Panchaja odorum,</p>
-  <p>Id totum, atque etiam plus tua vestis olet.</p>
-  <p>Est verum: ast tibi quid prosunt haec omnia? quidve,</p>
-  <p>Quae nivea in rubro murice dormit ovis?</p>
-  <p>(760) Quo trabeae? vel quae sapphyro purpura nupsit?</p>
-  <p>Aut quae de Phrygiis vestis amoena rosis?</p>
-  <p>In quam Pactoli pretiosa cucurrerat unda</p>
-  <p>Deplueratque suas gemmeus Hermus opes.</p>
-  <p>Praef. Subter te sternetur tinea, &amp; operimentum tuum erunt
-  vermes.</p>
-  <p>De Prins met de wapenen.</p>
-  <p>(765) Ah video luctus domini defluxit in ensem,</p>
-  <p>Hinc latet, &amp; maestum tristis amictus habet.</p>
-  <p>Armaque ferali mortis rubigine squallent,</p>
-  <p>Ipsaque cernuntur spicula posse minus.</p>
-  <p>Hei mihi quid prosunt animi, vel robur, &amp; arma?</p>
-  <p>(770) Robur, &amp; arma, animosque abstulit una dies.</p>
-  <p>Quid prosunt vires? sis Hectore &amp; Hercule plenus.</p>
-  <p>Herculeum jacet hic robur, &amp; Hectoreum.</p>
-  <p>Sis ferus &amp; Martis natus lassare triumphos,</p>
-  <p>Mors de te spolium sanguinolenta feret.</p>
-  <p>(775) Stent Amphionio triplices a pectine Thebae,</p>
-  <p>Te Danaës turris, quae sit ahena clepat.</p>
-  <p>Sit domus ipsa chalybs. quam ferreus ambiat agger,</p>
-  <p>Omnia mors telis diruet illa suis.</p>
-  <p>Praef. Non glorietur sapiens in sapientia sua, &amp; non glorietur
-  fortis in fortitudine sua, &amp; non glorietur dives in divitiis
-  suis.</p>
-  <p>Een Prins met de spijsen.</p>
-  <p>(780) Quo tibi nunc lautae pretiosa superbia mensae,</p>
-  <p>Quo tibi nunc regum dulcia damna dapes?</p>
-  <p><milestone unit="folio" n="D3v"/></p>
-  <p>Et quae ter ternos sunt caecuba ducta per annos,</p>
-  <p>Et multum à decimo consule laudis habent?</p>
-  <p>O ubi convivis, quamvis sibi mortua, vivax,</p>
-  <p>(785) Quae nimium picta fronte superbit avis?</p>
-  <p>Quo tibi per patinas, quae ninxit, mellea grando?</p>
-  <p>Gustanda est mortis fellea amarities.</p>
-  <p>Praef. Ante obitum tuum operare justitiam, quoniam non est apud
-  inferos invenire cibum.</p>
-  <p>Een Prins met een luit.</p>
-  <p>Ite leves cytharae dominique sonate querelas</p>
-  <p>(790) Ad portas erebi fundite dulce melos:</p>
-  <p>Ut potuit manes accessere conjugis Orpheus,</p>
-  <p>Atque emere Eurydicen dulciloquis fidibus;</p>
-  <p>Sic forsan vobis data tanta potentia cantus.</p>
-  <p>Sin minus? hic domino naenia maesta sonet.</p>
-  <p>(795) Sed frustra ad vacuas aures epicedia cantem,</p>
-  <p>Scilicet ut surdus audiat ista cinis.</p>
-  <p>Praef. Versa est in luctum cythara mea, &amp; organum meum in vocem
-  flentium.</p>
-  <p>Een Prins met de eertijtels.</p>
-  <p>Quo tibi, quod moesto resonet campana boatu?</p>
-  <p>Et tuba sit fati vana querela tui?</p>
-  <p>(800) Longaque ferali spatietur in ordine pompa?</p>
-  <p>Et quae post caelum* tristis imago manet?</p>
-  <p>Quid faciunt tituli? vel inania nomina cerae?</p>
-  <p>Hoc tantum; titulis altera mors veniet.</p>
-  <p>Una parum fuerat, placuit mors altera famae.</p>
-  <p>(805) Quis furor est miseris bis voluisse mori.</p>
-  <p>Quis inter onera nexuum &amp; ferri globos</p>
-  <p>Vestitus igne lividum gressum admovet?</p>
-  <p>Diffugite comites.</p>
-  <p><milestone unit="folio" n="D4r"/></p>
-</div>
-<div type="level1" xml:id="de-viii.-uitkomste-1">
-  <head>DE VIII. UITKOMSTE</head>
-  <p>De Geest twist met het Lichaam over de schult van hun bei-</p>
-  <p>der verdoemenisse.</p>
-  <p>Ani. O caro damnatae quondam pars altera vitae!</p>
-  <p>(810) Tu mihi, tu quondam grata sodalis eras.</p>
-  <p>Heu quis tam laetae solvit connubia vitae?</p>
-  <p>Tam cito, tam dulcis factus amaror amor?</p>
-  <p>A te sperabam durae solatia mortis,</p>
-  <p>Sed nunc, ut video, spes mea arundo fuit.</p>
-  <p>(815) Quis te, qui quondam stabas ut carnea turris,</p>
-  <p>Quis te barbarico fulmine stravit humi?</p>
-  <p>Nonne tibi pronis nuper cervicibus orbis</p>
-  <p>Paruit Aeous, paruit hesperius?</p>
-  <p>O ubi nunc rosei dulcis pellacia vultus?</p>
-  <p>(820) O ubi cygnaeae nobile frontis ebur?</p>
-  <p>Dic ubi nunc famulae, studiosa examina, turbae</p>
-  <p>Quaeque tuos densa est umbra secuta pedes?</p>
-  <p>Quo tibi protenso procurrens jugere campus,</p>
-  <p>Et quae centeno sub bove prata jacent?</p>
-  <p>(825) Te nunc communis, te nunc capit urnula vilis,</p>
-  <p>Et tribus exiguis clauderis in tabulis.</p>
-  <p>O caro damnatae lachrymabilis hospita vitae</p>
-  <p>O si nota tui pars foret una mali!</p>
-  <p>Flebile quam tristi coelum quateres lamento</p>
-  <p>(830) Quam facilem velles in tua vota Deum!</p>
-  <p>Clamares, cur nata fui? damnata, pruisquam</p>
-  <p>Nata, &amp; in aeternos victima danda rogos?</p>
-  <p>O caro damnatae lachrimabilis hospita vitae!</p>
-  <p>O comes in duris longa futura malis!</p>
-  <p>(835) Una dies veniet, tristis, lachrymosa (sed eheu</p>
-  <p><milestone unit="folio" n="D4v"/></p>
-  <p>Non illa est votis hora vocanda tuis.)</p>
-  <p>Cum nos inviso discors concordia nexu</p>
-  <p>Coget, &amp; infidam poena ferire fidem.</p>
-  <p>Tunc immortales metum dabis improba poenas.</p>
-  <p>(840) Sola ego nunc vinclis, supplicijsque premor.</p>
-  <p>Corp. Potabam placidae tranquilla oblivià noctis,</p>
-  <p>Ibat securus per mea membra sopor.</p>
-  <p>Quae mihi tam dulcem turbavit lingua quietem?</p>
-  <p>Quae mihi, vox silices, saxaque dura sonat?</p>
-  <p>(845) Quisquis es iratus, qui nostra sepulchra lacessis</p>
-  <p>Et tumulum infestas, fare age, quid venias?</p>
-  <p>Mitte sepultorum lacerare cadavera vermes.</p>
-  <p>Non illa est morsu praeda petenda tuo.</p>
-  <p>Nos sumus imbellis cinis, &amp; vix pulvis inanis,</p>
-  <p>(850) Quis tibi de tali Marte triumphus erit?</p>
-  <p>Te video infelix (heu cui mihi reddita vita est?)</p>
-  <p>Cui dederam carnis fraena regenda meae.</p>
-  <p>Ecquid in insontem verborum spicula mittis?</p>
-  <p>Ecquid in immeritum lingua trisulca tonat?</p>
-  <p>(855) Non ego tantorum sum fons &amp; origo malorum,</p>
-  <p>Tu, tu anime insontem me facis esse reum:</p>
-  <p>Tu mihi corporeae fueras auriga quadrigae,</p>
-  <p>Fracta quadriga mea est, tota ruina tua est.</p>
-  <p>Tu non sat firmae imprudens nauclere carinae,</p>
-  <p>(860) Duxisti in scopulos, &amp; vada caeca ratem.</p>
-  <p>Quando ego dicebam per amoena vireta jocandum,</p>
-  <p>Dum res, dum vitae blanda juventa s/f?init.</p>
-  <p>Tum tu debueras nimios fraenare calores,</p>
-  <p>Debuerant famulas vincla gravare manus.</p>
-  <p>(865) Stringere debuerant jejunia carnis habenas,</p>
-  <p>Debuerat rigidus membra domare cinis.</p>
-  <p>Tu domina* ancillam injectà fraenare catenà</p>
-  <p><milestone unit="folio" n="E1r"/></p>
-  <p>Tunc ego debueram dura capistra pati.</p>
-  <p>Quod si quadrupedem in praeceps caecus rapit error,</p>
-  <p>(870) Culpa equitis tota est: cur? quia fraena regit.</p>
-  <p>Sic tibi commissae fuerant rationis habenae.</p>
-  <p>Ergo vel nulla est culpa, vel illa tua est.</p>
-  <p>Anim. O caro nunc cinis &amp; lutei mera pulveris urna</p>
-  <p>O comes in duris longa futura malis?</p>
-  <p>(875) Quis te tam rabidos docuit latrare molossos?</p>
-  <p>Xantippes pluvias &amp; maledicta loquis?</p>
-  <p>Hoc scio, debueram angusto fraenasse lupato</p>
-  <p>Et Servum duro tundere fuste caput.</p>
-  <p>Sed tu syrenum fingebas subdola cantus.</p>
-  <p>(880) Et tibi vox cytharae dulce loquentis erat.</p>
-  <p>Cum volui geminas, tua lumina, claudere flammas,</p>
-  <p>Dixisti impatiens, lumina nolo tegi.</p>
-  <p>Quando ego dicebam Veneris fuge dulce venenum,</p>
-  <p>Jactabam ad surdas perdita verba fores.</p>
-  <p>Corp. (885) Nil juvat, heu! verbis adversa retundere verba</p>
-  <p>Noscere conditio, quae subeunda, lubet.</p>
-  <p>Si rea tartarei sensisti judicis urnam</p>
-  <p>Dic qualis Stygii lexque rigorque fori.</p>
-  <p>Anim. Non si centenae strepitent quasi classica linguae</p>
-  <p>(890) Et tota in voces regia noctis eat;</p>
-  <p>Omnia poenarum percurrere nomina possit,</p>
-  <p>Fervidus in gelidis, quas alit ignis aquis.</p>
-  <p>Est locus obscura &amp; densa caligine tectus,</p>
-  <p>Quo nunquam roseâ lux ruit acta face.</p>
-  <p>(895) Illic perpetuis crepitant incendia flammis,</p>
-  <p>Fertilis aeterna quas dape sylva fovet;</p>
-  <p>Horrificique natant tenebrosa per atria fumi</p>
-  <p>Et niger assiduo lachrymae imbre polus:</p>
-  <p>Illic dura fames, illic sitis aspera saevit</p>
-  <p><milestone unit="folio" n="E1v"/></p>
-  <p>(900) Sulphura pro vino, pro dapibusque pices.</p>
-  <p>Sunt lachrymae Crassusque vapor, plumbique liquores</p>
-  <p>Quidquid &amp; ad poenas ira, furorque potest.</p>
-  <p>Hic ego perpetuas patior pro crimine flammas,</p>
-  <p>Aeternae reparans tristia damna necis.</p>
-  <p>(905) Post aliquot disces Janos, quae poena fatiget,</p>
-  <p>Tu pars tormenti, dimidiumque mei.</p>
-  <p>Corp. Quid meus hic voveat? Quidnam furor? o ego vellem,</p>
-  <p>E digitis fierent ferrea rastra meis:</p>
-  <p>Tunc malesuada suo naritarent mersa cruore</p>
-  <p>(910) Pectora tunc fosso corpore cor raperem.</p>
-  <p>Luminibus me terra meis oculata videret</p>
-  <p>Neve in me toto pars foret ulla mei.</p>
-  <p>Hic avidae nostris epulentur cladibus hydrae</p>
-  <p>Quae fluitant collo torva Megaera tuo;</p>
-  <p>(915) Huc latronivori discerpite viscera corvi,</p>
-  <p>Inque meos artus urse leove ruas.</p>
-  <p>Tantale nil opus est refugos tibi quaerere fluctus,</p>
-  <p>Diminuamque famen, diminuamque sitim.</p>
-  <p>Me rape; non fugiam,* cur tu fugis, oraque vertis?</p>
-  <p>(920) Quam nolis tandem mensa reperta tibi est.</p>
-  <p>Cerbere, cui triplices triplici stant ordine dentes,</p>
-  <p>Rictibus ô fiam digna rapina tuis.</p>
-  <p>Per vos ossa ibunt commistae frigore flammae,</p>
-  <p>Quodque fuit sanguis, tunc mihi sulfur erit.</p>
-  <p>(925) Quot mihi sunt crines, tot erunt pro crinibus
-  angues,</p>
-  <p>Et serpentigeras frons ferat ista comas?</p>
-  <p>Tu lingua in piceo natitabis flammea felle,</p>
-  <p>Illi oculi bini flamma cruenta forent</p>
-  <p>Ah nunquam, ah nunquam: prius in cineres dissolvar.</p>
-  <p>(930) Ah prius in liquidas attenuemur aquas.</p>
-  <p>Anim. Ast ego, ne tales possem sentire dolores,</p>
-  <p><milestone unit="folio" n="E2r"/></p>
-  <p>Ah mallem in gelidis rupibus esse lapis;</p>
-  <p>Aut fieri spes nautarum trepidaeque carinae</p>
-  <p>Anchora, fluctivago conjicienda mari.</p>
-  <p>(935) O ter felicem Nioben, quae funera plorans</p>
-  <p>Prolis, erat nimio facta dolore lapis.</p>
-  <p>O ego sim saxum, sim ferrum, flamma, vel ignis.</p>
-  <p>Ne sim, quod modo sum, quidlibet esse volo.</p>
-  <p>Ah boiasque ignesque inter tunicasque molestas,</p>
-  <p>(940) Nec spes, quae melius cras fore dicat, adest.</p>
-  <p>Unica spes misero nullam sperare salutem;</p>
-  <p>Quam dura, heu! nobis nullaque spes sine spe.</p>
-  <p>De flammis nova flamma, novusque ex ignibus ignis,</p>
-  <p>Fertilior semper, fertiliorque redit.</p>
-  <p>(945) Aeternum moriens, aeternâ morte supersum,</p>
-  <p>Aeternum, Aeternum, nec pereo, &amp; pereo.</p>
-  <p>Mors, mihi dat vitam, mortem dat vita; sed, eheu.</p>
-  <p>Mors nimium haec dura est, vitaque dura nimis.</p>
-  <p>Aeternum, mea crux, o Aeternum, o Aeternum</p>
-  <p>(950) Aeternum mentis longa gehenna meae.</p>
-</div>
-<div type="level1" xml:id="de-ix.-uitkomste">
-  <head>DE IX. UITKOMSTE</head>
-  <p>Philedonius, door dit nachtgezicht bewogen, geeft zich tot</p>
-  <p>boete en beternis van zijn voorgaande leven.</p>
-  <p>Quae vox attonita stridens mihi tintinat aure,</p>
-  <p>Aeternum, aeternum terque quaterque sonans,</p>
-  <p>Verane quae vidi, quaeque istis auribus hausi,</p>
-  <p>An tantum mentis ludicra imago fuit?</p>
-  <p>(955) Non equidem fallor, mutum &amp; sine sanguine
-  corpus,</p>
-  <p>Et video viduae tristia signa domus:</p>
-  <p>Divitis exuviis jam mortis scena superbit,</p>
-  <p>Et nihil hic dominum, quod comitetur adest.</p>
-  <p><milestone unit="folio" n="E2v"/></p>
-  <p>Impleri solitas ab herili corpore vestes,</p>
-  <p>(960) Nunc implent vacui, pallida turba, metus.</p>
-  <p>Hic video gladios &amp; sanguinis ebria tela</p>
-  <p>Pro conclamato nil valitura viro.</p>
-  <p>Hic video gazas, &amp; amatae pondera terrae,</p>
-  <p>Eheu! quae dominum nunc habitura novum.</p>
-  <p>(965) Aspice turritas etiam multâ dape lances,</p>
-  <p>Plectraque, quae tacitis conticuêre labris.</p>
-  <p>Si nihil haec prosunt, neque mortis spicula tardant,</p>
-  <p>Si damnant tristes ad Phlegethontis aquas;</p>
-  <p>Quid sequor haec? quid me lactat spes irrita voti?</p>
-  <p>(970) O alias, alias mens meditare vias.</p>
-  <p>Dixi olim, memini, mutate Ceraunia sedem,</p>
-  <p>Jam locus in nostro pectore vester erit.</p>
-  <p>Saxa olim, meminisse pudet, ferrumque vocavi</p>
-  <p>Et duxi in fibras durum adamanta meas.</p>
-  <p>(975) O superi meliora, o nunc meliora vovemus.</p>
-  <p>Si prope qui periit, non periisse potest.</p>
-  <p>Rumpere, rumpere caucaseum disrumpere pectus.</p>
-  <p>Este procul rupes saxa chalybsque procul.</p>
-  <p>Currite, currite magdalii mihi currite rivi</p>
-  <p>(980) Ah mihi de cera blanda medulla fluat.</p>
-  <p>Dextra, sinistra mihi, quondam da dura flagella,</p>
-  <p>Ipse mei, ipse mei criminis ultor ero</p>
-  <p>Este procul cytharaeque, dapesque, salesque, jocique</p>
-  <p>Et quicquid rapiet mortis avara manus,</p>
-  <p>(985) Ite, perite, valete, valete, o nugae, o fumi.</p>
-  <p>Sint procul haec mundi gaudia crimen habent.</p>
+  <div type="level2" xml:id="het-eerste-bedryf">
+    <head>HET EERSTE BEDRYF</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="de-i.-uitkomste">
+    <head>DE I. UITKOMSTE</head>
+    <p>Philedonius of Lusthart stelt sijn geluk boven den staat der</p>
+    <p>Koningen en Doorluchtige Helden, brengt de Fortuin on-</p>
+    <p>der sijne macht, en waant der Goden gelijk te zijn.</p>
+    <p>Phil. QUacumque vultu lucido terram aspicit</p>
+    <p>Lustrator orbis aureo cinctus die,</p>
+    <p>Seu cum rubentem purpuram mane induit,</p>
+    <p>Seu cum diurna jam Fatigatus via</p>
+    <p>(5) Permensus aethram abnoctat hesperio mari,</p>
+    <p>Beatiorem neminem, quam me videt.</p>
+    <p>Sublimis alto rex solio sedet quidem;</p>
+    <p>Sed cura eodem: laureae pulchrum est decus;</p>
+    <p>At sanguine emitur: regium sceptrum has manus</p>
+    <p>(10) Satis deceret; sed grave est pondus nimis.</p>
+    <p>Regnent timeri, qui volunt, simul &amp; timent:</p>
+    <p>Nos tutiori subvehit cursu quies.</p>
+    <p>Fortuna adesdum, quicquid in cunctos potes,</p>
+    <p>Expende in unum, si quid est in me tui,</p>
+    <p>(15) Nolo meum sit, unicum hoc deereat mihi:</p>
+    <p>Sortem timebam: summa jam rerum attigi,</p>
+    <p>Et haec subacta est: jam feror cunctos supra,</p>
+    <p>Mundoque major: sed quid in terris moror?</p>
+    <p>Jam me Lyaei tigres, aut Martis ferant</p>
+    <p>(20) Equi per astra: debitum hoc regnum mihi:</p>
+    <p>Petatur aether. sed nec hic placet labor,</p>
+    <p>Dimitto Superos; imperet coelo Deus,</p>
+    <p>Mihi terra coelum est; claustra si pateant poli,</p>
+    <p><milestone unit="folio" facs="A1v"/></p>
+    <p>Quid esse vile dixero, &amp; primo Jove</p>
+    <p>(25) Regnare nollem; major, aut par sum Diis.</p>
+    <p>Ibo ibo quo me fata, quo venti ferent.</p>
+  </div>
+  <div type="level2" xml:id="de-ii.-uitkomste">
+    <head>DE II. UITKOMSTE</head>
+    <p>De Voorzichtigheit leert Philedonius te vergeefs, dat ’er</p>
+    <p>een eenige Godtheit is, die elk een te vreezen staat.</p>
+    <p>Quid insolenter turgidis buccis crepas?</p>
+    <p>Dum plena nimius vela distendit favor,</p>
+    <p>Distenta prudens contrahe; in scyllas rues,</p>
+    <p>(30) Si tota laxo flamina admittis sinu.</p>
+    <p>Prope sunt charybdes; Dona fortunae putas</p>
+    <p>Dolis carere. Philed. Dona fortunae execror.</p>
+    <p>Mendicet illa supplici timidus prece</p>
+    <p>Ruris colonus. Prud. illa te coelo efferunt.</p>
+    <p>Phil. (35) Fortuna non, Diis sed parem virtus facit.</p>
+    <p>Prud. Thrasone plenus Marte ventoso tumes;</p>
+    <p>Magna illa virtus. Phil. tanta, quam metuant Dii;</p>
+    <p>Ego terror ingens caelitum. Juno Herculem</p>
+    <p>Vides renatum. Prud. Macte cui Mavors tumet</p>
+    <p>(40) Pugnace lingua: bella cum Diis geris,</p>
+    <p>Sed fabulosis; territas vacuos Polos.</p>
+    <p>Meliora disce; metue, qui cunctos, Deum</p>
+    <p>Habet sub ictu Phil. Quem mihi Deum canis?</p>
+    <p>Prud. Hunc qui superbos spiritus major domat.</p>
+    <p>Phil. (45) Quis ille, quis me major? Prud. is cujus manu</p>
+    <p>Roratur, aether, sive qua cursum incipit</p>
+    <p>Auriga lucis, sive qua figit rotam.</p>
+    <p>Phil. Mihi hic timendus, qui procul caelum incolit.</p>
+    <p>Prud. Ut longa Regum, longa sic Dei est manus:</p>
+    <p>(50) Idem ille vibrat fulmen excussum eminus.</p>
+    <p><milestone unit="folio" facs="A2r"/></p>
+    <p>Phil. Collisa nubes fulmen e caelo excutit:</p>
+    <p>Prud. Quis convolutos nubium rotat globos?</p>
+    <p>Phil. Agitator aethrae ventus, &amp; motor sali.</p>
+    <p>Prud. Quis ergo ventos impetu primo incitat?</p>
+    <p>Phil. (55) Mens magna mundi, quae timens caeli luem</p>
+    <p>Auras recenti semper aflatu innovat.</p>
+    <p>Prud. O grande &amp; altum mentis inflatae sophos?</p>
+    <p>Quis te, gigantem fastus, e Nano facit</p>
+    <p>Pygmaee? sic ne pumilius insultet Deo?</p>
+    <p>(60) Nec terret animum sortis incertae fides?</p>
+    <p>Phil. Mihi jam ligatas illa concessit manus.</p>
+    <p>Prud. At en solutas ad fugam pennas quatit.</p>
+    <p>Phil. Mene illa fugiat? Prud. Nempe mireris globum</p>
+    <p>Hinc inde volvi, aut lubrico flexu rotam</p>
+    <p>(65) Sursum &amp; deorsum: sors sua tantum sibi</p>
+    <p>Levitate constat. Phil. Ista tu timidis cane.</p>
+    <p>Prud. Et tu verere, subde jam Deo manus,</p>
+    <p>Jam dum piae sunt, forsitan sero voles.</p>
+    <p>Phil. Bene est, abivit: ocyus pedem efferat,</p>
+    <p>(70) Migretque Athenas, quisquis elato ambulat</p>
+    <p>Minax cothurno, soccipes lepor hic placet.</p>
+    <p>Procul este momi: Judicum vultus decet</p>
+    <p>Barbata gravitas; prima nunquam aetas capit</p>
+    <p>Morum senectam: sapere qui patruos jubet</p>
+    <p>(75) Parvum nepotem, desipit: etiam Cato</p>
+    <p>Primae tributum ludicrum aetati dedit.</p>
+    <p><milestone unit="folio" facs="A2v"/></p>
+  </div>
+  <div type="level2" xml:id="de-iii.-uitkomste">
+    <head>DE III. UITKOMSTE</head>
+    <p>Overvloet en Eer beloven Philedonius te verrijken. De</p>
+    <p>Wellust bekoort hem tot alle wulpscheit, en viert met hem</p>
+    <p>de feest van Bacchus.</p>
+    <p>Opul. Quicumque mundo fidit, &amp; plenus mei</p>
+    <p>Curisque vacuus liberos ducit dies,</p>
+    <p>Verè est beatus. Phil. Sic reor, vox haec meo</p>
+    <p>(80) Sapit palato: Stoicum lingat salem</p>
+    <p>Unguesque rodat, quisquis est parcus sui</p>
+    <p>Durusque censor: vivitur parvo bene,</p>
+    <p>Fabella Codri est; sobrias pauper dapes</p>
+    <p>Laudet Platones, me juvant mensae Jovi</p>
+    <p>(85) Quoque invidendae, quidquid emungunt suis</p>
+    <p>Praelis Calabri, quicquid uvi fluo bibit</p>
+    <p>Cratere Bacchus, id meam sitim decet.</p>
+    <p>Hon. Sed &amp; hoc agendum; te suo fama evehat</p>
+    <p>Super astra curru, moxque centenas tubas</p>
+    <p>(90) Et huc, &amp; illuc solem ad utrumque explicans,</p>
+    <p>Tuum per oras ultimas nomen ferat.</p>
+    <p>Phil. Idem ipse tacitus volvo: quo trahitur sua</p>
+    <p>Phaebus quadriga, nec meae laudes vehent.</p>
+    <p>Orchestra me mirare; proh! qualem virum</p>
+    <p>(95) Exclamet index digitus ingeminans, hic est.</p>
+    <p>Opul. Et ipsa plena munera adjiciam manu</p>
+    <p>Opulenta terrae, quodque pretioso natat</p>
+    <p>Gemmantis Hermi gurgite, aut Tagi alveo</p>
+    <p>Vestras ad arcas aureo rivo fluet.</p>
+    <p>Phil. (100) Jam me beatum! quicquid arcanis alit</p>
+    <p><milestone unit="folio" facs="A3r"/></p>
+    <p>Plutus latebris, quicquid optavit Mydas</p>
+    <p>Partum, &amp; paratum est; vota transcendi mea.</p>
+    <p>Sed quae sonanti turba prosiliens solo</p>
+    <p>Procax protervum ducit in scenam pedem?</p>
+    <p>Vol. (105) Libet libet jocari,</p>
+    <p>Sic nos monet juventa,</p>
+    <p>Iuv. Libet libet jocari,</p>
+    <p>Sic nos monet voluptas</p>
+    <p>Vol. Decet implicare vernis</p>
+    <p>(110) Nitidos rosis capillos;</p>
+    <p>Mero juvat madere:</p>
+    <p>His influat labellis,</p>
+    <p>Sitientibus labellis</p>
+    <p>Autumnus, atque Bacchus.</p>
+    <p>(115) Huc gratiae nitentes,</p>
+    <p>Jocique saltitantes,</p>
+    <p>Citatulis choreis,</p>
+    <p>Passuque mollicello Huc advolent lepores,</p>
+    <p>(120) Quos laxior cachinnus,</p>
+    <p>Decorque fronte blanda,</p>
+    <p>Et fulgurans ocellis</p>
+    <p>Circumvolat, strepitque:</p>
+    <p>Dulcem juvat furorem</p>
+    <p>(125) Agitare cum Lyaeo:</p>
+    <p>Furebat olim Orestes</p>
+    <p>Sed ille matricida;</p>
+    <p>Nos, nos suaviore</p>
+    <p>Ardebimus calore.</p>
+    <p>(130) Libet libet jocari</p>
+    <p>Sic nos docet juventa</p>
+    <p>Sic nos docet voluptas</p>
+    <p>Prud. Gens absque consilio, &amp; prudentia, utinam saperent,
+    &amp; intelli-</p>
+    <p>gerent, &amp; novissima providerent.</p>
+  </div>
+  <div type="level2" xml:id="de-iv.-uitkomste">
+    <head>DE IV. UITKOMSTE</head>
+    <p>De Voorzichtigheit beklaagt Philedonius blintheit, en</p>
+    <p>voorzegt hem het inwendig knagen des gemoedts.</p>
+    <p>Quam triste caecis incubat terris chaos!</p>
+    <p>(135) Non una nox est; quodque in extremis solet*</p>
+    <p><milestone unit="folio" facs="A3v"/></p>
+    <p>Ipsas tenebras aureum vocant diem:</p>
+    <p>Eheu voluptas mentis obtenebrat jubar,</p>
+    <p>Caecosque, seu Sampsonis ad molam, trahit:</p>
+    <p>Nec esse sub labore se miseri putant.</p>
+    <p>(140) Ite, ite; vindex sequitur à tergo Deus:</p>
+    <p>Sibi notus ultor animus excutiet tibi</p>
+    <p>Tenebras, miseriae sub quibus latitant tuae:</p>
+    <p>Dum vina capies; lachrymae in vinum cadent;</p>
+    <p>Sic laeta maestus pocla miscebit dolor.</p>
+    <p>(145) Epulabere auro; sed tuas intus fibras</p>
+    <p>Scelerum colubri dente mordaci appetent.</p>
+    <p>At ipse passu languido in scenam subit;</p>
+    <p>Non sic abibat: qualis, en qualis venit.</p>
+    <p>Retro aucupabor commodum verbis locum.</p>
+  </div>
+  <div type="level2" xml:id="de-v.-uitkomste">
+    <head>DE V. UITKOMSTE</head>
+    <p>Philedonius wordt in zijn gemoet schrickelijk gepijnight.</p>
+    <p>(150) Quam se cruentis animus incurset flagris,</p>
+    <p>Quicunque culpa plenus, &amp; timidus mori,</p>
+    <p>Didicisse potuit; qui novum exemplum petit</p>
+    <p>Me videat; unum pectus hoc, cruces, rotas</p>
+    <p>Serras acuto dente mordaces nimis,</p>
+    <p>(155) Saturumque nunquam vulturem Tytii gerit.</p>
+    <p>Quis tot timores, quis tot equuleos ferat?</p>
+    <p>Det aliquis ensem, si quis è vobis pius,</p>
+    <p>Licet immerentem liberet tantis malis,</p>
+    <p>Centumque in una morte consumat neces.</p>
+    <p>(160) Quam crucior! âh quam crucior! ante oculos volat</p>
+    <p>Nigra turba scelerum, seque nolenti ingerunt,</p>
+    <p><milestone unit="folio" facs="A4r"/></p>
+    <p>Mihique memet exprobrant. Nemo hunc potest</p>
+    <p>Animum innocentem facere, nam sibi nocens</p>
+    <p>A se tenetur, seque seu reum arguit.</p>
+    <p>(165) Peccasse nollem; jam recrudescit nefas,</p>
+    <p>Semperque fieri, quod semel factum puto.</p>
+    <p>Quid me futurum? si forem parum nocens</p>
+    <p>Tigres rogarem, vel famem ultricis Leae.</p>
+    <p>Graviora jam timenda; tu tellus viam</p>
+    <p>(170) Mihi fac ad umbras. ibo: sed sonti plaga</p>
+    <p>Decreta turbae me fugit; aliquid meis,</p>
+    <p>Majus sceleribus debitum; infernus quoque</p>
+    <p>Mihi parva poena est: quisquis animarum arbiter</p>
+    <p>Rigidum tribunal ultimi exercet fori,</p>
+    <p>(175) Jnveniat* aliquid, quod mea dignè queat</p>
+    <p>Piare noxas; non potest Acheron satis.</p>
+    <p>Quid vivo? vâh me! credite, expertus loquor,</p>
+    <p>Si tota tellus Thessala in virus fluat,</p>
+    <p>Unoque centum Dipsades jungat scypho</p>
+    <p>(180) Minus venenum est, quam quod aurato Venus</p>
+    <p>Cratere miscet. o mori, o mori, o mori.</p>
+  </div>
+  <div type="level2" xml:id="de-vi.-uitkomste">
+    <head>DE VI. UITKOMSTE</head>
+    <p>De Voorzichtigheit troost Philedonius: hy beraat</p>
+    <p>zich met haar.</p>
+    <p>Prud. Quis ille vultus? turbidus, timidum fremens,</p>
+    <p>Plenus minarum, spumat in labris furor;</p>
+    <p>Oculus citato flammeos motu rotat,</p>
+    <p>(185) Et mille formas Proteus, variat color.</p>
+    <p>At quae furoris causa? num Phoebo tumet,</p>
+    <p>Aut entheatum pectus à Baccho calet?</p>
+    <p><milestone unit="folio" facs="A4v"/></p>
+    <p>Phil. Non illa causa est, nec pati coepit Deum</p>
+    <p>Plenum futuri pectus, &amp; sui inscium:</p>
+    <p>(190) Solem intueri conscium scelerum omnium,</p>
+    <p>Nec posse memet fugere, quem fugio tamen;</p>
+    <p>Hoc impotentem me mei, &amp; rabidum facit.</p>
+    <p>Prud. Revertere ad te: video lymphatum furor</p>
+    <p>Externat animum, da moram ac spatium tibi</p>
+    <p>(195) Et tempus irae. Phil. Capere consilium nequit</p>
+    <p>Turbatus animus. Prud. In malis vinci malum est.</p>
+    <p>Resiste, temet coge meliora exequi.</p>
+    <p>Phil. Ubi sumus anime, quo tui oblitus ruis?</p>
+    <p>Quid ipse temet moribus variis agis,</p>
+    <p>(200) Torquesque in iras? sed quis eripiet Deus</p>
+    <p>Tantis periclis? Prud. Euge maerorem excute</p>
+    <p>Te gaudio imple: si mea haec nunc non sinas</p>
+    <p>Perire monita, jam prope est, prope est salus.</p>
+    <p>Phil. En me obsequentem, flecte, quo lubet, sequar.</p>
+    <p>Prud. (205) Huc advocabo concilj mei arbitros.</p>
+    <p>Phil. Adhuc tremiscit animus &amp; sese putat</p>
+    <p>Timore, &amp; ira concuti: ut saepe Africo</p>
+    <p>Fugiente fluctus; ipsa pax Pelagi tumet,</p>
+    <p>Ventique meminit, languidas quamvis quies</p>
+    <p>(210) Fluat per undas.</p>
+  </div>
+  <div type="level2" xml:id="de-vii.-uitkomste">
+    <head>DE VII. UITKOMSTE</head>
+    <p>De Voorzichtigheit brengt haere raetslieden* te voorschijn,</p>
+    <p>den Tijdt, de Doot, het Oordeel, de Hel, de He-</p>
+    <p>melsche glorie, en d’Eeuwigheit, die</p>
+    <p>Philedonius onderwijzen.</p>
+    <p>Quis hic senatus, pallidâ livens togâ.</p>
+    <p>Quaenam illa monstra? mortuis vivae domus</p>
+    <p><milestone unit="folio" facs="B1r"/></p>
+    <p>Repetuntur iterum? Quae novi forma haec fori?</p>
+    <p>Roma obstupesce; quantus inscribit rigor</p>
+    <p>(215) Ora atque vultus! non mihi lunas pedum,</p>
+    <p>Clavoque pictam purpuram obijciat Cato,</p>
+    <p>Magis haec verenda. Diva tu dubium rege.</p>
+    <p>Prud. Etsi humanae mentis ea sit vis, ut res absentes, tan-</p>
+    <p>quam sibi praesentes intellectui possit subiicere, &amp;</p>
+    <p>futura cogitatione praecipere: Quoniam tamen</p>
+    <p>ea plerumque (prô dolor!) hominum caecitas,</p>
+    <p>ut aetati, &amp; tempori, non aeternitati nati videantur,</p>
+    <p>omninô putavi necessarium, ut a vobis audirent, quo</p>
+    <p>pede, qua via ad patriam suam, quam propemodum</p>
+    <p>ignorare videntur, debeant decurrere. Vos ergo</p>
+    <p>quoniam jam intellexistis quanta sit res, quae in</p>
+    <p>praesenti quaestione versatur, quod nempe ex ea o-</p>
+    <p>mnis, &amp; praesens, &amp; futura felicitas dependeat,</p>
+    <p>quod rectum bonumque judicatis. ex animi senten-</p>
+    <p>tia pronunciate.</p>
+    <p>Mutator aevi, mensium bis sex pater,</p>
+    <p>(220) Cujus rotatu perpeti sequax sui</p>
+    <p>In se refertur annus, &amp; sibi redux</p>
+    <p>Occurrit ipse circulo exacto brevi.</p>
+    <p>Qualis citatis dum dies eunt rotis</p>
+    <p>Ducenda vita, dubia ne res sit, doce.</p>
+    <p>Temp. (225) Quot quot vetustas per tot annorum gradus</p>
+    <p>Tulit Platones, pectore hoc ûno gero;</p>
+    <p>Me longus usus docuit; ut quondam Jovi</p>
+    <p>Postvorta &amp; Antevorta, vel veluti data est</p>
+    <p>Anceps bifronsque forma clavigero Deo</p>
+    <p>(230) Sic unus ipse, fronte tricipiti tamen,</p>
+    <p>Quidquid capaci aeternitas claudit sinu</p>
+    <p><milestone unit="folio" facs="B1v"/></p>
+    <p>Retroque lapsum est, video; mihi positum procul,</p>
+    <p>Prope est futurum; quaeque jam fluit dies</p>
+    <p>Per has arenas currit, &amp; mihi tumet</p>
+    <p>(235) Lunaris unda menstruo cursu aestuans.</p>
+    <p>Audi ergo turba, tuque qui dubius rogas;</p>
+    <p>Qualem per annos ire te deceat tuos.</p>
+    <p>Seu jam recedens auferat mundo jubar,</p>
+    <p>Seu reddat orbi rursus* accedens dies;</p>
+    <p>(240) Te moneat animus: ecce, quam celeri ruunt</p>
+    <p>Horae volatu: quodque tum factum voles</p>
+    <p>Cum summa dicet hora momentum ultimum est,</p>
+    <p>Hoc nunc agendum.</p>
+    <p>Prud. Tu quae extrema saepe hominum vota surda licet</p>
+    <p>(245) Aure accepisti: haerentem in bivio adolescentem</p>
+    <p>Consilio tuô ad rectiorem vitam dirige.</p>
+    <p>Mors. Mors certa, vita incerta; crescendo perit,</p>
+    <p>Pereundo crescit: interim tamen sui,</p>
+    <p>Deperdit aliquid, quod mihi in lucrum venit.</p>
+    <p>(250) Sic mors fugacis semper it vitae comes.</p>
+    <p>Dies diei cedit; atque annum sequens</p>
+    <p>Expellit annus. credat imprudens homo</p>
+    <p>Vitae ruentis pondus in mortem haud trahi:</p>
+    <p>Ad fata it infans quadrupes, juvenis bipes,</p>
+    <p>(255) Tripes senecta currit &amp; baculo incitat</p>
+    <p>Gressum morantem, ceu timens sero mori.</p>
+    <p>Manus haec per omnes saevit aetatum gradus.</p>
+    <p>Cavete telum hoc: sed quis evitet satis?</p>
+    <p>Nunquam cavetur. tunc adhuc dubius rogas,</p>
+    <p>(260) Quae sint agenda? respice ad cineres tuos,</p>
+    <p>Vermesque, quos post fata convivas ales,</p>
+    <p>Hi te docebunt. Prud. Fare quid factum voles,</p>
+    <p>Cum tanget illas creditor summus fores:</p>
+    <p><milestone unit="folio" facs="B2r"/></p>
+    <p>Dicetque: vitae redde depositum, haud dedi</p>
+    <p>(265) Sed mutuavi: mentis hoc ima occupet.</p>
+    <p>Phil. Lux illa veniet, veniet &amp; quidem brevi,</p>
+    <p>Sed me sequetur, quando frigentis latus</p>
+    <p>Fax tristis uret, subdita aversa manu.</p>
+    <p>Fecisse, quod tunc expetes, hoc nunc age.</p>
+    <p>Prud. (270) Tu, quae bilancem nesciam falli geris,</p>
+    <p>Ad cujus urnam veritas testis sedet</p>
+    <p>Ignara falli: Quod decet palam edoce.</p>
+    <p>Iudic. Justitia, quae nunc laneo arrepit pede,</p>
+    <p>Illa, illa tandem ferreâ feriet manu.</p>
+    <p>(275) Cum vasta terrae machina incumbet sibi</p>
+    <p>Totusque mundus Troja flagrabit nova,</p>
+    <p>Tunc astra coelum deserent: validis gemet</p>
+    <p>Percussa ventis unda, &amp; ad planctum ultimum</p>
+    <p>Natura veniet tota; tunc Phoebus retro</p>
+    <p>(280) In se recurrens, semet involvet sibi,</p>
+    <p>Tenebrasque quaeret exul in patrio polo.</p>
+    <p>Una illa mundi crimina ostendet dies,</p>
+    <p>Et in medullis condita arcana eruet</p>
+    <p>Spectanda cunctis, quaeque nunc latebras habent,</p>
+    <p>(285) Protrusa cernent crimina invisum diem.</p>
+    <p>Tunc cum severus syngrapham exactor petet.</p>
+    <p>Si nunc protervos stat sequi mentis procos</p>
+    <p>Risus jocosque, judicem iratum tua</p>
+    <p>Habitura causa.</p>
+    <p>Prud. (290) Tu inferne, qui aeternis suppliciis destinatos
+    accipis,</p>
+    <p>&amp; omni tormentorum genere exagitas; doce qua</p>
+    <p>homines ratione, ea possint evitare.</p>
+    <p>Inf. Invitus, &amp; coactus effabor meis</p>
+    <p>Adversa votis, quaeque nesciri expeto.</p>
+    <p>Tellure mediâ, quâ cavum pandens sinum</p>
+    <p><milestone unit="folio" facs="B2v"/></p>
+    <p>Hiante ruptum valle discessit solum,</p>
+    <p>(295) Horrenda solvit ora, populorum capax,</p>
+    <p>Sitiensque praedae, caeca Luciferi domus.</p>
+    <p>Eheu quot illuc mole compactà impiae</p>
+    <p>Glomerantur animae! densior numquam cadit</p>
+    <p>Dejecta grando, quando crepitanti insilit</p>
+    <p>(300) Fragore tectis, nec tot extrudit Ceres</p>
+    <p>Campis aristas, quot in hoc barathrum trahit</p>
+    <p>Blando voluptas fascinans oculos dolo.</p>
+    <p>Cavete, moneo. Flamma quae, miseros cremat</p>
+    <p>Foecunda semper semet absumens alit.</p>
+    <p>(305) Tu sequere veneris castra si paenae hae placent.</p>
+    <p>Prud. Tu vero, quae omni felicitate affluis, coelestis glo-</p>
+    <p>ria, exprome quid agendum, ut a vita hae</p>
+    <p>tuarum voluptatum fiamus participes.</p>
+    <p>Coel. Glor. Assurge coelo, qui polo dignam geris.</p>
+    <p>Deoque mentem, quidquid est grave, id leve;</p>
+    <p>Tormenta, ludus; vita, mors; paenae, joci;</p>
+    <p>(310) Labor, voluptas. Utque jam dura haec forent,</p>
+    <p>Aeterna restant. Cum suis flammis agi</p>
+    <p>Lentum videret Ilium, ignovit decem</p>
+    <p>Tum victor annis. Dulcis in portu quies</p>
+    <p>Periculorum navitam immemorem facit.</p>
+    <p>(315) Nil te fatiget; gratior semper sopor,</p>
+    <p>Cum lassa membra durus exhausit labor.</p>
+    <p>Laboriosa ducit ad superos via,</p>
+    <p>Verum est: sed illa trita jam: coelum voco</p>
+    <p>Exemplum in ingens: Christus occurrat tibi</p>
+    <p>(320) Trabeatus ostro sanguinis, qualis redux</p>
+    <p>Polos petivit, post graves nimium crucis</p>
+    <p>Pro te dolores, sed leves pro te tamen.</p>
+    <p>Phil. Assurge mens alasque jam tibi indue,</p>
+    <p><milestone unit="folio" facs="B3r"/></p>
+    <p>I per beatas insulas fausto pede,</p>
+    <p>(325) Ubi multa laurus aureis foliis viret</p>
+    <p>Mollesque spirant Arabos aurae crocos</p>
+    <p>Prud. Tu rerum* omnium longissimum aeternitas finem</p>
+    <p>huic quaestioni imponito.</p>
+    <p>Aet. Timete, quotquot culpa jam reos facit:</p>
+    <p>Aeternitatis ecce se pandit via,</p>
+    <p>(330) Et ante vos est. O grave &amp; longum nimis</p>
+    <p>Est, quod perennat! quisquis hic vitam trahis,</p>
+    <p>Memento momenti: potes, jam nunc potes</p>
+    <p>Terris relictis coelitum sequi domos.</p>
+    <p>Tu qui trementem temet huc illuc trahis</p>
+    <p>(335) Partes in omnes. Elige, aeternos rogos,</p>
+    <p>Luctus perennes gaudium fugax dabit;</p>
+    <p>Labore parvo, si voles, jam nunc potes</p>
+    <p>Emere perennis gloriae aeternum decus.</p>
+    <p>Prud. I nunc &amp; inter tinnulos cytharis jocos,</p>
+    <p>(340) Notasque mensas, quas Ceres Baccho ebria</p>
+    <p>Facit loquaces, si lubet, vitam exige.</p>
+    <p>Dementis est errare cum sciat viam.</p>
+  </div>
+  <div type="level2" xml:id="de-viii.-uitkomste">
+    <head>DE VIII. UITKOMSTE</head>
+    <p>Philedonius erkaaut den raat aan hem gegeven.</p>
+    <p>Vides fugaces, &amp; nimium breves</p>
+    <p>Truduntur anni, nec volucres necis</p>
+    <p>(345) Tardabis alas, mox futurus</p>
+    <p>Victima te sitientis orci es.</p>
+    <p>I clarus hospes per liquidum aethera,</p>
+    <p>Deoque mentem consociare ama,</p>
+    <p>Lucosque felices subintra,</p>
+    <p>(350) Quos liquido rigat amne nectar.</p>
+    <p><milestone unit="folio" facs="B3v"/></p>
+    <p>Quid sit futurum quaere; fluit retro</p>
+    <p>Aetas amaena, cui senii rigor</p>
+    <p>Succedet, aeternis protervam</p>
+    <p>Consiliis cohibe juventam.</p>
+    <p>(355) Quodcumque vitae est, dum loquimur fugit,</p>
+    <p>Agente nimbos ocyus Africo.</p>
+    <p>Memento momenti: perennat</p>
+    <p>Quod sequitur dolor, aut voluptas.</p>
+  </div>
+  <div type="level2" xml:id="het-tweede-bedryf">
+    <head>HET TWEEDE BEDRYF</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="i.-uitkomste">
+    <head>I. UITKOMSTE</head>
+    <p>De Voorzichtigheit vertoont den twijfelenden Philedonius</p>
+    <p>de twee wegen, de eenen ter behoudenisse, den anderen ter</p>
+    <p>verdoemenisse; ook de kortheit van ’s menschen leven.</p>
+    <p>Phil. UT aestuosis spuma vorticibus furit,</p>
+    <p>(360) Ubi implicatos fluctibus fluctus rotat,</p>
+    <p>Torquetque Nereus, dubia cum semet fugit,</p>
+    <p>Seseque sequitur unda, simul instans sibi,</p>
+    <p>Sibique cedens; sic meum, sic, vel magis</p>
+    <p>Cor fluctuatur; inter incertas vices</p>
+    <p>(365) Aestusque refluos mentis ambiguus trahor.</p>
+    <p>Tu summe Conse, caelici praeses fori,</p>
+    <p>Aeterna sophia flecte, quo dubium voles.</p>
+    <p>Huc anime adesdum: quid retro metuens fugis,</p>
+    <p>Quid te reflectis? crede consulitur tibi.</p>
+    <p>(370) Quid dubius haeres? semita, en duplex patet,</p>
+    <p>Ecquam sequeris? elige, ast quamnam vide.</p>
+    <p>Hier worden de twee wegen verthoont.</p>
+    <p>Prud. Ecce ego do coram vobis viam vitae, &amp; viam mortis.</p>
+    <p><milestone unit="folio" facs="B4r"/></p>
+    <p>Angusta porta &amp; arcta via quae ducit ad vitam,</p>
+    <p>Et pauci sunt qui inveniunt eam.</p>
+    <p>(375) Lata porta &amp; spaciosa via, quae ducit ad
+    perditionem,</p>
+    <p>&amp; multi sunt, qui intrant per eam.</p>
+    <p>Phil. O vita fallax auream larvam geris,</p>
+    <p>Cerussa nota est: blandulus frontis decor</p>
+    <p>Longaeva Pylii fata promittit senis;</p>
+    <p>(380) Promittit, at non praestat.</p>
+    <p>De kortheit des levens word verscheidentlyk uitgebeelt.</p>
+    <p>Chor. En vaga sublimes conscendit bullula in auras,</p>
+    <p>Bullula sed leni flamine tacta perit:</p>
+    <p>Sic tua vita perit minimâ percussa procellâ</p>
+    <p>Crede mihi fragilis bullula vita tua est:</p>
+    <p>(385) Es flos mane puer, mediâ vir floscule luce,</p>
+    <p>Fisque idem subito sole cadente senex:</p>
+    <p>Sic tua vita fluit properantibus incita pennis</p>
+    <p>Quodque vocas annos, vix erit una dies</p>
+    <p>Quondam Pythagoras, hominum quid vita, rogatus.</p>
+    <p>(390) Et responsa dabat, nec tamen ulla dabat.</p>
+    <p>Tempore conspicuus pauco stetit; inde recessit,</p>
+    <p>Sic nostra apparet tempore vita brevi.</p>
+    <p>Gramine conspicuum viridi se tollit in auras</p>
+    <p>Foenum, molle ornat dum rosa flore caput.</p>
+    <p>(395) Sic homo primaevo vernans in flore Juventae</p>
+    <p>Promittit vitae tempora longa sibi;</p>
+    <p>Sed faenum subitâ procumbit falce; Juventam</p>
+    <p>Mors rapit; estque brevi vilis utrumque cinis.</p>
+    <p>Vitam utraque manu complexuque assere toto,</p>
+    <p>(400) Nam si tardus eris; errabis: transiet aetas,</p>
+    <p>Quam cito non segnis it, remeatque dies.</p>
+    <p>Quam cito purpureos deperdit terra colores,</p>
+    <p><milestone unit="folio" facs="B4v"/></p>
+    <p>Quam cito formosas populus alta comas.</p>
+    <p>Quid vita est hominis? rerm bene dixeris umbram,</p>
+    <p>(405) Vel si vitalis sit nimis umbra, nihil.</p>
+    <p>Prud. Testes invoco hodie coelum, &amp; terrarum quod
+    proposuerim</p>
+    <p>vobis vitam &amp; mortem: elige ergo vitam.</p>
+    <p>Phil. Quonam ibo? quonam? quo ferar? quo non ferar?</p>
+    <p>Utroque pronus pondere aequali trahor,</p>
+    <p>Et huc, &amp; illuc dividor, nec sum meus.</p>
+    <p>Quod cogito, non cogito: nolo, &amp; volo,</p>
+    <p>(410) Neutrum, atque utrumque: nil sibi certum invenit,</p>
+    <p>Nihilque tutum mentis ambiguae timor.</p>
+  </div>
+  <div type="level2" xml:id="ii.-uitkomste">
+    <head>II. UITKOMSTE</head>
+    <p>De wellust, Overvloet, Jongkheit en Eer trecken den</p>
+    <p>twijffelmoedigen Philedonius op haer zijde.</p>
+    <p>Phil. Sed quis sonanti saltitans prodit pede,</p>
+    <p>Dubiasque certo temperat fides sono?</p>
+    <p>Ah nota nimium turba, quid iterum meos</p>
+    <p>(415) Oculos oberras? tuque dissuasor sacri,</p>
+    <p>Spretorque honesti luxus ad veteres trahis</p>
+    <p>Rursus choreas. Volup. Nempe sic meos potes</p>
+    <p>Fugisse casses! qualis imbelli furit</p>
+    <p>Avis volatu, quando deceptos pedes</p>
+    <p>(420) Gluten coërcet, alaque implexis stupet</p>
+    <p>Detenta plumis, aërem plausu irrito</p>
+    <p>Totosque vano convocans motu nothos.</p>
+    <p>I nunc, &amp; arctâ compede innexus pedem</p>
+    <p>Meditare libertatis optatum decus,</p>
+    <p>(425) Plenusque terra coelitum affecta viam.</p>
+    <p>Opul. Agedum jocorum mille vectigal* sibi</p>
+    <p>Deposcit aetas: quid necas laetam indolem?</p>
+    <p><milestone unit="folio" facs="C1r"/></p>
+    <p>Iuv.* Haec docta duri nil sonare barbitos</p>
+    <p>Curas fugabit. video se pedes movent</p>
+    <p>(430) Sponte ad choreas; sequere juvenilem impetum.</p>
+    <p>Phil. Quam varia species agmine ambiguo irruit!</p>
+    <p>Ut cum serena phoebus arrisit face,</p>
+    <p>Vitreoque nimbo lucidum infudit jubar,</p>
+    <p>Tunc ille dubiis circulum pingit notis</p>
+    <p>(435) Nullusque, &amp; omnis cernitur coelo color:</p>
+    <p>Sic animus inter variat, &amp; dubius sui</p>
+    <p>Idem, nec idem est.</p>
+  </div>
+  <div type="level2" xml:id="de-iii.-uitkomste-1">
+    <head>DE III. UITKOMSTE</head>
+    <p>De Voorzichtigheit en haare raatslieden willen Philedo-</p>
+    <p>nius tot de Deugt leiden: maar hy stelt dit uit, tot</p>
+    <p>zijnen ouden dagh, en begeeft zich tot d’uitterste</p>
+    <p>ongebondenheit.</p>
+    <p>Prud. Ergone excidimus tibi?</p>
+    <p>Mors. Nullumne vulnus tela fecerunt mea?</p>
+    <p>Inf. (440) Adeone credis tartari exstinctos rogos,</p>
+    <p>Nec expavescis, quam timent cuncti styga?</p>
+    <p>Vol. Quam nempe mendax veritas vatum facit</p>
+    <p>Orbi timendam: mens suum repetit chaos,</p>
+    <p>Nihilque fit quod fuerat: hoc erimus loco,</p>
+    <p>(445) Quo nata nunquam: nulla pars nostri manet,</p>
+    <p>Totique morimur, cum fugax anima avolat,</p>
+    <p>Seseque nebulis miscet; &amp; perdit simul.</p>
+    <p>Aeter. Aeternitatis testis est animus tibi,</p>
+    <p>Contraque clamans timidus &amp; trepidus rogat,</p>
+    <p>(450) Quid post futurum. Phil. sentio hoc: procul joci;</p>
+    <p>Fallacis undae amasius vacuos amet</p>
+    <p><milestone unit="folio" facs="C1v"/></p>
+    <p>Sub fonte vultus. rem volo, rem, rem volo;</p>
+    <p>Umbrae facessant; Munde cum tuis vale.</p>
+    <p>Hon. Itane? nec illam summovent mentem tibi</p>
+    <p>(455) Fasces honoris, quaeque dimidios trahunt</p>
+    <p>Fumosa proavos atria, ubi magnum genus</p>
+    <p>Parvum nepotem cera non muta edocet.</p>
+    <p>Coel. Glor. Honoris alia panditur coelo via.</p>
+    <p>Quicunque proavos laudat &amp; regum genus,</p>
+    <p>(460) Inane nomen jactat, &amp; levem nimis</p>
+    <p>Venatur umbram, lucis alienae appetens.</p>
+    <p>Phil. Ita est fatemur: quidquid hic mundus stupet,</p>
+    <p>Obliviosus obruet tandem cinis:</p>
+    <p>Aeterna sunt spectanda; jam totus feror,</p>
+    <p>(465) Quo sacra vis, &amp; mentis accensae calor,</p>
+    <p>Hospesque pleni pectoris Deus rapit.</p>
+    <p>Vol. Si ridet adeo sentibus rigens iter,</p>
+    <p>Ignosce saltem tempori. Iuvent. Aetatem aspice:</p>
+    <p>Monet illa cytharas inter, &amp; dulces jocos</p>
+    <p>(470) Movere puro mite certamen mero.</p>
+    <p>Vol.* Proscribe curas, quando sulcabit genas</p>
+    <p>Rugis senectus, perque nigrantes comas</p>
+    <p>Errabit albis candidus plumis olor,</p>
+    <p>Vicina morti tempora impendes Deo.</p>
+    <p>Phil. (475) Sic est, eamus; prima nunc aetas favet.</p>
+    <p>Eundum, eundum est; quidquid idaliis rosis</p>
+    <p>Condit voluptas, ad meos luxus fluat.</p>
+    <p>Quando senectus tetrica morosum obtuet,</p>
+    <p>Vivam salino paupere, &amp; tenui dape.</p>
+    <p>(480) Jam nolo: talem videat, &amp; doleat Deus:</p>
+    <p>Pius esse nolo; frigida hoc aetas dabit.</p>
+    <p><milestone unit="folio" facs="C2r"/></p>
+  </div>
+  <div type="level2" xml:id="iv.-uitkomste">
+    <head>IV. UITKOMSTE</head>
+    <p>De Voorzichtigheit met haer gezelschap dreight</p>
+    <p>Philedonius.</p>
+    <p>Prud. Faex nempe vitae, &amp; ultima aetatis labor;</p>
+    <p>Cum fracta luxu membra debetur Deo?</p>
+    <p>Mor. Innitere annis, cana nix nil me movet,</p>
+    <p>(485) Nec flos Juventae, caeca mors nescit senem</p>
+    <p>Juvenemve figat; tumulus hos pares facit.</p>
+    <p>Inf. Ridemur etiam? flammaque in fumos abit</p>
+    <p>Fabellulasque? sic juvat luxus brevis,</p>
+    <p>Pereas ut aeternum? scies sero scies,</p>
+    <p>(490) Supplicia quam cruenta damnatos premant.</p>
+    <p>Cael. Glor. Placet voluptas? laudo: sed cur non placet.</p>
+    <p>Aeterna quae sit? quae Deo toto ebriam</p>
+    <p>Implebit animam? Aetern. Perge qua coeptum via;</p>
+    <p>Sed brevia longus gaudia excipiet dolor.</p>
+    <p>Temp. (495) Opus juventa est, ut quis invadat polos,</p>
+    <p>Senecta animum infirma, quae tremulo gradu</p>
+    <p>Vix ferre se, vix pondus annorum potest.</p>
+    <p>Tunc sera surdas vota pulsabunt fores.</p>
+    <p>Iud. Cur nunc benigna tela suspendis manu</p>
+    <p>(500) Librator ingens fulminis?* totus rue</p>
+    <p>In flammam &amp; ignem: sicne contemptor tui</p>
+    <p>Impune ut abeat? ibo, &amp; ulciscar nefas.</p>
+    <p><milestone unit="folio" facs="C2v"/></p>
+  </div>
+  <div type="level2" xml:id="het-derde-bedryf">
+    <head>HET DERDE BEDRYF</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="i.-uitkomste-1">
+    <head>I. UITKOMSTE</head>
+    <p>De Hardtneckigheit, zich tegens God, en alle Goddelijke</p>
+    <p>middelen kantende, wort van de Barmhertigheit,</p>
+    <p>die op der Godtvruchtigen gebeden uit den hemel</p>
+    <p>nederdaalt, overwonnen.</p>
+    <p>Pert. Ego sum rigidis nata sub undis</p>
+    <p>Durae soboles saxea terrae.</p>
+    <p>(505) Hoc stant uno pectore fixa</p>
+    <p>Marmora, rupes, scopuli, montes.</p>
+    <p>Cum placuit animo perfido dirum scelus,</p>
+    <p>Licet ignivomis hiet infernus</p>
+    <p>Minax cavernis, fulminibus licet,</p>
+    <p>(510) Juppiter horrisonis quatiat fundamina mundi,</p>
+    <p>Non flectat unquam: nil cor hoc movent minae;</p>
+    <p>Sed nec blanditiae: cadaverosos</p>
+    <p>Promtius flectas precibus sepultos</p>
+    <p>Quam pectus hoc.</p>
+    <p>Chor. (515) Supreme mundi rector, atque hominum sator</p>
+    <p>Cui prona semper parcere, &amp; tarda ad minas</p>
+    <p>Dextera: vibrati fulminis quamvis rigor</p>
+    <p>Poenas reposcat; siste. vel hodie genus.</p>
+    <p>Mortale discat: ut pares nunquam dei.</p>
+    <p>(520) Ullae resistere viribus vires queunt;</p>
+    <p>Ita bonitati par dari nullum scelus.</p>
+    <p>Scio pertinaci cor chalybe vinctum riget</p>
+    <p>Nec ulla terris media, quae tantum doment</p>
+    <p>Mentis rigorem. Jam perjt, miser perjt</p>
+    <p>(525) Nisi mittis altis sedibus, propriam tibi,</p>
+    <p>Bonitate semper quae scelera vincit Deam.</p>
+    <p><milestone unit="folio" facs="C3r"/></p>
+    <p>Mis. Huc age saevis nata cavernis</p>
+    <p>Durae soboles saxea terrae,</p>
+    <p>Exue saevis chalybem fibris,</p>
+    <p>(530) Excute duri pondera saxi.</p>
+    <p>Rumpere, rumpere caucaseum disrumpere pectus;</p>
+    <p>Este procul rupes, saxa, chalybsque procul.</p>
+    <p>Pert. Frendeo, ringor, rugio; vincor</p>
+    <p>Majore manu morior, morior.</p>
+    <p><hi rend="bold">Chor. (535) Quosvis Diva haec
+    subjugat animos,</hi></p>
+    <p>Erebique truces superans hostes</p>
+    <p>Cedere cogit, quidquid Avernus*</p>
+    <p>Rigido rigidis adamante fibris</p>
+    <p>Vinxerat, alto bella Tonanti,</p>
+    <p>(540) Bella in sese ruitura movens.</p>
+  </div>
+  <div type="level2" xml:id="de-ii.-uitkomste-1">
+    <head>DE II. UITKOMSTE</head>
+    <p>Philedonius, in zijn harte bewogen, kant zich tegen de goede</p>
+    <p>genegentheden met een Goddeloos geraas, waar door hy</p>
+    <p>in slaap geraakt.</p>
+    <p>Quis ille magnes ferreum pectus movet?</p>
+    <p>Ignave, iners, imbellis excedit tumor</p>
+    <p>Et se remittit, regelat mentis rigor.</p>
+    <p>Quid hoc? madescunt ora, quatiuntur manus,</p>
+    <p>(545) Meumque genitu non meo pectus sonat!</p>
+    <p>Nolente me, quis jam pium hunc animum facit?</p>
+    <p>Quisnam timori reddit, &amp; Deum incutit?</p>
+    <p>Nolente me, nolente si quis est silex,</p>
+    <p>Qui fulminanten* saepius sensit Jovem,</p>
+    <p>(550) Nec cessit unquam; durior si quis chalybs,</p>
+    <p>Quem nulla domuit Brontis aut Steropis manus,</p>
+    <p>In pectus hoc descendat: orphaeam chelyn.</p>
+    <p><milestone unit="folio" facs="C3v"/></p>
+    <p>Secuta Rhodope, nunc meas etiam velim</p>
+    <p>Sequatur iras; det suam Amphion lyram,</p>
+    <p>(555) Thebas secundas pectore hoc meo extruam.</p>
+    <p>Duresce mollis rixa; sed nondum haec satis:</p>
+    <p>Majora posco, quidquid opposuit diis</p>
+    <p>Monstripara tellus, quando fulmineos duces,*</p>
+    <p>Non ante viso terruit bello gigas,</p>
+    <p>(560) Demigret in me. Saxa quoque Niobes placent,</p>
+    <p>Sed absque lachrymis quodque faemineum haec habent</p>
+    <p>Viri execramur: Quicquid oceani ferit,</p>
+    <p>Frangitque fluctus, has meas fibras petat.</p>
+    <p>Nunc ut volebam saxeum pectus riget:</p>
+    <p>(565) Nec esse superis ira par poterat mea,</p>
+    <p>Nisi talis esset: ibo jam plenus mei,</p>
+    <p>Et inane forti fulmen excutiam manu,</p>
+    <p>Raptumque victor vertam in auctoris caput:</p>
+    <p>Rebellis adsto: Si quis est coelo abditus</p>
+    <p>(570) Potentior me, veniat, ast fulmen gerat,</p>
+    <p>Satis resistam: pectus opponam hoc meum;</p>
+    <p>Sed quale nunc est. At quis exarmat minas</p>
+    <p>Irasque sopit? victus in somnum cado.</p>
+  </div>
+  <div type="level2" xml:id="de-iii.-uitkomste-2">
+    <head>DE III. UITKOMSTE</head>
+    <p>De Barmhartigheit neemt de gelegentheit van dezen slaape</p>
+    <p>waar, en roept de Droomen, op dat sy Philedo-</p>
+    <p>nius door schrik tot deught bewegen.</p>
+    <p>Mis. Dum vaga surgit bullula in auras,</p>
+    <p>(575) Cadit ignifluo tacta calore:</p>
+    <p>Dum petit aethram fragili pennâ</p>
+    <p>Icarus audax, deserit aethram,</p>
+    <p>Spoliatque suo nomine pontum.</p>
+    <p><milestone unit="folio" facs="C4r"/></p>
+    <p>I ventoso turgens fastu</p>
+    <p>(580) Infer magno bella Tonanti;</p>
+    <p>Disces propriâ morte ruinam,</p>
+    <p>Nisi submittas colla superba:</p>
+    <p>Tu, cui dius sopor exarmat</p>
+    <p>Nimium insanae rabiem mentis,</p>
+    <p>(585) Dubiae noctis territus umbris,</p>
+    <p>Tandem in melius carbasa flectes.</p>
+    <p>Non irato fulmine pugnat</p>
+    <p>Rector coeli, certat amore:</p>
+    <p>Cedere pulchrum vincente Deo.</p>
+    <p>(590) Jacet hic alto vinctus somno,</p>
+    <p>Facilisque capi praeda trahetur;</p>
+    <p>Sed fausta Deo.</p>
+    <p>Huc, huc tardum somnoque gravem*</p>
+    <p>Flectito gressum, histrio noctis.</p>
+    <p>(595) Pallide Morpheu.</p>
+  </div>
+  <div type="level2" xml:id="de-iv.-uitkomste-1">
+    <head>DE IV. UITKOMSTE</head>
+    <p>De Droomgodt Morpheus, en zijne slaapgezellen, van</p>
+    <p>vierderhande aart, verbeelden Philedonius verscheide</p>
+    <p>Droomen, en leggen een dootshooft onder zijne hant.</p>
+    <p>Mor. En ego vacuae ludio scenae</p>
+    <p>Qui modo tristes ingero mortes</p>
+    <p>Sicco irrorans sanguine thalamos,</p>
+    <p>Et modo fictis recinens Cytharis</p>
+    <p>(600) Irrita moestis gaudia porto.</p>
+    <p>Mis. Hic dum vario turbidus aestu</p>
+    <p>Vigiles pugnat vincere somnos;</p>
+    <p>Vestrae vires sentiat artis.</p>
+    <p><milestone unit="folio" facs="C4v"/></p>
+    <p>Mor. Huc huc languiduli venite fratres</p>
+    <p>(605) Quos nigris genuit sopor latebris.</p>
+    <p>Somni sang. En nos blandidulos, comatulosque,</p>
+    <p>En nos aurea bracteata turba.</p>
+    <p>Quales mittere porta eburna suevit,</p>
+    <p>Dum somnus breve, dat rapitque regnum</p>
+    <p>Chol. (610) En nos sanguineo furore pleni</p>
+    <p>Multi somnia fingimus cruoris.</p>
+    <p>Et stragem facimus, sed absque strage.</p>
+    <p>Phil. En nos humiduli maris nepotes</p>
+    <p>Stertentis facimus torum carinam:</p>
+    <p>(615) Nam dum Mercurii beata virga</p>
+    <p>Illos attigit, interesse nautis</p>
+    <p>Et pisces sibi tum fere videntur</p>
+    <p>Mel. En nos palliduli &amp; cadaverosi</p>
+    <p>Criniti stygiis caput colubris;</p>
+    <p>(620) Quales testaceo exeunt camino:</p>
+    <p>Non incendia nil nocente flamma</p>
+    <p>Hostesque ingerimus, nigrosque luctus</p>
+    <p>Et quidquid pavidis solet timeri.</p>
+    <p>Mor. Nunc vestris opus artibus, meisque;</p>
+    <p>(625) Sed mutis, tacitis, silentiosis:</p>
+    <p>Tantum nutibus, horridisque grillis,</p>
+    <p>Tantum questibus haec agenda scena est.</p>
+    <p>Vos sceptrum, diadema, purpuramque</p>
+    <p>Et plausus date, pollicesque faustos,</p>
+    <p>(630) Sed regnum breve pollicesque fictos.</p>
+    <p>Vos, Vos horrida bella, bella, bella,</p>
+    <p>Totis viribus ite concitate:</p>
+    <p>Sed sint praelia muta &amp; absque bombo.</p>
+    <p>Et vos retia non datura praedam</p>
+    <p>(635) Hic expandite, jactitate dextras,</p>
+    <p><milestone unit="folio" facs="D1r"/></p>
+    <p>Ut qui per liquidum natant profundum:</p>
+    <p>Plenis carbasa follicate ventis.</p>
+    <p>Plenis flamina fingitote buccis.</p>
+    <p>Vos nunc mortiferas ciète larvas.</p>
+    <p>Mel. (640) En pallet, gemit, aestuat, minatur.</p>
+    <p>Sese contrahit, ut solent colubri,</p>
+    <p>Dum phoebi fugiunt jubar coruscum.</p>
+    <p>Mor. Huc huc sandapilae nigraeque tumbae.</p>
+    <p>Phil. A! aya! Amy! mor! mor! morior!</p>
+  </div>
+  <div type="level2" xml:id="de-v.-uitkomste-1">
+    <head>DE V. UITKOMSTE</head>
+    <p>Philedonius, de goddelyke Droomen niet achtende, valt</p>
+    <p>weder in slaap. De Goddelijke Inspraak, Godtvruch-</p>
+    <p>tigheit, Bekeeringe, en Godvreezentheit on-</p>
+    <p>derwyzen hem: hy onleerzaam versmaat alle</p>
+    <p>goede middelen, en haar vermaningen.</p>
+    <p>Phil. (645) Ubi sum? quis instat? vivone, an functo
+    gregi,</p>
+    <p>Immixtus erro? qualis exterret meos</p>
+    <p>Imago sensus? Ludicros forsan dolos</p>
+    <p>Mimus diei somnus ante oculos trahit.</p>
+    <p>Caecumque cogit cernere? At quidnam manus</p>
+    <p>(650) Attrectat? horreo, deserit venas cruor.</p>
+    <p>Sed excute anime mortis ignavos metus.</p>
+    <p>Dic larva, siquid vocis elinguis geris,</p>
+    <p>Quaenam es, vel unde, quâ caput quondam hoc stetit</p>
+    <p>Cervice? quid me territas? quonam loco est,</p>
+    <p>(655) Qui nuper animus &amp; loqui, &amp; formam dabat?</p>
+    <p>Sed ipsus erro, mortuos fari rogo.</p>
+    <p>Ludibria somni! sed ferunt, timeo, ferunt</p>
+    <p>Omen futurae mortis. Ast iterum excidis?</p>
+    <p>Et te relinquis? siccine oblitus tui es?</p>
+    <p><milestone unit="folio" facs="D1v"/></p>
+    <p>(660) Te te reposco. testor has vacuas stryges,</p>
+    <p>Umbratilesque fictili mortes dolo,</p>
+    <p>Meliora nolo: quod potest, faciat Deus.</p>
+    <p>Agnosco numen: cogere invitum nequit:</p>
+    <p>Hinc quando fallax inscium elusit sopor</p>
+    <p>(665) Cuniculos tum pectori incauto admovet.</p>
+    <p>Sed fraus reperta est, dedecent reges quoque</p>
+    <p>Latrunculorum furta, &amp; insidiae &amp;, doli,</p>
+    <p>Artesque lavernae: ast Deum, credo, haec decent.</p>
+    <p>Ignave rector coelitum, nec sic capi</p>
+    <p>(670) Hic poterit animus; nota fraus, cessit sopor,</p>
+    <p>Nondum tenemur, jam vigil te te advoco</p>
+    <p>Rebellis adsum &amp; contumax: si non satis.</p>
+    <p>Magis esse cupio, si nec hoc etiam satis,</p>
+    <p>Relinquite erebi stagna discordes Deae.</p>
+    <p>(675) Ut vester animos impleat nostros furor.</p>
+    <p>Magis moveri fluctibus scopuli queant.</p>
+    <p>Sic semper ira perge: jam tuto in loco</p>
+    <p>Versaris: euge, plaude, vicisti furor.</p>
+    <p>Jo triumphe: vicimus gemitus, preces.</p>
+    <p>(680) Fortesque siccis vidimus lachrymas genis.</p>
+    <p>Tandem anime, tandem gratulor parta est quies.</p>
+    <p>Jam tutus obdormisce, jam somnum cape.</p>
+    <p>Susp. Nocturna nil te spectra, nil minae movent?</p>
+    <p>Phil. Quae nempe debellare, sed timidos queant.</p>
+    <p>Piet. (685) Nihil paternis sedibus lapsus Dei</p>
+    <p>Natus, deusque non inaequalis patri,</p>
+    <p>Nil flectit animum adamantinum fusus cruor</p>
+    <p>Pro te, salutis dum lytrum solvit polo</p>
+    <p>Sator ipse nostri generis, &amp; diros tulit</p>
+    <p>(690) Crucis labores: sanguis hic mentem occupet.</p>
+    <p>Phil. Piare noxas ille post poterit meas.</p>
+    <p><milestone unit="folio" facs="D2r"/></p>
+    <p>Met. Metanoea lachrymis ferreas cordis fibras</p>
+    <p>Mollire nulla poterit! abscedat rigor</p>
+    <p>Meliora jam mens vota concipiar, opem</p>
+    <p>(695) Deo ferente; perfidum Petri scelus</p>
+    <p>Magdalenesque* multiplex, pius abluit</p>
+    <p>Largo redundans flumine oculorum liquor.</p>
+    <p>Tim. Dei. Admitte molli pectore, initium boni</p>
+    <p>Cuncti, timorem numinis: facilis amor</p>
+    <p>(700) Sequitur, timor si praevius monstrat viam.</p>
+    <p>Met. Nec lachrymae ullae molliunt duras fibras.</p>
+    <p>Phil. Magis moveri fluctibus scopuli queant.</p>
+    <p>Sic semper ira perge, jam tuto in loco</p>
+    <p>Versaris, euge, plaude, vicisti furor.</p>
+    <p>(705) Jo triumphe, risimus, gemitus, preces,</p>
+    <p>Fortesque siccis vidimus lachrymas genis.</p>
+    <p>Tandem anime, tandem gratulor, parta est quies.</p>
+    <p>Jam tutus obdormisce, jam somnum cape.</p>
+  </div>
+  <div type="level2" xml:id="de-vi.-uitkomste-1">
+    <head>DE VI. UITKOMSTE</head>
+    <p>De Barmhartigheit, na haar beklagh over den ellendigen staat</p>
+    <p>van Philedonius, neemt voor hem te bekeeren door de ver-</p>
+    <p>tooninge van eenen verdoemden.</p>
+    <p>Mis. Eheu flecti nescia corda,</p>
+    <p>(710) Corda ossaeis mage saeva fibris,</p>
+    <p>Quas indurat ferrata silex,</p>
+    <p>Sive diurnum fulvi solis</p>
+    <p>Luceat aurum, seu nocturnum</p>
+    <p>Niveae Phebes micet argentum,</p>
+    <p>(715) Hora remittit nulla rigorem.</p>
+    <p>Piet. O cor duro durius aere</p>
+    <p>Met. Non hoc lachrymae mollire queunt</p>
+    <p>Insp. Non divinae fulmina linguae</p>
+    <p>Non ultricis verbera dextrae.</p>
+    <p>Met. (720) Nulla hos animos metanoea subit.</p>
+    <p>Mis. Cedunt rupes vincente mari,</p>
+    <p>Cedit marmor ferrum admittens,</p>
+    <p>Duramque manum: licet obluctans</p>
+    <p>Cautes, saepe est passa securim.</p>
+    <p>(725) Hominum pectus riget impatiens,</p>
+    <p>Cedere nescit, flecti indocile est.</p>
+    <p>Eheu nimium ferrea corda</p>
+    <p>Corda indomito vincta adamante.</p>
+    <p><milestone unit="folio" facs="D2v"/></p>
+    <p>Mis. Quas admovebo machinas? quisnam domet</p>
+    <p>(730) Hoc pectus aries? jam scio. in scenam dabo</p>
+    <p>Loquax cadaver, cujus ex erebo redux</p>
+    <p>Animus futuri testis, &amp; monitor mali,</p>
+    <p>Meliora tandem doceat errantem sequi.</p>
+    <p>Mox atra turba funebrem promet pedem.</p>
+  </div>
+  <div type="level2" xml:id="de-vii.-uitkomste-1">
+    <head>DE VII. UITKOMSTE</head>
+    <p>Een Lyk wort ’er uitgedragen met een princelijke statie,
+    gestoort</p>
+    <p>door het verschijnen van den Geest des Overledens.</p>
+    <p>Praef. (735) Eheu quam celeri velox pede cursitat aetas,</p>
+    <p>Quam cito lux noctem, nox perimitque diem:</p>
+    <p>Quam rapido motu teretis rota volvitur anni:</p>
+    <p>Quam cito pegasei tempori ala volat!</p>
+    <p>Hora horam trudit, velut unda fugatur ab undâ,</p>
+    <p>(740) Quando equitat siculas Aeolus hostis aquas.</p>
+    <p>Interea magnum miseri sectamur inane,</p>
+    <p>Tendimus infidis carbasa nostra nothis.</p>
+    <p>O curvae in terras animae &amp; coelestium inanes!</p>
+    <p>Sicne nihil lethi tela timoris habent.</p>
+    <p>(745) Post breve non certi consumptum temporis aevum</p>
+    <p>Succedet picea mors metuenda trabe.</p>
+    <p>Een Prins met het gelt, en Gout.</p>
+    <p>Quo tibi quod nimium loculus satur evomat aurum,</p>
+    <p>Ebriaque obrisum ructitet arca Deum?</p>
+    <p>Quid prodest tibi Pactoli si flumina gemment?</p>
+    <p>(750) Non fluet ad nigras hic Acherontis aquas.</p>
+    <p>In rutilis fruticet signata pecunia campis;</p>
+    <p>Aurea sit tellus, aurea sitque domus.</p>
+    <p>In morte ex cunctis vix naula Charontis habebis;</p>
+    <p>Defunctum infidae non comitantur opes.</p>
+    <p><milestone unit="folio" facs="D3r"/></p>
+    <p>Praef. (755) Divitiae vestrae putrefactae sunt,
+    thesaurizastis vobis iram Dei.</p>
+    <p>Een Prins met de kleederen.</p>
+    <p>India quidquid habet, quidquid Panchaja odorum,</p>
+    <p>Id totum, atque etiam plus tua vestis olet.</p>
+    <p>Est verum: ast tibi quid prosunt haec omnia? quidve,</p>
+    <p>Quae nivea in rubro murice dormit ovis?</p>
+    <p>(760) Quo trabeae? vel quae sapphyro purpura nupsit?</p>
+    <p>Aut quae de Phrygiis vestis amoena rosis?</p>
+    <p>In quam Pactoli pretiosa cucurrerat unda</p>
+    <p>Deplueratque suas gemmeus Hermus opes.</p>
+    <p>Praef. Subter te sternetur tinea, &amp; operimentum tuum erunt
+    vermes.</p>
+    <p>De Prins met de wapenen.</p>
+    <p>(765) Ah video luctus domini defluxit in ensem,</p>
+    <p>Hinc latet, &amp; maestum tristis amictus habet.</p>
+    <p>Armaque ferali mortis rubigine squallent,</p>
+    <p>Ipsaque cernuntur spicula posse minus.</p>
+    <p>Hei mihi quid prosunt animi, vel robur, &amp; arma?</p>
+    <p>(770) Robur, &amp; arma, animosque abstulit una dies.</p>
+    <p>Quid prosunt vires? sis Hectore &amp; Hercule plenus.</p>
+    <p>Herculeum jacet hic robur, &amp; Hectoreum.</p>
+    <p>Sis ferus &amp; Martis natus lassare triumphos,</p>
+    <p>Mors de te spolium sanguinolenta feret.</p>
+    <p>(775) Stent Amphionio triplices a pectine Thebae,</p>
+    <p>Te Danaës turris, quae sit ahena clepat.</p>
+    <p>Sit domus ipsa chalybs. quam ferreus ambiat agger,</p>
+    <p>Omnia mors telis diruet illa suis.</p>
+    <p>Praef. Non glorietur sapiens in sapientia sua, &amp; non
+    glorietur fortis in fortitudine sua, &amp; non glorietur dives in
+    divitiis suis.</p>
+    <p>Een Prins met de spijsen.</p>
+    <p>(780) Quo tibi nunc lautae pretiosa superbia mensae,</p>
+    <p>Quo tibi nunc regum dulcia damna dapes?</p>
+    <p><milestone unit="folio" facs="D3v"/></p>
+    <p>Et quae ter ternos sunt caecuba ducta per annos,</p>
+    <p>Et multum à decimo consule laudis habent?</p>
+    <p>O ubi convivis, quamvis sibi mortua, vivax,</p>
+    <p>(785) Quae nimium picta fronte superbit avis?</p>
+    <p>Quo tibi per patinas, quae ninxit, mellea grando?</p>
+    <p>Gustanda est mortis fellea amarities.</p>
+    <p>Praef. Ante obitum tuum operare justitiam, quoniam non est apud
+    inferos invenire cibum.</p>
+    <p>Een Prins met een luit.</p>
+    <p>Ite leves cytharae dominique sonate querelas</p>
+    <p>(790) Ad portas erebi fundite dulce melos:</p>
+    <p>Ut potuit manes accessere conjugis Orpheus,</p>
+    <p>Atque emere Eurydicen dulciloquis fidibus;</p>
+    <p>Sic forsan vobis data tanta potentia cantus.</p>
+    <p>Sin minus? hic domino naenia maesta sonet.</p>
+    <p>(795) Sed frustra ad vacuas aures epicedia cantem,</p>
+    <p>Scilicet ut surdus audiat ista cinis.</p>
+    <p>Praef. Versa est in luctum cythara mea, &amp; organum meum in
+    vocem flentium.</p>
+    <p>Een Prins met de eertijtels.</p>
+    <p>Quo tibi, quod moesto resonet campana boatu?</p>
+    <p>Et tuba sit fati vana querela tui?</p>
+    <p>(800) Longaque ferali spatietur in ordine pompa?</p>
+    <p>Et quae post caelum* tristis imago manet?</p>
+    <p>Quid faciunt tituli? vel inania nomina cerae?</p>
+    <p>Hoc tantum; titulis altera mors veniet.</p>
+    <p>Una parum fuerat, placuit mors altera famae.</p>
+    <p>(805) Quis furor est miseris bis voluisse mori.</p>
+    <p>Quis inter onera nexuum &amp; ferri globos</p>
+    <p>Vestitus igne lividum gressum admovet?</p>
+    <p>Diffugite comites.</p>
+    <p><milestone unit="folio" facs="D4r"/></p>
+  </div>
+  <div type="level2" xml:id="de-viii.-uitkomste-1">
+    <head>DE VIII. UITKOMSTE</head>
+    <p>De Geest twist met het Lichaam over de schult van hun bei-</p>
+    <p>der verdoemenisse.</p>
+    <p>Ani. O caro damnatae quondam pars altera vitae!</p>
+    <p>(810) Tu mihi, tu quondam grata sodalis eras.</p>
+    <p>Heu quis tam laetae solvit connubia vitae?</p>
+    <p>Tam cito, tam dulcis factus amaror amor?</p>
+    <p>A te sperabam durae solatia mortis,</p>
+    <p>Sed nunc, ut video, spes mea arundo fuit.</p>
+    <p>(815) Quis te, qui quondam stabas ut carnea turris,</p>
+    <p>Quis te barbarico fulmine stravit humi?</p>
+    <p>Nonne tibi pronis nuper cervicibus orbis</p>
+    <p>Paruit Aeous, paruit hesperius?</p>
+    <p>O ubi nunc rosei dulcis pellacia vultus?</p>
+    <p>(820) O ubi cygnaeae nobile frontis ebur?</p>
+    <p>Dic ubi nunc famulae, studiosa examina, turbae</p>
+    <p>Quaeque tuos densa est umbra secuta pedes?</p>
+    <p>Quo tibi protenso procurrens jugere campus,</p>
+    <p>Et quae centeno sub bove prata jacent?</p>
+    <p>(825) Te nunc communis, te nunc capit urnula vilis,</p>
+    <p>Et tribus exiguis clauderis in tabulis.</p>
+    <p>O caro damnatae lachrymabilis hospita vitae</p>
+    <p>O si nota tui pars foret una mali!</p>
+    <p>Flebile quam tristi coelum quateres lamento</p>
+    <p>(830) Quam facilem velles in tua vota Deum!</p>
+    <p>Clamares, cur nata fui? damnata, pruisquam</p>
+    <p>Nata, &amp; in aeternos victima danda rogos?</p>
+    <p>O caro damnatae lachrimabilis hospita vitae!</p>
+    <p>O comes in duris longa futura malis!</p>
+    <p>(835) Una dies veniet, tristis, lachrymosa (sed eheu</p>
+    <p><milestone unit="folio" facs="D4v"/></p>
+    <p>Non illa est votis hora vocanda tuis.)</p>
+    <p>Cum nos inviso discors concordia nexu</p>
+    <p>Coget, &amp; infidam poena ferire fidem.</p>
+    <p>Tunc immortales metum dabis improba poenas.</p>
+    <p>(840) Sola ego nunc vinclis, supplicijsque premor.</p>
+    <p>Corp. Potabam placidae tranquilla oblivià noctis,</p>
+    <p>Ibat securus per mea membra sopor.</p>
+    <p>Quae mihi tam dulcem turbavit lingua quietem?</p>
+    <p>Quae mihi, vox silices, saxaque dura sonat?</p>
+    <p>(845) Quisquis es iratus, qui nostra sepulchra lacessis</p>
+    <p>Et tumulum infestas, fare age, quid venias?</p>
+    <p>Mitte sepultorum lacerare cadavera vermes.</p>
+    <p>Non illa est morsu praeda petenda tuo.</p>
+    <p>Nos sumus imbellis cinis, &amp; vix pulvis inanis,</p>
+    <p>(850) Quis tibi de tali Marte triumphus erit?</p>
+    <p>Te video infelix (heu cui mihi reddita vita est?)</p>
+    <p>Cui dederam carnis fraena regenda meae.</p>
+    <p>Ecquid in insontem verborum spicula mittis?</p>
+    <p>Ecquid in immeritum lingua trisulca tonat?</p>
+    <p>(855) Non ego tantorum sum fons &amp; origo malorum,</p>
+    <p>Tu, tu anime insontem me facis esse reum:</p>
+    <p>Tu mihi corporeae fueras auriga quadrigae,</p>
+    <p>Fracta quadriga mea est, tota ruina tua est.</p>
+    <p>Tu non sat firmae imprudens nauclere carinae,</p>
+    <p>(860) Duxisti in scopulos, &amp; vada caeca ratem.</p>
+    <p>Quando ego dicebam per amoena vireta jocandum,</p>
+    <p>Dum res, dum vitae blanda juventa s/f?init.</p>
+    <p>Tum tu debueras nimios fraenare calores,</p>
+    <p>Debuerant famulas vincla gravare manus.</p>
+    <p>(865) Stringere debuerant jejunia carnis habenas,</p>
+    <p>Debuerat rigidus membra domare cinis.</p>
+    <p>Tu domina* ancillam injectà fraenare catenà</p>
+    <p><milestone unit="folio" facs="E1r"/></p>
+    <p>Tunc ego debueram dura capistra pati.</p>
+    <p>Quod si quadrupedem in praeceps caecus rapit error,</p>
+    <p>(870) Culpa equitis tota est: cur? quia fraena regit.</p>
+    <p>Sic tibi commissae fuerant rationis habenae.</p>
+    <p>Ergo vel nulla est culpa, vel illa tua est.</p>
+    <p>Anim. O caro nunc cinis &amp; lutei mera pulveris urna</p>
+    <p>O comes in duris longa futura malis?</p>
+    <p>(875) Quis te tam rabidos docuit latrare molossos?</p>
+    <p>Xantippes pluvias &amp; maledicta loquis?</p>
+    <p>Hoc scio, debueram angusto fraenasse lupato</p>
+    <p>Et Servum duro tundere fuste caput.</p>
+    <p>Sed tu syrenum fingebas subdola cantus.</p>
+    <p>(880) Et tibi vox cytharae dulce loquentis erat.</p>
+    <p>Cum volui geminas, tua lumina, claudere flammas,</p>
+    <p>Dixisti impatiens, lumina nolo tegi.</p>
+    <p>Quando ego dicebam Veneris fuge dulce venenum,</p>
+    <p>Jactabam ad surdas perdita verba fores.</p>
+    <p>Corp. (885) Nil juvat, heu! verbis adversa retundere
+    verba</p>
+    <p>Noscere conditio, quae subeunda, lubet.</p>
+    <p>Si rea tartarei sensisti judicis urnam</p>
+    <p>Dic qualis Stygii lexque rigorque fori.</p>
+    <p>Anim. Non si centenae strepitent quasi classica linguae</p>
+    <p>(890) Et tota in voces regia noctis eat;</p>
+    <p>Omnia poenarum percurrere nomina possit,</p>
+    <p>Fervidus in gelidis, quas alit ignis aquis.</p>
+    <p>Est locus obscura &amp; densa caligine tectus,</p>
+    <p>Quo nunquam roseâ lux ruit acta face.</p>
+    <p>(895) Illic perpetuis crepitant incendia flammis,</p>
+    <p>Fertilis aeterna quas dape sylva fovet;</p>
+    <p>Horrificique natant tenebrosa per atria fumi</p>
+    <p>Et niger assiduo lachrymae imbre polus:</p>
+    <p>Illic dura fames, illic sitis aspera saevit</p>
+    <p><milestone unit="folio" facs="E1v"/></p>
+    <p>(900) Sulphura pro vino, pro dapibusque pices.</p>
+    <p>Sunt lachrymae Crassusque vapor, plumbique liquores</p>
+    <p>Quidquid &amp; ad poenas ira, furorque potest.</p>
+    <p>Hic ego perpetuas patior pro crimine flammas,</p>
+    <p>Aeternae reparans tristia damna necis.</p>
+    <p>(905) Post aliquot disces Janos, quae poena fatiget,</p>
+    <p>Tu pars tormenti, dimidiumque mei.</p>
+    <p>Corp. Quid meus hic voveat? Quidnam furor? o ego vellem,</p>
+    <p>E digitis fierent ferrea rastra meis:</p>
+    <p>Tunc malesuada suo naritarent mersa cruore</p>
+    <p>(910) Pectora tunc fosso corpore cor raperem.</p>
+    <p>Luminibus me terra meis oculata videret</p>
+    <p>Neve in me toto pars foret ulla mei.</p>
+    <p>Hic avidae nostris epulentur cladibus hydrae</p>
+    <p>Quae fluitant collo torva Megaera tuo;</p>
+    <p>(915) Huc latronivori discerpite viscera corvi,</p>
+    <p>Inque meos artus urse leove ruas.</p>
+    <p>Tantale nil opus est refugos tibi quaerere fluctus,</p>
+    <p>Diminuamque famen, diminuamque sitim.</p>
+    <p>Me rape; non fugiam,* cur tu fugis, oraque vertis?</p>
+    <p>(920) Quam nolis tandem mensa reperta tibi est.</p>
+    <p>Cerbere, cui triplices triplici stant ordine dentes,</p>
+    <p>Rictibus ô fiam digna rapina tuis.</p>
+    <p>Per vos ossa ibunt commistae frigore flammae,</p>
+    <p>Quodque fuit sanguis, tunc mihi sulfur erit.</p>
+    <p>(925) Quot mihi sunt crines, tot erunt pro crinibus
+    angues,</p>
+    <p>Et serpentigeras frons ferat ista comas?</p>
+    <p>Tu lingua in piceo natitabis flammea felle,</p>
+    <p>Illi oculi bini flamma cruenta forent</p>
+    <p>Ah nunquam, ah nunquam: prius in cineres dissolvar.</p>
+    <p>(930) Ah prius in liquidas attenuemur aquas.</p>
+    <p>Anim. Ast ego, ne tales possem sentire dolores,</p>
+    <p><milestone unit="folio" facs="E2r"/></p>
+    <p>Ah mallem in gelidis rupibus esse lapis;</p>
+    <p>Aut fieri spes nautarum trepidaeque carinae</p>
+    <p>Anchora, fluctivago conjicienda mari.</p>
+    <p>(935) O ter felicem Nioben, quae funera plorans</p>
+    <p>Prolis, erat nimio facta dolore lapis.</p>
+    <p>O ego sim saxum, sim ferrum, flamma, vel ignis.</p>
+    <p>Ne sim, quod modo sum, quidlibet esse volo.</p>
+    <p>Ah boiasque ignesque inter tunicasque molestas,</p>
+    <p>(940) Nec spes, quae melius cras fore dicat, adest.</p>
+    <p>Unica spes misero nullam sperare salutem;</p>
+    <p>Quam dura, heu! nobis nullaque spes sine spe.</p>
+    <p>De flammis nova flamma, novusque ex ignibus ignis,</p>
+    <p>Fertilior semper, fertiliorque redit.</p>
+    <p>(945) Aeternum moriens, aeternâ morte supersum,</p>
+    <p>Aeternum, Aeternum, nec pereo, &amp; pereo.</p>
+    <p>Mors, mihi dat vitam, mortem dat vita; sed, eheu.</p>
+    <p>Mors nimium haec dura est, vitaque dura nimis.</p>
+    <p>Aeternum, mea crux, o Aeternum, o Aeternum</p>
+    <p>(950) Aeternum mentis longa gehenna meae.</p>
+  </div>
+  <div type="level2" xml:id="de-ix.-uitkomste">
+    <head>DE IX. UITKOMSTE</head>
+    <p>Philedonius, door dit nachtgezicht bewogen, geeft zich tot</p>
+    <p>boete en beternis van zijn voorgaande leven.</p>
+    <p>Quae vox attonita stridens mihi tintinat aure,</p>
+    <p>Aeternum, aeternum terque quaterque sonans,</p>
+    <p>Verane quae vidi, quaeque istis auribus hausi,</p>
+    <p>An tantum mentis ludicra imago fuit?</p>
+    <p>(955) Non equidem fallor, mutum &amp; sine sanguine
+    corpus,</p>
+    <p>Et video viduae tristia signa domus:</p>
+    <p>Divitis exuviis jam mortis scena superbit,</p>
+    <p>Et nihil hic dominum, quod comitetur adest.</p>
+    <p><milestone unit="folio" facs="E2v"/></p>
+    <p>Impleri solitas ab herili corpore vestes,</p>
+    <p>(960) Nunc implent vacui, pallida turba, metus.</p>
+    <p>Hic video gladios &amp; sanguinis ebria tela</p>
+    <p>Pro conclamato nil valitura viro.</p>
+    <p>Hic video gazas, &amp; amatae pondera terrae,</p>
+    <p>Eheu! quae dominum nunc habitura novum.</p>
+    <p>(965) Aspice turritas etiam multâ dape lances,</p>
+    <p>Plectraque, quae tacitis conticuêre labris.</p>
+    <p>Si nihil haec prosunt, neque mortis spicula tardant,</p>
+    <p>Si damnant tristes ad Phlegethontis aquas;</p>
+    <p>Quid sequor haec? quid me lactat spes irrita voti?</p>
+    <p>(970) O alias, alias mens meditare vias.</p>
+    <p>Dixi olim, memini, mutate Ceraunia sedem,</p>
+    <p>Jam locus in nostro pectore vester erit.</p>
+    <p>Saxa olim, meminisse pudet, ferrumque vocavi</p>
+    <p>Et duxi in fibras durum adamanta meas.</p>
+    <p>(975) O superi meliora, o nunc meliora vovemus.</p>
+    <p>Si prope qui periit, non periisse potest.</p>
+    <p>Rumpere, rumpere caucaseum disrumpere pectus.</p>
+    <p>Este procul rupes saxa chalybsque procul.</p>
+    <p>Currite, currite magdalii mihi currite rivi</p>
+    <p>(980) Ah mihi de cera blanda medulla fluat.</p>
+    <p>Dextra, sinistra mihi, quondam da dura flagella,</p>
+    <p>Ipse mei, ipse mei criminis ultor ero</p>
+    <p>Este procul cytharaeque, dapesque, salesque, jocique</p>
+    <p>Et quicquid rapiet mortis avara manus,</p>
+    <p>(985) Ite, perite, valete, valete, o nugae, o fumi.</p>
+    <p>Sint procul haec mundi gaudia crimen habent.</p>
+  </div>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

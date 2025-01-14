@@ -83,7 +83,7 @@
   <p>Quaelibet illa alacris, uegeta, aut opulentaue felix,</p>
   <p>Icta cadet modica, crede, aegritudine mortis.</p>
   <p>Et quamuis superes auro vel murice Croesum,</p>
-  <p><pb n="83"/></p>
+  <p><milestone unit="page" facs="83"/></p>
   <p>Longaeuum aut annis uiuendo Nestora uincas,</p>
   <p>(15) Omnia mors aequat, uitae meta ultima mors est.</p>
   <p>IMPERATOR</p>
@@ -114,7 +114,7 @@
   <p>Experti, aucupium docti nummorum, et auerni</p>
   <p>Causidici, rixatores, rabulaeque forenses.</p>
   <p>Hos ego respicio, nihil attendens animarum</p>
-  <p><pb n="84"/></p>
+  <p><milestone unit="page" facs="84"/></p>
   <p>Ecclesiae mihi commissae populi ue salutem.</p>
   <p>(30) Sed satis est duros loculo infarcisse Iabores</p>
   <p>Agricolum, et magnis placuisse heroibus orbis.</p>
@@ -154,7 +154,7 @@
   uentrosior, offis</p>
   <p>Pinguibus emacerans corpus. <hi rend="bold">M</hi>.
   Mors te manet ipsa.</p>
-  <p><pb n="85"/></p>
+  <p><milestone unit="page" facs="85"/></p>
   <p>VESTALIS NYMPHA</p>
   <p>(50) <hi rend="bold">P</hi>. En monialis ego,
   Vestae servire parata.</p>
@@ -195,7 +195,7 @@
   <p>Lites, et loculos lingua uacuare loquaci.</p>
   <p>(70) <hi rend="bold">M</hi>. Non te lingua loquax
   mortis subducet ab ictu.</p>
-  <p><pb n="86"/></p>
+  <p><milestone unit="page" facs="86"/></p>
   <p>IUDEX</p>
   <p><hi rend="bold">P</hi>. Iustitiae iudex quia sum, sub
   plebe salutor.</p>
@@ -231,7 +231,7 @@
   <p><hi rend="bold">M</hi>. Mors aequa expectat properans
   te fulmine diro,</p>
   <p>Nec poteris astu mortis praeuertere tela.</p>
-  <p><pb n="87"/></p>
+  <p><milestone unit="page" facs="87"/></p>
   <p>SCABINUS</p>
   <p><hi rend="bold">P</hi>. Ecce scabinus ego: scabo
   bursas, prorogo causas.</p>
@@ -268,7 +268,7 @@
   omnia lustro</p>
   <p>Et terras, ut res crescant. <hi rend="bold">M</hi>.
   Mors te metet ipsa.</p>
-  <p><pb n="88"/></p>
+  <p><milestone unit="page" facs="88"/></p>
   <p>FUCKARDUS</p>
   <p>(115) <hi rend="bold">P</hi>. En ego fuckardus,
   loculos gesto aeris onustos,</p>
@@ -306,7 +306,7 @@
   <p>Meque petunt reges, populus miratur adorans.</p>
   <p><hi rend="bold">M</hi>. Nulla abiget fraudi linguae ue
   peritia mortem.</p>
-  <p><pb n="89"/></p>
+  <p><milestone unit="page" facs="89"/></p>
   <p>PRINCEPS BELLI</p>
   <p><hi rend="bold">P</hi>. Fulmen ego belli, reges et
   regna subegi.</p>
@@ -342,7 +342,7 @@
   <p>Moribus egregiis populo laudatus ab omni.</p>
   <p><hi rend="bold">Μ</hi>. Pallida, difformis mors auferet
   omnia raptim.</p>
-  <p><pb n="90"/></p>
+  <p><milestone unit="page" facs="90"/></p>
   <p>PUELLA</p>
   <p><hi rend="bold">P</hi>. Ecce puellarum pulcherrima,
   mortis iniquae</p>
@@ -356,19 +356,19 @@
   nuncia perfero pernix.</p>
   <p>(165) Sed retrospectans post terga, pape audio quidnam?</p>
   <p>Me tuba terrificane mortis uocat. Heu moriendum est.</p>
-</div>
-<div type="level1" xml:id="peroratio">
-  <head>PERORATIO</head>
-  <p><hi rend="bold">Cat</hi>. Mortales igitur memores modo
-  uiuite laeti</p>
-  <p>Instar uenturi furis, discrimine nullo</p>
-  <p>Cunctos rapturi passim ditesque inopesque.</p>
-  <p>(170) Stultus et insipiens uita qui sperat in ista,</p>
-  <p>Instar quae fumi perit, et cito desinit esse.</p>
-  <p>Fac igitur tota uirtuti incumbito mente,</p>
-  <p>Quae nescit mortem, sed scandii ad ardua coeli,</p>
-  <p>Quo nos a fatis ducat rex Iuppiter. Amen.</p>
-  <p>(175) PLAUDITE NUNC, ANIMUM CUNCTI RETINETE FAVENTES</p>
+  <div type="level2" xml:id="peroratio">
+    <head>PERORATIO</head>
+    <p><hi rend="bold">Cat</hi>. Mortales igitur memores
+    modo uiuite laeti</p>
+    <p>Instar uenturi furis, discrimine nullo</p>
+    <p>Cunctos rapturi passim ditesque inopesque.</p>
+    <p>(170) Stultus et insipiens uita qui sperat in ista,</p>
+    <p>Instar quae fumi perit, et cito desinit esse.</p>
+    <p>Fac igitur tota uirtuti incumbito mente,</p>
+    <p>Quae nescit mortem, sed scandii ad ardua coeli,</p>
+    <p>Quo nos a fatis ducat rex Iuppiter. Amen.</p>
+    <p>(175) PLAUDITE NUNC, ANIMUM CUNCTI RETINETE FAVENTES</p>
+  </div>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

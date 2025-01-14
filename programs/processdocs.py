@@ -343,9 +343,10 @@ PNUM_RE = re.compile(
 
 
 def pNumRepl(match):
-    (num, facs) = match.group(1, 2)
-    facsAtt = f''' facs="{facs}"''' if facs else ""
-    return f"""<pb n="{num}"{facsAtt}/>"""
+    (num, src) = match.group(1, 2)
+
+    sourceAtt = f''' source="{src}"''' if src else ""
+    return f"""<milestone unit="page" facs="{num}"{sourceAtt}/>"""
 
 
 SMALLCAPS_RE = re.compile(
@@ -592,7 +593,7 @@ class TeiFromDocx:
                 number = f"{number.lower()}{numberSub}"
                 sections.append([start, triggerN, number])
                 replacement = (
-                    f"# {pre}{trigger}{post}"
+                    f"## {pre}{trigger}{post}"
                     if isSection
                     else f"**{pre}{trigger}{post}**"
                 )
@@ -735,7 +736,7 @@ class TeiFromDocx:
             line = line.replace("""rend="simple:""", '''rend="''')
             line = LNUM_RE.sub(r"(\1)", line)
             line = PNUM_RE.sub(pNumRepl, line)
-            line = FNUM_RE.sub(r"""<milestone unit="folio" n="\1"/>""", line)
+            line = FNUM_RE.sub(r"""<milestone unit="folio" facs="\1"/>""", line)
 
             newTextLines.append(line)
 

@@ -95,1236 +95,1248 @@
 </div>
 <div type="level1" xml:id="main">
   <head>Main</head>
-  <p></p>
-</div>
-<div type="level1" xml:id="actores-fabulae.">
-  <head>ACTORES FABULAE.</head>
-  <p>Prologus Dromus, servus</p>
-  <p>Bassarus, custos (BAS.) Droma, serva</p>
-  <p>Bassara, uxor (BA.) Creoborus, parasitus</p>
-  <p>Phorus et Harpax, liberi Aerarius</p>
-  <p>Hieronymus, pastor Chorus ex morionibus,</p>
-  <p>Graidium, anus partim masculis</p>
-  <p>Corasium, puella partim foeminis</p>
-  <p>Euergetes, praeses larvatis.</p>
-  <p>Merimna, uxor</p>
-</div>
-<div type="level1" xml:id="prologus.">
-  <head>PROLOGUS.</head>
-  <p>Versu iambico trimetro.</p>
-  <p>Priusquam agant res histriones ludicras,</p>
-  <p>Quiddam volunt spectantibus me serium,</p>
-  <p>Quod in omnium rem sit futurum, proloqui.</p>
-  <p>Mensis agitur duodecimus, quod ultimos</p>
-  <p>(5) Exhibuimus de more ludos scaenicos.</p>
-  <p>Cuius rei explicabo causam duplicem.</p>
-  <p>Anno fuere superiori malevoli,</p>
-  <p>Qui garrientes publice et privatim eo</p>
-  <p>Dementiae venere, ut et blateraverint</p>
-  <p>(10) Nos quoslibet tum ecclesiasticos viros,</p>
-  <p>Tum saeculares praesides taxare, ad haec</p>
-  <p>Veterem instituere denuo comoediam.</p>
-  <p>Quid patimur? An quod anilibus tritis quoque</p>
-  <p>Ex fabulis risus iocosque movimus</p>
-  <p>(15) Subinde spectatoribus, cum maxima</p>
-  <p>Nostrum omnium eruditione, dicimur</p>
-  <p>Taxare ob hanc rem quoslibet, veterem quoque</p>
-  <p>Comoediam renovare vetitam legibus?</p>
-  <p>Quid <hi rend="italic">Aluta</hi>, quidve
-  <hi rend="italic">Andrisca</hi> cum
-  <hi rend="italic">Rebellibus</hi>,</p>
-  <p>(20) Atque id genus aliae obfuerunt fabulae, iis</p>
-  <p>Qui candidi ac livore fuerant liberi?</p>
-  <p>Si his fabulis sese putant taxarier,</p>
-  <p>Nihil profecto tam sacrum, tam dexterum,</p>
-  <p>Aures quod has tenerrimas non laeserit.</p>
-  <p>(25) Sed et alii fuere, qui adolescentulis</p>
-  <p>Mage obesse quam prodesse ludos scaenicos</p>
-  <p>Contenderint, quod ex theatro (ut plurimum)</p>
-  <p>Vel proniores carnis ad lasciviam</p>
-  <p>Evaserint vel egerint licentius</p>
-  <p>(30) Vel vixerint protervius, quasi vitium</p>
-  <p>Non indoli hominis insitum, sed ex iis</p>
-  <p>Tantum modo, quae agit videtve, pullulet.</p>
-  <p>Quamquam tenellam mentem ephebi et lubricam</p>
-  <p>Foedis logis aut gestibus minime nego</p>
-  <p>(35) Subinde depravarier, quales quidem in</p>
-  <p>Proscaenio nec decet agi nec dicier.</p>
-  <p>Plus gratiae et probitatis (ausim dicere)</p>
-  <p>Deprehendi in iis, qui libere et feliciter</p>
-  <p>Egere ludos in theatro scaenicos,</p>
-  <p>(40) Quam in iis frequenter, qui (perinde ac ad lyram</p>
-  <p>Asini) ob stupiditatem vel ignorantiam</p>
-  <p>Rebus gerendis sunt inepti dextere</p>
-  <p>Aut per socordem ignaviam angulos amant,</p>
-  <p>Quo aliis alacre rem scaenicam tractantibus</p>
-  <p>(45) Vel ipsi inertes ferientur vel alios</p>
-  <p>Ob lapsum in aliquo verbulo derideant.</p>
-  <p>Non damno eos tamen, quibus animus adeo</p>
-  <p>Tranquillus est, ut candidi spectantibus</p>
-  <p>Iungi eligant quam turbulenti actoribus.</p>
-  <p>(50) Variis enim natura varias inserit</p>
-  <p>Dotes, et altera alteram non improbat.</p>
-  <p>Quod si ex grege hoc aliquos reperias improbos,</p>
-  <p>An tu mihi haud tales futuros asseres,</p>
-  <p>Nisi prodiissent nostrum in hoc proscaenium?</p>
-  <p>(55) Quid ceteri qui hic sunt, vel hinc Laudanium</p>
-  <p>Vestramve Daventuriam profecti, ad haec</p>
-  <p>Numquam citati erunt agenda ludicra, an</p>
-  <p>Numquam rebelles improbive evaserint?</p>
-  <p>Et haec quidem contra aemulos et contra eos,</p>
-  <p>(60) Qui somniis suis, suis phantasmatis</p>
-  <p>Nos hactenus nostro bono vestroque vos</p>
-  <p>Privare honesto munere egerunt satis.</p>
-  <p>Ceterum ubi vidimus gravissimis viris</p>
-  <p>Doctisque nostrum displicere silentium,</p>
-  <p>(65) Decrevimus iocos dolosque Bassari</p>
-  <p>Vobis modo exhibere festivissimos,</p>
-  <p>Qui praesidem et pastorem et alios ad sua</p>
-  <p>Ipsorum edenda convocavit fercula.</p>
-  <p>Videtedum ne praesidis vocabulo</p>
-  <p>(70) Praefectum habendum existimetis urbicum:</p>
-  <p>Pagana, agraria, rudia erunt, quae agenda sunt,</p>
-  <p>Et propemodum omnis apparatus rusticus.</p>
-  <p>Spectate, state, silete, Bassarus exiet.</p>
-</div>
-<div type="level1" xml:id="actus-i.-scaena-i.">
-  <head>ACTUS I. SCAENA I.</head>
-  <p>Iambici trimetri.</p>
-  <p>BASSARUS, BASSARA.</p>
-  <p>Prodi uxor. BA. Hem. BAS. Memento adire tempori</p>
-  <p>(75) Forum cupedinarium et mercarier</p>
-  <p>Capos duos anatesque totidem et anserem</p>
-  <p>Armumque arietis dexterum. Nam vesperi</p>
-  <p>Epulari et exporrigere frontem destino.</p>
-  <p>Scis nempe carnivalia. BA. Atqui paucula</p>
-  <p>(80) Nostrae familiae sufficere equidem reor,</p>
-  <p>Quae ex corte nostra facile suppeditavero.</p>
-  <p>BAS. Apage cohortales aves. Nam et optimos</p>
-  <p>Mihi quosque cum suis uxorculis viros</p>
-  <p>Accivero. BA. Num pastor aderit? BAS. Quid rogas?</p>
-  <p>(85) Primas erit. Quid absque Bitho Bacchius?</p>
-  <p>Hunc suaviter (si fors ferat) mulgebimus.</p>
-  <p>BA. Probe, ut subinde assuevimus. Vereor tamen</p>
-  <p>Ne (qua laborat) podagra desidem domi</p>
-  <p>Cenare cogat atque motus terreat.</p>
-  <p>(90) BAS. Quin tu taces? Ducendus est, gestandus est,</p>
-  <p>Vehendus est. Abi ocius, cave occupent</p>
-  <p>Te pluvia, chasma, fulgur et tonitru imminens.</p>
-  <p>BA. Quod tu mihi, bone vir, tonitru somnias</p>
-  <p>Hoc mense Martio? BAS. Num abis, loquacula?</p>
-  <p>(95) Videsne ab austro lividas glomerarier</p>
-  <p>Nubes polumque obducier? Vade ocius,</p>
-  <p>Eventus ipse dicta mox probaverit.</p>
-  <p>BA. Vadam. Heus puella. BAS. Heus tu. BA. Quid est? BAS.
-  Pauxillulum</p>
-  <p>Morare, dum pro lectitandis vesperis</p>
-  <p>(100) Ex more cymbala pulsitem, nam a prandio</p>
-  <p>Iam sonuit hora tertia. Audistin’? BA. Licet.</p>
-  <p>BAS. Fortassis ex pastore nonnihil interim</p>
-  <p>Rescibo nobis commodum. BA. Fieri potest.</p>
-  <p>Iamdudum enim ad forum aniculam misit. Vale.</p>
-  <p>(105) BAS. Utinam madescat uxor ad vivam cutem,</p>
-  <p>Ut debitam sibi ferat mercedem, eo</p>
-  <p>Quod obstrepat semper mihi atque obganniat.</p>
-  <p>Quid praesidis parasitus eminus boni</p>
-  <p>Adferet? Habet quod cruciat. Absque causa enim</p>
-  <p>(110) Nec obambulat solus nec it sine praeside.</p>
-  <p>Tacitus morabor hominem, ut audiam et sciam.</p>
-</div>
-<div type="level1" xml:id="actus-i.-scaena-ii.">
-  <head>ACTUS I. SCAENA II.</head>
-  <p>Trimetri.</p>
-  <p>CREOBORUS, BASSARUS.</p>
-  <p>Canunt poetae sospitatori Iovi</p>
-  <p>Pitarchian fuisse amatam coniugem</p>
-  <p>Eisque filiam fuisse Eupraxian.</p>
-  <p>(115) Id perperam finxere, ut ipse intellego.</p>
-  <p>Sunt namque nunc omnes Ioves olethrii.</p>
-  <p>Harpyia coniunx uniformiter omnibus,</p>
-  <p>Ex qua pari ratione Dystychia oritur.</p>
-  <p>Obtempero usque divitum tum legibus,</p>
-  <p>(120) Tum moribus, tum nutibus. Volunt, volo,</p>
-  <p>Negant, nego, et lingua bilancis facilior</p>
-  <p>Assentor usque et obsequor. Verum mihi</p>
-  <p>Nil praeter infelicitatem nascitur</p>
-  <p>Et pessimum infortunium. Nil commodant,</p>
-  <p>(125) Nil dant egenti divites. Manus suas</p>
-  <p>Ad largiendum contrahunt, sed ampliter</p>
-  <p>Ad detrahendum porrigunt, quod praesidis</p>
-  <p>Ex opere plane conspicor. BAS. Quid praesidem</p>
-  <p>Sugillat? Audire libet ipsa plenius.</p>
-  <p>(130) Creobore. CRE. Quis me nominat? BAS. Qui te colit.</p>
-  <p>CRE. Nugae. BAS. Qui amat. CRE. Bullae. BAS. Qui honorat. CRE.
-  Fabulae.</p>
-  <p>BAS. Qui te nutrit. CRE. Pol hac beas sententia.</p>
-  <p>Nisi nutrias, non me colis. BAS. Miser, quin assides</p>
-  <p>Tuo Iovi? CRE. Is me exclusit, ut eum strangulet</p>
-  <p>(135) Supremus ille Iuppiter. BAS. Ne flagitium</p>
-  <p>Admiseris, propter quod expulit domo.</p>
-  <p>CRE. Flagitium id omne iudicat, quod non suo</p>
-  <p>Marcas ducentas attulerit aerario.</p>
-  <p>BAS. Bona verba. CRE. Bona merda. BAS. Hem quid actum est?
-  Explica.</p>
-  <p>(140) CRE. Scin hoc die fures duos affixos cruci?</p>
-  <p>BAS. Scio, perge. CRE. Dum super hoc veluti facto bene</p>
-  <p>Negotio adeo gratulaturus virum,</p>
-  <p>Abi (inquit) in rem pessimam, nil commodas.</p>
-  <p>Si detulissem divites gravioribus</p>
-  <p>(145) Obnoxios facinoribus, quos pensiles</p>
-  <p>Fecisset in fumario, Ganymedis in</p>
-  <p>Locum quidem succederem. Nunc autem (ut is</p>
-  <p>Qui dira nunciat) abigor indignis modis</p>
-  <p>Longe a canistro et enecor fame miser.</p>
-  <p>(150) BAS. Fors coxit aliquid lautius, quod et sibi et</p>
-  <p>Uxorculae et ventri tuo haud satis foret.</p>
-  <p>CRE. Famula apparabat anserem pinguissimum,</p>
-  <p>Quem (nescio quibus) insuper murenulis</p>
-  <p>Infarserat. Iovis cerebrum dixeris,</p>
-  <p>(155) Si quippiam coctum ex eo gustaveris.</p>
-  <p>Nihilominus larido et bovillis carnibus</p>
-  <p>(Si sumen et farcimen, exta quoque adsient)</p>
-  <p>Contentus esset hoc die hercle Creoborus.</p>
-  <p>BAS. Verisimilia loquere. Sed age nil est domi,</p>
-  <p>(160) Quo victites? CRE. Ita me iuvet dea Saturitas</p>
-  <p>Beata, praeter sacculum iuglandium</p>
-  <p>(Quem ad amicorum gratiam a Dionysiis</p>
-  <p>Subinde captandam hoc die sestertiis</p>
-  <p>Emi tribus) domi est nihil. BAS. Nihil? CRE. Nihil.</p>
-  <p>(165) BAS. Te si quis ergo vesperi invitaverit,</p>
-  <p>Haud senserit difficilem (ut auguror) admodum.</p>
-  <p>CRE. Non admodum nec pallium mihi ruperit.</p>
-  <p>BAS. Si operam tuam mihi vespere locaveris,</p>
-  <p>Faxo domi meae anserem nihilo minus</p>
-  <p>(170) Lautum vores. CRE. Quicquid voles futurus est</p>
-  <p>Creoborus, etiamsi catellum iusseris</p>
-  <p>Fieri atque sub mensa ossa pronum rodere.</p>
-  <p>BAS. Te laudo. Trade itaque mihi clavem domus</p>
-  <p>(Quam habere iamdudum scio te) praesidis.</p>
-  <p>(175) CRE. Et promus et condus meae atque praesidis</p>
-  <p>Domus es. Hem claves tibi. BAS. Bene est; abi</p>
-  <p>Et exeunti templum adesto praesidi,</p>
-  <p>Ut hac euntes te atque eum ad cenam vocem.</p>
-  <p>CRE. Secum haud sinet me congredi. BAS. Sequere eminus.</p>
-  <p>(180) Abi, cuiquam ne qua sit suspectio.</p>
-  <p>Graidium adest ancilla pastoris, cui</p>
-  <p>Loqui me oportet antequam pulsem. CRE. Avolo.</p>
-</div>
-<div type="level1" xml:id="actus-i.-scaena-iii.">
-  <head>ACTUS I. SCAENA III.</head>
-  <p>Trimetri.</p>
-  <p>BASSARUS, GRAIDIUM, HIERONYMUS.</p>
-  <p>Ut anicula haec suffarcinata est! Iridos</p>
-  <p>In morem onusta flectitur. Viso, quid habet.</p>
-  <p>(185) GR. Hieronyme, domine pastor, exili foras.</p>
-  <p>BAS. En improbam mulierculam. Foras virum,</p>
-  <p>Qui aegerrime suos movere pedes valet,</p>
-  <p>Huc evocat. HIER. Quid, stulta, me foras vocas?</p>
-  <p>Quin haec ferebas intro, ut offerres mihi?</p>
-  <p>(190) GR. Ut luce clara perspicere queas, ere,</p>
-  <p>Quam pulchrum, obesum et regium capum et alios</p>
-  <p>Pullos tibi parvo admodum mercata sim.</p>
-  <p>En pondera. HIER. Egregius profecto et optimus</p>
-  <p>Meo tuoque, Graidium, et Corasii</p>
-  <p>(195) Meae palato. Abi, repone et appara.</p>
-  <p>In aquamque frigidam Falernum mergito,</p>
-  <p>Quo nil saporis optimi per aëris</p>
-  <p>Tollatur intemperiem. Abi. GR. Memorem mones.</p>
-  <p>BAS. Prudenter hoc. Non hactenus videre me.</p>
-  <p>(200) Iam tempus est accedere hominem et alloqui.</p>
-  <p>Salve, domine pastor. HIER. Salus tibi quoque,</p>
-  <p>Amice custos. At quid est quod cymbala</p>
-  <p>Non pulsitas, cum iam sit hora tertia?</p>
-  <p>BAS. Novi atque in hoc ipsum advolo. Primum tamen</p>
-  <p>(205) Te convenire volui et invitare te</p>
-  <p>Ad cenam amicam et sobriam, quod et velim</p>
-  <p>Ne quo modo mihi recuses aut neges.</p>
-  <p>Soli erimus atque horam per unam aut alteram</p>
-  <p>Blande et suave cuticulam curabimus.</p>
-  <p>(210) HIER. Ago gratias tibi maximas, Bassare, tua</p>
-  <p>Pro benevolentia doleoque plurimum,</p>
-  <p>Quod respondere non queam votis tuis</p>
-  <p>Ob maximum pedum meorum incommodum.</p>
-  <p>Scis quoque dolorem omnem gravari in vesperem.</p>
-  <p>(215) BAS. Non est quod excuses podagrae incommodum.</p>
-  <p>Ducemus aut gestabimus, si denique</p>
-  <p>Necesse sit, raedae incubantem te domum</p>
-  <p>Vehemus. Et solatio dolor interit.</p>
-  <p>HIER. Ne, quaeso, iam molestus es, bone Bassare,</p>
-  <p>(220) Quia poena gravior est mihi quam indulgeam</p>
-  <p>Gulae atque commessationibus. Tu abi ad</p>
-  <p>Aedem sacram, quia praeses ultro se ingerit.</p>
-  <p>BAS. Quaerendus est tamen homo, quicum victitem.</p>
-  <p>HIER. Si quaeris unum, inveneris decem. I, sequor.</p>
-  <p>(225) Vix expuli importunius vocantem. Ades,</p>
-  <p>Mea Graidium. BAS. Per Herculem intus et incute</p>
-  <p>Hic hypocrita est. Si posset hoc lauto bolo</p>
-  <p>Spoliarier, nullum Deo fieri queat</p>
-  <p>Sacrificium acceptius. HIER. Adesne, Graidium?</p>
-  <p>(230) Iam pulsat. GR. Hem. HIER. Me ducito in templum. GR.
-  Licet.</p>
-  <p>At melius est, accludam ut ostium, prius</p>
-  <p>Quam abeamus. HIER. Ecquid tu times? GR. Memini equidem</p>
-  <p>Hac negligentia tibi ablatam suem</p>
-  <p>(Iam nunc dies est tertius) maiusculam.</p>
-  <p>(235) HIER. Haec mitte meque sustine; haud patiar moram.</p>
-  <p>Aedituus en munere suo defunctus est.</p>
-  <p>GR. Video. HIER. Cave nostram sciat opulentiam. GR. Is</p>
-  <p>Iam praesidi loquitur, molestus non erit.</p>
-</div>
-<div type="level1" xml:id="actus-i.-scaena-iv.">
-  <head>ACTUS I. SCAENA IV.</head>
-  <p>Trimetri.</p>
-  <p>BASSARUS, BASSARA.</p>
-  <p>Etiamsi Apollo e tripode suadeat, haud queat</p>
-  <p>(240) Prudentius quicquam invenire aut aequius</p>
-  <p>Quam quod obiter praeses mihi suggessit, ut</p>
-  <p>(Si quo modo fieri queat) pastor suis,</p>
-  <p>Quae clanculariae gulae studio apparat,</p>
-  <p>Spolietur astu obsoniis et ad eadem</p>
-  <p>(245) Edenda cum probis vocetur vesperi</p>
-  <p>Sodalibus, quo liqueat omnibus palam,</p>
-  <p>Praetextus aegritudinis quam inanis est,</p>
-  <p>Quo subdolus meam adire cenam pernegat.</p>
-  <p>Iam faxit aequus arbiter iustus Deus,</p>
-  <p>(250) Ut facilem huic dolo statim inveniam viam.</p>
-  <p>Putabat ille seram obditam ostio, ast ego</p>
-  <p>Contrarium spero. Hic enim, etsi parcus est,</p>
-  <p>Solet esse negligentior. Tentandum erit.</p>
-  <p>Heus vos. Per Herculem seratum est ostium</p>
-  <p>(255) Hoc neutiquam. Quin introrumpo, ut omnia ...</p>
-  <p>BA. Quanta imminet pluvia et vir haud revertitur.</p>
-  <p>Nec tamen abire ausim, nisi ille iusserit.</p>
-  <p>Ecastor infelix, viro quae subiuga est;</p>
-  <p>Cui non licet vel ire vel redire, dum</p>
-  <p>(260) Libet. Sed eccum, egreditur aedes concitus</p>
-  <p>Pastoris et sub pallio aliquid occulit.</p>
-  <p>BAS. Quam furto in ipso pertimescunt undique</p>
-  <p>Fures adortum, id ex meo negotio</p>
-  <p>Considero. Dispicio num quis me vel a</p>
-  <p>(265) Tergo vel a fronte aut sinistra aut dextera</p>
-  <p>Suffarcinatum spectitet. BA. Quid respicit</p>
-  <p>Demens, quasi expilaverit iam aerarium? BAS. Hui,</p>
-  <p>Quae illa est? BA. Ades tandem? BAS. Uxor est, iam salva res.</p>
-  <p>BA. Quid serius redis? Quid occulis, improbe,</p>
-  <p>(270) Sub pallio? BAS. Tacesne tu, cacolalia?</p>
-  <p>Viden’ penum totum? Morare paululum,</p>
-  <p>Dum regrediar foras. BA. Quid est quod vir meus</p>
-  <p>Tractat doli? Num laridum ut ante sacrifico,</p>
-  <p>Sic modo penum omnem sustulit? BAS. Tetigisti acu</p>
-  <p>(275) Rem, Bassara. Modo perge citius ad forum,</p>
-  <p>Quasi multa sis emptura, nil tamen domum</p>
-  <p>Latura praeterquam mei pastoris hunc</p>
-  <p>Capum, canistro quem tuo (ut vides) ob hoc</p>
-  <p>Imposui. Adhuc sunt alia, quae his addenda sunt,</p>
-  <p>(280) Ad quae cum amicis ceteris pastor quoque</p>
-  <p>Vocandus est. Quae reliqua sunt, cum redieris,</p>
-  <p>Narrabo. Abi. Ipsi rem interim curabimus</p>
-  <p>Domesticam. BA. Da. Vado, quam primum hic ero.</p>
-  <p>BAS. Dum abit illa, ego ingressus viam, modum, et ordinem</p>
-  <p>(285) Mihi comminiscar, ut quod est de praeside</p>
-  <p>Effectui citius queat mandarier.</p>
-  <p><hi rend="bold">CHORUS.</hi></p>
-  <p>Iambici chorici et varii.</p>
-  <p>Qui edit bibitque sordide,</p>
-  <p>Is stultus est, is stultus est, is stultus est,</p>
-  <p>Geniumque fraudat proprium,</p>
-  <p>(290) Is stultus est, is stultus est, is stultus est, is
-  stultus est.</p>
-  <p>Qui creber in conviviis</p>
-  <p>Dementior, dementior, dementior,</p>
-  <p>Ventrem refercit crapula,</p>
-  <p>Dementior, dementior, dementior, dementior.</p>
-  <p>(295) Qui perit ob escam corporis,</p>
-  <p>Stultissimus, stultissimus, stultissimus,</p>
-  <p>Mentis salutem neglegens,</p>
-  <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
-</div>
-<div type="level1" xml:id="actus-ii.-scaena-i.">
-  <head>ACTUS II. SCAENA I.</head>
-  <p>Trimetri.</p>
-  <p>HARPAX, BASSARUS, PHORUS.</p>
-  <p>Sumusne personati, uti pater volueras,</p>
-  <p>(300) Ut scite agamus Mommios sub vesperem?</p>
-  <p>BAS. Sat pro mea sententia. HAR. Quid igitur est</p>
-  <p>Quod agendum in aedibus volebas praesidis?</p>
-  <p>Num serium est an ludicrum? BAS. Loquere tacitus.</p>
-  <p>Tu, Harpax, tene hanc clavem, quae in aedes praesidis</p>
-  <p>(305) Te duxerit. HAR. Quid postea? BAS. Audi plusculum.</p>
-  <p>Huc praeses ad cenam vocatus anserem</p>
-  <p>Domi coquit cum ceteris obsoniis.</p>
-  <p>HAR. Haec fraude tolli huic cupis. Sed nescio,</p>
-  <p>Quo pacto id exigi queat. Num ibi verubus</p>
-  <p>(310) Detraxero? BAS. Certum modum docebo te,</p>
-  <p>Si non rei mage commodum dispexeris.</p>
-  <p>Atrium viri observato, alia nihilo minus</p>
-  <p>Specie tenus in vicinia pertractitans.</p>
-  <p>Cogetur autem uxor sub horam septimam,</p>
-  <p>(315) Nondum viro domum reverso et omnibus</p>
-  <p>Iam epulis paratis opipare, huc concedere</p>
-  <p>Cum vernula (quod eum alio abisse vesperi</p>
-  <p>Non suspicabitur) atque sciscitarier,</p>
-  <p>Mecum ne cenaturus an domi siet.</p>
-  <p>(320) Quibus serata ianua exeuntibus</p>
-  <p>Tu age Harpaga; ne canis quidem in te mutiet.</p>
-  <p>HAR. Consilia laudo, sat dixti mihi pater.</p>
-  <p>Quid Phorus hic frater meus facturus est?</p>
-  <p>Qui unas in aedes irruent fratres duo?</p>
-  <p>(325) BAS. Tu, Phore, clavim hanc alteram cape clanculum</p>
-  <p>Et segregatus hora ad hanc rem congrua a</p>
-  <p>Fratre introi domum latenter Creobori.</p>
-  <p>PHO. Quid inde surrepturus? An phasidis aves</p>
-  <p>Artocreasve aut sumptuosa edulia?</p>
-  <p>(330) Vix panem habet Creoborus hic, quem devoret.</p>
-  <p>BAS. Sile parumper. In angulo primo casae</p>
-  <p>Statim ab ostio offendes nucum iuglandium</p>
-  <p>Saccum refertum ad dexteram: hunc tibi surripe.</p>
-  <p>PHO. Post illa quid? BAS. Negotium qui absolverit</p>
-  <p>(335) Prior, latebit in angulo craniarii</p>
-  <p>Ibique, dum veniat, morabitur alterum.</p>
-  <p>HAR. Probe, facessimus. BAS. Sed heus vos, cautius</p>
-  <p>Agatis haec oportet ac sagaciter,</p>
-  <p>Ne qua accidat vobis mihive pudefactio.</p>
-  <p>(340) HAR. Cautissime. BAS. Si digne (ut ipse pervelim)</p>
-  <p>Res exsequamini, profecto nihil erit</p>
-  <p>Spectaculo hoc iucundius vel celebrius.</p>
-  <p>Praesidio erunt tenebrae, tonitrua, fulgura.</p>
-  <p>HAR. Cura omnis absit: melius haec quam ipse cupias</p>
-  <p>(345) Geremus. Ingredere, fores templi crepunt.</p>
-  <p>PHO. Exit sua pastor cum anu. Quantum strepet,</p>
-  <p>Cum senserit sibi avolasse obsonia.</p>
-  <p>Quantum strepet. HAR. Taceto, ne quid audiat.</p>
-  <p>Usque ad tenebras hanc tabernam intremus et,</p>
-  <p>(350) Quid dixerint, exaudiamus clanculum.</p>
-</div>
-<div type="level1" xml:id="actus-ii.-scaena-ii.">
-  <head>ACTUS II. SCAENA II.</head>
-  <p>Trimetri.</p>
-  <p>HIERONYMUS, GRAIDIUM.</p>
-  <p>Te transfer huc (quoties tibi dicam) latus</p>
-  <p>In dexterum. GR. At plus in sinistro tibi pede</p>
-  <p>Doloris est. HIER. Anus habent semper aliqua,</p>
-  <p>Quibus virum sermonibus recalcitrent.</p>
-  <p>(355) Scin hoc magis laevum latus stabilirier,</p>
-  <p>Quo dexterum mihi fulcias robustius?</p>
-  <p>Incede placide. Quomodo obsonia tibi</p>
-  <p>Coquenda sunt, mea Graidium? An torrebimus</p>
-  <p>Simul omnia an partim opipare elixabimus?</p>
-  <p>(360) GR. Sine me coquenda coquere vel tibi alteram</p>
-  <p>Conduce. HIER. Noli irascier, mea amicula,</p>
-  <p>Sed morbo id (obsecro) verbulum mordacius,</p>
-  <p>Quod ab ore lapsum est, imputa. GR. Capum ego quidem</p>
-  <p>Novemque ficedulas veru affixos coquam</p>
-  <p>(365) Duosque pullos primulum elixabo aqua,</p>
-  <p>Dein croco, pipere, cinamomo et saccaro</p>
-  <p>Bacchum imbuam ... HIER. Recte. GR. Et in eo excoctos parum</p>
-  <p>Tibi iurulentos offeram. HIER. Hoc Veneris epulum est,</p>
-  <p>Mea Graidium. Nunc vade amabo, dum licet,</p>
-  <p>(370) Et advoca neptem meam Corasium,</p>
-  <p>Ut veniat in crepusculo. GR. Vadam. HIER. Ocius</p>
-  <p>Vadas oportet, ne occupent te tonitrua.</p>
-  <p>Tantisper hoc ego desidebo ad ostium,</p>
-  <p>Cavebo ne quis introrepat clanculum.</p>
-  <p>(375) Crepit ostium vicinum et ipse Bassarus</p>
-  <p>Procedit, ut suam moretur Bassaram.</p>
-</div>
-<div type="level1" xml:id="actus-ii.-scaena-iii.">
-  <head>ACTUS II. SCAENA III.</head>
-  <p>Tetrametri.</p>
-  <p>BASSARUS, BASSARA, HIERONYMUS.</p>
-  <p>Videbo, si ne redeat uxor. Futile est per Herculem</p>
-  <p>Genus omne feminarum, inane, pertinax, proterviens.</p>
-  <p>Si insaniam, nisi sponte ducta neutiquam revertitur.</p>
-  <p>(380) Sed eccam eam. Iam tandem ades, mollicula? BA. Quid, vir
-  strenue?</p>
-  <p>Numquid volare solet homo, ut me tarditatis arguas?</p>
-  <p>BAS. Pro foribus est, capum eximes. Ostende, quid mercata sis.</p>
-  <p>BA. Hem tibi. BAS. Papae, pinguissimum profecto capum et
-  optimum.</p>
-  <p>Nobis quidem sufficeret unus hic ampliter. Quid, uxor, hos</p>
-  <p>(385) Pullos, quid anserem, quid has septem quoque huc
-  ficedulas</p>
-  <p>Magno redempta congeris? BA. Quid edant vocati amiculi?</p>
-  <p>BAS. Non spero venturos modo aëris per inclementiam.</p>
-  <p>Pastorque adesse non cupit. BA. Non cupit? At hoc speraveram.</p>
-  <p>HIER. Cuperem equidem, si non similia comparasset Graidium.</p>
-  <p>(390) BAS. Spectata sunt satis. I, coque omnia in diem vel
-  crastinum.</p>
-  <p>Redit, quae abierat, anus; subauscultabo quid renuntiet.</p>
-</div>
-<div type="level1" xml:id="actus-ii.-scaena-iv.">
-  <head>ACTUS II. SCAENA IV.</head>
-  <p>Tetrametri.</p>
-  <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
-  <p>Propere redis, mea Graidium; quid virgo dixerit, refer.</p>
-  <p>GRA. Sese adfuturam ait in crepusculo. HIER. Bene est, facilemne
-  se</p>
-  <p>Praebebat an difficilem? GRA. Ait se modo vocatam a pluribus,</p>
-  <p>(395) Verum tibi uni obtemperaturam libenter vesperi</p>
-  <p>Propter tuum erga se favorem, gratiam et donaria.</p>
-  <p>HIER. Eamus intro, sunt enim in vado omnia mea negotia</p>
-  <p>Iam posita. BAS. Vide ne mox Charybdin irruas. HIER. Resera
-  ostium.</p>
-  <p>GRA. Trahe pessulum, quia non seraram; umero meo nixus praei.</p>
-  <p>(400) Sequor. BAS. Sequere, cernes (quod aiunt) avolasse
-  passeres.</p>
-  <p><hi rend="bold">CHORUS,</hi></p>
-  <p>ut superior ex Morionibus personatis.</p>
-  <p>Qui colligit vanas opes,</p>
-  <p>Is stultus est, is stultus est, is stultus est,</p>
-  <p>Sibi suisve liberis,</p>
-  <p>Is stultus est, is stultus est, is stultus est, is stultus est.</p>
-  <p>(405) Qui prodigit substantiam,</p>
-  <p>Is stultior, is stultior, is stultior,</p>
-  <p>In sordibusve abutitur,</p>
-  <p>Is stultior, is stultior, is stultior, is stultior.</p>
-  <p>Qui lucra captat impia,</p>
-  <p>(410) Stultissimus, stultissimus, stultissimus,</p>
-  <p>Mentis salutem neglegens,</p>
-  <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-i.">
-  <head>ACTUS III. SCAENA I.</head>
-  <p>Iambici trimetri.</p>
-  <p>BASSARUS, PRAESES, DROMO, CREOBORUS.</p>
-  <p>O Iuppiter, quantam aëris caliginem</p>
-  <p>Haec monstra nubium adferent continuo. Nam</p>
-  <p>(415) Tam horrenda nunc imago tempestatis est,</p>
-  <p>Ut imminere haud absque causa quispiam</p>
-  <p>Mortalibus putet diem novissimum.</p>
-  <p>Est nempe Martii initium, quem ut autumant</p>
-  <p>Mundo fuisse mensium primum omnium,</p>
-  <p>(420) Ita suspicor fore omnium novissimum.</p>
-  <p>Nihilominus iam et bibere oportet et edere.</p>
-  <p>Quisnam, o dii, quis illic est, qui properat huc?</p>
-  <p>Nisi dubius aspectus meos fallit oculos,</p>
-  <p>Is praeses est cum puero et ipso, qui eminus</p>
-  <p>(425) Utrumque sequitur, Creoboro. Ne praeses est,</p>
-  <p>Qui dignitatis neglegens suos gradus</p>
-  <p>Grandire cum vulgo haud veretur nec tamen</p>
-  <p>Grandem procellae evadit impiger impetum.</p>
-  <p>PRAE. Nullum inferorum numinum sub Tartaro</p>
-  <p>(430) Reliquum puto, tantis quod aër plenus est</p>
-  <p>Impressionibus. Solum tremit et strepit,</p>
-  <p>Caelum obstrepit, nubes coruscant, fulminant</p>
-  <p>Et mugiunt et vis procellae maxima.</p>
-  <p>Cogor, velim nolim, hunc adire Bassarum.</p>
-  <p>(435) BAS. Huc huc ades, ne praeteri heros, huc ades.</p>
-  <p>PRAE. Quis me vocat? BAS. Ego, Bassarum ne praeteri,</p>
-  <p>Ades ocius. PRAE. Salve. BAS. Salus tibi. PRAE. O dii,</p>
-  <p>Quanta omnium elementorum adest confusio.</p>
-  <p>Chaos vetustum mox venturum suspicor.</p>
-  <p>(440) Hoc excute, puer, pileum. DR. Faxo, ere, libens.</p>
-  <p>PRAE. Cogor, velim nolim, hic manere vesperi.</p>
-  <p>BAS. Quam gaudeo cecidisse sic mihi tesseram.</p>
-  <p>Quo (etsi velis quidem) negare non queas</p>
-  <p>Nobis tuam praesentiam. Vocaveram</p>
-  <p>(445) Hieronymum, verum is (quemadmodum tibi</p>
-  <p>Modo suggerebam) pernegabat subdolus.</p>
-  <p>Nisi tu advenires, solus edissem domi.</p>
-  <p>PRAE. De obsonio quid actum? BAS. Id incidit mihi in</p>
-  <p>Casses meos; rem omnem tibi intus dixero.</p>
-  <p>(450) PRAE. Euge. BAS. Parasitus eminus cur spectitat?</p>
-  <p>PRAE. Offendit is me per suam impudentiam.</p>
-  <p>BAS. Remitte misero noxiam. PRAE. Abeat impudens.</p>
-  <p>BAS. Sequatur umbra. Quod sine umbra corpus est?</p>
-  <p>Sequere intro. CRE. Ago tibi gratias, mi Bassare.</p>
-  <p>(455) BAS. Ingredimini, a pastore crepuit ostium.</p>
-  <p>Eccos duos, audire gestio procul,</p>
-  <p>Quid dixerint. &lt;. . . . . .&gt;</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-ii.">
-  <head>ACTUS III. SCAENA II.</head>
-  <p>Tetrametri catalecti.</p>
-  <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
-  <p>Dii superi et inferi, et quod usquam est numinum sub sole,</p>
-  <p>Et terreant et puniant et dissipent trifurem,</p>
-  <p>(460) Qui mihi suem anseremque nuper abstulit modoque</p>
-  <p>Sub luce clara obsoniis privavit universis.</p>
-  <p>GRA. Furem admodum (quicumque is est) notum tibi fuisse</p>
-  <p>Suspicor et aedium tuarum latibula penetrasse.</p>
-  <p>Nam in intimis penetralibus scite universa locaram.</p>
-  <p>(465) HIER. Scite quidem tu cuncta, sed si ianuam
-  clausisses,</p>
-  <p>Me miserum ad infelicitatem hanc ultimam haud duxisses.</p>
-  <p>GRA. Sile miser; num in me tuam torquebis incitatem?</p>
-  <p>An non ego una claudere volebam ostium et nolebas?</p>
-  <p>Tu solus es ob incuriam causa omnium rapinae.</p>
-  <p>(470) HIER. Quid multa opust contentione? Ego solus infelix
-  sum:</p>
-  <p>Vexor podagra, laceror invidentia civili,</p>
-  <p>Parum habeo, multum debeo et, quod habeo, non permittor</p>
-  <p>Tenere per furum licentiam. Quid unam praeter</p>
-  <p>Restim mihi reliquum? Sed et puellam adesse credo,</p>
-  <p>(475) Quam si repellam, fecero indignissime et clamabit</p>
-  <p>Me sordidum esse et improbum. Sin recipiam, nil est quod</p>
-  <p>Tam delicatae apposuero praeter tomacla cruda.</p>
-  <p>Neque credet infortunium, quod accidit. GRA. Bono animo es,</p>
-  <p>Novi quid in negotio hoc agendum erit. HIER. Quid? GRA. Custos</p>
-  <p>(480) Te iam vocavit; adibo teque dixero venturum</p>
-  <p>Cum istac Corasio. HIER. Recusavi, haud recipiet ultro</p>
-  <p>Sese ingerentem denuo. GR. Suscipiet et libenter,</p>
-  <p>Quod coxerit sat abunde, ut ipsi vidimus. HIER. Tentato.</p>
-  <p>Vade citius, si fors queat praevortier puella.</p>
-  <p>(485) GRA. Ingredere tu nixus bacillo, ego Bassaro
-  suadebo.</p>
-  <p>BAS. Suadebis optime, sed illam neutiquam praevortes.</p>
-  <p>Secuta namque Hieronymum latenter est ingressa.</p>
-  <p>Morabor aniculam, ut audiam doli insiti commenta.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-iii.">
-  <head>ACTUS III. SCAENA III.</head>
-  <p>Tetrametri acatalecti.</p>
-  <p>GRAIDIUM, BASSARUS.</p>
-  <p>Videone quendam assistere hisce pro aedibus? BAS. Compello eam.</p>
-  <p>(490) Salve, Graidium. GRA. Salvus esto plurimum, optime
-  Bassare.</p>
-  <p>BAS. Quid te expulit foras in hac tanta aëris inclementia?</p>
-  <p>GRA. Merito rogas, ob maximum infortunium. BAS. Infortunium?</p>
-  <p>Papae, quod infortunium? GRA. Paucis tibi narravero.</p>
-  <p>Ficedulas tantum duas domino meo redemeram,</p>
-  <p>(495) Ad vesperam refectiunculam, quod aeger esset et</p>
-  <p>Podagra laborans nunc acerbius. BAS. Scilicet, per aëris</p>
-  <p>Turbationem. GRA. Ita est. Sile parum. Ubi dedisses vesperis</p>
-  <p>Signum canendis primulum, extemplo vocat me et ad sacram</p>
-  <p>Se aedem ocius ducam imperat. Quid multa, abimus et redimus et</p>
-  <p>(500) Ficedulas a felibus prorsus voratas cernimus.</p>
-  <p>BAS. Quid audio? GRA. Hoc, quod res. BAS. Grave infortunium per
-  Herculem.</p>
-  <p>GRA. Audi amplius. Supervenit modo honesta virgo, ut visitet</p>
-  <p>Pastorem in aegritudine, et nihil est quod apposuerimus.</p>
-  <p>BAS. Foedum et remittere. GRA. Et quidem foedissimum ob
-  caliginem.</p>
-  <p>(505) BAS. Pastorem et ipsam virginem et te, Graidium, voco
-  denuo ad</p>
-  <p>Convivium. GRA. Quin ipse postulavit hoc obnixius.</p>
-  <p>BAS. Venite, adeste, ego pro virili faxo cuncta parata sint.</p>
-  <p>GRA. Referenda gratia est nec irremuneratam sinet erus</p>
-  <p>Hanc benevolentiam. Vale. BAS. Vale, ut mereris, improba,</p>
-  <p>(510) Cum omni tuo mendacio. Heus. GRA. Quid vis? BAS. Ut
-  adferas duo</p>
-  <p>Caesae suis farcimina. GRA. Duo scilicet, quasi cum sue haec</p>
-  <p>Sublata furto nescias. BAS. Vale, tuis cum sordibus.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-iv.">
-  <head>ACTUS III. SCAENA IV.</head>
-  <p>Trimetri.</p>
-  <p>BASSARUS solus.</p>
-  <p>Detestor ego tenacitatem in muliere</p>
-  <p>Quae ingenita eidem non potest evellier.</p>
-  <p>(515) At in viro exsecranda multo maxime,</p>
-  <p>Quod hanc sibi natura honesto ac libero</p>
-  <p>Accersat aut sic sordidae mulierculae</p>
-  <p>Sese obliget, ut illius in sententiam</p>
-  <p>Totus velit nolit feratur sordidus.</p>
-  <p>(520) Ad hoc enim sordida tenaxque nititur,</p>
-  <p>Ut, si in virum pro arbitrio imperium obtinet,</p>
-  <p>Ex liberali reddat hominem sordidum.</p>
-  <p>Cuius vel ipsa testis est mea Bassara,</p>
-  <p>Quae, si queat, me secum avarum redderet.</p>
-  <p>(525) At testis haec locupletior versuta anus,</p>
-  <p>Quae sordibus virum probum dolo implicat.</p>
-  <p>Detestor. At at, ut tonitruum hoc me perculit.</p>
-  <p>Re ipsa profecto stultus est, qui se domum</p>
-  <p>Non recipit. At non admodum procul a cruce, at</p>
-  <p>(530) Procul hinc reclamat quispiam. Consultius</p>
-  <p>Ego fugerem, nisi proximus pastor foret,</p>
-  <p>Qui amiculam adducit tripes praeeunte anu</p>
-  <p>Cum lumine. En quam blanditer garrit sua</p>
-  <p>Cum garrula anicula et puella amicula.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-v.">
-  <head>ACTUS III. SCAENA V.</head>
-  <p>Trimetri.</p>
-  <p>HIERONYMUS, BASSARUS, GRAIDIUM, CORASIUM.</p>
-  <p>(535) Cognata, ades. COR. Te pone sequor. HIER. Ades mea</p>
-  <p>Corasium et mihi a sinistris iungere.</p>
-  <p>Ad opiparum convivium te duxero.</p>
-  <p>COR. Quantumlibet sit opiparum, non duxeris,</p>
-  <p>Si praesciissem, quod me in aedes alteras</p>
-  <p>(540) Traduceres. Detestor has sordes tuas</p>
-  <p>Foedeque mendicata ab aliis fercula.</p>
-  <p>HIER. Ne id dic, amica Corasium, nam pluribus</p>
-  <p>Viri inopiam cupediis ditavimus.</p>
-  <p>CO. Quid audio? HIER. Atque obsoniis. COR. Obsoniis?</p>
-  <p>(545) Persuadeas? HIER. Vel hanc roga. Quid dixeras</p>
-  <p>Mihi, Graidium? Num accepta erant, quae misimus</p>
-  <p>Modo Bassaro donaria? GRA. Acceptissima.</p>
-  <p>BAS. Res mira: cum nihil miserint, sua iactitant</p>
-  <p>Coram puella munera. HIER. Loqui pergito.</p>
-  <p>(550) Quid inde noster Bassarus? GRA. Te dapsilem.</p>
-  <p>HIER. Quid inde? GRA. Te probum. HIER. Quid inde? BAS. Te improbum
-  et</p>
-  <p>Hanc pestilentem feminam. HIER. Venefica, iam</p>
-  <p>Siles? Quid inde? GRA. Te fore acceptissimum</p>
-  <p>Tuapte cum Corasio. COR. Si sic habet,</p>
-  <p>(555) Menti meae auferes scrupulum. BAS. En astutiam.</p>
-  <p>Huic dolo quis non dolo respondeat?</p>
-  <p>Nodo malo cuneus malus quaerendus est.</p>
-  <p>Sed tempus est nunc alloqui. Quos audio?</p>
-  <p>Num pastor est? Ipsus profecto. Scipio,</p>
-  <p>(560) Quo graditur, ipsum nuntiat. Te plurimum</p>
-  <p>Salvere iubeo, pastor observande, dein</p>
-  <p>Reliquam familiam. Nescio per Apollinem, his</p>
-  <p>Quos laetiores hospites susceperim.</p>
-  <p>HIER. Ago gratias, mi Bassare. Adeo lassus ex</p>
-  <p>(565) Itinere factus sum, ut queam vix hiscere.</p>
-  <p>BAS. Credo. Ingredi iubet aura et hora postulat.</p>
-  <p>Praeite, ego ostio serato mox sequar.</p>
-  <p>Iam teneo utrumque sordidum, premo alterum;</p>
-  <p>Si possim utrumque stringere, id lepidissimum. At</p>
-  <p>(570) Res expedita ex parte deprehenditur,</p>
-  <p>Quod alter ad craniarium nucibus strepat.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-vi.">
-  <head>ACTUS III. SCAENA VI.</head>
-  <p>Trimetri.</p>
-  <p>PHORUS solus.</p>
-  <p>Etsi tenebrae noctis iis quidem sient</p>
-  <p>Incommodae, qui vel legunt vel scriptitant,</p>
-  <p>Gratae tamen sunt furibus et adulteris</p>
-  <p>(575) Studentibusque clanculariis dolis.</p>
-  <p>Conscendam in hoc craniarium, ut fratrem morer.</p>
-  <p>Me nullus hinc turbaverit. Quin et pedem</p>
-  <p>Si quisquam in hanc aedem sacratam tetulerit,</p>
-  <p>His ossibus larvisque territus magis</p>
-  <p>(580) Regredi volet quam progredi. Verum interim</p>
-  <p>Saccum aperiam nucibusque fractis nucleos</p>
-  <p>Eruam, ut edam. Sonitus, tonitrus, crepitus hinc,</p>
-  <p>Manes, striges, lemures et Orci numina</p>
-  <p>Ex hoc asylo neutiquam me moverint.</p>
-</div>
-<div type="level1" xml:id="actus-iii.-scaena-vii.">
-  <head>ACTUS III. SCAENA VII.</head>
-  <p>Trimetri.</p>
-  <p>AERARIUS solus.</p>
-  <p>(585) Proverbium vetus est: Tonantem fulmine</p>
-  <p>Numquam latrinas aut patibula evertere.</p>
-  <p>Quapropter hac sub cruce puto consultius</p>
-  <p>Iacere, dum reddatur aura mitior,</p>
-  <p>Quam temere (ut inquiunt) Tonanti oppedere.</p>
-  <p>(590) O picea nox, quae intermicante fulgure</p>
-  <p>Subinde candicas, quid ostendis mihi?</p>
-  <p>Huic videntur hoc die affixi cruci</p>
-  <p>Fures duo. At quid expavesco a mortuis?</p>
-  <p>Me ad territandum neutiquam descenderint.</p>
-  <p>(595) Pendete vos, ego dormiam tantisper hic,</p>
-  <p>Dum hac transiens me quispiam excitaverit.</p>
-  <p><hi rend="bold">CHORUS.</hi></p>
-  <p>Dimetri et Monometri.</p>
-  <p>Qui sibi placet quam magnus est,</p>
-  <p>Is stultus est, is stultus est, is stultus est,</p>
-  <p>Altusque cui status placet,</p>
-  <p>(600) Is stultus est, is stultus est, is stultus est, is
-  stultus est.</p>
-  <p>Qui dignitates appetit,</p>
-  <p>Is stultior, is stultior, is stultior,</p>
-  <p>Et ambit hic potentiam,</p>
-  <p>Is stultior, is stultior, is stultior, is stultior.</p>
-  <p>(605) Qui inflatur amplitudine,</p>
-  <p>Stultissimus, stultissimus, stultissimus,</p>
-  <p>Humilesve celsus despicit,</p>
-  <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-i.">
-  <head>ACTUS IV. SCAENA I.</head>
-  <p>Trimetri.</p>
-  <p>PRAESES, BASSARUS, CREOBORUS.</p>
-  <p>Saevit mehercle Iuppiter iratus nimis.</p>
-  <p>(610) Vix ego pedem ausim efferre lumine praevio</p>
-  <p>Foras, et hic gabalum adire iactitat.</p>
-  <p>Quid? Adhucne conventa rata servas, Bassare?</p>
-  <p>BAS. Egone? Sto staboque conventis. PRAE. Ades,</p>
-  <p>Ignaviae praeses. CRE. Licet. PRAE. Iactantiae</p>
-  <p>(615) Princeps. CRE. Licet. PRAE. Rex impudentiae. CRE.
-  Licet.</p>
-  <p>PRAE. Mendacium, voracium, rapacium</p>
-  <p>Et heluantium imperator, heus. CRE. Licet.</p>
-  <p>PRAE. Adhucne ades tot praedicatus laudibus?</p>
-  <p>CRE. Adsum, quid est quod me iubebis exsequi?</p>
-  <p>(620) PRAE. Dixtine adire quod audeas furum cruces</p>
-  <p>Iam vesperi? CRE. Dixi equidem et ilicet exigam.</p>
-  <p>BAS. Audistin’ illum? PRAE. Haud fecerit. Sed rememoret</p>
-  <p>Conventionem. CRE. Denuo quid expetis</p>
-  <p>Tempus teri? Conveneratis hoc modo:</p>
-  <p>(625) Si inter tot ignes fulminum, tonitruum,</p>
-  <p>Et chasmatum utrosque creta patibuli</p>
-  <p>Notare postes audeam, tu solveres</p>
-  <p>Hoc symbolum, si quo minus, idem Bassarus.</p>
-  <p>Tentabo rem, tamen interim tu, Bassare,</p>
-  <p>(630) Pulsare campanas sacras ne negligas.</p>
-  <p>BAS. Abi igitur hinc. PRAE. Haud fecerit. BAS. Si haud fecerit,</p>
-  <p>Beaberis. CRE. Me sancta servet Saturitas.</p>
-  <p>BAS. Periculo alterius quidem nostrum ille abit.</p>
-  <p>Quid in tenebris promicare conspicor?</p>
-  <p>(635) Domus tuae fortasse fuerit quispiam.</p>
-  <p>PRAE. Poterit quidem. Moremur hic laternulam,</p>
-  <p>Quamvis tonitrus introire suadeat.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-ii.">
-  <head>ACTUS IV. SCAENA II.</head>
-  <p>Trimetri.</p>
-  <p>MERIMNA, ANCILLA, BASSARUS, PRAESES, DROMUS.</p>
-  <p>Quis recta in aedes Bassari nos duxerit,</p>
-  <p>Cum nec in agro nec in platea quispiam</p>
-  <p>(640) Ob aëris commotionem appareat?</p>
-  <p>PRAE. Pol uxor est. ANC. Vox quaepiam inter turbines</p>
-  <p>Aures meas pulsare sentitur viri.</p>
-  <p>Ausculta, era. PRAE. Ancilla est. BAS. Voca. PRAE. Vxor huc. MER.
-  Vir est.</p>
-  <p>Hem. PRAE. Ad dexteram flectite gradum. MER. Vir optime,</p>
-  <p>(645) Quantis gravatae incommodis hucusque vix</p>
-  <p>Pervenimus. PRAE. Quid hanc Dromam non miseras?</p>
-  <p>Iam quispiam fores domus refringet et</p>
-  <p>Sustollet omnia. MER. Ausit hoc quisquam, duos</p>
-  <p>Ubi hoc die suspenderis? PRAE. Fortassis. At</p>
-  <p>(650) Cur huc venitis, dicite. MER. Omnia cocta sunt,</p>
-  <p>Rogamus ut venias, priusquam frigeant.</p>
-  <p>PRAE. Non adero cenaturus; igitur hic maneto</p>
-  <p>Tu quidem, sed abeat haec et adferat</p>
-  <p>Pinguem anserem et vervecis armum dexterum.</p>
-  <p>(655) ANC. Ere, abire sola neutiquam audeam. PRAE. Abi in
-  malam</p>
-  <p>Crucem. ANC. Ere profecto, etsi neces, non audeam.</p>
-  <p>MER. Comitabor illam. PRAE. Haudquaquam, ades puer Dromo.</p>
-  <p>DRO. Hem. PRAE. Abi domum cum famula, ut adferat anserem</p>
-  <p>Armumque dexterum et alia cocta obsonia.</p>
-  <p>(660) DRO. Quodcumque nobis iusseris, curabimus.</p>
-  <p>PRAE. Pergite citi. DRO. Volamus. PRAE. Heus puer. DRO. Quid
-  est?</p>
-  <p>PRAE. Quod maxime praedictum oportuit: amphoras</p>
-  <p>Vini duas adferte, clamydem quoque. DRO. Licet.</p>
-  <p>PRAE. Sed et ... DRO. Quid hoc? PRAE. Horsum. DRO. Hem. PRAE.
-  Reversi denuo</p>
-  <p>(665) Tantum clamyda feretis, ast obsonia</p>
-  <p>A furibus sublata respondebitis.</p>
-  <p>Intellegenti pauca sufficiunt. Capis?</p>
-  <p>DRO. Capio, ere, recte, hic namque abundant omnia.</p>
-  <p>BAS. Silenter haec mandare se servo putat,</p>
-  <p>(670) Sed ventus omnia mihi secundus suggerit.</p>
-  <p>Merito incidet, quam fecit, (ut spero) foveam.</p>
-  <p>Euergetes. PRAE. Hem. BAS. Intro, imminet tonitruum.</p>
-  <p>PRAE. Papae. BAS. Quis exit huc foras? ————</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-iii.">
-  <head>ACTUS IV. SCAENA III.</head>
-  <p>Trimetri.</p>
-  <p>HIERONYMUS, BASSARUS.</p>
-  <p>———— Quid, Bassare,</p>
-  <p>Non pulsitas in maximo discrimine?</p>
-  <p>(675) BAS. Contra tonitruum et fulminum pericula</p>
-  <p>Quid, obsecro, aeris proderit pulsatio?</p>
-  <p>HIER. Dubitas, nefande, sacrata tintinnabula</p>
-  <p>Valere contra tonitrua atque fulmina?</p>
-  <p>Frustrane consecrata, nebulo, existimas?</p>
-  <p>(680) Abi ocius, ne quid mali ominis accidat.</p>
-  <p>Viden aethera, aëra, aquam et solum miscerier?</p>
-  <p>Et adhuc moraris? BAS. Quin morer? Nunc proxima est</p>
-  <p>Epulationis hora et unum aut alterum</p>
-  <p>Praestolor adventantium et nunc eiicis?</p>
-  <p>(685) HIER. Non eiicio te, Bassare, at te debiti</p>
-  <p>Moneo atque consuetudinis. BAS. Si eundum erit,</p>
-  <p>Tene, obsecro te, istanc facem, donec sonum</p>
-  <p>Pulsantis audias. HIER. Tenebo; ut timidus es.</p>
-  <p>I, differatur cena et ultra septimam.</p>
-  <p>(690) Dum pulsat ille, commode loquar meae</p>
-  <p>Graidio. ————</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-iv.">
-  <head>ACTUS IV. SCAENA IV.</head>
-  <p>Trimetri.</p>
-  <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
-  <p>———— Ades, mea Graidium, prodi foras.</p>
-  <p>GRA. Quid vis? HIER. Ades, secretius tecum loquar.</p>
-  <p>Videntur hi quaesisse non me, sed mea,</p>
-  <p>Nam praesidis familia multis indiget</p>
-  <p>(695) Et Bassarus vulpinus et dolosus est.</p>
-  <p>Utcumque sese res habet, mihi vesperi</p>
-  <p>Dolos struent et inferent calumniam,</p>
-  <p>Ut symbolum vinarium ex me torqueant.</p>
-  <p>Si scirem adesse praesidem, haudquaquam domum</p>
-  <p>(700) Relinquerem. Securius itaque censeo,</p>
-  <p>Dum templum adit custos, redire clanculum et</p>
-  <p>Edere domi, fortuna quicquid tribuerit.</p>
-  <p>GRA. Mecastor ipsum iudico fore optimum.</p>
-  <p>BAS. Heu heu. HIER. Quid hoc? BAS. Succurrite. GRA. Au, quid
-  Bassaro?</p>
-  <p>(705) Fugiamus intro. BAS. Aperitedum velociter.</p>
-  <p>HIER. Quid est, miser? Cur pavidus es? Num lamia te</p>
-  <p>Momordit aut striges? Quid est quod clamitas?</p>
-  <p>BAS. In coemeterio ... HIER. Quid? BAS. In craniario ...</p>
-  <p>HIER. Quid illic est? BAS. sedet diabolus. HIER. Forsitan</p>
-  <p>(710) Dentatus. BAS. Hei. GR. Respiret obsecro paululum.</p>
-  <p>Vin’ frigidam faciei aquam suffundier?</p>
-  <p>BAS. Suffundito. GRA. Huc aquam. HIER. Quid insanitis, heus?</p>
-  <p>Nugatur (ut solet usque). Perge dicere.</p>
-  <p>BAS. Dicam haud dolo. Diabolus in craniario</p>
-  <p>(715) Sedet atque bustuaria suis dentibus</p>
-  <p>Comminuit ossa. HIER. O flocciorem vellere,</p>
-  <p>Vidistin’ hunc? BAS. Vidi, inquam, in nictu fulguris</p>
-  <p>Larvam nigerrimam. HIER. Quid audio? Hiccine</p>
-  <p>Praetextus est, quod neutiquam pulsaveris?</p>
-  <p>(720) Nisi me podagra stringeret, non te quidem</p>
-  <p>Urgerem in hoc negotio. BAS. Si ignaviae,</p>
-  <p>Quod ipse certo deprehendi, asscribitur,</p>
-  <p>Vel denuo ad templi fores te perferam,</p>
-  <p>Quamvis malo mihi maximo iam cesserit.</p>
-  <p>(725) HIER. Huc huc ades, curvare plusculum. BAS. Licet.</p>
-  <p>Scapulis meis incumbe. HIER. Sedeo, perge tu.</p>
-  <p>BAS. Pergam alacriter. Tu, praeses, expectato nos.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-v.">
-  <head>ACTUS IV. SCAENA V.</head>
-  <p>Trimetri.</p>
-  <p>PRAESES, HIERONYMUS, BASSARUS, PHORUS.</p>
-  <p>Libet videre huius rei spectaculum</p>
-  <p>Et quem tragoedia sortietur exitum.</p>
-  <p>(730) Iam proximi sunt coemeterio. HIER. Quid hoc?</p>
-  <p>Quis iactus hic? BAS. Tegulae cadunt vi turbinis.</p>
-  <p>HIER. Num tegulae a tectis cadunt porro? BAS. Et procul.</p>
-  <p>HIER. Non tegulas, sed ossa suspicor ex sono</p>
-  <p>Labentium. Heu quis crepitus hic? Revertere.</p>
-  <p>(735) BAS. Pulsandum erat, non convenit revertere. HIER.
-  Hui</p>
-  <p>Quid intuor? BAS. Nihil nisi atrum daemona.</p>
-  <p>HIER. Horreo miser, revertitor. Per omnia</p>
-  <p>Te adiuro sacra, revertitor, mi Bassare.</p>
-  <p>Calvariae iactae volant et dentibus</p>
-  <p>(740) Daemon fremit larvatus in craniario.</p>
-  <p>Mihi tibique timeo; quaeso revertere.</p>
-  <p>BAS. Te sacra servabunt, tace. PRAE. Iam suspicor</p>
-  <p>Transisse coemeterium, neutrum audio</p>
-  <p>Pergentium. PHO. Ipsum habes? BAS. Habeo. PHO. Num pinguis est?</p>
-  <p>(745) BAS. Seu pinguis aut macilentus est, habeto eum. HIER.
-  Oh</p>
-  <p>Ne deseras me, Bassare. Heus ne deseras.</p>
-  <p>BAS. Non audio. HIER. Si deseras, quis me Deus</p>
-  <p>Adiuverit? Ne deseras. BAS. Te desero.</p>
-  <p>Me sequere, si vales. PHO. Bah. HIER. Atat. PHO. Bah. HIER. Atat,
-  heus, ohe.</p>
-  <p>(750) PRAE. Quis clamor, o cives? Quid est quod audio?</p>
-  <p>Lamiae, puto, deglutiunt Hieronymum</p>
-  <p>Et Bassarum. Nugas putaram et ludicra,</p>
-  <p>At serium quiddam agitur. En custos prior.</p>
-  <p>BAS. Aperitedum. PRAE. Quid agitur? BAS. Intus dixero.</p>
-  <p>(755) PRAE. Hieronymo quid accidet? HIER. Aperitedum.</p>
-  <p>PRAE. Et hic podagrae oblitus accelerat gradus.</p>
-  <p>Ut currit. HIER. Heus aperitedum ocius, quia</p>
-  <p>Taeterrimus me a tergo adoritur daemonum.</p>
-  <p>PRAE. Apage, quid hoc? HIER. Fugiamus intro, ibi dixero.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-vi.">
-  <head>ACTUS IV. SCAENA VI.</head>
-  <p>Trimetri.</p>
-  <p>CREOBORUS, AERARIUS, BASSARUS.</p>
-  <p>(760) Nimis moratus sum hactenus post aggerem</p>
-  <p>Ventrem levando, rustici quod crassius</p>
-  <p>Merdando seu cacando dictitant, canisque</p>
-  <p>(Ut in paroemia est) in ollam repserit.</p>
-  <p>Videor mihi subinde cernere patibulum.</p>
-  <p>(765) Quid patior? Heu miser pavore contremo,</p>
-  <p>Nutant genua, comae rigent, animus quoque</p>
-  <p>Labascit. An fures putandum pensiles</p>
-  <p>(Ut fabula est), quo terreant, descendere?</p>
-  <p>Recipe animum, Creobore, utrique postium</p>
-  <p>(770) Inscribe quam potes citissime notam</p>
-  <p>Cretaceam. Hoc insigne praesidis est, eo</p>
-  <p>Ad alterum. Pro Iuppiter, quae chasmata,</p>
-  <p>Quae fulgura et tonitrua. Horreo, papae,</p>
-  <p>Quid hoc? Adhucne vivis, Heino? Hein lefdi noch?</p>
-  <p>(775) AER. Quis necuerit? Wie solt my doot hebben? CRE.
-  Papae,</p>
-  <p>Vae mihi, tuam fidem, tuam fidem obsecro.</p>
-  <p>AER. Sta paululum. CRE. Non sto. AER. Ut dii, te furcifer,</p>
-  <p>Omnes ad unum concrement. Sta paululum.</p>
-  <p>CRE. Non stabo. AER. Si prehendero te, exstinxero.</p>
-  <p>(780) CRE. Pro pro deum atque hominum fidem, sicne moriar?</p>
-  <p>Adeste populares, adeste Creoboro.</p>
-  <p>BAS. Dii boni, quid hic novi clamoris est?</p>
-  <p>Quis est? CRE. Creoborus. Obsecro, mi Bassare,</p>
-  <p>Succurre mihi. BAS. Quid pateris? Ecquid clamitas?</p>
-  <p>(785) CRE. Aperi subito, nam fur adest secum trahens</p>
-  <p>Crucem et catenas ferreas. Non percipis</p>
-  <p>Aeris fragores horridos? Aperi ocius.</p>
-  <p>BAS. Quid monstri id est? Ingredere raptim. CRE. Claudito.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-vii.">
-  <head>ACTUS IV. SCAENA VII.</head>
-  <p>Senarii ut praecedentes.</p>
-  <p>AERARIUS, BASSARUS.</p>
-  <p>Heus heus. BAS. Quis est? AER. Aperi, hospes. BAS. Haudquaquam
-  tibi.</p>
-  <p>(790) AER. Aperisne, caupo pestilens, viro probo?</p>
-  <p>BAS. Fures probos non censeo. AER. Trifurcifer,</p>
-  <p>Furtine me argues? BAS. Quis igitur es, palam</p>
-  <p>Dic, pensilis si neutiquam fur Heino sis?</p>
-  <p>AER. Sum Heino quidem, verum absque furti crimine.</p>
-  <p>(795) BAS. Quis igitur es tu? AER. Aerarius faber, omnibus</p>
-  <p>Notissimus. BAS. Tu excusor ille nobilis</p>
-  <p>Dicaxque cacabarius? AER. Nosti. BAS. Aperiam.</p>
-  <p>AER. Quaeso breviter. BAS. Ades, age quid accidit tibi</p>
-  <p>Cum Creoboro? AER. Dignissimum risu quidem</p>
-  <p>(800) Negotium. Cum ob aëris pericla me</p>
-  <p>Sub patibulo posuissem et in somno gravi</p>
-  <p>Lassus iacerem, adest Creoborus (nescio</p>
-  <p>Quid actitans) et inscius mei (ut extimo)</p>
-  <p>Forte alterum videbat impellente eum</p>
-  <p>(805) Vento moveri furem et, arbitrans eum</p>
-  <p>Vivere, vocabat altius: Vivisne adhuc</p>
-  <p>Heino? Cui tum expergefactus reddidi:</p>
-  <p>Quis me necuerit? Ille mox lapsus fuga</p>
-  <p>Me hucusque ludificantem (ut audis) passus est.</p>
-  <p>(810) Nam ut aeris audiret fragorem et cacabos</p>
-  <p>Me persequente concuti, fures putans</p>
-  <p>Se subsequi, terrore consternatus est.</p>
-  <p>En fabulam. BAS. Pulcherrimam quidem, ita me amet</p>
-  <p>Mercurius. Introgredere, ut haec facetius</p>
-  <p>(815) Recenseas plenissime inter pocula.</p>
-  <p>Turba instrepit foris, serandae sunt fores.</p>
-</div>
-<div type="level1" xml:id="actus-iv.-scaena-viii.">
-  <head>ACTUS IV. SCAENA VIII.</head>
-  <p>Trimetri.</p>
-  <p>LARVATI 2 &lt;HARPAX, PHORUS&gt;, BASSARUS, PRAESES,</p>
-  <p>PASTOR, CREOBORUS.</p>
-  <p>Mom mom. BAS. Quis est, qui denuo tamque temere</p>
-  <p>Pulsas fores? LAR. Mom mom. Aperi. BAS. Ut actum? LAR. Prospere.
-  BAS. Hem.</p>
-  <p>HAR. Hic anser est, hic vina sunt. BAS. Da clanculum.</p>
-  <p>(820) PHO. Hae sunt nuces clavesque Creobori. BAS. Bene
-  est.</p>
-  <p>Et praesidem atque Hieronymum vocavero.</p>
-  <p>HAR. Mercurius addat, ut quemadmodum hactenus</p>
-  <p>Sic et modo alea nostra cadat hic prospere. BAS. Heus</p>
-  <p>Euergetes pastorque, adeste. PRAE. Quid est? BAS. Viden’?</p>
-  <p>(825) PRAE. Quid ponitis? LAR. Mom mom. HIER. Duos
-  sestertios.</p>
-  <p>LAR. Mom mom. HIER. Quaternio est et unio. PRAE. En meus.</p>
-  <p>HIER. Is ternio est et unio. PRAE. Me vincitis.</p>
-  <p>LAR. Mom mom. HIER. Quaternio quidem est et senio.</p>
-  <p>PRAE. Videte me. HIER. Quaternio est et ternio.</p>
-  <p>(830) Vestra est pecunia. PRAE. Fateor. Pastor, tuae</p>
-  <p>Sunt iam vices. LAR. Mom mom. PRAE. Unio est et ternio.</p>
-  <p>HIER. Meus quidem. PRAE. Bis unio. Superatis hunc.</p>
-  <p>LAR. Mom mom. HIER. Quis est? PRAE. Bis senio. HIER. En meus. Quis
-  est?</p>
-  <p>PRAE. Bis ternio. Haud secus atque ego tu vinceris.</p>
-  <p>(835) LAR. Mom mom. PRAE. Valete. LAR. Haud sic quidem. Videte
-  nos.</p>
-  <p>PRAE. Sunt liberi. HAR. Haec boni viri pecunia est</p>
-  <p>Ad symbolum. PRAE. Gratia est. BAS. Adeste, liberi.</p>
-  <p>Venite, adeste, ceteri, quia cuncta, quae ad</p>
-  <p>Cenam attinent, tandem parata et cocta sunt.</p>
-  <p>(840) CRE. Hospes praei, sequemur acres dentibus.</p>
-  <p>BAS. Heus tu, Creobore, affer prius de nucibus iis,</p>
-  <p>Quas te pro amicis condidisse iactitas.</p>
-  <p>CRE. Etsi quidem magno redemerim, adferam.</p>
-  <p>Vos interim libate laridum ac pernulas,</p>
-  <p>(845) Mox adero. PRAE. Si mox introibis, nescio.</p>
-  <p>CRE. Quid ais? PRAE. Nihil, canebam. Abi ocius et redi.</p>
-  <p>CRE. Redibo, sed nihil adferam, modo sapiam,</p>
-  <p>Aedes quod expilasse fures dixero.</p>
-  <p><hi rend="bold">CHORUS.</hi></p>
-  <p>Dimetri et monometri.</p>
-  <p>Carnem nutrire sobrie</p>
-  <p>(850) Prudentis est, prudentis est, prudentis est,</p>
-  <p>Putremque fugere Cypridem</p>
-  <p>Prudentis est, prudentis est, prudentis est, prudentis est.</p>
-  <p>Argentum et aurum spernere</p>
-  <p>Prudentis est, prudentis est, prudentis est,</p>
-  <p>(855) Verasque opes inquirere</p>
-  <p>Prudentis est, prudentis est, prudentis est, prudentis est.</p>
-  <p>Calcare honorem et gloriam</p>
-  <p>Prudentis est, prudentis est, prudentis est,</p>
-  <p>Modestiamque amplectier</p>
-  <p>(860) Prudentis est, prudentis est, prudentis est, prudentis
-  est.</p>
-</div>
-<div type="level1" xml:id="actus-v.-scaena-i.">
-  <head>ACTUS V. SCAENA I.</head>
-  <p>Trimetri.</p>
-  <p>CREOBORUS, ANCILLA &lt;DROMA&gt;, FAMULUS &lt;DROMUS&gt;.</p>
-  <p>Iam ferme tempus regrediendi. Aedes meas</p>
-  <p>Non introivi; neque enim necesse erat,</p>
-  <p>Quod inde nil proferre destinaveram. Hui,</p>
-  <p>Exaudio plorantium voces Dromi</p>
-  <p>(865) Dromaeque. Clam auscultabo, quaenam causa sit.</p>
-  <p>ANC. Me miseram, ut haec dies mihi infausta accidit.</p>
-  <p>FAM. Ut tu times. Quid misera et ante tempus es?</p>
-  <p>Cum erus tibi nihil ciborum iusserit</p>
-  <p>Adferre, sed sublata dicere clanculum,</p>
-  <p>(870) Iam nil tibi indignabitur animo effero,</p>
-  <p>Etsi quidem iram finxerit. ANC. Scio id quidem,</p>
-  <p>Verum dies dum crastinus diluxerit</p>
-  <p>Et carnium vinique facta mentio,</p>
-  <p>Quid misera tunc dictura sum, dum singula</p>
-  <p>(875) Sublata vere exaudiet? Totam simul</p>
-  <p>Causam facinoris ingeret mihi, quod meam</p>
-  <p>Per neglegentiam ostium non clauserim.</p>
-  <p>FAM. Sat sit sua malitia diei crastinae.</p>
-  <p>Forte aliud intercesserit, quo tu quidem</p>
-  <p>(880) Secura sis. CRE. Factum probe, factum bene.</p>
-  <p>Nam (ut audio) sublata sunt obsonia.</p>
-  <p>Sordes vide atque astutiam; volebat haec</p>
-  <p>Meopte more ablata furto dicier,</p>
-  <p>Sed fraude captus speque inani falsus est.</p>
-  <p>(885) Iam loquor ad hos. Quae pone me vox personat?</p>
-  <p>Non te, Drome, audio? FAM. Dromam quoque. CRE. Scio equidem</p>
-  <p>Obsoniorum vos onustos pondere;</p>
-  <p>Vultisne tanta sarcina levarier?</p>
-  <p>ANC. Heu, Creobore, haud tua ope indigemus. Non enim</p>
-  <p>(890) (Ut tu putas) obsoniis vinove, sed</p>
-  <p>Luctu et dolore magno onusti regredimur.</p>
-  <p>CRE. Quidum? ANC. Quia omnia, quae paraveram et coxeram ad</p>
-  <p>Cenam, per improbos viros sublata sunt.</p>
-  <p>CRE. Quid audio? ANC. Quod verum. CRE. Et ipse haud dispari</p>
-  <p>(895) Laboro miser incommodo, quia optimas</p>
-  <p>Pro amiculis, qui me subinde vocant suum ad</p>
-  <p>Symposium, quas emeram dudum nuces,</p>
-  <p>Fur quispiam hac eadem in hora surpuit.</p>
-  <p>Vereorque ad hos, qui me volebant has nuces</p>
-  <p>(900) Adferre, manu (ut aiunt) inani regredi.</p>
-  <p>Sed ostium crepuit; notabo, quis exeat.</p>
-</div>
-<div type="level1" xml:id="actus-v.-scaena-ii.">
-  <head>ACTUS V. SCAENA II.</head>
-  <p>Tetrametri.</p>
-  <p>PRAESES, BASSARUS, SERVI 2, CREOBORUS.</p>
-  <p>Tranquillior fit aura et aër est serenior. Quid est,</p>
-  <p>Bassare, quod usque adhuc morantur servi et haud nobis ferunt</p>
-  <p>Obsonium? BAS. Fortasse nondum excoctum erat. FAM. Nos adsumus,</p>
-  <p>(905) Ere. PRAE. Ecquid usque adhuc morati estis redire? FAM.
-  Prae</p>
-  <p>Timore non praesumpsimus redire, nam quae haec coxerat,</p>
-  <p>Furto universa ablata sunt. PRAE. Furto universa ablata sunt?</p>
-  <p>FAM. Ablata sunt. PRAE. Haec ob tuam, impurissima, et
-  socordiam,</p>
-  <p>Et neglegentiam accidisse quis ambigat? Repagulum</p>
-  <p>(910) Quin obdidisti ianuae? ANC. Tuam fidem, ere,
-  seraveram</p>
-  <p>(Ita me Deus amet) ostium solicitius quam umquam antea.</p>
-  <p>PRAE. Mentiris, impurissima. Huc porrigite fustem querneum.</p>
-  <p>BAS. Ut simulat iram sordidus. Remitte quaeso, Euergetes.</p>
-  <p>Ne verbera, curaverit posthac puella cautius.</p>
-  <p>(915) PRAE. Nescis profecto, Bassare, quantis iners haec
-  femina</p>
-  <p>Nos afficiat incommodis, damnis ferendis neutiquam.</p>
-  <p>Remitto tamen hanc ob tuos pro ea precatus noxiam.</p>
-  <p>Ingredimini, caremus interim tamen donariis.</p>
-  <p>BAS. Suffecerint haec nostra fercula. Heus, Creobore, quin
-  venis?</p>
-  <p>(920) Habesne iuglandes? CRE. Per hanc furum licentiam
-  quoque</p>
-  <p>Spoliatus heu iuglandibus manibus revertor inanibus.</p>
-  <p>PRAE. Mentitur impudens, eat in malam crucem. Dare renuit.</p>
-  <p>BAS. Tantumne tu impartirier gravaberis sodalibus?</p>
-  <p>PRAE. Nos introeamus, hic foras. BAS. Tuo relinquo arbitrio.</p>
-  <p>(925) PRAE. Dic serio: postes notasti patibuli? CRE. Neque
-  tetigi</p>
-  <p>Neque non tetigi. PRAE. Ut omnes dii te perduant, me luseris?</p>
-  <p>CRE. Non lusero aut fefellero. Si admiseris, non tetigero; at</p>
-  <p>Tetigero, si me excluseris. PRAE. Admitto, dic iam serio.</p>
-  <p>CRE. Postem alterum duntaxat insigniveram, nam ab altero</p>
-  <p>(930) Me terror aspulit. PRAE. Introi, sat pro mea
-  sententia.</p>
-  <p>BAS. Ingredere, adhuc sunt reliquiae, quas colligas. CRE.
-  Collegero.</p>
-  <p>O diva Saturitas, lues quanta petasonibus imminet,</p>
-  <p>O quanta pernis, sumini, farcimini, tomaculo.</p>
-  <p>Exit Merimna, commodum, iam nulla pulsandi mora.</p>
-</div>
-<div type="level1" xml:id="actus-v.-scaena-iii.">
-  <head>ACTUS V. SCAENA III.</head>
-  <p>Trimetri.</p>
-  <p>MERIMNA, PRAESES, &lt;BASSARUS, HIERONYMUS, CREOBORUS&gt;.</p>
-  <p>(935) Iam tempus est, Euergetes, regredi domum,</p>
-  <p>Et gratias referre nostro Bassaro,</p>
-  <p>Qui vesperi nostram aluit omnem familiam.</p>
-  <p>PRAE. Ut uxor es sollicita. Cras duplum domi</p>
-  <p>Nostrae rependero. Cuncta namque obsonia,</p>
-  <p>(940) Quae coximus, restant adhuc domi integra.</p>
-  <p>Nam iusseram dolo ministris dicere,</p>
-  <p>Furto quod involata et expilata sint.</p>
-  <p>MER. Res improba est et sordida haec, Euergetes.</p>
-  <p>Si namque tandem istuc resciscat Bassarus,</p>
-  <p>(945) Dedecori erit cum sempiterno opprobrio</p>
-  <p>Tibi mihique et omnibus domesticis.</p>
-  <p>PRAE. Vocemus igitur Bassarum et sestertios</p>
-  <p>Sex largiamur. Heus adesdum, Bassare.</p>
-  <p>Adesto, pastor. Tu, uxor, introi. MER. Hem. BAS. Adsumus.</p>
-  <p>(950) PRAE. Ago gratias de benevolentia tua et</p>
-  <p>Humanitate maxima in me et in meos</p>
-  <p>Exhibita et hos dono duos sestertios</p>
-  <p>Pro symbolo. HIER. Hos duos quoque ego, mi Bassare,</p>
-  <p>Ad symbolum dono simulque gratias</p>
-  <p>(955) Ago maximas de humanitate praestita.</p>
-  <p>Voloque (si non sit grave) die crastino</p>
-  <p>Compareas cum praeside atque uxoribus</p>
-  <p>In prandio. Nam commodi tantum quidem</p>
-  <p>Peperit timor mihi vesperus, podagrae dolor</p>
-  <p>(960) Ut omnis abierit semel. PRAE. Si tu voces</p>
-  <p>Nos, pastor, omnes crastina ad tua prandia,</p>
-  <p>Te, pastor, et cum uxore Bassarum, volo ad</p>
-  <p>Suffrigidas cenas domi meae simul</p>
-  <p>Adesse vesperi. HIER. Facile parebimus.</p>
-  <p>(965) BAS. Pecuniam gratam habeo vestram duplicem.</p>
-  <p>Vocatio quoque utriusque perplacet.</p>
-  <p>Paucis tamen volo singulis praesentibus</p>
-  <p>Vobiscum ad extremum loqui. PRAE. Loquere palam.</p>
-  <p>Prodite singuli foras. CRE. Simul adsumus.</p>
-</div>
-<div type="level1" xml:id="actus-v.-scaena-iv.">
-  <head>ACTUS V. SCAENA IV.</head>
-  <p>Trimetri.</p>
-  <p>BASSARUS cum GREGE.</p>
-  <p>(970) Vobis quidem inservivi, amici, non meis,</p>
-  <p>Sed omnium vestrum libens impendiis.</p>
-  <p>Quas, pastor, hoc die ad voluptates tuas</p>
-  <p>Escas parasti clancularias tibi</p>
-  <p>Non absque hypocrisi atque cognatae tuae,</p>
-  <p>(975) Has ipse praeside suggerente sustuli HIER. En.</p>
-  <p>GRE. Hahahe. HIER. Ut es semper tui simillimus.</p>
-  <p>BAS. Tu, praeses, ea quae habere te domi putas,</p>
-  <p>Sublata furto mentiens obsonia,</p>
-  <p>Ipsa tibi nunc apposui edenda vesperi. PRAE. En.</p>
-  <p>(980) GRE. Hahahe. PRAE. Ut usque Bassarus hic est
-  Bassarus.</p>
-  <p>BAS. Et tute ades, bone vir Creobore, qui nuces</p>
-  <p>Dementiens domi te habere creduis,</p>
-  <p>Nunc ipse easdem frangis atque devoras.</p>
-  <p>GRE. Hahahe. CRE. Ut hoc dignissimum, quia credidi</p>
-  <p>(985) Clavem tibi domus meae atque praesidis.</p>
-  <p>PRAE. Meae? Profecto insignis es nebulo, anne abis?</p>
-  <p>CRE. At cur famelicum foras me truseras?</p>
-  <p>GRE. Hahahe. BAS. Remitte. PRAE. Remitto. CRE. Referam gratiam.</p>
-  <p>BAS. Nunc tandem et ipse ago iure vobis gratias,</p>
-  <p>(990) Sartaginis Bacchique vestri particeps.</p>
-  <p>Adeoque reddo, quam dedistis aegrius,</p>
-  <p>Pecuniam hanc hilariter in bellaria,</p>
-  <p>Ut edamus et bibamus ampliter. Tibi</p>
-  <p>Quoque, pastor, (ut sale condias) cum illuxerit</p>
-  <p>(995) Mihi crastinus, reddam suem, quam tibi vafer</p>
-  <p>(Ut dignum erat iustumque) dudum sustuli.</p>
-  <p>HIER. Tun mihi? BAS. Sile. HIER. Num iustum et aequum, Bassare?</p>
-  <p>BAS. Aequissimum. Nam cum suem et tomacula</p>
-  <p>Sublata furto callide me conscio</p>
-  <p>(1000) A caede divulgaveris, tomacla ne</p>
-  <p>Ex more cogereris impartirier</p>
-  <p>Pluribus in hac vicinia, nonne merito</p>
-  <p>Suem tibi et tomacla cruda sustuli</p>
-  <p>Et assa cum probis edenda praebui?</p>
-  <p>(1005) GRE. Aequissimum. HIER. Sed vafritiem illam tu mihi</p>
-  <p>Suggesseras. BAS. Suggesseram, at foedam nimis</p>
-  <p>Tenacitatem haud ego tibi, sed Graidium</p>
-  <p>Suggesserat. Num idcirco merito plecteris?</p>
-  <p>HIER. Meritissime, fateor, et hanc farciminum</p>
-  <p>(1010) Iacturam ego aequo animo feram, modo suculam</p>
-  <p>Recepero. GRE. Hahahe. BAS. Cras recipies suculam</p>
-  <p>Et integram et salvam. HIER. Bene est. Sed ut accidit?</p>
-  <p>BAS. Non huius est quidem loci vel temporis</p>
-  <p>Referre cuncta. Ingredimini, intus dixero.</p>
-  <p>(1015) Vos, qui modum spectastis haec quo facta sunt,</p>
-  <p>Nil audietis amplius. Iam plaudite.</p>
+  <div type="level2" xml:id="actores-fabulae.">
+    <head>ACTORES FABULAE.</head>
+    <p>Prologus Dromus, servus</p>
+    <p>Bassarus, custos (BAS.) Droma, serva</p>
+    <p>Bassara, uxor (BA.) Creoborus, parasitus</p>
+    <p>Phorus et Harpax, liberi Aerarius</p>
+    <p>Hieronymus, pastor Chorus ex morionibus,</p>
+    <p>Graidium, anus partim masculis</p>
+    <p>Corasium, puella partim foeminis</p>
+    <p>Euergetes, praeses larvatis.</p>
+    <p>Merimna, uxor</p>
+  </div>
+  <div type="level2" xml:id="prologus.">
+    <head>PROLOGUS.</head>
+    <p>Versu iambico trimetro.</p>
+    <p>Priusquam agant res histriones ludicras,</p>
+    <p>Quiddam volunt spectantibus me serium,</p>
+    <p>Quod in omnium rem sit futurum, proloqui.</p>
+    <p>Mensis agitur duodecimus, quod ultimos</p>
+    <p>(5) Exhibuimus de more ludos scaenicos.</p>
+    <p>Cuius rei explicabo causam duplicem.</p>
+    <p>Anno fuere superiori malevoli,</p>
+    <p>Qui garrientes publice et privatim eo</p>
+    <p>Dementiae venere, ut et blateraverint</p>
+    <p>(10) Nos quoslibet tum ecclesiasticos viros,</p>
+    <p>Tum saeculares praesides taxare, ad haec</p>
+    <p>Veterem instituere denuo comoediam.</p>
+    <p>Quid patimur? An quod anilibus tritis quoque</p>
+    <p>Ex fabulis risus iocosque movimus</p>
+    <p>(15) Subinde spectatoribus, cum maxima</p>
+    <p>Nostrum omnium eruditione, dicimur</p>
+    <p>Taxare ob hanc rem quoslibet, veterem quoque</p>
+    <p>Comoediam renovare vetitam legibus?</p>
+    <p>Quid <hi rend="italic">Aluta</hi>, quidve
+    <hi rend="italic">Andrisca</hi> cum
+    <hi rend="italic">Rebellibus</hi>,</p>
+    <p>(20) Atque id genus aliae obfuerunt fabulae, iis</p>
+    <p>Qui candidi ac livore fuerant liberi?</p>
+    <p>Si his fabulis sese putant taxarier,</p>
+    <p>Nihil profecto tam sacrum, tam dexterum,</p>
+    <p>Aures quod has tenerrimas non laeserit.</p>
+    <p>(25) Sed et alii fuere, qui adolescentulis</p>
+    <p>Mage obesse quam prodesse ludos scaenicos</p>
+    <p>Contenderint, quod ex theatro (ut plurimum)</p>
+    <p>Vel proniores carnis ad lasciviam</p>
+    <p>Evaserint vel egerint licentius</p>
+    <p>(30) Vel vixerint protervius, quasi vitium</p>
+    <p>Non indoli hominis insitum, sed ex iis</p>
+    <p>Tantum modo, quae agit videtve, pullulet.</p>
+    <p>Quamquam tenellam mentem ephebi et lubricam</p>
+    <p>Foedis logis aut gestibus minime nego</p>
+    <p>(35) Subinde depravarier, quales quidem in</p>
+    <p>Proscaenio nec decet agi nec dicier.</p>
+    <p>Plus gratiae et probitatis (ausim dicere)</p>
+    <p>Deprehendi in iis, qui libere et feliciter</p>
+    <p>Egere ludos in theatro scaenicos,</p>
+    <p>(40) Quam in iis frequenter, qui (perinde ac ad lyram</p>
+    <p>Asini) ob stupiditatem vel ignorantiam</p>
+    <p>Rebus gerendis sunt inepti dextere</p>
+    <p>Aut per socordem ignaviam angulos amant,</p>
+    <p>Quo aliis alacre rem scaenicam tractantibus</p>
+    <p>(45) Vel ipsi inertes ferientur vel alios</p>
+    <p>Ob lapsum in aliquo verbulo derideant.</p>
+    <p>Non damno eos tamen, quibus animus adeo</p>
+    <p>Tranquillus est, ut candidi spectantibus</p>
+    <p>Iungi eligant quam turbulenti actoribus.</p>
+    <p>(50) Variis enim natura varias inserit</p>
+    <p>Dotes, et altera alteram non improbat.</p>
+    <p>Quod si ex grege hoc aliquos reperias improbos,</p>
+    <p>An tu mihi haud tales futuros asseres,</p>
+    <p>Nisi prodiissent nostrum in hoc proscaenium?</p>
+    <p>(55) Quid ceteri qui hic sunt, vel hinc Laudanium</p>
+    <p>Vestramve Daventuriam profecti, ad haec</p>
+    <p>Numquam citati erunt agenda ludicra, an</p>
+    <p>Numquam rebelles improbive evaserint?</p>
+    <p>Et haec quidem contra aemulos et contra eos,</p>
+    <p>(60) Qui somniis suis, suis phantasmatis</p>
+    <p>Nos hactenus nostro bono vestroque vos</p>
+    <p>Privare honesto munere egerunt satis.</p>
+    <p>Ceterum ubi vidimus gravissimis viris</p>
+    <p>Doctisque nostrum displicere silentium,</p>
+    <p>(65) Decrevimus iocos dolosque Bassari</p>
+    <p>Vobis modo exhibere festivissimos,</p>
+    <p>Qui praesidem et pastorem et alios ad sua</p>
+    <p>Ipsorum edenda convocavit fercula.</p>
+    <p>Videtedum ne praesidis vocabulo</p>
+    <p>(70) Praefectum habendum existimetis urbicum:</p>
+    <p>Pagana, agraria, rudia erunt, quae agenda sunt,</p>
+    <p>Et propemodum omnis apparatus rusticus.</p>
+    <p>Spectate, state, silete, Bassarus exiet.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-i.">
+    <head>ACTUS I. SCAENA I.</head>
+    <p>Iambici trimetri.</p>
+    <p>BASSARUS, BASSARA.</p>
+    <p>Prodi uxor. BA. Hem. BAS. Memento adire tempori</p>
+    <p>(75) Forum cupedinarium et mercarier</p>
+    <p>Capos duos anatesque totidem et anserem</p>
+    <p>Armumque arietis dexterum. Nam vesperi</p>
+    <p>Epulari et exporrigere frontem destino.</p>
+    <p>Scis nempe carnivalia. BA. Atqui paucula</p>
+    <p>(80) Nostrae familiae sufficere equidem reor,</p>
+    <p>Quae ex corte nostra facile suppeditavero.</p>
+    <p>BAS. Apage cohortales aves. Nam et optimos</p>
+    <p>Mihi quosque cum suis uxorculis viros</p>
+    <p>Accivero. BA. Num pastor aderit? BAS. Quid rogas?</p>
+    <p>(85) Primas erit. Quid absque Bitho Bacchius?</p>
+    <p>Hunc suaviter (si fors ferat) mulgebimus.</p>
+    <p>BA. Probe, ut subinde assuevimus. Vereor tamen</p>
+    <p>Ne (qua laborat) podagra desidem domi</p>
+    <p>Cenare cogat atque motus terreat.</p>
+    <p>(90) BAS. Quin tu taces? Ducendus est, gestandus est,</p>
+    <p>Vehendus est. Abi ocius, cave occupent</p>
+    <p>Te pluvia, chasma, fulgur et tonitru imminens.</p>
+    <p>BA. Quod tu mihi, bone vir, tonitru somnias</p>
+    <p>Hoc mense Martio? BAS. Num abis, loquacula?</p>
+    <p>(95) Videsne ab austro lividas glomerarier</p>
+    <p>Nubes polumque obducier? Vade ocius,</p>
+    <p>Eventus ipse dicta mox probaverit.</p>
+    <p>BA. Vadam. Heus puella. BAS. Heus tu. BA. Quid est? BAS.
+    Pauxillulum</p>
+    <p>Morare, dum pro lectitandis vesperis</p>
+    <p>(100) Ex more cymbala pulsitem, nam a prandio</p>
+    <p>Iam sonuit hora tertia. Audistin’? BA. Licet.</p>
+    <p>BAS. Fortassis ex pastore nonnihil interim</p>
+    <p>Rescibo nobis commodum. BA. Fieri potest.</p>
+    <p>Iamdudum enim ad forum aniculam misit. Vale.</p>
+    <p>(105) BAS. Utinam madescat uxor ad vivam cutem,</p>
+    <p>Ut debitam sibi ferat mercedem, eo</p>
+    <p>Quod obstrepat semper mihi atque obganniat.</p>
+    <p>Quid praesidis parasitus eminus boni</p>
+    <p>Adferet? Habet quod cruciat. Absque causa enim</p>
+    <p>(110) Nec obambulat solus nec it sine praeside.</p>
+    <p>Tacitus morabor hominem, ut audiam et sciam.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-ii.">
+    <head>ACTUS I. SCAENA II.</head>
+    <p>Trimetri.</p>
+    <p>CREOBORUS, BASSARUS.</p>
+    <p>Canunt poetae sospitatori Iovi</p>
+    <p>Pitarchian fuisse amatam coniugem</p>
+    <p>Eisque filiam fuisse Eupraxian.</p>
+    <p>(115) Id perperam finxere, ut ipse intellego.</p>
+    <p>Sunt namque nunc omnes Ioves olethrii.</p>
+    <p>Harpyia coniunx uniformiter omnibus,</p>
+    <p>Ex qua pari ratione Dystychia oritur.</p>
+    <p>Obtempero usque divitum tum legibus,</p>
+    <p>(120) Tum moribus, tum nutibus. Volunt, volo,</p>
+    <p>Negant, nego, et lingua bilancis facilior</p>
+    <p>Assentor usque et obsequor. Verum mihi</p>
+    <p>Nil praeter infelicitatem nascitur</p>
+    <p>Et pessimum infortunium. Nil commodant,</p>
+    <p>(125) Nil dant egenti divites. Manus suas</p>
+    <p>Ad largiendum contrahunt, sed ampliter</p>
+    <p>Ad detrahendum porrigunt, quod praesidis</p>
+    <p>Ex opere plane conspicor. BAS. Quid praesidem</p>
+    <p>Sugillat? Audire libet ipsa plenius.</p>
+    <p>(130) Creobore. CRE. Quis me nominat? BAS. Qui te colit.</p>
+    <p>CRE. Nugae. BAS. Qui amat. CRE. Bullae. BAS. Qui honorat. CRE.
+    Fabulae.</p>
+    <p>BAS. Qui te nutrit. CRE. Pol hac beas sententia.</p>
+    <p>Nisi nutrias, non me colis. BAS. Miser, quin assides</p>
+    <p>Tuo Iovi? CRE. Is me exclusit, ut eum strangulet</p>
+    <p>(135) Supremus ille Iuppiter. BAS. Ne flagitium</p>
+    <p>Admiseris, propter quod expulit domo.</p>
+    <p>CRE. Flagitium id omne iudicat, quod non suo</p>
+    <p>Marcas ducentas attulerit aerario.</p>
+    <p>BAS. Bona verba. CRE. Bona merda. BAS. Hem quid actum est?
+    Explica.</p>
+    <p>(140) CRE. Scin hoc die fures duos affixos cruci?</p>
+    <p>BAS. Scio, perge. CRE. Dum super hoc veluti facto bene</p>
+    <p>Negotio adeo gratulaturus virum,</p>
+    <p>Abi (inquit) in rem pessimam, nil commodas.</p>
+    <p>Si detulissem divites gravioribus</p>
+    <p>(145) Obnoxios facinoribus, quos pensiles</p>
+    <p>Fecisset in fumario, Ganymedis in</p>
+    <p>Locum quidem succederem. Nunc autem (ut is</p>
+    <p>Qui dira nunciat) abigor indignis modis</p>
+    <p>Longe a canistro et enecor fame miser.</p>
+    <p>(150) BAS. Fors coxit aliquid lautius, quod et sibi et</p>
+    <p>Uxorculae et ventri tuo haud satis foret.</p>
+    <p>CRE. Famula apparabat anserem pinguissimum,</p>
+    <p>Quem (nescio quibus) insuper murenulis</p>
+    <p>Infarserat. Iovis cerebrum dixeris,</p>
+    <p>(155) Si quippiam coctum ex eo gustaveris.</p>
+    <p>Nihilominus larido et bovillis carnibus</p>
+    <p>(Si sumen et farcimen, exta quoque adsient)</p>
+    <p>Contentus esset hoc die hercle Creoborus.</p>
+    <p>BAS. Verisimilia loquere. Sed age nil est domi,</p>
+    <p>(160) Quo victites? CRE. Ita me iuvet dea Saturitas</p>
+    <p>Beata, praeter sacculum iuglandium</p>
+    <p>(Quem ad amicorum gratiam a Dionysiis</p>
+    <p>Subinde captandam hoc die sestertiis</p>
+    <p>Emi tribus) domi est nihil. BAS. Nihil? CRE. Nihil.</p>
+    <p>(165) BAS. Te si quis ergo vesperi invitaverit,</p>
+    <p>Haud senserit difficilem (ut auguror) admodum.</p>
+    <p>CRE. Non admodum nec pallium mihi ruperit.</p>
+    <p>BAS. Si operam tuam mihi vespere locaveris,</p>
+    <p>Faxo domi meae anserem nihilo minus</p>
+    <p>(170) Lautum vores. CRE. Quicquid voles futurus est</p>
+    <p>Creoborus, etiamsi catellum iusseris</p>
+    <p>Fieri atque sub mensa ossa pronum rodere.</p>
+    <p>BAS. Te laudo. Trade itaque mihi clavem domus</p>
+    <p>(Quam habere iamdudum scio te) praesidis.</p>
+    <p>(175) CRE. Et promus et condus meae atque praesidis</p>
+    <p>Domus es. Hem claves tibi. BAS. Bene est; abi</p>
+    <p>Et exeunti templum adesto praesidi,</p>
+    <p>Ut hac euntes te atque eum ad cenam vocem.</p>
+    <p>CRE. Secum haud sinet me congredi. BAS. Sequere eminus.</p>
+    <p>(180) Abi, cuiquam ne qua sit suspectio.</p>
+    <p>Graidium adest ancilla pastoris, cui</p>
+    <p>Loqui me oportet antequam pulsem. CRE. Avolo.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-iii.">
+    <head>ACTUS I. SCAENA III.</head>
+    <p>Trimetri.</p>
+    <p>BASSARUS, GRAIDIUM, HIERONYMUS.</p>
+    <p>Ut anicula haec suffarcinata est! Iridos</p>
+    <p>In morem onusta flectitur. Viso, quid habet.</p>
+    <p>(185) GR. Hieronyme, domine pastor, exili foras.</p>
+    <p>BAS. En improbam mulierculam. Foras virum,</p>
+    <p>Qui aegerrime suos movere pedes valet,</p>
+    <p>Huc evocat. HIER. Quid, stulta, me foras vocas?</p>
+    <p>Quin haec ferebas intro, ut offerres mihi?</p>
+    <p>(190) GR. Ut luce clara perspicere queas, ere,</p>
+    <p>Quam pulchrum, obesum et regium capum et alios</p>
+    <p>Pullos tibi parvo admodum mercata sim.</p>
+    <p>En pondera. HIER. Egregius profecto et optimus</p>
+    <p>Meo tuoque, Graidium, et Corasii</p>
+    <p>(195) Meae palato. Abi, repone et appara.</p>
+    <p>In aquamque frigidam Falernum mergito,</p>
+    <p>Quo nil saporis optimi per aëris</p>
+    <p>Tollatur intemperiem. Abi. GR. Memorem mones.</p>
+    <p>BAS. Prudenter hoc. Non hactenus videre me.</p>
+    <p>(200) Iam tempus est accedere hominem et alloqui.</p>
+    <p>Salve, domine pastor. HIER. Salus tibi quoque,</p>
+    <p>Amice custos. At quid est quod cymbala</p>
+    <p>Non pulsitas, cum iam sit hora tertia?</p>
+    <p>BAS. Novi atque in hoc ipsum advolo. Primum tamen</p>
+    <p>(205) Te convenire volui et invitare te</p>
+    <p>Ad cenam amicam et sobriam, quod et velim</p>
+    <p>Ne quo modo mihi recuses aut neges.</p>
+    <p>Soli erimus atque horam per unam aut alteram</p>
+    <p>Blande et suave cuticulam curabimus.</p>
+    <p>(210) HIER. Ago gratias tibi maximas, Bassare, tua</p>
+    <p>Pro benevolentia doleoque plurimum,</p>
+    <p>Quod respondere non queam votis tuis</p>
+    <p>Ob maximum pedum meorum incommodum.</p>
+    <p>Scis quoque dolorem omnem gravari in vesperem.</p>
+    <p>(215) BAS. Non est quod excuses podagrae incommodum.</p>
+    <p>Ducemus aut gestabimus, si denique</p>
+    <p>Necesse sit, raedae incubantem te domum</p>
+    <p>Vehemus. Et solatio dolor interit.</p>
+    <p>HIER. Ne, quaeso, iam molestus es, bone Bassare,</p>
+    <p>(220) Quia poena gravior est mihi quam indulgeam</p>
+    <p>Gulae atque commessationibus. Tu abi ad</p>
+    <p>Aedem sacram, quia praeses ultro se ingerit.</p>
+    <p>BAS. Quaerendus est tamen homo, quicum victitem.</p>
+    <p>HIER. Si quaeris unum, inveneris decem. I, sequor.</p>
+    <p>(225) Vix expuli importunius vocantem. Ades,</p>
+    <p>Mea Graidium. BAS. Per Herculem intus et incute</p>
+    <p>Hic hypocrita est. Si posset hoc lauto bolo</p>
+    <p>Spoliarier, nullum Deo fieri queat</p>
+    <p>Sacrificium acceptius. HIER. Adesne, Graidium?</p>
+    <p>(230) Iam pulsat. GR. Hem. HIER. Me ducito in templum. GR.
+    Licet.</p>
+    <p>At melius est, accludam ut ostium, prius</p>
+    <p>Quam abeamus. HIER. Ecquid tu times? GR. Memini equidem</p>
+    <p>Hac negligentia tibi ablatam suem</p>
+    <p>(Iam nunc dies est tertius) maiusculam.</p>
+    <p>(235) HIER. Haec mitte meque sustine; haud patiar moram.</p>
+    <p>Aedituus en munere suo defunctus est.</p>
+    <p>GR. Video. HIER. Cave nostram sciat opulentiam. GR. Is</p>
+    <p>Iam praesidi loquitur, molestus non erit.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-iv.">
+    <head>ACTUS I. SCAENA IV.</head>
+    <p>Trimetri.</p>
+    <p>BASSARUS, BASSARA.</p>
+    <p>Etiamsi Apollo e tripode suadeat, haud queat</p>
+    <p>(240) Prudentius quicquam invenire aut aequius</p>
+    <p>Quam quod obiter praeses mihi suggessit, ut</p>
+    <p>(Si quo modo fieri queat) pastor suis,</p>
+    <p>Quae clanculariae gulae studio apparat,</p>
+    <p>Spolietur astu obsoniis et ad eadem</p>
+    <p>(245) Edenda cum probis vocetur vesperi</p>
+    <p>Sodalibus, quo liqueat omnibus palam,</p>
+    <p>Praetextus aegritudinis quam inanis est,</p>
+    <p>Quo subdolus meam adire cenam pernegat.</p>
+    <p>Iam faxit aequus arbiter iustus Deus,</p>
+    <p>(250) Ut facilem huic dolo statim inveniam viam.</p>
+    <p>Putabat ille seram obditam ostio, ast ego</p>
+    <p>Contrarium spero. Hic enim, etsi parcus est,</p>
+    <p>Solet esse negligentior. Tentandum erit.</p>
+    <p>Heus vos. Per Herculem seratum est ostium</p>
+    <p>(255) Hoc neutiquam. Quin introrumpo, ut omnia ...</p>
+    <p>BA. Quanta imminet pluvia et vir haud revertitur.</p>
+    <p>Nec tamen abire ausim, nisi ille iusserit.</p>
+    <p>Ecastor infelix, viro quae subiuga est;</p>
+    <p>Cui non licet vel ire vel redire, dum</p>
+    <p>(260) Libet. Sed eccum, egreditur aedes concitus</p>
+    <p>Pastoris et sub pallio aliquid occulit.</p>
+    <p>BAS. Quam furto in ipso pertimescunt undique</p>
+    <p>Fures adortum, id ex meo negotio</p>
+    <p>Considero. Dispicio num quis me vel a</p>
+    <p>(265) Tergo vel a fronte aut sinistra aut dextera</p>
+    <p>Suffarcinatum spectitet. BA. Quid respicit</p>
+    <p>Demens, quasi expilaverit iam aerarium? BAS. Hui,</p>
+    <p>Quae illa est? BA. Ades tandem? BAS. Uxor est, iam salva res.</p>
+    <p>BA. Quid serius redis? Quid occulis, improbe,</p>
+    <p>(270) Sub pallio? BAS. Tacesne tu, cacolalia?</p>
+    <p>Viden’ penum totum? Morare paululum,</p>
+    <p>Dum regrediar foras. BA. Quid est quod vir meus</p>
+    <p>Tractat doli? Num laridum ut ante sacrifico,</p>
+    <p>Sic modo penum omnem sustulit? BAS. Tetigisti acu</p>
+    <p>(275) Rem, Bassara. Modo perge citius ad forum,</p>
+    <p>Quasi multa sis emptura, nil tamen domum</p>
+    <p>Latura praeterquam mei pastoris hunc</p>
+    <p>Capum, canistro quem tuo (ut vides) ob hoc</p>
+    <p>Imposui. Adhuc sunt alia, quae his addenda sunt,</p>
+    <p>(280) Ad quae cum amicis ceteris pastor quoque</p>
+    <p>Vocandus est. Quae reliqua sunt, cum redieris,</p>
+    <p>Narrabo. Abi. Ipsi rem interim curabimus</p>
+    <p>Domesticam. BA. Da. Vado, quam primum hic ero.</p>
+    <p>BAS. Dum abit illa, ego ingressus viam, modum, et ordinem</p>
+    <p>(285) Mihi comminiscar, ut quod est de praeside</p>
+    <p>Effectui citius queat mandarier.</p>
+    <p><hi rend="bold">CHORUS.</hi></p>
+    <p>Iambici chorici et varii.</p>
+    <p>Qui edit bibitque sordide,</p>
+    <p>Is stultus est, is stultus est, is stultus est,</p>
+    <p>Geniumque fraudat proprium,</p>
+    <p>(290) Is stultus est, is stultus est, is stultus est, is
+    stultus est.</p>
+    <p>Qui creber in conviviis</p>
+    <p>Dementior, dementior, dementior,</p>
+    <p>Ventrem refercit crapula,</p>
+    <p>Dementior, dementior, dementior, dementior.</p>
+    <p>(295) Qui perit ob escam corporis,</p>
+    <p>Stultissimus, stultissimus, stultissimus,</p>
+    <p>Mentis salutem neglegens,</p>
+    <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-i.">
+    <head>ACTUS II. SCAENA I.</head>
+    <p>Trimetri.</p>
+    <p>HARPAX, BASSARUS, PHORUS.</p>
+    <p>Sumusne personati, uti pater volueras,</p>
+    <p>(300) Ut scite agamus Mommios sub vesperem?</p>
+    <p>BAS. Sat pro mea sententia. HAR. Quid igitur est</p>
+    <p>Quod agendum in aedibus volebas praesidis?</p>
+    <p>Num serium est an ludicrum? BAS. Loquere tacitus.</p>
+    <p>Tu, Harpax, tene hanc clavem, quae in aedes praesidis</p>
+    <p>(305) Te duxerit. HAR. Quid postea? BAS. Audi plusculum.</p>
+    <p>Huc praeses ad cenam vocatus anserem</p>
+    <p>Domi coquit cum ceteris obsoniis.</p>
+    <p>HAR. Haec fraude tolli huic cupis. Sed nescio,</p>
+    <p>Quo pacto id exigi queat. Num ibi verubus</p>
+    <p>(310) Detraxero? BAS. Certum modum docebo te,</p>
+    <p>Si non rei mage commodum dispexeris.</p>
+    <p>Atrium viri observato, alia nihilo minus</p>
+    <p>Specie tenus in vicinia pertractitans.</p>
+    <p>Cogetur autem uxor sub horam septimam,</p>
+    <p>(315) Nondum viro domum reverso et omnibus</p>
+    <p>Iam epulis paratis opipare, huc concedere</p>
+    <p>Cum vernula (quod eum alio abisse vesperi</p>
+    <p>Non suspicabitur) atque sciscitarier,</p>
+    <p>Mecum ne cenaturus an domi siet.</p>
+    <p>(320) Quibus serata ianua exeuntibus</p>
+    <p>Tu age Harpaga; ne canis quidem in te mutiet.</p>
+    <p>HAR. Consilia laudo, sat dixti mihi pater.</p>
+    <p>Quid Phorus hic frater meus facturus est?</p>
+    <p>Qui unas in aedes irruent fratres duo?</p>
+    <p>(325) BAS. Tu, Phore, clavim hanc alteram cape clanculum</p>
+    <p>Et segregatus hora ad hanc rem congrua a</p>
+    <p>Fratre introi domum latenter Creobori.</p>
+    <p>PHO. Quid inde surrepturus? An phasidis aves</p>
+    <p>Artocreasve aut sumptuosa edulia?</p>
+    <p>(330) Vix panem habet Creoborus hic, quem devoret.</p>
+    <p>BAS. Sile parumper. In angulo primo casae</p>
+    <p>Statim ab ostio offendes nucum iuglandium</p>
+    <p>Saccum refertum ad dexteram: hunc tibi surripe.</p>
+    <p>PHO. Post illa quid? BAS. Negotium qui absolverit</p>
+    <p>(335) Prior, latebit in angulo craniarii</p>
+    <p>Ibique, dum veniat, morabitur alterum.</p>
+    <p>HAR. Probe, facessimus. BAS. Sed heus vos, cautius</p>
+    <p>Agatis haec oportet ac sagaciter,</p>
+    <p>Ne qua accidat vobis mihive pudefactio.</p>
+    <p>(340) HAR. Cautissime. BAS. Si digne (ut ipse pervelim)</p>
+    <p>Res exsequamini, profecto nihil erit</p>
+    <p>Spectaculo hoc iucundius vel celebrius.</p>
+    <p>Praesidio erunt tenebrae, tonitrua, fulgura.</p>
+    <p>HAR. Cura omnis absit: melius haec quam ipse cupias</p>
+    <p>(345) Geremus. Ingredere, fores templi crepunt.</p>
+    <p>PHO. Exit sua pastor cum anu. Quantum strepet,</p>
+    <p>Cum senserit sibi avolasse obsonia.</p>
+    <p>Quantum strepet. HAR. Taceto, ne quid audiat.</p>
+    <p>Usque ad tenebras hanc tabernam intremus et,</p>
+    <p>(350) Quid dixerint, exaudiamus clanculum.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-ii.">
+    <head>ACTUS II. SCAENA II.</head>
+    <p>Trimetri.</p>
+    <p>HIERONYMUS, GRAIDIUM.</p>
+    <p>Te transfer huc (quoties tibi dicam) latus</p>
+    <p>In dexterum. GR. At plus in sinistro tibi pede</p>
+    <p>Doloris est. HIER. Anus habent semper aliqua,</p>
+    <p>Quibus virum sermonibus recalcitrent.</p>
+    <p>(355) Scin hoc magis laevum latus stabilirier,</p>
+    <p>Quo dexterum mihi fulcias robustius?</p>
+    <p>Incede placide. Quomodo obsonia tibi</p>
+    <p>Coquenda sunt, mea Graidium? An torrebimus</p>
+    <p>Simul omnia an partim opipare elixabimus?</p>
+    <p>(360) GR. Sine me coquenda coquere vel tibi alteram</p>
+    <p>Conduce. HIER. Noli irascier, mea amicula,</p>
+    <p>Sed morbo id (obsecro) verbulum mordacius,</p>
+    <p>Quod ab ore lapsum est, imputa. GR. Capum ego quidem</p>
+    <p>Novemque ficedulas veru affixos coquam</p>
+    <p>(365) Duosque pullos primulum elixabo aqua,</p>
+    <p>Dein croco, pipere, cinamomo et saccaro</p>
+    <p>Bacchum imbuam ... HIER. Recte. GR. Et in eo excoctos parum</p>
+    <p>Tibi iurulentos offeram. HIER. Hoc Veneris epulum est,</p>
+    <p>Mea Graidium. Nunc vade amabo, dum licet,</p>
+    <p>(370) Et advoca neptem meam Corasium,</p>
+    <p>Ut veniat in crepusculo. GR. Vadam. HIER. Ocius</p>
+    <p>Vadas oportet, ne occupent te tonitrua.</p>
+    <p>Tantisper hoc ego desidebo ad ostium,</p>
+    <p>Cavebo ne quis introrepat clanculum.</p>
+    <p>(375) Crepit ostium vicinum et ipse Bassarus</p>
+    <p>Procedit, ut suam moretur Bassaram.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-iii.">
+    <head>ACTUS II. SCAENA III.</head>
+    <p>Tetrametri.</p>
+    <p>BASSARUS, BASSARA, HIERONYMUS.</p>
+    <p>Videbo, si ne redeat uxor. Futile est per Herculem</p>
+    <p>Genus omne feminarum, inane, pertinax, proterviens.</p>
+    <p>Si insaniam, nisi sponte ducta neutiquam revertitur.</p>
+    <p>(380) Sed eccam eam. Iam tandem ades, mollicula? BA. Quid,
+    vir strenue?</p>
+    <p>Numquid volare solet homo, ut me tarditatis arguas?</p>
+    <p>BAS. Pro foribus est, capum eximes. Ostende, quid mercata
+    sis.</p>
+    <p>BA. Hem tibi. BAS. Papae, pinguissimum profecto capum et
+    optimum.</p>
+    <p>Nobis quidem sufficeret unus hic ampliter. Quid, uxor, hos</p>
+    <p>(385) Pullos, quid anserem, quid has septem quoque huc
+    ficedulas</p>
+    <p>Magno redempta congeris? BA. Quid edant vocati amiculi?</p>
+    <p>BAS. Non spero venturos modo aëris per inclementiam.</p>
+    <p>Pastorque adesse non cupit. BA. Non cupit? At hoc speraveram.</p>
+    <p>HIER. Cuperem equidem, si non similia comparasset Graidium.</p>
+    <p>(390) BAS. Spectata sunt satis. I, coque omnia in diem vel
+    crastinum.</p>
+    <p>Redit, quae abierat, anus; subauscultabo quid renuntiet.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-iv.">
+    <head>ACTUS II. SCAENA IV.</head>
+    <p>Tetrametri.</p>
+    <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
+    <p>Propere redis, mea Graidium; quid virgo dixerit, refer.</p>
+    <p>GRA. Sese adfuturam ait in crepusculo. HIER. Bene est, facilemne
+    se</p>
+    <p>Praebebat an difficilem? GRA. Ait se modo vocatam a pluribus,</p>
+    <p>(395) Verum tibi uni obtemperaturam libenter vesperi</p>
+    <p>Propter tuum erga se favorem, gratiam et donaria.</p>
+    <p>HIER. Eamus intro, sunt enim in vado omnia mea negotia</p>
+    <p>Iam posita. BAS. Vide ne mox Charybdin irruas. HIER. Resera
+    ostium.</p>
+    <p>GRA. Trahe pessulum, quia non seraram; umero meo nixus praei.</p>
+    <p>(400) Sequor. BAS. Sequere, cernes (quod aiunt) avolasse
+    passeres.</p>
+    <p><hi rend="bold">CHORUS,</hi></p>
+    <p>ut superior ex Morionibus personatis.</p>
+    <p>Qui colligit vanas opes,</p>
+    <p>Is stultus est, is stultus est, is stultus est,</p>
+    <p>Sibi suisve liberis,</p>
+    <p>Is stultus est, is stultus est, is stultus est, is stultus
+    est.</p>
+    <p>(405) Qui prodigit substantiam,</p>
+    <p>Is stultior, is stultior, is stultior,</p>
+    <p>In sordibusve abutitur,</p>
+    <p>Is stultior, is stultior, is stultior, is stultior.</p>
+    <p>Qui lucra captat impia,</p>
+    <p>(410) Stultissimus, stultissimus, stultissimus,</p>
+    <p>Mentis salutem neglegens,</p>
+    <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-i.">
+    <head>ACTUS III. SCAENA I.</head>
+    <p>Iambici trimetri.</p>
+    <p>BASSARUS, PRAESES, DROMO, CREOBORUS.</p>
+    <p>O Iuppiter, quantam aëris caliginem</p>
+    <p>Haec monstra nubium adferent continuo. Nam</p>
+    <p>(415) Tam horrenda nunc imago tempestatis est,</p>
+    <p>Ut imminere haud absque causa quispiam</p>
+    <p>Mortalibus putet diem novissimum.</p>
+    <p>Est nempe Martii initium, quem ut autumant</p>
+    <p>Mundo fuisse mensium primum omnium,</p>
+    <p>(420) Ita suspicor fore omnium novissimum.</p>
+    <p>Nihilominus iam et bibere oportet et edere.</p>
+    <p>Quisnam, o dii, quis illic est, qui properat huc?</p>
+    <p>Nisi dubius aspectus meos fallit oculos,</p>
+    <p>Is praeses est cum puero et ipso, qui eminus</p>
+    <p>(425) Utrumque sequitur, Creoboro. Ne praeses est,</p>
+    <p>Qui dignitatis neglegens suos gradus</p>
+    <p>Grandire cum vulgo haud veretur nec tamen</p>
+    <p>Grandem procellae evadit impiger impetum.</p>
+    <p>PRAE. Nullum inferorum numinum sub Tartaro</p>
+    <p>(430) Reliquum puto, tantis quod aër plenus est</p>
+    <p>Impressionibus. Solum tremit et strepit,</p>
+    <p>Caelum obstrepit, nubes coruscant, fulminant</p>
+    <p>Et mugiunt et vis procellae maxima.</p>
+    <p>Cogor, velim nolim, hunc adire Bassarum.</p>
+    <p>(435) BAS. Huc huc ades, ne praeteri heros, huc ades.</p>
+    <p>PRAE. Quis me vocat? BAS. Ego, Bassarum ne praeteri,</p>
+    <p>Ades ocius. PRAE. Salve. BAS. Salus tibi. PRAE. O dii,</p>
+    <p>Quanta omnium elementorum adest confusio.</p>
+    <p>Chaos vetustum mox venturum suspicor.</p>
+    <p>(440) Hoc excute, puer, pileum. DR. Faxo, ere, libens.</p>
+    <p>PRAE. Cogor, velim nolim, hic manere vesperi.</p>
+    <p>BAS. Quam gaudeo cecidisse sic mihi tesseram.</p>
+    <p>Quo (etsi velis quidem) negare non queas</p>
+    <p>Nobis tuam praesentiam. Vocaveram</p>
+    <p>(445) Hieronymum, verum is (quemadmodum tibi</p>
+    <p>Modo suggerebam) pernegabat subdolus.</p>
+    <p>Nisi tu advenires, solus edissem domi.</p>
+    <p>PRAE. De obsonio quid actum? BAS. Id incidit mihi in</p>
+    <p>Casses meos; rem omnem tibi intus dixero.</p>
+    <p>(450) PRAE. Euge. BAS. Parasitus eminus cur spectitat?</p>
+    <p>PRAE. Offendit is me per suam impudentiam.</p>
+    <p>BAS. Remitte misero noxiam. PRAE. Abeat impudens.</p>
+    <p>BAS. Sequatur umbra. Quod sine umbra corpus est?</p>
+    <p>Sequere intro. CRE. Ago tibi gratias, mi Bassare.</p>
+    <p>(455) BAS. Ingredimini, a pastore crepuit ostium.</p>
+    <p>Eccos duos, audire gestio procul,</p>
+    <p>Quid dixerint. &lt;. . . . . .&gt;</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-ii.">
+    <head>ACTUS III. SCAENA II.</head>
+    <p>Tetrametri catalecti.</p>
+    <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
+    <p>Dii superi et inferi, et quod usquam est numinum sub sole,</p>
+    <p>Et terreant et puniant et dissipent trifurem,</p>
+    <p>(460) Qui mihi suem anseremque nuper abstulit modoque</p>
+    <p>Sub luce clara obsoniis privavit universis.</p>
+    <p>GRA. Furem admodum (quicumque is est) notum tibi fuisse</p>
+    <p>Suspicor et aedium tuarum latibula penetrasse.</p>
+    <p>Nam in intimis penetralibus scite universa locaram.</p>
+    <p>(465) HIER. Scite quidem tu cuncta, sed si ianuam
+    clausisses,</p>
+    <p>Me miserum ad infelicitatem hanc ultimam haud duxisses.</p>
+    <p>GRA. Sile miser; num in me tuam torquebis incitatem?</p>
+    <p>An non ego una claudere volebam ostium et nolebas?</p>
+    <p>Tu solus es ob incuriam causa omnium rapinae.</p>
+    <p>(470) HIER. Quid multa opust contentione? Ego solus infelix
+    sum:</p>
+    <p>Vexor podagra, laceror invidentia civili,</p>
+    <p>Parum habeo, multum debeo et, quod habeo, non permittor</p>
+    <p>Tenere per furum licentiam. Quid unam praeter</p>
+    <p>Restim mihi reliquum? Sed et puellam adesse credo,</p>
+    <p>(475) Quam si repellam, fecero indignissime et clamabit</p>
+    <p>Me sordidum esse et improbum. Sin recipiam, nil est quod</p>
+    <p>Tam delicatae apposuero praeter tomacla cruda.</p>
+    <p>Neque credet infortunium, quod accidit. GRA. Bono animo es,</p>
+    <p>Novi quid in negotio hoc agendum erit. HIER. Quid? GRA.
+    Custos</p>
+    <p>(480) Te iam vocavit; adibo teque dixero venturum</p>
+    <p>Cum istac Corasio. HIER. Recusavi, haud recipiet ultro</p>
+    <p>Sese ingerentem denuo. GR. Suscipiet et libenter,</p>
+    <p>Quod coxerit sat abunde, ut ipsi vidimus. HIER. Tentato.</p>
+    <p>Vade citius, si fors queat praevortier puella.</p>
+    <p>(485) GRA. Ingredere tu nixus bacillo, ego Bassaro
+    suadebo.</p>
+    <p>BAS. Suadebis optime, sed illam neutiquam praevortes.</p>
+    <p>Secuta namque Hieronymum latenter est ingressa.</p>
+    <p>Morabor aniculam, ut audiam doli insiti commenta.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-iii.">
+    <head>ACTUS III. SCAENA III.</head>
+    <p>Tetrametri acatalecti.</p>
+    <p>GRAIDIUM, BASSARUS.</p>
+    <p>Videone quendam assistere hisce pro aedibus? BAS. Compello
+    eam.</p>
+    <p>(490) Salve, Graidium. GRA. Salvus esto plurimum, optime
+    Bassare.</p>
+    <p>BAS. Quid te expulit foras in hac tanta aëris inclementia?</p>
+    <p>GRA. Merito rogas, ob maximum infortunium. BAS. Infortunium?</p>
+    <p>Papae, quod infortunium? GRA. Paucis tibi narravero.</p>
+    <p>Ficedulas tantum duas domino meo redemeram,</p>
+    <p>(495) Ad vesperam refectiunculam, quod aeger esset et</p>
+    <p>Podagra laborans nunc acerbius. BAS. Scilicet, per aëris</p>
+    <p>Turbationem. GRA. Ita est. Sile parum. Ubi dedisses vesperis</p>
+    <p>Signum canendis primulum, extemplo vocat me et ad sacram</p>
+    <p>Se aedem ocius ducam imperat. Quid multa, abimus et redimus
+    et</p>
+    <p>(500) Ficedulas a felibus prorsus voratas cernimus.</p>
+    <p>BAS. Quid audio? GRA. Hoc, quod res. BAS. Grave infortunium per
+    Herculem.</p>
+    <p>GRA. Audi amplius. Supervenit modo honesta virgo, ut visitet</p>
+    <p>Pastorem in aegritudine, et nihil est quod apposuerimus.</p>
+    <p>BAS. Foedum et remittere. GRA. Et quidem foedissimum ob
+    caliginem.</p>
+    <p>(505) BAS. Pastorem et ipsam virginem et te, Graidium, voco
+    denuo ad</p>
+    <p>Convivium. GRA. Quin ipse postulavit hoc obnixius.</p>
+    <p>BAS. Venite, adeste, ego pro virili faxo cuncta parata sint.</p>
+    <p>GRA. Referenda gratia est nec irremuneratam sinet erus</p>
+    <p>Hanc benevolentiam. Vale. BAS. Vale, ut mereris, improba,</p>
+    <p>(510) Cum omni tuo mendacio. Heus. GRA. Quid vis? BAS. Ut
+    adferas duo</p>
+    <p>Caesae suis farcimina. GRA. Duo scilicet, quasi cum sue haec</p>
+    <p>Sublata furto nescias. BAS. Vale, tuis cum sordibus.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-iv.">
+    <head>ACTUS III. SCAENA IV.</head>
+    <p>Trimetri.</p>
+    <p>BASSARUS solus.</p>
+    <p>Detestor ego tenacitatem in muliere</p>
+    <p>Quae ingenita eidem non potest evellier.</p>
+    <p>(515) At in viro exsecranda multo maxime,</p>
+    <p>Quod hanc sibi natura honesto ac libero</p>
+    <p>Accersat aut sic sordidae mulierculae</p>
+    <p>Sese obliget, ut illius in sententiam</p>
+    <p>Totus velit nolit feratur sordidus.</p>
+    <p>(520) Ad hoc enim sordida tenaxque nititur,</p>
+    <p>Ut, si in virum pro arbitrio imperium obtinet,</p>
+    <p>Ex liberali reddat hominem sordidum.</p>
+    <p>Cuius vel ipsa testis est mea Bassara,</p>
+    <p>Quae, si queat, me secum avarum redderet.</p>
+    <p>(525) At testis haec locupletior versuta anus,</p>
+    <p>Quae sordibus virum probum dolo implicat.</p>
+    <p>Detestor. At at, ut tonitruum hoc me perculit.</p>
+    <p>Re ipsa profecto stultus est, qui se domum</p>
+    <p>Non recipit. At non admodum procul a cruce, at</p>
+    <p>(530) Procul hinc reclamat quispiam. Consultius</p>
+    <p>Ego fugerem, nisi proximus pastor foret,</p>
+    <p>Qui amiculam adducit tripes praeeunte anu</p>
+    <p>Cum lumine. En quam blanditer garrit sua</p>
+    <p>Cum garrula anicula et puella amicula.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-v.">
+    <head>ACTUS III. SCAENA V.</head>
+    <p>Trimetri.</p>
+    <p>HIERONYMUS, BASSARUS, GRAIDIUM, CORASIUM.</p>
+    <p>(535) Cognata, ades. COR. Te pone sequor. HIER. Ades mea</p>
+    <p>Corasium et mihi a sinistris iungere.</p>
+    <p>Ad opiparum convivium te duxero.</p>
+    <p>COR. Quantumlibet sit opiparum, non duxeris,</p>
+    <p>Si praesciissem, quod me in aedes alteras</p>
+    <p>(540) Traduceres. Detestor has sordes tuas</p>
+    <p>Foedeque mendicata ab aliis fercula.</p>
+    <p>HIER. Ne id dic, amica Corasium, nam pluribus</p>
+    <p>Viri inopiam cupediis ditavimus.</p>
+    <p>CO. Quid audio? HIER. Atque obsoniis. COR. Obsoniis?</p>
+    <p>(545) Persuadeas? HIER. Vel hanc roga. Quid dixeras</p>
+    <p>Mihi, Graidium? Num accepta erant, quae misimus</p>
+    <p>Modo Bassaro donaria? GRA. Acceptissima.</p>
+    <p>BAS. Res mira: cum nihil miserint, sua iactitant</p>
+    <p>Coram puella munera. HIER. Loqui pergito.</p>
+    <p>(550) Quid inde noster Bassarus? GRA. Te dapsilem.</p>
+    <p>HIER. Quid inde? GRA. Te probum. HIER. Quid inde? BAS. Te
+    improbum et</p>
+    <p>Hanc pestilentem feminam. HIER. Venefica, iam</p>
+    <p>Siles? Quid inde? GRA. Te fore acceptissimum</p>
+    <p>Tuapte cum Corasio. COR. Si sic habet,</p>
+    <p>(555) Menti meae auferes scrupulum. BAS. En astutiam.</p>
+    <p>Huic dolo quis non dolo respondeat?</p>
+    <p>Nodo malo cuneus malus quaerendus est.</p>
+    <p>Sed tempus est nunc alloqui. Quos audio?</p>
+    <p>Num pastor est? Ipsus profecto. Scipio,</p>
+    <p>(560) Quo graditur, ipsum nuntiat. Te plurimum</p>
+    <p>Salvere iubeo, pastor observande, dein</p>
+    <p>Reliquam familiam. Nescio per Apollinem, his</p>
+    <p>Quos laetiores hospites susceperim.</p>
+    <p>HIER. Ago gratias, mi Bassare. Adeo lassus ex</p>
+    <p>(565) Itinere factus sum, ut queam vix hiscere.</p>
+    <p>BAS. Credo. Ingredi iubet aura et hora postulat.</p>
+    <p>Praeite, ego ostio serato mox sequar.</p>
+    <p>Iam teneo utrumque sordidum, premo alterum;</p>
+    <p>Si possim utrumque stringere, id lepidissimum. At</p>
+    <p>(570) Res expedita ex parte deprehenditur,</p>
+    <p>Quod alter ad craniarium nucibus strepat.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-vi.">
+    <head>ACTUS III. SCAENA VI.</head>
+    <p>Trimetri.</p>
+    <p>PHORUS solus.</p>
+    <p>Etsi tenebrae noctis iis quidem sient</p>
+    <p>Incommodae, qui vel legunt vel scriptitant,</p>
+    <p>Gratae tamen sunt furibus et adulteris</p>
+    <p>(575) Studentibusque clanculariis dolis.</p>
+    <p>Conscendam in hoc craniarium, ut fratrem morer.</p>
+    <p>Me nullus hinc turbaverit. Quin et pedem</p>
+    <p>Si quisquam in hanc aedem sacratam tetulerit,</p>
+    <p>His ossibus larvisque territus magis</p>
+    <p>(580) Regredi volet quam progredi. Verum interim</p>
+    <p>Saccum aperiam nucibusque fractis nucleos</p>
+    <p>Eruam, ut edam. Sonitus, tonitrus, crepitus hinc,</p>
+    <p>Manes, striges, lemures et Orci numina</p>
+    <p>Ex hoc asylo neutiquam me moverint.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-vii.">
+    <head>ACTUS III. SCAENA VII.</head>
+    <p>Trimetri.</p>
+    <p>AERARIUS solus.</p>
+    <p>(585) Proverbium vetus est: Tonantem fulmine</p>
+    <p>Numquam latrinas aut patibula evertere.</p>
+    <p>Quapropter hac sub cruce puto consultius</p>
+    <p>Iacere, dum reddatur aura mitior,</p>
+    <p>Quam temere (ut inquiunt) Tonanti oppedere.</p>
+    <p>(590) O picea nox, quae intermicante fulgure</p>
+    <p>Subinde candicas, quid ostendis mihi?</p>
+    <p>Huic videntur hoc die affixi cruci</p>
+    <p>Fures duo. At quid expavesco a mortuis?</p>
+    <p>Me ad territandum neutiquam descenderint.</p>
+    <p>(595) Pendete vos, ego dormiam tantisper hic,</p>
+    <p>Dum hac transiens me quispiam excitaverit.</p>
+    <p><hi rend="bold">CHORUS.</hi></p>
+    <p>Dimetri et Monometri.</p>
+    <p>Qui sibi placet quam magnus est,</p>
+    <p>Is stultus est, is stultus est, is stultus est,</p>
+    <p>Altusque cui status placet,</p>
+    <p>(600) Is stultus est, is stultus est, is stultus est, is
+    stultus est.</p>
+    <p>Qui dignitates appetit,</p>
+    <p>Is stultior, is stultior, is stultior,</p>
+    <p>Et ambit hic potentiam,</p>
+    <p>Is stultior, is stultior, is stultior, is stultior.</p>
+    <p>(605) Qui inflatur amplitudine,</p>
+    <p>Stultissimus, stultissimus, stultissimus,</p>
+    <p>Humilesve celsus despicit,</p>
+    <p>Stultissimus, stultissimus, stultissimus, stultissimus.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-i.">
+    <head>ACTUS IV. SCAENA I.</head>
+    <p>Trimetri.</p>
+    <p>PRAESES, BASSARUS, CREOBORUS.</p>
+    <p>Saevit mehercle Iuppiter iratus nimis.</p>
+    <p>(610) Vix ego pedem ausim efferre lumine praevio</p>
+    <p>Foras, et hic gabalum adire iactitat.</p>
+    <p>Quid? Adhucne conventa rata servas, Bassare?</p>
+    <p>BAS. Egone? Sto staboque conventis. PRAE. Ades,</p>
+    <p>Ignaviae praeses. CRE. Licet. PRAE. Iactantiae</p>
+    <p>(615) Princeps. CRE. Licet. PRAE. Rex impudentiae. CRE.
+    Licet.</p>
+    <p>PRAE. Mendacium, voracium, rapacium</p>
+    <p>Et heluantium imperator, heus. CRE. Licet.</p>
+    <p>PRAE. Adhucne ades tot praedicatus laudibus?</p>
+    <p>CRE. Adsum, quid est quod me iubebis exsequi?</p>
+    <p>(620) PRAE. Dixtine adire quod audeas furum cruces</p>
+    <p>Iam vesperi? CRE. Dixi equidem et ilicet exigam.</p>
+    <p>BAS. Audistin’ illum? PRAE. Haud fecerit. Sed rememoret</p>
+    <p>Conventionem. CRE. Denuo quid expetis</p>
+    <p>Tempus teri? Conveneratis hoc modo:</p>
+    <p>(625) Si inter tot ignes fulminum, tonitruum,</p>
+    <p>Et chasmatum utrosque creta patibuli</p>
+    <p>Notare postes audeam, tu solveres</p>
+    <p>Hoc symbolum, si quo minus, idem Bassarus.</p>
+    <p>Tentabo rem, tamen interim tu, Bassare,</p>
+    <p>(630) Pulsare campanas sacras ne negligas.</p>
+    <p>BAS. Abi igitur hinc. PRAE. Haud fecerit. BAS. Si haud
+    fecerit,</p>
+    <p>Beaberis. CRE. Me sancta servet Saturitas.</p>
+    <p>BAS. Periculo alterius quidem nostrum ille abit.</p>
+    <p>Quid in tenebris promicare conspicor?</p>
+    <p>(635) Domus tuae fortasse fuerit quispiam.</p>
+    <p>PRAE. Poterit quidem. Moremur hic laternulam,</p>
+    <p>Quamvis tonitrus introire suadeat.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-ii.">
+    <head>ACTUS IV. SCAENA II.</head>
+    <p>Trimetri.</p>
+    <p>MERIMNA, ANCILLA, BASSARUS, PRAESES, DROMUS.</p>
+    <p>Quis recta in aedes Bassari nos duxerit,</p>
+    <p>Cum nec in agro nec in platea quispiam</p>
+    <p>(640) Ob aëris commotionem appareat?</p>
+    <p>PRAE. Pol uxor est. ANC. Vox quaepiam inter turbines</p>
+    <p>Aures meas pulsare sentitur viri.</p>
+    <p>Ausculta, era. PRAE. Ancilla est. BAS. Voca. PRAE. Vxor huc. MER.
+    Vir est.</p>
+    <p>Hem. PRAE. Ad dexteram flectite gradum. MER. Vir optime,</p>
+    <p>(645) Quantis gravatae incommodis hucusque vix</p>
+    <p>Pervenimus. PRAE. Quid hanc Dromam non miseras?</p>
+    <p>Iam quispiam fores domus refringet et</p>
+    <p>Sustollet omnia. MER. Ausit hoc quisquam, duos</p>
+    <p>Ubi hoc die suspenderis? PRAE. Fortassis. At</p>
+    <p>(650) Cur huc venitis, dicite. MER. Omnia cocta sunt,</p>
+    <p>Rogamus ut venias, priusquam frigeant.</p>
+    <p>PRAE. Non adero cenaturus; igitur hic maneto</p>
+    <p>Tu quidem, sed abeat haec et adferat</p>
+    <p>Pinguem anserem et vervecis armum dexterum.</p>
+    <p>(655) ANC. Ere, abire sola neutiquam audeam. PRAE. Abi in
+    malam</p>
+    <p>Crucem. ANC. Ere profecto, etsi neces, non audeam.</p>
+    <p>MER. Comitabor illam. PRAE. Haudquaquam, ades puer Dromo.</p>
+    <p>DRO. Hem. PRAE. Abi domum cum famula, ut adferat anserem</p>
+    <p>Armumque dexterum et alia cocta obsonia.</p>
+    <p>(660) DRO. Quodcumque nobis iusseris, curabimus.</p>
+    <p>PRAE. Pergite citi. DRO. Volamus. PRAE. Heus puer. DRO. Quid
+    est?</p>
+    <p>PRAE. Quod maxime praedictum oportuit: amphoras</p>
+    <p>Vini duas adferte, clamydem quoque. DRO. Licet.</p>
+    <p>PRAE. Sed et ... DRO. Quid hoc? PRAE. Horsum. DRO. Hem. PRAE.
+    Reversi denuo</p>
+    <p>(665) Tantum clamyda feretis, ast obsonia</p>
+    <p>A furibus sublata respondebitis.</p>
+    <p>Intellegenti pauca sufficiunt. Capis?</p>
+    <p>DRO. Capio, ere, recte, hic namque abundant omnia.</p>
+    <p>BAS. Silenter haec mandare se servo putat,</p>
+    <p>(670) Sed ventus omnia mihi secundus suggerit.</p>
+    <p>Merito incidet, quam fecit, (ut spero) foveam.</p>
+    <p>Euergetes. PRAE. Hem. BAS. Intro, imminet tonitruum.</p>
+    <p>PRAE. Papae. BAS. Quis exit huc foras? ————</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-iii.">
+    <head>ACTUS IV. SCAENA III.</head>
+    <p>Trimetri.</p>
+    <p>HIERONYMUS, BASSARUS.</p>
+    <p>———— Quid, Bassare,</p>
+    <p>Non pulsitas in maximo discrimine?</p>
+    <p>(675) BAS. Contra tonitruum et fulminum pericula</p>
+    <p>Quid, obsecro, aeris proderit pulsatio?</p>
+    <p>HIER. Dubitas, nefande, sacrata tintinnabula</p>
+    <p>Valere contra tonitrua atque fulmina?</p>
+    <p>Frustrane consecrata, nebulo, existimas?</p>
+    <p>(680) Abi ocius, ne quid mali ominis accidat.</p>
+    <p>Viden aethera, aëra, aquam et solum miscerier?</p>
+    <p>Et adhuc moraris? BAS. Quin morer? Nunc proxima est</p>
+    <p>Epulationis hora et unum aut alterum</p>
+    <p>Praestolor adventantium et nunc eiicis?</p>
+    <p>(685) HIER. Non eiicio te, Bassare, at te debiti</p>
+    <p>Moneo atque consuetudinis. BAS. Si eundum erit,</p>
+    <p>Tene, obsecro te, istanc facem, donec sonum</p>
+    <p>Pulsantis audias. HIER. Tenebo; ut timidus es.</p>
+    <p>I, differatur cena et ultra septimam.</p>
+    <p>(690) Dum pulsat ille, commode loquar meae</p>
+    <p>Graidio. ————</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-iv.">
+    <head>ACTUS IV. SCAENA IV.</head>
+    <p>Trimetri.</p>
+    <p>HIERONYMUS, GRAIDIUM, BASSARUS.</p>
+    <p>———— Ades, mea Graidium, prodi foras.</p>
+    <p>GRA. Quid vis? HIER. Ades, secretius tecum loquar.</p>
+    <p>Videntur hi quaesisse non me, sed mea,</p>
+    <p>Nam praesidis familia multis indiget</p>
+    <p>(695) Et Bassarus vulpinus et dolosus est.</p>
+    <p>Utcumque sese res habet, mihi vesperi</p>
+    <p>Dolos struent et inferent calumniam,</p>
+    <p>Ut symbolum vinarium ex me torqueant.</p>
+    <p>Si scirem adesse praesidem, haudquaquam domum</p>
+    <p>(700) Relinquerem. Securius itaque censeo,</p>
+    <p>Dum templum adit custos, redire clanculum et</p>
+    <p>Edere domi, fortuna quicquid tribuerit.</p>
+    <p>GRA. Mecastor ipsum iudico fore optimum.</p>
+    <p>BAS. Heu heu. HIER. Quid hoc? BAS. Succurrite. GRA. Au, quid
+    Bassaro?</p>
+    <p>(705) Fugiamus intro. BAS. Aperitedum velociter.</p>
+    <p>HIER. Quid est, miser? Cur pavidus es? Num lamia te</p>
+    <p>Momordit aut striges? Quid est quod clamitas?</p>
+    <p>BAS. In coemeterio ... HIER. Quid? BAS. In craniario ...</p>
+    <p>HIER. Quid illic est? BAS. sedet diabolus. HIER. Forsitan</p>
+    <p>(710) Dentatus. BAS. Hei. GR. Respiret obsecro paululum.</p>
+    <p>Vin’ frigidam faciei aquam suffundier?</p>
+    <p>BAS. Suffundito. GRA. Huc aquam. HIER. Quid insanitis, heus?</p>
+    <p>Nugatur (ut solet usque). Perge dicere.</p>
+    <p>BAS. Dicam haud dolo. Diabolus in craniario</p>
+    <p>(715) Sedet atque bustuaria suis dentibus</p>
+    <p>Comminuit ossa. HIER. O flocciorem vellere,</p>
+    <p>Vidistin’ hunc? BAS. Vidi, inquam, in nictu fulguris</p>
+    <p>Larvam nigerrimam. HIER. Quid audio? Hiccine</p>
+    <p>Praetextus est, quod neutiquam pulsaveris?</p>
+    <p>(720) Nisi me podagra stringeret, non te quidem</p>
+    <p>Urgerem in hoc negotio. BAS. Si ignaviae,</p>
+    <p>Quod ipse certo deprehendi, asscribitur,</p>
+    <p>Vel denuo ad templi fores te perferam,</p>
+    <p>Quamvis malo mihi maximo iam cesserit.</p>
+    <p>(725) HIER. Huc huc ades, curvare plusculum. BAS. Licet.</p>
+    <p>Scapulis meis incumbe. HIER. Sedeo, perge tu.</p>
+    <p>BAS. Pergam alacriter. Tu, praeses, expectato nos.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-v.">
+    <head>ACTUS IV. SCAENA V.</head>
+    <p>Trimetri.</p>
+    <p>PRAESES, HIERONYMUS, BASSARUS, PHORUS.</p>
+    <p>Libet videre huius rei spectaculum</p>
+    <p>Et quem tragoedia sortietur exitum.</p>
+    <p>(730) Iam proximi sunt coemeterio. HIER. Quid hoc?</p>
+    <p>Quis iactus hic? BAS. Tegulae cadunt vi turbinis.</p>
+    <p>HIER. Num tegulae a tectis cadunt porro? BAS. Et procul.</p>
+    <p>HIER. Non tegulas, sed ossa suspicor ex sono</p>
+    <p>Labentium. Heu quis crepitus hic? Revertere.</p>
+    <p>(735) BAS. Pulsandum erat, non convenit revertere. HIER.
+    Hui</p>
+    <p>Quid intuor? BAS. Nihil nisi atrum daemona.</p>
+    <p>HIER. Horreo miser, revertitor. Per omnia</p>
+    <p>Te adiuro sacra, revertitor, mi Bassare.</p>
+    <p>Calvariae iactae volant et dentibus</p>
+    <p>(740) Daemon fremit larvatus in craniario.</p>
+    <p>Mihi tibique timeo; quaeso revertere.</p>
+    <p>BAS. Te sacra servabunt, tace. PRAE. Iam suspicor</p>
+    <p>Transisse coemeterium, neutrum audio</p>
+    <p>Pergentium. PHO. Ipsum habes? BAS. Habeo. PHO. Num pinguis
+    est?</p>
+    <p>(745) BAS. Seu pinguis aut macilentus est, habeto eum. HIER.
+    Oh</p>
+    <p>Ne deseras me, Bassare. Heus ne deseras.</p>
+    <p>BAS. Non audio. HIER. Si deseras, quis me Deus</p>
+    <p>Adiuverit? Ne deseras. BAS. Te desero.</p>
+    <p>Me sequere, si vales. PHO. Bah. HIER. Atat. PHO. Bah. HIER. Atat,
+    heus, ohe.</p>
+    <p>(750) PRAE. Quis clamor, o cives? Quid est quod audio?</p>
+    <p>Lamiae, puto, deglutiunt Hieronymum</p>
+    <p>Et Bassarum. Nugas putaram et ludicra,</p>
+    <p>At serium quiddam agitur. En custos prior.</p>
+    <p>BAS. Aperitedum. PRAE. Quid agitur? BAS. Intus dixero.</p>
+    <p>(755) PRAE. Hieronymo quid accidet? HIER. Aperitedum.</p>
+    <p>PRAE. Et hic podagrae oblitus accelerat gradus.</p>
+    <p>Ut currit. HIER. Heus aperitedum ocius, quia</p>
+    <p>Taeterrimus me a tergo adoritur daemonum.</p>
+    <p>PRAE. Apage, quid hoc? HIER. Fugiamus intro, ibi dixero.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-vi.">
+    <head>ACTUS IV. SCAENA VI.</head>
+    <p>Trimetri.</p>
+    <p>CREOBORUS, AERARIUS, BASSARUS.</p>
+    <p>(760) Nimis moratus sum hactenus post aggerem</p>
+    <p>Ventrem levando, rustici quod crassius</p>
+    <p>Merdando seu cacando dictitant, canisque</p>
+    <p>(Ut in paroemia est) in ollam repserit.</p>
+    <p>Videor mihi subinde cernere patibulum.</p>
+    <p>(765) Quid patior? Heu miser pavore contremo,</p>
+    <p>Nutant genua, comae rigent, animus quoque</p>
+    <p>Labascit. An fures putandum pensiles</p>
+    <p>(Ut fabula est), quo terreant, descendere?</p>
+    <p>Recipe animum, Creobore, utrique postium</p>
+    <p>(770) Inscribe quam potes citissime notam</p>
+    <p>Cretaceam. Hoc insigne praesidis est, eo</p>
+    <p>Ad alterum. Pro Iuppiter, quae chasmata,</p>
+    <p>Quae fulgura et tonitrua. Horreo, papae,</p>
+    <p>Quid hoc? Adhucne vivis, Heino? Hein lefdi noch?</p>
+    <p>(775) AER. Quis necuerit? Wie solt my doot hebben? CRE.
+    Papae,</p>
+    <p>Vae mihi, tuam fidem, tuam fidem obsecro.</p>
+    <p>AER. Sta paululum. CRE. Non sto. AER. Ut dii, te furcifer,</p>
+    <p>Omnes ad unum concrement. Sta paululum.</p>
+    <p>CRE. Non stabo. AER. Si prehendero te, exstinxero.</p>
+    <p>(780) CRE. Pro pro deum atque hominum fidem, sicne
+    moriar?</p>
+    <p>Adeste populares, adeste Creoboro.</p>
+    <p>BAS. Dii boni, quid hic novi clamoris est?</p>
+    <p>Quis est? CRE. Creoborus. Obsecro, mi Bassare,</p>
+    <p>Succurre mihi. BAS. Quid pateris? Ecquid clamitas?</p>
+    <p>(785) CRE. Aperi subito, nam fur adest secum trahens</p>
+    <p>Crucem et catenas ferreas. Non percipis</p>
+    <p>Aeris fragores horridos? Aperi ocius.</p>
+    <p>BAS. Quid monstri id est? Ingredere raptim. CRE. Claudito.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-vii.">
+    <head>ACTUS IV. SCAENA VII.</head>
+    <p>Senarii ut praecedentes.</p>
+    <p>AERARIUS, BASSARUS.</p>
+    <p>Heus heus. BAS. Quis est? AER. Aperi, hospes. BAS. Haudquaquam
+    tibi.</p>
+    <p>(790) AER. Aperisne, caupo pestilens, viro probo?</p>
+    <p>BAS. Fures probos non censeo. AER. Trifurcifer,</p>
+    <p>Furtine me argues? BAS. Quis igitur es, palam</p>
+    <p>Dic, pensilis si neutiquam fur Heino sis?</p>
+    <p>AER. Sum Heino quidem, verum absque furti crimine.</p>
+    <p>(795) BAS. Quis igitur es tu? AER. Aerarius faber,
+    omnibus</p>
+    <p>Notissimus. BAS. Tu excusor ille nobilis</p>
+    <p>Dicaxque cacabarius? AER. Nosti. BAS. Aperiam.</p>
+    <p>AER. Quaeso breviter. BAS. Ades, age quid accidit tibi</p>
+    <p>Cum Creoboro? AER. Dignissimum risu quidem</p>
+    <p>(800) Negotium. Cum ob aëris pericla me</p>
+    <p>Sub patibulo posuissem et in somno gravi</p>
+    <p>Lassus iacerem, adest Creoborus (nescio</p>
+    <p>Quid actitans) et inscius mei (ut extimo)</p>
+    <p>Forte alterum videbat impellente eum</p>
+    <p>(805) Vento moveri furem et, arbitrans eum</p>
+    <p>Vivere, vocabat altius: Vivisne adhuc</p>
+    <p>Heino? Cui tum expergefactus reddidi:</p>
+    <p>Quis me necuerit? Ille mox lapsus fuga</p>
+    <p>Me hucusque ludificantem (ut audis) passus est.</p>
+    <p>(810) Nam ut aeris audiret fragorem et cacabos</p>
+    <p>Me persequente concuti, fures putans</p>
+    <p>Se subsequi, terrore consternatus est.</p>
+    <p>En fabulam. BAS. Pulcherrimam quidem, ita me amet</p>
+    <p>Mercurius. Introgredere, ut haec facetius</p>
+    <p>(815) Recenseas plenissime inter pocula.</p>
+    <p>Turba instrepit foris, serandae sunt fores.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-viii.">
+    <head>ACTUS IV. SCAENA VIII.</head>
+    <p>Trimetri.</p>
+    <p>LARVATI 2 &lt;HARPAX, PHORUS&gt;, BASSARUS, PRAESES,</p>
+    <p>PASTOR, CREOBORUS.</p>
+    <p>Mom mom. BAS. Quis est, qui denuo tamque temere</p>
+    <p>Pulsas fores? LAR. Mom mom. Aperi. BAS. Ut actum? LAR. Prospere.
+    BAS. Hem.</p>
+    <p>HAR. Hic anser est, hic vina sunt. BAS. Da clanculum.</p>
+    <p>(820) PHO. Hae sunt nuces clavesque Creobori. BAS. Bene
+    est.</p>
+    <p>Et praesidem atque Hieronymum vocavero.</p>
+    <p>HAR. Mercurius addat, ut quemadmodum hactenus</p>
+    <p>Sic et modo alea nostra cadat hic prospere. BAS. Heus</p>
+    <p>Euergetes pastorque, adeste. PRAE. Quid est? BAS. Viden’?</p>
+    <p>(825) PRAE. Quid ponitis? LAR. Mom mom. HIER. Duos
+    sestertios.</p>
+    <p>LAR. Mom mom. HIER. Quaternio est et unio. PRAE. En meus.</p>
+    <p>HIER. Is ternio est et unio. PRAE. Me vincitis.</p>
+    <p>LAR. Mom mom. HIER. Quaternio quidem est et senio.</p>
+    <p>PRAE. Videte me. HIER. Quaternio est et ternio.</p>
+    <p>(830) Vestra est pecunia. PRAE. Fateor. Pastor, tuae</p>
+    <p>Sunt iam vices. LAR. Mom mom. PRAE. Unio est et ternio.</p>
+    <p>HIER. Meus quidem. PRAE. Bis unio. Superatis hunc.</p>
+    <p>LAR. Mom mom. HIER. Quis est? PRAE. Bis senio. HIER. En meus.
+    Quis est?</p>
+    <p>PRAE. Bis ternio. Haud secus atque ego tu vinceris.</p>
+    <p>(835) LAR. Mom mom. PRAE. Valete. LAR. Haud sic quidem.
+    Videte nos.</p>
+    <p>PRAE. Sunt liberi. HAR. Haec boni viri pecunia est</p>
+    <p>Ad symbolum. PRAE. Gratia est. BAS. Adeste, liberi.</p>
+    <p>Venite, adeste, ceteri, quia cuncta, quae ad</p>
+    <p>Cenam attinent, tandem parata et cocta sunt.</p>
+    <p>(840) CRE. Hospes praei, sequemur acres dentibus.</p>
+    <p>BAS. Heus tu, Creobore, affer prius de nucibus iis,</p>
+    <p>Quas te pro amicis condidisse iactitas.</p>
+    <p>CRE. Etsi quidem magno redemerim, adferam.</p>
+    <p>Vos interim libate laridum ac pernulas,</p>
+    <p>(845) Mox adero. PRAE. Si mox introibis, nescio.</p>
+    <p>CRE. Quid ais? PRAE. Nihil, canebam. Abi ocius et redi.</p>
+    <p>CRE. Redibo, sed nihil adferam, modo sapiam,</p>
+    <p>Aedes quod expilasse fures dixero.</p>
+    <p><hi rend="bold">CHORUS.</hi></p>
+    <p>Dimetri et monometri.</p>
+    <p>Carnem nutrire sobrie</p>
+    <p>(850) Prudentis est, prudentis est, prudentis est,</p>
+    <p>Putremque fugere Cypridem</p>
+    <p>Prudentis est, prudentis est, prudentis est, prudentis est.</p>
+    <p>Argentum et aurum spernere</p>
+    <p>Prudentis est, prudentis est, prudentis est,</p>
+    <p>(855) Verasque opes inquirere</p>
+    <p>Prudentis est, prudentis est, prudentis est, prudentis est.</p>
+    <p>Calcare honorem et gloriam</p>
+    <p>Prudentis est, prudentis est, prudentis est,</p>
+    <p>Modestiamque amplectier</p>
+    <p>(860) Prudentis est, prudentis est, prudentis est, prudentis
+    est.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-i.">
+    <head>ACTUS V. SCAENA I.</head>
+    <p>Trimetri.</p>
+    <p>CREOBORUS, ANCILLA &lt;DROMA&gt;, FAMULUS &lt;DROMUS&gt;.</p>
+    <p>Iam ferme tempus regrediendi. Aedes meas</p>
+    <p>Non introivi; neque enim necesse erat,</p>
+    <p>Quod inde nil proferre destinaveram. Hui,</p>
+    <p>Exaudio plorantium voces Dromi</p>
+    <p>(865) Dromaeque. Clam auscultabo, quaenam causa sit.</p>
+    <p>ANC. Me miseram, ut haec dies mihi infausta accidit.</p>
+    <p>FAM. Ut tu times. Quid misera et ante tempus es?</p>
+    <p>Cum erus tibi nihil ciborum iusserit</p>
+    <p>Adferre, sed sublata dicere clanculum,</p>
+    <p>(870) Iam nil tibi indignabitur animo effero,</p>
+    <p>Etsi quidem iram finxerit. ANC. Scio id quidem,</p>
+    <p>Verum dies dum crastinus diluxerit</p>
+    <p>Et carnium vinique facta mentio,</p>
+    <p>Quid misera tunc dictura sum, dum singula</p>
+    <p>(875) Sublata vere exaudiet? Totam simul</p>
+    <p>Causam facinoris ingeret mihi, quod meam</p>
+    <p>Per neglegentiam ostium non clauserim.</p>
+    <p>FAM. Sat sit sua malitia diei crastinae.</p>
+    <p>Forte aliud intercesserit, quo tu quidem</p>
+    <p>(880) Secura sis. CRE. Factum probe, factum bene.</p>
+    <p>Nam (ut audio) sublata sunt obsonia.</p>
+    <p>Sordes vide atque astutiam; volebat haec</p>
+    <p>Meopte more ablata furto dicier,</p>
+    <p>Sed fraude captus speque inani falsus est.</p>
+    <p>(885) Iam loquor ad hos. Quae pone me vox personat?</p>
+    <p>Non te, Drome, audio? FAM. Dromam quoque. CRE. Scio equidem</p>
+    <p>Obsoniorum vos onustos pondere;</p>
+    <p>Vultisne tanta sarcina levarier?</p>
+    <p>ANC. Heu, Creobore, haud tua ope indigemus. Non enim</p>
+    <p>(890) (Ut tu putas) obsoniis vinove, sed</p>
+    <p>Luctu et dolore magno onusti regredimur.</p>
+    <p>CRE. Quidum? ANC. Quia omnia, quae paraveram et coxeram ad</p>
+    <p>Cenam, per improbos viros sublata sunt.</p>
+    <p>CRE. Quid audio? ANC. Quod verum. CRE. Et ipse haud dispari</p>
+    <p>(895) Laboro miser incommodo, quia optimas</p>
+    <p>Pro amiculis, qui me subinde vocant suum ad</p>
+    <p>Symposium, quas emeram dudum nuces,</p>
+    <p>Fur quispiam hac eadem in hora surpuit.</p>
+    <p>Vereorque ad hos, qui me volebant has nuces</p>
+    <p>(900) Adferre, manu (ut aiunt) inani regredi.</p>
+    <p>Sed ostium crepuit; notabo, quis exeat.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-ii.">
+    <head>ACTUS V. SCAENA II.</head>
+    <p>Tetrametri.</p>
+    <p>PRAESES, BASSARUS, SERVI 2, CREOBORUS.</p>
+    <p>Tranquillior fit aura et aër est serenior. Quid est,</p>
+    <p>Bassare, quod usque adhuc morantur servi et haud nobis ferunt</p>
+    <p>Obsonium? BAS. Fortasse nondum excoctum erat. FAM. Nos
+    adsumus,</p>
+    <p>(905) Ere. PRAE. Ecquid usque adhuc morati estis redire?
+    FAM. Prae</p>
+    <p>Timore non praesumpsimus redire, nam quae haec coxerat,</p>
+    <p>Furto universa ablata sunt. PRAE. Furto universa ablata sunt?</p>
+    <p>FAM. Ablata sunt. PRAE. Haec ob tuam, impurissima, et
+    socordiam,</p>
+    <p>Et neglegentiam accidisse quis ambigat? Repagulum</p>
+    <p>(910) Quin obdidisti ianuae? ANC. Tuam fidem, ere,
+    seraveram</p>
+    <p>(Ita me Deus amet) ostium solicitius quam umquam antea.</p>
+    <p>PRAE. Mentiris, impurissima. Huc porrigite fustem querneum.</p>
+    <p>BAS. Ut simulat iram sordidus. Remitte quaeso, Euergetes.</p>
+    <p>Ne verbera, curaverit posthac puella cautius.</p>
+    <p>(915) PRAE. Nescis profecto, Bassare, quantis iners haec
+    femina</p>
+    <p>Nos afficiat incommodis, damnis ferendis neutiquam.</p>
+    <p>Remitto tamen hanc ob tuos pro ea precatus noxiam.</p>
+    <p>Ingredimini, caremus interim tamen donariis.</p>
+    <p>BAS. Suffecerint haec nostra fercula. Heus, Creobore, quin
+    venis?</p>
+    <p>(920) Habesne iuglandes? CRE. Per hanc furum licentiam
+    quoque</p>
+    <p>Spoliatus heu iuglandibus manibus revertor inanibus.</p>
+    <p>PRAE. Mentitur impudens, eat in malam crucem. Dare renuit.</p>
+    <p>BAS. Tantumne tu impartirier gravaberis sodalibus?</p>
+    <p>PRAE. Nos introeamus, hic foras. BAS. Tuo relinquo arbitrio.</p>
+    <p>(925) PRAE. Dic serio: postes notasti patibuli? CRE. Neque
+    tetigi</p>
+    <p>Neque non tetigi. PRAE. Ut omnes dii te perduant, me luseris?</p>
+    <p>CRE. Non lusero aut fefellero. Si admiseris, non tetigero; at</p>
+    <p>Tetigero, si me excluseris. PRAE. Admitto, dic iam serio.</p>
+    <p>CRE. Postem alterum duntaxat insigniveram, nam ab altero</p>
+    <p>(930) Me terror aspulit. PRAE. Introi, sat pro mea
+    sententia.</p>
+    <p>BAS. Ingredere, adhuc sunt reliquiae, quas colligas. CRE.
+    Collegero.</p>
+    <p>O diva Saturitas, lues quanta petasonibus imminet,</p>
+    <p>O quanta pernis, sumini, farcimini, tomaculo.</p>
+    <p>Exit Merimna, commodum, iam nulla pulsandi mora.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-iii.">
+    <head>ACTUS V. SCAENA III.</head>
+    <p>Trimetri.</p>
+    <p>MERIMNA, PRAESES, &lt;BASSARUS, HIERONYMUS, CREOBORUS&gt;.</p>
+    <p>(935) Iam tempus est, Euergetes, regredi domum,</p>
+    <p>Et gratias referre nostro Bassaro,</p>
+    <p>Qui vesperi nostram aluit omnem familiam.</p>
+    <p>PRAE. Ut uxor es sollicita. Cras duplum domi</p>
+    <p>Nostrae rependero. Cuncta namque obsonia,</p>
+    <p>(940) Quae coximus, restant adhuc domi integra.</p>
+    <p>Nam iusseram dolo ministris dicere,</p>
+    <p>Furto quod involata et expilata sint.</p>
+    <p>MER. Res improba est et sordida haec, Euergetes.</p>
+    <p>Si namque tandem istuc resciscat Bassarus,</p>
+    <p>(945) Dedecori erit cum sempiterno opprobrio</p>
+    <p>Tibi mihique et omnibus domesticis.</p>
+    <p>PRAE. Vocemus igitur Bassarum et sestertios</p>
+    <p>Sex largiamur. Heus adesdum, Bassare.</p>
+    <p>Adesto, pastor. Tu, uxor, introi. MER. Hem. BAS. Adsumus.</p>
+    <p>(950) PRAE. Ago gratias de benevolentia tua et</p>
+    <p>Humanitate maxima in me et in meos</p>
+    <p>Exhibita et hos dono duos sestertios</p>
+    <p>Pro symbolo. HIER. Hos duos quoque ego, mi Bassare,</p>
+    <p>Ad symbolum dono simulque gratias</p>
+    <p>(955) Ago maximas de humanitate praestita.</p>
+    <p>Voloque (si non sit grave) die crastino</p>
+    <p>Compareas cum praeside atque uxoribus</p>
+    <p>In prandio. Nam commodi tantum quidem</p>
+    <p>Peperit timor mihi vesperus, podagrae dolor</p>
+    <p>(960) Ut omnis abierit semel. PRAE. Si tu voces</p>
+    <p>Nos, pastor, omnes crastina ad tua prandia,</p>
+    <p>Te, pastor, et cum uxore Bassarum, volo ad</p>
+    <p>Suffrigidas cenas domi meae simul</p>
+    <p>Adesse vesperi. HIER. Facile parebimus.</p>
+    <p>(965) BAS. Pecuniam gratam habeo vestram duplicem.</p>
+    <p>Vocatio quoque utriusque perplacet.</p>
+    <p>Paucis tamen volo singulis praesentibus</p>
+    <p>Vobiscum ad extremum loqui. PRAE. Loquere palam.</p>
+    <p>Prodite singuli foras. CRE. Simul adsumus.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-iv.">
+    <head>ACTUS V. SCAENA IV.</head>
+    <p>Trimetri.</p>
+    <p>BASSARUS cum GREGE.</p>
+    <p>(970) Vobis quidem inservivi, amici, non meis,</p>
+    <p>Sed omnium vestrum libens impendiis.</p>
+    <p>Quas, pastor, hoc die ad voluptates tuas</p>
+    <p>Escas parasti clancularias tibi</p>
+    <p>Non absque hypocrisi atque cognatae tuae,</p>
+    <p>(975) Has ipse praeside suggerente sustuli HIER. En.</p>
+    <p>GRE. Hahahe. HIER. Ut es semper tui simillimus.</p>
+    <p>BAS. Tu, praeses, ea quae habere te domi putas,</p>
+    <p>Sublata furto mentiens obsonia,</p>
+    <p>Ipsa tibi nunc apposui edenda vesperi. PRAE. En.</p>
+    <p>(980) GRE. Hahahe. PRAE. Ut usque Bassarus hic est
+    Bassarus.</p>
+    <p>BAS. Et tute ades, bone vir Creobore, qui nuces</p>
+    <p>Dementiens domi te habere creduis,</p>
+    <p>Nunc ipse easdem frangis atque devoras.</p>
+    <p>GRE. Hahahe. CRE. Ut hoc dignissimum, quia credidi</p>
+    <p>(985) Clavem tibi domus meae atque praesidis.</p>
+    <p>PRAE. Meae? Profecto insignis es nebulo, anne abis?</p>
+    <p>CRE. At cur famelicum foras me truseras?</p>
+    <p>GRE. Hahahe. BAS. Remitte. PRAE. Remitto. CRE. Referam
+    gratiam.</p>
+    <p>BAS. Nunc tandem et ipse ago iure vobis gratias,</p>
+    <p>(990) Sartaginis Bacchique vestri particeps.</p>
+    <p>Adeoque reddo, quam dedistis aegrius,</p>
+    <p>Pecuniam hanc hilariter in bellaria,</p>
+    <p>Ut edamus et bibamus ampliter. Tibi</p>
+    <p>Quoque, pastor, (ut sale condias) cum illuxerit</p>
+    <p>(995) Mihi crastinus, reddam suem, quam tibi vafer</p>
+    <p>(Ut dignum erat iustumque) dudum sustuli.</p>
+    <p>HIER. Tun mihi? BAS. Sile. HIER. Num iustum et aequum,
+    Bassare?</p>
+    <p>BAS. Aequissimum. Nam cum suem et tomacula</p>
+    <p>Sublata furto callide me conscio</p>
+    <p>(1000) A caede divulgaveris, tomacla ne</p>
+    <p>Ex more cogereris impartirier</p>
+    <p>Pluribus in hac vicinia, nonne merito</p>
+    <p>Suem tibi et tomacla cruda sustuli</p>
+    <p>Et assa cum probis edenda praebui?</p>
+    <p>(1005) GRE. Aequissimum. HIER. Sed vafritiem illam tu
+    mihi</p>
+    <p>Suggesseras. BAS. Suggesseram, at foedam nimis</p>
+    <p>Tenacitatem haud ego tibi, sed Graidium</p>
+    <p>Suggesserat. Num idcirco merito plecteris?</p>
+    <p>HIER. Meritissime, fateor, et hanc farciminum</p>
+    <p>(1010) Iacturam ego aequo animo feram, modo suculam</p>
+    <p>Recepero. GRE. Hahahe. BAS. Cras recipies suculam</p>
+    <p>Et integram et salvam. HIER. Bene est. Sed ut accidit?</p>
+    <p>BAS. Non huius est quidem loci vel temporis</p>
+    <p>Referre cuncta. Ingredimini, intus dixero.</p>
+    <p>(1015) Vos, qui modum spectastis haec quo facta sunt,</p>
+    <p>Nil audietis amplius. Iam plaudite.</p>
+  </div>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

@@ -16,9 +16,9 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2025-01-13T12:40:42+00:00Z
+@dateWritten=2025-01-14T12:55:40+00:00Z
 
-2068905	Philodoxeos Fabula
+1886361	Philodoxeos Fabula
 Innocentia victrix
 Iephthias tragoedia
 Dialogus in Ecyram

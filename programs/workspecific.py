@@ -455,7 +455,7 @@ class WorkSpecific:
                 "\\."
             )
             sections.append([start, triggerN, numberN])
-            return f"# {pre}{number}{space}{trigger}"
+            return f"## {pre}{number}{space}{trigger}"
 
         text = sectionRe.sub(repl, text)
         ssections = sorted(sections, key=lambda x: x[0])
@@ -654,7 +654,7 @@ class WorkSpecific:
             triggerN = f"§{triggerL}"
             numberN = number.lower()
             sections.append([start, triggerN, numberN])
-            return f"# {number} {trigger}\n\n{rest}"
+            return f"## {number} {trigger}\n\n{rest}"
 
         text = sectionRe.sub(repl, text)
         ssections = sorted(sections, key=lambda x: x[0])
@@ -742,7 +742,7 @@ class WorkSpecific:
             triggerN = f"§{triggerL}"
             numberN = number.lower()
             sections.append([start, triggerN, numberN])
-            return f"# {number} {trigger}"
+            return f"## {number} {trigger}"
 
         text = sectionRe.sub(repl, text)
         ssections = sorted(sections, key=lambda x: x[0])
@@ -1617,7 +1617,7 @@ class WorkSpecific:
             triggerN = f"§{triggerL}"
             numberN = number.lower()
             sections.append([start, triggerN, numberN])
-            return f"# {number} {trigger}"
+            return f"## {number} {trigger}"
 
         text = sectionRe.sub(repl, text)
         ssections = sorted(sections, key=lambda x: x[0])
