@@ -1,3 +1,6 @@
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14859915.svg)](https://doi.org/10.5281/zenodo.14859915)
+
 # TransLatin overview
 
 There are three repositories in
