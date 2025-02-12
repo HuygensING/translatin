@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>NICOLAI VERNULAEI</p>
+  <p>CRISPVS</p>
+  <p>TRAGOEDIA.</p>
+  <p>78 NICOLAI VERNULAEI</p>
+  <p>ARGVMENTVM.</p>
+  <p>I. CRISPUS Caesar, Fl. Constantini Augusti filius</p>
+  <p>ex Alemannico bello victor cum in urbem rediret,</p>
+  <p>triumphum illi pater ex Senatus voluntate decrevit.</p>
+  <p>Is dum apparatur, Fausta Imperatrix eius Noverca pudici¬</p>
+  <p>tiam illius expugnare tentavit, sed cum repulsam tulisset,</p>
+  <p>mota novercali odio &amp; muliebri levitate apud Constanti¬</p>
+  <p>num maritum falsa criminatione, quasi pudori eius vim</p>
+  <p>inferre voluisset, innocentem accusavit. Fidem accusationi</p>
+  <p>fecit ostensis gladio &amp; chlamyde Crispo ereptis. Igitur cum</p>
+  <p>dies illi dicta esset coram tribunali Crispus sistitur, &amp;
+  ini¬</p>
+  <p>quâ Iudicum sententiâ condemnatur, exindeque securi</p>
+  <p>percutitur. Detectâ postmodum Faustae fraude, sed serius,</p>
+  <p>mortui corpus triumphali pompa effertur.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="personae.">
+    <head>PERSONAE.</head>
+    <p>Constantinus Imp. Nuntius</p>
+    <p>I. Crispus Caesar, Artemius Tribunus</p>
+    <p>Fausta Imperatrix. Militum,</p>
+    <p>Senatores. Praefectus Urbis</p>
+    <p>Aulicus Senex. Ephoebi.</p>
+    <p>Nutrix. Milites.</p>
+    <p>Constantin. Consul. Chorus.</p>
+    <p>≤page=79≥</p>
+    <p>CRISPVS</p>
+    <p>TRAGOEDIA.</p>
+  </div>
+  <div type="level2" xml:id="actvs-primvs.">
+    <head>ACTVS PRIMVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-prima.">
+    <head>SCENA PRIMA.</head>
+    <p>CONSTANTINUS Imperator.</p>
+    <p>SOllicita semper cura regnantes trahit,</p>
+    <p>Partesque in omnes versat, &amp; pondus sibi est</p>
+    <p>Honor imperandi. Fallitur quisquis putat</p>
+    <p>Sceptrum hoc suave; fallitur quisquis leve</p>
+    <p>≤line=5≥ Hoc arbitratur verticis nostri decus.</p>
+    <p>Splendore tantum cingimur, pectus suo</p>
+    <p>Intus laborat pondere, &amp; vixdum satis</p>
+    <p>Par est labori. Quisquis imperium tenet</p>
+    <p>Honore celsus, &amp; suo nutu regens</p>
+    <p>≤line=10≥ Populos coercet, esse non potest suus,</p>
+    <p>Regnando servit. Aula curarum est parens</p>
+    <p>Quietis expers, anxij motus Domus,</p>
+    <p>Fulgore cuncta dum micant, terrent simul,</p>
+    <p>Cum rege semper occupat solium timor.</p>
+    <p>≤line=15≥ Multa est timoris causa; nunc plebis furor</p>
+    <p>Insanientis, nunc novi, quanquam procul,</p>
+    <p>≤page=80≥</p>
+    <p>Conatus hostis; deesse nec nobis potest</p>
+    <p>Timendus hostis. Ipsa pax hostes habet,</p>
+    <p>Et dum timere desinunt reges, cadunt.</p>
+    <p>≤line=20≥ Nullae recessus regiae tutos habent.</p>
+    <p>Etiam suorum nam timent reges fidem,</p>
+    <p>Et morte somnum saepe concludunt suum.</p>
+    <p>Nec pace bellum melius, innumeras trahit</p>
+    <p>Gerendo curas, &amp; nihil bello est satis.</p>
+    <p>≤line=25≥ Sufficere bello nulla vis regum potest,</p>
+    <p>Viros, &amp; aurum, &amp; arma consumit, neque</p>
+    <p>Spes ulla lucri est, namque jacturam facit</p>
+    <p>Quicunque vincit: praemium est belli, gravis</p>
+    <p>Miseria populi. Casus armatos regit,</p>
+    <p>≤line=30≥ Fortuna bellum; vincere aut vinci Ducum</p>
+    <p>Haud est in armis: dat potens laurum Tonans</p>
+    <p>Et parva saepe sternit innumeros phalanx.</p>
+    <p>Levis error hic est nullus, &amp; prudens satis</p>
+    <p>Vix ullus arma dirigit. Subit hoc meum</p>
+    <p>≤line=35≥ Formido pectus, dumque mens versat suas</p>
+    <p>Divisa curas, horror obrepit fibris.</p>
+    <p>Meus ille Crispus, (ô patris magni timor!)</p>
+    <p>Nunc in remotis bella distringit plagis,</p>
+    <p>Ferus hostis illi est &amp; potens; forsan suo</p>
+    <p>≤line=40≥ Jam cessit hosti, forsan amnes atque agros</p>
+    <p>Multo suorum funere opplevit jacens.</p>
+    <p>Audax juventa est, &amp; morae impatiens calor,</p>
+    <p>Cum se lacessit; vereor ut prudens satis</p>
+    <p>Aut sustinere, aut aggredi hostiles sciat</p>
+    <p>≤line=45≥ Bello cohortes. At quis huc gressum trahit?</p>
+    <p>Quis laureato vertice exultans venit?</p>
+    <p>≤page=81≥</p>
+    <p>Age, Anime, pande pectus, hinc spes est tibi.</p>
+  </div>
+  <div type="level2" xml:id="scena-secunda.">
+    <head>SCENA SECUNDA.</head>
+    <p>Nuntius Laureatus, Constantinus.</p>
+    <p>NUNTIVS.</p>
+    <p>Vive Imperator, laureatas en tibi,</p>
+    <p>Apporto laetus litteras. Con. Ecquid novi?</p>
+    <p>Nun. Prostratus hostis putre jam mordet solum,</p>
+    <p>≤line=50≥ Et albicantem Gloriae currum tenet</p>
+    <p>Parente tantum Crispus Augusto minor.</p>
+    <p>Con. O me beatum Caesarem! hoc Tonans tui est</p>
+    <p>Donum favoris; haec tuâ à dextra venit</p>
+    <p>Optata laurus. Militum frustra est manus,</p>
+    <p>≤line=55≥ Si non benigno faveat aspectu polus.</p>
+    <p>Satis est, resigno litteras; quanquam mihi</p>
+    <p>Ecce involuta gaudium laurus facit.</p>
+    <p>O Nate felix, quam levi pugnâ potens</p>
+    <p>Tibi cessit hostis! in suam cladem ruit</p>
+    <p>≤line=60≥ Dum tu cohortes arte producis mea.</p>
+    <p>Juvat intueri litteras; sed tu tamen</p>
+    <p>Expone pugnae, namque vidisti, modum.</p>
+    <p>Nun. Modus unus hic est. Ima quâ stringens juga</p>
+    <p>Devoluit Albis gurgitem, &amp; placido rigat</p>
+    <p>≤line=65≥ Terras meatu, castra disposuit tuus</p>
+    <p>Et arma Natus; amnis annonam dabat,</p>
+    <p>Montes tegebant. Non procul castris erat</p>
+    <p>Munitus hostis Teuto, qui grandi arduus</p>
+    <p>Surgebat audax mole, &amp; aspectu minas</p>
+    <p>≤folio=F≥</p>
+    <p>≤page=82≥</p>
+    <p>≤line=70≥ Solo ferebat; fremitus hinc, &amp; hinc quoque,</p>
+    <p>Raucumque murmur; milites vix Dux premit,</p>
+    <p>Arma, arma clamant, nec ferunt junctum sibi</p>
+    <p>Hostem intueri. Crispus ingenti intonat</p>
+    <p>Per arma voce, Miles, hic tandem est dies,</p>
+    <p>≤line=75≥ Quo constitutum Caesari serves decus.</p>
+    <p>Ibo &amp; praeibo. Dixerat, clangunt tubae,</p>
+    <p>Et concitatus miles insequitur Ducem.</p>
+    <p>Excitur hostis, irruit, miscet manus,</p>
+    <p>Fit clamor ingens, densa telorum ingruit</p>
+    <p>≤line=80≥ Hinc inde grando; dumque vir virum premit,</p>
+    <p>Clypeusque clypeum pellit, &amp; manum manus</p>
+    <p>Armata trudit, montium resonant juga,</p>
+    <p>Tremuntque valles, sanguis effusus fluit,</p>
+    <p>Et mixtus Albi gurgitem latè imbuit.</p>
+    <p>≤line=85≥ Equitique eques, pediti pedes ferro necem</p>
+    <p>Diffundit atram; sternitur telis solum,</p>
+    <p>Cadaverumque longa mixtorum strues</p>
+    <p>Obumbrat agros. Hostium sed mox ubi</p>
+    <p>Ductor sub armis corpore exanimi jacens</p>
+    <p>≤line=90≥ Animam cruori miscuit, foeda omnium</p>
+    <p>Secuta clades &amp; fuga est: tandem manus</p>
+    <p>Et arma ponunt, &amp; sibi pacem petunt.</p>
+    <p>Spolia ampla turmis Crispus indulget suis,</p>
+    <p>Pacem dat hosti; finis hinc pugnae fuit,</p>
+    <p>≤line=95≥ Finisque belli. Con. Sortis ambiguae fuit</p>
+    <p>Superare, felix cui Tonans victoriam</p>
+    <p>Concessit ultro. Marte cum dubio manus</p>
+    <p>Miscent utrimque viribus pugnam suis</p>
+    <p>Felicitatis vincere est. Quod se modo</p>
+    <p>≤page=83≥</p>
+    <p>≤line=100≥ Meus ille Natus gessit? Nun. Ante acies equo</p>
+    <p>Vectus feroci quemque compellans manu</p>
+    <p>Praeibat ipse, vulnera &amp; mortes simul</p>
+    <p>Spargebat idem: laetior vultu fuit</p>
+    <p>Haud Crispus unquam, flammeis hosti imminens</p>
+    <p>≤line=105≥ Violentus armis, &amp; simul rutili face</p>
+    <p>Decorus oris. Con. Saucius nullo fuit</p>
+    <p>Dux ipse telo? Nun. Mille dum scuto excipit</p>
+    <p>Nullum recepit, nunc eques, mox &amp; pedes,</p>
+    <p>Juvat, instat, urget ordines, mixtus suis</p>
+    <p>≤line=110≥ Et mixtus hosti. Con. Sic calor juvenem abripit.</p>
+    <p>Periculorumque immemor laudem petit</p>
+    <p>Audax juventa. Nunc ubi est? Nun. Jam jam redux</p>
+    <p>Patrem videbit, cuncta composuit prius,</p>
+    <p>Mox ad triumphum militem accinxit suum.</p>
+    <p>≤line=115≥ Audin? sonoros buccinae cantus cient.</p>
+    <p>En, Caesar, hic est, regio in vultu jubar</p>
+    <p>Elucet ardens, Con. Cerno, Crispus est meus.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.">
+    <head>SCENA TERTIA.</head>
+    <p>Cristus, Constantinus.</p>
+    <p>CRISPVS.</p>
+    <p>AUguste vive Genitor, en laurum tuis</p>
+    <p>Advoluo pedibus. Con. Quid pedes, Fili, premis?</p>
+    <p>≤line=120≥ Assurge, totumque accipe amplexu patrem.</p>
+    <p>Assurge Fili, brachijs stringas patrem,</p>
+    <p>Istasque Roma cernat invictas manus.</p>
+    <p>Cri. Redux parentem veneror, &amp; laetam precor</p>
+    <p>≤folio=F1≥</p>
+    <p>≤page=84≥</p>
+    <p>Quam porto laurum. Rhenus atque Albis tuas</p>
+    <p>≤line=125≥ Capiunt habenas, marte damnato jugum</p>
+    <p>Ultrò recepit hostis, &amp; juris tui est</p>
+    <p>Germana Tellus. Con. Nate, tu spes es Patris,</p>
+    <p>Tutela Romae, stirpis Augustae Decus,</p>
+    <p>Vindex togatae Gentis, &amp; robur meum.</p>
+    <p>≤line=130≥ Cri. Tua ista laus est, Genitor auspicijs tuis</p>
+    <p>Mihi parta laurus, &amp; tuum victus jugum</p>
+    <p>Assumpsit hostis: vicimus per te, &amp; tibi</p>
+    <p>Trophaea surgunt, Teutonum quae gens colit.</p>
+    <p>Con. Auspicia, Nate, dedimus, at virtus tua</p>
+    <p>≤line=135≥ Fregit potentes hostium ferro manus.</p>
+    <p>Opulenta virtus est sibi, haec ambit polos</p>
+    <p>Expers sepulchri, luce resplendens suâ.</p>
+    <p>Cri. Placuisse magno sit mihi Patri satis</p>
+    <p>Haec meta voti est. Nulla degenerem dies</p>
+    <p>≤line=140≥ Unquam videbit; animus hic est à patre,</p>
+    <p>Ei sanguis in me, quisquis ad laudem exilit,</p>
+    <p>Tuus est. Con. Bene est, sic laetor in Nato pater.</p>
+    <p>Regnabo per te, Nate, dum virtus meos</p>
+    <p>Tua sternit hostes. Cri. Hostibus bellum intuli,</p>
+    <p>≤line=145≥ Benignitatem miscui bello simul.</p>
+    <p>Con. Ars ista magnorum est Ducum; cogit timor,</p>
+    <p>Amor reducit; fortis &amp; mitis simul</p>
+    <p>Dux esse debet; gratius victis jugum est,</p>
+    <p>Victi benignum quando victorem colunt.</p>
+    <p>≤line=150≥ Clementiae cum fama regnantem adjuvat</p>
+    <p>Suave regnum est; semper est magni Ducis</p>
+    <p>Servare victos; arte non aliâ decet</p>
+    <p>Augere regnum. Quisquis aut ferro furit,</p>
+    <p>≤page=85≥</p>
+    <p>Aut igne, nunquam vincit, &amp; quanquam domet,</p>
+    <p>≤line=155≥ Sentit subactae perfidam gentis fidem.</p>
+    <p>Cri. Documenta, Genitor, ista jam pridem mihi</p>
+    <p>Puero dedisti, nostra virtus te patre</p>
+    <p>Crevit Magistro. Con. Laudo, quod superest, age</p>
+    <p>Meritis triumphus, Nate, reddatur tuis.</p>
+    <p>≤line=160≥ Non invidebit Roma, quae semper Duces</p>
+    <p>Honore magnos tollit, &amp; meritis favet.</p>
+    <p>En Imperatrix gaudio exultans novo</p>
+    <p>Videre properat; ipse praecurrit quoque</p>
+    <p>Tibi Senatus gestiens; cuncti favent.</p>
+  </div>
+  <div type="level2" xml:id="scena-quarta.">
+    <head>SCENA QUARTA.</head>
+    <p>Crispus, Fausta Imperatrix, Constantinus,</p>
+    <p>Senatores.</p>
+    <p>CRISPVS.</p>
+    <p>≤line=165≥ VIve Imperatrix, nostra, quaecunque est, tuae</p>
+    <p>Dicata laurus gloriae est. Fau. Lubens tuum</p>
+    <p>Complector istud pectus; &amp; celsam indolem,</p>
+    <p>Quae nata magnis ambit aeternum decus,</p>
+    <p>Suspicio mater. Digna tu proles patris,</p>
+    <p>≤line=170≥ Patrem aemularis, &amp; novâ famâ tuos</p>
+    <p>Auges penates. Illa jam virtus tua</p>
+    <p>Imperia mundi spondet, &amp; certum decus,</p>
+    <p>Aususque magnos: perge, &amp; aetatem tuam</p>
+    <p>Transcende victor; inclytum Heroum genus</p>
+    <p>≤line=175≥ Numerare longas nescit annorum moras,</p>
+    <p>Et tempus urget, cunctaque in laudem trahit.</p>
+    <p>Crisp. Referre patrem mens mihi est, huc se meus</p>
+    <p>≤folio=F3≥</p>
+    <p>≤page=86≥</p>
+    <p>Attollit animus, &amp; sibi metam labor</p>
+    <p>Constituit unam. Faxit aeternus Tonans,</p>
+    <p>≤line=180≥ Ut iste patri placeat, &amp; matri labor.</p>
+    <p>Con. Sic spes parentum Nate, sic generis decus</p>
+    <p>Illustre vives. Fau. Sic tuos referes avos,</p>
+    <p>Et aemulando laudibus surges novis.</p>
+    <p>Sen. 1. Magnanime princeps gratulor partum decus, ˂ magnamine</p>
+    <p>≤line=185≥ Meritis honores Roma jam debet tuis.</p>
+    <p>Senat. 2. Roma ipsa gratulatur, &amp; tuâ in manu</p>
+    <p>Spem laeta ponit, patriae spes es tuae.</p>
+    <p>Senat. 3. Sit ista felix patriae laurus tuae,</p>
+    <p>Augendo fines imperi auxisti decus.</p>
+    <p>≤line=190≥ Senat. 4. Sic vive Princeps, Roma devictos tibi</p>
+    <p>Jam debet hostes, &amp; decus debet novum.</p>
+    <p>Con. Triumphet ergo Crispus, hoc Romae placet.</p>
+    <p>Placet ne patres? Senat 1. Debitus Nati est tui</p>
+    <p>Meritis triumphus, Roma victorem colat.</p>
+    <p>≤line=195≥ Senat. 2. Etiam triumphum subditę Gentes darent,</p>
+    <p>Det Roma Crispo. Senat. 3. Debitum poscit sibi</p>
+    <p>Virtus triumphum, Roma nil Crispo neget.</p>
+    <p>Senat. 4. Triumphet, illum Roma decoratis colat</p>
+    <p>Vectum quadrigis, omnium plausus ferat.</p>
+    <p>≤line=200≥ Cri. Amor iste vester gratus est, Proceres, mihi;</p>
+    <p>Etiam mereri, si quid est ultra, velim.</p>
+    <p>Permitte, Genitor, rursus in bellum ferar.</p>
+    <p>Con. Prius triumpha dum licet; cum sol dies</p>
+    <p>Binos ab ortu duxerit, curru arduus</p>
+    <p>≤line=205≥ Intrabis urbem gemmeo, &amp; plausum feres.</p>
+    <p>Sic est decorum; miles ad portam tuus</p>
+    <p>Subsistat omnis, praemia exspectet sua.</p>
+    <p>≤page=87≥</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Milites Crispi.</p>
+    <p>EXorere dies laeta triumphi,</p>
+    <p>Meritos referat Crispus honores.</p>
+    <p>≤line=210≥ Jam sua sternit flumina Rhenus,</p>
+    <p>Albisque suas subdidit undas.</p>
+    <p>Germana jugum recipit Tellus,</p>
+    <p>Et Teuto potens porrigit herbam.</p>
+    <p>Domuere feras fuimina Gentes</p>
+    <p>≤line=215≥ Romanis vibrata lacertis.</p>
+    <p>Non vagus errat Marsus in agris,</p>
+    <p>Et sua liquit castra Cheruscus.</p>
+    <p>Clausus latitat Cattus in undis,</p>
+    <p>Odit victus praelia Frisius.</p>
+    <p>≤line=220≥ Exorere dies laeta triumphi,</p>
+    <p>Meritos referat Crispus honores.</p>
+    <p>Cives, Cives spectate Ducem</p>
+    <p>Et serta Duci laurea vestro</p>
+    <p>Reddite, pateant templa triumpho,</p>
+    <p>≤line=225≥ Pateant festâ luce penates.</p>
+    <p>Ponat gelidum Roma timorem,</p>
+    <p>Geminent laetos omnia plausus,</p>
+    <p>Virtus Crispi sustulit hostes.</p>
+    <p>Victore jugum recipit Crispo</p>
+    <p>≤line=230≥ Quidquid nostras tempsit habenas.</p>
+    <p>Exorere dies laeta triumphi,</p>
+    <p>Meritos referat Crispus honores.</p>
+    <p>≤folio=F4≥</p>
+    <p>≤page=88≥</p>
+    <p>Dux ille suis inclytus armis,</p>
+    <p>Et clementi fronte decorus</p>
+    <p>≤line=235≥ Marte rebelles terruit oras,</p>
+    <p>Lenis duros populos vicit.</p>
+    <p>Illum virtus agmine medio</p>
+    <p>Dubijs semper fovit in armis.</p>
+    <p>Illi faciles favêre poli,</p>
+    <p>≤line=240≥ Et porrexit Numen ab alto</p>
+    <p>Partas pauco sanguine lauros.</p>
+    <p>Tantum pietas sincera potest,</p>
+    <p>Pro qua vigilans militat Aether.</p>
+    <p>Tantumque queunt conscia recti</p>
+    <p>≤line=245≥ Pectora, calidis quando votis</p>
+    <p>Sydera pulsant. Quisquis honores</p>
+    <p>Per bella petunt, Numen amicum</p>
+    <p>Habeat primum, moribus inde</p>
+    <p>Martia jungat bella decoris,</p>
+    <p>≤line=250≥ Aether lauros supera fundet</p>
+    <p>De sede novas, nunquam poterit</p>
+    <p>Superare pios barbarus hostis.</p>
+    <p>Exorere dies laeta triumphi,</p>
+    <p>Meritos referat Crispus honores.</p>
+    <p>≤line=255≥ Vincet laudem Crispus avorum,</p>
+    <p>Meritis fiet parque parenti,</p>
+    <p>Decus Imperio reddet avitum</p>
+    <p>Et, Roma, tuas proferet oras.</p>
+    <p>Nullas ponit generosa sibi</p>
+    <p>≤line=260≥ Virtus metas, tramite longo</p>
+    <p>Celsam famae tendit in arcem.</p>
+    <p>Praemia quando bella sequuntur,</p>
+    <p>≤page=89≥</p>
+    <p>Recipitque suos miles honores,</p>
+    <p>Animos sumit rursus in arma.</p>
+    <p>≤line=265≥ Exorere dies laeta triumphi,</p>
+    <p>Meritos referat Crispus honores.</p>
+  </div>
+  <div type="level2" xml:id="actvs-secvndvs.">
+    <head>ACTVS SECVNDVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-prima.-1">
+    <head>SCENA PRIMA.</head>
+    <p>Fausta Imp. Nutrix.</p>
+    <p>FAUSTA.</p>
+    <p>QVaecunque vulnus pectore occluso gerit,</p>
+    <p>Et sauciatas igne violento fibras,</p>
+    <p>Misera est; at illae quae suum vulnus tegit,</p>
+    <p>≤line=270≥ Et quae dolori pressa succumbit suo</p>
+    <p>Miserior est. O, Anime, jam victus jaces,</p>
+    <p>Tuumque nutris vulnus, &amp; moreris tibi.</p>
+    <p>Ardes, &amp; haeres; totus in flammas abis,</p>
+    <p>At adhuc superstes vivis, &amp; vivens peris.</p>
+    <p>≤line=275≥ Seu sol renatum tollat Oceano diem,</p>
+    <p>Seu luna natum pallida extinguat diem,</p>
+    <p>Suspiro misera, nec meo affulget placens</p>
+    <p>Medicina morbo: lachrymae tantum in genas</p>
+    <p>Currunt perennes, &amp; novo pectus salit</p>
+    <p>≤line=280≥ Tremore semper. Anime, quam miserum est mori</p>
+    <p>Dolore lento, gratus est quando dolor!</p>
+    <p>Utinam sepulchro condita, atque inter leves</p>
+    <p>Vagarer umbras! morior &amp; vivo simul,</p>
+    <p>Et una mortem, &amp; una fert vitam quoque.</p>
+    <p>≤folio=F5≥</p>
+    <p>≤page=90≥</p>
+    <p>≤line=285≥ Heu flamma cordis. O Amor quantum potes,</p>
+    <p>Quando medullas igne secreto rapis!</p>
+    <p>Nut. Augusta, cur te turbido motu premens</p>
+    <p>Animum dolore saucias? Fau. Causa est mali</p>
+    <p>Praesentis ingens. Nut. Esse non potest malum,</p>
+    <p>≤line=290≥ Cum cuncta votis laeta succedunt tuis.</p>
+    <p>Fau. Quae laeta votis? Nut. Crispus auspicijs patris.</p>
+    <p>Victor reversus; ipsa vidisti, ut gerit,</p>
+    <p>Sublime pectus? frontis ut latae decus,</p>
+    <p>Vultus serenos, oraque, &amp; roseas genas</p>
+    <p>≤line=295≥ Ostendit urbi? Fau. Nascitur meus hinc dolor.</p>
+    <p>Nut. Cum victor auxit patris imperium, doles?</p>
+    <p>Et cum triumphos Crispus expectat, doles?</p>
+    <p>Fau. Utinam triumphet matre subjectâ prius.</p>
+    <p>Nut. Victis triumphos hostibus Caesar dabit,</p>
+    <p>≤line=300≥ Haec una causa est; meruit emeritus labor,</p>
+    <p>Et pectus altum, &amp; indoles magnae capax</p>
+    <p>Virtutis. Aevo major est Crispus suo,</p>
+    <p>Generosus, alacer, fortis, invictus. Quid est?</p>
+    <p>Iterumne vultus imbre defoedas tuos?</p>
+    <p>≤line=305≥ An invideret filio mater potes?</p>
+    <p>Fa. Utinam invideret non mihi. Nu. Numquam tibi,</p>
+    <p>Tibi invidere non potest, qui sic te amat.</p>
+    <p>Fau. Utinamque amaret, tangis hic votum meum.</p>
+    <p>Nut. Dubitas? at Vrbis Crispus est Orbisque amor,</p>
+    <p>≤line=310≥ Odisse quenquam non potest, quem omnes amant.</p>
+    <p>Amare Crispum tu quoque ut Natum potes,</p>
+    <p>Etiamque debes. Fau. Hunc amo, Nutrix, amo.</p>
+    <p>O si in parentis Crispus amplexum ruat!</p>
+    <p>O si calores cordis extinguat mei!</p>
+    <p>≤page=91≥</p>
+    <p>≤line=315≥ O si! Nut. Quid ergo est? saucium pectus geris,</p>
+    <p>Et ustulatas vulnerat fibras amor?</p>
+    <p>Domina resiste, turbidam mentem rapit</p>
+    <p>Male sanus ardor; pectore excludas tuo.</p>
+    <p>Quae non resistit ipsa se praedam facit,</p>
+    <p>≤line=320≥ Seroque nollet ferre, quod subijt jugum.</p>
+    <p>Fa. Suave est amare quod placet. Nu. Quando decet.</p>
+    <p>Fau. Decet placere quod potest. Nut. Quando pudor</p>
+    <p>Permittit, &amp; lex. Fau. Lege metiri cupis</p>
+    <p>Nostros amores? Nut. Sic decet, quod lex vetat,</p>
+    <p>≤line=325≥ Et quod recusat generis humani pudor,</p>
+    <p>Turpe est. Fau. Amare non potest Natum parens?</p>
+    <p>Nut. Amare Natum ut conjugem nunquam potest.</p>
+    <p>Fau. At ipse nostras igne succendit fibras.</p>
+    <p>N. Extingue, reprime. F. Cum premo, accendo magis,</p>
+    <p>≤line=330≥ Oberrat oculis Crispus, atque oculos movet,</p>
+    <p>Et has in ulnas semper, atque in has manus</p>
+    <p>Recurrit ultro. Seu diem Phoebus ferat,</p>
+    <p>Seu nox quietem, Crispus est matri dies,</p>
+    <p>Quiesque Crispus, omnia est Crispus mihi:</p>
+    <p>≤line=335≥ In ore vox est, mentis idolum est meae.</p>
+    <p>Nut. Tantum resistas, mentis excutias tuae</p>
+    <p>Vanos labores: posse quod fieri negat</p>
+    <p>Ratio, repelle. Fau. Non habet ratio locum,</p>
+    <p>Cum pectus ardor Veneris &amp; mentem rapit.</p>
+    <p>≤line=340≥ Nut. Ratione mentem regere sed debes tamen.</p>
+    <p>Fau. Amor ipse mentem jam regit, totam abripit,</p>
+    <p>Totam revellit; crede, jam non sum mea.</p>
+    <p>Nut. O si hos amores audiat Crispus tuos!</p>
+    <p>Fau. Forsan favebit. Nut. Fugiet, &amp; Patris domum</p>
+    <p>≤page=92≥</p>
+    <p>≤line=345≥ Ultro relinquet. Fau. Ipsa fugientem sequar.</p>
+    <p>Gratum est amantem quo ferunt pedes sequi.</p>
+    <p>Nut. Tuum relinques conjugem? Fau. Non est opus.</p>
+    <p>Arcana semper sedis Augustae latent.</p>
+    <p>Nut. Arcana, crede, semper Aularum patent,</p>
+    <p>≤line=350≥ Peccare furtim Principes nunquam queunt,</p>
+    <p>Patet Aula cunctis; omnium, quod rex agit,</p>
+    <p>Oculi intuentur. At Deum saltem time.</p>
+    <p>Fau. Cum victa mens est, facilis indulget Deus,</p>
+    <p>Sequor furorem mentis, &amp; vincor mihi.</p>
+    <p>≤line=355≥ Nut. Vereare famam. Fau. Non solent famam Duces</p>
+    <p>Unquam vereri, quod volunt, illis putat</p>
+    <p>Licere vulgus. Nut. Domina, ne tantum tuo</p>
+    <p>Credas furori, stirpis opprobrium tuae</p>
+    <p>Hinc excitabis, fabulam vulgo dabis,</p>
+    <p>≤line=360≥ Iramque sponso Caesari accerses gravem.</p>
+    <p>Famam, Deumque, &amp; Caesarem, &amp; Romam time.</p>
+    <p>Haec cuncta mentis facinus offendet tuae.</p>
+    <p>Per istud oro pectus, &amp; charos mihi</p>
+    <p>Semper lacertos, per tuum nomen precor,</p>
+    <p>≤line=365≥ Compesce amorem. Fau. porrige huc ferrum mihi,</p>
+    <p>Compescam amorem, morte nam solâ potest,</p>
+    <p>Et ense vinci; nec recuso jam mori.</p>
+    <p>Nut. Ecce in furorem pectus effraenum cadit,</p>
+    <p>Moderare pectus, Domina, da spatium tibi,</p>
+    <p>≤line=370≥ Mora saepe tollit, ante quod suasit furor.</p>
+    <p>At ecce Crispus; quod decet, mentem preme,</p>
+    <p>Namque est pudicus, innocens, castus, pius.</p>
+    <p>Fau. O ille quantas ingerit flammas mihi!</p>
+    <p>Succumbo, Nutrix, &amp; mihi pectus labat.</p>
+    <p>≤page=93≥</p>
+  </div>
+  <div type="level2" xml:id="scena-secunda.-1">
+    <head>SCENA SECUNDA.</head>
+    <p>Crispus, Fausta.</p>
+    <p>CRISPVS.</p>
+    <p>≤line=375≥ COEli Monarcha, tuque quae magni es parens</p>
+    <p>Virgo Tonantis, alterum Numen mihi,</p>
+    <p>Et spes laborum, dum tuas gratum fero</p>
+    <p>Munus per aras, &amp; pius grates ago,</p>
+    <p>Fave obsequenti. Tu mihi apportas decus,</p>
+    <p>≤line=380≥ Quod jam triumpho Roma congesto parat.</p>
+    <p>Per te subegi, quicquid accessit patri,</p>
+    <p>Et inter arma Numen expertus tuum</p>
+    <p>Fudi rebelles. Fau. Crescit in venis amor.</p>
+    <p>Cri. In te redundat, quicquid est gestum prius.</p>
+    <p>≤line=385≥ Et quod mereri forsan applausum potest.</p>
+    <p>In me triumphas, non ego, tota haec tua</p>
+    <p>Sit, Christe, pompa, victor es, vici tuâ</p>
+    <p>Adjutus aurâ. Fau. tanta me pietas trahit,</p>
+    <p>Novosque in ignes mente confusam rapit.</p>
+    <p>≤line=390≥ Cri. Unum oro, Christe, quam gero mentem rege,</p>
+    <p>Illudque legi pectus addictum tuae</p>
+    <p>Serva benignus. Castus armorum sequar</p>
+    <p>Omen tuorum, &amp; innocens vivam tibi</p>
+    <p>Seu bella rursus has meas poscant manus,</p>
+    <p>≤line=395≥ Seu patris Aulae regimen in partem vocet.</p>
+    <p>Fac pectus istud nullus immutet dolus:</p>
+    <p>Illi voluptas cedat, &amp; falso Venus</p>
+    <p>Ornata fuco; potius in mortem ruam,</p>
+    <p>Quam me vel unâ labe commaculem nocens</p>
+    <p>≤page=94≥</p>
+    <p>≤line=400≥ Fau. Eheu! amores forte contemnet meos,</p>
+    <p>Eheu! &amp; istas perferam cordis faces?</p>
+    <p>O mors, dolores rumpe, non possum amplius,</p>
+    <p>Abrumpe pectus, sola, mors, tantum potes</p>
+    <p>Lenire morbum. Crisp. Causa quae tanti est mali?</p>
+    <p>≤line=405≥ Vox haec novercae est, en suo incumbit malo.</p>
+    <p>Augusta Genitrix, imbre quid tanto mades?</p>
+    <p>Quid est? quid istos moesta singultus trahis?</p>
+    <p>Satisne salva? Fau. Nulla jam restat salus,</p>
+    <p>C Age fare, quo res in loco est? F. Misero in loco est.</p>
+    <p>≤line=410≥ Cr. Etiam in triumpho? Fau. Sit licet, per me
+    licet</p>
+    <p>De me triumpha, victa vel morti dabo</p>
+    <p>Perempta vitam. Cr. Mater. Fau. O nomen grave!</p>
+    <p>Relinque nomen, inde non venit salus.</p>
+    <p>Cris. Sinistra num sors Caesarem Patrem premit</p>
+    <p>≤line=415≥ Victore Nato? Fau. Me tuam matrem premit.</p>
+    <p>Cr. Quod crimen Aulae est F. Aula non crimen facit.</p>
+    <p>Intus laboro. Faxit aetherus Tonans</p>
+    <p>Abrupta Manes inter obscuros ferar.</p>
+    <p>Ingrata vita est, danda vel per te est salus.</p>
+    <p>≤line=420≥ Cri. Per me? Fau. Parentem diligis si me tuam.</p>
+    <p>Cris. Placere matri summa laus semper mihi est.</p>
+    <p>Jube quod optas, morte, sic testor Polum,</p>
+    <p>Nostrâ salutem, qua licet, matri adferam.</p>
+    <p>Pro te arma rursus induam, pro te offeram</p>
+    <p>≤line=425≥ Hoc pectus armis; pone me quâ sol rotis</p>
+    <p>Adurit agros, proximum Eo ô solum,</p>
+    <p>Aut quâ reducto non viret Tellus die,</p>
+    <p>Tua jussa semper corde flammato sequar.</p>
+    <p>Fau. Tua ista charum te mihi virtus facit</p>
+    <p>≤page=95≥</p>
+    <p>≤line=430≥ Generose Crispe, faxit in laudem tua</p>
+    <p>Assurgat aetas semper, &amp; referat Patrem.</p>
+    <p>In te ille vivit, indolemque in te Patris,</p>
+    <p>Quae Flaviorum Gentis excelsae est, amo.</p>
+    <p>At heu, dolore saucia extremo meis</p>
+    <p>≤line=435≥ Succumbo lachrymis. C. Fare, quis tandem est
+    dolor?</p>
+    <p>Fau. Matris dolorem scire ne, Fili, velis.</p>
+    <p>C. Etiam opto, Mater, ut juvem. F. Crispe, hoc potes.</p>
+    <p>Cri. Age ergo, fare, nullus ignoto malo</p>
+    <p>Adfert medelam. Fau. Ferre tu solus potes.</p>
+    <p>≤line=440≥ Cri. Promitto, pro te nam mihi est votum mori,</p>
+    <p>Si sit necesse. Fau. Crispe, si matrem me amas,</p>
+    <p>Etiam iuvabis. Cri. Dubius haud meus est amor. ˂ invabis</p>
+    <p>Parere possum, tu jube. Fau. Nulla est opus</p>
+    <p>Hic morte pro me. Rursus insurgit dolor,</p>
+    <p>≤line=445≥ Et concitatus lancinat pectus tremor.</p>
+    <p>Lachrymae loquuntur pectoris moti malum</p>
+    <p>O Crispe! moestam, quâ licet, matrem juva.</p>
+    <p>Cri. Juvabo, tantum liceat. Fau. Huc intro subi.</p>
+    <p>Soli patere nam tibi debet dolor,</p>
+    <p>≤line=450≥ Alios latere. Cri. Perge, te, Mater sequor.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.-1">
+    <head>SCENA TERTIA.</head>
+    <p>AULICUS SENEX.</p>
+    <p>HIc cuncta vereor, nec satis constans sibi</p>
+    <p>Praesagit animus multa. Vixisse hactenus</p>
+    <p>Satis est in Aula; lubrica hîc saevos facit</p>
+    <p>Fortuna ludos; Aula multorum est parens</p>
+    <p>≤page=96≥</p>
+    <p>≤line=455≥ Semper malorum, rarus hic casto est locus</p>
+    <p>Unquam pudori, nec fides certam tenet</p>
+    <p>Jurata sedem; fraudibus semper patent</p>
+    <p>Aurata Regum tecta; qui fidit parum</p>
+    <p>Beatus ille est, cordis atque oris gravis</p>
+    <p>≤line=460≥ Discordia hic est, namque simulato fluunt</p>
+    <p>Ab ore verba, &amp; imprecantur tunc malè</p>
+    <p>Bene cum precantur; servitia fictus crepat</p>
+    <p>Amore vultus, odia sed latens fovet</p>
+    <p>Animus severa. Si quid est actum benè</p>
+    <p>≤line=465≥ Levis sequetur gratia; at si quid malè,</p>
+    <p>Oftensa grandis. Cuncta metitur favor</p>
+    <p>Non merita vitae; vera si perstes loqui.</p>
+    <p>Tibi nocebis, veritas Aula exulat.</p>
+    <p>Si grata, fies gratus; in vultu est Ducis</p>
+    <p>≤line=470≥ Modus loquelae, perditur verbo favor</p>
+    <p>Saepe omnis uno. Hîc una res constans manet,</p>
+    <p>Servire semper, aggredi quod non placet,</p>
+    <p>Videre multa &amp; invidere plurima.</p>
+    <p>Canum intueri verticem rarum est bonum,</p>
+    <p>≤line=475≥ Vix hic senescit ullus, aut dolo cadit,</p>
+    <p>Aut se ipse perdit. Vereor ut Crispum malè</p>
+    <p>Fortuna mulctet; fraudis ignara aulicae est</p>
+    <p>Juvenilis aetas; ista non placet parens.</p>
+    <p>Ut verba ficto languida emittit sono?</p>
+    <p>≤line=480≥ Fraus in dolore est, non dolet, quae sic dolet.</p>
+    <p>Decipere semper foeminae flendo solent.</p>
+    <p>Fraus est in ore, retia innectit loquens,</p>
+    <p>Attrahere blandis foeminae verbis solent.</p>
+    <p>Fraus est in oculis, laedit aspectu intuens.</p>
+    <p>≤page=97≥</p>
+    <p>≤line=485≥ Nam vulnerare foeminae aspectu solent.</p>
+    <p>Quis hic tumultus? Crispe, jam timeo tibi.</p>
+    <p>Errare in Aulâ facilè non cautus potest.</p>
+  </div>
+  <div type="level2" xml:id="scena-quarta.-1">
+    <head>SCENA QUARTA.</head>
+    <p>Fausta, Crispus, Aulicus, Nutrix.</p>
+    <p>FAUSTA.</p>
+    <p>ETiam recedis? nil dabis? Cri. Mater nihil,</p>
+    <p>Tolle exsecrandum facinus, infandas preces</p>
+    <p>≤line=490≥ Male sana linque. Fau. Pectus hoc saltem precor</p>
+    <p>Transadige ferro, jam mori, certum est mori.</p>
+    <p>Superbe, matrem perimis, &amp; victor fugis?</p>
+    <p>Adde addę mortem torve, cui vitam negas.</p>
+    <p>O Crispe, Crispe? Cri. Deficit. Fau. Solum manum</p>
+    <p>≤line=495≥ Da Crispe. Cri. Tollam; forte peccaret furor</p>
+    <p>Vesanus in se. Surge composito decet</p>
+    <p>Animo quiescas, Natus in thalamum Patris</p>
+    <p>Penetrabo nunquam; tolle non castas manus,</p>
+    <p>Ne tange castum, Aul. Vah Tonans ecquod scelus!</p>
+    <p>≤line=500≥ Fau. Ferrum hoc relinques, hoc tui spolium quoque.</p>
+    <p>Cri. Fuge, Crispe, satis est, integer tibi est pudor.</p>
+    <p>Fau. O moriar! O ô moriar! O ô sol tuos</p>
+    <p>Jam tolle radios, tolle flammatum jubar,</p>
+    <p>Pellenda ferro est vita, quam Crispus malè</p>
+    <p>≤line=505≥ Mihi reliquit. O Tonans vixi satis,</p>
+    <p>Ulciscar istud quodquod est ferro malum,</p>
+    <p>Aggredere, dextra, robur incassum cadit,</p>
+    <p>O fida Nutrix! Nut. Domina, ne peccet furor.</p>
+    <p>≤folio=G≥</p>
+    <p>≤page=98≥</p>
+    <p>Depone ferrum, Fau. Quicquid, heu! vitae mihi est</p>
+    <p>≤line=510≥ Abrumpe, Nutrix, sola mors nostra est salus.</p>
+    <p>Nut. Assurge, Domina, non decet ferro hic tuam</p>
+    <p>Tentare vitam, Caesar est ultor tibi,</p>
+    <p>Subi in penates, recreet mentem quies.</p>
+    <p>Aul. Nempe hoc verebar, semper in luctum cadit</p>
+    <p>≤line=515≥ Laetitia magnae sedis; involuet scelus</p>
+    <p>Forte innocentem. Foeminae haud turpem pati</p>
+    <p>Possunt repulsam, protinus surgit dolor:</p>
+    <p>Nec usitatâ fraude vindictam petunt.</p>
+    <p>Iras amori saepe conjungunt suo</p>
+    <p>≤line=520≥ Si quis repellat, &amp; necem tantum volunt.</p>
+    <p>Irata mulier pessima est mundi lues.</p>
+    <p>Si sit noverca, sceleris est omnis capax.</p>
+    <p>Sed ibo, rursus cuncta ut explorem decet.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Honorariorum Puerorum &amp; Puellarum.</p>
+    <p>VT semper aequor turbidis,</p>
+    <p>≤line=525≥ Hinc inde surgit fluctibus,</p>
+    <p>Quando unda pulsat aethera,</p>
+    <p>Et rursus in fundum cadit.</p>
+    <p>Sic Aula vix motu caret;</p>
+    <p>Vel livor urget, vel timor,</p>
+    <p>≤line=530≥ Libido vel motus ciet.</p>
+    <p>Sic inquieto Principes</p>
+    <p>Fruuntur aevo, sic sibi</p>
+    <p>Ambitio semper est gravis,</p>
+    <p>≤page=99≥</p>
+    <p>Et Aula ceu mons celsior</p>
+    <p>≤line=535≥ Turbatur undique flatibus.</p>
+    <p>Quicunque tranquillam cupit</p>
+    <p>Vitam beatè degere</p>
+    <p>Remotus Aulam deserat.</p>
+    <p>Est Aula fortunae domus,</p>
+    <p>≤line=540≥ Hic illa ludit insolens,</p>
+    <p>Hos tollit, illos deprimit,</p>
+    <p>Volutat atrox omnia.</p>
+    <p>Est Aula splendida servitus:</p>
+    <p>Hîc sustinent omnes jugum,</p>
+    <p>≤line=545≥ Servitur uni ab omnibus,</p>
+    <p>Et serviunt omnes sibi.</p>
+    <p>Est Aula miseriae Domus,</p>
+    <p>Omnes gemunt dum serviunt,</p>
+    <p>Omnes gemunt quando ambiunt,</p>
+    <p>≤line=550≥ Omnes gemunt quando invident.</p>
+    <p>Pietas fidesque hinc exulant,</p>
+    <p>Sinceritas hîc fallitur,</p>
+    <p>Et veritas expellitur.</p>
+    <p>Simulatio regnum tenet,</p>
+    <p>≤line=555≥ Libido leges explicat,</p>
+    <p>Livor resistit omnibus.</p>
+    <p>Sub purpurâ labes latent,</p>
+    <p>Et vitia fasces occulunt.</p>
+    <p>Ambitio non servat modum,</p>
+    <p>≤line=560≥ Et fine dum certo caret,</p>
+    <p>Se perdit, atque in se perit.</p>
+    <p>Hic innocens deluditur,</p>
+    <p>Hic optimus contemnitur.</p>
+    <p>≤folio=G2≥</p>
+    <p>≤page=100≥</p>
+    <p>Augere qui potest opes,</p>
+    <p>≤line=565≥ Et sese honore tollere;</p>
+    <p>Apud Aulicos solus sapit.</p>
+    <p>Contemptor hîc non est opum,</p>
+    <p>Delusa paupertas gemit,</p>
+    <p>Et vilis est quisquis pius.</p>
+    <p>≤line=570≥ Affectibus qui temperat,</p>
+    <p>Violentus hic se negligit.</p>
+    <p>Licere credunt, quod placet,</p>
+    <p>Quòd jus vetat durum &amp; grave est,</p>
+    <p>Et vindicare qui potest,</p>
+    <p>≤line=575≥ Hic solus est Heros Potens.</p>
+    <p>Favor gubernat omnia,</p>
+    <p>Multum meretur qui placet,</p>
+    <p>Et celsa virtus displicet.</p>
+    <p>Hîc retia obtendit dolus</p>
+    <p>≤line=580≥ Capiuntur illis qui boni.</p>
+    <p>Et fraude dum serpit malum,</p>
+    <p>Juvenilis aetas fallitur.</p>
+    <p><hi rendition="simple:bold">Finis triumphi luctus est,</hi></p>
+    <p>Et gaudiorum meta mors.</p>
+    <p>≤line=585≥ O, Crispe, metuimus tibi,</p>
+    <p>Fortuna ne te subruat,</p>
+    <p>Tibi quae triumphum praeparat.</p>
+    <p>Metuendus Aularum est favor</p>
+    <p>Tunc; quando blanditur nimis.</p>
+    <p>≤line=590≥ Ridendo fortuna opprimit</p>
+    <p>Timenda semper cum favet.</p>
+    <p>≤page=101≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-tertivs.">
+    <head>ACTVS TERTIVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-prima.-2">
+    <head>SCENA PRIMA.</head>
+    <p>Crispus, Aulicus.</p>
+    <p>CRISPVS.</p>
+    <p>ACtum est, triumphos invida evertit meos</p>
+    <p>Fortuna; quid agam? frigido inserpit gelu</p>
+    <p>Totos per artus horror, &amp; mentem pavor</p>
+    <p>≤line=595≥ Quatit trementem. Magne coelorum parens</p>
+    <p>Tu solus istos cordis innocui vides</p>
+    <p>Judex recessus, lumine aeterno notas</p>
+    <p>Quicquid latebris abditum obscuris latet.</p>
+    <p>Te fraude nullâ pectus humanum potest</p>
+    <p>≤line=600≥ Decipere, sontes cernis, insontes vides,</p>
+    <p>Latere culpa Numinis lumen tui,</p>
+    <p>Obscura quanquam, non potest; si sum nocens</p>
+    <p>Age, congregatos rumpe nimborum globos,</p>
+    <p>Et fulmen istud pectus excipiat tuum.</p>
+    <p>≤line=605≥ Submitto clarum verticem, coelum tonet,</p>
+    <p>Et quicquid in me est coelicae effringant faces,</p>
+    <p>Nullum recuso fulmen, in flammas eat</p>
+    <p>Vel totus Aether. Istud ut dirum nefas,</p>
+    <p>Ut facinus istud sceleris incesti hauserim?</p>
+    <p>≤line=610≥ Sacrum ut parentis corde polluto thorum</p>
+    <p>Violasse dicar? Nempe, qui Ponti vias,</p>
+    <p>Audax subivi, quique calcavi pede</p>
+    <p>Cruoris alti gurgites, aestum &amp; nives</p>
+    <p>≤folio=G3≥</p>
+    <p>≤page=102≥</p>
+    <p>Perpessus idem ferreas inter manus,</p>
+    <p>≤line=615≥ Qui dura populis bella longinquis ferens</p>
+    <p>Rubui cruore non semel sparsus meo,</p>
+    <p>Polluere vellem Venere damnatâ thoros?</p>
+    <p>Inter labores Martios friget Venus,</p>
+    <p>Venus est in Aulis, otio &amp; luxu simul</p>
+    <p>≤line=620≥ Nutritur illa. Quisquis horrescit gravi</p>
+    <p>Fractus labore; quisquis &amp; famem &amp; sitim</p>
+    <p>Imbresque &amp; aestum &amp; frigus, &amp; pondus grave</p>
+    <p>Patitur sub armis non potest blando capi</p>
+    <p>Veneris amore. O saeculi monstrum tui</p>
+    <p>≤line=625≥ Fausta impudica! Aul. Pectore oppresso stupet,</p>
+    <p>Et sensus haeret, casta mens nescit pati</p>
+    <p>Famae ruinam. Cri. Crispe quo vertes gradum?</p>
+    <p>Jam vile nomen est tuum, &amp; quanquam innocens,</p>
+    <p>Nocens vocaris, foedus, impurus, reus.</p>
+    <p>≤line=630≥ O Astra! non sum, pectus hoc culpâ caret,</p>
+    <p>Fraus est novercae; gloriae semper fui</p>
+    <p>Ingens sititor, nec fuit quicquam mihi</p>
+    <p>Charum sub armis praeter hoc nomen Ducis.</p>
+    <p>Si vultus iste, torvus atque hirtus tamen,</p>
+    <p>≤line=635≥ Placuit Novercae, pectoris nulla est mei</p>
+    <p>Damnanda labes, traxit in culpam parens</p>
+    <p>Humanitatis quicquid affulsit meae.</p>
+    <p>O Roma, qualem jam tuum Crispum putas?</p>
+    <p>Aul. Curare semper innocens famam solet,</p>
+    <p>≤line=640≥ Clarumque nomen; ecce succumbit sibi.</p>
+    <p>Laesoque tremulos corde singultus trahit.</p>
+    <p>Cri. O anime, quid nunc? impius passim vocor,</p>
+    <p>Pius in novercam dum fui. Spero tamen</p>
+    <p>≤page=103≥</p>
+    <p>Insons timere non potest; damnet Pater</p>
+    <p>≤line=645≥ Et in hunc secures verticem stringat suas,</p>
+    <p>Ignarus, insons moriar, hoc solatium est.</p>
+    <p>Deus innocentes deserit nunquam viros.</p>
+    <p>Neget triumphum Caesar, in coelo Tonans</p>
+    <p>Dabit triumphum. Quo tamen? Aul. Dum spes subit</p>
+    <p>≤line=650≥ Iterum in dolores labitur pectus suos,</p>
+    <p>Nec sponte lachrymae lumina invito cadunt.</p>
+    <p>Cri. Spes est triumphi lapsa, mors tantum manet,</p>
+    <p>O Crispe, fugies? exul errabis, vagus,</p>
+    <p>Extorris? ô sors! ut Patrem linquas tuum?</p>
+    <p>≤line=655≥ Ut Patriam? fuge attamen, fuge improbam,</p>
+    <p>Fuge impudicam, castra te servent tua.</p>
+    <p>Dicenda si sit causa nil timeo innocens.</p>
+    <p>Aul. Excedit, &amp; se militi credit suo.</p>
+    <p>Haec sors in Aula est, innocens hîc fit reus</p>
+    <p>≤line=660≥ Crimenque sontes deferunt, fors una lux</p>
+    <p>Tot jam per annos inclytum perdet decus,</p>
+    <p>Perdet triumphum. Fronte cum blandâ jocos</p>
+    <p>Fortuna miscet, exitum semper time.</p>
+    <p>Turbatur Aula, murmur obscurum omnium est,</p>
+    <p>≤line=665≥ Timent &amp; haerent, suspicantur &amp; dolent.</p>
+    <p>Non una mens est omnium, ancipiti trahunt</p>
+    <p>Animo dolores. Hic ait, Fausta est rea,</p>
+    <p>Animo impudicas impio occultat faces.</p>
+    <p>Contenta non est Caesaris tantum thoro.</p>
+    <p>≤line=670≥ Lasciva forma est, lumina involuunt dolos.</p>
+    <p>Facile, inquit alius, decipit juvenem Venus,</p>
+    <p>Haec ardet aetas, quod placet facile arripit</p>
+    <p>Et dum voluptas ignibus pectus coquit</p>
+    <p>≤folio=G4≥</p>
+    <p>≤page=104≥</p>
+    <p>Ruit in ruinam. Sic timent, &amp; quod timent,</p>
+    <p>≤line=675≥ Incerta dum sunt omnia, ignorant tamen.</p>
+    <p>At ecce Caesar, quantus in vultu est furor!</p>
+  </div>
+  <div type="level2" xml:id="scena-secunda.-2">
+    <head>SCENA SECUNDA.</head>
+    <p>Constantinus Imp. Constantinus Consul,</p>
+    <p>Aulicus.</p>
+    <p>CONSTANTINVS IMP.</p>
+    <p>QUid est? ut ecce totus in flammas eo</p>
+    <p>Irascor, &amp; mens vix suum motum capit.</p>
+    <p>Ipse haereo in me, pectora occluso labant</p>
+    <p>≤line=680≥ Stupefacta sensu, vox silet, vultus cadit.</p>
+    <p>Ubi sum? tumultu concitor totus novo,</p>
+    <p>Despero, spero, doleo, &amp; indignans fremo.</p>
+    <p>Quae fama Crispe est? Roma quo laedit meum</p>
+    <p>Rumore sceptrum? turbor &amp; motus mei</p>
+    <p>≤line=685≥ Ignoro causam. Aul. Sat scies causam cito.</p>
+    <p>Const. O Crispe, forsan hos tuo Patri facis</p>
+    <p>Nocens dolores, forsan hos Conjux facit.</p>
+    <p>Ignarus erro, &amp; doleo, &amp; irascor mihi,</p>
+    <p>Et ipse Caesar lachrymor. Fili quid est?</p>
+    <p>≤line=690≥ O Crispe, Crispe, Crispe quo Patrem trahis!</p>
+    <p>Quae fama de te est? murmurant omnes, dolent,</p>
+    <p>Et me intuentur. Aul. Culpa quaecunque est, tibi</p>
+    <p>Pariet dolores, nam decus tangit tuum.</p>
+    <p>Const. Quis hic? quis istâ voce respondet mihi?</p>
+    <p>≤line=695≥ Aul. Tuus minister Caesar. Const. Ut vultus jacet?</p>
+    <p>Aul. Pudet. Const. Pudoris causa quae tandem est tui?</p>
+    <p>≤page=105≥</p>
+    <p>Aul. Tu Caesar es, me miseret Augustae Domus.</p>
+    <p>Const. Expone causam, Aul. non sinit fari pudor,</p>
+    <p>Augusta dicet. Const. Nunc ubi est. Consul. Clausa est domi,</p>
+    <p>≤line=700≥ Vitam dolores inter incertam trahit. Succurre, Caesar,
+    conjugi, &amp; domui tuae.</p>
+    <p>Sese ipsa laesam Roma deplorat tua.</p>
+    <p>Vis facta honori est, &amp; pudor raptus gemit,</p>
+    <p>Justitia dextram Caesar implorat tuam.</p>
+    <p>≤line=705≥ Const. Vim Natus ergo fecit? Consul. Arcanum hoc
+    sui</p>
+    <p>Conjux pudoris pandet, &amp; dicet reum.</p>
+    <p>Hostes subegit, qui tuam foedat domum,</p>
+    <p>Hostisque Patri factus evertit domum.</p>
+    <p>Haec fama Romae est, plebs meos fasces movet.</p>
+    <p>≤line=710≥ Forum &amp; tribunal postulat, ne sit scelus</p>
+    <p>Impune tantum. Caesar en prodit tua</p>
+    <p>Augusta conjux, ore dejecto suam</p>
+    <p>Agit ipsa causam, lachrymae tantum juvant.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.-2">
+    <head>SCENA TERTIA.</head>
+    <p>Constantinus, Fausta, Aulicus, Constantinus</p>
+    <p>Consul, Nutrix.</p>
+    <p>CONSTANTINVS.</p>
+    <p>O chara Conjux, livido ut vultu jaces?</p>
+    <p>≤line=715≥ Ut moesta tremulo corde singultus trahis?</p>
+    <p>Age, fare, Nut. Vocem mutus exciudit dolor,</p>
+    <p>Confusa mens est, dejicit vultum pudor.</p>
+    <p>Const. Attolle vultum, veste non istâ tegas</p>
+    <p>O chara Conjux. Fau. Nomen hoc quondam fuit.</p>
+    <p>≤folio=G5≥</p>
+    <p>≤page=106≥</p>
+    <p>≤line=720≥ Const. Et remanet istud; fare, sum conjux tuus.</p>
+    <p>Fau. Meae loquuntur lachrymae. Cons. Vocem exere.</p>
+    <p>Fau. Pudet, silere quicquid est praestat mihi,</p>
+    <p>Tibique. Const. Conjux, ne sile, quod, te premit.</p>
+    <p>Fau. Perimat, prematque, est unicum votum mori</p>
+    <p>≤line=725≥ Cum raptus, eheu! Co. Quid siles? Fa. Raptus
+    pudor.</p>
+    <p>Per te, per omne quod fuit pignus mei</p>
+    <p>Amoris olim. Const. Vulnere hanc mentem enecas.</p>
+    <p>Fau. Per casta quondam pectora, heu! quondam tibi</p>
+    <p>Servata soli. Const. Prô Tonans! Caesar miser!</p>
+    <p>≤line=730≥ Fau. Per hoc amoris conscium pectus mei,</p>
+    <p>Per dexteram istam. Cons. Quid petis? Fa. Ferro hoc meum</p>
+    <p>Transadige pectus, ipsa vel rumpam manu.</p>
+    <p>Con. O vive Conjux. Fa. Casta non possum amplius,</p>
+    <p>Pudica Caesar hactenus vixi tibi,</p>
+    <p>≤line=735≥ Concede mortem. Const. Vive. Fau. Non possum
+    amplius,</p>
+    <p>Ingrata vita est cum pudor raptus jacet.</p>
+    <p>Natura retro est versa, Const. Quid nectis moras?</p>
+    <p>Effare totum. Fau. Sanguis est in me tuus,</p>
+    <p>Et mixta Proles; Crispus! Cons. Heu perij! ô Tonans!</p>
+    <p>≤line=740≥ Et Crispus istud? Fau. Vim intulit, ferro minax</p>
+    <p>Vicit pudorem, dubia sum Conjux tibi,</p>
+    <p>Permitte mortem, morte pollutum eluam.</p>
+    <p>In me pudorem: lachrymas testes vides,</p>
+    <p>Et erunt perennes lachrymae. Vitae pudet,</p>
+    <p>≤line=745≥ Averte vultum, Phoebe, jam vitae pudet.</p>
+    <p>Cons. Cohibete ferrum. Fa. Liquit hoc ferrum mihi</p>
+    <p>Rapti pudoris pignus, hanc clamydem quoque.</p>
+    <p>Abscede Nutrix, quo jacet ferro pudor</p>
+    <p>Haurire mens est sanguinem. Quid me tenes?</p>
+    <p>≤page=107≥</p>
+    <p>≤line=750≥ Si casta nequeo vivere, exopto mori.</p>
+    <p>Const. Retinete miseram. Nut. Sensibus clausis stupet,</p>
+    <p>Ut ecce pallet? mente conceptam induit,</p>
+    <p>Et ore mortem; lachrymae tantum fluunt.</p>
+    <p>Aul. Mens ficta raro est innocens, fraudes tegit.</p>
+    <p>≤line=755≥ Hi foeminarum sunt doli, cum sunt reae</p>
+    <p>Lachrymis loquuntur, &amp; mori tantum volunt.</p>
+    <p>Nut. Vix est superstes, vultus in mortem cadit,</p>
+    <p>Excedit. const. Eheu magne regnator Poli,</p>
+    <p>Et cernis istud sceleris infandi nefas?</p>
+    <p>≤line=760≥ Et Roma monstrum hoc cernis? ô lentos Poli</p>
+    <p>Ultoris ignes! Natus est hostis Patri,</p>
+    <p>Natus Parentis polluit thalamum sui,</p>
+    <p>Natus Novercam Venere damnata obruit;</p>
+    <p>Dubiumque Matris nomen &amp; sponsae facit.</p>
+    <p>≤line=765≥ Et lenta cessant fulmina? &amp; nondum tonat</p>
+    <p>Commotus aether? ipse sceleratum opprimam,</p>
+    <p>Rapite huc, Parentis sentiat sceptrum sui.</p>
+    <p>Consul Moderare Caesar impetum, cita reum,</p>
+    <p>Dicenda causa est, ordo justitiae exigit.</p>
+    <p>≤line=770≥ Sic ipse famae consules, Caesar, tuae. (exequar,</p>
+    <p>Const. Cura ista, Consul, sit tua. consu. Hanc mox exequar,</p>
+    <p>Citabo Crispum. Pro Duce opponat manus</p>
+    <p>Fortasse miles. Const. Coge vi, si vim facit.</p>
+    <p>Tu, Fausta, vive Caesaris conjux tui,</p>
+    <p>≤line=775≥ Thalamique consors. Ite, nam dandum est meo</p>
+    <p>Aliquid dolori, hic arbitris vacet locus.</p>
+    <p>Nut. Intremus ergo Domina; vix superest sibi.</p>
+    <p>≤page=108≥</p>
+  </div>
+  <div type="level2" xml:id="scena-quarta.-2">
+    <head>SCENA QUARTA.</head>
+    <p>Constantinus Imperator.</p>
+    <p>QUicunque regum sceptra mirari solet, Et istud alti verticis
+    fulgens decus,</p>
+    <p>≤line=780≥ Hodie obstupescat, meque regnantem intuens</p>
+    <p>Miserum esse dicat, quisquis est Caesar potens.</p>
+    <p>En ipse Caesar sede pollutâ rego,</p>
+    <p>En ipse Natum postulo ad poenas Pater.</p>
+    <p>Miser esse Caesar dum potest, miser est Pater:</p>
+    <p>≤line=785≥ Spes nostra Natus hactenus, spes excidit</p>
+    <p>Sperata Nati gloria opprobrium attulit.</p>
+    <p>Et haec in Aulâ Caesaris. Judex Pater,</p>
+    <p>Reusque Natus, laesa mater, &amp; mea est</p>
+    <p>Infamis Aula; causa quaecunque est, Patri est</p>
+    <p>≤line=790≥ Matrique turpis, &amp; meo Nato nocet.</p>
+    <p>Ibo ad tribunal, exuam Judex Patrem,</p>
+    <p>Natura Patrem retinet, excludit forum.</p>
+    <p>Damnare Natum debeo, tamen est meus,</p>
+    <p>Damnabo nostrum sanguinem. Quisquis cadet</p>
+    <p>≤line=795≥ Mihi peremptus occidet. Causam audient</p>
+    <p>Quicunque cives; nempe Caesareae Domus</p>
+    <p>Vitia &amp; pudendum dedecus; cuncta hic meum</p>
+    <p>Tangunt honorem, cuncta devoluunt gravem</p>
+    <p>In me dolorem. Purpurae hoc fallax decus,</p>
+    <p>≤line=800≥ Honorque sceptri est. Vivo deceptus Pater,</p>
+    <p>Mundumque fraenans proditus Caesar rego.</p>
+    <p>Mihi servit Orbis, hostis est Natus Domi;</p>
+    <p>Mea jussa Gentes audiunt, Natus thorum</p>
+    <p>≤page=109≥</p>
+    <p>Maculat parentis; regitur Impersum benè,</p>
+    <p>≤line=805≥ Domus una peccat, &amp; mea est. Mundus videt</p>
+    <p>Quondamque discent posteri; infelix ero</p>
+    <p>Fabula Nepotum. Crispe, non, non hoc mihi</p>
+    <p>Spondebat istud pectus, &amp; clarae indolis</p>
+    <p>Spes magna, fallax frontis ingenuae est fides.</p>
+    <p>≤line=810≥ Agedum resigno quicquid est in me Patris,</p>
+    <p>Poscit tribunal Judicem. Pietas tamen</p>
+    <p>Eheu, rebellat; sentio, immutor mihi.</p>
+    <p>Miserere; Pietas, inquit, est Natus tuus,</p>
+    <p>Justitia, puni, dicit, hic non est tuus.</p>
+    <p>≤line=815≥ Voluor, revoluor; rapior, &amp; dum sum pater</p>
+    <p>Nequeo esse Judex; Attamen Judex ero,</p>
+    <p>Quaeratur, adsit, pereat, exemplum dabo.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Puerorum &amp; Puellarum.</p>
+    <p>MUlier quantum est sub sole malum!</p>
+    <p>Callida struxit retia Crispo.</p>
+    <p>≤line=820≥ Juvenem cepit, decepit amans,</p>
+    <p>Improba sacros vertit amores,</p>
+    <p>Juvenisque insons induit hamum.</p>
+    <p>Sic nempe latet dulce venenum,</p>
+    <p>Pietas cum se fingit amare.</p>
+    <p>≤line=825≥ Veniunt blandis omina verbis,</p>
+    <p>Et mox adsunt tormina mentis.</p>
+    <p>Heu!heu! nimium foemina fallax!</p>
+    <p>Parcite superi! si vota juvant,</p>
+    <p>≤page=110≥</p>
+    <p>Vivat longo tempore Crispus.</p>
+    <p>≤line=830≥ Martia quaerit bella severus,</p>
+    <p>Semper rutilis laetus in armis,</p>
+    <p>Interque acies luce tremendas,</p>
+    <p>Foemineos trux despicit astus.</p>
+    <p>Heu! heu! nimium foemina fallax!</p>
+    <p>≤line=835≥ Quantos vertit ficta triumphos?</p>
+    <p>Crispo debet nobile sceptrum</p>
+    <p>Moderans terrae Caesar habenas,</p>
+    <p>Aurea referens saecula Caesar,</p>
+    <p>At nunc mulier miscuit, heu! heu!</p>
+    <p>≤line=840≥ Laeto mortem moesta triumpho.</p>
+    <p>Parcite, Superi, Crispus honorum</p>
+    <p>Praemia referat certa suorum,</p>
+    <p>Si quae forsan culpa Novercae est,</p>
+    <p>Non haec Crispi pectora tangit</p>
+    <p>≤line=845≥ Castae semper coluit juvenis</p>
+    <p>Tempora vitae. Fallax Venus est,</p>
+    <p>Improba Iudens decipit oculis,</p>
+    <p>Et mentito sermone jocans</p>
+    <p>Miseros semper fallit amantes.</p>
+    <p>≤line=850≥ Intima quando vellicat animum,</p>
+    <p>Cordisque lares igne perurit,</p>
+    <p>Fugient castae mentis honores,</p>
+    <p>Ratio cedit, sola voluptas</p>
+    <p>Tenebris animi mersa profundis,</p>
+    <p>≤line=855≥ Ubi non reperit, mella requirit.</p>
+    <p>Et mella tenens inquinat ora,</p>
+    <p>Inquinat animum; famam perdit.</p>
+    <p>Heu! heu! nimium foemina fallax!.</p>
+    <p>≤page=111≥</p>
+    <p>Si non votis laeta cupitis</p>
+    <p>≤line=860≥ Gaudeat, astus mille dolosos,</p>
+    <p>Et mille novas callida fraudes</p>
+    <p>Reperit; vafrum suscitat animum,</p>
+    <p>Et dum fingit moesta dolorem,</p>
+    <p>Et dum mortem ficta precatur</p>
+    <p>≤line=865≥ Animi culpas astuta tegit.</p>
+    <p>Heu tibi nimium Crispe timemus!</p>
+    <p>Agmina quem non Martia vincunt,</p>
+    <p>Una incautum foemina perdit.</p>
+    <p>Et saepe domi grande periclum</p>
+    <p>≤line=870≥ Invenit Heros inclytus armis.</p>
+    <p>Heu! heu! nimium foemina fallax,</p>
+    <p>Parcite, Superi, parcite Crispo.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvartvs.">
+    <head>ACTVS QVARTVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-prima.-3">
+    <head>SCENA PRIMA.</head>
+    <p>Constantinus Consul, Praefectus Vrbis.</p>
+    <p>CONSUL.</p>
+    <p>IUstitia curas consulum, &amp; dextras petit.</p>
+    <p>Servare cives munus est primum, &amp; alterum</p>
+    <p>≤line=875≥ Punire sontes: Patriae Consul suae</p>
+    <p>Consulere debet. Culpa tunc culpam trahit</p>
+    <p>Cum poena nulla est; scelera succedunt sibi</p>
+    <p>Cum sunt inulta, &amp; improbos judex facit</p>
+    <p>Non puniendo; nam licere tunc putant</p>
+    <p>≤page=112≥</p>
+    <p>≤line=880≥ Quod est inultum. Sterile vix unquam est scelus;</p>
+    <p>Agendo crescit, crescit exemplo quoque.</p>
+    <p>Laus prima Romae saeculis priscis fuit</p>
+    <p>Poenâ nocentes plectere, &amp; crescens scelus</p>
+    <p>Resecare ferro. Exempla majorum sequar.</p>
+    <p>≤line=885≥ Consul scelestos puniam, jactent licet</p>
+    <p>Stirpemque, avosque, &amp; generis illustres sui</p>
+    <p>Currus, togasque. Clarus est nemo nocens,</p>
+    <p>Peccare non est nobilis, vulgi est levis.</p>
+    <p>Jam nota Crispi est culpa, foedavit Patris,</p>
+    <p>≤line=890≥ Matrisque thalamum, Roma non patitur nefas,</p>
+    <p>Et pro triumpho juvenis incesti necem</p>
+    <p>Ultrò reposcit. Audit hoc Rector poli.</p>
+    <p>Nunquam hoc inultum Consul emittam scelus.</p>
+    <p>Praef. At natus ipse est Caesaris. Con. Plectam acrius,</p>
+    <p>≤line=895≥ Nam crimen auget ipsa nobilitas suum.</p>
+    <p>Praef. Punire rarum est nobiles, clarum genus</p>
+    <p>Excusat omnes: Judici opponunt sua</p>
+    <p>Patrumque merita. Cons. Saeculi est error novi;</p>
+    <p>Si claritate generis evadant rei,</p>
+    <p>≤line=900≥ In scelera vulgus ibit; exemplo solet</p>
+    <p>Peccare vulgus. Merita non tollunt scelus,</p>
+    <p>Meritisque semper derogat qui fit nocens.</p>
+    <p>Si qui merentur, proemio ornentur suo.</p>
+    <p>Si sint nocentes, poena delictum premat.</p>
+    <p>≤line=905≥ Haec certa nam sunt fulcra regnorum duo.</p>
+    <p>Praef. Cum viliore forsan illustres cupis</p>
+    <p>Censere vulgo. Cons. Scelera distinguunt reos,</p>
+    <p>Non stirps avorum, quisquis infligit necem,</p>
+    <p>In scelera saevit: ipsa sceleribus est comes</p>
+    <p>≤page=113≥</p>
+    <p>≤line=910≥ Persona tantum. Praef. Sed reget Caesar forum,</p>
+    <p>Reget &amp; tribunal. Consul. Ipse praeveniam, Pater</p>
+    <p>Hic esse Judex non potest; si sit tamen,</p>
+    <p>Exuere Patrem debet. Actutum moras</p>
+    <p>Praefecte rumpe, castra quae Crispus tenet,</p>
+    <p>≤line=915≥ Accede, Crispum, nam jubet Caesar, cita,</p>
+    <p>Praesto ad tribunal adsit, hic jam jam reo</p>
+    <p>Dicenda causa est. Praef. Militum vereor manus.</p>
+    <p>Cons. Si quis resistat viribus cogam meis,</p>
+    <p>Mandata portas Caesaris, cuncti audient.</p>
+    <p>≤line=920≥ P. Mox ibo. C. Perge, nostra nam causa haec quoque
+    est:</p>
+    <p>Moriente Crispo facilis ad regnum est via.</p>
+    <p>Sum primus haeres, primus &amp; Crispum sequor.</p>
+  </div>
+  <div type="level2" xml:id="scena-secunda">
+    <head>SCENA SECUNDA:</head>
+    <p>Crispus, Artemius Tribunus Militum,</p>
+    <p>Praefectus Vrbis, Omnes Milites.</p>
+    <p>CRISPVS.</p>
+    <p>TOrqueor, &amp; anceps mente turbatâ feror,</p>
+    <p>Et inquieto pectus assultu tremit,</p>
+    <p>≤line=925≥ Vereorque casus exitum incertum mei.</p>
+    <p>Fortuna filo nostra libratur levi.</p>
+    <p>Iratus in me corde flammato Parens</p>
+    <p>Consurget, iras &amp; necem horrendam vomet,</p>
+    <p>Et nosse Natum non volet. Rapitur suo</p>
+    <p>≤line=930≥ Commotus aestu, Mater urgebit Patrem,</p>
+    <p>Vt odia noster saeva restinguat cruor.</p>
+    <p>O Crispe, quid ages? causa dicenda est tibi,</p>
+    <p>≤folio=H≥</p>
+    <p>≤page=114≥</p>
+    <p>Dixit Noverca, creditur, ferrum fidem</p>
+    <p>Clamysque faciunt, innocens frustra loquar. ˂ saciunt</p>
+    <p>≤line=935≥ Si forte dubio causa dicatur metu,</p>
+    <p>Nocens habebor. Invident multi mihi,</p>
+    <p>Dum nostra Romam Gloria attonitam facit.</p>
+    <p>Invidia forsan perimet, &amp; Judex volet</p>
+    <p>Etiam invidendo. Certa mors hîc est mihi.</p>
+    <p>≤line=940≥ O Crispe quid ages? innocens facile occidit,</p>
+    <p>Adversa cum sors urget. At forsan Pater</p>
+    <p>Cohibebit iram, Natus aspectu Patrem</p>
+    <p>Nam saepe flectit; mitius semper furit</p>
+    <p>Qui se parentem noscit, affectum sequi</p>
+    <p>≤line=945≥ Natura cogit. Crispe quam vanâ tuum</p>
+    <p>Spe tollis animum, Patre semoto sedens</p>
+    <p>Hic judicabit Caesar; exemplo volet</p>
+    <p>Resecare crimen utili. Quanquam, quid est?</p>
+    <p>Quid, Crispe, dubius fluctuas? Non sum reus,</p>
+    <p>≤line=950≥ Mens nota coelo est, sola fraus mortem adferet</p>
+    <p>Si mors ferenda est: Conscius mihi sum benè,</p>
+    <p>Haec nostra spes est, caetera eventus dabit.</p>
+    <p>Art. Etiam ingemiscis, Magne Dux, versat tuam</p>
+    <p>Fortuna vitam. Cri. Cuncta fortunae rota</p>
+    <p>≤line=955≥ Voluit, revoluit, turbine assiduo ruunt</p>
+    <p>Humana cuncta. Art. Nostra cum in dubio est salus</p>
+    <p>Retinenda vita est; cuncta, quae prudens potes</p>
+    <p>Movere debes. Cri. Suggeret quicquid mihi</p>
+    <p>Mens recta, faciam; cuncta consilium expedit</p>
+    <p>≤line=960≥ Salubre; mentem ducet; &amp; linguam Tonans.</p>
+    <p>Art. Retinere vitam verba vix possunt tuam,</p>
+    <p>Adhibenda dextra est, certa nam moto salus</p>
+    <p>≤page=115≥</p>
+    <p>Petenda bello est. Jam favet miles tibi</p>
+    <p>Promptus, paratus, &amp; tuam fuso cupit</p>
+    <p>≤line=965≥ Asserere vitam sanguine; audaci est opus</p>
+    <p>Animo; manuque: cuncta turbare expedit</p>
+    <p>Securus ut sis. Cri. Peccat officio tuus</p>
+    <p>Animus; tribune, nam mihi imprudens noces;</p>
+    <p>Prodesse dum vis. Art. Arma non stringes tua?</p>
+    <p>≤line=970≥ Cri. Non in parentem. Ar. Facta quando injuria
+    est,</p>
+    <p>Quanquam per arma; semper ulcisci decet.</p>
+    <p>Cri. Nihil movendo semet ulcisci solet</p>
+    <p>Qui vivit insons, innocentem non facit</p>
+    <p>Armata dextra, &amp; esse suspectum solet</p>
+    <p>≤line=975≥ Quod arma tentat: criminis non sum reus,</p>
+    <p>Opus esse bello non potest. Art. Multum potest</p>
+    <p>Juvare bellum. Cri. Non potest, debet reus</p>
+    <p>Sese tueri jure, non armis decet.</p>
+    <p>Art. At cuncta timeo, Crispe. Cri. Sed sero times.</p>
+    <p>≤line=980≥ Art. Quis nunc? ab urbe, Crispe, Praefectus venit.</p>
+    <p>Hic state cuncti, proditor forsan venit,</p>
+    <p>Estote in armis; cuncta nam virtus timet,</p>
+    <p>Nihil timendo. Praef. Magnus armorum hic sonus,</p>
+    <p>Formido Crispi milites, ibo tamen</p>
+    <p>≤line=985≥ Art. Quo pergis? unde? sta procul; causam hic tuam</p>
+    <p>Expone. Praef. Castra Caesaris jussu peto.</p>
+    <p>Art. Mandata quae fers? Praef. Caesar edixit potens,</p>
+    <p>Ut castra Crispum deferant, campos petant.</p>
+    <p>Si quis recuset, hostis est. At nunc diem</p>
+    <p>≤line=990≥ Tibi, Crispe, dico, tu Patrem &amp; justum simul</p>
+    <p>Petes tribunal, causa dicenda est tibi.</p>
+    <p>Cri. Quis ad tribunal me vocat? Praef. vocat Pater.</p>
+    <p>≤folio=H2≥</p>
+    <p>≤page=116≥</p>
+    <p>Cris. Parebo Patri. Quis jubet? Praef. Caesar jubet.</p>
+    <p>Cr. Parebo promptus Caesari. Pr. Abrumpe &amp; moras.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.-3">
+    <head>SCENA TERTIA.</head>
+    <p>Crispus, Artemius, Milites.</p>
+    <p>CRISPVS.</p>
+    <p>≤line=995≥ IBo ergo Miles. Art. Militem ut, Princeps, tuum</p>
+    <p>Vnquam relinquas? Mil. Vrbe desertâ procul</p>
+    <p>Nos te secuti prolis immemores sumus,</p>
+    <p>Focos &amp; aras, pignora, uxores quoque</p>
+    <p>Et cuncta pro te liquimus, nunc Dux abis?</p>
+    <p>≤line=1000≥ Te per rigentes frigore aeterno plagas,</p>
+    <p>Per pulveres, &amp; per nives, per aequoris</p>
+    <p>Surgentis undas, per calentes Africae</p>
+    <p>Campos secuti, lauream hanc partam tibi</p>
+    <p>Retulimus omnes: jam tuas Albis capit,</p>
+    <p>≤line=1005≥ Rhenusque habenas, servit &amp; Maurus tibi,</p>
+    <p>Et nunc relinques milites, Princeps, tuos?</p>
+    <p>Age, Crispe, nostras rursus explora manus</p>
+    <p>Pro te paratas; turbo cum rerum intonat</p>
+    <p>Ne castra linque. Deserit nunquam benè</p>
+    <p>≤line=1010≥ Ducem sub armis Miles, aut tecum necem</p>
+    <p>Subeamus omnes, nostra vel servent Ducem</p>
+    <p>Stricta arma nostrum. Cognita est virtus tibi</p>
+    <p>Jam, Crispe, nostra, rebus adversis suas</p>
+    <p>Exerere vires debet. Cris. O miles, tua</p>
+    <p>≤line=1015≥ Jam nota virtus &amp; fides pridem mihi est,</p>
+    <p>Animum occupavit illa, nec vivam immemor.</p>
+    <p>≤page=117≥</p>
+    <p>Nunc dum Parens, dum Caesar accersit potens,</p>
+    <p>Parêre cogor. Nullus est in me timor,</p>
+    <p>Novistis animum, conscius culpae haud fuit</p>
+    <p>≤line=1020≥ Vnquam pudendae, cur mei timeam Patris</p>
+    <p>Insons tribunal? Art. Miles, &amp; linques Ducem?</p>
+    <p>Et hinc abibit? Cri. Sic decet, vocat Parens,</p>
+    <p>Jubetque Caesar, gloria est Nato obsequi.</p>
+    <p>Art. Odium Novercae, &amp; Caesaris minas time.</p>
+    <p>≤line=1025≥ Cri. Timere Patrem Natus haud debet suum,</p>
+    <p>Deserere Natum non potest Pater suum.</p>
+    <p>Est ipse justus. Art. Cum tuum poscet caput,</p>
+    <p>Et cum severâ voce decernet necem</p>
+    <p>Sero timebis. Cri. Culpa si forte est mea,</p>
+    <p>≤line=1030≥ Nihil recuso, judicet, caput offeram.</p>
+    <p>Art. O, Crispe, pietas ista te perdet tua.</p>
+    <p>Procumbe, Miles. Per tuam dextram precor,</p>
+    <p>Per hanc juventae gloriam aeternam tuae,</p>
+    <p>Per hunc triumphum, Roma quem debet tibi,</p>
+    <p>≤line=1035≥ Per pectus istud tam pium, &amp; castum simul</p>
+    <p>O, Crispe, per te, te precor, fraudem fuge,</p>
+    <p>Fuge &amp; periclum, Miles hoc supplex petit,</p>
+    <p>Etiamque in armis lachrymas offert tibi.</p>
+    <p>Mil. Precamur omnes, lachrymas nostras vide.</p>
+    <p>≤line=1040≥ Timemus omnes, tu tibi, Princeps, time.</p>
+    <p>Per arma nostra, per tuae vitae decus,</p>
+    <p>Per hos labores, Crispe, ne in mortem ruas.</p>
+    <p>Duc castra tecum. Crisp. Vetuit hoc Caesar prius.</p>
+    <p>Mil. Ponemus arma, judicis liceat tui</p>
+    <p>≤line=1045≥ Astare solio, liccat &amp; tecum mori.</p>
+    <p>Pietate nostra forte flectetur Parens.</p>
+    <p>≤folio=H3≥</p>
+    <p>≤page=118≥</p>
+    <p>Cris. Nati videbit integram mentem sui,</p>
+    <p>Si nolit, animo quicquid est vincam meo.</p>
+    <p>Parebo patri, tu mihi miles vale,</p>
+    <p>≤line=1050≥ Vale Tribune. Art. Crispe sic insons peris.</p>
+    <p>Cri. Age Crispe, robur concipe, &amp; mentem memor</p>
+    <p>Retine serenam. Christe, qui pectus meum,</p>
+    <p>Et hos recessus pectoris nosti mei</p>
+    <p>Immitte robur, si juves, vincam omnia,</p>
+    <p>≤line=1055≥ Mors nulla nempe terret insontem satis.</p>
+    <p>Sed en tribunal Caesar augustus petit.</p>
+  </div>
+  <div type="level2" xml:id="scena-quarta.-3">
+    <head>SCENA QUARTA.</head>
+    <p>Constantinus Imperator, Crispus, seden¬</p>
+    <p>tibus iudicibus.</p>
+    <p>CONSTANTINUS.</p>
+    <p>MEns aegra longas jam pati moras nequit,</p>
+    <p>Mille hinc revoluunt, inde devoluunt quoque</p>
+    <p>Me mille curae. Justitia pectus trahit,</p>
+    <p>≤line=1060≥ Pietas benignas Judici imponit manus.</p>
+    <p>Heus Nate! totus rumpor, &amp; non sum meus.</p>
+    <p>Heus Nate! Cri. Praesto sum, Pater. Co. Patrem vocas?</p>
+    <p>Cri. Pater. Const. Patremne, quando foedasti meum</p>
+    <p>Pollute thalamum? Cr. Caesar. Co, Hoc nomen grave est,</p>
+    <p>≤line=1065≥ Punire semper Caesares crimen solent.</p>
+    <p>Cr. Judex. Co. Et istud nomen hic nostrum est grave.</p>
+    <p>En sedeo Judex, causa dicenda est tibi.</p>
+    <p>Age, perge, causam expone. Cri. Si pateris, Pater.</p>
+    <p>Co. Hoc tolle nomen. Cr. Non queo, hoc nunquam mihi</p>
+    <p>≤page=119≥</p>
+    <p>≤line=1070≥ Fortuna tollet. Ergo, si pateris, Pater.</p>
+    <p>Const. Quid rursus urges? hic tuus non sum Pater.</p>
+    <p>Cri. Ubique Patrem nosco; si pateris Pater.</p>
+    <p>Const. Resigno nomen. Cri. Non potes, patere hoc, Pater</p>
+    <p>Ut pauca Patri regios intra lares</p>
+    <p>≤line=1075≥ Solique dicam. Const. Publicum est nefas tuum,</p>
+    <p>Dicenda causa publicè est. Cri. Parum est, Pater,</p>
+    <p>Quod posco. Co. Multum judici est. Cr. Patrem rogo.</p>
+    <p>Const. Iterumne Patrem? jam tuus non sum Pater.</p>
+    <p>Cri. Pater fuisti, te Patrem quondam rogo,</p>
+    <p>≤line=1080≥ Meminisse Nati si potes. Const. Non es meus</p>
+    <p>Cri. Meminisse Nati si potes, fuit tuus,</p>
+    <p>Per Patris eroo nomen. Const. Hoc non est meum.</p>
+    <p>Patrem negasti qui Patris foedas torum.</p>
+    <p>Cri. Per pectus istud gloriae sedem tuae</p>
+    <p>≤line=1085≥ Sedemque amoris, Const. Nempe tu nostrum nocens</p>
+    <p>Violasti amorem. Quid petis? Cr. Pauca ut Patri</p>
+    <p>Arcana dicam. Const. Quicquid est, forum audiat.</p>
+    <p>Cri. Te tangit istud, &amp; tuae famam Domus.</p>
+    <p>Const. Etiam hoc tribunal audiat. Cri. Nunquam, Pater.</p>
+    <p>≤line=1090≥ Per ista genua, Caesar, &amp; sceptrum tuum,</p>
+    <p>Per hoc tribunal, Vnicum Nato diem</p>
+    <p>Concede. Const. Frustra postulas. Cris. Horam unicam</p>
+    <p>Const. Nec hanc, tribunal audiat quicquid latet.</p>
+    <p>Fraudes morasque nectis, ad causam veni,</p>
+    <p>≤line=1095≥ Defende culpam si potes, notum est scelus,</p>
+    <p>Violata tecta sedis augustae gemunt.</p>
+    <p>Cri. Saltem sorori liceat extremum loqui,</p>
+    <p>Secreta pandam; quicquid est, non in foro</p>
+    <p>Vulgare Natum me decet. Const. Nectis moras.</p>
+    <p>≤folio=H4≥</p>
+    <p>≤page=120≥</p>
+    <p>≤line=1100≥ Audire Judex in foro debet reos.</p>
+    <p>Depelle crimen si potes; si non potes,</p>
+    <p>Aut si recusas jam mori debes reus.</p>
+    <p>Cri. Jubesne? Const. Causam si tuam linquis, volo.</p>
+    <p>Cri. Habe obsequentem Filium, moriar Pater.</p>
+    <p>≤line=1105≥ Parco Novercae, sit meum insontis scelus,</p>
+    <p>Parendo Patri, quas cupit poenas, luam.</p>
+    <p>Reddenda vita est &amp; Deo, &amp; simul Patri.</p>
+    <p>Tu, Christe, cujus fusus in ligno cruor</p>
+    <p>Mundum redemit, accipe hanc quam do Patri,</p>
+    <p>≤line=1110≥ Matrique vitam; pectus insontis vides,</p>
+    <p>Non sum scelestus, attamen dum vult Pater,</p>
+    <p>Jubetque Caesar, sanguinem effundam libens.</p>
+    <p>Ignosco Patri. Tu quoque ô Virgo parens,</p>
+    <p>Si rite Numen mente non fictâ tuum</p>
+    <p>≤line=1115≥ Colui per aras castus, insontem juva,</p>
+    <p>Et adde robur, laetus in mortem ruo.</p>
+    <p>Cons. Heu Animel Non possum amplius, pectus labat,</p>
+    <p>Discedit ira, lachrymae erumpunt Patri</p>
+    <p>Iram tenere Caesar haud possum meam.</p>
+    <p>≤line=1120≥ Perimamque Natum Genitor? &amp; Natum pium?</p>
+    <p>Charum parenti? qui mihi invictâ manu</p>
+    <p>Subjecit Orbem? Prô Tonans! Non sum meus.</p>
+    <p>Iterum resurgit ira; num vivet nocens,</p>
+    <p>Stuprator iste Matris? heu! non est meus,</p>
+    <p>≤line=1125≥ Moriatur. O ô Crispe! non possum amplius,</p>
+    <p>Discedo. Cri. Genitor, ergo supremum vale,</p>
+    <p>Valeat Noverca; Genitor, amplexum ultimum</p>
+    <p>Concede Nato. Const. Crispe, non possum amplius.</p>
+    <p>Ubi sum? quis hic sum? vincor, abripior mihi,</p>
+    <p>≤page=121≥</p>
+    <p>≤line=1130≥ Vos judicate, quicquid hic restat, Patres.</p>
+    <p>Discedo, judex esse non possum Pater.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvinta.">
+    <head>SCENA QVINTA.</head>
+    <p>Constantinus Consul, Crispus, Praefectus</p>
+    <p>Vrbis, Senatores.</p>
+    <p>CONSVL.</p>
+    <p>AGe ergo Crispe, Roma namque odit moras?</p>
+    <p>Et hoc tribunal spectat, &amp; poenas petit,</p>
+    <p>Aggredere causam, crimen excusa, vel hoc</p>
+    <p>≤line=1135≥ Fateare, an haeres? Cri. Ecquis accusat? reo</p>
+    <p>Dicenda non est causa cum nemo arguit.</p>
+    <p>Consul. Te crimen istud arguit, quod non latet.</p>
+    <p>Praef. Accusat iste gladius, accusat chlamys.</p>
+    <p>Et signa causae. Cujus est ensis? Cris Meus.</p>
+    <p>≤line=1140≥ P. Chlamys ista cujus? c. Est mea. P. Et crimen
+    negas?</p>
+    <p>Cri. Semper negabo. Pr. Signa te faciunt reum.</p>
+    <p>Cri. Non ista facere signa me possunt reum</p>
+    <p>Cum culpa nulla est. Consul. Sit satis, Lictor, reum</p>
+    <p>Intro reducas, judicate vos, Patres.</p>
+    <p>≤line=1145≥ Quae vestra mens est? Fr. Certa mors restat reo,</p>
+    <p>Manifesta verum signa nam crimen probant.</p>
+    <p>Moriatur. Sen. 1. Esse non potest insons reus,</p>
+    <p>Non ista signa protulit frustrà parens.</p>
+    <p>Si culpa non est, illa non laesum sibi</p>
+    <p>≤line=1150≥ Fleret pudorem; laudis est custos suae,</p>
+    <p>Custosque famae; nemo se infamem facit.</p>
+    <p>Moriatur. Sen. 2. Quando deserit causam reus,</p>
+    <p>Crimen fatetur; Justitia damnat reum</p>
+    <p>≤folio=H5≥</p>
+    <p>≤page=122≥</p>
+    <p>Etsi innocentem, cum suae causae deest,</p>
+    <p>≤line=1155≥ Purgare crimen debet objectum reus</p>
+    <p>Aut luere poenam; quisquis haeret, est reus,</p>
+    <p>Moriatur. Ipse testis est Caesar parens,</p>
+    <p>Testis Noverca, tota testis est Domus.</p>
+    <p>Nec ipse contra disserit, mutum est scelus,</p>
+    <p>≤line=1160≥ Et mutus author; consciam mentem notat</p>
+    <p>Silendo, &amp; in se fit reus, qui sic tacet.</p>
+    <p>Moriatur. Consul. Ergo dum sedet sententia</p>
+    <p>Crispo securis noxium tollat caput.</p>
+    <p><hi rendition="simple:bold">CHORVS MILITVM.</hi></p>
+    <p>OCcidet nostrae columen cohortis,</p>
+    <p>≤line=1165≥ Hostium terror nova qui parenti</p>
+    <p>Regna per totum superavit orbem</p>
+    <p>Inclytus armis?</p>
+    <p>Occidet regum domitor potentum,</p>
+    <p>Dignus aeternis domitor triumphis,</p>
+    <p>≤line=1170≥ Cujus aspectu fugitivus errat</p>
+    <p>Barbarus hostis?</p>
+    <p>Ille qui scandens meritis honores,</p>
+    <p>Vota cunctorum superabat armis,</p>
+    <p>Subdat ut Romae spoliatus armis</p>
+    <p>≤line=1175≥ Colla securi?</p>
+    <p>O nimis fallax amor Imperantis!</p>
+    <p>Ecce, quem Gentes cupiunt remotae,</p>
+    <p>Quem Scythae vellent, Arabesque regem</p>
+    <p>Roma repellit.</p>
+    <p>≤line=1180≥ Nempe momento ruit omnis uno</p>
+    <p>Principum splendor, rapit una &amp; hora</p>
+    <p>≤page=123≥</p>
+    <p>Quicquid audaces peperere dextrae</p>
+    <p>Tempore longo.</p>
+    <p>Mobiles rerum timeantur horae;</p>
+    <p>≤line=1185≥ Fulgor excelsae periturus arcis</p>
+    <p>Non diu durat, tenebrisque cedunt</p>
+    <p>Lumina coecis.</p>
+    <p>Quisquis es foelix vereare casum,</p>
+    <p>Errat in vasto ratis alta ponto</p>
+    <p>≤line=1190≥ Mox suis ventis ubi destituta est,</p>
+    <p>Dat latus undis.</p>
+    <p>Crispus exemplum dabit unus orbi,</p>
+    <p>Regio pollens juvenis decore,</p>
+    <p>Summa dum tangit, recidens in ima</p>
+    <p>≤line=1195≥ Omnia perdit.</p>
+    <p>Splendidum nomen malè saepe certum est,</p>
+    <p>Indiget fulcro, movet in ruinam</p>
+    <p>Sors suo ludens petulanter orbe,</p>
+    <p>Cunctaque vertit.</p>
+    <p>≤line=1200≥ Littus angustâ relegens carinâ</p>
+    <p>Certior vivit, fragilemque lembum</p>
+    <p>Collocat tutâ patiens in orâ</p>
+    <p>Temnit &amp; Euros.</p>
+    <p>Si quod est vitae satis est, quid ultra est?</p>
+    <p>≤line=1205≥ Rebus angustis bene mens quiescit</p>
+    <p>Illa plus vitae minus &amp; doloris</p>
+    <p>Accipit in se.</p>
+    <p>Rebus humanis calor est inanis,</p>
+    <p>Defluit velox, ubi sors abivit,</p>
+    <p>Crispe, fors toti documenta mundo</p>
+    <p>≤line=1210≥ Iam dabis insons.</p>
+    <p>≤page=124≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvintvs.">
+    <head>ACTVS QVINTVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-prima.-4">
+    <head>SCENA PRIMA.</head>
+    <p>Praefectus, Crispus, Ephoebi duo.</p>
+    <p>PRAEFECTVS.</p>
+    <p>SUprema, Crispe, jam tibi illuxit dies,</p>
+    <p>Et hora mortis, hactenus partae est satis</p>
+    <p>Vixisse laudi; ferre non potuit tuum</p>
+    <p>Commota facinus Roma, non potuit pater,</p>
+    <p>≤line=1215≥ Non hoc tribunal, quod tui est aequum patris.</p>
+    <p>Gemit Aula Crispum, sed pati tantum nefas</p>
+    <p>Eadem recusat. Cri. Quis mori Crispum jubet?</p>
+    <p>Pr. Judex. Cr. Parensne? Pr. Sit satis, Judex jubet.</p>
+    <p>Judicia Patris esse, dum Judex jubet,</p>
+    <p>≤line=1220≥ Dubitare noli. Cri. Lata quae sententia est?</p>
+    <p>Quae causa mortis? Pr. Causa, facinus est tuum,</p>
+    <p>Polluta Matris castitas, lectus Patris.</p>
+    <p>Fecere signa te reum. Sententia est.</p>
+    <p>Crispo securis noxium tollat caput.</p>
+    <p>≤line=1225≥ Cri. Quid ergo restat? Pr. Mente compositâ ut
+    necem</p>
+    <p>Subeas, &amp; istud mentis impurae caput.</p>
+    <p>Subdas securi. Cri. Quicquid edicis modo,</p>
+    <p>Praefecte, certâ mente praevidi prius.</p>
+    <p>Securus esto, pectore immoto èaput</p>
+    <p>≤line=1230≥ Subdam securi; nulla mors, quanquam effera,</p>
+    <p>Terrere Crispum jam potest: mea mors erit</p>
+    <p>Dolor parentis; qui jubet Crispum mori</p>
+    <p>Optabit etiam vivere, &amp; judex necem</p>
+    <p>.</p>
+    <p>≤page=5≥</p>
+    <p>≤page=125≥</p>
+    <p>Deflebit ipse. Non mihi turpe est mori,</p>
+    <p>≤line=1235≥ At facere nolle turpiter pulchrum est mihi.</p>
+    <p>Haec nostra mens est, potius educto caput</p>
+    <p>Subjicere ferro, potius emissum Polo</p>
+    <p>Haurire fulmen, quam gravi culpâ meam</p>
+    <p>Maculare mentem. Credet hoc nimium ferox</p>
+    <p>≤line=1240≥ Noverca Crispo, dum suos, sero licet,</p>
+    <p>Damnabit annos; credet Augustus parens,</p>
+    <p>Et sese iniquum (sed tamen parco Patri)</p>
+    <p>Et sese iniquum dicet. At forsan moras,</p>
+    <p>Praefecte, necto, &amp; ultimae restant preces. (feram,</p>
+    <p>≤line=1245≥ Pr. Quid ergo, Crispe? Cri. Ut ultimum amplexum
+    feram,</p>
+    <p>Et pauca moriens verba commendem meis.</p>
+    <p>Permitte quaeso. Pr. Rumpitur pectus mihi,</p>
+    <p>Lachrymaeque nostras imbre confundunt genas.</p>
+    <p>Age, Crispe, quod vis. Cri. Ultimum amplexum mei</p>
+    <p>≤line=1250≥ Accipite, Famuli, capite supremum vale.</p>
+    <p>Quid ora fletu spargitis? fletu haud eget</p>
+    <p>Jam Crispus ullo. Si pater forsan roget,</p>
+    <p>Quo fata vultu, mente quam forti hauserim,</p>
+    <p>En me videtis, laetus &amp; constans necem</p>
+    <p>≤line=1255≥ Parendo patri subeo, &amp; ignosco Patri.</p>
+    <p>Sit ipse constans morte cum tristis meâ</p>
+    <p>Forsan dolores vix feret. Sed sit mei</p>
+    <p>Amoris istud pignus, hoc Patri date.</p>
+    <p>Aliquando Nati sit memor Caesar sui.</p>
+    <p>≤line=1260≥ Haec vestra sunto, baltheum hunc nostrum cape,</p>
+    <p>Tu militarem pileum, nam sunt mei</p>
+    <p>In vos amoris signa. Quid fletu genas</p>
+    <p>Iterum rigatis? Ephoeb. 1. Liceat ô tecum mori!</p>
+    <p>≤page=126≥</p>
+    <p>Cr. Cum moritur insons unus hoc plusquam est satis.</p>
+    <p>≤line=1265≥ Valete fida pectora. Eph. 2. O durum vale!</p>
+    <p>At experire quos tibi fidos vocas,</p>
+    <p>Moriamur unà. Cri. Vestra sat nota est fides.</p>
+    <p>Iterum valete. Nostra sed per vos quoque</p>
+    <p>Dilecta nimium valeat, &amp; vivat soror.</p>
+    <p>≤line=1270≥ Amet ipsa fratrem, semper, &amp; nostri memor</p>
+    <p>Aliquando fiat, annulum hunc pignus mei</p>
+    <p>Amoris habeat. Eph. 1. Nos mori tecum jube.</p>
+    <p>Cri. Estote testes mortis, hoc, Famuli, est satis.</p>
+    <p>Praefecte, jam te non moror, Judex vale,</p>
+    <p>≤line=1275≥ Valete Cives, Roma, quae toties meo</p>
+    <p>Defensa ferro es, jam vale. Christe ô Deus,</p>
+    <p>Quem Virgo casto protulit mater sinu</p>
+    <p>Hominem Deumque, perditum cujus cruor</p>
+    <p>Redemit orbem, guttulam hic aliquam tuo</p>
+    <p>≤line=1280≥ Pro me cruoris esse misericors jube.</p>
+    <p>Negat triumphum Genitor, &amp; mortem ingerit,</p>
+    <p>At in triumphum, Christe, me assumas tuum,</p>
+    <p>Ad te revertor innocens. Virgo Parens</p>
+    <p>Hominum advocata, certa spes mortalium,</p>
+    <p>≤line=1285≥ Adsis benignâ, quâ soles, castis manu.</p>
+    <p>Juva innocentem. Nunc sat est, Lictor, feri,</p>
+    <p>Submitto collum. Praef. Vincor, ô sortem asperam!</p>
+    <p>O Crispe, lachrymas Judicis feres tui.</p>
+    <p>O Crispe. Cris. JESU, suscipe, ô JESU, tuum.</p>
+    <p>≤line=1290≥ Eph. 1. Occubuit, heu!heu! Crispe, heu!heu! Crispe,
+    heu! heu!</p>
+    <p>Pr. Ne tolle corpus, Lictor, hoc jaceat loco,</p>
+    <p>Decernet ipse quod volet Caesar parens.</p>
+    <p>Aeternus ecce pulsat hoc pectus dolor.</p>
+    <p>≤page=127≥</p>
+  </div>
+  <div type="level2" xml:id="scena-secunda.-3">
+    <head>SCENA SECUNDA.</head>
+    <p>Aulicus, Constantinus Imp. Ephoebi.</p>
+    <p>AULICUS.</p>
+    <p>LAtere magnum non potest unquam scelus,</p>
+    <p>≤line=1295≥ Detecta fraus est; fraude nam Crispus suae</p>
+    <p>Jacet Novercae, noluit Crispus torum</p>
+    <p>Violare Patris, ipse violatur nece</p>
+    <p>Insons iniquâ; indebitas poenas luit,</p>
+    <p>Quem nulla foedat culpa. Sic mulier furit</p>
+    <p>≤line=1300≥ Irata &amp; impudica; sic Aulae premunt</p>
+    <p>Saepe innocentes, lenta cum nolunt pati</p>
+    <p>Judicia Reges. Ipse detrusit Parens</p>
+    <p>Natum in ruinam credulus. Qui ambas negat</p>
+    <p>Audire partes, semper injustus furit.</p>
+    <p>≤line=1305≥ Aperire Patri Crispus arcanum volens</p>
+    <p>Passus repulsam est, poenitet, serò tamen,</p>
+    <p>Et ingemiscit, &amp; furit frustra parens.</p>
+    <p>Aurem negavit filio, &amp; mortem gemit.</p>
+    <p>Horam negavit unicam, &amp; multis suum</p>
+    <p>≤line=1310≥ Deflebit annis filium. Nunquam reo</p>
+    <p>Tempus negandum est, veritas constat morâ,</p>
+    <p>Spatiumque saepe cuncta manifestat breve.</p>
+    <p>En Caesar, ardet totus, atque impos sui est.</p>
+    <p>Const. Age curre, quid stas? siste mortem, si potes,</p>
+    <p>≤line=1315≥ Properate cuncti. Aul. Caesar hic sero sapis,</p>
+    <p>Frustra laboras, occidit. const. Crispus meus?</p>
+    <p>Meusne Crispus occidit? Aul. Testes vides</p>
+    <p>Famuli ecce Crispi. Co. Prô Tonans! prô prô Tonans!</p>
+    <p>≤page=128≥</p>
+    <p>O sol, diurnum merge perpetuis jubar</p>
+    <p>≤line=1320≥ Tandem tenebris, nulla lucescat dies.</p>
+    <p>Emitte fulmen, monte cur tantum tonas</p>
+    <p>Et innocente; verticem hunc, hoc hoc caput</p>
+    <p>Vibrata tangant fulmina, atque in me suos</p>
+    <p>Extinguat Aether ignis accensi globos.</p>
+    <p>≤line=1325≥ Ego, ego peremi filium, occidi parens.</p>
+    <p>Parens inniquus filium. Nempe hoc mihi</p>
+    <p>Praesagiebat frigus irrepens fibris,</p>
+    <p>Et ore pallor, &amp; novo semper madens</p>
+    <p>Sub imbre vultus. Occidit Crispus meus!</p>
+    <p>≤line=1330≥ Dilectus iste Crispus, &amp; Natus meus!</p>
+    <p>Potuine Caesar? istud hoc potui parens?</p>
+    <p>Infausta Fausta! dum tibi credo, meum</p>
+    <p>Occido Natum. Crispe! non possum amplius.</p>
+    <p>O Crispe! Patris ergo decreto cadis?</p>
+    <p>≤line=1335≥ O Crispe! Fili! Crispe! non possum amplius.</p>
+    <p>Ite ite lachrymae Eph. 1. Caesar hoc pignus tibi</p>
+    <p>Moriens remisit Natus, extremum cape</p>
+    <p>Signum hoc amoris. Const. Et memor Patris fuit?</p>
+    <p>Eph. 1. Moriens, parenti, dixit, ignosco meo.</p>
+    <p>≤line=1340≥ Et saepe Patrem morte vicinâ suum</p>
+    <p>Laetus vocavit. Const. Fortis an subijt necem?</p>
+    <p>Eph. 2. Nunquam triumphum laetior quisquam tulit,</p>
+    <p>Constans, &amp; alto corde firmatus fuit.</p>
+    <p>Parco Novercae, dixit, &amp; parco omnibus.</p>
+    <p>≤line=1345≥ Cum jam receptâ morte laxaret caput,</p>
+    <p>JESUM vocare coepit, &amp; JESUM ultimo</p>
+    <p>Clamavit ore. Eph. 1. Lachrymis Lictor madens</p>
+    <p>Inflixit ictum, &amp; ipse non potuit necem</p>
+    <p>≤page=129≥</p>
+    <p>Spectare Judex siccus; hunc suae annulum</p>
+    <p>≤line=1350≥ Misit sorori, fiat ut fratris memor.</p>
+    <p>Const. O sors! Eph. 2. Relictum corpus hoc jacet loco.</p>
+    <p>Const. Veniam, videbo; miles hic adsit; volo</p>
+    <p>Etiam triumphet mortuus Crispus meus.</p>
+    <p>Aul. Vos evocate milites, adsint citò.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.">
+    <head>SCENA III.</head>
+    <p>Constantinus, Aulicus,</p>
+    <p>CONSTANTINUS.</p>
+    <p>≤line=1355≥ STupet ecce sensus, haeret &amp; mutus dolor,</p>
+    <p>Similisque Caesar mortuo, &amp; totus feror</p>
+    <p>Exanguis. Aul. Istos Caesar accersit sibi</p>
+    <p>Praeceps dolores. Const. Ipsa decepit suum</p>
+    <p>Conjux maritum. Aul. Foeminae haud flenti fidem</p>
+    <p>≤line=1360≥ Adhibere oportet. Const. Credidi uxori meae.</p>
+    <p>Aul. Et uxor ista foemina est. Const. Ipsum poli est</p>
+    <p>Testata Numen. Aul. Quando testatur polum,</p>
+    <p>Et quando jurat foemina, in fraudes abit.</p>
+    <p>Const. Causam pudoris ipsa tractabat sui.</p>
+    <p>≤line=1365≥ Aul. Potius amoris; foemina est quando in suo</p>
+    <p>Decepta amore, saeva vindictam petit.</p>
+    <p>Et saepe laesum ficta mentitur decus</p>
+    <p>Oblita famae. Const. Fateor, in culpam irrui</p>
+    <p>Hac fraude factus credulus. Aul. Factus simul</p>
+    <p>≤line=1370≥ Agendo praeceps, lenta properasti nimis</p>
+    <p>Judicia Caesar. Const. Fateor hanc culpam quoque.</p>
+    <p>Reticere causam Natus optavit suam.</p>
+    <p>≤folio=I≥</p>
+    <p>≤page=130≥</p>
+    <p>Aul. Suo pepercit optimus Natus Patri,</p>
+    <p>Etiam Novercae; gloriae nullum tuae</p>
+    <p>≤line=1375≥ Dedecus inussit, cum suae infandum scelus</p>
+    <p>Tacuit Novercae. Scilicet castum pudor</p>
+    <p>Retinebat animum. Const. Sum nocens, per me jaces,</p>
+    <p>Dilecte Fili; poenitet, taedet, pudet.</p>
+    <p>Incutite coeli flammeos in me globos,</p>
+    <p>≤line=1380≥ Dehisce Tellus, Monstra me Crispi efferum</p>
+    <p>Lacerate Patrem; moriar &amp; mortem gravem</p>
+    <p>Et mille mortes hauriam. Aul. Caesar sat est,</p>
+    <p>Modum dolori &amp; lachrymis ponas tuis.</p>
+    <p>En miles omnis lachrymis Crispum rigat.</p>
+    <p>≤line=1385≥ Ut jam triumphet hic tuus Crispus, jube.</p>
+  </div>
+  <div type="level2" xml:id="scena-iv.">
+    <head>SCENA IV.</head>
+    <p>Constantinus, Artemius, Milites, Chorus.</p>
+    <p>CONSTANTINUS.</p>
+    <p>ET ille Crispus est meus? Art. Caesar, jacet</p>
+    <p>Dux ecce noster, hostium victor jacet,</p>
+    <p>Invictus armis, inclytus Princeps jacet,</p>
+    <p>Decus Qiritum grande praesidium tuae</p>
+    <p>≤line=1390≥ Romae, Domusque. Const. Crispe, Crispe sic jaces?</p>
+    <p>Tune illa species Patris, &amp; sanguis meus?</p>
+    <p>Mea laus, voluptas sola, delitium meum?</p>
+    <p>Art. Tutela Romae perijt, &amp; robur tuum.</p>
+    <p>Const. Miles cadaver tolle, decoretur novâ</p>
+    <p>≤line=1395≥ Exsangue lauro corpus, &amp; partum sibi</p>
+    <p>Ducat triumphum, restat hoc tantum decus.</p>
+    <p>≤page=131≥</p>
+    <p>Sequar ipse lachrymans Genitor, &amp; luctum dabo¬</p>
+    <p>Art. Age perge, miles, fer Ducem, plausus tibi</p>
+    <p>Sit ipse luctus, arma submitte &amp; trahe.</p>
+    <p>≤line=1400≥ Mil. En ille terror hostium,</p>
+    <p>En ille domitor Gentium,</p>
+    <p>Crispus triumphat mortuus.</p>
+    <p><hi rendition="simple:bold">Chorus. En regna qui tot
+    inclytus</hi></p>
+    <p>Armis subegit Caesari,</p>
+    <p>≤line=1405≥ Crispus triumphat mortuus.</p>
+    <p>Mil. Heu! Crispe, heu! heu! Crispe heu!</p>
+    <p>Letho peremptus heu jaces,</p>
+    <p>Decus tuae clarum Domus,</p>
+    <p>Robur tuorum Militum,</p>
+    <p>≤line=1410≥ Columenque firmum Patriae,</p>
+    <p><hi rendition="simple:bold">Chor. Heu! Crispe heu! heu! Crispe
+    heu!</hi></p>
+    <p>Jacet en fato mersus acerbo</p>
+    <p>Virtute potens, inclytus armis,</p>
+    <p>Qui certa manu bella ferebat,</p>
+    <p>≤line=1415≥ Qui cunctos vincebat honore.</p>
+    <p>Mil. Heu! Crispe, heu! heu! Crispe heu!</p>
+    <p>Te flemus ecce milites,</p>
+    <p>Nostrum Ducem, nostrum Patrem.</p>
+    <p>Crispe ô triumpha mortue.</p>
+    <p><hi rendition="simple:bold">≤line=1420≥ Chor. Heu! Crispe, heu!
+    heu! Crispe heu!</hi></p>
+    <p>En te gemunt cives tui,</p>
+    <p>Columen suum, decus suum</p>
+    <p>Crispe ô triumpha mortue.</p>
+    <p>Omnes. Heu! Crispe, heu! heu! Crispe heu!</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS.</p>
+  <p>≤folio=I2≥</p>
+</div>
+</body>
+</text>
+</TEI>

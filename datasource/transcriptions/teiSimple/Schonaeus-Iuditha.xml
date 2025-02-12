@@ -1,0 +1,2479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>TERENTII CHRISTIANI.</p>
+  <p>IVDITHA.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="actorum-nomina.">
+    <head>Actorum nomina.</head>
+    <p>HOLOFERNES, imperator Assyriorum.</p>
+    <p>MOABVS, Duces militum.</p>
+    <p>AMMONIDES,</p>
+    <p>ACHIOR, Ammonita.</p>
+    <p>THRASO, milites Assyrii.</p>
+    <p>LABRAX,</p>
+    <p>BAGOS, cubicularius Holofernis.</p>
+    <p>OZYAS, Consul Betuliensis.</p>
+    <p>IOACHIMVS, summus sacerdos.</p>
+    <p>SADOCVS,</p>
+    <p>MELCHIAS, ciues Betulienses.</p>
+    <p>AZARIAS,</p>
+    <p>IVDITHA, vidua.</p>
+    <p>ABRA, Iudithae ancilla.</p>
+    <p>≤folio=X≥</p>
+    <p>≤line=2≥</p>
+  </div>
+  <div type="level2" xml:id="prologvs.">
+    <head>PROLOGVS.</head>
+    <p>Trimetri Iambici.</p>
+    <p>SAlutem vobis exoptamus plurimam,</p>
+    <p>Viri colendi, ciuesque humanißimi:</p>
+    <p>Quicunque ad ludos hos spectandum scenicos</p>
+    <p>Alacres, frequentesque huc confluxistis. Agitedum</p>
+    <p>≤line=5≥ Non multis verbis aut oratione vos</p>
+    <p>Prolixa remorabor. Sed quam acturi sumus,</p>
+    <p>Paucis hic coram narrabo comoediam,</p>
+    <p>Et quis sit ille, eam qui nunc dedit nouam.</p>
+    <p>Schonaeus nostrae archididascalus scholae,</p>
+    <p>≤line=10≥ Quia suam vobis ante probari industriam</p>
+    <p>Saepe animaduertit, aliam rursus fabulam</p>
+    <p>Profert: neque profanam tamen: at piam, &amp; sacram.</p>
+    <p>E sacro Bibliorum sumptam codice.</p>
+    <p>Quodcunque ei tempus vacuum à scholasticis</p>
+    <p>≤line=15≥ Negotijs conceditur, id omne huic studio</p>
+    <p>Libenter impendit. Neque inutilem suam</p>
+    <p>Operam, aut laborem studiosae pubi, neque</p>
+    <p>Vobis ingratum fore putat, seu literis</p>
+    <p>Diuinis, seu politioribus animum</p>
+    <p>≤line=20≥ Dicastis artibus. Nam quemadmodum suam</p>
+    <p>Orationem à veterum poëtarum stylo.</p>
+    <p>Phrasique procul abesse confitetur, ita</p>
+    <p>Hoc quicquid est aut iacturae, aut dispendij,</p>
+    <p>Eo pensatum vtcunque existimat, nihil</p>
+    <p>≤line=25≥ Quod hic vsquam aut obscaenum, aut turpe, aut
+    ludicrum,</p>
+    <p>Nihil quod sit teneris offecturum auribus,</p>
+    <p>Verùm pudica, casta, verecunda, ac pia.</p>
+    <p>Quae audituri estis, comperietis omnia.</p>
+    <p>≤page=3≥</p>
+    <p>Itaque non desunt homines docti, qui illius</p>
+    <p>≤line=30≥ Legunt libenter, &amp; probant comoedias.</p>
+    <p>Quorum sequi vos nunc mihi videmini</p>
+    <p>Sententiam: quos attentos, ac beneuolos,</p>
+    <p>Et eum silentio auscultantes conspicor.</p>
+    <p>Nunc ne quis vestra abusum esse patientia</p>
+    <p>≤line=35≥ Me dicat, si suspensos hic diutius</p>
+    <p>Vos teneam: Eia, aures admouete sedulo,</p>
+    <p>Huius periocham dum recito actiunculae.</p>
+  </div>
+  <div type="level2" xml:id="comoediae-periocha.">
+    <head>Comoediae Periocha.</head>
+    <p>HOlofernes dux Aßyrici exercitus potens</p>
+    <p>Bello, &amp; rebus praeclare gestis efferus,</p>
+    <p>Graui obsidione vrbem Betuliam premit.</p>
+    <p>Ciues suis diffisi viribus, Dei</p>
+    <p>≤line=5≥ Subsidium implorant. Deinde aquae penuria</p>
+    <p>Laborantes, statuunt sese hosti dedere,</p>
+    <p>Nisi intra quinque dies ipsis opem ferat</p>
+    <p>Deus. Quod simulac resciuisset Iuditha,</p>
+    <p>Cùm Ozia ciuitatis Principe grauiter</p>
+    <p>≤line=10≥ Expostulat. Hinc diuino afflata numine,</p>
+    <p>Noctu cum ancilla castra ingreditur hostium:</p>
+    <p>Scireque fictis Holofernem fallit dolis.</p>
+    <p>Quem postea vino immoderatè hausto obrutum</p>
+    <p>Cum obtruncasset, secum auferens caput, ad suos</p>
+    <p>≤line=15≥ Reuertitur. Hostes, subito perculsi metu,</p>
+    <p>Fugiunt. Israelitides victoria,</p>
+    <p>Praedaque potiti, summum collaudant Deum.</p>
+    <p>≤folio=X2≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-i.-scena-i.">
+    <head>ACTVS I. SCENA I.</head>
+    <p>HOLOFERNES, MOABVS.</p>
+    <p>Iambici senarij, &amp; septenarij.</p>
+    <p>EST isthuc per Iouem datum mihi, feliciter,</p>
+    <p>Ac prospere vt eueniant, quae facio omnia.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Nam in quamcunque orbis partem cum meo accedo</p>
+    <p>Exercitu, metus continuò maximus,</p>
+    <p>≤line=5≥ Ingensque illic exoritur trepidatio.</p>
+    <p>Nec vlla est vsquam ciuitas, neque regio</p>
+    <p>Tam natura loci munita, aut viribus</p>
+    <p>Opibusque potens, resistere quae audeat mihi.</p>
+    <p>Quin omnes, simul ac aduentare me procul</p>
+    <p>≤line=10≥ Resciuerint, protinus accurrunt: &amp; se, &amp;
+    suae</p>
+    <p>Vrbes, munitiones, ac propugnacula, quibus</p>
+    <p>Confisi, quoslibet alios hostes procaciter</p>
+    <p>Contempsêre, atque auersati sunt hactenus,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Vltrò dedunt supplices: per omnia</p>
+    <p>≤line=15≥ Praeceptis, mandatisque parentes meis.</p>
+    <p>Ex qua quidem re tam feliciter, atque fortiter</p>
+    <p>Gesta, summam profectò apud regem meum</p>
+    <p>Laudem, praemiaque magnifica, adhaec gloriam</p>
+    <p>Memorabilem, atque adeò decus immortale apud</p>
+    <p>≤line=20≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Posteros me consequuturum confido.</p>
+    <p>Quandoquidem vna haec viris principibus est via,</p>
+    <p>Qua ad honorem nunquam interiturum, aeternamque nominis</p>
+    <p>Memoriam emergant: cùm ignauorum atque inertium</p>
+    <p>Hominum fama, vnà cum vita intereat turpiter.</p>
+    <p>≤line=25≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quod pol dedecus, &amp; euitasse me hactenus scio: &amp;</p>
+    <p>In posterum me spera vitaturum sedulò.</p>
+    <p>≤page=5≥</p>
+    <p>Sed inter haec tam multa, quae ex animi sententia</p>
+    <p>Mihi succedunt, vnum illud hercle me malè habet,</p>
+    <p>Quod hos Betulienses, reliquumque Israëliticum</p>
+    <p>≤line=30≥ Populum audio etiamnunc imperium aspernari meum.</p>
+    <p>Quod equidem modo mihi retulerunt quidam, quibus</p>
+    <p>Credo satis. Atque adeò ex eo id verißimum</p>
+    <p>Esse, facilè intelligi, atque perspici</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Potest: quod nullos adhuc, aliorum malis.</p>
+    <p>≤line=35≥ Et cladibus admoniti, legatos ad me miserint:</p>
+    <p>Neque de dedendis ciuitatibus suis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz. Octo.</p>
+    </note>Inter se aut egerint, aut cogitauerint quicquam.</p>
+    <p>Sed faxo ne id multum auferant: neque ego contumeliam</p>
+    <p>In me tam insignem impunitam relinquendam arbitror.</p>
+    <p>≤line=40≥ Quin totum hoc recutitorum hominum extirpabo genus.</p>
+    <p>Moa. Isthuc pol recte princeps illustrißime hem</p>
+    <p>Laudo: nihil enim in eos tam crudele vnquam statueris</p>
+    <p>Quin peiora meriti sint sceleratißimi.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Hol. In vtramque, vti apparet, nunc aurem dormiunt:</p>
+    <p>≤line=45≥ At ego iam illos, vt digni sunt, commouebo
+    sacrilegos.</p>
+    <p>Qui neque edictis nostris, neque vllis legibus</p>
+    <p>Teneri existimant: qui nos illudendos sibi</p>
+    <p>Proponunt audacißimi. Mori nos satius est,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Quàm non hos indignis modis vlciscamur mastigias.</p>
+    <p>≤line=50≥ Sed opportunè huc ad me accedit Achior.</p>
+    <p>Ex illo quaeram quodnam hoc sit hominum genus:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note> Tum quae eorum sit confidentia, qui maximo suo</p>
+    <p>Malo, aduersus stimulum, vt aiunt, calcitrare audeant,</p>
+    <p>Hic illum, dum propiùs accedit, opperiar foris.</p>
+    <p>≤folio=X3≥</p>
+    <p>≤page=6≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-i.-scena-ii.">
+    <head>ACTVS I. SCENA II.</head>
+    <p>ACHIOR, HOLOFERNES, MOABVS.</p>
+    <p>Senarij, &amp; septenarij Iambici, admistis paucis
+    octonariis.</p>
+    <p>≤line=55≥ DVcis Holofernis vocem audire visus sum mihi.</p>
+    <p>Atque eccum: accedam, &amp; colloquar. Inuictißime</p>
+    <p>Dux, salue plurimum. Hol. Salus Achior: pol commodi</p>
+    <p>Huc aduenisti: nam est in quo nunc mihi tua</p>
+    <p>Opera, atque consilio sit opus. Ach. Si in me quid est</p>
+    <p>≤line=60≥ Princeps honoratißime, quo tibi queam</p>
+    <p>Prodesse, agedum impera: quodcunque volueris,</p>
+    <p>Effectum dabo protinus. Hol. Hem, laudo. sed habeo quòd te
+    rogem.</p>
+    <p>Ach. Quid obsecro? Hol. Dicam. Cùm omnes, quotquot in his sunt
+    regionibus,</p>
+    <p>Magno metu, atque horrore nos sibi extimescendos patent:</p>
+    <p>≤line=65≥ Cumque ex varijs locis, atque vrbibus vndique</p>
+    <p>Ad nos cuncti accurrant, ac supplices tendant manus:</p>
+    <p>Quid causae sit miror, cur praefractum hoc, &amp; pertinax</p>
+    <p>Apellarum genus, arma aduersus nos sibi</p>
+    <p>Sumenda, ac nostrum imperium procaciter</p>
+    <p>≤line=70≥ Contemnendum, atque reijciendum existiment.</p>
+    <p>Praeterea montes, &amp; viarum angustias</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Occupare, munireque conentur potius, quàm,</p>
+    <p>Quod suo cum exitio nihilominus erit eis</p>
+    <p>Faciendum postea, si se dedant nobis. Ach. Dicam herculè</p>
+    <p>≤line=75≥ Quod sentio: &amp; verum dicam dux ornatißime:</p>
+    <p>Mentiri enim non est meum. Hol. Age, loquere,</p>
+    <p>Nam audire gestio. Ach. Populus hic contemptis Dis,</p>
+    <p>≤page=7≥</p>
+    <p>Deabusque omnibus, quos diuersos regionibus</p>
+    <p>In diuersis alij colunt, vnum Deum,</p>
+    <p>≤line=80≥ Coeli, terraeque conditorem, veluti illi sibi</p>
+    <p>Persuadent, obseruant, &amp; venerantur religiosißime.</p>
+    <p>Cuius praecepto olim obsequentes, cùm fames</p>
+    <p>Ingens totum terrarum vrgeret orbem, ex patria</p>
+    <p>Procul in Aegyptum se contulerunt. Atque ibi</p>
+    <p>≤line=85≥ Per quadringentos annos, aut eo amplius,</p>
+    <p>Miris eorum soboles, ac propago amplificata est modis.</p>
+    <p>Dein’ cum iniqua, atque intolerabili tyrannido</p>
+    <p>Regis premerentur, opem, &amp; subsidium sui</p>
+    <p>Dei precibus implorauerunt supplices.</p>
+    <p>≤line=90≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Qui ipsorum misertus varijs, &amp; inauditis cladibus</p>
+    <p>Totam Aegypti regionem ita afflixit, vt eos,</p>
+    <p>Neceßitate tandem rex coactus, missos fecerit,</p>
+    <p>Quos tamen haud multò post, mutata in diuersum sententia,</p>
+    <p>Armata cum insequeretur manu, in mari, quod peruium his</p>
+    <p>≤line=95≥ Effecerat Deus, refluentibus aquae fluctibus,</p>
+    <p>Vnà cum toto extinctus est exercitu.</p>
+    <p>In quo equidem Aegyptiorum interitu isthuc fuit</p>
+    <p>Memorabile, quod ne vnus quidem superfuerit,</p>
+    <p>Qui tanta cladis nuncius esse posset. Mox</p>
+    <p>≤line=100≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Montosa ac solitaria ingreßi loca, cùm cibi</p>
+    <p>Et potus inopia laborarent, amari</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Fontes diuina eis sunt indulcati gratia.</p>
+    <p>Panisque quo se exaturauerunt affatim,</p>
+    <p>E coelo illis nunquam audito depluit modo.</p>
+    <p>≤line=105≥ Porro quod magis etiam est mirandum, inermes.</p>
+    <p>Cùm essent, hostes tamen vicerunt quos libet,</p>
+    <p>Deo pro ipsis pugnante. Neque inquam rex fuit,</p>
+    <p>≤folio=X4≥</p>
+    <p>≤page=8≥</p>
+    <p>Aut princeps, aut monarcha quispiam, licet</p>
+    <p>Opibus, &amp; copijs fuerit adiutus maximis.</p>
+    <p>≤line=110≥ Qui non aduerso Marte, &amp; infeliciter</p>
+    <p>Planè cum eis bellum geßit, dum se suo</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Morigeros atque obsequentes praeberent Deo.</p>
+    <p>Quem si quando spreuisent (quod quidem ab eis factum est
+    saepius)</p>
+    <p>A quouis sunt superati, ac debellati protinus.</p>
+    <p>≤line=115≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Quare priusquam illos adoriaris, haec</p>
+    <p>Quo pacto se habeant, mi domine, velim omnia inquiras,</p>
+    <p>Et perscruteris sedulò. Quod si in Dei</p>
+    <p>Sui cultu etiamnunc eos persistere intellexeris,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Frustra te fatiges, atque actum, quod aiunt,</p>
+    <p>≤line=120≥ Agas: cùm vinci, aut superari nequeant, donec Deum</p>
+    <p>Istum, de quo dixi, propitium habent sibi.</p>
+    <p>Hol. Vah, sacrilege, nae ego te pro istis dictis exercebo
+    probè.</p>
+    <p>Mo. Dignus pol est, qui indignis intereat modos.</p>
+    <p>Ach. Commoui vae misero mihi. Hol. Quid tecum mußitas</p>
+    <p>≤line=125≥ Scelus? Ac. Nihil herclè mi domine, nisi quod
+    consilium liberum</p>
+    <p>Oportere esse existimo: neque grauiter,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Aut iniquo animo ferendum, si quid fortè sit</p>
+    <p>Dictum, quod placet minus. Hol. Etiam loqui</p>
+    <p>Mecum audes, aut quicquam mutire verbero?</p>
+    <p>≤line=130≥ Agedum, iam faxo experiaris, quàm sit potens</p>
+    <p>Ignauorum istorum Deus, quem tu mendacibus,</p>
+    <p>Vanisque nimium hic nobis vexisti praeconijs.</p>
+    <p>Ac. Me miserum, qui nunc quamobrem accuser nescio.</p>
+    <p>Hol. Ah, nescis impudens? iam iam faciam vt scias.</p>
+    <p>≤page=9≥</p>
+    <p>≤line=135≥ An tu me nebulo dignum putas, quem irrideas,</p>
+    <p>Et quem tam aperte fallere incipias dolis?</p>
+    <p>Ehodum, compraehendite illum, &amp; ad Betulienses, viros</p>
+    <p>Istos fortes, si dijs placet, atque strenuos,</p>
+    <p>Vinctum deducite, vt cum illis intereat: suo malo</p>
+    <p>≤line=140≥ Discat, in vniuerso terrarum orbe praeter</p>
+    <p>Assyriorum regem nullum vsquam reperiri Deum.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Ach. Heu me infelicem? quid feci, aut quid commerui
+    obsecro?</p>
+    <p>Hol. Abripite eum inquam, quid statis stipites? Moa. Nisi</p>
+    <p>Sequitur, pugnos in ventrem ingerite venefico.</p>
+    <p>≤line=145≥ Hol. Scelerate, tu tuo indicio, quasi sorex, perijsti
+    hodie.</p>
+  </div>
+  <div type="level2" xml:id="actvs-i.-scena-iii.">
+    <head>ACTVS I. SCENA III.</head>
+    <p>THRASO, LABRAX, ACHIOR.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>QVid restitas? vah, sequere sceleratißime,</p>
+    <p>Nisi obtorto collo te malis protrahi.</p>
+    <p>La. Cessator, perge. Ah, crucior mihi deesse baculum,</p>
+    <p>Quo scapulas huic conteram impurißimo.</p>
+    <p>≤line=150≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Ach. O indignum facinus! quid peccaui miser?</p>
+    <p>Thr. Tace nequam. Ac. Si illum, qui ex animo consulit,</p>
+    <p>Affligendum, &amp; perdendum existimat, quid faciet ei,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Qui aut damnum dederit, aut malum? Lab. Vetus dictum est,</p>
+    <p>Malum consilium consultori peßimum.</p>
+    <p>≤line=155≥ Idque adeò miror, quomodo tam ineptum quid tibi</p>
+    <p>In mentem potuerit venire homo stultißime.</p>
+    <p>Ach. Vt res est dixi, atque hercule id quod sentio:</p>
+    <p>≤folio=X5≥</p>
+    <p>≤page=10≥</p>
+    <p>Et me nihil mentitum cognoscetis postea.</p>
+    <p>Thr. Nugae sunt, quas adfers, meraeque fabulae.</p>
+    <p>≤line=160≥ Lab. Mihi pol quidem fit verisimile, neque commentum
+    placet.</p>
+    <p>Sed agedum properemus. Rursusne restitas</p>
+    <p>Ignaue? pugnum, nisi sequeris, in os impingam tibi.</p>
+    <p>Ach. Nae ego sum infelix, qui pro consilio bono,</p>
+    <p>Tam malam ineo gratiam. Thr. Quid gannis impudens?</p>
+    <p>≤line=165≥ Pretium fers ob stultitiam te dignißimum. [&lt;
+    stultiam]</p>
+    <p>Ach. Isthuc quidem malim, quàm ob peccatum. nam, quod sciam,</p>
+    <p>Mali herclè commerui nihil. Lab. Tun’ te nihil</p>
+    <p>Commeritum dicere etiamnum audes furcifer?</p>
+    <p>Qui hos Israëlitas, homines ignauißimos,</p>
+    <p>≤line=170≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Nullis aut copijs, aut viribus vinci,</p>
+    <p>Aut superari posse asseris? Dignus pol, qui in crucem hinc</p>
+    <p>Absque vlla abripiaris mora. Th. Vah, non vides</p>
+    <p>Quanta &amp; regem Assyriorum inuictißimum,</p>
+    <p>Et Holofernem fortißimum nostrum ducem</p>
+    <p>≤line=175≥ Afficias contumelia, cùm contra imbelle hoc hominum
+    genus</p>
+    <p>Nequicquam nos pugnaturos praedicas? Quibus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Iam totus terrarum orbis victas praebet manus,</p>
+    <p>Et quorum vim nullae vsquam nationes sufferunt.</p>
+    <p>Lab. Sapienter meherclè à nostro duce factum existimo,</p>
+    <p>≤line=180≥ Atque adeo ex re tua: qui ab his, quorum potentia,</p>
+    <p>Opibusque dissidis, te distrahendum censuit:</p>
+    <p>Et ad eos ablegandum, qui insuperabili</p>
+    <p>Virtute praediti, se aduersus nos, &amp; te suum</p>
+    <p>Patronum, defendent, atque tuebuntur optimi.</p>
+    <p>≤page=11≥</p>
+    <p>≤line=185≥ Sed nescio quos huc procul aduentare conspicor.</p>
+    <p>Fundis, armisque instructos. Ex Betulia</p>
+    <p>Vrbe huc illos speculatum exiuisse arbitror</p>
+    <p>Nos ad latus huius montis, si videbitur,</p>
+    <p>Secedamus, parumque isthac à recta flectamus via.</p>
+    <p>≤line=190≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Ne pauci temere in multorum incurramus manus.</p>
+    <p>Thr. Placet. age propera, atque os vide vti comprimas scelus.</p>
+    <p>Vah, quid cunctare? moue te, inquam carnifex.</p>
+    <p>Ach. Moueo herculè sedulo. Thr. Video, sed promoues nihil.</p>
+    <p>Ehem Labrax, neque hîc morandum nobis diutiùs,</p>
+    <p>≤line=195≥ Neque propiùs ad vrbem accedendum existimo.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Quare arbori isti, quam haud procul hinc abesse
+    conspicis,</p>
+    <p>Manibus atque pedibus alligatum eum relinquamus,</p>
+    <p>Nobisque consulamus in tempore. Lab. Mones probè, in pedes</p>
+    <p>Nos nunc conijciamus quantum possumus. Thr. Age</p>
+    <p>≤line=200≥ Praecurre, consequor. ---</p>
+  </div>
+  <div type="level2" xml:id="actvs-i.-scena-iv.">
+    <head>ACTVS I. SCENA IV.</head>
+    <p>ACHIOR, SADOCVS, MELCHIAE.</p>
+    <p>Eiusdem rationis versus.</p>
+    <p>--- Eheu miseriam! itáne me hic</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Relinqui solùm? aut à feris</p>
+    <p>Dilacerandum, aut inedia periturum propediem?</p>
+    <p>O barbaram crudelitatem! ô pectora [&lt;cudelitatem]</p>
+    <p>Quauis immaniora tygride! Sad. Eho Melchia satis.</p>
+    <p>≤line=205≥ Satis inquam procul iam progreßi sumus.</p>
+    <p>Nam vereor si pergamus ire longiùs,</p>
+    <p>Me ab hostibus circumuenti, pereamus infeliciter.</p>
+    <p>≤page=12≥</p>
+    <p>Mel. Nihil adhuc nobis periculi est. Ach. Sed propiùs huc</p>
+    <p>Ad me in valle isthac accedentes video, nescio</p>
+    <p>≤line=210≥ Quos. vocem herclè intendam, &amp; eorum, quicunque
+    sunt</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Implorabo opem. Si pereundum est, manibus</p>
+    <p>Hominum, quam laniatu ferarum me malim mori.</p>
+    <p>O populares, accurrite, mihique</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Auxilium ferte misero. accurrite obsecro,</p>
+    <p>≤line=215≥ Atque infelicis vos miserescat mei.</p>
+    <p>Mel. Quem hic audio vociferantem, &amp; calamitatem deflentem
+    suam?</p>
+    <p>Deus bone, quid isthuc monstri est? hominem arbori hîc</p>
+    <p>Ego alligatum esse video. Sad. Eho, Melchia,</p>
+    <p>Video ego quoque. O prodigium! hinc quantum possemus</p>
+    <p>≤line=220≥ Fugiamus, &amp; ad vrbem recta recurramus via.</p>
+    <p>Mel. Mane paulisper Sadoce. Ach. Accedite propiùs</p>
+    <p>Viri humanißimi, &amp; innocenti subuenite mihi.</p>
+    <p>Sad. Insidias herculè ego hic nobis positas esse video
+    Melchia:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quare fugiamus dum fugiendi datur</p>
+    <p>≤line=225≥ Copia. Mel. Quin accedamus potius: nihil periculi
+    est,</p>
+    <p>Cùm neminem hic videamus vspiam. Sad. Nequeo satis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Mirari, neque conijcere quid rei siet:</p>
+    <p>Nisi quicquid est, ad illum ego isthuc accedere non audeo:</p>
+    <p>Nam insidias metuo nimis. Ach. Adeste sodes</p>
+    <p>≤line=230≥ Viri, omnemque ex animo abijcite formidinem:</p>
+    <p>Nihil enim hic vobis eueniet mali. Mel. Quaeso</p>
+    <p>Quid tu hominis es, aut quis te alligauit ad arborem</p>
+    <p>≤page=13≥</p>
+    <p>Hanc? &amp; quodnam ob facinius? Ach. Nullo herculè merito id</p>
+    <p>Mihi contigit meo. Sed cuiates estis viri,</p>
+    <p>≤line=235≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Aut quibus venistis è regionibus?</p>
+    <p>Mel. Ex vrbe hac proxima speculatum huc egreßi sumus.</p>
+    <p>Ach. Betulia? Sad. Scilicet. Ach. O factum bene, nullos ego</p>
+    <p>Pol nunc mihi malim dari. Sad. Quid ita? cedò.</p>
+    <p>Ach. Dicam: sed hoc vti sciatis prius volo:</p>
+    <p>≤line=240≥ Me vestra causa indignis hisce esse acceptum
+    modis.</p>
+    <p>Mel. Quid ais, propter nos haec tibi contigisse praedicas?</p>
+    <p>Ach. Ita est profectò vt dico: soluite me obsecro,</p>
+    <p>Rem omnem, vti sese habeat, vobis commemorabo ordine.</p>
+    <p>Mel. Hem, soluamus eum, ac disrumpamus vincula.</p>
+    <p>≤line=245≥ Ach. Gratiam habeo vobis, &amp; quoad viuam, habiturus
+    sum maximam:</p>
+    <p>Et maiorem etiam precor, vti vobis referat Deus.</p>
+    <p>Sad. Probum esse te tua indicio est oratio,</p>
+    <p>Qua cuiusque vt vita est declarat maximè.</p>
+    <p>Sed nunc eloquere sodes, quod promittebas modo:</p>
+    <p>≤line=250≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Cùm nostra causa haec te passum diceres.</p>
+    <p>Ach. Faciam, atque lubens quidem. sed nimis ego herculè</p>
+    <p>Vobis metuo malè. Sad. Quid ita? Ach. Nescitis quo in malo,</p>
+    <p>Et in quanto periculo sitis miseri. Mel. Mitte obsecro</p>
+    <p>Ambages, remque omnem vno verbo nobis expedi.</p>
+    <p>≤line=255≥ Ach. Longum foret, si hîc vobis commemorem omnia.</p>
+    <p>In vrbem vestram me deducite potiùs:</p>
+    <p>≤page=14≥</p>
+    <p>Ibi conuocatis ciuitatis proceribus,</p>
+    <p>Rem omnem vobis narrabo ordine. Sad. Dicis probè,</p>
+    <p>Atque ideo tibi lubenter hic obtemperauerimus. Ach. Bene</p>
+    <p>≤line=260≥ Herclè facitis. Agedum properemus, res non patitur
+    moram.</p>
+  </div>
+  <div type="level2" xml:id="actvs-ii.-scena-i.">
+    <head>ACTVS II. SCENA I.</head>
+    <p>OZYAS, ACHIOR, IOACHIMVS,</p>
+    <p>Trochaici, senarij, &amp; septenarij.</p>
+    <p>PRò Deum immortalem! facinus indignum Achior,</p>
+    <p>Quid narras? actum est, si quidem tu haec vera praedicas.</p>
+    <p>Ach. Est vt dixi Ozia: putes hominem furore percitum.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Ozi. Heu me miserum! itáne obstinatè operam dat, vt</p>
+    <p>≤line=265≥ Nos affligat innocentes? Ach. Quin ego iam breui</p>
+    <p>Hîc eum futurum cum omni exercitu esse existimo.</p>
+    <p>Ioa. O efferam hominis immanißimi dementiam!</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Ah, nulloné nos pacto tyrannidem,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Ac crudelitatem illius euitare</p>
+    <p>≤line=270≥ Poterimus? Ach. Ioachime, quid cum illis agas</p>
+    <p>Qui neque ius, neque bonum, neque quid aequum sit sciunt,</p>
+    <p>Nec quicquam faciunt, nisi quod lubet. Ozi. Eheu miseriam! vt
+    nihil</p>
+    <p>Est diuturnum, aut stabile in rebus mortalium!</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Iam aliquot hîc annos in pace, ac sine periculo</p>
+    <p>≤line=275≥ Viximus: at ecce de improuiso exoritur hic</p>
+    <p>Holofernes, homo importunus &amp; impius,</p>
+    <p>Qui hoc vnum studet, hucque omnibus incumbit viribus,</p>
+    <p>Quò hanc nobis tranquillitatem extorqueat infelicibus:</p>
+    <p>≤page=15≥</p>
+    <p>Nosque feritate discruciet, &amp; excarnificet sua</p>
+    <p>≤line=280≥ Cùm tamen à nobis ei nulla vnquam orta sit</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Iniuria, seduloque cauerimus hactenus,</p>
+    <p>Ne illum, aut dicto, aut facto offenderemus. Ioa. Ah,</p>
+    <p>Quis pectore tam duro, atque adamantino est, [&lt;adimantino]</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Cui non lachrymas isthaec excutiat calamitas?</p>
+    <p>≤line=285≥ Verùm quid agimus nunc, aut quid consilij capiemus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Ozya? Ozy. Nescio herculè, nisi hoc vnum, quod fors
+    feret,</p>
+    <p>Vt forti, atque magno animo feramus: &amp; in Deo</p>
+    <p>Omnis spes sit nobis. Ioa. Hem pie, atque fortiter,</p>
+    <p>Laudo: nam si ille opitulari dignetur, facillimè</p>
+    <p>≤line=290≥ Hominis impudenti, &amp; furiosi declinabimus,</p>
+    <p>Atque auertemus iniurias. Nihil enim agit,</p>
+    <p>Ac frustra se defatigat, cum Deo</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Qui pugnare parat. Idque adeo re ipsa frequenter</p>
+    <p>Experti sumus. Ozy. Scio ist huc esse ita vt</p>
+    <p>≤line=295≥ Dicis Ioachime: &amp; tamen quando in mentem mihi</p>
+    <p>Nostra veniunt delicta, haud mediocriter vereor miser,</p>
+    <p>Ne ille nos deserat, &amp; ab hoste immani, atque effero</p>
+    <p>Superari sinat. Ioa. Peccauimus herculè</p>
+    <p>Frater, fateor, ac poenam commeruimus grauißimam.</p>
+    <p>≤line=300≥ Sed resipiscamus, &amp; quod perpetrauimus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Crimen, agnoscamus atque confiteamur supplices.</p>
+    <p>Nullum est delictum, cui non benigne ignouerit Deus,</p>
+    <p>Si quidem ex animo eius poenitere nos conspexerit,</p>
+    <p>Ozy. Verè tu isthuc dicis, atque vt te decet.</p>
+    <p>≤line=305≥ Quapropter nihil iam nobis restare arbitror,</p>
+    <p>Nisi vt ad diuinam confugiamus clementiam,</p>
+    <p>Ante actae vitae deplorantes crimina.</p>
+    <p>Hoc vnicum in his nostro calamitatibus</p>
+    <p>≤page=16≥</p>
+    <p>Confugium, hoc tutum salutis nostrae asylum existimo.</p>
+    <p>≤line=310≥ Caeterum tibi Achior pro indicio gratias</p>
+    <p>Agimus maximas, animoque infracto vti</p>
+    <p>Sis oramus. Insaniat Holofernes, suisque</p>
+    <p>Contumacibus verbis, atque minis impijs</p>
+    <p>Coelum territet: nihil efficiet tamen: modò, quod fore</p>
+    <p>≤line=315≥ Confido, Deum propitium habeamus nobis. Ach. Hoc
+    quidem</p>
+    <p>Herclè haud dubium vnquam fuit mihi. Atque adeò quia id</p>
+    <p>Futurum praedicabam. ille indignatus, huc</p>
+    <p>Me ad vos protrahi iußit: idem &amp; vobis, &amp; mihi</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Exitium minitans. Quae quidem omnia, vt meminisse vos</p>
+    <p>≤line=320≥ Arbitror, commemoraui modo. Ioa. Meminimus probè,</p>
+    <p>Sed nunc intrò, si videbitur, concedamus, &amp;</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Ciues ex tota vrbe in templum conuocatos</p>
+    <p>Ad resipiscentiam, delictorumque poenitudinem</p>
+    <p>Exhortemur sedulò. Ozi. Nihil est quod aequè fecerim</p>
+    <p>≤line=325≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Lubens. Agedum, praecede, sequimur euestigiò.</p>
+  </div>
+  <div type="level2" xml:id="actvs-ii.-scena-ii.">
+    <head>ACTVS II. SCENA II.</head>
+    <p>HOLOFERNES, MOABVS, AMMONIDES.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>ITáne nondum quuquam ex ignauißimo</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Isthoc recutitorum grege pacem petitum,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Aut supplicatum nobis aduenit? Moa. Nullus</p>
+    <p>Omnino princeps honoratißime.</p>
+    <p>≤line=330≥ Hol. Quae est, si non haec appellanda contumelia
+    est?</p>
+    <p>Sed inultum faxo id nunquam auferant. Spero me habere,</p>
+    <p>≤page=17≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Quo hos meo excruciem modo. Am. Frequenter dixi idemque</p>
+    <p>Nunc dico denuò dux ornatißime,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 3.</p>
+    </note>Nisi audacißimis horum seditiosorum hominum</p>
+    <p>≤line=335≥ Molitionibus omnibus obstiteris modis,</p>
+    <p>Profecto in magnum aliquod malum temeraria</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Tandem hac erumpet confidentia. Moa. Bene herculè</p>
+    <p>Ab Ammonide dictum est, prudenterque admodum.</p>
+    <p>Nam deteriores omnes sumus licentia.</p>
+    <p>≤line=340≥ Quod nisi protinus eos adoriamur, illudent, vbi</p>
+    <p>Nos aut cessare, aut languere senserint.</p>
+    <p>Quare dum licet, &amp; dum consulendi tempus est,</p>
+    <p>Praefractam horùm cohibeamus pertinaciam:</p>
+    <p>Vlciscamur impurißimos: malè</p>
+    <p>≤line=345≥ Perdamus totam hanc Apellarum gentem. Hol. Hem
+    placet.</p>
+    <p>Non pol desinam, neque conquiescam, donec id</p>
+    <p>Perfecero. Tùm autem sceleratus, atque perfidus</p>
+    <p>Achior, vah, quibus illum exercebo modus?</p>
+    <p>Quem quidem mihi nunc optarim dari obuiam, vt</p>
+    <p>≤line=350≥ Iram hanc omnem in eum euomam: satis id habuero
+    supplicij,</p>
+    <p>Dum modo illum vlciscar, vti meritus est, mastigiam.</p>
+    <p>Quem ego credo manibus pedibusque obnixe iam omnia</p>
+    <p>Facere, magis id adeò nobis vt incommodet,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 2.</p>
+    </note>Quàm vt illis consulat; ad quos stultitia est ablegatus
+    sua.</p>
+    <p>≤line=355≥ Sed praemium iam iam, si viuo, se dignum feret.</p>
+    <p>Mo. Quoduis ego supplicium commeruisse eum arbitror.</p>
+    <p>Hol. Faxo iam mox sentiat. Sed agitedum vtî</p>
+    <p>Fortes, atque strenuos viros decet, annitimi</p>
+    <p>≤folio=Y≥</p>
+    <p>≤page=18≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 3.</p>
+    </note>Mecum vt contumaces hos, atque improbos</p>
+    <p>≤line=360≥ Hostes, Iudaeos scilicet impurißimos,</p>
+    <p>Acerrimè vlciscamur, &amp; efficiamus, vt omnibus</p>
+    <p>Exemplo sient. Ne quis sit, nos in posterum</p>
+    <p>Qui aspernari, aut nostra edicta repudiare audeat.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Atque adeo in Betuliensibus hisce proximis</p>
+    <p>≤line=365≥ Quid noster valeat exercitus, jam ostendam. Quin
+    eò</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Redigam vniuersum istud recutitorum genus,</p>
+    <p>Vt quò fugiant, aut vbi delitescant nesciant.</p>
+    <p>Nunc itaque vos moneo, atque hortor sedulò,</p>
+    <p>Ne cuiusquam istorum vos misereat: quin potius</p>
+    <p>≤line=370≥ Diripiatis, mutiletis, prosternatis, ac</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 2.</p>
+    </note>Denique trucidetis protinus, quemcunque</p>
+    <p>Nacti sitis. Satis jam, satis erga nequißimum hoc</p>
+    <p>Hominum genus nostra est spectata patientia.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Itaque nunc nihil non experiar, nullumque non mouebo</p>
+    <p>≤line=375≥ Lapidem, vt improbis horum conatibus resistam,</p>
+    <p>Molitiones inhibeam, retundam insolentiam.</p>
+    <p>Quin animam relinquam potius, quam non hos, vtî</p>
+    <p>Digni sunt, vlciscar sacrilegos. Sed satis</p>
+    <p>Superque jam moratum, aut consultum arbitror:</p>
+    <p>≤line=380≥ Maturè facto est opus. Hem. praebete vos viros,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Atque exercitum omnem ad vrbem continuò admouete</p>
+    <p>Propius. Am. Tibi princeps &amp; hîc, &amp; in alijs omnibus</p>
+    <p>Sedulò parebimus: impera, ac factum puta.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 2.</p>
+    </note>Hol. Credo mox supplicantes aderunt: sed nihil</p>
+    <p>≤line=385≥ Agent: errant, si lachrymis nos flecti posse
+    cogitant.</p>
+    <p>Iam faxo experiantur, quantum viribus,</p>
+    <p>Armis, atque virtute valeant, quos illi vtî</p>
+    <p>Mulieres imbelles illudendos proponunt sibi.</p>
+    <p>Atque haec merito illis accident, cum euenerint,</p>
+    <p>≤page=19≥</p>
+    <p>≤line=390≥ Qui nos aspernantur tam illiberaliter.</p>
+    <p>Mo. Eia, sic decet. Hol. Nunc ergo instructu exercitu</p>
+    <p>Proximè ad vrbem accedamus, ego, vt strenuum</p>
+    <p>Imperatorem decet, praeibo: vos me consequimini.</p>
+  </div>
+  <div type="level2" xml:id="actvs-ii.-scena-iii.">
+    <head>ACTVS II. SCENA III.</head>
+    <p>OZYAS, IOACHIMVS.</p>
+    <p>Eiusdem generis.</p>
+    <p>ITa me Deus amet, quantò ego magis magisque</p>
+    <p>≤line=395≥ Effraenatam hominis impij violentiam,</p>
+    <p>Ac crudelitatem barbaram mecum perpendo,</p>
+    <p>Hoc magis metuo, ne nos sua opprimat,</p>
+    <p>Affligat, vexet, atque excarnificet tyrannide.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Sed commode Ioachimum huc ad me venientem conspicor.</p>
+    <p>≤line=400≥ Hic eum praestolabor. Ioa. Enimuero nihil loci</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 2.</p>
+    </note>Est segnitiae, neque socordia, quantum hostium</p>
+    <p>Assyriorum immanitatem intelligo.</p>
+    <p>Quorum impios conatus nisi prohibuerit Deus,</p>
+    <p>Eò rem deuenturam video propediem,</p>
+    <p>≤line=405≥ Vt collum capistro, &amp; seruituti, atque iugo</p>
+    <p>Intolerabili nobis praebendum sit miserrimis.</p>
+    <p>Sed video hic stantem Oziam quem quaerebam. Ozia,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Scis quo in metu, &amp; quanto in periculo simus?</p>
+    <p>Ozi. Vtinam nesciam Ioachime. Deus bone,</p>
+    <p>≤line=410≥ Militum secum huc quantas adducit copias!</p>
+    <p>Ioa. Principes si simus, atque adeo, monarchae,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Regesque potentißimi, haudquaquam tamen</p>
+    <p>Tantae multitudinis vim, atque impetum,</p>
+    <p>Sustinere poterimus. Ozi. Fuit herculè</p>
+    <p>≤line=415≥ Crudelis semper Holofernes ille, atque efferus:</p>
+    <p>≤folio=Y2≥</p>
+    <p>≤page=20≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acatal.</p>
+    </note>Et nunc nihil magis vereor, quàm ne quid in nos</p>
+    <p>Iratus statuat, ac decernat inhumaniùs.</p>
+    <p>Ioa. Adeon’ impotenti esse animo, nihil suae isti vt imperans</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 4.</p>
+    </note>Libidini, plus quàm fatali odio non desinat</p>
+    <p>≤line=420≥ Nos innocentes persequi? Ozi. Eheu, tantamné
+    impijs</p>
+    <p>Illis hominibus malitiam, ac vecordiam</p>
+    <p>Innatam esse, alienis vt aerumnis, &amp; calamitatibus</p>
+    <p>Gaudeant, atque ex illorum incommodis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Sua vt conentur comparare commoda?</p>
+    <p>≤line=425≥ Ioa. Nisi me fallit animus Ozia, haud longè à nobis
+    aberit</p>
+    <p>Infortunium: ita castris hostium vndique</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 2.</p>
+    </note>Obsessae in angustum oppido nostrae coguntur copiae.</p>
+    <p>Ozi. Est vt dicis Ioachime: perijmus funditus,</p>
+    <p>Nisi Deus sua nos tueatur clementia.</p>
+    <p>≤line=430≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Nam in nostris rebus nobis praesidij est nihil.</p>
+    <p>Ioa. Verè isthuc quidem abs te dictum est, ac sapienter:
+    &amp;</p>
+    <p>Ob id huc omnibus arbitror incumbendum sedulo,</p>
+    <p>Vt precibus nobis placatum reddamus Deum.</p>
+    <p>Qui si nostrarum calamitatum misertus,</p>
+    <p>≤line=435≥ Succurrere nobis dignetur, facilè vel</p>
+    <p>Validißimis illorum obstiterimus cohortibus.</p>
+    <p>Namque id re ipsa frequenter experti sumus,</p>
+    <p>Quando pauci cum plurimis</p>
+    <p>Congreßi, victores tamen euasimus,</p>
+    <p>≤line=440≥ Diuina adiuti ope nihil enim aduersus Deum</p>
+    <p>Humanae valent vires, nihil armatorum copia.</p>
+    <p>Tutus est profectò, &amp; munitus abunde, hunc qui habet</p>
+    <p>Propitium sibi. Quapropter veluti copimus,</p>
+    <p>≤page=21≥</p>
+    <p>Diuinam implorare pergamus clementiam:</p>
+    <p>≤line=445≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Spero Deum nostris placatum lachrymis,</p>
+    <p>In his miserijs nos exauditurum supplices.</p>
+    <p>Qu. Id quidem &amp; ego futurum confido. Sed tempus est</p>
+    <p>Intro vt concedamus, &amp; omnes ciues ad Deum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Exorandum cohortemur sedulo. Ioa. Fiat.</p>
+  </div>
+  <div type="level2" xml:id="actvs-ii.-scena-iv.">
+    <head>ACTVS II. SCENA IV.</head>
+    <p>HOLOFERNES, AMMONIDES, MOABVS, THRASO.</p>
+    <p>Eiusdem rationis.</p>
+    <p>≤line=450≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>HAnccine ego tam insignem in nos contumeliam</p>
+    <p>Impunitam relinquam Ammonide? vah, mori</p>
+    <p>Me satius est. Moabe, Thraso, Labrax, Simalio</p>
+    <p>Huc prodite, &amp; praeceptis meis parete sedulo.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Moa. Ehem, praesto sumus domine, tua vt iussa</p>
+    <p>≤line=455≥ Exequamur gnauiter. Hol. Eia, sic fortes viros
+    decet.</p>
+    <p>Am. Quicquid praeceperis effectum dabimus protinus.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Thr. Ego quoque pro tuis summis erga me beneficijs</p>
+    <p>Hoc tibi debeo princeps illustrißime,</p>
+    <p>Conari manibus pedibusque nullum non suscipere</p>
+    <p>≤line=460≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Laborem, atque adeo capitis periculum</p>
+    <p>Libenter adire, dum prosim tibi. Hol. Bene</p>
+    <p>Pol facitis, qui morigeros vos per omnia,</p>
+    <p>Atque obsequentes praebetis mihi. Efficiam</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> 4</p>
+    </note>Contra, ne imperatoris benignitas.</p>
+    <p>≤line=465≥ Vobis vlla in re videatur defuisse. Atque adeò</p>
+    <p>Totam hanc ciuitatem vobis diripiendam,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 5.</p>
+    </note>Vastandam, euertendamque propino omnibus.</p>
+    <p>Thr. O liberalitatem maximam! Hol. Neque mihi satis erit</p>
+    <p>≤folio=Y3≥</p>
+    <p>≤page=22≥</p>
+    <p>Hanc euertisse vrbem: quin quicquid est vbique Iudaeorum,</p>
+    <p>≤line=470≥ Exagitabo, atque affligam crudelißimè.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Acat.</p>
+    </note>Nullius misereri certum est. Atque audin’ Ammonide,</p>
+    <p>Ne pueris quidem vsquam inuentis, aut mulieribus</p>
+    <p>Vos parcere volo: ne sit posthac sua</p>
+    <p>Qui nobis negotium facessere audeat</p>
+    <p>≤line=475≥ Contumacia. Quin quicquid vsquam est, sanguine,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 3.</p>
+    </note>Incendio, luctu, atque singultu complete strenui.</p>
+    <p>Am. Bonam herculè rem imperas, factuque facillimam.</p>
+    <p>Hol. Nunc autem quopacto minimo id negotio,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Atque sine vlla nostrorum militum caede</p>
+    <p>≤line=480≥ Efficere poterimus, commemorabo: vos modo</p>
+    <p>Auscultate, atque aures praebete attentas mihi.</p>
+    <p>Mo. Arreximus vtrasque vel ad nutum tibi</p>
+    <p>Obsequuturi sedulò. Hol. Aquarum ductus, ac fontium</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 6.</p>
+    </note>Tubos ab vrbe statim auertendos esse censeo.</p>
+    <p>≤line=485≥ Am. Consilium callidum, placet. Id si effeceris,</p>
+    <p>Aquae penuria interituros illos arbitror</p>
+    <p>Propediem. Neque nobis eorum moenia oppugnanda erunt,</p>
+    <p>Neque cum illis dimicandum vnquam. Ho. Si quis aquatum egredi</p>
+    <p>Ex vrbe ausus fuerit, eum compraehendite,</p>
+    <p>≤line=490≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Et mille excarnificatum trucidate modis.</p>
+    <p>Sed astu rem videte vt aggrediamini,</p>
+    <p>Ne praesentiant. Am. Probè curauero:</p>
+    <p>Nam quopacto isthuc soleat fieri, optimè</p>
+    <p>Calleo. Thr. Quin ego quoque in rebus istiusmodi</p>
+    <p>≤line=495≥ Iam aetatem contriui meam. Tum hostibus</p>
+    <p>Consilia praeripere, insidiari clanculum,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Occultis illorum obsistere molitionibus,</p>
+    <p>Ex longiori exercitatione, atque vsu nunc mihi</p>
+    <p>≤page=23≥</p>
+    <p>Est notißimum. Hol. Optimè herculè facitis,</p>
+    <p>≤line=500≥ Qui imperatoris vestri virtutem imitati,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>Vos acres praebetis viros.</p>
+    <p>Mo. De deditione jam illos in vrbe sedulò</p>
+    <p>Agitare inter se auguror. Et sapiunt mea</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb. 4.</p>
+    </note>Quidem sententia, qui sese nobis viuos dedere</p>
+    <p>≤line=505≥ Malunt, quàm ad vnum omnes miserè obtruncarier.</p>
+    <p>Hol. Quamuis se dedant, non tamen viuent nequißimi,</p>
+    <p>Quin ostendam eis potius, quid sit periculi</p>
+    <p>Illos spernere contumaciter. quos, cum volent,</p>
+    <p>Placare nequeant. Sed satis hîc cessauimus diu:</p>
+    <p>≤line=510≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Iamb.</p>
+    </note>In castra quique jam ad suos se recipiat</p>
+    <p>Protinus: atque illa, quae praecepi. sine mora</p>
+    <p>Videte vt exequamini. Thr. Fiet. Hol. De aquae</p>
+    <p>Ab eis auertenda dico. Mo. Meminimus probè.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iii.-scena-i.">
+    <head>ACTVS III. SCENA I.</head>
+    <p>IOACHIMVS, OZIAS, MELCHIAS.</p>
+    <p>Iambici Senarii, &amp; septenarii admistis paucis octonariis.</p>
+    <p>NVnc quod semper metui, &amp; de quo nimis fui</p>
+    <p>≤line=515≥ Sollicitus infelix, euenisse audio.</p>
+    <p>Nulli sumus. Quid obsecro jam nobis aliud restat, nisi</p>
+    <p>Vt aquae inopia omnes pereamus miseri? O Deus,</p>
+    <p>Haeccine vides, &amp; pateris? at opportunè eccum foras</p>
+    <p>Oziam egredientem conspicio. Tristis est, eadem</p>
+    <p>≤line=520≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Haec resciuit mala. Ozi. Hei mihi quantis in
+    calamitatibus</p>
+    <p>Versamur infelices! actum est. Sed hiccine Ioachimus est,</p>
+    <p>Quem huc ad me accedentem video? is est ipsus. O</p>
+    <p>Ioachime, ô mi frater, quid agimus nunc, aut quid das
+    consilij?</p>
+    <p>≤folio=Y4≥</p>
+    <p>≤page=24≥</p>
+    <p>Cedo. Ioa. Nescio herclè: nam peiore res loco esse non
+    potest,</p>
+    <p>≤line=525≥ Quàm in quo nunc est sita. Oxy. Ah, itane de auerso
+    aquae</p>
+    <p>Ductu rem, quomodo se habeat, intellextin’? Ioa. Omnia.</p>
+    <p>Sed eccum Melchiam huc ad nos properare conspicor.</p>
+    <p>Vide vt perturbatus siet. Eadem hac, quae nos male</p>
+    <p>Habent virum. Mel. Vae, vae nobis! nunc illud est,</p>
+    <p>≤line=530≥ Quod si omnes omnia sua consilia conferant,</p>
+    <p>Atque huic grauißimo malo salutem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quaerant, auxilij nihil adferant. O inuidentiam!</p>
+    <p>Vtrum studióne id habet, an laudi sibi fore</p>
+    <p>Existimat, si nos perdiderit innocentes? O Deus,</p>
+    <p>≤line=535≥ Serua atque tuere nos miseros! Sed video quos</p>
+    <p>Volebam. Eho fratres, qua spe, aut quo consilio freti sumus?</p>
+    <p>Ioa. Ah, Melchia, nescio: nisi quod sors fert, feramus
+    fortiter.</p>
+    <p>Mel. Prae formidine pol mens inhorrescit mihi,</p>
+    <p>Cùm quam afflictae res nostrae sint ac perditae,</p>
+    <p>≤line=540≥ Reminiscor miser. Hem, quo redacti sumus? Ozy.
+    Animo</p>
+    <p>Bono, ac forti oro vti sis frater. spero Deum</p>
+    <p>Sua nobis subuenturum clementia.</p>
+    <p>Mel. Spero ego quoque sed ne haec spes nos fallat, nimis</p>
+    <p>Metuo infelix. Tum quoties hominis efferi</p>
+    <p>≤line=545≥ Immanitatem mecum perpendo, animus prae metu,</p>
+    <p>Quod dici solet, in genua concidit mihi, Neque id</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Immerito certè, vt arbitror:</p>
+    <p>Nam postquam tam crudeliter egerit cum ijs,</p>
+    <p>Qui vltrò sese illi dediderunt, quid faciet</p>
+    <p>≤page=25≥</p>
+    <p>≤line=550≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Nobis, qui constanter ei restitimus hactenus?</p>
+    <p>Vtî lupus famelicus in agnos, ita</p>
+    <p>In nos sua ille saeuiet tyrannide.</p>
+    <p>Ioa. Scio id futurum Melchia, si quidem ille vrbem ceperit.</p>
+    <p>Sed impios effraenati hominis conatus Deum</p>
+    <p>≤line=555≥ Frustraturum confido. Mel. Vtinam isthuc fiat! sed
+    vide</p>
+    <p>Etiam sodes, ne vana lactemur spe Ioachime. Ioa. Non</p>
+    <p>Fiet. Deus ad tempus nos affligi, non extingui sinet.</p>
+    <p>Tum si omnino moriendum sit, qui pro religione,</p>
+    <p>Pro libertate, pro salute patriae,</p>
+    <p>≤line=560≥ Pro aris, atque focis perit, non omnino interit.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Itaque forti ac tranquillo animo vt sis obsecro.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Malum ego homini nullum praeter culpam accidere posse
+    arbitror.</p>
+    <p>Eam si vitemus, quicquid nobis euenerit,</p>
+    <p>Moderatè erit atque patienter ferendum, Melchia.</p>
+    <p>≤line=565≥ Mel. Recte, sed ne aquae inopia afflictemur, atque
+    postea</p>
+    <p>Etiam omnino pereamus, non mediocriter</p>
+    <p>Solicitus sum miser. Ioa. Potin’, vt timere desinas?</p>
+    <p>Quid obsecro hac solicitudine, nisi malum tibi</p>
+    <p>Conduplicas? cùm idem vel nolenti sit tolerandum tamen.</p>
+    <p>≤line=570≥ Ozy. Verè hoc quidem, atque vti se res habet, est
+    dictum, Melchia:</p>
+    <p>Quare aduersa haec si animo patienti tulerimus,</p>
+    <p>Post, nisi me mens fallit, fruemur prosperis.</p>
+    <p>Mel. Faxit ita Deus. Ioa. Faciet, tu modo fac sis animo bono:</p>
+    <p>Et nobiscum Deum precare, vt nos sua</p>
+    <p>≤folio=Y5≥</p>
+    <p>≤page=26≥</p>
+    <p>≤line=575≥ Tueri, ac conseruare dignetur clementia.</p>
+    <p>Mel. Fiet, nam talis mihi vestra videtur esse oratio,</p>
+    <p>Vt si refrager pertinanciter peccare me putem.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iii.-scena-ii.">
+    <head>ACTVS III. SCENA II.</head>
+    <p>HOLOFERNES, AMMonides, MOABVS.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>IAm tranquillo animo demum exeo foras, cùm eò</p>
+    <p>Redactos pertinaces hosce apellas conspicor,</p>
+    <p>≤line=580≥ Vt aquae penuria miserè eis pereundum sit
+    propediem.</p>
+    <p>Ego herclè nunc illos sic vlciscar mastigias,</p>
+    <p>Vt ne impunè in nos illusisse videantur. Vah, nescio</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Quos illi nos homines esse arbitrentur, qui</p>
+    <p>Tantam sibi contumaciam feliciter</p>
+    <p>≤line=585≥ Cessuram credunt? Nae illi vehementer errant.</p>
+    <p>Siquidem nostram pristinam patientiam,</p>
+    <p>Qua turpiter abusi sunt hactenus, sibi</p>
+    <p>Perpetuam pollicentur fore. Sed eccum Ammonidem,</p>
+    <p>Et Moabum. Am. Opportunè, atque in ipso tempore</p>
+    <p>≤line=590≥ Hîc astabas domine: nam te quaesitum exieramus
+    foras.</p>
+    <p>Hol. Qua gratia? cedo. Am. Dicam. manè admodum</p>
+    <p>Diluculo, per tota deambularemus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Castra, vnumquemque ducem, ac militem officij sui</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 4.</p>
+    </note>Admonentes sedulò, moxque ad ciuitatem</p>
+    <p>≤line=595≥ Propiùs cum aggreßi essemus, munitiones hostium,
+    ac</p>
+    <p>Propugnacula vt contemplaremur accuratiùs:</p>
+    <p>Depraehendimus alios quosdam etiamnunc ciuibus,</p>
+    <p>In collibus vrbi proximis, superesse fontes: omnibus</p>
+    <p>Quos illi communiuerant conatibus. magis</p>
+    <p>≤line=600≥ His in montis radice positis, quem armis confisi
+    suis.</p>
+    <p>Quapropter nisi &amp; ab his eos arcendos longius,</p>
+    <p>≤page=27≥</p>
+    <p>At diligenter propulsandos protinus</p>
+    <p>Curaueris, frustra, atque adeò magna cum infamia, &amp;</p>
+    <p>Dedecore multos hîc desidebimus dies.</p>
+    <p>≤line=605≥ Hol. Quid audio? atqui existimabam omnem iamdudum
+    eis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Aquam esse praereptam penitus. Mo. Credideram ego id</p>
+    <p>Quoque &amp; nisi ipse ex illis fontibus eos clanculum</p>
+    <p>Aquam haurientes, atque in vrbem deferentes</p>
+    <p>Hisce oculis vidissem modo, nunquam crederem.</p>
+    <p>≤line=610≥ Cui malo nisi remedium statim tua</p>
+    <p>Inuenerit prudentia, actum agimus: procaciter</p>
+    <p>Illudent. si id nos aut negligere, aut impedire non</p>
+    <p>Posse intellexerint. Hol. Ego isthuc facilè impediero:</p>
+    <p>Daboque operam, vt quae nunc certa illis consilia</p>
+    <p>≤line=615≥ Videntur, incerta dubiaque reddantur omnia.</p>
+    <p>Quin mihi sic stat sententia, potius animam</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Me relicturum meam, quàm non hanc vrbem euerterim</p>
+    <p>Soloque aequauerim planißimè. Am. Eia sis decet.</p>
+    <p>Hol. Neque horum clade, atque interitu contentus ero,</p>
+    <p>≤line=620≥ Verum vniuersum illum recutitorum gregem</p>
+    <p>Ad seditionem natum extirpabo radicitus.</p>
+    <p>Multa illos hactenus malè mea docuit facilitas:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>At nunc faxo illius vt experiantur saeuitiam, cuius</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Gratia, atque lenitate abusi sunt procaciter.</p>
+    <p>≤line=625≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Neque à quoquam me exorari finam, quin pro</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Tam insigni isthac audacia</p>
+    <p>Illos, vti digni sunt, vlciscar sacrilegos.</p>
+    <p>Malim me crudelem, quàm dissolutum in hos viderier.</p>
+    <p>Nam nisi maturè eorum restiterimus peruicaciae,</p>
+    <p>≤page=28≥</p>
+    <p>≤line=630≥ Ferociam cohibuerimus, retuderimus insolentiam,</p>
+    <p>Ad extremum, quae illorum est confidentia, nos quoque</p>
+    <p>Vrbesque nostras oppugnatum venient audacißimi.</p>
+    <p>Mo. Isthuc est sapere, non quod ante pedes modò est</p>
+    <p>Videre, sed etiam illa quae futura sunt,</p>
+    <p>≤line=635≥ Multò antè prospicere. Hol. Id ducis est officium, hoc
+    qui nequit,</p>
+    <p>Fateatur se indignum imperatoris nomine. Sed nunc sine</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Mora dispositis paßim praesidijs in montibus, fontes</p>
+    <p>Eos omnes aut obseruari, aut obturari iussero.</p>
+    <p>Am. Isthuc recte, laudo. Hol. Vos me hac consequimini.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iii.-scena-iii.">
+    <head>ACTVS III. SCENA III.</head>
+    <p>OZYAS, IOACHIMVS.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>≤line=640≥ PRofectò quantò ego magis magisque ferociam,</p>
+    <p>Viresque inuictas horum hominum, tum immanitatem,</p>
+    <p>Et impotentiam, atque adeò crudelitatem</p>
+    <p>Ducis huius effraenati, barbarique mecum cogito, hoc</p>
+    <p>Magis metuo infelix, ne haec nobis infeliciter</p>
+    <p>≤line=645≥ Cedat confidentia: qua freti, tantis copijs</p>
+    <p>Resistere ausi fuimus hactenus. Neque</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>De vlla alia re magis nunc solicitus sum, quam de aqua</p>
+    <p>Nobis conseruanda in fontibus hisce proximis.</p>
+    <p>Sed ne &amp; hanc nobis praeripiant, quemadmodum</p>
+    <p>≤line=650≥ Reliquos aquarum riuos, procul ab vrbe auerterunt,
+    nimis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Herculè ego nunc vereor miser.</p>
+    <p>Quod si contingat, actum est de vita, atque salute omnium.</p>
+    <p>≤page=29≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>At ita me Deus amet, vt ego nunc non tam meae</p>
+    <p>Vitae, cuius maior pars iam exacta est mihi,</p>
+    <p>≤line=655≥ Quam religioni nostrae, quae nobis maximè</p>
+    <p>Curae esse debet, quàm vxoribus, ac liberis</p>
+    <p>Timeo, quos illi indignis violatos modis,</p>
+    <p>In seruitutem perpetuam abripient sibi,</p>
+    <p>Sed nisi me oculi fallunt, Ioachimum huc accedentem
+    conspicor.</p>
+    <p>≤line=660≥ Vel ex solo illius vultu in quo afflicto rerum
+    statu</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Simus, videas facillime. Ioa. Vt</p>
+    <p>Nihil quietis est in pectore? dum aduenio,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Coepi egomet interim mecum rem aliam ex alia</p>
+    <p>Cogitare, &amp; ea omnia in peiorem partem, vtî</p>
+    <p>≤line=665≥ Fit, vbi quid in aniio solet esse molestiae.</p>
+    <p>Quid multis? quo magis huius hominis impij</p>
+    <p>Crudelitatem mecum expendo, ac considero</p>
+    <p>Tyrannidem, hoc mihi mens inhorrescit magis.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Eheu! lachrymo: quae post hac est futura vita,</p>
+    <p>≤line=670≥ Cum tam grauis, tamque misera in mentem venit</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Seruitus. At Oziam non procul hinc astare video.</p>
+    <p>Ozi. Prior ego illùm compellabo. Hem Ioachime, quo in statu</p>
+    <p>Sunt res, ac fortunae nostrae? Eheu, quid taces,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Aut quid suspiras obsecro? Io. Ozya mi, mi frater, nihil</p>
+    <p>≤line=675≥ Ego nobis miserius esse arbitror: quibus vndique</p>
+    <p>Validißimo hostis barbari obseßis exercitu.</p>
+    <p>Nulla vsquam aut resistendi, aut elabendi datur</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Copia. Ozi. Eandem etiam hic ego calamitatem doleo miser.</p>
+    <p>Sed nescio quem procul exanimatum ad nos accurrere video.</p>
+    <p>≤page=30≥</p>
+    <p>≤line=680≥ Perij, quid sibi vult tam praeceps hominis cursus?
+    Quàm timeo ne</p>
+    <p>Ille nunc tristißimam nobis rem nunciet.</p>
+    <p>Ioa. Idem, &amp; ego futurum auguror, adeò animus formidine,</p>
+    <p>Ac terrore obstupuit mihi. ---</p>
+  </div>
+  <div type="level2" xml:id="actvs-iii.-scena-iv.">
+    <head>ACTVS III. SCENA IV.</head>
+    <p>MELCHIAS, IOACHIMVS, OZYAS.</p>
+    <p>Eiusdem generis.</p>
+    <p>--- Eheu, vix sum compos animi, ita</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Vsque currendo sum defatigatus miser.</p>
+    <p>≤line=685≥ Pedibus magnam habeo gratiam, qui me ex periculo</p>
+    <p>Tanto surripuerunt. Sed vbi nunc Oziam</p>
+    <p>Nostrae vrbis principem reperiam cogito. Ioa. Melchias</p>
+    <p>Est, &amp; te nominat: appellemus. Oz. Heus heus Melchia.</p>
+    <p>Mel. Qui homo est qui me? Eho, te ipsum quaerebam Ozia.</p>
+    <p>≤line=690≥ Hem, tu quoque hic aderas Ioachimè? non
+    praeuideram</p>
+    <p>Te, ignosce. Ioa. Quidnam est quod ita trepidas, aut quid
+    exanimatus es</p>
+    <p>Obsecro? cedo. Mel. actum est, perijmus miseri. Ozi. Istud
+    auertat Deus.</p>
+    <p>Mel. Nescitis quantum ego vobis aduentu meo</p>
+    <p>Nunc apportem mali. Ioa. Eheu miseriam! facilè quidem</p>
+    <p>≤line=695≥ Isthuc futurum, cum te accurrentem procul</p>
+    <p>Conspiciebamus, augurabamur modo.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Mel. Ad restim iam quidem res nobis deuenit planißimè.</p>
+    <p>Ozi. Vae nobis miseris! sed narra sodes quid sit mali.</p>
+    <p>Mel. Hostes omnibus vndique obseßi sontibus, aquam</p>
+    <p>≤line=700≥ Vniuersam praeripuerunt nobis. Ozi. O Deus,</p>
+    <p>Quid ego audio! actum est, siquidem tu isthaec vera
+    praedicas.</p>
+    <p>≤page=31≥</p>
+    <p>Mel. Verißimum esse reperietis quod nuncio.</p>
+    <p>Nam clanculum modò ad hauriendum aquam dum exeo, priùs</p>
+    <p>Quàm ad illum peruenissem fontem, circumuentus vndique</p>
+    <p>≤line=705≥ Ex insequentium manibus vix effugi miser.</p>
+    <p>Ozi. Vae nobis infelicibus. vt animus in spe, ac formidine</p>
+    <p>Vsque antehac attentus fuit, ita postquam adempta spes,</p>
+    <p>Lassus, curaque confectus stupet. Mel. Eheu miseriam!</p>
+    <p>Quid facimus nunc, aut quid das consilij Ozia? Ozi. Neque</p>
+    <p>≤line=710≥ Quid consulam, neque quid nobis faciendum sit
+    scio.</p>
+    <p>Ioa. Deum immortalem, quam ego nunc totus displiceo mihi!</p>
+    <p>Nullos credo vsquam nobis miseriores viuere.</p>
+    <p>Sed intro, si videbitur, nunc concedamus, vt omnibus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Ciuitatis nostrae conuocatis optimatibus.</p>
+    <p>≤line=715≥ Consilium vnà capiamus, quid nobis potißimum</p>
+    <p>Opus facto siet. Ozi. Vt lubet, praecede, sequimur. O Deus</p>
+    <p>Serua obsecro, atque tuere nos miserrimos.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iv.-scena-i.">
+    <head>ACTVS IV. SCENA I.</head>
+    <p>OZIAS, IOACHIMVS, MELCHIAS. SADOCVS.</p>
+    <p>Eiusdem rationis versus.</p>
+    <p>MVltos jam lamentando, flendoque exegi dies:</p>
+    <p>Adeò vt oculi lachrymis caecutiant mihi.</p>
+    <p>≤line=720≥ Praeterea corpus longiori elanguit inedia.</p>
+    <p>Quin genua labant, pedesque vix suo</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Funguntur munere. Dein’ cum de religione</p>
+    <p>Per impios hosce homines planè extirpanda, de vxoribus</p>
+    <p>≤page=32≥</p>
+    <p>Ac filiabus constuprandis: tum de liberis</p>
+    <p>≤line=725≥ Nostris in seruitutem hinc abducendis mecum
+    cogito,</p>
+    <p>Dolor is mihi multò omnium est grauißimus.</p>
+    <p>Atque hanc calamitatem, &amp; miseriam quomodo</p>
+    <p>Nunc effugiamus, equidem nescio: cùm aquae penuria</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Iampridem tota laboret ciuitas, cisternis omnibus,</p>
+    <p>≤line=730≥ Quae intra moenia sunt, ante aliquot dies planè</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Exhaustis. Atque ideo nihil metuo magis, quam ne</p>
+    <p>Ciues extrema neceßitate concitati,</p>
+    <p>Vim nobis faciant, atque ad deditionem cogant. Sed quid hoc?</p>
+    <p>Papè, quantam huc hominum accurrere video multitudinem!</p>
+    <p>≤line=735≥ Locus hic vix ceperit. Quid faciam nescio,</p>
+    <p>Ioa. Prohibete tumultum fratres, atque quieto animo estote
+    obsecro:</p>
+    <p>Et quod Deus nostris offensus criminibus</p>
+    <p>Nobis immittit, patienter feramus atque fortiter.</p>
+    <p>Mel. Quam tu nobis patientiam Ioachime, quam</p>
+    <p>≤line=740≥ Commemoras fortitudinem? cùm in tantis
+    calamitatibus</p>
+    <p>Versemur miseri. Ioa. Spero Deum nobis adiutorem fore.</p>
+    <p>Sad. Isthuc quidem omnes sperauimus hactenus: at nunc vides</p>
+    <p>Opinor, quàm miserè haec nos spes fefellerit.</p>
+    <p>Sed ad Ozyam, vtî te facturum dixisti, nos deducito: vt</p>
+    <p>≤line=745≥ Sciamus quidnam nobis faciendum siet.</p>
+    <p>Ioa. Agite, sequimini. At eccum non ita procul hinc eum</p>
+    <p>Stantem video. Ozy. Deum immortalem! quid ego nunc eis</p>
+    <p>≤page=33≥</p>
+    <p>Respondeam, aut quid consilij dem nescio:</p>
+    <p>Ita conturbatae sunt omnes rationes mihi.</p>
+    <p>≤line=750≥ Sad. Quid nunc ais? Ozya? viden’ nos consilijs
+    tuis</p>
+    <p>Misere impedirier? eoque redactos esse, vt</p>
+    <p>Mors nobis vitae praeferenda siet. Ozi. Respirate, ac bono</p>
+    <p>Animo estote obsecro. Deus etiamnum viuit, cui</p>
+    <p>Nos nostraque omnia cura esse experti sumus saepißimè.</p>
+    <p>≤line=755≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Mel. Iampridem nostris delictis ille offensus; auribus</p>
+    <p>Obturatis nos spernit, &amp; auersatur supplices.</p>
+    <p>Ozi. Peccauimus fratres, confiteor id quidem, &amp;</p>
+    <p>Malo grauißimo, atque adeo exitio digni sumus.</p>
+    <p>Sed spero tamen Deum nostri misertum, hunc luctum in gaudium</p>
+    <p>≤line=760≥ Nobis commutaturum propediem. Sad. Isthaec verba
+    sunt,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Quibus os nobis subleuisti hactenus, nunc in</p>
+    <p>Eum rem redijsse videmus locùm, vt vrbs hostibus</p>
+    <p>Iam iam dedenda sit nobis. Namque ita iubet</p>
+    <p>Neceßitas, durum telum. Atqui satius est, mea</p>
+    <p>≤line=765≥ Quidem, totiusque populi sententia,</p>
+    <p>Vt captiui nostrum colamus, atque venerentur Deum,</p>
+    <p>Quàm religione extirpata, per maximam</p>
+    <p>Ignominiam, dedecus, atque opprobrium intereamus</p>
+    <p>Omnes. Ozi. O conditionem infelicißimam!</p>
+    <p>≤line=770≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Ioa. Durum quidem, sed leuius sit patientia,</p>
+    <p>Quicquid nequit mutarier. Oz. Ausculta obsecro</p>
+    <p>Sadoce, vosque omnes, qui huc venistis fratres. ad fortiter</p>
+    <p>Resistendum hostibus exhortatus sum vos hactenus,</p>
+    <p>Eo quidem animo, quòd certo confidebam, Deum</p>
+    <p>≤line=775≥ Sua nobis subuenturum clementia. Id</p>
+    <p>Quoniam nondum accidit, oro, atque obtestor vos omnes, vt
+    dies</p>
+    <p>≤folio=Z≥</p>
+    <p>≤page=34≥</p>
+    <p>Tantùm quinque patienter ferre pergatis, qua magno animo,</p>
+    <p>Ac forti sustinuistis hactenus. Spero interim</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Deum opitulaturum nobis. Quod si diebus</p>
+    <p>≤line=780≥ Illis quinque exactis precibus lachrymisque, quas</p>
+    <p>Sine intermißione effundendas puto,</p>
+    <p>Diuinam nondum consequuti fuerimus clementiam,</p>
+    <p>Ne vnum quidem vrbis deditionem remorabor diem.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Agite, atque hac in re vos praebete morigeros mihi.</p>
+    <p>≤line=785≥ Mel. Si quidem quinque verum ne fiant isti viginti</p>
+    <p>Dies. Ozi. Profectò non plus quinque, aut. Sad. Aut? nihil</p>
+    <p>Moramur. Ozi. Non fiet, tantùm hoc permittite, vt</p>
+    <p>Vos exorem. Mel. Tua virtus nos monet Ozia, vt tibi</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Rem quanquam grauem, atque difficilem petenti</p>
+    <p>≤line=790≥ Pareamus: nisi quid dissentitis fratres. Sad.
+    Agedum,</p>
+    <p>Concedimus, sed hac qua dixti conditione Ozia.</p>
+    <p>Ozi. Sic fiet. Ite nunc intrò, &amp; diuinam, vti hactenus</p>
+    <p>Fecistis, pergite implorare misericordiam.</p>
+    <p>Felicius haec res quàm arbitrabar succeßit mihi:</p>
+    <p>≤line=795≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quando commode loquendo quinque etiamnunc impetraui</p>
+    <p>Dies: interea spero aliquid euenturum boni.</p>
+    <p>Quod si intra istud tempus Deus nondum nobis subuenerit,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Actum erit: neque quicquam nobis restabit miseris, nisi</p>
+    <p>Vt nos tyranno huic dedamus impio.</p>
+    <p>≤line=800≥ Quod vt prohibeas, auertasque oro te mi Deus.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Maxima quidem nostra sunt peccata, sed tua</p>
+    <p>Longè maior est clementia: qua potißimùm</p>
+    <p>Tum demum auxiliari soles tuis, cum omni</p>
+    <p>≤page=35≥</p>
+    <p>Praesidio, omnique humana destituti sunt ope,</p>
+    <p>≤line=805≥ Id obsecro vt nunc nobis eueniat Deus.</p>
+    <p>Sed estne haec Iuditha, quam multis stipatam vrbis
+    primatibus,</p>
+    <p>Ac presbyteris, huc ad me festinantem video? Ea</p>
+    <p>Est ipsa. miror quid siet: nec temere esse arbitror.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iv.-scena-ii.">
+    <head>ACTVS IV. SCENA II.</head>
+    <p>IVDITHA, AZARIAS, OZYAS.</p>
+    <p>Eiusdem generis.</p>
+    <p>QVid isthuc est fratres? itáne quinto ab hinc exacto die</p>
+    <p>≤line=810≥ Ozias impijs his nos dedendos censet hostibus?</p>
+    <p>Aza. Ita quidem res habet, vt dixi Iuditha.</p>
+    <p>Sed eccum ipsum stantem pro foribus, nunc praesentem eum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Incusa, si videtur, quem absentem obiurgasti hactenus.</p>
+    <p>Iud. Id faciam, ac confidenter quidem: quandoquidem</p>
+    <p>≤line=815≥ Errare, atque adeò (vt pace illius istud dixerim)</p>
+    <p>Peccare mihi videtur grauißimè. Ozi. Quisnam obsecro</p>
+    <p>Est ille, quem errasse ais, &amp; peccati insimulas? cedo
+    Iuditha.</p>
+    <p>Iud. Dicam Ozia. Tu es ille, quem deliquisse grauiter</p>
+    <p>Existimo. Ozi. Quid ita? dic sodes: non enim</p>
+    <p>≤line=820≥ Intelligo. Iud. Non? hem. Ozi. Non profecto. Iud. At
+    faxo iam vt</p>
+    <p>Intelligas. Ozi. Si peccaui soror, non causam dico, quin</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Quod meritus sim feram. Iud. Tun’ tempus, aut diem,</p>
+    <p>Quo nobis subueniat, statues Deo? vt nisi</p>
+    <p>Intra dies quinque opem ferat, tu vrbem impijs</p>
+    <p>≤folio=Z2≥</p>
+    <p>≤page=36≥</p>
+    <p>≤line=825≥ Hisce dedas hostibus? ah, itáne consulem,</p>
+    <p>Ac ciuitatis principem facere decet? hoc mea</p>
+    <p>Fidei credas velim: neque tali oratione, neque</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal. Troch.
+      2.</p>
+    </note>Animo tali nobis placandus est Deus:</p>
+    <p>Quo quidem ad iram illum prouocaueris facilius.</p>
+    <p>≤line=830≥ Non ille benignitatis, ac clementiae suae</p>
+    <p>Tempus à nobis sibi praescribi postulat.</p>
+    <p>Tum demum succurret cum diuinae illius</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal. Troch.
+      2.</p>
+    </note>Voluntati visum fuerit, nostraeque saluti</p>
+    <p>Expedire cognouerit. itaque nunc subsidium, atque opem</p>
+    <p>≤line=835≥ Eius imploremus, nostraque crimina</p>
+    <p>Confeßi, oremus supplices, vt cum illi maxime</p>
+    <p>Placebit, tum nobis potißimùm auxilium ferat.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Quemadmodum quondam maiores nostri, quando praeceptis</p>
+    <p>Diuinis post tergum reiectis contumaciter,</p>
+    <p>≤line=840≥ Alienos coluerunt Deos, grauiter puniti, atque
+    hostibus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Traditi, miseris interierunt modis:</p>
+    <p>Ita &amp; nunc idem ille patrum nostrorum Deus,</p>
+    <p>Suo nutu qui regit, atque moderatur omnia,</p>
+    <p>Nostra vlciscens delicta, nos premi, &amp; affligi sinit:</p>
+    <p>≤line=845≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quam profecto afflictionem, quemadmodum</p>
+    <p>Nobis salutarem esse confido, ita breuem fore,</p>
+    <p>Auguror. Atque haec spes hinc nunc suggeritur mihi,</p>
+    <p>Quod impio aliorum Deorum cultu contempto, piè,</p>
+    <p>Ac religiosè ipsum vnum venerati sumus</p>
+    <p>≤line=850≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Hactenus. Ozi. O Viraginem sanctam, fortem, atque
+    strenuam!</p>
+    <p>Vah, pudeat nos nostri, qui viri, atque principes</p>
+    <p>Populi sumus. Iud. In memoriam vobis redigite obsecro,</p>
+    <p>Quopacto Abrahamus, lsacus, atque Iacobus, patres</p>
+    <p>≤page=37≥</p>
+    <p>Nostri, qui omnes quidem viri fuerunt optimi,</p>
+    <p>≤line=855≥ Varijs malis, &amp; cladibus olim explorati, neque</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Animum tamen despondentes, diuinam consequuti</p>
+    <p>Sint gratiam. Sic etiam nunc fratres, Deus</p>
+    <p>Nos exerceri, haud extingui sinet. Ozi. Verißima</p>
+    <p>Quae dixisti, sunt omnia: &amp; laudo constantiam,</p>
+    <p>≤line=860≥ Ac pietatem tuam mea Iuditha. Nunc itaque</p>
+    <p>Te oramus, vt precibus, atque lachrymis tuis</p>
+    <p>Placare nobis coneris Deum: tibi</p>
+    <p>Enim, quia mulier pia es, &amp; multo melior quam nos, scio</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Illum obtemperaturum magis. Iud. Ehodum, auscultate, nam</p>
+    <p>≤line=865≥ Quod facere in animo concepi, exponam vobis. Aza. Quid
+    Iuditha?</p>
+    <p>Iud. Hac nocte ego cum ancilla mea Abra constitui ex urbe
+    egredi.</p>
+    <p>Neque hîc, quid sim factura, perscrutari vos volo.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Deum tantum orabitis, vt ancillam suam reuerti</p>
+    <p>Permittat incolumem. Id si euenerit, vti</p>
+    <p>≤line=870≥ Confido, promitto vobis salua futura omnia.</p>
+    <p>Ozi. I mea Iuditha: Deus tibi eunti, atque redeunti sit
+    comes.</p>
+    <p>Iud. Spero ita fore. vos ad portam me opperimini:</p>
+    <p>Ne sit qui egressum remoretur meum. Ozi. Age fiet. Deum</p>
+    <p>Immortalem! mulier mulieri quid praestat? virtus ei</p>
+    <p>≤line=875≥ Relucet ex oculis, grauisque seueritas</p>
+    <p>Inest in vultu, atque in verbis fides. Aza.</p>
+    <p>Rara vitae integritas, moresque amabilißimi</p>
+    <p>Eam commendant maximè. Huc accedit admirabilis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quaedam, quanquam in cultu neglecto, formae gratia.</p>
+    <p>≤folio=Z3≥</p>
+    <p>≤page=38≥</p>
+    <p>≤line=880≥ Sed hoc demiror Ozia qua causa ea fit ex</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Ciuitate itura, aut quidnam molitura sit</p>
+    <p>Mulier: nisi quicquid est quod conatur, confido ei,</p>
+    <p>Et nobis omnibus successurum feliciter.</p>
+    <p>Ozi. Confido ego herculè quoque. Sed nunc, si placet,</p>
+    <p>≤line=885≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Ad portam recta concedamus via: atque eam</p>
+    <p>Illic expectemus, dum veniat. Aza. Age, in nobis nihil est
+    mora.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iv-scena-iii.">
+    <head>ACTVS IV SCENA III.</head>
+    <p>IVDITHA.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>DIfficile, atque arduum est, quod molior; &amp; tamen</p>
+    <p>Spes magna habet animum, hanc rem mihi</p>
+    <p>Successuram ex sententia. Sed quoniam viribus</p>
+    <p>≤line=890≥ Humanis effici id nullo modo potest,</p>
+    <p>Orandus est mihi Deus, vt meis succurrere,</p>
+    <p>Et subuenire dignetur conatibus.</p>
+    <p>Clementißime caeli, terraeque conditor Deus,</p>
+    <p>Qui es Dominus Simeonis patris mei: cui</p>
+    <p>≤line=895≥ Virtutem, &amp; fortitudinem, atque adeò
+    memorabilem</p>
+    <p>Victoriam contra hostes olim tribuisti tuos:</p>
+    <p>Oro te, atque obsecro, vt diuina gratia</p>
+    <p>Tuaque benignitate animum corrobores mihi:</p>
+    <p>Vt in eo, quod tuo, vt arbitror, afflata numine</p>
+    <p>≤line=900≥ Adorior, facinore constanter perseuerem,</p>
+    <p>Ne patere mi Deus, vt hoc impium, atque barbarum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Hominum genus impunè in sanctißimum tuum</p>
+    <p>Illudat nomen: nosque diuino tuo</p>
+    <p>Hactenus addictos cultui maioribus</p>
+    <p>≤line=905≥ Affligat cladibus: belloque superatos miserrimam</p>
+    <p>In seruitutem abripiat sibi. Quin potius pro tua</p>
+    <p>≤page=39≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 4.</p>
+    </note>Pristina erga nos effice facilitate, &amp; clementia,</p>
+    <p>Vt gloriosus ille, atque efferus suarum virium</p>
+    <p>Ostentator, tuique numinis contemptor improbus,</p>
+    <p>≤line=910≥ Ab imbelli illusus muliere, intereat turpiter:</p>
+    <p>Vtque ipsa re nobis declares, quàm nihil</p>
+    <p>Omnino aduersus inuictam tuam potentiam</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Hyper.</p>
+    </note>Hominum impiorum valeant vires. Tum quàm miserè
+    insaniant,</p>
+    <p>Et quantopere sese fallant, qui copiis,</p>
+    <p>≤line=915≥ Qui gladiis, qui scuto, atque sagittis, qui quadrigis,
+    suoque</p>
+    <p>Equitatu freti, contra te insolenter cristas erigunt.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Erit hoc per totum terrarum orbem memorabile, ac tuo</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Imprimis gloriosum nomini, si is, qui</p>
+    <p>Non solum homines, sed etiam ipsum coelum sui</p>
+    <p>≤line=920≥ Terret minis, non multitudine militum,</p>
+    <p>Aut bellica virtute, sed per inermem feminam, è</p>
+    <p>Medio sublatus, risui sit omnibus.</p>
+    <p>Haec quaeso nunc sic nobis eueniant Deus:</p>
+    <p>Vt impij hominis exempti tyrannide,</p>
+    <p>≤line=925≥ Summis tuam in nos laudibus euehamus
+    munificentiam.</p>
+    <p>Eia, feliciter successurum auguror,</p>
+    <p>Adeo diuino afflatus oestro, animus gestit mihi.</p>
+    <p>Nunc tempus est, ad exeundum vt me parem.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iv.-scena-iv.">
+    <head>ACTVS IV. SCENA IV.</head>
+    <p>OZIAS, AZARIAS. IVDITHA,</p>
+    <p>Eiusdem generis.</p>
+    <p>BOno animo esto Azaria, haudquaquam etiam cessat, &amp;</p>
+    <p>≤line=930≥ Illam jam jam his tibi adfuturam polliceor: proin’</p>
+    <p>≤folio=Z4≥</p>
+    <p>≤page=40≥</p>
+    <p>Tu vanam istam solicitudinem, quae te discruciat,</p>
+    <p>Ex animo fac vt amoueas tuo. Aza. Credo quidem</p>
+    <p>Venturam eam, Ozia, sed quid effectura nescio.</p>
+    <p>Ozi. Nescio ego quoque &amp; tamen spero Deum non deserturum
+    suos.</p>
+    <p>≤line=935≥ In eo omnis spes sit nobis: quandoquidem in humanis
+    viribus,</p>
+    <p>Aut opibus praesidij est nihil. Aza. Sed ne illa spes</p>
+    <p>Nos frustretur, vereor miser. Ozi. Age, non fiet, bene</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. Catal.</p>
+    </note>Ominare. at eccam eam cum ancilla huc conspicor</p>
+    <p>Accedentem. Aza. Est, an non est? certè ipsa est. Eia, vt
+    venusta,</p>
+    <p>≤line=940≥ Atque elegans est, omni suo mundo expolita,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Ornataque splendidißimè.</p>
+    <p>Ozi. Tum quemuis ornatum natiuae forma excellit gratia,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Iud. Adsum Ozia, vt quod facturam me recepi,</p>
+    <p>Vobis praestem. Oxi. Hem, constanter, atque fortiter,</p>
+    <p>≤line=945≥ Laudo. Iud. Deum omnes tantùm orate supplices,</p>
+    <p>Vt quicquid illud est quod molior, sua</p>
+    <p>Nobis secundet indulgentia. Aza. Eheu Iuditha,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Quàm ego nunc tibi timeo miseri</p>
+    <p>Iud. Azaria, absit timor, animique trepidatio. nihil</p>
+    <p>≤line=950≥ Cuiquam innocentia incolumi accidere potest mali.</p>
+    <p>Tum si omnino moriendum fuerit, pro patria mori, dulce, &amp;</p>
+    <p>Decorum erit mihi. Dum ne ob malefacta pereo, parui aestimo.</p>
+    <p>Ozi. O mulierem piam, sortem, atque strenuam!</p>
+    <p>Age, macte virtute, Deus faxit, vt quicquid</p>
+    <p>≤line=955≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Id est, quod animo tam magno concepisti, tibi,</p>
+    <p>Nobisque omnibus ex animi succedat sententia.</p>
+    <p>≤page=41≥</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Iud. Spero ita futurum. Nunc portam Ozia iube</p>
+    <p>Aperiri, vt quò ire constitui, recta pergam via.</p>
+    <p>Ozi. Effectum est quod vis, en patet. Deus deducat, at</p>
+    <p>≤line=960≥ Reducat te saluam, atque incolumen. Aza. Egressa est
+    illa, quo</p>
+    <p>Animo, atque consilio planè nescio. Ozi. Ego quoque</p>
+    <p>Id quod facere conatur, ne coniectura quidem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Assequi possum: nihilominus tamen id profuturum</p>
+    <p>Spero: nam mulierem esse scio ea prudentia,</p>
+    <p>≤line=965≥ Atque ingenij industria, vt quodcunque fuerit
+    aggressa, non</p>
+    <p>Temere, aut inconsideratè, sed sapienter, &amp;</p>
+    <p>Bono consilio susceptum esse dixeris.</p>
+    <p>Aza. Est isthuc quidem in nostris calamitatibus</p>
+    <p>Et aerumnis magnum solatium mihi:</p>
+    <p>≤line=970≥ Sed illud multò maius, ac firmius</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Esse arbitror, quod mulier est antiqua fide,</p>
+    <p>Moribus integris, ac vitae sanctimonia:</p>
+    <p>Et propterea confido Deum illi adiutorem fore.</p>
+    <p>Ozi. Idem &amp; ego persuasi mihi. Sed nunc tempus est,</p>
+    <p>≤line=975≥ Vt ad somnum nos componamus: cras simul ac
+    diluxerit,</p>
+    <p>Omnem populum ad preces continuas excitabimus,</p>
+    <p>Atque exhortabimur sedulò. Aza. Age, vbi voles: i prae
+    sequor.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iv.-scena-v.">
+    <head>ACTVS IV. SCENA V.</head>
+    <p>IVDITHA, ABRA, LABRAX, THRASO.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>GAudeo tandem nos hunc superasse montem, cuius vt</p>
+    <p>Ascensus difficilis, atque molestus fuit,</p>
+    <p>≤line=980≥ Ita descensus nobis erit facillimus.</p>
+    <p>ABR. Est vt dicis hera. Iud. Tum exortus solis, qui non
+    procul</p>
+    <p>≤folio=Z5≥</p>
+    <p>≤page=42≥</p>
+    <p>Abesse videtur, efficiet, necubi aberremus à via.</p>
+    <p>Abra. Verum id quidem, at at, quid hoc? Iud. Quid Abra? Abr.
+    Nescio</p>
+    <p>Quos huc ad nos armatos properare video. Iud. Bono</p>
+    <p>≤line=985≥ Animo esto, facilè illos placauero: meditata enim</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Iam dudum in pectore mihi sunt consilia omnia.</p>
+    <p>Lab. Vide dum sodes diligenter Thraso.</p>
+    <p>Vt fontes hos obseruandos ac praesidio satis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Firmo muniendos cures. Th. Isthuc herculè</p>
+    <p>≤line=990≥ Curatum est sedulò, nullus enim jampridem hauriendae
+    aquae</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Gratia, cuius tamen inopia laborant maximè,</p>
+    <p>E ciuitate vnquam fuit ausus egredi.</p>
+    <p>Sed hem, quid isthuc Labrax? mulieres duas</p>
+    <p>Propius huc accedentes conspicio. Lab. Prô Iupiter!</p>
+    <p>≤line=995≥ <note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Monstri simile. Ehodum, caueamus ne os sublinatur</p>
+    <p>Nobis. Quin procurramus eis obuiam,</p>
+    <p>Ac compraehendamus, quantùm possumus. Hem, consistite</p>
+    <p>Istic illico, atque gradum cohibete venefica.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Iud. Saluete viri humanissimi. Lab. Apage, dico ego</p>
+    <p>≤line=1000≥ Nobis insidias fieri. Iud. Animo quieto estote, ac
+    mittite</p>
+    <p>Nos obsecro: nam neque vobis insidiae, neque</p>
+    <p>Quicquam omnino a nobis metuendum erit mali.</p>
+    <p>Thr. Id ne fiat, summa est adhibenda cautio.</p>
+    <p>Sed cuiates estis, aut vnde venitis tam mane?</p>
+    <p>≤line=1005≥ Iud. Mulier sum Hebraea, ex ciuitate Betulia</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. Scaz.
+      [&lt; Torch.]</p>
+    </note>De nocte huc ad vos egressa clanculum, Lab. Hem.</p>
+    <p>Betulia? qua gratia. Iud. Vt imperatori</p>
+    <p>Vestro indicem, in quàm afflicto, atque misero statu</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Res sint ciuium: &amp; simul commonstrem quo modo</p>
+    <p>≤line=1010≥ Vrbem facillimè capere poßit, ne vno quidem</p>
+    <p>≤page=43≥</p>
+    <p>Ex copijs suis amisso. Thr. Eho, bene herculè,</p>
+    <p>Atque sapienter à te factum esse arbitror</p>
+    <p>Mulier, quae in tempore saluti prospexisti tua.</p>
+    <p>Nam ea pol forma esse videris mihi, vt potiùs</p>
+    <p>≤line=1015≥ Seruari, quàm cum sceleratis illis perire debeas.</p>
+    <p>Neque est quod à nobis metuas tibi. Quin scio</p>
+    <p>Aduentum, &amp; conspectum tuum Holoferni duci</p>
+    <p>Nostro gratißimum futurum. Agitedum, sequimini.</p>
+    <p>Ad illum vos recta deducemus Iud. Placet.</p>
+  </div>
+  <div type="level2" xml:id="actvs-v-scena-i.">
+    <head>ACTVS V SCENA I.</head>
+    <p>HOLOFERNES, AMMONIDES.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>≤line=1020≥ PVlchrò etiamnunc, quod à me est institutum,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Procedit opus. atque adeo opportunè admodum haec</p>
+    <p>Mulier se nobis obtulit: quae quo modo</p>
+    <p>In ciuitate sese habeant res, mihi narrauit omnia.</p>
+    <p>Sed qualem ego nunc illam dicam esse feminam?</p>
+    <p>≤line=1025≥ Quà herculè venustiorem nullam vsquam arbitror.</p>
+    <p>Reperirier. Quare nimis ego illam aspicio lubens.</p>
+    <p>O faciem pulchram! deleo omnes dehinc ex animo mulieres,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Taedet harum quotidianarum formarum.</p>
+    <p>Sed eccum Ammonidem exeuntem conspicor.</p>
+    <p>≤line=1030≥ Am. Quamquam in subigendis hisce Israelitis magnus
+    hactenus</p>
+    <p>Nobis susceptas est labor: patienter tamen eum</p>
+    <p>Ferendum tolerandumque esse existimo: vel ob</p>
+    <p>Eam solum causam, quod tam formosae, atque optimè</p>
+    <p>Moratae, apud illos reperiantur feminae. At</p>
+    <p>≤line=1035≥ Eccum imperatorem. haud praeuideram. Hol. Hem
+    Ammonide,</p>
+    <p>≤page=44≥</p>
+    <p>Quid ais? itáne &amp; huius mulieris Hebraeae tibi</p>
+    <p>Forma placuit? Am. Perplacuit pol dux illustrißime.</p>
+    <p>Hol. Eia, minimè te hallucinatum esse arbitror:</p>
+    <p>Nam &amp; ego quopacto satis illius pulchritudinem,</p>
+    <p>Elegantiam, ac festiuitatem praedicem,</p>
+    <p>Planè nescio Ammonide, &amp; nosti, vt opinor, quàm</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Oculatus formarum spectator siem.</p>
+    <p>Am. Ne comparanda quidem haec est ad eas, quae in regionibus</p>
+    <p>Reperiuntur nostris. Hol. Noua figura oris, color</p>
+    <p>Verus, corpus solidum, ac succi plenum. Porrò mores huic</p>
+    <p>Tam excellenti formae per omnia congruunt.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Praeterea, quod in nostratibus rarißimum est</p>
+    <p>Mulieribus, facundiam admirabilem,</p>
+    <p>Prudentiamque in illa depraehendisse videor mihi.</p>
+    <p>Itaque quod se recepit facturam, de eo quidem</p>
+    <p>Haud dubium est mihi. Sed intro nunc eamus, &amp;</p>
+    <p>In castra ad nostros reuertamur. Am. Agedum, vt lubet,
+    sequor.</p>
+  </div>
+  <div type="level2" xml:id="actvs-v-scena-ii.">
+    <head>ACTVS V SCENA II.</head>
+    <p>IVDITHA, ABRA, THRASO.</p>
+    <p>Eiusdem generis.</p>
+    <p>ENimuero gaudeo, Deoque gratias ago,</p>
+    <p>Cùm id quod meditor, etiamnunc mihi cedat feliciter.</p>
+    <p>Hem, sequere me Abra. Abr. Vix ausim hera, cùm militibus</p>
+    <p>Completa sint hîc omnia. Iud. Esto animo bono,</p>
+    <p>Nihil nobis periculi est:</p>
+    <p>Nam etsi depraehendamur, mandato tamen</p>
+    <p>≤page=45≥</p>
+    <p>Ducis Holofernis saluae, atque incolumes erimus. id enim</p>
+    <p>Per tota edixit castra, ne nobis, etiam</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Noctu egredientibus, obsit, aut noceat quisquam.</p>
+    <p>Sed obuiam video nobis venientem nescio</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Quem: praesenti, fortique animo fac vt sies.</p>
+    <p>Thr. Spero ego nostros hos excubandi, vigilandique</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Labores iam breues futuros, cùm isti apellarum</p>
+    <p>Gregi ad restim res iam deuenerit planißime.</p>
+    <p>Sed nescio quem pedum strepitum mihi audire videor.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Mulierem illam Hebraeam esse credo, cui noctu etiam
+    quolibet</p>
+    <p>E castris egredi vt liceret imperator</p>
+    <p>Nostri voluit exercitus. Ipsa herclè est cum ancilla.
+    adoriar,</p>
+    <p>Ac compellabo comiter. Mulier enim mihi</p>
+    <p>Visa est elegans, probisque ornata moribus.</p>
+    <p>Matrona salue: quò tibi iter est? Iud. Oratum exeo.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>In proximam hanc vallem: quod ab Holoferne principe</p>
+    <p>Vestro permissum est mihi. Thr. Perge vt coepisti: in his</p>
+    <p>Nostris castris nullus erit, qui aut dicto, aut facto nocebit</p>
+    <p>Tibi. Iud. Pro isthoc beneficio vobis gratiam habeo, &amp;</p>
+    <p>Habitura sum, quoad vixero. Abra, sequere. Thr. O mulierem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2. [&lt;
+      Toch.]</p>
+    </note>Festiuam, atque pulchram! in vita pol venustiorem</p>
+    <p>Vidi nullam. Itaque minime mirum, si eam</p>
+    <p>Magni faciat princeps, nihilque illi negandum existimet.</p>
+    <p>Iud. Subsistendi nobis hic iam dabitur locus.</p>
+    <p>Secede hinc istorsum paulisper, donec te vocem.</p>
+    <p>Magnas tibi mi Deus ago gratias, quod haec</p>
+    <p>≤page=46≥</p>
+    <p>Quae numine tuo afflata, facere caepi, mihi satis</p>
+    <p>Secundasti hactenus. Oro te porrò Pater</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. Catal.
+      2</p>
+    </note>Clementißime, vt quemadmodum aliâs frequentor</p>
+    <p>Maiores nostros, omni humana destitutos</p>
+    <p>Ope, praeter ipsorum spem, atque expectationem</p>
+    <p>Grauißimis exemisti periculis,</p>
+    <p>Hostesque eorum, quamuis opibus, atque copijs</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Potentes, inuicta tua virtute deleuisti,</p>
+    <p>Et extirpasti funditus: ita nunc quoque</p>
+    <p>Nostri misertus, hunc superbum atque impium</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Per me de medio sinas tolli tyrannum.</p>
+    <p>Vt re ipsa, atque adeo grauißimo suo edocti malo,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Agnoscant homines illi barbari, haud vnquam</p>
+    <p>Frustrari, qui in te omnem suam spem collocant.</p>
+    <p>Eosque inani opera, atque labore defatigari,</p>
+    <p>Qui aduersum te, tuoque cultui addictos</p>
+    <p>Bellum suscipiunt. Peccata quidem nostra maxima</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Esse fateor, sed tua mi Deus longè maior</p>
+    <p>Est benignitas: qua si nobis nunc opitulari</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> 4</p>
+    </note>Digneris, profectò fiet vt omnes tui</p>
+    <p>Numinis cultores diuinam tuam</p>
+    <p>In se collaudent, atque praedicent beneficentiam,</p>
+    <p>Vtque alij horum clade, interituque territi,</p>
+    <p>Neque vim, neque vllam iniuriam inferre audeant</p>
+    <p>Nobis. Quod vt nunc per me gratia tua</p>
+    <p>Adiutam eueniat, obsecro, atque obtestor te Deus.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Sic tua maximè cunctis innotescat clementia,</p>
+    <p>Si se facilem, piamque in nos nocentes exerat.</p>
+    <p>Ehodum Abra, tempus est, vt, vnde venimus,</p>
+    <p>Eò redeamus. Abr. Vbi voles: praecede, consequor.</p>
+    <p>≤page=47≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.-scena-iii.">
+    <head>ACTVS V. SCENA III.</head>
+    <p>HOLOFERNES, MOABVS. BAGOAS, IVDITHA.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>OPiparum, delicatumque vtî praecepi, fac vt appares</p>
+    <p>Conuiuium Moabe: nam diem hunc totum, atque etiam</p>
+    <p>Noctem in laetitia cupio degere. Moa. Et hoc, &amp; si quid aliud
+    est</p>
+    <p>Quod imperas, effectum dabo princeps honoratißimè.</p>
+    <p>Hol. Adhaec vinum nobis pincerna vt optimum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Promat, &amp; imprimis fac cures sedulò. Moa. Fiet.</p>
+    <p>Hol. Atque adeò ne quid omino desit, quod ad</p>
+    <p>Voluptatem excitandum, quodque ad luxum, &amp; delicias</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Aptum, atque accommodum siet. Moa. Memini, tametsi</p>
+    <p>Non admoneas. Hol. Tum Hebraeam istam mulierem</p>
+    <p>Nobis cupiam adesse in conuiuio, vt sua</p>
+    <p>Nos recreet, atque oblectet elegantia.</p>
+    <p>Quin Bagoae id dedam negotij. Eho Bagoa,</p>
+    <p>Prodi ocyus. Bag. Praesto sum domine, hem, impera</p>
+    <p>Si quid per me fieri velis. Hol. Israëlitidem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Illam mulierem absque mora conueni, eique commodè</p>
+    <p>Loquendo persuade, vt diem hunc nobiscum in gaudio, ac</p>
+    <p>Hilaritate exigat. Bag. Dabo herclè operam, &amp; me
+    impetraturum</p>
+    <p>Confido. Hol. I, atque matura reditum, eamque huc vide</p>
+    <p>Vt adducas mihi. Verbis pol vix possem consequi</p>
+    <p>Moabe, quantopere huius mulieris mihi</p>
+    <p>Placeat forma: &amp; quopacto mores eius amabiles,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Vultusque decorus, tum vox illius, atque oratio</p>
+    <p>Quouis melle dulcior, animum commouerint</p>
+    <p>≤page=48≥</p>
+    <p>Meum. Mo. Nihil mirum: namque haud similis est mulier
+    mulierum</p>
+    <p>Nostrarum, quae student demißis esse humeris,</p>
+    <p>Ceruice erecta, ac vincto pectore, vt graciles sient.</p>
+    <p>Si qua est habitior paulò, pugilem esse aiunt. Cibum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Sibi subtrahunt. Quanquam bona est natura,</p>
+    <p>Reddunt se curatura iunceas. In hac</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Genuinae formae gratia est: verus color, nullâ</p>
+    <p>Cerußâ, purpurisso, aut stibio fucatus. Hol. Ego meherculè</p>
+    <p>Nullam in vita venustiorem vidi feminam.</p>
+    <p>Quare non desinam, neque conquiescam, donec ea potiar.</p>
+    <p>Opperiamur paulisper hic dum redeat Bagoas:</p>
+    <p>Quod iam iam futurum confido. Mod. Placet. Bag. Optimè</p>
+    <p>Pol, atque sapienter facis mulier, quae principi</p>
+    <p>Nostro animum induxisti obsequi. Iud. Ita decet ô bone.</p>
+    <p>Nihil ille vnquam mihi imperabit, quod non sim lubens,</p>
+    <p>Atque expeditè factura. Bag. Benigne dicis, laudo, &amp;
+    sapis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Mea quidem sententia.</p>
+    <p>Sed age properemus, ne quid nostra illum offendat cunctatio.</p>
+    <p>Hol. Vt omnis mora, cupide quicquam optanti, semper solet</p>
+    <p>Esse ingrata &amp; molesta. At eccam eam cum Bagoa</p>
+    <p>Huc ad nos accedere video. Eho, quis me fortunatior,</p>
+    <p>Siquidem huius mulieris fruendae copia</p>
+    <p>Concedatur mihi? Moa. Id quidem facillimè</p>
+    <p>Impetraturum te scio: nam quae femina est,</p>
+    <p>Quantimuis formosa, atque nobili, quae non</p>
+    <p>≤page=49≥</p>
+    <p>Ad nutum se morigeram praebeat tibi?</p>
+    <p>Hol. Blande illam appellabo, atque salutabo comiter.</p>
+    <p>Eho mea voluptas, meum suauium,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch 2.</p>
+    </note>Aduentus tuus est mihi gratißimus.</p>
+    <p>Oh, vt te amplector lubens. Iud. Nae ego mulierum omnium</p>
+    <p>Quae viuunt sum fortunatißima, quae placeo tibi</p>
+    <p>Dux inuictißime. Hol. Teneone te mea Iuditha,</p>
+    <p>Maximè animo expectata meo? At satis iam cessatum est diu:</p>
+    <p>Eamus tommessatum. Moa. Vbi voles accumbe domine,</p>
+    <p>Parata enim sunt omnia. Hol. Ehem Iuditha, tu mihi</p>
+    <p>Dextrum claude latus. Iud. Id quidem faciam lubens,</p>
+    <p>Siquidem ea quae ancilla apparauit, apponi sinas</p>
+    <p>Mihi. Hol. Sino. Moabe, fac vt accumbant caeteri.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Mo. Curabo sedulò. Hol. Nunc genio indulgeamus,</p>
+    <p>Atque hilares simus omnes. Agite, quisque sibi</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Sumat, quod palato atque gulae sapiat maximè.</p>
+    <p>Nam neminem apud mensam decet verecundarier.</p>
+    <p>Moabe, hunc tibi praebibo cyathum. Moa. Vt tibi saluti sit
+    precor</p>
+    <p>Princeps clarißime. Hol. Hem, vide vt respondeas,</p>
+    <p>Idque vnico haustu. Moa. Faciam herculè sedulò,</p>
+    <p>Nam fauces ariditate crepant mihi. Quid hoc,</p>
+    <p>Satin’ tibi placet domine? Hol. Pol strenuum,</p>
+    <p>Virumque fortem te esse iudico. Oh, mea</p>
+    <p>Vita, mea voluptas vnica, frontem exporrige, &amp;</p>
+    <p>Te praebe hilarem. Iud. Id quidem vt nunc cupide atque libenter
+    faciam, tua</p>
+    <p>Domine mihi praestat benignitas. Hok. O mulierem</p>
+    <p>Lepidisimam! dispeream, nisi te plus quàm oculos amo meos.</p>
+    <p>Aa</p>
+    <p>≤page=50≥</p>
+    <p>Da mihi osculum anime mi. Iud. Neque hoc, neque</p>
+    <p>Aliud, quod à me petieris ampliùs tibi negandum putem.</p>
+    <p>Hol. Eia, laudo. Sed quid cessant cyathi? Bag. Hunc scyphum</p>
+    <p>Tibi, si placet, plenis propino faucibus</p>
+    <p>Dux ornatißimè. Hol. Age, nihil recuso, sed</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Audin’ ad fundum ebibas velim. Bag. Nihil</p>
+    <p>Est, aeque quod fecero lubens. Hol. Mea Iuditha,</p>
+    <p>Quanto tam formosior videre, quàm</p>
+    <p>Dudum: quanquam antè semper mihi visa es pulcherrima.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Iud. Certè tu quidem mi domine multò nunc es hilarior.</p>
+    <p>Hol. Verbum herculè hoc verum est, sine Cerere, &amp; Baccho
+    friget Venus.</p>
+    <p>Nunc genio indultum est satis. Agedum surgamus, &amp;</p>
+    <p>In conclaue vnà eamus, delicium atque suauium meum.</p>
+    <p>Iud. Nihil detrecto. Hol. At at, quid isthuc? vicit vinum quod
+    bibi:</p>
+    <p>At dum accubabam, quam videbar mihi pulchrè sobrius:</p>
+    <p>Nunc postquam surrexi, neque pes, neque mens satis</p>
+    <p>Suum officium facit. Mo. Ehem, quid stas Bagoa?</p>
+    <p>Obserua principem, atque illum in conclaue ducito.</p>
+    <p>Bag. Non possum: nam ipse quoque pedibus insistere vix queo.</p>
+    <p>Et tamen experiar. Hem Moabe, subueni.</p>
+    <p>Solus enim tantum pondus sustinere non possum.</p>
+    <p>Moa. Nunquam herculè, ita vt nunc, vino eum vidi obrutum.</p>
+    <p>Bag. Progredere placide Moabe, ego te subsequor.</p>
+    <p>≤page=51≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.-scena-iv.">
+    <head>ACTVS V. SCENA IV.</head>
+    <p>IVDITHA, ABRA.</p>
+    <p>Eiusdem rationis versus.</p>
+    <p>Hem Abra, Tu hinc à me foris absiste longius,</p>
+    <p>Ac diligenter obserua omnia. Abr. Faciam hera.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Iud. Nunc tempus esse arbitror, vt cuius exequendi gratia</p>
+    <p>Huc veni, aggrediar opus. Tu mi Deus vires</p>
+    <p>Suffice, animumque confirma mihi: ne in memorabili,</p>
+    <p>Ac praeclaro hoc facinore deficiam turpiter.</p>
+    <p>Sic diuina tua maiestas, tuaque potentia</p>
+    <p>Euadet longè commendatißima:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Si non per hominum vires, neque militum</p>
+    <p>Copias, sed per me imbellem mulierem</p>
+    <p>Nos, qui religiosè tuum nomen coluimus hactenus,</p>
+    <p>Ab impia horum barbarorum liberes tyrannide.</p>
+    <p>Eia successurum arbitror, adeò mens gaudio</p>
+    <p>Gestit mihi. Abra, huc ad me accede protinus.</p>
+    <p>Abr. Hera adsum. Iud. Caput hoc in coriacea tua</p>
+    <p>Reconde pera. Abr. Hui, caput. Iud. Tace, atque desina</p>
+    <p>Rogare quicquam modò, cuius sit, narrabo tibi.</p>
+    <p>Abr. Vae miserae mihi. Iud. Tace inquam, &amp; esto animo
+    bono.</p>
+    <p>Deum propitium habemus nobis. At moue</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Te quantum potes. Ab. Id equidem facio sedulò.</p>
+    <p>Iud. Inter eundum nihil est quod metuamus mali:</p>
+    <p>Nam principis edicto satis tutae sumus.</p>
+    <p>Ab. Vide etiam sodes, ne nimium tibi confidas hera.</p>
+    <p>Iud. Oh, potin’ vt desinas? Nihil periculi est</p>
+    <p>Inquam: nam adiutorem Deum mihi esse sentio.</p>
+    <p>Abr. Ego quid egeris planè nescio. Tum cuius sit caput</p>
+    <p>Quod in pera reconditum gesto, multò minus.</p>
+    <p>≤line=2≥ Aa</p>
+    <p>≤page=52≥</p>
+    <p>Neque de eo quid dicam, aut quid suspicer scio.</p>
+    <p>Iud. Nunc isthuc percontari desine. Postea scies.</p>
+    <p>Ab. Etiamne longiùs ire paras? quo me ducis miseram?</p>
+    <p>Iud. Quieta esto obsecro, ad vrbem recta imus via.</p>
+    <p>Nec quicquam nunc est quod timeas: nam longius</p>
+    <p>A castris digressae sumus. Quin haud procul</p>
+    <p>A ciuitate nos iam abesse existimo.</p>
+    <p>Abr. Vtinam tu haec vera praedices! sed dic mihi</p>
+    <p>Amabo, cuius est caput quod porto. Iud. Cuius sit rogas?</p>
+    <p>Abr. Agedum dic sodes. Iud. Cuius arbitrare? Abr. Nescio</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Hera: sed nihil est aequè quod sciam lubens.</p>
+    <p>Iud. Age dicam: quandoquidem diuina gratia</p>
+    <p>Omni periculo nunc exemptae sumus.</p>
+    <p>Nam ad portam venimus. Abr. Oh, audire gestio.</p>
+    <p>Iud. Holofernis Assyriorum principis est hoc, quod geris,
+    caput.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Abr. Vae miserae mihi, nobisque omnibus. Iud. Tacè</p>
+    <p>Stulta: quos tu miseros appellas, ego omnium</p>
+    <p>Puto esse felicißimos: vtpote quibus</p>
+    <p>Propitius est Deus. Abr. Hera, téne ausam fuisse rem</p>
+    <p>Tantam aggredi? Iud. Quidni Abra. Non fit sine periculo</p>
+    <p>Facinus magnum, ac memorabile: &amp; Deum mihi</p>
+    <p>Adiutorem fore sperabam. Neque haec me spes</p>
+    <p>Fefellit. diuina enim ope, non meis id est</p>
+    <p>Effectum viribus. Sed quia portam pulsare cesso,</p>
+    <p>Et ciuibus tam insperatum impertire gaudium?</p>
+    <p>Heus heus, aperito aliquis portam protinus. ah, quid
+    moramini?</p>
+    <p>Rem omnem vobis incolumem, saluamque esse nuncio.</p>
+    <p>≤page=53≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.-scena-v.">
+    <head>ACTVS V. SCENA V.</head>
+    <p>MELCHIAS, IVDITHA, SADOCVS, OZIA, IOACHIMVS, ACHIOR.</p>
+    <p>Eiusdem generis versus.</p>
+    <p>CVius ego vocem hîc audio? Iud. Cuius arbitrare? Mel. Nescio.</p>
+    <p>Iud. Hem, nescis? Iudithae. Mel. Tunè huc reuerteris</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Iuditha, quam iamdudum interij sse putaueramus?</p>
+    <p>Iud. Deus sua me seruauit clementia.</p>
+    <p>Sed portam aperi, iam vos beauero. Mel. Nihil</p>
+    <p>Detrecto. ingredere. Age, nunc dic sodes Iuditha,</p>
+    <p>Quidnam adferas bonae rei. Iud. Dicam, sed non nisi</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Conuocatis ciuitatis optimatibus. Mel. Hem Sadoce,</p>
+    <p>Propera, ac Ioachimum summum sacerdotem, &amp; Oziam</p>
+    <p>Reliquosque vrbis nostrae proceres huc accerse ocyus.</p>
+    <p>Sad. Causae quid dicam? Mel. Iuditham redijsse. Eho. vola.</p>
+    <p>Mea Iuditha, dic amabo quid sit factum? aut vnde nobis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Salutem iam auguraris, cùm in grauißimis malis</p>
+    <p>Versemur miseri. Iud. Haud miseros ego, sed felices esse
+    arbitror,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quos Deus sua protegit, ac defendit clementia.</p>
+    <p>Mel. Confiteor id quidem esse verum: sed quidnam isthuc sit
+    boni,</p>
+    <p>Quod te nunc nobis adferre ais, id herculè</p>
+    <p>Nimis scire cupiam Iuditha. Agedum, ne celato obsecro.</p>
+    <p>Sed video vnà cum Sadoco accedentem Oziam, &amp; caeteros</p>
+    <p>Quos accersi iußisti ciuitatis principes.</p>
+    <p>Iud. Hos ego nunc ingenti complebo gaudio.</p>
+    <p>Ot. Ehem mea Iuditha, itáne nobis te saluam restituit Deus.</p>
+    <p>Aa 3 [&lt; A 3]</p>
+    <p>≤page=54≥</p>
+    <p>Iud. Vti vides Ozia: atque adeo re gesta felicißimè.</p>
+    <p>Itaque animo iam nunc vos tranquillo, atque quieto esse
+    impero,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>In vtramuis aurem ociosè vt dormiatis</p>
+    <p>Fratres. Ozi. Eho, dic mihi, quid factum est, aut quid isthuc
+    est</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Iuditha, quod tibi feliciter ceßisse praedicas?</p>
+    <p>Iud. Nescitis quantum ego vobis aduentu meo apportem boni.</p>
+    <p>Ozi. Mitte ambages oro. Quin potiùs vnico</p>
+    <p>Verbo dic, quopacto se nostrae habeant res: quae quidem</p>
+    <p>Afflictae, imo desperatae nobis fuerunt hactenus.
+    [&lt;desperata]</p>
+    <p>Iud. Agite, expediam paucißimis. Hem Abra, quod habes</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>In pera profer caput. Abr. Accipe hera. Iud. Eia, adeste,</p>
+    <p>Atque spectate obsecro prodigium. Hoc Holofernis caput</p>
+    <p>Est, principis Assyriorum, cuius insuperabilem</p>
+    <p>Tyrannidem viresque inuictas extimuistis hactenus.</p>
+    <p>Ozi. O facinus inauditum! Caput Holofernis Iuditha?</p>
+    <p>Quam ego rem nouam audio. Ioa. Deum immortalem! nihil</p>
+    <p>Vnquam in vita audiui admirabilius. Tun’ huc caput</p>
+    <p>Adfers Holofernis? Iud. Contemplamini obsecro</p>
+    <p>An non sit. Ozi. Prae gaudio, ita me Deus amet, vbi sim
+    nescio.</p>
+    <p>Quia praeter spem, atque incredibile hoc nobis accidit.</p>
+    <p>Ioa. Bone Deus, cui vnquam quicquam aequè feliciter, atque
+    commodè</p>
+    <p>Euenit? aut quis nobis fortunatior?</p>
+    <p>Nemo hercule quisquam: nam in nobis Deus potestatem</p>
+    <p>Planè per te mea Iuditha ostendit suam.</p>
+    <p>Iud. Verè tu quidem isthuc dicis, atque piè, vtî te decet</p>
+    <p>≤page=55≥</p>
+    <p>Ioachime. Hoc enim quod nobis obtigit bonum, haud mea</p>
+    <p>Industria, aut virtute, sed diuina ope,</p>
+    <p>Et praesidio adepti sumus. Nam maius id est opus,</p>
+    <p>Quàm vt humanae hic quicquam sibi vires arrogent.</p>
+    <p>Ozi. Scio mea Iuditha, scio non nisi Dei opitulante gratia</p>
+    <p>Te facinus tam arduum perficere potuisse. nihilominus</p>
+    <p>Erit hoc tibi memorabile apud posteros tamen.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Te maximo vitae periculo, in tanta rerum omnium</p>
+    <p>Desperatione nobis subuenisse: teque</p>
+    <p>Patriae salutem vitae proposuisse tua. Iud. Nihil moror</p>
+    <p>Inanem gloriam: Deo solum nobis sunt maximae</p>
+    <p>Agendae gratiae, qui &amp; vitam incolumem, &amp; integram,</p>
+    <p>Illaesamque pudicitiam seruauit mihi.</p>
+    <p>Sed auscultate fratres, quid nunc porro vos facere velim.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Ozi. Quid Iuditha? Iu. Caput hoc Holofernis ex muris</p>
+    <p>Suspendendum, &amp; mox simulac exortus sol fuerit, in
+    hostium</p>
+    <p>Castra irrumpendum vobis arbitror. Quo inopinato impetu</p>
+    <p>Illi perculsi, ad excitandum principem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Suum procurrent illicò:</p>
+    <p>Quem vbi obtruncatum, atque volutatum in sanguine</p>
+    <p>Suo conspexerint, subita formidine,</p>
+    <p>Atque pauore exanimati, fugient protinus.</p>
+    <p>Quos vna cum illis, qui haec montosa loca incolunt,</p>
+    <p>Vos insequuti facilè trucidabitis,</p>
+    <p>Atque interimetis omnes. Sed prius Achiorem velim</p>
+    <p>Huc ad nos accersi iubeatis: vt videat eius caput,</p>
+    <p>Qui gentem Israëliticam contempsit tam procaciter,</p>
+    <p>Et à quo ad nos, tanquam ad mortem est missus. Ozi. Age, fiat.
+    hem,</p>
+    <p>≤line=4≥ Aa</p>
+    <p>≤page=56≥</p>
+    <p>Sadoce, propera, atque Achiorem ex nostris huc accerse
+    aedibus.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Sad. Faciam herculè sedulò. Ozi. O nos felicißimos!</p>
+    <p>Eia Iuditha, nae tu mulier es pia, atque beata</p>
+    <p>Prae reliquis, quae viuunt, mulieribus: cum tibi</p>
+    <p>Propitius sit Deus, qui tanta tamque prodigiosa per</p>
+    <p>Te nobis praestitit. Iud. Ozia, hic solus laudandus, hic</p>
+    <p>Nunquam intermittendis celebrandus est praeconijs.</p>
+    <p>Sed adest Achior. ehodum Achior, en caput illius,</p>
+    <p>Qui propter nos tibi infensus, se perditurum te</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Miseris minabatur modis. Ach. Deus bone,</p>
+    <p>Quid isthuc est prodigij? ah! animus pol stupet.</p>
+    <p>Genuaque deficiunt mihi. Ioa. Ehem, quid isthuc Achior?</p>
+    <p>Itáne in terram prolaberis? animum recipe obsecro, &amp;</p>
+    <p>Ad te redi. Ach. O admirandam Dei potentiam!</p>
+    <p>O mulierem quauis beatiorem femina!</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+    </note>Nihil vnquam in vita audiui admirabilius</p>
+    <p>Nunc itaque relictis, quibus hactenus inuolutus</p>
+    <p>Fui, erroribus, eundem quem vos veneramini,</p>
+    <p>Quoad vixero, religiosè colam Deum:</p>
+    <p>Si modo vos in consortium vestrum me recipere</p>
+    <p>Dignemini. Ioa. Euge recipimus, ac libenter herculè.</p>
+    <p>Iud. Bene facitis: &amp; Deo est nobis habenda gratia.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Nunc quisque se ad pugnam paret. Mel. age, placet: faxo vt
+    armatos</p>
+    <p>Nostros omnes hic praesentes videatis protinus.</p>
+    <p>Ozi. O nos felices! cum tua opera ac virtute, mea Iuditha,</p>
+    <p>Immanem hunc, impiumque tyrannum è medio sustulit</p>
+    <p>Deus. Sed quonam nos munere tantam hanc tuam</p>
+    <p>Erga nos compensabimus beneficentiam?</p>
+    <p>≤page=57≥</p>
+    <p>Quibus te laudibus, quibus celebrabimus praeconijs?</p>
+    <p>Nihil vnquam tam magnifice dicemus, vel faciemus tibi,</p>
+    <p>Quin virtus plus mereatur tua. Iud. Apage sis, nihil</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Ego me promeritam existimo.</p>
+    <p>Quod diuinae acceptum ferri debet clementiae,</p>
+    <p>Ob id me aut magni pendi, aut laudari à quoquam, impium,</p>
+    <p>Et iniquum esse arbitror. Sed heus Sadoce, tu</p>
+    <p>Caput hoc de muro conspiciendum propone hostibus.</p>
+    <p>Nisi quid dissentitis fratres. Ioa. Et hîc &amp; alibi tibi</p>
+    <p>Lubenter paruerimus Iuditha. Sadoce, ocyus</p>
+    <p>Hoc effectum reddito. Sad. Faciam herculè sedulò.</p>
+    <p>Ozi. O Deus, serua obsecro nobis haec bona.</p>
+    <p>Sed Melchiam eccum redeuntem conspicor procul. Bone</p>
+    <p>Deus, quantam hominum adducit multitudinem?</p>
+    <p>Videte sodes quàm laeti, &amp; quam alacres fient.</p>
+    <p>Ioa. Nihil mirum, tanto ac tam insperato intellecto nuncio.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Iud. Portam nunc aperiri iube Ozia, vt omnes impetu</p>
+    <p>Inopinato simul in hostes irruant.</p>
+    <p>Ozi. Agedum pandatur porta. Eia praebete vos viros:</p>
+    <p>Et strepitu, clamoreque quanto potestis maximo,</p>
+    <p>In hostium irrumpite castra, &amp; diuina freti gratia,</p>
+    <p>Fugate, sternite, atque trucidate impium,</p>
+    <p>Ac barbarum istud hominum genus. Mel. Eho procedite</p>
+    <p>Viri, victoriam nobis in manibus constituit Deus.</p>
+    <p>Fugam dabunt, vbi ducem suum occisum cognouerint.</p>
+    <p>≤line=5≥ Aa</p>
+    <p>≤page=58≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-v-scena-vi.">
+    <head>ACTVS V SCENA VI.</head>
+    <p>THRASO, LABRAX, BAGOAS, AMMOnides.</p>
+    <p>Eiusdem rationis versus.</p>
+    <p>INfortunatos pol Labrax ege nos esse arbitror,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Quibus super montem hunc vsque excubandum</p>
+    <p>Fuit: cum reliqui nostri exercitus duces genio</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Interea indulserint, vinoque se compleuerint</p>
+    <p>Affatim. Lab. Haec belli alea est. sed lucescit. quiescendi,</p>
+    <p>Atque adeo potandi, si lubet jam dabitur copia.</p>
+    <p>Sed quid hoc rei est, quod tantam ciuium</p>
+    <p>Ex vrbe conspicio erupisse multitudinem?</p>
+    <p>Cum nullus omnino ausus fuerit prodire hactenus.</p>
+    <p>Thr. Nescio per Iouem: quin huc ad nos recta pergunt via.</p>
+    <p>Lab. Credo vt fit, omnium rerum inopia, atque desperatio</p>
+    <p>Ignauos etiam fortes facit. Th. Agedum sodes,</p>
+    <p>In castra nos sine mora conferamus, &amp;</p>
+    <p>Rem, quopacto se habeat, renunciemus. Lab. Consulis</p>
+    <p>Probè. Bag. Expergiscere sodes Bagόa, somnumque oculis
+    excute.</p>
+    <p>Nam clarus jamdudum illuxit dies. pol crapulam</p>
+    <p>Hesternam nondum etiam me edormiuisse sentio satis:</p>
+    <p>Neque mirum id certè, cum nunquam me epulatum meminerim</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Lautiùs, nunquam prolixiùs. Nunc imperator</p>
+    <p>Noster in amore est totus, mulierem illam complectens, qua
+    ego</p>
+    <p>Pol in vita elegantiorem vidi neminem.</p>
+    <p>Sed eccum Ammonidem. Heus Ammonide, quid te tam manè</p>
+    <p>≤page=59≥</p>
+    <p>E lecto expulit, qui heri tantum biberas? Am. Sitis</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Meherculè è primo somno experrectum, me hactenus</p>
+    <p>Miris discruciauit modis. Ohe, cedo quod bibam.</p>
+    <p>Bag. Hui, etiam nunc homo est ebrius. Sed quid hoc,</p>
+    <p>Quod milites huc ad nos perturbatos properare video?</p>
+    <p>Thr. Opportunè pol te hic stantem reperimus Bagoa.</p>
+    <p>Ba. Ah, quid trepidatis, quidve exanimati estis obsecro.</p>
+    <p>Lab. Ad principem in conclaue ingredere protinus.</p>
+    <p>Ba. Quid ita. Thr. Rogas? hostes omnes ex ciuitate</p>
+    <p>Egreßi, celeri huc accurrunt gradu. Bag. Quid audio?</p>
+    <p>Lab. Age, propera, quid stas? Bag. Non ausim. Thr. Hem, non? quid
+    igitur</p>
+    <p>Faciendum censes? Am. Nos illos facilè repulerimus</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Mastigias. Lab. i sodes Bagoa: nam quod</p>
+    <p>Cauere potes, stultum est admittere. Bag. Eo. Am. Vah, neque</p>
+    <p>Verum, neque verisimile mihi videmini</p>
+    <p>Dicere, neque vtî fortes viros decet. Th. Vera herculè</p>
+    <p>Quae nuntiamus inuenietis omnia.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Et satis conijcere, aut intelligere nequeo,</p>
+    <p>Vnde haec tanta apud hostes existat rerum commutatio, vt</p>
+    <p>Qui ex muris vrbis iampridem vix ausi fuerint prospicere,</p>
+    <p>Nunc non metuant ad nostra castra propiùs impetu</p>
+    <p>Tanto procurrere. Bag. Vae nobis miserrimis!</p>
+    <p>O coelum, ô terra, ô maria Neptuni! Am. Hei mihi,</p>
+    <p>Quid ita times, tremisque Bagoa? Bag. Nulli sumus,</p>
+    <p>Actum est Ammonide Lab. Quid ita? cedo. Bag. Perijmus
+    funditus.</p>
+    <p>Am. Quin dic, quid est? Ba. Holofernem nostrum principem</p>
+    <p>≤page=60≥</p>
+    <p>Obtruncatum in conclaui reperi miser.</p>
+    <p>Adeste vt spectetis flagitium. Am. Prohibeant</p>
+    <p>Isthuc superi. vae nobis infelicibus!</p>
+    <p>Lab. O facinus indignißimum! Bag. Hebraea illa venefica</p>
+    <p>Os subleuit nobis, quam nusquam ego inuenio. Vah, dispudet</p>
+    <p>Tam turpiter nobis data esse verba. Am. Est vt ais Bagoa,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Illa nos miseros suis circumuenit fallacijs.</p>
+    <p>Thr. O scelus inauditum, à ingentem confidentiam!</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Hinc ille repentinus hostium incursus</p>
+    <p>In nos. Eheu, quid consilij das Ammonide?</p>
+    <p>Am. Neque consilij locum habeo, neque auxilij copiam:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Nam ita sum perturbatus, vt animum</p>
+    <p>Ad cogitandum instituere nequeam. Tum prae formidine</p>
+    <p>Pedibus vix insisto miser. Bag. Quin fugimus, quantum
+    possumus,</p>
+    <p>Dum salui, atque incolumes sumus. Am. Non diu erimus per
+    Iouem:</p>
+    <p>Namque hostium imminentium strepitum, ac tubae</p>
+    <p>Vocem audire videor mihi. Fugiamus Bagoa.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Bag. Probè mones. Am. Praecurrite vos, ego iam iam</p>
+    <p>Cum toto sequor exercitu. Sed nae ego homo sum</p>
+    <p>Stultißimus, qui non ipse mihi in tanto consulam</p>
+    <p>Periculo. Age, nihil moror exercitum.</p>
+    <p>Namque hocce tempus praecauere mihi me, non alijs sinit.</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.-scena-vii.">
+    <head>ACTVS V. SCENA VII.</head>
+    <p>MELCHIAS, SADOCVS, AZARIAS.</p>
+    <p>Iambici senarij, &amp; septenarij.</p>
+    <p>NVnc irruendi tempus esse existimo.</p>
+    <p>≤page=61≥</p>
+    <p>Hem, macte virtute, Deus nostros conatus sua</p>
+    <p>Secundabit clementia. Sad. Agite, quisque se</p>
+    <p>Virum praestet. Ne metuite impias hominum</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Barbarorum copias: nam aduersus hos abundè</p>
+    <p>Nos muniet, atque tuebitur Deus. Etsi humanitùs</p>
+    <p>Quid fortè nobis acciderit, equidem pro patria,</p>
+    <p>Ac religione qui perit, non turpiter interit.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz. 2.</p>
+    </note>Sed quidnam hoc esse dicam Melchia, quod è castris</p>
+    <p>Videmus prodeuntem neminem? Mel. Credo</p>
+    <p>Illos resciuisse imperatoris sui</p>
+    <p>Necem. &amp; ob id perculsos metu fugisse. Sad. Ita</p>
+    <p>Me Deus amet, vt mihi nunc verum videris dicere.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Accedamus propiùs. Deum immortalem, deserta hic ego</p>
+    <p>Conspicio esse omnia. Eho, accurrite: spolia</p>
+    <p>Hîc nobis sunt relicta splendidißima. Mel. O</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Admirandam diuini numinis clementiam! Aza. Bone</p>
+    <p>Deus, quàm saepe eueniunt, quae non audeas</p>
+    <p>Sperare? sed quidnam faciendum censes Melchia:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Scaz.</p>
+    </note>Hostesne persequemur, an prius vrbis principes</p>
+    <p>Huius rei reddemus certiores, vt</p>
+    <p>Ex illorum sententia agamus, quicquid hic</p>
+    <p>Faciendum sit nobis? Mel. Mittamus protinus</p>
+    <p>aliquem, quin tu potius ipse i Azaria, rei</p>
+    <p>Tam prodigiosae nuncius. Nos interim</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Partim praedam hanc opimam, quam nacti sumus,</p>
+    <p>Seruabimus, partim fugientes insequemur</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Hostes. Aza. Nihil vnquam iniunctum est mihi, quod
+    fecerim</p>
+    <p>Lubentius. Nae ego gratißimum apportabo nuncium.</p>
+    <p>Age Azaria, omnem è corpore torporem excute:</p>
+    <p>≤page=62≥</p>
+    <p>Viarumque omnes aspernare crepidines.</p>
+    <p>Nam quemcunque hac in re laborem ceperis,</p>
+    <p>Eum tibi abunde pensatum iri credito.</p>
+    <p>Sed satis hic cessatum est, nunc me in pedes quantum queo.</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.-scena-viii.">
+    <head>ACTVS V. SCENA VIII.</head>
+    <p>OZYAS, IVDITHA, IOACHIMVS, AZARIAS.</p>
+    <p>Eiusdem generis.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Enimuero nisi me mens fallit, spero ex sententia</p>
+    <p>Hanc rem nobis porrò euenturam Iuditha:</p>
+    <p>Adeo animus nunc gaudio gestit mihi. Iud. De eo</p>
+    <p>Profectò haud dubito Ozia. Sed extra portam paululum</p>
+    <p>Progrediamur: spero adfuturos modo, qui nuncium</p>
+    <p>Nobis gratum, ac iucundum sunt allaturi. Ioa. Id quidem</p>
+    <p>Et ego breui confido fore. Aza. Deus bone,</p>
+    <p>Boni quid adfero. Sed nequaquam hic mihi</p>
+    <p>Subsistendum arbitror. Ad vrbem sine vlla pergo mora.</p>
+    <p>Oz. Hem Iuditha, nescio quem huc accurrentem video.</p>
+    <p>Bonum herculè, id quod apportat, fore auguror. vide</p>
+    <p>Vt gestiat, vtque laetus atque alacris siet.</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal.</p>
+    </note>Iud. Azarias est. Ioa. Aut ille est, aut oculi
+    hallucinantur.</p>
+    <p>Mihi. Aza. Sed non procul à porta video stare nescio</p>
+    <p>Quos: illos primum delibutos reddam gaudio. Ioa. Is</p>
+    <p>Est ipsus occurramus. Aza. Eho, nemo gestientem</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Catal. 2.</p>
+    </note>Azariam videt? nemo illi gratulatum</p>
+    <p>Aduenit? Iud. Audin quid dicat Ozia? Ozi. Oh, quidni audiam.</p>
+    <p>Aza. Sed adsunt, quos optabam. Iud. Hem Azaria, quid ita</p>
+    <p>Gestis, aut quid laetus es obsecro? Aza. Mea Iuditha,</p>
+    <p>IVDITHA. 63 [&lt; 36]</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+    </note>Quae euentura praedixisti, contigerunt omnia.</p>
+    <p>Hostes subito terrore, ac formidine</p>
+    <p>Exanimati, cuncti fugerunt turpiter.</p>
+    <p>Ozi. O summis laudibus celebrandam Dei</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Dimet.</p>
+    </note>Benignitatem! ô numinis</p>
+    <p>Diuini nunquam nobis reticendam clementiam!</p>
+    <p>Oh, Azaria, oh mi frater, quid nobis felicius,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Si quidem tu haec vera praedicas. Aza. Verißima</p>
+    <p>Reperietis quae nuncio. Nunc adeò ad vos sum missus, vt</p>
+    <p>Quid praeterea faciendum sit, statuatis protinus.</p>
+    <p>Ioa. Agitedum, ingrediamur, vt accitis caeteris</p>
+    <p>Vrbis magnatibus, de eo vnà consultemus: &amp;</p>
+    <p>Tantam, tamque admirabilem erga nos Dei simul</p>
+    <p>Omnes laudemus, atque praedicemus beneficentiam.</p>
+    <p>Iud. Piè, atque prudenter praecedite vos, sequor.</p>
+  </div>
+  <div type="level2" xml:id="peroratio.">
+    <head>PERORATIO.</head>
+    <p>Iambici senarij, &amp; septenarij.</p>
+    <p>POsthac egredientem hic nullum videbitis:</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo.</p>
+    </note>Nam si quid est quod restat, intus transigetur. At</p>
+    <p>Subsistite etiamnunc paulisper, vt coronidis vice</p>
+    <p>Quam auctor subijcit, audite admonitiunculam.</p>
+    <p>Haec quam spectastis, sacra est historia, non ludicra, aut</p>
+    <p>Profana fabula. Itaque ad anagogen, ac mysticum</p>
+    <p>Arcanumque rei sensum animos aduertite sedulò.</p>
+    <p>Vidistis hic Holofernem, gloriosum, atque impium</p>
+    <p>Suarum virium ostentatorem: qui non modò</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Octo. 2.</p>
+    </note>Homines pios, sed ipsum etiam Deum procaciter</p>
+    <p>Conuitijs, probrisque incessere est ausus. Sed quam precor</p>
+    <p>Catastrophen nefanda illius sortita est immanitas.</p>
+  </div>
+  <div type="level2" xml:id="peroratio.-64">
+    <head>PERORATIO. 64</head>
+    <p>Deoque exosa ostentatio? Non fortiter</p>
+    <p>In acie cum viris pugnans, sed ebrius</p>
+    <p>A muliere imbelli obtruncatur turpiter.</p>
+    <p>Eant nunc impij tyranni, ac viribus,</p>
+    <p><note>
+      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+    </note>Opibusque suis confisi, sese jactitent:</p>
+    <p>Minisque coelum territantes, neminem sibi</p>
+    <p>Aut formidandum, aut extimescendum putent.</p>
+    <p>Cùm nihil aduersus Deum ipsorum impotentes</p>
+    <p>Valeant molitiones, nihil conatus improbi:</p>
+    <p>Quos diuina adiuti ope facilè declinant boni:</p>
+    <p>Vt sacra haec nos docet, monetque historia, quam</p>
+    <p>Ludo vobis hic exhibuimus comico.</p>
+    <p>Qui si placuit, agitedum sodes, plaudite.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS.</p>
+</div>
+</body>
+</text>
+</TEI>

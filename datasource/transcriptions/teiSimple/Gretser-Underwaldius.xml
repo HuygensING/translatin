@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>COMOEDIA DE VITA NICOLAI UNDERWALDII</p>
+  <p>LA COMÉDIE DE SAINT NICOLAS DE FLUE</p>
+  <p><ref target="https://humanistica-helvetica.unifr.ch/authors/37"><hi rendition="simple:underline">Jacob
+  Gretser</hi></ref></p>
+  <p>Introduction: Clemens Schlip (traduction française: David
+  Amherdt/Kevin Bovier)</p>
+  <p><hi rendition="simple:bold"><hi rendition="simple:italic">Date de
+  composition</hi></hi>: 1586.</p>
+  <p><hi rendition="simple:bold"><hi rendition="simple:italic">Manuscrit</hi></hi>:
+  Studienbibliothek Dillingen XV 227, fol.
+  107r<hi rendition="simple:superscript">o</hi>-160v<hi rendition="simple:superscript">o</hi>,
+  ici fol. 107r<hi rendition="simple:superscript">o</hi>,
+  109r<hi rendition="simple:superscript">o</hi>-110r<hi rendition="simple:superscript">o</hi>,
+  112r<hi rendition="simple:superscript">o</hi>-114v<hi rendition="simple:superscript">o</hi>.1</p>
+  <p><hi rendition="simple:bold"><hi rendition="simple:italic">Édition</hi></hi>:
+  E. Scherer (éd.),
+  <hi rendition="simple:italic">Das-Bruder-Klausenspiel des P. Jakob
+  Gretser S. J. vom Jahre 1586</hi>, Bâle, Fribourg, 1928, ici p. 9-11
+  (prologue) et 14-20 (acte 1, scène 2); certaines parties de la pièce
+  ont également été publiées avec une traduction allemande rimée en vers
+  libres dans Durrer (1917-1921); voir à ce sujet la bibliographie.</p>
+  <p><hi rendition="simple:bold"><hi rendition="simple:italic">Mètre</hi></hi>:
+  sénaire ïambique.</p>
+  <p>Gretser2 consacra une comédie, dont le titre original est
+  <hi rendition="simple:italic">Comoedia de Vita Nicolai Underwaldi
+  Eremitae Helvetii</hi>, à la vie de Nicolas de Flue, né à Flueli en
+  1417 et mort à Ranft le 21 mars 1487 (ces deux localités sont situées
+  dans le canton d’Obwald).3 Jusqu’à l’âge de cinquante ans, Nicolas de
+  Flue était un agriculteur sans histoire, père de cinq fils et de cinq
+  filles, et époux de Dorothea (née Wyss). Le 16 octobre 1467, il
+  entreprit un pèlerinage qu’il interrompit à Liestal. Il construisit
+  ensuite une cabane dans les gorges du Ranft, près de sa ferme, où il
+  vécut désormais en ermite. Il attribua ce comportement à des visions
+  qu’il avait reçues. Le fait qu’il s’abstint totalement de manger (à
+  l’exception de la Sainte Communion) fit sensation et fut examinée et
+  confirmée en 1469 sur ordre de l’évêque de Constance. Ses propos de
+  l’époque laissent transparaître l’influence du mysticisme de la
+  Haute-Rhénanie, notamment de Heinrich Seuse. De nombreuses personnes,
+  y compris des hommes politiques, venaient lui demander conseil. Il
+  existe des preuves de son influence sur le «Convenant de Stans» de
+  1481, un traité d’une importance capitale pour l’avenir politique des
+  huit cantons suisses.4 Sa tombe dans l’église paroissiale de Sachseln
+  devint un lieu de pèlerinage populaire peu après sa mort. Vers 1550,
+  Obwald et Nidwald décidèrent d’y organiser régulièrement des
+  pèlerinages nationaux. Sa chapelle dans le Ranftal attira également de
+  nombreux pèlerins. La sanction ecclésiastique du culte prit plus de
+  temps. En 1649, Rome autorisa officiellement la vénération liturgique
+  de Nicolas (ce qui équivalait à une béatification), et en 1669, il fut
+  officiellement béatifié. La canonisation n’intervint qu’en 1947.5</p>
+  <p>Le jésuite Gretser put s’approprier ce thème suisse au collège
+  religieux de Fribourg, dans le milieu de Pierre Canisius, qui tenait
+  Nicolas de Flue en haute estime, notamment parce que sa vie était
+  considérée comme une preuve de la doctrine catholique de l’Eucharistie
+  (que les réformés contestaient); car après tout, d’après les
+  témoignages à son sujet, il n’avait vécu pendant des années que de
+  l’Eucharistie.6 Ce n’est donc pas une coïncidence si Gretser avait
+  déjà écrit un <hi rendition="simple:italic">Dialogus de Nicolao
+  Unterwaldio pro festo Corporis Christi </hi>(«Dialogue sur Nicolas
+  d’Unterwald pour la fête du Corpus Christi») avant la pièce dont il
+  est question ici.7 Il ne faut pas oublier qu’en glorifiant la vie
+  ascétique, la pièce s’apparentait à une déclaration de guerre contre
+  les détracteurs du monachisme, notamment les protestants (mais aussi,
+  avant eux, certains humanistes).8</p>
+  <p>Dans le manuscrit original, le prologue adressé aux Fribourgeois
+  (<hi rendition="simple:italic">Friburgenses</hi>) a été remplacé par
+  un autre destiné aux Lucernois
+  (<hi rendition="simple:italic">Lucernenses</hi>). La pièce devait donc
+  à l’origine être jouée à Fribourg, mais cela ne se passa pas ainsi en
+  raison du rappel de Gretser à Ingolstadt. La première représentation
+  fut donnée par des élèves de l’école jésuite de Lucerne le 5 octobre
+  1586 à Lucerne (le lieu exact est inconnu) à l’occasion du serment de
+  la «Ligue d’or» (ou «Ligue Borromée») des sept cantons catholiques (un
+  droit de combourgeoisie et un droit foncier communs en relation avec
+  une confrérie ecclésiastique). À cette occasion, l’assistance
+  comprenait non seulement les émissaires des sept cantons, mais aussi
+  le nonce apostolique Giovanni Battista Santonio. Il est possible que
+  Gretser ait personnellement assisté à cette représentation avant son
+  départ pour la Bavière.9</p>
+  <p>Voici un bref aperçu de l’intrigue de cette pièce qui compte 2595
+  vers en tout:</p>
+  <p><hi rendition="simple:bold">Acte I</hi>: Les démons Asmodée et
+  Bélial se plaignent de la façon dont Nicolas leur rend la vie
+  difficile (première scène); ils le testent en vain (deuxième scène);
+  ils le testent à nouveau en vain (troisième scène; un fils de Nicolas
+  apparaît également ici); Henri prend sur ses épaules son père Nicolas
+  épuisé (quatrième scène); Nicolas offre très généreusement des cadeaux
+  à des mendiants (cinquième scène); Nicolas offre des cadeaux à des
+  écoliers vagabonds (sixième scène); trois inconnus demandent à Nicolas
+  de se retirer du monde (septième scène).</p>
+  <p><hi rendition="simple:bold">Acte II</hi>: Un ange invite Nicolas à
+  se consacrer entièrement à Dieu (première scène); le fils cherche son
+  père, sa mère lui dit qu’il est déjà à la maison (deuxième scène);
+  Nicolas décide dans un monologue de se retirer du monde (troisième
+  scène); il le dit à sa femme, qui accepte (quatrième scène); un
+  citoyen d’Unterwald raconte à Pierre, le frère de Nicolas, ce que ce
+  dernier a fait (cinquième scène); après une discussion, Pierre laisse
+  Nicolas partir (sixième scène); Nicolas apprend d’un Bourguignon qu’il
+  est dangereux d’aller là-bas à cause de la guerre; il décide de
+  retourner en Suisse, ce qu’un ange l’encourage également à faire
+  (septième scène).</p>
+  <p><hi rendition="simple:bold">Acte III</hi>: Deux jeunes gens
+  raffinés et leurs serviteurs apparaissent dans une scène joyeuse
+  (première scène); ils conversent avec Nicolas dans son ermitage et
+  tentent en vain de le persuader de rentrer chez lui (deuxième scène);
+  l’un d’eux fait un rapport au frère de Nicolas (troisième scène);
+  conversation entre les jeunes gens et Pierre et Nicolas; mais ce
+  dernier reste obstinément dans son ermitage (quatrième scène); le
+  prêtre Oswald encourage Nicolas à poursuivre son jeûne (cinquième
+  scène); dispute entre un défenseur et deux détracteurs de Nicolas
+  (sixième scène); un messager annonce l’arrivée d’un évêque de
+  Constance (septième scène); Asmodée et Bélial essaient à nouveau en
+  vain de tenter Nicolas (huitième scène).</p>
+  <p><hi rendition="simple:bold">Acte IV</hi>: l’évêque auxiliaire de
+  Constance, Thomas, interroge Nicolas (première scène); l’évêque
+  auxiliaire raconte à la Suisse le miracle de Nicolas qui se nourrit
+  devant le Sacrement (deuxième scène); conversation édifiante entre
+  l’ermite Ulrich10 et Nicolas (troisième scène); un démon déguisé en
+  noble à cheval essaie sans succès de tenter Nicolas (quatrième scène);
+  conversation édifiante entre Nicolas et Ulrich (cinquième scène); un
+  démon avec un âne tente sans succès une nouvelle attaque contre
+  Nicolas (sixième scène); Nicolas dissuade Ulrich d’imiter son
+  abstinence de nourriture; son fils Henri vient avec de la nourriture
+  (septième scène); deux citoyens demandent à Nicolas des conseils et
+  une prière et reçoivent ce qu’ils demandent (huitième scène).</p>
+  <p><hi rendition="simple:bold">Acte V</hi>: un érudit apporte à
+  Nicolas une lettre de son fils qui étudie à Paris; une autre lettre,
+  que l’érudit a perdue, est parvenue à Nicolas plus tôt grâce à une
+  intervention divine (première scène); Nicolas annonce sa mort
+  prochaine à Ulrich (deuxième scène); Ulrich et Pierre se lamentent sur
+  la mort de Nicolas.</p>
+  <p>Chaque acte est précédé d’un prologue et se termine par un
+  épilogue. Il ressort du déroulement de l’action que les unités de
+  temps et de lieu ne jouent aucun rôle.11</p>
+  <p>Nous présentons le prologue de l’acte I ainsi que la scène 2 de
+  l’acte I, qui semble bien adaptée à une représentation théâtrale et
+  dans laquelle les démons s’en prennent pour la première fois à
+  Nicolas. En général, lorsqu’on évalue cette pièce, il faut être
+  conscient du fait qu’elle est conçue comme un récit légendaire et non
+  théâtral, et qu’elle ne possède donc pas de structure dramatique à
+  proprement parler.12</p>
+  <p>À l’exception de la scène dans laquelle apparaît un démon avec un
+  âne, tous les détails de l’intrigue semblent dériver de récits
+  antérieurs sur Nicolas. Gretser a visiblement utilisé comme source la
+  biographie de Nicolas par Ulrich Witwyler.13 Il est frappant de
+  constater l’importance que Gretser accorde aux scènes de tentation
+  avec les démons; cette insistance représentait sans doute un avantage
+  en matière de mise en scène. Comme le montre l’exemple textuel choisi
+  ci-dessous (acte I, scène 2), une telle scène ne manque ni d’une
+  certaine profondeur (dans la mesure où les démons trouvent toutes
+  sortes d’idées pour détourner Nicolas du chemin de la sainteté) ni
+  d’esprit (lorsque les démons se plaignent avec un désespoir comique
+  d’avoir échoué une fois de plus contre un simple paysan). L’action
+  devait être facilement compréhensible, même pour des spectateurs qui
+  ne maîtrisaient pas le latin. L’aspect politique et patriotique de
+  l’activité de Nicolas est à peine abordé; pour Gretser, c’est l’aspect
+  religieux qui est déterminant. Cela correspond à l’image que la
+  réforme catholique voulait avoir de cet homme qu’on révérait; de plus,
+  les politiciens des cantons catholiques et les jésuites venus de
+  l’étranger étaient plutôt étrangers au concept d’un patriotisme
+  helvétique, compte tenu de la situation de conflit confessionnel.14
+  Peut-être Gretser a-t-il délibérément supprimé l’aspect suisse et
+  patriotique inhérent à la figure de Nicolas.15</p>
+  <p>L’histoire de la réception de cette pièce est remarquable. Les
+  pièces sur saint Nicolas des
+  XVI<hi rendition="simple:superscript">e</hi> et
+  XVII<hi rendition="simple:superscript">e</hi> siècles étaient toutes
+  basées sur celle de Gretser, qui fut d’ailleurs traduite en allemand à
+  plusieurs reprises.16</p>
+  <p><hi rendition="simple:bold">Bibliographie</hi></p>
+  <p>Durrer, R., «Jakob Gretsers Festspiel von Bruder Klaus bei der
+  Feier des Abschlusses des ‚Goldenen Bundesʼ», dans
+  <hi rendition="simple:italic">Bruder Klaus. Die ältesten Quellen über
+  den seligen Nikolaus von Flüe, sein Leben und seinen </hi>Einfluss,
+  éd. Dr. Robert Durr, vol. 2, Sarnen, Louis Ehrli, 1917-1921,
+  p. 851-871.</p>
+  <p>Dürrwächter, A., <hi rendition="simple:italic">Jakob Gretser und
+  seine Dramen. Ein Beitrag zur Geschichte des Jesuitendramas in
+  Deutschland</hi>, Fribourg-en-Brisgau, Herder, 1912, ici surtout
+  p. 59-62.</p>
+  <p>Scherer, E. (éd.),
+  <hi rendition="simple:italic">Das-Bruder-Klausenspiel des P. Jakob
+  Gretser S. J. vom Jahre 1586</hi>, Bâle/Fribourg, Hess, 1928.</p>
+  <p>Valentin, J.-M., <hi rendition="simple:italic">Les jésuites et le
+  théâtre (1554-1680). Contribution à l’histoire culturelle du monde
+  catholique dans le Saint-Empire romain germanique</hi>, Paris,
+  Desjonquères, 2001.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p><hi rendition="simple:bold">Comoedia de vita Nicolai Underwaldii
+  Eremitae Helvetii, scripta Friburgi anno 1586, habita Lucernae
+  Helvetiorum 5. Octobris 1586, praesente Legato Pontificis et Legatis
+  omnium catholicorum pagorum, quo eodem die foedus religionis denuo
+  confirmatum et arctius sanctum est.</hi></p>
+  <p>Horatius [Hor. <hi rendition="simple:italic">ars</hi>,
+  333-334.]</p>
+  <p>Aut prodesse volunt aut delectare poetae</p>
+  <p>Aut simul iucunda et idonea dicere vitae.</p>
+  <div type="level2" xml:id="prologus">
+    <head>Prologus</head>
+    <p>Salvete Lucernenses1 quotquot huc pedem</p>
+    <p>Tetulistis spectandae caussa comoediae,</p>
+    <p>Quam faustis avibus et coetu Divum auspice</p>
+    <p>Iam cogitamus huic scenae committere,</p>
+    <p>Haud aliam ob caussam, Lucernenses inclyti,</p>
+    <p>≤line=5≥</p>
+    <p>Quam ut vos hilaremus iucundis thaematis</p>
+    <p>Et acroamatibus delectemur ac vicem</p>
+    <p>Sic meritis vestris referamus, quae totius</p>
+    <p>Anni curriculo sane liberaliter</p>
+    <p>In nos congeritis. Ingrati turpem notam</p>
+    <p>≤line=10≥</p>
+    <p>Non effugeremus, ni vestris beneficiis</p>
+    <p>Reponeremus grates quas vires ferunt.</p>
+    <p>Adeste, quaeso,2 mentibus qui corpore</p>
+    <p>Voluistis adesse, et si alicui comoediae</p>
+    <p>Favistis unquam linguis et silentio</p>
+    <p>≤line=15≥</p>
+    <p>Et benevolentiae aura, huic favebitis,</p>
+    <p>Sat scio. Nam materiem non tractat exteram,</p>
+    <p>Non fictam, non petitam ex vatum fabulis,</p>
+    <p>Sed natam in Helvetia, domi nostrae fatam,</p>
+    <p>Natam Underwaldiae. Num novistis locum?</p>
+    <p>≤line=20≥</p>
+    <p>Novistis, novistis. Fortasse singuli3</p>
+    <p>Vidistis eundem. Positis sed ut ambagibus</p>
+    <p>Plane rem proloquar. Vitam Underwaldii</p>
+    <p>Nicolei comicis legibus inclusimus,</p>
+    <p>Inclusam vobis nunc spectandam adducimus.</p>
+    <p>≤line=25≥</p>
+    <p>Res est spectatu digna, quod videbitis</p>
+    <p>Comoediae progressu multo clarius.</p>
+    <p>Et certe si verum est, quod vulgo dicitur,</p>
+    <p>Domestica magis hilarare animos, quam extera,</p>
+    <p>Noviterque facta magis, quam gesta antiquitus,</p>
+    <p>≤line=30≥</p>
+    <p>Non video, Lucernenses,4 quae comoedia</p>
+    <p>Gratior eveniat vobis, quam quae versibus</p>
+    <p>Nicolei vitam exequitur Underwaldii</p>
+    <p>Helvetii, qui proavorum aetate vixerit,</p>
+    <p>Sui aevi Paulus, Antonius, Onuphrius,</p>
+    <p>≤line=35≥</p>
+    <p>Miraculis toto mundo clarissimus,</p>
+    <p>Immortale decus et iubar nitidissimum</p>
+    <p>Helvetiae. Sed iam primi actus summam eloquar.</p>
+    <p>Reliquorum periochas dicam cum venerit</p>
+    <p>Grex noster ad illos actus; si iam dicerem</p>
+    <p>≤line=40≥</p>
+    <p>Omnes, non tam docerem quam confunderem.</p>
+    <p>Principio prodeunt cacodaemones duo,5</p>
+    <p>Qui multis consultant, quonam in plagas modo</p>
+    <p>Coniicere Nicolaum possint, plurimum</p>
+    <p>Dolent, ignarum agricolam tot negotii</p>
+    <p>≤line=45≥</p>
+    <p>Pietate sua facessere suis copiis.</p>
+    <p>Interea Nicolaus ad solitas preces</p>
+    <p>Deo solvendas prodit. Adsunt daemones</p>
+    <p>Virumque sanctum pugnis tundunt et alapis</p>
+    <p>Caedunt crudeliter, si forte stringeret</p>
+    <p>≤line=50≥</p>
+    <p>Maledicam in superos linguam, sed sanctus senex</p>
+    <p>Nil nisi divinam proloquitur clementiam.</p>
+    <p>Ringuntur daemones; refert victoriam</p>
+    <p>Praeclaram Nicoleus; grates Divis agit.</p>
+    <p>Post haec rus it comitatus filio suo,</p>
+    <p>≤line=55≥</p>
+    <p>More suo vota fundit patri caelitum;</p>
+    <p>Pecoribus praebet natus pabulum, parens</p>
+    <p>Foris precatur. Daemon advolat iterum,</p>
+    <p>Precantem arripit et per dumos et per rubos,</p>
+    <p>Per saxa, per coenum raptat sanctum virum.</p>
+    <p>≤line=60≥</p>
+    <p>Patienter omnia fert, nec fatur verbulum,</p>
+    <p>Quod summam non declararet patientiam.</p>
+    <p>Quam patiens est Nicoleus, tam nequissimus</p>
+    <p>Cacodaemon est impatiens, quod retia sua</p>
+    <p>Semper nequicquam Nicolao tenderet.</p>
+    <p>≤line=65≥</p>
+    <p>Debilis exinde a gnato ducitur domum.</p>
+    <p>Mendici veniunt Nicolei ad aedes duo</p>
+    <p>Stipem rogantes; dapsilem accipiunt stipem.</p>
+    <p>Post haec in aliquot pauperes scholasticos</p>
+    <p>Vir mitis liberalitate maxima</p>
+    <p>≤line=70≥</p>
+    <p>Paterna confert merita. Tres postea viri,</p>
+    <p>Incertum an angeli, gravissime monent</p>
+    <p>Nicoleum, ut rebus derelictis vi necis</p>
+    <p>Subiectis, unico se mancipet Deo,</p>
+    <p>Relictis liberis, relicta coniuge.</p>
+    <p>≤line=75≥</p>
+    <p>Currenti calcar addunt,6 nam nihil aliud</p>
+    <p>Desiderabat Nicolaus perpetim.</p>
+    <p>Hic finis actus primi erit et hic terminum</p>
+    <p>Pepigimus, vos interea spectatissimi</p>
+    <p>Favete, spectatores, primo huic actui.</p>
+    <p>≤line=80≥</p>
+    <p>Si non favere vultis nostri gratia,</p>
+    <p>Favete Nicolei caussa Underwaldii.</p>
+  </div>
+  <div type="level2" xml:id="actus-primi-scena-secunda">
+    <head>Actus primi scena secunda</head>
+    <p>Nicolaus. Daemones (Belial; Asmodaeus)</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Quantis me celsi summus
+    aetheris parens</p>
+    <p>Ab ineunte aevo cumulavit beneficiis</p>
+    <p>Licet immerentem; quantis me quotidie</p>
+    <p>Auget adhuc donis. Finis nullus et modus</p>
+    <p>Benefaciendi nullus est clementiae</p>
+    <p>Divinae praestitutus. Quid communia</p>
+    <p>Memorare coner merita, quae quamvis sient</p>
+    <p>Maxima, plerique meminisse tamen negligunt.</p>
+    <p>Quid maius, quam quod coeli summus conditor</p>
+    <p>Me procrearit et ad effigiem finxerit</p>
+    <p>Suam, capacem coelestis vitae, cui</p>
+    <p>Non est depactus terminus. Fueram nihil;</p>
+    <p>Illius dono nunc aliquid sum; quid aliquid?</p>
+    <p>Non quidlibet, sed homo, sed similis coelitum</p>
+    <p>Intelligentia. Quid hoc beneficio</p>
+    <p>Excogitari maius quit! quidve melius!</p>
+    <p>Deinde me progigni voluit catholicis</p>
+    <p>Parentibus, non iudaeis, non ethnicis,</p>
+    <p>Non haereticis; in catholica me nascier</p>
+    <p>Voluit Ecclesia, ut simul atque cernerem</p>
+    <p>Iucundum coeli lumen, catholicos quoque</p>
+    <p>Conspicerem atque lavacro sacri baptismatis</p>
+    <p>Catholico ritu tingerer.</p>
+    <p><hi rendition="simple:bold">Bel. </hi> Multi logi,</p>
+    <p>Loquax oratio; videamus quo velit</p>
+    <p>Evadere tandem, haec mortis imago plurima.7</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Deinde suppeditavit mihi
+    constantiam</p>
+    <p>Manendi firmiter priscis in dogmatis</p>
+    <p>Ad hanc usque horam. Praeterea custodiit,</p>
+    <p>Ne variis maculis primaevam innocentiam</p>
+    <p>Contaminarem. <hi rendition="simple:bold">Asm.</hi> En ipse
+    buccinat suas</p>
+    <p>Sibi globisque suas laudes. Os te, senex,</p>
+    <p>Laudet alienum. Sordent laudes propriae.8</p>
+    <p>Proverbium sed nescit, quia popularia</p>
+    <p>Ignorat spiritalis. Solo spiritu</p>
+    <p>Iam vivit, carne quantus quantus mortuus.</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Insuper a cura rerum
+    temporalium</p>
+    <p>Superflua me abstraxit, ut mihi sit satis</p>
+    <p>Quod satis est, et non nummorum caeca ardeam</p>
+    <p>Cupidine. Quid mihi ferret, quaeso, commodi</p>
+    <p>Vel mundus universus, si detruderet</p>
+    <p>Ad inferos animam meam coeli arbiter?</p>
+    <p>Satius est, omnia putare instar stercorum,</p>
+    <p>Ut evadamus poenas Ditis perpetes,</p>
+    <p>Et tandem perfruamur coeli gaudiis,</p>
+    <p>Quibus rex aethrae cumulat caelites suos.</p>
+    <p><hi rendition="simple:bold">Bel.</hi> Sed nondum, bone vir,
+    pervenisti ad sidera.</p>
+    <p>Est via sat longa; timeo ne vires tuae</p>
+    <p>Itineri tanto non sufficiant; iam pedes</p>
+    <p>In plano vix tollere potes, qui ascenderes</p>
+    <p>Culmina tam celsa coeli, tamque acclivia?</p>
+    <p>Ad inferos, ad regna nostra curritur</p>
+    <p>Declivi tramite; eo venies facillime.</p>
+    <p><hi rendition="simple:bold">Nic.</hi> O pater, aetheriis sedibus
+    qui praesides,</p>
+    <p><hi rendition="simple:italic">(Flectit Nicolaus genua)</hi></p>
+    <p>Tibi gratias ago, tibi refero gratias</p>
+    <p>Ex intimis praecordiis. Tu conditor,</p>
+    <p>Redemptor tu meus, tu protector meus,</p>
+    <p>O quando te videbo sine velamine?</p>
+    <p>O quando intrabo lucidas poli domos,</p>
+    <p><hi rendition="simple:italic">(Daemones digladiantur ut Nicolaum
+    perturbent)</hi></p>
+    <p>Interminatis gaudiis ut perfruar?</p>
+    <p><hi rendition="simple:bold">Asm.</hi> Fer opem, te rogito, vir
+    Dei!</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Una dies melior est in
+    atriis tuis</p>
+    <p>Quam multa dierum millia hoc in tempore.9</p>
+    <p><hi rendition="simple:italic">(Semper pergunt daemones)</hi></p>
+    <p>Felices illos, quibus honorem sedis annuis</p>
+    <p>Sidereae, felices ter, quater, et amplius.</p>
+    <p>O pater, o coeli Rector, praepotens Deus,</p>
+    <p>Qui cuncta aeterno moliris moderamine,</p>
+    <p>Qui numine tuo reples coelum et aequora</p>
+    <p>Et terras, qui disponis omnia suaviter,</p>
+    <p>Adesto mihi; sis clypeus, sis scutum meum10</p>
+    <p>Impressiones contra saevi daemonis!</p>
+    <p><hi rendition="simple:bold">Asm.</hi> Quid te precando conficis?
+    Quin ocyus</p>
+    <p>Surgis; quin surgis; ὄρσεο, ὄρσεο, ὄρσεο!</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Adesto mihi, salutis
+    largitor Deus,</p>
+    <p>Adesto mihi, iuvamen unicum meum!</p>
+    <p><hi rendition="simple:bold">Bel.</hi> Quid aetheris res
+    contemplaris? Inspice</p>
+    <p>Hoc; speculum fulgens contempleris paululum,</p>
+    <p>Quam pulcher sis, quam formosus, quamque elegans.</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Abite spiritus nefarii;
+    fugam</p>
+    <p>Capessite! Deo soli semper serviam.</p>
+    <p><hi rendition="simple:bold">Asm.</hi> Sitis? Vel esuris? Suave
+    poculum</p>
+    <p>Miscebo tibi, ne torqueas corpus tuum</p>
+    <p>Fame sitique. <hi rendition="simple:bold">Nic.</hi> Cibus est et
+    potus meus</p>
+    <p>Facere voluntatem supremi numinis,</p>
+    <p>Cibus meus est aetherias contemplarier</p>
+    <p>Delicias; spes mea Deus et solatium</p>
+    <p>Rebus in adversis unicum; fer opem mihi</p>
+    <p>Luctanti contra insultus vafri daemonis!</p>
+    <p><hi rendition="simple:bold">Asm.</hi> Bibe Nicolae; quid te
+    discrucias siti?</p>
+    <p>Bibe Nicolae; nimia morieris siti.</p>
+    <p><hi rendition="simple:bold">Bel.</hi> Ede Nicolae; quid te
+    discrucias fame?</p>
+    <p>Ede Nicolae; nimia morieris fame.</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Potus panisque vester sub
+    nigra tartara11</p>
+    <p>Vobiscum detrudatur,12 improbissimi</p>
+    <p>Et seductores hominum sceleratissimi</p>
+    <p>Praedones animae, raptores corporum!</p>
+    <p><hi rendition="simple:bold">Asm.</hi> En nihil efficimus Belial;
+    quid consilii</p>
+    <p>Capiendum censes? In fugam nos</p>
+    <p>Coniicit orando. <hi rendition="simple:bold">Bel.</hi> Non iam
+    tempus consilii</p>
+    <p>Capiendi, sed pugnandi totis viribus.</p>
+    <p>Dic, Nicolae, quamdiu hanc vitam tuam</p>
+    <p>Austeram ducis? Tu necabis millies</p>
+    <p>Teipsum. Desine, desine, desine, desine!</p>
+    <p>Num tu vis melior esse reliquis omnibus?</p>
+    <p>Num tu vis universo mundo sanctior</p>
+    <p>Videri? Non est haec ad caeruleas plagas</p>
+    <p>Via tuta; perge ad coelum consueta via.</p>
+    <p>Audisn’ senex? <hi rendition="simple:bold">Nic. </hi>Domine Deus!
+    <hi rendition="simple:bold">Bel.</hi> Ratione et modo</p>
+    <p>Rei domesticae vaces; ieiunia</p>
+    <p>Relinque monachis et monialibus! Tuo</p>
+    <p>Tu statui convenienter vivito; plurimis</p>
+    <p>Es offendiculo, quod quaeras novam viam</p>
+    <p>Ad coelum; non es monachus, verum rusticus!</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Domine Deus!
+    <hi rendition="simple:bold">Asm.</hi> Audis! Saecularis es,
+    senex,</p>
+    <p>Non religiosus; tractes saecularia,</p>
+    <p>Religiosa religiosis linquito; tibi</p>
+    <p>Ligonem sume, rastrum, furcam, sarculum;</p>
+    <p>Rosarium da monacho atque sacerdotibus!</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Abite spiritus nefarii,
+    fugam</p>
+    <p>Capessite! Deo soli semper serviam.</p>
+    <p>Rumpamini quantumvis ut Iudae ilia!</p>
+    <p>Vos scilicet nobis beatitudinem</p>
+    <p>Amissam sceleribus invidetis perpetim</p>
+    <p>Et sub Cocyti stagna13 nos teterrima</p>
+    <p>Rapere conamini; sed vestros irritos</p>
+    <p>Conatus reddit astrorum Rector potens.</p>
+    <p>Abite spiritus nefarii! Fugam</p>
+    <p>Capessite! Deum percolendo spiritum</p>
+    <p>Supremum efflabo. <hi rendition="simple:bold">Asm.</hi> Denuo
+    igitur vincimur</p>
+    <p>Pugnaque excedimus inusti turpi nota.</p>
+    <p>Ut te caelituum summus genitor perduat,</p>
+    <p>Scelestissime senex, hypocrita maxime!</p>
+    <p><hi rendition="simple:bold">Nic.</hi> Abite spiritus nefarii!
+    Fugam</p>
+    <p>Capessite! Dominus lux mea,14 fiducia</p>
+    <p>Mea Deus. Si coniurent in me tartara,</p>
+    <p>Non trepidabo. Ciere si conspexero</p>
+    <p>Lucifugum regem, regni membra singula,</p>
+    <p>Non expallescam. Plures mecum copiae,</p>
+    <p>Quam cum illis. <hi rendition="simple:bold">Bel.</hi> Ergo
+    Nicoleus nos denuo</p>
+    <p>Pedibus calcat et oppressos mittit sub iugum!</p>
+    <p>Phi, pudet ac taedet; quos nostris dabimus iocos!</p>
+    <p>Quos risus, quos ludos, cum par tam nobile15</p>
+    <p>Bellatorum victum ab agricola conspexerint!</p>
+    <p><hi rendition="simple:bold">Asm.</hi> Res mira! Tot fortissimos
+    devicimus</p>
+    <p>Athletas proeliique callentissimos</p>
+    <p>Iniecimus in tendiculas et nostras plagas,</p>
+    <p>Et hunc nequimus fallere non vafrum virum.</p>
+    <p>Sed nondum spem posui, dum vixerit</p>
+    <p>Sperabo; nondum evasit nostra retia!</p>
+    <p>Nunc conferamus nos alio, atque quospiam,</p>
+    <p>Vel potulum vel scortulum vel denique</p>
+    <p>Iuratum et litigatum, mittamus dolis</p>
+    <p>Pellectos nostris, ne prorsus nihil hodie</p>
+    <p>Fecisse putemur. <hi rendition="simple:bold">Bel.</hi> Consilium
+    tuum placet.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+</body>
+</text>
+</TEI>

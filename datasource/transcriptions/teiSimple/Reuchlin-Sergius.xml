@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>Comoedia cui nomen Sergius Ioannis Capniois vulgo Reuchlin
+  phorcensis LL. doctoris latine grece et hebraice doctissimi</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="personae.">
+    <head>PERSONAE.</head>
+    <p>Prologvs</p>
+    <p>Helvo</p>
+    <p>Salax</p>
+    <p>Aristophorvs</p>
+    <p>Lixa</p>
+    <p>Bvttvbatta</p>
+    <p>Pharisevs</p>
+    <p>Epilogvs.</p>
+  </div>
+  <div type="level2" xml:id="prologvs.">
+    <head>PROLOGVS.</head>
+    <p>Si unquam tulistis ad iocum vestros pedes</p>
+    <p>Aut si rei aures praebuistis ludicrae,</p>
+    <p>In hac novi obsecro poetae fabula</p>
+    <p>Dignemini esse attentiores quam antea.</p>
+    <p>≤line=5≥ Non hic erit lasciviae aut libidini</p>
+    <p>Meretriciae aut tristi senum curae locus,</p>
+    <p>Sed histrionum exercitus et scommata.</p>
+    <p>Nam Buttubatta repperisse creditur</p>
+    <p>Calvariam cuiusdam anilis Sergii</p>
+    <p>≤line=10≥ Qui erat Mahometi magister primitus.</p>
+    <p>Quo Sergius fit nomen huic comoediae.</p>
+    <p>Fatetur ipse scriptor antiquis secus</p>
+    <p>Fuisse consuetudinem simul et novis,</p>
+    <p>Quod scripserint illi trimetro et tetrametro.</p>
+    <p>≤line=15≥ At hi soluta oratione licentius.</p>
+    <p>Ambobus excessit via nuperrimus</p>
+    <p>Hic ille noster, namque in omnibus unico</p>
+    <p>Genere usus est, quod paucitas facit actuum</p>
+    <p>Brevitate temporis coacta februi:</p>
+    <p>≤line=20≥ Nunc vos petit favere ineptitudini.</p>
+    <p>Si senserit placuisse primitias suas,</p>
+    <p>Faciet deinde integras comoedias.</p>
+  </div>
+  <div type="level2" xml:id="actvs-primvs.">
+    <head>ACTVS PRIMVS.</head>
+    <p>HELVO.</p>
+    <p>Cum me et meos contemplor a natalibus,</p>
+    <p>Patrem, patrimum, proavos, tritavos, avos,</p>
+    <p>≤line=25≥ Abavos itemque atavos omnem hancque germinis</p>
+    <p>Congerminationem et hunc nostrae domus</p>
+    <p>Splendorem abusque maxumis patruis meis,</p>
+    <p>Grates habendum mihi duabus est deis</p>
+    <p>Iunoni et eius asseclae primiperae</p>
+    <p>≤line=30≥ Lucinae, ob id quod ea parentela satus,</p>
+    <p>Quae sit notatissimaque famosissimaque,</p>
+    <p>Ex heluonibus heluo haud spurius siem.</p>
+    <p>Equidem patritos imitor mores: bibo,</p>
+    <p>Rebibo, voro, devoro, quod omnes assolent</p>
+    <p>≤line=35≥ Cognomines nati meis maioribus,</p>
+    <p>Plus tamen ego ipse caeteris ingurgito</p>
+    <p>Et heluor, quare Heluo est nomen mihi.</p>
+    <p>Vbi quid est vini, si eius copia est,</p>
+    <p>Haud cesso, quousque totus est gurgulio</p>
+    <p>≤line=40≥ Praegnans ab imo et trans gulam; sin paucitas,</p>
+    <p>Vel lambo vel lingo, dum odor sagax olet,</p>
+    <p>At non (ut est plerisque mos) in abditis</p>
+    <p>Et solitariis locis aut specubus</p>
+    <p>Aut clam viris penitissimo in quodam penu,</p>
+    <p>≤line=45≥ (Hoc indecorum hominique detestabile est)</p>
+    <p>Sed cum bonis natabus ac sodalibus</p>
+    <p>Consimilibus mei atque idem gnathonibus</p>
+    <p>Vt ego sum, eo hic quaero meos contribules</p>
+    <p>Parasiticos, praedonicam artem qui colunt</p>
+    <p>≤line=50≥ Offarum et amphorarum, ubi est merax merum.</p>
+    <p>Qui aliquando delinitioribus iocis</p>
+    <p>Mentes furantur atque sensus hominum,</p>
+    <p>Vt reliquias unctae patellae et canthari</p>
+    <p>Vvida lacunaria superstitis meri</p>
+    <p>≤line=55≥ Quadrasque mensarum et pia stipendia</p>
+    <p>Nostris inanibus gulis et ventribus</p>
+    <p>Repensitent, non quasi mendicabulum,</p>
+    <p>(Hoc enim esset infamia meis maioribus)</p>
+    <p>Sed ludicrae artis praemium et mercedulam.</p>
+    <p>≤line=60≥ Iam nunc quidem hora ipsa et stata et certa
+    imminet,</p>
+    <p>Qua flagriones hi, infimatis ille grex,</p>
+    <p>In aliquod usque contubernium ruant</p>
+    <p>Aut ad forum populo strepant proverbia.</p>
+    <p>Corripiendum illuc mihi est maturrime,</p>
+    <p>≤line=65≥ Nam illis voluptas maxima est, praesentia</p>
+    <p>Frui mea in ludis, iocis et risibus.</p>
+    <p>Scio quod actutum misellioribus</p>
+    <p>Sunt inedia miselliores et fame,</p>
+    <p>Quaerunt ubi commodius sit faucibus,</p>
+    <p>≤line=70≥ Vbi estur et bibitur. Sed eccos commodum,</p>
+    <p>Eccos prope in medio fori: congeminant,</p>
+    <p>Coitur, accurritur, habent quid ludicrum.</p>
+    <p>Quin ego citatiore gressu propero</p>
+    <p>Et curro nunc etiam, probe ut videam quoque.</p>
+    <p>SALAX. HELVO. BVTTVBATTA. ARISTOPHORVS. LIXA.</p>
+    <p>≤line=75≥ Sa. Heus tu tribune noster advola. He. O Salax,</p>
+    <p>Rerum quid est? ut tu tumultuanter hic?</p>
+    <p>Sa. Nescio quid istinc Buttubatta fert boni.</p>
+    <p>Curritur ad hunc ceu si exiisset Indiam</p>
+    <p>Ferens avem phoenicem. Bv. Adeste ehodum ehodum,</p>
+    <p>≤line=80≥ Adeste principes furum, histrionum item</p>
+    <p>Et ludionum et lusionum et verberonum.</p>
+    <p>Adeste mercurialiter non plumbei</p>
+    <p>Sed plumei, pedibus volucribus. Scio,</p>
+    <p>Mirum in modum admirabilem ac vobis quidem</p>
+    <p>≤line=85≥ Ignobilem rem insinuo hic intra meum</p>
+    <p>Sinum. Ar. Paras anteloquium et rhetoricum</p>
+    <p>Et admodum forense, Buttubatta, nam hac</p>
+    <p>Concinnitate orationis nemo homo</p>
+    <p>Ne Gorgias neque Zeno nec Protagoras</p>
+    <p>≤line=90≥ Te vincet aeque arbitror, at exhibe, quid est?</p>
+    <p>Bv. Exhibeam? enimvero nec exhibebitur.</p>
+    <p>Li. Tu vero exhibe. He. Exhibe. Sa. Exhibe modo.</p>
+    <p>Bv. Vim, vim, triumviri, triumviri. Heus ohe</p>
+    <p>Appello iudicis tribunal. Laeditis.</p>
+    <p>≤line=95≥ Li. Dabis. Sa. Tenes? Bv. Cessate furciferi fures.</p>
+    <p>Sa. Tenes? Li. Statim. Ar. Tenes? Bv. Scelesti sacrilegi,</p>
+    <p>O parricidae, matricidae, neutiquam</p>
+    <p>Prehenditis vel hoc die. He. Trahe, corripe.</p>
+    <p>Bv. Hodie o rapax nequis id a me avellere.</p>
+    <p>≤line=100≥ Li. Conemur omnibus modis enixim omnes.</p>
+    <p>Bv. Heu paenula et bardocucullus interit.</p>
+    <p>Rumpunt sinum misero mihi. Li. Dato. Bv. Non dabo.</p>
+    <p>He. Permittito ut nos leniter queamus id,</p>
+    <p>Quodcumque rerum est, quod sinu occulte geris,</p>
+    <p>≤line=105≥ Aspicere et ultro reddere, obsecro. Bv. Iubes</p>
+    <p>Fidem? He. Fideiubeo. Bv. Statim reddi? He. Statim.</p>
+    <p>Bv. Sane modo fiet, modo manum exigat</p>
+    <p>Lixa, metuo iugulum ne anhelitus opprimat.</p>
+    <p>Li. Sic sta. Ar. Fugam capessit. He. Interdum manet.</p>
+    <p>≤line=110≥ Sa. Mane fugax. Bv. Non edepol, si libere</p>
+    <p>Meme sinatis, fugio. Li. Currite heus perniciter</p>
+    <p>Quisque optimus, plicate cincinnis manus.</p>
+    <p>Sycophanta magnitate perfidiae extimae,</p>
+    <p>Num iam redis? Bv. Sic antevortebant viam</p>
+    <p>≤line=115≥ Isti appetones, ut ne mus eroderet</p>
+    <p>Li. Ligate furcifero manus simul et pedes.</p>
+    <p>Bv. Ne, amice Lixa caeterique complices,</p>
+    <p>Vincite vestrum amoenum et aptum bibesium</p>
+    <p>Atque popinonem egregium ac aridum aemulum.</p>
+    <p>≤line=120≥ Ar. O palpo, nemo blandior palpator est</p>
+    <p>Sa. O blandicella verba. Li. Pro deum fidem,</p>
+    <p>O singuli vos flocciores vellere,</p>
+    <p>Deinde leviores pumice, ut non compedes</p>
+    <p>Sive manicas huic adhibeatis ferreas.</p>
+    <p>≤line=125≥ Bv. Ble. Sa. Mussitas? Bv. Ble. Ar. Blateras? Bv. Ble.
+    Li. Balitas?</p>
+    <p>Bv. Quidni? cum ovis sim, lanam ita decerpitis</p>
+    <p>Mihi et caput pilatis, hinc cohibete vos.</p>
+    <p>Li. Quare, scelus, mendacibus verbis tuos</p>
+    <p>Fidos sodales ludis et contemptui</p>
+    <p>≤line=130≥ Habes? Sa. Dein, quare tenes suspendio</p>
+    <p>Animos sodalitatis? He. An te non pudet</p>
+    <p>Celare quod promiseras ostendere?</p>
+    <p>Ar. Non te piget mendacii tam varii?</p>
+    <p>Li. At numquid autumas asellos esse nos?</p>
+    <p>≤line=135≥ Sa. Anne cuculos nos esse cocytosve ais?</p>
+    <p>He. Quid? nos gracillare est opinio tua</p>
+    <p>Gallinae instar? sive cucurire sic,</p>
+    <p>Vt galli assolent inepte? nos viri</p>
+    <p>Etiam sumus, quos spernier vitio damus.</p>
+    <p>≤line=140≥ Ar. Immo viri, non feminae. Bv. Porcos, suos,</p>
+    <p>Scrofas graves vos iudico per Herculem.</p>
+    <p>Numquam edepol homines suatim grunniunt.</p>
+    <p>Li. Et tu haud homo es, sed monstrum abortivum, nimis</p>
+    <p>Sceleste et impudice leno trifurcifer.</p>
+    <p>≤line=145≥ Sa. Bustirape, verbero fugax fugitiveque.</p>
+    <p>He. Socifraude flagrio, nequam nequissime.</p>
+    <p>Ar. Nihil respondes? digne qui crucium feras.</p>
+    <p>Bv. Etiam perorastisne tandem, inania</p>
+    <p>Omnis boni mancipia, blasphemi nequam?</p>
+    <p>≤line=150≥ Vel sic putastis hoc iocale de sinu</p>
+    <p>Meo exterebrari potesse? Aliter fuit</p>
+    <p>Agendum apud malignum et infamem virum,</p>
+    <p>Qui nullam honoris aut probri rationem habet.</p>
+    <p>Frugi homo veretur opprobrari et obloqui</p>
+    <p>≤line=155≥ Famamque denigrari obitam iniuriis.</p>
+    <p>Contra infimatis quilibet sycophantulus</p>
+    <p>Laudes et opprobria invicem iuxta aestimat.</p>
+    <p>Maledicto haec benedictiones arbitror.</p>
+    <p>Quod si velitis bellum hoc ot lepidum. He. Quid est?</p>
+    <p>≤line=160≥ Ai. Sa. Quid est? modo dico ’pax’. Li. Agedum quid
+    est?</p>
+    <p>Ar. Sinite eloqui quod deglutator coeperat</p>
+    <p>Bv. Quod si velitis pulchrum hoc et lepidum simul</p>
+    <p>Iocale, quod dudum sinu insinuaveram,</p>
+    <p>Oculis videre ac digitulis contingere,</p>
+    <p>≤line=165≥ Non verbera, at verba opus erunt mellaria,</p>
+    <p>Rogationes, supplicatio frequens</p>
+    <p>Exosculatioquc, item hymnus et preces.</p>
+    <p>Sa. Hoho deus larvalis iste ganeo</p>
+    <p>Gurgustio utetur pro aedo mehercule,</p>
+    <p>≤line=170≥ Vult supplicari sibi quasi cuidam deo.</p>
+    <p>Bv. Quid tum Salax, ubi histrionum sim deus?</p>
+    <p>Nonne histrionica arte plus praepolleo</p>
+    <p>Prae caeteris, quos nunc sciam, iocularibus?</p>
+    <p>Sed supplicato vos brevi, est paucis opus,</p>
+    <p>≤line=175≥ Nam id quod foro dignum est pio supplicio.</p>
+    <p>Ar. Tibine an iocalibus rogo litabimus?</p>
+    <p>Bv. Vtrique, nam quod gesto dicitur sacrum.</p>
+    <p>He. Ostende, monstra, societas una expetit</p>
+    <p>Bv. At fiat. Ecce, accipite quaeso vasculum.</p>
+    <p>≤line=180≥ Sa. Vis dicere hanc larvam? Bv. Di te larvent,</p>
+    <p>Quid larvam? eris larvatior manendeis,</p>
+    <p>Si pergis hoc loqui modo, heus mutito.</p>
+    <p>He. Papae. Cadaver tanti hoc testaceum,</p>
+    <p>Lutosum et argillosum et horridulum caput.</p>
+    <p>≤line=185≥ Formido formam et ossa mortui horreo.</p>
+    <p>Bv. Quam delicatus hic formosulus puer!</p>
+    <p>Nurn tu os times apelle seu demortuum?</p>
+    <p>Os extimescas, si sapis, trilinguidum</p>
+    <p>Et vividum et pilax. Li. Homo hic ex stercore</p>
+    <p>≤line=190≥ Vbi volet facit aurum, habenda est gratia.</p>
+    <p>Bene statur! praestigio hoc salvi erimus.</p>
+    <p>Nam Buttubatta, dum famelica est lues,</p>
+    <p>Hoc arido osse praestito mendiciter</p>
+    <p>Laboriosos agricolas commoveris,</p>
+    <p>≤line=195≥ Vt quisque ductus religione obolum offerat.</p>
+    <p>Quaecunque anus, quicunque sunt silicernii,</p>
+    <p>Vetuli, veternosi, cibarium dabunt,</p>
+    <p>Exosculabuntur sacrum (ut tu fers) os hoc.</p>
+    <p>Finges quoque et divinitatem aliquantulam</p>
+    <p>≤line=200≥ Peccata contemplatione piaculi</p>
+    <p>Remittere, indulgere ita reatibus,</p>
+    <p>Defendere a Plutonio illos tartaro.</p>
+    <p>O mentis humanae furem! Bv. Quid clamitas?</p>
+    <p>Ecquid latras? aut quid rabis, rauce rabula?</p>
+    <p>≤line=205≥ Annon mihi recte licet, quod est frequens,</p>
+    <p>Triviale, tritum et usucaptum aedilibus?</p>
+    <p>Sa. Quicquid hoc ais, os impudicatum geris</p>
+    <p>Et faeculentum et obsitum musco et luto.</p>
+    <p>Ar. Papae quid est? He. Testus ubi lumbricos coquas,</p>
+    <p>≤line=210≥ Seu humana testa, vermibus gurgustium.</p>
+    <p>Li. Testudo nempe et bustuarium est caput.</p>
+    <p>He. Foetet grave. Sa. Male putet ac foedius olet.</p>
+    <p>Ar. Lavato saltem et pone subter imbricem</p>
+    <p>Cavum hunc ubi pluit, aut ahenum tollito</p>
+    <p>≤line=215≥ Aquae calentis plenum, eo pollincias,</p>
+    <p>Pollinctor ut solet cadavera munditer.</p>
+    <p>Bv. Quid? si lavabo et largiter pollinxero,</p>
+    <p>Num vultis ungento ut perungam exotico,</p>
+    <p>Vt cinnami atque opobalsami unguine fumiget?</p>
+    <p>≤line=220≥ Immo quidem mavelim ut oletum naribus</p>
+    <p>Crispantibus vestris oblatum oleat prius,</p>
+    <p>Vos rusticis parentibus nati fures.</p>
+    <p>Li. Etiam est opus lusorium, unda si laves,</p>
+    <p>Nam tum quid est? Bv. Volo ergo pelluero in labro,</p>
+    <p>≤line=225≥ Vt faciam et istis cruciferis hodie satis.</p>
+    <p>Ehodum quis it mecum ministerio comes?</p>
+    <p>Sa. At quem iubes? Bv. Venite Aristophore et Salax,</p>
+    <p>Nam caeteri opperiantur hic nos affore</p>
+    <p>Brevi et cito. Li. Nos philosophabimur inter haec.</p>
+    <p>≤line=230≥ Bv. Fiat, sed heus cavetedum, ne quid nimis.</p>
+  </div>
+  <div type="level2" xml:id="actvs-secvndvs.">
+    <head>ACTVS SECVNDVS.</head>
+    <p>PHARISEVS. HELVO. LIXA.</p>
+    <p>Ph. Quid est quod isti lotum eunt rabulae nequam,</p>
+    <p>Qui cuncta quae loquuntur obligant metro</p>
+    <p>Et versibus suos poetantur iocos?</p>
+    <p>Heus vos, quid est quod efferunt gremio foras?</p>
+    <p>≤line=235≥ He. Quid te attinet? vix ipsi hoc ipsum scibimus.</p>
+    <p>Fors larva scenis apta fiet ludicris,</p>
+    <p>Vbi lavabitur, aut erit quoddam organum.</p>
+    <p>Ph. Quale organum? vultisne versus fistulis</p>
+    <p>Stridere an ex persona eapse quam lavit</p>
+    <p>≤line=240≥ Turpes poetae personare versibus</p>
+    <p>Nugas leves, vetitas et illeges libris?</p>
+    <p>Li. Hypocrita et nulli valoris aemule,</p>
+    <p>Ausis poetarum sacrata munera</p>
+    <p>Temere profanare impio ore isto tuo.</p>
+    <p>≤line=245≥ Anas oleto laeta fit, pullastra edit</p>
+    <p>Exsputa spurca, anser cloaca pascitur,</p>
+    <p>Foricas sues, porci latrinas eruunt</p>
+    <p>Tu asinini onagri pullus auritus luto</p>
+    <p>Caenoque gaudes, belua indoctissima,</p>
+    <p>≤line=250≥ Docesquo nos poematum saciu spernere,</p>
+    <p>Quod ea esse dicas exsecrata de libris.</p>
+    <p>Cuius libris? Num vox dei Terentium</p>
+    <p>Sprevit? ne ad stimulum (inquiontis) calcitres.</p>
+    <p>Paulus Menandrum, Aratum, Epimenidem invocat</p>
+    <p>≤line=255≥ Testes, prophetas atque veri conscios.</p>
+    <p>Rerum omnium poesis est exordium</p>
+    <p>Et ante caelum et ante mundum prae omnibus,</p>
+    <p>Quod Moyses vates tuus tibi suggerit,</p>
+    <p>Qui et ipse lusit versibus poeticis.</p>
+    <p>≤line=260≥ Sapiunt poetae doctioribus viris.</p>
+    <p>Tibi fabulino, barbaro, indoctissimo,</p>
+    <p>Fanatico, fatuo, videntur sordidi.</p>
+    <p>’Asellus ad lyram’ vetus proverbium.</p>
+    <p>Sed si modo per tempus et negotium</p>
+    <p>≤line=265≥ Mihi liceret et vacaret, belua,</p>
+    <p>Ostenderem recto tibi qui vir sies.</p>
+    <p>At introrumpunt consodalcs, audio.</p>
+    <p>Ph. Abeo domum dictis onustus pessimis.</p>
+    <p>Li. Nunc, Heluo, quantum esset in rem tute scis,</p>
+    <p>≤line=270≥ Vt huic cavillatorium os contunderes.</p>
+    <p>He. Sequar virum, si mutiat, pugnos edet.</p>
+  </div>
+  <div type="level2" xml:id="actvs-tertivs.">
+    <head>ACTVS TERTIVS.</head>
+    <p>BVTTVBATTA. SALAX. LIXA. ARISTOPHORVS</p>
+    <p>.</p>
+    <p>Bv. Di vos, edones, combibones comici,</p>
+    <p>Perdant omnes. Li. Heus, te volo. Bv. Quid, Lixa, vis?</p>
+    <p>Li. Di ut te perire in rem velint vel non bonam.</p>
+    <p>≤line=275≥ Bv. In rem malam vis dicere. Li. Immo pessimam.</p>
+    <p>Bv. Melius meatim te ominari pervelim.</p>
+    <p>Tu quod tuli vide, tene, considera.</p>
+    <p>Num bellule ac lepide nitet post balneum?</p>
+    <p>Ne ego miser, quem oporteat tam vilibus</p>
+    <p>≤line=280≥ Mancipiis gestare morem et pendulis,</p>
+    <p>Suspensili turbae raponum, immo furum.</p>
+    <p>Tibi in manu est, agedum colendum praebeas.</p>
+    <p>Iam circulatim exosculentur lioc sacrum.</p>
+    <p>Ar. Demortui lenonis esse cranium</p>
+    <p>≤line=285≥ Videtur exsecrabile, ad furcas age.</p>
+    <p>Vbi repperisti hanc mortuam calvariam?</p>
+    <p>Bv. In craniario inter ossa putrida,</p>
+    <p>Vbi cubant tam divites (piam pauperes.</p>
+    <p>Caput omnium mortalium dignissimum.</p>
+    <p>≤line=290≥ Li. Quo? nam potest vel tartaro vel fulmine</p>
+    <p>Dignum esse, scirpo huic nodus est, obscura sunt.</p>
+    <p>Quae ais: responde, quid facis calvariam hanc?</p>
+    <p>Bv. Caput omnium mortalium dignissimum,</p>
+    <p>Cui supplicetur, hoc gerenda consulit,</p>
+    <p>≤line=295≥ Et quicqnid est quod consulit, princeps facit,</p>
+    <p>Omnis potestas huius in manu est sita.</p>
+    <p>Sa. Manes habere potest, at haud manus habet,</p>
+    <p>Ni sit lomurium quod ungues occulit,</p>
+    <p>Quod quaque noctium quietos territat</p>
+    <p>≤line=300≥ Et unguibus vultu cicatrices notat,</p>
+    <p>Immane terriculamen et manes truces.</p>
+    <p>Bv. Sino me tibi sodes recensere probe,</p>
+    <p>Quid prosit et quid obsit haec calvaria,</p>
+    <p>Vel haec quid omnino sit, undo venerit,</p>
+    <p>≤line=305≥ Quo tondat et quorsum brovi ventura sit.</p>
+    <p>Ar. Taceamus, usquam nil volo appetentius.</p>
+    <p>Bv. Videtis hanc calvam recalvastram cavam</p>
+    <p>Et osseam ac testaceam, prodest modis</p>
+    <p>Tribus: creat numerum, dat umbram ct loca replet.</p>
+    <p>≤line=310≥ Sa. Garrire, Buttubatta noster, visus es</p>
+    <p>Dialecticum hoc sophisma, ut illudas tuis.</p>
+    <p>Non cernitis quomodo suum os hic carnifex</p>
+    <p>Distorserat mox in loquendo fabulam?</p>
+    <p>Ar. Ah dic. Bv. Rogas? Li. Ah dic, precamur. Sa. Dic modo.</p>
+    <p>≤line=315≥ Bv. Videtis hanc calvitiam vel hoc caput,</p>
+    <p>Quod cuncta nutu, numine ct voto suo</p>
+    <p>Regnat, regit, mandat iubctquc ct praecipit</p>
+    <p>Nolentibus, volentibus, simul aulicis</p>
+    <p>Et incolis ct accolis ct proximis</p>
+    <p>≤line=320≥ Et intimis ct extimis, contra deum</p>
+    <p>Contraquc fas vortit, revertit omnia</p>
+    <p>Et pro deo pro fasque rursus, si volet?</p>
+    <p>Ar. Hoc vacuum, hoc illepidum, hoc putre au vanum caput?</p>
+    <p>Bv. Imnio hoc potons, gratum, placens, laudabile,</p>
+    <p>≤line=325≥ Quod principem regit trahitque quo cupit,</p>
+    <p>Cieat magistratus, repellit denuo,</p>
+    <p>Veterem cxauctorat senatum ct consules,</p>
+    <p>Novum senatum et consules succenturiat,</p>
+    <p>Reique publicae rescriptuarios</p>
+    <p>≤line=330≥ Alternitate muneris premit, levat,</p>
+    <p>Negotiatur universa principis</p>
+    <p>Sine principe et consilia dat sine consule</p>
+    <p>De eiusmodi solo suomet capitulo.</p>
+    <p>Quod cernitis quam illustre, quam egregium eminet.</p>
+    <p>≤line=335≥ Concludit autem principem triclinio,</p>
+    <p>Ne possit esse accessus ullis absque se,</p>
+    <p>Legationes ante mulgens concutit,</p>
+    <p>Quam principis frui queant praesentia,</p>
+    <p>Edicta et interdicta, iura, oracula,</p>
+    <p>≤line=340≥ Leges profanis atque sacris dictitat.</p>
+    <p>Obediunt caelestia et terrestria</p>
+    <p>Capitello huic, quianam sublimat ct intimat,</p>
+    <p>Depauperatque et divitat; quae vult facit,</p>
+    <p>Quae vult iubet, quae vult vetat, capitis caput.</p>
+    <p>≤line=345≥ Ar. An vera praedicas? rogo te serio.</p>
+    <p>Bv. Quin vera. Sa. Vera? Bv. Verius verissimo.</p>
+    <p>Sa. Hei mira sors istimodi calvariae.</p>
+    <p>Bv. Quin basiate liguriones hoc caput</p>
+    <p>Sa. Quare? Bv. Quia ipsis capito ploxis est caput</p>
+    <p>≤line=350≥ Et omnibus furunculis infamibus,</p>
+    <p>Epulonibus, mandonibus, mansuciis,</p>
+    <p>Cui quot usquam sunt virorum mollium</p>
+    <p>Ac molliorum feminis nunc supplicant,</p>
+    <p>Quod in sacris et in profanis aedibus</p>
+    <p>≤line=355≥ Quasi sit deus colunt, adorant, praedicant</p>
+    <p>Ludos, iocos, ferias, honores statuunt,</p>
+    <p>Mandat, probant, remandat, illi idem probant</p>
+    <p>Condemnat et dat gratiam, vexat bonos,</p>
+    <p>Amat malos, ut quisque furcifer fuat.</p>
+    <p>≤line=360≥ Proscriptus ob crimen, caput capital capit</p>
+    <p>Seu factionis factiosae industriam</p>
+    <p>Latrunculandi animo cum eo paciscitur.</p>
+    <p>Accedite huc lenocinatores viri:</p>
+    <p>Caput hoc pudicos nunquam amavit coniuges.</p>
+    <p>≤line=365≥ Accedite huc adulterantes feminae:</p>
+    <p>Calvaria ista prostitutas diligit</p>
+    <p>Accedat huc et virginum venumdator:</p>
+    <p>Saepe hoc caput devirginavit virgines.</p>
+    <p>Ar. Vndo ergo adest? Bv. Ex Arabia. Ar. Nomen quod est?</p>
+    <p>≤line=370≥ Bv. Sergius, an ignoratis illum Sergium?</p>
+    <p>Li. Grammaticum eundem qui latina perdocet?</p>
+    <p>Bv. Nequaquam, at illum apostatam atque Persicum,</p>
+    <p>Qui ne latine neve graece doctus est</p>
+    <p>Et insolenter aspernatus litteras,</p>
+    <p>≤line=375≥ Moniosthenis reprobi ducis meritorium.</p>
+    <p>Li. Quomodo igitur monachus fuit? Bv. Blatero fuit</p>
+    <p>Dicaxque multiloquusque vir sophisticus,</p>
+    <p>Nil dixit, at locutus est audaculus,</p>
+    <p>Temerarius, versutus, insolens, loquax.</p>
+    <p>≤line=380≥ Ast quando religio suam nequiverat</p>
+    <p>Amentiam ultra ferre, correctus fuit</p>
+    <p>A fratribus patribusque more regulae</p>
+    <p>Vt par fuit, quod non tulit bene Sergius,</p>
+    <p>Curans quo abire posset e monasterio.</p>
+    <p>≤line=385≥ Erupit, evasit, retro cessit fugax,</p>
+    <p>Quaerendo qui moris sui compar foret.</p>
+    <p>Quid multa? repperit sui similem latro,</p>
+    <p>Potcntiorem se tamen, tui ut queat</p>
+    <p>Tanquam deum tutanum et afferentem opem,</p>
+    <p>≤line=390≥ Nomine Mahometum, Cyrenaeum genus,</p>
+    <p>Quem patina graece vocat Moniosthenem.</p>
+    <p>Deinde amiculum reiecit et scapularia,</p>
+    <p>Sed et cucullum omnemque adornatum ordinis,</p>
+    <p>Constantiam et probitatem et integram fidem.</p>
+    <p>≤line=395≥ Atque ut brevi sermone plurima explicem,</p>
+    <p>Monachus qui erat, mox factus est apostata,</p>
+    <p>Fratrum suorum persecutor maximus.</p>
+    <p>Quotiesque victus vinculis iniectus est,</p>
+    <p>Toties Mahometus receptum liberat</p>
+    <p>≤line=400≥ Vel blandiendo vel minando fratribus.</p>
+    <p>Idem Mahometus Damascum primitus</p>
+    <p>Vbi obtinebat et Syros et Arabas,</p>
+    <p>Turgebat hoc caput in gravem superbiam</p>
+    <p>Lanigero equo et volucri caballo insidens</p>
+    <p>≤line=405≥ Cum quattuor coequestribus dromonibus.</p>
+    <p>Si orare coram plebe vel patriciis</p>
+    <p>Constituerat, sesquipeda verba ruminans,</p>
+    <p>Pontificio redimiculo comptissimo</p>
+    <p>Trabeatus in veste augurali apparuit</p>
+    <p>≤line=410≥ Sed me dies deficiet ortus hic recens,</p>
+    <p>Si res velim gestas ad unguem exponere,</p>
+    <p>Quo fastu et impetu sit usus initio,</p>
+    <p>Quibusque tunc et nunc minis et perpetim,</p>
+    <p>Nam saeviebat, ut assolent apostatae.</p>
+    <p>≤line=415≥ Si. Per pol et edepol et Herculem et canem</p>
+    <p>De hoc tu quidem memoriosiora quam antea</p>
+    <p>De quaque re unquam audiverim, modo explicas.</p>
+    <p>Bv. Nondum omnia: primum omnium fetialiter</p>
+    <p>Fraterculis bellum horridum indixit suis,</p>
+    <p>≤line=420≥ Moniosthene fretus duce, proinde et sacris</p>
+    <p>Victum sacerdotibus adomit annuum –</p>
+    <p>Consuevit appellare praebendas sacras</p>
+    <p>Vulgus — renuntiavit ille apostata</p>
+    <p>Sub nomine illius Mahometi viris</p>
+    <p>≤line=425≥ Bonis, sacris presbyteris praebendulas</p>
+    <p>Dimittere et ieiunio mortem mori.</p>
+    <p>Sic omnibus facit probis caput hoc viris.</p>
+    <p>Sed ganeonibus et ligurionibus</p>
+    <p>Pater et protector est caput hoc prao omnibus.</p>
+    <p>≤line=430≥ Ar. O amabile hoc caput Bv. Osculari desinis?</p>
+    <p>Ar. Exosculor, quia leno sum. Salve caput</p>
+    <p>O caput omnis lasciviae, caput leve,</p>
+    <p>Cavum caput, sine spiritu, sine lumine,</p>
+    <p>Salve caput, praesidium et heluonibus,</p>
+    <p>≤line=435≥ Glutonibus, gulonibus, nihili viris.</p>
+    <p>Et dulce scurrarum decus, salve caput.</p>
+    <p>Bv. Vt autem aperte cuique vera praedicem,</p>
+    <p>Caput hoc inane, quod videtis planiter,</p>
+    <p>Est tale, quod loculos suos plenos facit.</p>
+    <p>≤line=440≥ Nec dat, sed accipit semper, nec unde sit</p>
+    <p>Quaerit, sed an sit qui det et det largiter.</p>
+    <p>Vos autem edaces et famelicos fures</p>
+    <p>Novi, nihil ludatis usquam a quo nihil</p>
+    <p>Rerum dari potestur ut fruamini.</p>
+    <p>≤line=445≥ Deinde amat quoque neminem nisi apostatam</p>
+    <p>Similem sui vel qui Mahometista sit</p>
+    <p>Professione aut genere Phryx aut Persicus</p>
+    <p>Aut Medus aut Damascus aut Syrus aut Arabs,</p>
+    <p>Nam illos domat, regit, gubernat, involat,</p>
+    <p>≤line=450≥ His alcoranum fecit et legem tulit,</p>
+    <p>Qua Saraceni utuntur et Turei truces.</p>
+    <p>Sic dictu et actu vult omnes apostatis</p>
+    <p>Fieri pares, tegere ut queat suum scelus.</p>
+    <p>Ar. Heu paenitet quod osculatus sim hoc caput,</p>
+    <p>≤line=455≥ Nam scire debui, cavum quod nil habet</p>
+    <p>Quare nihil praestare quit sodalibus.</p>
+    <p>Sa. Et me pari maerore paenitet quoque</p>
+    <p>Et hoc quidem de Buttubatta aegre fero,</p>
+    <p>Qui spem bonam calvariae nobis dedit</p>
+    <p>≤line=460≥ Li. Similique ego resipisco paenitudine,</p>
+    <p>Quare mihi palinodia est canenda iam.</p>
+    <p>Di te caput vacuum atque inane perduant,</p>
+    <p>Et fulgur et fulmen superne concremet</p>
+    <p>Et quicquid inferis mali est dispulveret</p>
+    <p>≤line=465≥ Sa. Nix, ignes, effrenes procellae et grandines,</p>
+    <p>Venti maligni et motiones terreae,</p>
+    <p>Fames, sitis, curae graves, inediae,</p>
+    <p>Febres et ulcera atque pestilentitas,</p>
+    <p>Morbus caducus, si qua sint et caetera</p>
+    <p>≤line=470≥ Mortalibus nocitum, vexent te, o caput.</p>
+    <p>Ar. Par ipse votum squalido capiti imprecor,</p>
+    <p>Quod inferis est terror, id to distrahat.</p>
+    <p>Terrae te hiatus glutiendo absorbeat.</p>
+    <p>Furiale bellum Cerberusquc et Tartarus</p>
+    <p>≤line=475≥ Te in carcore atro, in Tulliano torqueant</p>
+    <p>Vivum atquo adhuc vinctum catenis ferreis.</p>
+    <p>Et squalor, horror, aridus semper tremor,</p>
+    <p>Densuin chaos et ater umbnirum chorus</p>
+    <p>Tc cum Mahometo tuo dilanient,</p>
+    <p>≤line=480≥ Te strangulent, obstringilont, oblitterent.</p>
+    <p>Et culter et venenum et incantatio</p>
+    <p>Vitam tuam, quae est mors, acerbe finiunt.</p>
+    <p>Bv. Factum bene est, calvuntur hac calvaria,</p>
+    <p>Quicunque spem locant in hanc calvam cavam.</p>
+    <p>≤line=485≥ Egi meum officium, sodales optumi.</p>
+    <p>Ludos leves meo cavillo callide</p>
+    <p>Vobis videntibus attuli. Id licuit mihi.</p>
+  </div>
+  <div type="level2" xml:id="epilogvs.">
+    <head>EPILOGVS.</head>
+    <p>Si quis cupit prudenter omne negotium</p>
+    <p>Gerere, ut rei privatae et id quod plus erit</p>
+    <p>≤line=490≥ Etiam rei communitatis publicae</p>
+    <p>Bene commodet, frugaliter cadat et quadret,</p>
+    <p>Is meminerit quae hac dicta sunt comoedia.</p>
+    <p>Cum capite vano nil agat, nil consulat,</p>
+    <p>Vbi nec est sapientia aut constans fides,</p>
+    <p>≤line=495≥ Praesertim ubi iam peieravit denuo,</p>
+    <p>Nam peius est unquam nihil periurio.</p>
+    <p>Nunc plaudite et valete. Res acta est satis.</p>
+    <p>[Holstein: In der ed. princ. finden sich vor dem Epilogus
+    folgende Chorgesänge:]</p>
+    <p>DEO GRATIAS</p>
+    <p><hi rendition="simple:bold">CHORVS CVM CHORAVLE.</hi></p>
+    <p>Musis poetis ct sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Vates honor decet suus,</p>
+    <p>Quos musica proportio</p>
+    <p>Aequare vult caelestibus</p>
+    <p>Dulcissimo convivio.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias,</p>
+    <p>Vnde fluit iocunditas</p>
+    <p>Intra poetae carmina</p>
+    <p>Et sensuum profunditas</p>
+    <p>Et versuum solamina.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Caelum subornat circulus,</p>
+    <p>In quo regirant zodia;</p>
+    <p>Vatem coronat caelibus</p>
+    <p>Semper virescens laurea.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Virtus viget perenniter</p>
+    <p>Et nominis memoria,</p>
+    <p>Poeta si concinniter</p>
+    <p>Lyra canat sublimia.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Odit reflexus sphaericos</p>
+    <p>Monstrosa subterranea,</p>
+    <p>Sic et supernis deditus</p>
+    <p>Profana spernit gaudia.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Vis tu patere posteris</p>
+    <p>Nitique claro nomine,</p>
+    <p>Gaude viris poeticis</p>
+    <p>Libethrium spiramine.</p>
+    <p>Musis poetis et sacro</p>
+    <p>Phoebo referte gratias.</p>
+    <p>Apollinis lenimino</p>
+    <p>Sic sic eris vel comicis</p>
+    <p>Heroico vel carmine</p>
+    <p>Lyraeve dignus canticis.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+</body>
+</text>
+</TEI>

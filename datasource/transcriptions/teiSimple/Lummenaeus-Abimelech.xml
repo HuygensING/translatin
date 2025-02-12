@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>ABIMELECH</p>
+  <p>TRAGOEDIA SACRA.</p>
+  <p>≤page=33≥</p>
+  <p>AMPLISSIMO</p>
+  <p>ET</p>
+  <p>R.DO ADMODVM DOMINO</p>
+  <p>D. PHILIPPO CAVERELLIO</p>
+  <p>ABBATI VEDASTINO,</p>
+  <p>MONASTERIORVM EXEMPTORVM</p>
+  <p>PER BELGIVM VISITATORI MERITISS.</p>
+  <p>IACOBVS CORN. LVMMENAEVS A MARCA,</p>
+  <p>Rel. Sacerdos Benedictino-Blandiniensis, C. D. Q.</p>
+  <p>ARthesiae Pater, ἁμι, ἄβροχος ἄγκυρα Mούσων,</p>
+  <p>Pieridum columen, Pieridumque decus.</p>
+  <p>Perlege, sed facilis, nostrae lugubria Musae,</p>
+  <p>Quae iacet ante tuos inuidiosa pedes.</p>
+  <p>Sanguineamque aciem, &amp; feralia lumina voluit,</p>
+  <p>Heu mihi! quàm multis praefica funeribus!</p>
+  <p>Septem inter denos, exanguia pectora, fratres,</p>
+  <p>Indignis lalemum docta sonare modis.</p>
+  <p>Eheu! quos gelidi truncatos marmore saxi,</p>
+  <p>ABIMELECH iussit Manibus ire sacros,</p>
+  <p>ABIMELECH Gedeone satus, trux, saeuus, &amp; asper,</p>
+  <p>Et nimiâ pueros ambitione necans.</p>
+  <p>Felix, si nunquam gessisset purpuram, &amp; ostrum,</p>
+  <p>Et, quod fraterno sanguine tinxit, ebur!</p>
+  <p>≤folio=F≥</p>
+  <p>≤page=34≥</p>
+  <p>REVERENDO PATRI</p>
+  <p>IACOBO CORNELIO</p>
+  <p>LVMMENAEO A MARCA</p>
+  <p>M. CARDINALIS BARBERINVS.</p>
+  <p>NVNC</p>
+  <p>VRBANVS VIII</p>
+  <p>PONT. MAX.</p>
+  <p>ACcepi libens ABIMELECHVM TRAGOE¬</p>
+  <p>DIAM tuam, scriptoris enim est opus, cuius</p>
+  <p>eruditionem &amp; doctrinam fama vulgauit, mihi¬</p>
+  <p>que defertur in eo luculentum amoris ergà me tui</p>
+  <p>testimonium. Quas debeo, gratias ago, tuumque</p>
+  <p>ad Vrbem praestolor aduentum. Gratißimus</p>
+  <p>erit adspectus Viri, quem amo &amp; aestimo. Vti¬</p>
+  <p>nam sit occasio gratiae referendae. Interim pro</p>
+  <p>comperto habeas, si quâ in re, operâ meâ, tibi</p>
+  <p>sit opus, eam non defuturam. Vale, datum</p>
+  <p>ROMAE, Prid. Id. Iunij, 1622.</p>
+  <p>≤page=35≥</p>
+  <p>ARGVMENTVM.</p>
+  <p>ABIMELECHVS Hierobaali Gedeonis</p>
+  <p>ex pellice filius, à funere optimi paren¬</p>
+  <p>tis, regnandi libidine instinctus, fratres sep¬</p>
+  <p>tuaginta, legitimo toro natos vno excep¬</p>
+  <p>to lotane puero (qui clanculùm subductus</p>
+  <p>fuit) ad saxi crepidinem caedit. Solus impe¬</p>
+  <p>rat, &amp; tyrannidem exercet. Denique in me¬</p>
+  <p>dio cursu fortunae &amp; gloriae, ad muros The¬</p>
+  <p>bes ciuitatis, molari lapide opprimiturà foe¬</p>
+  <p>minâ, &amp; moritur, Deo &amp; fraternis Mani¬</p>
+  <p>bus obnoxius. Iudic. 9.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p>PERSONARVM NOMINA.</p>
+  <p>VMBRA GEDEONIS. IOTANES PVER.</p>
+  <p>ABIMELECHVS. NVNCIVS.</p>
+  <p><hi rendition="simple:bold">CHORVS.</hi></p>
+  <p>≤folio=F2≥</p>
+  <p>≤page=36≥</p>
+  <div type="level2" xml:id="actvs-primvs.">
+    <head>ACTVS PRIMVS.</head>
+    <p>VMBRA GEDEONIS.</p>
+    <p>QVis me silentem turbat, &amp; crudus nimis</p>
+    <p>Interpolatos vellicat Manes meos?</p>
+    <p>Abimeleche! pestis, exitium, lues,</p>
+    <p>Tortor meorum liberûm, latro, scelus!</p>
+    <p>≤line=5≥ Quò te rapit Megaera? quid tandem struis</p>
+    <p>Abimeleche? stemmatis probrum mei?</p>
+    <p>Ergóne fundes sanguinem? &amp; ferro manus</p>
+    <p>Armare poteris, viscera vt lanies mea?</p>
+    <p>Vt nuda fratrum latera? non possum eloqui.</p>
+    <p>≤line=10≥ Tune ut meorum nobilem adolescentiam</p>
+    <p>Orco, tenebris destines? vilis stupri</p>
+    <p>Infame carcinoma! tot natos meos,</p>
+    <p>Tot casta thalami vignora, ad saxum, ad necem?</p>
+    <p>An ergò nullo flecteris molimine,</p>
+    <p>≤line=15≥ Et aeuiterni sceleris in fratres reus,</p>
+    <p>Crudelis instar beluae, praedam inuolas?</p>
+    <p>Et meus lëther, lacrymis dignus puer</p>
+    <p>Ah meus Iëther! tangit &amp; Manes dolor;</p>
+    <p>Et meus Iëther, sanguinis princeps mei,</p>
+    <p>≤line=20≥ Generoso honesto pectus incoctum gerens,</p>
+    <p>Iugulum subactae pellicis nato dabit?</p>
+    <p>Auerte pietas laribus exitium meis.</p>
+    <p>≤page=37≥</p>
+    <p>Quis ergò credet femoris hunc pullum inclyti,</p>
+    <p>Qui spirat illum sanguinem, &amp; bibet quoque,</p>
+    <p>≤line=25≥ Tantique sceleris barbarum exemplum parat?</p>
+    <p>Non sic profanus ille, qui primo satus</p>
+    <p>Vitae parente, liuidus, vaecors, malus,</p>
+    <p>Obliqua torquet lumina, &amp; rectus nequit</p>
+    <p>Fratris videre munera, vnctam victimam,</p>
+    <p>≤line=30≥ Et fumum ab arâ scansilem, &amp; medius crepat,</p>
+    <p>Et tamen in vno vulnere expleuit minas.</p>
+    <p>Vicisti Abimeleche! vicisti scelus!</p>
+    <p>Nec tuus in vno capite lassatur furor.</p>
+    <p>Vittata rapies agmina, &amp; letho dabis,</p>
+    <p>≤line=35≥ Et nuda carpes latera, &amp; euelles fibras,</p>
+    <p>Et saxo in vno, saxo in vno luridus</p>
+    <p>Manabit, ô crudelia! ô Superi! Inferi!</p>
+    <p>Manabit, &amp; tabescet immensus cruor!</p>
+    <p>Quâ rupe fractus iste, quo scopulo lapis,</p>
+    <p>≤line=40≥ Qui lambet illum sanguinem &amp; totum bibet,</p>
+    <p>Et vomere semper cupiet &amp; bibet tamen?</p>
+    <p>Vtinamque totum biberet! &amp; nullam ferus</p>
+    <p>Guttam profusi sanguinis calce obterat,</p>
+    <p>Qui sic cruentas acuit ad caedem manus!</p>
+    <p>≤line=45≥ Et nullae in istam victimam dirae canes,</p>
+    <p>Et nullae in istam victimam incurrant ferae!</p>
+    <p>Eritne tamen, &amp; poterit hoc durus latro,</p>
+    <p>Quod Phoebus oculis cernere horrescet suis,</p>
+    <p>Cùm nube tetrâ merget auratum caput?</p>
+    <p>≤folio=F3≥</p>
+    <p>≤page=38≥</p>
+    <p>≤line=50≥ Quod moesta nigro Luna praetereat libens</p>
+    <p>Obnupta peplo, lampade obtusâ silens?</p>
+    <p>Nam quis videre posset, aut fixos semel</p>
+    <p>Durare ocellos, Caucasum vt totum gerat,</p>
+    <p>Durosque scopulos, cordis infracto sinu?</p>
+    <p>≤line=55≥ Spectabit hoc Iudaea, patrabit ferus</p>
+    <p>Abimelechus, &amp; suas tabo manus</p>
+    <p>Sacrabit isto! perge damnatum caput,</p>
+    <p>Fratresque, puerosque, intimos, meos, tuos,</p>
+    <p>Humana si quid viscera in te sentiunt,</p>
+    <p>≤line=60≥ Quid dico? si nîl viscera in te sentiunt,</p>
+    <p>Feri ad medullas vsque; quid demens stupes?</p>
+    <p>Vinctos, trementes inuola, &amp; caesis quoque</p>
+    <p>Insulta, vt omnem nescit impietas modum.</p>
+    <p>Sic ad tiaram graditur, &amp; sceptrum petit</p>
+    <p>≤line=65≥ Gentis Sichemae alumnus, &amp; coelum &amp; Deos</p>
+    <p>Inuadere audax, vt meos fasces gerat.</p>
+    <p>At, at seuero Numini poenas dabit,</p>
+    <p>Et sanguinem illum, &amp; viscera &amp; fratres mihi</p>
+    <p>Debet, reperiet Parca vindictae modum.</p>
+    <p>≤line=70≥ Heu! quale sulfur cudis in nebulâ Pater,</p>
+    <p>Quàm multa misces lurida, vt ferias reum,</p>
+    <p>Et dirum ad vmbras fulmines nimbo caput!</p>
+    <p>Currite citata spicula, &amp; tantum cauo</p>
+    <p>Expiret äer nubilo, quantum capit,</p>
+    <p>≤line=75≥ Et tota moles ignea in sontem cadat.</p>
+    <p>Heu! sanguinantem Nemesis excußit sinum,</p>
+    <p>≤page=39≥</p>
+    <p>Et tonuit aether; ô Deus! Sadäi Deus!</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Scilicet, actum est; Ioasiades</p>
+    <p>Gedeon, tanti nominis heros,</p>
+    <p>≤line=80≥ Inter mutas pallidus vmbras</p>
+    <p>Silet, aeternùm silet! heul longùm</p>
+    <p>Longúmque iterum, longúmque sedet!</p>
+    <p>Aut Cocyti propter glareas</p>
+    <p>Nimiùm, ah! nimiùm frigidus errat!</p>
+    <p>≤line=85≥ Eheu! patriâ regione procul,</p>
+    <p>Nimiumque suâ dißitus Effrâ,</p>
+    <p>Quam perpetuo nomine clarat.</p>
+    <p>O si rursum viuere poßit,</p>
+    <p>Et nos iterum vendicet armis!</p>
+    <p>≤line=90≥ Scilicet iterum nos hostis habet,</p>
+    <p>Et nos iterum vincula stringunt!</p>
+    <p>Et quis manicas exuet istas?</p>
+    <p>Gedeon, Gedeon, optime Gedeon!</p>
+    <p>Heu Abimelech! heu, heu Gedeon!</p>
+    <p>≤line=95≥ O qui subitos agmine ducto</p>
+    <p>Phialae latebrâ protulit ignes,</p>
+    <p>Atque aere viros, bellumque ciens</p>
+    <p>Numine prompto terruit hostes!</p>
+    <p>Tunc commissos Marte ambiguo</p>
+    <p>≤line=100≥ Vidit trepidum sternere campum,</p>
+    <p>Vidit liquidos sanguine riuos,</p>
+    <p>≤page=40≥</p>
+    <p>Et caesa virûm corpora volui.</p>
+    <p>O sic iterum buccina clangat!</p>
+    <p>O sic iterum Panicus horror</p>
+    <p>≤line=105≥ Inuolet omnes! lituoque strepens,</p>
+    <p>Et sine iaculi praepetis ictu,</p>
+    <p>Turmas latè vastet inertes,</p>
+    <p>Facti Gedeon nobilis auspex!</p>
+    <p>Tunc proiecto Salmana scuto,</p>
+    <p>≤line=110≥ Et genua labans, artusque tremens,</p>
+    <p>Hausit toto pectore ferrum,</p>
+    <p>Plangensque solum, penitus gelidam</p>
+    <p>Combibit Aten; it comes illi</p>
+    <p>Fortis Sebëé, Dux ille Ducum,</p>
+    <p>≤line=115≥ Et purpureo caesus in ostro,</p>
+    <p>Tinctam gemino murice trabeam</p>
+    <p>Cedit spolijs Iudaea tuis,</p>
+    <p>Multisque iacet flebilis Heros.</p>
+    <p>Quid clara tuae facta iuuentae,</p>
+    <p>≤line=120≥ Et tot veteres memoro titulos</p>
+    <p>Ioasiaci princeps generis?</p>
+    <p>O cui pietas mascula pectus</p>
+    <p>Roborat, hirtos vellere lucos,</p>
+    <p>Quos relligio Barbara struxit!</p>
+    <p>≤line=125≥ Tum vile caput dedere flammis,</p>
+    <p>Quod Baali Numine sacrum,</p>
+    <p>Tantùm riguo sanguine gaudet,</p>
+    <p>Et lita tabo tempora spargi,</p>
+    <p>≤page=41≥</p>
+    <p>Quantùm steriles imbribus horti,</p>
+    <p>≤line=130≥ Quos rara cauo nubila tingunt!</p>
+    <p>O quem patriae margine siluae,</p>
+    <p>Tectum patulâ molliter vmbrâ</p>
+    <p>Coeli Genius compulit ales</p>
+    <p>Desperatum stringere ferrum!</p>
+    <p>≤line=135≥ Tum multa viro digna locutus</p>
+    <p>Geminat tonso in vellere signum,</p>
+    <p>Sudo, egelido rore probatum.</p>
+    <p>Sic à coelo lenimen habet,</p>
+    <p>Et freta Dei Numine virtus</p>
+    <p>≤line=140≥ Nunquam Superos inuocat aegros,</p>
+    <p>Et votorum summa capeßit.</p>
+    <p>Foelix nimiùm, foelix Gedeon,</p>
+    <p>Si non gemmâ sutili &amp; auro,</p>
+    <p>Nostro geminum finxisset ephod,</p>
+    <p>≤line=145≥ Quo se populi fregit pietas,</p>
+    <p>Proni vetitis ludere sacris,</p>
+    <p>Quocumque ferat mobilis error.</p>
+  </div>
+  <div type="level2" xml:id="actvs-secvndvs">
+    <head>ACTVS SECVNDVS</head>
+    <p>ABIMELECHVS.</p>
+    <p>ETiam moraris anime? cur lentus stupes</p>
+    <p>Abimeleche? cur adhuc vacant manus?</p>
+    <p>≤folio=G≥</p>
+    <p>≤page=42≥</p>
+    <p>≤line=150≥ Quó libet, eundum est: quod licet, segnes agunt:</p>
+    <p>Et quisquis intrà compedes istas sedet,</p>
+    <p>Nunquam trophaeum statuet: audacem impetum</p>
+    <p>Fortuna sequitur, illa, quae sceptro potens,</p>
+    <p>Fortes tuetur, calcat ignauos, leuat</p>
+    <p>≤line=155≥ Dextrâ superbos, alterâ abiectos premit:</p>
+    <p>Victa nunquam pectora impleuit Deus: ˂ vieta</p>
+    <p>Quicumque promptus purpuram inuasit, tenet</p>
+    <p>Vltrò sequacem: dignitas quaerit viros:</p>
+    <p>Quicumque tardo repit ad laudem gradu,</p>
+    <p>≤line=160≥ Fugitiua nemo decora corripiet manu.</p>
+    <p>Ergóne nunquam stemmatis primi notam,</p>
+    <p>Et pictam abollam, &amp; patrios fasces geret</p>
+    <p>Abimelechus? marcidum, insulsum caput!</p>
+    <p>Abimelechus, vile mancipium domi</p>
+    <p>≤line=165≥ Fratrum fedebit? &amp; puer mollis Iether</p>
+    <p>Damnabit istam dexteram fuso, colo?</p>
+    <p>Pullus Gradiuum? sic Deus nunquam velit;</p>
+    <p>Imbellis iste, qui iacentem Salmanam</p>
+    <p>Ferire iussus, languidâ capulum manu</p>
+    <p>≤line=170≥ Tractare nescit, &amp; tremens, pallens, stupens,</p>
+    <p>Patrem ruentem in vulnera obliquus videt,</p>
+    <p>Et paenè cum ipso Barbaro exanimis cadit?</p>
+    <p>Excede lëther, si moram nectis, traho,</p>
+    <p>Et ponè bello inutiles fratrum greges.</p>
+    <p>≤line=175≥ Miscebo caedes, funera, implebo manus,</p>
+    <p>Et meus in omnes ibit armatus furor.</p>
+    <p>≤page=43≥</p>
+    <p>Sic agere fixum est: non capit regnum duos,</p>
+    <p>Nec sellâ in vnâ commodè gemini sedent:</p>
+    <p>Et ille rector siderum, coeli decor,</p>
+    <p>≤line=180≥ Vnus pererrat orbitam, &amp; sceptri potens</p>
+    <p>Bissena solus signa Zodiaco regit.</p>
+    <p>Nec ipsa fratrem ferre riualem potest</p>
+    <p>Diana, quandò argentea in bigis sedet,</p>
+    <p>Pictoque amoenam lampadem vibrat polo.</p>
+    <p>≤line=185≥ Sol vnus, vna Cynthia, vnus omnia</p>
+    <p>Deus gubernat, vnus implet omnia,</p>
+    <p>Terrasque, tractusque arduos coeli &amp; maris.</p>
+    <p>Abimeleche submoue turbam procul,</p>
+    <p>Tum capita vittis exue, &amp; lituo manus,</p>
+    <p>≤line=190≥ Et nemo citrà sanguinem poenas luat.</p>
+    <p>Conuictus olim inertiae vt mecum Iether</p>
+    <p>Ebur capessat? nolit hoc Gedeon pater,</p>
+    <p>Qui bello &amp; armis strenuus damnat pigros,</p>
+    <p>Et me (quod vnum restat) ad fasces vocat.</p>
+    <p>≤line=195≥ Sic regna Abimeleche, cur nondum cruor</p>
+    <p>Riuo citatus, fluxit ad pedes meos?</p>
+    <p>Cur nondum lëther induit sicam, caput</p>
+    <p>Demessus &amp; cur ludit etiamnùm puer?</p>
+    <p>Damnata soboles! acue nunc acinaces,</p>
+    <p>≤line=200≥ Lima secures turba seruorum mea,</p>
+    <p>Saeuire in omnes cupio, nec facile mihi</p>
+    <p>Pectus moueri lacrymis, aures rigent,</p>
+    <p>Nec me querela mollium in partes aget.</p>
+    <p>≤folio=G2≥</p>
+    <p>≤page=44≥</p>
+    <p>Bibam ipse potius sanguinem, &amp; ferae bibunt,</p>
+    <p>≤line=205≥ Quas in minorem suscitat praedam furor.</p>
+    <p>Tractabo capita, &amp; exprimam tabi luem,</p>
+    <p>Et trunca demum corpora alitibus dabo.</p>
+    <p>Sic, sic ad alta gradior, &amp; pedibus struem</p>
+    <p>Calcabo inertem, corporum strages premam.</p>
+    <p>≤line=210≥ Sublimè eunti sic mihi sternit gradum</p>
+    <p>Fortuna mater; nempe sic nauos decet,</p>
+    <p>Et qui facinorum praemia in dextrâ gerunt.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Ergò potuit callida Sichem</p>
+    <p>Talem nobis gignere pullum,</p>
+    <p>≤line=215≥ Qui viroso saeuior hydro</p>
+    <p>Sic à toto sibilat antro,</p>
+    <p>Et nos trifidae cuspide linguae,</p>
+    <p>Penitùs, penitùs sauciat ictos?</p>
+    <p>O care Iether! quò te rapies,</p>
+    <p>≤line=220≥ Ne te serpens improbus ille</p>
+    <p>Caudae teretis vinciat hamo,</p>
+    <p>Pastamque tuo vulnere rabiem</p>
+    <p>In vipereos colligat artus?</p>
+    <p>Vidi, &amp; tumidâ feruidus irâ</p>
+    <p>≤line=225≥ Strinxit saeuos protinus enses,</p>
+    <p>Nimiumque tuo sanguine ludet,</p>
+    <p>Quâ te inueniet cumque latêbrâ.</p>
+    <p>Quis tam rigidos montibus vrsos,</p>
+    <p>≤page=45≥</p>
+    <p>Rasóque feras aequore tygres,</p>
+    <p>≤line=230≥ Vidit laceram sparcere praedam,</p>
+    <p>Vidit laceras mandere costas,</p>
+    <p>Et sanguineos lambere rictus?</p>
+    <p>O si nunquam cernere liceat</p>
+    <p>Crudele nefas, &amp; diuulsos</p>
+    <p>≤line=235≥ Artubus artus, &amp; tabificos</p>
+    <p>Latè gelido sanguine campos!</p>
+    <p>Nam quis teneros duret ocellos,</p>
+    <p>Aut satis vdas fundat lacrymas,</p>
+    <p>Aut lassa satis brachia iactet</p>
+    <p>≤line=240≥ Aut nuda satis pectora tundat?</p>
+    <p>Sic nempe honores quaerit &amp; fastu crepat</p>
+    <p>Abimelechus, pandit ambitio viam,</p>
+    <p>Inuisa coelo belua, Inferni soror,</p>
+    <p>Quae mundum habenis torquet, &amp; nescit modum.</p>
+    <p>≤line=245≥ Sic &amp; in ipsis repperit astris,</p>
+    <p>Quos immodicis impulit ausis</p>
+    <p>Vltrà vetitas currere metas.</p>
+    <p>Princeps Genius coelitis aulae,</p>
+    <p>Qui stellantes aurëus humeros,</p>
+    <p>≤line=250≥ Medius nitidos inter Ephebos,</p>
+    <p>Mundoque nitens ora pyropo,</p>
+    <p>Hausit dias proximus auras,</p>
+    <p>Et se pleno Numine pauit,</p>
+    <p>Non satis animos strinxit hiantes,</p>
+    <p>≤line=255≥ Supraque Deum remigat amens.</p>
+    <p>≤folio=G3≥</p>
+    <p>≤page=46≥</p>
+    <p>Foelix, foelix, cùm se propriâ</p>
+    <p>Fouit in vmbrâ, tantumque suis</p>
+    <p>Lusit in alis, tantúmque suo</p>
+    <p>Risit in ostro, cùm vaga nondum</p>
+    <p>≤line=260≥ Sidera pullo syrmate traxit</p>
+    <p>Coeli nimiùm perditus hospes.</p>
+    <p>Et te naeuo polluit isto</p>
+    <p>Nostri generis callidus hostis,</p>
+    <p>Adame pater stemmatis aegri.</p>
+    <p>≤line=265≥ Heu! cùm te auidas mandere fruges,</p>
+    <p>Foetasque boni, foetasque mali,</p>
+    <p>Primum docuit garrula coniunx,</p>
+    <p>Nimiùm colubro dedita mulier,</p>
+    <p>Nimiùm stolidis aemula votis.</p>
+    <p>≤line=270≥ Tunc nudus eras, &amp; nuda fuit,</p>
+    <p>Et se nudam plangere coepit,</p>
+    <p>Quae te comitans paßibus aequis,</p>
+    <p>Haesit lateri flebilis Eué.</p>
+    <p>Heu! cùm riguis exulat hortis,</p>
+    <p>≤line=275≥ Cùm iacet hirtis obruta spinis,</p>
+    <p>Notumque tegit saucia probrum,</p>
+    <p>Damnata colo, damnata malis,</p>
+    <p>Et defletos gignere natos!</p>
+    <p>Nec degeneres patris alumnos</p>
+    <p>≤line=280≥ Olim veteri legimus aeuo,</p>
+    <p>Quos terra cauo mersit hiatu,</p>
+    <p>Aut de caelo fulmine tactos,</p>
+    <p>≤page=47≥</p>
+    <p>Tostos liquidis corpora flammis,</p>
+    <p>Coram populo protinus hausit</p>
+    <p>≤line=285≥ Subitò, subitò concitus vltor</p>
+    <p>Stabant miseri, promptique nimis,</p>
+    <p>Et proscripti grandibus aris</p>
+    <p>Mundâ in phialâ thura cremabant,</p>
+    <p>Restante Deo, cùm caeruleo</p>
+    <p>≤line=290≥ Dirupta volant fulmina nimbo,</p>
+    <p>Et pallentes atque egelidos</p>
+    <p>Impete sternunt, indexque mali</p>
+    <p>Inducta tholis lamina serpit,</p>
+    <p>Ductilis vsto lamina cupro.</p>
+    <p>≤line=295≥ Cur non iterum terra dehiscit?</p>
+    <p>Cur non iterum fulmina currunt,</p>
+    <p>Et tua circùm tempora saeuus</p>
+    <p>Ambulat horror, peßime fratrum,</p>
+    <p>Qui non propriae munera Spartae</p>
+    <p>≤line=300≥ Deploratis stragibus imples,</p>
+    <p>Tinctumque nouo murice coccum,</p>
+    <p>Qui de fratrum vulnere fluxit,</p>
+    <p>Induis humeris, vilis trabeae</p>
+    <p>Vilior haeres? scilicet olim</p>
+    <p>≤line=305≥ Omnia debes, &amp; te calidâ</p>
+    <p>Sanguinis vrnâ, potum penitùs,</p>
+    <p>Potumque iterum decreta Deo</p>
+    <p>Vltio merget, trepidique legent</p>
+    <p>Exempla nimis cruda nepotes.</p>
+    <p>≤page=48≥</p>
+  </div>
+  <div type="level2" xml:id="actvs-tertivs.">
+    <head>ACTVS TERTIVS.</head>
+    <p>IOTHANES.</p>
+    <p>≤line=310≥ HOrrore quatior, frigus in venis riget,</p>
+    <p>Heu! inter ossa currit exanguis tremor,</p>
+    <p>Rectaeque steterunt, hispidae, horrentes comae.</p>
+    <p>Quis me mihi nunc sistat? an viuo tamen?</p>
+    <p>Solemque ocellis haurio, &amp; rutilum iubar?</p>
+    <p>≤line=315≥ An inter vmbras erro, &amp; abductos specus</p>
+    <p>Silentis Erebi? vellem! &amp; ô Manes tuos</p>
+    <p>Solari Iëther! nulla vbi lucet tibi</p>
+    <p>Phoeboea lampas, nocte vbi illuni sedes,</p>
+    <p>Et dura Lethé lacrymas sorbet tuas.</p>
+    <p>≤line=320≥ O care Iether! flebile, intonsum caput!</p>
+    <p>Heu frater! heu mi frater! heu fratrum greges!</p>
+    <p>Quos ille durus; frater! hei fratrum greges!</p>
+    <p>Quos ille crudus, barbarus! vetat dolor</p>
+    <p>Proferre penitus, &amp; tamen vellem quoque</p>
+    <p>≤line=325≥ Exprimere totum, quod mihi mordet iecur</p>
+    <p>Mi frater! heu mi frater! heu fratrum greges!</p>
+    <p>Quos ille teruus, asper, immitis, ferus!</p>
+    <p>Quos ille saxo! lingua balbutit nimis;</p>
+    <p>Abimelechus carnifex, saxo impio</p>
+    <p>≤line=330≥ Stratos! Abimelechus, heu fratrum latro!</p>
+    <p>Caesim necauit! nempe adhuc stillant manus</p>
+    <p>Presso cruore, nempe adhuc ferrrum madet</p>
+    <p>≤page=49≥</p>
+    <p>Tabo perunctum! memini &amp; horresco nimis,</p>
+    <p>Cùm duxit agmenluridum, &amp; campo incubans</p>
+    <p>≤line=335≥ Feralis error, cuncta stringebat metu,</p>
+    <p>Et ipsa flere saxa, contremere nemus,</p>
+    <p>Et conscia illa tesqua, vbi fluxit cruor,</p>
+    <p>Et fleuit innocentia! heu! capita ominium</p>
+    <p>Obnupta vittis vincla torquebant manus,</p>
+    <p>≤line=340≥ Et colla nudi, pectorum nudi sinus,</p>
+    <p>Et (nisi quod Heben texerant) nudi pedes,</p>
+    <p>Nudique prorsus omnia, heu! dolor, dolor!</p>
+    <p>Gladio subibant impio! &amp; Iether quoque</p>
+    <p>Nudus, trementes lacrymis rigans genas,</p>
+    <p>≤line=345≥ Et pallidus iam morte vicinâ puer</p>
+    <p>Meae iuuentae geminus, aut maior parum.</p>
+    <p>Heu! qualis illa victima in saxo stetit!</p>
+    <p>Heu! qualis illa sica tot iugulos secans,</p>
+    <p>Et cara fratrum pectora &amp; dulces sinus,</p>
+    <p>≤line=350≥ Et sanguinantes penitus in fibras agens.</p>
+    <p>Sic ille litat; &amp; viuis, &amp; viuis quoque</p>
+    <p>Miserande Iothan? cur adhuc viuis tamen,</p>
+    <p>Et profugus erras? it pauor lateri comes,</p>
+    <p>Et saeua desperatio, &amp; tenebrae &amp; dolor,</p>
+    <p>≤line=355≥ Et solitudo; mille me expectant plagae,</p>
+    <p>Et mille pedibus retia intendit meis</p>
+    <p>Abimelechus: scilicet nondum satis</p>
+    <p>Multum cruoris fudit, &amp; nondum satis</p>
+    <p>Bibit cruentus heluo, &amp; venas quoque</p>
+    <p>≤folio=H≥</p>
+    <p>≤page=50≥</p>
+    <p>≤line=360≥ Sitit recentes: scilicet Iothan potest</p>
+    <p>Sedare rabiem, scilicet lupum potest</p>
+    <p>Lenire fuso sanguine, &amp; tutò nequit</p>
+    <p>Regnare, si non commodo ad sicam caput,</p>
+    <p>Et nisi cruentas impleo extremùm manus.</p>
+    <p>≤line=365≥ Sic regna Abimeleche, sic sceptrum tene,</p>
+    <p>Et mille conscïentiam vermes edant,</p>
+    <p>Et mille figant spicula, &amp; mille, agmine</p>
+    <p>Facto, malorum millia, &amp; saxum, &amp; rota,</p>
+    <p>Et tortor ignis, mille discerpant modis.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>≤line=370≥ Demessa ferro capita, vicino iacent</p>
+    <p>Tumulata saxo; sic tuus Iether fuit</p>
+    <p>Inuictè Gedeon, turba natorum fuit,</p>
+    <p>Et tu fuisti! barbarus fasces habet</p>
+    <p>Abimelechus, &amp; suis trabeam ferus</p>
+    <p>≤line=375≥ Induxit humeris, sanguis in cocco rubet,</p>
+    <p>Totâque paßim purpurâ elucet cruor.</p>
+    <p>Heu! quàm duro robore creuit,</p>
+    <p>Qui tam rigidè saxeus, vno</p>
+    <p>Qui tot geminat funera saxo!</p>
+    <p>≤line=380≥ Sic rara coit gratia fratrum,</p>
+    <p>Semperque aliquid liuet in vdis</p>
+    <p>Quae blanda serunt oscula, labris.</p>
+    <p>Quid Cäini refero furias,</p>
+    <p>Qui se macerans rebus opimis</p>
+    <p>≤page=51≥</p>
+    <p>≤line=385≥ Mitis Abeli, liuida tendens</p>
+    <p>Viscera tabo non prius atros</p>
+    <p>Expuit hydros, quam spinoso</p>
+    <p>Solus in aruo mollia fratris</p>
+    <p>Hausit gelido viscera ferro.</p>
+    <p>≤line=390≥ Et te feriunt spicula Iacob,</p>
+    <p>Attamen extra sanguinis haustum,</p>
+    <p>Et te hirsutus vellicat Esau,</p>
+    <p>Tergoque ferox imminet vltor,</p>
+    <p>Cùm maternae ludio scenae,</p>
+    <p>≤line=395≥ Infers patriae pocula mensae,</p>
+    <p>Cum lacteolo corpore laeuis</p>
+    <p>Tonso palmas induis haedo,</p>
+    <p>Totumque rudi vellere collum.</p>
+    <p>Tum mellis hians vbere labro,</p>
+    <p>≤line=400≥ Et mille simul dulcia miscens,</p>
+    <p>Patremque tenens mollibus horis</p>
+    <p>Inter lepidas garrulus vlnas,</p>
+    <p>Redijt gemino munere mactus</p>
+    <p>Pinguisque soli, riguique poli,</p>
+    <p>≤line=405≥ Sceptrumque tulit nobile Gentis,</p>
+    <p>Fratre abducto iustior haeres.</p>
+    <p>Ille indomitâ feruidus irâ,</p>
+    <p>Et non docilis ferre repulsam,</p>
+    <p>Puerum longos damnat in annos,</p>
+    <p>≤line=410≥ Et vulnus alens pectore crudo,</p>
+    <p>Intestino carpitur aestu.</p>
+    <p>≤folio=H2≥</p>
+    <p>≤page=52≥</p>
+    <p>Et tu poteras optime Ioseph,</p>
+    <p>Quamuis totus candidus esses,</p>
+    <p>Liuore premi, cùm te lacero</p>
+    <p>≤line=415≥ Tegmine nudum, destinat vmbris</p>
+    <p>Dura impietas, &amp; te obscuro</p>
+    <p>Fratrum rabies carcere vinxit,</p>
+    <p>Heu! conantem plurima frustrà,</p>
+    <p>Trepidumque nimis! solus puerum</p>
+    <p>≤line=420≥ Fleuit Iüdas, consanguineo</p>
+    <p>Pectore tactus, puerum insontem!</p>
+    <p>Cùm nullus erat, tractusque cauo</p>
+    <p>Iret tumidam visere Memphim,</p>
+    <p>Cùm sub manicis, tristique iugo</p>
+    <p>≤line=425≥ Duceret aegrum barbarus emptor;</p>
+    <p>Qui mox olido carcere liber,</p>
+    <p>Vnctusque caput, tonsusque comam,</p>
+    <p>Et puniceo clarus in ostro,</p>
+    <p>Notos inter fercula fratres,</p>
+    <p>≤line=430≥ Rectique animi notus in omnes,</p>
+    <p>Blandéque tenet, propiusque fouet</p>
+    <p>Fidere iussos, dignus nimiùm</p>
+    <p>Regum gemino murice Princeps</p>
+    <p>Sic dignus ille, vt ille nîl rectè gerit,</p>
+    <p>≤line=435≥ Qui liuidum acuens vulnus admotâ face</p>
+    <p>Crudelitatis, ferream strinxit manum</p>
+    <p>Per densa fratrum funera, &amp; letho tulit</p>
+    <p>Turbam innocentem; solus est Iothan super,</p>
+    <p>≤page=53≥</p>
+    <p>Et solus alibi latuit, &amp; solus fuit,</p>
+    <p>≤line=440≥ Qui callido astu barbarum elusit scelus.</p>
+    <p>Seruate solum Numina, &amp; viuat puer</p>
+    <p>Aureus Iöthan, deme de nostris Deus,</p>
+    <p>Quos degat annos, dignus est vitâ frui.</p>
+    <p>Propera, propera, propera Iothan, [˂properea]</p>
+    <p>≤line=445≥ Glomerant celeres ponè caballi,</p>
+    <p>Propera Iothan, propera Iothan,</p>
+    <p>Propera, propera, propera, propera.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvartvs.">
+    <head>ACTVS QVARTVS.</head>
+    <p>ABIMELECHVS.</p>
+    <p>QVò me vocas Bellona? quod mandas scelus?</p>
+    <p>Aut quale monstrat labarum in castris furor?</p>
+    <p>≤line=450≥ Quò me tubarum stridor, &amp; litui truces</p>
+    <p>Campo lacessunt? dexteram ingentem meam</p>
+    <p>Mauors reposcit, dexteram ingentem, horridam,</p>
+    <p>Bello probatam: scilicet Manes tui</p>
+    <p>Germane Iëther, sanguinem exquirunt meum,</p>
+    <p>≤line=455≥ Et saepè Gedeon turbat in somnis pater,</p>
+    <p>Et ô cruentus semper occurit mihi,</p>
+    <p>Et qualis iuit, totus in Sebëé minax,</p>
+    <p>Aut qualis aegrum Salmanam ferro tulit,</p>
+    <p>Vultu coruscans igneo, instinctus Deo.</p>
+    <p>≤line=460≥ Viuesne Abimeleche? regnare arduum,</p>
+    <p>≤folio=H3≥</p>
+    <p>≤page=54≥</p>
+    <p>Viuere molestum, cùm tibi semper Deus</p>
+    <p>Minatur aliquis; nempe &amp; ocurrit mihi</p>
+    <p>Armatus ille semper &amp; semper quoque</p>
+    <p>Aliquis meorum lurido vultu praeit,</p>
+    <p>≤line=465≥ Immane spectrum, sanguine &amp; tabo fluens.</p>
+    <p>Nec sic iacemus etiam, vt egregia indoles</p>
+    <p>lacere nescit, Sichima ad pugnam vocat,</p>
+    <p>Et turbat vltrò Sichima, attollit facem,</p>
+    <p>Dilecta quondam ciuitas, regni caput,</p>
+    <p>≤line=470≥ Et saeua in armis, horrida; at poenas dabit,</p>
+    <p>Et ille Gäal, pestis, exitium, lues</p>
+    <p>Patriae cadentis, victimam debet mihi.</p>
+    <p>Et quid volunt. nunc improbi? ô factum benè!</p>
+    <p>Fratres requirunt; scilicet caesi iacent,</p>
+    <p>≤line=475≥ Et qui profanâ fluxit in scenâ cruor</p>
+    <p>Tibi fluxit vni Sichima, &amp; totum tuum est,</p>
+    <p>Quod mihi patrasti; pignore hoc sceptrum tuli,</p>
+    <p>Et rubuit ille sanguis in cocco prior</p>
+    <p>Illum reposcunt sanguinem, &amp; ludunt nimis,</p>
+    <p>≤line=480≥ Ducesque tanti sceleris, iritant Deos.</p>
+    <p>Memini, &amp; ruentes in tuum fanum Berith</p>
+    <p>Bäal, frequentes vsque libabant tibi,</p>
+    <p>Et ructuosi &amp; madidi, &amp; errantes mero,</p>
+    <p>Et illa conspiratio à templo venit,</p>
+    <p>≤line=485≥ Mensamque super, &amp; vina bellatum est ibi,</p>
+    <p>Vinctusque Abimelechus; hoc segnes agunt,</p>
+    <p>Fortes ad arma, ludit vbi venis calor.</p>
+    <p>≤page=55≥</p>
+    <p>Largusque läcchus pectora hoc oestro rapit.</p>
+    <p>At nulla temulentia in castris valet,</p>
+    <p>≤line=490≥ Nec vini, at vdi sanguinis sitiens mucro</p>
+    <p>Meruit trophaeum: sobrius Mauors iuuat.</p>
+    <p>Arma, arma, ad arma milites, Gäal iubet,</p>
+    <p>Et me laceßit; quis tamen Gäal, iners,</p>
+    <p>Ignauus iste? Nescio, &amp; nescit miser</p>
+    <p>≤line=495≥ Abimelechum, quantus in clypeos tonet,</p>
+    <p>Aut quantus ensem vibret, aut iaculum premat,</p>
+    <p>Alter Gradiuus; testor immites Deos,</p>
+    <p>Et sacra Bäal, quae lubens vulgus colit,</p>
+    <p>Lucumque &amp; aras, vulnere ingenti cadet,</p>
+    <p>≤line=500≥ Si strictus iste acinacis nondum stupet,</p>
+    <p>Limatus illâ cote, quâ fratres iacent.</p>
+    <p>Arma, arma, ad arma milites, Sichem vocat.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Tandem fleuit barbara Sichem,</p>
+    <p>Claro gemitu testata nefas,</p>
+    <p>≤line=505≥ Et te miserum dixit lëther!</p>
+    <p>Heu! Heu! duro durior omni,</p>
+    <p>Cùm tot fratrum pectora rupit,</p>
+    <p>Et saxo etiam durior illo,</p>
+    <p>Quod tam innocuo sanguine fluxit!</p>
+    <p>≤line=510≥ At nunc Gäal omnia turbat,</p>
+    <p>Et te, ô Zebul, agmine cingit,</p>
+    <p>Murosque tuos ardua Sichem,</p>
+    <p>≤page=56≥</p>
+    <p>Non iniußis occupat armis.</p>
+    <p>Ergò reperit perfidus hostem,</p>
+    <p>≤line=515≥ Et Sichemijs exulat agris</p>
+    <p>Trux Abimelech, &amp; vagus errat,</p>
+    <p>Noti sceleris turbine raptus.</p>
+    <p>Heu! fuge, totus panditur orbis,</p>
+    <p>Fuge, quà fratres fugêre prius,</p>
+    <p>≤line=520≥ Quà tibi Iether pandit asylum;</p>
+    <p>Fuge, quà gladijs obuius ibis,</p>
+    <p>Et nulla tibi lancea parcet;</p>
+    <p>Fuge, quà medium stringat Erynnis,</p>
+    <p>Haerens trepido pallida collo;</p>
+    <p>≤line=525≥ Quà te anticipans inuolet Atè,</p>
+    <p>Et sanguineo cincta flagello</p>
+    <p>Noxam stimulis exigat aequis.</p>
+    <p>Fuge, quà riui sanguinis vndant,</p>
+    <p>Taboque madent aspera nemorum,</p>
+    <p>≤line=530≥ Vbi sola sedet flebilis Echo,</p>
+    <p>Semperque aliquid garrula frangit</p>
+    <p>Intrà scopulos, rupe cauatâ,</p>
+    <p>Lugubre, moestum, quod sub gladio</p>
+    <p>Dixit Iëther, quod tunc summo</p>
+    <p>≤line=535≥ Margine saxi, desperatus</p>
+    <p>Viuere, fleuit, quodque auritas</p>
+    <p>Iußit geminum reddere siluas.</p>
+    <p>Fuge, quà campos auia cingunt,</p>
+    <p>Quà fata sinunt, quà fata negant,</p>
+    <p>≤page=57≥</p>
+    <p>≤line=540≥ Quacumque patet, quacumque latet</p>
+    <p>Semita nigris abdita taxis.</p>
+    <p>Fuge, quid demens respicis? Heu! Heu!</p>
+    <p>Non pede claudo poena sequetur,</p>
+    <p>Et iustorum filia Diuûm,</p>
+    <p>≤line=545≥ Non innocuo sanguine ludet,</p>
+    <p>Quae tarda licet, quae pigra licet,</p>
+    <p>Suras lento vincta cothurno,</p>
+    <p>Plumbea tandem spicula vibrat,</p>
+    <p>Magnoque tenet pondere sontes.</p>
+    <p>≤line=550≥ Sic ille mali seminis autor,</p>
+    <p>Deploratae filius Euae,</p>
+    <p>Fratris misero sanguine sparsus,</p>
+    <p>Totum lustrat deuius orbem;</p>
+    <p>Ducit profugum luridus Abel,</p>
+    <p>≤line=555≥ Quà densa latent, inter frutices,</p>
+    <p>Quà saxa iacent, inter scopulos,</p>
+    <p>Tunditque latus, pallidus hospes.</p>
+    <p>Heu! quod Superis omnia debet!</p>
+    <p>Et te Lamech vermina torquent,</p>
+    <p>≤line=560≥ Diraeque graues erosa tibi</p>
+    <p>Viscera mordent, nimiumque luis,</p>
+    <p>Mollis pueri, flebile vulnus.</p>
+    <p>Nec destituit vindicta reum,</p>
+    <p>Quamuis oculis semper riguis</p>
+    <p>≤line=565≥ Lenire velit Numina, &amp; vdo</p>
+    <p>Lecti gremio, Coniugum in vlnis</p>
+    <p>≤folio=I≥</p>
+    <p>≤page=58≥</p>
+    <p>Lumina vexet.</p>
+    <p>Tum, si folijs fortè citatis</p>
+    <p>Mouit lucum turbidus Auster,</p>
+    <p>≤line=570≥ Et si tenui sibilat aurâ</p>
+    <p>Vocale nemus, respicit amens,</p>
+    <p>Et se ad poenam comparat vltrò.</p>
+    <p>Scilicet aequum est pallêre malos,</p>
+    <p>Et quos animi crimina torquent,</p>
+    <p>≤line=575≥ Semper rigidum sperare Deum,</p>
+    <p>Fandi memorem, memorem infandi,</p>
+    <p>Et si exagitas, laedere durum.</p>
+    <p>O cui totus militat aether,</p>
+    <p>Qui prompta citat fulmina, &amp; adsunt,</p>
+    <p>≤line=580≥ Qui cùm validos strinxerit ignes,</p>
+    <p>Torto rubuit verbere Selmon,</p>
+    <p>Et perculso vertice flagrat.</p>
+    <p>Discite moniti, discite iustas</p>
+    <p>Numinis iras; conscire sibi</p>
+    <p>≤line=585≥ Nihil, hoc pulchrum est, &amp; suffundi</p>
+    <p>Vulnere nullo, gratum Superis,</p>
+    <p>Dignum coelo, dignum stellis,</p>
+    <p>Dignum ambrosiâ, nectare dignum</p>
+    <p>Tum quicquid ibi ridet in astris,</p>
+    <p>≤line=590≥ Quod Diuini pectoris vrnâ</p>
+    <p>More citati fluminis, vndat,</p>
+    <p>Libat pietas, &amp; quod nebulae</p>
+    <p>≤page=59≥</p>
+    <p>Cumque recondunt, subigit meritis</p>
+    <p>Ignea virtus.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvintvs">
+    <head>ACTVS QVINTVS</head>
+    <p>NVNCIVS, CHORVS.</p>
+    <p>≤line=595≥ VAstata Sichem lurido busto sedet,</p>
+    <p>Et lapsa ab alto ciuitas traxit minas</p>
+    <p>Murorum hiantes, omnia in fundo iacent,</p>
+    <p>Adeóque tota Sichima in Sichem latet.</p>
+    <p>Abimelechus miscuit flammas prior,</p>
+    <p>≤line=600≥ Trux, asper, atrox; scilicet poenas dedit</p>
+    <p>Fratrum peremptor. CHOR. Nunquid à castris venit</p>
+    <p>Mercurius iste? fare, quid portas noui?</p>
+    <p>Saeuitne Abimelechus? an Thebas ruit?</p>
+    <p>An geminat itèrum funera? incendit faces,</p>
+    <p>≤line=605≥ Inflammat vrbes? NVN. Scilicet nuper fuit</p>
+    <p>Abimelechus. CHOR. Nunc vbi tendit tamen?</p>
+    <p>Vbi castra ponit? NVN. Ponit ad Lethen miser,</p>
+    <p>Et ripâ in illâ tendit. CHOR. Vbi fratres sedent?</p>
+    <p>Abimelechus? NVN. Morte crudeli iacet,</p>
+    <p>≤line=610≥ Lethoque acerbo. CHOR. Nempe crudelis fuit.</p>
+    <p>≤folio=I2≥</p>
+    <p>≤page=60≥</p>
+    <p>NVN. Iacet cruentus. CHOR. Nempe, quod biberat, vomit.</p>
+    <p>At quis ferocem beluam inuasit? Refer.</p>
+    <p>NVN. Et strauit illum mulier. CHOR. An Iahel manus</p>
+    <p>Armauit iterum? nunquid &amp; nobis quoque</p>
+    <p>≤line=615≥ Robur ministrat Nemesis? NVN. Et saxo iacet</p>
+    <p>Ictus cerêbrum. CHOR. Nempe &amp; hoc saxum fuit,</p>
+    <p>Quod fluxit olim sanguine, &amp; tabum bibit.</p>
+    <p>O iusta semper Numina! at totum refer,</p>
+    <p>Et sanguinantem purpuram totam explica.</p>
+    <p>≤line=620≥ NVN. Vix ipse credo facinus &amp; vidi tamen,</p>
+    <p>Et quanquam ocellis metiar famam meis,</p>
+    <p>Non credo nimis, &amp; pectori irrepit stupor.</p>
+    <p>Aurora nitido mouerat stellas polo,</p>
+    <p>Et tota Thebé latera nudârat sua,</p>
+    <p>≤line=625≥ Murumque torquens machina, urgebat nimis,</p>
+    <p>Cùm rapuit arma miles &amp; Martem ciens</p>
+    <p>Caesìm sonante claßico; in clypeis stetit.</p>
+    <p>Tunc ipse Abimelechus ante omnes ijt,</p>
+    <p>Ferrum coruscans &amp; facem, &amp; speculam premens,</p>
+    <p>≤line=630≥ Quae sola miseris, opido euerso, stetit,</p>
+    <p>Spargebat ignes, mulier extinxit luem,</p>
+    <p>Armata silice mulier, &amp; tantum Ducem,</p>
+    <p>Saxi molaris impete, in praeceps dedit.</p>
+    <p>It clamor vsque ad sidera, &amp; vulnus fuit</p>
+    <p>≤line=635≥ Lethale nimiùm, tolerat, hoc tantùm dolet,</p>
+    <p>Quod foeminae illam gloriam debet, miser,</p>
+    <p>Et adhuc superbus; ergò fortunae satur,</p>
+    <p>≤page=61≥</p>
+    <p>Vitaeque mox cadentis, armigerum vocat,</p>
+    <p>Et ipse monstrans pectoris nudi sinum,</p>
+    <p>≤line=640≥ Iubet ferire militem, &amp; subitò rigens,</p>
+    <p>Et torta hiulcans lumina, adspirans minas,</p>
+    <p>Morte inuocatâ, pronus in vulnus cadit,</p>
+    <p>Et sic iuuat perire. CHOR. Sic tandem luit</p>
+    <p>Abimelechus, sic Deus noxam exigit.</p>
+    <p>≤line=645≥ Gaudete Ciues occidit sternax aper,</p>
+    <p>Et ille nobis vltimus missus venit,</p>
+    <p>Post tot suorum funera; ô vindex Deus!</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS.</p>
+</div>
+</body>
+</text>
+</TEI>

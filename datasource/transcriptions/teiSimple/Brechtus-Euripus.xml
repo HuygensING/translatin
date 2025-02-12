@@ -1,0 +1,3460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>EVRIPVS</p>
+  <p>Tragoedia Christiana nova, authore F. Livino Brechto Antverpiensi e
+  familia franciscana Louaniensi.</p>
+  <p>Ad Reuerendissimum in Christo |Patrem, et illustrissimum Principem,
+  D. Georgium ab Austria, Episcopum Leodiens. Ducem Bullonens. Comitem
+  Lossens. etc.</p>
+  <p>Louanij apud Martinum Rotarium, et Petrum Phalesium bibliopolos
+  iuratos. M.D.XLIX.</p>
+  <p>Cum Priuilegio Caes. signato a Lens.</p>
+  <p>In F. Livini Brechti Antverpiensis Euripum Epigramma</p>
+  <p>Augustini Hunnaei Mechliniensis,</p>
+  <p>Ad Lectorem.</p>
+  <p>Discere vis, Lector, sceleratae praemia vitae?</p>
+  <p>Falsaque conciliet quid metanoea mali?</p>
+  <p>Livini Evripum multatum morte gehennae,</p>
+  <p>Contemplare frequens, ne patiaris idem.</p>
+  <p>(5) Moribus ille tibi similis dum vita maneret,</p>
+  <p>Et nondum putris vermibus esca foret,</p>
+  <p>Improba ritè solet vitae commissa fateri :</p>
+  <p>Saepe sacerdotum procidit ante pedes.</p>
+  <p>Quin et fallacis spernens vaga gaudia mundi</p>
+  <p>(10) Coeperat angustam laetus inire viam,</p>
+  <p>Sed mox a duro virtutis tramite cessit,</p>
+  <p>Molle iter ingressum mors inopina rapit.</p>
+  <p>Damnato insultant furiae, veterumque malorum</p>
+  <p>Supplicia exercent, non habitura modum.</p>
+  <p>(15) Illius inconstans si non metanoea fuisset,</p>
+  <p>A caeco Ditis carcere liber erat:</p>
+  <p>Nunc verò frustra dolet, aeternumque dolebit</p>
+  <p>Mobilis Evripus, mobilitate miser.</p>
+  <p>Quod te vult monitum, Lector, qui saepe cauere</p>
+  <p>(20) Proponis vitae crimina foeda tuae :</p>
+  <p>Propositum sed inane manet, factisque negatur,</p>
+  <p>Vita nec est melior, nec cita fata times.</p>
+  <p>Quare age, ne referas Eurîpum morte, videto,</p>
+  <p>Eurîpum vita qui modo forte refers.</p>
+  <p>Reverendissimo domino et Illustrissimo Principi D. Georgio ab
+  Austria, Episcopo Leodiensi,</p>
+  <p>Duci Bullonensi, Comiti Lossensi, Frater Liuinus Brechtus
+  Antuerpiensis S.P.D.</p>
+  <p>Prouocauit me et animauit omnibus obuia humanitas comitasque tua,
+  ornatissime Praesul, et simplex animi candor, nihil mundani fastus aut
+  supercilij prae se ferens, vt hunc qualemcunque ingenioli mei foetum
+  amplitudini potissimum tuae dedicarem. Nec enim ignorare possum, quàm
+  te expositum atque affabilem ijs exhibeas, quos alicuius tibi
+  eruditionis nomen commendat: et Eurîpus noster impolitior licet, ac
+  paucissimis notus, tam benignè à te tuisque iamdudum est exceptus, vt
+  pro suo nunc modulo instructior limatiorque, ac per theatra notior
+  factus, sub nullius malit praesidio, quàm doctissimi antistitis in
+  manus hominum venire: Videlicet non parum sibi gratiae et authoritatis
+  apud plerosque tam praeclaro nomine accessurum confidit, qui se
+  aliôqui Leodiensibus tuis non simplici iure deberi contendit. Decreui
+  proinde illius votis non vltra obluctari, qui per populosas mauult
+  academias et vrbes discurrere, quàm retrusus domi in angulum, solus et
+  ignobilis moerere. Atque utinam à latebris suis ad lucem productus
+  praestare aliquausque possit, quod crebro nobis blandeque pollicetur,
+  ne post tristem damnationis suae sententiam praeter decorum frustra
+  videatur ab inferis emersisse. Praestabit autem si quorundam bene
+  nonnunquam incipientium inconstantem ac momentaneam ferè
+  resipiscentiam acriter castigauerit: efficaciter sui similes admonens,
+  apprehenso semel aratro non retrospicere, timorem Dei non abigere, ad
+  vomitum non redire: ne latam scilicet perditionis ingressi viam, in
+  eundem corruant tormentorum locum. Quòd quidem vt efficacius, Deo
+  cooperante, possit, seduli lectoris vicissim fuerit, purgatas ei
+  aures, animumque praesentem adhibere. Immo studeat, quisquis hinc
+  fructum expetit, vitam suam cum Eurîpi moribus diligenter conferre,
+  humiliter persuasum habens, sub alieno sibi nomine nimis seriam ac
+  domesticam fabulam narrari. Est enim quod hic tractamus argumentum è
+  media hominum vita desumptum, hoc potissimum spectans, vt iuuentus
+  caeca plerunque et lubrica, inconstantiam suam, vanitatem, foeditatem,
+  velut in speculo diligenter inspiciat: inspectam agnoscat et
+  exhorreat: agnitam, damnare discat et odisse: damnatam atque exosam,
+  relinquere studeat et deplorare.</p>
+  <p>Evripi autem nomen fabulae indidimus, quod inconstantis et malè
+  prouidi adolescentis primae in ea sint partes, cuius mobile ingenium,
+  lubricosque mores veteri alludentes prouerbio, ficticio Euripi nomine
+  duximus insinuandum.</p>
+  <p>Addidimus etiam inde actioni Tragoediae titulum, quòd in ea
+  plusquàm tragica mala describantur, dum perditi adolescentis infraenis
+  nequitia turbulentissimo clauditur exitu, et funesta mors desperantis,
+  calamitatibus, poenis, opprobrijsque excipitur, nec finiendis vnquàm,
+  nec mitigandis. Quae duo, mortem dico et infernum, vtinam diu
+  multumque secum expenderent quotquot dulci fortuna ebrij, nouissima
+  sua seriò prouidere negligunt, dissimulant, contemnunt: Nimirum quia
+  gens sunt absque consilio et sine prudentia: gens inquam quae caeco
+  praesentium amore fascinata, futura non prospicit: ignem illum
+  inextinguibilem, nec cogitat, nec expauescit: Christoque illum
+  terribiliter comminanti, reuera non credit. Et hic quidem tragoediae
+  scopus, prout in prologo apertius testamur, nec Christiana
+  professione, nec monastica (opinor) religione indignus.</p>
+  <p>Caeterum ad assumptum argumentum et inexplicabilem malorum Iliadem
+  pro dignitate tractandam, longèalio fateor opus fuisse artifice,
+  praesertim hoc saeculo, vt admodum erudito, ita et delicato, nempe
+  insigni Oratore et Poeta, qui splendido et instructissimo verborum
+  rerumque apparatu et varijs affectibus ad viuum expressis, Tragicam
+  spirare maiestatem sublimiori cothurno, foeliciore grandiloquentia
+  potuisset.</p>
+  <p>Quis Martem tunica tectum adamantina (inquit Lyricus)</p>
+  <p>Digne scripserit ? et puluere Troico</p>
+  <p>Nigrum Merionem? aut ope Palladis</p>
+  <p>Tytidem superis parem?</p>
+  <p>At quanto iustius ego ad describendas res maximè serias, arduas,
+  graues, quae Actu quarto quintoque agitantur, longè me imparem fuisse
+  confitebor ? Quis enim iusto sesquipedalium verborum terrore explicet
+  inenarrabiles peccatoris animam agentis angustias, mortem iniqui vt
+  pessimam, ita amarissimam: teterrimorum cacodaemonum horribiles
+  aspectus, acerbissimos terrores, asperrimas insultationes, atrocissima
+  conuicia, durissima verbera?</p>
+  <p>Quis quaeso, vel mediocriter eruditus, non dico ad viuum exprimat,
+  sed rudi saltem carbone non infoeliciter delineet, incomprehensibilem
+  aeternae mortis horrorem et infernalium tormentorum inexplicabilem
+  acerbitatem, exaestuantis iugiter gehennae ardores sempiternos,
+  terribilem illum tenebrarum principem, praepositum mortis, caput
+  impiorum, draconem rufum, et leonem e:fferum, desolatissimi denique
+  reproborum gregis perpetua lamenta, eiulatio, mugitus, et vae, vae.
+  Non sunt profecto haec nostrae paruitatis inscitiae vel infantiae,
+  quamuis ea prorsus intacta noluerim praeterire: lubens proinde hanc
+  Spartam ijs accuratius ornandam cedo, imo vt velint inuito, exhortor,
+  obsecro quibus ad tam sublimia magnificè personanda liberius est
+  otium, foelicius ingenium, instructior supellex verborum ac rerum,
+  vberior eloquentia, amplior gratia, feruentior spiritus, exactior
+  doctrina. His enim procliuius fuerit, quae humanum longè excedunt
+  intellectum, maiori artificio et laude, iustoque sententiarum pondere
+  explicare: modo in animum inducant saluberrimis id genus curis ad
+  gloriam Dei et proximorum institutionem potius occupari, quàm in
+  cantillandis putidis amoribus, poëticisve figmentis, non sine graui
+  iuuentutis corruptela, ingenij sui neruos intendere. Nos interim
+  struxisse contenti pro nostris opibus moenia, toti primum in hoc
+  sumus, vt peccatores ad bona pigerrimos planeque incurios, in erroris,
+  nequitiae, ac caecitatis suae, pleniorem notitiam inducamus: ostensa
+  dehinc periculorum magnitudine, in quibus iugiter viuunt, ad efficacem
+  eos malorum suorum poenitentiam, ruborem, odium, atque detestationem
+  quantum possumus prouocemus.</p>
+  <p>Vt autem consilij nostri summam plenius aperiamus, hîrc ea ordine
+  tractantur quae non paucis à Pascha solent vsuuenire: videlicet quod
+  plurimi poenitentiam potius simulent, quàm verè agant: multa Deo ac
+  vicarijs promittant, et parum aut nihil praestent: magna de se
+  praesumant, et ad primam tentationem animo concidant: luctae
+  spiritalis taedio ilicò à concepto feruore torpescant: ociosi,
+  desides, nauseabundi in via Dei obdormiant: mundana vanitate illecti
+  quotidie magis deficiant et insolescant: per curiositatem oculorum, et
+  aurium, in laqueos diaboli cadant: improborum consortio corrupti,
+  timorem Dei prorsus abijciant. Fractis inde pudoris ac modestiae
+  repagulis, intrepidè ad vomitum redeant: totos se voluptatibus
+  tradant: ardore concupiscentiae, et carnis illecebris infatuati nihil
+  pensi habeant: assiduo peccandi vsu in damnabilem mentis coecitatem et
+  abyssum malorum veniant: concessum sibi tempus gratiae et
+  poenitentiae, totum vitijs mancipent, voluptatibus dissipent,
+  insatiabili libidine perdant: obliti Dei, coeli, suique, in morte
+  aeterna obdormiant: mortui stultitiae suae atrocissimas poenas luant,
+  tantoque acerbius coarctentur in tormentis, quanto se liberius
+  dilatauerunt in delicijs.</p>
+  <p>Haec sunt ferè humanissime Praesul, quae Christiano lectori
+  promittit Eurîpus, modo defaecata mente diligenter fuerit
+  excussus.</p>
+  <p>Nec solùm haec docet, profusa varietate verborum, Trgoedia, sed
+  hijs quoque consentanea erudito spectatori in exhibitione insinuabat
+  ordinata Inscriptio seu Dispositio scoenarum. Studio enim scaenas seu
+  domos in theatro hoc ordine distinxeramus, vt Prima ad dexteram esset
+  domus Timoris. Secunda, Antrum Acediae. Tertia, Vita communis, hoc
+  est, vulgaris seu communis populi. Quarta, Viridarium mundi. Quinta,
+  domicilium Mortis. Postrema, Infernus seu gehenna. Studio inquam, sic
+  scaenas dum agretur fabula instruxeramus, studio nunc dicti ordinis
+  mysterium obiter indicabimus. Timor itaque Dei primus est spiritalis
+  vitae gradus, in quo quisquis non perstiterit, ilico à labore
+  studioque virtutis degenerans, in solitam vitae mollitiem,
+  tepiditatem, desidiamque recidit. Hinc per Acediam factus remissior,
+  suaeque salutis negligentior ad corruptos vulgi mores vanus,
+  dissolutus, incuriusque relabitur. Coelesti inde gratia destitutas, se
+  voluptatum studio tam ardenter, intrepidè et pertinaciter mancipat, vt
+  caeci vel phrenetici more ad mortem ac gehennam ridens procurrat. Et
+  haec quidem de scoenis.</p>
+  <p>Nunc ne quis spiritalium rerum imperitior, vel perplexus haereat
+  vel impingat in limine, operaeprecium videtur et de viarum discrimine,
+  quarum creberrima vbique hic fit mentio, aliquanto diffusius verba
+  facere.</p>
+  <p>Viae itaque istae dextera et laeua, arcta et spaciosa, quarum
+  dominus Jesus Mat. 7. meminit, significant nobis plurimum inter se
+  dissidentes affectus, studia, mores, conuersationem atque scopum
+  filiorum Dei, et amatorum huius mundi. Quanquàm enim idem maris aequor
+  aramus, vbique obnoxij mortalitatis huius fluctibus et procellis:
+  esto, Christianae professionis vtrique, eundem portum quaerere
+  videamur: plurimum tamen in remigando dispares, in velificando
+  dissimiles sumus. Quod quidem non exiguum inter vtrosque studiorum
+  discrimen, tametsi nunc viros spiritales non lateat, longè tamen
+  notius et omnibus perspicuum magis magna illa iudicij dies reddet.</p>
+  <p>Ex his porro duabus orbitis, sinistra illa ac spaciosa perditionis
+  via inuentu non est difficilis, vt ad quam nostra nos sensualitas,
+  siue caro: laxiora sequentium promiscua multitudo: et tot vbique mala
+  exempla non tam pelliciunt, quàm propellunt. Nos nihilominus scaena I.
+  Actus tertij, istam latam et spaciosam viam, his versibus vtcunque
+  lectori ostendimus:</p>
+  <p>Securus ergo Eurîpe sis, et omnium</p>
+  <p>Torquere pectus scrupulosum quae solent etc.</p>
+  <p>Et paulo post, eodem loco:</p>
+  <p>Animo molestum quicquid aut contrarium,</p>
+  <p>Durúmque sentis triste, acerbum, rancidum,</p>
+  <p>Statim reuelle, seduloque extermina,</p>
+  <p>Chartis, fritillo, poculis, nugis, mero, etc.</p>
+  <p>Ecce desyderia carnis, ecce vitam amatorum istius mundi, ecce viam
+  in speciem latam, amoenam ac floridam: Vt enim bene scripsit
+  Poeta:</p>
+  <p>Molle ostentat iter via lata, sed vltima meta</p>
+  <p>Praecipitat captos, volvitque per ardua saxa.</p>
+  <p>At contra: arctam vitae semitam verè inuenire, à lata vitiorum
+  orbita prudenter secernere, in omnibus earn nusquam reflexo
+  perambulare vestigio non facilè est, nec cuiusuis. Nec mirum sanè, cùm
+  dicat veritas: Et pauci sunt qui inueniant eam, haud dubiè: quia
+  debita solicitudine, affectu, ac sedulitate non quaerunt. Ad arctam
+  ergo viam (vt aliquid dicamus) hoc est vere Christianam vitam (nostro
+  iudicio) haec ferè pertinent:</p>
+  <p>Deum super omnia purè, fideliter et ardenter amare, desyderare,
+  quaerere.</p>
+  <p>Studiosè ac syncerè Creatorem suum honorare, colere ac timere.</p>
+  <p>Praecepta ipsius et ecclesiae, exactè seruare.</p>
+  <p>Nullius hominis causa vel minimum Dei mandatum praeuaricari.</p>
+  <p>Nulla omnino ratione ab ecclesiae castris deficere: sed quaecunque
+  ab ecclesia catholica fide indubitata tenentur, eadem syncerè,
+  simpliciter, integrè more patrum credere, et in nullo huiusmodi
+  haesitare, vacillare, claudicare.</p>
+  <p>Religiosum debitumque cultum, Beatissimae Mariae virgini et omnibus
+  sanctis impendere.</p>
+  <p>Iustè, pièe, sobriè et castè viuere.</p>
+  <p>Pacem (quantum in se est) cum omnibus seruare.</p>
+  <p>Rigidè seipsum in omnibus quae agit, loquitur. cogitat
+  obseruare.</p>
+  <p>Lubricam ac petulantem linguam, tanquàm efferam beluam assidua
+  seueritate cohibere.</p>
+  <p>Exteriores sensus ab omni quod illicitum est vel periculosum,
+  strennuè coercere.</p>
+  <p>Omni diligentia cor suum custodire.</p>
+  <p>Peccandi occasiones studiosè tollere et resecare. pericula
+  vitare.</p>
+  <p>Neminem verbo, vel facto laedere.</p>
+  <p>Ad offensi fratris reconciliationem. ilicò accurrere.</p>
+  <p>Nemini offendiculo esse, ab omni specie mali abstinere.</p>
+  <p>Nemini quicquam praeter synceram dilectionem debere.</p>
+  <p>Omnibus pro sua facultate citò et plenè satisfacere.</p>
+  <p>Piè indolere proximorum casibus et miserijs.</p>
+  <p>In operibus misericordiae tam spiritalibus, quàm corporalibus
+  strennuè se exercere.</p>
+  <p>Vias suas diligenter et crebrò scrutari.</p>
+  <p>Quae sunt vocationis suae, officij, professionis et ordinis
+  frequenter expendere, studiosè investigare, viriliter exequi.</p>
+  <p>In dubijs et controversijs peritiores consulere, aliorum iudicio
+  magis, quàm suo sensui credere: sacris doctorum consilijs potius
+  acquiescere, quàm suae ipsius prudentiae inniti.</p>
+  <p>Vitam suam quotidie ad calculum reuocare, crebrò et exactè
+  confiteri: praeteritos lapsus amarè deplangere: quotidianos defectus
+  et spiritales miserias deflere.</p>
+  <p>Nihil temerè aggredi vel innouare.</p>
+  <p>Timorem Dei semper prae oculis habere.</p>
+  <p>Ab improborum consortijs et colloquijs sedulò se subtrahere.</p>
+  <p>Adulatores, susurrones, detractores, maledicos, et potissimum de
+  haeresi suspectos, tanquàm certissimas animae pestes fugere.</p>
+  <p>Mundanam curiositatem, luxum, et pompam odisse.</p>
+  <p>Immaculatum se ab hoc saeculo custodire.</p>
+  <p>Turbulentos animi motus placida tranquillitate fraenare.</p>
+  <p>Irae, indignationis, inuidiae, impatientiae, ac superbiae bestiales
+  impetus viriliter retundere.</p>
+  <p>Contra passiones suas et prauas consuetudines quotidie
+  dimicare.</p>
+  <p>Cum interiori homine subinde rixam conserere.</p>
+  <p>Proprijs diffisum viribus continuò orare, flere et ingemiscere.</p>
+  <p>Pro animabus omnium fidelium defunctorum creberrimas Deo preces
+  fundere.</p>
+  <p>Humiliari sub potenti manu Dei.</p>
+  <p>Aduersa omnia quamlibet acerba atque indigna, aequanimiter ferre,
+  gravioribus se dignum credere.</p>
+  <p>Transitoria denique omnia fortiter contemnere, crebrò et ardenter
+  ad aeterna suspirare.</p>
+  <p>Et his quidem et id genus artibus ac studijs dignè Christo et
+  Euangelio viuitur, per angustam portam ad coelestis patriae
+  latitudinem contenditur, regnum coelorum pia quadam, sed mascula
+  violentia rapitur. Assidua siquidem nostri abnegatione, perfecta
+  veteris hominis expoliatione, quotidiana crucis baiulatione, vestigia
+  Christi sequimur. Coelesti regno vim inferimus, ad aetemam salutem,
+  requiem et gloriam properamus.</p>
+  <p>Caeterùm vbi haec principio dura, inamoena, aspera, Eurîpi
+  similibus proponuntur, tanquàm obiectis in via subitò spinis, rupibus
+  ac salebris, animo perculsi ilicò turbantur, intepescunt,
+  scandalizantur, retrocedunt, ad vomitum redeunt, atque adeo, deterius
+  quàm vnquàm prius aberrantes, de se desperant: nimirum quia caro sunt,
+  quia mollioribus assueti, quia supinè negligentes et incurij, aut
+  nimia sui fiducia praesumptuosi.</p>
+  <p>Porrô cùm inter caetera maxima esse videantur impedimenta verè
+  conversionis. Obliuio fidei, Christo datae in baptismo : et crebrius
+  in poenitentiae sacramento renouatae. Diffidentia divini auxilij et
+  praesidij, et Respectus praesentis laboris: nos ea varijs amoliri
+  rationibus, nec iniuria, sub persona Timoris conati sumus. Proptereà
+  enim paucissimi verè conuertuntur, et Deo fideliter seruiunt, quia
+  voti in baptismo aediti, vnà cum arenuntiatione diaboli et pomparum
+  eius, sunt obliti: quia oculos et cor efficaciter ad coelum non
+  sustollunt nec habitant in adiutorio altissimi: quia sic praesentem
+  respiciunt tribulationem et laborem, vt immemores sint aeternae post
+  haec quietis et afflictionis, poenae et gloriae. Maximum autem horum
+  impedimentorum in tyronibus videtur diffidentia coelestis praesidij.
+  Quare selectum vnum aut alterum locum ex aureis libris Confessionum
+  beati Augustini in carmen nostrum studiosè transtulimus, vt huic malo
+  opponeremus. Idque vt pleráque alia consilio doctissimi,
+  religiosissimique vir M. Cornelij Croci Amstelredami, qui (vt est ad
+  prmouendum pietatis studion feruidissimo affectu) Eurîpum à capite
+  vsque ad calcem fidelissmè excussit et castigauit. Sicuet et M.
+  Augustinus Hunnaeus Theologus. Locus autem Beati Augustini 8.
+  Confessionum sic habet: ’Tu non poteris quod isti et istae ? an verò
+  isti et istae in semetipsis possunt, ac non in Domino Deo suo? Quid in
+  te stas? et non stas. Proijce te in eum, noli metuere, non se
+  subtrahet vt cadas: Proijce te securus, excipiet te, et sanabit te’,
+  etc. Verissimè quidem et efficacissimè clarissimus ille doctor quae in
+  se senserat omnibus verè conuerti volentibus, exposuit: sed plurimi è
+  vulgo poenitentium Eurîpum continuò tergiiersantem, et nunc hoc, nunc
+  illud temerè causantem, malunt imitari, quàm viro sanctissimo optimè
+  licet monenti, auscultare.</p>
+  <p>Fecimus autem hunc ipsum adolescentem ad pristina carnis desideria
+  nequiter relapsum, Actu tertio à Venere iratum discedere, vt hinc
+  colligat sagax lector, quae ad institutionem rudiorum visum est hîc
+  subnectere.</p>
+  <p>In primis, neminem prima statim fronte vel impetu, omnem prorsus
+  exuere modestiam atque pudorem, sed sensim depudescere et insolescere,
+  gradatim ad detestabilem impudentiam et mentis caecitatem perduci.
+  Mortuus enim Lazarus, sed quatriduanus foetet, et peccator cùm in
+  abyssum malorum venerit, contemnit.</p>
+  <p>Deinde, quòd graui nonnunquàm molestia fatigati, aut improbitate,
+  fastuque muliebri ad horam exasperati, fornicatores, concubinarij,
+  adulteri, immundi, molles, quasi iam nouo spiritu afflati, ostendunt
+  spem poenitentiae, sed inueteratae consuetudinis constricti vinculis,
+  dum salubriter cogitata, vel tepidè exequuntur, vel negligenter
+  procrastinant, in eadem mox vitia ac longe deteriora labuntur:
+  videlicet quia peccandi occasiones viriliter non resecant, super
+  salute sua peritiores non consulunt, vel benè monentibus, non
+  acquiescunt, debitam sibi vim inferre negligunt, se totos ad
+  incessanter orandum pro gratia non conuertunt.</p>
+  <p>Tertio, in quas abominationes, scelera et flagitia propter
+  ingratitudinem suam plerique corruant, qui desyderabilem spiritus
+  dulcedinem quandoque gustauerunt. Completur enim in quibusdam
+  terribili, sed iustissimo Dei iudicio, quod de sapientibus gentilium
+  scribit Paulus ad Rom. I.: ’Propter quod tradidit illos Deus in
+  desyderia cordis eorum in immunditiam, vt contumelijs afficiant
+  corpora sua in semetipsis’, etc.</p>
+  <p>Et his quidem ita discussis, in caeteris non admodum haerebit
+  (opinor) quisquis humanarum rerum non prorsus expers est, modo
+  carnalia sua desyderia, inconsulta consilia, turbida studia, temeraria
+  vota, ridiculas curas, insanos affectus, pudendos lapsus, sinuosos
+  adolescentiae anfractus, atque adeo totum veterem hominem suum cum ijs
+  quae hîc leget, studiosè voluerit conferre.</p>
+  <p>Porrò actum quartum et quintum (quanquàm in actione nonnullis visi
+  sint prolixiores) non multum abbreuiauimus. Verbosius enim ea
+  peccatoribus inculcanda putamus, quae meritò deberent expendere
+  frequentissimè, et efficaciter sibi in memoriam reuocare. Esto, quidam
+  illibentius ea audient legentque: nimio tamen praestat id genus acerba
+  salubriter iam reuoluere, quàm ijs neglectis, incomparabiliter postea
+  acerbiora pati. Si cui proinde immodicus videbor, in amarulentis
+  daemonum insultationibus, si prolixior in explicandis inferorum
+  terroribus et poenis, attendat obsecro, quòd inueteratis languoribus
+  acriora parentur pharmaca: et graui oppressos somno vellicare,
+  pulsare, quassare, et nonnunquam lecto detrahere oporteat, priusquàm
+  nido prosilier velint aut valeant. Videlicet eam mentem habemus
+  plerique (non modò peruersi et obstinati, sed tepidi quoque ac
+  fastidiosi) vt nisi audito prolixiore sonitu, terribiliter clangentis
+  buccinae non tremamus, qui ad solita terriculamenta, tanquàm iam
+  obsoleta supinè stertimus.</p>
+  <p>Ad veteres siquidem scripturarum minas assiduo sic vsu ac
+  familiaritate obsurduimus, vt nisi importunius nostra nobis caecitas,
+  calamitas atque perditio inculcetur, ab inueterata mentis ignauia
+  plenè non expergiscamur. Conciones quidem sacras (praesertim
+  eloquentia nobis et eruditione impensius placentes) non illubenter,
+  imò et cupidè audimus, sed ferè non aliter atque carmen musicum, quod
+  suaui, dulcique sono mulcet aures. Nihilo enim vel emendatiores vel
+  feruentiores templo egredimur, quàm intrauimus, pristinae desidiae
+  solitisque vitijs suauiter indormire non desinimus, ad lachrymosae
+  compunctionis amaritudinem rarissimè extimulamur.</p>
+  <p>Proinde quum tam multi nostra memoria arctum vitae tramitem nimium
+  dilatauerint et inculcata vbique diuina clementia, benignitate,
+  misericordia districtum Dei iudicium, pondus diuinae iustitiae,
+  intolerabilem gehennae horrorem, et infernalium tormentorum
+  acerbitatem, propemodum intacta reliquerint: perutile omnibusque modis
+  expediens iudicaui, peccatores nimis plerunque securos, coecitatis ac
+  periculi sui acrius prolixiusque admonere. Vtile inquam, fore duxi, si
+  in recensendis futuri saeculi malis studiosè immorarer, atque
+  insisterem diutius: si fortè quidam acerrimis gehennae supplicijs
+  velut coram se positis exterriti, salubriter paueant, sibi ipsis
+  metuant, medullitus compungantur.</p>
+  <p>Quae verò de durissimo mortis agone ac damnatorum tormentis
+  diffusius tractauimus, ita velim accipiant et amplexentur Eurîpi
+  similes, non quasi poëtica figmenta, aut de nostra conficta capite
+  somnia, sed vt Canonicis scripturis, sanctorumque patrum sententijs
+  consona. Quae si cui insuauia, prolixiora, et nimis rigida videbuntur,
+  legat obsecro, vel vnum Dionysium Chartusiensem in libello de Quatuor
+  nouissimis, et inueniet nos pro argumenti vbertate perpauca, pro
+  immensa rei mole scripsisse exigua.</p>
+  <p>Si cui, dico, onerosa fuerit aut odiosa subinde replicata gehennae
+  et ignis aeterni mentio, cogitet obsecro, quanto intolerabilius
+  aliquando non paucis fortè nostrum erit, habitare cum igne deuorante:
+  excruciari ardoribus sempiternis : perpetuò, sed frustra plangere:
+  assiduo moerore contabescere: interminabili luctu affligi: prae nimij
+  doloris rabie stridere dentibus, terribiliter infremere, eiulare, ac
+  mugire: superbissimorum denique daemonum tyrannide oppressos, toties
+  (prae angustia spiritus) emittere voces ut parturientis.</p>
+  <p>Si quis fortassis audire non sustinet damnati spiritum tam
+  terribiliter sibi et alijs maledicentem, diligenter expendat obsecro,
+  quanto grauius erit reproborum permistum turbis, iugiter audire
+  terrores, et conuicia daemonum, stridorem verberum, strepitum
+  flammarum, horrenda tonitrua, clamores confusos, vlulatus dissonos,
+  lamenta denique, fremitus et blasphemias, quas inextinguibilis illius
+  ignis semper rediuiua incendia infoelicissimis extorquebunt. O quàm
+  salubre plerisque foret haec potius, hisque similia subinde reuoluere,
+  quàm tot bonas horas ignauo otio perdere, tot floridos dies ludis et
+  friuolis occupationibus dissipare. Verùm quia id genus funesta secum
+  frequenter versare (quanquam est necessarium) insuaue videtur et
+  permolestum, videant caeci huius mundi amatores, ne aliquando cogantur
+  perpeti, quae modo nolunt praemeditari. Quomodo enim sustinebunt
+  intolerabile iudicium gehennae, qui mortis et inferorum nec mentionem
+  ferunt? Reuera popule insipiens, et grauis iniquitate, qui te beatum
+  dicunt, qui vitae tibi callem dilatant, qui molles puluillos sub omni
+  cubito manus consuunt, qui blandiuntur dico et adulantur tibi, qui
+  credenti mendacijs placentia magis quàm vera loquuntur, ipsi te
+  seducunt, et viam gressuum tuorum dissipant. Non enim (quod prophetici
+  est officij) iniquitatem tibi tuam syncerè aperiunt, ad agendam
+  poenitentiam sedulò non extimulant, iram viuentis Dei et aeterna
+  supplicia fideliter non annunciant.</p>
+  <p>Et haec quidem dicta sint camalibus, lubricis, incurijs,
+  praesumptuosis, obstinatis, qui cùm peccare quotidie non desinant,
+  veram agere poenitentiam, vel dissimulant, vel negligunt.</p>
+  <p>Atque vtinam cum gratia Dei, haec ipsa quae dicimus, sic ferrea
+  istorum pectora penetrent, vt vel nunc tandem salubri terrore
+  concussi, resipiscant: sic territos iam et resipiscentes emolliant, vt
+  vitijs eorumque occasionibus perfectè resecatis, vitam suam cum Dei
+  adiutorio, in melius seriò commutare pergant. Tam efficaciter denique
+  intus illustrent, vt damnationis suae proxima pericula semper prae
+  oculis habentes, se in sanctioris vitae studio ad mortem vsque
+  constanter, iuuante Deo, contineant.</p>
+  <p>Sed quò nos ornatissime Praesul, supra epistolarem angustiam
+  flebilis argumenti miseranda foecunditas prouexit ? quo praeter omnem
+  expectationem rapuit ardens studium desyderijs promiscui lectoris
+  satisfaciendi? Non ausim vltra abuti patientia tua, Illustrissime
+  Princeps, tantum oro, vt hunc foetum eo vultu excipere digneris, quo
+  consueuisti illius parentem. Sic enim futurum spero, vt in tuam
+  receptus tutelam, pluribus hic labor noster prosit, et mihi stimulus
+  addatur atque fiducia, quae adhuc sub manibus sunt, omnibus auitae
+  pietatis amatoribus communicandi.</p>
+  <p>Parauimus enim iamdudum ad ampliorem mentis refectionem, fercula
+  (absit vbique iactantia, aliquanto his suauiora: Carmina, inquam,
+  spiritali condîta dulcedine, diuersis temporibus locisque ab ingressa
+  religione, à nobis scripta, quae in sylvam nunc vnam studiosè
+  digerimus, vt recognita, emaculata, approbata, si Dominus dederit,
+  brevi aedamus. Dominus Iesus, te diu mente et corpore seruet
+  incolumem. Vale. Lovanij Calend. Augusti Anno Domini, 1549.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="prologus-cum-argumento-in-euripum-tragoediam.">
+    <head>PROLOGUS cum argumento in Euripum Tragoediam.</head>
+    <p>Actam Louanij in Paedagogio Falconensi, Anno Domin 1548. Calend.
+    Iulij.</p>
+    <p>Saluete mystae literarum candidi,</p>
+    <p>Commendat ampla quos vel eruditio</p>
+    <p>In disciplinis institutos serijs:</p>
+    <p>Vel artium seueriorum ancillulae</p>
+    <p>≤line=5≥ Adhuc camoenae blandiores occupant.</p>
+    <p>Saluete cuncti, quotquot hac in area</p>
+    <p>Iuuenes, senesque, parulisque assistitis:</p>
+    <p>Animi salutem, corporisque perpetem</p>
+    <p>Grex noster optat omnibus vobis, petens</p>
+    <p>≤line=10≥ Vt actioni praebeatis vos nouae</p>
+    <p>Alacres, benignos, expeditos, candidos.</p>
+    <p>Absint sonoro quaesumus cum murmure</p>
+    <p>Strepitus, cachinni, futilesque ineptiae:</p>
+    <p>Fructumque quicquid spiritalem fabulae</p>
+    <p>≤line=15≥ Posset susurris impedire stridulis.</p>
+    <p>Nec enim canoris delicatas versibus,</p>
+    <p>Vel dictione delinire florida</p>
+    <p>Gestimus aures, hoc sed impensissime</p>
+    <p>Desyderamus, (sit procul iactantia)</p>
+    <p>Consyderetur vt ipsa res potissimum</p>
+    <p>Vtcunque verbis explicata non malis,</p>
+    <p>Pressum frequenter caecitate non leui</p>
+    <p>Hominem laborat quae sibi ipsi ostendere:</p>
+    <p>≤line=20≥ Quantisque semet ingerant periculis,</p>
+    <p>Caeci ac supini carnis ac mundi asseclae,</p>
+    <p>Dei timore dum repulso, luxui,</p>
+    <p>Veneri, fritillo, crapulaeque seruiunt:</p>
+    <p>Operumque carnis quale sit stipendium,</p>
+    <p>≤line=25≥ Aeterna nempe mors, gehenna, Tartarus.</p>
+    <p>Haec summa rerum, quas notari poscimus</p>
+    <p>Animisque uestris imprimi medullitus.</p>
+    <p>Vt quotquot ampla saeculi per compita</p>
+    <p>Vitae relicto deuiarunt tramite</p>
+    <p>(Astare possunt forte quales plurimi)</p>
+    <p>Euripi acerba sorte perculsi tremant :</p>
+    <p>Nimirum eisdem sordibus pleni et malis.</p>
+    <p>Summique regis cooperante gratia,</p>
+    <p>Dignis laborent poenitentum fructibus</p>
+    <p>Tormenta luctus sempiterni euadere.</p>
+    <p>Sed inter ista ad Comicam lasciuiam</p>
+    <p>Spectare quaedam liberè praedicimus.</p>
+    <p>≤line=30≥ Quae dum decoro seruit author, ac suam</p>
+    <p>Gestit petulcis caecitatem ostendere,</p>
+    <p>Hinc inde sparsit, visa res vt poscere,</p>
+    <p>Sed temperatè, scrupulosè, sobriè,</p>
+    <p>Praeberet vlli ne quod offendiculum,</p>
+    <p>≤line=35≥ Prodesse quaerens quo ad licebit omnibus.</p>
+    <p>Spectare et ipsum hoc ad decorum credidit,</p>
+    <p>Suggestiones pestilentes daemonum</p>
+    <p>Blasphemiasque efferret vt licentius:</p>
+    <p>Et quae subinde in cordibus versarier</p>
+    <p>≤line=40≥ Et ore spurco dyscolorum existimat,</p>
+    <p>Verbis ut aptis explicaret plenius.</p>
+    <p>Vel hinc iuuentus discat vt caecutiens,</p>
+    <p>Quo suggerente proloquantur talia,</p>
+    <p>Imaginentur, concupiscant, factitent:</p>
+    <p>≤line=45≥ Quae propter Orci mancipari incendijs</p>
+    <p>Damnatum iniqui spiritum videbitis.</p>
+    <p>Spectet iuuentus haec proinde lubrica,</p>
+    <p>Infraenis, effrons, turbulenta, improuida:</p>
+    <p>Si fortè blando delibuta carmine,</p>
+    <p>≤line=50≥ Ad saniora prouocetur serio.</p>
+    <p>Quam conciones tot sacrae non eorrigunt,</p>
+    <p>Nec ipsa Christi verba: quanquàm erebrius,</p>
+    <p>Sed corde lecta non satis pio ab improbis.</p>
+    <p>Haec ipsa volo, multum diuque pensitent</p>
+    <p>Iuuenes petulci, maximè catastrophen</p>
+    <p>Non fabulosae seriam tragoediae :</p>
+    <p>Afflante summi regis vt clementia,</p>
+    <p>Compunctionis impleantur spiritu,</p>
+    <p>Tantisque vel nunc territi periculis</p>
+    <p>Flexus sinistri mox relinquant tramitis.</p>
+    <p>Sed explicemus periocham nunc fabulae</p>
+    <p>Vt prosequamur congruo ordine omnia.</p>
+    <p>Feruore dum correptus Euripus breui,</p>
+    <p>(Sub Pascha solet vt plurimis contingere)</p>
+    <p>≤line=75≥ Meditatur arctae semitam ingredi viae:</p>
+    <p>Metu laboris fractus ac socordia</p>
+    <p>Obdormit: inde ad vanitatem seculi,</p>
+    <p>Venerisque amorem illectus à Cupidine,</p>
+    <p>A se Timorem pellit, atque gratiae</p>
+    <p>≤line=80≥ Seruire tempus cogit Aphrodisiae:</p>
+    <p>Indormiensque crapulae ac libidini</p>
+    <p>Mortis pauendae spiculo transfigitur.</p>
+    <p>Venus et Cupido spiritum illusum diu</p>
+    <p>Flammae perennis in barathrum pertrahunt.</p>
+    <p>≤line=85≥ Rei ecce summam: pro virili quàm mei</p>
+    <p>Vobis sodales exhibere gestiunt.</p>
+    <p>Vt discat ex his plurimorum caecitas,</p>
+    <p>Quàm pestilens praesumptio sit et acedia</p>
+    <p>Dei ministris, subdolique daemones,</p>
+    <p>Trames salutis arctus, atque homo fragilis,</p>
+    <p>Iuuenta caeca, vita mortalis fugax</p>
+    <p>Mendax voluptas, mors iniqui pessima.</p>
+    <p>At vos (redire spiritali si domum</p>
+    <p>Non absque fructu vultis) attenti state</p>
+    <p>Taciti et quieti si sedere non datur :</p>
+    <p>Bonique lapsus consulentes obuios</p>
+    <p>(Pia charitatis suadet vt benignitas)</p>
+    <p>≤line=100≥ Nostram iuuate industriam silentio.</p>
+    <p>Quòd si decorum forte cui videbitur,</p>
+    <p>Tragicaeve leges parcius seruarier :</p>
+    <p>Haec mente secum non iniqua cogitet.</p>
+    <p>Non est prophanis legibus gentilium</p>
+    <p>Tam Christiana veritas obnoxia,</p>
+    <p>Pietasque strictis sic premenda regulis,</p>
+    <p>Vt examussim scrupulosis debeat</p>
+    <p>Parêre scitis ethnicorum et voculis.</p>
+    <p>Sed Christianis debet hic scriptoribus</p>
+    <p>Scopus esse summus, ac labor primarius,</p>
+    <p>Vt digna Christo, proximis salubria</p>
+    <p>In vulgus aedant, nec morentur lubricos</p>
+    <p>Hominum fauores, vana vel praeconia,</p>
+    <p>Fugaciora rore, ventis, fluctibus.</p>
+    <p>Nunc (actioni ne qua contingat mora)</p>
+    <p>Ad ludiones intro, mox vt prodeant.</p>
+  </div>
+  <div type="level2" xml:id="personae-dramatis.">
+    <head>PERSONAE DRAMATIS.</head>
+    <p>Venvs et Cvpido, Diabolico schemate, Actu Primo, Quarto, et
+    Quinto.</p>
+    <p>Venvs et Cvpido, forma humana, et cultu maximè eleganti, mundano,
+    ac pomposo, Actu Secundo et Tertio.</p>
+    <p>Evripvs adolescens, amictu pauperis viatoris primum: deinde
+    vestibus splendidis et pomposis, à Cupidine ei suppeditatis.</p>
+    <p>TIMOR DEI, senex incana barba, in habitu sacerdotali vel
+    philosophico.</p>
+    <p>TEMPUS GRATIAE, Puer alatus et stolatus instar angeli, clepsydram
+    manu tenens.</p>
+    <p>MORS, armata iaculo.</p>
+    <p>PESTIS MORTIS PEDISSEQUA, instructa arcu et pharetra.</p>
+    <p>ANIMA EURIPI ATERRIMA, vincta, et aspectu horribilis.</p>
+    <p><hi rendition="simple:bold">CHORI LAMENTANTIUM.</hi></p>
+    <p><hi rendition="simple:bold">CHORUS DAEMONUM AËRIORUM.</hi></p>
+    <p>ACTUS EURIPI PRIMUS ≤folio=B5v≥</p>
+    <p>VENUS. CUPIDO.</p>
+    <p>Siccine, Cupido, spiritu afflatus nova</p>
+    <p>Euripus esse noster amens desijt,</p>
+    <p>≤line=105≥ Ducem sequutus tetricum Dei metum?</p>
+    <p>Evasit ungues ille nostros improbus,</p>
+    <p>Artes, dolosque compedes et retia</p>
+    <p>Fervore in ipso mollis adolescentiae?</p>
+    <p>Aequo quis istud ferre possit pectore?</p>
+    <p>CUPIDO</p>
+    <p>≤line=110≥ Evasit, inquis? non per atras Cerberi</p>
+    <p>Ditisque fauces: sed calore improvido</p>
+    <p>Repente tactus (ut iuventus assolet)</p>
+    <p>Patêre coeli regna iam putat sibi:</p>
+    <p>Vix obtinenda mille post angustias,</p>
+    <p>≤line=115≥ Curas, dolores, lachrymas, pericula.</p>
+    <p>Expers laborum mira persuadet sibi,</p>
+    <p>Quae mox in arcti fronte callis corruent.</p>
+    <p>VENUS</p>
+    <p>Quis quaeso, traxit illum ad istam amentiam,</p>
+    <p>Iuvenem ac tenello delicatum corpore?</p>
+    <p>≤page=48≥</p>
+    <p>≤folio=B6r≥</p>
+    <p>CUPIDO</p>
+    <p>≤line=120≥ Stomachosus ille, et lippiens cucullio</p>
+    <p>Terrere saevis qui minis plebem solet,</p>
+    <p>Instar iuvenci mugiens e pulpitis: ≤folio=B6r≥</p>
+    <p>Hic atrae mortis territum formidine,</p>
+    <p>Ac fascinatum occulta per susurria,</p>
+    <p>≤line=125≥ Euripum ad istam perpulit vaesaniam,</p>
+    <p>Ut laeta mundi blandientis abdicans,</p>
+    <p>Meditetur arctam permeare semitam.</p>
+    <p>Sed ab instituto (si quid in me astutiae est)</p>
+    <p>Errore, nostris avocabitur dolis:</p>
+    <p>≤line=130≥ Graviterque lapsus tam profundè corruet,</p>
+    <p>Ut ad salutem exurgere ultra non queat.</p>
+    <p>VENUS</p>
+    <p>Quibus is ta quaeso machinis, ac fraudibus</p>
+    <p>Confecta reddes?</p>
+    <p>CUPIDO</p>
+    <p>Post docebit exitus:</p>
+    <p>Nunc inter ipsas callis arcti angustias,</p>
+    <p>≤line=135≥ Inusitata fractum amaritudine,</p>
+    <p>Moerore, curis, taedio, atque acedia,</p>
+    <p>Sic obruamus, sic praemamus obrutum,</p>
+    <p>Pigro ut sopore victus, altum dormiat:</p>
+    <p>Nudumque telis porrigat nostris latus,</p>
+    <p>≤line=140≥ Impunè amoris vulnerandus spiculo.</p>
+    <p>VENUS</p>
+    <p>Age o scelestum devoremus transfugam:</p>
+    <p>Tu delicati membra lassitudine,</p>
+    <p>Moerore pectus sic fatiga et obrue,</p>
+    <p>Ut fessus ultra progredi dextra neget:</p>
+    <p>≤line=145≥ Ego saxa, spinas, cum lapillis asperis</p>
+    <p>Euntis ante congeram vestigia:</p>
+    <p>≤page=50≥</p>
+    <p>Ut permolestis urgeatur scrupulis,</p>
+    <p>Suumque vecors institutum exhorreat. ≤folio=B6v≥</p>
+    <p>CUPIDO</p>
+    <p>Curemus ergo haec ipsa uterque strennuè,</p>
+    <p>≤line=150≥ Cogamus illum ad illecebras pristinas</p>
+    <p>Cito redire, hinc impotenti perfugam</p>
+    <p>Amore caecum, in omne pertraham nephas:</p>
+    <p>Seis, quanta pestis sit amor adolescentiae.</p>
+    <p>VENUS</p>
+    <p>Iam faxo dis cat iste noster sanctulus,</p>
+    <p>≤line=155≥ Vis quanta nobis, impetus, solertia.</p>
+    <p>Eccum sed illum, cum Timore ac Tempore,</p>
+    <p>Libet aucupari, quid loquantur improbi.</p>
+    <p>1,2</p>
+    <p>TIMOR DEI. EURIPUS.</p>
+    <p>Euripe, fac sis masculo nunc pectore,</p>
+    <p>Summi ministrum ut esse principis decet:</p>
+    <p>≤line=160≥ Iugumque Christi mite fer viriliter,</p>
+    <p>Rapias perennis ut coronam gloriae,</p>
+    <p>Suis paravit quam Deus fidelibus.</p>
+    <p>≤page=52≥</p>
+    <p>EURIPUS</p>
+    <p>Paratus asto, duc volentem, quo lubet,</p>
+    <p>Habiturus admandata quaevis impigrum.</p>
+    <p>≤line=165≥ O lux perennis, o superna civitas,</p>
+    <p>O dulce coelum, quando vobis perfruar?</p>
+    <p>A mole earnis liber huius foetidae.</p>
+    <p>Suspirat ad vos mens anhela, o coelites,</p>
+    <p>In pace semper qui beata vivitis,</p>
+    <p>≤line=170≥ Omnis laboris ae doloris inseij.</p>
+    <p>TIMOR</p>
+    <p>Prius memento sed tibi eertamina</p>
+    <p>Instare multa, angustias, perieula,</p>
+    <p>Desyderata quam fruaris gloria. ≤folio=B7r≥</p>
+    <p>Proinde temet peetore imperterrito</p>
+    <p>≤line=175≥ Oppone eunetis hostium eonatibus,</p>
+    <p>Cordisque totam collocans fiduciam</p>
+    <p>In Conditoris optimi potentia,</p>
+    <p>Ne cede vanis improborum insultibus:</p>
+    <p>Qui nisi volentem non valent prosternere.</p>
+    <p>≤line=180≥ Cave labore fraetus aut molestia,</p>
+    <p>Vel arma iaetes, terga vel des degener.</p>
+    <p>EURIPUS</p>
+    <p>Ego terga vertam? frangar aut laboribus,</p>
+    <p>Suavitate delibutus coelica?</p>
+    <p>≤page=54≥</p>
+    <p>Non tanta nostrae mentis inconstantia est,</p>
+    <p>≤line=185≥ Ut infidelis esse tam bono queam</p>
+    <p>Regi Deoque, crede nunquam hoc fecero:</p>
+    <p>Nee si iuberet ille me mox emori.</p>
+    <p>TIMOR</p>
+    <p>Euripe, disce pressius de te loqui,</p>
+    <p>Nihilque magni de tua praesumere</p>
+    <p>≤line=190≥ Virtute posthac, viribus, prudentia,</p>
+    <p>Iustus superbum ne sinat labi Deus,</p>
+    <p>Exosus omnem graviter arrogantiam.</p>
+    <p>EURIPUS</p>
+    <p>Ego tam benignum principem quî deseram,</p>
+    <p>Labive possim? cum futurae gloriae</p>
+    <p>≤line=195≥ Inusitata senserim praeludia,</p>
+    <p>Labore spero possidere quam brevi</p>
+    <p>Optata cum mors hine volentem eduxerit.</p>
+    <p>TIMOR</p>
+    <p>Vide ante pugnam ne triumphum concinas,</p>
+    <p>Nam multa restant bella, sudores, mala ≤folio=B7v≥</p>
+    <p>≤line=200≥ Superanda dextri eallis inter aspera,</p>
+    <p>Coeli priusquam perfruare gaudijs.</p>
+    <p>EURIPUS</p>
+    <p>Speetabis ipse, quam resistam fortiter,</p>
+    <p>Vineamque quicquid se molesti obiecerit.</p>
+    <p>≤page=56≥</p>
+    <p>1,3</p>
+    <p>VENUS. CUPIDO.</p>
+    <p>Cupido nequam, versipellis, improbe,</p>
+    <p>≤line=205≥ Audisne, quantum stultus hic se iactitet,</p>
+    <p>Infirmitatis immemor prorsus suae?</p>
+    <p>CUPIDO</p>
+    <p>Homo iste furvum per Charontem nos ter est,</p>
+    <p>Nisi bruta, trunci, caudicesque ambo sumus.</p>
+    <p>Persuasione qui placens falsa sibi,</p>
+    <p>≤line=210≥ Suique caeca turgidus fiducia,</p>
+    <p>Speciosa coeli regna iam spe devorat,</p>
+    <p>Cum poenitere serià nec coeperit.</p>
+    <p>VENUS</p>
+    <p>Affectionis religiosae subdola</p>
+    <p>Deceptus, ac sibi blandiens dulcedine,</p>
+    <p>≤line=215≥ Ineptus absque pulveris iactu putat</p>
+    <p>Se mox ad arcem subvehendum coelicam:</p>
+    <p>Oblitus imbecillitatis propriae,</p>
+    <p>Malique quantum perpetrarit hactenus.</p>
+    <p>CUPIDO</p>
+    <p>Age occupemus dexterae fauces viae,</p>
+    <p>≤line=220≥ Fragilemque notis impetentes fraudibus</p>
+    <p>Absterreamus a salutis tramite.</p>
+    <p>lam faxo diseat ad perenne opprobrium</p>
+    <p>Euripus amens, quam parum foeliciter</p>
+    <p>Tam magna de se turgidus praesumpserit. ≤folio=B8r≥</p>
+    <p>≤page=58≥</p>
+    <p>1.4</p>
+    <p>TIMOR. EURIPUS. TEMPUS GRATIAE.</p>
+    <p>≤line=225≥ Euripe, verbis facta iam respondeant:</p>
+    <p>En ad bicornem nunc viam pervenimus,</p>
+    <p>Suis magister quarum utramque coelicus</p>
+    <p>Sermone servis luculento prodidit.</p>
+    <p>Laevam memento, blanda sit quantumlibet</p>
+    <p>≤line=230≥ Ac lata, totis viribus relinquere.</p>
+    <p>Hac per labores plurimos contendere</p>
+    <p>Summi necesse est regis ad palatium.</p>
+    <p>EURIPUS</p>
+    <p>Proh, quae repente moestitudo plumbea</p>
+    <p>Obnubilati cordis obsidet sinum:</p>
+    <p>≤line=235≥ Pectusque quantis hoc procellis aestuat!</p>
+    <p>TIMOR</p>
+    <p>Quid fronte moeres nubila? quid ingemis?</p>
+    <p>Ego dux praeibo, ne quo aberres haesitans,</p>
+    <p>Tibi prisca monstrans coelitum vestigia.</p>
+    <p>Tu fac superni munus inclytum patris</p>
+    <p>≤line=240≥ Abire nusquam gratiae tempus sinas:</p>
+    <p>Iuvenem sed arcta mobilem stringens manu,</p>
+    <p>Eo ad salutem diligenter utere.</p>
+    <p>EURIPUS</p>
+    <p>Utram viarum me iubes, Timor, ingredi?</p>
+    <p>Istamne planam, mollem, amoenam, floridam,</p>
+    <p>≤line=245≥ Ubi dulce cantant alites co eli melos ?</p>
+    <p>An hanc salebris sentibusque asperrimam,</p>
+    <p>Ubi cuncta moerent tetrico silentio?</p>
+    <p>≤page=60≥</p>
+    <p>≤folio=B8v≥</p>
+    <p>TIMOR</p>
+    <p>Hoc dico raris tritum iter vestigijs,</p>
+    <p>Ad amoena co eli quod per alta rupium, ≤folio=B8v≥</p>
+    <p>≤line=250≥ Spinasque ducit horridosque murices.</p>
+    <p>EURIPUS</p>
+    <p>Hei, quantus istinc sudor instat et labor:</p>
+    <p>Horrere pectus incipit, dum cogito</p>
+    <p>Quam sit tenellum corpus et cor anxium.</p>
+    <p>Utinam caballus aut asellus quispiam,</p>
+    <p>≤line=255≥ Alatus ille Pegasus vel adforet,</p>
+    <p>Quo transvolare saxa possem haec ocius,</p>
+    <p>Non absque multo permeanda taedio.</p>
+    <p>TIMOR</p>
+    <p>Quid expavescis fluctuasque degener,</p>
+    <p>Ac nostra ces sas insequi vestigia?</p>
+    <p>≤line=260≥ Hac ambularint quum tot olim millia</p>
+    <p>Duce me piorum: iam salutis compotes</p>
+    <p>In arce coeli qui triumphant perpetim.</p>
+    <p>EURIPUS</p>
+    <p>Utinam tenellis ipse ab unguibus quoque</p>
+    <p>Ingressus essem dexteram sic semitam:</p>
+    <p>≤line=265≥ Modo corde possem libero procedere.</p>
+    <p>Sed me laboris horror ita nunc occupat,</p>
+    <p>Non sperem ut istac posse me diu pergere.</p>
+    <p>≤page=62≥</p>
+    <p>TIMOR</p>
+    <p>Euripe, quid tibi ipsi ineptè inniteris</p>
+    <p>Perplexus, haerens, aestuans, horrens, gemens,</p>
+    <p>≤line=270≥ Viresque tantum proprias consyderans,</p>
+    <p>Metu laboris inusitati affligeris?</p>
+    <p>Age Conditoris optimi in dementia</p>
+    <p>Securus omnem colloca fiduciam:</p>
+    <p>Qui robur amplum suggeret fideliter,</p>
+    <p>≤line=275≥ Piam tibi ipsi inferre vim dum coeperis,
+    ≤folio=Cr≥</p>
+    <p>Sub mole fes sus ne laboris corruas.</p>
+    <p>Securus, inquam, totam habe fiduciam</p>
+    <p>In Christo Iesu: nil tibi non affatim</p>
+    <p>De eius profusa largitate pollicens.</p>
+    <p>≤line=280≥ Noli timere, non tibi se subtrahet,</p>
+    <p>Suis fidelis qui ministris, neminem</p>
+    <p>Supra gravari, ferre quam possit, sinit:</p>
+    <p>Sed pro laboris ac duelli pondere,</p>
+    <p>Dat affluentis commeatum gratiae.</p>
+    <p>≤line=285≥ Dextramque cunctis porrigit fidelibus,</p>
+    <p>Certare quotquot strennuè conspexerit.</p>
+    <p>Confisus ergo al~issimi in potentia,</p>
+    <p>Virtute las sos multa qui corroborat,</p>
+    <p>Effoeminatam pelle tandem ignaviam,</p>
+    <p>≤line=290≥ Premendo nos tra alacriter vestigia.</p>
+    <p>EURIPUS</p>
+    <p>Oratione tu quidem melliflua,</p>
+    <p>Iucunda quae sunt audienti disseris,</p>
+    <p>Lex sed vetustae dura consuetudinis</p>
+    <p>Me detinet sic vinctum, ut istam semitam</p>
+    <p>≤line=295≥ Severioris instituti quo magis</p>
+    <p>Magisque specto, hoc amplius deterrear</p>
+    <p>A callis arcti tetricis anfractibus.</p>
+    <p>TIMOR</p>
+    <p>Atqui hoc ob ipsum (vinda consuetudinis</p>
+    <p>Quia te vetustae fortiter stringunt nimis)</p>
+    <p>≤line=300≥ Cordis dolenter anxij te lumina</p>
+    <p>Dulcem levare regis ad dementiam ≤folio=Cv≥</p>
+    <p>Moneo superni: debiles qui sustinet,</p>
+    <p>≤page=64≥</p>
+    <p>Qui corruentes excipit, qui languidos</p>
+    <p>Laesosque sanat, qui iacentes erigit:</p>
+    <p>≤line=305≥ Hunc lachrymosis invoca nunc gemitibus,</p>
+    <p>Ipsique mentis indicato angustias,</p>
+    <p>Plangere, precari, conqueri non desinens,</p>
+    <p>Te donec ille sanet atque liberet,</p>
+    <p>Qui compeditos eximit de carcere,</p>
+    <p>≤line=310≥ Vectesque frangit, ac cathenas dissipat.</p>
+    <p>EURIPUS</p>
+    <p>Heu me, necesse est prorsus ergo commodam</p>
+    <p>Ac florulentam semitam relinquere?</p>
+    <p>Carere suetis perpetimque gaudijs?</p>
+    <p>Nimis heu subire hoc senticetum exhorreo.</p>
+    <p>TIMOR</p>
+    <p>≤line=315≥ Ubi pulchra quaeso verba nunc, ac splendida</p>
+    <p>Promissa, summo facta nuper principi,</p>
+    <p>Cum rupta plorans innovares foedera?</p>
+    <p>Quur ante pugnam miles ignavissime</p>
+    <p>Terrore vano contremiscens angeris?</p>
+    <p>≤line=320≥ Ne sic labores huius incertissimae</p>
+    <p>Brevisque vitae finiendos termino,</p>
+    <p>Aeterna spectes sed perennis praemia,</p>
+    <p>Cum optanda iustis, turn tremenda reprobis.</p>
+    <p>Eamus, en praecedo, tu vestigijs,</p>
+    <p>≤line=325≥ Nostris inhaere, ne qua aberrans devies.</p>
+    <p>EURIPUS</p>
+    <p>Accingor ecce, te sine mora subsequar.</p>
+    <p>TIMOR ≤folio=C2r≥</p>
+    <p>Fidenter ipsa saxa cum spinis preme,</p>
+    <p>≤page=66≥</p>
+    <p>Animo virili cuncta cedent aspera.</p>
+    <p>EURIPUS</p>
+    <p>Quanquam labores ac dolores horream,</p>
+    <p>≤line=330≥ Te ductor alme iam sequor: sed hei mihi,</p>
+    <p>Quam durus iste callis est et arduus,</p>
+    <p>Densisque spinis asper et inamabilis,</p>
+    <p>Transire per quem debilem cogis, Timor,</p>
+    <p>Taedet laboris, pes labat, mens concidit,</p>
+    <p>≤line=335≥ Finem nec huius semitae usquam conspicor:</p>
+    <p>At illa laevum tramitem spectans via,</p>
+    <p>Quam lata, amoena, mollis est ac florida,</p>
+    <p>Blando volucrum cantu ubique personans.</p>
+    <p>O si parumper fas sit hac excurrere:</p>
+    <p>≤line=340≥ Cessaret omnis ilico cordis dolor,</p>
+    <p>Labor, quaerela, lassitudo, taedium.</p>
+    <p>TIMOR</p>
+    <p>Facessat ista mentis fluctuatio</p>
+    <p>Timorque vanus: quid sinistram respicis,</p>
+    <p>Extrema cuius mors perennis excipit?</p>
+    <p>≤line=345≥ Hac est eundum, perge, quid moras trahis?</p>
+    <p>Cum nulla coelum praeter hanc petat via.</p>
+    <p>Animum resume quaeso, nam semper magis</p>
+    <p>Dulcescet usu, quamlibet gravis labor:</p>
+    <p>Nec derelinquet servulum suum Deus.</p>
+    <p>EURIPUS</p>
+    <p>≤line=350≥ Pergamus ergo, quando sic iubes, Timor,</p>
+    <p>≤page=68≥</p>
+    <p>Praecede, lentis commode sed passibus,</p>
+    <p>Possimus ut te claudicantes assequi.</p>
+    <p>TIMOR ≤folio=C2v≥</p>
+    <p>Attemperabo infirmitati me tuae.</p>
+    <p>Adsit labori dexter incoepto Deus,</p>
+    <p>≤line=355≥ Animoque robur fluctuanti suggerat.</p>
+    <p>EURIPUS</p>
+    <p>Pape : tremisco totus, angor, horreo,</p>
+    <p>Pedibus nec ultra progredi laesis queo,</p>
+    <p>Per huius arcti senticetum tramitis.</p>
+    <p>TIMOR</p>
+    <p>Ah delicate miles, o mollis puer,</p>
+    <p>≤line=360≥ Effoeminato quid pavescis pectore?</p>
+    <p>Vixe inchoato praelio arma proijcis ?</p>
+    <p>Videtur asper quanquam et intolerabilis,</p>
+    <p>Mitescet usu poenitentiae labor.</p>
+    <p>Tantum virile robur et mentem indue,</p>
+    <p>≤line=365≥ Christumque passum diligenter inspice,</p>
+    <p>Ut ferre discas propriam laetus crucem.</p>
+    <p>EURIPUS</p>
+    <p>Heu me, voluntas non deest, sed horridus</p>
+    <p>Labor impeditae debilem terret viae.</p>
+    <p>Quis namque ab omni segregatus gaudio</p>
+    <p>≤page=70≥</p>
+    <p>≤line=370≥ Moerere, fiere, iugiterque plangere,</p>
+    <p>Famemque possit, frigus ac sitim pati?</p>
+    <p>Vigilque semper excubare in praelio?</p>
+    <p>Quis possit, inquam, (mortuus tanquam foret)</p>
+    <p>Oculos et aures, caeteris cum sensibus,</p>
+    <p>≤line=375≥ Linguamque sic fraenare ubique lubricam,</p>
+    <p>Ut nusquam aberret, cespitet vel corruat,</p>
+    <p>Carnalis expers perpetim solatij?</p>
+    <p>TIMOR</p>
+    <p>Rogas, quis ista possit? ille scilicet,</p>
+    <p>Durum severi qui furorem iudieis, ≤folio=C3r≥</p>
+    <p>≤line=380≥ Tubaeque murmur horridum novissimae</p>
+    <p>Volvit subinde cordis in fundo sui:</p>
+    <p>Exaestuantis qui gehennae perpetem</p>
+    <p>Expendit ignem, daemonesque aterrimos,</p>
+    <p>Ac mille poenas criminum stipendia.</p>
+    <p>≤line=385≥ Haec nam profunda mente quisquis ruminat,</p>
+    <p>Poterit caminum vel subire fiammeum.</p>
+    <p>EURIPUS</p>
+    <p>Eheu coartor hinc et inde plurimum,</p>
+    <p>Perculsus utrobique non levi metu.</p>
+    <p>Hinc namque terret fulmen oris me tui,</p>
+    <p>≤line=390≥ Dum mentionem daemonum tristem facis,</p>
+    <p>Stygisque nigrae et ultimae sententiae:</p>
+    <p>Sed contra, abhorret mens ab ista non minus</p>
+    <p>Tam senticosa et impedita semita,</p>
+    <p>Grav~ corpys imbecillum hoc pallio</p>
+    <p>≤line=395≥ Vili, molesto, decolore, sordido.</p>
+    <p>TIMOR</p>
+    <p>Euripe, cur hanc abominaris sic viam?</p>
+    <p>Cum ignota non sit aut recens, vel invia:</p>
+    <p>Sed ambularint hac ab orbe condito</p>
+    <p>Legis sub umbra tot piorum millia:</p>
+    <p>≤line=400≥ Iusti, prophetae, patriarchae, principes,</p>
+    <p>≤page=72≥</p>
+    <p>Et post lesum alacritate plurima</p>
+    <p>Innumera populi turba festinaverit,</p>
+    <p>Pueri, puellae, puberes, viri, senes:</p>
+    <p>Et inter illos Caesares, Reges, Duces,</p>
+    <p>≤line=405≥ Et tu quod isti praestitêre fortiter, ≤folio=C3v≥</p>
+    <p>Virtute mentem roborati coelica,</p>
+    <p>Praestare Christo non valebis auspice?</p>
+    <p>Nec enim isti et istae (quos tibi proponimus,</p>
+    <p>Hac insequendos) delicati, nobiles,</p>
+    <p>≤line=410≥ Dites, tenelli, sexu et annis debiles,</p>
+    <p>Regum, Ducumque filij, atque filiae,</p>
+    <p>Potuêre tantum caeteros praecellere</p>
+    <p>Perfectione sanctitatis plurimae,</p>
+    <p>Proprio labore, viribus, solertia:</p>
+    <p>≤line=415≥ Sed copiosa roboratos gratia</p>
+    <p>Provexit omnes tantam ad excellentiam</p>
+    <p>Rex ille regum, qui gubernat omnia,</p>
+    <p>Mentesque clarè singulorum perspicit.</p>
+    <p>Horum ad coronas perpetemque gloriam</p>
+    <p>≤line=420≥ Palmas, triumphos, ac beatitudinem</p>
+    <p>Intende quaeso pectoris acumen tui,</p>
+    <p>Posthac sequaris ut praeeuntem alacrius:</p>
+    <p>Paulisper et ne inferre vim brevem tibi</p>
+    <p>Tam sit molestum, ac praeliari strennuè,</p>
+    <p>≤line=425≥ Ut cum beato grege quiescas iugiter</p>
+    <p>Patriae in supernae pascuis virentibus.</p>
+    <p>Certare namque iam necesse est omnibus,</p>
+    <p>Perenne quotquot ambiunt stipendium,</p>
+    <p>Quod palma solis danda sit victoribus.</p>
+    <p>≤line=430≥ Quin ergo sumpto cordis ex his robore</p>
+    <p>Sequi laboras strennuè tot milites ≤folio=C4r≥</p>
+    <p>≤page=74≥</p>
+    <p>Christi, gravatos mole quondam carnea?</p>
+    <p>Nee enim beatos ut imiteris angelos,</p>
+    <p>(Quibus onerosus carcer hic nunquam fuit)</p>
+    <p>≤line=435≥ Deposcit a te Rex supernus, sed homines</p>
+    <p>Olim caduco tecum amictos corpore,</p>
+    <p>Invicta magni quos Dei potentia</p>
+    <p>Post crebra fecit bella tandem vincere</p>
+    <p>Cum carne mundum, daemonesque subdolos.</p>
+    <p>EURIPUS</p>
+    <p>≤line=440≥ Mihi quoque tantum si dedisset gratiae</p>
+    <p>Favor supremi regis affluentior,</p>
+    <p>Non te gravarer et ipse alacriter sequi.</p>
+    <p>TIMOR</p>
+    <p>Non est benignum quod datorem gratiae</p>
+    <p>Ingratus ullo nomine accuses: tibi</p>
+    <p>≤line=445≥ Vel defuisse conquerens, vel defore</p>
+    <p>In rebus arctis eius adiutorium:</p>
+    <p>Cum liberarit hactenus frequentibus</p>
+    <p>Te mentis atque corporis periculis :</p>
+    <p>Occasiones et subinde plurimas</p>
+    <p>≤line=450≥ Conversionis ac salutis desidi,</p>
+    <p>Vano, otioso, negligenti det tibi.</p>
+    <p>Cogêris ipse quod fateri protinus,</p>
+    <p>Consyderare si velis attentius,</p>
+    <p>Quibus aliquando vixeris in angustijs,</p>
+    <p>≤line=455≥ Vitijs, periclis, caecitate, sordibus,</p>
+    <p>In te loquatur et quid ille iugiter</p>
+    <p>Stans atque pulsans cordis ad fores tui, ≤folio=C4v≥</p>
+    <p>Non cessat intus erudire qui suos,</p>
+    <p>Corroborare, illuminare, et ungere,</p>
+    <p>≤line=460≥ Quosvis paratus adiuvare, ac pascere,</p>
+    <p>Ad se reverti si studerent sedulo,</p>
+    <p>Ad audiendum intus docentem spiritum.</p>
+    <p>Tuae proin fac imputes incuriae,</p>
+    <p>Ignaviaeque tam diu quod fluctuas,</p>
+    <p>≤page=76≥</p>
+    <p>≤folio=C5r≥</p>
+    <p>≤line=465≥ Trepidas, et haeres anxius, non optimo</p>
+    <p>Deo, patrique: euius ingratissimus</p>
+    <p>Toties abusus, largitate, et gratia es:</p>
+    <p>Vagus, otiosus, delieatus, languidus,</p>
+    <p>Dum eooperari negligis donis Dei.</p>
+    <p>EURIPUS</p>
+    <p>≤line=470≥ Non possum apertae veritati obsistere.</p>
+    <p>TIMOR</p>
+    <p>Quousque vecors ergo non credes mihi,</p>
+    <p>Ut veritati eognitae consentias?</p>
+    <p>Quin Conditoris optimi in potentia</p>
+    <p>Securus omnem collocas fiduciam?</p>
+    <p>≤line=475≥ Prius ut monebam, nee monere desino.</p>
+    <p>An summus ille rex, et autor omnium,</p>
+    <p>Qui tam benignus, tam potens est, ae pius,</p>
+    <p>Te non valebit roborare, aut rennuet,</p>
+    <p>Ad sustinenda adversa fortiter omnia?</p>
+    <p>≤line=480≥ Poterit profeeto (suevit ut ereberrimè)</p>
+    <p>Dum eorde toto in omnibus perieulis,</p>
+    <p>Flens, ingemiscens, supplicansque instantius</p>
+    <p>Eum requiras, ut fideles assolent</p>
+    <p>Christi Deique faetitare milites,</p>
+    <p>≤line=485≥ Necessitate praegravati qualibet.</p>
+    <p>EURIPUS</p>
+    <p>Pergamus ergo, consequar te, quatenus</p>
+    <p>Per imbecillae carnis hoc onus grave</p>
+    <p>Fesso licebit: sim licet iam plurimo</p>
+    <p>Moerore fractus, et gravibus angustijs.</p>
+    <p>≤line=490≥ Quis erit sed huius asperae finis viae?</p>
+    <p>TIMOR</p>
+    <p>Ah, iamne rursus? quid subinde obmurmuras?</p>
+    <p>≤page=78≥</p>
+    <p>Non profutura verba quid frustra seris?</p>
+    <p>Nec adlaboras quo meandum est progredi?</p>
+    <p>Procede, perge dico, gressum promove :</p>
+    <p>≤line=495≥ Quid nectis is tic noxias frustra moras,</p>
+    <p>Properare quum te grandis urgeat via,</p>
+    <p>Si sempiterna vis quiete perfrui.</p>
+    <p>EURIPUS</p>
+    <p>At at, severe quo Timor me pertrahis?</p>
+    <p>Vis ista certè est: non vides quae perferam?</p>
+    <p>≤line=500≥ Spinae tenellos sauciant pedes mihi.</p>
+    <p>Corpus fatiscit sub labore et pondere,</p>
+    <p>Mens aegra moeret, anxia est, ac deficit.</p>
+    <p>Et sustinenti tot mala nihil condoles?</p>
+    <p>TIMOR</p>
+    <p>Haec vana verba, Euripe, sunt ac frivola:</p>
+    <p>≤line=505≥ Sed inter haec nil promovemus desides.</p>
+    <p>Si te fatigat callis iste durior,</p>
+    <p>Non esse mollem cogita ad coelos viam.</p>
+    <p>EURIPUS</p>
+    <p>Properare posthac non recuso, nunc precor</p>
+    <p>Sine, ut quiescens bic parumper dormiam, ≤folio=C5v≥</p>
+    <p>≤line=510≥ Donec libebit progredi qua coepimus.</p>
+    <p>TIMOR</p>
+    <p>Paulum quiesces ergo, paulum dormies, Proverb. 6.</p>
+    <p>Viae sinistrae proximus confinio?</p>
+    <p>Piger, remis sus, otiosus, negligens,</p>
+    <p>Istic iacebis inter hostes pessimos?</p>
+    <p>≤line=515≥ Hoc, me profecto autore, nunquam feceris,</p>
+    <p>Cui notiora sunt pericula quam tibi.</p>
+    <p>≤page=80≥</p>
+    <p>EURIPUS</p>
+    <p>Hac ob secunda, amabo, nunc in re mihi,</p>
+    <p>Inusitati de laboris pondere,</p>
+    <p>Fastidioso, somnolento, languido:</p>
+    <p>≤line=520≥ Humique mecum conquiesce ad horulam.</p>
+    <p>TIMOR</p>
+    <p>Quin scipionem utraque corripis manu</p>
+    <p>Ad fulcienda membra qui datus tibi?</p>
+    <p>Canesque pellis? daemonesque hos subdolos,</p>
+    <p>Utrinque lassum qui latenter impetunt?</p>
+    <p>≤line=525≥ Hoc est, levato ad Conditorem pectore,</p>
+    <p>Precatione vineis omnem fervida</p>
+    <p>Tentationem, et mentis aegritudinem?</p>
+    <p>EURIPUS</p>
+    <p>Orare passim quî, precor? cum vivere</p>
+    <p>Etiam inter istas taedeat molestias?</p>
+    <p>≤line=530≥ Iterque durum cogat aversarier</p>
+    <p>Studium precandi, omnemque sanctimoniam?</p>
+    <p>Baculus iuvabit iste lassum scilicet,</p>
+    <p>Cum sit ferenti iam gravis factus quoque.</p>
+    <p>TIMOR</p>
+    <p>Ut imbecillem, delicate, te facis,</p>
+    <p>≤line=535≥ Aeterna dum consyderare negligis ≤folio=C6r≥</p>
+    <p>Tormenta vecors, perpetemque gloriam.</p>
+    <p>Tibi factus ergo seipio iste sarcina est?</p>
+    <p>≤page=82≥</p>
+    <p>Brevemque taedet sustinere angustiam</p>
+    <p>Aliquot dierum forsitan vel mensium?</p>
+    <p>≤line=540≥ Pos sis quietem qua perennem consequi?</p>
+    <p>Tristis gehennae et sempiternos quo modo</p>
+    <p>Tolerabis ignes mille cum doloribus?</p>
+    <p>EURIPUS</p>
+    <p>Ut cantionem semper illaetabilem,</p>
+    <p>Et ominosam, ductor infoelix, canis:</p>
+    <p>≤line=545≥ Tace, quiesce, ne molestus sis mihi:</p>
+    <p>Bic nam sedere fixa stat sententia,</p>
+    <p>Adsis amicum gratiae Tempus mihi.</p>
+    <p>TEMPUS</p>
+    <p>Praestaret ultra dum licet procedere,</p>
+    <p>Quam haerere in isto longius confinio:</p>
+    <p>≤line=550≥ Ne te Cupido versipellis, et Venus</p>
+    <p>(Tentare mentes otiosas qui solent)</p>
+    <p>Inebriatum caeco amore fascinent.</p>
+    <p>EURIPUS</p>
+    <p>Precor obsecunda languido vel tu mihi,</p>
+    <p>Tempus benignum: sine, parumper dormiam:</p>
+    <p>≤line=555≥ Posthac licebit alacriores pergere.</p>
+    <p>TEMPUS</p>
+    <p>Si prorsus ergo, Euripe, vis quiescere,</p>
+    <p>Quaeramus umbram: laedat aestus ne gravis</p>
+    <p>Tenerum cerebrum, aut ventus ullus pestilens,</p>
+    <p>Bis flare quales assolent in finibus.</p>
+    <p>≤page=84≥</p>
+    <p>EURIPUS</p>
+    <p>≤line=560≥ Antrum ecce opacum delicatae Acediae</p>
+    <p>Aptum sopori mentis atque eorporis. ≤folio=C6v≥</p>
+    <p>TEMPUS At is tud atris est eolubris obvium,</p>
+    <p>Qui dormientes aggredi erebro solent,</p>
+    <p>Morsuque segnes eneeare noxio.</p>
+    <p>EURIPUS</p>
+    <p>≤line=565≥ Hinc esse nobis spero nil periculi,</p>
+    <p>Timor excubabit, nec profundè dormiam,</p>
+    <p>Praecedo: Tempus oro ne me deseras.</p>
+    <p>TEMPUS</p>
+    <p>Ne fide semper defluenti, ac mobili,</p>
+    <p>Sum namque venti flamine inconstantior.</p>
+    <p>EURIPUS</p>
+    <p>≤line=570≥ Meliora spero, dulcis invadit sopor.</p>
+    <p>Timor hîc quiesce, si lubet, Tempus sede.</p>
+    <p>≤page=86≥</p>
+    <p>I,5</p>
+    <p>VENUS. CUPIDO.</p>
+    <p>Cupido, cessas somnolentum, desidem,</p>
+    <p>Fastidiosum, fraudulenter aggredi?</p>
+    <p>Pigro sopore dissolutus dum iacet,</p>
+    <p>≤line=575≥ Nostrique telis maximè est obnoxius?</p>
+    <p>CUPIDO</p>
+    <p>Imo morare dum profundè dormiat,</p>
+    <p>Desesque stertat: somnus iste nam cito</p>
+    <p>A dormientis pectore effugabitur,</p>
+    <p>Simulatque nobis expedire videbitur:</p>
+    <p>≤line=580≥ Tu fac suavis personet symphonia,</p>
+    <p>Imbuta mundi vanitate lubrica,</p>
+    <p>Qua recreatus possit excitarier,</p>
+    <p>Eiusque dulci rursus hausto spiritu,</p>
+    <p>Non cassa nostrae tela pharetrae sentiat.</p>
+    <p>≤page=88≥</p>
+    <p>VENUS ≤folio=C7r≥</p>
+    <p>≤line=585≥ Fac mente quicquid machinaris callida,</p>
+    <p>Ego quod mearum est partium, providero.</p>
+    <p><hi rendition="simple:bold">CHORUS PRIMUS</hi></p>
+    <p>Sapphica.</p>
+    <p>Si cupis vitam, requiem, salutem,</p>
+    <p>Si dies laetos, solidamque pacem,</p>
+    <p>Sit Dei tecum timor, excubetque</p>
+    <p>≤line=590≥ Omne per aevum.</p>
+    <p>Hunc die tecum facias morari,</p>
+    <p>Hunc per obscuras vigilare noctes.</p>
+    <p>Hunc in angustis dubijsque semper</p>
+    <p>Consule rebus.</p>
+    <p>≤line=595≥ Sit tibi ductor, comes et magister</p>
+    <p>Qui tuos gressus, fragilemque vitam</p>
+    <p>In viam pacis, Dominique leges</p>
+    <p>Ducat agatque.</p>
+    <p>Explicet sancti bona quis Timoris,</p>
+    <p>≤line=600≥ Quo Deum veri metuunt fideles ;</p>
+    <p>Filius charum solet ut parentem,</p>
+    <p>Filia matrem ?</p>
+    <p>≤page=90≥</p>
+    <p>Ille peccati illecebras retundit,</p>
+    <p>Reprimit carnis stimulos petulcae,</p>
+    <p>≤line=605≥ Invidos motus domat, ac protervam</p>
+    <p>Fortiter iram.</p>
+    <p>Ille successum prohibet malorum,</p>
+    <p>Ille virtutes iubet aggregari, ≤folio=C7v≥</p>
+    <p>Ille coelestes iter ad coronas</p>
+    <p>≤line=610≥ Pandit apertum.</p>
+    <p>ACTUS EURIPI SECUNDUS</p>
+    <p>EURIPUS. TIMOR.</p>
+    <p>Hui, quid hoc est? heic melos quod audio,</p>
+    <p>A parte laeva? quam canorum ac tinnulum</p>
+    <p>Demulsit aures qualis oh symphonia:</p>
+    <p>Aegro sopore pressus ae fastidio,</p>
+    <p>≤line=615≥ (Dum me fatigat callis hic durissimus)</p>
+    <p>Segnis iacebam, ut nec libêret vivere:</p>
+    <p>At delibutum nunc repente gaudijs</p>
+    <p>Fides canorae recrearunt sic novis,</p>
+    <p>Ut prosilire sim paratus quolibet.</p>
+    <p>TIMOR</p>
+    <p>≤line=620≥ Pergamus ergo, grandis en restat via,</p>
+    <p>Laboriosis transeunda nisibus.</p>
+    <p>Quid euriosis hue et illue impudens</p>
+    <p>Oculis vagaris? nec coërees lumina</p>
+    <p>A vanitate periculosa, ac noxia?</p>
+    <p>EURIPUS</p>
+    <p>≤line=625≥ Morare me parumper, oro ut calceos</p>
+    <p>Zonamque nodo strictiore colligem :</p>
+    <p>Ut expeditus expeditum subsequar. ≤folio=C8r≥</p>
+    <p>Quisnam sed is te tam deeorus est puer,</p>
+    <p>≤page=94≥</p>
+    <p>Quem per vireta obambulantem conspicor?</p>
+    <p>≤line=630≥ Quam delicatus, pulcher est et amabilis:</p>
+    <p>Vix quin salutem continere me queo.</p>
+    <p>TIMOR</p>
+    <p>At abstinebis, si quid in me virium est.</p>
+    <p>Illum sinistro prodeuntem tramite</p>
+    <p>Obnubilata mente non consyderas?</p>
+    <p>≤line=635≥ Eamus, hic nam haerere nequaquam expedit.</p>
+    <p>EURIPUS</p>
+    <p>Properare quorsum sic necesse est, obsecro,</p>
+    <p>Cum durus aretae squalleat trames viae?</p>
+    <p>Prohibens citatis gressibus nos currere.</p>
+    <p>TIMOR</p>
+    <p>Quia dum moraris poenitere serio,</p>
+    <p>≤line=640≥ Aretamque differs ambulare semitam,</p>
+    <p>Dies et anni defluunt volubiles</p>
+    <p>Ulla absque fruge desidi interim tibi:</p>
+    <p>Nee advolare desinit mors iugiter.</p>
+    <p>EURIPUS</p>
+    <p>Eamus ergo, si morari non licet,</p>
+    <p>≤line=645≥ Haerere quamvis hic liberet oppidà.</p>
+    <p>Sed ecce,dulcis advocat nos pusio,</p>
+    <p>Iubetque mota sistere en gradum manu,</p>
+    <p>Adeoque ab isto calle gressum fleetere.</p>
+    <p>Eho, quam amico respicit nos lumine:</p>
+    <p>≤page=96≥</p>
+    <p>≤line=650≥ Haerere cogor, intueri, et colloqui.</p>
+    <p>TIMOR</p>
+    <p>At enim vetabo, nec perire te sinam.</p>
+    <p>Quid stulte spectas, quo nephas est perfrui?</p>
+    <p>Ultra hic morari neutiquam (crede) expedit. ≤folio=C8v≥</p>
+    <p>EURIPUS</p>
+    <p>Heu quam severus ac molestus es mihi,</p>
+    <p>≤line=655≥ Ubique votis durus obsistens meis,</p>
+    <p>Nec recreari vel pusillum sustines,</p>
+    <p>Fessumve respirare vel subsistere.</p>
+    <p>Sequemur ergo, quando sic visum tibi,</p>
+    <p>Quanquam recusat aegra mens hinc abstrahi.</p>
+    <p>II,2</p>
+    <p>CUPIDO. VENUS.</p>
+    <p>≤line=660≥ Lascivi iuvenes,et blanda fronte puellae,</p>
+    <p>Florida quos aetas suadet amare iocos,</p>
+    <p>Ludere, nugari, ridere, salire, procari</p>
+    <p>Ad me certatim currite turba levis.</p>
+    <p>Dives, inops, proceres humili cum plebe venite:</p>
+    <p>≤line=665≥ Imprimat haec cordi foemina virque suo.</p>
+    <p>≤page=98≥</p>
+    <p>Donec fata sinunt, dum florida suppetit aetas,</p>
+    <p>Risibus, et luxu diffluite, atque iocis:</p>
+    <p>Ne vos praetereat blandi flos temporis iste,</p>
+    <p>Unguento, ac dulci membra replete mero.</p>
+    <p>VENUS</p>
+    <p>≤line=670≥ Dum licet, este hilares: nulla est post fata
+    voluptas,</p>
+    <p>Ne vacui pereant ergo cavete dies.</p>
+    <p>Vivite securi, petulantes, ambitiosi,</p>
+    <p>Diffluite omnimodis undique delitijs.</p>
+    <p>Haec etenim pars est, haec sors, haec portio vestra,</p>
+    <p>≤line=675≥ Corporis illecebris, laetitiaque hui.</p>
+    <p>≤page=100≥</p>
+    <p>CUPIDO Scilicet utendum est rebus praesentibus, aetas</p>
+    <p>Florida dum invitat, dum libet, atque licet:</p>
+    <p>Ecquid opus curis marcescere tristibus, ante ≤folio=Dr≥</p>
+    <p>Quam veniat tremulo curva senecta pede?</p>
+    <p>≤line=680≥ Sponte graves cani properant, ac plurima secum</p>
+    <p>Taedia multiplici mista dolore ferunt.</p>
+    <p>Libera fraena proin molli laxate iuventae,</p>
+    <p>Ne vos bis faciat solicitudo senes.</p>
+    <p>EURIPUS</p>
+    <p>Proh quale carmen, qualis haec oratio est,</p>
+    <p>≤line=685≥ Quam blande avaris influunt haec auribus.</p>
+    <p>Puero ut venusto pulchrior pulcherrima est:</p>
+    <p>Cur tam decoros convenire differo?</p>
+    <p>TIMOR</p>
+    <p>Euripe, si quid in te adhuc prudentiae est,</p>
+    <p>Mentisque sanae: pestilentes haurias</p>
+    <p>≤line=690≥ Ne vanitates, daemonum ludibria,</p>
+    <p>Oculos et aures claude quaeso lubricas.</p>
+    <p>Quid verba tanti pen dis ah mendacia?</p>
+    <p>Si veritatem nosse synceram cupis,</p>
+    <p>Hac est eundum, hac est necesse progredi.</p>
+    <p>≤page=102≥</p>
+    <p>VENUS</p>
+    <p>≤line=695≥ Quid Venus et Bacchus, quid tempora amoena
+    sepultos</p>
+    <p>Quid choreae, et lusus, blandaque furta iuvant?</p>
+    <p>Quid nemora, et volucrum cantus, quid dulcis Aëdon</p>
+    <p>Oblectantve senes organa decrepitos?</p>
+    <p>Scilicet haec vestri sunt omnia temporis : aetas</p>
+    <p>≤line=700≥ O iuvenes donec talibus apta viret.</p>
+    <p>Triste supercilium, rugas, frontemque Catonis,</p>
+    <p>Cum tetrica senibus linquite canicie.</p>
+    <p>CUPIDO ≤folio=Dv≥</p>
+    <p>Temporis, ac vitae rapidum decerpite florem,</p>
+    <p>Nemo sibi quicquam dulce placensque neget:</p>
+    <p>≤line=705≥ Membra voluptati iuvenilia tradite, toto</p>
+    <p>Pectoris affectu, carnis ad obsequium.</p>
+    <p>Quid teneros passim sinitis marcescere flores?</p>
+    <p>Lilia purpureis carpite mista rosis:</p>
+    <p>≤page=104≥</p>
+    <p>Intactum nusquam pratum, vel amoena vireta</p>
+    <p>≤line=710≥ Frondosumve nemus vestra libido sinat.</p>
+    <p>Undique laetitiae memoranda relinquite signa,</p>
+    <p>Ne vos solicitet spesve metusve alius.</p>
+    <p>Nulla refrigerij loca, poenarumque supersunt,</p>
+    <p>Spiritus ut molles transijt in nebulas.</p>
+    <p>EURIPUS</p>
+    <p>≤line=715≥ Facessat hinc iam terror, et labor gravis,</p>
+    <p>Tristesque curae: quid iuventam tetrica</p>
+    <p>Severitate macero, affligo, neco?</p>
+    <p>Cum poenitere lustra post decem queam, Hominique condolere
+    gaudeat Deus?</p>
+    <p>TIMOR</p>
+    <p>≤line=720≥ Idem sed aequus nil inultum postea</p>
+    <p>Mali relinquet: quid teipsum perdere</p>
+    <p>Demens anhelas, sponte ad Orcum proruens?</p>
+    <p>Quid te superbis diabolis ludibrium</p>
+    <p>Praedamque gliscis sempiternam tradere ?</p>
+    <p>≤line=725≥ Regale semen cum superni sis patris,</p>
+    <p>Creatus ac redemptus a vivo Deo,</p>
+    <p>Fias ut haeres sempiternae gloriae?</p>
+    <p>EURIPUS</p>
+    <p>Ut cantilenam rancidam semper mihi</p>
+    <p>Minimeque gratam replicas tristis senex: ≤folio=D2r≥</p>
+    <p>≤line=730≥ Quanto tuis sunt gratiora haec cantica,</p>
+    <p>Quae blandus iste praecinit nobis puer,</p>
+    <p>Ad hunc proinde transeamus ocyus.</p>
+    <p>≤page=106≥</p>
+    <p>TIMOR</p>
+    <p>Promissa quo iam evanuêre splendida</p>
+    <p>Periure miles, principi dudum tuo,</p>
+    <p>≤line=735≥ Deoque facta: perfidis quid hostibus</p>
+    <p>Confoederari quaeris heu malo tuo?</p>
+    <p>Quid sic anhelas convenire hos transfugas,</p>
+    <p>Qui te perennes ad tenebras pertrahent?</p>
+    <p>EURIPUS</p>
+    <p>Ductor severe, tristis et inamabilis,</p>
+    <p>≤line=740≥ Quid arroganter imperare libero</p>
+    <p>Ac subiugare quaeris invitum tibi?</p>
+    <p>Tace, molestus esse ne pergas mihi,</p>
+    <p>Haec arbitratu namque non fient tuo.</p>
+    <p>II,3</p>
+    <p>CUPIDO. EURIPUS. TIMOR.</p>
+    <p>Quis is te viIi palliastro sordidus</p>
+    <p>≤line=745≥ Mendicitatis sub pudendo tegmine,</p>
+    <p>Qui liberali forma et ore cernitur,</p>
+    <p>Facieque praefert regiam propaginem?</p>
+    <p>EURIPUS</p>
+    <p>Tui decoris, numinis, facundiae</p>
+    <p>Amator unus, praedicator, assecla,</p>
+    <p>≤line=750≥ Qui totus ardet mancipare se tibi.</p>
+    <p>≤page=108≥</p>
+    <p>CUPIDO Tune hic eras, Euripe noster? ut lubens</p>
+    <p>Agnosco pulchrè cognitum quondam mihi,</p>
+    <p>Sed despicata quid sibi vult penula?</p>
+    <p>Baculus, galerus, atque frons subtristior? ≤folio=D2v≥</p>
+    <p>≤line=755≥ Mendicitate num pudenda ringeris?</p>
+    <p>EURIPUS</p>
+    <p>Bona verba quaeso, nulla me mendicitas</p>
+    <p>Hac veste texit, viliore aut pileo,</p>
+    <p>Titulo sed istis vestior honestissimo.</p>
+    <p>CUPIDO Quid ergo: quoquam num peregre cursitas?</p>
+    <p>EURIPUS</p>
+    <p>≤line=760≥ Imà est amictus iste poenitentium,</p>
+    <p>Quo me peractas monstro culpas plangere</p>
+    <p>Mundoque tanquam mortuus sim, et advena,</p>
+    <p>Sion supernae civitatem quaerere.</p>
+    <p>CUPIDO</p>
+    <p>Papae, quid istic audioque et conspicor?</p>
+    <p>≤line=765≥ Euripus ergo amictu, honore, gloria</p>
+    <p>Nuper refulgens, prolis instar regiae,</p>
+    <p>≤page=110≥</p>
+    <p>Nunc mente captus factus est cucullio?</p>
+    <p>Regale germen, putre mendicabulum?</p>
+    <p>Abi, vel istud palliastrum reijce,</p>
+    <p>≤line=770≥ Non turpe solum, verum et invisum nimis</p>
+    <p>Mihi, ac parenti delicatae Cypridi.</p>
+    <p>EURIPUS</p>
+    <p>Ubi illa quaeso, gemma pulchritudinis,</p>
+    <p>Amore cuius tactus intus ardeo?</p>
+    <p>CUPIDO</p>
+    <p>Exosa vilem cum galero penulam</p>
+    <p>≤line=775≥ Tanquam colubrum, abduxit hinc se murmurans:</p>
+    <p>Videnda cum te dignum amictum sumpseris,</p>
+    <p>In veste splendens eleganti, et serica.</p>
+    <p>EURIPUS</p>
+    <p>Ah quid moramur liberare hoc pallio</p>
+    <p>Vili ac molesto flaccidum corpusculum,</p>
+    <p>≤line=780≥ Postquam Cupido dulcis hoc suades mihi?
+    ≤folio=D3r≥</p>
+    <p>TIMOR Euripe, quonam caece nunc prolaberis?</p>
+    <p>Cum morte foedus ergo et atris manibus</p>
+    <p>Inire mentem fascinatus apparas?</p>
+    <p>Nec te gehennae flamma, nec vindex Deus</p>
+    <p>≤line=785≥ Ab instituta retrahunt insania?</p>
+    <p>Utinam videre suggerentem pessima</p>
+    <p>Haec perspicaci mente possis quis siet:</p>
+    <p>≤page=112≥</p>
+    <p>Nec enim decorus, amabilisque est pusio,</p>
+    <p>Sed fraudulentus daemon, ac turpissimus:</p>
+    <p>≤line=790≥ Vorare captum qui cruentus expetit.</p>
+    <p>CUPIDO Quis is te torvus est senex et horridus,</p>
+    <p>Qui tam severo te intuetur lumine?</p>
+    <p>Turbatque nostra coepta, vota, gaudia?</p>
+    <p>EURIPUS</p>
+    <p>Hic dux per arctam scilicet viam mihi:</p>
+    <p>≤line=795≥ Imà magister saevus et inamabilis</p>
+    <p>Votis ubique qui meis obstat Timor.</p>
+    <p>CUPIDO</p>
+    <p>Timor timori vanus est ergo tibi?</p>
+    <p>Quid expavescis? num flagellis saeviet</p>
+    <p>Velut severus rector in puerum solet?</p>
+    <p>≤line=800≥ Memento quod te liberum fecit Deus,</p>
+    <p>Atque hunc abire si sapis iamiam iube.</p>
+    <p>EURIPUS</p>
+    <p>Audis, quid iste suggerat doctor mihi?</p>
+    <p>Abi, molesto solve nos tandem metu.</p>
+    <p>TIMOR</p>
+    <p>Attendat atque iudicet iustus Deus.</p>
+    <p>≤page=114≥</p>
+    <p>Lel’in Brecht, Euripus, v. 805-824</p>
+    <p>CUPIDO</p>
+    <p>≤line=805≥ Ut cedit aegrè murmurator improbus.</p>
+    <p>Euripe, tegmen vile mox hoc abijce, ≤folio=D3v≥</p>
+    <p>Quantoque vestis ista sit decentior,</p>
+    <p>Modisque eunetis elegantior, vide.</p>
+    <p>EURIPUS</p>
+    <p>O quam venusta, quam deeora, et splendida</p>
+    <p>≤line=810≥ Est vestis ista: nescio quo nomine</p>
+    <p>Dignè vocari possit, atque debeat.</p>
+    <p>CUPIDO</p>
+    <p>Mundana nempe pompa et ostentatio est,</p>
+    <p>Qua curiosè te decet vestirier,</p>
+    <p>Mundo placere, Cypridique si cupis.</p>
+    <p>EURIPUS</p>
+    <p>≤line=815≥ Obtemperare sum paratus: accipe</p>
+    <p>Mendicitatis hunc amictum sordidum</p>
+    <p>Cum scipione palliastrum ignobile,</p>
+    <p>Mihique serva, Tempus: effoeto seni</p>
+    <p>Donec libebit poenitere serio.</p>
+    <p>TEMPUS</p>
+    <p>≤line=820≥ Adservet ista qui volet: nulli Deus</p>
+    <p>Iniquitati applaudit, aut peccantibus</p>
+    <p>Malefaciendi larga praestat tempora.</p>
+    <p>CUPIDO</p>
+    <p>Euripe, mundi nunc amator splendide,</p>
+    <p>Depone vilis et galeri umbraculum,</p>
+    <p>≤page=116≥</p>
+    <p>≤line=825≥ A sole nullum aut imbribus periculum est,</p>
+    <p>Tranquilla cernis, ac serena hic omnia.</p>
+    <p>EURIPUS Spem me superni nunquid adiutorij,</p>
+    <p>Galeam salutis expedit relinquere?</p>
+    <p>Nudumne ventis omnibus tradam caput?</p>
+    <p>≤line=830≥ Tentatione circumagendus qualibet?</p>
+    <p>CUPIDO</p>
+    <p>Quos quaeso ventos mentis abiectae times?</p>
+    <p>Ubique lenes ecce flant Favonij. ≤folio=D4r≥</p>
+    <p>Age, mos geratur imbecillo vertici,</p>
+    <p>Securus esto, non carebis tegmine:</p>
+    <p>≤line=835≥ Cristas iam opinor sublevabis, hem tibi</p>
+    <p>Plumis decorum pileum comantibus.</p>
+    <p>Valeat pudendus hic galerus, et putris:</p>
+    <p>lsthoc venustae perplacebis Cypridi.</p>
+    <p>EURIPUS</p>
+    <p>Ut nos beare pergis, illustris puer,</p>
+    <p>≤line=840≥ Iam diu pudere vilitatis coeperat</p>
+    <p>In despicatis ambulantem vestibus.</p>
+    <p>Baculus gravabat anxium cum penula,</p>
+    <p>Eratque parvo pileus solatio.</p>
+    <p>CUPIDO</p>
+    <p>Gravi proinde liberatus sarcina,</p>
+    <p>≤line=845≥ Lepidum galero hoc eleganti verticem</p>
+    <p>Festinus orna, risibusque difflue,</p>
+    <p>≤page=118≥</p>
+    <p>Ut laeta laetum diligat servum Venus,</p>
+    <p>Placeasque comptus comptae amator Cypridi.</p>
+    <p>EURIPUS</p>
+    <p>O quam decorus hic galerus, ac nitens,</p>
+    <p>≤line=850≥ Quam cultus, atque dives est, et splendidus:</p>
+    <p>Dignus vel ipso te, Cupido amabilis,</p>
+    <p>Sed quod venusto est pileo nomen precor?</p>
+    <p>CUPIDO</p>
+    <p>Animo otiosa dicitur securitas,</p>
+    <p>Quae mente suadet libera mundo frui,</p>
+    <p>≤line=855≥ De corde pellens anxio omnes scrupulos</p>
+    <p>Vani timoris, atque conscientiae.</p>
+    <p>Nunc ad cubile florulentum Cypridis</p>
+    <p>Pergamus isthaec per vireta et flosculos. ≤folio=D4v≥</p>
+    <p>EURIPUS</p>
+    <p>Ubi illa quaeso commoratur gentium</p>
+    <p>≤line=860≥ Venus venusta, pectoris votum mei?</p>
+    <p>CUPIDO</p>
+    <p>Mundi vi rente semper in pomario, `</p>
+    <p>Inter Napaeas, Gratias, et Naiades,</p>
+    <p>Risus, iocosque: mistim odora lilia</p>
+    <p>Rosasque carpens, ad sinistram non procul.</p>
+    <p>EURIPUS</p>
+    <p>≤line=865≥ Hoc in viretum duc precor nos ocyus,</p>
+    <p>Dulcis Cupido: nam cupio vel maximè</p>
+    <p>Venerem decoram conspicari et colloqui.</p>
+    <p>≤page=120≥</p>
+    <p>CUPIDO</p>
+    <p>Sequere ergo nos tra cominus vestigia.</p>
+    <p>Praecedo matris ad cubile floridum.</p>
+    <p>II,4</p>
+    <p>EURIPUS. TEMPUS.</p>
+    <p>≤line=870≥ Tempus, sequamur: oro, ne me deseras,</p>
+    <p>Quanquam sinistro nunc aberrem tramite,</p>
+    <p>Propono posthac saniora ac spondeo.</p>
+    <p>TEMPUS</p>
+    <p>Quamdiu placebit sempiterno numini.</p>
+    <p>EURIPUS</p>
+    <p>Ne me relinquas quaeso, Tempus nobile.</p>
+    <p>≤line=875≥ Confido namque post amores Cypridis,</p>
+    <p>Quod corde toto serviam Deo senex.</p>
+    <p>TEMPUS</p>
+    <p>Quid si, priusquam consenescas, fugero?</p>
+    <p>≤page=122≥</p>
+    <p>EURIPUS</p>
+    <p>Avertet istud conditor spero pius,</p>
+    <p>Perire nullum qui fidelium cupit.</p>
+    <p>≤line=880≥ Nunc obsecunda ad horam amoribus meis,</p>
+    <p>Calor iuventae donec bic deferveat.</p>
+    <p>TEMPUS</p>
+    <p>Quousque summus tollerabit arbiter.</p>
+    <p><hi rendition="simple:bold">CHORUS SECUNDUS ≤folio=D5r≥</hi></p>
+    <p>Asclepiadaea.</p>
+    <p>Quae pestis iuveni, quanta lues viro,</p>
+    <p>Consultor duplici pectore subdolus,</p>
+    <p>≤line=885≥ Qui blando placidas ore loquens rosas,</p>
+    <p>Incauto insidias laetiferas struit.</p>
+    <p>In quod praecipiti non ruit impetu</p>
+    <p>Mens oblita Dei, flagitium ac scelus,</p>
+    <p>Si pravus monitor laudibus improbis</p>
+    <p>≤line=890≥ Suffundat gelidam sponte furentibus.</p>
+    <p>Tum quantus Iuvenes exagitat furor</p>
+    <p>Effraenes, stolidos, indomitos, leves:</p>
+    <p>In quot se miseri praecipitant mala,</p>
+    <p>Accensi facibus dum Veneris calent.</p>
+    <p>≤line=895≥ Per dunt si quid habent, vel cupiunt boni:</p>
+    <p>Se totos vario crimine polluunt:</p>
+    <p>Iritant vitijs innumeris Deum:</p>
+    <p>Contra se Domini spicula provocant.</p>
+    <p>≤page=124≥</p>
+    <p>Hinc postquam vitijs aurea plurimis</p>
+    <p>≤line=900≥ Detrivêre sacrae tempora gratiae,</p>
+    <p>Heu perdunt miseri coelica gaudia,</p>
+    <p>Torquendi rapidis iugiter ignibus.</p>
+    <p>Quo demens properas tramite devio,</p>
+    <p>Euripe instabilis, perfide, contumax?</p>
+    <p>≤line=905≥ Nee cernis laqueos, te quibus ad Stygem</p>
+    <p>Mox cum prole Venus subdola pertrahet?</p>
+    <p>Quam densis premitur mens tua nubibus, ≤folio=D5v≥</p>
+    <p>Dum credis puerum, stulte, Cupidinem,</p>
+    <p>Qui daemon reprobo de grege pessimus,</p>
+    <p>≤line=910≥ Te blandis satagit perdere fraudibus.</p>
+    <p>In quantam stolida mente voraginem</p>
+    <p>Labéris, Venerem perdite ni fugis.</p>
+    <p>Tum restat, puteus te super os suum</p>
+    <p>Ut claudat subito funere perditum.</p>
+    <p>≤line=915≥ Quid credis vapidae, caece, libidini:</p>
+    <p>Euripi similis quisquis es improbi?</p>
+    <p>Ah nescis, misero parte quot imminent</p>
+    <p>Ex omni insidiae, tela, pericula.</p>
+    <p>Ne spectes gemitus, illecebras, minas,</p>
+    <p>≤line=920≥ Lamenta, et lachrymas, oraque foeminae.</p>
+    <p>Nam frons, lingua, genae, blandaque plurimum</p>
+    <p>A nigro facies pectore dissident.</p>
+    <p>Haec si nota salax sunt iuvenis tibi,</p>
+    <p>Si vivae quid habes experientiae:</p>
+    <p>≤line=925≥ Quin vitae spatium quod superest breve, Impendis
+    studijs utilioribus?</p>
+    <p>Quid lapsus calidis tergere fletibus</p>
+    <p>Cessas praeteritos ac prece supplici?</p>
+    <p>≤page=126≥</p>
+    <p>Cordis multiplices cur maculas tui</p>
+    <p>≤line=930≥ Luctu continuo radere negligis?</p>
+    <p>Ecquid laetitia, stulte, resolveris</p>
+    <p>Effraeni toties? cur tot ineptijs?</p>
+    <p>Hostes nec fragilem te undique quot petant, ≤folio=D6r≥</p>
+    <p>Nec finem trepidus respicis ultimum?</p>
+    <p>ACTUS EURIPI TERTlUS</p>
+    <p>VENUS. EURIPUS. CUPIDO.</p>
+    <p>≤line=935≥ Quid haec, Timoris comparata dogmatis?</p>
+    <p>EURIPUS</p>
+    <p>Valeat severus ille, acerbus, horridus,</p>
+    <p>Mihi qui solebat anxio lapides loqui:</p>
+    <p>At mella sunt haec, nectar, atque saccarum,</p>
+    <p>Quae de labellis profluunt tuis, Venus,</p>
+    <p>≤line=940≥ Venus o venusta, splendidum mundi iubar.</p>
+    <p>VENUS</p>
+    <p>Securus ergo Euripe sis, et omnium</p>
+    <p>Torquere pectus scrupulosum quae solent,</p>
+    <p>(Mihi si placere quaeris) obliviscere.</p>
+    <p>Effunde quicquid gaudiorum concipis,</p>
+    <p>≤line=945≥ Nec te moretur ullius rei metus:</p>
+    <p>Animo obsequaris quin tuD plenissimè.</p>
+    <p>EURIPUS</p>
+    <p>Merum profecto nectar ista, et Attico</p>
+    <p>Sunt verba melle dulciora, spes mea.</p>
+    <p>Quae non gravabor diligenter exequi.</p>
+    <p>CUPIDO</p>
+    <p>≤line=950≥ Animo molestum quicquid aut contrarium,</p>
+    <p>Durumve sentis, triste, acerbum, rancidum, ≤folio=D6v≥</p>
+    <p>Statim revelle, seduloque extermina</p>
+    <p>≤page=130≥</p>
+    <p>Chartis, fritillo, tesseris, nugis, mero,</p>
+    <p>Omnique carnis illecebra, et gaudio.</p>
+    <p>VENUS</p>
+    <p>≤line=955≥ Ut per vireta regiae istius viae,</p>
+    <p>(Quae lata, mollis, florulenta, et obvia est)</p>
+    <p>Ubique possis divagari commodè:</p>
+    <p>Oculis memento, et auribus nihil tuis,</p>
+    <p>Ventri, palato, vel negare tactui.</p>
+    <p>EURIPUS</p>
+    <p>≤line=960≥ Veteres valete cum Timore scrupuli,</p>
+    <p>Tristesque curae cum pudore inutili.</p>
+    <p>Abiêre tandem lassitudo, taedium,</p>
+    <p>Moeror, laborque et permolestae angustiae,</p>
+    <p>Quae pectus ante lancinabant anxium.</p>
+    <p>≤line=965≥ Mihi vita nullum iam parit fastidium,</p>
+    <p>Videre quando, convenire, perfrui,</p>
+    <p>Te Venus amoena, te Cupido amabilis,</p>
+    <p>Dedit hic beatus corde pacato dies,</p>
+    <p>Meliore semper annotandus calculo.</p>
+    <p>VENUS</p>
+    <p>≤line=970≥ Fruamur ergo, Euripe dulcis, iamdiu</p>
+    <p>Desyderatis osculis, et gaudijs,</p>
+    <p>Convivijsque: inebriemur amoribus!</p>
+    <p>EURIPUS</p>
+    <p>O gemmeorum mella verborum mera,</p>
+    <p>Quali repletis mentem amantis iubilo.</p>
+    <p>≤line=975≥ Quid te venus ta praedicem Venus mea?</p>
+    <p>Quid te Cupido delicate? vos quibus</p>
+    <p>Celebrabo verbis, laudibus, praeconijs? ≤folio=D7r≥</p>
+    <p>≤page=132≥</p>
+    <p>Istud profecto quod requiris, optima</p>
+    <p>Venus, est quod ipse postulo ardentissimè.</p>
+    <p>≤line=980≥ Quin potitatum mox abimus, lux meao</p>
+    <p>Scis, quam sit omnis longa amantibus mora.</p>
+    <p>VENUS</p>
+    <p>Verum fidelis num futurus sis mihi,</p>
+    <p>Prius necesse est experiri serio.</p>
+    <p>Terrere suevit nil amantem, aut frangere</p>
+    <p>≤line=985≥ (Sit triste quamvis, asperum, durum, grave)</p>
+    <p>Modo assequatur, anxiè quod expetit.</p>
+    <p>EURIPUS</p>
+    <p>Cur, o decora, servulo parum tuo</p>
+    <p>Animo videris suspicaei fidere?</p>
+    <p>En sum paratus obsequi iussis tuis</p>
+    <p>≤line=990≥ Etiam necesse si foret mox emori.</p>
+    <p>VENUS</p>
+    <p>Rei exigendum est istius periculum.</p>
+    <p>Respondeas mihi liberè quod te rogo:</p>
+    <p>Euripe, num formosa, dulcis, elegans,</p>
+    <p>Et compta videor sic satis tibi, ac nitens?</p>
+    <p>EURIPUS</p>
+    <p>≤line=995≥ Ex me quid is tud obsecro puIcherrima,</p>
+    <p>Ac melle quovis duIcior quaeris Venus?</p>
+    <p>Nulli quod esse prorsus ignotum reor.</p>
+    <p>VENUS N</p>
+    <p>ondum quod intus nempe me perspexeris,</p>
+    <p>Quibusve pectus illitum monstris geram.</p>
+    <p>≤page=134≥</p>
+    <p>≤line=1000≥ Diffibulata veste sed perfectius</p>
+    <p>Nosces, decoro quid tegam sub pallio.</p>
+    <p>Quid expavescis, miles imbellissime?</p>
+    <p>Conspecta terrent spectra amantem tam cito? ≤folio=D7v≥</p>
+    <p>EURIPUS Papae quid hac sub pulchritudine occulis?</p>
+    <p>≤line=1005≥ Portenta quae sunt ista tam deformia?</p>
+    <p>VENUS Quae monstra sint haec, desine admirarier,</p>
+    <p>Nec execrare, putria ut cadavera,</p>
+    <p>Ignota quod sint simplicesque terreant.</p>
+    <p>Nam gratiora haec reddere usus assolet,</p>
+    <p>≤line=1010≥ Fientque longè mox tibi gratissima,</p>
+    <p>Si te fidelem servulum praestes mihi.</p>
+    <p>Nunc disce, quorum criminum haec sint symbola:</p>
+    <p>Sunt nempe fidae hae Cypridis pedissequae,</p>
+    <p>Moechia, stuprum, turpitudo, amentia,</p>
+    <p>≤line=1015≥ Incoestus, impudicitia, scurrilitas,</p>
+    <p>Scelus Gomorrae, seminis profusio,</p>
+    <p>Lis, rixa, caedes, livor, aemulatio,</p>
+    <p>Gulae vorago, crapula, impudentia,</p>
+    <p>Mecum colenda quae tibi esse voveris,</p>
+    <p>≤line=1020≥ Haberi amator si fidelis postulas.</p>
+    <p>EURIPUS</p>
+    <p>Visum quid hoc est imperare, Venus, mihi?</p>
+    <p>Vin has adorem daemonum larvas truces?</p>
+    <p>A vertat a me Conditor tantum scelus,</p>
+    <p>Idola caecus ut colam turpissima.</p>
+    <p>VENUS</p>
+    <p>≤line=1025≥ Ah me quousque, stulte, non intelliges?</p>
+    <p>Adolere larvis thura non praescribimus:</p>
+    <p>A te sed ipsas postulamus res coli</p>
+    <p>Ardore mentis, op ere, consuetudine.</p>
+    <p>≤page=136≥</p>
+    <p>≤folio=D8r≥</p>
+    <p>EURIPUS</p>
+    <p>Contaminari grande duce rem nephas,</p>
+    <p>≤line=1030≥ Tot purulentis sordibus libidinum:</p>
+    <p>Amare quanquam, potitare, et ludere,</p>
+    <p>Fervor iuventae concupiscit lubricae.</p>
+    <p>VENUS</p>
+    <p>Alios proinde quaere amores degener,</p>
+    <p>Pavideque miles: non decet te Cypridis</p>
+    <p>≤line=1035≥ Amore posthac glorioso perfrui.</p>
+    <p>EURIPUS</p>
+    <p>Audi venusta quaeso, nec te protinus</p>
+    <p>Irata verbum propter unum hinc proripe.</p>
+    <p>VENUS A</p>
+    <p>liunde quaere quae tibi respondeat.</p>
+    <p>EURIPUS</p>
+    <p>Avertis a me, o pulchra, cur amabilem</p>
+    <p>≤line=1040≥ Placidumque vultum? cur decora lumina?</p>
+    <p>Ah, tam venustam non decet turbarier.</p>
+    <p>VENUS</p>
+    <p>Omitte blandus esse: sic lubet mihi.</p>
+    <p>EURIPUS</p>
+    <p>Ita me superba spernis ergo et abijcis?</p>
+    <p>Ego te vicissim iure floccifecero,</p>
+    <p>≤line=1045≥ Vale ut mereris, meque quum contempseris,</p>
+    <p>Alios proterva quaere, quos irrideas.</p>
+    <p>≤page=138≥</p>
+    <p>VENUS</p>
+    <p>Pernice quamvis aveharis Pegaso,</p>
+    <p>Inefficaces curo nil minacias.</p>
+    <p>Discede vecors quam voles longissimè:</p>
+    <p>≤line=1050≥ Namque hinc vel uno si reeesseris die,</p>
+    <p>Mox huc recurres: teque supplex in manus,</p>
+    <p>Legesque nos tras nil moratus offeres.</p>
+    <p>Spretus rogabis, ad omnia paratissimus,</p>
+    <p>Cervice quae nunc pervicaci respuis.</p>
+    <p>III,2 ≤folio=D8v≥</p>
+    <p>EURIPUS. TEMPUS.</p>
+    <p>≤line=1055≥ Abeamus, almum Tempus, istine ocyus,</p>
+    <p>Postquam superba nos Venus sic despicit.</p>
+    <p>TEMPUS</p>
+    <p>Nimis o libenter: caeterum constantior</p>
+    <p>Euripe fac sis, fluctuare desinens:</p>
+    <p>Properemus oro, ab his locis discedere,</p>
+    <p>≤line=1060≥ Peiora fiant ne prioribus ultima.</p>
+    <p>EURIPUS</p>
+    <p>Et quo, benignum quaeso Tempus, ibimus?</p>
+    <p>TEMPUS</p>
+    <p>Dextrae petamus semitam rursus viae:</p>
+    <p>Dum mitis almum gratiae Tempus tibi</p>
+    <p>Ad poenitendum foeneratur Conditor,</p>
+    <p>≤line=1065≥ (Tibi adfuturum forte vix uno die)</p>
+    <p>Dum poenitenti (noxius sit quamlibet)</p>
+    <p>Veniam est paratus, gratiamque impendere.</p>
+    <p>≤page=140≥</p>
+    <p>EURIPUS</p>
+    <p>Dixti profectò rectè. Idemque suggerit</p>
+    <p>Utcunque iam purgatior mihi spiritus:</p>
+    <p>≤line=1070≥ Sed hanc amoenam quomodo linquam viam?</p>
+    <p>Arctamque rursus ambulabo semitam?</p>
+    <p>TEMPUS Aderit voeatus fidus adiutor Deus,</p>
+    <p>Cuius potenti nil resistit dexterae,</p>
+    <p>Nec iusta dulcis vota contemnet pater.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1075≥ Moremur, oro, ac differamus, o bone,</p>
+    <p>Tanti laboris arduum negotium:</p>
+    <p>Donee molestis expedito angustijs</p>
+    <p>Dextrae libebit ingredi eallem viae.</p>
+    <p>TEMPUS</p>
+    <p>Magis expediret dum lieet procedere,</p>
+    <p>≤line=1080≥ Hîc otiosum quam sedere, et languidum: ≤folio=Ev≥</p>
+    <p>Ne mox Cupido versipellis, ae Venus,</p>
+    <p>Subvertat omne quod boni iam concipis.</p>
+    <p>EURIPUS</p>
+    <p>Nihil est pericli, non movebor, ne time,</p>
+    <p>Mihi nota postquam Cypridis superbia est.</p>
+    <p>≤line=1085≥ Sedeamus hoc paulisper in eonfinio,</p>
+    <p>Hunc ut dolorem taediumque concoquam.</p>
+    <p>≤page=142≥</p>
+    <p>III,3</p>
+    <p>VENUS. CUPIDO.</p>
+    <p>Viden Cupido, noster ille amasius</p>
+    <p>Quantum laboret, quidve secum mussitet?</p>
+    <p>CUPIDO Est nota pulchrè illius inconstantia,</p>
+    <p>≤line=1090≥ Vanoque quam bene nomini respondeat.</p>
+    <p>VENUS</p>
+    <p>Abijsse iam (ni fallor) illum poenitet:</p>
+    <p>Nostrique rursus factus appetentior, A</p>
+    <p>more languet, regredi desyderans.</p>
+    <p>CUPIDO</p>
+    <p>Non est necesse plura, iam curabitur.</p>
+    <p>VENUS</p>
+    <p>≤line=1095≥ Ardere flamma non levi fac perfugam:</p>
+    <p>Cor flagret illi cum medullis intimis,</p>
+    <p>Amore caeco, et perdita libidine.</p>
+    <p>CUPIDO</p>
+    <p>Oleum camino diligenter ingeram.</p>
+    <p>VENUS</p>
+    <p>Est fraudis in me si quid, aut potentiae,</p>
+    <p>≤line=1100≥ Sic fascinabo cordis illi lumina,</p>
+    <p>Ut abdicato, perditoque Tempore,</p>
+    <p>Iaculo inopinae mortis ictus occidat,</p>
+    <p>Omnique nudus charitate, spe, fide,</p>
+    <p>≤page=144≥</p>
+    <p>Optata fiat praeda nostris dentibus.</p>
+    <p>IIl,4 ≤folio=Ev≥</p>
+    <p>EURIPUS. TEMPUS. CUPIDO.</p>
+    <p>≤line=1105≥ Eheu, quid hoc est, quot fatigor praelijs?</p>
+    <p>In corde quanta sentio certamina?</p>
+    <p>Volvo, revolvo, damno, laudo, fluctuo,</p>
+    <p>Nihilque firmi sum potis decernere.</p>
+    <p>O forma pellax, o decora lumina,</p>
+    <p>≤line=1110≥ O verba quovis dulciora nectare,</p>
+    <p>Ubi vos reliqui? cur reces si turbidus?</p>
+    <p>Te quando rursus intuebor et alloquar,</p>
+    <p>Venusta, dulcis, elegans, pulcherrima?</p>
+    <p>CUPIDO</p>
+    <p>Securus esto, mox videbis quam cupis,</p>
+    <p>≤line=1115≥ Non absque grandi sed tuo dispendio.</p>
+    <p>EURIPUS</p>
+    <p>Istisne longum distrahar tumultibus,</p>
+    <p>Angustijsque scrupulosi pectoris?</p>
+    <p>Iacienda praeceps rursus alea est mihi:</p>
+    <p>Redeamus, almum Tempus oro, ad Cypridem.</p>
+    <p>TEMPUS</p>
+    <p>≤line=1120≥ Sic ergo tecum, Euripe, me vis perdere?</p>
+    <p>EURIPUS</p>
+    <p>Meliora posthac spero, nunc flagrans amor</p>
+    <p>Parêre cogit flammeae libidini.</p>
+    <p>≤page=146≥</p>
+    <p>Veni, benignus parcet erranti Deus,</p>
+    <p>Infirmitatis nostrae abunde conscius.</p>
+    <p>CUPIDO</p>
+    <p>≤line=1125≥ Euripe, quis te casus huc recurrere</p>
+    <p>Deusve suasit? iamne coepti poenitet?</p>
+    <p>An forte spinas inter arctae semitae</p>
+    <p>Vis ante canos corpore attrito mori?</p>
+    <p>EURIPUS</p>
+    <p>Abire sane prorsus hinc decreveram</p>
+    <p>≤line=1130≥ Postquam immerentem reppulit me Cypria:
+    ≤folio=E2r≥</p>
+    <p>Horror sed arcti tramitis mox terruit,</p>
+    <p>Volventi amoeni nota callis commoda.</p>
+    <p>CUPIDO</p>
+    <p>O stulte, quanta perdidisti gaudia,</p>
+    <p>Nisi mox redire in gratiam contenderis</p>
+    <p>≤line=1135≥ Cum delicata Cypride, ac placidissima.</p>
+    <p>EURIPUS</p>
+    <p>Cur ergo amantem turbulenta reppulit?</p>
+    <p>≤page=148≥</p>
+    <p>CUPIDO</p>
+    <p>Tua culpa certè: causa tu divortij</p>
+    <p>Tibi factus ipsi: dum freto inconstantior</p>
+    <p>Ob monstra quaedam expalluisti ludicra.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1140≥ Imò execrari digna iure censui,</p>
+    <p>Quae Christianis auribus molesta sunt,</p>
+    <p>Solent nee absque rubore nominarier.</p>
+    <p>CUPIDO</p>
+    <p>Quid Christianos obijcis? nomen quibus</p>
+    <p>Inane foetet, res sed ipsae perplacent.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1145≥ Quaeso patronus sis mihi dulcis puer,</p>
+    <p>Obtemperare sum paratus in omnibus.</p>
+    <p>CUPIDO</p>
+    <p>Securus esto, quod petis confecero,</p>
+    <p>Tantum fidelem te exhibere sis mem or.</p>
+    <p>EURIPUS Pulchram ergo rursus intuebor Cypridem,</p>
+    <p>≤line=1150≥ Pro cordis illi ardore colloquens mei?</p>
+    <p>Vix ipse vota mente iam capio mea.</p>
+    <p>≤page=150≥</p>
+    <p>III,5</p>
+    <p>VENUS. CUPIDO. EURIPUS.</p>
+    <p>Expecto anhela, mox Cupido ut advolet,</p>
+    <p>Bene est, volucri gestiens venit gradu.</p>
+    <p>CUPIDO</p>
+    <p>En quod petebas: flagrat, ardet, aestuat.</p>
+    <p>≤line=1155≥ Tu sic amantem inebria philtris tuis:</p>
+    <p>Ut caecitate pressus interna, nihil</p>
+    <p>Posthac malorum perpetrare exhorreat,</p>
+    <p>Sibique claudat ad salutem semitam.</p>
+    <p>VENUS</p>
+    <p>Adnitar omni fraude, vi, solertia.</p>
+    <p>≤line=1160≥ Tu siste nobis devorandum transfugam.</p>
+    <p>CUPIDO</p>
+    <p>Euripe adesdum, salva iam sunt omnia.</p>
+    <p>Accede supplex, ipsa te Cypris vocat.</p>
+    <p>VENUS Ad nos redire quid te adegit obsecro,</p>
+    <p>Euripe ventis mobilior, et fluctibus?</p>
+    <p>≤line=1165≥ Cur ad superbam tam cito reverteris?</p>
+    <p>≤page=152≥</p>
+    <p>≤folio=E3r≥</p>
+    <p>EURIPUS</p>
+    <p>Placare amica supplicanti servulo,</p>
+    <p>Et ambientem gratiam ne spreveris.</p>
+    <p>Habebis obsequentiorem in omnibus,</p>
+    <p>Hanc si mihi unam noxiam remiseris.</p>
+    <p>VENUS</p>
+    <p>≤line=1170≥ Qui credat istud quaere, vel qui spondeat.</p>
+    <p>Mos namque vobis omnia est promittere,</p>
+    <p>Utique verbis melle dulcioribus,</p>
+    <p>Amore nostri dum caletis improbi:</p>
+    <p>Sed exhibere vix soletis guttulam,</p>
+    <p>≤line=1175≥ Simulatque primus ardor hic deferbuit.</p>
+    <p>EURIPUS</p>
+    <p>Ah cur clienti domina diffidis tuo?</p>
+    <p>Quaeeunque danda poena ob insolentiam est,</p>
+    <p>Paratus adsum perpeti quae iusseris.</p>
+    <p>Hane expiari quo modo vis noxiam?</p>
+    <p>≤line=1180≥ Nihil recuso: quin meipsum in perpetem</p>
+    <p>En servitutem sum paratus tradere. ≤folio=E3r≥</p>
+    <p>Et si quid ipsa durius praescripseris.</p>
+    <p>CUPIDO</p>
+    <p>Audisne mater, hic tuus quid offerat,</p>
+    <p>Et quanta supplex?</p>
+    <p>VENUS</p>
+    <p>Audio: sed interim</p>
+    <p>≤line=1185≥ Ignara non sum, Christiana quam solet</p>
+    <p>Infida nobis esse plebs, et mobilis,</p>
+    <p>≤page=154≥</p>
+    <p>Fidem proinde det necesse, et munera.</p>
+    <p>EURIPUS</p>
+    <p>Quod quaeso munus, quam dari poscis fidem?</p>
+    <p>VENUS</p>
+    <p>Praeibo verbis congeramque pauculis,</p>
+    <p>≤line=1190≥ Nobis quid a te pervelim praestarier:</p>
+    <p>Iurabis ergo te fidelem Cypridi,</p>
+    <p>Quocunque casu, tempore ac loco fore.</p>
+    <p>Et obsequentem iugiter Cupidini,</p>
+    <p>Nullusque quod te a servitute debita</p>
+    <p>≤line=1195≥ Metus, pudorve retrahet, quin omnibus</p>
+    <p>Vijs, modisque utrique nostrum obtemperes.</p>
+    <p>Haec si paratus es mihi promittere,</p>
+    <p>Protende dextram: haec exequi fideliter,</p>
+    <p>Euripe, spondes?</p>
+    <p>EURIPUS</p>
+    <p>Spondeo.</p>
+    <p>VENUS</p>
+    <p>Cedò manum,</p>
+    <p>≤line=1200≥ Haec absque fraude polliceris serio?</p>
+    <p>EURIPUS</p>
+    <p>Promitto, iuro: plurane istis exigis?</p>
+    <p>VENUS</p>
+    <p>Quid verba prosunt? danda rebus est fides,</p>
+    <p>Amorque digno comprobandus munere.</p>
+    <p>EURIPUS ≤folio=E3v≥</p>
+    <p>A me quid o Venus venusta postulas,</p>
+    <p>≤line=1205≥ Qui totus esse gestio, atque sum tuus ?</p>
+    <p>≤page=156≥</p>
+    <p>VENUS</p>
+    <p>Hunc nempe dextra quem manu fers annulum,</p>
+    <p>Radiante gemma, fulvo et auro divitem:</p>
+    <p>Quid ingemiscis atque frontem contrahis?</p>
+    <p>Iactura vilis mordet unius annuli?</p>
+    <p>EURIPUS</p>
+    <p>≤line=1210≥ Non fulgor auri, prima sed movet fides,</p>
+    <p>Desponsa qua mens est supremo principi:</p>
+    <p>Sapphyrus et quod ista coeli est symbolum.</p>
+    <p>Horumne phas me prorsus obliviscier?</p>
+    <p>CUPIDO</p>
+    <p>Contemne vana edentularum somnia,</p>
+    <p>≤line=1215≥ Si vera quaeris gaudia ac praesentia,</p>
+    <p>Tuaeque foelix complacere Cypridi.</p>
+    <p>Aliudne poscis numen, aut coelum miser?</p>
+    <p>EURIPUS</p>
+    <p>Tibi nil negare stat mihi sententia,</p>
+    <p>Postquam decora figis in me lumina.</p>
+    <p>≤line=1220≥ Exile munus, divitem affectum cape,</p>
+    <p>Et si quid iste servus in super potest.</p>
+    <p>CUPIDO</p>
+    <p>Euge, o triumphis digne iam Cupidinis,</p>
+    <p>≤page=158≥</p>
+    <p>Lepidumque serto myrteo cingi caput.</p>
+    <p>VENUS</p>
+    <p>Nunc esse noster serio, Euripe, incipis,</p>
+    <p>≤line=1225≥ Ambire charo non recusans munere</p>
+    <p>Tuae favorem, gratiamque Cypridis.</p>
+    <p>Nos te vicissim, amator ardentissime,</p>
+    <p>Subinde tantis gaudijs explebimus,</p>
+    <p>Ut nulla coeli cura posthac mordeat</p>
+    <p>≤line=1230≥ Desyderatis ebrium complexibus. ≤folio=E4r≥</p>
+    <p>EURIPUS</p>
+    <p>Ah quid moramur ergo, mellitissima,</p>
+    <p>Quod polliceris experiri plenius?</p>
+    <p>Quin hinc abimus potitatum, et currimus,</p>
+    <p>Tam diu cupitis ut fruamur gaudijs?</p>
+    <p>VENUS</p>
+    <p>≤line=1235≥ Hoc in propinquum mox rosetum pergimus</p>
+    <p>Euripe noster, ibique pergraecabimur.</p>
+    <p>Sed restat unum quod rogare gestio:</p>
+    <p>Alatus iste, ubique quem tecum trams,</p>
+    <p>Quis est, et unde? scitus ac mollis puer,</p>
+    <p>≤line=1240≥ Vultu decorus, atque amictu candidus?</p>
+    <p>EURIPUS</p>
+    <p>Tempus solemus nominare gratiae,</p>
+    <p>Munus benigni Conditoris inclytum.</p>
+    <p>VENUS</p>
+    <p>Tam pulcher ergo cum sit, acer, elegans,</p>
+    <p>Hunc expeditum da mihi pedissequum,</p>
+    <p>≤line=1245≥ Servire nostris possit ut convivijs,</p>
+    <p>Amoribusque: ubique et omni tempore</p>
+    <p>≤page=160≥</p>
+    <p>Mihi servus uni. Quid taces et ingemis</p>
+    <p>Periure miles? territus quid fluctuas?</p>
+    <p>Promissa mendax siccine imples splendida?</p>
+    <p>CUPIDO</p>
+    <p>≤line=1250≥ Puerne tanti est hic tibi vilissimus?</p>
+    <p>Nihili iuventus aestimare quem solet,</p>
+    <p>Caussaque (tanquam permolestum) ex qualibet</p>
+    <p>Fastidiose eliminatum perdere.</p>
+    <p>TEMPUS</p>
+    <p>Euripe, summi plasma Regis inclytum,</p>
+    <p>≤line=1255≥ Tam pestilenti iam cave consentias</p>
+    <p>Suggestioni: ne salutis ianuam</p>
+    <p>Tibi ipse claudas, in profundum corruens</p>
+    <p>Iniquitatis caecae, et insatiabilis.</p>
+    <p>VENUS</p>
+    <p>Quid iste nugax machinatur flagrio?</p>
+    <p>≤line=1260≥ Quem mox docebo mussitare et obloqui.</p>
+    <p>Euripe, munus das petitum, an rennuis?</p>
+    <p>EURIPUS Heu me, quid istum blanda deposcis, Venus?</p>
+    <p>Emancipare quem nephas existimo,</p>
+    <p>Magno futurus quod sit usui mihi,</p>
+    <p>≤line=1265≥ Cum poenitentis arma sumam languidus.</p>
+    <p>VENUS</p>
+    <p>Quam stulta mentes saeculares occupat</p>
+    <p>Plerunque (nostris fraudibus) persuasio:</p>
+    <p>≤page=162≥</p>
+    <p>Ut arbitrentur (quamlibet vivant malè)</p>
+    <p>Amarae in ipsa mortis hora, gratiam</p>
+    <p>≤line=1270≥ Se consecuturos, polique gloriam,</p>
+    <p>Modo ingemiscant ante mortem vel semel,</p>
+    <p>Peccare quando non licebit languidis.</p>
+    <p>CUPIDO</p>
+    <p>Fallatur ergo stultus hic mendacijs,</p>
+    <p>In veritate qui manere noluit.</p>
+    <p>VENUS</p>
+    <p>≤line=1275≥ Euripe, quanquam iure possim conqueri,</p>
+    <p>Expostulare, et imperare, te precor,</p>
+    <p>Si pusionem mancipare hunc perpeti</p>
+    <p>Nostrae recusas servituti: at commoda</p>
+    <p>Saltem diebus pauculis, et obsequi</p>
+    <p>≤line=1280≥ Compelle nostris diligenter amoribus:</p>
+    <p>Ego me vicissim dedicabo sic tibi,</p>
+    <p>Euripe dulcis, elegans, pulcherrime, ≤folio=E5r≥</p>
+    <p>Venere ut fruaris liberè ac plenissimè</p>
+    <p>Multos per annos, lustra multa, ac saecula.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1285≥ Habeant sua sibi regna, fasces, purpuras,</p>
+    <p>Gazasque reges: coelitesque sydera:</p>
+    <p>Modà, Venus alma, perfruar te liberè,</p>
+    <p>Amore cuius aestuo medullitus.</p>
+    <p>Accede, charum Tempus, ut pulcherrimae</p>
+    <p>≤line=1290≥ Dominae obsequaris quicquid imperaverit,</p>
+    <p>Gratum venustae te exhibens pedissequum.</p>
+    <p>≤page=164≥</p>
+    <p>TEMPUS</p>
+    <p>Euripe demens, quo feraris prospice.</p>
+    <p>Ego iamne scortis serviam, ac libidini</p>
+    <p>Datus ad salutem, et poenitentiam tibi?</p>
+    <p>≤line=1295≥ Ah cur tonantis maximi gravissimum,</p>
+    <p>Iustissimumque in te furorem provocas?</p>
+    <p>VENUS</p>
+    <p>Quin destinatas ad rosas et lilia,</p>
+    <p>Unguenta, lectos, pocla, nectar pergimus?</p>
+    <p>Euripe, eamus, huc ades pedisseque,</p>
+    <p>≤line=1300≥ Meoque postquam mancipatus usui es,</p>
+    <p>Dominae memento diligenter obsequi:</p>
+    <p>Nam murmurando (crede) nil profeceris.</p>
+    <p>TEMPUS</p>
+    <p>Donec iubebit me Creator omnium:</p>
+    <p>Euripo adesse, illi necesse est serviam:</p>
+    <p>≤line=1305≥ Impune sed me nemo abutitur tamen.</p>
+    <p>VENUS Tace, nee ultra murmurator obstrepe,</p>
+    <p>Placidum et benignum numen est homini Deus</p>
+    <p>Parcens libenter plasmati mitis suo, ≤folio=E5v≥</p>
+    <p>≤page=166≥</p>
+    <p>Euripe, nostram cum cubili regiam</p>
+    <p>≤line=1310≥ Laetus subintra teque da totum mihi,</p>
+    <p>Hic te beatum reddet optatus dies.</p>
+    <p><hi rendition="simple:bold">CHORUS TERTIUS</hi></p>
+    <p>Iambici Trimetri cum Dimetris.</p>
+    <p>Adeste quotquot de ruina proximi</p>
+    <p>Ploratis, ingemiscitis:</p>
+    <p>De caecitate plurimorum flebili</p>
+    <p>≤line=1315≥ Tristem canamus naeniam.</p>
+    <p>≤page=168≥</p>
+    <p>Quem Christianum ad lachrymas non provocent</p>
+    <p>Tot damna spiritalia?</p>
+    <p>Aetatis ipso in flore, quam multi cadunt,</p>
+    <p>Qui non resurgunt amplius ?</p>
+    <p>≤line=1320≥ Peritque Christi sanguis in quam plurimis,</p>
+    <p>Nominetenus fidelibus.</p>
+    <p>Heu quam profundam se iuventus improba</p>
+    <p>Demergit in voraginem?</p>
+    <p>Dei timore dum repulso, crapulae</p>
+    <p>≤line=1325≥ Inservit et libidini.</p>
+    <p>Quot caeca semet ingerit periculis,</p>
+    <p>Amore carnis aestuans.</p>
+    <p>Nil tam pudendum, noxium, foedum, grave,</p>
+    <p>Tentare quod non audeat.</p>
+    <p>≤line=1330≥ Et mille quanquam mortibus dignissima ≤folio=E6r≥</p>
+    <p>Secura carpit gaudia.</p>
+    <p>In omne demens nequiter scelus ruit,</p>
+    <p>Rebus secundis ebria.</p>
+    <p>o lachrymandam caecitatem mentium,</p>
+    <p>≤line=1335≥ O pectoris vecordiam.</p>
+    <p>Sic tempus almum dissipatur gratiae,</p>
+    <p>Venere, fritillo, poculis.</p>
+    <p>Sic forma, vires, mens, iuventa, industria</p>
+    <p>Factis nephandis serviunt.</p>
+    <p>≤line=1340≥ Impoenitentes sic tenet damnabilis Coeli, Deique
+    oblivio.</p>
+    <p>≤page=170≥</p>
+    <p>Sed nulla pestis ita iuventam funditus</p>
+    <p>Corrumpit, urit, enecat,</p>
+    <p>Ut blanda, pellax, compta, duplex, perfida,</p>
+    <p>≤line=1345≥ Et impudica foemina.</p>
+    <p>Quae verba melle dulciora dum rotat</p>
+    <p>Et mente, et ore subdolo,</p>
+    <p>Cor audientis igne adurit impio,</p>
+    <p>Iecur sagitta transigens.</p>
+    <p>≤line=1350≥ Aspectus eius ut venenum reguli</p>
+    <p>Animam sine mora interficit,</p>
+    <p>Virumque (quamvis masculo sit pectore)</p>
+    <p>Enervat omni robore.</p>
+    <p>Quem fascinatum subdolis sermonibus</p>
+    <p>≤line=1355≥ Ad se dolosa pertrahit.</p>
+    <p>Et amore caecum cogit obbrutescere, ≤folio=E6v≥</p>
+    <p>Nihilque pensi ducere,</p>
+    <p>Donec cruentae mortis ictus spiculo</p>
+    <p>Subito in gehennam corruat.</p>
+    <p>≤line=1360≥ Euripus istud exitu verum suo</p>
+    <p>Mox comprobabit improbus.</p>
+    <p>Qui vilis instar bestiae cum vixerit,</p>
+    <p>Carnis sequutus impetum,</p>
+    <p>Haeres tenebit iugis aeternos focos,</p>
+    <p>≤line=1365≥ Damnationis filius.</p>
+    <p>≤page=172≥</p>
+    <p>Quam infaustus ille (quisquis est mortalium)</p>
+    <p>Cui talis instat exitus.</p>
+    <p>Vae, vae supremum non timentibus diem,</p>
+    <p>Iramque vindicis Dei:</p>
+    <p>≤line=1370≥ Qui gloriantur et insolescunt nequiter,</p>
+    <p>Impunè dum malefaciunt:</p>
+    <p>Quum sit voluptas ipsa vix horaria,</p>
+    <p>Aeterna quam mors excipit.</p>
+    <p>Ah, quae tenebrae, quanta nox, et caecitas,</p>
+    <p>≤line=1375≥ Hinc posse cristas tollere!</p>
+    <p>ACTUS EURIPI QUARTUS</p>
+    <p>VENUS. CUPIDO.</p>
+    <p>Collega dormis? acriter fac excubes, ≤folio=E7r≥</p>
+    <p>Ne forte nostros, spiritus de corpore</p>
+    <p>Egressus, ungues possit ulla evadere.</p>
+    <p>Iam finis instat, mors amara in limine est,</p>
+    <p>≤line=1380≥ Sumptura poenas: pruriunt dentes mihi,</p>
+    <p>Hane quando praedam uterque devorabimus.</p>
+    <p>CUPIDO</p>
+    <p>Animo quiesce, quid times periculi?</p>
+    <p>Coeli suique et Conditoris immemor,</p>
+    <p>Amore caecus, ebrius libidine</p>
+    <p>(1385)</p>
+    <p>Iacet sepultus mole consuetudinis.</p>
+    <p>Evadet ille quo modo nostras manus?</p>
+    <p>Quem tot malorum praegravatum sarcina,</p>
+    <p>Vino aestuantem, marcidumque crapula,</p>
+    <p>Incogitantem saeva iam mors opprimet.</p>
+    <p>≤line=1390≥ Crucifixus hunc nec ipse nobis auferat</p>
+    <p>Tam multifario iure Averno debitum.</p>
+    <p>VENUS At scis, ut idem sit potens, ae prodigus</p>
+    <p>≤page=176≥</p>
+    <p>In poenitentes ultimo vel halitu:</p>
+    <p>Et mater eius Tartaro infestissima.</p>
+    <p>CUPIDO</p>
+    <p>≤line=1395≥ Oh, quam fefellit vana spes haec plurimos,</p>
+    <p>Nostrosque fecit: dum latronis dexteri</p>
+    <p>Sibi blandiuntur singulari munere:</p>
+    <p>Mox sicut ille subvolare ad sydera</p>
+    <p>Existimantes, unico suspirio, ≤folio=E7v≥</p>
+    <p>≤line=1400≥ Brevique verbo, quamlibet vivant malè.</p>
+    <p>VENUS</p>
+    <p>Vigilemus ambo diligenter attamen,</p>
+    <p>Ne forte acerba sternitur dum cuspide,</p>
+    <p>Christi repente versus ad clementiam,</p>
+    <p>Crucemque ploret, ingemiscat, eiulet,</p>
+    <p>≤line=1405≥ Nostrisque vel tune eruatur faucibus.</p>
+    <p>CUPIDO</p>
+    <p>Evadat ille tam scelestus, ac putris,</p>
+    <p>A se Timorem qui salubrem reppulit?</p>
+    <p>Ac spem superni stultus adiutorij?</p>
+    <p>Regique frangens debitam suo fidem,</p>
+    <p>≤line=1410≥ Servire Tempus gratiae, libidini</p>
+    <p>Suae coëgit? ebriosus, aleo,</p>
+    <p>Scortator iste quî queat servarier?</p>
+    <p>Potius flagellis Lucifer nos igneis</p>
+    <p>Discerpat ambos, iste quam nequissimus</p>
+    <p>≤line=1415≥ Emergat unquam, gratiam vel impetret.</p>
+    <p>≤page=178≥</p>
+    <p>VENUS</p>
+    <p>At nos inanes distinent dum fabulae,</p>
+    <p>Mors ecce frendens in theatrum prosilit!</p>
+    <p>Age properemus, dividentes munera:</p>
+    <p>Ego hinc resistam, ne qua spes ad languidum</p>
+    <p>≤line=1420≥ Intrare possit, pastor aut fraterculus:</p>
+    <p>Tu a dormientis ne grabato abscesseris,</p>
+    <p>Tacitus sed istic excuba usque ad ultimi</p>
+    <p>Luctam duelli, cordis ante lumina</p>
+    <p>Illi volumen aestuanti hoc ingerens:</p>
+    <p>≤line=1425≥ Scelerum ut suorum fasce perculsus Deo
+    ≤folio=E8r≥</p>
+    <p>Diffidat, omni spe salutis perdita.</p>
+    <p>CUPIDO</p>
+    <p>Vigilemus ambo, nostra dum messis viget:</p>
+    <p>Videamus, illi vana quid prosit fides,</p>
+    <p>(Qua gloriantur improbè nunc plurimi)</p>
+    <p>≤line=1430≥ Christique nomen absque factis congruis.</p>
+    <p>Quid item voluptas, fastus, atque cupiditas,</p>
+    <p>Quae longè amavit, quam Deum ferventius.</p>
+    <p>Mox nosmetipsos huic gehennae filio</p>
+    <p>Hostes apertos ac truces monstrabimus,</p>
+    <p>≤line=1435≥ Quos fraudulenter blandientes audijt.</p>
+    <p>≤page=180≥</p>
+    <p>IV, 2</p>
+    <p>MORS. PESTIS.</p>
+    <p>Urgebit hora quum statuta singulis</p>
+    <p>Ab orbis almo Conditore ac praeside,</p>
+    <p>Omnes choream vos necesse est ultimam</p>
+    <p>Mecum absque cantu fistulaque ducere:</p>
+    <p>≤line=1440≥ Ego mors (quid ipsam proloqui rem differo?),</p>
+    <p>Cuius pavendum nomen omnes territat:</p>
+    <p>Trepidare cogit sed malos potissimum.</p>
+    <p>Ego mors superba principatu nobili</p>
+    <p>Super monarchas, Caesares, et principes,</p>
+    <p>≤line=1445≥ Reges, Tyrannos, praesides, antistites.</p>
+    <p>Ego mors amara, saeva, formidabilis,</p>
+    <p>Minax, saevera, tristis, implacabilis,</p>
+    <p>Quae parco nulli, quisquis est mortalium:</p>
+    <p>Formido nullum, blandiorque nemini.</p>
+    <p>≤line=1450≥ Vitam sed aequa lege cunctis aufero, ≤folio=E8v≥</p>
+    <p>Simulatque summus Imperator iusserit.</p>
+    <p>PESTIS</p>
+    <p>Probabis istud esse mox verissimum,</p>
+    <p>Euripe vecors, insolens, incurie,</p>
+    <p>Longè alia quamvis dormiens nunc somnies.</p>
+    <p>MORS</p>
+    <p>≤line=1455≥ Ego mors ob Adae noxium morsum, truci</p>
+    <p>Morsu nepotes eius omnes mordeo:</p>
+    <p>Multam parentis exigens ab omnibus,</p>
+    <p>Quotquot fuere, sunt, eruntque posteris.</p>
+    <p>≤page=182≥</p>
+    <p>Ego mors, repente quae supinos opprimo,</p>
+    <p>≤line=1460≥ Animamque cogo prosilire ex corpore,</p>
+    <p>Quamvis valente, succulento, vivido.</p>
+    <p>PESTIS</p>
+    <p>Id me frequenter vindicis iussu Dei</p>
+    <p>Trepidum per orbem saeviente innotuit.</p>
+    <p>MORS</p>
+    <p>Ego mors amore, mors favore libera,</p>
+    <p>≤line=1465≥ Nec arma curans, nec preces, nec munera:</p>
+    <p>Prohibere nemo quam potest mortalium,</p>
+    <p>Stato reposcam quin meum ius tempore,</p>
+    <p>Annosa sicut monstrat experientia.</p>
+    <p>IV, 3</p>
+    <p>TEMPUS. MORS. CUPIDO. PESTIS.</p>
+    <p>Labore fessum servitutis improbae</p>
+    <p>≤line=1470≥ Prodire mortis admonet vox horrida:</p>
+    <p>Spero iubebit me brevi hinc discedere,</p>
+    <p>Posthac fideli, ac iustiori ut serviam.</p>
+    <p>MORS</p>
+    <p>Haec ipsa vobis nota mortales licet,</p>
+    <p>Crebrisque pulchrè sint periclis cognita,</p>
+    <p>≤line=1475≥ Factis negatis attamen vos credere, ≤folio=Fr≥</p>
+    <p>Tam eriminosi, tam scelesti vivitis:</p>
+    <p>≤page=184≥</p>
+    <p>Faciam proinde notius quod assero,</p>
+    <p>Indormientem dum vagae libidini</p>
+    <p>Hunc ganeonem nil morata oppressero.</p>
+    <p>TEMPUS lamentabiliter.</p>
+    <p>≤line=1480≥ Heu plasma summi Regis olim nobile,</p>
+    <p>Illustre semen Conditoris omnium,</p>
+    <p>Quibus inquinatum fecibus nunc hîc iaces,</p>
+    <p>Foetore putens crapulae ac libidinis.</p>
+    <p>Hei quanta clades dormienti, quae lues</p>
+    <p>≤line=1485≥ A mortis instat horridae pedissequa?</p>
+    <p>MORS ferociter ut omnia.</p>
+    <p>Hîc te apprehendo sordido in gurgustio,</p>
+    <p>Factura magni Conditoris inclyta:</p>
+    <p>Haeres futura sempiternae gloriae,</p>
+    <p>Perambulasses dexteram si semitam:</p>
+    <p>≤line=1490≥ Nunc mortis autem, Tartarique filia,</p>
+    <p>Dum plus futuris diligis praesentia.</p>
+    <p>Euripe dormis ? vanitate saeculi</p>
+    <p>Inebriatus, ac tot obsitus malis,</p>
+    <p>In morte faxo mox perenni obdormias.</p>
+    <p>TEMPUS</p>
+    <p>≤line=1495≥ Ah, caeca quali nocte mens est obruta,</p>
+    <p>Dei suique facta prorsus immemor :</p>
+    <p>Sed fascinatam falsa quam suavitas</p>
+    <p>Effoeminavit, inquinavit, perdidit,</p>
+    <p>Mortis cruentae dira mox vexatio</p>
+    <p>≤page=186≥</p>
+    <p>≤line=1500≥ Sentire coget, quod cavere noluit.</p>
+    <p>CUPIDO ≤folio=Fv≥</p>
+    <p>Opera ista nostra, nos ad hanc vecordiam,</p>
+    <p>Ac caecitatem mentis hunc perduximus:</p>
+    <p>Nostrum proinde trade nobis militem,</p>
+    <p>Et morte dignum duplici, Mors, eneca.</p>
+    <p>MORS</p>
+    <p>≤line=1505≥ Tibi mos geretur (nam quod aequum est postulas),</p>
+    <p>Ubi fila Parcae legerint fatalia:</p>
+    <p>At nunc priusquam hunc carne solvam noxia,</p>
+    <p>Praecurre, morbos inter omnes unicè</p>
+    <p>Dilecta nobis, Pestis inguinaria,</p>
+    <p>≤line=1510≥ Tristique profer de pharetra spiculum</p>
+    <p>Letale, pernix, acre, limatissimum,</p>
+    <p>Quod sic nepotis urat huius intima,</p>
+    <p>Mihi mox regressae pendat ut ius debitum.</p>
+    <p>PESTIS</p>
+    <p>Hera nil morabor, quod petis curabitur.</p>
+    <p>≤page=188≥</p>
+    <p>≤folio=F2r≥</p>
+    <p>uvin Brecht, Etlripus, v. 1515-1531</p>
+    <p>IV, 4</p>
+    <p>PESTIS. EURIPUS. TEMPUS. CUPIDO.</p>
+    <p>≤line=1515≥ Euripe, tandem dormiendi sit modus,</p>
+    <p>Lasciviendi, potitandi, nam tibi</p>
+    <p>(Vitae peracta corporalis fabula)</p>
+    <p>Hoc exeundum de theatro est ocyus.</p>
+    <p>Iam somniatum plus satis: mors advenit,</p>
+    <p>≤line=1520≥ Peccata clamant, ultionemque exigunt.</p>
+    <p>Instant cruenti daemones, Christus iubet,</p>
+    <p>Lethalis ictum morbi acerbum suscipe.</p>
+    <p>EURIPUS expergiscens et attonitus.</p>
+    <p>Hei corpus intus quomodo immutarier</p>
+    <p>Ardore febris pestilente sentio?</p>
+    <p>≤line=1525≥ Invasit aegrum quis tremor? quae angustiae</p>
+    <p>Horrore mortis commoventes viscera?</p>
+    <p>Hui, tibi quid, Euripe, conti git novi?</p>
+    <p>Languore totus quod fatiscis pessimo?</p>
+    <p>Caput gravatur mole quanta languidum?</p>
+    <p>≤line=1530≥ Vomitu levare nauseam cogor gravi:</p>
+    <p>Unde iste (miror) casus evenit mihi,</p>
+    <p>≤page=190≥</p>
+    <p>Sopore longo cocta quum sit crapula.</p>
+    <p>PESTIS</p>
+    <p>Quia ebibisti delicatam scilicet</p>
+    <p>Iam potionem, et efficacem, et fervidam,</p>
+    <p>≤line=1535≥ Quae vi potentis pharmaci, te protinus</p>
+    <p>Animam nocentem coget eiacularier.</p>
+    <p>EURIPUS</p>
+    <p>Praestat tepente confoveri lectulo,</p>
+    <p>Si mitigari possit insuetus dolor.</p>
+    <p>Sed triste quidnam vult sibi silentium?</p>
+    <p>≤line=1540≥ Ubi Venus et Cupido? scorta et pocula?</p>
+    <p>Ubi combibones ac iuventus lubrica?</p>
+    <p>Hk solus ergo derelinquor ab omnibus</p>
+    <p>Notis, amicis, proximis, aequalibus?</p>
+    <p>TEMPUS</p>
+    <p>Ah spiritali nuda pulchritudine,</p>
+    <p>≤line=1545≥ Mens caeca, quantis es tenebris obruta?</p>
+    <p>Quae carnis atque saeculi sunt cogitans,</p>
+    <p>Cum sis gehennae faucibus iam proxima:</p>
+    <p>Quin hoc amaris stulta defles lachrymis,</p>
+    <p>Inimica summi quod tonantis, hinc statim</p>
+    <p>≤line=1550≥ Rapieris, illius ad tribunal iudicis,</p>
+    <p>Qui cuncta novit, nilque inultum praeterit.</p>
+    <p>EURIPUS ≤folio=F2v≥</p>
+    <p>Heu quam repente versa sunt nunc omnia:</p>
+    <p>lngens voluptas, in dolores maximos:</p>
+    <p>Risus, iocique, tristia in suspiria:</p>
+    <p>≤line=1555≥ Tranquilla acerbos in metus securitas.</p>
+    <p>Hei quid futurum, siccine affligar diu?</p>
+    <p>≤page=192≥</p>
+    <p>Per prata rursus quando eurram florida?</p>
+    <p>Diesque luxu poeulisque transigam?</p>
+    <p>TEMPUS Pro, quanta caeco vanitas in pectore</p>
+    <p>≤line=1560≥ Instante mortis adhue agone permanet?</p>
+    <p>Quin ingemiseens eiulansque hoc eogitas,</p>
+    <p>Euripe, sit ubi vestis innocentiae?</p>
+    <p>Qua te lavacri per potentis gratiam</p>
+    <p>Speciosus ille sponsus exornaverat.</p>
+    <p>≤line=1565≥ Ah, quale passus, stulte, tunc dispendium es,</p>
+    <p>Hanc perdidisti nuptialem cum stolam,</p>
+    <p>Sine qua superni Regis es eonvivio</p>
+    <p>Indignus: Agni nee fruêre nuptijs.</p>
+    <p>CUPIDO</p>
+    <p>Haec nostra foelix praeda iam pridem fuit,</p>
+    <p>≤line=1570≥ Abstulimus omnia qui monilia improbo.</p>
+    <p>TEMPUS</p>
+    <p>Quam vilis, ineonsulte, faetus es nimis:</p>
+    <p>Timore pulso, prostituto Tempore,</p>
+    <p>Te sponte tradens hostibus teterrimis:</p>
+    <p>Tibi abstulerunt dona qui ditissima,</p>
+    <p>≤page=194≥</p>
+    <p>≤line=1575≥ Metum, pudorem, charitatem, spem, fidem,</p>
+    <p>Omnique nudum reddidêre gloria.</p>
+    <p>EURIPUS</p>
+    <p>Eheu quis aegris ardor in venis furit?</p>
+    <p>Flaccesco totus, totus intus ardeo, ≤folio=F3r≥</p>
+    <p>Nimiaeque pectus strangulant angustiae,</p>
+    <p>≤line=1580≥ Par esse tantis non queo ultra incendijs,</p>
+    <p>Ad cordis arcem permeante iam malo.</p>
+    <p>TEMPUS</p>
+    <p>Vah, credula et caduca sp es mortalium,</p>
+    <p>Quam fraudulenter plurimos nunc decipis?</p>
+    <p>Heu, quo iuventus insolens evanuit ?</p>
+    <p>≤line=1585≥ Quo robur acre et spiritus sublimitas ?</p>
+    <p>Decorque fallax corporis pulcherrimi?</p>
+    <p>Exanguis ecce mem bra pallor occupat,</p>
+    <p>Exhausta morbi unius horae ardoribus.</p>
+    <p>PESTIS</p>
+    <p>Virtutis haec est summa nostrae gloria,</p>
+    <p>≤line=1590≥ Qua corpus et cor frangimus mortalium.</p>
+    <p>EURIPUS</p>
+    <p>Scelerata Pestis, dira, sanguinaria,</p>
+    <p>Quid in iuventam sic cruenta perfuris ?</p>
+    <p>Senes nec istos iam sepulchro proximos</p>
+    <p>Cadaverosis antè membris exuis,</p>
+    <p>≤line=1595≥ Quibus onerosa est vita plena doloribus.</p>
+    <p>TEMPUS</p>
+    <p>Notate caeci quaeso carnis amasij,</p>
+    <p>Censura summi quam sit aequa iudicis:</p>
+    <p>Scelestus is te nunc sui obliviscitur,</p>
+    <p>Damnationi proximus et impoenitens,</p>
+    <p>≤page=196≥</p>
+    <p>≤line=1600≥ Robustus olim qui valenti corpore</p>
+    <p>Oblitus est autoris ingratus sui,</p>
+    <p>Leve placidumque ferre pertaesus iugum,</p>
+    <p>Dulcisque Iesu legibus se sub de re.</p>
+    <p>PESTIS ≤folio=F3v≥</p>
+    <p>Feret proinde vincla Ditis ignea,</p>
+    <p>≤line=1605≥ Imam retrusus in cloacam Tartari.</p>
+    <p>EURIPUS</p>
+    <p>Quae lerna adustis saevit in praecordijs,</p>
+    <p>Exhausta flammis membra torrens impijs?</p>
+    <p>Hinc inde quantum tubera et carbunculi</p>
+    <p>Glandesque torquent aestuantem fervidae.</p>
+    <p>≤line=1610≥ Quid hoc, quod aeger halitus me deficit?</p>
+    <p>Erumpit unde su dor is te frigidus?</p>
+    <p>Sunt dira mortis nunquid haec praesagia?</p>
+    <p>Potest iuventus multa sed fortis pati,</p>
+    <p>Nec tam repente, spero, succumbet ned.</p>
+    <p>PESTIS</p>
+    <p>≤line=1615≥ Spiritus anhelo erumpit aegre a pectore,</p>
+    <p>Oculi, genaeque conddunt, nares rigent,</p>
+    <p>Vitaeque cuncta adesse finem praedicant.</p>
+    <p>≤page=198≥</p>
+    <p>LeVitl Brecht, Euripus, v. 1618-1627</p>
+    <p>Morti proinde haec nuncianda sedulò,</p>
+    <p>Exile stamen vitae ut ipsa dissecet.</p>
+    <p>IV, 5</p>
+    <p>MORS. PESTIS.</p>
+    <p>≤line=1620≥ Ecquid moratur Pestis ad me regredi,</p>
+    <p>Ab hoc tributum pestilente ut exigam?</p>
+    <p>PESTIS</p>
+    <p>Domina, peregi strennuè quod iusseras.</p>
+    <p>MORS</p>
+    <p>Igitur scelestus ille iam paratus est,</p>
+    <p>Legale nobis debitum persalvere ?</p>
+    <p>PESTIS</p>
+    <p>≤line=1625≥ Accede quando collubebit: nam levi</p>
+    <p>Ictu, manuque languidum confeceris.</p>
+    <p>MORS</p>
+    <p>I prae, citatis consequar mox gressibus.</p>
+    <p>≤page=200≥</p>
+    <p>EURIPUS. PESTIS. CUPIDO. TEMPUS. ≤folio=F4r≥</p>
+    <p>Heu me, quiete perfrui nulla queo</p>
+    <p>Exhaustus aegrum corpus igne hoc pessimo,</p>
+    <p>≤line=1630≥ Nec magna restat spes salutis languido,</p>
+    <p>Grassante morbo cordis in vitalia.</p>
+    <p>Maledicta pestis, mene compelles mori</p>
+    <p>Iuventae in ipso flore tam crudeliter?</p>
+    <p>Rictu ferus te Cerberus deglutiat,</p>
+    <p>≤line=1635≥ Immitis, atrox, impudens, venefica.</p>
+    <p>PESTIS</p>
+    <p>Convitiare, tumultuare, clamita,</p>
+    <p>Quantum libebit ac licebit improbe.</p>
+    <p>Nam mox quiesces totus ac domabere,</p>
+    <p>Dignasque nobis morte iam poenas dabis.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1640≥ Salutis ergo nulla spes ostenditur?</p>
+    <p>Nee liberare morbidum quisquam potest</p>
+    <p>Ab execrandis Pestis atrae incendijs?</p>
+    <p>Poterit sed istud quo modo cor emori?</p>
+    <p>Eheu meatus vocis intercluditur:</p>
+    <p>≤page=202≥</p>
+    <p>≤line=1645≥ Vix pauca possum verba anhelans proloqui.</p>
+    <p>CUPIDO</p>
+    <p>Extremus instat nunc agon, nam spiritus</p>
+    <p>Et aegra vox magis magisque deficit.</p>
+    <p>Est iam mearum partium catastrophen</p>
+    <p>Desyderatam ludo amoeno imponere.</p>
+    <p>≤line=1650≥ Ipsum proinde me scelesto ostendero</p>
+    <p>Vultu feroci, serio ac Satanico.</p>
+    <p>EURIPUS animam agens, lente ergo, difficulter et
+    lamentabiliter.</p>
+    <p>Heu quae tenebrae, quantus horror irruit,</p>
+    <p>Quae punctiones cor fatiscens lancinant: ≤folio=F4v≥</p>
+    <p>Ah flos iuventae, iamne compellar mori?</p>
+    <p>≤line=1655≥ Blandumque quicquid fuit, et est, relinquere?</p>
+    <p>o dulce lumen, iamne cogar emori:</p>
+    <p>Qui multa lustra adhuc putabam vivere?</p>
+    <p>Heu vita fallax, quo modo brevissimi</p>
+    <p>Evanuisti prorsus instar somnij?</p>
+    <p>≤page=204≥</p>
+    <p>≤line=1660≥ Valete, blandis cum iocis et osculis</p>
+    <p>Lusus, amores, combibones, pocula,</p>
+    <p>Mundusque dulce quicquid iste continet.</p>
+    <p>CUPIDO</p>
+    <p>Ergo otiose adhuc lubet nugarier?</p>
+    <p>AHa urget ecce res agenda serio:</p>
+    <p>≤line=1665≥ In hoc studendum est iam tibi volumine,</p>
+    <p>Quod negligenter hactenus scrutatus es.</p>
+    <p>EURIPUS</p>
+    <p>Atat: draconem hic conspicio teterrimum,</p>
+    <p>Qui me vorare gHscit atris faucibus,</p>
+    <p>Volumen ingens explicans, in quo meae</p>
+    <p>≤line=1670≥ Peccata vitae scripta totius tenet:</p>
+    <p>Hei, quo reflectam corpus, hunc ne conspicer?</p>
+    <p>CUPIDO</p>
+    <p>Sperare quid vis? non mereris gratiam:</p>
+    <p>Agnosce quanta feceris miser mala.</p>
+    <p>≤page=206≥</p>
+    <p>Quid membra grandi cum tremore, lectuli,</p>
+    <p>≤line=1675≥ Nequicquam ad omnem palpitans partem rapis?</p>
+    <p>Quid clausa frustra flectis a me lumina?</p>
+    <p>Veni, memento iam diu quod noster es.</p>
+    <p>EURIPUS</p>
+    <p>Hei, quam mihi prae sens adest periculum:</p>
+    <p>Quam triste monstrum, quam cruenta bellua: ≤folio=F5r≥</p>
+    <p>≤line=1680≥ Utinam camino vel recondar flammeo,</p>
+    <p>Modo ne draconem hunc cogar intuerier.</p>
+    <p>CUPIDO</p>
+    <p>Maledicte, vilis, reprobande spiritus,</p>
+    <p>Properanter ad nos quid moraris egredi?</p>
+    <p>Veni, vel istis extraheris unguibus.</p>
+    <p>EURIPUS</p>
+    <p>≤line=1685≥ Despero iam, despero, ne me ultra preme,</p>
+    <p>Tibi me vorandum liberè mox offeram:</p>
+    <p>Scelerum meorum mole nam pressus gravi,</p>
+    <p>Diffido posse consequi indulgentiam.</p>
+    <p>≤page=208≥</p>
+    <p>TEMPUS</p>
+    <p>Vae tibi proinde vilis ae miserrime,</p>
+    <p>≤line=1690≥ Vitae quod unquam spiritum receperis:</p>
+    <p>Ingrate plagis Christi Iesu ae sanguini.</p>
+    <p>IV, 7</p>
+    <p>MORS. TEMPUS. EURIPUS.</p>
+    <p>Extremus horae punctus instat ultimae,</p>
+    <p>Transire nulli quem lieet mortalium.</p>
+    <p>Ubi est prophanus ille mortis debitor?</p>
+    <p>TEMPUS</p>
+    <p>≤line=1695≥ Mors appropinquat, cogar hunc relinquere</p>
+    <p>Virtute nudum, destitutum gratia,</p>
+    <p>Totumque foedis inquinatum sordibus:</p>
+    <p>Fretus iuventae qui fugacis robore</p>
+    <p>Adhue putabat vivere annos plurimos:</p>
+    <p>≤line=1700≥ Quam fluxa spes et vota sunt mortalium.</p>
+    <p>MORS</p>
+    <p>Discede, Tempus, a nepote hoc putido,</p>
+    <p>Veneri coëgit obsequi qui te suae:</p>
+    <p>A servitute te pudenda liberat</p>
+    <p>Summus Monarcha, cede, da locum mihi. ≤folio=F5v≥</p>
+    <p>≤page=210≥</p>
+    <p>TEMPUS discedens.</p>
+    <p>≤line=1705≥ Euripe, dira nunc tibi nox imminet,</p>
+    <p>Cum Tempus a te gratiae subducitur.</p>
+    <p>EURIPUS</p>
+    <p>Heu me, quod orbem cogor hunc relinquere,</p>
+    <p>Quo post pusillum abiturus hinc sim nesciens.</p>
+    <p>Iuvenile quanto cor pavore stringitur,</p>
+    <p>≤line=1710≥ (Ac si molares comprimant illud duo)</p>
+    <p>Aeterna dum nunc intuetur saecula,</p>
+    <p>Quae praevidere huc usque demens noluit:</p>
+    <p>Hei mors amara, saeva, tristis, horrida.</p>
+    <p>MORS</p>
+    <p>Orco licebit hanc quaerelam exponere:</p>
+    <p>≤line=1715≥ Nunc digna su me criminum stipendia:</p>
+    <p>Euripe, Tempus gratiae iam evanuit,</p>
+    <p>Vitalis humor cum calore exhaustus est:</p>
+    <p>≤page=212≥</p>
+    <p>≤folio=F6r≥</p>
+    <p>Decede vita, nox adest, lux occidit. Lethalis haec te plaga
+    corpore exuat.</p>
+    <p>EURIPUS moriens.</p>
+    <p>≤line=1720≥ Natura victa est, mens hebet, cor deficit,</p>
+    <p>Sic mors amara stringis, urges, strangulas?</p>
+    <p>IV, 8</p>
+    <p>CUPIDO. VENUS.</p>
+    <p>Io triumphe: vah doli et fallaciae,</p>
+    <p>Suggestiones subdolae, ac mendacia,</p>
+    <p>Quibus tot Orco Christianos tradimus,</p>
+    <p>≤line=1725≥ Io triumphe: gloriose vicimus:</p>
+    <p>Optata crebris praeda votis obtigit.</p>
+    <p>Collega nequam, quid moraris? advola,</p>
+    <p>Animam scelestus iste tandem reddidit.</p>
+    <p>VENUS ≤folio=F6r≥</p>
+    <p>Adsum paratus mortuum discerpere,</p>
+    <p>≤line=1730≥ Saevire flagris, igne, morsu, et unguibus,</p>
+    <p>Euge, euge, dereliquit hunc iustus Deus:</p>
+    <p>Deditque nostris devorandum dentibus.</p>
+    <p>≤page=214≥</p>
+    <p>Age, exigamus debitas ab improbo</p>
+    <p>Lurcone poenas, vapulet durissimè,</p>
+    <p>≤line=1735≥ Gravibus flagellis, plaga et insanabili,</p>
+    <p>Hinc in profundum detrahetur Tartari.</p>
+    <p>CUPIDO</p>
+    <p>Sed antè vinclis colligetur igneis,</p>
+    <p>Irrideamus ut ligatum liberè.</p>
+    <p>VENUS</p>
+    <p>En qualem amicis reddimus nostris vicem,</p>
+    <p>≤line=1740≥ Simulatque plena contigit victoria!</p>
+    <p>Nonne absque mente sunt et insanissimi,</p>
+    <p>Quicunque nostris se capi dolis sinunt?</p>
+    <p>IV, 9</p>
+    <p>MORS. PESTIS.</p>
+    <p>OpUS peractum muneris nunc est mei,</p>
+    <p>Exangue corpus foetidumque humi iacet,</p>
+    <p>≤line=1745≥ Brevi futurum putris es ca vermium:</p>
+    <p>Animam cruenti vendicant sibi canes,</p>
+    <p>Rapiunt, trahuntque cum furore et lancinant.</p>
+    <p>Haec non videtis, homunciones improbi?</p>
+    <p>Nil vos scelesti terret huius exitus?</p>
+    <p>≤line=1750≥ Similemque finem nemo formidat sibi?</p>
+    <p>≤page=216≥</p>
+    <p>PESTIS</p>
+    <p>Leviter moventur scilicet periculo,</p>
+    <p>Flagroque solis hauriunt quod auribus</p>
+    <p>Oculisque, donec nil mali ipsi sentiunt:</p>
+    <p>Ego sola penè sum timori ineredulis, ≤folio=F6v≥</p>
+    <p>≤line=1755≥ Saevire totam cum per urbem quampiam</p>
+    <p>Ardore diro, et strage multa eoepero:</p>
+    <p>Tunc mors timetur, supplices tunc ambiunt</p>
+    <p>Metu coacti vindicis pacem Dei,</p>
+    <p>Ad mitiora qui flagella dormiunt.</p>
+    <p>MORS</p>
+    <p>≤line=1760≥ Ridenda sanè reproborum caecitas,</p>
+    <p>Quasi mille non sint tela mihi certissima,</p>
+    <p>Quibus oscitantes tollere usque sueverim.</p>
+    <p>Sint ista vobis ergo quum notissima,</p>
+    <p>Homunciones imbecilli, ephemeri,</p>
+    <p>≤line=1765≥ (Exempla quippe quorum ubique plurima,</p>
+    <p>Modo non diebus singulis sunt obvia)</p>
+    <p>Quae tanta caecos possidet securitas:</p>
+    <p>Ut ganeones, ebriosos, impios,</p>
+    <p>Molles, superbos, invidos, adulteros</p>
+    <p>≤line=1770≥ Ex Christianis opprimam quam plurimos:</p>
+    <p>Ipsoque quo iam transeundum hinc tempore,</p>
+    <p>Baccho litantes: nee secus pecuniae</p>
+    <p>Studio occupatos, deditosque amoribus,</p>
+    <p>Ac si a tributo mortis essent liberi?</p>
+    <p>≤page=218≥</p>
+    <p>PESTIS</p>
+    <p>≤line=1775≥ Quia corde toto effusi ad ista terrea,</p>
+    <p>Carnisque curam et vanitates noxias</p>
+    <p>Meminisse nolunt, heu quot in periculis</p>
+    <p>Damnationis iugiter vivant suae:</p>
+    <p>Quae si viderent, seduloque expenderent,</p>
+    <p>≤line=1780≥ Aliam salutis curam haberent propriae.
+    ≤folio=F7r≥</p>
+    <p>MORS</p>
+    <p>Vah caeca, surda, et infidelis natio,</p>
+    <p>Quae penè solo Christiana es nomine,</p>
+    <p>Cur ultionem vindicis duram Dei</p>
+    <p>Nunc providere negligis et evadere?</p>
+    <p>≤line=1785≥ Donec benignus hic pater te sustinet,</p>
+    <p>Tribuitque larga ad poenitendum tempora.</p>
+    <p>An forte nostra non pavescis spicula,</p>
+    <p>Patienter ille quod malignos toleret?</p>
+    <p>Ecquid putatis improbi atque increduli,</p>
+    <p>≤line=1790≥ Possitis istas quod manus evadere?</p>
+    <p>Ad vos venire differam quod longius?</p>
+    <p>Veniam profecto qua die non creditis,</p>
+    <p>Atraeve noctis horrido in silentio.</p>
+    <p>Veniam (pavete) tempore incertissimo:</p>
+    <p>≤line=1795≥ Sicut profunda nocte fures assolent.</p>
+    <p>≤page=220≥</p>
+    <p>Et dum videbor adhuc abesse longius,</p>
+    <p>Incogitantes imparatos opprimam.</p>
+    <p>PESTIS Istis profectò verius nihil minis:</p>
+    <p>Euripi acerba mors abunde ut indicat:</p>
+    <p>≤line=1800≥ Similem proinde metuat exitum sibi,</p>
+    <p>Vitijs eisdem quisquis est obnoxius.</p>
+    <p>MORS</p>
+    <p>Beatus ergo, me locis in omnibus</p>
+    <p>Quicunque alacri spiritu expectat: vigil</p>
+    <p>Rigidusque cordis lubrici atque sensuum</p>
+    <p>≤line=1805≥ Custos suorum: ex intimis praecordijs</p>
+    <p>Timens, honorans, diligens Deum suum: ≤folio=F7v≥</p>
+    <p>Illi secunda mors nocere non potest.</p>
+    <p>≤page=222≥</p>
+    <p><hi rendition="simple:bold">CHORUS QUARTUS</hi></p>
+    <p>Asclepiadaea.</p>
+    <p>Quae mentes hominum, quantaque nox premit,</p>
+    <p>Quam caeci, stolidi, quam miseri sumus,</p>
+    <p>≤line=1810≥ Tam raro memores ex animo ultimae</p>
+    <p>Horae, iudicij, et flammivomae Stygis.</p>
+    <p>Obliti superûm mortis et inferûm,</p>
+    <p>Nugamur posita solicitudine:</p>
+    <p>Largita ad meritum tempora gratiae,</p>
+    <p>≤line=1815≥ Ludis, nequitia, perdimus ac iocis.</p>
+    <p>Accensi rabie non satiabili</p>
+    <p>Nullo congerimus Ene pecuniam:</p>
+    <p>In summis inopes divitijs tamen,</p>
+    <p>Nunquam desinimus plura requirere.</p>
+    <p>≤line=1820≥ Captandis avido pectore honoribus</p>
+    <p>Intenti, appetimus grandia munia:</p>
+    <p>Ut clari strepitu nominis inclyti</p>
+    <p>Pascamur sonitu praecipitis Noti.</p>
+    <p>At nos dum Venerem, pocuia, gloriam</p>
+    <p>≤line=1825≥ Sectamur cupidi, dum bona plurima:</p>
+    <p>Incautos rapido mors sequitur gradu,</p>
+    <p>Quae nos spe citius sternit et enecat.</p>
+    <p>Vae qui iudicij non metuunt diem,</p>
+    <p>Addicti studijs pectora frivolis.</p>
+    <p>≤line=1830≥ Vae quos hinc rapiet mors subitanea, ≤folio=F8r≥</p>
+    <p>Immersos Veneri, delitijs, mero.</p>
+    <p>Expectat miseros mors etenim altera,</p>
+    <p>Quae nullo inveniet tempore (pró dolor)</p>
+    <p>Finem vel requiem: sed reprobum gregem</p>
+    <p>≤line=1835≥ Coget perpetuis vivere in ignibus.</p>
+    <p>≤page=224≥</p>
+    <p>Fundamus lachrymas, ae gemitus preeor,</p>
+    <p>Fratres, si sapimus, crebrius et graves:</p>
+    <p>Tam grandis pavidi mole periculi,</p>
+    <p>Quod multis hominum millibus imminet.</p>
+    <p>≤line=1840≥ Mors, quaeso, doceat nos miserabilis</p>
+    <p>Euripi sapere ae prospicere ocyus,</p>
+    <p>In vitae maneant fine quot impios</p>
+    <p>Pressurae, stimuli, praelia, verbera.</p>
+    <p>Nam qui nune refugit mente revolvere</p>
+    <p>≤line=1845≥ Impendens animae iudicium suae,</p>
+    <p>Nec ponit gravibus criminibus modum:</p>
+    <p>Hunc tandem horribilis perditio opprimet.</p>
+    <p>ACTUS EURIPI QUINTUS</p>
+    <p>ANIMA EURIPI</p>
+    <p>Foeda, execranda et omnium miserrima</p>
+    <p>Vixêre quotquot in caduco corpore,</p>
+    <p>≤line=1850≥ Quo sum redacta, quidve primum conquerar?</p>
+    <p>Ubi sum? vel unde lapsa in has angustias, ≤folio=F8v≥</p>
+    <p>Quas nulla plenè lingua posset eloqui?</p>
+    <p>Incogitanti quid malorum contigit?</p>
+    <p>Quis credat unquam? imaginari vel queat,</p>
+    <p>≤line=1855≥ Aut suspicari, quos dolores perferam?</p>
+    <p>Timor, tremorque exaestuantis Tartari</p>
+    <p>In me repente deciderunt anxiam.</p>
+    <p>Ah, quid futurum, vel quid accidit mihi?</p>
+    <p>Quod asto nuda, vincta, foetens, horrida,</p>
+    <p>≤line=1860≥ Confusa, moerens, ac malis plenissima.</p>
+    <p>Nunquid furentis iam gehennae carceri</p>
+    <p>Sum destinata, nulla sp es ut sit super?</p>
+    <p>An fortè pressa febre, dira somnio,</p>
+    <p>Uti frementes assolent phrenetici?</p>
+    <p>≤line=1865≥ Aliena saevus co git heu dolor loqui.</p>
+    <p>≤page=228≥</p>
+    <p>Nam vincit omne poena quam nunc perfero</p>
+    <p>Humani acumen spiritus longè ac fidem.</p>
+    <p>Ah cur apertam veritatem supprimo?</p>
+    <p>Adiudicata Tartaro miserrima,</p>
+    <p>≤line=1870≥ Damnata sum, damnata sum, damnata sum,</p>
+    <p>Nec spes salutis ulla restat amplius.</p>
+    <p>Heu cur supremus me Monarcha condidit?</p>
+    <p>Christus redemit, tinxit, unxit, abluit,</p>
+    <p>In igne cogar si perenni vivere?</p>
+    <p>≤line=1875≥ Quid, Chris te, prodest passio mihi tua,</p>
+    <p>Orbata quum sim visione, patria,</p>
+    <p>Haereditate, adoptione, gloria: ≤folio=Gr≥</p>
+    <p>Et in gehennae sit necesse stridulis</p>
+    <p>Posthac morari perpetim doloribus.</p>
+    <p>V,2</p>
+    <p>CUPIDO. VENUS. ANIMA.</p>
+    <p>≤line=1880≥ Cur hanc scelestam (quaeso te) permittimus</p>
+    <p>Sermocinari, ac feriari tam diu?</p>
+    <p>Tormenta uterque digna quin infligimus?</p>
+    <p>VENUS</p>
+    <p>Morare quaeso, ut ore se damnet suo,</p>
+    <p>Sibique luctum conquerendo exaggeret.</p>
+    <p>≤page=230≥</p>
+    <p>ANIMA</p>
+    <p>≤line=1885≥ Heu me, quid egi stulta, quam demens fui,</p>
+    <p>A me Timorem dum magistrum reppuli,</p>
+    <p>Ultra regendum me offerens Cupidini.</p>
+    <p>Vah spurca, mendax, foetida, execrabilis</p>
+    <p>Dulcedo semper famelicae libidinis:</p>
+    <p>≤line=1890≥ Ad quas misellam duxti amaritudines!</p>
+    <p>CUPIDO</p>
+    <p>Haec si ante mortem cogitasses sedula,</p>
+    <p>Elapsa nostras forsitan manus fores.</p>
+    <p>ANIMA</p>
+    <p>Hei contremisco tota, ringor, horreo,</p>
+    <p>Damnationis dum meae sententiam</p>
+    <p>≤line=1895≥ Tristem revoIvo, prorsus immutabilem.</p>
+    <p>Ah, lachrymosa et sensibus mortalium</p>
+    <p>Incomprehensa incendiorum aeternitas,</p>
+    <p>Aeternitas, aeternitas, aeternitas,</p>
+    <p>Quo me dolore exulceratam lancinas ?</p>
+    <p>≤line=1900≥ Veniae impetrandae nulla cum spes sit mihi,</p>
+    <p>Aut mitioris (pró dolor) sententiae:</p>
+    <p>Hei, sustinebo quo modo gravissimas ≤folio=Gv≥</p>
+    <p>Flammas gehennae exaestuantes iugiter?</p>
+    <p>VENUS</p>
+    <p>Demersa in imam Tartari voraginem,</p>
+    <p>≤line=1905≥ Ludum esse disces, passa quicquid es hactenus.</p>
+    <p>≤page=232≥</p>
+    <p>ANIMA</p>
+    <p>Heu, quo trementem, quave gressum dirigam?</p>
+    <p>Constrieta vinclis (pró dolor) fortissimis</p>
+    <p>Scelerum meorum: quid miserrima faciam,</p>
+    <p>Possim cruentas ut manus evadere,</p>
+    <p>≤line=1910≥ Unguesque curvos daemonum rapacium,</p>
+    <p>Caliginosum qui volant per aëra,</p>
+    <p>Sicut per aestum muscae, apesque stridulae?</p>
+    <p>Atat, sequuntur hic duo teterrimi,</p>
+    <p>Mihique diris heu minantur ungulis.</p>
+    <p>≤line=1915≥ Hei, quam feroci me intuentur lumine,</p>
+    <p>Oculosque torquent in paventem flammeos:</p>
+    <p>Utinam dehiscat terra, meque absorbeat,</p>
+    <p>Haec ne videre monstra cogar horrida.</p>
+    <p>CUPIDO</p>
+    <p>Alumna noctis, Ditis atri filia,</p>
+    <p>≤line=1920≥ Haeres gehennae, daemonum ludibrium:</p>
+    <p>Hîc otiosa nunquid astabis diu?</p>
+    <p>Iamiam necesse est in gehennam corruas.</p>
+    <p>≤folio=G2r≥</p>
+    <p>VENUS</p>
+    <p>Quid expavescis stulta? quid metu tremis?</p>
+    <p>Vides amieos ae sodales hic tuos,</p>
+    <p>≤line=1925≥ Dudum fuêre qui tibi solatio,</p>
+    <p>Mundi in vireto dum vaeares lusibus:</p>
+    <p>Quid tristis astas? nec cachinnis diffluis,</p>
+    <p>Uti solebas? basiumque postulas? ≤folio=G2r≥</p>
+    <p>Ego Venus illa, ego splendidum mundi iubar,</p>
+    <p>≤line=1930≥ Ego melle quovis dulcior, quid anxia</p>
+    <p>≤page=234≥</p>
+    <p>Avertis a me cum tremore lumina?</p>
+    <p>Videas necesse est quos atroces senties</p>
+    <p>Poenae ministros in gehenna iugiter.</p>
+    <p>CUPIDO Infame monstrum, vilis, excors, horrida,</p>
+    <p>≤line=1935≥ Veteres recusas cur amicos noscere?</p>
+    <p>Ego ille delicatus ac dulcis puer,</p>
+    <p>Praeses, magister, doctor, atque dux tuus.</p>
+    <p>Ingrata cessas nosse patronum tuum?</p>
+    <p>VENUS</p>
+    <p>Age potitemus, haustibusque aequalibus</p>
+    <p>≤line=1940≥ Certemus, atque lusitemus aleam.</p>
+    <p>Vin diu cupitis perfruamur osculis</p>
+    <p>Amplexibusque? mollis ecce lectulus</p>
+    <p>Dudum paratus atque stratus est tibi</p>
+    <p>Iuxta cubile flammeum Proserpinae,</p>
+    <p>≤line=1945≥ Ubi obvolutam putidis foetoribus</p>
+    <p>Vermes amaris devorabunt morsibus:</p>
+    <p>Rursum evomendam ad perferenda iugiter</p>
+    <p>Tormenta nullo mitiganda tempore.</p>
+    <p>ANIMA Angustiae mihi (pró dolor) sunt undique</p>
+    <p>≤line=1950≥ Intolerandae, inexplicandae plurimae.</p>
+    <p>Ah, nemo credat, suspicari vel queat,</p>
+    <p>≤page=236≥</p>
+    <p>Quantum malorum perferam perenniter,</p>
+    <p>Orbata luce, spe, salute, gaudio.</p>
+    <p>CUPIDO ≤folio=G2v≥</p>
+    <p>Praecogitasse scilicet ea oportuit,</p>
+    <p>≤line=1955≥ Insana dextram dum relinqueres viam,</p>
+    <p>Laevaque malles liberè expaciarier:</p>
+    <p>Sed te petulca fascinarat sic caro</p>
+    <p>Permulsa nostris illecebris, ut nihil</p>
+    <p>Desyderares, cogitares, quaereres,</p>
+    <p>≤line=1960≥ Quam continenter improbam libidinem</p>
+    <p>Explere, vota prorsus insatiabili.</p>
+    <p>VENUS</p>
+    <p>Ecquid putabas stulta, caeca, improvida,</p>
+    <p>Impunè tantis te inquinandam sordibus,</p>
+    <p>Nec iusta cunctis esse factis praemia?</p>
+    <p>CUPIDO</p>
+    <p>≤line=1965≥ Aequum est profectà ut perferas iuges focos:</p>
+    <p>Quae noluisti, dum valebas, fervidum</p>
+    <p>In te calorem putidumque extinguere.</p>
+    <p>VENUS</p>
+    <p>Merito carebis igrie nunquam acerrimo,</p>
+    <p>Peccare quae non destitisti perdita,</p>
+    <p>≤line=1970≥ Donec cruentae mortis icta cuspide,</p>
+    <p>Coacta corpus es scelestum linquere:</p>
+    <p>Adhuc paratum turpius tum pollui,</p>
+    <p>Si vita iniquo contigisset longior.</p>
+    <p>≤page=238≥</p>
+    <p>ANIMA Heu me quid egi? lachrymis quibus mei</p>
+    <p>≤line=1975≥ Deflebo cordis eaecitatem pristinam?</p>
+    <p>Quanquam ingemiscens poenitensque inaniter.</p>
+    <p>CUPIDO</p>
+    <p>Quid stulta sursum, quid deorsum respicis?</p>
+    <p>Cum prorsus omni eassa spe damnata sis,</p>
+    <p>Opemque nemo ferre iam possit tibi:</p>
+    <p>≤line=1980≥ Cadaver autem quid subinde foetidum ≤folio=G3r≥</p>
+    <p>Hoc intueris? ingredi quod non potes,</p>
+    <p>Usque ad tremendum murmur extremae tubae,</p>
+    <p>Ad sempiterna cum resurget vividum</p>
+    <p>Tormenta, flammas, pro bra, mortem, angustias.</p>
+    <p>VENUS verberans.</p>
+    <p>≤line=1985≥ Quid muta torpes, more nee garris tuo?</p>
+    <p>Hem serva inepta, ut somniare desinas.</p>
+    <p>CUPIDO verberans.</p>
+    <p>Amoris arram nostri et istam suscipe,</p>
+    <p>Gustaque, quam sint lauta Ditis fercula,</p>
+    <p>Tum si videtur, ingemisce et eiula.</p>
+    <p>≤page=240≥</p>
+    <p>ANIMA</p>
+    <p>≤line=1990≥ Heu, quanta ab istis perfero draconibus,</p>
+    <p>Seducta, caesa, irrisa, contemptissima:</p>
+    <p>Cum prorsus omni nuda iam solatio,</p>
+    <p>Decore, spe, virtute, et adiutorio,</p>
+    <p>Non explicandis obruar doloribus.</p>
+    <p>VENUS</p>
+    <p>≤line=1995≥ Augere oportet attamen luctum tibi,</p>
+    <p>Blasphema dis cas esse ut ore libero.</p>
+    <p>Vah, quae supremo principi fracta fide,</p>
+    <p>Periura, vilis, impudens, adultera,</p>
+    <p>Ob putre mendax et caducum gaudium,</p>
+    <p>≤line=2000≥ Regni perennis perdidisti gloriam,</p>
+    <p>Torrenda flammis absque fine edacibus.</p>
+    <p>CUPIDO</p>
+    <p>Vah, quae magistris credidisti talibus,</p>
+    <p>Inducta per nos versipelles transfugas,</p>
+    <p>Ad sortis huius sempiternum opprobrium,</p>
+    <p>≤line=2005≥ Nullo quod unquam finÏetur tempore.</p>
+    <p>VENUS ≤folio=G3v≥</p>
+    <p>Quid absque veste nuptiali perfida,</p>
+    <p>Hoc est, probatae charitatis gratia,</p>
+    <p>Tibi vana prodest iam fides ac mortua,</p>
+    <p>Cum nostra sis et permanebis iugiter?</p>
+    <p>≤page=242≥</p>
+    <p>CUPIDO</p>
+    <p>≤line=2010≥ Ubi grandis illa nunc tui fiducia,</p>
+    <p>Qua posse labi te negabas arrogans?</p>
+    <p>Gustata coeli nunc ubi suavitas,</p>
+    <p>Nimium placebas insolenter qua tibi:</p>
+    <p>Merita inde nostras ut venires in manus,</p>
+    <p>≤line=2015≥ Fastum Tonante non ferente turgidum.</p>
+    <p>VENUS</p>
+    <p>Quin iam lavacri singularis gratiam</p>
+    <p>Et chrisma iactas ac parentem coelicum?</p>
+    <p>Quem tam benignum existimabas et pium,</p>
+    <p>Peccare tanquam impunè qui sineret reos,</p>
+    <p>≤line=2020≥ Quasi iusti et aequi prorsus immemor foret.</p>
+    <p>Ubi census ille quo redemit omnia?</p>
+    <p>(Sicut soletis gloriari desides)</p>
+    <p>Ubi nunc salutis autor ille maximus?</p>
+    <p>Exurgat, ac te si potest iam liberet.</p>
+    <p>ANIMA</p>
+    <p>≤line=2025≥ Heu quam profundè haec verba moestam sauciant,</p>
+    <p>Meritoque grandem me ad furorem provocant.</p>
+    <p>Afflictiones quid mihi afflictissimae</p>
+    <p>Exaggeratis daemones nequissimi?</p>
+    <p>≤page=244≥</p>
+    <p>Mihi tot malorum caussa, fax, occasio:</p>
+    <p>≤line=2030≥ Idem perurat, impij, cum vos focus</p>
+    <p>Semper cremandos igne me cum perpeti.</p>
+    <p>CUPIDO ≤folio=G4r≥ verberans.</p>
+    <p>Tun stuppa lentis devoranda incendijs</p>
+    <p>Mutire quicquam principes contra tuos</p>
+    <p>Petulanter audes? faxo iam poenas luas,</p>
+    <p>≤line=2035≥ Exenteranda his ungulis medullitus.</p>
+    <p>VENUS verberans.</p>
+    <p>Maledicta, quanquam nos gehenna torqueat,</p>
+    <p>Damnationi tecum eidem obnoxios:</p>
+    <p>In hoc uterque gloriamur attamen,</p>
+    <p>Quod lapsa nostras in manus, coelestibus</p>
+    <p>≤line=2040≥ Cogêre regnis exuIare perpetim,</p>
+    <p>Exclusa nostris gloriosis sedibus.</p>
+    <p>CUPIDO</p>
+    <p>Collega, nugis tempus hîc cur perdimus?</p>
+    <p>Ecquid moramur recta ad Orcum currere?</p>
+    <p>VENUS</p>
+    <p>Prius necesse est cantilenam concinat,</p>
+    <p>≤line=2045≥ Quae digna sit moestae gehennae filia.</p>
+    <p>CUPIDO</p>
+    <p>Suave dicis carmen hoc, quod impij</p>
+    <p>Nimio recantant cum furore perpetim?</p>
+    <p>Maledicta in omnes iactitantes aspera.</p>
+    <p>≤page=246≥</p>
+    <p>VENUS</p>
+    <p>Vae, vae perenne dico, Styx quod ignea</p>
+    <p>≤line=2050≥ Tam saepe cogit replicare perditos.</p>
+    <p>CUPIDO</p>
+    <p>Ergo explicemus omnium illi summulam</p>
+    <p>Obiter malorum, iugiter quae perferet.</p>
+    <p>Ego (ne moremur) cantionem exordiar:</p>
+    <p>Impura, foetens, reproba, execrabilis,</p>
+    <p>≤line=2055≥ Maledieta, putris, venit hora qua tuis</p>
+    <p>Tibi digna factis conferentur praemia:</p>
+    <p>Pruina, grando, nix, procellae, turbines,</p>
+    <p>Glacies nivosa, frigus intensissimum, ≤folio=G4v≥</p>
+    <p>Stridorque acerbo prae rigore dentium,</p>
+    <p>≤line=2060≥ Haec exhibenda mox tibi sunt fercula,</p>
+    <p>Aliaeque dulces non minus cupediae,</p>
+    <p>Simulatque Ditis ad tribunal veneris.</p>
+    <p>VENUS</p>
+    <p>Expectat ardens te gehenna sulphure</p>
+    <p>Flammisque nunquam mitigandis aestuans</p>
+    <p>≤line=2065≥ Edacis ignis: omne tormenti genus,</p>
+    <p>Potuit quod ullus perpeti mortalium, A</p>
+    <p>cerbitate plurimum vineens sua.</p>
+    <p>CUPIDO</p>
+    <p>Illic metallis ex solutis bulliens</p>
+    <p>Tibi est paratum balneum, resolvere</p>
+    <p>≤line=2070≥ Canas quod Alpes in minutum pulverem</p>
+    <p>Intra pusilli posset horam temporis:</p>
+    <p>Dignum lavacrum ganione putido.</p>
+    <p>≤page=248≥</p>
+    <p>VENUS</p>
+    <p>Illic tenebrae, foetor, horror, nox, fames,</p>
+    <p>Lamenta, stridor, eiulatus dissoni,</p>
+    <p>≤line=2075≥ Hominemque quicquid torquet, urit, atterit.</p>
+    <p>CUPIDO</p>
+    <p>Illic draconum, vermium, serpentium,</p>
+    <p>Horrenda monstra, quae te anhelant carpere.</p>
+    <p>Teterrimorum sunt et illic daemonum</p>
+    <p>Complura atroci mente et ore millia:</p>
+    <p>≤line=2080≥ Ditis ministri qui truces et asperi</p>
+    <p>Pietate non moventur ulla in noxios:</p>
+    <p>Inferre gaudent omne sed poenae genus,</p>
+    <p>Tormenta ad inferenda nunquam desides.</p>
+    <p>VENUS ≤folio=G5r≥</p>
+    <p>Inter tot atros, horridos, saevos, truces,</p>
+    <p>≤line=2085≥ Feros, cruentos, impiosque spiritus,</p>
+    <p>Repleta semper mille poenis ac malis,</p>
+    <p>Per cuncta vives saeculorum saecula.</p>
+    <p>ANIMA</p>
+    <p>Vah, putre corpus, vah, cadaver foetidum,</p>
+    <p>Dignum quod omnes vultures, corvi, canes,</p>
+    <p>≤line=2090≥ Lupique carpant, mordeant, rodant, vorent,</p>
+    <p>Mihi quot malorum caussa penè es unica:</p>
+    <p>Servire cogis dum tuis me amoribus,</p>
+    <p>Intemperanti ardore et insatiabili.</p>
+    <p>Te propter exul sum perennis gloriae.</p>
+    <p>≤page=250≥</p>
+    <p>≤line=2095≥ Te propter haeres sempiterni incendij,</p>
+    <p>Te propter orbis foeda dudum fabula,</p>
+    <p>Scelerum cloaca, plurimorum scandalum:</p>
+    <p>Nunc ignis esca, nunc gehennae pabulum,</p>
+    <p>Nunc sum perenne daemonum ludibrium.</p>
+    <p>CUPIDO</p>
+    <p>≤line=2100≥ Ecquid moraris, voce tandem libera,</p>
+    <p>Funesta, apertam erumpere in blasphemiam,</p>
+    <p>Iam facta brutis infimis abiectior?</p>
+    <p>Quid saeva membris imprecare mortuis,</p>
+    <p>Miserumque corpus execraris impia?</p>
+    <p>≤line=2105≥ Cum sis malorum caussa utrique maxima.</p>
+    <p>Ancilla carnis facta corruptissimae,</p>
+    <p>Nimiaque amatrix impudici corporis,</p>
+    <p>Tibi quod regendum altissimus commiserat</p>
+    <p>Arctisque loris reprimendum ac legibus.</p>
+    <p>≤line=2110≥ Cessa proinde corpus abominarier, ≤folio=G5v≥</p>
+    <p>Tibique potius imprecator pessima.</p>
+    <p>VENUS</p>
+    <p>O quam pusillo tempore et luctu brevi</p>
+    <p>Licuisset atri flammam Averni evadere,</p>
+    <p>Si Conditoris gratiam demens tui</p>
+    <p>≤line=2115≥ Fervore mentis quaesijsses igneo,</p>
+    <p>Amplexa toto corde poenitentiam:</p>
+    <p>≤page=252≥</p>
+    <p>Cuius facultas nulla posthac reprobae</p>
+    <p>Aderit, ferenti quamlibet gravissima.</p>
+    <p>ANIMA</p>
+    <p>Execror ergo rursus hoc vas foetidum,</p>
+    <p>≤line=2120≥ Non eloquendis inquinatum sordibus,</p>
+    <p>Amore cuius fascinata prorui</p>
+    <p>In omne crimen, dedecus, nephas, scelus.</p>
+    <p>Execror inde mentis atrae ignaviam:</p>
+    <p>Ad hos me adegit quae dolores et mala,</p>
+    <p>≤line=2125≥ Arctam recusans ambulare semitam:</p>
+    <p>Maledicta membra sint, vagis cum sensibus,</p>
+    <p>Subservierunt quae nephandis operibus,</p>
+    <p>Affectibusque carnis impurissimae,</p>
+    <p>Manus, lacerti, labra, venter, inguina.</p>
+    <p>≤line=2130≥ Maledicta sitis, curiosa lumina,</p>
+    <p>Assueta ubique lubricis aspectibus:</p>
+    <p>Auresque ad haurienda verba sordida</p>
+    <p>Nimium patentes, prurientes, ebriae.</p>
+    <p>Maledicta mendax, impudica, subdola,</p>
+    <p>≤line=2135≥ Procaxque lingua, delicata, perfida,</p>
+    <p>Mentita summo tam frequenter Principi. ≤folio=G6r≥</p>
+    <p>Maledicta sint cum sordidis amplexibus</p>
+    <p>Contactibusque libidinosa basia,</p>
+    <p>Venerisque nequam, multiformis foeditas.</p>
+    <p>≤line=2140≥ Maledicta sit cum perfido Cupidine</p>
+    <p>Cypris scelesta, versipellis, improba.</p>
+    <p>Vae, vae, quod unquam credidi vestris dolis:</p>
+    <p>≤page=254≥</p>
+    <p>Maledicti, atroces, pessimique daemones.</p>
+    <p>CUPIDO</p>
+    <p>Haec probra, demens, suave ducimus melos,</p>
+    <p>≤line=2145≥ Quae mox inulta non sinemus attamen.</p>
+    <p>ANIMA</p>
+    <p>Vae, vae mihi, vilis quod Aphrodisiae</p>
+    <p>Amore caeca Tempus almum gratiae</p>
+    <p>Emancipavi, dissipavi, perdidi.</p>
+    <p>Maledicta sit iuventa detestabilis,</p>
+    <p>≤line=2150≥ Infraenis, effrons, putris, indomabilis,</p>
+    <p>Parêre sancto quae Timori noluit,</p>
+    <p>Se posse sperans poenitere serio</p>
+    <p>In mortis hora, vel senecta in ultima.</p>
+    <p>Maledicta sint et improborum lubrica,</p>
+    <p>≤line=2155≥ Contagiosa, perditaque consortia,</p>
+    <p>Mihique quotquot tot malorum caussa sunt,</p>
+    <p>Iuvenes, ephoebi, foeminae, senes, viri,</p>
+    <p>Exempla qui fuêre et incitabulum,</p>
+    <p>Ut ambularem saeculi per compita.</p>
+    <p>≤line=2160≥ Vae, quotquot arctum derelinquunt tramitem,</p>
+    <p>Suaeque caeci serviunt libidini,</p>
+    <p>Vae, vae mihi, maledicta sum, damnata sum, ≤folio=G6v≥</p>
+    <p>Vae, vae mihi, vae, vae, per omne saeculum.</p>
+    <p>VENUS</p>
+    <p>Euge, euge, mortis ac gehennae filia,</p>
+    <p>≤line=2165≥ Iam rite nostrae cantionis formulam,</p>
+    <p>Numerosque calles, replicanda perpetim.</p>
+    <p>Istud teneto, sic Averni mancipem</p>
+    <p>Cantare voce mascula semper decet:</p>
+    <p>≤page=256≥</p>
+    <p>Nec abstinere gravibus a blasphemijs.</p>
+    <p>≤line=2170≥ Ego cantilenam nunc vicissim praecinam</p>
+    <p>Non insuavem, quam necesse est audias,</p>
+    <p>Mecumque saltes, flexilem sequens chorum:</p>
+    <p>Uti solebas noster olim amasius.</p>
+    <p>Fidi sodales, advolate huc ocyus,</p>
+    <p>≤line=2175≥ Caliginosum qui secatis aëra.</p>
+    <p>V,3</p>
+    <p><hi rendition="simple:bold">CHORUS DAEMONUM AËRIORUM.</hi></p>
+    <p>VENUS. CUPIDO. ANIMA.</p>
+    <p><hi rendition="simple:bold">CHORUS</hi></p>
+    <p>Cur advocamur huc repente quaesumus,</p>
+    <p>Collega noster: ecquid apparas novi?</p>
+    <p>VENUS</p>
+    <p>Tetrum priusquam haec in barathrum corruat,</p>
+    <p>Pluto ne dignum illi canamus canticum.</p>
+    <p><hi rendition="simple:bold">CHORUS</hi></p>
+    <p>≤line=2180≥ En nos paratos, dum vacabit incipe.</p>
+    <p>Venus et Cupido vicissim praecinunt, Chorus vero daemonum cantata
+    resonet, sicut in trivialibus choreis fieri solet.</p>
+    <p>VENUS</p>
+    <p>Exultet Orcus et Chaos, ≤folio=G7r≥</p>
+    <p>Stix, Cerberus, Proserpina,</p>
+    <p>Quod lucra multo uberrima</p>
+    <p>Ex Christianis carpimus.</p>
+    <p>≤page=258≥</p>
+    <p>≤line=2185≥ Angusta poenitentiae</p>
+    <p>Invisa nobis semita,</p>
+    <p>Hominum per infrequentiam</p>
+    <p>Iam facta penè est invia.</p>
+    <p>Per lata mortis compita</p>
+    <p>≤line=2190≥ Ubique currunt plurimi:</p>
+    <p>Qui carnis ac mundi mala</p>
+    <p>Studia sequuntur fervidi.</p>
+    <p>CUPIDO</p>
+    <p>Cur delicata alacriter non saltitas?</p>
+    <p>Assueta molle corpus arte plurima</p>
+    <p>≤line=2195≥ Rotare dudum: subsili edico et cane,</p>
+    <p>Aut vapulabis et eiulabis durius.</p>
+    <p>ANIMA</p>
+    <p>Quo sum redacta, pró pudor, miserrima?</p>
+    <p>Eheu, quam atroces in magistros incidi.</p>
+    <p>VENUS</p>
+    <p>Te scilicet quibus integrè commiseras:</p>
+    <p>≤line=2200≥ Tace scelesta, ut prosequamur caetera.</p>
+    <p>CUPIDO</p>
+    <p>O quam lucrosa est inferis</p>
+    <p>Iam plurium persuasio,</p>
+    <p>Sibi cuncta de sola pij</p>
+    <p>Bonitate qua spondent patris.</p>
+    <p>≤page=260≥</p>
+    <p>≤line=2205≥ Quantumlibet vivant male,</p>
+    <p>Carnique serviant putri,</p>
+    <p>Ac poenitere negligant: ≤folio=G7v≥</p>
+    <p>Secura carpunt gaudia.</p>
+    <p>Nihil timentes asperum,</p>
+    <p>≤line=2210≥ Utramque in aurem dormiunt:</p>
+    <p>Extensus in ligno crucis</p>
+    <p>Christus resolvit omnia.</p>
+    <p>Hinc atra multis millibus</p>
+    <p>Subinde ditatur palus:</p>
+    <p>≤line=2215≥ Vix et Charontis sufficit</p>
+    <p>Transferre cunctos alveus.</p>
+    <p>VENUS Venale coelum quamlibet</p>
+    <p>Desertus exponat Deus:</p>
+    <p>Vix e trecentis unicum</p>
+    <p>≤line=2220≥ Homunculum rapit sibi.</p>
+    <p>Plenam laboris scilicet,</p>
+    <p>Moeroris ac fastidij,</p>
+    <p>Angustiaeque semitam</p>
+    <p>Homines pavescunt ingredi.</p>
+    <p>≤line=2225≥ Sic lucra nobis in dies</p>
+    <p>Crescunt ubique plurima:</p>
+    <p>Inferre nullus dum sibi</p>
+    <p>Regnoque vim vult coelico.</p>
+    <p>ANIMA</p>
+    <p>Ah quam fatigat anxiam haec saltatio,</p>
+    <p>≤line=2230≥ Quam torquet ista me chorea et canticum.</p>
+    <p>VENUS</p>
+    <p>Placere, demens, quin puellis iam studes?</p>
+    <p>Atque ore blando suavium rapis tibi?</p>
+    <p>Quin eleganter membra flectis ad modos, ≤folio=G8r≥</p>
+    <p>Agileque corpus arte in altum sublevas?</p>
+    <p>≤line=2235≥ Veluti solebas caeco amore insaniens.</p>
+    <p>≤page=262≥</p>
+    <p>ANIMA</p>
+    <p>Censura summi principis iustissima est.</p>
+    <p>VENUS</p>
+    <p>Hoc mersa in atrum plenius disces chaos.</p>
+    <p>Cupido, perge, ut finiamus canticum.</p>
+    <p>CUPIDO</p>
+    <p>Haec iusta nobis gaudij</p>
+    <p>≤line=2240≥ Uberrimi est occasio:</p>
+    <p>Gaudere qui non novimus,</p>
+    <p>Nisi de malis mortalium.</p>
+    <p>Valete, mundi amasij,</p>
+    <p>Atque ut soletis vivite:</p>
+    <p>≤line=2245≥ Opima certi praemia</p>
+    <p>Manere vos in Tartaro.</p>
+    <p>Nos ad gehennam currimus,</p>
+    <p>Parare lauta balnea,</p>
+    <p>Stramenta, mensas, lectulos,</p>
+    <p>≤line=2250≥ Pro dignitate singulis.</p>
+    <p>V,4</p>
+    <p>VENUS. CUPIDO. ANIMA.</p>
+    <p>Oblectat ut te dulcis ista cantio,</p>
+    <p>Facimusne votis beHa iam satis tuis,</p>
+    <p>Tecum choreas cum suaves ducimus?</p>
+    <p>≤page=264≥</p>
+    <p>CUPIDO Collega, nugis ecquid horas perdimus,</p>
+    <p>≤line=2255≥ Confabulati hic otiose plus satis?</p>
+    <p>Damnationis nunc vetustae praesidem,</p>
+    <p>Regem ipsum abyssi, principem caliginis</p>
+    <p>Rapido petamus iubilantes impetu. ≤folio=G8v≥</p>
+    <p>VENUS</p>
+    <p>Eamus, inter ut suos hanc Lucifer</p>
+    <p>≤line=2260≥ Adscribat, ignis sempiterni pabulum,</p>
+    <p>Infame cuius hactenus membrum fuit.</p>
+    <p>Lasciva gaude, rectà ad almi principis</p>
+    <p>Nostri patentem regiam iam pergimus,</p>
+    <p>Ubi quae supersint, plenius doceberis.</p>
+    <p>CUPIDO</p>
+    <p>≤line=2265≥ Monstrum videbis horridum, tetrum, procax,</p>
+    <p>Ferox, cruentum, saevum et implacabile,</p>
+    <p>Minax, superbum, putre, foetidissimum:</p>
+    <p>Tenebricosa quod nigrum fuligine</p>
+    <p>Horremus et nos intueri et alloqui:</p>
+    <p>≤line=2270≥ Nimirum ab omni parte cum gravissimum</p>
+    <p>Exhalet ignem, plenum odore pessimo:</p>
+    <p>Pungatque quosvis mille acutis spiculis,</p>
+    <p>Quibus in profundo Tartari armatum furit.</p>
+    <p>≤page=266≥</p>
+    <p>ANIMA</p>
+    <p>Heu me, dolorum quanta moles ingruit.</p>
+    <p>VENUS</p>
+    <p>≤line=2275≥ Nil comparari principi nostro potest,</p>
+    <p>Horrore, fastu, vi, furore, malitia,</p>
+    <p>Foetore, poenis, fraudibus, versutia, ≤folio=Hr≥</p>
+    <p>Omnes per artus quem cathenis igneis</p>
+    <p>Stridente subtus igne flagrantissimo,</p>
+    <p>≤line=2280≥ Crates ligatum vix coërcet ferrea:</p>
+    <p>Ne turbulentis perdat orbem viribus.</p>
+    <p>CUPIDO</p>
+    <p>Huius necesse est mox in alvum corruas</p>
+    <p>Rufi draconis ac leonis efferi,</p>
+    <p>Foetore putri foetam, et igne torrido.</p>
+    <p>≤line=2285≥ Maledicta gaude, iam propinquant inferi.</p>
+    <p>Audisne planctus, eiulatus, verbera?</p>
+    <p>ANIMA</p>
+    <p>Atat, pavore tota tremo, tota horreo:</p>
+    <p>Ad quam profundam tendimus voraginem?</p>
+    <p>VENUS</p>
+    <p>Hiantis Orci cernis en suburbia:</p>
+    <p>≤line=2290≥ Foetore, nocte, luctu, et igne testibus.</p>
+    <p>Haec sunt olentis antra purgatorij:</p>
+    <p>Horrenda poenis asperis, et verberum</p>
+    <p>Stridore diro, planctibus, clamoribus,</p>
+    <p>Humana quae mens non valet comprehendere.</p>
+    <p>≤page=268≥</p>
+    <p>ANIMA</p>
+    <p>≤line=2295≥ Vae, vae, gehennae nunquid haec suburbia?</p>
+    <p>Quid erit profundum Tartari? hei, quis sufferet?</p>
+    <p>CUPIDO</p>
+    <p>Id explicare sermo nullus sufficit,</p>
+    <p>Sed viva te docebit experientia,</p>
+    <p>Quae noluisti credere efficaciter,</p>
+    <p>≤line=2300≥ Veniae patebat impetrandae dum locus.</p>
+    <p>En cerne, quantus ignium globus tibi</p>
+    <p>Erumpat atris ex gehennae faucibus,</p>
+    <p>Fragorque mistus horridis mugitibus.</p>
+    <p>ANIMA</p>
+    <p>Atat, quis horror me pavorque iam novus</p>
+    <p>≤line=2305≥ Invadit aegram prorsus importabilis,</p>
+    <p>Qui stare prohibet, regredi, et procedere.</p>
+    <p>CUPIDO</p>
+    <p>Venisti ad atrae scilicet mortis chaos,</p>
+    <p>Ubi iugis horror, densa nox, perpes dolor:</p>
+    <p>Vides averni flammeam voraginem,</p>
+    <p>≤line=2310≥ Aulam superbi reproborum principis, ≤folio=Hv≥</p>
+    <p>Exaestuantem semper igne et sulphure:</p>
+    <p>Quo totus orbis agminatim proruit,</p>
+    <p>Hoc est necesse dirum amaritudinis</p>
+    <p>Mare nunc ut intres punienda iugiter:</p>
+    <p>≤page=270≥</p>
+    <p>≤line=2315≥ Ubi (quod dolorem exaggerabit maximè)</p>
+    <p>Moriendo semper non valebis emori.</p>
+    <p>ANIMA</p>
+    <p>Vae, vae mihi, vae, vae mihi, vae, vae mihi.</p>
+    <p>VENUS</p>
+    <p>Succede tecto aeternitatis impia,</p>
+    <p>Crucianda mille perpetim doloribus:</p>
+    <p>≤line=2320≥ Operumque carnis disce nunc quam nobile,</p>
+    <p>Quam suave, certum, et grande sit stipendium.</p>
+    <p><hi rendition="simple:bold">CHORUS QUINTUS</hi></p>
+    <p>Asclepiadaea.</p>
+    <p>Heu, quam desipimus gens male provida,</p>
+    <p>Quantis ingerimus nos stolidi malis.</p>
+    <p>Quo nos praecipitat tramite devio,</p>
+    <p>≤line=2325≥ Occludens oculos insipientia.</p>
+    <p>Nam quid futilius, ridiculum aut magis,</p>
+    <p>Quam quod postposita solicitudine</p>
+    <p>Coelestis patriae, phasmata inania</p>
+    <p>Affectu expetimus non satiabili?</p>
+    <p>≤page=272≥</p>
+    <p>≤line=2330≥ Luxus, delitiae, pompaque saeculi,</p>
+    <p>Fasces, nobilitas, stemmata, purpura,</p>
+    <p>Nomen, divitiae, fluxaque gloria,</p>
+    <p>Ecquid sunt aliud quam breve somnium?</p>
+    <p>Quid prosunt miseris, Tartara quos tenent, ≤folio=H2r≥</p>
+    <p>≤line=2335≥ Exustos rapidis iugiter ignibus,</p>
+    <p>Quae mundus potuit vel dare perfidus,</p>
+    <p>Vel spe magnifica pollicitarier?</p>
+    <p>Momento fluidi temporis unico,</p>
+    <p>Amplexi illecebras, votaque saeculi,</p>
+    <p>≤line=2340≥ Iam regno superûm iugiter exulant,</p>
+    <p>Immersi tenebris exterioribus.</p>
+    <p>Euripus speculum terribile istius</p>
+    <p>Factus stultitiae est, qui cito deserens</p>
+    <p>Virtutis studium, castaque gaudia,</p>
+    <p>≤line=2345≥ Carnis delitijs se dare maluit.</p>
+    <p>Mendacem sed enim carpere flosculum,</p>
+    <p>Dum totus Veneri deditus aestuat,</p>
+    <p>Mutavit subito laetitiam brevem</p>
+    <p>Luctu perpetuo, morte, doloribus.</p>
+    <p>≤line=2350≥ Mortales igitur plebs stolidissima,</p>
+    <p>Quorsum diligitis lubrica somnia?</p>
+    <p>Cur tam sollicitè haec terrea quaeritis?</p>
+    <p>Quae venti fugiunt more levissimi.</p>
+    <p>Interni usque adeo luminis est nihil</p>
+    <p>≤line=2355≥ Vaesanis reliquum: sic sapitis parum,</p>
+    <p>Ut plus vos moveant unius horulae</p>
+    <p>Putres delitiae, gaudia quam poli.</p>
+    <p>Quam parvi, heu, facimus dulcia cantica</p>
+    <p>Coelestis patriae, lumen, et angelos:</p>
+    <p>≤line=2360≥ Quos versare lutum et stercora plus iuvat,
+    ≤folio=H2v≥</p>
+    <p>Quam regni dapibus perpetuis frui.</p>
+    <p>≤page=274≥</p>
+  </div>
+  <div type="level2" xml:id="peroratio">
+    <head>PERORATIO</head>
+    <p>Ad vos revertor, iam peractis omnibus,</p>
+    <p>Coetus virarum nobilis praestantium,</p>
+    <p>Gregis et choragi nomine ut agam gratias</p>
+    <p>≤line=2365≥ Omnibus ad unum, et literatis maximè:</p>
+    <p>Audistis aequa mente quod nos hactenus.</p>
+    <p>Precor inde cunctos, si quid illatinius,</p>
+    <p>Minusve cultum, vel decorum occurrerit,</p>
+    <p>In actione non pusilli temporis,</p>
+    <p>≤line=2370≥ Animo velitis devorare candido,</p>
+    <p>Ut Christiana dictat ultra charitas.</p>
+    <p>Dehinc (absque fructu ne recedat quispiam)</p>
+    <p>Rogo vos, ut aitis sit repostum mentibus,</p>
+    <p>Si forsÏtan quid audieritis, ad pias</p>
+    <p>≤line=2375≥ Tristesque quod vos excitarit lachrymas,</p>
+    <p>Emolliendo duriora pectora,</p>
+    <p>Terrore acerbae mortis atque Tartari.</p>
+    <p>Postremo, amicè exhortor omnes, ut gerant</p>
+    <p>Posthac salutis acriorem propriae</p>
+    <p>≤line=2380≥ Plerique curam: nec sibi mendaciter</p>
+    <p>Infructuosa ac mortua placeant fide,</p>
+    <p>(Ut plurimorum suevit insipientia)</p>
+    <p>≤page=276≥</p>
+    <p>Neque Christianam spem subinde iactitent,</p>
+    <p>Suisve fidant arroganter viribus,</p>
+    <p>≤line=2385≥ Industriaeque: cum sit imbecillimus,</p>
+    <p>Sibi relictus quisquis est mortalium.</p>
+    <p>Valete cuncti in Christo Iesu iugiter.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>Finis Tragoediae.</p>
+  <p>≤page=278≥</p>
+  <p>El/rpuI, Appendix</p>
+  <p>AUGUSTINUS HUNNAEUS MECHLINIENSIS in sequentem Elegiam.</p>
+  <p>Quod subito ferme, vindex Deus opprimat illos,</p>
+  <p>Qui poenitentiam suam procrastinant:</p>
+  <p>Id docet Euripus (cum frigida venerit aetas,</p>
+  <p>Sat esse iactans serio resipiscere),</p>
+  <p>(5) Quem cita mors iuvenem primis florentibus annis</p>
+  <p>Abripuit rune inexpiatum crimine.</p>
+  <p>Rara illis metanoea datur sub fata suprema,</p>
+  <p>Qui, dum valent, solent eam eontemnere.</p>
+  <p>Impuram sequitur vitam mors digna frequenter:</p>
+  <p>(10) Sic vult tremendi iudicis severitas.</p>
+  <p>Gratia perpaucis contingit, facta latrani:</p>
+  <p>Meretur hoc supina nostra ignavia.</p>
+  <p>At lieet haee paucis a Christo gratia detur,</p>
+  <p>Datur tamen: sed fervidè petentibus.</p>
+  <p>(15) Cuius ut exemplum possis (pie lector) habere,</p>
+  <p>Hominem intuere vel tum adeptum gratiam,</p>
+  <p>Cum iam parva foret veniae sp es atque salutis:</p>
+  <p>(Instaret atra nempe dum mors languido)</p>
+  <p>Quem tibi Livinus subiunxit, ut inde doceret,</p>
+  <p>(20) Iusti Dei sit quanta misericordia.</p>
+  <p>Matth. 3. Facite fructum dignum poenitentiae. et cap. quinto: Q
+  .</p>
+  <p>fecerit et docuerit, hic magnus vocabitur in regno coelorum.</p>
+  <p>FAC ET DOCE.</p>
+</div>
+</body>
+</text>
+</TEI>

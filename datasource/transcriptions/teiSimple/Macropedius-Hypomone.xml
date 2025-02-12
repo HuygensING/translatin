@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>HYPOMONE,</p>
+  <p>seu Patientia Macropedii.</p>
+  <p>Fabula sacra.</p>
+  <p>D. Paulus ad Romanos. Capit. 15.</p>
+  <p>Quaecumque scripta sunt, ad nostram doctrinam scripta sunt, ut per
+  patientiam et consolationem scripturarum spem habeamus, etc.</p>
+  <p>Ultraiecti.</p>
+  <p>Harmannus Borculous excudebat,</p>
+  <p>Cum gratia et privilegio.</p>
+  <p>M. IOANNI A LENT, Caesareae Maiestatis consiliario, Georgius
+  Macropedius S.D.</p>
+  <p>Cum te videam, vir ornatissime, nostri studiosum, et fabellas
+  nostras plus aequo (quod pueriles sint) studiose amplecti,
+  <hi rendition="simple:italic">Hypomonen</hi> seu
+  <hi rendition="simple:italic">Patientiam</hi> nostram, annis
+  superioribus ex tempore scriptam et in pauperum nostrorum gratiam sub
+  κληροδοσία populo exhibitam, tuae dignitati dudum promissam, iam
+  tandem dedico.</p>
+  <p>Volebam quidem (quod indigna mihi videretur, ut alicui viro gravi
+  obtruderetur) eam supprimere, consilium secutus illius qui quidlibet
+  edendum in annum nonum premendum suadebat; secus tamen suadentibus
+  amicis, scrinio erutam alicui amicorum strenulae loco donare decrevi.
+  Fuit autem inter ceteros utrique nostrum communis amicus, qui tibi id
+  muneris (quamquam exigui) praecipue acceptum fore asserebat, et sua
+  exhortatione pudorem meum vicit et ut auderem incitavit.</p>
+  <p>Offero tibi igitur, vir eruditissime, hanc fabellam, et tanto
+  libentius quanto prae multis aliis in pauperes nostros te novi
+  propensiorem. Vale, et si aliquatenus probaveris, boni consule et ab
+  aemulis defende. Si secus (quod ego ipse volebam) denuo supprime.</p>
+  <p>Traiecti, Anno 1553, mense Novembri.</p>
+  <p>ARGUMENTUM in HYPOMONEN.</p>
+  <p>Divina Hypomone cum Graphe sororcula</p>
+  <p>delapsa caelo deditos sibi visitat,</p>
+  <p>Solatur et verbo Dei simul erudit</p>
+  <p>Foedos Iobos, Hulcerosos, Lazaros,</p>
+  <p>Davida profugum et ἐξόριστον Heliam,</p>
+  <p>Sic Thobiam caecum atque claudos arthricos,</p>
+  <p>Cum filiisque prophetarum famentibus</p>
+  <p>Scholasticos pauperrimos et orphanos,</p>
+  <p>Nudos, scabios et omnium rerum indigos.</p>
+  <p>Tandemque per Patientiam et monitus Graphes</p>
+  <p>Omnibus iis fit spiritale gaudium.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="dramatis-personae.">
+    <head>DRAMATIS PERSONAE.</head>
+    <p>Hypomone Eneas claudus, cum caecis</p>
+    <p>Graphe et arthricis</p>
+    <p>Iobus cum amicis et paralyticis</p>
+    <p>Lazarus cum leprosis Penichrus cum filiis prophetarum</p>
+    <p>David cum Tyrone Psoroponus</p>
+    <p>Helias Orphanus Pauperes</p>
+    <p>Ioabus Gymnicus</p>
+    <p>Abisai Phthiroponus</p>
+    <p>Thobias cum filio et nuru Poëta seu Epilogus.</p>
+    <p>Prologizat HYPOMONE cum GRAPHE sorore sua.</p>
+    <p>Mirabitur fortasse vestrum quispiam,</p>
+    <p>Qui legit hactenus poëtas comicos,</p>
+    <p>Quod virgo προλογίσουσ’ in hoc proscaenium</p>
+    <p>Processerim, sed desinet mirarier,</p>
+    <p>≤line=5≥ Cum ex me didicerit pleniusque noverit</p>
+    <p>Quae sim, vel unde, vel quamobrem advenerim.</p>
+    <p>Super his quidem tribus operae pretium arbitror</p>
+    <p>Vobis loqui brevissime. Et primum omnium</p>
+    <p>Ego Hypomone sum, aut (si placet) Patientia,</p>
+    <p>≤line=10≥ Summi tonantis seu Dei ter maximi</p>
+    <p>Et prima et inclita filia, (heu) multis licet</p>
+    <p>Mortalium despecta matris ob genus,</p>
+    <p>Cui vile et humile nomen est Tribulatio.</p>
+    <p>Ut ipsa natales meos Scriptura habet,</p>
+    <p>≤line=15≥ Quae ex ore patris altissimi mortalibus</p>
+    <p>Egressa quondam prodiit, ne quispiam</p>
+    <p>Me futilem vel arrogantem dixerit.</p>
+    <p>Dic age, Graphe, Deo parente soror mea,</p>
+    <p>Quae de meis natalibus sunt prodita.</p>
+    <p>≤line=20≥ GR. Sic spiritu afflatus Dei David canit:</p>
+    <p>An non Deo subiecta eris, o anima mea?</p>
+    <p>Ab ipso enim mea prodiit Patientia.</p>
+    <p>Et pro genere matris tuae Paulus docet:</p>
+    <p>Tribulatio patientiam operatur. HY. Quid his,</p>
+    <p>≤line=25≥ Θεάμονες, manifestius? Pergo ad alia.</p>
+    <p>Quae sim, tenetis et unde adhuc profecta sim.</p>
+    <p>Iam tertium explicabimus, quod maxime in</p>
+    <p>Rem vestram erit, si aures magis quam lumina</p>
+    <p>Praebebitis et a fabulis cessabitis.</p>
+    <p>≤line=30≥ Videns Deus mala in orbe multa et maxima,</p>
+    <p>Et destinatos gloriae pueros suos</p>
+    <p>Plagis, dolis incommodisque affligier,</p>
+    <p>Hinc innocentes opprimi calumnia,</p>
+    <p>Hinc morbidos putrescere in sterquilinio,</p>
+    <p>≤line=35≥ Hinc indigere quibus alantur pauperes,</p>
+    <p>Deficere claudos atque cassos lumine,</p>
+    <p>Nulloque fretos inter haec solacio,</p>
+    <p>Tactus dolore cordis, affectu quoque</p>
+    <p>Motus paterno, ne in malis fatiscerent,</p>
+    <p>≤line=40≥ Sub pondereve labascerent, me cum mea</p>
+    <p>Sorore misit vallem in hanc lacrimantium,</p>
+    <p>Ut singulos per ordinem invisamus, et</p>
+    <p>Corroborando sublevemus alacriter</p>
+    <p>Nostro utriusque blandulo solacio, ut</p>
+    <p>≤line=45≥ Per Hypomonen Graphesque per solamina</p>
+    <p>Habeant in anxietate spem firmissimam,</p>
+    <p>Velut haec mihi Scriptura sacra iam suggerit.</p>
+    <p>Ad vos meo officio (ut reor) sat functa sum;</p>
+    <p>Alios adibo cum sorore miserrimos,</p>
+    <p>≤line=50≥ Mortaliumque ope destitutos undique,</p>
+    <p>Primumque Iobos hulcerosos et λεπρούς</p>
+    <p>Videre stat sententia et blande alloqui,</p>
+    <p>Alios deinceps quos premi videbimus.</p>
+    <p>Nec nos putate quando Iobos, Lazaros,</p>
+    <p>≤line=55≥ Davida, Thobit id genusque ceteros</p>
+    <p>Caecos, scabros, claudos quoque exhibebimus,</p>
+    <p>Dumtaxat illos velle vulgo intelligi</p>
+    <p>Scriptura quorum sancta prodit nomina,</p>
+    <p>Verum sub horum celebrium vocabulis</p>
+    <p>≤line=60≥ Indifferenter omnium paribus malis</p>
+    <p>Vel calamitatibus laborantium, piam</p>
+    <p>Imaginem spectantibus describimus.</p>
+    <p>Iobus homines suggerat cum Lazaro</p>
+    <p>Qui lepra et ulcere sordidi mortalibus</p>
+    <p>≤line=65≥ Fiunt abominabiles. David quoque</p>
+    <p>Et Helias ratione suggerant pari</p>
+    <p>Profugos eos qui terga persequentibus</p>
+    <p>Dant hostibus nece territi. Dein Thobias,</p>
+    <p>Claudus quoque Enaeas notant eos, quibus</p>
+    <p>≤line=70≥ Quovis malo sua membra sunt obnoxia.</p>
+    <p>Sic et Prophetarum innocentes filii</p>
+    <p>Nostros et alios pauperes quibuslibet</p>
+    <p>Vestrum indicent. Valete, et adiuvate nos</p>
+    <p>Silentio. GR. Valete semper in Deo.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-i.">
+    <head>ACTUS I. SCAENA I.</head>
+    <p>GRAPHE, HYPOMONE.</p>
+    <p>≤line=75≥ En pius Iobus innocens, timens Deum, et</p>
+    <p>Expers mali, percussus ulcere pessimo</p>
+    <p>In sterquilinio sordido putris iacet,</p>
+    <p>Testaque saniem radit, orbatus suis</p>
+    <p>Et liberis et praediis, et omnibus</p>
+    <p>≤line=80≥ Quibus ante felix floruit solaciis.</p>
+    <p>Nisi quod amici tres virique nobiles</p>
+    <p>Solandi eum venere tandem gratia,</p>
+    <p>Maesti, dolentes, lacrimantes plurimum,</p>
+    <p>Quos admodum tamen onerosos sentiet,</p>
+    <p>≤line=85≥ Sibique probro et scommate adversarier.</p>
+    <p>HY. Istaec video, soror mea, miseretque me</p>
+    <p>Viri boni. Sed cur vel unde id accidit</p>
+    <p>Iusto viro? Sine causa enim Deus pater</p>
+    <p>Numquam flagellat filios. GR. Verum id quidem,</p>
+    <p>≤line=90≥ Non semper autem propter admissum scelus,</p>
+    <p>Licet error hic tribus his viris (quamquam probis)</p>
+    <p>Et pluribus persuasus est. Siquidem Deus,</p>
+    <p>Pater uti pius, quem diligit castigat, et</p>
+    <p>Flagellat omnem filium quem suscipit,</p>
+    <p>≤line=95≥ Aut propter admissum scelus, quo corrigat,</p>
+    <p>Aut propter hoc, quo insigne per miraculum</p>
+    <p>Suam celebret in flagellis gloriam,</p>
+    <p>Aut certe ob hoc, quo exempla det tolerantiae</p>
+    <p>Et sustinentiae imbecillioribus,</p>
+    <p>≤line=100≥ Ne quando succumbant malo, et fide excidant.</p>
+    <p>HY. Recte quidem, soror mea, haec mihi disseris,</p>
+    <p>Consideroque non scelera punita in hoc</p>
+    <p>Iobo et in aliis per orbem plurimis,</p>
+    <p>Sed ad hoc patrem suis flagella immittere, ut</p>
+    <p>≤line=105≥ Patientiae exemplum paretur posteris</p>
+    <p>Deique in illis gloria manifesta sit.</p>
+    <p>Sed unde huic illata tanta calamitas?</p>
+    <p>GR. A diabolo Satane et hoste livido,</p>
+    <p>Generi omnium mortalium infestissimo.</p>
+    <p>≤line=110≥ Is namque filiis Dei dudum assilit,</p>
+    <p>Iustumque Iobum hypocriseos coram Deo</p>
+    <p>Falso arguit. Quare ut probetur innocens,</p>
+    <p>Primum Deus quae Iobi erant, cum liberis,</p>
+    <p>Satani cuncta dissipanda tradidit.</p>
+    <p>≤line=115≥ Deinde cum nequaquam adhuc labasceret,</p>
+    <p>Exulcerandam etiam cutem illi tradidit.</p>
+    <p>At his in omnibus nihil labiis suis</p>
+    <p>Peccavit aut contra Deum locutus est.</p>
+    <p>Quod Dominus (inquit) abstulit, dominus dedit,</p>
+    <p>≤line=120≥ Sit nomen illius benedictum in saecula.</p>
+    <p>HY. Puer hic meus, lacte educatus hactenus,</p>
+    <p>Iam solidiore roborandus est cibo,</p>
+    <p>Ne, dum caret mortalium solacio,</p>
+    <p>Deficiat in primario certamine.</p>
+    <p>≤line=125≥ Nostro utriusque fulciatur munere,</p>
+    <p>Verbo Dei, paracleti ad haec solacio.</p>
+    <p>GR. Recte mones, mea Hypomone, quandoquidem</p>
+    <p>Procul intuentes tres amici nil ferent</p>
+    <p>Boni ominis lacrimando, nil solaminis.</p>
+    <p>≤line=130≥ Eccos parant miserum modo virum aggredi.</p>
+    <p>Nos antevortamus priores, et loqui</p>
+    <p>Illis parantem exaudiamus. HY. Adi. Placet</p>
+    <p>Ut audiamus quid rei occeptet loqui.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-ii.">
+    <head>ACTUS I. SCAENA II.</head>
+    <p>IOBUS, GRAPHE, HYPOMONE, LAZARUS cum LEPROSIS.</p>
+    <p>Pereat dies qua me edidit mater mea</p>
+    <p>≤line=135≥ Et illa nox qua prodii in lucem miser.</p>
+    <p>Egressus utero cur statim non occidi?</p>
+    <p>Quid genibus exceptus, nutritus ubere?</p>
+    <p>Modo siquidem sepultus atque dormiens</p>
+    <p>Cum regibus quiescerem, liberrimus</p>
+    <p>≤line=140≥ A strepitu et impiis tumultuantibus.</p>
+    <p>GR. Iam iam, soror, res postulat loqui viro</p>
+    <p>Quod gliscat atque ferveat tentatio. HY. Hem.</p>
+    <p>Ut est, Iobe vir Dei? Vocem tuam</p>
+    <p>Sub sarcina gementis exaudivimus,</p>
+    <p>≤line=145≥ Et venimus tui misertae, ut ab omnibus</p>
+    <p>Te derelictum refoveamus uberi</p>
+    <p>Solacio. IO. Quodnam mihi solacium?</p>
+    <p>Quae estis, vel unde, dominae, adestis? Obsecro,</p>
+    <p>Dicite mihi, quae neutiquam sterquilinium</p>
+    <p>≤line=150≥ Meum, putredinem et ulcera aspernamini.</p>
+    <p>HY. Ego hactenus tibi familiaris Hypomone,</p>
+    <p>Tibi soror amica, et in omnibus contrariis</p>
+    <p>Individua comes, tua patientia.</p>
+    <p>Adeone mihi dissimilis esse tibi videor,</p>
+    <p>≤line=155≥ Ut me velut non cognitam hactenus roges?</p>
+    <p>Aut hanc Graphen, cum qua tibi semper fuit</p>
+    <p>Laetum atque amicum ubique contubernium?</p>
+    <p>IO. O mater Hypomone, mea patientia,</p>
+    <p>Suffundor heu miser rubore et lacrimis,</p>
+    <p>≤line=160≥ Quod adeo mente distrahor caecutioque</p>
+    <p>Ut dudum amicam te vel hanc non noverim.</p>
+    <p>O quis mihi det ut siem iuxta dies</p>
+    <p>(Heu) pristinos, quando Deus secreto erat</p>
+    <p>Mecum in tabernaculo meo, vestro quoque</p>
+    <p>≤line=165≥ Dulci fruebar cantico atque affamine.</p>
+    <p>Quando pedes meos lavabam butyro,</p>
+    <p>Et petra mihi fundebat olei rivulos.</p>
+    <p>Conversa nunc cithara mea est in luctum, et in</p>
+    <p>Plorantium vocem (heu) meum psalterium.</p>
+    <p>≤line=170≥ HY. Ut assequi queas, Iobe, quod expetis,</p>
+    <p>Nostraque denuo frui praesentia,</p>
+    <p>Te accessimus. Sed obsecro, quid aegrior</p>
+    <p>Nunc animus est quam erat diebus pristinis,</p>
+    <p>Idem quod omnibus sibi fidentibus</p>
+    <p>≤line=175≥ Maneat Deus piissimus, nec deserat</p>
+    <p>Sibi dicatos servulos? IO. Heu me, Deum</p>
+    <p>Olim mihi mitissimum mutarier</p>
+    <p>Iam experior in saevissimum, et durissima</p>
+    <p>Manu mihi adversarier. Me stantem enim</p>
+    <p>≤line=180≥ Non respicit, nec invocantem exaudit. O</p>
+    <p>Si appenderentur in statera crimina</p>
+    <p>Iram quibus merebar, atque calamitas</p>
+    <p>Quam patior, haec ut arena ponti mage gravis</p>
+    <p>Videbitur. Verba hinc dolore plena sunt.</p>
+    <p>≤line=185≥ Oves, boves, asinos, camelos, liberos</p>
+    <p>Et cuncta quae possederam cum gloria,</p>
+    <p>Simul unus abstulit dies. Postque omnia haec</p>
+    <p>Me dominus hoc percussit ulcere pessimo,</p>
+    <p>Ut capitis usque ad verticem a plantis pedum</p>
+    <p>≤line=190≥ Sit nulla prorsus residua in cute sanitas.</p>
+    <p>Me ridet uxor et horret halitum meum;</p>
+    <p>Qui amici erant, vel ut alienum deserunt,</p>
+    <p>Vel, quod ferendum est aegrius, nunc increpant,</p>
+    <p>Nunc exprobrant, nunc verberant convitio,</p>
+    <p>≤line=195≥ Et heu meis saturantur ultro carnibus.</p>
+    <p>Eoque res sunt devolutae, ut expetam</p>
+    <p>(Quod magnitudine me sua premat Deus)</p>
+    <p>Ne parcat his doloribus, sed perpetim</p>
+    <p>Ad unicum solacium me puniat.</p>
+    <p>≤line=200≥ HY. Tune ulcera haec fers aequanimiter, Lazare?</p>
+    <p>Lepramne tu qua sordidaris luridam?</p>
+    <p>LA. Qui patiar aerumnam hanc miser animo integro,</p>
+    <p>Quem non modo ulcerum et morbi gravis dolor,</p>
+    <p>Sed et fames et gravior excruciat sitis?</p>
+    <p>≤line=205≥ Quodque inter haec gravissimum, omnium mihi</p>
+    <p>Mortalium subducitur solacium.</p>
+    <p>Plus mihi canes lingua adferunt solacii</p>
+    <p>Quam dives hic, vicinus hic, Laemargus hic</p>
+    <p>In omnium rerum suarum copia,</p>
+    <p>≤line=210≥ In fertulorum luxu et affluentia.</p>
+    <p>Qui ne quidem sibi decidentes miculas</p>
+    <p>Mihi sivit largirier. LEP. Qui potero ego hanc</p>
+    <p>Quoque ferre lepram animo volenti, quae afficit</p>
+    <p>Dolore me totumque corpus inficit,</p>
+    <p>≤line=215≥ Foedat facitque prorsum abominabile.</p>
+    <p>HY. Sunt dura, Iobe, Lazare et reliqui viri,</p>
+    <p>Quae patimini, sed duriora oportet haec</p>
+    <p>Me praediti patientia revincere,</p>
+    <p>Quam in omnibus contrariis habebitis</p>
+    <p>≤line=220≥ (Si postuletis) praesidem invictissimam.</p>
+    <p>Vobis quoque haec Graphe in omnibus maeroribus</p>
+    <p>Perpetuo erit dulcissimo solacio.</p>
+    <p>Nunc age, soror, qua praedita es facundia</p>
+    <p>Et hunc Iobum et ulcerosum Lazarum</p>
+    <p>≤line=225≥ Solare, robora, instrue ad patientiam.</p>
+    <p>GRA. Libens eos hortabor ad tolerantiam.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-iii.">
+    <head>ACTUS I. SCAENA III.</head>
+    <p>GRAPHE sola.</p>
+    <p>Scriptura sacra ex ore caelestis patris</p>
+    <p>Progressa, Iobe et ceteri viri Deo</p>
+    <p>Carissimi, haud modo ad docendum est utilis,</p>
+    <p>≤line=230≥ Verum etiam ad exhortandum et elevandum eos</p>
+    <p>Solacio, quibus animus variis modis</p>
+    <p>Affligitur, multo omnium utilissima.</p>
+    <p>Si me igitur audias, Iobe cum tuis</p>
+    <p>Et morbidis et ulcerosis Lazaris,</p>
+    <p>≤line=235≥ Faxo patris per gratiam, ut nec temporis</p>
+    <p>Nec datae operae te paeniteat in saecula.</p>
+    <p>Defectioni namque te iam proximum</p>
+    <p>Verbo Dei corroborabo et erigam</p>
+    <p>Solacio, quo perferenda ad omnia</p>
+    <p>≤line=240≥ Sit prompta mens et animus inperterritus.</p>
+    <p>Ad quae assequenda forsitan sint pluria,</p>
+    <p>Unam tamen prae ceteris patientiam,</p>
+    <p>Divina origine suavibusque moribus,</p>
+    <p>Merito tibi amplectendam et observandam ad haec</p>
+    <p>≤line=245≥ Proponimus, qua non modo decoraberis,</p>
+    <p>Sed pluribus quoque dotibus beaberis.</p>
+    <p>Ob hanc enim mortalibus probandam et hanc</p>
+    <p>Suo ipsius exemplo approbandam, filius</p>
+    <p>Altissimi patris, relicta gloria</p>
+    <p>≤line=250≥ Trabeaque amictus carnea, lutulentam in hanc</p>
+    <p>Vallem, cavernam, ergastulum, has in lacrimas,</p>
+    <p>Tenebras, calamitatesque multo plurimas</p>
+    <p>Se inmisit, involvitque et immersit penitissime.</p>
+    <p>Quod namque calamitatis est usquam genus,</p>
+    <p>≤line=255≥ Quod non Dei suscepit in se filius?</p>
+    <p>Natus peraegre et hieme, matre paupere et</p>
+    <p>Incognita, in praesepe pannis obsitus</p>
+    <p>Cubat, hostibus cedit, Satana patitur et</p>
+    <p>Post mille sudores, angustias, minas,</p>
+    <p>≤line=260≥ Probra et improperia, aestum et gelu, famem et
+    sitim</p>
+    <p>Ab impiis tandem ligatus, ducitur</p>
+    <p>A iudice uno ad alterum, ridetur et</p>
+    <p>Sputo oblitus alapa et flagellis caeditur.</p>
+    <p>Et post coronam spineam induviis suis</p>
+    <p>≤line=265≥ Exutus est, spoliatus est, crucifixus est;</p>
+    <p>Post fellis inde poculum desertus a</p>
+    <p>Patre omnibusque inter latrones occidit.</p>
+    <p>Et inter haec mitissime omnia pertulit.</p>
+    <p>Nam probra passus, neutiquam probra intulit.</p>
+    <p>≤line=270≥ Poenas nec inferentibus minatus est</p>
+    <p>Pro seque crucifigentibus precatus est.</p>
+    <p>An non in his, Iobe, filius Dei</p>
+    <p>Honestat hanc quam extollimus patientiam?</p>
+    <p>An non eandem praebuit imitabilem? An</p>
+    <p>≤line=275≥ Non gloriosa, non honesta servulo</p>
+    <p>Censentur arma quibus erus pugnaverit?</p>
+    <p>An non decorum militi, duci suo</p>
+    <p>Si paribus armis militet? Iam cum tuis,</p>
+    <p>Iobe, confer haec malis, et si sapis,</p>
+    <p>≤line=280≥ Minimis profecto comparabis maxima.</p>
+    <p>Quereris te oves, boves, camelos, liberos</p>
+    <p>Et cuncta quae possederas, uno die</p>
+    <p>Amisisse, ad haec putrescere ulcere pessimo:</p>
+    <p>Succurrat hoc quod praeter haec mala quae ipse dux</p>
+    <p>≤line=285≥ Pro te tulit, quod ab initio, quotquot Deo</p>
+    <p>Placuere, per tribulationes plurimas</p>
+    <p>Exercitati, verbera et ludibria</p>
+    <p>Et carceres et vincula experti, insuper</p>
+    <p>Afflicti, egentes, anxii, in fame et siti,</p>
+    <p>≤line=290≥ In nuditate, frigore, et laboribus,</p>
+    <p>Lapidati, adusti, secti, ad ultimum ignibus</p>
+    <p>Gladiisve caesi sunt. Et omnes hi fide et</p>
+    <p>Patientia invicta sine querimonia</p>
+    <p>Vicere regnorum duces et satrapas,</p>
+    <p>≤line=295≥ Vicere et omnes inferorum principes,</p>
+    <p>Et plus pati valuere quam illi infligere.</p>
+    <p>Ex his, Iobe, colligis, quam insignis est</p>
+    <p>Adeoque tibi cum ceteris in omnibus</p>
+    <p>Veneranda et observanda sit patientia.</p>
+    <p>≤line=300≥ Sique utilis vel commodi rationem habes,</p>
+    <p>Multo omnium utilissima est tolerantia,</p>
+    <p>(Plus dico) maxime quoque necessaria,</p>
+    <p>Fortunae in adversantibus tot casibus.</p>
+    <p>Quod absque ea nil profutura sit mali</p>
+    <p>≤line=305≥ (Quantumlibet molesta sit) perpessio.</p>
+    <p>Per hanc enim tolerantiam non quodlibet</p>
+    <p>Tibi temporalium lucellum, (scilicet)</p>
+    <p>Opes, voluptates, honorem et gloriam,</p>
+    <p>Corradis, at Dei favorem et gratiam,</p>
+    <p>≤line=310≥ Tranquillitatem conscientiae, dein</p>
+    <p>Post miseriam vitam et perennem gloriam.</p>
+    <p>Si Christo enim compatere, cum Christo quoque</p>
+    <p>Regnabis, et beatus eris in saecula.</p>
+    <p>Facessat hinc et os opprimat, sapientia</p>
+    <p>≤line=315≥ Tumidus inani, quoslibet qui ignobiles,</p>
+    <p>Qui inopes viros, qui morbidos, qui pauperes,</p>
+    <p>Qui ceterisque incommodis laboribus</p>
+    <p>Et misere et afflictim dolentes, indicat</p>
+    <p>Miseros, et ut longe a salute dissitos</p>
+    <p>≤line=320≥ Ludibrio habet. Facessat (inquam) eiusmodi,</p>
+    <p>Quod eos beatos veritas pronuntiat,</p>
+    <p>Regnum quibus caeleste iam promittitur,</p>
+    <p>Et iuge post has lacrimas solacium.</p>
+    <p>Amplectere igitur denuo divinitus</p>
+    <p>≤line=325≥ Mecum tibi datam et obviam patientiam.</p>
+    <p>Sit tecum ei commune diversorium,</p>
+    <p>Commune stratum et mensa communis siet;</p>
+    <p>Sit tibi cum ea castum et stabile connubium.</p>
+    <p>Si opes petas, scientiam, aut quae iusta sunt,</p>
+    <p>≤line=330≥ Facile omnium haec erit artifex. Per hanc tibi</p>
+    <p>In populo habebis gratiam, atque inter senes</p>
+    <p>Loquens tacensve plurimum veneraberis,</p>
+    <p>Reges timebunt strenui robur tuum,</p>
+    <p>Patiens quod es forti viro potentior.</p>
+    <p>≤line=335≥ Intrans domum cum ea quiesces, non enim</p>
+    <p>Convictus eius habet amaritudinem,</p>
+    <p>Castam sed oblectationem et gaudium.</p>
+    <p>Nam quicquid in laudem increatae dicitur</p>
+    <p>Sapientiae (quandoquidem et haec non minima pars</p>
+    <p>≤line=340≥ Sapientiae est), merito huius in laudem eloquor.</p>
+    <p>Cum nil sit itaque quod patres honestius,</p>
+    <p>Utilius aut iucundius tolerantia,</p>
+    <p>His cum tuis, amice Iobe, Lazaris</p>
+    <p>Complectere hanc (ut dixeram) tibi redditam, et</p>
+    <p>≤line=345≥ Solacium tibi tuisque singulis</p>
+    <p>Brevissime certo adfuturum credito.</p>
+  </div>
+  <div type="level2" xml:id="actus-i.-scaena-iv.">
+    <head>ACTUS I. SCAENA IV.</head>
+    <p>IOBUS, HYPOMONE, GRAPHE.</p>
+    <p>Unum locutus sum, quod o utinam meis</p>
+    <p>Dominae meae non excidisset faucibus,</p>
+    <p>Et alterum, quibus nihil post addam: ob hoc</p>
+    <p>≤line=350≥ Nunc ipse me reprehendo temeritatis, et</p>
+    <p>In timore et in favilla et in lacrimis miser</p>
+    <p>Ago paenitentiam. Sed oro te et obsecro, o</p>
+    <p>Mea Hypomone, mater mea et domina mea,</p>
+    <p>Ut recipias in pristinam me gratiam.</p>
+    <p>≤line=355≥ Quaecumque me dominus subire voluerit</p>
+    <p>Vel perpeti, patiar libens vel exsequar.</p>
+    <p>Tantummodo merear invenire gratiam in</p>
+    <p>Oculis tuis. HY. Quam quaeris, assecutus es</p>
+    <p>Tibi cum tuis, mi care Iobe, gratiam.</p>
+    <p>≤line=360≥ Me quamquam enim deserere paulum visus es,</p>
+    <p>Te neutiquam tamen Deus deseruerat,</p>
+    <p>Quia misit ad te filiam suam Graphen</p>
+    <p>Et me tibi ad solacium. Nec deseram.</p>
+    <p>Confidito, licet me abire videris,</p>
+    <p>≤line=365≥ Nempe ad alios qui nostro egent solamine:</p>
+    <p>Tamen ut eos invisimus, vos denuo</p>
+    <p>Videbimus, flentesque nunc, gaudebitis.</p>
+    <p>GR. Iam adeant amici, ut audias, Iobe, quid</p>
+    <p>Suffrigidi solacii tibi conferent.</p>
+    <p>≤line=370≥ Nos exsequamur nostra, Hypomone, munera.</p>
+    <p><hi rendition="simple:bold">CHORUS.</hi></p>
+    <p>Iambico dimetro.</p>
+    <p>Scio redemptorem meum</p>
+    <p>Certoque novi vivere,</p>
+    <p>Et in novissimo die</p>
+    <p>Terrae resurgam ex pulvere.</p>
+    <p>≤line=375≥ Pelle innovata denuo</p>
+    <p>Circumdatus Deum meum</p>
+    <p>Videbo, carni redditus</p>
+    <p>Non sordidae sed splendidae.</p>
+    <p>Ego ipse, non alius, eum</p>
+    <p>≤line=380≥ Visurus oculis sum meis;</p>
+    <p>Reposita spes haec est mea</p>
+    <p>Certissima in sinu meo.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-i.">
+    <head>ACTUS II. SCAENA I.</head>
+    <p>ABISAI, IOABUS.</p>
+    <p>Perpetuo erit nobis, Ioabe, opprobrio et</p>
+    <p>Nostrae familiae macula inexpiabilis</p>
+    <p>≤line=385≥ Si avunculum Davida nostrum, cui hactenus</p>
+    <p>In prosperis adhaesimus, tam enerviter</p>
+    <p>Iam deseramus rebus in contrariis.</p>
+    <p>Praesertim ob hoc, quod pro Saule reprobo, hunc</p>
+    <p>Regem a Deo delectum et unctum novimus.</p>
+    <p>≤line=390≥ IO. Quid temere agamus, Abisai? Periculo ut</p>
+    <p>Nos inferamus iudicas? Quidnam duo</p>
+    <p>Ferant opis iam derelicto ab omnibus?</p>
+    <p>Rex castra habet, praesidia habet, validumque habet</p>
+    <p>Et fortium magnum virorum exercitum.</p>
+    <p>≤line=395≥ Praeter fugam latebrasque solas fortibus</p>
+    <p>Viris minus dignas, nihil nobis foret</p>
+    <p>Praesidii. Ob hoc temerarium fore iudico</p>
+    <p>Tantam aggredi rem, non citra periculum.</p>
+    <p>AB. Paucis, Ioabe, sine tibi respondeam.</p>
+    <p>≤line=400≥ Primum (inquis) aut nihil aut admodum parum</p>
+    <p>Adferre opis duos, ut hostibus suis</p>
+    <p>Resistat David; id fatear equidem, nisi</p>
+    <p>Per nos duos sunt excitandi plurimi</p>
+    <p>Ex omnibus tribubus viri fortissimi,</p>
+    <p>≤line=405≥ Qui animo volenti et mente constantissima</p>
+    <p>Mox advolabunt, postea quam viderint</p>
+    <p>Nos duo sacramento alligatos principi.</p>
+    <p>Virosque sexcentos videbis, qui duos</p>
+    <p>Dumtaxat hos recensuisti. &lt;. . . .&gt;</p>
+    <p>≤line=410≥ Rex (inquis) arma, castra, militesque habet.</p>
+    <p>Et nos habebimus arma, castra, milites.</p>
+    <p>An non habet mucronem hic ensis et tuus?</p>
+    <p>An non et hastae nostrae habebunt cuspides?</p>
+    <p>At copia rerum omnium praestat Saul.</p>
+    <p>≤line=415≥ Esto. Sed hoc persuasum habe, quod haud secus</p>
+    <p>In pauculis servet Deus quam in plurimis.</p>
+    <p>Nec (ut putas) temerarium est si pro tuis</p>
+    <p>Uxoribus, pro liberis, pro legibus,</p>
+    <p>Pro patriaque vindicanda ab hostibus</p>
+    <p>≤line=420≥ Periculo te obieceris, nisi temere</p>
+    <p>Davida puerum temeritatis arguas,</p>
+    <p>Qui μονομάχος fecit salutem in Israhel.</p>
+    <p>Ambire namque periculum stulti hominis est,</p>
+    <p>Vitare (si res postulat) prudentis est,</p>
+    <p>≤line=425≥ Pro iusto et aequo perpeti fortissimi est.</p>
+    <p>Nec dedecet fortem subinde fugere, si</p>
+    <p>Res postulet, servetur ut potioribus.</p>
+    <p>Te, horum licet sim iunior, fratrem meum</p>
+    <p>Admoneo, teque ut sentias mecum obsecro:</p>
+    <p>≤line=430≥ Eamus et pro viribus Christum Elohim</p>
+    <p>Tueamur et solemur anxium et exsulem.</p>
+    <p>IO. Haec si tibi stat, Abisai, sententia,</p>
+    <p>Adeamus, atque derelictum et exsulem</p>
+    <p>Utrique nostrum pro virili dum comes</p>
+    <p>≤line=435≥ Vita fuerit, iuvemus armis bellicis,</p>
+    <p>Solemur et praesentia, quod David os</p>
+    <p>Nostrum sit, et caro nostra, noster avunculus.</p>
+    <p>En commodum, ipse e latibulo sese exserit.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-ii.">
+    <head>ACTUS II. SCAENA II.</head>
+    <p>DAVID, IOABUS, ABISAI, TYRO.</p>
+    <p>Ex psalmo 88, versu Glyconico.</p>
+    <p>Te salutis ut anchoram</p>
+    <p>≤line=440≥ Iugiter Deus invoco.</p>
+    <p>Coram admitte preces meas,</p>
+    <p>Aurem porrige supplici.</p>
+    <p>Implent heu mala cor meum,</p>
+    <p>Et iam vergit ad inferos.</p>
+    <p>≤line=445≥ Ut lapsurus et in lacum</p>
+    <p>Aut iam mortuus aestimor.</p>
+    <p>Ut caesi in tumulis iacent</p>
+    <p>Quorum haud es memor amplius,</p>
+    <p>Immergor puteo infero</p>
+    <p>≤line=450≥ In mortis tenebras miser.</p>
+    <p>IO. Maerore diro, ex luctuoso cantico,</p>
+    <p>Advertimus animum viri modo affici;</p>
+    <p>Adeamus et solemur. AB. Id prorsum expedit.</p>
+    <p>IO. Scholom lecha, vir omnium fortissime!</p>
+    <p>≤line=455≥ AB. Pax pax tibi, καὶ πᾶσιν συμμάχοις σέθεν,</p>
+    <p>Rex David invictissime. DA. Heu, quae pax mihi?</p>
+    <p>IO. Resume, rex, animos priores, nec minas</p>
+    <p>Regis paveto lividi, quod te adiuvet</p>
+    <p>Deus tuus. Ego quoque meis cum fratribus</p>
+    <p>≤line=460≥ Te clipeo et hasta fortiter iuvabimus.</p>
+    <p>AB. Iuvabimus pro viribus. Tui sumus,</p>
+    <p>O David, et tecum sumus filii Isai,</p>
+    <p>Quod os tuum et caro tua sumus, rex Israhel,</p>
+    <p>Tibi proximi. DA. Heu. Dumtaxat habeo vos duos?</p>
+    <p>≤line=465≥ Ex omnibus quondam mihi familiaribus?</p>
+    <p>AB. Duos habes tibi integros, pauloque post</p>
+    <p>Nostrum insequentes tramitem quam plurimos</p>
+    <p>Habiturus es, quibus ut leonum corda sunt</p>
+    <p>Faucesque sunt viresque sunt: confidito.</p>
+    <p>≤line=470≥ DA. Qui fidere queam? Ingredimini, heu dolor.</p>
+    <p>TY. Confide, rex. DA. Quinam queam, puer optime,</p>
+    <p>In his malis prementibus? TY. Ne lacrima.</p>
+    <p>Quod Ionathas probus Saulis improbi</p>
+    <p>Filius adest, referetque spero prospera.</p>
+    <p>≤line=475≥ Sed et Banaias Ioiadae gnatus, tibi</p>
+    <p>Fidus, modo advenit, atque sexcentos viros</p>
+    <p>Adducit ultro ex Israhel fortissimos.</p>
+    <p>Confide, vicimus. DA. I, puer; mox subsequar.</p>
+    <p>Me tua opprimit undique</p>
+    <p>≤line=480≥ Ira et omne genus mali.</p>
+    <p>Elongas mihi cognitos</p>
+    <p>Qui aspernantur et exprobrant.</p>
+    <p>Angor nec scio qui malis</p>
+    <p>Me tantis miser explicem;</p>
+    <p>≤line=485≥ Languere oculi mei,</p>
+    <p>Quod non sit qui inopem iuvet.</p>
+    <p>Elongasti et amiculos,</p>
+    <p>Atque omnes mihi proximos,</p>
+    <p>Tum notos mihi quoslibet,</p>
+    <p>≤line=490≥ Ne quemvis videam miser.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-iii.">
+    <head>ACTUS II. SCAENA III.</head>
+    <p>HYPOMONE, GRAPHE.</p>
+    <p>Davida cernis lugubrem, soror mea?</p>
+    <p>GR. Cerno, atque condoleo viro maestissimo,</p>
+    <p>Cuius manus fecere quondam et organum et</p>
+    <p>Psalterium, cecinitque laeta cantica;</p>
+    <p>≤line=495≥ Iam, proh dolor, lugubre canit ἐπικήδιον.</p>
+    <p>Scitare causam, ut adferam solacium.</p>
+    <p>HY. Scitabor; accedamus utraque proprius: heu,</p>
+    <p>Videtur a me paululum desciscere.</p>
+    <p>GR. Adi, sequar. Domine Deus, quid est homo,</p>
+    <p>≤line=500≥ Quod eum evehis, pro eoque curam suscipis?</p>
+    <p>Quem namque mane visitas, subito probas.</p>
+    <p>HY. Ades soror, iam tempus est ut audias</p>
+    <p>Quam canere coepit cantionem lugubrem,</p>
+    <p>Plenam doloris atque maestitudinis.</p>
+    <p>≤line=505≥ Cavendum erit ne langueat per inopiam.</p>
+    <p>GR. Sile, audiamus quod residuum est cantici.</p>
+    <p>DAVID cum SOCIIS.</p>
+    <p>Psal. 88, versu Glyconico ut supra: Te salutis.</p>
+    <p>Ad te vociferor Deus.</p>
+    <p>Et te mane prece occupo.</p>
+    <p>Cur mentem reprobrans meam,</p>
+    <p>≤line=510≥ Avertis faciem tuam?</p>
+    <p>Aerumnosus eram atque inops,</p>
+    <p>Evectumque modo opprimis.</p>
+    <p>Irae me cruciant tuae</p>
+    <p>Terroresque tui aggravant.</p>
+    <p>≤line=515≥ Cinxerunt velut unda me,</p>
+    <p>Cinxerunt simul undique.</p>
+    <p>Subduxti mihi proximum,</p>
+    <p>Abscondisti et amiculos.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-iv.">
+    <head>ACTUS II. SCAENA IV.</head>
+    <p>HYPOMONE, GRAPHE, DAVID.</p>
+    <p>Audisti hunc, soror mea? GR. Hunc audivimus</p>
+    <p>≤line=520≥ Plenum doloris terminantem canticum,</p>
+    <p>In quo suae mentis recenset taedia et</p>
+    <p>Angustias defectioni proximae.</p>
+    <p>Quam discrepavit cantio haec a pristina,</p>
+    <p>Qua cecinit olim mente constantissima:</p>
+    <p>≤line=525≥ Deus Israhel nobis refugium et robur est,</p>
+    <p>Adiutor in malis nimis prementibus.</p>
+    <p>Hinc terra si turbetur, haud timebimus,</p>
+    <p>Montes ne transferantur in medium maris.</p>
+    <p>Iam sciscitare quae doloris causa sit.</p>
+    <p>≤line=530≥ HY. Iam sciscitor. Ben Iesse, salve plurimum.</p>
+    <p>DA. Noti mei longe recessere, heu dolor,</p>
+    <p>A me, domina mea Hypomone; tu sola mihi</p>
+    <p>(Flens dico) ades in his extimis angustiis.</p>
+    <p>HY. Quid, obsecro, tu tristis es, generose rex,</p>
+    <p>≤line=535≥ Quem elegit unum ex millibus Deus Israhel,</p>
+    <p>Ut pasceres populum suum ac defenderes?</p>
+    <p>Quid itaque tam carus Deo iam tristis es?</p>
+    <p>Cur profugus hoc in antro opaco desides?</p>
+    <p>DA. Tu nosti (ut inquis), Hypomone, quemadmodum</p>
+    <p>≤line=540≥ Greges pascentem in pascuis me assumpserit</p>
+    <p>Deus Israhel, et unxerit me regem huic</p>
+    <p>Populo, Saule reprobato, quem sibi</p>
+    <p>Poposcerat. HY. Novi probe, perge eloqui.</p>
+    <p>DA. Is mihi modo et meis (licet quondam anxie</p>
+    <p>≤line=545≥ Malo subinde numine afflato puer</p>
+    <p>In cithara et in psalterio inserverim)</p>
+    <p>Molitur insidias ubique gentium,</p>
+    <p>Persequitur usque situm et usque necem meam, at</p>
+    <p>Cum coniugibus et liberis facit exsulem.</p>
+    <p>≤line=550≥ Praecipue ob hoc, cum laude quod vastissimo</p>
+    <p>Corpore Philistaeum ego puer ceciderim,</p>
+    <p>Fundaque nostrae gentis hostem exstinxerim,</p>
+    <p>Et inter haec quantumlibet rempublicam</p>
+    <p>Armis meis et auxerim et defenderim.</p>
+    <p>≤line=555≥ Vix unus est ex omnibus notis meis,</p>
+    <p>Meis quoque necessariis, qui ferat opem aut</p>
+    <p>Solacium. Devenio ob haec eo fere</p>
+    <p>Pusillanimitatis miserrimus, ut putem</p>
+    <p>Deum interim deserere me aut propellere.</p>
+    <p>≤line=560≥ His addo quod promiserit, sancte quoque</p>
+    <p>Iuraverit, se praestiturum plurima,</p>
+    <p>Non modo mihi et generi meo, sed et omnibus</p>
+    <p>In orbe gentibus salutem et gratiam. At</p>
+    <p>Nunc velut abortivum atque stirpem inutilem</p>
+    <p>≤line=565≥ Seu negligit seu concitatus abicit.</p>
+    <p>HY. Profecto non exigua sunt quae patere, rex,</p>
+    <p>Et mente vix ferenda tranquilla viro.</p>
+    <p>Nec homo tibi in tantis malis medebitur.</p>
+    <p>Verum ubi labant humana, semper proxima</p>
+    <p>≤line=570≥ Divina sunt. Soletur haec divina te</p>
+    <p>Graphe tuis, rex, propriis sermonibus.</p>
+    <p>DA. O nil prius mihi istius sermonibus.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-v.">
+    <head>ACTUS II. SCAENA V.</head>
+    <p>HYPOMONE, GRAPHE, DAVID.</p>
+    <p>Ades, Graphe, et fecunda resera pectoris</p>
+    <p>Scrinia tui, quo regem et hos reliquos viros</p>
+    <p>≤line=575≥ Solamine solito erigas. GR. Adsit Deus</p>
+    <p>Verbo suo, quod mea opera Davida te</p>
+    <p>Solabitur. Audivimus te et doluimus,</p>
+    <p>Minime tamen defecimus. Medebimur</p>
+    <p>Siquidem tibi pro viribus, quibus a Deo</p>
+    <p>≤line=580≥ Sumus utraque praeditae. Primum omnium</p>
+    <p>E pascuis te inquis vocatum ad gloriam</p>
+    <p>Regni a Deo, Saule deiecto impio.</p>
+    <p>Gaude quod ita Deo tuo tu placueris,</p>
+    <p>Ut te ob tuam modestiam provexerit,</p>
+    <p>≤line=585≥ Illum quoque ob superbiam detruserit.</p>
+    <p>Quem pudeat ad magna a Deo vocarier?</p>
+    <p>Absit putes quod in hoc Deus te evexerit</p>
+    <p>Ut deiceret eo altius, sed in hoc, suam</p>
+    <p>Quo promoveres gloriam, populum suum</p>
+    <p>≤line=590≥ Cordis tui pascendo in innocentia et</p>
+    <p>Operum tuorum sedula prudentia</p>
+    <p>Ducendo eos et vindicando ab hostibus.</p>
+    <p>Quereris ad haec, quod persequatur te Saul,</p>
+    <p>Et in necem coniuret impius tuam.</p>
+    <p>≤line=595≥ An non Deus multo valet te fortius</p>
+    <p>Defendere, ac te persequi qui es filius?</p>
+    <p>Novit Deus quos ignibus reservet, et</p>
+    <p>Quos gloria ac honore decoraturus est.</p>
+    <p>Exercet hos tentando per patientiam,</p>
+    <p>≤line=600≥ At in malis illos moriri sustinet.</p>
+    <p>Memento quidnam dudum ovans cantaveris:</p>
+    <p>O quam bonus Deus Israhel, praesertim iis,</p>
+    <p>Qui corde recti sunt, quibus mens integra.</p>
+    <p>Verum mei ferme vacillarunt pedes,</p>
+    <p>≤line=605≥ Paulo minusque effusi erant gressus mei,</p>
+    <p>Quod aemularer impios, peccantium</p>
+    <p>Pacem videns, et gaudium insipientium.</p>
+    <p>Nec mors eorum (ut est piorum) incommoda,</p>
+    <p>Afflictioque neutiquam diutina est.</p>
+    <p>≤line=610≥ Mortalium a laboribus sunt liberi,</p>
+    <p>Mortalium quoque a flagellis liberi,</p>
+    <p>Quapropter et tenuit eos superbia,</p>
+    <p>Totos eos operuit ipsa iniquitas.</p>
+    <p>Et reliqua quae pulcherrime exsecutus es</p>
+    <p>≤line=615≥ De prosperis mortalium successibus.</p>
+    <p>Tandemque claudis aurea sententia</p>
+    <p>Hac, qua pios et impios delineas:</p>
+    <p>Omnes peribunt qui recedunt a Deo,</p>
+    <p>Perdes et omnem fornicantem abs te, Deus.</p>
+    <p>≤line=620≥ Porro mihi adhaerere domino Deo bonum est,</p>
+    <p>Et ponere in Deo meam fiduciam.</p>
+    <p>Horum memento et plurium, rex Israhel,</p>
+    <p>Certo sciens hostes tuos in impetu</p>
+    <p>Fundae rotandos, at animam cernes tuam</p>
+    <p>≤line=625≥ Viventium in fasciculo reconditam.</p>
+    <p>Neque te, cui sapientiae suae abdita</p>
+    <p>Aperuit et per te salutem saeculo</p>
+    <p>Promisit, aut (id quod sonant θρῆνοι tui)</p>
+    <p>Abominandum aut reiciendum creduas.</p>
+    <p>≤line=630≥ An non canis Deum fidelem in omnibus</p>
+    <p>Verbis suis, et sanctum in omnibus operibus suis?</p>
+    <p>Rectumne verbum domini, et omnia illius</p>
+    <p>Opera in fide, citraque controversiam?</p>
+    <p>Te abiciat ergo qui tibi et per te omnibus</p>
+    <p>≤line=635≥ Mortalibus tam magna praestiturus est?</p>
+    <p>Succurrat Israhelis exsulantis ob</p>
+    <p>Fratris sui formidinem aestus et gelu,</p>
+    <p>Qui per suam tolerantiam placuit Deo</p>
+    <p>Et genti huic celebre novum indidit.</p>
+    <p>≤line=640≥ Divini Ioseph servitus veniat tibi in</p>
+    <p>Mentem, atque Moseos exsulantis servitus.</p>
+    <p>Nosti tamen provectum utrumque ad gloriam,</p>
+    <p>Animo quod aequo iniuriam toleraverit.</p>
+    <p>Audi itaque me, David, et hanc tuam Hypomonen</p>
+    <p>≤line=645≥ Ulnis (quod aiunt) obviis amplectere,</p>
+    <p>Per quam tibi mox quaeque amara dulcia</p>
+    <p>Futura sunt, et dura quaeque mollia.</p>
+    <p>Facietque te Deus per hanc cunctis tuis</p>
+    <p>Excelsiorem his hostibus teque profugum</p>
+    <p>≤line=650≥ Et exsulem cum coniugibus et liberis</p>
+    <p>Reducet ad regni tui amplam gloriam.</p>
+    <p>DA. Lacrimae meae mihi fuerunt hactenus</p>
+    <p>Pares diu noctuque prae doloribus,</p>
+    <p>Per singulos cum dicerent mihi dies</p>
+    <p>≤line=655≥ Hostes mei: Ubi modo est deus tuus, in quo habes</p>
+    <p>Fiduciam? Sed nunc resumpto spiritu</p>
+    <p>Illacrimor prae gaudio. Cur maesta sis,</p>
+    <p>Anima mea? Ecquid maesta sis? Spera in Deo.</p>
+    <p>Adhuc enim celebrabo eum, vultus mei</p>
+    <p>≤line=660≥ Salutem et omne gaudium, et Deum meum.</p>
+    <p>Iam iam Deo subiecta sis anima mea.</p>
+    <p>Ab ipso enim tibi reddita est patientia.</p>
+    <p>Ades mihi, mea Hypomone. HY. En adsum tibi</p>
+    <p>Non defutura. DA. Ades mihi, quo denuo</p>
+    <p>≤line=665≥ Te amplectar ac deosculer. Deosculor.</p>
+    <p>Non est oculis lumen hoc acceptius,</p>
+    <p>Quam tua mihi est amica visitatio.</p>
+    <p>Posthac enim vultus mei haud te praeside in</p>
+    <p>Diversa mutabuntur, (heu dolor) ut prius.</p>
+    <p>≤line=670≥ Nam cor meum Deo paratum, cor meum</p>
+    <p>Paratum ad adversa, et paratum ad prospera,</p>
+    <p>Paratum ad omnia. Si offerat regni mihi</p>
+    <p>Sceptrum, paratum cor meum. Sique inferat</p>
+    <p>Fugam aut periculum, paratum cor meum</p>
+    <p>≤line=675≥ Patientem ubique et mansuetum invenerit.</p>
+    <p>Mane itaque mecum, domina, nec me deseras.</p>
+    <p>HY. Non deseram te, amice David, dum canes.</p>
+    <p>David memento, Domine, et illius omnis in</p>
+    <p>Angore mansuetudinis. Non deseram</p>
+    <p>≤line=680≥ Donec cecineris. In chorum luctum meum</p>
+    <p>Vertis mihi, nam conscidisti sordidum</p>
+    <p>Saccum meum, et circumdedisti gaudio.</p>
+    <p>Per me Deus te restituet in pristinum</p>
+    <p>Regni decus cum honore et ampla gloria.</p>
+    <p>≤line=685≥ GR. Sic nos decebit amico adesse, et in omnibus</p>
+    <p>Angustiis fovere eum solacio.</p>
+    <p>Alios tamen prius levandos censeo.</p>
+  </div>
+  <div type="level2" xml:id="actus-ii.-scaena-vi.">
+    <head>ACTUS II. SCAENA VI.</head>
+    <p>HELIAS cum suis, HYPOMONE, GRAPHE.</p>
+    <p>Ne, quaeso, praeterite me atque hos exsules.</p>
+    <p>HY. Dic, qui vir es tu, quive ceteri viri?</p>
+    <p>≤line=690≥ HE. Ego Helias propheta sum, hi vates quoque.</p>
+    <p>GRA. Tun’ ille qui zelatus es hac pro domo</p>
+    <p>Incredula cervicis et durissimae?</p>
+    <p>HE. Zelatus, at modo caput quaerunt meum</p>
+    <p>Ut auferant. HY. Qui? Quave de causa? HE. Audies.</p>
+    <p>≤line=695≥ Cum, persequente Iezabele cum impio</p>
+    <p>Viro Achaabo rege passim omnes pios,</p>
+    <p>Ego in abditis hos specubus abderem atque aqua</p>
+    <p>Et pane pascerem, fugere coactus a</p>
+    <p>Corvisque et a muliere vidua et paupere</p>
+    <p>≤line=700≥ Exsul nutritus sum. Deinde cum impios</p>
+    <p>Vates Baal omnes Dei zelo incitus</p>
+    <p>Gladio cecidissem, nefanda Iezabel</p>
+    <p>Iuravit in caput meum et necem meam.</p>
+    <p>Proinde mors mihi atque vita melior est:</p>
+    <p>≤line=705≥ Nisi fugero, latro imminet; si fugero,</p>
+    <p>Fame peribo in hac eremo sqallida.</p>
+    <p>GR. Si tu scias, Helia, Deo quam carus es,</p>
+    <p>Non tam fores animo pusillo, nec tibi</p>
+    <p>Mortem magis modo atque vitam diligas.</p>
+    <p>≤line=710≥ Si manseris, credasne eum defendere</p>
+    <p>Te posse ab hostibus tuis, velut hactenus?</p>
+    <p>Si fugeris, an non valet te panibus</p>
+    <p>In solitudine pascere, velut hactenus?</p>
+    <p>Sis ergo forti animo, Helia, neque te sinas</p>
+    <p>≤line=715≥ Ab impiis superarier. Nam in proximo est</p>
+    <p>Ut a Deo veharis alta ad aethera.</p>
+    <p>Fuge interim nil haesitans. Te nutriet</p>
+    <p>Dei angelus per solitudinem inviam.</p>
+    <p>Neque vos, prophetae residui, timete eos</p>
+    <p>≤line=720≥ Quorum potestas instar utris turgidi est.</p>
+    <p>Eos brevi videbitis velut lutum</p>
+    <p>Ab omnibus calcarier. Patientiae</p>
+    <p>Commendo vos: cui non secus quam parvuli</p>
+    <p>Matri suae, per omnia acquiescite.</p>
+    <p>≤line=725≥ HE. O si liceret iugiter tua frui, o</p>
+    <p>Nostra Hypomone, praesentia et solacio.</p>
+    <p>HY. Licebit usque singulis volentibus.</p>
+    <p>Aliis locutae denuo videbimur.</p>
+    <p><hi rendition="simple:bold">CHORUS.</hi></p>
+    <p>Ex Psalmo 122.</p>
+    <p>Ad te madentes lacrimis</p>
+    <p>≤line=730≥ Oculos levamus exsules,</p>
+    <p>Domine deus ter maxime,</p>
+    <p>Solus polo qui praesides.</p>
+    <p>Vt servuli aut ancillulae</p>
+    <p>Pendent erorum ex nutibus,</p>
+    <p>≤line=735≥ Nostri ita oculi ad dominum Deum,</p>
+    <p>Nostri quoad miserebitur.</p>
+    <p>Miserere nostri, quaesimus,</p>
+    <p>Miserere, misericors Deus:</p>
+    <p>Multa repleti enim sumus</p>
+    <p>≤line=740≥ Despectione miserrimi.</p>
+    <p>Repleta nostra anima est nimis</p>
+    <p>Irrisione divitum,</p>
+    <p>Superbientium quoque</p>
+    <p>Despectione sedula.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-i.">
+    <head>ACTUS III. SCAENA I.</head>
+    <p>HYPOMONE, GRAPHE, THOBIAS.</p>
+    <p>≤line=745≥ Caecos modo atque claudicantes, mea Graphe,</p>
+    <p>Solemur eia aliquantulum, ne forte et hi</p>
+    <p>Me negligentes reprobum in sensum ruant.</p>
+    <p>GR. Sic expedit; primum Thobith alloquar.</p>
+    <p>Sit, Thobia, tibi cum salute gaudium.</p>
+    <p>≤line=750≥ TH. Quodnam mihi sit gaudium, domina, exsuli,</p>
+    <p>Caeco et carenti solis aureo lumine?</p>
+    <p>Et praeter haec rident me amici et proximi,</p>
+    <p>Insultat uxor et exprobrat, quod hactenus</p>
+    <p>In pauperes pius fui atque in mortuos.</p>
+    <p>≤line=755≥ Quapropter oro Deum meum, ut me transferat</p>
+    <p>Miserrimum ad patres meos, quia melior</p>
+    <p>Mors est mihi quam vita dura et aspera.</p>
+    <p>GR. Animaequior sis nec vacilles, Thobia,</p>
+    <p>Quod caecitas haec non tibi futura sit</p>
+    <p>≤line=760≥ Opprobrio, sed sempiternae gloriae.</p>
+    <p>Siquidem hanc Deus tentationem in te sinit</p>
+    <p>Grassarier, quo posteris dentur tuae (haud</p>
+    <p>Secus atque Iobi) exempla sustinentiae.</p>
+    <p>Quia namque eras acceptus et carus Deo,</p>
+    <p>≤line=765≥ Necesse erat probaret ut te afflictio.</p>
+    <p>Patientiam itaque denuo hospitio excipe,</p>
+    <p>Certo futurum praesciens, quod a Deo</p>
+    <p>In proximo illustrabere et solaberis.</p>
+    <p>Sed et Sara quoque virgo, Raguelis filia,</p>
+    <p>≤line=770≥ Cui nunc adest nepti nepos gnatus tuus,</p>
+    <p>Post probra postque opprobria et suspiria</p>
+    <p>Audita tandem caelitus recreabitur.</p>
+    <p>TH. Certo mihine haec adstruis? GR. Certo tibi.</p>
+    <p>Opus est tibi sola pusillo tempore</p>
+    <p>≤line=775≥ Patientia, per quam a Deo impetrabis haec</p>
+    <p>Et alia quae desiderabis plurima.</p>
+    <p>Accedit ipsa ultronea te; compella eam.</p>
+  </div>
+  <div type="level2" xml:id="actus-iii.-scaena-ii.">
+    <head>ACTUS III. SCAENA II.</head>
+    <p>THOBIAS, HYPOMONE, CLAUDUS, ARTHRICUS,</p>
+    <p>PARALYTICUS, GRAPHE.</p>
+    <p>Adesne mihi, mea Hypomone? HY. Tibi praesto sum,</p>
+    <p>Tibi et adfutura in omnibus. TH. Domina mea,</p>
+    <p>≤line=780≥ Te praeside aequo animo feram, quicquid Deus</p>
+    <p>Et quamdiu me sustinere voluerit.</p>
+    <p>HY. Et nos tibi promittimus brevi adfore</p>
+    <p>Aut restituta lumina, aut divinitus</p>
+    <p>Solacium; vos quoque alii sperabitis</p>
+    <p>≤line=785≥ Identidem, claudi, paralytici, arthrici.</p>
+    <p>CL. Sperabimus? HY. Sperabitis. AR. Sperabo ego.</p>
+    <p>Quinetiam hoc oro, ut me sceleribus languidum</p>
+    <p>Hic secet et hic urat pius pater suo</p>
+    <p>Pro arbitrio, ut parcat futuro saeculo.</p>
+    <p>≤line=790≥ Sed quaeso ades mihi, mea Patientia.</p>
+    <p>HY. Adero tibi reliquisque me volentibus</p>
+    <p>Et optimum pro me patrem inclamantibus.</p>
+    <p>CL. Mane. PA. Mane. AR. Mane, obsecroque Deum ut mihi</p>
+    <p>Det in omnibus doloribus te praesidem.</p>
+    <p>≤line=795≥ GR. Praeses tibi et tuo gregi futura erit.</p>
+    <p>Alios adimus haud minus miserabiles</p>
+    <p>Et destitutos omnium solacio.</p>
+    <p>Vos interim laudate dominum cantico</p>
+    <p>Et has graves curas levate carmine. TH. Hem.</p>
+    <p><hi rendition="simple:bold">CHORUS, versu dimetro.</hi></p>
+    <p>≤line=800≥ In mente, fili, habe Deum</p>
+    <p>Vitae tuae omni tempore,</p>
+    <p>Ne crimini consentias</p>
+    <p>Deive iussa negligas.</p>
+    <p><hi rendition="simple:italic">Repetitio:</hi></p>
+    <p>Benedic deo omni tempore</p>
+    <p>≤line=805≥ Et pete vias quo dirigat</p>
+    <p>Et omne consilium tuum</p>
+    <p>Tibi in salutem et gloriam.</p>
+    <p>Pauper eleemosynam tua</p>
+    <p>Fac capiat ex substantia.</p>
+    <p>≤line=810≥ Ne flecte ab illo oculos tuos,</p>
+    <p>Ne avertat a te oculos Deus.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>Quantum potes miserescito.</p>
+    <p>Si multa habes, multa eroga,</p>
+    <p>Si pauca habes, libenter haec</p>
+    <p>≤line=815≥ Quoque indigenti imperties.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>Eleemosyna quandoquidem</p>
+    <p>A scelere liberat et nece,</p>
+    <p>Habens nec animam in extimas</p>
+    <p>Sinet tenebras mittier.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>≤line=820≥ Eleemosyna coram Deo</p>
+    <p>Tibi magnae erit fiduciae</p>
+    <p>Et omnibus opitulantibus</p>
+    <p>Corde integro indigentibus.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>A fornicationibus</p>
+    <p>≤line=825≥ Compesce carnem iugiter,</p>
+    <p>Nec praeter uxorem tuam</p>
+    <p>Admitte feminam alteram.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>Nec in ore nec sensu sine</p>
+    <p>Superbiam dominarier:</p>
+    <p>≤line=830≥ In ipsa enim sumit suam</p>
+    <p>Perditio quaeque originem.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>Merces laboris non apud</p>
+    <p>Te maneat, at cuilibet</p>
+    <p>Qui te labore iuverit,</p>
+    <p>≤line=835≥ Statim repende salarium.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>Quod oderis tibi ab altero</p>
+    <p>Fieri, alteri ne feceris.</p>
+    <p>Panem famenti porrige</p>
+    <p>Et veste nudos contege.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+    <p>≤line=840≥ In omnibus tibi consule,</p>
+    <p>Catos virosque consule,</p>
+    <p>Ne tibi sit ebrietas comes</p>
+    <p>Convescitor nec improbis.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>: Benedic.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-i.">
+    <head>ACTUS IV. SCAENA I.</head>
+    <p>GRAPHE, HYPOMONE, FILII prophetarum duo &lt;HANI, HEBION&gt;.</p>
+    <p>In hoc tugurio nil quidem nisi pauperes,</p>
+    <p>≤line=845≥ Inopes, pupillos, orphanos video, soror,</p>
+    <p>Praeterque amaras lacrimas nil audio.</p>
+    <p>Loquamur his, solemur atque paululum.</p>
+    <p>HY. Latent prophetarum hic meique filii</p>
+    <p>Carissimi et pueri tui scholastici,</p>
+    <p>≤line=850≥ Quos recreare gestio solacio. Heus,</p>
+    <p>Quid, filii carissimi, lacrimamini?</p>
+    <p>HA. Heu, domina, filii prophetarum sumus,</p>
+    <p>Hani et Hebion, (numerusque noster magnus est)</p>
+    <p>Ignobiles, miseri atque abominabiles,</p>
+    <p>≤line=855≥ Et omnium quibus est opus rerum indigi.</p>
+    <p>At nullus est mortalium, qui nos fovet</p>
+    <p>Solacio aut opibus suis nos adiuvat.</p>
+    <p>Angustus est locus ut vides, mater mea,</p>
+    <p>Nostraque sunt aedes ruinosae, heu dolor,</p>
+    <p>≤line=860≥ Lapsum minantes in dies, nec ligna sunt</p>
+    <p>Nobis quibus suffulciamus labiles.</p>
+    <p>Et quod magis, si fulciamus hanc casam, haud</p>
+    <p>Subsistet, at collapsa nos semel opprimet.</p>
+    <p>Hinc mihi genae madent amaris lacrimis.</p>
+    <p>≤line=865≥ Nec quispiam est mortalium qui condolet,</p>
+    <p>Vel qui adhibet his maeroribus solacium.</p>
+    <p>HEB. Ego quoque pari ratione, domina, lacrimor,</p>
+    <p>Sed maxime ob rerum omnium penuriam:</p>
+    <p>Frumentum, olinum, butyrum cum caseo,</p>
+    <p>≤line=870≥ Et cuncta quae necessa nobis, cara sunt.</p>
+    <p>Carique libri quos novos prioribus</p>
+    <p>Vetitis redimere cogimur, nec quispiam</p>
+    <p>Heu nostrae inopiae subvenit, nisi quod novos</p>
+    <p>Vir attulit panes modo hordeaceos</p>
+    <p>≤line=875≥ Viginti Helizeo atque palatas pauculas.</p>
+    <p>Sed quanta sunt haec, obsecro, ad tantum gregem?</p>
+    <p>Holusculumque quod in agris et vineis</p>
+    <p>Collegimus concidimusque et coximus,</p>
+    <p>Non modo carens condimine insipidum putret,</p>
+    <p>≤line=880≥ Verum etiam amaritudine ipsa amarius,</p>
+    <p>Haud aliter atque absinthium aut colocynthis est.</p>
+    <p>Vestes vides et lectulos, quibus patet</p>
+    <p>Nos esse ter miserrimos. Haec, domina, sunt</p>
+    <p>Quae flere nos nostrosque cogunt iugiter.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-ii.">
+    <head>ACTUS IV. SCAENA II.</head>
+    <p>HYPOMONE, PENICHROS.</p>
+    <p>≤line=885≥ Cur tu, puer, sic lacrimas? Cur ceteri?</p>
+    <p>PE. Heu domina, pauperes sumus et omnes fere</p>
+    <p>Incommodo pari laboramus, nec est</p>
+    <p>Qui nostrae inopiae subvenit ter maximae.</p>
+    <p>Aegri sumus, scabri sumus, miseri sumus,</p>
+    <p>≤line=890≥ Sitimus, esurimus et malis tabescimus.</p>
+    <p>Et praeter haec, si pro virili litteris</p>
+    <p>Humanioribus studere nitimur,</p>
+    <p>Desunt libri, desunt lucernae, ad haec focus,</p>
+    <p>Calami, μέλαν, papyrus atque huiusmodi,</p>
+    <p>≤line=895≥ Quibus absque nostro munere haud perfungimur.</p>
+    <p>Accedit huc, nostrae quod aedes seu casae</p>
+    <p>Tamquam ruinae proximae nostrum omnium</p>
+    <p>Palam minantur vertici. Paries lacer,</p>
+    <p>Cariosa tigna, tecta perstillantia,</p>
+    <p>≤line=900≥ Casum sibi et nobis minantur exitium.</p>
+    <p>Ad me quod attinet, licet fruar parentibus,</p>
+    <p>Iro tamen pauperior est pater meus,</p>
+    <p>Ipse quoque infortunio infelicior,</p>
+    <p>Neque nisi cum sudore sanguinem suum</p>
+    <p>≤line=905≥ Miserrimus mihi porrigit. Domina mea,</p>
+    <p>Causam tenes quare fleamus singuli.</p>
+    <p>Aliquam tamen nobis ferunt spem profore</p>
+    <p>(Fortuna si in κληροδοσία nobis data</p>
+    <p>Arriserit), sed languidum est solacium.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-iii.">
+    <head>ACTUS IV. SCAENA III.</head>
+    <p>GYMNICUS, PSORALEUS, ORPHANUS, HYPOMONE,</p>
+    <p>PHTHIROPONUS, GRAPHE</p>
+    <p>≤line=910≥ Heu, domina, me contristat haec vestis mea,</p>
+    <p>Tam lacera ut artus corporis non contegat.</p>
+    <p>Indusium mihi putridum est, trita diplois,</p>
+    <p>Cum subligaculo quoque tibialia</p>
+    <p>Tam vilia, ut teruncio non veneant.</p>
+    <p>≤line=915≥ Hi calci hicque pileus sunt ut vides.</p>
+    <p>Et inter haec, nec mihi pater materve, nec</p>
+    <p>(Licent queant) avunculi aliquid porrigunt:</p>
+    <p>Hinc lacrimae mihi, et hinc mea suspiria.</p>
+    <p>PSO. Aliquantulo vestis quidem est mea melior.</p>
+    <p>≤line=920≥ Verum quod ipsa tegitur hoc corpusculum,</p>
+    <p>Non aliter ac ovis scabra impetigine</p>
+    <p>Corrumpitur. Qui quoque me edunt, non dormiunt.</p>
+    <p>Et inter haec longe a solo natalium</p>
+    <p>Positus miser, non habeo qui mihi porrigat</p>
+    <p>≤line=925≥ Manum, ut linat vel pure mundet ulcera.</p>
+    <p>Maior calamitas haec mea est quam perferam.</p>
+    <p>OR. Et me calamitas haud magis tolerabilis</p>
+    <p>Fames premit, sitim taceo sedandam aqua,</p>
+    <p>Paulove meliore ptisana. Sed oluscula</p>
+    <p>≤line=930≥ Tam amara vel tam insipida sunt, mater mea,</p>
+    <p>(Decocta nempe ex agria colocynthide)</p>
+    <p>Ut mortem in olla clamitemus flebiles.</p>
+    <p>O si mihi quandoque panis crustulam</p>
+    <p>Liceat vorare, quam subin molossicis</p>
+    <p>≤line=935≥ Video obici, manus ouans comploderem.</p>
+    <p>Cum butyrum pani additur, luxum puto.</p>
+    <p>Et inter haec neque mihi parens neque proximus</p>
+    <p>Neque tutor est, qui porrigat vel bucceam.</p>
+    <p>Nihilominusque litteris incumbimus,</p>
+    <p>≤line=940≥ Quotquot sub his tectis caducis degimus.</p>
+    <p>HY. O filii (maternus affectus loqui</p>
+    <p>Me sic iubet) carissimi, confidite,</p>
+    <p>Nec frangat haec (gravis licet) vos calamitas.</p>
+    <p>Si singuli me admittitis, divinum (et hoc</p>
+    <p>≤line=945≥ Brevi) adfuturum singulis solacium</p>
+    <p>Promittimus. PHT.GYM. Te admittimus. PSO.ORP. Te admittimus.</p>
+    <p>HY. Ades Graphe, eructes ut his pueris tuis</p>
+    <p>Scholasticis verbum bonum solacii:</p>
+    <p>Dixi tuis, quod litteris nunc dediti</p>
+    <p>≤line=950≥ Tandem ad sacras (ut spero) scripturas suam</p>
+    <p>Non segniter operam locabunt plurimi.</p>
+    <p>PSO. Locabimus non segniter. GRA. Non segniter.</p>
+    <p>HY. Confidite igitur et Graphes intendite</p>
+    <p>Sermonibus. Valete, filii mei.</p>
+  </div>
+  <div type="level2" xml:id="actus-iv.-scaena-iv.">
+    <head>ACTUS IV. SCAENA IV.</head>
+    <p>GRAPHE, GREX, HYPOMONE.</p>
+    <p>≤line=955≥ Adsum, Graphe, tibi destinatis filiis,</p>
+    <p>Pueris quoque dicatis mihi scholasticis.</p>
+    <p>Pueri mei, mea aemulantes munera</p>
+    <p>Ne taedeat vos istius vitae, inopiae,</p>
+    <p>Fami, scabiei et nuditati obnoxiae,</p>
+    <p>≤line=960≥ Quod pauperes constet Deo acceptissimos.</p>
+    <p>Nudumne fecit ipse Adamum ab initio?</p>
+    <p>Nascentibusque sponte pavit fructibus?</p>
+    <p>Ut indicaret omnium rerum sibi</p>
+    <p>Luxum placere neutiquam, sed in omnibus</p>
+    <p>≤line=965≥ Quae condidit hominum usui moderamina,</p>
+    <p>Suos prophetas pauperes esse voluit,</p>
+    <p>Inopesque ubique laude digna extollere.</p>
+    <p>Quin ipse filius Dei mortalibus,</p>
+    <p>Cum dives esset, factus est pauperrimus,</p>
+    <p>≤line=970≥ Et omnium rerum indigus, quo traderet</p>
+    <p>Frugalitatem posteris imitabilem.</p>
+    <p>Hinc pauper ipse, quo salutis erigat</p>
+    <p>Scholam, mathetas pauperes (apostolos)</p>
+    <p>Delegit atque eos beatos protulit,</p>
+    <p>≤line=975≥ Quod certo eorum regna sint caelestia.</p>
+    <p>His modo prophetarum excitati filii,</p>
+    <p>His excitati pauperes et orphani,</p>
+    <p>Humana quis praesidia desunt, spiritum</p>
+    <p>Resumite, ut certi quod inter filios</p>
+    <p>≤line=980≥ Summi patris pars vestra sit et hereditas</p>
+    <p>Quoque vestra sit, modo adsit haec, quae neutiquam</p>
+    <p>Peribit in finem, Hypomone aut Patientia:</p>
+    <p>Quae in omnibus vobis doloribus aderit,</p>
+    <p>Et in necessitatibus vos proteget,</p>
+    <p>≤line=985≥ In tristibus nec subtrahet solacium.</p>
+    <p>Per eam Deus vobis necesse quicquid est,</p>
+    <p>Daturus est in copia, aut certe dabit</p>
+    <p>Quo vestra sit contenta sufferentia.</p>
+    <p>Nec haesitate quin brevi vobis Deus</p>
+    <p>≤line=990≥ per κληροδοσίαν adferet solacium,</p>
+    <p>Mittetve in ollam Helizeus farinulam</p>
+    <p>Qua prius amara iudicetis dulcia.</p>
+    <p>PE. Adesto. GY. Adesto. PS. Adesto. OR. Ades, patientia,</p>
+    <p>Qua praesidente sumus parati ad omnia</p>
+    <p>≤line=995≥ Mala aequanimiter sustinenda. GR. Ades, soror.</p>
+    <p>HY. Quia, filii, me admittitis, ego neutiquam</p>
+    <p>Vos deseram; prius tamen redeundum erit</p>
+    <p>Ad eos quibus nos adfuturos diximus.</p>
+    <p>Vos interim sedete tantisper alacres,</p>
+    <p>≤line=1000≥ Dum nos reversas denuo videbitis.</p>
+    <p>PE. Valete! Dum redibitis, morabimur</p>
+    <p>Et ut poterimus interim cantabimus.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Ex Psalmo Davidis 9.</p>
+    <p>Curae, Deus, tibi est inops,</p>
+    <p>Adiutor eris et orphano.</p>
+    <p>≤line=1005≥ Franges scelesti brachium,</p>
+    <p>Quoad scelus deprenderis.</p>
+    <p>Regnat Deus per saecula;</p>
+    <p>Gentes peribunt e solo.</p>
+    <p>Nam pauperum vota audiit</p>
+    <p>≤line=1010≥ Et corda eorum diriget,</p>
+    <p>Ut opprimentes puniat,</p>
+    <p>Ne se audeant extollere.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-i.">
+    <head>ACTUS V. SCAENA I.</head>
+    <p>HYPOMONE, GRAPHE, IOBUS.</p>
+    <p>Primum omnium hic Iobum invisimus,</p>
+    <p>Aliquantulumque recreatum liquimus.</p>
+    <p>≤line=1015≥ Videamus ut modo se gerat vir optimus.</p>
+    <p>GR. Videamus. En ultro feret sese obvium.</p>
+    <p>Laetus foras egreditur, et cute nitida.</p>
+    <p>Iob. Salvete, dominae, quis meam debeo fidem,</p>
+    <p>Constantiam, tolerantiam, et solacium.</p>
+    <p>≤line=1020≥ HY. Ut est, Iobe? Ut sese habent modo res tuae?</p>
+    <p>Meliuscule? IOB. Longe optime, domina mea,</p>
+    <p>Longe optime, quod omnium dominus Deus</p>
+    <p>Malorum et aegritudinum obliviscier</p>
+    <p>Me voluit et bonis fruisci pristinis.</p>
+    <p>≤line=1025≥ Fecunda coniunx, fetae oves armentaque,</p>
+    <p>Amici amant me et largiuntur munera.</p>
+    <p>Dominus mihi restituit (ut praedixeras,</p>
+    <p>Domina Graphe) omnia duplicia pro perditis.</p>
+    <p>Benedictum in aevum nomen illius siet.</p>
+    <p>≤line=1030≥ Et Lazarus iam mortuus per angelos</p>
+    <p>Subvectus, in sinu quiescit Abrahae.</p>
+    <p>HY. Tibi gratulamur plurimum, et vitae tuae</p>
+    <p>Reliquum tibi nos comprecamur prosperum.</p>
+    <p>IOB. Faxit Deus! Me neutra, quaeso, deserat.</p>
+    <p>≤line=1035≥ GR. Non deseremus; fidito: revertimur,</p>
+    <p>Ubi Thobian, Davida et inopes vidimus.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-ii.">
+    <head>ACTUS V. SCAENA II.</head>
+    <p>HYPOMONE, GRAPHE, DAVID.</p>
+    <p>En gloria, qui nuper erat inglorius,</p>
+    <p>Et honore comptus regio rex Israhel</p>
+    <p>David fit obvius; audiamus quo modo</p>
+    <p>≤line=1040≥ Affectus est animo. GR. Audiamus; nos petit.</p>
+    <p>DA. Ago gratias utrique vestrum maximas,</p>
+    <p>Dominae meae, quae solae in adversis mihi</p>
+    <p>Solacio fuistis atque praesidio.</p>
+    <p>HY. Ubi Helias? DA. Subvectus est ad aethera</p>
+    <p>≤line=1045≥ In igneo curru atque equos per igneos.</p>
+    <p>HY. Ut sese habent nunc res tuae, fili Isai?</p>
+    <p>DA. Feliciter, iuxtaque multitudinem</p>
+    <p>Doloris atque angustiae cordis mei</p>
+    <p>Vestrae paracleses meum divinitus</p>
+    <p>≤line=1050≥ Iam recrearunt spiritum atque animum meum.</p>
+    <p>Nam hostis meus qui persecutust hactenus</p>
+    <p>Animam meam, non aliter atque mortuum</p>
+    <p>Me collocavit in tenebricosis locis,</p>
+    <p>Et anxiatus est meus in me spiritus.</p>
+    <p>≤line=1055≥ At conscidit nunc sordidum saccum meum</p>
+    <p>Deus, atque me circundedit iam gaudio.</p>
+    <p>Clamavi enim ad ter maximum Deum meum:</p>
+    <p>Εὐεργέτην mihique semper beneficum.</p>
+    <p>Qui caelitus vos misit ad solacium,</p>
+    <p>≤line=1060≥ Rapuitque conculcantium ex opprobrio,</p>
+    <p>Misitque misericordiam verax suam,</p>
+    <p>Et eruit animam meam ex leonibus.</p>
+    <p>Congratulamini mihi igitur, et meo</p>
+    <p>Posthac adeste, obsecro, contubernio.</p>
+    <p>≤line=1065≥ GR. Aderimus, haud te deseremus, fidito.</p>
+    <p>Nihilominus tamen alios solabimur.</p>
+    <p>HY. En qui prius caecutiebat, Thobias</p>
+    <p>clare videns cum filio fit obvius.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-iii.">
+    <head>ACTUS V. SCAENA III.</head>
+    <p>THOBIAS cum FILIO, HYPOMONE, GRAPHE.</p>
+    <p>Videone, fili, nostram Hypomenen et Graphen?</p>
+    <p>≤line=1070≥ FI. Vides, pater; nos convenire gestiunt.</p>
+    <p>TH. O si queam quae digna sunt rependere,</p>
+    <p>Et me libens et omnia mea impenderem.</p>
+    <p>HY. Quis, Thobia, tibi modo animus est? Num adhuc</p>
+    <p>Pusillus, ut nuperrime? TH. Minime,</p>
+    <p>≤line=1075≥ Domina mea, modo fortis et robustus est.</p>
+    <p>Nam qui abstulit mihi lumina, is mihi reddidit</p>
+    <p>Per angelum: Deus meus. HY. Qui id accidit?</p>
+    <p>TH. Cum morte iam me finiendum crederem,</p>
+    <p>Nihilominusque caecitatem (ut monueras)</p>
+    <p>≤line=1080≥ Aequanimiter ferrem, piissimus Deus</p>
+    <p>Iussit suum per angelum fel illini</p>
+    <p>Oculis meis. Illevit hic gnatus meus</p>
+    <p>Et video, laetus restituto lumine.</p>
+    <p>Expertus itaque praedico quam sit Deo</p>
+    <p>≤line=1085≥ Accepta sufferentia. GR. Quid ceteri</p>
+    <p>Caeci atque claudi? Num valent? TH. Pulcherrime,</p>
+    <p>Omnes enim vel integro sunt corpore,</p>
+    <p>Vel multo habent animum modo integerrimum</p>
+    <p>Et obsecrant te, Hypomona, ne se deseras</p>
+    <p>≤line=1090≥ Semperque sit divina tibi Graphe comes.</p>
+    <p>HY. Non deseram, et semper Graphe comitabitur.</p>
+    <p>Sed haec puella quae tui lateri applicat</p>
+    <p>Se filii, quaenam est? Vel unde tibi comes?</p>
+    <p>TH. Loquatur ipsa, seu loquatur filius,</p>
+    <p>≤line=1095≥ Cui copulata nuper est connubio.</p>
+    <p>Tantisper ego secessero. ————</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-iv.">
+    <head>ACTUS V. SCAENA IV.</head>
+    <p>HYPOMONE, FILIUS, SARA, GRAPHE.</p>
+    <p>———— Tun’ filius</p>
+    <p>Es huius optimi viri? FI. Sum filius,</p>
+    <p>Veneranda domina, et haec puella uxor meast.</p>
+    <p>HY. Cedat saluti. At unde pauper divitem</p>
+    <p>≤line=1100≥ (Ut forma et habitus indicat) sortitus es?</p>
+    <p>FI. Nos pauperem vitam quidem hactenus egimus,</p>
+    <p>Verum Deus tandem inopiam patris mei et</p>
+    <p>Patientiam respexit, et cum eo simul</p>
+    <p>Istanc puellam cum parentibus suis</p>
+    <p>≤line=1105≥ Solatus est. HY. Dic, quo modo? FI. Loquatur
+    haec;</p>
+    <p>Recenseat modum pariter et ordinem</p>
+    <p>Quo gesta res, quod cuncta me perfectius</p>
+    <p>Non sine dolore didicerit et experta sit.</p>
+    <p>HY. Dic sine rubore, puella, quo modo Deus</p>
+    <p>≤line=1110≥ Stabiliit inter vos sacras has nuptias.</p>
+    <p>SAR. Dicam tibi, domina mea, haud sine gemitu.</p>
+    <p>Ego Sara sum (ut novit Graphe), viri Deum</p>
+    <p>Timentis ipsa Raguelis filia,</p>
+    <p>Quae in urbe Medorum Rages septem viris</p>
+    <p>≤line=1115≥ Sociata coniugio fui infeliciter,</p>
+    <p>Quod eos Satan vel Asmodeus ut improbos</p>
+    <p>Et impudicos nocte prima occiderit,</p>
+    <p>Ne virgini non virgo ephebo nuberem.</p>
+    <p>Tandem Deus me post amaras lacrimas,</p>
+    <p>≤line=1120≥ Post improperia et exprobrantium mihi</p>
+    <p>Domesticorum et exterorum opprobria,</p>
+    <p>Cum iam Deum supplex rogarem, ut vinculo</p>
+    <p>improperii me absolveret, seu de super</p>
+    <p>Terram eriperet et ad inferos deduceret,</p>
+    <p>≤line=1125≥ Miseratus est miseramque consolatus est.</p>
+    <p>Et hunc virum mihi per angelum suum</p>
+    <p>Adduxit ad vitae meae solacium.</p>
+    <p>Nam diabolo longe propulso nos duos</p>
+    <p>Iunxit pudico atque stabili connubio.</p>
+    <p>≤line=1130≥ Lumenque sublatum patri restituit, et</p>
+    <p>Post inopiam ac post lacrimas secuta sunt</p>
+    <p>Deo propitio opes et exsultatio</p>
+    <p>Nostrisque summum gaudium parentibus.</p>
+    <p>HY. Tibi gratulamur et tuis, mea filia,</p>
+    <p>≤line=1135≥ Super Dei tam praestito amplo munere.</p>
+    <p>Teque admonemus insuper, ut in omnibus</p>
+    <p>Vitae huius ambiguis memineris casibus</p>
+    <p>Tolerantiam tibi fore necessariam.</p>
+    <p>SAR. Meminero, mater, sedulo dum vixero.</p>
+    <p>≤line=1140≥ GR. Memineris (inquam) quod, licet iucunda sit</p>
+    <p>Haec coniugalis societas, annexam habet</p>
+    <p>Carnis tamen pressuram et amaritudinem,</p>
+    <p>Quod in dolore liberos paritura sis</p>
+    <p>Magnaque sollicitudine nutritura sis.</p>
+    <p>≤line=1145≥ Cum liberis dolebis ipsa dolentibus,</p>
+    <p>Cum flentibus lacrimabere et cum errantibus,</p>
+    <p>Quasi parturires, denuo torqueberis</p>
+    <p>Et commori morientibus videberis.</p>
+    <p>Quapropter opus erit tibi hac patientia,</p>
+    <p>≤line=1150≥ Qua praepares animam tuam πειράσματι.</p>
+    <p>SAR. Acerba sunt quae mihi futura nuntias,</p>
+    <p>Domina Graphe, sed quae a Deo ordinata sunt,</p>
+    <p>Mihi ut aliis aequa ferenda mente sunt.</p>
+    <p>GR. Recte sapis solabiturque te angelus,</p>
+    <p>≤line=1155≥ Qui Thobiae indicavit acceptos Deo</p>
+    <p>Πειράσμασι necessario probarier.</p>
+    <p>Nam quemadmodum vasa figuli fornax probat,</p>
+    <p>Sic et pios tentatio et tribulatio.</p>
+    <p>Verum timentibus Deum haud oberunt mala,</p>
+    <p>≤line=1160≥ Quod eos Deus servabit in πειράσμασι</p>
+    <p>Et liberabit a malis prementibus.</p>
+    <p>SAR. Laudandus est adiutor in malis Deus,</p>
+    <p>Qui neutiquam sese timentes deserit.</p>
+    <p>Ne vos quoque hinc nos deseratis, obsecro.</p>
+    <p>≤line=1165≥ HY. Non deseremus sicubi praesentia</p>
+    <p>Nostra indigebitis. Pater valeat senex,</p>
+    <p>Valete vos quoque, memores Patientiae.</p>
+    <p>Ad pauperes iam transeundum parvulos.</p>
+    <p>FI. Memores futuri magnam habemus gratiam.</p>
+  </div>
+  <div type="level2" xml:id="actus-v.-scaena-v.">
+    <head>ACTUS V. SCAENA V.</head>
+    <p>PAUPERES quattuor, HYPOMONE, GRAPHE,</p>
+    <p>&lt;PENICHRUS cum FILIIS prophetarum&gt;.</p>
+    <p>CANTIUNCULA.</p>
+    <p>Iambico dimetro.</p>
+    <p>≤line=1170≥ Iam gratulemur, pauperes:</p>
+    <p>Hypomona mater nostra adest,</p>
+    <p>Per quam Deo placebimus</p>
+    <p>Et dura sustinebimus</p>
+    <p>Et in omnibus servabimus patientiam.</p>
+    <p>≤line=1175≥ HY. Quid audio? GR. Sibi gratulantur pauperes.</p>
+    <p>Si nos premat fames, sitis</p>
+    <p>Aut quaelibet penuria:</p>
+    <p>Per hanc Deo placebimus</p>
+    <p>Et dura sustinebimus.</p>
+    <p>≤line=1180≥ Et in omnibus servabimus patientiam.</p>
+    <p>HY. Servate, filii, in omnibus patientiam.</p>
+    <p>Scrabredo si nos inquinet,</p>
+    <p>Aut nuditas nos urgeat:</p>
+    <p>Per hanc Deo placebimus</p>
+    <p>≤line=1185≥ Et dura sustinebimus</p>
+    <p>Et in omnibus servabimus patientiam.</p>
+    <p>GR. Servate, pueri, in omnibus patientiam.</p>
+    <p>Si corpori subucula</p>
+    <p>Stratusve desit mollior:</p>
+    <p>≤line=1190≥ Per hanc Deo placebimus</p>
+    <p>Et dura sustinebimus</p>
+    <p>Et in omnibus servabimus patientiam.</p>
+    <p>HY. Sic sustinete et abstinete, filii.</p>
+    <p>Nunc alloquendi tempus est. GR. Nunc tempus est.</p>
+    <p>≤line=1195≥ HY. Heus filii, solito quid est quod laetius</p>
+    <p>Nunc canitis? An fortuna nunc hilarior est?</p>
+    <p>PE. Fortuna nobiscum nihil commune habet,</p>
+    <p>Sed vos videntes alacriores reddimur.</p>
+    <p>Per vestram enim exhortationem nuperam</p>
+    <p>≤line=1200≥ Quosdam Deus nostrum levavit inopia,</p>
+    <p>Quosdam (licet nondum levarit) hac tamen</p>
+    <p>Fiducia donavit ob tolerantiam, ut</p>
+    <p>Mala sponte obire non gravemur pluria,</p>
+    <p>Certo scientes quod Deus fidentibus</p>
+    <p>≤line=1205≥ Sibi neutiquam in maerore defuturus est.</p>
+    <p>Quin et propheta ollae farinulam indidit,</p>
+    <p>Qua dudum amara quaeque iam sunt dulcia.</p>
+    <p>Speramus et pios per hanc κληροδοσίαν</p>
+    <p>Nostrae inopiae auxilio fore et solacio.</p>
+    <p>≤line=1210≥ Hinc corda nostra sunt repleta gaudio,</p>
+    <p>Laudisque cantica nostro in ore personant.</p>
+    <p>HY. Sic, filii, sic vos decet tolerantia</p>
+    <p>Dei patris solacium morarier.</p>
+    <p>GR. Mens vestra sic, pueri, Deo subiecta sit:</p>
+    <p>≤line=1215≥ Ab ipso enim procedit haec patientia,</p>
+    <p>In seque sperantes pater non deseret.</p>
+    <p>OR. Non deseret? GR. Non deseret, nec eos quoque</p>
+    <p>Quoscumque dira sustinentes viderit,</p>
+    <p>Privabit umquam congruo solacio.</p>
+    <p>≤line=1220≥ Quocirca ad unum singuli patientiam</p>
+    <p>Veneramini, amplexamini, osculamini.</p>
+    <p>Adsint deinde quotquot ante invisimus,</p>
+    <p>Ut simul in unum, dis inopsque, Deo canant.</p>
+    <p>PE. Adeste λεπροί et exsules, caeci, greges</p>
+    <p>≤line=1225≥ Quoque pauperum: laeti canamus canticum.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Ex Psalmo 41.</p>
+    <p>Iambico dimetro.</p>
+    <p>Beatus is qui intelligit,</p>
+    <p>Et super egenum et pauperem.</p>
+    <p>Nam dominus in die mala</p>
+    <p>Hunc liberabit pauperem.</p>
+    <p><hi rendition="simple:italic">Repetitio</hi>:</p>
+    <p>≤line=1230≥ Nam dominus in die mala</p>
+    <p>Hunc liberabit pauperem.</p>
+    <p>Servabit hunc vitae Deus,</p>
+    <p>Beabit in terra quoque,</p>
+    <p>Nec tradet in manus truces</p>
+    <p>≤line=1235≥ Animam paventis hostium.</p>
+    <p><hi rendition="simple:italic">Repetitio.</hi></p>
+    <p>Morituro opemque conferet</p>
+    <p>In lectulo aegritudinis,</p>
+    <p>Quo suaviusque dormiat,</p>
+    <p>Versabit aegri lectulum.</p>
+    <p><hi rendition="simple:italic">Repetitio.</hi></p>
+    <p>≤line=1240≥ Ego dixeram, domine Deus,</p>
+    <p>Te misereat animae meae.</p>
+    <p>Obsecro, sana animam meam,</p>
+    <p>Quod te graviter offenderim.</p>
+    <p><hi rendition="simple:italic">Repetitio.</hi></p>
+    <p>GREX per Epilogum.</p>
+    <p>Exhibita vobis est Iobi et omnium</p>
+    <p>≤line=1245≥ Languentium, exsulantium, caecorum, ad haec</p>
+    <p>Scholasticorum pauperum patientia et</p>
+    <p>Solatium. Iam si placuimus, plaudite.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>Finis Hypomones.</p>
+  <p>Permissum atque concessum est Harmanno Borculoo typographo
+  Ultraiectino, ex Caesareae Maiestatis privilegio, Comediam hanc
+  Hypomonen Georgii Macropedii suis typis excudere, atque nemo ausit aut
+  curet alibi excudere ad quinquennium, sub poena in monimentis
+  expressa, atque ubilibet terrarum distrahere, quemadmodum haec latius
+  clariusque declarantur in literis eidem ab eadem Maiestate
+  concessis.</p>
+  <p>Datum Bruxellae. Anno Domini millesimo quingentesimo quinquagesimo
+  quarto, in Maio.</p>
+  <p>De la Torre.</p>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,3358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title></title>
+    </titleStmt>
+    <publicationStmt>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Produced by pandoc.</p>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>NICOLAI VERNVLÆI</p>
+  <p>HENRICVS OCTAVVS</p>
+  <p>SEV</p>
+  <p>SCHISMA</p>
+  <p>ANGLICANVM TRAGŒDIA.</p>
+  <p>Exhibita Ludis Encenialibus Lovanii in Collegio</p>
+  <p>PORCENSI.</p>
+  <p>LOVANII,</p>
+  <p>Typis Philippi Dormalii.</p>
+  <p>MDCXXIV.</p>
+  <p>Cum Privilegio.</p>
+  <p>REVERENDO ADMODVM</p>
+  <p>DOMINO</p>
+  <p>D. ENGELBERTO</p>
+  <p>DESBOIS,</p>
+  <p>INSIGNIS ECCLESIÆ</p>
+  <p>D. PETRI INSVLENSIS</p>
+  <p>PRÆPOSITO</p>
+  <p>D.C.Q.</p>
+  <p>Nobilissimum Britanniae Regnum,
+  <hi rendition="simple:italic">Admodum Reverende Domine</hi>, a
+  Catholica Religione, quam, ut testes sunt Historiae, a Iosepho ab
+  Arimathia primum acceperat, defecisse, nemo est qui perculsus non
+  doleat. Dolorem meum ut inter alios testarer, cothurnos nuper indui,
+  et in publico Lovanii theatro Scenam aperui. Prodiit in proscenium
+  <hi rendition="simple:italic">Henricus Octavus Rex</hi>, et Maiorum
+  Religionem, quam gladio styloque asseruerat, amore saucius
+  proscripsit. Multae non e vulgo Animae, viri mortales immortalitate
+  dignissimi, abeuntem illam retinere voluerunt; cum non possent, in
+  eius amplexu sanguinem et vitam effuderunt. Obliterari Mori memoria
+  non potest, et post cineres suos vivit
+  <hi rendition="simple:italic">Roffensis Antistes</hi>. Ambo suo
+  sanguine lachrymas male sano Regi elicuerunt, sed quia amorem non
+  probabant, et Pontificem eum non agnoscebant, vixerunt. Plures alii
+  sub feralis securis ictu suo cruore purpurati Deo maluerunt mori, quam
+  Regi vivere. Ita Regius Pontifex dum authoritatem in Ecclesiâ
+  Anglicanâ saeviendo, quaerit, Martyres fecit. Illa vero piissima
+  Regina <hi rendition="simple:italic">Catharina</hi> dum Scorto cessit
+  maior facta est; et dum regnum reliquit, omni regno excelsior est
+  visa. Omnium ipsa oculos, praeterquam Regis mariti, constanti virtute,
+  quam lachrymae decorabant, permovit. Ingemuit equidem ille (ea vis est
+  conscientiae) sed victus non est. Vicit tandem fatum. Haec vidisti,
+  <hi rendition="simple:italic">Admodum Reverende Domine</hi>, et
+  praesens ipse spectasti. Perturbatum animi tui sensum, et perculsum
+  dolore affectum ingenue tum ibidem es fassus. Cum enim esse sine
+  gemitu aliquo cor tuum non posset, oculi maduerunt. Sed quoniam
+  placuit quicquid tamen displicebat, ecce Tibi clausam tum Scenam
+  iterum aperio, et cothurnatum hunc Regem tuo sub patrocinio in
+  publicam lucem adduco. Legant alii quae vidistis te certe Patrono
+  amplius placebunt. Nota quippe tua virtus est, cuius etiam testis est,
+  ut nihil de Belgio nostro dicam, Roma. Nota Doctrina est, quam emerita
+  Laurus coronavit. Vidit te Lovanium in sacris Academiae spatiis magno
+  animo decurrentem, et amavit. Hinc Romam, ut in illo Orbis compendio
+  et Theatro disceres, quicquid disci ubique potest, abivisti. Comes tum
+  tibi integerrimus et Ornatissimus Vir fuit
+  <hi rendition="simple:italic">Nicolaus Michaut</hi>, in quo cum nulla
+  virtus desideraretur, eius consuetudine crevisti. In Vrbe tanquam in
+  templo aliquo aut Schola, ut cum virtute prudentiam comparares,
+  versatus es. Nihil effugere industriam tuam potuit, sciri quod posset;
+  et in ipsis ruderibus doctae istius Antiquitatis testibus curiosâ
+  mente, quod disceres, invenisti. Gratus iam tum eras purpuratis illis
+  Patribus, et te <hi rendition="simple:italic">Columnae, Farnesi,
+  Madrutii</hi>; ipsi etiam Regum Legati, et quicunque Romae magni,
+  amabant. Erectam quippe Indolem, et Gloriae natam in te videbant, quam
+  crescens quotidie Virtus exornabat. Nimirum haec certa est ad
+  prudentiam via, virorum illustrium exemplo animum suum et vitam
+  conformare. Quantus vero sis ibi formatus, testis est Metropolitana
+  Cameracensis Ecclesia, in qua pluribus annis ita Archidiaconum egisti,
+  ut commissam tibi Ecclesiae istius partem summâ prudentiâ
+  administrares, et dignissimum te maiori dignitate consentiens omnium
+  opinio iudicaret. Ea moti famâ Serenissimi Belgarum Principes ad
+  Insulensis Ecclesiae Praeposituram ultro evocaverunt; in qua ita vivis
+  agisque, ut vel ipsâ Invidia teste Decus tibi maius debeatur. Tanta
+  vis est innatae virtutis; tanta Generis, educationis, industriae.
+  Illustria in illo Genere tuo ac stirpe sunt exempla, quae etiamnum
+  Belgae suspiciunt. Tuus illc inprimis Avunculus
+  <hi rendition="simple:italic">Ludovicus Verreickius</hi>, ita Reges et
+  Principes suis meritis sibi devinxit ut cum esset singulare Belgii
+  nostri ornamentum, tum incredibili fide, prudentia, sinceritate
+  commissum sibi Audientiarii munus obivit. Nolo ad calamum ea revocare,
+  quae gessit, cum omnem meritorum suorum laudem uno modestiae
+  admirandae sinu exceperit. Vivit ipse etiam post fata in Belgarum
+  pectoribus, et eius in <hi rendition="simple:italic">Filio</hi>
+  Cognato tuo imaginem videmus. Quem virum cum in patris loco Principes
+  esse voluerint, tum patris meritis in dies adhuc crescit; et qua est
+  prudenti industriâ virtuteque maioribus se Regis beneficiis
+  dignissimum ostendit. Glorietur sane vestra Familia; in illa enim ea
+  merita sunt, quorum oblivisci Belgium non potest; ea Virtus, quam
+  ornare nunquam Principes Regesque desinent. Quoniam vero splendorem
+  illum vestrum satius est admirari, quam extollere conari, permitte,
+  <hi rendition="simple:italic">Admodum Reverende Domine</hi>, ut de te
+  silendoTragoediam hanc tuo Nomini in scriptam oblatum veniam. Ea enim
+  est observantiae in te meae pignus, quam ut solita tua Humanitate
+  excipias, et tuo amore offerentem complectaris, obtestor. Lovanii, x.
+  Calend. Decembris, MDCXXIV.</p>
+  <p><hi rendition="simple:italic">Reverentiae Tuae Obsequio
+  Devotus</hi></p>
+  <p>NICOLAVS VERNVLÆVS.</p>
+  <p>Ad Lectorem</p>
+  <p>Tragoediae Argumentum.</p>
+  <p>Nulla fabula aut figmentum in hac Tragoedia est, Lector, en
+  Historiam compendio tibi do, Arthurus natu maior Henrici Octavi frater
+  cum Catharinam Catholicorum Hispaniae Regum filiam uxorem duxisset, eâ
+  ob infirmam tenerae aetatis valetudinem minime cognitâ fatis
+  concessit. Illam de Pontifici Summi veniâ, ut inter Hispanos Anglosque
+  pax confirmaretur, Henricus Octavus uxorem accepit, et ex ea filios
+  tres, duasque filias, (ex quibus sola Maria, utrique parenti superstes
+  fuit) genuit. Annis in hoc matrimonio viginti consumptis, Henricus
+  Octavus Catharinam, religione, ut prae se ferebat, motus, quod uxor
+  fratris sui fuisset, re autem verâ, ut Annam Bolenam, quam deperibat,
+  eius loco supponeret, repudiavit. Approbare cum has nuptias Romanus
+  Pontifex Catharinaeque repudium non vellet, Henricus in Ecclesia
+  Anglicana Primatum sibi arrogavit, et eorum qui voluntati suae obsequi
+  nolebant, sanguine sancivit. Inde illi tot in Anglia Hiberniaque
+  Martyres, et istorum a Catholicâ Religione regnorum defectio. Vnâ enim
+  et hâc solâ occasione in Angliam, tributariam olim Romanae Ecclesiae
+  Provinciam Haeresis irrepsit. Faxit Deus, ut aliquando sapiat, et
+  redeat. Vide praeter alios Nicolaum Sanderum in Libro de Origine ac
+  Progressu Schismatis Anglicani.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="personae-tragoediae">
+    <head>Personae Tragoediae</head>
+    <p>Henricus Rex.</p>
+    <p>Catharina Regina.</p>
+    <p>Maria Filia Catharinae.</p>
+    <p>Thomas Morus.</p>
+    <p>Roffensis Episcopus.</p>
+    <p>Campegius.</p>
+    <p>Volsaeus.</p>
+    <p>Longlandus.</p>
+    <p>Granmerus.</p>
+    <p>Brianus.</p>
+    <p>Varamus.</p>
+    <p>Senatores Regni.</p>
+    <p>Anna Bolena.</p>
+    <p>Aloysia Mori uxor.</p>
+    <p>Margareta Mori filia.</p>
+    <p>Haeresis.</p>
+    <p>Luxuria.</p>
+    <p>Impietas,</p>
+    <p>Tyrannis.</p>
+    <p>Religio Catholica.</p>
+    <p>Ratio.</p>
+    <p>Pietas.</p>
+    <p>Clementia.</p>
+    <p>Angelus.</p>
+    <p><hi rendition="simple:bold">Chorus Virginum.</hi></p>
+    <p><hi rendition="simple:bold">Chorus Exulum Catholicorum.</hi></p>
+    <p>CENSVRA.</p>
+    <p>Tragoedia haec praelo digna evidenter ostendit quam vere a
+    Philosopho dictum sit, <hi rendition="simple:italic">Vno absurdo
+    dato, caetera consequi.</hi></p>
+    <p>GVIL. FABRICIVS</p>
+    <p>Apostolicus ac Regius</p>
+    <p>Librorum Censor.</p>
+    <p>HENRICVS OCTAVVS</p>
+    <p>SEV</p>
+    <p>SCHISMA</p>
+    <p>ANGLICANVM</p>
+    <p>TRAGŒDIA.</p>
+  </div>
+  <div type="level2" xml:id="actvs-primvs.">
+    <head>ACTVS PRIMVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-i.">
+    <head>SCENA I.</head>
+    <p>Haeresis, Luxuria, Impietas, Tyrannis.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi></p>
+    <p>Orbem sepultum, lucis immunes domos,</p>
+    <p>Tetrumque linquo noctis infernae chaos,</p>
+    <p>Genitrix nefanda fraudium, et saevae parens</p>
+    <p>Crudelitatis, Haeresis. Titan tuos</p>
+    <p>Absconde vultus, flammei occiduas petant</p>
+    <p>Vndas caballi, nulla lux spargat diem,</p>
+    <p>Et ipsa noctis parvula obscurum tegat</p>
+    <p>Velamen Astra. Tartari rupi fores,</p>
+    <p>Caliginemque noctis aeternae indui.</p>
+    <p>En horret ipse Mundus, et passu meo</p>
+    <p>Concussa Tellus trepidat: Hoc omen mihi est.</p>
+    <p>Bene est, abunde est, fiat hoc, fiat scelus,</p>
+    <p>Quodcunque mente molior, dirum, novum,</p>
+    <p>Inusitatum, triste, terribile, efferum,</p>
+    <p>Et quod Britannus nescit. Anguineum hoc caput,</p>
+    <p>Et vos, sorores, testor, et stygis Arbitrum,</p>
+    <p>Et qui tremendam flebili tundit domum</p>
+    <p>Horrore Phlegeton, versa iam, versa Anglia</p>
+    <p>Latus in ruinam flectet, et pestem trahet.</p>
+    <p>Britanna Tellus, hactenus celsum caput,</p>
+    <p>Et extulisti Nobiles coelo manus.</p>
+    <p>Fidei Quiritûm iam sit indultum satis,</p>
+    <p>Romaeque sacris. Ille Tarpeiâ tonans</p>
+    <p>E rupe Rector Angliae quondam suae</p>
+    <p>Nunc iura perdat, funera et diras neces</p>
+    <p>Numeret suorum; ferre qui Romam queunt,</p>
+    <p>Pauci hîc cruento finient fato diem.</p>
+    <p>Mea ista Tellus, Regis Henrici meum</p>
+    <p>Libido regnum sanciet: nempe hoc ratum est,</p>
+    <p>Vbicunque surgit Haeresis, surgit nefas.</p>
+    <p>Et scelere semper nascimur; quisquis Deo</p>
+    <p>Amens rebellat, sceleris nefandi est reus.</p>
+    <p>Certa iam sunt auspicia; Venerem suam</p>
+    <p>Rex ustulatus deperit; natam suam,</p>
+    <p>Et quam nefando genuit incestu Pater,</p>
+    <p>Habere iam vult coniugem. Frustra tuum</p>
+    <p>Ab Vrbe lenta fulmen excuties manu</p>
+    <p>Pater Quiritûm; sola plus poterit Venus</p>
+    <p>Quam tot minarum plaustra. Iam tandem meae</p>
+    <p>Tandem Sorores pergite. Hîc partes tuae</p>
+    <p>Luxuria primae sunto, faecundis ales</p>
+    <p>Flammis amorem; torreas Regis iecur,</p>
+    <p>Et intus alto vulnere in flammas eat.</p>
+    <p><hi rendition="simple:italic">Luxuria.</hi> Nostris perustus
+    ignibus totus furit.</p>
+    <p>Vnum est Bolena Regis Idolum; vel hanc</p>
+    <p>Sociare mens est coniugem, et primas thori</p>
+    <p>Violare leges, vel piae Romae sacras</p>
+    <p>Non ferre leges. <hi rendition="simple:italic">Haeres.</hi> Alter
+    est sceleris gradus,</p>
+    <p>Tonantis iras, legis humanae minas,</p>
+    <p>Et quicquid ille montibus septem tonat</p>
+    <p>Princeps sacrorum, temnere. Impietas tuum est</p>
+    <p>Mutare Regis pectus; aut ducat suam</p>
+    <p>Demens Bolenam, aut iura Tarpei patris</p>
+    <p>Contemnat audax. <hi rendition="simple:italic">Imp.</hi> Regis
+    hoc animo sedet;</p>
+    <p>Et dum voluptas pellicis pandit sinum,</p>
+    <p>Coeli recedit cura. Quem captum Venus</p>
+    <p>Amplexa stringit, unicum Numen colit,</p>
+    <p>Venerisque Numen. <hi rendition="simple:italic">Haeres.</hi>
+    Numen hoc unum volo.</p>
+    <p>At cum cruorem sitiat, et diras neces,</p>
+    <p>Quicunque mollis, nunc tuae partes erunt</p>
+    <p>Tyrannis. Igitur effera mentem et manum,</p>
+    <p>Exilia, caedes, sanguinem effusum velit.</p>
+    <p><hi rendition="simple:italic">Tyran.</hi> Et efferatum, et mente
+    crudelem impiâ</p>
+    <p>Agitabo Regem; dum suo demens sinu</p>
+    <p>Stringet Bolenam, Regios pascet cruor</p>
+    <p>Effusus oculos. Vnico edicto neces</p>
+    <p>Plus mille sparget: sanguine undabunt viae,</p>
+    <p>Cadaverumque longa ducetur strues.</p>
+    <p><hi rendition="simple:italic">Haeres.</hi> En ipse; Regem cingite
+    actutum simul;</p>
+    <p>Instate circum, saucii cordis fores</p>
+    <p>Pulsate, amans amensque sit, nec sit suus.</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.">
+    <head>SCENA II.</head>
+    <p>Henricus Rex, Luxuria, Impietas, Tyrannis.</p>
+    <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+    <p>Equidem serenum fulget e sceptro iubar,</p>
+    <p>Et ista splendet purpura, et sacrae micat</p>
+    <p>Diadema frontis. Nempe sic fuco tegit</p>
+    <p>Fortuna Reges, sic dolo innectit decus.</p>
+    <p>Decus istud alti verticis quantum nitet?</p>
+    <p>At intus arcti pectoris curae gemunt.</p>
+    <p>Frontem serenat fulgor, at pectus dolor</p>
+    <p>Intus flagellat. Quicquid exornat, premit;</p>
+    <p>Quicquid serenat, inficit, quicquid micat</p>
+    <p>Acri dolore mordet, et tandem necat.</p>
+    <p>Vna est dolorem quae mihi tantum facit,</p>
+    <p>Vna est Bolena; fascino nam me suo</p>
+    <p>Occidit illa; risus et formae lepos,</p>
+    <p>Et oris illa gratia, et vernus decor,</p>
+    <p>Istud perurunt pectus, et flammas alunt.</p>
+    <p>Vno trucidant lumina aspectu comae.</p>
+    <p>Animum hunc amoris vinculo blando ligant.</p>
+    <p>Tot his et illis impero populis potens,</p>
+    <p>Vni Bolenae servio: Rex sum, et miser</p>
+    <p>Sum servus idem. <hi rendition="simple:italic">Luxur.</hi> Perge
+    Rex, hoc scilicet</p>
+    <p>Regnare tandem est, velle quod mentem iuvet.</p>
+    <p>Quicunque amore pectus accensum gerit,</p>
+    <p>Servire nescit; iuris et legum simul</p>
+    <p>Nexum resolvit. Regii vultus decor,</p>
+    <p>Virilis aetas, otium, mensae, quies</p>
+    <p>Aliquid requirunt, quod tuus nescit pudor.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vtinam liceret! cura non
+    animum levis,</p>
+    <p>Tristem flagellat; ignibus carpor novis,</p>
+    <p>Impletque celsa regios coniux thoros.</p>
+    <p>At hoc Bolena pectus, hanc mentem trahit.</p>
+    <p>Regina placuit. <hi rendition="simple:italic">Lux.</hi> Languidum
+    et moestum trahet</p>
+    <p>Idcirco pectus? Veneris haud miles novus</p>
+    <p>In arma prodis: tua si forsan placet</p>
+    <p>Bolena Regi, placeat, et thalamum impleat;</p>
+    <p>Implevit illum mater, implevit soror.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vtinam liceret! quae
+    placet, non sic cupit</p>
+    <p>Placere Regi; coniugem opponit meam.</p>
+    <p>Amare pellex non volo, coniux volo,</p>
+    <p>Sic, inquit illa; nuptiarum vult fidem.</p>
+    <p>Lenimen aegro pectori nullum facit.</p>
+    <p>Haec misera sors est Regis, hoc vulnus meum,</p>
+    <p>Et usque et usque vulnus excrucians meum.</p>
+    <p><hi rendition="simple:italic">Impiet.</hi> Et amas, et haeres?
+    non habet leges amor;</p>
+    <p>Solvendus iste cordis imbellis pudor.</p>
+    <p>Etiam Monarchis multa, quae nescis, licent.</p>
+    <p>Alesne vivam pectoris laesi facem?</p>
+    <p>Et aestuabit cordis accensi furor</p>
+    <p>Suspiriosis dum trahis votis diem?</p>
+    <p>Consilia quaere, et quod placet votum occupa.</p>
+    <p>Dissolve quicquid impedit; Regi licet,</p>
+    <p>Regi placere quod potest.
+    <hi rendition="simple:italic">Henr.</hi> Vna haec placet,</p>
+    <p>Vereor tumultus; Caesar et Reges scient</p>
+    <p>Si quid movebo; nec satis forsan meus</p>
+    <p>Probabit Anglus: interim occumbo miser,</p>
+    <p>Vivensque et ardens iam meos Manes fero.</p>
+    <p>Bolena, quo me? quo Bolena me trahis?</p>
+    <p><hi rendition="simple:italic">Tyran.</hi> Heu lentus ardor!
+    occupa votum manu,</p>
+    <p>Dolere Reges non sciunt: quisquis potest</p>
+    <p>Alios severus cogere, hic nunquam dolet.</p>
+    <p>Privata languent tecta, non Aulae gemunt,</p>
+    <p>Optare possunt caeteri, at Reges iubent.</p>
+    <p>Si quis probare non volet quicquid voles,</p>
+    <p>Ostende ferrum; Verbera, et minae et neces</p>
+    <p>Vulgus coercent. Nobiles quosdam favor,</p>
+    <p>Alios in istud quod voles terror trahet.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Herois in me est
+    sanguis, et Dîus vigor,</p>
+    <p>Manet hoc repostum corde, quod Mundus tremat.</p>
+    <p>Est turpe Regem pectoris flammam pati.</p>
+    <p>En illa; mediis aestuor praecordiis;</p>
+    <p>Vt video, ut aeger occido; nutu meum</p>
+    <p>Hoc pectus uno sauciat, mihi me abstrahit.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.">
+    <head>SCENA III.</head>
+    <p>Bolena, Henricus, Brianus.</p>
+    <p><hi rendition="simple:italic">Bolena.</hi></p>
+    <p>Quid Rex? quid isto moestus obtutu novos</p>
+    <p>Animo dolores claudis ? emergat iubar</p>
+    <p>Mentis serenae; sola Maiestas iacet</p>
+    <p>Deiecta, moesta, languida, et curis gravis.</p>
+    <p>En cerne Phoebum, fulget, et clarum caput</p>
+    <p>Ostendit orbi, et aetheris magni choros</p>
+    <p>Radiis serenat aureis, tu Rex tibi</p>
+    <p>Incumbis ipsi: discute hoc quicquid tuum</p>
+    <p>Obnubit animum. <hi rendition="simple:italic">Henr.</hi> Sola cum
+    praesens ades,</p>
+    <p>Mens nubilata pristinum admittit iubar.</p>
+    <p>Tu cura nostra es, mentis et nostrae vigor.</p>
+    <p><hi rendition="simple:italic">Bolena.</hi> Depone curas, otium
+    Reges beat;</p>
+    <p>Vacare ludis tunc solent, et tunc suos</p>
+    <p>Habent amores. <hi rendition="simple:italic">Henr.</hi> Sola tu
+    nostros habes.</p>
+    <p>Admitte curam, saucius pro te hanc gero.</p>
+    <p><hi rendition="simple:italic">Bolena.</hi> Pro mene curam? vive
+    Rex laetus tibi,</p>
+    <p>Ego laeta rapidis tradidi curas Notis.</p>
+    <p>Mens laeta cytharas poscit, et suaves Iocos,</p>
+    <p>Mollesque saltus; cum voles, iungo manum;</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Animumque iungas; magna
+    pars cordis mei es,</p>
+    <p>Et magna curae. Crede iuratus loquar,</p>
+    <p>Amore pectus vulneras lento meum,</p>
+    <p>Et sola nostri pectoris flammas alis.</p>
+    <p>Coniunge votis dum licet animum meis.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Ignosce Rex, iurata
+    mens haec est mihi.</p>
+    <p>Hanc castitatis nemo decerpet rosam,</p>
+    <p>Nisi sit maritus. <hi rendition="simple:italic">Henr.</hi> Crede
+    me sponsam tibi;</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Fit sponsus ille, qui
+    prius iurat fidem,</p>
+    <p>Sponsamque ducit; Coniugem iam Rex habes;</p>
+    <p>Regina thalami facta consors est tui.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Tu iuncta Regi cum voles
+    coniux meo</p>
+    <p>Amore fies: sit satis quando places,</p>
+    <p>Et vulnus istud pectori, quando facis.</p>
+    <p>Amore prima semper et votis eris.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Rex parce, virgo
+    nuptias sacras volo.</p>
+    <p>Haec certa mens est, regium patiar libens,</p>
+    <p>Sed virgo amorem: discute has curas tuas.</p>
+    <p>Pax parta regno est, Martius cessat labor,</p>
+    <p>Felicitatis dona ne temnas tuae.</p>
+    <p>Recreare mentem fas sit. <hi rendition="simple:italic">Henr.</hi>
+    at per te mihi</p>
+    <p>Bolena fas sit: cordis idolum mei es,</p>
+    <p>Amore victum iam tuo Regem vides,</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Amore victus coniugem
+    fac me tuam.</p>
+    <p>Amare tantum coniugem possum meum.</p>
+    <p>Sed ista linque; vulnus augescit morâ,</p>
+    <p>Et cura mordet acrius quando placet.</p>
+    <p>Vtinam liceret, quod cupis. Nunc dum licet,</p>
+    <p>Ætatis istud perdere haud fas sit decus.</p>
+    <p>Levare moestam iam decet mentem iocis,</p>
+    <p>Curare Reges non solent quod non placet</p>
+    <p>Annosque tristes semper oderunt suos.</p>
+    <p>Fac Aula cantu personet; saltus novos,</p>
+    <p>Alloquia blanda tempus hoc pacis petit.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Eamus, Aulam laeta tu
+    mecum subi.</p>
+    <p><hi rendition="simple:italic">Brianus.</hi> En ille Regis ardor,
+    en Regis faces.</p>
+    <p>Vna est Bolena Regis incensi Venus.</p>
+    <p>Amore totus vincitur, totus perit.</p>
+    <p>Et totus illam deperit. Dulce est malum;</p>
+    <p>Calamitatem naufragus quaerit suam,</p>
+    <p>Et illa virgo scilicet, cauto virum,</p>
+    <p>Dum quaerit astu, regium poscit thorum.</p>
+    <p>Muliere cauta peius haud ullum est malum.</p>
+    <p>Sermone pectus laedit, atque oculis nocet.</p>
+    <p>Iurando semper fallit, amplexu necat.</p>
+    <p>Sed en, nec erro, cerno Volsaeum, gravis</p>
+    <p>Res agitur intus, cura sollicitum tenet.</p>
+  </div>
+  <div type="level2" xml:id="scena-iv.">
+    <head>SCENA IV.</head>
+    <p>Volsaeus, Longlandus, Brianus.</p>
+    <p><hi rendition="simple:italic">Volsaeus.</hi></p>
+    <p>Longlande, Regis in tua est manu salus,</p>
+    <p>Vt ecce amore totus insolito furit?</p>
+    <p>Nescit quietem, quisquis hanc flammam gerit.</p>
+    <p>Amor potiri cum nequit, tunc fit furor.</p>
+    <p>Scis ipse, magni quod volunt Reges, sibi</p>
+    <p>Licere cupiunt. <hi rendition="simple:italic">Longl.</hi> Impetu
+    Reges agunt</p>
+    <p>Plerumque tantum; quod volunt, idem iubent</p>
+    <p>Cum fervet aetas cedere haud cuiquam sciunt.</p>
+    <p>Lex est, voluntas. <hi rendition="simple:italic">Vols.</hi>
+    Irritum nunquam volunt</p>
+    <p>Quod velle possunt; sit tamen votis modus.</p>
+    <p>Regis salutem quaerere, hoc munus tuum est,</p>
+    <p>Modum docebo. Crede, nam coelo loquor</p>
+    <p>Deoque teste; pectus hoc nostrum Tonans</p>
+    <p>Animique curas cernit; hoc unum volo,</p>
+    <p>Æterna nostri certa sit Regis salus.</p>
+    <p>Silere vellem quod tamen cogor loqui.</p>
+    <p>Arcana nosti Regis, arcanum hoc quoque</p>
+    <p>Iam nosce tandem. Nuptias Regis ratas</p>
+    <p>Nemo probabit doctus, haec certa est fides:</p>
+    <p>Catharina Regi nupsit, haud potuit tamen.</p>
+    <p>Accipere fratris coniugem frater nequit.</p>
+    <p>Digna illa consors est thori, sed lex vetat.</p>
+    <p>Simulare semper est nefas quod lex vetat.</p>
+    <p>Monere Regem convenit; partes tuae</p>
+    <p>Etiam hoc requirunt: I mone, et sensum meae</p>
+    <p>Expone mentis, certa rem ratio docet,</p>
+    <p>Fides revelat. <hi rendition="simple:italic">Longl.</hi>
+    Consulam, quando hoc decet,</p>
+    <p>Regis saluti, mentis hunc sensum tuae</p>
+    <p>Curasque promam. <hi rendition="simple:italic">Vols.</hi> Gratus
+    accedes, modus</p>
+    <p>Hic solus esse Regio ardori potest,</p>
+    <p>Etiam saluti. <hi rendition="simple:italic">Longl.</hi> Pergo, tu
+    praesto hîc mane,</p>
+    <p>Dum Rex vocabit. <hi rendition="simple:italic">Brianus.</hi>
+    Gratius Regi nihil</p>
+    <p>Amore tanto est; quisquis inveniet modum</p>
+    <p>Regem obligabit; ferre vix tantam potest</p>
+    <p>Sub corde flammam; crescit ardor dum sui</p>
+    <p>Negat Bolena copiam; semper placet</p>
+    <p>Habere quod qui non potest.
+    <hi rendition="simple:italic">Volsaeus.</hi> Regis salus</p>
+    <p>Curanda semper omnibus; regni hoc caput</p>
+    <p>Incolume quando est, certa membrorum est salus.</p>
+    <p>Briane famam Regi et nomen cole.</p>
+    <p><hi rendition="simple:italic">Brianus.</hi> Defendo famam: Rege
+    pro nostro mori</p>
+    <p>Etiam est decorum; faxit, ut tantus modum</p>
+    <p>Inveniat ardor. <hi rendition="simple:italic">Volsaeus.</hi>
+    Certus est, si vult, modus.</p>
+    <p><hi rendition="simple:italic">Brianus.</hi> En concitato properat
+    ipse Rex gradu.</p>
+  </div>
+  <div type="level2" xml:id="scena-v.">
+    <head>SCENA V.</head>
+    <p>Henricus rex, Volsaeus, Longlandus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Volsaee, si quam rebus apportas opem,</p>
+    <p>Expone mentem; corde confuso ruo,</p>
+    <p>Mens lapsa retro cedit, huc volvor tremens,</p>
+    <p>Illuc revolvor dubius; ac Ponti velut</p>
+    <p>Incerta motus unda non capit suos,</p>
+    <p>Sic flector, et sic agitor, et languens feror.</p>
+    <p><hi rendition="simple:italic">Volsaeus.</hi> Haec lex loquendi
+    certa sit, Regis salus.</p>
+    <p>Tuam salutem, Magne Rex, solam peto.</p>
+    <p>Necessitatis inde libertas mea est</p>
+    <p>Patere admonentem. Non decet quicquam Duces</p>
+    <p>Nescire magnos; quippe quos multi timent,</p>
+    <p>Qui regere certo multa consilio solent.</p>
+    <p>Praeesse populis vos Deus Reges cupit,</p>
+    <p>Et iura ferre subditis; non est, reor</p>
+    <p>Errare Regum; namque dum peccant Duces</p>
+    <p>Peccare certo vulgus exemplo docent.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Errare forsan me putas?
+    <hi rendition="simple:italic">Vol.</hi> Equidem puto,</p>
+    <p>At ipse nescis, error incertus tibi est;</p>
+    <p>Catharina non est, quam putas, coniux tua.</p>
+    <p>Quaeque ante coniux fratris Arthuri fuit,</p>
+    <p>Rex, esse coniux non potest unquam tua.</p>
+    <p>Oraculorum si fidem certam petis,</p>
+    <p>Sacrae loquuntur paginae; toto docent</p>
+    <p>In orbe Docti; sapere Rex tandem decet,</p>
+    <p>Sero, sed error sero ponendus tamen.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> At iudicata res fuit;
+    quicquam hic cave</p>
+    <p>Movere rursum, Pontifex legem dedit,</p>
+    <p>Permisit idem. <hi rendition="simple:italic">Volsaeus</hi>.
+    Fateor, erravit tamen</p>
+    <p>Æternus ille quod vetat mundi Tonans</p>
+    <p>Permittere ipse non potest.
+    <hi rendition="simple:italic">Hen.</hi> Doceas modum;</p>
+    <p>Tollatur error si quis est error meus.</p>
+    <p>Ignoscet Æther, error aetatis fuit.</p>
+    <p>Consilia saepe prava decipiunt Duces.</p>
+    <p><hi rendition="simple:italic">Vols.</hi> Putata thalamum deserat
+    Coniux tuum,</p>
+    <p>Modus unus iste est; alia succedat tuam</p>
+    <p>Coniux in Aulam. Pontifex legem dabit,</p>
+    <p>Permittet idem cum voles; error prius</p>
+    <p>Sit notus illi; nemo delicto favet,</p>
+    <p>Cui certa curae est omnium Regum salus.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Longlande, quod res
+    poscit, actutum expedi.</p>
+    <p>Perscribe Romam, notus error sit meus.</p>
+    <p>Dicatque summus Iudicem Iudex meum.</p>
+    <p><hi rendition="simple:italic">Longland.</hi> Curabo iussa: Sacra
+    Maiestas tua</p>
+    <p>Etiam per Anglos discuti hoc quicquid latet,</p>
+    <p>Nam magna res est, iubeat.
+    <hi rendition="simple:italic">Henr.</hi> Hoc curâ simul</p>
+    <p>Habere certam coniugem iam Rex volo.</p>
+    <p>Ducatur alia, Iura si ductam negant.</p>
+    <p><hi rendition="simple:italic">Volsaeus.</hi> Sit alia magni
+    Galliae Regis soror,</p>
+    <p>Est digna Rege, Regius sanguis simul.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Istud videbo, quod petit
+    tempus, sile.</p>
+    <p><hi rendition="simple:italic">Vols.</hi> Curabo quicquid postulat
+    Regis salus.</p>
+  </div>
+  <div type="level2" xml:id="scena-vi.">
+    <head>SCENA VI.</head>
+    <p>Henricus Rex, Ratio, Pietas, Clementia.</p>
+    <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+    <p>Iam certa sors est, sortis inveni modum</p>
+    <p>Abeat, recedat, esse quae coniux nequit.</p>
+    <p>Prima est salutis cura, regnorum altera.</p>
+    <p>Catharina Coniux, cuius acceptae pudet,</p>
+    <p>Retinenda non est; abdico, eiuro, abnuo.</p>
+    <p>Mihi Bolena liberos coniux dabit.</p>
+    <p>Votum hoc amoris est mei; haec coniux placet.</p>
+    <p><hi rendition="simple:italic">Rat.</hi> Catharina linquat Regium
+    coniux thorum?</p>
+    <p>Abeat? recedat? iura Naturae dabis</p>
+    <p>Sic versa retro? <hi rendition="simple:italic">Henr.</hi> Iura
+    Naturae sequor,</p>
+    <p>Haec esse coniux non potest; non, non potest.</p>
+    <p><hi rendition="simple:italic">Ratio.</hi> Quae lege duci potuit,
+    esse quid vetat?</p>
+    <p>Retinere ductam coniugem leges volunt,</p>
+    <p>Mandat Monarcha Coelitum.
+    <hi rendition="simple:italic">Henr.</hi> Sponsam mei</p>
+    <p>Retinebo fratris? Non licet.
+    <hi rendition="simple:italic">Ratio.</hi> Fas est tibi,</p>
+    <p>Fas esse quod vult Pontifex: legem dedit,</p>
+    <p>Edixit idem nuptiis nullam tuis</p>
+    <p>Obstare legem. Crede sacrorum Patri.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Amo salutem; non placet.
+    <hi rendition="simple:italic">Ra.</hi> Tibi non placet</p>
+    <p>Tam sancta coniux, moribus quae iam suis</p>
+    <p>Ornat Britannos, sancta quae meritis Deum</p>
+    <p>Conciliat Anglis, clara quae proles Ducum</p>
+    <p>Regumque sanguis? <hi rendition="simple:italic">Henr.</hi> Non
+    placet, curam meae</p>
+    <p>Gero salutis. <hi rendition="simple:italic">Pietas.</hi> Scilicet
+    curam tuae</p>
+    <p>Geris salutis, iura cum spernis sacra,</p>
+    <p>Et quod refixit Pontifex.
+    <hi rendition="simple:italic">Henr.</hi> Nil hoc moror;</p>
+    <p>Erravit ille Pontifex, sed nunc mihi est</p>
+    <p>Tollendus error. <hi rendition="simple:italic">Pietas.</hi> Nempe
+    te pietas movet.</p>
+    <p>Cum foeda flammis pectus incendit Venus.</p>
+    <p>Vereare Coelum, corda scrutatur Tonans</p>
+    <p>Tumefacta Regum; ludere Impietas nequit</p>
+    <p>Vindicta certas quando molitur faces.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Deus ipse, nostris
+    aperit hunc sensum malis,</p>
+    <p>Etiam favebit. <hi rendition="simple:italic">Piet.</hi> Scilicet
+    Veneri tuae</p>
+    <p>Tonans favebit; Coniugem quando tuam</p>
+    <p>Coniux repellis impius, quando placet</p>
+    <p>Ætatis illud, et tuae patriae lues,</p>
+    <p>Monstrum impudicum, infame, saecli dedecus.</p>
+    <p><hi rendition="simple:italic">Ratio.</hi> Etiamne ratio nulla te
+    Regem movet,</p>
+    <p>Vereare famam. <hi rendition="simple:italic">Henr.</hi> Fama me
+    Regem movet,</p>
+    <p>Incerta thalamos dum meos Coniux tenet.</p>
+    <p>Probare debet fama, quod iam Rex volo.</p>
+    <p>Sancire ferro quicquid est, fixum sedet.</p>
+    <p><hi rendition="simple:italic">Clem.</hi> Ferrum benignos non
+    decet Reges; tuam</p>
+    <p>Benignitatis iure famam sancies.</p>
+    <p>Vbi saeva regnat ira, non regnat diu.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Peragere mens est
+    quicquid optavi prius.</p>
+    <p><hi rendition="simple:bold">Chorus.</hi></p>
+    <p>Virginum Anglicarum.</p>
+    <p>Crudelis amor, quot mala misces</p>
+    <p>Animum Regis quando fatigas?</p>
+    <p>Non tot gravidos Gargara culmos,</p>
+    <p>Non tot motus Euripus agit</p>
+    <p>Non tot minimas pontus arenas.</p>
+    <p>Crudelis Amor, miseros torques,</p>
+    <p>Pectora flammis quando peruris</p>
+    <p>Vsque catenâ longâ curas,</p>
+    <p>Vsque dolores luctusque trahens.</p>
+    <p>Quisquis venerem pectore claudit,</p>
+    <p>Numerat longas tetricus horas,</p>
+    <p>Deserit aegri taedia lecti,</p>
+    <p>Temnit lautae gaudia mensae.</p>
+    <p>Nescit laeso corde quietem</p>
+    <p>Εt lento consumitur igne.</p>
+    <p>Tyrio quanquam fulgeat ostro</p>
+    <p>Multis quanquam det iura plagis;</p>
+    <p>Vetito pectus si ardet amore,</p>
+    <p>Miser aeternâ est compede victus.</p>
+    <p>Et fit foedae victima Veneri,</p>
+    <p>Tantumque suo servit Amori.</p>
+    <p>Amantium haec est servitus</p>
+    <p>Placere semper alteri</p>
+    <p>Semper moeret, semper et horret;</p>
+    <p>Quidvis sperat, metuit quidvis</p>
+    <p>Æstuat horrens, torpet anhelans.</p>
+    <p>Quid te exagitas Rex Henrice,</p>
+    <p>Quid tot pectoris acuis motus?</p>
+    <p>Dirum est aliquid quodcunque doles,</p>
+    <p>Quod te miserum misere inflammat,</p>
+    <p>Quod nec amando lenire queas.</p>
+    <p>Heu te, ubi doctae regula vitae,</p>
+    <p>Et primae doctrina iuventae?</p>
+    <p>Heu te ubi, sacri virtus animi</p>
+    <p>Constans validis pectus in armis?</p>
+    <p>Omnia dirus consumit amor,</p>
+    <p>Et te miserâ tabe peredit.</p>
+    <p>Placet heu Regi sola Bolena,</p>
+    <p>Placet heu Regi sola libido;</p>
+    <p>Et sua nescit damna laborans,</p>
+    <p>Inter Scyllas atque Charybdes.</p>
+    <p>Nam sic perit, qui deperit,</p>
+    <p>Non est suus qui sic amat,</p>
+    <p>Sero sapiet cum mala noscet,</p>
+    <p>Et cum patriam fregerit omnem.</p>
+    <p>Non casta placet Regina viro;</p>
+    <p>Spurcae thalamum pellicis ardet;</p>
+    <p>Non ulla placet probitas morum</p>
+    <p>Totum meretrix possidet animum.</p>
+    <p>Anglia quos nunc, Anglia quos nunc</p>
+    <p>Tristi mittes pectore luctus?</p>
+    <p>Hic Regis amor certa ruina est;</p>
+    <p>Vnaque patriam foemina perdet;</p>
+    <p>Dicent nostri saepe Nepotes,</p>
+    <p>Foemina validos perdidit Anglos;</p>
+    <p>Foemina molles reddidit Anglos;</p>
+    <p>Dum Rex turpi servit amori</p>
+    <p>Optima Patrum sacra reliquit.</p>
+    <p>Heu flenda dies, heu flenda dies!</p>
+    <p>Longae nobis lachrymae restant,</p>
+    <p>Et saeva Patrum fata timentur,</p>
+    <p>Amor hic blando vulnere laedens,</p>
+    <p>Postea saevo vulnere perimet.</p>
+    <p>Amoris iste finis est,</p>
+    <p>Perire semper, nec mori.</p>
+  </div>
+  <div type="level2" xml:id="actvs-secvndvs">
+    <head>ACTVS SECVNDVS</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-i.-1">
+    <head>SCENA I.</head>
+    <p>Catharina Regina, Thomas Morus, pedissequae.</p>
+    <p><hi rendition="simple:italic">Catharina Regina.</hi></p>
+    <p>Beate rerum Rector, aeterno regis</p>
+    <p>Qui cuncta nutu, vitaque et lex omnium:</p>
+    <p>Cuius serenos sancta Maiestas polos</p>
+    <p>Æternitatis lege fatali movet,</p>
+    <p>Regumque Sceptra fraenat, et mundi vices</p>
+    <p>Eadem gubernat. Ergone incerto fluunt</p>
+    <p>Humana casu, despicis terras Tonans,</p>
+    <p>Et fata rerum sorte volvuntur suâ?</p>
+    <p>Aurate Phoebe, Magne saeclorum Parens,</p>
+    <p>Lucisque Rector; tuque quae noctu vagas</p>
+    <p>Regis cohortes syderum, et noctem face</p>
+    <p>Dubiâ gubernas semper hos luctus gravis,</p>
+    <p>Cernetis imbres? nulla nox, nullus dies,</p>
+    <p>Quin effluentes cernat abrupto meas</p>
+    <p>Torrente lachrymas. Occidens Phoebus videt,</p>
+    <p>Videt et renascens, unus est nostrae labor</p>
+    <p>Et cura vitae, flere. Quo tandem Deus,</p>
+    <p>Et usque et usque pateris, et lentâ nefas</p>
+    <p>Permittis irâ! Scilicet quando tuas</p>
+    <p>Observo leges, regii quando thori</p>
+    <p>Intacta servo iura, nec pravo fides</p>
+    <p>Violata motu est, regia expellar domo</p>
+    <p>Non digna Coniux ? iam datam solvit fidem</p>
+    <p>Rex et maritus; pellici adstringit fidem,</p>
+    <p>Et impudicum Regios scortum thoros</p>
+    <p>Maculare tentat. Culpa quae tandem est mea?</p>
+    <p>Semper maritum casta dilexi meum,</p>
+    <p>Coluique Regem, tota Reginam Anglia</p>
+    <p>Non usitatis me extulit semper modis.</p>
+    <p>Et nunc, et istud regio in solio probrum,</p>
+    <p>Et nunc, et istud regio scortum in sinu,</p>
+    <p>Et nunc, et istam regiae labem domus,</p>
+    <p>Expulsa, et abdicata, et eiecta, et vaga</p>
+    <p>Videre cogar exul, atque exul pati?</p>
+    <p>O immerentes! immerentes sed tamen</p>
+    <p>O ite lachrymae! Periit insano meus</p>
+    <p>Amore Coniux, corde me extrusit suo</p>
+    <p>O dira, falsa, incerta regnorum fides!</p>
+    <p><hi rendition="simple:italic">Tho. Mor.</hi> Regina, tanto quid
+    tuum luctu quatis</p>
+    <p>Animum immerentem? solitus excedit genis</p>
+    <p>Rubor decorque? si quod insurgit malum</p>
+    <p>Oppone pectus; si quis excruciat dolor</p>
+    <p>Aperi dolorem. <hi rendition="simple:italic">Cath.</hi> Quisquis
+    est nostrum dolor</p>
+    <p>Animum flagellans, notus est cunctis dolor.</p>
+    <p>Amor ille regis coniugis, meus est dolor.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Ventura luges; tantus
+    incertâ dolor</p>
+    <p>Causâ creatur; tempori aptari decet,</p>
+    <p>Sperare semper: impetu sese suo</p>
+    <p>Amor iste franget; indoles Regis diu</p>
+    <p>Servire nescit. <hi rendition="simple:italic">Cath.</hi> Non
+    capit leges amor</p>
+    <p>Nisi se fatiget, cedere haud unquam volet.</p>
+    <p>Et fascinatus in nefas praeceps ruet.</p>
+    <p><hi rendition="simple:italic">Mo</hi>. Scelus istud Anglus non
+    feret; <hi rendition="simple:italic">Ca.</hi> Multi ferent</p>
+    <p>Et prava Regem consilia secum auferent.</p>
+    <p><hi rendition="simple:italic">Mo.</hi> Meliora cernes.
+    <hi rendition="simple:italic">Ca.</hi> Nempe cum expellar domo,</p>
+    <p>Regno, throno; nam restat hoc unum, reor.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Tolle omen istud,
+    nostra Reginam Anglia</p>
+    <p>Nunquam repellet. <hi rendition="simple:italic">Cath.</hi> Regis
+    hic agitur salus;</p>
+    <p>Accusat ipse nuptias, negat ratas.</p>
+    <p>Obiicere crimen non potest; pellex placet,</p>
+    <p>Et casta Coniux displicet.
+    <hi rendition="simple:italic">Mor.</hi> Brevis est furor</p>
+    <p>Ab amore semper; illa quae Regi placet,</p>
+    <p>Mox displicebit. <hi rendition="simple:italic">Cath.</hi> Nescio,
+    mentem timor</p>
+    <p>Percellit atrox, serpit in corpus gelu,</p>
+    <p>Et dubia noctis pectus excruciat fides.</p>
+    <p>Vidi soporem membra cum caperent levem</p>
+    <p>Diadema raptum vertici, et sceptrum meas</p>
+    <p>Liquisse dextras, horrui, exilui, steti</p>
+    <p>Attonita, sed mox Regiâ avellor domo.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Nox ista fallit, fluxa
+    noctis est fides,</p>
+    <p>Vmbratilique somnus imponit dolo.</p>
+    <p>Equidem dolore vix potest aliquo tuum</p>
+    <p>Carere pectus; indolis magnae vigor</p>
+    <p>Iniuriarum ferre tot fraudes nequit.</p>
+    <p>Sperare liceat attamen: Causam tuam</p>
+    <p>Defendet Anglus, Pontifex, Caesar, tua</p>
+    <p>Ibera Tellus; pectus hoc siquid potest,</p>
+    <p>Etiam patebit ultimae pro te neci.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Grata est voluntas ista;
+    si Regem petas,</p>
+    <p>Defende causam More. Vos mecum meae</p>
+    <p>Venite Famulae, vester in nostro est dolor</p>
+    <p>Amore. <hi rendition="simple:italic">Pedis.</hi>
+    <hi rendition="simple:italic">1.</hi> Noster in tuo est luctu
+    dolor,</p>
+    <p>Et dum dolore Regium pectus fremit,</p>
+    <p>Artus tenellos nulla pertentat quies.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Meum est timere quicquid
+    impendet mali,</p>
+    <p><hi rendition="simple:italic">Pedis. 2.</hi> Nihil evenire triste
+    Reginae potest,</p>
+    <p>Quin hoc ruinis terreat pectus novis.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Venite mecum, cuncta
+    disponat Tonans.</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.-1">
+    <head>SCENA II.</head>
+    <p>Henricus Rex, Brianus, Bolena.</p>
+    <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+    <p>Briane, dic quae fama iam Regis tui est?</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Regem salutis esse
+    sollicitum suae.</p>
+    <p>Namque una toto potior est regno salus.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Quid de Bolena?
+    <hi rendition="simple:italic">Bria.</hi> Regio dignam thoro,</p>
+    <p>Dignamque, sceptro virginem, dignam tuo</p>
+    <p>Amore amicam. <hi rendition="simple:italic">Henr.</hi> Nobiles
+    ecquid mei?</p>
+    <p>Ecquid Senatu? <hi rendition="simple:italic">Brian.</hi> Quod
+    placet Regi, placet;</p>
+    <p>Curanda semper, inquiunt, primum est salus.</p>
+    <p><hi rendition="simple:italic">Hen</hi>. Istos veremur attamen.
+    <hi rendition="simple:italic">Bria.</hi> Paucos timor</p>
+    <p>Invasit aliquis, causa quae sit, haud sciunt.</p>
+    <p>Iudicia populi nemo Rex curat sui.</p>
+    <p>Regem sequuntur Nobiles quando favet.</p>
+    <p>Spes dignitatis allicit; Iudex sui</p>
+    <p>Nemo esse Regis debet. <hi rendition="simple:italic">Henr.</hi>
+    Ast ordo sacer.</p>
+    <p>Quid ille de me? <hi rendition="simple:italic">Brian.</hi>
+    Murmurat, causas petit,</p>
+    <p>Divisa partes studia iam multas habent.</p>
+    <p>Probare multi non volunt, plures probant.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Quid tu Briane?
+    <hi rendition="simple:italic">Br.</hi> Regibus quicquid lubet,</p>
+    <p>Istud licet: nam Iura Reges non ligant.</p>
+    <p>Quae grata sunt, sunt licita regnanti bona.</p>
+    <p>Amare primum quod volunt, dein frui.</p>
+    <p>Regum est voluptas, subditos decet labor.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Agedum voluptas haec mea
+    est; hoc cor meum,</p>
+    <p>Haec spes, Bolena, pallidum excutias metum,</p>
+    <p>Et mordicantes exulent curae procul.</p>
+    <p>Fies beata Regis amplexu tui.</p>
+    <p><hi rendition="simple:italic">Bolena.</hi> Isto licebit, cum
+    voles, tantum modo,</p>
+    <p>Duces pudicam, virginem, castam, probam.</p>
+    <p>Fides pudoris integra est. Equidem tuus</p>
+    <p>Mihi iam medullas tangit, et fibras amor,</p>
+    <p>Tuoque vultu vulneror, nunquam tamen,</p>
+    <p>(Gemmata Coeli tecta, Divorum Domos,</p>
+    <p>Ipsumque testor lucis aetheriae iubar)</p>
+    <p>Nunquam pudoris claustra solventur mei,</p>
+    <p>Nisi nuptiarum vinculo. <hi rendition="simple:italic">Henr.</hi>
+    Regis preces</p>
+    <p>Etiam repelles? <hi rendition="simple:italic">Bolen.</hi> Cum
+    pudore sint preces.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Cum amore sunt.
+    <hi rendition="simple:italic">Bo.</hi> Nec virginem solvent
+    preces,</p>
+    <p>Nec amor pudicam. <hi rendition="simple:italic">Henr.</hi> Nempe
+    tu nescis tuum</p>
+    <p>Amare Regem. <hi rendition="simple:italic">Bolen.</hi> Te meum
+    Regem colo;</p>
+    <p>Si vis amabo coniugem. Nosti meum</p>
+    <p>Quo flagret igne pectus, at pudor placet.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Briane, cura ne quid
+    huic desit meae.</p>
+    <p>Subite in Aulam, consilia volvam hic mea.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Longlandus ecce, Regis
+    affatum petit.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.-1">
+    <head>SCENA III.</head>
+    <p>Henricus Rex, Longlandus.</p>
+    <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+    <p>Vt semper aequor turbido impulsum Noto</p>
+    <p>Vel huc vel illuc fluctibus fractis cadit;</p>
+    <p>Sic vita Regum; turba curarum influit,</p>
+    <p>Et turba rursum; nulla regnantum est quies.</p>
+    <p>Si arridet aliquid Principi, haud vulgo placet.</p>
+    <p>Et iudicare Principem cuncti volunt.</p>
+    <p>Nunquam voluptas libera est. Testor tamen</p>
+    <p>Radiantis Æthrae Numen, aut votum assequar,</p>
+    <p>Aut cuncta vertam. Nullus in Regem est satis</p>
+    <p>Iustus tumultus; Arguant, damnent, fremant,</p>
+    <p>Sceptrum Bolena capiet, et Regis thronum.</p>
+    <p>Haec est voluptas, et voluntas est mea.</p>
+    <p>Longlande quid tu? <hi rendition="simple:italic">Longl.</hi>
+    Parui iussis tuis;</p>
+    <p>Discussa res est tota; nec certi satis</p>
+    <p>Iuris quod optas. Nuptias cuncti probant;</p>
+    <p>Dubitare pauci vix queunt. Menti tuae</p>
+    <p>Hanc adde legem; quod volunt docti, sequi.</p>
+    <p>Vna est salutis, crede Rex, certae via,</p>
+    <p>Quod lege certâ Praesulum sanxit Pater</p>
+    <p>Mutare nolle. <hi rendition="simple:italic">Henr.</hi> Rursus in
+    dubios trahis</p>
+    <p>Animum tumultus. <hi rendition="simple:italic">Longl.</hi> Tota
+    Reginam Anglia</p>
+    <p>Amat, petitque; sanctitas vitae placet,</p>
+    <p>Castique mores, et pudor, pietas, fides.</p>
+    <p>Reperire virtus ipsa maiorem nequit.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Decus omne, fateor,
+    integrae vitae tulit.</p>
+    <p>Tam sancta, tam pudica, tam affatu gravis.</p>
+    <p>Virtute radiat, iubare quam Phoebus magis.</p>
+    <p>Quid fiet ergo? deseram quod Rex volo?</p>
+    <p>Quod amo? quod isto pectore occlusum latet?</p>
+    <p>Meum revellam cor mihi? Nunquid mihi</p>
+    <p>Quicquam est timendum? <hi rendition="simple:italic">Lon.</hi>
+    Forsitan Caesar tibi</p>
+    <p>Rex, est timendus; namque Reginae suam</p>
+    <p>Putat esse causam. Crede Rex Burgundica</p>
+    <p>Domus hic laborat; dedecus nescit pati,</p>
+    <p>Regalis ille sanguis, iras colligit,</p>
+    <p>Subitoque motu saevit, et quod non cupit</p>
+    <p>Severitate vindicat. <hi rendition="simple:italic">Henr.</hi>
+    Rursum abripis</p>
+    <p>Mentem in tumultus, Caesar est armis potens,</p>
+    <p>Validâque totum territat mundum manu:</p>
+    <p>Et imminere iam meis regnis potest.</p>
+    <p>Quid heu? quid amens corde turbato loquor?</p>
+    <p>Istum verebor Caesarem, et sceptrum geram?</p>
+    <p>Parebo regnans Caesari? Plusquam est satis;</p>
+    <p>Fiet, quod opto. Pontifex utinam meos</p>
+    <p>Probet dolores! Debet hic multum mihi;</p>
+    <p>Iuvi vocatus, quicquid optavit, dedi.</p>
+    <p>Meritis rependat gratiam.
+    <hi rendition="simple:italic">Longl.</hi> Novit tuam</p>
+    <p>Iam Roma causam, Pontifex motus dolet,</p>
+    <p>Favere vellet; merita commotum trahunt.</p>
+    <p>At statuat aliquem ut arduae causae modum</p>
+    <p>Ab urbe mittit Iudicem. <hi rendition="simple:italic">Henr.</hi>
+    Quem? edissere.</p>
+    <p><hi rendition="simple:italic">Longl.</hi> E purpuratis Patribus
+    Campegium.</p>
+    <p>Volsaeus alter iunctus est Iudex simul.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Bene est, soluto corde
+    iam liber feror.</p>
+    <p>Audita multos causa dissolvet dolos.</p>
+    <p>Nunquam recuso Iudicem: actutum meas</p>
+    <p>Subeat in oras. <hi rendition="simple:italic">Longl.</hi> Angliae
+    portum tenet,</p>
+    <p>Subitque regnum. <hi rendition="simple:italic">Henr.</hi> Perge
+    quod superest, tuis</p>
+    <p>Hoc mando curis; quod petit tempus, para.</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Sed en Senatus, Regium
+    accedit thronum.</p>
+  </div>
+  <div type="level2" xml:id="scena-iv.-1">
+    <head>SCENA IV.</head>
+    <p>Senatus, Henricus Rex, in Senatu Roffensis episcopus, Morus, et
+    alii.</p>
+    <p><hi rendition="simple:italic">Roffensis.</hi></p>
+    <p>Fortunet Æther, Magne Rex, sceptrum hoc tuum.</p>
+    <p>Vides Senatum, causa commotum trahit</p>
+    <p>Tuae salutis, consule et regno, et tibi;</p>
+    <p>Precamur omnes; Anglia expandit manus</p>
+    <p>Supplexque Regi lachrymas offert suas.</p>
+    <p>Nunquam repelle coniugem, sanctam, piam,</p>
+    <p>Et castitatis inclytae exemplar novum.</p>
+    <p>Vis magna Regum est; aurea quicquid face</p>
+    <p>Surgens ab undis lustrat, aut tegit cadens</p>
+    <p>Curru soluto Phoebus; hoc Reges habent.</p>
+    <p>Submissa Tellus, ceu vices magni gerant</p>
+    <p>Tonantis, illos suspicit, tremit, colit.</p>
+    <p>At ipse Regum Rector, et Regum est Deus,</p>
+    <p>Cuius tonantes Numen horrescunt poli,</p>
+    <p>Timentque Manes; Hunc decet Reges Deum</p>
+    <p>Semper pavescant: si quis irritet polos</p>
+    <p>Superbientis error infandus throni,</p>
+    <p>Frustra haud coruscos aethere incusso globos</p>
+    <p>Molitur, altos vertices Regum quatit,</p>
+    <p>Et regna vertit integra, et plebem opprimit.</p>
+    <p>Istud verendum est, una ne totum premat</p>
+    <p>Ruina regnum. Non feret, nunquam feret</p>
+    <p>Quod obstinatâ mente moliris nefas.</p>
+    <p>Eiicere ductam coniugem, et foedâ sacrum</p>
+    <p>Polluere thalamum labe. Non dubio est locus,</p>
+    <p>Rem iudicatam solvis, et certam negas.</p>
+    <p>Latere Regum scelera non possunt diu,</p>
+    <p>Iam fama sparsit. Ista transversos agit</p>
+    <p>Cupido Reges; cordis imperium Venus</p>
+    <p>Exercet omne, ratio deiecta est loco,</p>
+    <p>Animum voluptas cum subit. Sit Rex satis,</p>
+    <p>Audi monentes, coniugem serva tuam;</p>
+    <p>Et pone quicquid impius suadet furor.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Amoris iste sermo, quem
+    Praesul facis,</p>
+    <p>Amoris in me est; nostra tibi curae est salus.</p>
+    <p>Gratum est: vereri sed tamen iam sit satis.</p>
+    <p>Nihil hic timete, conscium testor Deum,</p>
+    <p>Amor hoc salutis corde sub nostro latet,</p>
+    <p>Non est libido, coniugem sanctam hactenus</p>
+    <p>Habere licuit, Regiâ excelsam domo,</p>
+    <p>Vultu venustam; placuit, ast ultra nequit.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Consulere famae maximos
+    semper decet Reges,</p>
+    <p>Ducesque; vita cum foeda est Ducum</p>
+    <p>Excutere sacrum subditi tentant iugum.</p>
+    <p>Age Rex, Bolena regium ascendet thronum?</p>
+    <p>Coniuncta Regi regium implebit thronum?</p>
+    <p>Quid Fama dicet? Vulgus infamem putat</p>
+    <p>Et impudicam, prostituto quae suum</p>
+    <p>Pudore passim perdita extinxit decus.</p>
+    <p>Vicina testis Gallia est, scortum hic fuit;</p>
+    <p>Et nostra testis Anglia est; virgo hic prius</p>
+    <p>Fregit pudorem: fabula et vulgi probrum est.</p>
+    <p>Vt nempe consors Regis impura manu</p>
+    <p>Tua sceptra tractet? Magne Rex, famae tuae</p>
+    <p>Meminisse debes, laesa vix unquam redit.</p>
+    <p>Et Christiano nuberet Regi impia?</p>
+    <p>Sectam Lutheri sequitur, et mores simul.</p>
+    <p>Ea fama vulgi est. Tu tuum serva decus,</p>
+    <p>Titulo superbus iam novo, dum Ecclesiae</p>
+    <p>Defensor audis. Roma nam nunquam hoc nefas</p>
+    <p>Amica cernet, ipsa damnabit nefas.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Probata More iam tua est
+    Regi fides;</p>
+    <p>Grata est voluntas. Ista ne rursum occinas,</p>
+    <p>Commenta vulgi; ficta sunt quae iam refers.</p>
+    <p>Bolena Virgo est, fama mentitur levis,</p>
+    <p>Sic saepe lacerat optimos vulgus viros.</p>
+    <p>Famam Bolena temnit, involvit suos</p>
+    <p>Virtute mores. Sit satis; nunc dum est opus,</p>
+    <p>Quem Roma mittit Iudicem, occursu prius</p>
+    <p>Excipite vestro, cerno, namque ad nos subit.</p>
+  </div>
+  <div type="level2" xml:id="scena-v.-1">
+    <head>SCENA V.</head>
+    <p>Campegius, Henricus Rex, Volsaeus.</p>
+    <p><hi rendition="simple:italic">Campegius.</hi></p>
+    <p>Vrbemque et Orbem qui sacrâ fraenat manu</p>
+    <p>Regum secundus Arbiter felix tibi</p>
+    <p>Iubet esse Regnum: filium amplexu sacrae</p>
+    <p>Dilectionis stringit, et retinet suum.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vivat beatus Pontifex,
+    regum parens,</p>
+    <p>Dominusque rerum. <hi rendition="simple:italic">Cam.</hi> Iudicem
+    causae hic vides;</p>
+    <p>Me misit ille, mandat ut causae Arbiter</p>
+    <p>Volsaeus adsit. <hi rendition="simple:italic">Hen.</hi> Sit
+    licet, votum hoc meum est,</p>
+    <p>Decernat aequum quicquid errorem facit.</p>
+    <p><hi rendition="simple:italic">Campeg.</hi> Iam certa totum fama
+    pervasit solum.</p>
+    <p>Miratur ipse Pontifex, urget graves</p>
+    <p>Caesar querelas, omnium est certus dolor.</p>
+    <p>Si causa nostro caperet arbitrio modum,</p>
+    <p>Gauderet Orbis. <hi rendition="simple:italic">Henr.</hi> Opto,
+    vos finem date.</p>
+    <p>Regenda vestro iam mea arbitrio est salus.</p>
+    <p><hi rendition="simple:italic">Campeg.</hi> Vtinam liceret lite
+    non motâ exequi</p>
+    <p>Quod poscit aequum. <hi rendition="simple:italic">Volsaeus.</hi>
+    Forte, Reginae prius</p>
+    <p>Suadenda pax est; ut reor, pacem volet.</p>
+    <p>Modesta, sancta est, pacis optabit locum</p>
+    <p>Vt sola vivat. <hi rendition="simple:italic">Campeg.</hi> Ergo
+    Reginae prius</p>
+    <p>Tentetur animus; sola si vitam expetat,</p>
+    <p>Res acta tota est; Iudices si nos volet,</p>
+    <p>Praesto ad tribunal adsit.
+    <hi rendition="simple:italic">Hen.</hi> Hoc iam sit ratum.</p>
+    <p>Nihil moror, Volsaee Reginam mone.</p>
+    <p>Subeamus aulam, consilia non deerunt nova.</p>
+  </div>
+  <div type="level2" xml:id="scena-vi.-1">
+    <head>SCENA VI.</head>
+    <p>Catharina, Volsaeus, Varamus.</p>
+    <p><hi rendition="simple:italic">Catharina.</hi></p>
+    <p>Quis est rumor? Iudices ergo meae</p>
+    <p>Ab urbe causae Pontifex Magnus dedit?</p>
+    <p><hi rendition="simple:italic">Varamus</hi>. Regina, sic est,
+    purpuratus hic Pater</p>
+    <p>Adest ab urbe, Iudicem hunc fas est pati.</p>
+    <p><hi rendition="simple:italic">Cathar.</hi> Ergo obstinatus Regis
+    insultat furor?</p>
+    <p>Et ista coeco corripit victum impetu</p>
+    <p>Libido regem? Magne Coelorum Tonans,</p>
+    <p>O qui recessus cordium et fibras vides,</p>
+    <p>Imosque scrutans pectorum nosti sinus,</p>
+    <p>Et ista pateris? Istud amentis nefas</p>
+    <p>Facinusque Regis? <hi rendition="simple:italic">Varam.</hi> Tanta
+    tempestas tuum</p>
+    <p>Ne turbet animum, diriget causam Tonans,</p>
+    <p>Volsaeus eccum; forte mandatum feret.</p>
+    <p><hi rendition="simple:italic">Vols.</hi> Regina vive;
+    <hi rendition="simple:italic">Cath.</hi> Nempe, Reginam vocas.</p>
+    <p><hi rendition="simple:italic">Vo.</hi> Etiamque veneror hactenus.
+    <hi rendition="simple:italic">Ca.</hi> Nempe hactenus?</p>
+    <p>Quid est? quid urges? <hi rendition="simple:italic">Vols.</hi>
+    Nuntium pacis fero</p>
+    <p>Si grata pax est. <hi rendition="simple:italic">Cath.</hi> Grata
+    pax est, si mihi</p>
+    <p>Pacem relinquas. <hi rendition="simple:italic">Volsae.</hi> Si
+    voles; iam Iudicem</p>
+    <p>Huc Roma misit, ipse connubium ut tuum</p>
+    <p>Cum Rege noscat; solvat, aut ratum probet.</p>
+    <p>Haec est potestas. <hi rendition="simple:italic">Cath.</hi> Nempe
+    connubium ut meum</p>
+    <p>Cum Rege noscat? Pontifex istud prius</p>
+    <p>Sanxit, probavit, annuit; magni duo</p>
+    <p>Iunxere Reges dexteras, foedus ratum</p>
+    <p>Fecere nostrum, nata proles est mihi</p>
+    <p>Regique, tota gratulata est Anglia,</p>
+    <p>Applausit Orbis. Ecce bis denos simul</p>
+    <p>Habitamus annos, certa connubii fides</p>
+    <p>Dubios reliquit optimos nunquam viros;</p>
+    <p>Quid nunc? et actam rursus agere rem cupis?</p>
+    <p>Volsaee tanti causa tu solus mali es,</p>
+    <p>Perdisque Regem. Scilicet quando tua</p>
+    <p>Gravis est libido, nec tibi Nepos meus</p>
+    <p>Favere Caesar iam potest, in me irruis,</p>
+    <p>Et dira fundis odia, et exitium ingeris.</p>
+    <p><hi rendition="simple:italic">Vols.</hi> Suadere pacem venio, si
+    pacem voles</p>
+    <p>Praesto est tribunal si negas.
+    <hi rendition="simple:italic">Cath.</hi> Cede hinc, abi,</p>
+    <p>Veniam ad tribunal, causa me audacem facit.</p>
+    <p>O sors! et usque et usque me iactas tuis</p>
+    <p>Adversa fatis? ergo Connubii mei</p>
+    <p>Quisquam revellet improbans Iudex fidem?</p>
+    <p>Æterne Genitor, cernis hos fletus meos</p>
+    <p>Animi dolores cernis, ô aliquod mihi</p>
+    <p>Solamen a te! <hi rendition="simple:italic">Procur.</hi> Domina,
+    ne tanto tuum</p>
+    <p>Confunde luctu pectus, en Regem vides,</p>
+    <p>Venit ad Tribunal, Iudices adsunt simul.</p>
+  </div>
+  <div type="level2" xml:id="scena-vii.">
+    <head>SCENA VII.</head>
+    <p>Campegius, Volsaeus, Henricus Rex, Catharina Regina, Brianus,
+    Varamus.</p>
+    <p><hi rendition="simple:italic">Campegius.</hi></p>
+    <p>Optanda fuerat optimae pacis quies;</p>
+    <p>Spes ista non est; causa Iudicium petit.</p>
+    <p>Et nunc sedemus Iudices. Summus iubet</p>
+    <p>Princeps sacrorum Pontifex. Tabulas lege,</p>
+    <p>Nostra ut potestas constet, et causae modus.</p>
+    <p><hi rendition="simple:italic">Recitatur Pontificis
+    Mandatum.</hi></p>
+    <p><hi rendition="simple:italic">Vols.</hi> Dicenda nunc est causa,
+    Rex adsit prior,</p>
+    <p>Regina deinde. Ferre Maiestas suos</p>
+    <p>Vtrimque debet Iudices.
+    <hi rendition="simple:italic">Campeg.</hi> Nunc tu prior</p>
+    <p>Pro Rege loquere, deinde Reginae vices,</p>
+    <p>Quisquis subibit, Ordo Iudicium regit.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Pro Rege causam, quando
+    Maiestas iubet</p>
+    <p>Aggrediar. <hi rendition="simple:italic">Var.</hi> Agedum
+    postulat nondum hoc locus.</p>
+    <p>In hunc et istum Iudicem assensum prius</p>
+    <p>Require nostrum. <hi rendition="simple:italic">Brian.</hi>
+    Iudices ambos dedit,</p>
+    <p>(Recitata lex est) Pontifex; nulla est mora;</p>
+    <p>Certa est potestas. <hi rendition="simple:italic">Vara.</hi> Lex
+    sit, assensum negat</p>
+    <p>Regina, quivis non dari Iudex reae</p>
+    <p>Debet, potestque. <hi rendition="simple:italic">Bria.</hi> Certa
+    lex est, quamdiu</p>
+    <p>Revocata non est, aut novam legem doce.</p>
+    <p>Aggrediar iterum. <hi rendition="simple:italic">Proc.</hi>
+    Provocat, nondum tibi</p>
+    <p>Dicenda causa est: nec locum, nec Iudices</p>
+    <p>Regina patitur. <hi rendition="simple:italic">Cath.</hi> Provoco,
+    appello; meus</p>
+    <p>Sit ipse Iudex Pontifex. <hi rendition="simple:italic">Camp.</hi>
+    Quid te movet</p>
+    <p>In hoc Tribunal? Iudices aequi sumus.</p>
+    <p>Mandata promas, ipse discedam prior.</p>
+    <p><hi rendition="simple:italic">Cathar.</hi> Nec iste Iudicii
+    locus; nec Iudices</p>
+    <p>Favent querelae. Litis author hic sedet,</p>
+    <p>Rex ipse cunctas Angliae fraenans plagas;</p>
+    <p>Ego peregrina. Iudices ambos sibi</p>
+    <p>Rex obligatos novit, et sperat suos,</p>
+    <p>Vtrumque fecit Praesulem. Testor Deum</p>
+    <p>Pro lite nullus pectus infestat timor;</p>
+    <p>Haec causa nostra est, provoco.
+    <hi rendition="simple:italic">Vol.</hi> Frustra, novam</p>
+    <p>Vel prome legem. <hi rendition="simple:italic">Henr.</hi> Quid
+    tuas tanto genas</p>
+    <p>Regina fletu spargis? haud odio meus</p>
+    <p>Animus laborat, conscium pectus pati</p>
+    <p>Istosque dubiae mentis haud possum metus.</p>
+    <p>Cura est salutis; causa dicatur, volo.</p>
+    <p>Pronuntiate Iudices, nec sit mora.</p>
+    <p><hi rendition="simple:italic">Cathar.</hi> Nil provocatae Iudices
+    causae dabunt?</p>
+    <p><hi rendition="simple:italic">Vol.</hi> Nec fas, nec aequum est,
+    causa dicenda est tibi.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> O Rex, per istas
+    lachrymas, si quid mei</p>
+    <p>Amoris in te est, supplicem cernis tibi,</p>
+    <p>Licet ipse nolis, Coniugem, cernis tuam</p>
+    <p>Tuique amantem Coniugem; per has manus,</p>
+    <p>Per ista genua, per tuum sceptrum, precor,</p>
+    <p>Per hanc meam, per hanc tuam natam, precor,</p>
+    <p>Concede Lachrymis aliquid, et quondam tuae</p>
+    <p>Concede charae coniugi, Iudex tuam</p>
+    <p>Meamque summus Pontifex litem audiat.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Regina, surge, quod
+    petis, fiat volo.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Virginum Anglicarum.</p>
+    <p>Quicunque amat flecti potest,</p>
+    <p>Humanitatis est capax.</p>
+    <p>Libido succumbit sibi,</p>
+    <p>Cum pectus affectu tremit.</p>
+    <p>Rex non ferre potest suae</p>
+    <p>Lachrymas pudicae coniugis.</p>
+    <p>Animumque movit intimum,</p>
+    <p>Vultus nitentis syderis.</p>
+    <p>Sed ferre non potest diu,</p>
+    <p>Venus quod obstat ausibus.</p>
+    <p>Iterum redibit ad nefas,</p>
+    <p>Et rursus ardebit iecur.</p>
+    <p>Simulare Reges sic sciunt,</p>
+    <p>Vincuntur et vincunt tamen.</p>
+    <p>Paucis Bolena nutibus</p>
+    <p>Flammam excitabit maximam.</p>
+    <p>Haec est amoris magna vis</p>
+    <p>Nil ferre quod flammas premit.</p>
+    <p>Haec foeminae vis pervicax,</p>
+    <p>Voto potiri quod iuvat.</p>
+    <p>Victor resiste qui potes,</p>
+    <p>Namque illa vincens opprimit</p>
+    <p>Bolena iam Regem tenet,</p>
+    <p>Flammam fovet, sed se negat,</p>
+    <p>Et dum negat flammam fovet.</p>
+    <p>Damnosa lateri fit comes,</p>
+    <p>Tractat dapes, tractat thoros,</p>
+    <p>Tractando Regem decipit,</p>
+    <p>Tractando Regem lancinat.</p>
+    <p>Perversitatis est genus</p>
+    <p>Miseros amore fallere.</p>
+    <p>Sic sauciat placens amor,</p>
+    <p>Et amando saucios necat,</p>
+    <p>Frustra tamen, Rex hic amat,</p>
+    <p>Nam Roma non probat scelus,</p>
+    <p>Haec certa semper est fides,</p>
+    <p>Probare quod fecit Deus.</p>
+    <p>Favere Roma dum solet</p>
+    <p>Fallere fidem nunquam solet.</p>
+    <p>Prement Tribunal Iudices,</p>
+    <p>Sed hi probabunt nuptias.</p>
+    <p>Quod lex probat, nemo improbat;</p>
+    <p>Lex certa vitae regula est.</p>
+    <p>Non aequitas probat nefas,</p>
+    <p>Cum fert tribunal aequitas.</p>
+    <p>Crudelis illa plus tamen</p>
+    <p>Saevire contendet Venus.</p>
+    <p>Thronum Bolena regium,</p>
+    <p>Sceptrum Bolena regium,</p>
+    <p>Thorum Bolena regium,</p>
+    <p>Ascendet; accipiet, premet.</p>
+    <p>Restare semper lachrymae,</p>
+    <p>Restare debent lachrymae.</p>
+    <p>Nos hinc cantus Virgines</p>
+    <p>Et lachrymas demus novas,</p>
+    <p>Nequeunt moveri lachrymis,</p>
+    <p>Nec fata mutantur prece;</p>
+    <p>Subire fortunam decet,</p>
+    <p>Quam fata donant patriae.</p>
+  </div>
+  <div type="level2" xml:id="actvs-tertivs">
+    <head>ACTVS TERTIVS</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-i.-2">
+    <head>SCENA I.</head>
+    <p>Henricus, Campegius, Volsaeus, Brianus, Guilhelmus Varamus.</p>
+    <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+    <p>Rursum ad tribunal, Iudices; Nunquam mora</p>
+    <p>Obesse Regi debet, et tantum moram</p>
+    <p>Regina quaerit. Pectoris moti vagos</p>
+    <p>Superare fluctu, nequeo, succumbo mihi,</p>
+    <p>Et dubia turbat, vexat, infestat salus.</p>
+    <p>Vacate causae Iudices. <hi rendition="simple:italic">Campeg.</hi>
+    Equidem cupis,</p>
+    <p>Alia potestas facta Reginae fuit.</p>
+    <p>Et ipse Iudex Pontifex Romae est datus.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Si provocavit illa,
+    concessa abnuo,</p>
+    <p>Dicenda causa est, ferre iam nolo moras</p>
+    <p>Pornuntiate iudices. <hi rendition="simple:italic">Volsaeus.</hi>
+    Ne sit mora</p>
+    <p>Iterum ad Tribunal; quicquid hinc, quicquid potest;</p>
+    <p>Pars inde promat. <hi rendition="simple:italic">Brian.</hi>
+    Regium nutum sequens</p>
+    <p>Aggrediar ergo. Iulii scriptum Papae</p>
+    <p>Diploma promo, fraudibus ne sit locus,</p>
+    <p>Errore constat: ordo falsarum patet</p>
+    <p>Cuicunque rerum. Regis Henrici fuit</p>
+    <p>Ætas tenella, at istud hoc scriptum negat.</p>
+    <p>Nam natus annos ipse bis senos fuit.</p>
+    <p>Hic nuptiarum finis, ut nostri foret</p>
+    <p>Pax certa regni: poterat at nondum puer</p>
+    <p>Meminisse pacis; cumque regales thoros</p>
+    <p>Catharina consors adiit, Henricus Pater</p>
+    <p>Tristi supremam clauserat fato diem.</p>
+    <p>Petita Romae multa, descriptae preces,</p>
+    <p>Missae, remissae; quicquid est actum, puer</p>
+    <p>Nescivit hic Rex, cuncta mandato carent.</p>
+    <p>Affinitatis Pontifex obicem abstulit</p>
+    <p>Equidem fatemur; alius infirmas obex</p>
+    <p>Semper reliquit nuptias, nec hunc suo</p>
+    <p>Removere iure Pontifex unquam potest.</p>
+    <p>Coniuncta namque tunc suo Arthuro fuit</p>
+    <p>Regina sponso, passa quae coniux virum est,</p>
+    <p>Et dissoluto est vinculo exclusus pudor.</p>
+    <p>Haeret potestas prima, nec quicquam hic potest;</p>
+    <p>Et quod secutum est lege fit nulla ratum.</p>
+    <p>Caelestis haec, et Iuris humani est fides.</p>
+    <p><hi rendition="simple:italic">Vols.</hi> Dicenda utrimque causa:
+    nunc dicat rea;</p>
+    <p>Diffugia rursum quaerere hic certum est nefas.</p>
+    <p><hi rendition="simple:italic">Varam.</hi> Nullam severi iuris aut
+    legem novam,</p>
+    <p>Veterem aut veremur; iura Reginae probant</p>
+    <p>Humana causam, nuptias nullus ratas</p>
+    <p>Obex resolvit. Provocatae cesserat</p>
+    <p>Rex ipse causae, Summus est Iudex Papa.</p>
+    <p>Cur hoc tribunal rursus? at dicam tamen,</p>
+    <p>Carere iure causa Reginae nequit,</p>
+    <p>Affinitatis Pontifex obicem abstulit,</p>
+    <p>Fateris, inquis: alter est obex ais,</p>
+    <p>Coniuncta sponso passa coniux est virum,</p>
+    <p>Adire fratris potuit, haud unquam thorum.</p>
+    <p>Haec causa duplex. Verba non fallax feram,</p>
+    <p>Affinitatis ergo nulla vis ratas</p>
+    <p>Dissolvit unquam nuptias: hic omnia</p>
+    <p>Humana cessant iura, nil pactis obest,</p>
+    <p>Vis nulla legum. Fuerit aetatis puer</p>
+    <p>Tum Rex tenellae; crede, non aetas obest,</p>
+    <p>Cum lege certâ summus edicit ratum,</p>
+    <p>Quod vult Sacerdos, Pacis augurium fuit</p>
+    <p>Regale foedus, pacis experta est bonum,</p>
+    <p>Britanna Tellus. Angliae testor plagas,</p>
+    <p>Quacunque tumidum parte despiciunt mare,</p>
+    <p>Florere nunquam posset hoc regnum magis.</p>
+    <p>Hic arma cessant, omnium ubertas fluit</p>
+    <p>Optata rerum, Sacra Maiestas, tuam hic</p>
+    <p>Appello mentem, testor hoc sceptrum tuum,</p>
+    <p>Saepe, inquiebas, ista debentur novae</p>
+    <p>Felicitatis tempora uxori meae.</p>
+    <p>Vna est beatum quae facit regnum suis</p>
+    <p>Regina lachrymis. Passa sed coniux virum est,</p>
+    <p>Regisque fratrem. Si licet, testor tuum</p>
+    <p>Coeli Monarcha Numen, et Phoebi iubar.</p>
+    <p>Ne iungeretur coniugi Arthurus suae</p>
+    <p>Pater ante cavit, cura matronae data est</p>
+    <p>Nam tabe Princeps corpus infirmum gravi</p>
+    <p>Languens trahebat; ipsa confessa est probae</p>
+    <p>Regina vitae, rursus appello tuam</p>
+    <p>Rex magne mentem, regiam appello fidem;</p>
+    <p>Inventa virgo est cum tuum intravit thorum.</p>
+    <p>Tua ista vox est, regiâ nostram fide</p>
+    <p>Confirmo causam. Quicquid opponis, cadit;</p>
+    <p>Et veritatis Iudices lucem vident</p>
+    <p>Certare levibus non decet tantum dolis</p>
+    <p>Cum causa regis anxium exercet forum.</p>
+    <p><hi rendition="simple:italic">Cam.</hi> Audita causa est; quid
+    tamen? quid hi volunt?</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.-2">
+    <head>SCENA II.</head>
+    <p>Roffensis, Campegius,Volsaeus, Rydlaeus, Henricus Rex.</p>
+    <p><hi rendition="simple:italic">Roffensis.</hi></p>
+    <p>Novum hoc tribunal, forma iudicii haec nova.</p>
+    <p>Inusitatum Regibus nostris forum.</p>
+    <p>Rex ipse causam dicit, et causam simul</p>
+    <p>Regina dicit; ipsa Maiestas rea est.</p>
+    <p>Periere mores, Ætheris Magni polos</p>
+    <p>Nondum veremur: certa connubii fides</p>
+    <p>En hic laborat. Iudices, non est satis</p>
+    <p>Solia ista premere; levibus hic ingens modo</p>
+    <p>Fit pugna verbis, causa perspecta est satis</p>
+    <p>Et nota vobis Regis in certo est salus,</p>
+    <p>Periclitatur Angliae regni salus.</p>
+    <p>Hoc cogitate. Tollite ambages fori,</p>
+    <p>En scripta causa est, quisquis oppugnat, fidem</p>
+    <p>Oppugnat hostis, Cernit hoc pectus Tonans</p>
+    <p>Istas medullas cernit, atque amimi sinus,</p>
+    <p>Si falsa scripsi flammeos ruptis globos</p>
+    <p>Iaculetur in me nubibus, caput hoc stygi</p>
+    <p>Immittat atrae. Sacra divini probant</p>
+    <p>Oracla verbi quicquid hic claudit liber.</p>
+    <p>Si causa poscit, morte testabor meâ.</p>
+    <p>Si quis senili est corpore in nostro cruor</p>
+    <p>Vocem hanc probabit. Nuptias, ô Rex, tuas,</p>
+    <p>Sit testis Æther, solvere in terris potest</p>
+    <p>Vis nulla legum. Cernite hos, et hos libros;</p>
+    <p>Laborat ordo quisquis in regno est sacer.</p>
+    <p><hi rendition="simple:italic">Ca.</hi> Depone libros; tu quid in
+    causam hanc moves.</p>
+    <p><hi rendition="simple:italic">Rydlaeus.</hi> Iniquitate motus
+    accedo forum;</p>
+    <p>Et hoc tribunal. Arbitri in partes eunt,</p>
+    <p>Iusta hic laborat causa dum Iudex timet;</p>
+    <p>Et iudicare clara dum res est nequit.</p>
+    <p>Vbi nunc severus Angliae quondam rigor?</p>
+    <p>Etiam timetur Veritas; aut est suâ</p>
+    <p>Invisa luce; lucis istius iubar</p>
+    <p>En his refulget in libris; legum sacra</p>
+    <p>Hic iura Regis nuptias firmas docent.</p>
+    <p>Vox haec bonorum est. Anglia incumbit suis</p>
+    <p>Iam prona damnis, deserat nam si suum</p>
+    <p>Regina thalamum schismata et sectae novae</p>
+    <p>Dubiaque penitus dividet regnum fides.</p>
+    <p>Hinc bella diris Caesar urgebit minis,</p>
+    <p>Armatus unde Civis in Civem ruet.</p>
+    <p>Pretium furoris Anglia in ferrum cadet.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Haeretis iterum Iudices?
+    frustra timent</p>
+    <p>Qui verba fundunt. <hi rendition="simple:italic">Camp.</hi>
+    Subita ne properes rei</p>
+    <p>Iudicia magnae, veritas amat moram,</p>
+    <p>Qui iudicando properat, iniustus fere est.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Res ipsa poscit clara
+    iudicium breve.</p>
+    <p>Etiam tribunal deseris? <hi rendition="simple:italic">Camp.</hi>
+    Sic est opus</p>
+    <p>Si sera causa est Magne Rex patere has moras,</p>
+    <p>Iudicia Romae subita Iudex non facit.</p>
+    <p><hi rendition="simple:italic">Volsaeus.</hi> Nec ipse nostro
+    solus arbitrio queo</p>
+    <p>Finire causam; patere rex tempus breve;</p>
+    <p>Et hoc tribunal coge cum rursus voles.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.-2">
+    <head>SCENA III.</head>
+    <p>Henricus Rex, Thomas Morus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Quid igitur? ecce pepulit hoc pectus tremor?</p>
+    <p>Consurgit ira, serpit in fibras amor,</p>
+    <p>Instabilis instar aequoris raptus feror.</p>
+    <p>Quid, Anime, titubas? Vincar, et quod Rex volo</p>
+    <p>Non obtinebo? Non decet Regem sequi</p>
+    <p>Iudicia Legum; Iudicem nullus suum</p>
+    <p>Rex confitetur; ipse mihi Iudex ero.</p>
+    <p>Bolena, quanto pectus hoc motu quatis!</p>
+    <p>Bolena, quanto concutis regnum metu!</p>
+    <p>Te odere cuncti solus ego te Rex amo,</p>
+    <p>Consurgit hostis Anglia, at pro te feram,</p>
+    <p>Quicquid ferendum est; hic amor fiet furor.</p>
+    <p>Aut hanc probabunt coniugem, quam Rex volo.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Rex magne, pauca
+    proloquar, si das moram.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Eloquere More: plena
+    libertas tibi est.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Regina mittit, quem
+    vides; ut te Tonans</p>
+    <p>Regem suumque Coniugem servet diu</p>
+    <p>Eadem precatur. Scire Maiestas tua,</p>
+    <p>Iam debet istud; Iudicem missum prius</p>
+    <p>Revocat in urbem Pontifex; Iudex erit,</p>
+    <p>Dicenda Romae est causa. <hi rendition="simple:italic">Henr.</hi>
+    Dicatur, volo.</p>
+    <p>Curabo causae ut Pontifex addat modum.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Rex magne, publicare
+    mandatum decet.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Satis ipse novi; facite
+    Legati ut sciant.</p>
+    <p>Dic More, novi pectus et mentem et fidem;</p>
+    <p>Nunquid probabis nuptias Regis novas?</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Nunquam probabo:
+    liberam mentem vides,</p>
+    <p>Nunquam probabo. <hi rendition="simple:italic">Henr.</hi> Si
+    velim? <hi rendition="simple:italic">Mor.</hi> Non hoc licet</p>
+    <p>Quod semper optant Principes. Ne Rex velis,</p>
+    <p>Eiicere primam coniugem si mens tibi est,</p>
+    <p>Tibi tuaeque Patriae exitium paris.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Mihi acquiesce, More, tu
+    per me novo</p>
+    <p>Honore surges. <hi rendition="simple:italic">Mor.</hi> Nullus
+    hanc mentem mihi</p>
+    <p>Mutabit unquam, sit licet primus tuâ</p>
+    <p>Honos in Aula; vir bonus constans manet,</p>
+    <p>Quem dona flectunt esse non potest bonus.</p>
+    <p><hi rendition="simple:italic">H.</hi> Nil, More, pro me?
+    <hi rendition="simple:italic">Mo.</hi> Crede Rex pro te omnia,</p>
+    <p>Et hoc acerbae corpus impendam neci</p>
+    <p>Si sit necesse: ratio permittit nihil,</p>
+    <p>Moliris istud quando quod leges vetant.</p>
+    <p>Rex oro muta cordis hoc votum tui.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Hinc tu recede, quod
+    petis curae ocyus.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Regina, Rex, en prodit,
+    audi Coniugem.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.-3">
+    <head>SCENA III.</head>
+    <p>Catharina, Henricus, Maria Filia.</p>
+    <p><hi rendition="simple:italic">Catharina.</hi></p>
+    <p>Abimus ergo, chare Coniux, O nimis</p>
+    <p>Mihi triste nomen! coniugem ut coniux suam,</p>
+    <p>Vltro repellat? iam tuo tota excidi</p>
+    <p>Amata quondam pectore. O fatum grave!</p>
+    <p>O sors! et istas ingeris clades mihi?</p>
+    <p>Vt te relinquam? deseram hanc Aulam tuam?</p>
+    <p>Potius per istud pectus, et notos tibi</p>
+    <p>Sinus, cruoris ultimas guttas mei.</p>
+    <p>Ferro require; plus amoris hic latet,</p>
+    <p>Quam tu cruoris exiges, coniux.
+    <hi rendition="simple:italic">Henr.</hi> Quid est?</p>
+    <p>Dubium quid istud nomen? <hi rendition="simple:italic">Cath.</hi>
+    Et dubium tibi?</p>
+    <p>Hanc cerne prolem, Filiam hanc coniux tibi</p>
+    <p>Non dubia peperi. Nunquid eiicies parens?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Sit ista nata nostra,
+    fortunae est meus</p>
+    <p>Tribuendus error; <hi rendition="simple:italic">Cath.</hi> Nempe
+    fortunae tuam;</p>
+    <p>Tribuere natam Genitor, et sponsam voles?</p>
+    <p>Ibera Tellus cur reliqui te! tuos</p>
+    <p>Britanna Tellus cur subivi limites!</p>
+    <p>Latere potui; clara Reginae in throno</p>
+    <p>Fulsi, ut laterem: melius ah! melius lares</p>
+    <p>Potui paternos colere, Coniux ô tamen!</p>
+    <p>O chare coniux! <hi rendition="simple:italic">Henr.</hi> forsitan
+    coniux fui,</p>
+    <p>Hoc dum putabam foederis nomen mei,</p>
+    <p>Nunc est apertus error, errorem exuo.</p>
+    <p><hi rendition="simple:italic">Cathar.</hi> Istud negabis nomen?
+    admitte alterum.</p>
+    <p>O Rex! <hi rendition="simple:italic">Henr.</hi> in isto non ago
+    Regem loco.</p>
+    <p>Causa est salutis, iudicis vocem peto.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Patere ergo quicquid
+    postulat Iudex morae.</p>
+    <p>Cur ante coniux displiceo? Si quod meum est</p>
+    <p>Oppone crimen; si quod est, supplex precor</p>
+    <p>Ignosce Coniux; supplicem cernis tuam</p>
+    <p>Tuamne dicam? sum tua, et natam tuam</p>
+    <p>Hic ecce cernis. <hi rendition="simple:italic">Henr.</hi> Surge,
+    ne terram premas;</p>
+    <p><hi rendition="simple:italic">Cat.</hi> Quaenam ergo surgam?
+    misera, deiecta, impia?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Regina surge.
+    <hi rendition="simple:italic">Cath.</hi> Nomen hoc si das mihi,</p>
+    <p>Regina sacram Regis appello fidem,</p>
+    <p>Regina nulla est, aut simul coniux tua est.</p>
+    <p>Nondumne nosti coniugem? nondum tuam?</p>
+    <p><hi rendition="simple:italic">He.</hi> Assurge Coniux.
+    <hi rendition="simple:italic">Cat.</hi> per tuam Coniux fidem,</p>
+    <p>Per sacra nostri iura coniugii precor,</p>
+    <p>Per has manus, per hos pedes, per hanc meam</p>
+    <p>Tuamque Natam, cordis excludas tui</p>
+    <p>Turpes amores, una te infestat Venus</p>
+    <p>Infame monstrum; consule et famae tuae</p>
+    <p>Meaeque solus finies litem arbiter</p>
+    <p>Libido pectus foeda si linquat tuum.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Non ista causa est,
+    Regiae opprobrium Domus</p>
+    <p>Me cogit; ipsa fervidam hanc mentem regas?</p>
+    <p><hi rendition="simple:italic">Ca.</hi> Mei memento.
+    <hi rendition="simple:italic">He.</hi> sum memor.
+    <hi rendition="simple:italic">Ca.</hi> prolis memor.</p>
+    <p>En ista proles est tua. <hi rendition="simple:italic">Henr.</hi>
+    agnosco meam.</p>
+    <p><hi rendition="simple:italic">Maria.</hi> Miserere Matris
+    Genitor, et natae tuae</p>
+    <p>Miserere. <hi rendition="simple:italic">Henr.</hi> Nata, sit
+    satis, iam sum memor.</p>
+    <p><hi rendition="simple:italic">Mari.</hi> Miserere Matris.
+    <hi rendition="simple:italic">He.</hi> Nulla miseria est tuae</p>
+    <p>O Nata Matris. Facere quid pro te queo?</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Faceret maritus quod sua
+    pro coniuge;</p>
+    <p>Faceretque quod Rex regiam quando fidem</p>
+    <p>Regina poscit. <hi rendition="simple:italic">Henr.</hi> Vade nil
+    deerit tibi,</p>
+    <p>Praestabo quicquid Regium debet decus.</p>
+  </div>
+  <div type="level2" xml:id="scena-v.-2">
+    <head>SCENA V.</head>
+    <p>Haeresis, Luxuria, Impietas, Tyrannis, Henricus Rex.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi></p>
+    <p>Vt ecce languet? impotens, tristis, vagus</p>
+    <p>Vt huc et illuc errat? ut sentit sui</p>
+    <p>Animi labores? Agite ne pereat mihi,</p>
+    <p>Initia nostri prima sunt regni, potens,</p>
+    <p>Libido, pietas pulsa, crudelis manus,</p>
+    <p>Renovate flammas cordis, in flammas eat.</p>
+    <p>Bolena mentem turbet, et motus ciat.</p>
+    <p><hi rendition="simple:italic">Luxur.</hi> Etiamne friges? membra
+    torpescunt gelu</p>
+    <p>Et amas Bolenam? non amas, tota excidit;</p>
+    <p>Illa, illa, sacrum cordi idolum tui.</p>
+    <p>Lux illa vitae, grata lux vitae tuae;</p>
+    <p>Nec amas Bolenam? <hi rendition="simple:italic">Hen.</hi> Sentio
+    ignescunt fibrae,</p>
+    <p>Amo Bolenam; grata lux vitae est meae,</p>
+    <p>Et impedire tot meos; heu tot, meos</p>
+    <p>Cupiunt amores? Ipse coniurat polus.</p>
+    <p>Omnes laborant, ut meos, quâ vi queunt</p>
+    <p>Tollant amores. <hi rendition="simple:italic">Imp.</hi> Nempe dum
+    langues pavens,</p>
+    <p>Dum Ius vereris, dum novas leges times.</p>
+    <p>Favere Iura Regibus semper solent</p>
+    <p>Cum Iura mutant. <hi rendition="simple:italic">Henr.</hi> Anglia
+    exitium pavet,</p>
+    <p>Veretur arma, tot minas, tot iam videt</p>
+    <p>Instare clades. <hi rendition="simple:italic">Tyran.</hi> Cor
+    tibi iam Rex labat;</p>
+    <p>Regnare qui vult cuncta contemnit potens.</p>
+    <p>Armatque dextram, stabilit Imperium manus</p>
+    <p>Cum vibrat ensem. Quando Rex vim non facit</p>
+    <p>Vltro precatur; non decent Regem preces.</p>
+    <p>Iubere Regum est; occidat, qui non probat.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Amo Bolenam; testor has
+    cordis faces;</p>
+    <p>Amo Bolenam; nullus obstabit mihi.</p>
+    <p>Haec est voluntas, iura connubii mei,</p>
+    <p>Vel mox resolvant Iudices; vel iam moras</p>
+    <p>Abrumpo cunctas, Agere iam Regem volo,</p>
+    <p>Et rapere nostra postulat quantum salus.</p>
+    <p>In regis una dextera est mors et salus.</p>
+    <p><hi rendition="simple:italic">Luxur.</hi> Istis Bolena digna
+    flammis est tui.</p>
+    <p><hi rendition="simple:italic">Impiet.</hi> Tu pro Bolena iura
+    comtemnas tuâ.</p>
+    <p><hi rendition="simple:italic">Tyran.</hi> Tu quod Bolenae non
+    favet, ferro opprime.</p>
+  </div>
+  <div type="level2" xml:id="scena-vi.-2">
+    <head>SCENA VI.</head>
+    <p>Longlandus, Henricus Rex.</p>
+    <p><hi rendition="simple:italic">Longlandus.</hi></p>
+    <p>Iudex recessit, Magne Rex.
+    <hi rendition="simple:italic">Henr.</hi> Iudex meus?</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Quem misit ante
+    Pontifex, Campegius.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Et hinc recessit?
+    <hi rendition="simple:italic">Long.</hi> Extulit regno pedem;</p>
+    <p>Revocavit illum Pontifex; mox nox sacris</p>
+    <p>Parere iussis debuit. <hi rendition="simple:italic">Henr.</hi>
+    Regno exiit?</p>
+    <p>Et hinc recessit? causa deserta est mea?</p>
+    <p>Quid iste rursum Pontifex? quid vult? quid est?</p>
+    <p>Nec iura nostrae Iudices causae dabunt?</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Dabit ipse iura
+    Pontifex, Iudex tuae</p>
+    <p>Vult esse causae; pareas tanto decet</p>
+    <p>Regi sacrorum et Iudici: si ius sequi</p>
+    <p>Tua est voluntas, ius dabit custos sacri;</p>
+    <p>Qui Iuris exstat. <hi rendition="simple:italic">Henr.</hi> Abiit,
+    et Regem tacens</p>
+    <p>Contempsit idem. Nulla ducatur mora;</p>
+    <p>Mea est Bolena, Regium intrabit thorum</p>
+    <p>Mihi facta coniux; regium ascendet thronum</p>
+    <p>Regina mecum: nil moror, Iudex ero.</p>
+    <p><hi rendition="simple:italic">Lon.</hi> Ratione motus hos regas.
+    <hi rendition="simple:italic">Hen.</hi> Ratio hoc iubet</p>
+    <p>Quod mente verso. <hi rendition="simple:italic">Long.</hi> coeca
+    transversum rapit</p>
+    <p>Iam pectus ira; siste, da tempus tibi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> En ipse fallor dum
+    breves patior moras;</p>
+    <p>Iam tempus obstat. <hi rendition="simple:italic">Long.</hi>
+    tempus est semper breve</p>
+    <p>Quando ira praeceps in nefas longum ruit.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Ducere Bolenam, quis
+    nefas dirum putet?</p>
+    <p><hi rendition="simple:italic">Lon.</hi> Qui scit te habere
+    coniugem. <hi rendition="simple:italic">He.</hi> Coniux erit;</p>
+    <p><hi rendition="simple:italic">Longl.</hi> At esse coniux prima
+    cum vivit, nequit.</p>
+    <p><hi rendition="simple:italic">He.</hi> Istam repellam.
+    <hi rendition="simple:italic">Long.</hi> Non licet, Iudex prius</p>
+    <p>Decernat aequus; patere Rex parvas moras.</p>
+    <p>Properasse semper poenitet, cum non potest</p>
+    <p>Nocere tempus. <hi rendition="simple:italic">Henr.</hi> Iam mihi
+    tempus nocet.</p>
+    <p><hi rendition="simple:italic">Long.</hi> Operi nocere non solet
+    tempus bono.</p>
+    <p>Decidet ipse Pontifex causam brevi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Decidat ipse cum volet;
+    nunc hoc volo,</p>
+    <p>Bolena sit regina, sit Coniux mea.</p>
+  </div>
+  <div type="level2" xml:id="scena-vii.-1">
+    <head>SCENA VII.</head>
+    <p>Haeresis cum suis, Longlandus, Brianus.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi></p>
+    <p>Nempe hoc decebat; Tartari exulta Domus,</p>
+    <p>Gaudete Manes, Angliae regnum mihi</p>
+    <p>Iam iam patebit: nuptiae sunt hae meae,</p>
+    <p>Rex dum Bolenam ducit Haeresim accipit.</p>
+    <p><hi rendition="simple:italic">Long.</hi> O magne Coelorum Tonans,
+    ecquid paras</p>
+    <p>Miserae et trementi Patriae! totos gelu</p>
+    <p>Serpit per artus, corde confuso tremo,</p>
+    <p>Et ominosus territat mentem dies.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi> Notalis ista est
+    Haeresi natae dies</p>
+    <p>Vestra est Sorores haec dies.
+    <hi rendition="simple:italic">Luxur.</hi> luxum volet</p>
+    <p>Meum Britannus, Luxuria quicquid facit</p>
+    <p>Faciet Britannus; <hi rendition="simple:italic">Imp.</hi> Iuris
+    excutiet iugum;</p>
+    <p>Et Christiana quicquid iniungit fides,</p>
+    <p>Nolet Britannus. <hi rendition="simple:italic">Tyran.</hi>
+    Christiano sanguine</p>
+    <p>Dextrae rubebunt; exilia, coecos specus,</p>
+    <p>Ignes, catastas, verbera, et diras cruces</p>
+    <p>Miseris Britannus Christianis adferet.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi> Hic nuptiarum
+    fructus est, hoc est nefas.</p>
+    <p>Videre tales nuptias quantum iuvat?</p>
+    <p>Iam iam licebit; dexteras, animos, fidem</p>
+    <p>Iunxere Reges; Aula laetitiis sonat.</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Iterum trementi pectore
+    et fracto feror.</p>
+    <p>Sim falsus augur ô Tonans; ô quot neces!</p>
+    <p>O quot gementis Angliae intueor mala!</p>
+    <p>Cerno Brianum, pectoris crescit tremor;</p>
+    <p>Quid est Briane? <hi rendition="simple:italic">Brian.</hi>
+    Nuptiae Regis novae.</p>
+    <p>Bolena coniux Regis est; fidem dedit.</p>
+    <p><hi rendition="simple:italic">Lon.</hi> Quo teste tandem?
+    <hi rendition="simple:italic">Bri.</hi> Nescio, vix est satis</p>
+    <p>Notus sacerdos; acta res est; hoc cupit</p>
+    <p>Nunc Rex, Bolena regiam excelso ferat</p>
+    <p>Vertice coronam; tota iam Regis Domus</p>
+    <p>Parat triumphum, gaudiis vacat Domus.</p>
+    <p>En Rex et ipsa, prodeunt cuncti simul.</p>
+  </div>
+  <div type="level2" xml:id="scena-viii.">
+    <head>SCENA VIII.</head>
+    <p>Henricus Rex, Bolena, Granmerus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Quod Angliae foelix meae, et faustum diu</p>
+    <p>Aspiret Æther, iam meis factum est satis</p>
+    <p>Factum est abunde precibus; exsolvi meam</p>
+    <p>Timore mentem, libero voto feror,</p>
+    <p>Cessant tumultus conscii cordis male</p>
+    <p>Haec nostra coniux, Angliae nostrae decus,</p>
+    <p>Et digna Rege: restat ut sacrum ferat</p>
+    <p>Diadema regni. <hi rendition="simple:italic">Bole.</hi> Magne Rex
+    quod vis, iube.</p>
+    <p>Tua est voluntas ut tui regni simul</p>
+    <p>Sim facta consors. <hi rendition="simple:italic">Henr.</hi>
+    Decuit, et favit polus:</p>
+    <p>Granmere Praesul vertici imponas decus</p>
+    <p>Regale sponsae. <hi rendition="simple:italic">Granm.</hi> Sic
+    decet, tibi Angliae</p>
+    <p>Rex gratulatur, laeta Maiestas tua</p>
+    <p>Quod liberato pectore hoc sceptrum gerat.</p>
+    <p>Tibi gratulatur, regia ô coniux, tuo</p>
+    <p>Quod rex amore Patriae Dominam dedit.</p>
+    <p><hi rendition="simple:italic">Βοl.</hi> Etiam hunc amorem Patria
+    accipiet meum,</p>
+    <p>Anglos amabo semper, et Patriam meam.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Regina flecte; regium
+    impono decus</p>
+    <p>Diadema capiti: dexteram sceptrum impleat.</p>
+    <p>Regina vive. <hi rendition="simple:italic">Henr.</hi> Gratulor,
+    tu iam latus</p>
+    <p>Regina claude; Regium solium preme.</p>
+    <p><hi rendition="simple:italic">Acclamatio.</hi></p>
+    <p><hi rendition="simple:italic">Annet, perennet, vivat, aeternum
+    regat.</hi></p>
+    <p><hi rendition="simple:italic">Henr.</hi> Sit testis Aether,
+    conscium testor polum</p>
+    <p>Fuit salutis cura connubium hoc novum,</p>
+    <p>Catharina coniunx hactenus, nunc abdico;</p>
+    <p>Regina non est, abnuo; haec coniux mea est,</p>
+    <p>Regina vestra est. Festa sit regno dies;</p>
+    <p>Auspicia Dominae plebis in ludos eant.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Vitiorum et Virtutum.</p>
+    <p>Vbi a parte una Haeresis cum suis, ab altera Ratio cum Pietate et
+    Clementia.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi></p>
+    <p>Nunc tandem laetis resonent ululatibus umbrae,</p>
+    <p>Et piceos styx mota lacus Phlegetonque, Acheronque</p>
+    <p>Attollant undas; fas est ridere sub Orco,</p>
+    <p>Et nova de mediis solatia sumere poenis,</p>
+    <p>Invidiam satiare suam, rabiemque replere;</p>
+    <p>O Manes, Hymenaee, Hymenaee instate sonoris</p>
+    <p>Vocibus, haec vestrae nam sunt sponsalia natae,</p>
+    <p>Dum sibi Rex nullâ coniungit lege Bolenam,</p>
+    <p>Me sibi desponsat secretis Angliâ fatis.</p>
+    <p><hi rendition="simple:italic">Luxur.</hi> Luxuria taedas
+    praeferam,</p>
+    <p>Et Nuptiarum pronuba,</p>
+    <p>Tuos labores occinam.</p>
+    <p>Per me Haeresis semper venit;</p>
+    <p>Cui libido mater est,</p>
+    <p>Vel ambitio sui impotens.</p>
+    <p><hi rendition="simple:italic">Ratio.</hi> Quisquis secutus
+    sensuum celer impetum</p>
+    <p>Rationis excussit iugum, infirmo pede</p>
+    <p>Cadit in ruinam. Hoc Anglia exitium est tuum.</p>
+    <p>Ratione spretâ dum fovet Regem Venus.</p>
+    <p><hi rendition="simple:italic">Impiet.</hi> Alteram taedam manus
+    ista vibret</p>
+    <p>Haeresis per me tua regna surgunt,</p>
+    <p>Dumque Rex Romae pia iura temnit,</p>
+    <p>Nasceris ipsa.</p>
+    <p><hi rendition="simple:italic">Pietas.</hi> Quisquis Domini temnit
+    habenas,</p>
+    <p>Quisquis sacras pectore leges</p>
+    <p>Eiicit, et se substrahit aris,</p>
+    <p>Nullo calcans iura timore,</p>
+    <p>Hunc Deus altâ despicit arce,</p>
+    <p>Ruit exitii nescius atri.</p>
+    <p><hi rendition="simple:italic">Tyr.</hi> Me quoque iam piceam
+    decet hic protendere taedam;</p>
+    <p>Et sanguinea verbera dextrâ,</p>
+    <p>Haeresis armatâ dum spargit funera dextrâ,</p>
+    <p>Cumulans mortes mortibus atris,</p>
+    <p>Tum regni stabilit, firmatque in sanguine sedem,</p>
+    <p>Lenia languent regna regentum.</p>
+    <p><hi rendition="simple:italic">Clementia.</hi> Quisquis severo
+    pectore</p>
+    <p>Sitiens cruorem in noxium</p>
+    <p>Oblectat animum et dexteram,</p>
+    <p>Curare non potest Deum,</p>
+    <p>Vno recedit impetu,</p>
+    <p>Humanitatis et suae</p>
+    <p>Expers salutem deserit;</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi> Quaerenda nunc est
+    certa regnandi via;</p>
+    <p>Modum, sorores, quaerite et modum date.</p>
+    <p><hi rendition="simple:italic">Luxuria.</hi> Donec voluptas,
+    Luxus, et Venus placent,</p>
+    <p>Tu possidebis Angliam, et Regem simul.</p>
+    <p><hi rendition="simple:italic">Ratio.</hi> Vbi voluptas et
+    Venus,</p>
+    <p>Ibi nullus est usquam Deus.</p>
+    <p>Secum trahit, secum fovet</p>
+    <p>Libido semper heresin.</p>
+    <p><hi rendition="simple:italic">Impi.</hi> Donec Romanae contemnet
+    iura Cathedrae,</p>
+    <p>Firmabis imperium tuum.</p>
+    <p><hi rendition="simple:italic">Pietas.</hi> Quicunque iura
+    Ecclesiae,</p>
+    <p>Sacrosque contemnit patres,</p>
+    <p>Et arbiter sibi legis est,</p>
+    <p>Catholicus esse non potest.</p>
+    <p><hi rendition="simple:italic">Tyran.</hi> Donec districto
+    dominabitur ense, vigebis;</p>
+    <p>Crudelitatis est novae</p>
+    <p>Firmare semper Haeresim.</p>
+    <p><hi rendition="simple:italic">Clement.</hi> Animos severos
+    Haeresis semper parit;</p>
+    <p>Vrit, revellit, destruit,</p>
+    <p>Secat, necat, ruit, obruit.</p>
+    <p>Misera haec videbit Anglia.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvartvs">
+    <head>ACTVS QVARTVS</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-i.-3">
+    <head>SCENA I.</head>
+    <p>Catharina, Longlandus, Maria Filia, Pedissequae.</p>
+    <p><hi rendition="simple:italic">Catharina.</hi></p>
+    <p>Excidimus ergo; Regis Imperium datum est,</p>
+    <p>Thorumque pellex iam meum, et meretrix thronum</p>
+    <p>Tenet, Bolena; Regiâ expellor domo</p>
+    <p>Non digna Coniux, tollitur sacri decus</p>
+    <p>Regale capitis, et meae regni manus</p>
+    <p>Sceptrum, relinquunt. Ipse Rex, heu dura vox!</p>
+    <p>Rex ipse nostros pectore exclusit suo</p>
+    <p>Amens amores, exuli exilium imperat.</p>
+    <p>Nihil recuso; pellat, eiiciat, necet,</p>
+    <p>Mors una nostrae finiet vitae mala.</p>
+    <p>Occidat, aberit a meâ crimen nece.</p>
+    <p>O Aula fallax! <hi rendition="simple:italic">Longl.</hi> Pectoris
+    luctum rege</p>
+    <p>Regina. <hi rendition="simple:italic">Cath.</hi> Nomen tolle, iam
+    non sum amplius.</p>
+    <p>Fortuna tantum nomen invidit mihi.</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Tamen iste magnus
+    pectoris cesset dolor,</p>
+    <p>Generosa Princeps. <hi rendition="simple:italic">Cath.</hi> Faxit
+    aeternus Tonans;</p>
+    <p>Vt quicquid in me congeret seu sors mali,</p>
+    <p>Seu Rex timoris, pectore invicto feram.</p>
+    <p>Tuli secundam, patiar adversam libens.</p>
+    <p><hi rendition="simple:italic">Longl.</hi> Nec insolescunt
+    prosperis qui sunt boni,</p>
+    <p>Nec rebus adversis cadunt: fortem probant</p>
+    <p>Adversa mentem; prospera exitium trahunt.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Eiicere Regi si parum
+    est, oneret manus</p>
+    <p>Regalis ira vinculis, claudat specu</p>
+    <p>Tenebricoso filiam et matrem simul.</p>
+    <p>Imo hoc patebit, cum volet, ferro caput.</p>
+    <p>Patebit istud pectus; hinc strictâ manu</p>
+    <p>Pro amore ducat sanguinem: si non sat est,</p>
+    <p>Addat Parenti funeri Natae necem.</p>
+    <p>O sors acerba ! <hi rendition="simple:italic">Longland.</hi>
+    Rursus incumbis tuo</p>
+    <p>Princeps dolori, deficit qui mox suo</p>
+    <p>Sese erigebat impetu sanguis tuus.</p>
+    <p>Ne cede sorti, tempora afflictae Deus</p>
+    <p>Meliora spondet. <hi rendition="simple:italic">Cath.</hi> Noster
+    exemplum dolor</p>
+    <p>Iam nescit ullum, prisca non aetas habet.</p>
+    <p>Ridenda vulgi fabula, ô vulnus grave!</p>
+    <p>Vbique dicor. <hi rendition="simple:italic">Longl.</hi> Imo iam
+    vulgus tuos</p>
+    <p>Deflet labores; sanctitas, pietas, pudor</p>
+    <p>Animo recurrunt: crimen infamem facit,</p>
+    <p>Adversa non sors; vita te excusat tua,</p>
+    <p>Fortuna casu quem premit, non est nocens.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Quaecunque veniet, grata
+    sors veniet mihi.</p>
+    <p>At Nata lachrymis perfodit pectus suis.</p>
+    <p>O Nata! <hi rendition="simple:italic">Maria.</hi> Mater quo voles
+    Natam voca,</p>
+    <p>Sequar Parentem. <hi rendition="simple:italic">Cath.</hi> Nata,
+    te Genitor negat,</p>
+    <p>Et me, maritus; Rex, utramque exterminat.</p>
+    <p>O dura fata! per scelus nunquid meam</p>
+    <p>Genuisse dicar filiam? quo quo dolor</p>
+    <p>Quo me resorbes? <hi rendition="simple:italic">Longl.</hi>
+    Nuptias Orbis tuas</p>
+    <p>Semper probavit, crede nullum est hic scelus.</p>
+    <p>Et sancta vitam fama collaudat tuam.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Tibi, Nata, Genitor, et
+    simul Genitrix ero,</p>
+    <p>Habebis a me nomen; et quanquam parens</p>
+    <p>Natam recuset, nominis magni notas</p>
+    <p>Ibera Tellus, et decus stirpis dabit.</p>
+    <p>Reges, avos, abavosque numerabis tuos;</p>
+    <p>Et patrueles Caesares. <hi rendition="simple:italic">Longl.</hi>
+    notum est genus,</p>
+    <p>Fortuna magnae cognita est mundo domus.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Rex ipse nobis est
+    dolor; quanquam opprimat,</p>
+    <p>Opprimit amantem; corde sub nostro latet.</p>
+    <p>O si redimere lachrymis possem meis</p>
+    <p>Miseri salutem Regis! <hi rendition="simple:italic">Longl.</hi>
+    Hanc curam, Deo</p>
+    <p>Regina linque; fata disponet Deus.</p>
+    <p><hi rendition="simple:italic">Cath.</hi> Commendo Regem; cedo,
+    discedo, meae</p>
+    <p>Venite mecum filiae. <hi rendition="simple:italic">Pedis. 1.</hi>
+    Dominam sequar.</p>
+    <p>Sui dolores sunt mei, et lachrymae meae.</p>
+    <p><hi rendition="simple:italic">Ped. 2.</hi> Fortuna, Domina, quae
+    tua est, haec est mea;</p>
+    <p>Quocunque pergis, pergo; tu famulam rege.</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.-3">
+    <head>SCENA II.</head>
+    <p>Henricus Rex, Brianus, Volsaeus, Guilhelmus Varamus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Quid ais, Briane? Pontifex legem dedit?</p>
+    <p>Pronuntiavit Pontifex? <hi rendition="simple:italic">Bri.</hi>
+    Sic est; <hi rendition="simple:italic">He.</hi> meas</p>
+    <p>Num forte damnat nuptias?
+    <hi rendition="simple:italic">Brian.</hi> damnat novas.</p>
+    <p>Domo Bolenam regiâ extrusam cupit.</p>
+    <p><hi rendition="simple:italic">He.</hi> Meam Bolenam?
+    <hi rendition="simple:italic">Bri.</hi> Nuptias primas probat.</p>
+    <p>Catharina coniux sit tua, et regni decus</p>
+    <p>Regina portet, imperat. Quid Rex? cadit</p>
+    <p>Tuus ille fervor? <hi rendition="simple:italic">Henr.</hi>
+    Quicquid est, recita, lege.</p>
+    <p><hi rendition="simple:italic">Recitatur sententia Pontificis per
+    Brianum.</hi></p>
+    <p><hi rendition="simple:italic">Brianus.</hi> Verba ista legis;
+    causa decisa est tua,</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Decisa causa est. Anime,
+    quid restat tibi!</p>
+    <p>Vt ecce trepidas? nulla consilii est via.</p>
+    <p>Meam Bolenam deseram? vitam meam?</p>
+    <p>Mihi revellam cor meum? summus cupit</p>
+    <p>Mandatque Praesul, fulminis sacrae minas</p>
+    <p>Intentat idem. Christianus sum, meum est</p>
+    <p>Parere tanto Praesuli. <hi rendition="simple:italic">Varam.</hi>
+    Regem decet</p>
+    <p>Parere tanto Praesuli. <hi rendition="simple:italic">Henr.</hi>
+    at fiet meum</p>
+    <p>Infame nomen, tota ridebit meos</p>
+    <p>Tellus amores. <hi rendition="simple:italic">Varam.</hi> Credet
+    errorem prius,</p>
+    <p>Sapuisse Regem postmodum. Vix est nocens.</p>
+    <p>Quem poenitere coepit. <hi rendition="simple:italic">Hen.</hi> at
+    quisnam est modus?</p>
+    <p><hi rendition="simple:italic">Varam.</hi> Catharina rursus
+    pristinum sumat decus.</p>
+    <p>Regina redeat, vera quae coniux tua est,</p>
+    <p>Abeat Bolena: Crede, cura nunc tuae</p>
+    <p>Agitur salutis. <hi rendition="simple:italic">Henr.</hi> Ira
+    decedas loco;</p>
+    <p>Catharina rursus impleat Regis thoros;</p>
+    <p>Regina redeat; nulla iam placeat Venus,</p>
+    <p>Abi Bolena; desero amplexus tuos;</p>
+    <p>Meum tuumque foedus eiuro, abnuo.</p>
+    <p>Volsaee Regem perdidisti: tu mihi</p>
+    <p>Iniquitatis author, et magni nimis</p>
+    <p>Sceleris minister; tu mihi divortii</p>
+    <p>Causa extitisti. <hi rendition="simple:italic">Volsaeus.</hi>
+    Fateor, et solus fui.</p>
+    <p>Si non fuissem, crede Rex, iam iam forem.</p>
+    <p>Tua esse Coniux fratris haud unquam potest.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Et inde nostrae damna
+    tot passim Domus;</p>
+    <p>Inde hi labores! <hi rendition="simple:italic">Varam.</hi> Non
+    tuum Regis fuit</p>
+    <p>Turbare pacem; nuptiarum non fuit</p>
+    <p>Firmum movere foedus. <hi rendition="simple:italic">Vols.</hi> at
+    nullum fuit:</p>
+    <p><hi rendition="simple:italic">Varam.</hi> Dubitabis etiam
+    Pontifex quando suâ</p>
+    <p>Hoc lege sancit? crimen, hic nullum, vides;</p>
+    <p>Ambitio tumidum reddit, et dum non potes</p>
+    <p>Primam occupare Praesulis sedem sacri,</p>
+    <p>Tua in ruinam consilia regis moves.</p>
+    <p>Nunquam Bolena placuit, at Franci soror</p>
+    <p>Regis placebat; Caesari ut magno tuus</p>
+    <p>Vltor noceret animus eiecta est tuo</p>
+    <p>Catharina suasu. Regis est laesi reus;</p>
+    <p><hi rendition="simple:italic">He.</hi> Etiam hinc recede.
+    Dignitas quae nunc tua est</p>
+    <p>Et prima Regni cesset; hoc Rex Impero.</p>
+    <p>Imo abdicare te volo. <hi rendition="simple:italic">Vols.</hi>
+    cedo, abdico.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Sit ista Mori dignitas;
+    Morus placet,</p>
+    <p>Sit Angliae, nam mando, cancellarius.</p>
+    <p>Volsaee, cede; quod volo, Morus sciat.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Moro indicabo; Regis
+    hoc munus sui</p>
+    <p>Vltro expetendum, capiat, et regnum iuvet.</p>
+    <p><hi rendition="simple:italic">Varamus.</hi> Sic redde moto
+    pectori pacem tuo:</p>
+    <p>Parere debes Iudici, actutum iube</p>
+    <p>Regina redeat, pellicem indignam eice</p>
+    <p>Regno, domoque. <hi rendition="simple:italic">Henr.</hi> Consilia
+    volvam mea.</p>
+    <p>Sedatus in me est pectoris moti furor.</p>
+    <p><hi rendition="simple:italic">Varam.</hi> Correctus error primus
+    est vitae gradus</p>
+    <p>Melioris; alter non sequi errorem amplius.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.-4">
+    <head>SCENA III.</head>
+    <p>Henricus Rex, Bolena, Brianus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Quid fiet ergo? saeva tempestas meum</p>
+    <p>Pertundit amimum; dubius huc et huc feror;</p>
+    <p>Et aestuantis seu Sali exundat furor,</p>
+    <p>Sic erro, et errans pectus incertum traho.</p>
+    <p>Amor hinc resorbet pectus, hinc turbat timor,</p>
+    <p>Quid heu? Bolenam regiâ eiiciam domo?</p>
+    <p>Parere iustum est; altera est coniux mea;</p>
+    <p>Pronuntiavit Pontifex, certa est fides.</p>
+    <p>Nondum hos amores exuo; nostras calor</p>
+    <p>Agit in medullas, cerno quid fas sit sequi;</p>
+    <p>Haeret voluntas; volvor, et sic effluo.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Vt ecce totus haeret?
+    abreptum dolor</p>
+    <p>Vtrimque versat; dubia consilium petit,</p>
+    <p>Et implicata mens novam quaerit viam.</p>
+    <p><hi rendition="simple:italic">Bolena.</hi> Istos tumultus mentis,
+    et cordis graves</p>
+    <p>Pateris dolores? Excide forsan tibi,</p>
+    <p>Et iam Bolena displicet. <hi rendition="simple:italic">Henr.</hi>
+    semper places.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Age tolle, tolle
+    verticis nostri decus,</p>
+    <p>Istam coronam. <hi rendition="simple:italic">Henr.</hi> quodquod
+    est tuum est decus.</p>
+    <p>Retine coronam. <hi rendition="simple:italic">Bolen.</hi> Coniugi
+    Coniux mihi</p>
+    <p>Fidem dedisti, <hi rendition="simple:italic">Henr.</hi> quam dedi
+    servo fidem.</p>
+    <p><hi rendition="simple:italic">Bo.</hi> Revocanda Coniux altera
+    est. <hi rendition="simple:italic">He.</hi> Coniux mea est.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Regina redeat, hoc
+    cupis: ne sim, cupis.</p>
+    <p>Et ista regis est fides? iste est amor?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Nec amore quicquam, nec
+    fide indignum gero;</p>
+    <p>Regina vive, tota Reginam Anglia</p>
+    <p>Iam te fatetur. <hi rendition="simple:italic">Bolen.</hi>
+    Pontifex sed me eiicit,</p>
+    <p>Et fulmen in me barbarum intorquet ferus.</p>
+    <p>Patieris? et me Regia expelles domo?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Secura vive; regium
+    solium et thorum,</p>
+    <p>Semper tenebit; dulcis es Coniux mea.</p>
+    <p>Quid immerentes rore confundis genas?</p>
+    <p>Age redde laetae mentis irradians iubar.</p>
+    <p>Iterum serenus ora perstringat rubor.</p>
+    <p>Compesce luctum. <hi rendition="simple:italic">Bolen.</hi>
+    Pontifex luctum facit;</p>
+    <p>Nec vana metuo. <hi rendition="simple:italic">Henr.</hi> nullus
+    hic hostis tibi est.</p>
+    <p><hi rendition="simple:italic">Bol.</hi> Sunt forsan omnes.
+    <hi rendition="simple:italic">He.</hi> nullus est hostis tibi.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Nullum timebo, Coniugem
+    si Rex amet.</p>
+    <p><hi rendition="simple:italic">He.</hi> Te Rex amabo. Pontifex
+    nunquam hunc meo</p>
+    <p>Ignem revellet pectore: inveniam modum,</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Iurata mens est et
+    mihi, et Regi tibi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Iurata mens est.
+    <hi rendition="simple:italic">Bol.</hi> Me tuo dignam thoro</p>
+    <p>Rex iudicasti; pectus hoc nostrum, tuo</p>
+    <p>Amore flagrat: si placeo, serva tuam.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Mea es Bolena, teque
+    servabo meam.</p>
+    <p>Briane, cura deesse Reginae nihil.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Curabo; num quid
+    amplius forsan iubes?</p>
+    <p><hi rendition="simple:italic">He.</hi> Adsit Senatus.
+    <hi rendition="simple:italic">Bri.</hi> Aderit, hanc curam
+    geram.</p>
+  </div>
+  <div type="level2" xml:id="scena-iv.-2">
+    <head>SCENA IV.</head>
+    <p>Henricus Rex, Haeresis cum suis.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Rursum tumultus mentis, et rursum novi</p>
+    <p>Animum flagellant impetus; dubito, haereo,</p>
+    <p>Consilia desunt; Pontifex animum trahit,</p>
+    <p>Retrahit Bolena; certus, incertus feror;</p>
+    <p>Nolo, voloque: quod volo gratum est mihi;</p>
+    <p>Quod nolo, iustum est, Anglia his humeris meis</p>
+    <p>Inclinat incubatque: quicquid hic agam</p>
+    <p>Spectabit Orbis, nomen atque omen feram.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi> Parebis ergo?
+    servies? legem et iugum</p>
+    <p>Patieris? et Rex? <hi rendition="simple:italic">Henr.</hi> Nempe
+    quando Pontifex</p>
+    <p>Pronunciavit. <hi rendition="simple:italic">Haeres.</hi> Pontifex
+    quando tuam</p>
+    <p>Tibi revellit Coniugem? quando tuos</p>
+    <p>Prohibet amores? Victe Rex, da da manus;</p>
+    <p>Istum sacrorum Principem Reges timent</p>
+    <p>Qui non timentur. Indoles magnae regunt.</p>
+    <p>Parere turpe est, quando, quod prohibet, placet.</p>
+    <p>Tuam est supremum culmen, et regni caput</p>
+    <p>Tu solus exstas, qui timet Rex, non regit.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> At ille Reges dirigit;
+    Mundi caput.</p>
+    <p><hi rendition="simple:italic">Haeres.</hi> Mancipia quos fecit
+    sibi Reges, regit.</p>
+    <p>Tibi redde temet; vendica culmen tuum;</p>
+    <p>Namque esse Reges nil supra magnos potest.</p>
+    <p>Dat iura solus Regibus Regum Deus.</p>
+    <p><hi rendition="simple:italic">He.</hi> Princeps sacrorum est, et
+    vices Christi gerens</p>
+    <p>Hominum salutem curat, et fidei sacra</p>
+    <p>Antiqua servat. <hi rendition="simple:italic">Haeres.</hi> Saxa
+    Tarpeius regat</p>
+    <p>Romana Rector, Angliae in Regno tuum est</p>
+    <p>Et regere populos, et dare populis fidem.</p>
+    <p>Opus est ut unum regno in uno sit caput.</p>
+    <p>Et Rex, et esse Pontifex solus potes,</p>
+    <p>Et esse debes, Subditi accipiant fidem,</p>
+    <p>Quam Rex amabit; subditi legem ferant,</p>
+    <p>Quam Rex iubebit. Pone tu legem tibi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Non ergo nostram
+    coniugem avellet mihi,</p>
+    <p><hi rendition="simple:italic">Haeres.</hi> Nec hanc, nec illam
+    quam voles: hoc Rex agas</p>
+    <p>Ecclesiae sis Anglicanae Pontifex.</p>
+    <p>Fateantur omnes, si quis obsistat, cadat.</p>
+    <p>Rex ille verus, qui sibi indulgens, nihil</p>
+    <p>Vsquam veretur: quod volunt Reges, simul</p>
+    <p>Hoc posse debent. <hi rendition="simple:italic">Impie.</hi>
+    Sceptra conveniunt male</p>
+    <p>Pietasque; debet sola maiestas coli,</p>
+    <p>Alios colere qui debet, est servus miser.</p>
+    <p>Fortes, Severi, Bellicosi, Maximi</p>
+    <p>Sunt magna regum nomina, haud unquam Pii.</p>
+    <p>Privata sors est. <hi rendition="simple:italic">He.</hi> Iam
+    ratum est, iam Rex ero,</p>
+    <p>Iniuriose Pontifex, ergo mihi</p>
+    <p>Fulmen minaris? Pontifex et Rex ero.</p>
+    <p><hi rendition="simple:italic">Tyrann.</hi> Haec firma mens sit,
+    una regnandi est via</p>
+    <p>Districtus ensis, Angliam ferro potens</p>
+    <p>Teneas oportet; Christianus hic cruor</p>
+    <p>Fusus parabit sortis excelsae thronum.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Sed en Senatum cerno,
+    quod superest, agam.</p>
+    <p><hi rendition="simple:italic">Haeresis.</hi> Satis est, Britanna
+    Terra mutabit fidem.</p>
+  </div>
+  <div type="level2" xml:id="scena-v.-3">
+    <head>SCENA V.</head>
+    <p>Henricus Rex, Granmerus, Roffensis, Morus, Senatores alii.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Consulere me decebat et famae et meae,</p>
+    <p>Proceres, saluti. Vester hic mecum labor</p>
+    <p>Subiit tumultus; onera portasti mea,</p>
+    <p>Et ipsa nostris Anglia ingemuit malis,</p>
+    <p>Dum laedit Orbis laesus haud famam meam,</p>
+    <p>Sed victa fama est, vicit invidiam meus</p>
+    <p>Sincerus ardor; gaudio incumbo meo</p>
+    <p>Votique compos laetor; at quod nunc volo,</p>
+    <p>Percipite, Proceres, Pontifex nuper suum</p>
+    <p>Vibravit in me fulmen, et nostrum caput</p>
+    <p>Devovit Orco dum meae incumbo anxius</p>
+    <p>Multum saluti, Coniugem primo mihi,</p>
+    <p>Dominam deinde patriae novam dedi.</p>
+    <p>Ipse improbavit, Caesar in partes Papam</p>
+    <p>Pertraxit istas. Sit satis, nunc hoc volo</p>
+    <p>Vt Anglicanae Pontifex Ecclesiae</p>
+    <p>Caputque sit Rex, nominet nemo Papam.</p>
+    <p>Qui nominabit, noscet, agnoscet, colet,</p>
+    <p>Sit perduellis, debeat morti caput.</p>
+    <p>Proles Bolenae sit mea et regni simul</p>
+    <p>Haeres, fateri subditi debent mei</p>
+    <p>Sit perduellis, qui negat, mortis reus,</p>
+    <p>Haec est voluntas, hanc sequi Proceres, decet.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Iusta est voluntas, nos
+    sequi iustam decet.</p>
+    <p>Ego te Anglicanae Rex, supremum Ecclesiae,</p>
+    <p>Veneror caput, Quiritium eiuro Papam.</p>
+    <p>Ego Bolenae filiam haeredem tuam</p>
+    <p>Regnique fateor. Sacra Maiestas tua</p>
+    <p>Quicquid peregit hactenus, totum probo.</p>
+    <p>Necessitatem dubia permovit salus.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Haec causa praeceps,
+    una rem tantam iubet</p>
+    <p>Regis voluntas. <hi rendition="simple:italic">Gran.</hi> More non
+    regem tuum</p>
+    <p>Noscis, fateris? <hi rendition="simple:italic">Morus.</hi>
+    Fateor, et nosco meum,</p>
+    <p>Venerorque regem. <hi rendition="simple:italic">Gran.</hi> Non
+    caput Regni colis?</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Regni est caput, non
+    Anglicanae Ecclesiae.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Et dignitatis iste
+    fructus est novae?</p>
+    <p>Sic More Regi gratus es?
+    <hi rendition="simple:italic">Morus.</hi> Gratâ colo</p>
+    <p>Te mente Regem; Dignitatis si meae est</p>
+    <p>Probare quod vis; abdico; primum decus</p>
+    <p>Resigno regni. <hi rendition="simple:italic">Henr.</hi> More, tu
+    nunquam mea</p>
+    <p>Ad vota transis. <hi rendition="simple:italic">Roffens.</hi>
+    Magne Rex, si lex tua</p>
+    <p>Esset voluntas, forte parerem tibi.</p>
+    <p>Iubes iniquum: nemo Regem Ecclesiae</p>
+    <p>Agnovit unquam principem, aut summum caput.</p>
+    <p><hi rendition="simple:italic">Gra.</hi> Non Anglicanae?
+    <hi rendition="simple:italic">Roff.</hi> Nemo, namque est omnium</p>
+    <p>Ecclesiarum Pontifex summum caput.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Te dignitate semper
+    ornavit nova</p>
+    <p>Rex ipse; Regis iussa nunc temnis tui.</p>
+    <p>Agnosce Regem, et filiam; cogi potes,</p>
+    <p>Authoritate coget ipse rex suâ.</p>
+    <p><hi rendition="simple:italic">Roff.</hi> Authoritate cogat, aut
+    certâ nece;</p>
+    <p>Non morte vincet; et metum, et mortem meae</p>
+    <p>Temnit senectus. <hi rendition="simple:italic">Henr.</hi> Impium
+    in Regem caput</p>
+    <p>Sero rebellat: augeat carcer metum,</p>
+    <p>Vincentur ambo; vincula et tetros specus</p>
+    <p>Ferant rebelles, ferre qui Regem negant.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Eamus ergo, laetus
+    agnosco Dei</p>
+    <p>Benignitatem; carcer optatae Domus</p>
+    <p>Tranquillitatis fiet, et portus simul.</p>
+    <p><hi rendition="simple:italic">Roff.</hi> Eamus, ecce nil moror,
+    vitam novam</p>
+    <p>Hinc inchoabo, mors diem pandet novum.</p>
+    <p>Foelix senectus, morte quae serâ cadens</p>
+    <p>Reperit coronam: quo voles, abduc senem.</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Abduc Satelles, ista
+    libertas rea est.</p>
+    <p>Iurate reliqui. Regis edictum placet?</p>
+    <p><hi rendition="simple:italic">Senat.</hi>
+    <hi rendition="simple:italic">1.</hi> Agnosco Regem Ecclesiae
+    nostrae caput;</p>
+    <p>Regni Bolenae filiam haeredem probo.</p>
+    <p><hi rendition="simple:italic">Senat. 2.</hi> Sacri supremum
+    culminis Regem caput</p>
+    <p>Fateor coloque, sacra Pontificis nego,</p>
+    <p>Dirumque nomen. <hi rendition="simple:italic">Se. 3.</hi> Et
+    probo, et quae Rex iubet</p>
+    <p>Servanda iuro, Pontifex et Rex simul</p>
+    <p>Henricus esto, Roma quem patrem colit</p>
+    <p>Detestor illum. <hi rendition="simple:italic">Henr.</hi> Sic
+    decet, nunc sit tuae</p>
+    <p>Granmere curae, nostra qua late Anglia</p>
+    <p>Vallatur undis publicare quod volo,</p>
+    <p>Fateantur omnes, et datâ iurent fide.</p>
+    <p>Regum est fidem legemque subiectis dare.</p>
+    <p>Cum sol reducet flammeos undis equos</p>
+    <p>Voca ad tribunal conscios rursum reos.</p>
+  </div>
+  <div type="level2" xml:id="scena-vi.-3">
+    <head>SCENA VI.</head>
+    <p>Granmerus, Senatores.</p>
+    <p><hi rendition="simple:italic">Granmerus.</hi></p>
+    <p>Age, Praeco, Regis publica edictum novum;</p>
+    <p>Cum nesciuntur iussa contemni solent.</p>
+    <p><hi rendition="simple:italic">Recitatur edictum Regis.</hi></p>
+    <p>Lustranda tota est Anglia, et cuncti sciant</p>
+    <p>Decreta Regis, Praesules, Sacrae Domus,</p>
+    <p>Vrbes; probare qui novam non vult fidem,</p>
+    <p>Feriatur ense. Fusus hanc legem cruor</p>
+    <p>Sancire debet. <hi rendition="simple:italic">Sen. 1.</hi> forsan
+    exemplum volent</p>
+    <p>Videre cuncti, vulgus exemplo sapit,</p>
+    <p>Terrentur alii. Si quis exundet cruor,</p>
+    <p>Si quod per urbes funus, atque haustum caput</p>
+    <p>Percellat omnes, sapere mox cuncti volent.</p>
+    <p><hi rendition="simple:italic">Senat. 2.</hi> Huc ad Tribunal ergo
+    Roffensem prius</p>
+    <p>Revocemus; illum, si cadat, nemo sequi,</p>
+    <p>Nec ipse Morus mente mutata volet.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Reduc satelles; sapere
+    si forsan volet</p>
+    <p>Multi sequentur, suspicit vulgus virum</p>
+    <p>Colitque sanctum. <hi rendition="simple:italic">Sen. 3.</hi> Non
+    volet, mens est seni</p>
+    <p>Invicta docto, nulla mors ipsi metum</p>
+    <p>Iniiciet unquam. Cernite, ut laeto senex</p>
+    <p>Vultu propinquat? Pectore in fracto necem</p>
+    <p>Contemnit audax; credite, hic nimium sapit.</p>
+  </div>
+  <div type="level2" xml:id="scena-vii.-2">
+    <head>SCENA VII.</head>
+    <p>Granmerus, Roffensis, Senatores.</p>
+    <p><hi rendition="simple:italic">Granmerus.</hi></p>
+    <p>Iterum ad Tribunal, Praesul, an nondum sapis?</p>
+    <p>Necessitas suprema nunc fati tui est.</p>
+    <p>Ne sero sapias. Pontifex sit Rex tibi,</p>
+    <p>Haeres Bolenae filia. Hanc legem tulit,</p>
+    <p>Quem tu vereri Principem debes tuum.</p>
+    <p><hi rendition="simple:italic">Senat. 1.</hi> Laudandus iste
+    pertinax mentis furor</p>
+    <p>Nunquam est; an ipse sapere solus hic cupis?</p>
+    <p><hi rendition="simple:italic">Roff.</hi> Rectae tenacem mentis
+    haec aetas facit.</p>
+    <p>Speranda non est vita cum finem cupit.</p>
+    <p>Occasione laetor, haec vitam dabit</p>
+    <p>Hunc cum relinquam. <hi rendition="simple:italic">Sen. 2.</hi>
+    Morte quid gaudes tuâ?</p>
+    <p>Vicina mors est si negas: iura, et tuo</p>
+    <p>Te redde Regi, Pontifex ipse est tuus;</p>
+    <p>Fateare, iura. <hi rendition="simple:italic">Roffen.</hi>
+    Pontifex non est meus;</p>
+    <p><hi rendition="simple:italic">Sen. 3.</hi> Nec Anglicanae noscis
+    hunc Ecclesiae</p>
+    <p>Caputque Regni? <hi rendition="simple:italic">Roffen.</hi> Nullus
+    agnoscens sapit.</p>
+    <p>Non est, nec esse Rex potest. Vnum est caput,</p>
+    <p>Romanus ille Praesul, et mundi est caput.</p>
+    <p>Decipere Regem nostra non debet fides,</p>
+    <p>Non haec senectus: hactenus nostri fidem</p>
+    <p>Tenuere primam, iura Romanus dedit</p>
+    <p>Sacrata Praesul. Quod novum est constans nego</p>
+    <p>Rex hic receptam tollere haud potest fidem.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Est perduellis, sapere
+    sic solus cupit.</p>
+    <p>Pronuntietur. <hi rendition="simple:italic">Roffen.</hi> Nil
+    moror, pronuntia.</p>
+    <p><hi rendition="simple:italic">Senator.</hi> Ecclesiae quod
+    deneges Regem caput,</p>
+    <p>Et quod Bolenae filiam haeredem haud probes,</p>
+    <p>Te perduellem dico, et addico neci.</p>
+    <p>I lictor, istud amputa seni caput.</p>
+  </div>
+  <div type="level2" xml:id="scena-viii.-1">
+    <head>SCENA VIII.</head>
+    <p>Roffensis, Lictor.</p>
+    <p><hi rendition="simple:italic">Roffensis.</hi></p>
+    <p>Vox ista Regis dura, sed grata est mihi.</p>
+    <p>Mors summa vitae est, nec tamen summum est malum,</p>
+    <p>Horrere sapiens non solet certam omnibus</p>
+    <p>Ipsi invocatam. Nescio quis se meos</p>
+    <p>Agit per artus ardor, immutor senex,</p>
+    <p>Novumque crescit robur, et vires novae.</p>
+    <p>Benignitatis hic tuae est, Tonans, favor,</p>
+    <p>Non hunc merebar, Gloriam ad tantam vocas</p>
+    <p>Etiam immerentem; gloria est pro te mori.</p>
+    <p><hi rendition="simple:italic">Lictor.</hi> Hinc est eundum; ne
+    trahas, Praesul, moras.</p>
+    <p><hi rendition="simple:italic">Roffens.</hi> Tarda est senectus,
+    parva sed restat via.</p>
+    <p>Fulcro senectus non eget; bacule hic vale.</p>
+    <p>Properare nostri ad gloriam debent pedes.</p>
+    <p>Iterum renascor, et iuventus est nova.</p>
+    <p><hi rendition="simple:italic">Te Deum laudamus, Te Dominum
+    confitemur.</hi></p>
+    <p><hi rendition="simple:italic">Te aeternum Patrem omnis terra
+    veneratur.</hi></p>
+    <p>Rex summe Regum, Christe tu praesens ades,</p>
+    <p>Tui labores praesulis gratos habe.</p>
+    <p>Valete cives, Anglia o misera, o vale.</p>
+    <p>Tu perage, Lictor, ecce cervicem dabo.</p>
+    <p><hi rendition="simple:bold">CHORVS.</hi></p>
+    <p>Anglorum Exulum, seu Profugorum.</p>
+    <p>Ergo Patriae linquendae Vrbes</p>
+    <p>Linquere patrias certum est sedes,</p>
+    <p>Valete Montes Angliae,</p>
+    <p>Valete Fontes Angliae.</p>
+    <p>Anglica Tellus ultima nostri</p>
+    <p>Munera luctus impressa, tene</p>
+    <p>Has tibi lachrymas, has tibi lachrymas</p>
+    <p>Profugi et miseri solvimus Angli.</p>
+    <p>Poscimur, heu heu, poscimur heu heu!</p>
+    <p>Quicunque Romam noscimus</p>
+    <p>Et qui fatemur hic Papam.</p>
+    <p>Sic misera perditur Anglia</p>
+    <p>Devota Romae filia.</p>
+    <p>Gens Christiadum devota neci est.</p>
+    <p>Sacri multo sanguine patres</p>
+    <p>Laceram fundunt sub nece vitam,</p>
+    <p>Delubra iacent obruta flammis,</p>
+    <p>Sacros rapiunt cineres venti,</p>
+    <p>Destruit aras impius ignis,</p>
+    <p>Christusque suis pellitur arisf,</p>
+    <p>Multum in templis perplacet aurum,</p>
+    <p>Aurumque reas efficit aras.</p>
+    <p>Populator amat quicquid ditat.</p>
+    <p>Pauper reus est et crucis haeres.</p>
+    <p>Verbera mixto resonant planctu,</p>
+    <p>Vndique luctus, undique lachrymae,</p>
+    <p>Quisquis renuit iurare pius,</p>
+    <p>Pellitur agris, patriâque Domo.</p>
+    <p>Trahitur durae victima morti,</p>
+    <p>Sic nos abimus exules;</p>
+    <p>Agros domosque linquimus.</p>
+    <p>Heu Christianos Anglia heu non fert suos!</p>
+    <p>Heu Christiani patriam fugiunt suam!</p>
+    <p>O Rex Tyranne quo tuos,</p>
+    <p>Procul repellis subditos!</p>
+    <p>Externa regna quaerimus</p>
+    <p>Æquorque nostrum linquimus</p>
+    <p>Dum non tibi boni sat est</p>
+    <p>Nos exuisse patriis,</p>
+    <p>Angli exulare cogimur;</p>
+    <p>Et exterorum per plagas,</p>
+    <p>Servare debemus fidem.</p>
+    <p>Manes Patrum! Manes Patrum?</p>
+    <p>Etiam sepulti flebitis,</p>
+    <p>Hinc dum Nepotes ob fidem,</p>
+    <p>Sedes relinquunt patrias</p>
+    <p>Et mortuorum iam iacent,</p>
+    <p>Sepulchra ferro diruta.</p>
+    <p>Ibimus eheu, assueta prius</p>
+    <p>Placidis heu Gens vivere campis.</p>
+    <p>Pars Belgiacas incolet oras,</p>
+    <p>Pars Italicos incolet agros,</p>
+    <p>Pars occiduos viset Iberos.</p>
+    <p>Sparsi toto protinus orbe</p>
+    <p>Miseri latebimus exules.</p>
+    <p>Alibi Anglia, alibi Hybernia.</p>
+    <p>O dulcis et chara patria!</p>
+    <p>Anglia Tellus, Patria Tellus,</p>
+    <p>Nunc ergo Vale, nunc ergo Vale,</p>
+    <p>Sed adhuc nostros imbibe questus</p>
+    <p>Imbibe lachrymas; non sine lachrymis,</p>
+    <p>Linquenda nobis patria est:</p>
+    <p>Cernere retro quoties oculi;</p>
+    <p>Dicere quoties cupient animi;</p>
+    <p>Perdita nostra est Anglia nobis</p>
+    <p>Non nos habebit mortuos;</p>
+    <p>Nostras habebit lachrymas.</p>
+    <p>Rursum ergo vale, rursum ergo vale</p>
+    <p>Anglica Tellus, patria Tellus,</p>
+    <p>Has ultimas tibi lachrymas,</p>
+    <p>Haec ultima ferimus oscula!</p>
+    <p>Meminisse semper Patriae</p>
+    <p>Haec fera facient oscula.</p>
+    <p>Rursus Vale, aeternum Vale.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvintvs.">
+    <head>ACTVS QVINTVS.</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="scena-i.-4">
+    <head>SCENA I.</head>
+    <p>Religio Catholica, Ratio, Pietas, Clementia.</p>
+    <p><hi rendition="simple:italic">Religio.</hi></p>
+    <p>Coelum, solumque, et aequor, et quicquid suo</p>
+    <p>Immensa rerum machina amplexu capit,</p>
+    <p>Tu magne Genitor temporum volvis tuo</p>
+    <p>Qui saecla cursu; Luna tu noctis regens;</p>
+    <p>Vos splendicantes ignibus stellae vagis,</p>
+    <p>Aer, globique nubium, et quicquid supra</p>
+    <p>Natura versat; Flumina, et Montes, Aquae</p>
+    <p>Levium perennes fontium, Rupes, specus,</p>
+    <p>Iuvate nostras lachrymas. Perii Angliae,</p>
+    <p>Mihique periit Anglia, heu quondam mea!</p>
+    <p>Religio Coeli filia, et Romae parens,</p>
+    <p>Demersa luctu, foeda, virgineos sinus</p>
+    <p>Lacerata, fracta, sanguine effuso madens,</p>
+    <p>Hinc uror, inde vexor, expellor, premor,</p>
+    <p>Defensor ille, pro pudor! nuper meus,</p>
+    <p>Rex ille, calamo nostra qui asseruit sacra;</p>
+    <p>Henricus ille, (lachrymae vocem obruunt)</p>
+    <p>In me ruentem pellit ac stringit manum;</p>
+    <p>Vt me revellat, dissipet, tollat, necet.</p>
+    <p>O Christiani, restat exilium grave,</p>
+    <p>Aut mors acerba: Lenta succedent mala,</p>
+    <p>Vltraque mortem saevient; Manes suâ</p>
+    <p>Crudelitate rursus in mortem trahent.</p>
+    <p>Vbique luctus est meus, funus meum:</p>
+    <p>Gemunt onustae tot viris sacris cruces,</p>
+    <p>Et fracta iactas templa corripiunt faces.</p>
+    <p>Coenobiorum claustra confudit cruor.</p>
+    <p>Mors morte premitur, funeri est funus grave.</p>
+    <p>Nec una tantis Anglia est satis malis;</p>
+    <p>Hyberna Tellus premitur, hic quisquis fidem</p>
+    <p>Servat Quiritum mortis infandae est reus.</p>
+    <p>Quousque tandem? cuius implorem manum?</p>
+    <p>Nec ulla spes est? <hi rendition="simple:italic">Ratio.</hi>
+    Nulla spes, quando suo</p>
+    <p>Exclusit animo recta quod ratio iubet,</p>
+    <p>Ruit, impetuque surgit, et coecus furit.</p>
+    <p><hi rendition="simple:italic">Rel.</hi> Nec ulla spes est?
+    <hi rendition="simple:italic">Piet.</hi> Nulla spes, quando poli</p>
+    <p>Contemnit iras, iuraque et leges premit.</p>
+    <p>Rex esse nullum cogitat demens Deum.</p>
+    <p><hi rendition="simple:italic">Rel.</hi> Nec ulla spes est?
+    <hi rendition="simple:italic">Cle.</hi> Nulla spes quando furens</p>
+    <p>Animus cruore pascitur; totus furit;</p>
+    <p>Benignitatem pectore exclusit suo.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> O Magne Coeli Rector, o
+    Mundi parens!</p>
+    <p>Si nulla spes sit, robur aspira meis.</p>
+    <p>Vincant flagella, verbera, ignes et cruces,</p>
+    <p>Et augeantur mortibus. Sed en venit</p>
+    <p>Rex ipse; quid vult! tota concutior metu.</p>
+    <p>Meditatur iterum misera quod nimium gemam.</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.-4">
+    <head>SCENA II.</head>
+    <p>Henricus Rex, Religio Cath., Ratio, Pietas, Clementia.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Immane quantum pectoris saevo quies</p>
+    <p>Turbata motu est! longa curarum cohors</p>
+    <p>Vtrimque cingit; Subditi Regis minas</p>
+    <p>Pauci verentur, quam dedi legem, negant;</p>
+    <p>Iurare nolunt, Anglicanae me caput</p>
+    <p>Ecclesiae non confitentur, et mori,</p>
+    <p>Etiam per ignes et cruces malunt mori,</p>
+    <p>Et me negabunt subditi Regem mei?</p>
+    <p>Et mihi resistent subditi Regi mei?</p>
+    <p>Non ita, cruentâ quod volo fiet manu,</p>
+    <p>Si non quietâ. Christianorum Phalanx</p>
+    <p>Ista in iras me vocat; temnit necem,</p>
+    <p>Suamque tantum pertinax Romam colit,</p>
+    <p>Ista, ista Religio nocet. Vel Rex ero,</p>
+    <p>Vel hinc recedet. <hi rendition="simple:italic">Relig.</hi> Ecce
+    Rex adsum tibi</p>
+    <p>Religio, nunquid me tuâ evertes manu?</p>
+    <p>Me exterminabis? Angliâ expelles tuâ?</p>
+    <p>Tu me solebas ense tutari tuo,</p>
+    <p>Et nunc cruoris ultimas guttas mei</p>
+    <p>Sorbebis atrox, hauries, fundes ferox?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Ecclesiae caput
+    Anglicanae sim, volo.</p>
+    <p>Vel hinc recedes. <hi rendition="simple:italic">Religi.</hi>
+    Quando Rex istud petis,</p>
+    <p>Hinc me repellis, esse non potes caput.</p>
+    <p>Vnum est, et istud Pontifex Romae est caput.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Sit ipse Romae, me mei
+    agnoscant caput.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Vnum esse debet, una
+    tantum Ecclesia est.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Et iura mihi det
+    Pontifex? regnum meum</p>
+    <p>Meosque fraenet subditos?
+    <hi rendition="simple:italic">Relig.</hi> Mores regit</p>
+    <p>Et sacra regni, et subditis donans fidem</p>
+    <p>Curat salutem. <hi rendition="simple:italic">Henr.</hi> do fidem
+    et legem meis.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Hoc non tuum est, tu
+    quod decet Reges, agas.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Cogam rebelles.
+    <hi rendition="simple:italic">Reli.</hi> Christianus non potest</p>
+    <p>Vel morte cogi. <hi rendition="simple:italic">Henr.</hi> Mille
+    diffundam neces.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Dum mille tolles, mille
+    nascentur novi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Furor cavebit.
+    <hi rendition="simple:italic">Reli.</hi> Ille qui resecat furor,</p>
+    <p>Crudelis auget. <hi rendition="simple:italic">Henr.</hi> Igne et
+    undis opprimam.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Hinc pulchriores semper
+    emergunt mei.</p>
+    <p>Foecunda fio cladibus, cresco malis.</p>
+    <p><hi rendition="simple:italic">Ratio.</hi> Compone mentem; non
+    decet Regem sequi</p>
+    <p>Quod iura nolunt. <hi rendition="simple:italic">Piet.</hi> sero,
+    si tamen sapis,</p>
+    <p>Placatus Æther fiet, errorem auferet</p>
+    <p>Tibi benignus Pontifex. <hi rendition="simple:italic">Henr.</hi>
+    heu Pontifex!</p>
+    <p>Heu me meumque, Pontifex, regnum moves!</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Agnosce Patrem,
+    Pontifex Regum est pater.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Nunquam; recede sum
+    Angliae nostrae caput.</p>
+    <p>Obsistat ille, quicquid est vincam tamen.</p>
+    <p><hi rendition="simple:italic">Cle.</hi> Nunquam; potestas scelere
+    diffundens scelus</p>
+    <p>Violenta durat; mitior melius manus</p>
+    <p>Regnum gubernat; efferat, quicquid ferum est.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vnum est necessum;
+    pareant, sit quod volo.</p>
+    <p>Parere iustum est Regibus quando iubent.</p>
+    <p>Sum Rex, et idem Pontifex ero meis.</p>
+  </div>
+  <div type="level2" xml:id="scena-iii.-5">
+    <head>SCENA III.</head>
+    <p>Granmerus, Henricus Rex, Senatores, Aloysia Mori uxor, Margareta
+    filia.</p>
+    <p><hi rendition="simple:italic">Granmerus.</hi></p>
+    <p>Saevire frustra est. Magne Rex, pauci tua</p>
+    <p>Edicta curant, ordo quicunque est sacer</p>
+    <p>Vltro rebellat: nil minas curant tuas,</p>
+    <p>Nil fata curant, quodque mireris magis,</p>
+    <p>Etiam cruento confici ferro petunt.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Saevire certum est
+    attamen; flectam impios</p>
+    <p>Aut morte tollam. <hi rendition="simple:italic">Senat. 1.</hi>
+    Morus exemplo movet.</p>
+    <p>Illum imitari quisquis est doctus cupit.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vir unus ipse plus
+    potest, quam Rex potest.</p>
+    <p>Iterum vocetur, pertinax si sit, cadat.</p>
+    <p>Mors una tanti forte terrebit viri.</p>
+    <p><hi rendition="simple:italic">Sen. 2.</hi> En uxor, ipsa
+    lachrymis flectet virum.</p>
+    <p>En Nata, matris lachrymis iunget suas.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Vtamur illis. Prona quid
+    tanto petis</p>
+    <p>Matrona luctu? Virgo, quid supplex cupis?</p>
+    <p><hi rendition="simple:italic">Aloysia.</hi> Reddas maritum,
+    repetit hic luctus virum.</p>
+    <p><hi rendition="simple:italic">Marg.</hi> Reddas parentem,
+    lachrymae hae repetunt patrem.</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Reddam maritum Coniugi,
+    et natae patrem.</p>
+    <p>Flectatur ipse, pareat regi suo.</p>
+    <p>Ite et movete. <hi rendition="simple:italic">Aloysia.</hi>
+    Vinculis sed sit prius</p>
+    <p>Suis solutus. <hi rendition="simple:italic">Henr.</hi> Non licet,
+    carcer tamen</p>
+    <p>Vobis patebit. <hi rendition="simple:italic">Granm.</hi> Nata tu
+    patrem move</p>
+    <p>Affusa collo, lachrymas nunquam tuas</p>
+    <p>Feret obstinatus. <hi rendition="simple:italic">Marg.</hi>
+    Vinciam amplexu meo,</p>
+    <p>Constansque pectus luctibus vincam meis.</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Nihil negabit Coniugi.
+    <hi rendition="simple:italic">Aloys.</hi> faxit Tonans;</p>
+    <p>Confusa patre est tota sublato Domus.</p>
+    <p><hi rendition="simple:italic">Sena. 3.</hi> Servare totam sic
+    potest solus Domum.</p>
+    <p>Ite et movete; pareat, parta est salus.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Quod restat, ite rursus,
+    et poenam ultimam</p>
+    <p>Denunciate; <hi rendition="simple:italic">Granm.</hi> Vanus hic
+    rursum labor.</p>
+    <p>Ordo Minorum totus Observantium</p>
+    <p>Qui dura supra fata, Francisci genus,</p>
+    <p>Vltro insolescit, arguit Regis nefas,</p>
+    <p>Et concitatâ plebe defendit Papam.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Nefasne Regis arguit?
+    <hi rendition="simple:italic">Gran.</hi> Sic est, nefas.</p>
+    <p>Damnat Bolenae nuptias, Ecclesiae</p>
+    <p>Negat Anglicanae maximum Regem caput.</p>
+    <p>Istos secutus populus in partes abit.</p>
+    <p>Sic tota perditur Anglia.
+    <hi rendition="simple:italic">Henr.</hi> O sacrum Genus!</p>
+    <p>Coenobiorum nulla perduret Domus;</p>
+    <p>Iniicite flammas, pellite infundam luem,</p>
+    <p>Abeant, recedant, exulent, fato occidant.</p>
+    <p><hi rendition="simple:italic">Senat. 1.</hi> Carthusiana Gens
+    quoque in partes abit.</p>
+    <p>Regem fateri Ecclesiae non vult caput.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Etiam hi per ignes
+    ultimum fatum ferant;</p>
+    <p>Exterminate, morte delictum luent.</p>
+    <p><hi rendition="simple:italic">Sen. 2.</hi> Nec hoc iuvabit; una
+    mors Mori omnium</p>
+    <p>Terrebit animos. <hi rendition="simple:italic">Henr.</hi>
+    occidat, pereat, cadat.</p>
+    <p>Vel me supremum patriae dicat caput.</p>
+  </div>
+  <div type="level2" xml:id="scena-iv.-3">
+    <head>SCENA IV.</head>
+    <p>Morus, Aloysia, Margareta.</p>
+    <p><hi rendition="simple:italic">Morus.</hi></p>
+    <p>Quid cara Coniux? carcer hic non te decet.</p>
+    <p>Nec iste noster lachrymas poscit labor.</p>
+    <p><hi rendition="simple:italic">Aloysia.</hi> Ne patere, More,
+    coniugis lachrymas tuae.</p>
+    <p>Cernis dolorem, magnus excedit modum,</p>
+    <p>Tu redde te mihi coniugem; Coniux potes.</p>
+    <p>Num me relinques? Patriam? Natam tuam?</p>
+    <p>O chare Coniux, si quid est in te mei.</p>
+    <p>O chare Coniux, si quid hae lachrymae queunt,</p>
+    <p>Per te, per istud pectoris Numen tui,</p>
+    <p>Per me, per istas lachrymas, Coniux, meas</p>
+    <p>Miserere, Coniux, liberorum et coniugis.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Et liberorum, et
+    coniugis vivo memor.</p>
+    <p><hi rendition="simple:italic">Alo.</hi> Miserere vitae.
+    <hi rendition="simple:italic">Mo.</hi> Num meae?
+    <hi rendition="simple:italic">Alo.</hi> Coniux tuae.</p>
+    <p>Bis forte denos vivere annos hic potes.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Bis forte denos? Numerus
+    annorum est brevis,</p>
+    <p>Æternitate nemo mutet qui sapit,</p>
+    <p>Sollicita tolle lachrymas, Moro est bene.</p>
+    <p><hi rendition="simple:italic">Aloys.</hi> Bene, crede Coniux,
+    coniugi non est tuae.</p>
+    <p>Mihi cuncta pereunt, si peris; quae te dies</p>
+    <p>Mihi maritum tollet, haec vitam auferet.</p>
+    <p>Tu vita nostra es, heu dies! heu heu dies!</p>
+    <p>Ego te peremptum claudere hoc possim sinu?</p>
+    <p>Et istud oris cernere extinctum iubar?</p>
+    <p>O spes inanes! vulnere ô quanto meum</p>
+    <p>Fortuna pectus laedis! ô Coniux! tuae,</p>
+    <p>Lux extitisti patriae, nunc es probrum;</p>
+    <p>Nuper nitebas Angliae primum decus,</p>
+    <p>Nunc dignitate carcer exutum tenet.</p>
+    <p>Viros vicesque More, fortunae subis.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Sors omnis in me est,
+    quae mea est; non est viri</p>
+    <p>Timere sortem; quisquis est sapiens suâ</p>
+    <p>Spe vincit omne sortis adversae malum</p>
+    <p><hi rendition="simple:italic">Aloys.</hi> Sperare quid vis certa
+    si mors sit tibi?</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Mortem quod ultra est.
+    <hi rendition="simple:italic">Aloysia.</hi> Istud est quodquod
+    bonum.</p>
+    <p>Sperare fas est semper, haud semper mori,</p>
+    <p>Simulare mentem iam potes. <hi rendition="simple:italic">Mo.</hi>
+    Nunquam bonus</p>
+    <p>Simulare mentem vir potest quando suae</p>
+    <p>Causam salutis sustinet; fictas Deus,</p>
+    <p>Odit loquelas. <hi rendition="simple:italic">Aloys.</hi> Ista te
+    perdet tua</p>
+    <p>O More probitas. <hi rendition="simple:italic">Mo.</hi> perdere
+    haud probitas potest.</p>
+    <p>Sincera semper pectora extollit Deus.</p>
+    <p><hi rendition="simple:italic">Aloys.</hi> Sed fama nostrae
+    perditur tecum domus.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Perire iusti fama non
+    potest viri;</p>
+    <p>Augebo famam mortuus. Coniux tuas</p>
+    <p>Compesce lachrymas; Nata tu luctus tene.</p>
+    <p><hi rendition="simple:italic">Marg.</hi> Vtinam liceret; si quid
+    est ultra, dabo.</p>
+    <p>Obtemperare solus an Regi nequis?</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Obtemperare non licet
+    Regi suo,</p>
+    <p>Obtemperando laeditur quando Deus.</p>
+    <p><hi rendition="simple:italic">Marg.</hi> At dubia res est,
+    flectere hic mentem potes.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Res dubia non est, quam
+    facit certam fides.</p>
+    <p>Ecclesiarum Pontifex quod sit caput</p>
+    <p>Ius omne dicit, prisca decernit fides.</p>
+    <p><hi rendition="simple:italic">Marg.</hi> Roffensis ille Praesul
+    hanc mentem facit.</p>
+    <p><hi rendition="simple:italic">Moru.</hi> Veneror coloque
+    Praesulem, sanctum virum,</p>
+    <p>Fuit ista pridem nostra mens.
+    <hi rendition="simple:italic">Marg.</hi> At tot tamen</p>
+    <p>Iurant ubique praesules, iurant senes,</p>
+    <p>Iuvenesque docti, Nobiles, sancti viri.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Plures recusant.
+    Reliquus hoc orbis negat,</p>
+    <p>Quod hi fatentur. Sentiunt aliter Patres</p>
+    <p>Fidei Magistri. <hi rendition="simple:italic">Marg.</hi> Regis
+    edictum est tui,</p>
+    <p>Probat Senatus Angliae, tune hoc parens</p>
+    <p>Solus negabis? <hi rendition="simple:italic">Morus.</hi> Ipsa sic
+    ratio iubet</p>
+    <p>Pietasque, Nata; quod facit certum fides</p>
+    <p>Lex nulla Regum tollit. <hi rendition="simple:italic">Marg.</hi>
+    At vereor parens.</p>
+    <p><hi rendition="simple:italic">Mo.</hi> Quid tu vereris Nata?
+    <hi rendition="simple:italic">Ma.</hi> Quod nimium gemam.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Meamne mortem? nullus
+    hoc pectus timor,</p>
+    <p>Vis nulla vincet; spem facit tantam Tonans,</p>
+    <p>Non merita vitae. Qui dedit mentem, dabit</p>
+    <p>Vires benignus. Nata quid rursus gemis?</p>
+    <p><hi rendition="simple:italic">Marg.</hi> At tota Dominum nostra
+    te Domus gemit.</p>
+    <p>Et ecce misera se enecat luctu parens.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Vtinam dolorem tollere
+    hunc vestrum queam.</p>
+    <p>Sedabit illum cuncta qui sedat Deus.</p>
+    <p>Coniux Vale. <hi rendition="simple:italic">Aloysia.</hi> Valere
+    sine te non queo.</p>
+    <p><hi rendition="simple:italic">Mo.</hi> Et tu valebis Nata;
+    <hi rendition="simple:italic">Marg.</hi> Nempe sine patre.</p>
+    <p>O dura vita Patre quae tanto caret.</p>
+  </div>
+  <div type="level2" xml:id="scena-v.-4">
+    <head>SCENA V.</head>
+    <p>Granmerus, Morus, Senatores.</p>
+    <p><hi rendition="simple:italic">Granmerus.</hi></p>
+    <p>Hic Morus adsit; Regis edictum iubet;</p>
+    <p>Vivere nocentes namque non debent diu.</p>
+    <p>Hoc est saluti publicae pignus novum</p>
+    <p>Servare Regum iussa. More, dum vides</p>
+    <p>Iustum hoc tribunal, loquere, quod verum decet</p>
+    <p>Probumque Regis subditum, sapere hîc licet.</p>
+    <p><hi rendition="simple:italic">Μorus.</hi> Regi fidelis subditus
+    semper fui;</p>
+    <p>Sum, vivo talis. Laedere hic nullum volo;</p>
+    <p>Laesisse nunquam mens fuit; bene omnibus</p>
+    <p>Volo, precorque. <hi rendition="simple:italic">Gran.</hi> Restat
+    hoc tantum, caput.</p>
+    <p>Agnosce Regem Ecclesiae.
+    <hi rendition="simple:italic">Morus.</hi> Non est caput.</p>
+    <p>Istud fateri non queo. <hi rendition="simple:italic">Granm.</hi>
+    Semper tua</p>
+    <p>Haeret voluntas pertinax: cogi potes:</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Certe est iniquum: cogat
+    et mortem inferat;</p>
+    <p>Dum vita corpus hoc reget, mens haec erit.</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Ingrate More, nil tuo
+    Regi dabis?</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Hoc corpus, atque hanc,
+    quam petit vitam dabo,</p>
+    <p>Rex pectus istud movit, et nostram fidem;</p>
+    <p>Amo fidelis subditus Regem meum.</p>
+    <p>Probare legem quam tulit nunquam queo.</p>
+    <p>Lex ista Regi sit tamen.
+    <hi rendition="simple:italic">Senat.</hi> Solus sapit;</p>
+    <p>Antistites tot inter hic Morus sapit;</p>
+    <p>Et optimates, et Senatus desipit.</p>
+    <p>Rex errat, errant quot quot hanc legem probant.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Nil optimates Angliae
+    paucos moror;</p>
+    <p>Mecum ipse sentit orbis, et patrum vetus</p>
+    <p>Ita sensit aetas. <hi rendition="simple:italic">Senat.</hi>
+    Perduellis, proditor</p>
+    <p>Et regis hostis Morus est.
+    <hi rendition="simple:italic">Mor.</hi> Nunquam fui:</p>
+    <p>Regi fidelis hactenus servus fui;</p>
+    <p>Moriar fidelis; testor aethereas plagas,</p>
+    <p>Nostraeque testor conscium mentis Deum,</p>
+    <p>Nec fictus animus, ficta nec lingua est mihi.</p>
+    <p>Felix, valensque Rex sit, et Regnum, precor.</p>
+    <p><hi rendition="simple:italic">Senat. 2.</hi> Tot verba frustra;
+    tollat ambages; probas</p>
+    <p>Regisne legem More? <hi rendition="simple:italic">Morus.</hi>
+    Dixi, non probo.</p>
+    <p><hi rendition="simple:italic">Sen. 3.</hi> Haeremus igitur? Regis
+    est laesi reus.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Pronuncietur; mutet aut
+    mentem prius.</p>
+    <p><hi rendition="simple:italic">Senat. 3.</hi> Te perduellem et
+    Regis offensi reum</p>
+    <p>Pronunciamus. Lictor I Moro caput</p>
+    <p>Rescinde ferro, vixerit.
+    <hi rendition="simple:italic">Morus.</hi> grates tibi,</p>
+    <p>Æterne Genitor, liber et gaudens ago.</p>
+    <p>Haec grata mortis causa, cum pro te mori</p>
+    <p>Hodie licebit. <hi rendition="simple:italic">Senat. 1.</hi> Sit
+    satis, tolle hinc moras.</p>
+    <p>Comitabor, illum Lictor abductum trahe.</p>
+  </div>
+  <div type="level2" xml:id="scena-vi.-4">
+    <head>SCENA VI.</head>
+    <p>Morus, Senator 1, Lictor, Religio Catholica.</p>
+    <p><hi rendition="simple:italic">Morus.</hi></p>
+    <p>Ne te fatiga, libero en promptus pede</p>
+    <p>Vltro praeibo; gratior nunquam mihi</p>
+    <p>Illuxit Æther; Angliae reddam meae</p>
+    <p>Mortale corpus, spiritum reddam Deo.</p>
+    <p><hi rendition="simple:italic">Lictor.</hi> At exuenda More,
+    vestis est tua.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Tua ista, Lictor,
+    vestis est, vestem cape;</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Et exuetur Angliae
+    primum decus?</p>
+    <p>Prudentiae, Virtutis, officii decus?</p>
+    <p>Et corpus istud, inclyta Mentis Domus,</p>
+    <p>Arx illa Honoris, et thronus Constantiae,</p>
+    <p>Nudata pandet membra? <hi rendition="simple:italic">Sen.</hi>
+    Nunc dum tempus est;</p>
+    <p>Te verba More proloqui ad plebem, veto.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Etiam hoc iniquum est;
+    liceat hoc saltem loqui.</p>
+    <p>Regis fidelis servus, et servus Dei</p>
+    <p>Fidem Quiritum morte consigno meâ.</p>
+    <p>Te chara testor Anglia, occumbo tuus.</p>
+    <p>Et Christianus sanguinem effundo meum.</p>
+    <p>Tu, Christe robur adde, nil mortem moror.</p>
+    <p><hi rendition="simple:italic">Lictor.</hi> Ignosce, More cogor,
+    ut mortem inferam.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Mors ista grata est
+    Lictor, et grates ago.</p>
+    <p>Habes amicum, pectus amplectar tuum,</p>
+    <p>Et pacis istud osculum accipies meae,</p>
+    <p>Et pignus istud. <hi rendition="simple:italic">Relig.</hi> O
+    Tonans? Et hoc caput</p>
+    <p>Caput hoc secabit impiae ferrum manus?</p>
+    <p>Et illa cervix, Angliae haec cervix cadet?</p>
+    <p><hi rendition="simple:italic">Lictor.</hi> Permitte vultum, More,
+    velabo tuum.</p>
+    <p><hi rendition="simple:italic">Morus.</hi> Velabo memet, Linteo
+    hoc utar meo.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> O sol recede, en
+    Angliae Phoebus perit.</p>
+    <p>Coelum tenebras indue, en Morus perit;</p>
+    <p>Velatur illud Luminis clari caput.</p>
+    <p><hi rendition="simple:italic">Mor.</hi> Miserere Iesu, Lictor, en
+    cervix patet.</p>
+  </div>
+  <div type="level2" xml:id="scena-vii.-3">
+    <head>SCENA VII.</head>
+    <p>Religio, Margareta, Angelus.</p>
+    <p><hi rendition="simple:italic">Religio.</hi></p>
+    <p>Actum est, recisum est Angliae toti caput.</p>
+    <p>Britanna Tellus, en tuum cecidit decus.</p>
+    <p>Britanna Tellus, en tuum columen iacet.</p>
+    <p>Britanna Tellus, en iaces, ipsa hîc iaces?</p>
+    <p>Hoc ecce Mori funus est funus tuum.</p>
+    <p>Moriuntur omnes unus hic quando perit.</p>
+    <p>Heu More quantus Angliae est luctus tuae!</p>
+    <p><hi rendition="simple:italic">Marg.</hi> Ergo peractum est?
+    sufficit nunc ut gemam.</p>
+    <p><hi rendition="simple:italic">Rel.</hi> Lachrymetur ut tota
+    Anglia, hoc funus sat est,</p>
+    <p><hi rendition="simple:italic">Mar.</hi> Et nil relictum est? et
+    nihil? vitae nihil?</p>
+    <p>Vbi vultus ille, heu, Angliae quondam iubar!</p>
+    <p>Et reticet os, os aequitatis organum?</p>
+    <p>Et corpus illud Angliae fulcrum suae;</p>
+    <p>Examine, mutum, mortuum, abiectum iacet?</p>
+    <p>Henrice facinus hoc tuum est; iussu tuo</p>
+    <p>Iacet peremptus, qui tuis flecti dolis</p>
+    <p>Donisque nunquam potuit. Ah, ah, ah Parens!</p>
+    <p>Ego Nata certum iam colo Numen tuum;</p>
+    <p>Ego Nata et Manes veneror, et colo tuos.</p>
+    <p>At dum sepulchro corpus hoc condo tuum</p>
+    <p>Lachrymas, supremum filiae munus, cape.</p>
+    <p><hi rendition="simple:italic">Reli.</hi> Quid agam? quid eheu?
+    cuius implorem manum?</p>
+    <p>Et hinc abibo? vivet? et vivet diu</p>
+    <p>Hoc fulminandum perfidi Regis caput?</p>
+    <p>Et non tonabis magne Coelituum parens?</p>
+    <p>Et non dehiscet Terra? non totus simul</p>
+    <p>Patebit Orcus? <hi rendition="simple:italic">Ang.</hi> Religio,
+    spera bene,</p>
+    <p>Vindicta Coelos pulsat, et poenas scelus</p>
+    <p>Inusitatas sentiet. Sero tamen,</p>
+    <p>Sero redibis; interim clades tui</p>
+    <p>Ferant Alumni, exilia, carceres, cruces</p>
+    <p>Latere debent, Haeresis regnum suâ</p>
+    <p>Tenebit arte, et foeminae Imperium grave</p>
+    <p>Pati est necessum. Fata decernent viam.</p>
+    <p>Quae Christianam regio contemnit fidem,</p>
+    <p>Vix recipit unquam, vel graves poenas luit.</p>
+    <p>Sunt debitarum longa poenarum mala.</p>
+    <p><hi rendition="simple:italic">Rel.</hi> Etiamne nostri perferent?
+    <hi rendition="simple:italic">Ang.</hi> Multi ferent.</p>
+    <p>Generosa vitam pectora effundent suam.</p>
+    <p>Etiam hinc cruore Martyres pulchri suo</p>
+    <p>Scandent Olympum. Nulla mors vincet bonos:</p>
+    <p>Hyberniaeque et Angliae campos cruor</p>
+    <p>Replebit altos, sed fremet frustra furor.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Patiemur ergo, fata
+    decernent modum.</p>
+    <p>Miserere tamen ô Angliae tandem Deus.</p>
+  </div>
+  <div type="level2" xml:id="scena-viii.-2">
+    <head>SCENA VIII.</head>
+    <p>Henricus Rex, Brianus, Senat. 1, Bolena, Varamus.</p>
+    <p><hi rendition="simple:italic">Henricus.</hi></p>
+    <p>Heu pallidarum longa curarum cohors!</p>
+    <p>Pax nulla Regi est; intumescit hoc meus</p>
+    <p>Crescitque pondus corporis, nec me metus</p>
+    <p>Vnquam relinquit. Morus an fato occidit?</p>
+    <p><hi rendition="simple:italic">Senat. 1.</hi> Vixit: fidelis
+    Patriae et Regi meo</p>
+    <p>Occumbo servus, inquit, et patrum fidem</p>
+    <p>Moriendo servo. <hi rendition="simple:italic">Henr.</hi> More,
+    More quo meos</p>
+    <p>Trahis dolores? <hi rendition="simple:italic">Senat.</hi>
+    Christianus et Papam,</p>
+    <p>Confessus obiit. <hi rendition="simple:italic">Henr.</hi> Semper
+    hic constans fuit.</p>
+    <p><hi rendition="simple:italic">Varamus.</hi> Catharina vixit, illa
+    Rex coniux tua;</p>
+    <p>Regina quondam, vixit. <hi rendition="simple:italic">Henr.</hi>
+    hoc nostro est novum</p>
+    <p>Sub corde vulnus; vixit?
+    <hi rendition="simple:italic">Varam.</hi> Has ad te dedit</p>
+    <p>Moriens tabellas; inspice et totas lege;</p>
+    <p>Amore Regis saucia occubuit sui;</p>
+    <p>Sollicita pro te semper, ô quoties novas</p>
+    <p>Quaesivit ipsa lachrymas, quoties ait</p>
+    <p>Moriens, marito Christe condona meo.</p>
+    <p><hi rendition="simple:italic">He.</hi> Perlege tabellas; turbat
+    hunc animum dolor!</p>
+    <p><hi rendition="simple:italic">Leguntur Reginae Catharinae ad
+    Regem Litterae.</hi></p>
+    <p><hi rendition="simple:italic">Var.</hi> Hae sunt tabellae.
+    <hi rendition="simple:italic">He.</hi> fletus haud noster sat
+    est,</p>
+    <p>Lugendus ipso maior est luctu dolor.</p>
+    <p>Et heu amores illa contemnit meos?</p>
+    <p>Illa, heu, Bolena? <hi rendition="simple:italic">Brian.</hi> Iam
+    tuae est Aulae probrum;</p>
+    <p>Et impudica Regium spurcat thorum;</p>
+    <p>Vulgare scortum est; fratris amplexu sui</p>
+    <p>Potita gaudet; una Reginam omnibus</p>
+    <p>Libido facilem subiicit. <hi rendition="simple:italic">Henr.</hi>
+    Iuro caput,</p>
+    <p>Istudque Sceptrum iuro, iam poenas dabis.</p>
+    <p><hi rendition="simple:italic">Bria.</hi> En ipsa prodit.
+    <hi rendition="simple:italic">Bol.</hi> Nempe me rumor tuam</p>
+    <p>Accusat ergo Coniugem? quid Rex? quid est?</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Depone sceptrum.
+    <hi rendition="simple:italic">Bo.</hi> Nempe deponam meum</p>
+    <p>Regina sceptrum? <hi rendition="simple:italic">Henr.</hi>
+    Verticis ponas decus,</p>
+    <p>Ponas coronam; iubeo, si non est satis,</p>
+    <p>Trahite impudicam: Vile scortum, tu meam</p>
+    <p>Aulam, thorumque polluis? <hi rendition="simple:italic">Bο.</hi>
+    Coniux. <hi rendition="simple:italic">He.</hi> tace.</p>
+    <p>Non es, recede, non mea es Coniux, tace.</p>
+    <p><hi rendition="simple:italic">Bolen.</hi> Et me repelles cordis
+    idolum tui?</p>
+    <p><hi rendition="simple:italic">Hen.</hi> Scortum repellam; tollite
+    hoc sacrum caput;</p>
+    <p>Vidi ipse, vidi; Regiae es scortum Domus.</p>
+    <p>Abi hinc, recede; <hi rendition="simple:italic">Bo.</hi> Per tuum
+    pectus precor;</p>
+    <p><hi rendition="simple:italic">He.</hi> Abi hinc, recede.
+    <hi rendition="simple:italic">Bo.</hi> Per tuum sceptrum precor.</p>
+    <p><hi rendition="simple:italic">He.</hi> Abi hinc, recede.
+    <hi rendition="simple:italic">Bol.</hi> si mihi Coniux negas</p>
+    <p>Tuos amores, da meam hanc vitam mihi.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Moriatur; ite,
+    abstrahite, moriatur cito;</p>
+    <p>Et impudicum concidat ferro caput.</p>
+    <p><hi rendition="simple:italic">Bo.</hi> O magne Rex!
+    <hi rendition="simple:italic">Hen.</hi> iam senties regem; peri.</p>
+    <p><hi rendition="simple:italic">Bo.</hi> O chare Coniux.
+    <hi rendition="simple:italic">Henr.</hi> Non tibi charus fui.</p>
+    <p>Cadat impudica ferreâ cervix manu.</p>
+    <p>Abi hinc, et oculos libera aspectu meos.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Bolena cede, iam ratum
+    est, debes mori,</p>
+    <p>Ista est voluntas Regis, I Lictor, feri.</p>
+    <p><hi rendition="simple:italic">Bo.</hi> Miserere Rex! miserere
+    coniux! ô Tonans!</p>
+  </div>
+  <div type="level2" xml:id="scena-ix.">
+    <head>SCENA IX.</head>
+    <p>Religio, Angelus, Brianus.</p>
+    <p><hi rendition="simple:italic">Religio.</hi></p>
+    <p>Haec iusta poena est, nullus impune est nocens;</p>
+    <p>Animi insolentis semper est regnum breve.</p>
+    <p>Et sera secum culpa vindictam trahit.</p>
+    <p>Benignus ille Machinae aethereae Tonans</p>
+    <p>Lento minatur brachio, tandem tamen</p>
+    <p>Tonante vibrat flammeos coelo globos,</p>
+    <p>Iustusque durâ vindicat poenâ nefas.</p>
+    <p>Iacet en Bolena, nempe principium mali</p>
+    <p>Et causa luctus. O Tonans nunquid meo</p>
+    <p>Finem labori sero, sed sero, dabis?</p>
+    <p><hi rendition="simple:italic">Angelus.</hi> Etiam iacebit ipse
+    Rex, qui in te furit,</p>
+    <p>Stimulosque Mentis consciae demens feret.</p>
+    <p>Iam iam laborat intus, et seipsum suo</p>
+    <p>Fatigat aestu; longa mors lentus dolor.</p>
+    <p><hi rendition="simple:italic">Religio.</hi> O iuste vindex !
+    pereat, et tandem meo</p>
+    <p>Reddar labori; pereat, et rursum meos</p>
+    <p>Cultus resumam; pereat et vivant mei.</p>
+    <p><hi rendition="simple:italic">Angelus.</hi> Certum est, peribit;
+    iam perit dum se videt</p>
+    <p>Perire lente; iam perit dum sustinet</p>
+    <p>Mentis tumultus; iam perit dum iam mori</p>
+    <p>Perculsus horret. Patere quod fatis ratum est.</p>
+    <p>Vnum severae saeculum haud poenae sat est.</p>
+    <p><hi rendition="simple:italic">Bri.</hi> Actum est, supremus
+    tendit in mortem labor,</p>
+    <p>Regisque corpus intumescit amplius,</p>
+    <p>Nec mens dolores ferre, nec moram potest.</p>
+    <p>Tumet ipse vultus, pectus, et pedes tument;</p>
+    <p>At horror intus turbidum pectus quatit.</p>
+    <p>Iam tota tristes Aula singultus trahit.</p>
+    <p>Tremunt et ipsi Principes.
+    <hi rendition="simple:italic">Relig.</hi> Haec est Dei</p>
+    <p>Vindicta iusti; effugere Rex nunquam potest.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> En ille, tantum pondus
+    est sedis grave,</p>
+    <p>Et mortem anhelans turbido aspectu tremit.</p>
+  </div>
+  <div type="level2" xml:id="scena-x.">
+    <head>SCENA X.</head>
+    <p>Granmerus, Henricus Rex, Brianus, Religio.</p>
+    <p><hi rendition="simple:italic">Granmerus.</hi></p>
+    <p>Fatalis hora est, Magne Rex, Corpus tuum</p>
+    <p>Sanguis reliquit; concita mentem et tuos</p>
+    <p>Attolle sensus; maximos Reges quoque</p>
+    <p>Mors una tollit, certa Naturae est via;</p>
+    <p>Et istud alti verticis sacrum iubar</p>
+    <p>Cadet in tenebras. <hi rendition="simple:italic">He.</hi> Sentio
+    et mortem, et meam</p>
+    <p>Instare noctem: turbido afflatos metu</p>
+    <p>Vix tutus artus urgeo: intumui miser,</p>
+    <p>Et ipsa tumidum pondere evincit suo</p>
+    <p>Mens lapsa corpus. <hi rendition="simple:italic">Gra.</hi> erige
+    et mentem et tuos</p>
+    <p>Compone sensus; <hi rendition="simple:italic">Hen.</hi> turba
+    curarum ingerit</p>
+    <p>Se parte ab omni. Restat an aliquid mihi?</p>
+    <p><hi rendition="simple:italic">Bri.</hi> En vita restat.
+    <hi rendition="simple:italic">Hen.</hi> Vita quae mors est mihi.</p>
+    <p>O dura vita! vivus heu mortem traho.</p>
+    <p>Etiamne rexi? Mors veni, mors hanc meam,</p>
+    <p>Abrumpe vitam. <hi rendition="simple:italic">Reli.</hi> Te tuum
+    torquet scelus</p>
+    <p>Intus redundas, iusta iam saevit Dei</p>
+    <p>Manus Tonantis. <hi rendition="simple:italic">He.</hi> heu
+    Tonans! heu heu Tonans!</p>
+    <p>Etiam Monarchas tantus infestat dolor?</p>
+    <p>Vbi sum? quid ego sum? quid fui? quid nunc ero?</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Emota mens est; vincitur
+    pectus metu;</p>
+    <p><hi rendition="simple:italic">Βria.</hi> Vt terror intus, terror
+    exterius premit?</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Haec poena mentis
+    consciae est! hoc est scelus;</p>
+    <p>Scelesta semper vita sic mortem timet.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> O misera Regum vita! Vah
+    etiam mori?</p>
+    <p>Et effluentis spatia Naturae ruunt?</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Spes certa firmet
+    pectus; <hi rendition="simple:italic">He.</hi> O spes! O mea</p>
+    <p>Vbi spes relicta est? <hi rendition="simple:italic">Gra.</hi> In
+    Deo. <hi rendition="simple:italic">He.</hi> Nempe in Deo.</p>
+    <p>Post tot cruentas capitis innocui neces;</p>
+    <p>Eversa post tot templa, tot raptas opes.</p>
+    <p><hi rendition="simple:italic">Bria.</hi> Firmata per te est
+    Angliae fides tua!</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Eversa per me est
+    Angliae fides meae.</p>
+    <p>Eversa per me est. <hi rendition="simple:italic">Gran.</hi> Tot
+    tuam probant fidem.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Plures recusant; qui
+    timet Regem, probat;</p>
+    <p>Vtinam probare nemo potuisset fidem.</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Turbata mens est; vita
+    paulatim effluit,</p>
+    <p>Seseque nescit. <hi rendition="simple:italic">Relig.</hi>
+    territat mentem scelus,</p>
+    <p>Et acta pectus vita confundit metu.</p>
+    <p><hi rendition="simple:italic">Bri.</hi> Turbatur iterum.
+    <hi rendition="simple:italic">He.</hi> Nulla iam restat quies.</p>
+    <p>Actum est, peractum est. O salus!
+    <hi rendition="simple:italic">Gra.</hi> semper tibi</p>
+    <p>Fuit salutis cura. <hi rendition="simple:italic">Henr.</hi> Nempe
+    dum meam</p>
+    <p>Quaero salutem, perdidi; non est salus.</p>
+    <p>O Anime quid ages? heu, quid heu? quid ages? quid heu!</p>
+    <p><hi rendition="simple:italic">Gran.</hi> Ecclesiae caput
+    Anglicanae Rex times?</p>
+    <p>Tibi vita restat. <hi rendition="simple:italic">Henr.</hi>
+    Anglicanam Ecclesiam,</p>
+    <p>Heu sera fata! perdidi. O miserum caput!</p>
+    <p>Tuum ad tribunal, Christe, me Regem vocas?</p>
+    <p>Imo imo tolle, effulmina, non sim amplius.</p>
+    <p>Heu ad tribunal? Sim nihil, non sim amplius.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> En Anglicanae Pontifex
+    Ecclesiae;</p>
+    <p>En qui cruorem Praesulum effudit furens;</p>
+    <p>En qui supremi iura Pontificis negat,</p>
+    <p>Summi tribunal Iudicis demens pavet.</p>
+    <p><hi rendition="simple:italic">Brian.</hi> Vix restat aliquid.
+    <hi rendition="simple:italic">Henr.</hi> Quam malum est heu sic
+    mori!</p>
+    <p>Vixisse sic quam nunc malum est! nulla est salus,</p>
+    <p>Spes nulla, Proceres O mei! quantus meum</p>
+    <p>Infestat ardor pectus? Huc vinum date.</p>
+    <p><hi rendition="simple:italic">Relig.</hi> Extinguet istum nullus
+    ardorem liquor.</p>
+    <p><hi rendition="simple:italic">Granm.</hi> Hîc sapere Rex in morte
+    iam debes tuâ.</p>
+    <p><hi rendition="simple:italic">Henr.</hi> Actum est, peractum est,
+    cunta perdidimus. <hi rendition="simple:italic">Brian.</hi>
+    Iacet,</p>
+    <p>Extincta vita est. <hi rendition="simple:italic">Relig.</hi> Rege
+    de tanto nihil,</p>
+    <p>Nisi hoc cadaver restat, et longus dolor.</p>
+    <p><hi rendition="simple:italic">Gra.</hi> Agedum efferatur; Anglia
+    hoc funus tuum est.</p>
+  </div>
+  <div type="level2" xml:id="scena-xi.">
+    <head>SCENA XI.</head>
+    <p>Religio Catholica.</p>
+    <p>O iuste coeli Rector! o vindex Tonans!</p>
+    <p>Occumbit igitur hostis, atque hostis tuus</p>
+    <p>Meusque, nunquid Angliam aspicies tuam?</p>
+    <p>Aliquando nunquid? saeculum si sit satis,</p>
+    <p>Etiam moremur saeculum; lateat fides,</p>
+    <p>Lateant fideles; foeminae Imperium pati,</p>
+    <p>Nihil recusant; pectore infracto necem</p>
+    <p>Pro te subibunt; exilia, tetros specus,</p>
+    <p>Et quod iubebit efferae mentis furor,</p>
+    <p>Ferent parati; sed tamen, tandem tamen</p>
+    <p>Redire dona, Regibus veram novis</p>
+    <p>Infunde mentem, fac tuam noscant fidem;</p>
+    <p>Et rursus Anglos Roma connumeret suos,</p>
+    <p>Rursusque Hibernos Religio iactem meos.</p>
+    <p>Aliquando Christe! per tuam mortem peto.</p>
+    <p>Aliquando Christe! per tuam crucem peto.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS TRAGŒDIÆ.</p>
+  <p>IN HENRICVM NICOLAI VERNVLÆI</p>
+  <p>Publici Eloquentiae Professoris Lovanii.</p>
+  <p><hi rendition="simple:italic">Henrici</hi> furias, et lamentabile
+  fatum</p>
+  <p>Eversae fidei, quo facta Britannia prava est,</p>
+  <p>Distulit in Scenam, credo, producere Musa,</p>
+  <p>Donec tu Tragicos, mi Vernulaee Cothurnos</p>
+  <p>Indueres, Grudiumque gravi pulsante theatrum,</p>
+  <p>Suspirare gradu faceres. Nos vidimus, heu! heu!</p>
+  <p>Nuper in Orchestra flammas, et funera regni</p>
+  <p>Anglica, cum Patriam cineraret adustus amore</p>
+  <p><hi rendition="simple:italic">Henricus;</hi> cineres hoc, Lector,
+  carmine sparsos</p>
+  <p>Collige: Aragonios, dum praecipit Haeresis audax,</p>
+  <p>Luxuries spurcat thalamos, sternitque Bolenae</p>
+  <p>Incestum cum Rege thorum: Dein nescia coeli</p>
+  <p>Impietas Regi persuadet, ut omnia spernat</p>
+  <p>Tarpaei decreta Patris: tum denique structum</p>
+  <p>Porrigit <hi rendition="simple:italic">Henrico</hi> ferrum violenta
+  Tyrannis,</p>
+  <p>Quo diras spargit mortes, sanctique cruoris</p>
+  <p>Flumina Schismaticus Rex elicit. Æthere tandem</p>
+  <p>Vindice (sit serum, coelum nil linquit inultum)</p>
+  <p>Desperans vomit ille animam, clamantque, fremensque</p>
+  <p><hi rendition="simple:italic">Omnia perdidimus</hi>, meritur miser;
+  aulaeumque</p>
+  <p>Scenae illi, ac vitae concludunt fata: Sed illud</p>
+  <p>arte patet rursum Vatis bene Vatis inuncti.</p>
+  <p>Est <hi rendition="simple:italic">Vernulaeus</hi> Tragicorum gloria
+  Vatum</p>
+  <p>Mercurius duplex, et Apollinis optima proles,</p>
+  <p>Quâ prorsâ mortale nihil, vorsâque recludit;</p>
+  <p>Teste loquor praesente; vide hîc metrumque stylumque,</p>
+  <p>Lector, opus solum Octidui; sic bullis et undat</p>
+  <p>Vera Camenarum vena, et non noxia Siren.</p>
+  <p>Hanc audi, lege, delectat, movet, excitat, addit</p>
+  <p>Virtuti vitam, et scelerum portenta trucidat</p>
+  <p>Vitali stupefacta melo. Per me licet, audi,</p>
+  <p>Quae dico, <hi rendition="simple:italic">Livor</hi>, frustra
+  luctaris, in altum</p>
+  <p>Erupit, tulit ille suas ad sidera pennas</p>
+  <p>Cygnus et Aoniae scandit fastigia sedis,</p>
+  <p>In qua nil potis est aeternum; laedere
+  <hi rendition="simple:italic">Vatem</hi>,</p>
+  <p>Nil <hi rendition="simple:italic">Oratorem</hi> aeternum; tu vero
+  Sororum</p>
+  <p>Magne Parens, illi duplices compinge coronas,</p>
+  <p>Ante quibus nulli velasti tempora, Phoebe.</p>
+  <p>ANTONIVS DVÆVS S. T. L.</p>
+  <p>Rhetoricae Professor.</p>
+  <p>HÆC TRAGŒDIA</p>
+  <p>EXHIBITA LOVANII</p>
+  <p>IN PVBLICO THEATRO</p>
+  <p>LVDIS ENCENIALIBVS</p>
+  <p>EGERVNT IN EA</p>
+  <p>INGENVI IVVENES</p>
+  <p>COLLEGII PORCENSIS</p>
+  <p>Alumni et Studiosi.</p>
+  <p><hi rendition="simple:italic">Henricus Rex.</hi></p>
+  <p>Antonius de Monin Namurc.</p>
+  <p><hi rendition="simple:italic">Catharina Regina.</hi></p>
+  <p>Georgius de Humyn Luxemb.</p>
+  <p><hi rendition="simple:italic">Thomas Morus.</hi></p>
+  <p>Georgius Bottinus Marchiensis.</p>
+  <p><hi rendition="simple:italic">Brianus.</hi></p>
+  <p>Ioannes de Traux Castellanus.</p>
+  <p><hi rendition="simple:italic">Longlandus.</hi></p>
+  <p>Gaspar vander Hofstat Malinas.</p>
+  <p><hi rendition="simple:italic">Volsaeus.</hi></p>
+  <p>Petrus Mulderus Syluaeducensis.</p>
+  <p><hi rendition="simple:italic">Campegius.</hi></p>
+  <p>Petrus Scellenius Boxtellanus.</p>
+  <p><hi rendition="simple:italic">Varramus.</hi></p>
+  <p>Nicolaus Bottinus Marchiensis.</p>
+  <p><hi rendition="simple:italic">Religio.</hi></p>
+  <p>Robertus Schutteput Lovanien.</p>
+  <p><hi rendition="simple:italic">Granmerus.</hi></p>
+  <p>Adamus Prudentius Fleuricensi.</p>
+  <p><hi rendition="simple:italic">Senatores.</hi></p>
+  <p>Georgius Pisroux Marchiensis.</p>
+  <p>Ioannes de Saincte Wauriensis.</p>
+  <p>David Clancius Nobilis Hiber.</p>
+  <p><hi rendition="simple:italic">Roffensis Episcopus.</hi></p>
+  <p>Antonius Matthaei Blaruensiensis.</p>
+  <p><hi rendition="simple:italic">Bolena.</hi></p>
+  <p>Philippus Godefridi Belloramus.</p>
+  <p><hi rendition="simple:italic">Haeresis.</hi></p>
+  <p>Franciscus Staes Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Impietas.</hi></p>
+  <p>Ioannes du Molin Orchiacelensis.</p>
+  <p><hi rendition="simple:italic">Tyrannis.</hi></p>
+  <p>Ioannes Genin Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Luxuria et Aloysia.</hi></p>
+  <p>Antonius la Riviere Iprensis.</p>
+  <p><hi rendition="simple:italic">Maria Mori filia, et Ratio.</hi></p>
+  <p>Cornelius Vranx Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Angelus.</hi></p>
+  <p>Ioannes Gogels Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Exules.</hi></p>
+  <p>Ludovicus Vranx Lovaniensis.</p>
+  <p>Carolus Schutteput Lovaniensis.</p>
+  <p>Cornel. de Vleeschouvver Lov.</p>
+  <p><hi rendition="simple:italic">Virgo et Clementia.</hi></p>
+  <p>Eurardus de Bacher Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Virgo et Pietas.</hi></p>
+  <p>Ioannes Hemselmans Lovaniens.</p>
+  <p><hi rendition="simple:italic">Virgo.</hi></p>
+  <p>Lambertus de Vernulz Novohabeanus.</p>
+  <p><hi rendition="simple:italic">Virgo.</hi></p>
+  <p>Andraeas Gall Lovaniensis.</p>
+  <p><hi rendition="simple:italic">Filia Catharinae.</hi></p>
+  <p>Ioannes Grols Lovaniensis.</p>
+</div>
+</body>
+</text>
+</TEI>
