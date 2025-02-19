@@ -137,7 +137,7 @@ Traiecti anno 50.
 
 
 
-## PERSONAE DRAMATIS,
+# 1. PERSONAE DRAMATIS,
 
 seu fabulae interlocutores.
 
@@ -194,7 +194,7 @@ Dein morte sancta spiritali gaudio
 
 Se affecit et suos probosque reddidit.
 
-## PROLOGUS in Hecastum.
+# 2. PROLOGUS in Hecastum.
 
 Quotquot theatro nostro adestis, tum viri
 
@@ -390,7 +390,7 @@ Nempe procedens baratri pavore,
 
 Iudice iusto.
 
-## ACTUS I. SCAENA I.
+# 4. ACTUS I. SCAENA I.
 
 Iambici trimetri.
 
@@ -458,7 +458,7 @@ Prodi, uxor, aedibus, quod aliqua serio
 
 (Priusquam amicum adeam) tibi mandanda sint.
 
-## ACTUS I. SCAENA II.
+# 5. ACTUS I. SCAENA II.
 
 Trimetri ut superiores.
 
@@ -620,7 +620,7 @@ Vetera recocta (modo integra) inserenda sunt.
 
 ≤line=205≥ Heus, Daetre. ------------
 
-## ACTUS I. SCAENA III.
+# 6. ACTUS I. SCAENA III.
 
 Trimetri.
 
@@ -680,7 +680,7 @@ Quod hinc mihi concilio pacem et gratiam.
 
 Proripio me, ne forte erus me hic opprimat.
 
-## ACTUS I. SCAENA IV.
+# 7. ACTUS I. SCAENA IV.
 
 Tetrametri.
 
@@ -814,7 +814,7 @@ Laetitiae ubique symbola
 
 Pars atque sors mortalibus.
 
-## ACTUS II. SCAENA I.
+# 9. ACTUS II. SCAENA I.
 
 Trimetri.
 
@@ -870,7 +870,7 @@ Recta tamen vadam in macellum, uti videam
 
 Occurrerit, viae laborem ademerit.
 
-## ACTUS II. SCAENA II.
+# 10. ACTUS II. SCAENA II.
 
 Tetrametri.
 
@@ -971,7 +971,7 @@ Quid digne ero respondeas, fugisse si resciverit?
 
 Non nos quidem hic momorderit; si quid loquendum, ego eloquar.
 
-## ACTUS II. SCAENA III.
+# 11. ACTUS II. SCAENA III.
 
 Tetrametri.
 
@@ -1028,7 +1028,7 @@ Mentes suorum cogere? PHI. Eccam eram sua cum ancillula.
 
 Heros, vale; nam est quod agam in aedibus. NOM. Adolescentule, vale.
 
-## ACTUS II. SCAENA IV.
+# 12. ACTUS II. SCAENA IV.
 
 Trimetri.
 
@@ -1116,7 +1116,7 @@ Ei marito quod velis referrier.
 
 Tantisper hic manebo dum peregeris.
 
-## ACTUS II. SCAENA V.
+# 13. ACTUS II. SCAENA V.
 
 Tetrametri.
 
@@ -1171,7 +1171,7 @@ Si forte venari queam, viro meo quid nuntiet.
 
 Ipsusque adit me denuo. ------------
 
-## ACTUS II. SCAENA VI.
+# 14. ACTUS II. SCAENA VI.
 
 Tetrametri.
 
@@ -1269,7 +1269,7 @@ Profer, puer, diploma divinaeque legis codices.
 
 PU. Hem tibi, domine, diploma divinaeque legis codices.
 
-## ACTUS II. SCAENA VII.
+# 15. ACTUS II. SCAENA VII.
 
 Tetrametri.
 
@@ -1391,7 +1391,7 @@ Sed ecce Philomathes adest, gnatus meus iuvenior; hic
 
 ≤line=555≥ Mihi, spero post has litteras lectas feret solacium.
 
-## ACTUS II. SCAENA VIII.
+# 16. ACTUS II. SCAENA VIII.
 
 Trimetri.
 
@@ -1489,7 +1489,7 @@ Fastusve regius, sed horror ac stupor
 
 HEC. Hoc dixeris, cum ipsum loquentem audiveris.
 
-## ACTUS II. SCAENA IX.
+# 17. ACTUS II. SCAENA IX.
 
 Trimetri.
 
@@ -1711,7 +1711,7 @@ Petam supremum Iudicem. NOM. Sequere ilico.
 
 Tu quoque, puer, cape sarcinam. Migremus. PU. Hem.
 
-## ACTUS II. SCAENA X.
+# 18. ACTUS II. SCAENA X.
 
 Trimetri.
 
@@ -1807,7 +1807,7 @@ Tam diu erit impius impius;
 
 Quantisper ille in gloria.
 
-## ACTUS III. SCAENA I.
+# 20. ACTUS III. SCAENA I.
 
 Trimetri.
 
@@ -1851,7 +1851,7 @@ Se primus ingerit cum amicis Daemones:
 
 ≤line=770≥ Is primiter mihi modo conveniendus est.
 
-## ACTUS III. SCAENA II.
+# 21. ACTUS III. SCAENA II.
 
 Trimetri.
 
@@ -1951,7 +1951,7 @@ Nihil est quod ii tibi negaverint. Vale!
 
 HEC. Ut hoc amici frigidum solacium.
 
-## ACTUS III. SCAENA III.
+# 22. ACTUS III. SCAENA III.
 
 Trimetri.
 
@@ -2051,7 +2051,7 @@ Mihi obsequentes atque comites reddere.
 
 Eccos meum ob malum madentes lacrimis.
 
-## ACTUS III. SCAENA IV.
+# 23. ACTUS III. SCAENA IV.
 
 Trimetri.
 
@@ -2217,7 +2217,7 @@ Ocius adeste, singuli vernaculi,
 
 Egredimini. ------------
 
-## ACTUS III. SCAENA V.
+# 24. ACTUS III. SCAENA V.
 
 Trimetri.
 
@@ -2257,7 +2257,7 @@ Quis intus est garritus? Ecquis exiet?
 
 ≤line=960≥ Ipsa uxor est habetque quod fert aegrius.
 
-## ACTUS III. SCAENA VI.
+# 25. ACTUS III. SCAENA VI.
 
 Trimetri.
 
@@ -2351,7 +2351,7 @@ HEC. O languidum solacium, si quid mihi
 
 Male mortuo dispertias. ------------
 
-## ACTUS III. SCAENA VII.
+# 26. ACTUS III. SCAENA VII.
 
 Trimetri.
 
@@ -2465,7 +2465,7 @@ Ne (quod absit) temporalem
 
 ≤line=1055≥ Mors perennis aggravet.
 
-## ACTUS IV. SCAENA I.
+# 28. ACTUS IV. SCAENA I.
 
 Trimetri.
 
@@ -2515,7 +2515,7 @@ Sonat eminus? Iam ingens pavor mentem meam
 
 Et horror artus occupat. ------------
 
-## ACTUS IV. SCAENA II.
+# 29. ACTUS IV. SCAENA II.
 
 Trimetri.
 
@@ -2597,7 +2597,7 @@ Miserrimo. Heu, defectus aegritudine et
 
 Horrore mortis imminentis concido.
 
-## ACTUS IV. SCAENA III.
+# 30. ACTUS IV. SCAENA III.
 
 Trimetri.
 
@@ -2729,7 +2729,7 @@ Si qua pietatis viscera, famuli mei,
 
 Succurrite atque in aedibus reponite.
 
-## ACTUS IV. SCAENA IV.
+# 31. ACTUS IV. SCAENA IV.
 
 Trimetri.
 
@@ -2833,7 +2833,7 @@ Quod beatae porta vitae
 
 Sit pie viventibus.
 
-## ACTUS V. SCAENA I.
+# 33. ACTUS V. SCAENA I.
 
 Trimetri.
 
@@ -2949,7 +2949,7 @@ Quae) feminae, recta petentes hunc locum;
 
 Vultusque honestas dignitatem nuntiat.
 
-## ACTUS V. SCAENA II.
+# 34. ACTUS V. SCAENA II.
 
 Trimetri.
 
@@ -3087,7 +3087,7 @@ Tum in vestibus. Iam reliqua tacitus scripsero,
 
 Loquaculi ne exaudiant et deferant.
 
-## ACTUS V. SCAENA IV.
+# 35. ACTUS V. SCAENA IV.
 
 Trimetri.
 
@@ -3445,7 +3445,7 @@ Liceatque paulum mihi vos alloqui.
 
 FI. Adsumus et a Satane te tuebimur.
 
-## ACTUS V. SCAENA V.
+# 36. ACTUS V. SCAENA V.
 
 Trimetri.
 
@@ -3535,7 +3535,7 @@ Nam cum illo erit mihi longa controversia.
 
 ≤line=1560≥ MO. Vade; interim hic mihi stimulus acuendus est.
 
-## ACTUS V. SCAENA VI.
+# 37. ACTUS V. SCAENA VI.
 
 Trimetri.
 
@@ -3771,7 +3771,7 @@ Latebo in hac cavernula, quo conspicer,
 
 ≤line=1675≥ Morti quid adventus ferat serotinus.
 
-## ACTUS V. SCAENA VII.
+# 38. ACTUS V. SCAENA VII.
 
 Trimetri.
 
@@ -3929,7 +3929,7 @@ Quae neutiquam te horrore mortis liberant?
 
 Sic fugis? PHI. Atat. ------------
 
-## ACTUS V. SCAENA VIII.
+# 39. ACTUS V. SCAENA VIII.
 
 Trimetri.
 
@@ -4065,7 +4065,7 @@ FI. Congrediar, atque cliens minas per me tuas
 
 Si sic agatur, invocandus est Satan.
 
-## ACTUS V. SCAENA IX.
+# 40. ACTUS V. SCAENA IX.
 
 Trimetri.
 
@@ -4107,7 +4107,7 @@ Me ergastulo, sua vibret in me spicula!
 
 FI. Praesente sis animo: ipsa Mors nunc ingruit.
 
-## ACTUS V. SCAENA X.
+# 41. ACTUS V. SCAENA X.
 
 Trimetri.
 
@@ -4183,7 +4183,7 @@ Malefida, quam mihi et Satanae incommodas!
 
 Confusa sum. SA. Victi sumus; fugiamus hinc.
 
-## ACTUS V. SCAENA XI.
+# 42. ACTUS V. SCAENA XI.
 
 Trimetri.
 
@@ -4265,7 +4265,7 @@ Dolor, dolor, quin’ ipsa pro te mortua?
 
 Sic separas carissimos, amara Mors!
 
-## ACTUS V. SCAENA XII, INTERIECTITIA.
+# 43. ACTUS V. SCAENA XII, INTERIECTITIA.
 
 Trimetri.
 
@@ -4377,7 +4377,7 @@ Solus sacerdos absque fletu tetricus.
 
 ≤line=1955≥ Heus socia, Hecastum lugeamus mortuum.
 
-## ACTUS V. SCAENA XIII.
+# 44. ACTUS V. SCAENA XIII.
 
 Trimetri.
 

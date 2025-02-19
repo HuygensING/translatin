@@ -131,7 +131,7 @@ aliquem in eâ parabolâ futurum sperauimus.
 
 
 
-## ≤page=107≥ PERSONAE.
+# 1. ≤page=107≥ PERSONAE.
 
 Angelus Princeps Persarum.
 
@@ -181,9 +181,9 @@ Oraculum.
 
 ≤page=108≥ TRAGOEDIA. SAPOR ADMONITVS.
 
-## [^1]ACTVS PRIMVS.
+# 3. [^1]ACTVS PRIMVS.
 
-## SCENA PRIMA.
+# 4. SCENA PRIMA.
 
 ARTAVASDES.
 
@@ -253,7 +253,7 @@ Statiua linquunt cerea, & latè thymum
 
 Populantur agris. \-\--
 
-## [^2]SCENA SECVNDA.
+# 5. [^2]SCENA SECVNDA.
 
 ARTAVASDES. ASPATHMES.
 
@@ -323,7 +323,7 @@ Magia sacri. Sic onus Atlantem obruat,
 
 Vicariam ni praestet Alcides opem.
 
-## [^4]SCENA TERTIA.
+# 6. [^4]SCENA TERTIA.
 
 ARTAVASDES. SVRENA. ASPATHMES.
 
@@ -383,7 +383,7 @@ Succede tectis, patrium micâ larem
 
 Saliente placa.
 
-## ≤page=112≥ [^5]SCENA QVARTA.
+# 7. ≤page=112≥ [^5]SCENA QVARTA.
 
 SVRENA. ASPATHMES. DATIS. HOSTANES.
 
@@ -465,7 +465,7 @@ Mauors triumphat: pace nam populos alit,
 
 Praedâque Dominos orbis Arfacidas beat.
 
-## [^6]SCENA QVINTA.
+# 8. [^6]SCENA QVINTA.
 
 SCVRRA. PTOLOMAEVS. OCHVS. PRINCEPS PERSARVM. SVRENA. ASPATHMES.
 
@@ -897,9 +897,9 @@ In dona Sapor pretiosa fluit:
 
 Dicite ter io, ter io Paean.
 
-## ≤page=122≥ ACTVS SECVNDVS.
+# 10. ≤page=122≥ ACTVS SECVNDVS.
 
-## [^12]SCENA PRIMA.
+# 11. [^12]SCENA PRIMA.
 
 SAPOR. ASTYAGES. ROXANES.
 
@@ -955,7 +955,7 @@ Flectere iugales, pérque monstrorum orbitam
 
 Tua aestuosis membra partiri feris?
 
-## [^13]SCENA SECVNDA.
+# 12. [^13]SCENA SECVNDA.
 
 ARTAVASDES. SAPOR. ROXANES.
 
@@ -1031,7 +1031,7 @@ Post Spem futuri, prodor! ô coelum! ô Dei!
 
 
 
-## ≤page=125≥ [^14]SCENA TERTIA.
+# 13. ≤page=125≥ [^14]SCENA TERTIA.
 
 MEGABIZVS. SAPOR. ASTYAGES. ROXANES.
 
@@ -1079,7 +1079,7 @@ Sap. Moueo ego, ciues, saxáque, vrbémque eruo.
 
 Dum narro Regi fabulam. \-\--
 
-## [^15]SCENA QVARTA.
+# 14. [^15]SCENA QVARTA.
 
 SAPOR. ASTYAGES. ROXANES.
 
@@ -1141,7 +1141,7 @@ Nisi fugit ipse. Sapor. Vade veloci viâ
 
 Roxane, saltem tadii fallet moras.
 
-## [^16]SCENA QVINTA.
+# 15. [^16]SCENA QVINTA.
 
 ASTYAGES. SAPOR.
 
@@ -1277,7 +1277,7 @@ Sapor. Placet, experire: nota Roxanis fides.
 
 
 
-## [^17]SCENA SEXTA.
+# 16. [^17]SCENA SEXTA.
 
 
 
@@ -1319,7 +1319,7 @@ Roxan. Cui visa referam? Astya. Iunctus haerebo patri.
 
 
 
-## [^19]SCENA SEPTIMA.
+# 17. [^19]SCENA SEPTIMA.
 
 SAPOR. ASTYAGES. AMVNTAS.
 
@@ -1539,7 +1539,7 @@ Et sceptra coelo vindice immissus ferat;
 
 Habere ab alio regna, cùm exciderint, scies.
 
-## [^20]SCENA OCTAVA.
+# 18. [^20]SCENA OCTAVA.
 
 PHARNABAZVS. SAPOR. ASTYAGIS.
 
@@ -1571,7 +1571,7 @@ Sapor. Resiste fili: numen haec poscunt meum.
 
 Gubernat astra Phoebus, & terras Sapor.
 
-## [^21]SCENA NONA.
+# 19. [^21]SCENA NONA.
 
 ASTYAGES.
 
@@ -1603,7 +1603,7 @@ Deus est Sapores? sit licet Rex, & Pater
 
 Natura, corpus, vita, vox, hominem sonat.
 
-## [^22]SCENA DECIMA.
+# 20. [^22]SCENA DECIMA.
 
 SVRENA. ASTYAGES.
 
@@ -1825,9 +1825,9 @@ Qui potest sperando minùs beatus,
 
 Aut miser esse.
 
-## ACTVS TERTIVS.
+# 22. ACTVS TERTIVS.
 
-## [^24]SCENA PRIMA.
+# 23. [^24]SCENA PRIMA.
 
 PHARNABAZVS. MASTYIS. PSAMMETICHVS.
 
@@ -2011,7 +2011,7 @@ Sperate rebus laeta fors vestris adest:
 
 Hinc prima miseris panditur vulgò salus.
 
-## [^25]SCENA SECVNDA.
+# 24. [^25]SCENA SECVNDA.
 
 SVRENA. PHARNABAZVS. PSAMMETICHVS. MASTYES.
 
@@ -2187,7 +2187,7 @@ Psamm. Dî te secundent, prima miserorum salus.
 
 
 
-## ≤page=147≥ [^26]SCENA TERTIA.
+# 25. ≤page=147≥ [^26]SCENA TERTIA.
 
 SVRENA.
 
@@ -2245,7 +2245,7 @@ Viue, late, in alto nemo securus stetit.
 
 Sed ecce socium ducit Astyagem Sapor.
 
-## ≤page=148≥ [^28]SCENA QVARTA.
+# 26. ≤page=148≥ [^28]SCENA QVARTA.
 
 PRINCEPS PERSARVM. SVRENA. GOBRYAS. ASTYAGES.
 
@@ -2501,7 +2501,7 @@ Vacuum-ne velles laudis Astyagem tuae
 
 Comitem pericli, martis expertum aleam.
 
-## [^29]SCENA QVINTA.
+# 27. [^29]SCENA QVINTA.
 
 MASTYES. PSAMMETICHVS. PRINCEPS PERSARVM.
 
@@ -2649,7 +2649,7 @@ Quanquam immerenti facere non pigeat benè
 
 Abite, Procerum danec arbitria audio.
 
-## ≤page=155≥ [^30]SCENA SEXTA.
+# 28. ≤page=155≥ [^30]SCENA SEXTA.
 
 PRINCEPS PERSARVM. SVRENA. ASTYAGES. MEGABIZVS.
 
@@ -2859,7 +2859,7 @@ Coruscat arte vulnus immedicabili.
 
 Seruare patrem fata, vel sinerent mori.
 
-## [^32]SCENA SEPTIMA.
+# 29. [^32]SCENA SEPTIMA.
 
 ARTAVASDES. PRINCEPS PERSARVM. PRAEXASPES.
 
@@ -3005,7 +3005,7 @@ Det regna maior, qui thronum coelo locat
 
 Supráque Regum fata, coniunctus Deo.
 
-## [^33]SCENA OCTAVA.
+# 30. [^33]SCENA OCTAVA.
 
 PRINCEPS PERSARVM. MASTYES.
 
@@ -3099,7 +3099,7 @@ Foret Sapore, tantus haud vnquam foret.
 
 
 
-## ≤page=163≥ [^35]SCENA NONA.
+# 31. ≤page=163≥ [^35]SCENA NONA.
 
 ROXANES. PRINCEPS PERSARVM. ASTYAGES.
 
@@ -3337,9 +3337,9 @@ Hoc fortuna mihi regia plus placet
 
 Quòd prodest facile omnibus.
 
-## ACTVS QVARTVS.
+# 33. ACTVS QVARTVS.
 
-## [^37]SCENA PRIMA.
+# 34. [^37]SCENA PRIMA.
 
 ROXANES. ASTYAGES.
 
@@ -3399,7 +3399,7 @@ Quid si locarunt regio laruam throno?
 
 
 
-## ≤page=169≥ [^38]SCENA SECVNDA.
+# 35. ≤page=169≥ [^38]SCENA SECVNDA.
 
 TITHRAVSTES. ROXANES.
 
@@ -3447,7 +3447,7 @@ Ticht. Tuos amores, sanguinem, Princeps, tuum.
 
 Roxan. Crudele coelum! sequere, stat rapere, aut mori.
 
-## [^39]SCENA TERTIA.
+# 36. [^39]SCENA TERTIA.
 
 ASTYAGES.
 
@@ -3487,7 +3487,7 @@ Rapuêre marmor in alta praecipites Noti.
 
 
 
-## ≤page=171≥ [^40]SCENA QVARTA.
+# 37. ≤page=171≥ [^40]SCENA QVARTA.
 
 SAPOR. ASTYAGES.
 
@@ -3571,7 +3571,7 @@ Astya. Etiam iubente. Sap. Somnias. Astya. Vidi, pater.
 
 Sapor. Astyage mentem magicus eripuit furor.
 
-## [^41]SCENA QVINTA.
+# 38. [^41]SCENA QVINTA.
 
 AMYNTAS. SAPOR. ASTYAGES.
 
@@ -3707,7 +3707,7 @@ Nox rapiet vmbrâ, quàm meam implores opem,
 
 Totóque saluos orbe Christiadas velis.
 
-## ≤page=176≥ [^42]SCENA SEXTA.
+# 39. ≤page=176≥ [^42]SCENA SEXTA.
 
 ROXANES. SAPOR. ASTYAGES. BADRES.
 
@@ -3771,7 +3771,7 @@ Hinc flamma paret. Sap. Somnia. Roxan. Vrbanis sine
 
 Monstrare pestem moenibus. Sapor. Scande vt lubet.
 
-## [^44]SCENA SEPTIMA.
+# 40. [^44]SCENA SEPTIMA.
 
 SAPOR. BADRES.
 
@@ -3919,7 +3919,7 @@ Abripe satelles: quaere quod ludas caput.
 
 Badres. Quò rapior eheu! quoa haes pretium tulit?
 
-## ≤page=180≥ [^45]SCENA OCTAVA.
+# 41. ≤page=180≥ [^45]SCENA OCTAVA.
 
 ROXANES. SAPOR. ASTYAGES.
 
@@ -4025,7 +4025,7 @@ Age anime, parta est vltio: exciderat manus,
 
 Astyag. Vetare perge, genitor. Sapor. Ipse ictum adiuuem.
 
-## [^46]SCENA NONA.
+# 42. [^46]SCENA NONA.
 
 ARTAVASDES. SAPOR. ASTYAGES. DATIS.
 
@@ -4205,7 +4205,7 @@ O temperasset chalybe Roxanes pater!
 
 Fortuna fidum pectus inuidit tibi.
 
-## [^47]SCENA DECIMA.
+# 43. [^47]SCENA DECIMA.
 
 MEGABIZVS. SAPOR. PTOLEMAEVS.
 
@@ -4345,7 +4345,7 @@ Laniare pectus, vellere insanum caput,
 
 Quis parricidae sparcere cerebrum dabit?
 
-## [^48]SCENA VNDECIMA.
+# 44. [^48]SCENA VNDECIMA.
 
 PRAEXASPES. SAPOR. ASTYAGES. MITHROBARZANES.
 
@@ -4419,7 +4419,7 @@ Rupisse spreto patre Ptolemaeum mone:
 
 Placare numen Regis offensum parent.
 
-## [^49]SCENA DVODECIMA.
+# 45. [^49]SCENA DVODECIMA.
 
 ASTYAGES. SAPOR. MITHROBARZANES
 
@@ -4641,7 +4641,7 @@ Astya. Tu viue, regna, genitor, haud nati indigus.
 
 
 
-## ≤page=194≥ [^50]SCENA DECIMATERTIA.
+# 46. ≤page=194≥ [^50]SCENA DECIMATERTIA.
 
 MITHROBARZANES. ASTVAGES. HOSTANES. ORACVLVM.
 
@@ -4869,7 +4869,7 @@ Has mota vobis Tartara ambages canunt.
 
 
 
-## ≤page=199≥ [^66]SCENA DECIMAQVARTA.
+# 47. ≤page=199≥ [^66]SCENA DECIMAQVARTA.
 
 SVRENA. ASTYAGES. MITHROBARZANES.
 
@@ -4931,7 +4931,7 @@ Suren. Vbi sceptra Reges inter incertos labant,
 
 Bona est tenentis causa, si validè tenet.
 
-## [^67]SCENA DECIMAQVINTA.
+# 48. [^67]SCENA DECIMAQVINTA.
 
 MITHROBARZANES.
 
@@ -5067,9 +5067,9 @@ Vera vos cruciant mala.
 
 
 
-## ≤page=203≥ ACTVS QVINTVS.
+# 50. ≤page=203≥ ACTVS QVINTVS.
 
-## [^69]SCENA PRIMA.
+# 51. [^69]SCENA PRIMA.
 
 SVRENA. ASTYAGES. ARTAVASDES. GOBRYAS. MASISTIVS. MEGABIZVS.
 PHARNABAZVS. PRAEXASPES.
@@ -5412,7 +5412,7 @@ Gobrya. Volens periclo publicum oppono caput:
 
 Dum redeo vos hîc Satrapae, stare addecet.
 
-## [^71]SCENA SECVNDA.
+# 52. [^71]SCENA SECVNDA.
 
 ARTAVASDES. ASTYAGES. SVRENA.
 
@@ -5464,7 +5464,7 @@ Sic alma currus fraena luciferi regas
 
 Sic luce plebem syderum aeternâ augeas.
 
-## [^72]SCENA TERTIA.
+# 53. [^72]SCENA TERTIA.
 
 PRINCEPS PERSARVM. SVRENA. ASTYAGES. OCHVS. SATRAPAE.
 
@@ -5738,7 +5738,7 @@ Ibo in recessus, nulla me obsequio dies
 
 Tardum videbit regio, aut timidum mori.
 
-## ≤page=216≥ [^73]SCENA QVARTA.
+# 54. ≤page=216≥ [^73]SCENA QVARTA.
 
 SVRENA. ASTYAGES. ARTAVASDES. PRAEXASPES. GOBRYAS. MASISTIVS.
 
@@ -5784,7 +5784,7 @@ Tartarea crimen agmina aeternùm doment.
 
 
 
-## ≤page=217≥ [^74]SCENA QVINTA.
+# 55. ≤page=217≥ [^74]SCENA QVINTA.
 
 PHARNABAZVS. SVRENA. MITHROBARZANES.
 
@@ -5824,7 +5824,7 @@ Acheronte manes, non nouus motam styga
 
 Ingrediar hospes; iam ter vlularunt canes.
 
-## ≤page=218≥ [^75]SCENA SEXTA.
+# 56. ≤page=218≥ [^75]SCENA SEXTA.
 
 MEGABIZVS. SAPOR. ASTYAGES. SVRENA. MITHROBARZANES.
 
@@ -5946,7 +5946,7 @@ Me Sapores non Sapores torquet, vrit, lancinat.
 
 Suren. Abripite; ne quid peccet vlteriùs furor.
 
-## [^76]SCENA SEPTIMA.
+# 57. [^76]SCENA SEPTIMA.
 
 SVRENA. SAPOR. ASTYAGES. GOBRYAS. MASISTIVS. ARTAVASDES.
 
@@ -6080,7 +6080,7 @@ Cutem reuelle, membra paulatim amputa.
 
 Vir esto, Regis agitur, & Regni salus.
 
-## [^77]SCENA OCTAVA.
+# 58. [^77]SCENA OCTAVA.
 
 SAPOR. ARTAVASDES.
 
@@ -6216,7 +6216,7 @@ Impelle miserum quanta felicem beas.
 
 Longùm in dolore stare, sperantum bonum est.
 
-## [^78]SCENA NONA.
+# 59. [^78]SCENA NONA.
 
 AMYNTAS. SAPOR. ARTAVASDES.
 
@@ -6396,7 +6396,7 @@ Domitus Sapores, vindicem agnoscit manum;
 
 Vitae reserua qui tremat, adoret, colat.
 
-## [^79]SCENA DECIMA.
+# 60. [^79]SCENA DECIMA.
 
 ANGELVS PR. PERS. SAPOR. AMYNTAS.
 
@@ -6506,7 +6506,7 @@ Vndante summa texuit fumo iuga?
 
 
 
-## [^80]SCENA VNDECIMA.
+# 61. [^80]SCENA VNDECIMA.
 
 ANGELVS PR. PERS. SAPOR.
 
@@ -6616,7 +6616,7 @@ Reuocor in astra: nullus absentem putet,
 
 Speculabor inde monita quò vergant mea.
 
-## ≤page=234≥ [^81]SCENA DVODECIMA.
+# 62. ≤page=234≥ [^81]SCENA DVODECIMA.
 
 SAPOR. ASTYAGES. OCHVS. SVRENA. SATRAPAE. AMYNTAS.
 

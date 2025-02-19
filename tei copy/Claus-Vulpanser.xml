@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0017" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Vulpanser</title>
+        <title type="sub"></title>
+        <author>Claus, Anton (SJ)</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Joseph Wolff</publisher>
+        <pubPlace>Augsburg</pubPlace>
+        <date>1755</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Claus-Vulpanser</name><lb/>
+            Short title: <title>Vulpanser</title><lb/>
+            Year of first edition: <date>1750</date><lb/>
+            Author information:<lb/>
+            Alias: None<lb/>
+            Birth: 1691, Kempten<lb/>
+            Death: 1754, Dillingen<lb/>
+            Floruit: None, Munich<lb/>
+            <lb/>
+            <emph>Exercitationes theatrales a Societatis Jesu magistris inferiorum classium dirigente P. Antonio Claus, ejusdem Societatis in Episcopali et Academico Gymnasio Dilingano exhibitae,</emph><lb/>
+            
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">1</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>VULPANSER.</p>
+  <p>Argumentum.</p>
+  <p>Puerum damus, à Dynastae filio ex anserum custodia in arcem et
+  comitis inter Ephebos assumptum; hic superbè iactabat se unum in Adamo
+  non peccâsse, utpote ab omni curiositatis vitio immunem, cuius alios
+  omnes, et ipsum etiam comitem identidem arguebat. Tandem et ipse
+  deprehensus omnium curiosissimus poenas hujus vitii dedit ad anserum
+  custodiam remissus. Cur vero actiunculam hunc Vulpanserem vocemus,
+  scena dabit!</p>
+  <p>Qui Figitur in nemore arci vicino.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.">
+  <head>1. Personae.</head>
+  <p><hi rend="italic">Heribertus</hi>, Dynastae Filius.</p>
+  <p><hi rend="italic">Rosindus</hi>,) Nobiles
+  adolscentes</p>
+  <p><hi rend="italic">Cervinus</hi>,) Heribertis
+  Sodales.</p>
+  <p><hi rend="italic">Vulpulus</hi>, Ex anserum custode
+  Ephebus.</p>
+  <p><hi rend="italic">Eustachius</hi>, Heriberti
+  Famulus.</p>
+  <p><hi rend="italic">Mopsus</hi>, Auceps.</p>
+  <p><hi rend="italic">Ganserellus</hi>, Mopsi Filius,
+  custos anserum.</p>
+  <p>Duo Pueri Itali.</p>
+</div>
+<div type="level1" xml:id="pars-prima.">
+  <head>2. Pars Prima.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.">
+  <head>3. Scena Prima.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-mopsus-ganserellus.">
+  <head>4. Personae. Mopsus, Ganserellus*.</head>
+  <p><hi rend="italic">Mopsus</hi>.<ptr target="#tn1" n="1"/> Remaneto puer, et anseres curae tuae</p>
+  <p>Concreditos fac sedulò custodias.</p>
+  <p><hi rend="italic">Ganserellus</hi>. Mallem, Parens, in
+  nemora te accupem sequi.</p>
+  <p>Honestius utique esset hoc viate genus</p>
+  <p>(5) Venatio avium, quàm anserum custodia;</p>
+  <p>Nam nobiles quoque avibus insidias struunt;</p>
+  <p>Ast anseres quis pascere per agros solet,</p>
+  <p>Nisi rusticorum filli? <hi rend="italic">Mops</hi>.
+  Quantos alis</p>
+  <p>Puer superbe spiritus! Nobiles cupis</p>
+  <p>(10) Imitarier? Rubescis anserum gregi</p>
+  <p>Praeesse Dux? Ito! Ito! Pavit anseres</p>
+  <p>Tuus parens, avusque, forsan et atavus,</p>
+  <p>Vestigia patrum sequere. <hi rend="italic">Gans</hi>.
+  Somnium tamen</p>
+  <p>Heri mihi promiserat sortem parem</p>
+  <p>(15) Cum Vulpulo. Sed ecce! Salve, Vulpule!</p>
+</div>
+<div type="level1" xml:id="scena-secunda.">
+  <head>5. Scena Secunda.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-mopsus-ganserellus.">
+  <head>6. Personae. Vulpulus, Mopsus, Ganserellus.*</head>
+  <p><hi rend="italic">Vulpulus</hi>. Ut rustice puer
+  loqueris? Assusce melius</p>
+  <p>Dixisse: Domine Vulpule! <hi rend="italic">Mops</hi>.
+  Domine Vulpule?</p>
+  <p>Nonne ille tu, qui pauculos abhinc dies</p>
+  <p>Gregem anserum pavisti in huc vicinia?</p>
+  <p>(20) <hi rend="italic">Vulp</hi>. Olim anseres si
+  Vulupus pavit, modo</p>
+  <p>Mutata scena est. Anseres jam Vulpulum</p>
+  <p>Pascunt, et hodie denuo affatus bene,</p>
+  <p>Et pinguis anser ventre recubabit meo.</p>
+  <p><hi rend="italic">Mops</hi>. Ergóne verum, ex anserum
+  custodia</p>
+  <p>(25) Traductum in arcem Vulpulum in pedissequum,</p>
+  <p>Et Junioris Comitis inter servulos</p>
+  <p>Assumptum? Et ... <hi rend="italic">Vulp</hi>. Haud
+  pedissequus vel servulus</p>
+  <p>Est Vulpulus, at Ephebus, et primus quidem,</p>
+  <p>Brevi futurus, nescio, quàm praepotens</p>
+  <p>(30) Quantúsque Dominus, forte vix comite minor.</p>
+  <p><hi rend="italic">Gans</hi>. O te beatum! Nunquid etiam
+  ego Parens,</p>
+  <p>Sperare potero Vulpulo sortem partem?</p>
+  <p>Et anserum custodia, exemptus.
+  <hi rend="italic">Mops</hi>. Tace.</p>
+  <p><hi rend="italic">Vulp</hi>. Si paria mecum merita, si
+  forma, indoles,</p>
+  <p>(35) Animique dotes caeterae tibi forent,</p>
+  <p>Sperare poses; at modo quàm tu mihi</p>
+  <p>Dissimilis es! Vel unicum hoc à te peto:</p>
+  <p>Peccâsse te non sentis in primo Patre?</p>
+  <p><hi rend="italic">Gans</hi>. In Patre Primo? Num ergo
+  complures mihi</p>
+  <p>(40) Patres fuêre? <hi rend="italic">Vulp.</hi>
+  Intelligo primum Patrem</p>
+  <p>Scilicet Adamum. <hi rend="italic">Mops</hi>. Quaestio
+  haec mirabilis!</p>
+  <p>Omnes utique peccavimus Primo in Patre.</p>
+  <p><hi rend="italic">Vulp</hi>. At non ego: nam curiosus
+  (credite)</p>
+  <p>Ut caeteri homines, Vulpulus nunquam fuit.</p>
+</div>
+<div type="level1" xml:id="scena-tertia.">
+  <head>7. Scena Tertia.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-accedunt-rosindus-et-cervinus.">
+  <head>8. Personae. Accedunt Rosindus, et Cervinus*.</head>
+  <p>(45) <hi rend="italic">Rosindus</hi>.<ptr target="#tn2" n="2"/> Cervine! Nullus dubito, succedet dolus,</p>
+  <p>Proprioque laqueo captus haerebit puer</p>
+  <p>Superbus ille Vulpulus. Mopse! Cupidus</p>
+  <p>Te junior jam sat diu exspectat comes</p>
+  <p>Unáque tecum filium. <hi rend="italic">Mops</hi>. Sed
+  interim</p>
+  <p>(50) Quis anseres custodiet?
+  <hi rend="italic">Gans</hi>. Curam hanc Peter</p>
+  <p>Depone. Praevidebo. <hi rend="italic">Cerv</hi>. Quin
+  jamjam Comes</p>
+  <p>Providit, et qui pascat anserum greges,</p>
+  <p>Substituit è vicinia. <hi rend="italic">Gans</hi>. Ergo
+  imus, Pater.</p>
+  <p>Laetissimus ad aucupia te demum sequor.</p>
+</div>
+<div type="level1" xml:id="scena-quarta.">
+  <head>9. Scena Quarta.</head>
+  <p><hi rend="italic">Persona. Vulpulus, Rosindus,
+  Cervinus.</hi></p>
+  <p>(55) <hi rend="italic">Vulp</hi>. An soli adestis?
+  Junior ubi haeret Comes?</p>
+  <p>Non hanc adibit aream, ad quam me tamen</p>
+  <p>Praeire jussit? <hi rend="italic">Ros</hi>. Veniet huc,
+  moram brevem</p>
+  <p>Patiaris. <hi rend="italic">Vulp</hi>. At cur filium
+  Mopsi vocat?</p>
+  <p><hi rend="italic">Cerv</hi>. Ridiculum, quem nescio,
+  ludum parat,</p>
+  <p>(60) Cui Ganserellus, credo, multum serviet.</p>
+  <p><hi rend="italic">Vulp</hi>. Quis ludus iste?
+  <hi rend="italic">Rosind</hi>. Vulpule! Attende, et
+  cave</p>
+  <p>Ne curiosus esse videaris. <hi rend="italic">Vulp</hi>.
+  Mea</p>
+  <p>Haec Quaestio nihil curiosi habet; tamen</p>
+  <p>Ne scandalo sim caeteris, non pluribus</p>
+  <p>(65) Interrogo. Quemcunque det ludum Comes,</p>
+  <p>Praescire neutiquam aveo, muneri meo</p>
+  <p>Intentus. <hi rend="italic">Cerv</hi>. Avibus nempe
+  capiendis? <hi rend="italic">Ros</hi>. Favet,</p>
+  <p>Ut video, tibi fortuna. Volucrum copiam</p>
+  <p>In retia tua compulit. <hi rend="italic">Vulp</hi>. Nil
+  Vulpulo</p>
+  <p>(70) Fortuna dedit. Industriae est fructus meae</p>
+  <p>Haec praeda volucrum. <hi rend="italic">Cerv</hi>.
+  Industriam admiror tuam.</p>
+  <p><hi rend="italic">Rosind</hi>. Sed me, fatebor, miseret
+  innocentium</p>
+  <p>Avicularum. <hi rend="italic">Vulp</hi>. Miserit? Haud,
+  mihi credite,</p>
+  <p>Sunt innocentes inter alites Pari.</p>
+  <p>(75) Animalcula nimis curiosa criminis</p>
+  <p>Poenas dedêre debitas. <hi rend="italic">Cerv</hi>.
+  Ergo arguis</p>
+  <p>Etiam volucres criminis, quod scilicet</p>
+  <p>Sint curiosae? <hi rend="italic">Vulp</hi>. Crimen et
+  turpissimum</p>
+  <p>Quaecunque curiositas, in foeminis</p>
+  <p>(80) Toleranda tantum, moneo, tanto à crimine</p>
+  <p>Cavete vobis sedulo, damnum nisi</p>
+  <p>Gravissimum velitis incurrere.
+  <hi rend="italic">Ros</hi>. Pium</p>
+  <p>Monitum sequemur seduli exemplo tuo.</p>
+  <p><hi rend="italic">Cerv</hi>. At ecce! Jam cum Eustachio
+  prodit Comes.</p>
+</div>
+<div type="level1" xml:id="scena-quinta.">
+  <head>10. Scena Quinta.</head>
+  <p><hi rend="italic">Personae. Heribertus, Eustachius
+  portans sub Axilla clausam cistulam. Vulpulus, Rosindus,
+  Cervinus</hi>.</p>
+  <p>(85) <hi rend="italic">Cervin</hi>.<ptr target="#tn3" n="3"/> En! Quàm benigna Vulpulo favit hodie</p>
+  <p>Fortuna, volucrum copia oppressus gemit.</p>
+  <p><hi rend="italic">Vulp</hi>. Dixi prius: fortuna nil
+  dedit mihi,</p>
+  <p>Industria mea sola, quam praedam vides,</p>
+  <p>Collegit. <hi rend="italic">Ros</hi>. Omnes nempe, quos
+  coepit, Patri</p>
+  <p>(90) Peccaverant in Adamo, et hinc poenas rei</p>
+  <p>Dedêre curiositati debitas.</p>
+  <p><hi rend="italic">Heribertus</hi>. Fortuna, sive
+  industria tibi, Vulpule,</p>
+  <p>Dederit volucrum copiam; at nobis tamen</p>
+  <p>Praeda obtigit felicior. <hi rend="italic">Cerv</hi>.
+  Quanam, obsecro!</p>
+  <p>(95) Vulpésne, vel lepusculus, vel Hinnulus?</p>
+  <p><hi rend="italic">Vulp</hi>. O curiosum! Non potes
+  moram pati,</p>
+  <p>Haec donec ipse Dominus enarret comes?</p>
+  <p><hi rend="italic">Herib</hi>. Est p&lt;r&gt;aeda Vulpe,
+  aut lepore, vel cervo minor;</p>
+  <p>Sed raritate praestat omnibus feris.</p>
+  <p>(100) <hi rend="italic">Eust</hi>. Inter vireta
+  proxima inventum modo</p>
+  <p>In haec tenemus arcula inclusum.
+  <hi rend="italic">Ros</hi>. Quid hac</p>
+  <p>Clausum tenemus arcula inclusum.
+  <hi rend="italic">Ros</hi>. Quid hac</p>
+  <p>Clausum tenetis arcula? <hi rend="italic">Herib</hi>.
+  Quid, Vulpule,</p>
+  <p>Latere credis? <hi rend="italic">Vulp</hi>. Curiosus
+  non sum ego:</p>
+  <p>(105) An Urius, an Camelus hic lateat, meâ</p>
+  <p>Non interest. <hi rend="italic">Herib</hi>. Vidistin’
+  aliquando anseris</p>
+  <p>Ovum? <hi rend="italic">Vulp</hi>. Anseris?
+  <hi rend="italic">Cerv</hi>. Diu utique pavisti
+  anseres,</p>
+  <p>Et anserum ova videris, plus quàm satis.</p>
+  <p><hi rend="italic">Vulp</hi>. Fortasse vidi; sed tamen
+  nunquam mera</p>
+  <p>(110) Ex curiositate.
+  <hi rend="italic">Herib</hi>. Num et Vulpanseris</p>
+  <p>Ovum recens aliquando conspectum tibi?</p>
+  <p><hi rend="italic">Vulp</hi>. Vulpanseris?
+  <hi rend="italic">Ros</hi>. Quale animal hoc? Nunquam
+  audii</p>
+  <p>Vel nomen hoc Vulpanseris. <hi rend="italic">Cerv</hi>.
+  Frater meus</p>
+  <p>Jam Logicus heri disputans acerrime</p>
+  <p>(115) Cum caeteris sodalibus dixit, animal</p>
+  <p>Vulpanserem esse, quod simul vulpes, simul</p>
+  <p>Sit anser, et simul habeat rostrum anseris</p>
+  <p>Caudamque vulpis. <hi rend="italic">Ros</hi>. Tam
+  peregrinae ferae</p>
+  <p>Ovum tenetis arculae inclusum?
+  <hi rend="italic">Eust</hi>. Cupis</p>
+  <p>(120) Illud videre, Vulpule?
+  <hi rend="italic">Vulp</hi>. Hic pueri volent</p>
+  <p>Videre, sed me nulla curiositas</p>
+  <p>Impellit. <hi rend="italic">Cerv</hi>. Agedum, cistulam
+  pandas, rogo.</p>
+  <p><hi rend="italic">Herib</hi>. Caveto! Delicata namque
+  plurimum</p>
+  <p>Vulpanserum sunt ova, nec rigidae licet</p>
+  <p>(125) Exponere aurae. Dum redierimus domum</p>
+  <p>Mirabile ovum in arce spectandum dabo.</p>
+  <p><hi rend="italic">Eust</hi>. Quin, si integrum
+  servatur, et calidum manet,</p>
+  <p>Supponimus Gallinae, ut exinde juvenis</p>
+  <p>Vulpanser excludatur.</p>
+</div>
+<div type="level1" xml:id="scena-sexta.">
+  <head>11. Scena Sexta.</head>
+  <p><hi rend="italic">Prioribus accedit Mopsus</hi>.</p>
+  <p><hi rend="italic">Mopsus</hi>. .… Accurrite citi,</p>
+  <p>(130) Mirabilis in hoc nemore stabulatur fera,</p>
+  <p>Vulpanserem vocare, qui nôrunt, solent.</p>
+  <p><hi rend="italic">Eustach</hi>. Est nempe, nullus
+  dubito, hujus ovi Parens</p>
+  <p><hi rend="italic">Herib</hi>. Persequimur ergo.
+  Vulpule, sclopetum expedi.</p>
+  <p><hi rend="italic">Vulp</hi>. Est expeditum, dum jubes,
+  herum sequor.</p>
+  <p>(135) <hi rend="italic">Cerv</hi>. Sequamur et nos
+  impigre. <hi rend="italic">Herib</hi>. Eustachi, mane,</p>
+  <p>Et hic quietus siste; nam vehementior</p>
+  <p>Motus nocere posset ovo, quod tenes</p>
+  <p>In arcula. <hi rend="italic">Eust</hi>. Rogare si
+  quidquam licet,</p>
+  <p>Concede, tecum persequi liceat feram</p>
+  <p>(140) Mirabilem, spectâsse viventem juvat</p>
+  <p>Vulpanserem. <hi rend="italic">Vulp</hi>. Quam prodis
+  iterum, quod nimis</p>
+  <p>Peccaveris in Adamo. <hi rend="italic">Herib</hi>. An
+  igitur Vulpulus</p>
+  <p>Non curiosus? Non cupit Vulpanserem</p>
+  <p>Spectâsse? <hi rend="italic">Vulp</hi>. Curiositas me
+  nulla agit.</p>
+  <p>(145) Hero tamen jubente venantem sequor.</p>
+  <p><hi rend="italic">Heribert</hi>. Bene.<ptr target="#tn4" n="4"/> Ergo trade &lt;V&gt;ulpulo arculam, lubens</p>
+  <p>Manebit hîc, et interim blanda frui</p>
+  <p>Quiete poterit. <hi rend="italic">Eust</hi>. Accipe, et
+  cautus tene.</p>
+  <p><hi rend="italic">Herib</hi>. Praeque omnibus, ne
+  cistulam aperias, cave;</p>
+  <p>(150) Namque aura minima perderet Vulpanseris</p>
+  <p>Tenerrimum ovum, repeto, ne aperias, cave,</p>
+  <p>Hanc cistulam, donec domum redierimus.</p>
+  <p><hi rend="italic">Eust</hi>. Nos persequamur impigre
+  Vulpanserem.</p>
+</div>
+<div type="level1" xml:id="scena-septima.">
+  <head>12. Scena Septima.</head>
+  <p><hi rend="italic">Vulpulus Solus</hi>.</p>
+  <p>Simulatio male cessit hac mihi vice.</p>
+  <p>(155) Vulpanserem vivum et ego spectâssem habens,</p>
+  <p>Non curiositate ductus, at mera</p>
+  <p>Occasionis gratia. Utar interim</p>
+  <p>Occasione pariter obtrusa modò,</p>
+  <p>Vulpanserem si nequeo spectare, attamen</p>
+  <p>(160) Ovum videbo. – Sed vetat graviter comes,</p>
+  <p>Ne cistula aperiatur, ovum ne nocens</p>
+  <p>Corrumpat aura. – Modica tantum inspectio</p>
+  <p>Brevi peracta tempore haud multùm potest</p>
+  <p>Ovo nocere. Audacter ad rem, Vulpule.</p>
+  <p>(165) Videamus. – At ubi clavis est? Prô! Quàm puer</p>
+  <p>Ineptus est Eustachius, dedit arculam,</p>
+  <p>Clavem arculae retinuit. An igitur mea</p>
+  <p>Delusa sit cupiditas adeò innocens?</p>
+  <p>Nam nulla curiositas noxia potest</p>
+  <p>(170) Pectus meum subire. –</p>
+</div>
+<div type="level1" xml:id="scena-octava.">
+  <head>13. Scena Octava.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-ganserellus.">
+  <head>14. Personae. Vulpulus, Ganserellus*.</head>
+  <p><hi rend="italic">Gans.</hi> .… Domine Vulpule!</p>
+  <p><hi rend="italic">Vulp</hi>. Sic denique bene loqueris.
+  Edicito igitur,</p>
+  <p>Quid poscis à me, quámve gratiam tibi</p>
+  <p>Conferre Dominus Vulpulus hodie potest?</p>
+  <p><hi rend="italic">Gans</hi>. A te nihil requiro, sed
+  clavem affero,</p>
+  <p>(175) Eustachius quam tradidit.
+  <hi rend="italic">Vulp</hi>. Tandem suum</p>
+  <p>Obliviosus vidit errorem puer?</p>
+  <p><hi rend="italic">Gans</hi>. Spectare clavem hanc dixit
+  illam ad arculam,</p>
+  <p>In qua latet mirabile ovum, nescio,</p>
+  <p>Cujus ferae: Vulpanserem, puto, vocant.</p>
+  <p>(180) Fac, obsecro, videre me monstrum hoc.
+  <hi rend="italic">Vulp</hi>. Nimis</p>
+  <p>Es curiosus: et in Adamo te quoque</p>
+  <p>Peccâsse prodis. Potius ad pascua redi:</p>
+  <p>Namque haec pererrat nemora hujus ovi Parens,</p>
+  <p>Adultior Vulpanser, animal omnibus</p>
+  <p>(185) Anseribus infestissimum, atque hinc dicitur</p>
+  <p>Vulpanser. Hoc ne invadat et gregem tuum,</p>
+  <p>Caveto. <hi rend="italic">Gans</hi>. Postquam videro,
+  quod postulo,</p>
+  <p>Statim redibo ad pascua. Igitur arculam</p>
+  <p>Citius aperi. <hi rend="italic">Vulp</hi>. Prohibuit
+  hoc graviter comes.</p>
+  <p>(190) <hi rend="italic">Gans</hi>. Absens procul
+  non resciet factum comes.</p>
+  <p>Ostende tantum vel obiter, supplex rogo.</p>
+  <p><hi rend="italic">Vulp</hi>. Non, non. Recede ad
+  pascua, in mora grave</p>
+  <p>Periculum. Vulpanserem puer time,</p>
+  <p>Ne rapiat optimum anserem ex tuo grege.</p>
+  <p>Quid tunc Parens? Vae Ganserelli tergori!</p>
+  <p>(195) <hi rend="italic">Gans</hi>. Nil mihi
+  timendum: nam anseres mei loco</p>
+  <p>Custodit alius. <hi rend="italic">Vulp</hi>. Et quis
+  ille? <hi rend="italic">Gans</hi>. Quem Comes</p>
+  <p>Jam destinavit, rusticus quidam puer.</p>
+  <p>Ostendito igitur, quod peto.
+  <hi rend="italic">Vulp</hi>. Frustra es, Comes</p>
+  <p>(200) Prohibuit, hunc accede, si vis, et refer,</p>
+  <p>Quàm sim fidelis servus ad nutum obsequens:</p>
+  <p>Quàm curiosus neutiquam.
+  <hi rend="italic">Gans</hi>.<ptr target="#tn5" n="5"/> Videbimus,</p>
+  <p>Quàm curiosus neutiquam sit &lt;V&gt;ulpulus,</p>
+  <p>Submitto pueros Italos. –</p>
+</div>
+<div type="level1" xml:id="scena-nona.">
+  <head>15. Scena Nona.</head>
+  <p><hi rend="italic">Vulpulus Solus</hi>.</p>
+  <p>.… Sine arbitro</p>
+  <p>(205) Jam sum, cupitam possidet clavem manus.</p>
+  <p>Utamur ergo tempore. Eja, Vulpule,</p>
+  <p>Spectato mirabilia, at nulla tamen</p>
+  <p>Ex curiositate. Quàm prurit animus</p>
+  <p>Ovum videre vulpis, et simul anseris:</p>
+  <p>(210) Sed quis iterum importunus huc infert gradum?</p>
+</div>
+<div type="level1" xml:id="scena-decima.">
+  <head>16. Scena Decima.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-duo-pueri-itali.">
+  <head>17. Personae. Vulpulus, duo Pueri Itali*.</head>
+  <p><hi rend="italic">Pueri</hi>.<ptr target="#tn6" n="6"/> Schöne Spilewerck, schöne Rarität: wer seh will</p>
+  <p>Wil Herle, Herle!</p>
+  <p>&lt;<hi rend="italic">Vulp</hi>.&gt; Placétne mirabilia
+  videre? <hi rend="italic">Puer 2.</hi> Ò nihil</p>
+  <p>Spectare poteris pulchrius.
+  <hi rend="italic">Vulp</hi>. Ego neutiquam</p>
+  <p>(215) Sum curiosus. Sunt in hac sylva tamen,</p>
+  <p>Qui curiositate correpti nimis</p>
+  <p>Hae gestient spectare. In hos inquirite.</p>
+  <p>Referetis inde pingue congiarium.</p>
+  <p><hi rend="italic">Puer 1</hi>. Jam cuncta spectavêre
+  Juvenes nobiles</p>
+  <p>(220) In nemore nobis obvii.
+  <hi rend="italic">Puer 2</hi>. Hos inter Comes</p>
+  <p>Unus vocatur, splendida indutus toga,</p>
+  <p>Pulchráque facie. <hi rend="italic">Vulp</hi>. Sciliet
+  et herus meus</p>
+  <p>Tam curiosus esse non horret. <hi rend="italic">Puer
+  1</hi>. An herus</p>
+  <p>Ille tuus est? <hi rend="italic">Puer 2</hi>. Laudavit,
+  et miris modis</p>
+  <p>(225) Per machinam hanc spectata laudavit. Stipem</p>
+  <p>Quoque liberali contulit nobis manu.</p>
+  <p><hi rend="italic">Vulp</hi>. Quantum decebit pendere
+  aeris, si volet</p>
+  <p>Spectâsse quisquam solus hanc per machinam</p>
+  <p>Spectanda? <hi rend="italic">Puer 1</hi>. Quoniam
+  servulus, et ex familia</p>
+  <p>(230) Illius heri es, qui liberali jam manu</p>
+  <p>Stipem nobis porrexit, à te nil peto.</p>
+  <p>Gratis videre poteris. <hi rend="italic">Puer 2</hi>.
+  Huc veni, vide.</p>
+  <p><hi rend="italic">Vulp</hi>. Sed curiositate me forsan
+  trahi</p>
+  <p>Nolite credere. <hi rend="italic">Puer 1</hi>. Applica
+  oculum dexterum</p>
+  <p>(235) Clauso sinistro. <hi rend="italic">Puer</hi>
+  <hi rend="italic">2.</hi> Attende, cernis Persicum</p>
+  <p>Exercitum, sine numero armatos viros,</p>
+  <p>Equites, Duces, peditésque. Cernis bellica</p>
+  <p>Tormenta fulminare <hi rend="italic">Bum</hi>,
+  <hi rend="italic">Bum</hi>: Milites</p>
+  <p>Clamare: <hi rend="italic">Vive le Roy</hi>.
+  <hi rend="italic">Vulp</hi>. Nihil certe audio</p>
+  <p>(240) Clamoris. <hi rend="italic">Puer 2</hi>.
+  Utique clamo Persarum loco</p>
+  <p>Et repeto <hi rend="italic">Vive le Roy</hi>.
+  <hi rend="italic">Vulp</hi>. Anne forsan tessera</p>
+  <p>Haec militaris Persici est exercitûs?</p>
+  <p><hi rend="italic">Puer 2</hi>. Noli loqui; sed inspice.
+  <hi rend="italic">Puer 1</hi>. En germanicus</p>
+  <p>Exercitus propinquat! Horrendi viri</p>
+  <p>(245) Et ferrei Centauri ut in Persas furunt!</p>
+  <p>Horribile fistula insonat: <hi rend="italic">Puf</hi>,
+  <hi rend="italic">Puf</hi>. Cadit</p>
+  <p>Strato Gaballo Persicus Vezirius,</p>
+  <p>Et amputato capite clamat: <hi rend="italic">Mon
+  Dieu</hi></p>
+  <p>O <hi rend="italic">Mon Dieu</hi>.
+  <hi rend="italic">Puer 2</hi>.<ptr target="#tn7" n="7"/> Quietus inspice, et caput</p>
+  <p>(250) Oculósque fige in Machina. Cernes nova.</p>
+  <p><hi rend="italic">Puer 1</hi>. En Turciae Imperator in
+  Throno sedet,</p>
+  <p>Praebetque vina acronia aulicis suis;</p>
+  <p>Hinc saltitantes ebrii Turcae pede</p>
+  <p>Fallente veluti (cerne) porcelli cadunt.</p>
+  <p>(255) <hi rend="italic">Puer 2</hi>. Sed jam sat.
+  Urget tempus, et in urbem vocat.</p>
+  <p>Valeto. <hi rend="italic">Vulp</hi>. Grates debitas
+  vobis. Bene</p>
+  <p>Valete pariter.</p>
+</div>
+<div type="level1" xml:id="scena-undecima.">
+  <head>18. Scena Undecima.</head>
+  <p><hi rend="italic">Vulpulus Solus</hi>.</p>
+  <p>... Mira spectavi modò.</p>
+  <p>Multo tamen lubentius Vulpanseris</p>
+  <p>Ovum videbo: rarius id aliquid mihi</p>
+  <p>(260) Exercitu omni Persico, Persam licet</p>
+  <p>Non viderim unquam. – <ptr target="#tn8" n="8"/> sed ubi – vah! Ubi castula</p>
+  <p>In cespite hoc deposita? Maledicti Itali!</p>
+  <p>Pueri clepaces! Insequor fures cito.</p>
+</div>
+<div type="level1" xml:id="pars-secunda.">
+  <head>19. Pars Secunda.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-1">
+  <head>20. Scena Prima.</head>
+  <p><hi rend="italic">Personae. Heribertus, Eustachius,
+  Rosindus, Cervinus, Ganserellus cum Arcula</hi>.</p>
+  <p><hi rend="italic">Herib.</hi> Convictus utique Vulpulus
+  plus, quàm satis</p>
+  <p>(265) Est curiositatis; at velim tamen</p>
+  <p>Strinxisse puerum fortius laquo prius</p>
+  <p>A me parato, reddite illi cistulam.</p>
+  <p><hi rend="italic">Eust</hi>. Sed quomodo reddetur, ut
+  non sentiat</p>
+  <p>Fraudem paratam? <hi rend="italic">Gans</hi>. Nec mea
+  ablatam manu?</p>
+  <p>(270) <hi rend="italic">Herib</hi>. Docebo cuncta.
+  <hi rend="italic">Cerv</hi>. Sed tamen dignum foret,</p>
+  <p>Ut non nihil diutius puerum sinas</p>
+  <p>Angoribus inhaerere, queis premitur modo</p>
+  <p>Ob cistulam deperditam gravissime.</p>
+  <p><hi rend="italic">Rosin</hi>. Ex curiositate perdidit,
+  luat</p>
+  <p>(275) Hoc curiositatis infame vitium,</p>
+  <p>Ut ipsus appellare consuevit, tibi</p>
+  <p>Ipsi ausus insultare. <hi rend="italic">Herib</hi>.
+  Nunc igitur ubi est?</p>
+  <p><hi rend="italic">Gans</hi>. Pueros adhuc dum
+  insequitur illos Italos,</p>
+  <p>Quos nempe subductae Arculae fures putat.</p>
+  <p>(280) <hi rend="italic">Eust</hi>. Imo, redeuntem
+  conspicio. <hi rend="italic">Her</hi>. recedimus,</p>
+  <p>Et è propinquo quid agitet secum puer,</p>
+  <p>Consideramus. <hi rend="italic">Cerv</hi>. Ludicram,
+  credo, dabitur</p>
+  <p>Comoediam spectare.</p>
+</div>
+<div type="level1" xml:id="scena-secunda.-1">
+  <head>21. Scena Secunda.</head>
+  <p><hi rend="italic">Vulpulus solus</hi>.</p>
+  <p>... Maledicti Itali!</p>
+  <p>Vah! Non modo furunculos, sed et magos</p>
+  <p>(285) Hos credo pueros. Arculam artibus malis</p>
+  <p>Mihi sustulêre, et artibus quoque magicis</p>
+  <p>Se reddere invisibiles nôrunt. Nemus</p>
+  <p>Percurro frustra. Nullibi tenuissimum</p>
+  <p>Vestigium deprendo. Maledicti Itali!</p>
+  <p>(290) Sed Italos cur arguo? Quare fui</p>
+  <p>Tam curiosus? Debitas poenas luo.</p>
+  <p>Quid nunc agam? Sine Arcula, et rarissimo</p>
+  <p>Ovo subire Comitis aspectum miser</p>
+  <p>Non audeo. Nec dicere quidem, quo dolo</p>
+  <p>(295) Vel à quibus sim turpiter lusus, licet.</p>
+</div>
+<div type="level1" xml:id="scena-tertia.-1">
+  <head>22. Scena Tertia.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-rosindus-cervinus.">
+  <head>23. Personae. Vulpulus, Rosindus, Cervinus*.</head>
+  <p><hi rend="italic">Cervin</hi>.<ptr target="#tn9" n="9"/> Nullúmne vidisti modo Vulpanserem</p>
+  <p>Praetervolantem? Laesus est certe, sclopus</p>
+  <p>Non credo, quod aberrarit omnino.
+  <hi rend="italic">Vulp</hi>. Nihil</p>
+  <p>Vulpanser ad me. <hi rend="italic">Cerv</hi>.
+  Vulneratam bestiam</p>
+  <p>(300) Plumae indicant, quas utique conspexi undique</p>
+  <p>Sparsas per aëra. <hi rend="italic">Ros</hi>. Scilicet
+  plumas quidem</p>
+  <p>Aliquas sclopetum belluae excussit tuum.</p>
+  <p>Ast ipsa slava evasit, errasti impigre.</p>
+  <p><hi rend="italic">Cerv</hi>. Quin ecce! Nisi me decipit
+  oculus meus,</p>
+  <p>(305) Hic considet. Conspicio caudam. Vulpule,</p>
+  <p>Nil conspicis tu in arbore hac? Veni huc.
+  <hi rend="italic">Vulp</hi>. Nihil</p>
+  <p>Vulpanser ad me. <hi rend="italic">Ros</hi>. Video non
+  caudam quidem</p>
+  <p>Sed anseris latissimum rostrum. Sclopum</p>
+  <p>Expedio, tu pariter tuum. <hi rend="italic">Cerv</hi>.
+  Mirabilis</p>
+  <p>(310) Haec bestiae figura! Cernis, Vulpule?</p>
+  <p><hi rend="italic">Vulp</hi>. Ad me nihil Vulpanser.
+  <hi rend="italic">Ros</hi> eja, jam fave,</p>
+  <p>Diana! Vah! Rursum avolat citissima.</p>
+  <p><hi rend="italic">Cerv</hi>. Persequimur ergo. Dexterum
+  latus tene,</p>
+  <p>Ego sinistrum. Vulpulus medium occupet,</p>
+  <p>(315) Moneátque nos, si viderit feram.<ptr target="#tn10" n="10"/> <hi rend="italic">Vulp</hi>. Nihil</p>
+  <p>Vulpanser ad me.</p>
+</div>
+<div type="level1" xml:id="scena-quarta.-1">
+  <head>24. Scena Quarta.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-rosindus.">
+  <head>25. Personae. Vulpulus, Rosindus*.</head>
+  <p><hi rend="italic">Rosind</hi>. ... Tetricus totus
+  mihi</p>
+  <p>Videris. An fors toedio implevit animum</p>
+  <p>Mandatum herile, à quo juberis hoc loco</p>
+  <p>Haerere cum ovo, atque velut Hesperius Draco</p>
+  <p>(320) Sua poma custodire, dum laetum nemus</p>
+  <p>Nos pervagamur? Vidimus quoque interim</p>
+  <p>Ter mira mirabilia, integrum exercitum,</p>
+  <p>Veziriúmque Persicum. An non et tibi</p>
+  <p>Pueri Itali occurrêre? <hi rend="italic">Vulp</hi>. Ut
+  omnes Italos</p>
+  <p>(325) Styx aura. <hi rend="italic">Ros</hi>. Quid?
+  <hi rend="italic">Vulp</hi>. Vulpanserem sequere tuum,</p>
+  <p>Et me mihi relinque. <hi rend="italic">Ros</hi>. Sit.
+  Custodiae</p>
+  <p>Ovi relinquo. Cautus id serves. Comes</p>
+  <p>Periise generosissimum in stabulis equum</p>
+  <p>Minus doleret, crede, quàm rarissimum</p>
+  <p>(330) Ovum, unde sperat excludi novum</p>
+  <p>Vulpanserem sors posse.</p>
+</div>
+<div type="level1" xml:id="scena-quinta.-1">
+  <head>26. Scena Quinta.</head>
+  <p><hi rend="italic">Vulpulus solus</hi>.</p>
+  <p>... Generosissimum</p>
+  <p>Equum doleret perditum minus Comes?</p>
+  <p>Me perditum! Quo vota convertam miser?</p>
+  <p>Mortalium habeo neminem, cui meum</p>
+  <p>(335) Factum liceat aperire! Quem in tantis queam</p>
+  <p>Angustiis consulere. Maledicti Itali!</p>
+  <p>O qui tot aliis dextera mirabili</p>
+  <p>Res perditas restituis, Antoni, juva.</p>
+  <p>Ternas tuis honoribus adhuc hac die</p>
+  <p>(340) Recito corollas, si arculam reddas mihi.</p>
+  <p>O dive mi Patrone! Ne me deseras.</p>
+  <p>Tantum vice hac me subleva! Nunquam amplius</p>
+  <p>Ero curiosus, Persicum nunquam amplius</p>
+  <p>Exercitum spectabo. Maledicti Itali!</p>
+  <p>(345) O dive mi Patrone!</p>
+</div>
+<div type="level1" xml:id="scena-sexta.-1">
+  <head>27. Scena Sexta.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-ganserellus">
+  <head>28. Personae. Vulpulus, Ganserellus*</head>
+  <p><hi rend="italic">Gans</hi> ... Domine Vulpule!</p>
+  <p>An non tua haec est Arcula, in qua ovum latet</p>
+  <p>Vulpanseris? <hi rend="italic">Vulp</hi>. Quid video!
+  Coelites boni!</p>
+  <p>Miraculum! Miraculum instantaneum!</p>
+  <p>Sed tu quis es? Num divus ipse Antonius?</p>
+  <p>(350) Num Ganserellus? Et unde in has manus tuas</p>
+  <p>Haec cistula? <hi rend="italic">Gans</hi>. Inter
+  proxima vireta jacuit</p>
+  <p>A me reperta. <hi rend="italic">Vulp</hi>. Nempe dum
+  furunculi,</p>
+  <p>Quam cistulam speraverant auro gravem,</p>
+  <p>Sensêre vacuam, sponte rursum abjecerint.</p>
+  <p>(355) <hi rend="italic">Gans</hi>. Furunculi? Num
+  cistula à furum manu</p>
+  <p>Subducta? Quanam hoc arte, vel quonam dolo?</p>
+  <p>Non ergo custodire quàm cautissime</p>
+  <p>Hanc Arculam te Vulpulum decuit?
+  <hi rend="italic">Vulp</hi>. Nihil</p>
+  <p>Ultra interest, quî perdita sit Arcula, modo</p>
+  <p>(360) Reperta sit feliciter. Suavissime</p>
+  <p>Mi Ganserelle, debeo immensas tibi,</p>
+  <p>Et habebo grates. Unicum hoc à te peto.</p>
+  <p>Per pristinam inter nos amicitiam cave,</p>
+  <p>Ne cistulam à me perditam Dominus Comes</p>
+  <p>(365) Sociive reliqui resciant. Altum sile</p>
+  <p>A te repertam quopiam abjectam loco.</p>
+  <p><hi rend="italic">Gans</hi>. Praestabo, quod me poscis;
+  at tu, quod peto,</p>
+  <p>Pariter mihi praestabis, ut nempe videam</p>
+  <p>Ovum latens Vupanseris. <hi rend="italic">Vulp</hi>i.
+  Non Arculam</p>
+  <p>(370) Vix dum repertam curiosus illico</p>
+  <p>Et cupidus inspexisti? <hi rend="italic">Gans</hi>.
+  Utique clavis mihi</p>
+  <p>Ad Arculam hanc est nulla, quam solus tenes.</p>
+  <p>Aperi ergo. <hi rend="italic">Vulp</hi>. Non licet.
+  Comes gravissime</p>
+  <p>Prohibuit hoc. <hi rend="italic">Gans</hi>. Quid inde?
+  Nemo nos videt,</p>
+  <p>(375) Prodétve. <hi rend="italic">Vulp</hi>. Sit,
+  quòd nemo nos pordat; tamen</p>
+  <p>Fidelis ego mandata Dominorum sequor.</p>
+  <p>Tu, Ganserelle, curiosus es nimis.</p>
+  <p><hi rend="italic">Gans</hi>. Sum curiosus, fateor, et
+  Vulpanseris</p>
+  <p>Ovum nisi monstraveris, dicam omnibus,</p>
+  <p>(380) Quod negligenter Arculam hanc servaveris,</p>
+  <p>Dum passus illam es abripi a furunculis.</p>
+  <p>Quin plura dicam de Italis pueris mihi</p>
+  <p>Jam nota. <hi rend="italic">Vulp</hi>. Quaeso,
+  obtestor! <hi rend="italic">Gans</hi>. Ergo ovum cito</p>
+  <p>Ostende. <hi rend="italic">Vulp</hi>. Ganserelle, mi
+  fratercule,</p>
+  <p>(385) Majus aliquid praestabo. Scis, qua gratia</p>
+  <p>Apud Heribertum polleam: quidquid peto,</p>
+  <p>A Comite facilis impetro. In bonum tuum</p>
+  <p>Authoritate hac utar, efficiam brevi,</p>
+  <p>Ut pascuis extractus exemplo meo</p>
+  <p>(390) Ex anserum custode Ephebus fulgeas</p>
+  <p>Secundus à me in arce, et uno Vulpulo</p>
+  <p>Sit Ganserellus inferior. <hi rend="italic">Gans</hi>.
+  Hoc si mihi</p>
+  <p>Praestiteris, altum spondeo silentium.</p>
+  <p>Sed bene caveto, ne datam frangas fidem.</p>
+</div>
+<div type="level1" xml:id="scena-septima.-1">
+  <head>29. Scena Septima.</head>
+  <p><hi rend="italic">Vulpulus solus</hi>.</p>
+  <p>(395) Quàm varia fata me rotant una die!</p>
+  <p>Quas conjicit in angustias ovum unicum</p>
+  <p>Vulpanseris! Jam cautius custodiam,</p>
+  <p>Ne perdere queam denuo, Arculam</p>
+  <p>Appendo collo. Semper ob oculos eos</p>
+  <p>(400) Versetur. Agite jam, redite huc, Itali:</p>
+  <p>Satis clepaces Vulpulus ludet manus.</p>
+  <p>Sed coepta dudum compleamus denique.</p>
+  <p>Non curiositate noxia trahor.</p>
+  <p>Mera sciendi gratia inquirere juvat,</p>
+  <p>(405) Cujus coloris, candidi, aut atri, an rubri</p>
+  <p>Vulpanserum sint ova. Sed caute tamen</p>
+  <p>Ne frigus intret, et noceat ovo, nimis</p>
+  <p>Adhuc tenello ... fallor? An quis se movet</p>
+  <p>Inter vireta? ... Panicus tantùm timor.</p>
+  <p>(410) Me nemo cernit, nemo. Tantùm ad rem cito. ...</p>
+  <p>Rursus aliquid se movit, ut puto, hic prope.</p>
+  <p>Vae Vulpulo, si quispiam è sodalibus</p>
+  <p>Deprehenderet. Ludibrio quanto forem</p>
+  <p>Omnibus in arce. Crederent omnes mera</p>
+  <p>(415) Me curiositate victum, crederent</p>
+  <p>Et Vulpulum peccâsse primaevo in Patre.</p>
+  <p>Nil video. Sunt tuta omnia. Arbiter procul.</p>
+  <p>Audacter anime!<ptr target="#tn11" n="11"/> Vah! Quid hoc? Vulpanseris</p>
+  <p>Ovum interim animatum, atque jam exclusum avolat? ...</p>
+  <p>(420) Sed sentio, sum fraude delusus mala.</p>
+  <p>Avicula est, acanthis. Hic laqueus mihi</p>
+  <p>Est positus ipso à Comite. Captus haereo.</p>
+  <p>Miserrimum me! Captus haereo turpiter.</p>
+  <p>Avicula! Ah, carissima mihi avicula!</p>
+  <p>(425) Redi, obsecro! Descende! Repete cistulam.</p>
+  <p>Avicula! Ah, carrissima mihi avicula!</p>
+  <p>Amygdalum! Ecce! Amygdalum dulcissimum,</p>
+  <p>Descende! Vel transfigo te sclopo meo.</p>
+  <p>Descende, chara avicula, repete cistulam. ...</p>
+  <p>(430) Procul avolat. Vah! Bestia! Pecus! Bellua!</p>
+  <p>Ut unguibus te laceret accipiter ferox,</p>
+  <p>Unóque tractu devoret. ... Redi, obsecro,</p>
+  <p>Avicula! Ah, charissima mihi avicula!</p>
+  <p>O bestia! Pecus! Bellua! Abscessit, redux</p>
+  <p>(435) Non veniet, et ego captus haereo dolis</p>
+  <p>Lusus nefandis! Quid sodales? Quid Comes?</p>
+  <p>Sum perditus, eo, proxima hac ex arbore</p>
+  <p>Suspendo me. Valeto cum sociis Comes.</p>
+</div>
+<div type="level1" xml:id="pars-tertia.">
+  <head>30. Pars Tertia.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.-2">
+  <head>31. Scena Prima.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-vulpulus-ganserellus.-1">
+  <head>32. Personae. Vulpulus, Ganserellus*.</head>
+  <p><hi rend="italic">Gans</hi>. Mecum mei parentis
+  ingredere domum.</p>
+  <p>(440) Auceps peritus alitum turmas alit,</p>
+  <p>Et generis omnis. Poteris ex his omnibus</p>
+  <p>Eligere, quod placuerit. <hi rend="italic">Vulp</hi>.
+  Hinc me longius</p>
+  <p>Discedere vetat, qui brevi hic aderit Comes.</p>
+  <p>Tu postulatam aviculam defer mihi</p>
+  <p>(445) Acanthiden. Notâstin’ bene?
+  <hi rend="italic">Gans</hi>. Quam optime:</p>
+  <p>Acanthiden optas, et quidem vivam.
+  <hi rend="italic">Vulp</hi>. Citus</p>
+  <p>Talem affer, et citissime. Dignum tua</p>
+  <p>Industria à me Praemium, et laudem feres.</p>
+  <p><hi rend="italic">Gans.</hi> Eróne Ephebus proximus
+  gradu tibi?</p>
+  <p>(450) <hi rend="italic">Vulp</hi>. Eris.
+  <hi rend="italic">Gans</hi>. Ergo propero, curro, festino,
+  volo.</p>
+</div>
+<div type="level1" xml:id="scena-secunda.-2">
+  <head>33. Scena Secunda.</head>
+  <p><hi rend="italic">Vulpulus solus</hi>.</p>
+  <p>Feliciter, dum colla jam laqueo paro</p>
+  <p>Inserere, tristis victima infamis necis;</p>
+  <p>Vis ingenî suggessit optatum dolum,</p>
+  <p>Quo mihi paratos perfide eludam dolos.</p>
+  <p>(455) Aviculam simillimam illi, quae prius</p>
+  <p>Ex cistula avolavit, accipiam modo</p>
+  <p>Per Ganserellum, hanc arculae includo locô</p>
+  <p>Prioris, et sic nemo cognoscet reum</p>
+  <p>Me curiositatis. Imo me Comes</p>
+  <p>(460) Laudabit, et mirabitur tantam fidem,</p>
+  <p>Et nunquam apertam cistulam. Socii quoque</p>
+  <p>Cum Eustachio cogentur, inviti licèt,</p>
+  <p>Tandem fateri, Vulpulum in Adamo nihil</p>
+  <p>Peccâsse. Qui me capere studuit fraudibus,</p>
+  <p>(465) Nasum capiet altissima turri Babel</p>
+  <p>Nihil minorem. Sed redit Comes nimis</p>
+  <p>Maturus. O si Ganserellus huc cito!</p>
+  <p>Vis Ingenî tu Vulpulum interim juva.</p>
+</div>
+<div type="level1" xml:id="scena-tertia.-2">
+  <head>34. Scena Tertia.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.-heribertus-rosindus-eustachius-vulpulus.">
+  <head>35. Personae. Heribertus, Rosindus, Eustachius,
+  Vulpulus*.</head>
+  <p><hi rend="italic">Her</hi>. Frustra sumus. Vulpanser
+  evasit manus,</p>
+  <p>(570) Sclopósque nostros.
+  <hi rend="italic">Ros</hi>. Spem nimis cito abjicis,</p>
+  <p>Non exeamus nemore, nisi Vulpansere</p>
+  <p>Haerente nostris retibus. <hi rend="italic">Vulp</hi>.
+  Dicis bene,</p>
+  <p>Rosinde. Porro instate, praeda, spondeo,</p>
+  <p>Optata tandem improvidè in casses ruet.</p>
+  <p>(575) <hi rend="italic">Her</hi>. Haec Vulpulus
+  suadere? Non ergo amplius</p>
+  <p>Nos curiositatis indignae arguis?</p>
+  <p><hi rend="italic">Vulp</hi>. Indigna curiositas non est
+  feras</p>
+  <p>Venatione persequi; sed te prius,</p>
+  <p>Rosinde, tenuit nimia curiositas</p>
+  <p>(580) Ovum videndi. <hi rend="italic">Herib</hi>.
+  Num satis caute interim</p>
+  <p>Thesaurus hic servatus à te, Vulpule?</p>
+  <p><hi rend="italic">Vulp</hi>. Cautissime, ne perderem,
+  collo, ut vides,</p>
+  <p>Hanc arculam constanter appensam gero.</p>
+  <p><hi rend="italic">Eust</hi>. Nihilne fractum, aut
+  forsitam ruptum? Nihil</p>
+  <p>(585) Examinâsti? <hi rend="italic">Vulp</hi>. Tam
+  curiosus non fui,</p>
+  <p>Ut tu fuisses. Arculam clausam bene</p>
+  <p>Nunquid teneri jusseras, Domine Comes?</p>
+  <p><hi rend="italic">Herib</hi>. Id jusseram.
+  <hi rend="italic">Vulp</hi>. Scis Vulpulum jussa
+  exequi.</p>
+</div>
+<div type="level1" xml:id="scena-quarta.-2">
+  <head>36. Scena Quarta.</head>
+  <p><hi rend="italic">Prioribus accedunt Cervinus, et
+  Mopsus</hi>.</p>
+  <p><hi rend="italic">Cerv</hi>. Repetimus arcem. Crastina
+  forsan die</p>
+  <p>(590) Felicius Vuplanseris venatio</p>
+  <p>Succedet. <hi rend="italic">Mop</hi>. Ego noctem
+  integram sylvas vigil</p>
+  <p>Subibo. Si vestigium novum ferae</p>
+  <p>Deprendero, monebo vos summo maner.</p>
+  <p><hi rend="italic">Herib</hi>. Sic, Mopse, facias.
+  Interim arcem repetimus,</p>
+  <p>(595) Ubi videndum singulis ovum dabo</p>
+  <p>Vulpanserinum. <hi rend="italic">Rosind.</hi> Non fero
+  cupidus moras.</p>
+  <p><hi rend="italic">Herib</hi>. Non nos sequêris,
+  Vulpule? <hi rend="italic">Vulp</hi>. Sequar, vos modo</p>
+  <p>Praeite celeres. Me decet lento gradu</p>
+  <p>Per cespites hos ingredi, ne quid mali</p>
+  <p>(600) (Si forte durus falleret stipes pedem)</p>
+  <p>Patiatur ovum fragile. <hi rend="italic">Eust</hi>.
+  Tecum ibo, comes</p>
+  <p>Custosque, ne fors obvius te mordeat</p>
+  <p>Vulpanser. <hi rend="italic">Vulp</hi>. Haud indigeo
+  custode. <hi rend="italic">Eust</hi>. Comitem</p>
+  <p>Admitte saltem. <hi rend="italic">Vulp</hi>. Vade, vade
+  ...</p>
+</div>
+<div type="level1" xml:id="scena-quinta.-2">
+  <head>37. Scena Quinta.</head>
+  <p><hi rend="italic">Accedit Ganserellus</hi>.</p>
+  <p><hi rend="italic">Gans</hi>. ... Vulpule!</p>
+  <p>(605) En quam petieras alitem, pulcherrimam</p>
+  <p>Acanthidem. <hi rend="italic">Mops</hi>. Unde avicula
+  haec? <hi rend="italic">Vulp</hi>. Curam exue,</p>
+  <p>Solvetur. <hi rend="italic">Herib</hi>. Ad quid
+  Vulpulus avem? <hi rend="italic">Vulp</hi>. Tempori</p>
+  <p>Fallendo. <hi rend="italic">Eust</hi>. Cur Acanthidem?
+  Cur non Parum?</p>
+  <p><hi rend="italic">Vulp</hi>. Acanthis avis est
+  innocens. Pari nimis</p>
+  <p>(610) Sunt curiosi, curiosos non amo.</p>
+  <p><hi rend="italic">Mops</hi>. Denarium ergo solve.
+  <hi rend="italic">Vulp</hi>. Submittam tibi</p>
+  <p>Per Ganserellum. Vos redite jam domum,</p>
+  <p>Me tardiore vos sequi gressu decet,</p>
+  <p>Ne forsan ovum fragile laedatur, nimis</p>
+  <p>(615) Properante me. <hi rend="italic">Mops</hi>.
+  Quis vanus incessit timor?</p>
+  <p>Vulpanserum ova tenera non sunt.
+  <hi rend="italic">Ros</hi>. Siccine</p>
+  <p>Etiámne poterunt frigus, atque auram pati?</p>
+  <p><hi rend="italic">Mops</hi>. Omni absque laesione, quin
+  mediis solent</p>
+  <p>Deponere illa nivibus, ubi novos volunt</p>
+  <p>(620) Vulpanseres excludere parentes.
+  <hi rend="italic">Ros</hi>. Bene,</p>
+  <p>Sic ergo jam licebit aperire arculam,</p>
+  <p>Et antequam subeamus arcis limina</p>
+  <p>Recreare nostra lumina aspectu diu</p>
+  <p>Avidè cupito. <hi rend="italic">Vulp</hi>. Prô! Puer!
+  Quàm te nimis</p>
+  <p>(625) Peccâsse prodis in Parente Adamo.
+  <hi rend="italic">Ros</hi>. Ita est,</p>
+  <p>Peccâsse me fatebor, at nunquid pari</p>
+  <p>Vos curiositate singuli hac die</p>
+  <p>Tenemini? <hi rend="italic">Cerv</hi>. Rogamus,
+  Illustrissime,</p>
+  <p>Rogamus omnes: cistulam aperiri jube.</p>
+  <p>(630) Spectemus ovum, quo nihil rarum magis</p>
+  <p>Spectavimus. <hi rend="italic">Vulp</hi>. Post vesperam
+  reduces domum</p>
+  <p>Spectabitis. <hi rend="italic">Ros</hi>. Rogamus,
+  illustrissime.</p>
+  <p><hi rend="italic">Ros. et Cerv</hi>. Et supplices
+  quidem rogamus. <hi rend="italic">Vulp</hi>. Ne,
+  obsecro,</p>
+  <p>Ne cede votis, respue indingas preces,</p>
+  <p>(635) Frangenda curiositas turpissima.</p>
+  <p><hi rend="italic">Herib</hi>. Videtur esse innocua
+  curiositas,</p>
+  <p>Rejicere non sustuineo supplices preces.</p>
+  <p>Fac ergo, pateat arcula. <hi rend="italic">Vulp</hi>.
+  Obsecro. <hi rend="italic">Herib</hi>. Impero.</p>
+  <p><hi rend="italic">Vulp</hi>.<ptr target="#tn12" n="12"/> Ubi clavis? Haud invenio clavem, proxima</p>
+  <p>(640) Inter vireta, perditam credo. Veni,</p>
+  <p>Juvaque Ganserelle, clavem quaerimus.</p>
+  <p><hi rend="italic">Ros</hi>. Quaeramus et nos.
+  <hi rend="italic">Vulp</hi>. Ite vos vestras vias;</p>
+  <p>Nam Ganserellus sufficit solus mihi.</p>
+  <p><hi rend="italic">Herib</hi>. Subsistite omnes, teneo
+  jam clavem alteram</p>
+  <p>(645) Et haec aperiet. Applica.
+  <hi rend="italic">Vulp</hi>. Non aperiet,</p>
+  <p>Sat scio, non aperiet. <hi rend="italic">Herib</hi>.
+  Applica. Impero.</p>
+  <p>Cervine, tolle cistulam. Clavem applica,</p>
+  <p>Quod Vulpulus recusat.
+  <hi rend="italic">Cerv</hi>.<ptr target="#tn13" n="13"/> Invenio nihil</p>
+  <p>Ovi latentis. Vacua tota est cistula.</p>
+  <p>(650) <hi rend="italic">Herib</hi>. Quid Vulpulus
+  ad haec? Ovum ubi Vulpanseris?</p>
+  <p><hi rend="italic">Vulp</hi>. Oris mei calore jam
+  excoctum interim</p>
+  <p>Parvum dedit Vulpanserem, qui nescio</p>
+  <p>Quonam avolârit. <hi rend="italic">Eust</hi>. Cistula
+  clausa undique?</p>
+  <p><hi rend="italic">Vulp</hi>. Hoc per foramen, cui
+  inseri clavis solet,</p>
+  <p>(655) Nonne avolare potuit?
+  <hi rend="italic">Herib</hi>. Insolens puer.</p>
+  <p>Nugaris etiam? Nonne deprehensum vides</p>
+  <p>Crimen tuum? <hi rend="italic">Vulp</hi>. Fatebor,
+  illustrissime!</p>
+  <p>Multum fui sollitus, et valde anxius,</p>
+  <p>Ne fragilis hic thesaurus, ovumque tenerum,</p>
+  <p>(660) Quod dixeras latere, fors à frigore</p>
+  <p>Arcam ambiente quidpiam damni ferat,</p>
+  <p>Ergo volebam involvere hoc melius, nova</p>
+  <p>Et mollia addens lintea: at vix cistula</p>
+  <p>Aperta fuit, erupit inde avicula.</p>
+  <p>(665) <hi rend="italic">Herib</hi>. Omitte nugas.
+  Candide culpam tuam</p>
+  <p>Fateare: curiositas sola impulit,</p>
+  <p>Ut, me licèt vetante graviter, cistulam</p>
+  <p>Aperire non sis veritus. <hi rend="italic">Vulp</hi>.
+  Aliquid, non nego,</p>
+  <p>Fors curiositatis accessit.
+  <hi rend="italic">Herib</hi>. Aliquid?</p>
+  <p>(670) Tam pertinax defensio omni gratia</p>
+  <p>Te reddit indignissimum. Insolens puer!</p>
+  <p><hi rend="italic">Vulp</hi>. Fatebor, Illustrissime,
+  fatebor, reus</p>
+  <p>Sum curiositatis hac tantum die.</p>
+  <p>Ignosce! Culpam deprecor humilis.
+  <hi rend="italic">Ros</hi>. Igitur</p>
+  <p>(675) Et Vulpulus peccavit in Primo Patre?</p>
+  <p><hi rend="italic">Cerv</hi>. Et curiositatis atro
+  crimine,</p>
+  <p>Turpissimoque semet adstrinxit?
+  <hi rend="italic">Cerv</hi>. Viris</p>
+  <p>Indigna curiositas; in foeminis</p>
+  <p>Toleranda tantum. <hi rend="italic">Eust</hi>. Vindica
+  factum, Comes.</p>
+  <p>(680) Frangenda curiositas turpissima.</p>
+  <p><hi rend="italic">Herib</hi>. Est utique curiositas
+  crimen grave,</p>
+  <p>Quae spernere audet jussa dominorum, et quidem</p>
+  <p>Jussa graviter vetantia, et tanto simul</p>
+  <p>Conjuncta cum periculo, et damnis Heri.</p>
+  <p>(685) <hi rend="italic">Vulp</hi>. Damnum omne
+  compensabo, cerne aviculam</p>
+  <p>Simillimam per omnia illi, quae prius</p>
+  <p>E cistula avolavit. <hi rend="italic">Herib</hi>. Haud
+  avem queror</p>
+  <p>Deperditam sed perfidè fractam fidem,</p>
+  <p>Et curiositatis indignae nimis</p>
+  <p>(690) Pruriginem. Sed faxo, delictum luas.</p>
+  <p><hi rend="italic">Vulp</hi>. Ignosce!
+  <hi rend="italic">Herib</hi>. Mopse, detrahe puero
+  togam,</p>
+  <p>Vestémque Ephebi et pileum.
+  <hi rend="italic">Vulp</hi>. Ah, domine Comes!</p>
+  <p>Ignosce, te per dexteram obtestor tuam.</p>
+  <p><hi rend="italic">Herib</hi>. Quae te prius levavit ex
+  grege anserum</p>
+  <p>(695) Et clarum Ephebi munus ingrato obtulit?</p>
+  <p><hi rend="italic">Vulp</hi>. Ah, deprecor.
+  <hi rend="italic">Herib</hi>. Fac, Mopse, quod jussi,
+  ocyus.</p>
+  <p>Hunc pileum, togamque do nato tuo.</p>
+  <p>Sit Ganserellus Vulpuli indigni loco</p>
+  <p>Posthac Ephebus noster; at nati tui</p>
+  <p>(700) Locum replebit Vulpulus, et ad anserum</p>
+  <p>Custodiam remissus exemplo suo,</p>
+  <p>Quae damna curiositas ferat, probet.</p>
+  <p><hi rend="italic">Mops</hi>. O Domine mi Illustrissime!
+  O auree Comes!</p>
+  <p>Puer! Osculare dexteram Domini adeo</p>
+  <p>(705) In nos benigni. <hi rend="italic">Gans</hi>.
+  Exosculor. Cedo tibi,</p>
+  <p>Vulpule, flagellum, pileum, et togam meam.</p>
+  <p><hi rend="italic">Herib</hi>. Hanc induas, sic jubeo.
+  <hi rend="italic">Eust</hi>. Quàm belle tuis</p>
+  <p>Manibus flagellum quadrat, et toga candida.</p>
+  <p><hi rend="italic">Gans</hi>. Pavêre te sat anseres,
+  nunc anseres</p>
+  <p>(710) Rursum vicissim pasce.
+  <hi rend="italic">Mops</hi>. Sunt merita tua,</p>
+  <p>Forma, indoles, dotésque caeterae pares</p>
+  <p>Huic muneri. <hi rend="italic">Vulp</hi>. Rosinde!
+  Cervine! Ah preces</p>
+  <p>Pro Vulpulo interponite! <hi rend="italic">Ros</hi>.
+  Ipse Vulpulus</p>
+  <p>Pollet Heriberti gratia plus omnibus.</p>
+  <p>(715) <hi rend="italic">Cerv</hi>. Hic cuncta
+  solus in suum Domnum potest.</p>
+  <p><hi rend="italic">Vulp</hi>. Sicne misero insultatis?
+  Eustachi! Tuum</p>
+  <p>Ah ne sodalem desere. <hi rend="italic">Eust</hi>.
+  Sodalem suum</p>
+  <p>Me Vulpulus vocare dignatur? Tamen</p>
+  <p>Pedissequus sum, et servulus tantum infimus:</p>
+  <p>(720) At Vulpulus jam Ephebus, et primus quidem,</p>
+  <p>Brevi futurus nescio quàm praepotens,</p>
+  <p>Magnúsque Dominus, fortè vix Comite minor.</p>
+  <p><hi rend="italic">Vulp</hi>. Ah, Ganserelle!
+  <hi rend="italic">Gans</hi>. Quomodo loqueris, puer?</p>
+  <p>Dic: Domine Ganserelle. Ephebus sum novus,</p>
+  <p>(725) À Vulpulo secundus.
+  <hi rend="italic">Herib</hi>. Age, Mopse, puerum</p>
+  <p>Ad pascua abduc, filii tui loco</p>
+  <p>Fac anseres custodiat. <hi rend="italic">Mops</hi>.
+  Veni, Patrem</p>
+  <p>In me novum propitia sors dedit tibi.</p>
+  <p><hi rend="italic">Gans</hi>. Commendo puerum pariter.
+  Hunc tractes, rogo,</p>
+  <p>(730) Ut me solebas. Vulpule, stomachum explica;</p>
+  <p>Etenim hodierna in caenula affatus bene</p>
+  <p>Et pinguis anser ventre recubabit tuo.</p>
+  <p><hi rend="italic">Vulp</hi>. Ergóne ab arce exclusus
+  aeternum? <hi rend="italic">Her</hi>. locum</p>
+  <p>Do gratiae aliquem, Vulpule, licebit tibi</p>
+  <p>(735) Redire in arcem, quando Vulpanser novum</p>
+  <p>Excludet ovum. <hi rend="italic">Pueri omnes</hi>. Jam
+  anseres inter vale.</p>
+  <p><hi rend="italic">Vulp</hi>. Funesta curiositas! Quo me
+  trahis!</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>O.A.M.D.D.V.</p>
+  <p>H.E.G.</p>
+</div>
+        
+<div type="notes"><note xml:id="tn1"><p><hi rend="footnote">1</hi> Portans retia volucrum.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> Prope scenam.</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> Ad Heribertum.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> Ad Eustachium.</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> Abeundo tacite.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> Pueri Itali pronuntiant omnia accentu italico.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> Interim cistulam in cespite sepositam adrepenti Ganserellot
+    radit, qui illico cum illa auffugit.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> Vulpulus quaerens cistulam circumspicit.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> Intra Scenam exploditur sclopetum.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> Abit.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> Aperit cistulam, inde evolat avicula.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> Simulat se clavem invenire non posse.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> Cervinus ereptum invito Vulpulo cistam aperit.</p></note></div>
+
+    </body>
+</text>
+</TEI>

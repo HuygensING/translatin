@@ -39,7 +39,7 @@ Alberti, T. I.
 
 ≤page=cxxx≥
 
-## PERSONAE.
+# 1. PERSONAE.
 
 Phroneus.
 
@@ -65,7 +65,7 @@ Tychia.
 
 ≤page=cxxxi≥
 
-## INCIPIT
+# 2. INCIPIT
 
 FABULA PHILODOXEOS
 
@@ -73,7 +73,7 @@ LEONIS BAPTISTA ALBERTI:
 
 LECE FELIClTER.
 
-## ARGUMENTUM.
+# 3. ARGUMENTUM.
 
 Philodoxeos atheniensis adolescens Doxiam romanam civem amat perdite
 atqui habet, fide optima et singulari amicitia, conjunctum Phroneum, qui
@@ -88,7 +88,7 @@ Tandem Mnymia ancilla cum virum suum Phroneum comperisset atque Tychia
 Fortuni mater, precibus exorarunt, ut Chronos excubiarum magister omnia
 componeret. Ex quo, hic raptam tenuit, his vero amatam duxit.
 
-## SCENA I.
+# 4. SCENA I.
 
 PHRONEUS.
 
@@ -126,7 +126,7 @@ iterum: bis quesivi pervolitans omnes vinarias tabernas: et nusquam
 hominem. Hic ergo fessus operiar ≤page=cxxxiii≥ dum fortasis redeat. Sed
 quis est qui huc inter eundum inter loquitur? ipsus enim vero ipsus est.
 
-## SCENA II.
+# 5. SCENA II.
 
 APHTONUS, PHRONBUS.
 
@@ -253,7 +253,7 @@ caena.
 **Phron**. Semper sum tecum animo, eroque alias corpore, ut iupseris.
 Jam bene vale.
 
-## SCENA III.
+# 6. SCENA III.
 
 DYNASTES, FORTUNIUS.
 
@@ -329,7 +329,7 @@ accipias tuam.
 **Dyn**. Heus! Heus! et quis hic est? et quid fores patent? at
 domesticus ipse sum, mihi semper patent: ingredior: salvete lares.
 
-## SCENA IV.
+# 7. SCENA IV.
 
 PHILODOXUS, PHRONEUS.
 
@@ -367,7 +367,7 @@ auscultabimus quid consiliorum congerant.
 
 **Phron**. Tace.
 
-## SCENA V.
+# 8. SCENA V.
 
 APHTONUS, DYNASTES, FORTUNIUS, PHILODOXUS, PHRONEUS.
 
@@ -473,7 +473,7 @@ testes, insanis?
 
 **Phil**. Quo is?
 
-## SCENA VI.
+# 9. SCENA VI.
 
 PHRONEUS, DYNASTES, FORTUNIOS, APHTONUS, PHILODOXOS.
 
@@ -597,7 +597,7 @@ calet vulnus: nolo hic interim solus frigescere.
 
 ≤page=cxliv≥
 
-## SCENA VII.
+# 10. SCENA VII.
 
 PHILODOXUS, DOXIA, PHEMIA.
 
@@ -680,7 +680,7 @@ satis honori dedi vestro, idque ex animo atque studio.
 
 **Phil**. Vale, et tn vale, meque memoriae commendatum habe.
 
-## SCENA VIII.
+# 11. SCENA VIII.
 
 PHILODOXUS.
 
@@ -713,7 +713,7 @@ rebus omnibus nostrum fabricatorem fraudium conveniam Phronisim, ut
 narrem haec quo tutius re, cousilio, et opere quae in usum veniant
 conficiat. Sed quid hi servi mussant? Cupio hinc furtim auscultare.
 
-## SCENA IX.
+# 12. SCENA IX.
 
 APHTONUS, DYNASTES.
 
@@ -765,7 +765,7 @@ corrigam.
 
 .
 
-## SCENA X.
+# 13. SCENA X.
 
 PHILODOXUS, PHRONEUS.
 
@@ -818,7 +818,7 @@ atque eosdem huc proficiscentes veluti ab insidiis longe prosequor.
 ≤page=cl≥ **Phron**. Censeo, sic censeo, quia censent nos censete, quod
 male censeant.
 
-## SCENA XI.
+# 14. SCENA XI.
 
 FORTUNIUS, PHRONEUS, PHILODOXUS.
 
@@ -879,7 +879,7 @@ convenit militem curo calore jurgari: itaque tum ad istos pergam. Quis
 hic est? Aphtone heus! ... at ubi sunt isti convedusti bibones? Et
 nullus est. Verum ingrediar.
 
-## SCENA XII.
+# 15. SCENA XII.
 
 MNYMIA, PHRONEUS, PHILODOXUS, ALETHIA.
 
@@ -988,7 +988,7 @@ re certiorem reddamus patrem, hisce in aedibus hoc esse admissam scelus.
 **Phil**. Ergo tu Phroneus comitabere has: ego accedam ad forum ut
 senem, si viderim, eum mox domum huc adducam.
 
-## SCENA Xlll.
+# 16. SCENA Xlll.
 
 MNYMIA, PHRONEUS, ALETHIA.
 
@@ -1118,7 +1118,7 @@ polliceri. Vale.
 **Phron**. Ego Philodoxum requiram, sed prius haec sub angiportu sordes
 istas et lutum abstergam, meque pulcre comptum reddem.
 
-## SCENA XIV.
+# 17. SCENA XIV.
 
 PHRONEUS, CHRONUS, PHILODOXUS.
 
@@ -1147,7 +1147,7 @@ est.
 **Phil**. Perplacet. Sed eccum Phronisim huc eadem sub angiportu suas
 concinnantem plicas: accedam ut hominem huc adducam.
 
-## SCENA XV.
+# 18. SCENA XV.
 
 PRONEUS, PHILODOXUS.
 
@@ -1210,7 +1210,7 @@ interprete.
 
 **Phron**. Postremo hunc ad nos proficiscentem adeamus senem.
 
-## SCENA XVI.
+# 19. SCENA XVI.
 
 CHRONUS, PHRONEUS.
 
@@ -1245,7 +1245,7 @@ sunt, illico egrediar.
 
 **Phron**. Abeo.
 
-## SCENA XVII.
+# 20. SCENA XVII.
 
 TYCHIA.
 
@@ -1266,7 +1266,7 @@ pergere institui, nullasque conditiones recusabo. Dum invidiam sedatam,
 reddam; postea de corrigendo filio providebo. Sed eccum senem: jam non
 ero potis quicquam ut institueram, mutandum consilium est.
 
-## SCENA XVIII.
+# 21. SCENA XVIII.
 
 CHRONOS, TYCHIA, PHRONEUS.
 
@@ -1332,7 +1332,7 @@ quempiam.
 huc advolare: cessas verum, heus, cum redieras, dicito te hominem
 tiusquam comperisse.
 
-## SCENA XIX.
+# 22. SCENA XIX.
 
 MNYMIA, ALETHIA, CHRONOS, TYCHIA. .
 
@@ -1401,7 +1401,7 @@ raptus justis nuptiis deleatur. Quid tum ne hic aliud agimus? Redibo ad
 forum ut hos tabellarios cum singrafis missos faciam. Tu Mnymia,
 virginem commendatam habe.
 
-## SCENA XX.
+# 23. SCENA XX.
 
 PHILODOXUS, PHRONEUS, MNYMIA, CHRONOS, DOXIA.
 

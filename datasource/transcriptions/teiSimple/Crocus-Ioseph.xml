@@ -440,1391 +440,1355 @@
   <p>Bene colloces horas, adesto tempori,</p>
   <p>Et arbiter nostrae benignus opellulae,</p>
   <p>Et candidus spectator actiunculae.</p>
-  <div type="level2" xml:id="dramatis-personae.">
-    <head>Dramatis personae.</head>
-    <p>Mago seruolus. Sephirach matrona.</p>
-    <p>Ioseph oeconomus. Potiphar herus, praefectus satellitum regiorum,
-    ut qui etiam praefuerit tum carceri, tum ipsi praefecto carceris, ut
-    uidere est Genesis 40.</p>
-    <p>Lorarij. Hanno pocillator regius.</p>
-    <p>Puer. Gulussa carcerarius.</p>
-    <p><hi rendition="simple:bold">Ioseph Cornelii Croci Petri filii
-    Aemsterodami</hi></p>
-    <p>Acta sacrae dedicationis ferijs, quom et supplicatum est, ob
-    clarificatum Domini <hi rendition="simple:italic">Iesu</hi> nomen
-    inter gentes, Divina Caesariae Maiestatis in Aphrica victoria, M.
-    Ioanne Teyngo Medico experientissimo et Nicolao Gerardi filio
-    Primis, post frustratam ac labascentem, singulari Dei Optimi Maximi
-    beneficio, diutinam Luteranae haeresios tyrannidem, hoc Praetore,
-    illo Consule, Orthodoxis Aemsterodami, Anno a nato Christo. 1535.
-    Egere ingenui adolescentuli Petrus Comes Wlpipaludanus, Franciscus
-    Teyngus, Guilielmus Sylvius, Reinerus Simonius, Ioannes Hudepolius,
-    Egbertus Rodolphi filius, Ioannes Cornelii filius, Arnoldus
-    Tielmaniae filius et Nicolaus Alardi filius.</p>
-    <p>Edita M. Cornelio Dobbio Praetore orthodoxae fidei
-    observantissimo.</p>
-  </div>
-  <div type="level2" xml:id="prologus.">
-    <head>Prologus.</head>
-    <p><hi rendition="simple:italic">Trimetri</hi>.</p>
-    <p>Quod esse foelix omnibus uelit Deus,</p>
-    <p>Pariterque faustum, quotquot estis candidi,</p>
-    <p>Nigros enim nihil moramur, ni prius</p>
-    <p>Sese abluant, nouae uoluptatis nouos,</p>
-    <p>≤line=5≥ Grege a nouo, sum nuncius uobis datus.</p>
-    <p>Apporto nanque, non Plauti aut Terentij,</p>
-    <p>Quas esse fictas nostis omnes fabulas,</p>
-    <p>Vanas, prophanas, ludicras ac lubricas:</p>
-    <p>Verum ueram, sacramque porto, et seriam,</p>
-    <p>≤line=10≥ Castam, pudicam, sic ut ipsas Virgines</p>
-    <p>Dictasse Musas, ac Mineruam deieres:</p>
-    <p>Nouamque, iam scriptam recens comoediam,</p>
-    <p>Cui iure, cui ex re, Ioseph nomen inditum.</p>
-    <p>Nil addo qualis caetera siet: caeterum</p>
-    <p>≤line=15≥ Vostrum illud esto iudicium. At si illae tamen,</p>
-    <p>Merito omnibus omnium eruditorum notis,</p>
-    <p>Censentur esse uitae speculum, atque eas</p>
-    <p>Spectare cuncti gestiunt, dum copia est:</p>
-    <p>Nihil minus, idem huic deferri historiae</p>
-    <p>≤line=20≥ Aequom est: ne quid maius dicam, sed uerius.</p>
-    <p>Hanc exhibere heic iam cupit, si operam datis,</p>
-    <p>Vostri fauore, uostrae item in spem gratiae,</p>
-    <p>Encaeniorum ferias, quibus potest</p>
-    <p>Modis, honestatura sacras, auspice</p>
-    <p>≤line=25≥ Christo, simulque Gratijs fauentibus,</p>
-    <p>Autore Crwco, publicae pubes scholae.</p>
-    <p>Caeterum hoc agamus, huc qua uentum est gratia,</p>
-    <p>Vt argumentum disseram comoediae.</p>
-    <p>Ioseph fideli pectore reuerens Dei,</p>
-    <p>≤line=30≥ Clari parentis filius clarissumus,</p>
-    <p>Pudore plus quam uirgineo, cana fide,</p>
-    <p>Totaque uirtutum catena praeditus,</p>
-    <p>Domi malignis fratrum odijs exercitus,</p>
-    <p>Et demum ab ijsdem uenditus, in Aegyptias</p>
-    <p>≤line=35≥ Delatus oras, seruitutem seruijt</p>
-    <p>Satellitum praefecto regiorum hero.</p>
-    <p>Heic dum gubernat creditam sibi domum,</p>
-    <p>Aetate florens lubrica, et forma pari,</p>
-    <p>Lubidinosis captae amore amplexibus</p>
-    <p>≤line=40≥ Herae petitus, nescijt corrumpier:</p>
-    <p>Fugiens, relicto quo prehensus pallio est.</p>
-    <p>Quod recipienti se domum illa coniugi</p>
-    <p>Praetendit, immerentem Ioseph criminans.</p>
-    <p>Eumque falsis percitus querimonijs</p>
-    <p>≤line=45≥ Herus, profundo mancipat mox carceri.</p>
-    <p>Annis ubi duobus, aut eo amplius,</p>
-    <p>Clausus, profecta regi dum diuinitus</p>
-    <p>Interpretatur prodigiosa insomnia,</p>
-    <p>Et missionem, et rem parit sibi simul,</p>
-    <p>≤line=50≥ Dei fauore, et auspicatas nuptias.</p>
-    <p>Sic uincere animum sueti, quam quos animus, hi</p>
-    <p>Maiore semper post triumphant gloria.</p>
-    <p>Adeste sacri: res sacra est ut maxume.</p>
-    <p>Prophani adeste: res prophana est, sed sacre</p>
-    <p>≤line=55≥ Tractata: quae reddat sacros, lubentibus,</p>
-    <p>Vt par est, auribus recepta, ac mentibus.</p>
-    <p>Omneis proin opere maxumo oratos uolo,</p>
-    <p>Linguis fauete, et rem totam pernoscite.</p>
-    <p>Quod comicam si forte quis licentiam</p>
-    <p>≤line=60≥ Pedum putarit incessendam, huncce moneo,</p>
-    <p>Faciat ne intelligendo ut nihil intellegat.</p>
-    <p>Extant bonorum exempla, qui cunctis placent,</p>
-    <p>Plauti ac Terentij: quibus, alijs idem</p>
-    <p>Licere facere, quod illi fecerunt, puto.</p>
-    <p>≤line=65≥ Quorum aemulari praestat neglegentiam, ac</p>
-    <p>Morsulorum obscuram diligentiam.</p>
-    <p>Quos ut quiescant potius, et faueant, rogo,</p>
-    <p>Nouo, pioque puerilem pietatulam</p>
-    <p>Iuuandi publice studio, et mores bonos:</p>
-    <p>≤line=70≥ Quam ut tam religioso oblatrent negotio,</p>
-    <p>Superstitione liuida. et ueteri in noua</p>
-    <p>Re uerbo ut utar, dent crescendi copiam,</p>
-    <p>Nouarum qui spectandi faciant copiam.</p>
-    <p><hi rendition="simple:bold">PROTASIS COMOEDIAE.</hi></p>
-  </div>
-  <div type="level2" xml:id="actvs-primi-scena-i.">
-    <head>ACTVS PRIMI SCENA I.</head>
-    <p><hi rendition="simple:italic">Trimetri.</hi></p>
-    <p><hi rendition="simple:italic">Mago</hi>.</p>
-    <p>Vt dura res est Dij, seruom pro libero</p>
-    <p>≤line=75≥ Esse, alieni simul iuris et iniuriae?</p>
-    <p>Iniquos adeo dominos hoc seclum tulit</p>
-    <p>Noctes diesque, plus satis usque est, et super,</p>
-    <p>Quo facto aut dicto est opus, quietus ne sies.</p>
-    <p>Aequom an iniquom imperent, nihil iam pensi habent</p>
-    <p>≤line=80≥ Quodcunque collubitum eis, licere postulant.</p>
-    <p>At olim heris, tum quom meliora tempora</p>
-    <p>Fuere, humanitatis certamen fuit:</p>
-    <p>Non, ut nunc seruos eodem, quo mulos, habent</p>
-    <p>Loco. Verum illud duplicat molestiam,</p>
-    <p>≤line=85≥ Morosioris forte seruom esse domini</p>
-    <p>Si contigit, Deo irato, quales fere</p>
-    <p>Plerique. Caeterum multo ille miserrimus,</p>
-    <p>Heram morosam ferre quisquis perpetim</p>
-    <p>Cogitur, itidem ut nos hancce, iurgijs sine</p>
-    <p>≤line=90≥ Modo modestiaque quae scatet muliebribus,</p>
-    <p>Nulla adeo ex caussa: rixarum ipsa autor sibi.</p>
-    <p>Quocirca me foras eduxi ex aedibus</p>
-    <p>Parumper, hic ut nauseam leuem, modo</p>
-    <p>Intus conceptam, quae quidem quam commodis</p>
-    <p>≤line=95≥ Pridem esse moribus solet: nulli grauis?</p>
-    <p>Herus sed postquam liberius coepit suis</p>
-    <p>Iampridem inseruire officijs, domo frequens</p>
-    <p>Abesse, Hebraei fretus oeconomi fide,</p>
-    <p>Aut bile oportet, aut amore percitam.</p>
-    <p>≤line=100≥ Sed comprimenda uox est, atque oratio.</p>
-    <p>Crepuit fores: mirum ni ipsa exit: ut nihil</p>
-    <p>Quieti loci relictum? Eccam: ipsa adest tibi.</p>
-    <p>Vtinam mihi heic esset quo me praecipitem darem.</p>
-    <p>Iam iurgio enecabit credo, imo scio.</p>
-    <p>≤line=105≥ Proin ocyus hinc me ut intro conijciam optumum
-    est.</p>
-    <p>Nam si responsem, irritem magis.
-    <hi rendition="simple:italic">Hic senarius perficitur initio
-    scenae</hi></p>
-    <p><hi rendition="simple:italic">insequentis.</hi></p>
-  </div>
-  <div type="level2" xml:id="actvs-primi-scena-ii.">
-    <head>ACTVS PRIMI SCENA II.</head>
-    <p><hi rendition="simple:italic">Trimetri.</hi></p>
-    <p><hi rendition="simple:italic">Sephirach. Mago.</hi></p>
-    <p>Hem, quid rei</p>
-    <p>Tibi heic cessator? iamne missus obsecro</p>
-    <p>Manu? quid hic monstri alis?
-    <hi rendition="simple:italic">Mag.</hi> Eho, dixin’ hoc fore?</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Hoccine agis, an non?
-    <hi rendition="simple:italic">Ma.</hi> Ego uero isthuc mea domina.
-    <hi rendition="simple:italic">Seph.</hi> Vt</p>
-    <p>≤line=110≥ Te luppiter Diique omnes perduint scelus,</p>
-    <p>Quo nullus est scelestior qui uiuat hodie.</p>
-    <p>Nequeon’ ego te interdictis audientem meis</p>
-    <p>Facere? abi intro, et quod facto opus est, face: ni uelis</p>
-    <p>Cerebro heic tuo uias dispergier.
-    <hi rendition="simple:italic">Mag.</hi> Lubens.</p>
-  </div>
-  <div type="level2" xml:id="actvs-primi-scena-iii.">
-    <head>ACTVS PRIMI SCENA III.</head>
-    <p><hi rendition="simple:italic">Tetrametri Iambici, partim
-    Acatalectici, partim Catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Sephirach.</hi></p>
-    <p>≤line=115≥ Pro dii immortales, quod genus hoc hominum? quae haec
-    coniuratio est?</p>
-    <p>Vno omnibus animo unum aeque studium est, esse aduorsos
-    herae?</p>
-    <p>Iam’ne abijt ille? dicere heic quiduis licet? nimis male</p>
-    <p>Ego hunc metuo, ne’ mihi ex insidijs uerba imprudenti duit,</p>
-    <p>Circumspectator, cum oculis emissitijs: ita usque me</p>
-    <p>≤line=120≥ Obseruat malus. ah Ioseph, Ioseph, quid ego nunc te
-    laudem?</p>
-    <p>Vt dissimilis es seruorum aliorum? sane nunquam quidquam</p>
-    <p>Ita magnifice dici potest, uirtus quin id superet tua,</p>
-    <p>Quae mentem animumque excantat mihi, prorsus ut oblita sim
-    mei:</p>
-    <p>Non ista uolgaris, quae spe metuque officium facit suum,</p>
-    <p>Verum germana, uero quae studio facit. 125
-    <hi rendition="simple:italic">Senarius</hi></p>
-    <p>Sed mihi nimium proba, aduorsus animi sententiam mei,</p>
-    <p>Vel proxume quam grauiter appellanti respondit, Deum</p>
-    <p>Scelerum esse uindicem, nullum quem praetereat flagitium?</p>
-    <p>Atqui maiores hi sunt ignes, uerbis quam qui extingui</p>
-    <p>≤line=130≥ Queant. respondet par uirtuti forma, plus quam
-    humana</p>
-    <p>Conueniunt mores diuini, morumque amabilis gratia,</p>
-    <p>Tum index ingenij, animique speculum, oratio, quam cordata?</p>
-    <p>Quid uerbis opus est? nihil pote supra. credo equidem
-    uirtutem</p>
-    <p>Vna et naturam, in hoc certasse ornando: quidque possent,</p>
-    <p>≤line=135≥ Vires periclitari suas uoluisse. ut non pudori</p>
-    <p>Mihi esse iure debeat, uni huic culpae succubuisse.</p>
-    <p>Nequeo durare, tantum mihi in pectore amor facit incendium:</p>
-    <p>Qui amarore et moerore me implet nimio. perij: at ipsa</p>
-    <p>Sperabam infelix, et gratiam inituram ab eo, mihique</p>
-    <p>≤line=140≥ Fauore tam obuio sic deuincturam, nihil ut
-    quidquam</p>
-    <p>Recusaturus esset: quis etenim seruos homo tantam</p>
-    <p>Benignitatem herilem non cupide amplectatur, atque</p>
-    <p>Etiam bene secum esse actum dicat? imo non magnae ducat</p>
-    <p>Felicitatis loco, heram habere supplicem sibi suam?</p>
-    <p>≤line=145≥ Quid igitur faciam? quid restat miserae mihi? eheu,
-    nequeo</p>
-    <p>Quin lacrumem. quanto minus spei est, tanto magis amo.</p>
-    <p>Nulla est me miserior: domi quae quod amem assidue uideam,</p>
-    <p>Neque potiri liceat: nec qua uia sententia eius</p>
-    <p>Flecti possit scio: saepe iam eius tentaui animum, saepe</p>
-    <p>≤line=150≥ Praehensum solum adorta: monui, cum bona potius
-    mihi</p>
-    <p>Vt obsequeretur gratia, quam cum mala: frustra omnia,</p>
-    <p>Repulsa, spreta: rursum illi supplex fiam, qui precibus</p>
-    <p>Magis indurescit? meque aliarum ex moribus extimari</p>
-    <p>Patiar, iniuria quibus amorem addit misere? non faciam:</p>
-    <p>≤line=155≥ Et si me amor grauiter tenet. Potius me ita
-    comparabo,</p>
-    <p>Non perpeti superbi fastidia. quod utinam possem,</p>
-    <p>Nihil prius, neque fortius, magis lubet putare,</p>
-    <p>Haud obstinatione mihi negasse, sed pudore.</p>
-    <p>Illud cogito, si forte tandem expugnari queat, tanto</p>
-    <p>≤line=160≥ Deinde in amore futurum mihi constantiorem.</p>
-    <p>Experiar itaque, etsi iam saepe me spes haec frustrata est.</p>
-    <p>Deos quaeso, benignus erga me ut sit: quod cupiam, ne
-    grauetur.</p>
-    <p>Aggrediar blande, ac benedice, spero emollescet. satisne</p>
-    <p>Sic culta incedo? satin’ haec me uestis decet? dedi equidem</p>
-    <p>≤line=165≥ Operam sedulo. ita poliendo atque ornando hunc
-    contriui diem.</p>
-    <p>Vah, salus mea seruasti me. optume, ipse exit foras.
-    <hi rendition="simple:italic">Trochaici</hi></p>
-    <p>Diem festiuom, et amoenitatis plenum hunc. o faciem bene</p>
-    <p>Pulcram. quantum ore egregio decus enitet? quae gratia?</p>
-  </div>
-  <div type="level2" xml:id="actvs-primi-scena-iiii.">
-    <head>ACTVS PRIMI SCENA IIII.</head>
-    <p><hi rendition="simple:italic">Trochaici tetrametri,
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Ioseph. Sephirach.</hi></p>
-    <p>Heic heram astare aiebat Mago: atque eccam.
-    <hi rendition="simple:italic">Seph.</hi> Nunc est mihi</p>
-    <p>≤line=170≥ Adeundi ad eum tempus: accessero.
-    <hi rendition="simple:italic">Ios.</hi> Quid huic heic est rei?</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Dij mihi uortant bene.
-    <hi rendition="simple:italic">Ios.</hi> Pax tibi hera.
-    <hi rendition="simple:italic">Seph.</hi> Ioseph mi, maxume</p>
-    <p>Animo exoptate meo, mea uita, mea uoluptas unica.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Ecce autem iterum.
-    <hi rendition="simple:italic">Seph.</hi> In quo uno spes opesque
-    sunt sitae meae</p>
-    <p>Omnes. <hi rendition="simple:italic">Ios.</hi> Eia.
-    <hi rendition="simple:italic">Seph.</hi> Per ego te Deos, oro,
-    misereat mei</p>
-    <p>≤line=175≥ Te, cuius tibi potestas summa seruandae datur.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Missa isthaec face.
-    <hi rendition="simple:italic">Seph.</hi> Quid? missa? o loseph,
-    Ioseph, utinam mihi,</p>
-    <p>Vtinam esset pars aequa amoris tecum.
-    <hi rendition="simple:italic">Ios.</hi> Ah odio me enecas.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Ita’ne odisse tibi
-    uideor, amore quae pereo tui?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Obtundis. an ego, quaeso,
-    toties de eadem re audiam?</p>
-    <p>≤line=180≥ Equidem te alia de caussa adij, si pateris: quod mihi
-    tua</p>
-    <p>Intus opera sit opus. <hi rendition="simple:italic">Seph.</hi> Et
-    mihi heic tua, mea amoenitas.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Si quid uis aequi ac
-    boni, tua est: utere, atque impera.</p>
-    <p>Si quid honesti est, non defugiam autoritatem.
-    <hi rendition="simple:italic">Seph.</hi> Hem, dignior</p>
-    <p>Fuit’ne quisquam amore qui esset? non humanum est per Deos</p>
-    <p>≤line=185≥ Credo: nec mirum si te mihi difficilem praebeas,</p>
-    <p>Tam bellum, atque praeclara uirtute.
-    <hi rendition="simple:italic">Ios.</hi> Ne te longius</p>
-    <p>Amor, ac ueritas prouehat.
-    <hi rendition="simple:italic">Seph.</hi> Hau, sic est: uera
-    praedico.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Si quid istiusmodi est,
-    Dei munus id est: non mihi</p>
-    <p>Ad alienam datum iniuriam, sed ad honestatem propriam.</p>
-    <p>≤line=190≥ <hi rendition="simple:italic">Seph.</hi> Hei, quid
-    formose auertis ocellos istos, solis mihi</p>
-    <p>Huius luce gratiores? aspice in me: ita te beet</p>
-    <p>Semper amor. <hi rendition="simple:italic">Ios.</hi> Decet non
-    animum habere modo, sed oculos item</p>
-    <p>Continentes. <hi rendition="simple:italic">Seph.</hi> Eia. nihil
-    nimis. summa uitio nihil</p>
-    <p>Interest uirtus. decebat te quidem prioribus</p>
-    <p>≤line=195≥ Neutiquam repugnare precibus meis: tum, quod tibi</p>
-    <p>Hera sum, quae imperare meo pro iure possum, et cogere</p>
-    <p>Quae uelim, ut facias: tum, quod uehementi capta amore tui.</p>
-    <p>Qui mihi tantum abest ut se remittat, ut magis ac magis</p>
-    <p>Crescat indies: neque iam par esse diutius queam,</p>
-    <p>≤line=200≥ Meque cogat dignitatis obliuiscier meae.</p>
-    <p>Tu contra, obliuiscere modo conditionis mihi tuae.</p>
-    <p>Et quod ultro defert domina, uotis etiam, si sapis,</p>
-    <p>Optandum, accipe, dum tibi copia est, dumque aetas fert tua.</p>
-    <p>Quae tua forma sit uides. <hi rendition="simple:italic">Ios.</hi>
-    Formae atque aetatis gloria,</p>
-    <p>≤line=205≥ Fluxa et fragilis est: uirtus demum una, clara
-    aeternaque.</p>
-    <p>Vera forma est, oculis quae placet Dei, quaeque prouocat</p>
-    <p>Ad honestatem: non quae mentes lubricas mortalium</p>
-    <p>Sauciat. sed non est consilium hera.
-    <hi rendition="simple:italic">Seph.</hi> Cur non, lux mea?</p>
-    <p>At quaeso, in rem hoc tuam erit.
-    <hi rendition="simple:italic">Ios.</hi> Vt quidem emoriar, prius
-    quam eo</p>
-    <p>≤line=210≥ Dementiae ueniam.
-    <hi rendition="simple:italic">Seph.</hi> Quae haec pertinacia est?
-    non credidi</p>
-    <p>Equidem, adeo inhumanum fore. eodem tu nempe, ac caeteri</p>
-    <p>Ingenio es: qui semper muliebri lubentes sunt malo.</p>
-    <p>Obsequere sane: ac corrige, quod pridem peccasti: nouas</p>
-    <p>Nec preces expecta. haud decet istos mores tam amabiles,</p>
-    <p>≤line=215≥ Istam formam ita liberalem, istam denique animi
-    indolem</p>
-    <p>Adeo generosam, superbia, ne in principe quidem uiro</p>
-    <p>Toleranda satis. <hi rendition="simple:italic">Ios.</hi> At decet
-    constantia, neque moribus</p>
-    <p>Conuenit, nec legibus Hebraeorum, ut alienum thorum
-    <hi rendition="simple:italic">Docet hoc iudicium</hi></p>
-    <p>Violent: sed prima tuendi pudoris cura est: integri
-    <hi rendition="simple:italic">Tamar, Genesis. 38</hi></p>
-    <p>≤line=220≥ Nuptiarum foedere iungantur sponsis ut integris.</p>
-    <p>Ne tu igitur mihi, quem amare dicis, noceas: sed sine</p>
-    <p>Quam tribuit Deus sortem, tueri.
-    <hi rendition="simple:italic">Seph.</hi> Imo, ita uolo, respice</p>
-    <p>Seruitutem tuam. <hi rendition="simple:italic">Ios.</hi> Equidem
-    corpore seruos sum, non item</p>
-    <p>Animo: hoc me, haud illo, metiri par est. et tuum quoque</p>
-    <p>≤line=225≥ Si respicias animum, potius quam istam, quae te huc
-    impulit,</p>
-    <p>Conditionem herilem, et foeminae tibi laudem probae</p>
-    <p>Auferas, et mihi demas molestiam: quotidie</p>
-    <p>Qua me obtundis misere. nam uel sermones isti tui</p>
-    <p>Lapides mihi uidentur meri: unde aestumes licet,</p>
-    <p>≤line=230≥ Quanto res sit ipsa odio. neque iniuria. non mihi,</p>
-    <p>Ne quid erres, seruitute cessit extinctus pudor,</p>
-    <p>Saepe indignum quae premit uirum. proinde istam, precor,</p>
-    <p>Exue mentem, mea hera: spemque consequendi omnem abijce.</p>
-    <p>Quae quidem, ut temere sumpta, huc te cupidinis perpulit.</p>
-    <p>≤line=235≥ Ita penitus abiecta, in tranquillum cito restituet
-    statum.</p>
-    <p>Quam multas fuisse nobiles matronas credere est,</p>
-    <p>Quae forma captae aliena, tamen animo temperarint suo,</p>
-    <p>Nec turpi uoluptati decus pudoris cesserint?</p>
-    <p>Iudicium, non affectum, qui semper inconsultus est,</p>
-    <p>≤line=240≥ Adhibe in consilium. finem respice. nec tam
-    considera,</p>
-    <p>In praesentia quid, quam quid semper placiturum siet.</p>
-    <p>Nunc uelle iuvat: mox uoluisse pigebit. at quanto quidem</p>
-    <p>Satius, eas cupiditates proponere in animo sibi,</p>
-    <p>Quas et expetere honestum sit, et assequi praeclarum? Illud</p>
-    <p>≤line=245≥ Scitum est, non admittere, quidquid corrigi nunquam
-    potest.</p>
-    <p>Nulla reparabilis arte, semel laesa pudicitia est, hera.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Facile tu isthaec
-    fabulare, mei securus: ast ego</p>
-    <p>Sentio misera. non potis est: nam si tam tibi amari graue
-    est,</p>
-    <p>Quid mihi sit amare cogita. emoriar, nisi impetrem.</p>
-    <p>≤line=250≥ <hi rendition="simple:italic">Ios.</hi> Isthuc sane,
-    praestat, quam sese scelere nefario</p>
-    <p>Commaculare. <hi rendition="simple:italic">Seph.</hi> At uolgo id
-    faciunt. uitium commune omnium est.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Vt sit, tanto nos eam
-    maculam effugere gloriosius.</p>
-    <p>Cogita tibi matrimonij non uiolandam fidem,</p>
-    <p>Nec mihi seruitij. talem etiam maritum neutiquam</p>
-    <p>≤line=255≥ Fallendum tibi, neque mihi herum, de me tam meritum
-    bene.</p>
-    <p>Quod si cogites, remittas iam me onerare iniurijs.</p>
-    <p>Ei’ne ego tantam male gratus reponam contumeliam,</p>
-    <p>Pro immortalibus eius beneficijs? tum uero pessumo</p>
-    <p>Peior, ac malo quouis dignus siem.
-    <hi rendition="simple:italic">Seph.</hi> Amandus is quidem,</p>
-    <p>≤line=260≥ Digna qui praemia praeclaris meritis reddiderit
-    tuis.</p>
-    <p>Sed beneficium promeruisse, rettulisse gratiam est.</p>
-    <p>Neque nos nihil meritae sumus. at enim illum facile
-    latebimus:</p>
-    <p>Ne quid te hoc solicitet meticulose.
-    <hi rendition="simple:italic">Ios.</hi> At non Deum: neque</p>
-    <p>Latebra ingenuo impunitatis spes, sed innocentia est.</p>
-    <p>≤line=265≥ Adeon me ignauom putas, aut porro ingratum, aut
-    perfidum</p>
-    <p>Aut prophanum, ut neque benignitas me, neque pudor, neque</p>
-    <p>Relligio commoueat, neque commoneat ut seruem fidem?</p>
-    <p>Tum, noui probe heri animum: aduortit grauiter, quae non
-    censeas.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Oh, ille’ne, qui ipsus
-    me negligit? ne quid uereare, mihi</p>
-    <p>≤line=270≥ Isthuc curae erit.
-    <hi rendition="simple:italic">Ios.</hi> Et mihi quidem, ut ne,
-    cauere quod queam,</p>
-    <p>Stulte admittam, nam. <hi rendition="simple:italic">Seph.</hi>
-    Hau, nunquam’ne concedes mihi? frequens</p>
-    <p>Solitudo domi, illius porro quotidiana absentia,</p>
-    <p>Pax. et si quid maxume subsentiat, putabit eo</p>
-    <p>Te mihi charum esse, quem ipsi intelligam esse charum: ita</p>
-    <p>≤line=275≥ Vt uirtus meretur tua.
-    <hi rendition="simple:italic">Ios.</hi> Decet ingenuum
-    synceritas</p>
-    <p>Sine fraude, etiam si latere possit. nam sibi reus</p>
-    <p>Quisque est, prius quam alijs.
-    <hi rendition="simple:italic">Seph.</hi> Olim isti uirtuti quondam
-    fuit</p>
-    <p>Laus apud seculum prius: nunc hoc, aliam iam uitam</p>
-    <p>Affert, alios mores postulat. isthuc sapere est, nunquam ita</p>
-    <p>≤line=280≥ Offirmato esse ad uitae institutum animo, quin
-    suadeat</p>
-    <p>Si quid conducibilius res, aetas, aut usus tibi,</p>
-    <p>Amplectare. <hi rendition="simple:italic">Ios.</hi> Quin, cum
-    turpitudine esse nihil potest</p>
-    <p>Conducibile. <hi rendition="simple:italic">Seph.</hi> Ohe, ne tam
-    seuere quaeso. oculos age</p>
-    <p>Horsum in me tuos deflecte, mea lux: intuitum simul</p>
-    <p>≤line=285≥ Et basiolum largire : isthuc ut fas sit pignus tui</p>
-    <p>Mihi ferre. <hi rendition="simple:italic">Ios.</hi> Atqui tu
-    illud scito, flamma fumo est proxuma.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Hoc nihil dicis. Abi:
-    nunquam cresces: nescis obsequi.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Nil laboro crescere per
-    flagitium et turpitudinem. <hi rendition="simple:italic">Seph.</hi>
-    Hei,</p>
-    <p>Ne tam offirma. acerbum hero funus facies, nisi tui</p>
-    <p>≤line=290≥ Mihi copia fit. exorem sine, gerito amanti morem
-    mihi;</p>
-    <p>Ita herum industria, me obsequio demerueris: et gratiam</p>
-    <p>A me solidam perpetuamque inieris: ac bene stabilem.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Auortat Deus, ut animum
-    humani fauoris gratia</p>
-    <p>Ad malas unquam adducam partes demens. potior bene</p>
-    <p>≤line=295≥ Natis institutisque esse debet semper ingenijs,</p>
-    <p>Ratio honeste uiuendi, quam gratiose.
-    <hi rendition="simple:italic">Seph.</hi> Ah desine,</p>
-    <p>Frustra tu isthaec fabulare, quae mihi animum accendunt
-    magis.</p>
-    <p>Si unquam erga te animo esse amico, mi Ioseph, sensisti, uti</p>
-    <p>Hanc mihi unam gratiam des pro illa, nunc ego te rogo.</p>
-    <p>≤line=300≥ Misereat te mei, bis miserandae, et amantis et
-    foeminae.</p>
-    <p>Quod ego te per has lacrumas oro, et Genium tuum: per mala</p>
-    <p>Mea, quorum tu unus potes esse leuamen.
-    <hi rendition="simple:italic">Ios.</hi> Ah, ne me obsecra.</p>
-    <p>En, dominus meus cuncta meae fidei mandauit, mihique</p>
-    <p>In manum adeo tradidit, omnium ipse securus: neque</p>
-    <p>≤line=305≥ A mea quidquam exemit potestate, extra unam te
-    hera.</p>
-    <p>Quid tandem ergo in animum inducere potero tantum mali,</p>
-    <p>Vt peccem in Deum?
-    <hi rendition="simple:italic">Monometer.</hi></p>
-    <p><hi rendition="simple:italic">Seph.</hi> Quod gratis datur boni,
-    amittere, Ioseph, inscitia est.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Atqui isthoc bono nihil
-    peius, nec est mihi, nec tibi.</p>
-    <p>≤line=310≥ Sed nusquam me auelles: sat habeo offirmatum isthuc,
-    Deo</p>
-    <p>Excelso fretus. <hi rendition="simple:italic">Seph.</hi> Miseram
-    me: ergo disperij. hei mihi.</p>
-    <p>Ioseph, Ioseph, pro, pro, ego iniquis nata fatis: siccine</p>
-    <p>Decipis me, ita blanda fronte dirum adeo animum tegens?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Imo tu me decipis. Nam
-    ego tibi nihilo aliter sum, ac fui.</p>
-    <p>≤line=315≥ Tu, mutatis moribus, iniuria pro beneuola es mihi.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Ingrate, nuncubi
-    beneuolentiam meam <hi rendition="simple:italic">Trimeter.</hi></p>
-    <p>In te sensisti claudier?
-    <hi rendition="simple:italic">Dimeter.</hi></p>
-    <p><hi rendition="simple:italic">Ios.</hi> Non equidem eo dico, mea
-    hera: sed quod quotidianis tuis,</p>
-    <p>Surdas iam aureis reddidisti mihi, appellationibus.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Crudelis, quum tam
-    commodum conseruis praebeas tuis, 320
-    <hi rendition="simple:italic">Tetrametri Iambici.</hi></p>
-    <p>Egon’ una tam durum experiar? an me in misera periculum</p>
-    <p>Facere uis, grauitas et inhumanitas quid nam possit tua?</p>
-    <p>Si amore non flectare, senties quae odium ferat meum.</p>
-    <p>Vel ex coacto, amorem explebo meum tamen.
-    <hi rendition="simple:italic">Trimetri iambici.</hi></p>
-    <p>≤line=325≥ <hi rendition="simple:italic">Ios.</hi> Amor affectu
-    exhibetur, haud ui cogitur.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Vltro ad uirum querelam
-    deferam. <hi rendition="simple:italic">Ios.</hi> Falsam.
-    <hi rendition="simple:italic">Seph.</hi> Quem sic tibi
-    <hi rendition="simple:italic">Tetrametri Iambici.</hi></p>
-    <p>Incensum reddam, ut ne restinguas, lacrumis si extillaueris.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Non sunt isthaec iam,
-    amantis dicta. <hi rendition="simple:italic">Seph.</hi> Senties iam,
-    quae siem.</p>
-    <p>≤line=330≥ Virum si noui, debitas scelestus hero poenas
-    dabis.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Miseret me tui.
-    <hi rendition="simple:italic">Seph.</hi> Ten’ me irridere inultum
-    seruom hominem sinam?</p>
-    <p>Mortuam me malim. <hi rendition="simple:italic">Ios.</hi> Quod
-    ferundum erit, feram: denique animam</p>
-    <p>Potius relinquam. <hi rendition="simple:italic">Seph.</hi> Itan’
-    solido ex adamante pectus est tibi,</p>
-    <p>Vt neque lacrumis, neque precibus, neque pretio flecti queas?</p>
-    <p>≤line=335≥ Vide quid agas.
-    <hi rendition="simple:italic">Ios.</hi> Stat sententia.
-    <hi rendition="simple:italic">Seph.</hi> Nimis praefractus es.
-    <hi rendition="simple:italic">Ios.</hi> Mihi</p>
-    <p>Sum. <hi rendition="simple:italic">Seph.</hi> Imo uero mihi
-    miserae, merito haud meo.</p>
-    <p>Sed per Deos, si quis precibus locus, caue: neu me adegeris</p>
-    <p>Vt talis in te fuero Ioseph, qualem neutiquam uelis.</p>
-    <p>≤line=340≥ <hi rendition="simple:italic">Ios.</hi> At tu caue
-    commiseris, ut ipsa talem te mihi</p>
-    <p>Exhibeas, qualem neutiquam decet probam.
-    <hi rendition="simple:italic">Seph.</hi> Hei cur ita</p>
-    <p>Aperte indicas malitiam? saltem lactares spe aliqua.
-    <hi rendition="simple:italic">Ios.</hi> Haud meum est.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Si non ames, tamen odium
-    tegeres. sed quid stulta hunc rogo?</p>
-    <p>Satis’ ne fastidit mei? o facinus indignum, nunc ego</p>
-    <p>≤line=345≥ Et illum scelestum esse, et me miseram sentio. nec
-    quid agam scio.</p>
-    <p>Abeo intro, quando proficio nihil. tu uideris, scelus.</p>
-  </div>
-  <div type="level2" xml:id="actvs-primi-scena-v.">
-    <head>ACTVS PRIMI SCENA V.</head>
-    <p><hi rendition="simple:italic">Tetrametri Iambici,
-    acatalectici.</hi></p>
-    <p><hi rendition="simple:italic">Ioseph.</hi></p>
-    <p>Abijt. Deum immortalem, ut insanum est amare? prohibeat</p>
-    <p>A me Deus tantam amentiam. sed quantum intellexi modo</p>
-    <p>Eius sententiam, aliquid haec mihi conficiet mali. neque</p>
-    <p>≤line=350≥ Quid agam, aut quid consilij capiam scio, si huic
-    obsequor, Deum</p>
-    <p>Offendo: sin repugno, huius minas timeo, noui probe</p>
-    <p>Ingenium mulierum, uehemens in utranque sic partem nimis,</p>
-    <p>Siue in amorem, siue in odium. neque Deum, neque homines
-    respiciunt:</p>
-    <p>Nec aequi ratio ulla constet aut boni, dum quod student</p>
-    <p>≤line=355≥ Effectum reddant sibi. sed quid mea? quid timui autem
-    belua?</p>
-    <p>Praeter culpam et peccatum, nihil homini accidere potest
-    graue.</p>
-    <p>Quiduis satius est perpeti, quam uirtutem relinquere.</p>
-    <p>Cedat, quod cedere aequom est: appetitus rationi pareat,</p>
-    <p>Voluptas uirtuti, corpus animo ancilletur uile suo.</p>
-    <p>≤line=360≥ Ne sic insaniam, ut tranquillam recti conscientiam,
-    et</p>
-    <p>Quietam mentem, maxumum utrisque in rebus solatium,</p>
-    <p>Turbida et inquieta permutem. Tum castitatis usque sunt</p>
-    <p>Amplexus dulces: mellis plurimum, fellis nihil trahunt.</p>
-    <p>Amoris contra etiam mel, fel merum est, ex uero si aestumes.</p>
-    <p>≤line=365≥ Lubido, ut auaritia, inexplebilis est: meliusque
-    cauetur haud</p>
-    <p>Experta. non sic mei me assuefecere parentes, ut thori</p>
-    <p>Subsessor alieni fiam. Verum pudicitiam, simul</p>
-    <p>Pudorem rectum, et sedatum cupidinem, Dei metum,</p>
-    <p>Benefactorumque amorem docuere, et fidem. Ego’ne ergo domum</p>
-    <p>≤line=370≥ Eam, in qua clementer adeo sum habitus ac
-    liberaliter,</p>
-    <p>Incesto polluam impius? perij, hanc ferat uirtus notam?</p>
-    <p>Nimis ignauos sim, si, quom fratres, ob sororis liberae
-    <hi rendition="simple:italic">Gene. 34.</hi></p>
-    <p>Puellae raptum amoris uiolentia concubitum, nuptijs</p>
-    <p>Pensandum regijs, uiris ad unum caesis, relliquam</p>
-    <p>≤line=375≥ Spoliarunt urbem, ego tantum facinus mollitia admittam
-    mea.</p>
-    <p>Si obliuiosior sum, uel locus hicce redigat in memoriam,
-    <hi rendition="simple:italic">Gene. 12</hi></p>
-    <p>Seuere castigatum a Deo Parhonem, cum domo sua,</p>
-    <p>Ob uerbum Sarae proauiae meae, et uicini Abimelech
-    <hi rendition="simple:italic">Gene. 20.</hi></p>
-    <p>Simili in re coërcitam uoluntatem. Quid Noah ille generis</p>
-    <p>≤line=380≥ Nostri orbisque instaurator? ac Loth item, aui
-    patruelis mei?</p>
-    <p>Nonne inter omnis summam turpitudinis licentiam,
-    <hi rendition="simple:italic">2. Pet. 2.</hi></p>
-    <p>Honestatem sancte tutati sunt? nec illum totius</p>
-    <p>Exemplum mundi fregit, hic contra regionis uitia
-    <hi rendition="simple:italic">Gene. 6.</hi></p>
-    <p>Totius tenuit sanctitatem? proin ille diluuio a Deo est
-    <hi rendition="simple:italic">Gene. 19.</hi></p>
-    <p>≤line=385≥ Ereptus, hic incendio. non ego nunc primum
-    scilicet</p>
-    <p>Aduorsa ferre didici: sed quidquid feret Deus, cui</p>
-    <p>Sic est placitum, feram usque, et perferam, ipsius ope
-    fortiter.</p>
-    <p>Malum qui patitur, idem post potitur bono.
-    <hi rendition="simple:italic">Senarius.</hi></p>
-    <p>Sed sic uerba he‹c facio, quasi negotij nihil siet.</p>
-    <p>≤line=390≥ Ibo intro. Hei, quam timeo, quorsum haec res euasura
-    sit mihi?</p>
-    <p>Ita obstinate operam dat, ut me illiciat, o Deus, tibi</p>
-    <p>Me commendo, et salutem meam. quaeso impium cupidinem</p>
-    <p>Compesce dominae, et me adiuua, ne animum labefactet mihi.</p>
-  </div>
-  <div type="level2" xml:id="actvs-secvndi-scena-i.">
-    <head>ACTVS SECVNDI SCENA I.</head>
-    <p><hi rendition="simple:italic">Trimetri.</hi></p>
-    <p><hi rendition="simple:italic">Intus.</hi></p>
-    <p>Perij misera, uae mihi, uostram fidem obsecro.</p>
-    <p>≤line=395≥ Properate: ferte auxilium imbelli foeminae.</p>
-    <p><hi rendition="simple:italic">Ioseph effugiens.</hi></p>
-    <p>Sancte o pudor, quae haec est audacia? hoccine est</p>
-    <p>Muliebre factum, aut incoeptum? hoccine officium</p>
-    <p>Herae? modo ut introij, forte illa solitudinem</p>
-    <p>Nacta, ferox, pallio me apprehendit: ad se trahit.</p>
-    <p>≤line=400≥ Procax et importuna lubido est: tum impotens</p>
-    <p>Autem foemina. si pergas aduorsarier,</p>
-    <p>Ex insana insaniorem facias. sentium</p>
-    <p>Similis est: quem quem attigerit, malo aut damno afficit.</p>
-    <p>Atque illud ipsa discit experientia</p>
-    <p>≤line=405≥ Semper, cui cum illis res incidit. itaque</p>
-    <p>Cuius finem haud uidi, abrupi negotium.</p>
-    <p>Vestem amisi; pudorem sed mecum extuli.</p>
-    <p>Nudus non est, nisi culpa quem nudauerit.</p>
-    <p>Pudicitia, decus ipsa suum est. Videlicet</p>
-    <p>≤line=410≥ Quae extra nos, nihil ad nos: animi demum bona</p>
-    <p>Solius, et propria sunt, et aeterna. fuerit</p>
-    <p>Sane, fuerit patientiae, hactenus improbas</p>
-    <p>Tulisse preces, seruitutis respectu meae: at</p>
-    <p>Tam apertam ferre contumeliam, mera</p>
-    <p>≤line=415≥ Quidem sit ignauia. mori me satius est.</p>
-    <p>Dum uerbis egit, uerbis uerba rettuli.</p>
-    <p>Nunc ita tulit necessitas, res ut forent</p>
-    <p>Referendae rebus. inuitus feci, nisi</p>
-    <p>Quia necessum fuit. nam quid agerem, nisi</p>
-    <p>≤line=420≥ Vt me, quam minimo possem, captum redimerem?</p>
-    <p>Sed quum cogito, succensere illi, iniurium</p>
-    <p>Me sit: quando otio perpetuo, fomite</p>
-    <p>Nimirum summo amoris, corruptae, nihil</p>
-    <p>Quod faciat superest, praeter amare: caeterum</p>
-    <p>≤line=425≥ Mihi nulla iure sit peccati uenia.</p>
-    <p>Vtinam hoc sit defunctum modo. Vnde quomodo</p>
-    <p>Me expediam, incertus sum: ita subito obiectum est mihi.</p>
-    <p>Neque cunctandi copia est. herus iam aderit, scio.</p>
-    <p>Peiore non potest res quam in quo nunc mea est,</p>
-    <p>≤line=430≥ Loco esse. Vah nunquam seruorum aeque ac modo</p>
-    <p>Mihi dura uisa est conditio. papae: quae illa</p>
-    <p>De me iam confictura hero est, ut uidi eam</p>
-    <p>Esse habitam? imo quae non confictura est? satis</p>
-    <p>Eheu constat, quam amari sint in foemina</p>
-    <p>≤line=435≥ Stimuli, lubido et ira. quae uiros quoque,</p>
-    <p>Quae non audere scelera cogunt? quid igitur</p>
-    <p>Faciam? aut quamnam caussam afferam? dicam ordine</p>
-    <p>Vt res habet, meque expurgem? minime opus est:</p>
-    <p>Neque placet, tantas ut turbas domi excitem.</p>
-    <p>≤line=440≥ Quod sane nolim, maxume heri caussa mei.</p>
-    <p>Scitum est profecto, et in medijs malis ea</p>
-    <p>Sapere secum, quae sapere est opus, tum ipsum id male</p>
-    <p>Metuo ut credat mihi, soli, aetate lubrica,</p>
-    <p>Et indulgentia tanta. sat est meum</p>
-    <p>≤line=445≥ Fecisse officium, si non id fama approbat.</p>
-    <p>Tacebo, et si mihi magnum ex hoc malum scio</p>
-    <p>Paratum. praestat suum tolerare incommodum,</p>
-    <p>Quam male alienum labefacere commodum.</p>
-    <p>Illiberalis prorsus est animi, sui</p>
-    <p>≤line=450≥ Studio, alienam extimationem laedere.</p>
-    <p>At, at, eccum: herum uideo. actum est, nisi quid opis Deus</p>
-    <p>Dat, disperij. abeam an maneam, adeam an fugiam,</p>
-    <p>Incertum est. una haec spes est, quidquid accidat,</p>
-    <p>Dei sumus. postremo, quando conscius</p>
-    <p>≤line=455≥ Ego sum mihi, a me culpam esse hanc procul, nihil</p>
-    <p>Mali accidere, innocentia incolumi, potest.</p>
-  </div>
-  <div type="level2" xml:id="actvs-secvndi-scena-ii.">
-    <head>ACTVS SECVNDI SCENA II.</head>
-    <p><hi rendition="simple:italic">Tetrametri trochaici,
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Potiphar.</hi></p>
-    <p>Magnam sibi quietem comparauit, seruom qui bonae</p>
-    <p>Frugi comparauit sibi, per quem, praesens absensque item,</p>
-    <p>Defecato esse animo possit. uti ego, quom Ioseph meum</p>
-    <p>≤line=460≥ Emi, felix, de Ismaëlitis negotiatoribus.</p>
-    <p>Qui mihi iam inde, usque seruijt obsequenter maxume</p>
-    <p>Iuxtaque fideliter, atque ex animi sententia mei:</p>
-    <p>Nec minus etiam, quod uel primum puto, feliciter.</p>
-    <p>Vt, quo cum Deum esse prosperantem cuncta sub manus</p>
-    <p>≤line=465≥ Eius, sensi. Itaque feci, ut iusta illi apud me
-    seruitus</p>
-    <p>Esset: neque adeo indulgentiam desiderare meam,</p>
-    <p>Nec benignitatem posset. ac denique cunctis eum</p>
-    <p>Praefeci, otioso mihi ut esse liceat, atque animo obsequi.</p>
-    <p>Sic uita est: heris morigerus esse, eorumque per omnia</p>
-    <p>≤line=470≥ Inseruire commodis, incommoda atque iniurias</p>
-    <p>Omneis conseruorum ferre, et tegere contumelias</p>
-    <p>Sibi studio habet: nulli laedere os, aduorsus nemini,</p>
-    <p>Compositus, pudens, modestus, placidus: scire est liberum</p>
-    <p>Ingenium, atque animum, sic siet modo, ut nunc est, quaeso
-    Deos</p>
-    <p>≤line=475≥ Deasque omneis. Atqui hic profecto captus est
-    rarissumus,</p>
-    <p>Id genus quis sortiatur ut seruom. contra improbum</p>
-    <p>Et seruom frugi malae, nihil negotij ubilibet</p>
-    <p>Nancisci: qui ad heri fraudationem demum, callidum</p>
-    <p>Ingenium gerunt: in quibus hero nihil quidquam est praesidij</p>
-    <p>≤line=480≥ Si absit uspiam, aut ubi si cesset. Itaque iam heris
-    quidem</p>
-    <p>Pene tanquam aegris ex medicorum praescripto uiuentibus</p>
-    <p>Vix pedem, miserum, efferre domo conceditur. Ab hac ego</p>
-    <p>Expediui me molestia, pariter ac rem meam</p>
-    <p>Constabiliui. Tum, est et alterum, unde iure mihi placeam,</p>
-    <p>≤line=485≥ Quod habeo uxorem, ut uolo, placidam, probamque, quae
-    me amat,</p>
-    <p>Et magni facit, suos pudicae itidem ut uiros solent:</p>
-    <p>Quam ego contra amo. Proinde duas has res habere me,</p>
-    <p>Praeter alios, praecipuas arbitror; uelit Deus modo,</p>
-    <p>Vt sint perpetuae. Sed quid hoc negotij est?
-    <hi rendition="simple:italic">Senarius.</hi></p>
-    <p>Proh Dij immortales, quem conspicio exanimatum, expeditum 490
-    <hi rendition="simple:italic">Iambici tetrametri</hi></p>
-    <p>Pro foribus? est’ne hic ipsus, quo de agebam? et certe is ipse
-    est. <hi rendition="simple:italic">catalectici.</hi></p>
-    <p>Perij: hoc quid sit uereor. nequeo satis mirarier. neque
-    <hi rendition="simple:italic">Acatalectici.</hi></p>
-    <p>Conijcere scio, mihi nescio quid animus praesagit mali.</p>
-  </div>
-  <div type="level2" xml:id="actvs-secvndi-scena-iii.">
-    <head>ACTVS SECVNDI SCENA III.</head>
-    <p><hi rendition="simple:italic">Iambici, partim tetrametri,
-    catalectici et acatalectici, partim trimetri, admistis trochaicis
-    quibusdam.</hi></p>
-    <p><hi rendition="simple:italic">Ioseph. Potiphar. Mago.</hi></p>
-    <p>Eheu, nec quid agam, neque quid huic respondeam scio. et
-    pudet</p>
-    <p>≤line=495≥ Carere lacrumis, in maximas subito redactum</p>
-    <p>Has calamitates: quas oculi, mentis bene consciae testes,</p>
-    <p>Recusant fundere. nisi sic faciam, ut constitui.</p>
-    <p><hi rendition="simple:italic">Pot.</hi> Per tempus aduenio. Hem,
-    quid isthuc obsecro est mali? satin’</p>
-    <p>Saluae? dic mihi. siles mi homo, atque ora pudibunda
-    contegis?</p>
-    <p>≤line=500≥ Quid est pudendum? Hei mihi, quid me absente turbatum
-    est domi?</p>
-    <p>Quid sic ingemis? ecquid taces? diuinus haud sum nec, nisi</p>
-    <p>Audiero, cognosse queam. Heus heus, prodito aliquis actutum.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Here mi.
-    <hi rendition="simple:italic">Pot.</hi> Quin dic, quid est?
-    <hi rendition="simple:italic">Ios.</hi> Perij.
-    <hi rendition="simple:italic">Pot.</hi> Dij melius faciant: sed</p>
-    <p>Quid peristi? quidquid est, eloquere age ocyus mihi.
-    <hi rendition="simple:italic">Trochaici.</hi></p>
-    <p>≤line=505≥ <hi rendition="simple:italic">Ios.</hi> Ah.
-    <hi rendition="simple:italic">Pot.</hi> Quid ah? age, ingenue mihi
-    fatere, uti soles.</p>
-    <p>Haud clam te est meus in te animus, ille amans tui, et
-    propensior,</p>
-    <p>Scito, caeteris quam erga suos esse famulos solet.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Fateor mi here, et
-    immortales tibi gratias habeo atque ago.</p>
-    <p><hi rendition="simple:italic">Mag.</hi> Praesto sumus here, si
-    quid uis. <hi rendition="simple:italic">Pot.</hi> Quae noua res
-    domi? quae res noua est</p>
-    <p><hi rendition="simple:italic">Iambici tetrametri.</hi></p>
-    <p>Quaeso? tacetis? Hem quid tandem hoc est rei, 510
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>Quod mihi eodem omnes sitis affecti modo?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Mi here, equidem id te
-    arbitrari, quod est, uelim:</p>
-    <p>Quidquid huius factum est, culpa haud factum est mea,</p>
-    <p>Sed ita tulit necessitas: in eum res redierat locum.
-    <hi rendition="simple:italic">Pot.</hi> Quae, malum, res?</p>
-    <p><hi rendition="simple:italic">Tetrameter.</hi></p>
-    <p>Cesso hinc ire intro, ut hoc quam primum, quidquid est, certum
-    sciam? 515 <hi rendition="simple:italic">Tetrameter.</hi></p>
-    <p>Vos istum asseruatum curate mihi tamen.
-    <hi rendition="simple:italic">Trimeter.</hi></p>
-    <p><hi rendition="simple:bold">EPITASIS COMOEDIAE.</hi></p>
-  </div>
-  <div type="level2" xml:id="actvs-tertii.-scena-i.">
-    <head>ACTVS TERTII. SCENA I.</head>
-    <p><hi rendition="simple:italic">Iambici trimetri, admistis
-    tetrametris quibusdam, tum acatalecticis, tum catalecticis.</hi></p>
-    <p><hi rendition="simple:italic">Potiphar. Sephirah. Ioseph.
-    Lorarij.</hi></p>
-    <p>Pro deum atque hominum fidem, ex illon’ tam illiberale esse
-    facinus <hi rendition="simple:italic">Tetrametri</hi></p>
-    <p>Ortum? <hi rendition="simple:italic">Seph.</hi> Sic res habet ut
-    dixi, mi domine. uel hocce pallium
-    <hi rendition="simple:italic">acatalectici.</hi></p>
-    <p>Documento est, ipsiusque fuga, et tota clamoris testis mei,</p>
-    <p>≤line=520≥ Vt audisti, familia.
-    <hi rendition="simple:italic">Pot.</hi> Me miserum, ut nulla homini
-    est felicitas</p>
-    <p>Diuturna in uita? quin si laeti quid euenit, illico</p>
-    <p>Acerba multa se cumulant: quae mihi nec opinanti accidunt.</p>
-    <p>Euge serue bone, columen uero familiae,
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>Cui maxumam habui fidem, tun’ illam, scelus? heram? aut</p>
-    <p>≤line=525≥ Me adeo dignum putas quem illudas?
-    <hi rendition="simple:italic">Ios.</hi> Occidi.</p>
-    <p>Hem, mortuus quam uiuos nunc sim felicior.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Nimia illa licentia
-    euasit tantum in malum.</p>
-    <p>Non te ille uirum, sed foeminam retur.
-    <hi rendition="simple:italic">Pot.</hi> O nouam</p>
-    <p>Audaciam: quid ais impure? an non est uiri</p>
-    <p>≤line=530≥ Isthuc scelerati prorsum, et perditi?
-    <hi rendition="simple:italic">Seph.</hi> Ista’ne</p>
-    <p>Indigna, et intoleranda, quaeso per Deos?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Tacen’ tu?
-    <hi rendition="simple:italic">Seph.</hi> Minitatur etiam
-    carnufex.</p>
-    <p>Mirum ni quod concinnat iam mendacium.</p>
-    <p>Caue isti quidquam credas, mi uir: qui, in malis</p>
-    <p>≤line=535≥ Vt fit, quae conferant sibi, loquetur.
-    <hi rendition="simple:italic">Pot.</hi> O</p>
-    <p>Ingentem confidentiam. tantam’ne rem</p>
-    <p>Tacita ut ferat postulas? ita depuditum est semel?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Here, ne me spectes.
-    <hi rendition="simple:italic">Pot.</hi> Ego te furcifer,</p>
-    <p>Si uiuo. haeccine te flagitia facere? haeccine</p>
-    <p>≤line=540≥ Te admittere indigna esse ausum domo mea?</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Ec’quid pudet?
-    <hi rendition="simple:italic">Ios.</hi> Pudere oportet eatenus,</p>
-    <p>Qua res ferat. <hi rendition="simple:italic">Seph.</hi> Vbi nunc
-    fas, fidesque est, et qui erat</p>
-    <p>In falso tibi plurimus ore Deus?
-    <hi rendition="simple:italic">Pot.</hi> At uide,</p>
-    <p>Quam immerito haec Ioseph aegritudo oritur mihi</p>
-    <p>≤line=545≥ Abs te potissimum? qui te pene a puero</p>
-    <p>Curaui sedulo: docui, monui, bene</p>
-    <p>Praecepi et feci semper, quae potui, omnia.</p>
-    <p>Neque semel complexus, fouere destiti:</p>
-    <p>Propterea quod seruiebas liberaliter.</p>
-    <p>≤line=550≥ Habui, amaui atque ornaui pro meo. denique</p>
-    <p>In omnia mea ius tibi feci, adductus tua</p>
-    <p>Ista modestia, moribusque, omni a dolo</p>
-    <p>Et perfidia, uisis usque alienissumis.</p>
-    <p>Nunc de repente, benignitatis iam meae,</p>
-    <p>≤line=555≥ Tuaeque fortunae immemor, pro maxumis</p>
-    <p>Meritis hanc ingratissume gratiam refers</p>
-    <p>Mihi? promerito optume hoc praemij rependis?
-    <hi rendition="simple:italic">Seph.</hi> Vt</p>
-    <p>Semel hypocrisis omnis se detexit tua?</p>
-    <p>Nunc quod fidelis et modestus antehac</p>
-    <p>≤line=560≥ Visus es, id non fuisse ex uera uita, neque</p>
-    <p>Animo ingenuo, palam nempe est.
-    <hi rendition="simple:italic">Ios.</hi> Mi here.
-    <hi rendition="simple:italic">Pot.</hi> Quid mi here?</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Vix contineo, sed me
-    reprimam. Vnum hoc quaeso, ne mihi aetas
-    <hi rendition="simple:italic">Tetrametri</hi>
-    c<hi rendition="simple:italic">atalectici.</hi></p>
-    <p>Obstet: ne’ue ex aliorum iudices ingenijs sodes.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Os impudens, et ferro
-    inurendum. Imo iam ea
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>≤line=565≥ Aetate es, ut non sit peccato ignoscier</p>
-    <p>Aequom. <hi rendition="simple:italic">Ios.</hi> Nam quid peccaui,
-    aut commerui? an quia</p>
-    <p>Non prorsus iniusta obsequor?
-    <hi rendition="simple:italic">Dimeter Iambicus.</hi></p>
-    <p><hi rendition="simple:italic">Seph.</hi> Quid ais uenefice?
-    isthuccine tu me rogas:
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>Qui me, et herum, et familiam dedecoras? uel fuga</p>
-    <p>≤line=570≥ Tua id tibi, quod quaeris, respondeat. quid hoc</p>
-    <p>Loquitur pallium? <hi rendition="simple:italic">Pot.</hi> Eho
-    propudium: qui me stipitem,</p>
-    <p>Haud hominem censes. etiam sperasti inficias</p>
-    <p>Tantum ire posse nefas? adeone te neque</p>
-    <p>Pietas, neque ius et aequom, in officio, improbe,</p>
-    <p>≤line=575≥ Continere potuere?
-    <hi rendition="simple:italic">Seph.</hi> Vide, impudentia quid
-    facit,</p>
-    <p>Et praeceps cupiditas? <hi rendition="simple:italic">Pot.</hi>
-    Proch ingratitudinem,</p>
-    <p>Dijs hominibusque inuisam.
-    <hi rendition="simple:italic">Seph.</hi> Ingrato homine nihil</p>
-    <p>Quidquam scelestius. nimio praestat mortuum</p>
-    <p>Quam ingratum esse. <hi rendition="simple:italic">Ios.</hi> Istam
-    caui turpitudinem</p>
-    <p>≤line=580≥ Sedulo. <hi rendition="simple:italic">Pot.</hi> Parum
-    est cauisse, non cauere. <hi rendition="simple:italic">Ios.</hi>
-    Nil</p>
-    <p>Ego peccaui: nisi peccare est, hero magis</p>
-    <p>Fidum esse quam sibi. <hi rendition="simple:italic">Pot.</hi>
-    Quomodo sacerrume?</p>
-    <p>Fuisti, non es fidus. tum beneuolentiam</p>
-    <p>Expertus es: meam nunc iram senties,</p>
-    <p>Quando huc prouocas. 585 <hi rendition="simple:italic">Monometer
-    trochaicus.</hi></p>
-    <p><hi rendition="simple:italic">Seph.</hi> Aequom est, gratiam qui
-    ferre nescit, offensam uti</p>
-    <p>Ferat. <hi rendition="simple:italic">Ios.</hi> Here, ut seruom
-    inculpatum usque gesserim, domumque
-    <hi rendition="simple:italic">Tetrametri catalectici.</hi></p>
-    <p>Vt commodis haud aspernandis auxerim tuam, isthuc</p>
-    <p>Et ipse conscius testabere: ita ut, siue introires,</p>
-    <p>≤line=590≥ Gaudio fruerere tecum, seu prodires foras.
-    <hi rendition="simple:italic">Pot.</hi> Ridiculum:</p>
-    <p>Verbis soluere postulas, quod re malefeceris?
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p><hi rendition="simple:italic">Ios.</hi> Si quidem malefeci.
-    <hi rendition="simple:italic">Pot.</hi> Si quidem? conatus mihi</p>
-    <p>Pro facto est. <hi rendition="simple:italic">Ios.</hi> Tot iam
-    annos tibi seruio, an tibi unquam a me ulla
-    <hi rendition="simple:italic">Tetrameter catalecticus.</hi></p>
-    <p>Est orta iniuria? <hi rendition="simple:italic">Pot.</hi> At id
-    restabat scilicet. <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>≤line=595≥ <hi rendition="simple:italic">Seph.</hi> An non est
-    haec magna satis tibi? Quisquam ne ita</p>
-    <p>Animo est omisso, tantam ut contumeliam</p>
-    <p>Ferat? <hi rendition="simple:italic">Ios.</hi> Casus humanos qui
-    norit. <hi rendition="simple:italic">Seph.</hi> Impudens,</p>
-    <p>Hocne euenire maius, aut grauius potest?</p>
-    <p><hi rendition="simple:italic">Pot.</hi> Iam parce, sodes,
-    coniunx. heus lorarij.</p>
-    <p>≤line=600≥ <hi rendition="simple:italic">Ios.</hi> Here, per
-    clementiam tuam te oro. <hi rendition="simple:italic">Pot.</hi>
-    Satis</p>
-    <p>Iam satis Ioseph, spectata erga te mea</p>
-    <p>Est clementia. <hi rendition="simple:italic">Seph.</hi> Satis et
-    ipsa periculi adij.</p>
-    <p><hi rendition="simple:italic">Pot.</hi> Faxo haud dicas, nactum
-    esse, quem derideas.</p>
-    <p><hi rendition="simple:italic">Lor.</hi> Quid uis here, aut quid
-    imperas? <hi rendition="simple:italic">Pot.</hi> Abducite</p>
-    <p>≤line=605≥ Hunc intro. <hi rendition="simple:italic">Lor.</hi>
-    Quem’nam? <hi rendition="simple:italic">Pot.</hi> Ioseph.
-    <hi rendition="simple:italic">Ios.</hi> Siccine mecum agis?</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Patiundum est.
-    <hi rendition="simple:italic">Pot.</hi> Meritoque id tuo. quom, quae
-    non licent,</p>
-    <p>Haud ueritus patrare, tolera quae non libent.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Si deliqui, nullam
-    caussam dico here. sed etiam atque etiam
-    <hi rendition="simple:italic">Tetrametri catalectici.</hi></p>
-    <p>Vide quaeso, quae in tuos exempla familiareis statuas,</p>
-    <p>≤line=610≥ Nam deinde caussae quaelibet suffecerint uxori,
-    aut</p>
-    <p>Alij, si quis cui seruos ex sententia non sit satis:
-    <hi rendition="simple:italic">Acatalectici.</hi></p>
-    <p>Occasione tantum opus fuerit leui.
-    <hi rendition="simple:italic">Seph.</hi> Tun’ me scelus</p>
-    <p>Tam diri ausis facinoris insimulare?
-    <hi rendition="simple:italic">Pot.</hi> Rapite
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>Inquam, atque auditin’? quadrupedem constringite.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Nunc tandem apparet,
-    amorem qui uocatur et uidetur 615
-    <hi rendition="simple:italic">Tetrameter catalecticus.</hi></p>
-    <p>Stultis, eum haud amorem esse, sed odium.
-    <hi rendition="simple:italic">Seph.</hi> Odiosus es: tace, ac
-    <hi rendition="simple:italic">Acatalectici.</hi></p>
-    <p>Sequere infelix. <hi rendition="simple:italic">Ios.</hi> Infelix
-    est, non qui accipit, sed qui facit</p>
-    <p>Iniuriam. pulcrum est, fidei, uel mortem obire gratia.</p>
-    <p><hi rendition="simple:italic">Seph.</hi> Enimuero, si uir sies,
-    dignum hic iam supplicium luat.</p>
-    <p>≤line=620≥ <hi rendition="simple:italic">Pot.</hi> Nimis
-    iracunde. Censen’ repperire posse ullum seruom,</p>
-    <p>Vitio qui careat? an quia non delinquont herae?
-    <hi rendition="simple:italic">Seph.</hi> Eho Potiphar,</p>
-    <p>Aut tu morere, aut sceleratum illum pro meritis perde: exemplo
-    uti <hi rendition="simple:italic">Sic Homerus Iliad. 3.</hi></p>
-    <p>Sit, ne quis posthac temerarius, herili ausit pudicitiae</p>
-    <p>Insidiari. <hi rendition="simple:italic">Pot.</hi> Ohe uxor, ne
-    saeui tantopere. <hi rendition="simple:italic">Seph.</hi> Quin tu
-    parum</p>
-    <p>Perspexisse mihi eius uidere audaciam. 625
-    <hi rendition="simple:italic">Trimeter.</hi></p>
-    <p>Ita me Dij ament, ut uideo ineptam lenitatem nunc tuam,
-    <hi rendition="simple:italic">Tetrametri acatalectici.</hi></p>
-    <p>Et facilitatem prauam: dimissurum eum credo, quo suam</p>
-    <p>Etiam sic exaedificet inchoatam perfidiam.
-    <hi rendition="simple:italic">Pot.</hi> Inscitia est,</p>
-    <p>Nimium irae credere, quae nescit modum. post statuam.
-    <hi rendition="simple:italic">Seph.</hi> Non tu illum</p>
-    <p>Capitis potius, quam te perdas, et familiam? 630
-    <hi rendition="simple:italic">Trimetri.</hi></p>
-    <p>Equidem cupio misera, in hac re iam defungier.</p>
-    <p>Sed quae spes est, illum fore frugi? num pudor</p>
-    <p>Corriget? at iam depuduit. aetas grandior?</p>
-    <p>At ea, nunc ut fit, semper addit nequitiam.</p>
-    <p>≤line=635≥ Quisquis semel degenerauit, nunquam bonus.</p>
-    <p><hi rendition="simple:italic">Pot.</hi> Nescias uxor. multa
-    accidunt mortalibus</p>
-    <p>Saepe in uita, atque aetate agunda, quae uolunt,</p>
-    <p>Quae nolunt. <hi rendition="simple:italic">Seph.</hi> Improbitas
-    alia aliam trahit.</p>
-    <p><hi rendition="simple:italic">Pot.</hi> Hem, quid’nam hoc rei?
-    quid haec uolt improbitas sibi?</p>
-    <p>≤line=640≥ Abi intro, ego quid facto siet opus uidero.</p>
-  </div>
-  <div type="level2" xml:id="actvs-tertii-scena-ii.">
-    <head>ACTVS TERTII SCENA II.</head>
-    <p><hi rendition="simple:italic">Iambici tetrametri,
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Potiphar.</hi></p>
-    <p>Vae misero mihi: quanta spe decidi? hoccine de improuiso</p>
-    <p>Mali mihi obijci tantum? o tempora, o mores. quid iam</p>
-    <p>Credas, aut cui credas, quem’ue fidelem habeas, nescias. adeo</p>
-    <p>Exulceratissumo iniquissumoque hoc saeculo, sunt</p>
-    <p>≤line=645≥ Fermentata omnia, fides, fidelitas, amor, pietas,</p>
-    <p>Amicitia, sodalitas, officia, beneficiaque</p>
-    <p>Omnium omnia. sese omnes amant, sua quaerunt, sibi bene esse</p>
-    <p>Volunt solis. heu me infelicem: siccine dum ego tua fretus</p>
-    <p>Fide, domo absum demens, regi inseruiens, Ioseph,</p>
-    <p>≤line=650≥ Tu interea rem tuam curasti, et me in tantum
-    coniecisti</p>
-    <p>Mali? quem ego semper pudore et liberalitate</p>
-    <p>Prae caeteris retinui. quo uicissim, omnibus e seruis,</p>
-    <p>Heri nemo obseruantior fuit semper. quae nunc res</p>
-    <p>Repente mores uertit tuos, uirtutem uti lubidini</p>
-    <p>≤line=655≥ Iam posthabeas tuae? an qui serui sunt, dimidio
-    mentis</p>
-    <p>Capti sunt, ut nonnullorum est sententia? nam alioqui</p>
-    <p>Non est uerisimile, neque inducere in animum meum queo,</p>
-    <p>Tantam uirtutem tam subito degenerare potuisse.</p>
-    <p>Frugi, usque frugi est. sed quam mira rari pectoris erat</p>
-    <p>≤line=660≥ Praesentia? quae constantia uultus? quam ingenua
-    modestia? at</p>
-    <p>Res est pauida et clamosa, mens sibi male conscia forsan
-    illum</p>
-    <p>Atque hanc quispiam lusit dolis. sed qui tacet, fatetur.</p>
-    <p>Atqui genuina uirtus, innocentia fidit sua.</p>
-    <p>Illi uerbosi sunt, qui turpia facta oratione</p>
-    <p>≤line=665≥ Dissimulant. et uerecundiam eius noui, liberalem,</p>
-    <p>Et reuerentem mei. ac quom cogito, haud scio an, quae dixit</p>
-    <p>Vxor, sint uera omnia. quin nonnullum mihi scrupulum odio</p>
-    <p>Illo iniecit suo. multa saepe uerbis exagitantur,</p>
-    <p>Quom res secus habeat. Tum fieri solet, ut qui ipsi iniuriam</p>
-    <p>≤line=670≥ Fecere, expostulent. Iam, ut sit ita, peccatum magnum
-    fuerit,</p>
-    <p>At primum. nemo sapit omnibus horis, nec ita sum calidae</p>
-    <p>Iuuentae immemor, aut tam imperitus rerum, ut quid amor
-    ualeat</p>
-    <p>Nesciam. mea potius culpa est, qui nimium lubricae eius</p>
-    <p>Dederim aetati licentiae: cui tuta etiam timenda</p>
-    <p>≤line=675≥ Sunt omnia. si eum occido, seruom perdo, qualem haud
-    temere</p>
-    <p>Iterum inuenero: per quem plurima mihi commoda contigere.</p>
-    <p>Tum autem, Deum eius metuo, quem mihi per eum usque sensi</p>
-    <p>Esse propitium. Illud existimo esse humani ingenij potius,</p>
-    <p>Vt includam, dum deferuescat aetatis calor: ne</p>
-    <p>≤line=680≥ Posthac idem queat, tamen usus mihi ex eo non pereat.
-    hunc unum</p>
-    <p>Hactenus expertus sum fidelem seruom, heriliumque rerum</p>
-    <p>Amantem. multa qui bene fecit, eius errorem ferre</p>
-    <p>Aequom est. iuuenis est: corrigi pensarique potest, quod iam</p>
-    <p>Mutari non potest. Satis profecto mali est ei, qui et</p>
-    <p>≤line=685≥ Seruos et peregrinus, et uinctus est simul. Itaque
-    corrigendi</p>
-    <p>Quod deliquit, si deliquit, spatium dabo. Mansuetudine
-    <hi rendition="simple:italic">Acatalectici.</hi></p>
-    <p>Et clementia nihil homini melius in uita. Caeterum</p>
-    <p>Non usus est, me illi temere aperire. Eho, ubi estis uos?
-    foras</p>
-    <p>Agite huc, corruptorem isthunc seruom meum Ioseph educite.</p>
-  </div>
-  <div type="level2" xml:id="actvs-qvarti.-scena-i.">
-    <head>ACTVS QVARTI. SCENA I.</head>
-    <p><hi rendition="simple:italic">Iambici tetrametri,
-    acatalectici.</hi></p>
-    <p><hi rendition="simple:italic">Lorarij. Potiphar. Ioseph.</hi></p>
-    <p>≤line=690≥ Adsumus here, si quid nos uis, impera.
-    <hi rendition="simple:italic">Pot.</hi> Age tu, huc procede bone
-    uir,</p>
-    <p>Lepidum mancipium meum. Iam, ubi loci fortunae sient tuae,</p>
-    <p>Facile intelligis. equidem efficiam, ut, qui fueris apud me, et
-    quis prius,</p>
-    <p>Scias: quando ego te uideo immutatis moribus esse, atque
-    ingenio</p>
-    <p>Ingrata atque irrita omnia habere, quae benefecimus tibi.</p>
-    <p>≤line=695≥ Tu’ne pudicitiam potuisti tentare herilem?
-    <hi rendition="simple:italic">Ios.</hi> Ah.
-    <hi rendition="simple:italic">Pot.</hi> Quid mihi</p>
-    <p>Respondes? quid nunc sic taces?
-    <hi rendition="simple:italic">Ios.</hi> Quia me eloqui indignum est,
-    here.</p>
-    <p><hi rendition="simple:italic">Pot.</hi> At tu factu esse
-    indignum, cogitare debebas, scelus.</p>
-    <p>Caeterum, equidem nondum spem omnem salutis abieci tuae,</p>
-    <p>Ioseph: proinde quo te ad frugem recipere queas, uinculis</p>
-    <p>≤line=700≥ Tibi domare lasciuiam contentus ero, grauiora
-    merito,</p>
-    <p>Pristinae id uirtutis respectu tuae. Abripite eum in
-    carcerem,</p>
-    <p>Tanti ut sceleris poeniteat.
-    <hi rendition="simple:italic">Ios.</hi> Here, animum istum laudo,
-    atque amo tuum:</p>
-    <p>Quo usus benigno, et amico sum, dum licuit: nunc dum non
-    licet</p>
-    <p>Mihi, ut possum fero. at abripite sane: confido fore,</p>
-    <p>Vt res me ipsa reducat aliquando in gratiam. 705
-    <hi rendition="simple:italic">Senarius.</hi></p>
-    <p><hi rendition="simple:italic">Pot.</hi> Non mihi negotium hoc
-    uolgaribus dolet modis: sed <hi rendition="simple:italic">Tetrametri
-    catalectici.</hi></p>
-    <p>Quid me frustra cruciem? quid me afflictem? quando iam
-    infectum</p>
-    <p>Fieri haud potest. casus humani communes sunt, non mihi</p>
-    <p>Primo, neque soli, nec solus adeo hicce accidit. in re (ut
-    aiunt)</p>
-    <p>Mala, bonus animus dimidium adimit mali. 710
-    <hi rendition="simple:italic">Senarius.</hi></p>
-  </div>
-  <div type="level2" xml:id="actvs-qvarti-scena-ii.">
-    <head>ACTVS QVARTI SCENA II.</head>
-    <p><hi rendition="simple:italic">Tetrametri catalectici, tum
-    Iambici, tum Trochaici.</hi></p>
-    <p><hi rendition="simple:italic">Lorarij. Ioseph.</hi></p>
-    <p>Quid isthuc quaeso Ioseph est negotij? siccine te
-    <hi rendition="simple:italic">Iambi.</hi></p>
-    <p>Subito miserum aedibus eijcier in carcerem?
-    <hi rendition="simple:italic">Senarius</hi></p>
-    <p><hi rendition="simple:italic">Ios.</hi> Non in carcerem eijci,
-    sed carcere dignum admittere
-    <hi rendition="simple:italic">Trochaici.</hi></p>
-    <p>Aliquid, miserum est. saepe uincula probis iuxta atque
-    improbis</p>
-    <p>≤line=715≥ Accidere. dum ne ob malefacta patiar, parui
-    aestumo.</p>
-    <p><hi rendition="simple:italic">Lor.</hi> Dixisti honeste, Ioseph:
-    uerum huic dolor adest honesto.
-    <hi rendition="simple:italic">Iambus.</hi></p>
-    <p><hi rendition="simple:italic">Ios.</hi> Est qui cito corrigere et
-    mutare potest laetis tristia,
-    <hi rendition="simple:italic">Trochaici.</hi></p>
-    <p>Deus: cui nota est caussa calamitatis, et ueritas rei. et</p>
-    <p>Vt peruiuam in his ad summam usque aetatem, tamen breue</p>
-    <p>Spatium est perferundi miseriam. 720
-    <hi rendition="simple:italic">Dimeter trochaicus.</hi></p>
-    <p><hi rendition="simple:italic">Lor.</hi> Sapis, qui nec, praeter
-    quas carcer habet, addas molestias:
-    <hi rendition="simple:italic">Iambi.</hi></p>
-    <p>Et quas habet, recte feras.
-    <hi rendition="simple:italic">Ios.</hi> Nam si me afflictem, quid
-    mihi</p>
-    <p>Lucri sit? nonne eadem sunt ferenda? nolenti tamen?
-    <hi rendition="simple:italic">Trochaici.</hi></p>
-    <p>Quodcunque Deus ille facit, ferundum est aequo animo: cui</p>
-    <p>≤line=725≥ Pugnare, et frustraneum, et impium iuxta est.
-    Inscitia</p>
-    <p>Est uero, gratis malum esse uelle, quom liceat bono.</p>
-    <p><hi rendition="simple:italic">Lor.</hi> Verum. Proin obdura,
-    rebusque te serua secundis.
-    <hi rendition="simple:italic">Iambus.</hi></p>
-    <p><hi rendition="simple:italic">Ios.</hi> Equidem semper ea uolui,
-    et feci, ut non modo secunda mihi
-    <hi rendition="simple:italic">Trochaici.</hi></p>
-    <p>Sperare, sed aduorsa contemnere queam.
-    <hi rendition="simple:italic">Lor.</hi> Dij uostram fidem,</p>
-    <p>≤line=730≥ Hominis ingenium constans, ac praesens. lacrumas
-    excussit <hi rendition="simple:italic">Iambi.</hi></p>
-    <p>Mihi, miseretque me eius. hoc nemo fuit commodior</p>
-    <p>Semper: nec ad herilia negotia quisquam attentior. cui</p>
-    <p>Domus parebat tota modo. ehem, quo redactus subito</p>
-    <p>Est? ut mortale nihil florere diu potest.
-    <hi rendition="simple:italic">Senarius.</hi></p>
-  </div>
-  <div type="level2" xml:id="actvs-qvarti-scena-iii.">
-    <head>ACTVS QVARTI SCENA III.</head>
-    <p><hi rendition="simple:italic">Trochaici tetrametri
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Ioseph.</hi></p>
-    <p>≤line=735≥ Pro summe Deus, autor, rectorque omnium, et mundi
-    arbiter:</p>
-    <p>Quem tandem grauibus laboribus statues modum meis?</p>
-    <p>Perpetuo tenore, aduorsis succedunt aduorsa mihi.</p>
-    <p>Aspicis haec Deus: nam te nihil fallit. domi grauem</p>
-    <p>Pertuli fratrum inuidiam diu, immerito meo, a quibus</p>
-    <p>≤line=740≥ Etiam caedi destinatus, uerum praesenti tua</p>
-    <p>Seruatus ope, ab eis uenditus, dulcem patriam exilio,</p>
-    <p>Libertatem seruitute commutaui auream. sed haec,</p>
-    <p>Tua benignitate, leuia expertus sum satis: quasi</p>
-    <p>Me ita fratrum odio liberatum uolueris. ecce autem, res noua</p>
-    <p>≤line=745≥ Orta est porro: quae omneis mihi rationes conturbauit,
-    et</p>
-    <p>Extremam in sortem coniecit simul, o Deus. at pro fide,</p>
-    <p>Continentiaque, hoc praemij fero? Sed ne me poeniteat</p>
-    <p>Fuisse pium. sic praestabat, quam perpetua domi dissidia</p>
-    <p>Conflasse. ego solus quom sim, facile hanc pertulero
-    iniuriam,</p>
-    <p>≤line=750≥ Qui grauiorem olim tuli. quid enim faciat aliena,
-    quom</p>
-    <p>Ipsi in me fratres ad eum saeuierint modum mei? caeterum,</p>
-    <p>Qui me ab ijs eripuisti Deus, tute uiam inueneris:</p>
-    <p>In te omnis spes est mihi: saepe qui, re gesta pessume,</p>
-    <p>Gesta ut sit probe facis. fortasse et sic mihi tua</p>
-    <p>≤line=755≥ Consulis bonitate, tutus ab impudica ut sim.
-    sequor,</p>
-    <p>Quo me tua sancta uoluntas uocat. addam et hanc tolerantiam</p>
-    <p>Superioribus. quid mihi refert Ioseph esse nomen, nisi</p>
-    <p>Factis probo? homo sum, humanis natus casibus obnoxius:</p>
-    <p>Cui nihil recusandum, quod communis fert conditio:</p>
-    <p>≤line=760≥ Neque grauius ferundum, quod uitari non potest.</p>
-    <p>CATASTROPHE.</p>
-  </div>
-  <div type="level2" xml:id="actvs-qvinti-scena-i.">
-    <head>ACTVS QVINTI SCENA I.</head>
-    <p><hi rendition="simple:italic">Trochaici tetrametri
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Hanno.</hi></p>
-    <p>Nae alba iam raraque in hominibus auis, fides et gratia</p>
-    <p>Est. quarum locum, perfidia ingratitudoque obtinent.</p>
-    <p>Ita bonis intermorientibus moribus iam, affatim</p>
-    <p>Succrescunt mali, magis ac magis indies: posterioribus</p>
-    <p>≤line=765≥ Semper deterioribus. haec mihi ex ipsa adeo re
-    incidit</p>
-    <p>Cogitatio, dum concaptiui in mentem uenit mei,</p>
-    <p>Ioseph Hebraei. quem ego in tam aduorsa, aut euorsa potius,</p>
-    <p>Miserum fortuna, tantum temporis interuallum male</p>
-    <p>Gratus deserui. cuius me poenitet nunc, et pudet:</p>
-    <p>≤line=770≥ Miseretque eius. qui mihi in contubernio nuper
-    carceris,</p>
-    <p>Qua non comitate sermonis, qua non ministerij</p>
-    <p>Sedulitate leuauit miseriam? quam solerti mihi</p>
-    <p>Coniectura, insomnij aperuit ueritatem? Visus ut</p>
-    <p>Forte per quietem eram, triplicem uidere palmitem</p>
-    <p>≤line=775≥ Botris oneratum; grandibus iam, et uindemiae
-    idoneis:</p>
-    <p>Quibus a me resectis, expressisque in poculum regium,</p>
-    <p>Mustum regi offerre bibituro: pergratum ei officium</p>
-    <p>Retuli ad ipsum anxius. ille, bono protinus animo iubet</p>
-    <p>Esse, portendique pristinae intra triduum mihi</p>
-    <p>≤line=780≥ Dignitatis restitutionem. quod Vinum Deus</p>
-    <p>Exhilarandis creauit animis, solandisque laboribus,</p>
-    <p>Quo et amicitia conciliatur, diluitur inimicitia</p>
-    <p>Mortalibus. at te (inquit) obsecro Hanno, memineris mei,</p>
-    <p>Quom bene erit tibi: redde operam mihi apud Parhonem, carcere</p>
-    <p>≤line=785≥ Eximundum ut cures: quo detrusus sum, nulla mea</p>
-    <p>Culpa, neque merito. sed furtim Hebraeo huc abductus solo:</p>
-    <p>Dein, ob innocentiae studium, indigna haec nocentium</p>
-    <p>Sustineo supplicia: sed cessatum a me usque adhuc fuit,</p>
-    <p>Captanti semper opportunitatem: ita, ut fit, iam duo</p>
-    <p>≤line=790≥ Effluxere anni. simul secunda fortuna ebrio,</p>
-    <p>Aduorsae obliuio, illiusque mihi obrepsit securitas.</p>
-    <p>At nunc eam pensasse utcumque tandem negligentiam,</p>
-    <p>Sane uolupe est. atque ea quidem iam obtulit se occasio,</p>
-    <p>Vt non sine numine, uel hanc nunc, uel tunc obliuionem illam</p>
-    <p>≤line=795≥ Contigisse, credere sit. Sed quid cesso etiam adire
-    eum,</p>
-    <p>Hoc ut tanto tamque insperato quam primum gaudio</p>
-    <p>Impertiam: lubentioremque faciam, quam lubentia est.</p>
-    <p>Aperite ocyus hoc: heus, ecquis he‹c est? ecquis audit?</p>
-  </div>
-  <div type="level2" xml:id="actvs-qvinti-scena-ii.">
-    <head>ACTVS QVINTI SCENA II.</head>
-    <p><hi rendition="simple:italic">Tetrametri trochaici,
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Puer. Hanno. Gulussa.</hi></p>
-    <p>Hoc</p>
-    <p>Quis pultauit ostium? <hi rendition="simple:italic">Han.</hi> Qui
-    tibi proxumus astat. nuncia</p>
-    <p>≤line=800≥ Vt prodeat Gulussa foras: est, qui illum conuentum
-    esse uolt.</p>
-    <p><hi rendition="simple:italic">Pu.</hi> Nihil aliud dicam?
-    <hi rendition="simple:italic">Han.</hi> Vt uenire properet, ne in
-    mora mihi</p>
-    <p>Siet, ita res est. <hi rendition="simple:italic">Pu.</hi> Fecero.
-    <hi rendition="simple:italic">Han.</hi> At iam factum oportuit:
-    uola.</p>
-    <p><hi rendition="simple:italic">Gul.</hi> O salue mi Domine.
-    <hi rendition="simple:italic">Han.</hi> Et tu multum salue, Gulussa
-    mi.</p>
-    <p>Sed Ioseph iam huc, ex praecepto regis, producto est opus.</p>
-    <p>≤line=805≥ Maxumam cui laetitiam et triumphum adfero, aduentu
-    meo.</p>
-    <p><hi rendition="simple:italic">Gul.</hi> Optume factum, et gaudeo.
-    nam illi faueo iuueni: quem ego</p>
-    <p>Esse scio honore quouis dignum.
-    <hi rendition="simple:italic">Han.</hi> Est sane: at nunc matura.
-    ita</p>
-    <p>Facto opus est. <hi rendition="simple:italic">Gul.</hi>
-    Curabitur.</p>
-  </div>
-  <div type="level2" xml:id="actvs-qvinti-scena-iii.">
-    <head>ACTVS QVINTI SCENA III.</head>
-    <p><hi rendition="simple:italic">Trimetri Trochaici,
-    catalectici.</hi></p>
-    <p><hi rendition="simple:italic">Hanno. Ioseph. Gulussa.</hi></p>
-    <p>Nulla est conditio tam desperata, quae</p>
-    <p>≤line=810≥ Non in melius, quom Dij uolunt, cito</p>
-    <p>Restitui queat. quod de me adeo cuiuis</p>
-    <p>Facile est noscere: qui nihil sane minus,</p>
-    <p>Atque pistorum ille praefectus, reus</p>
-    <p>Peccati in dominum meum regem, illo in crucem</p>
-    <p>≤line=815≥ Acto, ego clementia eius pristinae</p>
-    <p>Dignitati restitutus uiuo tamen.</p>
-    <p>Sed quem uolui, eccum. Ioseph, te plurimum</p>
-    <p>Saluere iubeo. <hi rendition="simple:italic">Ios.</hi> Salue
-    Hanno: isthaeccine</p>
-    <p>Est fides? <hi rendition="simple:italic">Han.</hi> Peccaui,
-    fateor: uincor: at</p>
-    <p>≤line=820≥ Nunc, quando tibi Deus et uirtus tua</p>
-    <p>Reditum et restitutionem in meliorem statum</p>
-    <p>Aperuit, tuae fuerit sapientiae,</p>
-    <p>Magnitudinisque animi, quod accidit,</p>
-    <p>Obliuisci: quod instat, curae habere. ita</p>
-    <p>≤line=825≥ Aequom ac dignum alijs factis tuis feceris.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> More hominum fit Hanno,
-    ut miserorum, male,</p>
-    <p>In foelicitate capiat obliuio.</p>
-    <p>At ego illud, scio, quam doluerit cordi meo.</p>
-    <p><hi rendition="simple:italic">Han.</hi> At nunc gaude, mi Ioseph.
-    <hi rendition="simple:italic">Ios.</hi> Quid gaudeam?</p>
-    <p>≤line=830≥ <hi rendition="simple:italic">Han.</hi> Equidem iam te
-    fortunatum fecero.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Isthuc Deo in manu est,
-    ubi dignabitur.</p>
-    <p><hi rendition="simple:italic">Han.</hi> At, sine controuorsia,
-    Ioseph, Dij</p>
-    <p>Te omnes adiuuant. <hi rendition="simple:italic">Ios.</hi> Ita
-    uelim: sed nihil</p>
-    <p>Sentio etiamnum. <hi rendition="simple:italic">Han.</hi> Faxo
-    ergo ut sentias.</p>
-    <p>≤line=835≥ <hi rendition="simple:italic">Ios.</hi> Quin dic, quid
-    tandem est bonae rei? <hi rendition="simple:italic">Han.</hi> Accipe
-    hem,</p>
-    <p>A Parhone rege missus sum modo,</p>
-    <p>Vt te adducerem. <hi rendition="simple:italic">Ios.</hi> Hem.
-    <hi rendition="simple:italic">Han.</hi> Ne uerearis. bono</p>
-    <p>Animo es. Dij te, Ioseph, seruatum uolunt.</p>
-    <p><hi rendition="simple:italic">Ios.</hi> Obsecro num nam ludis tu
-    nunc me? <hi rendition="simple:italic">Han.</hi> Egon’</p>
-    <p>≤line=840≥ Te? quamobrem? <hi rendition="simple:italic">Ios.</hi>
-    Nescio: sed qui isthuc credam ita</p>
-    <p>Esse, mihi dici uelim. <hi rendition="simple:italic">Han.</hi>
-    Dicam tibi.</p>
-    <p>Rex gemini sibi obuersati insomnij</p>
-    <p>Confusus portentosis ambagibus,</p>
-    <p>Cunctis diuinis ac coniectoribus,</p>
-    <p>≤line=845≥ Et quotquot tota Aegypto sapientia</p>
-    <p>Praestant, consultis frustra, ut cui nihil</p>
-    <p>Explicare quidquam possint, quom magis</p>
-    <p>Inde etiam consternaretur, de tua</p>
-    <p>Et opportune maxume sapientia</p>
-    <p>≤line=850≥ Suggessi: quondam ipse quam expertus fui.</p>
-    <p>Quare huc te accersitum, iussit ire me,</p>
-    <p>Eiusdem quo beneficij, cuius mihi</p>
-    <p>Olim, nunc item ipsi facias copiam,</p>
-    <p>Perpetuo sic eum deuincturus: simul</p>
-    <p>≤line=855≥ Et libertatem, et nobilitatem ex eo,</p>
-    <p>Et gloriam tibi, et rem pariturus.
-    <hi rendition="simple:italic">Gul.</hi> Bene, ut</p>
-    <p>Me Deus amet, factum gaudeo.
-    <hi rendition="simple:italic">Ios.</hi> Dic, bonan’</p>
-    <p>Mihi fide isthaec uerba dixisti?
-    <hi rendition="simple:italic">Han.</hi> Bona.</p>
-    <p>Non mihi credis? <hi rendition="simple:italic">Ios.</hi> Deus
-    supreme, iterum</p>
-    <p>≤line=860≥ Mihi natus uideor, si uera praedicas.</p>
-    <p><hi rendition="simple:italic">Han.</hi> Ita me amet, quam ego
-    amo, ut haud mentior tibi</p>
-    <p>Ioseph. <hi rendition="simple:italic">Ios.</hi> Deus tibi oro
-    semper omnia</p>
-    <p>Optata offerat. eamus: duc me ad eum obsecro.</p>
-    <p><hi rendition="simple:italic">Gul.</hi> Isthuc Deus bene uortat.
-    <hi rendition="simple:italic">Ios.</hi> Ita spero quidem.</p>
-    <p>≤line=865≥ <hi rendition="simple:italic">Han.</hi> Fac modo animo
-    praesenti ut sis. <hi rendition="simple:italic">Gul.</hi> Quin
-    caue</p>
-    <p>Mi Ioseph, ne committas nunc, ut tibi</p>
-    <p>Ipse defuisse uideare. quod quidem</p>
-    <p>Ita diuina occasione, atque indole</p>
-    <p>Ista tam egregia, iuxta indignum foret.</p>
-    <p>≤line=870≥ Bene gerundae rei facultatem datam</p>
-    <p>Amittere, dementia est. <hi rendition="simple:italic">Ios.</hi>
-    Faciam sedulo.</p>
-    <p><hi rendition="simple:italic">Han.</hi> Eamus iam ergo.
-    <hi rendition="simple:italic">Ios.</hi> Atque aliquanto
-    lubentius,</p>
-    <p>Quam quidem huc accessi. O Gulussa, Vale.</p>
-    <p>Gratias habeo atque ago merito maximas</p>
-    <p>≤line=875≥ Tibi, uicissimque, ubi quid usus uenerit,</p>
-    <p>Bene faxo lubens. <hi rendition="simple:italic">Gul.</hi> Benigne
-    dicis: Vale,</p>
-    <p>Atque salue, Ioseph, ac bene rem gere.</p>
-    <p>Oh: quid est quod nunc malim, quam quod iam huic</p>
-    <p>Euenire intelligo: e paedore sic</p>
-    <p>≤line=880≥ Ad benigniorem tandem sortem uti</p>
-    <p>Euehatur, uirtus ita ut meretur eius?</p>
-    <p>Nam si haec regi interpretetur somnia,</p>
-    <p>Vt fecit concapteiueis antehac suis,</p>
-    <p>Et libertatem ei, et opes, et gratiam,</p>
-    <p>≤line=885≥ Cumulate partum iri scio. Quod reliquom est,</p>
-    <p>Spectatores, qui uirtutem ducitis</p>
-    <p>Maxumi, aequom est Ioseph gratia,</p>
-    <p>Vos dare plausum postremo in comoedia.</p>
-    <p>Omnis uni Deo gratia et gloria.</p>
-  </div>
+</div>
+<div type="level1" xml:id="dramatis-personae.">
+  <head>1. Dramatis personae.</head>
+  <p>Mago seruolus. Sephirach matrona.</p>
+  <p>Ioseph oeconomus. Potiphar herus, praefectus satellitum regiorum,
+  ut qui etiam praefuerit tum carceri, tum ipsi praefecto carceris, ut
+  uidere est Genesis 40.</p>
+  <p>Lorarij. Hanno pocillator regius.</p>
+  <p>Puer. Gulussa carcerarius.</p>
+  <p><hi rendition="simple:bold">Ioseph Cornelii Croci Petri filii
+  Aemsterodami</hi></p>
+  <p>Acta sacrae dedicationis ferijs, quom et supplicatum est, ob
+  clarificatum Domini <hi rendition="simple:italic">Iesu</hi> nomen
+  inter gentes, Divina Caesariae Maiestatis in Aphrica victoria, M.
+  Ioanne Teyngo Medico experientissimo et Nicolao Gerardi filio Primis,
+  post frustratam ac labascentem, singulari Dei Optimi Maximi beneficio,
+  diutinam Luteranae haeresios tyrannidem, hoc Praetore, illo Consule,
+  Orthodoxis Aemsterodami, Anno a nato Christo. 1535. Egere ingenui
+  adolescentuli Petrus Comes Wlpipaludanus, Franciscus Teyngus,
+  Guilielmus Sylvius, Reinerus Simonius, Ioannes Hudepolius, Egbertus
+  Rodolphi filius, Ioannes Cornelii filius, Arnoldus Tielmaniae filius
+  et Nicolaus Alardi filius.</p>
+  <p>Edita M. Cornelio Dobbio Praetore orthodoxae fidei
+  observantissimo.</p>
+</div>
+<div type="level1" xml:id="prologus.">
+  <head>2. Prologus.</head>
+  <p><hi rendition="simple:italic">Trimetri</hi>.</p>
+  <p>Quod esse foelix omnibus uelit Deus,</p>
+  <p>Pariterque faustum, quotquot estis candidi,</p>
+  <p>Nigros enim nihil moramur, ni prius</p>
+  <p>Sese abluant, nouae uoluptatis nouos,</p>
+  <p>≤line=5≥ Grege a nouo, sum nuncius uobis datus.</p>
+  <p>Apporto nanque, non Plauti aut Terentij,</p>
+  <p>Quas esse fictas nostis omnes fabulas,</p>
+  <p>Vanas, prophanas, ludicras ac lubricas:</p>
+  <p>Verum ueram, sacramque porto, et seriam,</p>
+  <p>≤line=10≥ Castam, pudicam, sic ut ipsas Virgines</p>
+  <p>Dictasse Musas, ac Mineruam deieres:</p>
+  <p>Nouamque, iam scriptam recens comoediam,</p>
+  <p>Cui iure, cui ex re, Ioseph nomen inditum.</p>
+  <p>Nil addo qualis caetera siet: caeterum</p>
+  <p>≤line=15≥ Vostrum illud esto iudicium. At si illae tamen,</p>
+  <p>Merito omnibus omnium eruditorum notis,</p>
+  <p>Censentur esse uitae speculum, atque eas</p>
+  <p>Spectare cuncti gestiunt, dum copia est:</p>
+  <p>Nihil minus, idem huic deferri historiae</p>
+  <p>≤line=20≥ Aequom est: ne quid maius dicam, sed uerius.</p>
+  <p>Hanc exhibere heic iam cupit, si operam datis,</p>
+  <p>Vostri fauore, uostrae item in spem gratiae,</p>
+  <p>Encaeniorum ferias, quibus potest</p>
+  <p>Modis, honestatura sacras, auspice</p>
+  <p>≤line=25≥ Christo, simulque Gratijs fauentibus,</p>
+  <p>Autore Crwco, publicae pubes scholae.</p>
+  <p>Caeterum hoc agamus, huc qua uentum est gratia,</p>
+  <p>Vt argumentum disseram comoediae.</p>
+  <p>Ioseph fideli pectore reuerens Dei,</p>
+  <p>≤line=30≥ Clari parentis filius clarissumus,</p>
+  <p>Pudore plus quam uirgineo, cana fide,</p>
+  <p>Totaque uirtutum catena praeditus,</p>
+  <p>Domi malignis fratrum odijs exercitus,</p>
+  <p>Et demum ab ijsdem uenditus, in Aegyptias</p>
+  <p>≤line=35≥ Delatus oras, seruitutem seruijt</p>
+  <p>Satellitum praefecto regiorum hero.</p>
+  <p>Heic dum gubernat creditam sibi domum,</p>
+  <p>Aetate florens lubrica, et forma pari,</p>
+  <p>Lubidinosis captae amore amplexibus</p>
+  <p>≤line=40≥ Herae petitus, nescijt corrumpier:</p>
+  <p>Fugiens, relicto quo prehensus pallio est.</p>
+  <p>Quod recipienti se domum illa coniugi</p>
+  <p>Praetendit, immerentem Ioseph criminans.</p>
+  <p>Eumque falsis percitus querimonijs</p>
+  <p>≤line=45≥ Herus, profundo mancipat mox carceri.</p>
+  <p>Annis ubi duobus, aut eo amplius,</p>
+  <p>Clausus, profecta regi dum diuinitus</p>
+  <p>Interpretatur prodigiosa insomnia,</p>
+  <p>Et missionem, et rem parit sibi simul,</p>
+  <p>≤line=50≥ Dei fauore, et auspicatas nuptias.</p>
+  <p>Sic uincere animum sueti, quam quos animus, hi</p>
+  <p>Maiore semper post triumphant gloria.</p>
+  <p>Adeste sacri: res sacra est ut maxume.</p>
+  <p>Prophani adeste: res prophana est, sed sacre</p>
+  <p>≤line=55≥ Tractata: quae reddat sacros, lubentibus,</p>
+  <p>Vt par est, auribus recepta, ac mentibus.</p>
+  <p>Omneis proin opere maxumo oratos uolo,</p>
+  <p>Linguis fauete, et rem totam pernoscite.</p>
+  <p>Quod comicam si forte quis licentiam</p>
+  <p>≤line=60≥ Pedum putarit incessendam, huncce moneo,</p>
+  <p>Faciat ne intelligendo ut nihil intellegat.</p>
+  <p>Extant bonorum exempla, qui cunctis placent,</p>
+  <p>Plauti ac Terentij: quibus, alijs idem</p>
+  <p>Licere facere, quod illi fecerunt, puto.</p>
+  <p>≤line=65≥ Quorum aemulari praestat neglegentiam, ac</p>
+  <p>Morsulorum obscuram diligentiam.</p>
+  <p>Quos ut quiescant potius, et faueant, rogo,</p>
+  <p>Nouo, pioque puerilem pietatulam</p>
+  <p>Iuuandi publice studio, et mores bonos:</p>
+  <p>≤line=70≥ Quam ut tam religioso oblatrent negotio,</p>
+  <p>Superstitione liuida. et ueteri in noua</p>
+  <p>Re uerbo ut utar, dent crescendi copiam,</p>
+  <p>Nouarum qui spectandi faciant copiam.</p>
+  <p><hi rendition="simple:bold">PROTASIS COMOEDIAE.</hi></p>
+</div>
+<div type="level1" xml:id="actvs-primi-scena-i.">
+  <head>4. ACTVS PRIMI SCENA I.</head>
+  <p><hi rendition="simple:italic">Trimetri.</hi></p>
+  <p><hi rendition="simple:italic">Mago</hi>.</p>
+  <p>Vt dura res est Dij, seruom pro libero</p>
+  <p>≤line=75≥ Esse, alieni simul iuris et iniuriae?</p>
+  <p>Iniquos adeo dominos hoc seclum tulit</p>
+  <p>Noctes diesque, plus satis usque est, et super,</p>
+  <p>Quo facto aut dicto est opus, quietus ne sies.</p>
+  <p>Aequom an iniquom imperent, nihil iam pensi habent</p>
+  <p>≤line=80≥ Quodcunque collubitum eis, licere postulant.</p>
+  <p>At olim heris, tum quom meliora tempora</p>
+  <p>Fuere, humanitatis certamen fuit:</p>
+  <p>Non, ut nunc seruos eodem, quo mulos, habent</p>
+  <p>Loco. Verum illud duplicat molestiam,</p>
+  <p>≤line=85≥ Morosioris forte seruom esse domini</p>
+  <p>Si contigit, Deo irato, quales fere</p>
+  <p>Plerique. Caeterum multo ille miserrimus,</p>
+  <p>Heram morosam ferre quisquis perpetim</p>
+  <p>Cogitur, itidem ut nos hancce, iurgijs sine</p>
+  <p>≤line=90≥ Modo modestiaque quae scatet muliebribus,</p>
+  <p>Nulla adeo ex caussa: rixarum ipsa autor sibi.</p>
+  <p>Quocirca me foras eduxi ex aedibus</p>
+  <p>Parumper, hic ut nauseam leuem, modo</p>
+  <p>Intus conceptam, quae quidem quam commodis</p>
+  <p>≤line=95≥ Pridem esse moribus solet: nulli grauis?</p>
+  <p>Herus sed postquam liberius coepit suis</p>
+  <p>Iampridem inseruire officijs, domo frequens</p>
+  <p>Abesse, Hebraei fretus oeconomi fide,</p>
+  <p>Aut bile oportet, aut amore percitam.</p>
+  <p>≤line=100≥ Sed comprimenda uox est, atque oratio.</p>
+  <p>Crepuit fores: mirum ni ipsa exit: ut nihil</p>
+  <p>Quieti loci relictum? Eccam: ipsa adest tibi.</p>
+  <p>Vtinam mihi heic esset quo me praecipitem darem.</p>
+  <p>Iam iurgio enecabit credo, imo scio.</p>
+  <p>≤line=105≥ Proin ocyus hinc me ut intro conijciam optumum est.</p>
+  <p>Nam si responsem, irritem magis. <hi rendition="simple:italic">Hic
+  senarius perficitur initio scenae</hi></p>
+  <p><hi rendition="simple:italic">insequentis.</hi></p>
+</div>
+<div type="level1" xml:id="actvs-primi-scena-ii.">
+  <head>5. ACTVS PRIMI SCENA II.</head>
+  <p><hi rendition="simple:italic">Trimetri.</hi></p>
+  <p><hi rendition="simple:italic">Sephirach. Mago.</hi></p>
+  <p>Hem, quid rei</p>
+  <p>Tibi heic cessator? iamne missus obsecro</p>
+  <p>Manu? quid hic monstri alis?
+  <hi rendition="simple:italic">Mag.</hi> Eho, dixin’ hoc fore?</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Hoccine agis, an non?
+  <hi rendition="simple:italic">Ma.</hi> Ego uero isthuc mea domina.
+  <hi rendition="simple:italic">Seph.</hi> Vt</p>
+  <p>≤line=110≥ Te luppiter Diique omnes perduint scelus,</p>
+  <p>Quo nullus est scelestior qui uiuat hodie.</p>
+  <p>Nequeon’ ego te interdictis audientem meis</p>
+  <p>Facere? abi intro, et quod facto opus est, face: ni uelis</p>
+  <p>Cerebro heic tuo uias dispergier.
+  <hi rendition="simple:italic">Mag.</hi> Lubens.</p>
+</div>
+<div type="level1" xml:id="actvs-primi-scena-iii.">
+  <head>6. ACTVS PRIMI SCENA III.</head>
+  <p><hi rendition="simple:italic">Tetrametri Iambici, partim
+  Acatalectici, partim Catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Sephirach.</hi></p>
+  <p>≤line=115≥ Pro dii immortales, quod genus hoc hominum? quae haec
+  coniuratio est?</p>
+  <p>Vno omnibus animo unum aeque studium est, esse aduorsos herae?</p>
+  <p>Iam’ne abijt ille? dicere heic quiduis licet? nimis male</p>
+  <p>Ego hunc metuo, ne’ mihi ex insidijs uerba imprudenti duit,</p>
+  <p>Circumspectator, cum oculis emissitijs: ita usque me</p>
+  <p>≤line=120≥ Obseruat malus. ah Ioseph, Ioseph, quid ego nunc te
+  laudem?</p>
+  <p>Vt dissimilis es seruorum aliorum? sane nunquam quidquam</p>
+  <p>Ita magnifice dici potest, uirtus quin id superet tua,</p>
+  <p>Quae mentem animumque excantat mihi, prorsus ut oblita sim mei:</p>
+  <p>Non ista uolgaris, quae spe metuque officium facit suum,</p>
+  <p>Verum germana, uero quae studio facit. 125
+  <hi rendition="simple:italic">Senarius</hi></p>
+  <p>Sed mihi nimium proba, aduorsus animi sententiam mei,</p>
+  <p>Vel proxume quam grauiter appellanti respondit, Deum</p>
+  <p>Scelerum esse uindicem, nullum quem praetereat flagitium?</p>
+  <p>Atqui maiores hi sunt ignes, uerbis quam qui extingui</p>
+  <p>≤line=130≥ Queant. respondet par uirtuti forma, plus quam
+  humana</p>
+  <p>Conueniunt mores diuini, morumque amabilis gratia,</p>
+  <p>Tum index ingenij, animique speculum, oratio, quam cordata?</p>
+  <p>Quid uerbis opus est? nihil pote supra. credo equidem uirtutem</p>
+  <p>Vna et naturam, in hoc certasse ornando: quidque possent,</p>
+  <p>≤line=135≥ Vires periclitari suas uoluisse. ut non pudori</p>
+  <p>Mihi esse iure debeat, uni huic culpae succubuisse.</p>
+  <p>Nequeo durare, tantum mihi in pectore amor facit incendium:</p>
+  <p>Qui amarore et moerore me implet nimio. perij: at ipsa</p>
+  <p>Sperabam infelix, et gratiam inituram ab eo, mihique</p>
+  <p>≤line=140≥ Fauore tam obuio sic deuincturam, nihil ut quidquam</p>
+  <p>Recusaturus esset: quis etenim seruos homo tantam</p>
+  <p>Benignitatem herilem non cupide amplectatur, atque</p>
+  <p>Etiam bene secum esse actum dicat? imo non magnae ducat</p>
+  <p>Felicitatis loco, heram habere supplicem sibi suam?</p>
+  <p>≤line=145≥ Quid igitur faciam? quid restat miserae mihi? eheu,
+  nequeo</p>
+  <p>Quin lacrumem. quanto minus spei est, tanto magis amo.</p>
+  <p>Nulla est me miserior: domi quae quod amem assidue uideam,</p>
+  <p>Neque potiri liceat: nec qua uia sententia eius</p>
+  <p>Flecti possit scio: saepe iam eius tentaui animum, saepe</p>
+  <p>≤line=150≥ Praehensum solum adorta: monui, cum bona potius mihi</p>
+  <p>Vt obsequeretur gratia, quam cum mala: frustra omnia,</p>
+  <p>Repulsa, spreta: rursum illi supplex fiam, qui precibus</p>
+  <p>Magis indurescit? meque aliarum ex moribus extimari</p>
+  <p>Patiar, iniuria quibus amorem addit misere? non faciam:</p>
+  <p>≤line=155≥ Et si me amor grauiter tenet. Potius me ita
+  comparabo,</p>
+  <p>Non perpeti superbi fastidia. quod utinam possem,</p>
+  <p>Nihil prius, neque fortius, magis lubet putare,</p>
+  <p>Haud obstinatione mihi negasse, sed pudore.</p>
+  <p>Illud cogito, si forte tandem expugnari queat, tanto</p>
+  <p>≤line=160≥ Deinde in amore futurum mihi constantiorem.</p>
+  <p>Experiar itaque, etsi iam saepe me spes haec frustrata est.</p>
+  <p>Deos quaeso, benignus erga me ut sit: quod cupiam, ne grauetur.</p>
+  <p>Aggrediar blande, ac benedice, spero emollescet. satisne</p>
+  <p>Sic culta incedo? satin’ haec me uestis decet? dedi equidem</p>
+  <p>≤line=165≥ Operam sedulo. ita poliendo atque ornando hunc contriui
+  diem.</p>
+  <p>Vah, salus mea seruasti me. optume, ipse exit foras.
+  <hi rendition="simple:italic">Trochaici</hi></p>
+  <p>Diem festiuom, et amoenitatis plenum hunc. o faciem bene</p>
+  <p>Pulcram. quantum ore egregio decus enitet? quae gratia?</p>
+</div>
+<div type="level1" xml:id="actvs-primi-scena-iiii.">
+  <head>7. ACTVS PRIMI SCENA IIII.</head>
+  <p><hi rendition="simple:italic">Trochaici tetrametri,
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Ioseph. Sephirach.</hi></p>
+  <p>Heic heram astare aiebat Mago: atque eccam.
+  <hi rendition="simple:italic">Seph.</hi> Nunc est mihi</p>
+  <p>≤line=170≥ Adeundi ad eum tempus: accessero.
+  <hi rendition="simple:italic">Ios.</hi> Quid huic heic est rei?</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Dij mihi uortant bene.
+  <hi rendition="simple:italic">Ios.</hi> Pax tibi hera.
+  <hi rendition="simple:italic">Seph.</hi> Ioseph mi, maxume</p>
+  <p>Animo exoptate meo, mea uita, mea uoluptas unica.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Ecce autem iterum.
+  <hi rendition="simple:italic">Seph.</hi> In quo uno spes opesque sunt
+  sitae meae</p>
+  <p>Omnes. <hi rendition="simple:italic">Ios.</hi> Eia.
+  <hi rendition="simple:italic">Seph.</hi> Per ego te Deos, oro,
+  misereat mei</p>
+  <p>≤line=175≥ Te, cuius tibi potestas summa seruandae datur.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Missa isthaec face.
+  <hi rendition="simple:italic">Seph.</hi> Quid? missa? o loseph,
+  Ioseph, utinam mihi,</p>
+  <p>Vtinam esset pars aequa amoris tecum.
+  <hi rendition="simple:italic">Ios.</hi> Ah odio me enecas.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Ita’ne odisse tibi uideor,
+  amore quae pereo tui?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Obtundis. an ego, quaeso,
+  toties de eadem re audiam?</p>
+  <p>≤line=180≥ Equidem te alia de caussa adij, si pateris: quod mihi
+  tua</p>
+  <p>Intus opera sit opus. <hi rendition="simple:italic">Seph.</hi> Et
+  mihi heic tua, mea amoenitas.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Si quid uis aequi ac boni,
+  tua est: utere, atque impera.</p>
+  <p>Si quid honesti est, non defugiam autoritatem.
+  <hi rendition="simple:italic">Seph.</hi> Hem, dignior</p>
+  <p>Fuit’ne quisquam amore qui esset? non humanum est per Deos</p>
+  <p>≤line=185≥ Credo: nec mirum si te mihi difficilem praebeas,</p>
+  <p>Tam bellum, atque praeclara uirtute.
+  <hi rendition="simple:italic">Ios.</hi> Ne te longius</p>
+  <p>Amor, ac ueritas prouehat. <hi rendition="simple:italic">Seph.</hi>
+  Hau, sic est: uera praedico.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Si quid istiusmodi est, Dei
+  munus id est: non mihi</p>
+  <p>Ad alienam datum iniuriam, sed ad honestatem propriam.</p>
+  <p>≤line=190≥ <hi rendition="simple:italic">Seph.</hi> Hei, quid
+  formose auertis ocellos istos, solis mihi</p>
+  <p>Huius luce gratiores? aspice in me: ita te beet</p>
+  <p>Semper amor. <hi rendition="simple:italic">Ios.</hi> Decet non
+  animum habere modo, sed oculos item</p>
+  <p>Continentes. <hi rendition="simple:italic">Seph.</hi> Eia. nihil
+  nimis. summa uitio nihil</p>
+  <p>Interest uirtus. decebat te quidem prioribus</p>
+  <p>≤line=195≥ Neutiquam repugnare precibus meis: tum, quod tibi</p>
+  <p>Hera sum, quae imperare meo pro iure possum, et cogere</p>
+  <p>Quae uelim, ut facias: tum, quod uehementi capta amore tui.</p>
+  <p>Qui mihi tantum abest ut se remittat, ut magis ac magis</p>
+  <p>Crescat indies: neque iam par esse diutius queam,</p>
+  <p>≤line=200≥ Meque cogat dignitatis obliuiscier meae.</p>
+  <p>Tu contra, obliuiscere modo conditionis mihi tuae.</p>
+  <p>Et quod ultro defert domina, uotis etiam, si sapis,</p>
+  <p>Optandum, accipe, dum tibi copia est, dumque aetas fert tua.</p>
+  <p>Quae tua forma sit uides. <hi rendition="simple:italic">Ios.</hi>
+  Formae atque aetatis gloria,</p>
+  <p>≤line=205≥ Fluxa et fragilis est: uirtus demum una, clara
+  aeternaque.</p>
+  <p>Vera forma est, oculis quae placet Dei, quaeque prouocat</p>
+  <p>Ad honestatem: non quae mentes lubricas mortalium</p>
+  <p>Sauciat. sed non est consilium hera.
+  <hi rendition="simple:italic">Seph.</hi> Cur non, lux mea?</p>
+  <p>At quaeso, in rem hoc tuam erit.
+  <hi rendition="simple:italic">Ios.</hi> Vt quidem emoriar, prius quam
+  eo</p>
+  <p>≤line=210≥ Dementiae ueniam.
+  <hi rendition="simple:italic">Seph.</hi> Quae haec pertinacia est? non
+  credidi</p>
+  <p>Equidem, adeo inhumanum fore. eodem tu nempe, ac caeteri</p>
+  <p>Ingenio es: qui semper muliebri lubentes sunt malo.</p>
+  <p>Obsequere sane: ac corrige, quod pridem peccasti: nouas</p>
+  <p>Nec preces expecta. haud decet istos mores tam amabiles,</p>
+  <p>≤line=215≥ Istam formam ita liberalem, istam denique animi
+  indolem</p>
+  <p>Adeo generosam, superbia, ne in principe quidem uiro</p>
+  <p>Toleranda satis. <hi rendition="simple:italic">Ios.</hi> At decet
+  constantia, neque moribus</p>
+  <p>Conuenit, nec legibus Hebraeorum, ut alienum thorum
+  <hi rendition="simple:italic">Docet hoc iudicium</hi></p>
+  <p>Violent: sed prima tuendi pudoris cura est: integri
+  <hi rendition="simple:italic">Tamar, Genesis. 38</hi></p>
+  <p>≤line=220≥ Nuptiarum foedere iungantur sponsis ut integris.</p>
+  <p>Ne tu igitur mihi, quem amare dicis, noceas: sed sine</p>
+  <p>Quam tribuit Deus sortem, tueri.
+  <hi rendition="simple:italic">Seph.</hi> Imo, ita uolo, respice</p>
+  <p>Seruitutem tuam. <hi rendition="simple:italic">Ios.</hi> Equidem
+  corpore seruos sum, non item</p>
+  <p>Animo: hoc me, haud illo, metiri par est. et tuum quoque</p>
+  <p>≤line=225≥ Si respicias animum, potius quam istam, quae te huc
+  impulit,</p>
+  <p>Conditionem herilem, et foeminae tibi laudem probae</p>
+  <p>Auferas, et mihi demas molestiam: quotidie</p>
+  <p>Qua me obtundis misere. nam uel sermones isti tui</p>
+  <p>Lapides mihi uidentur meri: unde aestumes licet,</p>
+  <p>≤line=230≥ Quanto res sit ipsa odio. neque iniuria. non mihi,</p>
+  <p>Ne quid erres, seruitute cessit extinctus pudor,</p>
+  <p>Saepe indignum quae premit uirum. proinde istam, precor,</p>
+  <p>Exue mentem, mea hera: spemque consequendi omnem abijce.</p>
+  <p>Quae quidem, ut temere sumpta, huc te cupidinis perpulit.</p>
+  <p>≤line=235≥ Ita penitus abiecta, in tranquillum cito restituet
+  statum.</p>
+  <p>Quam multas fuisse nobiles matronas credere est,</p>
+  <p>Quae forma captae aliena, tamen animo temperarint suo,</p>
+  <p>Nec turpi uoluptati decus pudoris cesserint?</p>
+  <p>Iudicium, non affectum, qui semper inconsultus est,</p>
+  <p>≤line=240≥ Adhibe in consilium. finem respice. nec tam
+  considera,</p>
+  <p>In praesentia quid, quam quid semper placiturum siet.</p>
+  <p>Nunc uelle iuvat: mox uoluisse pigebit. at quanto quidem</p>
+  <p>Satius, eas cupiditates proponere in animo sibi,</p>
+  <p>Quas et expetere honestum sit, et assequi praeclarum? Illud</p>
+  <p>≤line=245≥ Scitum est, non admittere, quidquid corrigi nunquam
+  potest.</p>
+  <p>Nulla reparabilis arte, semel laesa pudicitia est, hera.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Facile tu isthaec
+  fabulare, mei securus: ast ego</p>
+  <p>Sentio misera. non potis est: nam si tam tibi amari graue est,</p>
+  <p>Quid mihi sit amare cogita. emoriar, nisi impetrem.</p>
+  <p>≤line=250≥ <hi rendition="simple:italic">Ios.</hi> Isthuc sane,
+  praestat, quam sese scelere nefario</p>
+  <p>Commaculare. <hi rendition="simple:italic">Seph.</hi> At uolgo id
+  faciunt. uitium commune omnium est.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Vt sit, tanto nos eam
+  maculam effugere gloriosius.</p>
+  <p>Cogita tibi matrimonij non uiolandam fidem,</p>
+  <p>Nec mihi seruitij. talem etiam maritum neutiquam</p>
+  <p>≤line=255≥ Fallendum tibi, neque mihi herum, de me tam meritum
+  bene.</p>
+  <p>Quod si cogites, remittas iam me onerare iniurijs.</p>
+  <p>Ei’ne ego tantam male gratus reponam contumeliam,</p>
+  <p>Pro immortalibus eius beneficijs? tum uero pessumo</p>
+  <p>Peior, ac malo quouis dignus siem.
+  <hi rendition="simple:italic">Seph.</hi> Amandus is quidem,</p>
+  <p>≤line=260≥ Digna qui praemia praeclaris meritis reddiderit
+  tuis.</p>
+  <p>Sed beneficium promeruisse, rettulisse gratiam est.</p>
+  <p>Neque nos nihil meritae sumus. at enim illum facile latebimus:</p>
+  <p>Ne quid te hoc solicitet meticulose.
+  <hi rendition="simple:italic">Ios.</hi> At non Deum: neque</p>
+  <p>Latebra ingenuo impunitatis spes, sed innocentia est.</p>
+  <p>≤line=265≥ Adeon me ignauom putas, aut porro ingratum, aut
+  perfidum</p>
+  <p>Aut prophanum, ut neque benignitas me, neque pudor, neque</p>
+  <p>Relligio commoueat, neque commoneat ut seruem fidem?</p>
+  <p>Tum, noui probe heri animum: aduortit grauiter, quae non
+  censeas.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Oh, ille’ne, qui ipsus me
+  negligit? ne quid uereare, mihi</p>
+  <p>≤line=270≥ Isthuc curae erit.
+  <hi rendition="simple:italic">Ios.</hi> Et mihi quidem, ut ne, cauere
+  quod queam,</p>
+  <p>Stulte admittam, nam. <hi rendition="simple:italic">Seph.</hi> Hau,
+  nunquam’ne concedes mihi? frequens</p>
+  <p>Solitudo domi, illius porro quotidiana absentia,</p>
+  <p>Pax. et si quid maxume subsentiat, putabit eo</p>
+  <p>Te mihi charum esse, quem ipsi intelligam esse charum: ita</p>
+  <p>≤line=275≥ Vt uirtus meretur tua.
+  <hi rendition="simple:italic">Ios.</hi> Decet ingenuum synceritas</p>
+  <p>Sine fraude, etiam si latere possit. nam sibi reus</p>
+  <p>Quisque est, prius quam alijs.
+  <hi rendition="simple:italic">Seph.</hi> Olim isti uirtuti quondam
+  fuit</p>
+  <p>Laus apud seculum prius: nunc hoc, aliam iam uitam</p>
+  <p>Affert, alios mores postulat. isthuc sapere est, nunquam ita</p>
+  <p>≤line=280≥ Offirmato esse ad uitae institutum animo, quin
+  suadeat</p>
+  <p>Si quid conducibilius res, aetas, aut usus tibi,</p>
+  <p>Amplectare. <hi rendition="simple:italic">Ios.</hi> Quin, cum
+  turpitudine esse nihil potest</p>
+  <p>Conducibile. <hi rendition="simple:italic">Seph.</hi> Ohe, ne tam
+  seuere quaeso. oculos age</p>
+  <p>Horsum in me tuos deflecte, mea lux: intuitum simul</p>
+  <p>≤line=285≥ Et basiolum largire : isthuc ut fas sit pignus tui</p>
+  <p>Mihi ferre. <hi rendition="simple:italic">Ios.</hi> Atqui tu illud
+  scito, flamma fumo est proxuma.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Hoc nihil dicis. Abi:
+  nunquam cresces: nescis obsequi.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Nil laboro crescere per
+  flagitium et turpitudinem. <hi rendition="simple:italic">Seph.</hi>
+  Hei,</p>
+  <p>Ne tam offirma. acerbum hero funus facies, nisi tui</p>
+  <p>≤line=290≥ Mihi copia fit. exorem sine, gerito amanti morem
+  mihi;</p>
+  <p>Ita herum industria, me obsequio demerueris: et gratiam</p>
+  <p>A me solidam perpetuamque inieris: ac bene stabilem.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Auortat Deus, ut animum
+  humani fauoris gratia</p>
+  <p>Ad malas unquam adducam partes demens. potior bene</p>
+  <p>≤line=295≥ Natis institutisque esse debet semper ingenijs,</p>
+  <p>Ratio honeste uiuendi, quam gratiose.
+  <hi rendition="simple:italic">Seph.</hi> Ah desine,</p>
+  <p>Frustra tu isthaec fabulare, quae mihi animum accendunt magis.</p>
+  <p>Si unquam erga te animo esse amico, mi Ioseph, sensisti, uti</p>
+  <p>Hanc mihi unam gratiam des pro illa, nunc ego te rogo.</p>
+  <p>≤line=300≥ Misereat te mei, bis miserandae, et amantis et
+  foeminae.</p>
+  <p>Quod ego te per has lacrumas oro, et Genium tuum: per mala</p>
+  <p>Mea, quorum tu unus potes esse leuamen.
+  <hi rendition="simple:italic">Ios.</hi> Ah, ne me obsecra.</p>
+  <p>En, dominus meus cuncta meae fidei mandauit, mihique</p>
+  <p>In manum adeo tradidit, omnium ipse securus: neque</p>
+  <p>≤line=305≥ A mea quidquam exemit potestate, extra unam te hera.</p>
+  <p>Quid tandem ergo in animum inducere potero tantum mali,</p>
+  <p>Vt peccem in Deum?
+  <hi rendition="simple:italic">Monometer.</hi></p>
+  <p><hi rendition="simple:italic">Seph.</hi> Quod gratis datur boni,
+  amittere, Ioseph, inscitia est.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Atqui isthoc bono nihil
+  peius, nec est mihi, nec tibi.</p>
+  <p>≤line=310≥ Sed nusquam me auelles: sat habeo offirmatum isthuc,
+  Deo</p>
+  <p>Excelso fretus. <hi rendition="simple:italic">Seph.</hi> Miseram
+  me: ergo disperij. hei mihi.</p>
+  <p>Ioseph, Ioseph, pro, pro, ego iniquis nata fatis: siccine</p>
+  <p>Decipis me, ita blanda fronte dirum adeo animum tegens?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Imo tu me decipis. Nam ego
+  tibi nihilo aliter sum, ac fui.</p>
+  <p>≤line=315≥ Tu, mutatis moribus, iniuria pro beneuola es mihi.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Ingrate, nuncubi
+  beneuolentiam meam <hi rendition="simple:italic">Trimeter.</hi></p>
+  <p>In te sensisti claudier?
+  <hi rendition="simple:italic">Dimeter.</hi></p>
+  <p><hi rendition="simple:italic">Ios.</hi> Non equidem eo dico, mea
+  hera: sed quod quotidianis tuis,</p>
+  <p>Surdas iam aureis reddidisti mihi, appellationibus.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Crudelis, quum tam
+  commodum conseruis praebeas tuis, 320
+  <hi rendition="simple:italic">Tetrametri Iambici.</hi></p>
+  <p>Egon’ una tam durum experiar? an me in misera periculum</p>
+  <p>Facere uis, grauitas et inhumanitas quid nam possit tua?</p>
+  <p>Si amore non flectare, senties quae odium ferat meum.</p>
+  <p>Vel ex coacto, amorem explebo meum tamen.
+  <hi rendition="simple:italic">Trimetri iambici.</hi></p>
+  <p>≤line=325≥ <hi rendition="simple:italic">Ios.</hi> Amor affectu
+  exhibetur, haud ui cogitur.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Vltro ad uirum querelam
+  deferam. <hi rendition="simple:italic">Ios.</hi> Falsam.
+  <hi rendition="simple:italic">Seph.</hi> Quem sic tibi
+  <hi rendition="simple:italic">Tetrametri Iambici.</hi></p>
+  <p>Incensum reddam, ut ne restinguas, lacrumis si extillaueris.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Non sunt isthaec iam,
+  amantis dicta. <hi rendition="simple:italic">Seph.</hi> Senties iam,
+  quae siem.</p>
+  <p>≤line=330≥ Virum si noui, debitas scelestus hero poenas dabis.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Miseret me tui.
+  <hi rendition="simple:italic">Seph.</hi> Ten’ me irridere inultum
+  seruom hominem sinam?</p>
+  <p>Mortuam me malim. <hi rendition="simple:italic">Ios.</hi> Quod
+  ferundum erit, feram: denique animam</p>
+  <p>Potius relinquam. <hi rendition="simple:italic">Seph.</hi> Itan’
+  solido ex adamante pectus est tibi,</p>
+  <p>Vt neque lacrumis, neque precibus, neque pretio flecti queas?</p>
+  <p>≤line=335≥ Vide quid agas. <hi rendition="simple:italic">Ios.</hi>
+  Stat sententia. <hi rendition="simple:italic">Seph.</hi> Nimis
+  praefractus es. <hi rendition="simple:italic">Ios.</hi> Mihi</p>
+  <p>Sum. <hi rendition="simple:italic">Seph.</hi> Imo uero mihi
+  miserae, merito haud meo.</p>
+  <p>Sed per Deos, si quis precibus locus, caue: neu me adegeris</p>
+  <p>Vt talis in te fuero Ioseph, qualem neutiquam uelis.</p>
+  <p>≤line=340≥ <hi rendition="simple:italic">Ios.</hi> At tu caue
+  commiseris, ut ipsa talem te mihi</p>
+  <p>Exhibeas, qualem neutiquam decet probam.
+  <hi rendition="simple:italic">Seph.</hi> Hei cur ita</p>
+  <p>Aperte indicas malitiam? saltem lactares spe aliqua.
+  <hi rendition="simple:italic">Ios.</hi> Haud meum est.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Si non ames, tamen odium
+  tegeres. sed quid stulta hunc rogo?</p>
+  <p>Satis’ ne fastidit mei? o facinus indignum, nunc ego</p>
+  <p>≤line=345≥ Et illum scelestum esse, et me miseram sentio. nec quid
+  agam scio.</p>
+  <p>Abeo intro, quando proficio nihil. tu uideris, scelus.</p>
+</div>
+<div type="level1" xml:id="actvs-primi-scena-v.">
+  <head>8. ACTVS PRIMI SCENA V.</head>
+  <p><hi rendition="simple:italic">Tetrametri Iambici,
+  acatalectici.</hi></p>
+  <p><hi rendition="simple:italic">Ioseph.</hi></p>
+  <p>Abijt. Deum immortalem, ut insanum est amare? prohibeat</p>
+  <p>A me Deus tantam amentiam. sed quantum intellexi modo</p>
+  <p>Eius sententiam, aliquid haec mihi conficiet mali. neque</p>
+  <p>≤line=350≥ Quid agam, aut quid consilij capiam scio, si huic
+  obsequor, Deum</p>
+  <p>Offendo: sin repugno, huius minas timeo, noui probe</p>
+  <p>Ingenium mulierum, uehemens in utranque sic partem nimis,</p>
+  <p>Siue in amorem, siue in odium. neque Deum, neque homines
+  respiciunt:</p>
+  <p>Nec aequi ratio ulla constet aut boni, dum quod student</p>
+  <p>≤line=355≥ Effectum reddant sibi. sed quid mea? quid timui autem
+  belua?</p>
+  <p>Praeter culpam et peccatum, nihil homini accidere potest graue.</p>
+  <p>Quiduis satius est perpeti, quam uirtutem relinquere.</p>
+  <p>Cedat, quod cedere aequom est: appetitus rationi pareat,</p>
+  <p>Voluptas uirtuti, corpus animo ancilletur uile suo.</p>
+  <p>≤line=360≥ Ne sic insaniam, ut tranquillam recti conscientiam,
+  et</p>
+  <p>Quietam mentem, maxumum utrisque in rebus solatium,</p>
+  <p>Turbida et inquieta permutem. Tum castitatis usque sunt</p>
+  <p>Amplexus dulces: mellis plurimum, fellis nihil trahunt.</p>
+  <p>Amoris contra etiam mel, fel merum est, ex uero si aestumes.</p>
+  <p>≤line=365≥ Lubido, ut auaritia, inexplebilis est: meliusque cauetur
+  haud</p>
+  <p>Experta. non sic mei me assuefecere parentes, ut thori</p>
+  <p>Subsessor alieni fiam. Verum pudicitiam, simul</p>
+  <p>Pudorem rectum, et sedatum cupidinem, Dei metum,</p>
+  <p>Benefactorumque amorem docuere, et fidem. Ego’ne ergo domum</p>
+  <p>≤line=370≥ Eam, in qua clementer adeo sum habitus ac
+  liberaliter,</p>
+  <p>Incesto polluam impius? perij, hanc ferat uirtus notam?</p>
+  <p>Nimis ignauos sim, si, quom fratres, ob sororis liberae
+  <hi rendition="simple:italic">Gene. 34.</hi></p>
+  <p>Puellae raptum amoris uiolentia concubitum, nuptijs</p>
+  <p>Pensandum regijs, uiris ad unum caesis, relliquam</p>
+  <p>≤line=375≥ Spoliarunt urbem, ego tantum facinus mollitia admittam
+  mea.</p>
+  <p>Si obliuiosior sum, uel locus hicce redigat in memoriam,
+  <hi rendition="simple:italic">Gene. 12</hi></p>
+  <p>Seuere castigatum a Deo Parhonem, cum domo sua,</p>
+  <p>Ob uerbum Sarae proauiae meae, et uicini Abimelech
+  <hi rendition="simple:italic">Gene. 20.</hi></p>
+  <p>Simili in re coërcitam uoluntatem. Quid Noah ille generis</p>
+  <p>≤line=380≥ Nostri orbisque instaurator? ac Loth item, aui patruelis
+  mei?</p>
+  <p>Nonne inter omnis summam turpitudinis licentiam,
+  <hi rendition="simple:italic">2. Pet. 2.</hi></p>
+  <p>Honestatem sancte tutati sunt? nec illum totius</p>
+  <p>Exemplum mundi fregit, hic contra regionis uitia
+  <hi rendition="simple:italic">Gene. 6.</hi></p>
+  <p>Totius tenuit sanctitatem? proin ille diluuio a Deo est
+  <hi rendition="simple:italic">Gene. 19.</hi></p>
+  <p>≤line=385≥ Ereptus, hic incendio. non ego nunc primum scilicet</p>
+  <p>Aduorsa ferre didici: sed quidquid feret Deus, cui</p>
+  <p>Sic est placitum, feram usque, et perferam, ipsius ope
+  fortiter.</p>
+  <p>Malum qui patitur, idem post potitur bono.
+  <hi rendition="simple:italic">Senarius.</hi></p>
+  <p>Sed sic uerba he‹c facio, quasi negotij nihil siet.</p>
+  <p>≤line=390≥ Ibo intro. Hei, quam timeo, quorsum haec res euasura sit
+  mihi?</p>
+  <p>Ita obstinate operam dat, ut me illiciat, o Deus, tibi</p>
+  <p>Me commendo, et salutem meam. quaeso impium cupidinem</p>
+  <p>Compesce dominae, et me adiuua, ne animum labefactet mihi.</p>
+</div>
+<div type="level1" xml:id="actvs-secvndi-scena-i.">
+  <head>9. ACTVS SECVNDI SCENA I.</head>
+  <p><hi rendition="simple:italic">Trimetri.</hi></p>
+  <p><hi rendition="simple:italic">Intus.</hi></p>
+  <p>Perij misera, uae mihi, uostram fidem obsecro.</p>
+  <p>≤line=395≥ Properate: ferte auxilium imbelli foeminae.</p>
+  <p><hi rendition="simple:italic">Ioseph effugiens.</hi></p>
+  <p>Sancte o pudor, quae haec est audacia? hoccine est</p>
+  <p>Muliebre factum, aut incoeptum? hoccine officium</p>
+  <p>Herae? modo ut introij, forte illa solitudinem</p>
+  <p>Nacta, ferox, pallio me apprehendit: ad se trahit.</p>
+  <p>≤line=400≥ Procax et importuna lubido est: tum impotens</p>
+  <p>Autem foemina. si pergas aduorsarier,</p>
+  <p>Ex insana insaniorem facias. sentium</p>
+  <p>Similis est: quem quem attigerit, malo aut damno afficit.</p>
+  <p>Atque illud ipsa discit experientia</p>
+  <p>≤line=405≥ Semper, cui cum illis res incidit. itaque</p>
+  <p>Cuius finem haud uidi, abrupi negotium.</p>
+  <p>Vestem amisi; pudorem sed mecum extuli.</p>
+  <p>Nudus non est, nisi culpa quem nudauerit.</p>
+  <p>Pudicitia, decus ipsa suum est. Videlicet</p>
+  <p>≤line=410≥ Quae extra nos, nihil ad nos: animi demum bona</p>
+  <p>Solius, et propria sunt, et aeterna. fuerit</p>
+  <p>Sane, fuerit patientiae, hactenus improbas</p>
+  <p>Tulisse preces, seruitutis respectu meae: at</p>
+  <p>Tam apertam ferre contumeliam, mera</p>
+  <p>≤line=415≥ Quidem sit ignauia. mori me satius est.</p>
+  <p>Dum uerbis egit, uerbis uerba rettuli.</p>
+  <p>Nunc ita tulit necessitas, res ut forent</p>
+  <p>Referendae rebus. inuitus feci, nisi</p>
+  <p>Quia necessum fuit. nam quid agerem, nisi</p>
+  <p>≤line=420≥ Vt me, quam minimo possem, captum redimerem?</p>
+  <p>Sed quum cogito, succensere illi, iniurium</p>
+  <p>Me sit: quando otio perpetuo, fomite</p>
+  <p>Nimirum summo amoris, corruptae, nihil</p>
+  <p>Quod faciat superest, praeter amare: caeterum</p>
+  <p>≤line=425≥ Mihi nulla iure sit peccati uenia.</p>
+  <p>Vtinam hoc sit defunctum modo. Vnde quomodo</p>
+  <p>Me expediam, incertus sum: ita subito obiectum est mihi.</p>
+  <p>Neque cunctandi copia est. herus iam aderit, scio.</p>
+  <p>Peiore non potest res quam in quo nunc mea est,</p>
+  <p>≤line=430≥ Loco esse. Vah nunquam seruorum aeque ac modo</p>
+  <p>Mihi dura uisa est conditio. papae: quae illa</p>
+  <p>De me iam confictura hero est, ut uidi eam</p>
+  <p>Esse habitam? imo quae non confictura est? satis</p>
+  <p>Eheu constat, quam amari sint in foemina</p>
+  <p>≤line=435≥ Stimuli, lubido et ira. quae uiros quoque,</p>
+  <p>Quae non audere scelera cogunt? quid igitur</p>
+  <p>Faciam? aut quamnam caussam afferam? dicam ordine</p>
+  <p>Vt res habet, meque expurgem? minime opus est:</p>
+  <p>Neque placet, tantas ut turbas domi excitem.</p>
+  <p>≤line=440≥ Quod sane nolim, maxume heri caussa mei.</p>
+  <p>Scitum est profecto, et in medijs malis ea</p>
+  <p>Sapere secum, quae sapere est opus, tum ipsum id male</p>
+  <p>Metuo ut credat mihi, soli, aetate lubrica,</p>
+  <p>Et indulgentia tanta. sat est meum</p>
+  <p>≤line=445≥ Fecisse officium, si non id fama approbat.</p>
+  <p>Tacebo, et si mihi magnum ex hoc malum scio</p>
+  <p>Paratum. praestat suum tolerare incommodum,</p>
+  <p>Quam male alienum labefacere commodum.</p>
+  <p>Illiberalis prorsus est animi, sui</p>
+  <p>≤line=450≥ Studio, alienam extimationem laedere.</p>
+  <p>At, at, eccum: herum uideo. actum est, nisi quid opis Deus</p>
+  <p>Dat, disperij. abeam an maneam, adeam an fugiam,</p>
+  <p>Incertum est. una haec spes est, quidquid accidat,</p>
+  <p>Dei sumus. postremo, quando conscius</p>
+  <p>≤line=455≥ Ego sum mihi, a me culpam esse hanc procul, nihil</p>
+  <p>Mali accidere, innocentia incolumi, potest.</p>
+</div>
+<div type="level1" xml:id="actvs-secvndi-scena-ii.">
+  <head>10. ACTVS SECVNDI SCENA II.</head>
+  <p><hi rendition="simple:italic">Tetrametri trochaici,
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Potiphar.</hi></p>
+  <p>Magnam sibi quietem comparauit, seruom qui bonae</p>
+  <p>Frugi comparauit sibi, per quem, praesens absensque item,</p>
+  <p>Defecato esse animo possit. uti ego, quom Ioseph meum</p>
+  <p>≤line=460≥ Emi, felix, de Ismaëlitis negotiatoribus.</p>
+  <p>Qui mihi iam inde, usque seruijt obsequenter maxume</p>
+  <p>Iuxtaque fideliter, atque ex animi sententia mei:</p>
+  <p>Nec minus etiam, quod uel primum puto, feliciter.</p>
+  <p>Vt, quo cum Deum esse prosperantem cuncta sub manus</p>
+  <p>≤line=465≥ Eius, sensi. Itaque feci, ut iusta illi apud me
+  seruitus</p>
+  <p>Esset: neque adeo indulgentiam desiderare meam,</p>
+  <p>Nec benignitatem posset. ac denique cunctis eum</p>
+  <p>Praefeci, otioso mihi ut esse liceat, atque animo obsequi.</p>
+  <p>Sic uita est: heris morigerus esse, eorumque per omnia</p>
+  <p>≤line=470≥ Inseruire commodis, incommoda atque iniurias</p>
+  <p>Omneis conseruorum ferre, et tegere contumelias</p>
+  <p>Sibi studio habet: nulli laedere os, aduorsus nemini,</p>
+  <p>Compositus, pudens, modestus, placidus: scire est liberum</p>
+  <p>Ingenium, atque animum, sic siet modo, ut nunc est, quaeso Deos</p>
+  <p>≤line=475≥ Deasque omneis. Atqui hic profecto captus est
+  rarissumus,</p>
+  <p>Id genus quis sortiatur ut seruom. contra improbum</p>
+  <p>Et seruom frugi malae, nihil negotij ubilibet</p>
+  <p>Nancisci: qui ad heri fraudationem demum, callidum</p>
+  <p>Ingenium gerunt: in quibus hero nihil quidquam est praesidij</p>
+  <p>≤line=480≥ Si absit uspiam, aut ubi si cesset. Itaque iam heris
+  quidem</p>
+  <p>Pene tanquam aegris ex medicorum praescripto uiuentibus</p>
+  <p>Vix pedem, miserum, efferre domo conceditur. Ab hac ego</p>
+  <p>Expediui me molestia, pariter ac rem meam</p>
+  <p>Constabiliui. Tum, est et alterum, unde iure mihi placeam,</p>
+  <p>≤line=485≥ Quod habeo uxorem, ut uolo, placidam, probamque, quae me
+  amat,</p>
+  <p>Et magni facit, suos pudicae itidem ut uiros solent:</p>
+  <p>Quam ego contra amo. Proinde duas has res habere me,</p>
+  <p>Praeter alios, praecipuas arbitror; uelit Deus modo,</p>
+  <p>Vt sint perpetuae. Sed quid hoc negotij est?
+  <hi rendition="simple:italic">Senarius.</hi></p>
+  <p>Proh Dij immortales, quem conspicio exanimatum, expeditum 490
+  <hi rendition="simple:italic">Iambici tetrametri</hi></p>
+  <p>Pro foribus? est’ne hic ipsus, quo de agebam? et certe is ipse est.
+  <hi rendition="simple:italic">catalectici.</hi></p>
+  <p>Perij: hoc quid sit uereor. nequeo satis mirarier. neque
+  <hi rendition="simple:italic">Acatalectici.</hi></p>
+  <p>Conijcere scio, mihi nescio quid animus praesagit mali.</p>
+</div>
+<div type="level1" xml:id="actvs-secvndi-scena-iii.">
+  <head>11. ACTVS SECVNDI SCENA III.</head>
+  <p><hi rendition="simple:italic">Iambici, partim tetrametri,
+  catalectici et acatalectici, partim trimetri, admistis trochaicis
+  quibusdam.</hi></p>
+  <p><hi rendition="simple:italic">Ioseph. Potiphar. Mago.</hi></p>
+  <p>Eheu, nec quid agam, neque quid huic respondeam scio. et pudet</p>
+  <p>≤line=495≥ Carere lacrumis, in maximas subito redactum</p>
+  <p>Has calamitates: quas oculi, mentis bene consciae testes,</p>
+  <p>Recusant fundere. nisi sic faciam, ut constitui.</p>
+  <p><hi rendition="simple:italic">Pot.</hi> Per tempus aduenio. Hem,
+  quid isthuc obsecro est mali? satin’</p>
+  <p>Saluae? dic mihi. siles mi homo, atque ora pudibunda contegis?</p>
+  <p>≤line=500≥ Quid est pudendum? Hei mihi, quid me absente turbatum
+  est domi?</p>
+  <p>Quid sic ingemis? ecquid taces? diuinus haud sum nec, nisi</p>
+  <p>Audiero, cognosse queam. Heus heus, prodito aliquis actutum.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Here mi.
+  <hi rendition="simple:italic">Pot.</hi> Quin dic, quid est?
+  <hi rendition="simple:italic">Ios.</hi> Perij.
+  <hi rendition="simple:italic">Pot.</hi> Dij melius faciant: sed</p>
+  <p>Quid peristi? quidquid est, eloquere age ocyus mihi.
+  <hi rendition="simple:italic">Trochaici.</hi></p>
+  <p>≤line=505≥ <hi rendition="simple:italic">Ios.</hi> Ah.
+  <hi rendition="simple:italic">Pot.</hi> Quid ah? age, ingenue mihi
+  fatere, uti soles.</p>
+  <p>Haud clam te est meus in te animus, ille amans tui, et
+  propensior,</p>
+  <p>Scito, caeteris quam erga suos esse famulos solet.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Fateor mi here, et
+  immortales tibi gratias habeo atque ago.</p>
+  <p><hi rendition="simple:italic">Mag.</hi> Praesto sumus here, si quid
+  uis. <hi rendition="simple:italic">Pot.</hi> Quae noua res domi? quae
+  res noua est</p>
+  <p><hi rendition="simple:italic">Iambici tetrametri.</hi></p>
+  <p>Quaeso? tacetis? Hem quid tandem hoc est rei, 510
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>Quod mihi eodem omnes sitis affecti modo?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Mi here, equidem id te
+  arbitrari, quod est, uelim:</p>
+  <p>Quidquid huius factum est, culpa haud factum est mea,</p>
+  <p>Sed ita tulit necessitas: in eum res redierat locum.
+  <hi rendition="simple:italic">Pot.</hi> Quae, malum, res?</p>
+  <p><hi rendition="simple:italic">Tetrameter.</hi></p>
+  <p>Cesso hinc ire intro, ut hoc quam primum, quidquid est, certum
+  sciam? 515 <hi rendition="simple:italic">Tetrameter.</hi></p>
+  <p>Vos istum asseruatum curate mihi tamen.
+  <hi rendition="simple:italic">Trimeter.</hi></p>
+  <p><hi rendition="simple:bold">EPITASIS COMOEDIAE.</hi></p>
+</div>
+<div type="level1" xml:id="actvs-tertii.-scena-i.">
+  <head>13. ACTVS TERTII. SCENA I.</head>
+  <p><hi rendition="simple:italic">Iambici trimetri, admistis
+  tetrametris quibusdam, tum acatalecticis, tum catalecticis.</hi></p>
+  <p><hi rendition="simple:italic">Potiphar. Sephirah. Ioseph.
+  Lorarij.</hi></p>
+  <p>Pro deum atque hominum fidem, ex illon’ tam illiberale esse facinus
+  <hi rendition="simple:italic">Tetrametri</hi></p>
+  <p>Ortum? <hi rendition="simple:italic">Seph.</hi> Sic res habet ut
+  dixi, mi domine. uel hocce pallium
+  <hi rendition="simple:italic">acatalectici.</hi></p>
+  <p>Documento est, ipsiusque fuga, et tota clamoris testis mei,</p>
+  <p>≤line=520≥ Vt audisti, familia.
+  <hi rendition="simple:italic">Pot.</hi> Me miserum, ut nulla homini
+  est felicitas</p>
+  <p>Diuturna in uita? quin si laeti quid euenit, illico</p>
+  <p>Acerba multa se cumulant: quae mihi nec opinanti accidunt.</p>
+  <p>Euge serue bone, columen uero familiae,
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>Cui maxumam habui fidem, tun’ illam, scelus? heram? aut</p>
+  <p>≤line=525≥ Me adeo dignum putas quem illudas?
+  <hi rendition="simple:italic">Ios.</hi> Occidi.</p>
+  <p>Hem, mortuus quam uiuos nunc sim felicior.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Nimia illa licentia euasit
+  tantum in malum.</p>
+  <p>Non te ille uirum, sed foeminam retur.
+  <hi rendition="simple:italic">Pot.</hi> O nouam</p>
+  <p>Audaciam: quid ais impure? an non est uiri</p>
+  <p>≤line=530≥ Isthuc scelerati prorsum, et perditi?
+  <hi rendition="simple:italic">Seph.</hi> Ista’ne</p>
+  <p>Indigna, et intoleranda, quaeso per Deos?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Tacen’ tu?
+  <hi rendition="simple:italic">Seph.</hi> Minitatur etiam carnufex.</p>
+  <p>Mirum ni quod concinnat iam mendacium.</p>
+  <p>Caue isti quidquam credas, mi uir: qui, in malis</p>
+  <p>≤line=535≥ Vt fit, quae conferant sibi, loquetur.
+  <hi rendition="simple:italic">Pot.</hi> O</p>
+  <p>Ingentem confidentiam. tantam’ne rem</p>
+  <p>Tacita ut ferat postulas? ita depuditum est semel?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Here, ne me spectes.
+  <hi rendition="simple:italic">Pot.</hi> Ego te furcifer,</p>
+  <p>Si uiuo. haeccine te flagitia facere? haeccine</p>
+  <p>≤line=540≥ Te admittere indigna esse ausum domo mea?</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Ec’quid pudet?
+  <hi rendition="simple:italic">Ios.</hi> Pudere oportet eatenus,</p>
+  <p>Qua res ferat. <hi rendition="simple:italic">Seph.</hi> Vbi nunc
+  fas, fidesque est, et qui erat</p>
+  <p>In falso tibi plurimus ore Deus?
+  <hi rendition="simple:italic">Pot.</hi> At uide,</p>
+  <p>Quam immerito haec Ioseph aegritudo oritur mihi</p>
+  <p>≤line=545≥ Abs te potissimum? qui te pene a puero</p>
+  <p>Curaui sedulo: docui, monui, bene</p>
+  <p>Praecepi et feci semper, quae potui, omnia.</p>
+  <p>Neque semel complexus, fouere destiti:</p>
+  <p>Propterea quod seruiebas liberaliter.</p>
+  <p>≤line=550≥ Habui, amaui atque ornaui pro meo. denique</p>
+  <p>In omnia mea ius tibi feci, adductus tua</p>
+  <p>Ista modestia, moribusque, omni a dolo</p>
+  <p>Et perfidia, uisis usque alienissumis.</p>
+  <p>Nunc de repente, benignitatis iam meae,</p>
+  <p>≤line=555≥ Tuaeque fortunae immemor, pro maxumis</p>
+  <p>Meritis hanc ingratissume gratiam refers</p>
+  <p>Mihi? promerito optume hoc praemij rependis?
+  <hi rendition="simple:italic">Seph.</hi> Vt</p>
+  <p>Semel hypocrisis omnis se detexit tua?</p>
+  <p>Nunc quod fidelis et modestus antehac</p>
+  <p>≤line=560≥ Visus es, id non fuisse ex uera uita, neque</p>
+  <p>Animo ingenuo, palam nempe est.
+  <hi rendition="simple:italic">Ios.</hi> Mi here.
+  <hi rendition="simple:italic">Pot.</hi> Quid mi here?</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Vix contineo, sed me
+  reprimam. Vnum hoc quaeso, ne mihi aetas
+  <hi rendition="simple:italic">Tetrametri</hi>
+  c<hi rendition="simple:italic">atalectici.</hi></p>
+  <p>Obstet: ne’ue ex aliorum iudices ingenijs sodes.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Os impudens, et ferro
+  inurendum. Imo iam ea <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>≤line=565≥ Aetate es, ut non sit peccato ignoscier</p>
+  <p>Aequom. <hi rendition="simple:italic">Ios.</hi> Nam quid peccaui,
+  aut commerui? an quia</p>
+  <p>Non prorsus iniusta obsequor? <hi rendition="simple:italic">Dimeter
+  Iambicus.</hi></p>
+  <p><hi rendition="simple:italic">Seph.</hi> Quid ais uenefice?
+  isthuccine tu me rogas:
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>Qui me, et herum, et familiam dedecoras? uel fuga</p>
+  <p>≤line=570≥ Tua id tibi, quod quaeris, respondeat. quid hoc</p>
+  <p>Loquitur pallium? <hi rendition="simple:italic">Pot.</hi> Eho
+  propudium: qui me stipitem,</p>
+  <p>Haud hominem censes. etiam sperasti inficias</p>
+  <p>Tantum ire posse nefas? adeone te neque</p>
+  <p>Pietas, neque ius et aequom, in officio, improbe,</p>
+  <p>≤line=575≥ Continere potuere?
+  <hi rendition="simple:italic">Seph.</hi> Vide, impudentia quid
+  facit,</p>
+  <p>Et praeceps cupiditas? <hi rendition="simple:italic">Pot.</hi>
+  Proch ingratitudinem,</p>
+  <p>Dijs hominibusque inuisam. <hi rendition="simple:italic">Seph.</hi>
+  Ingrato homine nihil</p>
+  <p>Quidquam scelestius. nimio praestat mortuum</p>
+  <p>Quam ingratum esse. <hi rendition="simple:italic">Ios.</hi> Istam
+  caui turpitudinem</p>
+  <p>≤line=580≥ Sedulo. <hi rendition="simple:italic">Pot.</hi> Parum
+  est cauisse, non cauere. <hi rendition="simple:italic">Ios.</hi>
+  Nil</p>
+  <p>Ego peccaui: nisi peccare est, hero magis</p>
+  <p>Fidum esse quam sibi. <hi rendition="simple:italic">Pot.</hi>
+  Quomodo sacerrume?</p>
+  <p>Fuisti, non es fidus. tum beneuolentiam</p>
+  <p>Expertus es: meam nunc iram senties,</p>
+  <p>Quando huc prouocas. 585 <hi rendition="simple:italic">Monometer
+  trochaicus.</hi></p>
+  <p><hi rendition="simple:italic">Seph.</hi> Aequom est, gratiam qui
+  ferre nescit, offensam uti</p>
+  <p>Ferat. <hi rendition="simple:italic">Ios.</hi> Here, ut seruom
+  inculpatum usque gesserim, domumque
+  <hi rendition="simple:italic">Tetrametri catalectici.</hi></p>
+  <p>Vt commodis haud aspernandis auxerim tuam, isthuc</p>
+  <p>Et ipse conscius testabere: ita ut, siue introires,</p>
+  <p>≤line=590≥ Gaudio fruerere tecum, seu prodires foras.
+  <hi rendition="simple:italic">Pot.</hi> Ridiculum:</p>
+  <p>Verbis soluere postulas, quod re malefeceris?
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p><hi rendition="simple:italic">Ios.</hi> Si quidem malefeci.
+  <hi rendition="simple:italic">Pot.</hi> Si quidem? conatus mihi</p>
+  <p>Pro facto est. <hi rendition="simple:italic">Ios.</hi> Tot iam
+  annos tibi seruio, an tibi unquam a me ulla
+  <hi rendition="simple:italic">Tetrameter catalecticus.</hi></p>
+  <p>Est orta iniuria? <hi rendition="simple:italic">Pot.</hi> At id
+  restabat scilicet. <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>≤line=595≥ <hi rendition="simple:italic">Seph.</hi> An non est haec
+  magna satis tibi? Quisquam ne ita</p>
+  <p>Animo est omisso, tantam ut contumeliam</p>
+  <p>Ferat? <hi rendition="simple:italic">Ios.</hi> Casus humanos qui
+  norit. <hi rendition="simple:italic">Seph.</hi> Impudens,</p>
+  <p>Hocne euenire maius, aut grauius potest?</p>
+  <p><hi rendition="simple:italic">Pot.</hi> Iam parce, sodes, coniunx.
+  heus lorarij.</p>
+  <p>≤line=600≥ <hi rendition="simple:italic">Ios.</hi> Here, per
+  clementiam tuam te oro. <hi rendition="simple:italic">Pot.</hi>
+  Satis</p>
+  <p>Iam satis Ioseph, spectata erga te mea</p>
+  <p>Est clementia. <hi rendition="simple:italic">Seph.</hi> Satis et
+  ipsa periculi adij.</p>
+  <p><hi rendition="simple:italic">Pot.</hi> Faxo haud dicas, nactum
+  esse, quem derideas.</p>
+  <p><hi rendition="simple:italic">Lor.</hi> Quid uis here, aut quid
+  imperas? <hi rendition="simple:italic">Pot.</hi> Abducite</p>
+  <p>≤line=605≥ Hunc intro. <hi rendition="simple:italic">Lor.</hi>
+  Quem’nam? <hi rendition="simple:italic">Pot.</hi> Ioseph.
+  <hi rendition="simple:italic">Ios.</hi> Siccine mecum agis?</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Patiundum est.
+  <hi rendition="simple:italic">Pot.</hi> Meritoque id tuo. quom, quae
+  non licent,</p>
+  <p>Haud ueritus patrare, tolera quae non libent.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Si deliqui, nullam caussam
+  dico here. sed etiam atque etiam
+  <hi rendition="simple:italic">Tetrametri catalectici.</hi></p>
+  <p>Vide quaeso, quae in tuos exempla familiareis statuas,</p>
+  <p>≤line=610≥ Nam deinde caussae quaelibet suffecerint uxori, aut</p>
+  <p>Alij, si quis cui seruos ex sententia non sit satis:
+  <hi rendition="simple:italic">Acatalectici.</hi></p>
+  <p>Occasione tantum opus fuerit leui.
+  <hi rendition="simple:italic">Seph.</hi> Tun’ me scelus</p>
+  <p>Tam diri ausis facinoris insimulare?
+  <hi rendition="simple:italic">Pot.</hi> Rapite
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>Inquam, atque auditin’? quadrupedem constringite.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Nunc tandem apparet, amorem
+  qui uocatur et uidetur 615 <hi rendition="simple:italic">Tetrameter
+  catalecticus.</hi></p>
+  <p>Stultis, eum haud amorem esse, sed odium.
+  <hi rendition="simple:italic">Seph.</hi> Odiosus es: tace, ac
+  <hi rendition="simple:italic">Acatalectici.</hi></p>
+  <p>Sequere infelix. <hi rendition="simple:italic">Ios.</hi> Infelix
+  est, non qui accipit, sed qui facit</p>
+  <p>Iniuriam. pulcrum est, fidei, uel mortem obire gratia.</p>
+  <p><hi rendition="simple:italic">Seph.</hi> Enimuero, si uir sies,
+  dignum hic iam supplicium luat.</p>
+  <p>≤line=620≥ <hi rendition="simple:italic">Pot.</hi> Nimis iracunde.
+  Censen’ repperire posse ullum seruom,</p>
+  <p>Vitio qui careat? an quia non delinquont herae?
+  <hi rendition="simple:italic">Seph.</hi> Eho Potiphar,</p>
+  <p>Aut tu morere, aut sceleratum illum pro meritis perde: exemplo uti
+  <hi rendition="simple:italic">Sic Homerus Iliad. 3.</hi></p>
+  <p>Sit, ne quis posthac temerarius, herili ausit pudicitiae</p>
+  <p>Insidiari. <hi rendition="simple:italic">Pot.</hi> Ohe uxor, ne
+  saeui tantopere. <hi rendition="simple:italic">Seph.</hi> Quin tu
+  parum</p>
+  <p>Perspexisse mihi eius uidere audaciam. 625
+  <hi rendition="simple:italic">Trimeter.</hi></p>
+  <p>Ita me Dij ament, ut uideo ineptam lenitatem nunc tuam,
+  <hi rendition="simple:italic">Tetrametri acatalectici.</hi></p>
+  <p>Et facilitatem prauam: dimissurum eum credo, quo suam</p>
+  <p>Etiam sic exaedificet inchoatam perfidiam.
+  <hi rendition="simple:italic">Pot.</hi> Inscitia est,</p>
+  <p>Nimium irae credere, quae nescit modum. post statuam.
+  <hi rendition="simple:italic">Seph.</hi> Non tu illum</p>
+  <p>Capitis potius, quam te perdas, et familiam? 630
+  <hi rendition="simple:italic">Trimetri.</hi></p>
+  <p>Equidem cupio misera, in hac re iam defungier.</p>
+  <p>Sed quae spes est, illum fore frugi? num pudor</p>
+  <p>Corriget? at iam depuduit. aetas grandior?</p>
+  <p>At ea, nunc ut fit, semper addit nequitiam.</p>
+  <p>≤line=635≥ Quisquis semel degenerauit, nunquam bonus.</p>
+  <p><hi rendition="simple:italic">Pot.</hi> Nescias uxor. multa
+  accidunt mortalibus</p>
+  <p>Saepe in uita, atque aetate agunda, quae uolunt,</p>
+  <p>Quae nolunt. <hi rendition="simple:italic">Seph.</hi> Improbitas
+  alia aliam trahit.</p>
+  <p><hi rendition="simple:italic">Pot.</hi> Hem, quid’nam hoc rei? quid
+  haec uolt improbitas sibi?</p>
+  <p>≤line=640≥ Abi intro, ego quid facto siet opus uidero.</p>
+</div>
+<div type="level1" xml:id="actvs-tertii-scena-ii.">
+  <head>14. ACTVS TERTII SCENA II.</head>
+  <p><hi rendition="simple:italic">Iambici tetrametri,
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Potiphar.</hi></p>
+  <p>Vae misero mihi: quanta spe decidi? hoccine de improuiso</p>
+  <p>Mali mihi obijci tantum? o tempora, o mores. quid iam</p>
+  <p>Credas, aut cui credas, quem’ue fidelem habeas, nescias. adeo</p>
+  <p>Exulceratissumo iniquissumoque hoc saeculo, sunt</p>
+  <p>≤line=645≥ Fermentata omnia, fides, fidelitas, amor, pietas,</p>
+  <p>Amicitia, sodalitas, officia, beneficiaque</p>
+  <p>Omnium omnia. sese omnes amant, sua quaerunt, sibi bene esse</p>
+  <p>Volunt solis. heu me infelicem: siccine dum ego tua fretus</p>
+  <p>Fide, domo absum demens, regi inseruiens, Ioseph,</p>
+  <p>≤line=650≥ Tu interea rem tuam curasti, et me in tantum
+  coniecisti</p>
+  <p>Mali? quem ego semper pudore et liberalitate</p>
+  <p>Prae caeteris retinui. quo uicissim, omnibus e seruis,</p>
+  <p>Heri nemo obseruantior fuit semper. quae nunc res</p>
+  <p>Repente mores uertit tuos, uirtutem uti lubidini</p>
+  <p>≤line=655≥ Iam posthabeas tuae? an qui serui sunt, dimidio
+  mentis</p>
+  <p>Capti sunt, ut nonnullorum est sententia? nam alioqui</p>
+  <p>Non est uerisimile, neque inducere in animum meum queo,</p>
+  <p>Tantam uirtutem tam subito degenerare potuisse.</p>
+  <p>Frugi, usque frugi est. sed quam mira rari pectoris erat</p>
+  <p>≤line=660≥ Praesentia? quae constantia uultus? quam ingenua
+  modestia? at</p>
+  <p>Res est pauida et clamosa, mens sibi male conscia forsan illum</p>
+  <p>Atque hanc quispiam lusit dolis. sed qui tacet, fatetur.</p>
+  <p>Atqui genuina uirtus, innocentia fidit sua.</p>
+  <p>Illi uerbosi sunt, qui turpia facta oratione</p>
+  <p>≤line=665≥ Dissimulant. et uerecundiam eius noui, liberalem,</p>
+  <p>Et reuerentem mei. ac quom cogito, haud scio an, quae dixit</p>
+  <p>Vxor, sint uera omnia. quin nonnullum mihi scrupulum odio</p>
+  <p>Illo iniecit suo. multa saepe uerbis exagitantur,</p>
+  <p>Quom res secus habeat. Tum fieri solet, ut qui ipsi iniuriam</p>
+  <p>≤line=670≥ Fecere, expostulent. Iam, ut sit ita, peccatum magnum
+  fuerit,</p>
+  <p>At primum. nemo sapit omnibus horis, nec ita sum calidae</p>
+  <p>Iuuentae immemor, aut tam imperitus rerum, ut quid amor ualeat</p>
+  <p>Nesciam. mea potius culpa est, qui nimium lubricae eius</p>
+  <p>Dederim aetati licentiae: cui tuta etiam timenda</p>
+  <p>≤line=675≥ Sunt omnia. si eum occido, seruom perdo, qualem haud
+  temere</p>
+  <p>Iterum inuenero: per quem plurima mihi commoda contigere.</p>
+  <p>Tum autem, Deum eius metuo, quem mihi per eum usque sensi</p>
+  <p>Esse propitium. Illud existimo esse humani ingenij potius,</p>
+  <p>Vt includam, dum deferuescat aetatis calor: ne</p>
+  <p>≤line=680≥ Posthac idem queat, tamen usus mihi ex eo non pereat.
+  hunc unum</p>
+  <p>Hactenus expertus sum fidelem seruom, heriliumque rerum</p>
+  <p>Amantem. multa qui bene fecit, eius errorem ferre</p>
+  <p>Aequom est. iuuenis est: corrigi pensarique potest, quod iam</p>
+  <p>Mutari non potest. Satis profecto mali est ei, qui et</p>
+  <p>≤line=685≥ Seruos et peregrinus, et uinctus est simul. Itaque
+  corrigendi</p>
+  <p>Quod deliquit, si deliquit, spatium dabo. Mansuetudine
+  <hi rendition="simple:italic">Acatalectici.</hi></p>
+  <p>Et clementia nihil homini melius in uita. Caeterum</p>
+  <p>Non usus est, me illi temere aperire. Eho, ubi estis uos? foras</p>
+  <p>Agite huc, corruptorem isthunc seruom meum Ioseph educite.</p>
+</div>
+<div type="level1" xml:id="actvs-qvarti.-scena-i.">
+  <head>15. ACTVS QVARTI. SCENA I.</head>
+  <p><hi rendition="simple:italic">Iambici tetrametri,
+  acatalectici.</hi></p>
+  <p><hi rendition="simple:italic">Lorarij. Potiphar. Ioseph.</hi></p>
+  <p>≤line=690≥ Adsumus here, si quid nos uis, impera.
+  <hi rendition="simple:italic">Pot.</hi> Age tu, huc procede bone
+  uir,</p>
+  <p>Lepidum mancipium meum. Iam, ubi loci fortunae sient tuae,</p>
+  <p>Facile intelligis. equidem efficiam, ut, qui fueris apud me, et
+  quis prius,</p>
+  <p>Scias: quando ego te uideo immutatis moribus esse, atque
+  ingenio</p>
+  <p>Ingrata atque irrita omnia habere, quae benefecimus tibi.</p>
+  <p>≤line=695≥ Tu’ne pudicitiam potuisti tentare herilem?
+  <hi rendition="simple:italic">Ios.</hi> Ah.
+  <hi rendition="simple:italic">Pot.</hi> Quid mihi</p>
+  <p>Respondes? quid nunc sic taces?
+  <hi rendition="simple:italic">Ios.</hi> Quia me eloqui indignum est,
+  here.</p>
+  <p><hi rendition="simple:italic">Pot.</hi> At tu factu esse indignum,
+  cogitare debebas, scelus.</p>
+  <p>Caeterum, equidem nondum spem omnem salutis abieci tuae,</p>
+  <p>Ioseph: proinde quo te ad frugem recipere queas, uinculis</p>
+  <p>≤line=700≥ Tibi domare lasciuiam contentus ero, grauiora
+  merito,</p>
+  <p>Pristinae id uirtutis respectu tuae. Abripite eum in carcerem,</p>
+  <p>Tanti ut sceleris poeniteat.
+  <hi rendition="simple:italic">Ios.</hi> Here, animum istum laudo,
+  atque amo tuum:</p>
+  <p>Quo usus benigno, et amico sum, dum licuit: nunc dum non licet</p>
+  <p>Mihi, ut possum fero. at abripite sane: confido fore,</p>
+  <p>Vt res me ipsa reducat aliquando in gratiam. 705
+  <hi rendition="simple:italic">Senarius.</hi></p>
+  <p><hi rendition="simple:italic">Pot.</hi> Non mihi negotium hoc
+  uolgaribus dolet modis: sed <hi rendition="simple:italic">Tetrametri
+  catalectici.</hi></p>
+  <p>Quid me frustra cruciem? quid me afflictem? quando iam infectum</p>
+  <p>Fieri haud potest. casus humani communes sunt, non mihi</p>
+  <p>Primo, neque soli, nec solus adeo hicce accidit. in re (ut
+  aiunt)</p>
+  <p>Mala, bonus animus dimidium adimit mali. 710
+  <hi rendition="simple:italic">Senarius.</hi></p>
+</div>
+<div type="level1" xml:id="actvs-qvarti-scena-ii.">
+  <head>16. ACTVS QVARTI SCENA II.</head>
+  <p><hi rendition="simple:italic">Tetrametri catalectici, tum Iambici,
+  tum Trochaici.</hi></p>
+  <p><hi rendition="simple:italic">Lorarij. Ioseph.</hi></p>
+  <p>Quid isthuc quaeso Ioseph est negotij? siccine te
+  <hi rendition="simple:italic">Iambi.</hi></p>
+  <p>Subito miserum aedibus eijcier in carcerem?
+  <hi rendition="simple:italic">Senarius</hi></p>
+  <p><hi rendition="simple:italic">Ios.</hi> Non in carcerem eijci, sed
+  carcere dignum admittere
+  <hi rendition="simple:italic">Trochaici.</hi></p>
+  <p>Aliquid, miserum est. saepe uincula probis iuxta atque improbis</p>
+  <p>≤line=715≥ Accidere. dum ne ob malefacta patiar, parui aestumo.</p>
+  <p><hi rendition="simple:italic">Lor.</hi> Dixisti honeste, Ioseph:
+  uerum huic dolor adest honesto.
+  <hi rendition="simple:italic">Iambus.</hi></p>
+  <p><hi rendition="simple:italic">Ios.</hi> Est qui cito corrigere et
+  mutare potest laetis tristia,
+  <hi rendition="simple:italic">Trochaici.</hi></p>
+  <p>Deus: cui nota est caussa calamitatis, et ueritas rei. et</p>
+  <p>Vt peruiuam in his ad summam usque aetatem, tamen breue</p>
+  <p>Spatium est perferundi miseriam. 720
+  <hi rendition="simple:italic">Dimeter trochaicus.</hi></p>
+  <p><hi rendition="simple:italic">Lor.</hi> Sapis, qui nec, praeter
+  quas carcer habet, addas molestias:
+  <hi rendition="simple:italic">Iambi.</hi></p>
+  <p>Et quas habet, recte feras. <hi rendition="simple:italic">Ios.</hi>
+  Nam si me afflictem, quid mihi</p>
+  <p>Lucri sit? nonne eadem sunt ferenda? nolenti tamen?
+  <hi rendition="simple:italic">Trochaici.</hi></p>
+  <p>Quodcunque Deus ille facit, ferundum est aequo animo: cui</p>
+  <p>≤line=725≥ Pugnare, et frustraneum, et impium iuxta est.
+  Inscitia</p>
+  <p>Est uero, gratis malum esse uelle, quom liceat bono.</p>
+  <p><hi rendition="simple:italic">Lor.</hi> Verum. Proin obdura,
+  rebusque te serua secundis.
+  <hi rendition="simple:italic">Iambus.</hi></p>
+  <p><hi rendition="simple:italic">Ios.</hi> Equidem semper ea uolui, et
+  feci, ut non modo secunda mihi
+  <hi rendition="simple:italic">Trochaici.</hi></p>
+  <p>Sperare, sed aduorsa contemnere queam.
+  <hi rendition="simple:italic">Lor.</hi> Dij uostram fidem,</p>
+  <p>≤line=730≥ Hominis ingenium constans, ac praesens. lacrumas
+  excussit <hi rendition="simple:italic">Iambi.</hi></p>
+  <p>Mihi, miseretque me eius. hoc nemo fuit commodior</p>
+  <p>Semper: nec ad herilia negotia quisquam attentior. cui</p>
+  <p>Domus parebat tota modo. ehem, quo redactus subito</p>
+  <p>Est? ut mortale nihil florere diu potest.
+  <hi rendition="simple:italic">Senarius.</hi></p>
+</div>
+<div type="level1" xml:id="actvs-qvarti-scena-iii.">
+  <head>17. ACTVS QVARTI SCENA III.</head>
+  <p><hi rendition="simple:italic">Trochaici tetrametri
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Ioseph.</hi></p>
+  <p>≤line=735≥ Pro summe Deus, autor, rectorque omnium, et mundi
+  arbiter:</p>
+  <p>Quem tandem grauibus laboribus statues modum meis?</p>
+  <p>Perpetuo tenore, aduorsis succedunt aduorsa mihi.</p>
+  <p>Aspicis haec Deus: nam te nihil fallit. domi grauem</p>
+  <p>Pertuli fratrum inuidiam diu, immerito meo, a quibus</p>
+  <p>≤line=740≥ Etiam caedi destinatus, uerum praesenti tua</p>
+  <p>Seruatus ope, ab eis uenditus, dulcem patriam exilio,</p>
+  <p>Libertatem seruitute commutaui auream. sed haec,</p>
+  <p>Tua benignitate, leuia expertus sum satis: quasi</p>
+  <p>Me ita fratrum odio liberatum uolueris. ecce autem, res noua</p>
+  <p>≤line=745≥ Orta est porro: quae omneis mihi rationes conturbauit,
+  et</p>
+  <p>Extremam in sortem coniecit simul, o Deus. at pro fide,</p>
+  <p>Continentiaque, hoc praemij fero? Sed ne me poeniteat</p>
+  <p>Fuisse pium. sic praestabat, quam perpetua domi dissidia</p>
+  <p>Conflasse. ego solus quom sim, facile hanc pertulero iniuriam,</p>
+  <p>≤line=750≥ Qui grauiorem olim tuli. quid enim faciat aliena,
+  quom</p>
+  <p>Ipsi in me fratres ad eum saeuierint modum mei? caeterum,</p>
+  <p>Qui me ab ijs eripuisti Deus, tute uiam inueneris:</p>
+  <p>In te omnis spes est mihi: saepe qui, re gesta pessume,</p>
+  <p>Gesta ut sit probe facis. fortasse et sic mihi tua</p>
+  <p>≤line=755≥ Consulis bonitate, tutus ab impudica ut sim. sequor,</p>
+  <p>Quo me tua sancta uoluntas uocat. addam et hanc tolerantiam</p>
+  <p>Superioribus. quid mihi refert Ioseph esse nomen, nisi</p>
+  <p>Factis probo? homo sum, humanis natus casibus obnoxius:</p>
+  <p>Cui nihil recusandum, quod communis fert conditio:</p>
+  <p>≤line=760≥ Neque grauius ferundum, quod uitari non potest.</p>
+  <p>CATASTROPHE.</p>
+</div>
+<div type="level1" xml:id="actvs-qvinti-scena-i.">
+  <head>18. ACTVS QVINTI SCENA I.</head>
+  <p><hi rendition="simple:italic">Trochaici tetrametri
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Hanno.</hi></p>
+  <p>Nae alba iam raraque in hominibus auis, fides et gratia</p>
+  <p>Est. quarum locum, perfidia ingratitudoque obtinent.</p>
+  <p>Ita bonis intermorientibus moribus iam, affatim</p>
+  <p>Succrescunt mali, magis ac magis indies: posterioribus</p>
+  <p>≤line=765≥ Semper deterioribus. haec mihi ex ipsa adeo re
+  incidit</p>
+  <p>Cogitatio, dum concaptiui in mentem uenit mei,</p>
+  <p>Ioseph Hebraei. quem ego in tam aduorsa, aut euorsa potius,</p>
+  <p>Miserum fortuna, tantum temporis interuallum male</p>
+  <p>Gratus deserui. cuius me poenitet nunc, et pudet:</p>
+  <p>≤line=770≥ Miseretque eius. qui mihi in contubernio nuper
+  carceris,</p>
+  <p>Qua non comitate sermonis, qua non ministerij</p>
+  <p>Sedulitate leuauit miseriam? quam solerti mihi</p>
+  <p>Coniectura, insomnij aperuit ueritatem? Visus ut</p>
+  <p>Forte per quietem eram, triplicem uidere palmitem</p>
+  <p>≤line=775≥ Botris oneratum; grandibus iam, et uindemiae
+  idoneis:</p>
+  <p>Quibus a me resectis, expressisque in poculum regium,</p>
+  <p>Mustum regi offerre bibituro: pergratum ei officium</p>
+  <p>Retuli ad ipsum anxius. ille, bono protinus animo iubet</p>
+  <p>Esse, portendique pristinae intra triduum mihi</p>
+  <p>≤line=780≥ Dignitatis restitutionem. quod Vinum Deus</p>
+  <p>Exhilarandis creauit animis, solandisque laboribus,</p>
+  <p>Quo et amicitia conciliatur, diluitur inimicitia</p>
+  <p>Mortalibus. at te (inquit) obsecro Hanno, memineris mei,</p>
+  <p>Quom bene erit tibi: redde operam mihi apud Parhonem, carcere</p>
+  <p>≤line=785≥ Eximundum ut cures: quo detrusus sum, nulla mea</p>
+  <p>Culpa, neque merito. sed furtim Hebraeo huc abductus solo:</p>
+  <p>Dein, ob innocentiae studium, indigna haec nocentium</p>
+  <p>Sustineo supplicia: sed cessatum a me usque adhuc fuit,</p>
+  <p>Captanti semper opportunitatem: ita, ut fit, iam duo</p>
+  <p>≤line=790≥ Effluxere anni. simul secunda fortuna ebrio,</p>
+  <p>Aduorsae obliuio, illiusque mihi obrepsit securitas.</p>
+  <p>At nunc eam pensasse utcumque tandem negligentiam,</p>
+  <p>Sane uolupe est. atque ea quidem iam obtulit se occasio,</p>
+  <p>Vt non sine numine, uel hanc nunc, uel tunc obliuionem illam</p>
+  <p>≤line=795≥ Contigisse, credere sit. Sed quid cesso etiam adire
+  eum,</p>
+  <p>Hoc ut tanto tamque insperato quam primum gaudio</p>
+  <p>Impertiam: lubentioremque faciam, quam lubentia est.</p>
+  <p>Aperite ocyus hoc: heus, ecquis he‹c est? ecquis audit?</p>
+</div>
+<div type="level1" xml:id="actvs-qvinti-scena-ii.">
+  <head>19. ACTVS QVINTI SCENA II.</head>
+  <p><hi rendition="simple:italic">Tetrametri trochaici,
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Puer. Hanno. Gulussa.</hi></p>
+  <p>Hoc</p>
+  <p>Quis pultauit ostium? <hi rendition="simple:italic">Han.</hi> Qui
+  tibi proxumus astat. nuncia</p>
+  <p>≤line=800≥ Vt prodeat Gulussa foras: est, qui illum conuentum esse
+  uolt.</p>
+  <p><hi rendition="simple:italic">Pu.</hi> Nihil aliud dicam?
+  <hi rendition="simple:italic">Han.</hi> Vt uenire properet, ne in mora
+  mihi</p>
+  <p>Siet, ita res est. <hi rendition="simple:italic">Pu.</hi> Fecero.
+  <hi rendition="simple:italic">Han.</hi> At iam factum oportuit:
+  uola.</p>
+  <p><hi rendition="simple:italic">Gul.</hi> O salue mi Domine.
+  <hi rendition="simple:italic">Han.</hi> Et tu multum salue, Gulussa
+  mi.</p>
+  <p>Sed Ioseph iam huc, ex praecepto regis, producto est opus.</p>
+  <p>≤line=805≥ Maxumam cui laetitiam et triumphum adfero, aduentu
+  meo.</p>
+  <p><hi rendition="simple:italic">Gul.</hi> Optume factum, et gaudeo.
+  nam illi faueo iuueni: quem ego</p>
+  <p>Esse scio honore quouis dignum.
+  <hi rendition="simple:italic">Han.</hi> Est sane: at nunc matura.
+  ita</p>
+  <p>Facto opus est. <hi rendition="simple:italic">Gul.</hi>
+  Curabitur.</p>
+</div>
+<div type="level1" xml:id="actvs-qvinti-scena-iii.">
+  <head>20. ACTVS QVINTI SCENA III.</head>
+  <p><hi rendition="simple:italic">Trimetri Trochaici,
+  catalectici.</hi></p>
+  <p><hi rendition="simple:italic">Hanno. Ioseph. Gulussa.</hi></p>
+  <p>Nulla est conditio tam desperata, quae</p>
+  <p>≤line=810≥ Non in melius, quom Dij uolunt, cito</p>
+  <p>Restitui queat. quod de me adeo cuiuis</p>
+  <p>Facile est noscere: qui nihil sane minus,</p>
+  <p>Atque pistorum ille praefectus, reus</p>
+  <p>Peccati in dominum meum regem, illo in crucem</p>
+  <p>≤line=815≥ Acto, ego clementia eius pristinae</p>
+  <p>Dignitati restitutus uiuo tamen.</p>
+  <p>Sed quem uolui, eccum. Ioseph, te plurimum</p>
+  <p>Saluere iubeo. <hi rendition="simple:italic">Ios.</hi> Salue Hanno:
+  isthaeccine</p>
+  <p>Est fides? <hi rendition="simple:italic">Han.</hi> Peccaui, fateor:
+  uincor: at</p>
+  <p>≤line=820≥ Nunc, quando tibi Deus et uirtus tua</p>
+  <p>Reditum et restitutionem in meliorem statum</p>
+  <p>Aperuit, tuae fuerit sapientiae,</p>
+  <p>Magnitudinisque animi, quod accidit,</p>
+  <p>Obliuisci: quod instat, curae habere. ita</p>
+  <p>≤line=825≥ Aequom ac dignum alijs factis tuis feceris.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> More hominum fit Hanno, ut
+  miserorum, male,</p>
+  <p>In foelicitate capiat obliuio.</p>
+  <p>At ego illud, scio, quam doluerit cordi meo.</p>
+  <p><hi rendition="simple:italic">Han.</hi> At nunc gaude, mi Ioseph.
+  <hi rendition="simple:italic">Ios.</hi> Quid gaudeam?</p>
+  <p>≤line=830≥ <hi rendition="simple:italic">Han.</hi> Equidem iam te
+  fortunatum fecero.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Isthuc Deo in manu est, ubi
+  dignabitur.</p>
+  <p><hi rendition="simple:italic">Han.</hi> At, sine controuorsia,
+  Ioseph, Dij</p>
+  <p>Te omnes adiuuant. <hi rendition="simple:italic">Ios.</hi> Ita
+  uelim: sed nihil</p>
+  <p>Sentio etiamnum. <hi rendition="simple:italic">Han.</hi> Faxo ergo
+  ut sentias.</p>
+  <p>≤line=835≥ <hi rendition="simple:italic">Ios.</hi> Quin dic, quid
+  tandem est bonae rei? <hi rendition="simple:italic">Han.</hi> Accipe
+  hem,</p>
+  <p>A Parhone rege missus sum modo,</p>
+  <p>Vt te adducerem. <hi rendition="simple:italic">Ios.</hi> Hem.
+  <hi rendition="simple:italic">Han.</hi> Ne uerearis. bono</p>
+  <p>Animo es. Dij te, Ioseph, seruatum uolunt.</p>
+  <p><hi rendition="simple:italic">Ios.</hi> Obsecro num nam ludis tu
+  nunc me? <hi rendition="simple:italic">Han.</hi> Egon’</p>
+  <p>≤line=840≥ Te? quamobrem? <hi rendition="simple:italic">Ios.</hi>
+  Nescio: sed qui isthuc credam ita</p>
+  <p>Esse, mihi dici uelim. <hi rendition="simple:italic">Han.</hi>
+  Dicam tibi.</p>
+  <p>Rex gemini sibi obuersati insomnij</p>
+  <p>Confusus portentosis ambagibus,</p>
+  <p>Cunctis diuinis ac coniectoribus,</p>
+  <p>≤line=845≥ Et quotquot tota Aegypto sapientia</p>
+  <p>Praestant, consultis frustra, ut cui nihil</p>
+  <p>Explicare quidquam possint, quom magis</p>
+  <p>Inde etiam consternaretur, de tua</p>
+  <p>Et opportune maxume sapientia</p>
+  <p>≤line=850≥ Suggessi: quondam ipse quam expertus fui.</p>
+  <p>Quare huc te accersitum, iussit ire me,</p>
+  <p>Eiusdem quo beneficij, cuius mihi</p>
+  <p>Olim, nunc item ipsi facias copiam,</p>
+  <p>Perpetuo sic eum deuincturus: simul</p>
+  <p>≤line=855≥ Et libertatem, et nobilitatem ex eo,</p>
+  <p>Et gloriam tibi, et rem pariturus.
+  <hi rendition="simple:italic">Gul.</hi> Bene, ut</p>
+  <p>Me Deus amet, factum gaudeo.
+  <hi rendition="simple:italic">Ios.</hi> Dic, bonan’</p>
+  <p>Mihi fide isthaec uerba dixisti?
+  <hi rendition="simple:italic">Han.</hi> Bona.</p>
+  <p>Non mihi credis? <hi rendition="simple:italic">Ios.</hi> Deus
+  supreme, iterum</p>
+  <p>≤line=860≥ Mihi natus uideor, si uera praedicas.</p>
+  <p><hi rendition="simple:italic">Han.</hi> Ita me amet, quam ego amo,
+  ut haud mentior tibi</p>
+  <p>Ioseph. <hi rendition="simple:italic">Ios.</hi> Deus tibi oro
+  semper omnia</p>
+  <p>Optata offerat. eamus: duc me ad eum obsecro.</p>
+  <p><hi rendition="simple:italic">Gul.</hi> Isthuc Deus bene uortat.
+  <hi rendition="simple:italic">Ios.</hi> Ita spero quidem.</p>
+  <p>≤line=865≥ <hi rendition="simple:italic">Han.</hi> Fac modo animo
+  praesenti ut sis. <hi rendition="simple:italic">Gul.</hi> Quin
+  caue</p>
+  <p>Mi Ioseph, ne committas nunc, ut tibi</p>
+  <p>Ipse defuisse uideare. quod quidem</p>
+  <p>Ita diuina occasione, atque indole</p>
+  <p>Ista tam egregia, iuxta indignum foret.</p>
+  <p>≤line=870≥ Bene gerundae rei facultatem datam</p>
+  <p>Amittere, dementia est. <hi rendition="simple:italic">Ios.</hi>
+  Faciam sedulo.</p>
+  <p><hi rendition="simple:italic">Han.</hi> Eamus iam ergo.
+  <hi rendition="simple:italic">Ios.</hi> Atque aliquanto lubentius,</p>
+  <p>Quam quidem huc accessi. O Gulussa, Vale.</p>
+  <p>Gratias habeo atque ago merito maximas</p>
+  <p>≤line=875≥ Tibi, uicissimque, ubi quid usus uenerit,</p>
+  <p>Bene faxo lubens. <hi rendition="simple:italic">Gul.</hi> Benigne
+  dicis: Vale,</p>
+  <p>Atque salue, Ioseph, ac bene rem gere.</p>
+  <p>Oh: quid est quod nunc malim, quam quod iam huic</p>
+  <p>Euenire intelligo: e paedore sic</p>
+  <p>≤line=880≥ Ad benigniorem tandem sortem uti</p>
+  <p>Euehatur, uirtus ita ut meretur eius?</p>
+  <p>Nam si haec regi interpretetur somnia,</p>
+  <p>Vt fecit concapteiueis antehac suis,</p>
+  <p>Et libertatem ei, et opes, et gratiam,</p>
+  <p>≤line=885≥ Cumulate partum iri scio. Quod reliquom est,</p>
+  <p>Spectatores, qui uirtutem ducitis</p>
+  <p>Maxumi, aequom est Ioseph gratia,</p>
+  <p>Vos dare plausum postremo in comoedia.</p>
+  <p>Omnis uni Deo gratia et gloria.</p>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

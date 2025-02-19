@@ -247,7 +247,7 @@ Oxoniae. e Collegio Mertonensi. \[\< Martonensi\] Anno M. D. XLIII.
 
 
 
-## PERSONAE
+# 1. PERSONAE
 
 Magdalene.
 
@@ -299,7 +299,7 @@ Amaon.
 
 **Chorus Galileidum.**
 
-## PROLOGVS.
+# 4. PROLOGVS.
 
 *Iambici Trimetri uel senarij.*
 
@@ -417,7 +417,7 @@ Certe nullum spectrum uberiore gaudio
 
 ≤line=55≥ Christiadum poterit pertentare pectora.
 
-## ARGVMENTVM ACTVS I.
+# 5. ARGVMENTVM ACTVS I.
 
 Nunc uestra ne fallatur expectatio,
 
@@ -441,7 +441,7 @@ Tum uero etiam secum illas deducent domum. &
 
 Ego uobiscum una spectator ero fabulae.
 
-## ACTVS I. SCENA I.
+# 6. ACTVS I. SCENA I.
 
 Magdalene. Cleophis. Chorus Galileidum. *Octonarij.*
 
@@ -555,7 +555,7 @@ Viuent, uiuent, quae fingimus ossa mortua.
 
 Interea mi Christe, quiescas hic molliter.
 
-## ACTVS I. SCENA II.
+# 7. ACTVS I. SCENA II.
 
 Iosephus Arimathaeus. Nicodemus. Magdalis. Salome. Cleoph. Iohann.
 
@@ -865,7 +865,7 @@ Remotis cruciamentis, consequamini.
 
 Sal. Nobis perplacet. Mag. Ac mihi certe non displicet.
 
-## ARGVMENTVM ACTVS II.
+# 8. ARGVMENTVM ACTVS II.
 
 ≤line=275≥ Caiaphas de Christi obitu quodammodo
 
@@ -889,7 +889,7 @@ Quem \[\< Quae\] animae piorum laeti’ accipiunt plausibus.
 
 ≤line=285≥ Ille, illas promissum ad polum uictor uehit.
 
-## ACTUS II. SCENA I.
+# 9. ACTUS II. SCENA I.
 
 Caiaphas.
 
@@ -1007,7 +1007,7 @@ Det, bustum defensuros noctes ac dies.
 
 Atqui, dum redeant, sedes haec esto mea.
 
-## ACTVS II. SCENA II.
+# 10. ACTVS II. SCENA II.
 
 Annas. Caiaphas. Dromo. Doras. Sangax. Brumax.
 
@@ -1179,7 +1179,7 @@ Nos laetum hunc atque hilarem traducenteis diem,
 
 Expectemu’ huius fabulae catastrophen.
 
-## ACTVS II. SCENA III.
+# 11. ACTVS II. SCENA III.
 
 Dromo. Dorus. Sangax. Brumax.
 
@@ -1413,7 +1413,7 @@ Det alteri quisque animos, terrorem hostibus
 
 Horrificum incutiamus, & etiam exitiabilem.
 
-## ACTVS II. SCENA IIII.
+# 12. ACTVS II. SCENA IIII.
 
 Cacodaemon. Manes.
 
@@ -1441,7 +1441,7 @@ Oh, uolitant agminatim ad caelum caelites.
 
 Nunc uisam apud nos commotas tragoedias.
 
-## ARGVMENTVM ACTVS III.
+# 13. ARGVMENTVM ACTVS III.
 
 ≤line=555≥ Audistis binorum gesta dierum omnia:
 
@@ -1483,7 +1483,7 @@ Ad eumque modum fit & reliquis mulierculis.
 
 Illae discipulis, haec narrant incredulis.
 
-## ACTVS III. SCENA I.
+# 14. ACTVS III. SCENA I.
 
 Dromo. Dorus. Sangax. Brumax.
 
@@ -1521,7 +1521,7 @@ Si mihi semel dabitur cunctos praecedere.
 
 Quid hoc? Hei nullus sum. Do. Perij. Sang. Interij. Brumax. Occidi.
 
-## ACTVS III. SCENA II.
+# 15. ACTVS III. SCENA II.
 
 Christus.
 
@@ -1557,7 +1557,7 @@ Si qua igitur tanti tangit amoris gratia:
 
 Confide, tuam caussam sanguis aget meus.
 
-## ACTVS III. SCENA III.
+# 16. ACTVS III. SCENA III.
 
 Magdalene. Cleophis. Chorus Galileidum.
 
@@ -1817,7 +1817,7 @@ Nunc quid sibi tumulus inanis uelit, & pate-
 
 ≤line=735≥ Factum claustrum coniectura non adsequor.
 
-## ACTVS III. SCENA iiii.
+# 17. ACTVS III. SCENA iiii.
 
 Iohannes. Petrus.
 
@@ -1866,7 +1866,7 @@ Furatus esset, non quaeque locasset ordine:
 
 Sed uestes arripuisset cum corpore.
 
-## ACTVS III. SCENA V.
+# 18. ACTVS III. SCENA V.
 
 Magdalene. Angelus. I. Ang. II. Christus.
 
@@ -1952,7 +1952,7 @@ Dic me dein caelestem occupaturum thronum,
 
 Cum nostro una parente indulgentissimo.
 
-## ACTUS III. SCENA VI.
+# 19. ACTUS III. SCENA VI.
 
 Cleophis. Chorus Galileidum. Angel. I. Ang. II.
 
@@ -2062,7 +2062,7 @@ Meisque uisa monstratote fratribus,
 
 ≤line=850≥ Vt in Galilaeam post me proficisci queant.
 
-## ARGVMENTVM ACTVS IIII.
+# 20. ARGVMENTVM ACTVS IIII.
 
 Egressis foeminis, ad sese milites
 
@@ -2096,7 +2096,7 @@ Laetantur, & recedens quoque Caiaphas
 
 Quia res processum habet ex sua sententia.
 
-## ACTVS IIII. SCENA I.
+# 21. ACTVS IIII. SCENA I.
 
 Brumax. Sangax. Dorus. Dromo.
 
@@ -2216,7 +2216,7 @@ Mecum, si quam primum locum hunc relinquerem.
 
 Dor. Fiat, sequamur praeeuntes boni’ auibus.
 
-## ACTVS IIII. SCENA II.
+# 22. ACTVS IIII. SCENA II.
 
 Petrus. Magdalene. Chorus discipulorum. Cleophis. Chorus Galileidum.
 
@@ -2426,7 +2426,7 @@ Quoquomodo sit, nos nota adeamus loca.
 
 Cho. disc. Eamus, & eas ueridicas faxit Deus.
 
-## ACTVS IIII. SCENA III.
+# 23. ACTVS IIII. SCENA III.
 
 Caiaphas.
 
@@ -2474,7 +2474,7 @@ Ibo, & cogam consilium in unum pectora, &
 
 Legum, & religionis ritus callentia.
 
-## ACTVS IIII. SCENA IIII.
+# 24. ACTVS IIII. SCENA IIII.
 
 Cacodaemon. Alecto.[^10]
 
@@ -2582,7 +2582,7 @@ Tentamentis peropus est, ac fallacijs.
 
 Alect. Cito imperata peragam ad amussim[^11] tua.
 
-## ACTVS IIII. SCENA V.
+# 25. ACTVS IIII. SCENA V.
 
 Alecto. Caiaphas.
 
@@ -2730,7 +2730,7 @@ Sed me, sat scio, Tartareus expectat chorus,
 
 Re bene gesta, hinc memet recipio domum.
 
-## ACTVS IIII. SCENA VI.
+# 26. ACTVS IIII. SCENA VI.
 
 Caiaphas. Dromo. Dorus. Sangax. Brumax.
 
@@ -2954,7 +2954,7 @@ Recedam, noua & insolita prorsus laeticia,
 
 Et alacritate perfusus mirabili.
 
-## ARGVMENTVM ACTVS V.
+# 27. ARGVMENTVM ACTVS V.
 
 Qvoniam cum Thomas Didymus aberat,
 
@@ -2990,7 +2990,7 @@ Salutem gratulanteis ac uitam sibi,
 
 ≤line=1300≥ Deo reddenteis gloriam.
 
-## ACTVS V. SCENA I.
+# 28. ACTVS V. SCENA I.
 
 Thomas. Petrus. Cleopas. Amaon. Chorus discipulorum.
 
@@ -3336,7 +3336,7 @@ Verum, quid hic moramur? Repetamus domum,
 
 Bene est, omneis iam nunc tuti consedimus.
 
-## ACTVS V. SCENA II.
+# 29. ACTVS V. SCENA II.
 
 Christus. Thomas. Chorus disc.
 

@@ -247,7 +247,7 @@ Prodicus. I Quibus accedent septem seniores.
 
 Philopolites. I
 
-## PROLOGVS
+# 2. PROLOGVS
 
 ≤line=1≥ ET si sciam. Viri optimi, quam dignitas
 
@@ -401,7 +401,7 @@ Id feceris. Tyrunculis ad scaenicos
 
 Ad dictitandum animi addidisti plurimum.
 
-## PERIOCHA.
+# 3. PERIOCHA.
 
 ≤line=1≥ Socrus peregrina, peregrinas quum nurus
 
@@ -427,7 +427,7 @@ Socru, magistra fit metentium. Parit
 
 Dein filium, unicum socrus solatium.
 
-## ACTVS PRIMVS.
+# 4. ACTVS PRIMVS.
 
 RVTH.
 
@@ -531,7 +531,7 @@ Numquam sinent. Sed quod statutum est in animo, id
 
 Conficere quamprimum arbitror consultius.
 
-## SCAENA SECVNDA.
+# 5. SCAENA SECVNDA.
 
 ORPHA, RVTH, NOEMI.
 
@@ -813,7 +813,7 @@ Comitabor hanc quoquo iuverit, cum illa quidem
 
 Vel ad suos proficiscar. OR. Atque ego sequar.
 
-## ACTVS SECVNDUS
+# 6. ACTVS SECVNDUS
 
 ATTABAS, NUMENIUS*.*
 
@@ -1145,7 +1145,7 @@ Minimo: Midae regno, hercle, cederem. NV. Numquam id
 
 ≤line=350≥ Faceres scio, si Soebidas fores. Hem audi.
 
-## SCAENA SECVNDA.
+# 7. SCAENA SECVNDA.
 
 EVDULVS.
 
@@ -1213,7 +1213,7 @@ Inveniam herum nescio, domi an apud forum.
 
 Nescio quid hic ambulet. adibo et alloquar.
 
-## SCAENA TERTIA.
+# 8. SCAENA TERTIA.
 
 ATTABAS, BOOS, NVMENIVS, EVDVLVS.
 
@@ -1287,7 +1287,7 @@ Exigua portio tamen. Sequeris? AT. Libens.
 
 ≤line=415≥ NV. Foemellulae. AT. Foemellulis nihil boli est.
 
-## SCAENA QVARTA.
+# 9. SCAENA QVARTA.
 
 NOEMI, ORPHA, RVTH.
 
@@ -1461,7 +1461,7 @@ Tempus, adeundo resarciamus id, ocius.
 
 RV. I prae: sequor, saltem impera, et factum puta.
 
-## ACTVS TERTIVS.
+# 10. ACTVS TERTIVS.
 
 LERNA.
 
@@ -1639,7 +1639,7 @@ Silentii ullum. Sed ego ne loquacula
 
 ≤line=585≥ Videar eis, forum adeo quam citissime.
 
-## SCAENA SECVNDA.
+# 11. SCAENA SECVNDA.
 
 ATTABAS, NVMENIVS.
 
@@ -1951,7 +1951,7 @@ Quicquid animo gerit, experire: num longo
 
 Sermone id aut lapidibus, aut luto dicet.
 
-## SCAENA TERTIA.
+# 12. SCAENA TERTIA.
 
 LERNA.
 
@@ -2043,7 +2043,7 @@ Quin ego opulentula ero brevi? At monet
 
 Struxisse dudum namque oportuit thoros.
 
-## SCAENA QVARTA.
+# 13. SCAENA QVARTA.
 
 ATTABAS, NVMENIUS.
 
@@ -2149,7 +2149,7 @@ Silicernii servus? NV. Tenes, facessamus
 
 Credo, hospitam, ut quae lectulos modo stravit.
 
-## SCAENA QVINTA.
+# 14. SCAENA QVINTA.
 
 EVDVLVS.
 
@@ -2211,7 +2211,7 @@ Ne si heic diutius modo subsisterem
 
 Cum advesperascit, forte post festum adforem.
 
-## ACTVS QVARTVS.
+# 15. ACTVS QVARTVS.
 
 EVDVLVS.
 
@@ -2249,7 +2249,7 @@ Scio defatigatas fuisse oppido. Equidem
 
 ≤line=875≥ Ita est, adibo interrogans quonam velit.
 
-## SCAENA SECVNDA.
+# 16. SCAENA SECVNDA.
 
 NOEMI, RVTH, EVDVLVS
 
@@ -2445,7 +2445,7 @@ NO. Obambulemus oppidum. RV. Non abnuo:
 
 ≤line=970≥ Nil aeque ut ocium, mihi cum sit odio.
 
-## SCAENA TERTIA.
+# 17. SCAENA TERTIA.
 
 EVDVLVS, PHILOPONVS, LOEDORVS*.*
 
@@ -2561,7 +2561,7 @@ Est hercle. EV. Loedorus, papae, ingenium, audio,
 
 ≤line=1025≥ Cum nomine optime quadrat. PH. Rem ipsam tenes.
 
-## SCAENA QVARTA.
+# 18. SCAENA QVARTA.
 
 BOOS.
 
@@ -2631,7 +2631,7 @@ Certum est mihi illuc ire: sacrificium ubi
 
 Diluculare sit absolutum, id in animo est.
 
-## SCAENA QVINTA.
+# 19. SCAENA QVINTA.
 
 NVMENIVS, ATTABAS.
 
@@ -2735,7 +2735,7 @@ Vaero. AT. Hem tibi. NV. Quid? laudo. Caetera ex me mox
 
 Iuverit meos. NV. Iuverit, scio, modo audax sis.
 
-## SCAENA SEXTA.
+# 20. SCAENA SEXTA.
 
 NOEMI, RVTH.
 
@@ -2855,7 +2855,7 @@ Finem. NO. Facillime feram. RV. Recte. Est enim
 
 Cuivis dolori remedium patientia.
 
-## SCAENA SEPTIMA.
+# 21. SCAENA SEPTIMA.
 
 ATTABAS.
 
@@ -2917,7 +2917,7 @@ Tripes animal quonam velit, demiror. Hinc
 
 Facillime observabo eum quonam iverit.
 
-## SCAENA OCTAVA.
+# 22. SCAENA OCTAVA.
 
 BOOS, ATTABAS.
 
@@ -2967,7 +2967,7 @@ Faxo tamen de praeda opima moereas
 
 Tu: atque ego triumphem. I: callidum me senties.
 
-## ACTVS QUINTVS.
+# 23. ACTVS QUINTVS.
 
 LOEDORVS, PHILOPONVS.
 
@@ -3103,7 +3103,7 @@ Fraudare: relligio foret tali arbitror.
 
 LO. Animum ad laborem dederis hercle, age, sequor.
 
-## SCAENA SECVNDA.
+# 24. SCAENA SECVNDA.
 
 MISOBIGAMVS.
 
@@ -3167,7 +3167,7 @@ Non possum. agam quiduis prius. Novimus enim
 
 Servire multis, sortis esse miserrimae.
 
-## SCAENA TERTIA.
+# 25. SCAENA TERTIA.
 
 NVMENIVS, ATTABAS.
 
@@ -3297,7 +3297,7 @@ Turbas. NV. Licet coelum inferis, huic misceat
 
 ≤line=1370≥ Per me. Hinc ego facesso. AT. Subsequor libens.
 
-## SCAENA QVARTA.
+# 26. SCAENA QVARTA.
 
 BOOS, THALTYBIVS, PRODICVS, EVTRAPELVS,
 
@@ -3535,7 +3535,7 @@ Et nos in hac re, et in alia quavis tibi
 
 ≤line=1485≥ Generose princeps dare operam. BO. Bene facitis.
 
-## SCAENA QVINTA .
+# 27. SCAENA QVINTA .
 
 NOEMI, THALTYBIVS, RVTH
 

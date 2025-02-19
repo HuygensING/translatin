@@ -106,7 +106,7 @@ Iuuenis feretro, veniam postulat, et fatum suum acerbissimè deplorat.*
 
 
 
-## PERSONAE.
+# 1. PERSONAE.
 
 *Leuigildus.* Rex *Hermeni. mart.* Regis filius I.
 
@@ -124,7 +124,7 @@ Iuuenis feretro, veniam postulat, et fatum suum acerbissimè deplorat.*
 
 ≤page=1≥
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 *INSTINCTVM furiis scelus* *exitiale nonercae,*
 
@@ -166,7 +166,7 @@ Iuuenis feretro, veniam postulat, et fatum suum acerbissimè deplorat.*
 
 ≤page=3≥
 
-## PARS PRIMA.
+# 3. PARS PRIMA.
 
 HERMENIGILDVS
 
@@ -526,7 +526,7 @@ CALVMNIAE DETESTATIO.
 
 ≤page=21≥
 
-## PARS II.
+# 4. PARS II.
 
 *DARIACES ET HERMENIFRIDVS GOIZuinthae in scelere administri de
 opprimendo Hermenigildo deliberant.*
@@ -818,7 +818,7 @@ visura est.
 
 ≤page=36≥
 
-## PARS III.
+# 5. PARS III.
 
 *ALARICVS NARRAT AVLAE TOTIVS HILARITATEM, et tacitas calumniatorum
 insidias.*
@@ -1162,7 +1162,7 @@ Vincula quae fuerant, pretiosa monilia reddit,
 
 ≤page=52≥
 
-## PARS IIII.
+# 6. PARS IIII.
 
 LEVIGILDVS, RECAREDVS.
 
@@ -1630,7 +1630,7 @@ Quam defletus obis et nulli flendus! *In* *astra,*
 
 *Consurgis, ridesque tui ludibria trunci.*
 
-## PARS V.
+# 7. PARS V.
 
 LEONIDAS, HERMENIGIL.
 

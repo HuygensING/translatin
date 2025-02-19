@@ -216,7 +216,7 @@ NVNCIVS. CHORVS.
 
 ≤page=67≥
 
-## ACTVS PRIMVS
+# 1. ACTVS PRIMVS
 
 HYANTHE, IEPHTE.
 
@@ -385,7 +385,7 @@ Flebimus heu! heu! vna est miseris
 
 
 
-## ACTVS SECVNDVS
+# 3. ACTVS SECVNDVS
 
 HYANTE, TELETHVSA, IEPHTE.
 
@@ -892,7 +892,7 @@ VALE. Quid iterum murmuras? vale; VALE.
 
 
 
-## ACTVS TERTIVS.
+# 4. ACTVS TERTIVS.
 
 TELETHVSA.
 
@@ -1142,7 +1142,7 @@ Illacrymat, haeret aestuat, saeuit, furit.
 
 
 
-## ACTVS QVARTVS.
+# 6. ACTVS QVARTVS.
 
 IEPHTE.
 
@@ -1340,7 +1340,7 @@ Mater! ah mater! miseranda mater!
 
 Mater! ah mater! miseranda mater!
 
-## ACTVS QVINTVS
+# 8. ACTVS QVINTVS
 
 NVNCIVS, TELETHVSA.
 

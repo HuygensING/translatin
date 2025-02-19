@@ -10,7 +10,7 @@ TERENTII CHRISTIANI NEHEMIAS.
 
 
 
-## Actorum nomina.
+# 1. Actorum nomina.
 
 NEHEMIAS, pocillator regius.
 
@@ -38,7 +38,7 @@ SIMALIO, milites.
 
 SANGA,
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 Senarii Iambici.
 
@@ -138,7 +138,7 @@ Agedum puer, exi ocyus, vt spectatoribus
 
 Periocham nostrae recites actiunculae.
 
-## Comoediae argumentum.
+# 3. Comoediae argumentum.
 
 PErsarum regi dum seruit Nehemias,
 
@@ -168,7 +168,7 @@ Iudaei gestientes gaudio, ac Deum
 
 Laudantes, inchoatum perficiunt opus.
 
-## ACTVS I. SCENA I.
+# 4. ACTVS I. SCENA I.
 
 NEHEMIAS
 
@@ -310,7 +310,7 @@ Vnde veniat, quem quaerat, qua pergat via,
 
 ≤line=65≥ Nihilne adferat rerum nouarum: sic agam.
 
-## ACTVS I. SCENA II.
+# 5. ACTVS I. SCENA II.
 
 HANANVS.
 
@@ -404,7 +404,7 @@ Abire permittam, quam quem volo monstrarit mihi.
 
 ≤page=8≥
 
-## ACTVS I. SCENA III.
+# 6. ACTVS I. SCENA III.
 
 NEHEMIAS, HANANVS.
 
@@ -545,7 +545,7 @@ Tantopere velle, age parebo, lubensque veteres
 
 Metu exanimasset oratio. Han, Praecede, consequar.
 
-## ACTVS I. SCENA IV.
+# 7. ACTVS I. SCENA IV.
 
 SATIBARZANES.
 
@@ -613,7 +613,7 @@ Quare malum quidem haud leue sit oportet, hunc
 
 Vt quid animo sit aegrè, ex ipso intelligam.
 
-## ACTVS I. SCENA V.
+# 8. ACTVS I. SCENA V.
 
 NEHEMIAS SATIBARZANES,
 
@@ -845,7 +845,7 @@ Ad eum accedes, quod omnium rerum est primum. Neh. Mones
 
 Probè, atque ob id tibi lubens obtemperauero.
 
-## ACTVS II. SCENA I.
+# 9. ACTVS II. SCENA I.
 
 GOSEMVS.
 
@@ -937,7 +937,7 @@ Nunc ad Sanaballatum hinc rectà me conferam,
 
 Illi sine mora ordine commemorem omnia.
 
-## ACTVS II. SCENA II.
+# 10. ACTVS II. SCENA II.
 
 NEHEMIAS.
 
@@ -1041,7 +1041,7 @@ Si impetro, quid aliud malim quam hodie ad iter
 
 Accingi, atque illuc recta hinc proficisci via.
 
-## ACTVS II. SCENA III.
+# 11. ACTVS II. SCENA III.
 
 SANABALLATVS, GOSEMVS.
 
@@ -1113,7 +1113,7 @@ Vt quò se vortant, aut recipiant planè nesciant.
 
 San. Agedum, ratum esto. Gos. Ita facere certum est. San. Perplacet.
 
-## ACTVS II. SCENA IV.
+# 12. ACTVS II. SCENA IV.
 
 NEHEMIAS, HANANVS.
 
@@ -1239,7 +1239,7 @@ Deinde viae nos, quantum possumus, accingamus, ne in mora
 
 ≤line=485≥ [^28]Ipsi nobis simus. Han. Placet.
 
-## ACTVS III. SCENA I.
+# 13. ACTVS III. SCENA I.
 
 BIRRIA, LESBIA.
 
@@ -1396,7 +1396,7 @@ Vno aliquo verbo facilè ad stomachandum eas
 
 Concrepuere, tempus est vt hinc me amolier.
 
-## ACTVS III. SCENA II.
+# 14. ACTVS III. SCENA II.
 
 HANANVS, NEHEMIAS, SADOCVS.
 
@@ -1478,7 +1478,7 @@ Caeptum, Deo opitulante, prosequemur iter. Han. Optimè mones.
 
 ≤page=27≥
 
-## ACTVS III. SCENA III.
+# 15. ACTVS III. SCENA III.
 
 GOSEMVS, SANABALLATVS, TOBIAS.
 
@@ -1578,7 +1578,7 @@ Nos decet, hunc totum potando traducamus diem.
 
 Tob. I prae, sequor. Gos. Nec in me quicquam erit mora.
 
-## ACTVS III. SCENA IV.
+# 16. ACTVS III. SCENA IV.
 
 ARARIAS, ELIASIBVS,
 
@@ -1646,7 +1646,7 @@ Tantisper, dum accedit, subsistamus Eliasibe.
 
 ≤page=30≥
 
-## ACTVS III. SCENA. V.
+# 17. ACTVS III. SCENA. V.
 
 SADOCVS, ATARIAS. ELIASIBVS.
 
@@ -1762,7 +1762,7 @@ Concedamus, vbi rem omnem narrabo ordine.
 
 Eli. Istud rectè, celato opus est. Aza. Deus vertat bene.
 
-## ACTVS IV. SCENA I.
+# 18. ACTVS IV. SCENA I.
 
 NEHEMIAS.
 
@@ -1872,7 +1872,7 @@ Perambulem: reuersus rem nostratibus
 
 Aperiam, & ad instaurandum hortabor sedulò.
 
-## ACTVS IV. SCENA II.
+# 19. ACTVS IV. SCENA II.
 
 AZARIAS, ELIASIBVS.
 
@@ -1949,7 +1949,7 @@ Eli. Postremo, nihil in ipso est, quod non laude sit dignissimum.
 
 Sed hem, quod ex Sadoco scis, fac nescias, tenes? Eli. probè.
 
-## ACTVS IV. SCENA III.
+# 20. ACTVS IV. SCENA III.
 
 NEHEMIAS, ELIASIBVS, ALARIAE.
 
@@ -2122,7 +2122,7 @@ Conuocatis vrbis primatibus, edisseram ordine. Eli. Vt
 
 Lubet, hem, iacienda est alea. Aza. Deus vertat feliciter.
 
-## ACTVS IV SCENAIV.
+# 21. ACTVS IV SCENAIV.
 
 SANABALLATVS, TOBIAS.
 
@@ -2200,7 +2200,7 @@ Vae illis, qui hos sibi inimicos fecerint. San. Hic, dum
 
 Accedunt, subsistamus paulisper. Tob. Placet.
 
-## ACTVS IV SCENA V.
+# 22. ACTVS IV SCENA V.
 
 GOSEMVS, SIMALIO, SANABALLATVS, SANGA.
 
@@ -2307,7 +2307,7 @@ Lapidibúsne paras pugnare? Sang. Quid? ego quasi
 
 Quid hoc, satin’ vobis placet? San. Ha ha he, pulchrum spectaculum.
 
-## ACTVS IV. SCENA VI.
+# 23. ACTVS IV. SCENA VI.
 
 NEHEMIAS.
 
@@ -2373,7 +2373,7 @@ Quò, si fortè sit opus, animum addam nostratibus,
 
 [^71]Porroque admoneam quid deuitandum sit periculi.
 
-## ACTVS V SCENA I.
+# 24. ACTVS V SCENA I.
 
 ELIASIBVS, HANANVS. NEHEMIAS.
 
@@ -2608,7 +2608,7 @@ Quod nos velis frater. Neh. Nihil nisi vt citra moram
 
 Quae iam praecepi sedulo exequamini. Eli. Curabitur.
 
-## ACTVS V. SCENA II.
+# 25. ACTVS V. SCENA II.
 
 NEHEMIAS.
 
@@ -2666,7 +2666,7 @@ Vt si qua in re mea opera indigeant, in promptu siet.
 
 ≤page=48≥
 
-## ACTVS V. SCENA III.
+# 26. ACTVS V. SCENA III.
 
 AZARIAS, SANABALLATVS, GOSEMVS, TOBIAS.
 
@@ -2782,7 +2782,7 @@ Vos omnes obtestor qui haec incolitis loca, hac si fortè quis
 
 Nos consectetur, ne commonstretis, qua aufugerimus via.
 
-## ACTVS V SCENA IV.
+# 27. ACTVS V SCENA IV.
 
 SANGA.
 
@@ -2806,7 +2806,7 @@ Reducimus integras. Eho, nonne hoc magnificum satis
 
 Videbitur facinus? agite, hac vos me sequimini.
 
-## ACTVS V. SCENA V.
+# 28. ACTVS V. SCENA V.
 
 AZARIAS.
 
@@ -2854,7 +2854,7 @@ Sed festinato est opus, vt hoc nec opinantibus
 
 Primus obijciam, animumque illis exonerem metu.
 
-## ACTVS V. SCENA VI.
+# 29. ACTVS V. SCENA VI.
 
 ELIASIBVS, NEHEMIAS, AZARIAS.
 
@@ -3019,7 +3019,7 @@ Eamus, vt summum simul omnes laudibus,
 
 Eli. Id vt faciamus, equidem res, ac tempus nos monet.
 
-## PERORATIO.
+# 30. PERORATIO.
 
 Senarij, admistis aliquot septenarijs.
 

@@ -58,7 +58,7 @@ PENDVLARIA.
 
 
 
-## Dramatis Personae.
+# 1. Dramatis Personae.
 
 PHILOXENVS senex.
 
@@ -88,9 +88,9 @@ MESSENIO seruus.
 
 
 
-## ACTVS PRIMI
+# 2. ACTVS PRIMI
 
-## SCENA I.
+# 3. SCENA I.
 
 PHILOXENVS senex.
 
@@ -181,7 +181,7 @@ Nempe hoc est; parebo, dum parere integrum est,
 
 ≤line=40≥ Venere saluâ, & lubidine, & meis iocis.
 
-## SCENA II.
+# 4. SCENA II.
 
 PISTOCLERVS adolescens.
 
@@ -278,9 +278,9 @@ Hic adolescens quantus nunc Imperator est
 
 
 
-## ACTVS SECVNDI.
+# 5. ACTVS SECVNDI.
 
-## SCENA I.
+# 6. SCENA I.
 
 MNESILOCHVS. PISTOCLERVS.
 
@@ -340,7 +340,7 @@ Mortis in arbitrio est reliquum: quale hoc sit, di viderint.
 
 ≤page=247≥
 
-## SCENA II.
+# 7. SCENA II.
 
 LYDVS.
 
@@ -380,7 +380,7 @@ De coena prouisum atque prandio, si quid humeris
 
 Quàm si ieiunus vlmos ferre cogar integras.
 
-## SCENA III.
+# 8. SCENA III.
 
 DAVVS.
 
@@ -583,9 +583,9 @@ Et eccere senem. vt Mauortem in vultu gerit!
 
 
 
-## ACTVS TERTII
+# 9. ACTVS TERTII
 
-## SCENA I.
+# 10. SCENA I.
 
 PHILOXENVS senex.
 
@@ -772,9 +772,9 @@ Iam nunc accipientur mulso lautißimè.
 
 ≤page=255≥
 
-## ACTVS QVARTI
+# 11. ACTVS QVARTI
 
-## SCENA I.
+# 12. SCENA I.
 
 PISTOCLERVS.
 
@@ -856,7 +856,7 @@ Eamus intro, triumphalem vt coenam vobis parem:
 
 Nam fortiter agens hodie nostrum expugnaui senem.
 
-## SCENA II.
+# 13. SCENA II.
 
 NICOBVLVS senex.
 
@@ -996,7 +996,7 @@ Moloßicum hic agam, dum aget senex venaticum.
 
 ≤page=259≥
 
-## SCENA III.
+# 14. SCENA III.
 
 PISTOCLERVS.
 
@@ -1276,7 +1276,7 @@ Nihil. At verò vbi senex aderit, omnia
 
 ≤line=515≥ In lucem proferam, atque in meridiem ipsißimam.
 
-## SCENA IV.
+# 15. SCENA IV.
 
 LYDVS.
 
@@ -1593,9 +1593,9 @@ Neque enim haec tacebo, neque celabo, ô homuncio:
 
 Tunc tibi cutis nulla erit in natibus, ô homuncio.
 
-## ACTVS QVINTI
+# 16. ACTVS QVINTI
 
-## SCENA I.
+# 17. SCENA I.
 
 PISTOCLERVS cum sociis.
 
@@ -1637,7 +1637,7 @@ Noui hominem. Pist. Caeterûm siluam vlmorum integram
 
 Feremus hodie singuli, quantam Atlas vix ferat.
 
-## SCENA II.
+# 18. SCENA II.
 
 MESSENIO.
 
@@ -1684,7 +1684,7 @@ Lyd. Nunc obuiàm senibus ibo, leporibus canes
 
 Auribus eos capio timidè timidißimos.
 
-## SCENA III.
+# 19. SCENA III.
 
 PHILOXENVS.
 
@@ -1746,7 +1746,7 @@ Charontis in cymbam alterum pedem intulit.
 
 Nic. Et Mnesilochum video hîc, & Sosiclem meum.
 
-## SCENA IV.
+# 20. SCENA IV.
 
 PISTOCLERVS cum suis.
 

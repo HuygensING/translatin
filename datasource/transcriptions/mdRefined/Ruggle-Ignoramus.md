@@ -8,7 +8,7 @@
 
 
 
-## PROLOGUS PRIOR \|
+# 1. PROLOGUS PRIOR \|
 
 CURSOR, MUSARUM CABALLUS, VIZ. DAVUS DROMO, EQUISO
 
@@ -213,7 +213,7 @@ CAB. At primum agam Prologum.
 
 EQU. Eamus, nihil opus; nam qui primi in scaenam prodeunt aperient
 
-## argumentum.
+# 3. argumentum.
 
 CAB. At illi narrabunt serio.
 
@@ -321,7 +321,7 @@ CUR. "Da veniam subitis, non displicuisse meretu.
 
 Festinat (Caesar) qui placuisse tibi."
 
-## PROLOGUS POSTERIOR
+# 4. PROLOGUS POSTERIOR
 
 PUER VEREDARIUS, DULMAN, IGNORAMUS, MESSE DAVY,
 
@@ -804,7 +804,7 @@ Da, Caesar, (quod potes) tantum ut doleat,
 
 "Uti rumpatur, quisquis rumpitur invidia."
 
-## DRAMATIS PERSONAE
+# 5. DRAMATIS PERSONAE
 
 THEODORUS senex, mercator Burdigalensis
 
@@ -848,7 +848,7 @@ NAUTA Anglicus
 
 CAUPO
 
-## personae mutae
+# 6. personae mutae
 
 LORARII
 
@@ -860,7 +860,7 @@ LICTORES
 
 scena Burdegalae
 
-## ACTUS I, SCAENA i
+# 7. ACTUS I, SCAENA i
 
 THEODORUS, ANTONIUS
 
@@ -1111,7 +1111,7 @@ potest.
 
 \[Exit Theodorus.\]
 
-## ACTUS I, SCAENA ii
+# 8. ACTUS I, SCAENA ii
 
 ANTONIUS solus
 
@@ -1203,7 +1203,7 @@ THE. Antoni, Antoni.
 
 ANT. Pater. THE Ocyus hic intra ad me. \[Exit Ant.\]
 
-## ACTUS I, SCAENA iii
+# 9. ACTUS I, SCAENA iii
 
 IGNORAMUS, DULMAN, MUSAEUS, PECUS
 
@@ -1345,7 +1345,7 @@ ad
 ≤line=220≥ lectum; et sic wasto totum instrumentum. Hei, ho, ho, hei,
 ho.
 
-## ACTUS I, SCAENA iv
+# 10. ACTUS I, SCAENA iv
 
 TORCOL, IGNORAMUS, MERETRICES
 
@@ -1538,7 +1538,7 @@ cauda (cum causa inquam). O si haberem unum habeas corpus iam,
 
 ≤line=310≥ ha he. Cum cogito, vado in cymbalis.
 
-## ACTUS I, SCAENA v
+# 11. ACTUS I, SCAENA v
 
 TORCOL, ROSABELLA, IGNORAMUS, SURDA
 
@@ -1733,7 +1733,7 @@ Si id nunc faciat! Fidem dedit mihi: quod si iam ille me
 
 Deserit, perii. SUR. Nam si illi nubes divitiis afflues.
 
-## ACTUS I, SCAENA vi
+# 12. ACTUS I, SCAENA vi
 
 ANTONIUS, TRICO, ROSABELLA, SURDA
 
@@ -1976,7 +1976,7 @@ TRI. O cariem! Stupidi, quin fugitis? Quin fugitis? Occasio perit.
 
 TRI. O testudines! In malam crucem.
 
-## ACT I, SCAENA vii
+# 13. ACT I, SCAENA vii
 
 TORCOL, ANTONIUS, TRICO, ROSABELLA, SURDA
 
@@ -2071,7 +2071,7 @@ videor.
 
 En exit! Fugio. \[Fugit Trico.\]
 
-## ACTUS I, SCAENA viii
+# 14. ACTUS I, SCAENA viii
 
 THEODORUS, ANTONIUS, TRICO, BANACAR, NAUTA
 
@@ -2144,7 +2144,7 @@ THE. Imus iam.
 
 ≤line=585≥ ANT. Ad mortem ego, nisi Trico --- TRI. St, ne time.
 
-## ACTUS II, SCAENA i
+# 15. ACTUS II, SCAENA i
 
 THEODORUS, BANACAR
 
@@ -2180,7 +2180,7 @@ Opere: corpus item et animum corrumpit otium. \[Exit.\]
 
 e hic addit scenam aliter ignotam
 
-## ACTUS II, SCAENA ii
+# 16. ACTUS II, SCAENA ii
 
 TRICO, ANTONIUS
 
@@ -2278,7 +2278,7 @@ ei
 
 narravi modo. Venit ecce cum librorum sportula.
 
-## ACTUS II, SCAENA iii
+# 17. ACTUS II, SCAENA iii
 
 CUPES, TRICO
 
@@ -2524,7 +2524,7 @@ murmurat quasi murem
 
 mandens felis. Polla, Polla uxor. Heus Polla, Polla!
 
-## ACT II, SCAENA iv
+# 18. ACT II, SCAENA iv
 
 POLLA, CUPES
 
@@ -2650,7 +2650,7 @@ POL. Ea lege opera tibi dabitur.
 
 CUP. Eamus intro, mea Phillis: ibi te monebo magis.
 
-## ACTUS II, SCAENA v
+# 19. ACTUS II, SCAENA v
 
 ANTONIUS, TRICO, PYROPUS, CUPES
 
@@ -2823,7 +2823,7 @@ CUP. Cura aliud.
 meum. Daturum sese operam dixit mihi. Ex illo, ut antehac, electabo
 aliquid.
 
-## ACTUS II, SCAENA vi
+# 20. ACTUS II, SCAENA vi
 
 MUSAEUS, TRICO
 
@@ -2988,7 +2988,7 @@ in insidiis ambo.
 
 TRI. Nisi ille statim huc, occisa est haec res. Vah mihi, adest!
 
-## ACTUS II, SCAENA vii
+# 21. ACTUS II, SCAENA vii
 
 IGNORAMUS cum nummis, TRICO
 
@@ -3147,7 +3147,7 @@ dubito plus. En vide, fabula est in lupus.
 
 TRI. Tandem venit.
 
-## ACTUS II, SCAENA viii
+# 22. ACTUS II, SCAENA viii
 
 ANTONIUS, CUPES, IGNORAMUS, TRICO
 
@@ -3289,7 +3289,7 @@ TRI. In mala is tibi appinget naevulum. Eamus. Praecipiam quid nunc
 
 facturus, si patri forte obviam accesseris. \[Exeunt.\]
 
-## ACTUS III, SCAENA i
+# 23. ACTUS III, SCAENA i
 
 TRICO, DULMAN, CUPES intus
 
@@ -3416,7 +3416,7 @@ DUL. Est hic honestus sodalis warrantizabo. Utinam veniret Rosabella.
 
 Videor esse in foresta nunc: ita timeo taxam de hornegelt.
 
-## ACTUS III, SCAENA ii
+# 24. ACTUS III, SCAENA ii
 
 CUPES, DULMAN, TRICO
 
@@ -3538,7 +3538,7 @@ CUP. Heus, vinum et saccharum, furcifur. Ubi es?
 
 CUP. Fiet.
 
-## ACTUS III, SCAENA iii
+# 25. ACTUS III, SCAENA iii
 
 POLLA, TRICO, CUPES, DULMAN
 
@@ -3638,7 +3638,7 @@ DUL. Gratias; bibam salutem tuam in Anglia pro hoc.
 
 DUL. Vale. Quam curtesius! \[Exit cum Polla.\]
 
-## ACT III, SCAENA iv
+# 26. ACT III, SCAENA iv
 
 CUPES, TRICO
 
@@ -3697,7 +3697,7 @@ TRI. Ita illum nos fortius fallemus ambo.
 
 TRI. Ego ad Torcol: domi ne non sit vereor. Tic toc. \[Pultat foras.\]
 
-## ACTUS III, SCAENA v
+# 27. ACTUS III, SCAENA v
 
 TORCOL, TRICO
 
@@ -3803,7 +3803,7 @@ TOR. Minare.
 
 TRI. M. be.
 
-## ACTUS III, SCAENA vi
+# 28. ACTUS III, SCAENA vi
 
 CUPES, TRICO, TORCOL
 
@@ -4161,7 +4161,7 @@ ille mihi perplacet:
 
 dolum procudam dolo.
 
-## ACTUS III, SCAENA vii
+# 29. ACTUS III, SCAENA vii
 
 CUPES, ROSABELLA
 
@@ -4235,7 +4235,7 @@ obsonatum ibo hinc. Hilarem hunc sumam diem, vino et victu lepido. At
 
 primum mutabo vestes hic in proximo.
 
-## ACTUS III, SCAENA viii
+# 30. ACTUS III, SCAENA viii
 
 PECUS, IGNORAMUS, POLLA
 
@@ -4347,7 +4347,7 @@ quod
 ≤line=1585≥ claves haud abstulerim. Sed forsan aliquis intus est.
 Pultabo. Tic toc.
 
-## ACTUS III, SCAENA ix
+# 31. ACTUS III, SCAENA ix
 
 POLLA, ROSABELLA ad fenestram
 
@@ -4395,7 +4395,7 @@ longiores
 
 ungulae! \[Exit.\]
 
-## ACTUS III, SCAENA x
+# 32. ACTUS III, SCAENA x
 
 CUPES, CAUPO, FIDICINES, POLLA
 
@@ -4609,7 +4609,7 @@ CUP. Quid iam faciam? Saltem caenam hic meditabor paululum: perdices ---
 
 hum --- phasiani --- at vinum --- oime!
 
-## ACT III, SCAENA xi
+# 33. ACT III, SCAENA xi
 
 ANTONIUS, CUPES
 
@@ -4711,7 +4711,7 @@ Ibo atque investigabo ubi ubi est. Sed quo me nunc vertam? Quod iter
 
 ingrediar? Hac ivero? Illac potius. \[Exit Antonius.\]
 
-## ACTUS III, SCAENA xii
+# 34. ACTUS III, SCAENA xii
 
 ROSABELLA, ANTONIUS, CUPES
 
@@ -4773,7 +4773,7 @@ Amphora non meruit tam pretiosa mori.
 
 Hinc cubitum eo, ne sim vitalis metuo.
 
-## ACTUS III, SCAENA xiii
+# 35. ACTUS III, SCAENA xiii
 
 IGNORAMUS, CUPES
 
@@ -4815,7 +4815,7 @@ successit inauspicato, dabo usque operam Antonio tamen. Aliqua spero
 
 mihi alios extricabo nummos. Intro nunc ibo ad dracaenam meam.
 
-## ACTUS IV, SCAENA i
+# 36. ACTUS IV, SCAENA i
 
 ANTONIUS, ROSABELLA
 
@@ -4915,7 +4915,7 @@ ROS. Faciam.
 
 ANT. Tace.
 
-## ACTUS IV, SCAENA ii
+# 37. ACTUS IV, SCAENA ii
 
 THEODORUS, ANTONIUS, ROSABELLA
 
@@ -5081,7 +5081,7 @@ THE. Londinum versus is hodie vos accersitum abiit.
 
 ANT. I am sorry I shall not see my selfe in him so soone as I hoped.
 
-## ACTUS IV, SCAENA iii
+# 38. ACTUS IV, SCAENA iii
 
 TRICO, THEODORUS, ANTONIUS, ROSABELLA
 
@@ -5209,7 +5209,7 @@ ANT. Hei mihi! Cuius vestimentis induor, vestiarius adest. Nisi iam me
 
 Trico adiuvet, perii funditus.
 
-## ACTUS IV, SCAENA iv
+# 39. ACTUS IV, SCAENA iv
 
 PYROPUS, ANTONIUS, THEODORUS
 
@@ -5329,7 +5329,7 @@ cloathes of him.
 
 THE. Alia res est, quicquid est.
 
-## ACTUS IV, SCAENA v
+# 40. ACTUS IV, SCAENA v
 
 TRICO, CUPES, ANTONIUS, THEODORUS, PYROPUS
 
@@ -5503,7 +5503,7 @@ compotor meus: mirum ni is (quod solet) me quaerit, ut poscat poculis.
 
 Eum certum est, collegam asciscam mihi.
 
-## ACTUS IV, SCAENA vi
+# 41. ACTUS IV, SCAENA vi
 
 COLA, CUPES, TRICO
 
@@ -5609,7 +5609,7 @@ illico.
 
 CUP. Abeamus quisque suum ad officium.
 
-## ACTUS IV, SCAENA vii
+# 42. ACTUS IV, SCAENA vii
 
 IGNORAMUS, TRICO, DULMAN
 
@@ -5726,7 +5726,7 @@ DUL. Magister, ego copiavi hoc factum; vide.
 
 IGN. Da mihi, ego copiabo te.
 
-## ACTUS IV, SCAENA viii
+# 43. ACTUS IV, SCAENA viii
 
 TORCOL, IGNORAMUS, DULMAN
 
@@ -5938,7 +5938,7 @@ IGN. Habebo te post tamen. Dulman, i tu cum eo, vide illum ire ad
 
 ≤line=2300≥ largum suum, sed primum cape advizamentum.
 
-## ACTUS IV, SCAENA ix
+# 44. ACTUS IV, SCAENA ix
 
 THEODORUS, ROSABELLA, IGNORAMUS, TORCOL, ANTONIUS, DULMAN
 
@@ -6106,7 +6106,7 @@ ROS. Quid de me fiet nescio.
 
 ANT. Si tantillum morantur exorcistae, actum est de nobis.
 
-## ACTUS IV, SCAENA x
+# 45. ACTUS IV, SCAENA x
 
 THEODORUS, ANTONIUS, TORCOL, IGNORAMUS, TRICO, CUPES, COLA, POLLA,
 ROSABELLA
@@ -6274,7 +6274,7 @@ CUP. En fugit, sequimini, sequimini.
 
 IGN. Ego abibo etiam, nam puto hi sunt nebulones fratres.
 
-## ACTUS IV, SCAENA xi
+# 46. ACTUS IV, SCAENA xi
 
 IGNORAMUS, CUPES, COLA, POLLA, EXORCISMI POMPA
 
@@ -6484,7 +6484,7 @@ tibi.
 
 ≤line=2550≥ POL. Amabo te dehinc. Eamus quo vis igitur.
 
-## ACTUS IV, SCAENA xii
+# 47. ACTUS IV, SCAENA xii
 
 ANTONIUS, TRICO, PYROPUS, LICTORES
 
@@ -6680,7 +6680,7 @@ mea est, mea erit; illa salva, salva mihi omnia. Ibo nunc ad amicum meum
 
 quicum consilium capiam.
 
-## ACTUS V, SCAENA i
+# 48. ACTUS V, SCAENA i
 
 DOROTHEA, VINCE, NELL, RICHARDUS
 
@@ -6807,7 +6807,7 @@ NELL Forsooth.
 
 NELL I forsooth.
 
-## ACTUS V, SCAENA ii
+# 49. ACTUS V, SCAENA ii
 
 VINCE, NELL manent
 
@@ -6920,7 +6920,7 @@ NELL O my monseiur.
 
 VIN. Goe, yonder comes a mad man. \[Exeunt.\]
 
-## ACTUS V, SCAENA iii
+# 50. ACTUS V, SCAENA iii
 
 IGNORAMUS, PECUS, DULMAN
 
@@ -7018,7 +7018,7 @@ DUL. Ne time, magister, ibimus cum una vindicta; eamus, nam
 
 video unum. \[Exeunt.\]
 
-## ACTUS V, SCENA iv
+# 51. ACTUS V, SCENA iv
 
 TRICO, THEODORUS, DOROTHEA
 
@@ -7082,7 +7082,7 @@ TRI. Hei mihi! Sed quod futurum est, Trico, futurum est.
 
 TRI. Trico etiam? At Trico non est intus. Hic me abscondam prope.
 
-## ACTUS V, SCAENA v
+# 52. ACTUS V, SCAENA v
 
 ROSABELLA, THEODORUS, DOROTHEA
 
@@ -7228,7 +7228,7 @@ non vivet illa amplius.
 
 ROS. Quid meditetur scio, sed me lubens paro.
 
-## ACTUS V, SCAENA vi
+# 53. ACTUS V, SCAENA vi
 
 TRICO, BANACAR, THEODORUS, ROSABELLA
 
@@ -7343,7 +7343,7 @@ THE. Fingit, scelus, fingit, et tu fingis; at ego personam ut deponat
 
 faciam.
 
-## ACTUS V, SCAENA vii
+# 54. ACTUS V, SCAENA vii
 
 ANTONIUS, THEODORUS, BANACAR, ROSABELLA
 
@@ -7688,7 +7688,7 @@ THE. Meritus est iam ille, et vos ut hoc, et illud, et omnia quae vultis
 
 faciam.
 
-## ACTUS V, SCAENA viii
+# 55. ACTUS V, SCAENA viii
 
 TRICO, THEODORUS, ROSABELLA, BANACAR, VINCE
 
@@ -7773,7 +7773,7 @@ THE. Eamus, Isabella, ad Dorotheam ut eam hoc impertiamur
 
 gaudio. \[Exeunt. Manent Vince et Antonius.\]
 
-## ACTUS V, SCAENA ix \|
+# 56. ACTUS V, SCAENA ix \|
 
 PYROPUS, ANTONIUS, VINCE
 
@@ -7860,7 +7860,7 @@ some
 
 bodies back. O fine and patt, heere comes company.
 
-## ACTUS V, SCAENA x
+# 57. ACTUS V, SCAENA x
 
 TORCOL, TRICO, DULMAN, VINCE, MUSAEUS
 
@@ -8021,7 +8021,7 @@ DUL. Bene pardono te pro saccharo.
 
 \<in\> Theodori aedes.\]
 
-## ACTUS V, SCAENA xi
+# 58. ACTUS V, SCAENA xi
 
 CAUPO, CUPES, COLA, MERETRICES, POLLA
 
@@ -8184,7 +8184,7 @@ CUP. Eamus. Quanquam scelestus es, me amas, scio.
 
 COL. Medullitus. \[Exit Cola.\]
 
-## ACTUS V, SCAENA xii
+# 59. ACTUS V, SCAENA xii
 
 TRICO, CUPES (Trico laganam vini affert et cyathum )
 
@@ -8289,7 +8289,7 @@ CUP. \...saluti domini nostri pii, faelicis, semper augusti, ut nos
 
 TRI. Itidemque universi omnes, quod decet, clare PLAUDITE.
 
-## EPILOGUS
+# 60. EPILOGUS
 
 IGNORAMUS
 

@@ -146,7 +146,7 @@ ACHIMAS ARMIGER. NVNCIVS.
 
 ≤page=124≥
 
-## ACTVS PRIMVS.
+# 2. ACTVS PRIMVS.
 
 
 
@@ -450,7 +450,7 @@ Et ipse maius aliquid humano fremit,
 
 Et vibrat hastam; currite, inuadit, furit.
 
-## ACTVS SECVNDVS.
+# 4. ACTVS SECVNDVS.
 
 SAVL.
 
@@ -830,7 +830,7 @@ Et sibi stellas spondeat amens,
 
 Semperque istis excidet ausis.
 
-## ACTVS TERTIVS.
+# 6. ACTVS TERTIVS.
 
 DAVID.
 
@@ -1248,7 +1248,7 @@ Säul peßime Regum!
 
 ≤page=144≥
 
-## ACTVS QVARTVS.
+# 8. ACTVS QVARTVS.
 
 SAVL, ACHIMAS ARMIGER,
 
@@ -1724,7 +1724,7 @@ Nec se infoelix sentiat ictum,
 
 Nec difficilem lugeat Aten.
 
-## ACTVS QVINTVS
+# 10. ACTVS QVINTVS
 
 DAVID, NVNCIVS.
 

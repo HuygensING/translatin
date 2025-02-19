@@ -12,7 +12,7 @@ Fabula Ludicra.
 
 
 
-## ACTORVM NOMINA.
+# 1. ACTORVM NOMINA.
 
 PHORMIO, Vietor.
 
@@ -30,7 +30,7 @@ CHREMES, Agricola.
 
 NISA, Chremetis vxor.
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 Iambici trimetri.
 
@@ -102,7 +102,7 @@ Videor. Agitedum, ad argumentum fabula
 
 Attenti quaeso estote, absque vllis fabulis.
 
-## PERIOCHA.
+# 3. PERIOCHA.
 
 DVo combibones admodum diluculo
 
@@ -130,7 +130,7 @@ Domum se recipiunt: & confeßi suam
 
 Culpam, cum vxoribus redeunt in gratiam.
 
-## ACTVS I. SCENA I.
+# 4. ACTVS I. SCENA I.
 
 PHORMIO.
 
@@ -210,7 +210,7 @@ Estnè hic Dorio, familiaris meus, ac fidißimus
 
 Hic illum praestolabor, dum propiùs accesserit.
 
-## ACTVS I. SCENA II.
+# 5. ACTVS I. SCENA II.
 
 DORIO, PHORMIO.
 
@@ -312,7 +312,7 @@ Hoc habitat vico? Bro. Eam ipsam. Pho. Eamus ergo: nam
 
 Ostium: in pedes nos conijciamus quantum possumus.
 
-## ACTVS I. SCENA III.
+# 6. ACTVS I. SCENA III.
 
 PERILLA.
 
@@ -388,7 +388,7 @@ Vnum si noris, alterum cognoueris:
 
 Sed eccam Bromiam eius vxorem, hanc adoriar.
 
-## ACTVS I. SCENA IV.
+# 7. ACTVS I. SCENA IV.
 
 BROMIA, PERILLA.
 
@@ -492,7 +492,7 @@ Quocunque praecesseris: Per. Vngues mihi pol pruriunt.
 
 Vae illis, siquidem in nostras hodie inciderint manus.
 
-## ACTVS II. SCENA I.
+# 8. ACTVS II. SCENA I.
 
 PHORMIO, DORIO, LESBIA, SYRA.
 
@@ -654,7 +654,7 @@ Num quid te torquet, aut solicitat? cedo. Syr. Nihil
 
 Ac te praebe hilarem. Syr. Id pol hoc tempus, atque locus hic postulat.
 
-## ACTVS II. SCENA II.
+# 9. ACTVS II. SCENA II.
 
 PERILLA, BROMIS.
 
@@ -711,7 +711,7 @@ Nae ille sibi cum viragine rem esse dixerit.
 
 ≤line=260≥ Ego praeibo, tu subsequere Bromia. Bro. Hem sequor.
 
-## ACTVS II. SCENA III.
+# 10. ACTVS II. SCENA III.
 
 PHORMIO, DORIO, LESBIA.
 
@@ -747,7 +747,7 @@ Ego nihil moror feminam, Les. Eia sic decet.
 
 Viros vos esse iudico. Do. Hem praebibo tibi Phormio.
 
-## ACTVS II. SCENA IV.
+# 11. ACTVS II. SCENA IV.
 
 PERILLA, BROMIA, DORIO, PHORMIO.
 
@@ -813,7 +813,7 @@ Malim, quàm cum tali marito viuere.
 
 Bro. De isthoc quid sit futurum, consilium vnà capiemus domi.
 
-## ACTVS II. SCENA V.
+# 12. ACTVS II. SCENA V.
 
 PHORMIO, DORIO, LESBIA.
 
@@ -942,7 +942,7 @@ Consilium: itaque & hic, & alibi tibi lubens
 
 Obtemperauero. Pho. Benignè dicis, sequere me.
 
-## ACTVS III. SCENA I.
+# 13. ACTVS III. SCENA I.
 
 NISA.
 
@@ -1000,7 +1000,7 @@ Milites sunt, nisi oculi mei prospiciunt parum.
 
 Abeo, atque in pedes hinc me quantum queo.
 
-## ACTVS III. SCENA II.
+# 14. ACTVS III. SCENA II.
 
 DORIO, PHORMIO.
 
@@ -1067,7 +1067,7 @@ Auibus Martis experiamur aleam. Dor. Placet.
 
 ≤page=108≥
 
-## ACTVS III. SCENA III.
+# 15. ACTVS III. SCENA III.
 
 CHREMES, NISA.
 
@@ -1171,7 +1171,7 @@ Nam spero adiuturum Deum: tu modò fac sis animo bono.
 
 ≤page=110≥
 
-## ACTVS III. SCENA IV.
+# 16. ACTVS III. SCENA IV.
 
 PHORMIO, DORIO, NISA, CHREMES.
 
@@ -1333,7 +1333,7 @@ Querentem, abibo, quando praesens proficio parum.
 
 ≤page=113≥
 
-## ACTVS III. SCENA V.
+# 17. ACTVS III. SCENA V.
 
 PHORMIO, DORIO,
 
@@ -1371,7 +1371,7 @@ Ad haec leuia conniuendum est incommoda.
 
 Pho. Rectè dicis, sed pergamus, quò perlustremus singula.
 
-## ACTVS IV. SCENA I
+# 18. ACTVS IV. SCENA I
 
 CHREMES, NISA.
 
@@ -1448,7 +1448,7 @@ Affligere, cruciare, atque verberare porrò
 
 Quae ad pugnam opus erunt, parem; reuersura è vestigio.
 
-## ACTVS IV. SCENA II. \[\< ACTV\]
+# 19. ACTVS IV. SCENA II. \[\< ACTV\]
 
 DORIO, PHORMIO, CHREMES, NISA.
 
@@ -1624,7 +1624,7 @@ Hoc praelium nobis ex animi succeßit sententiâ,
 
 Eamus, atque triumphum agamus intus. Nis. Ità certè decet.
 
-## ACTVS V. SCENA I.
+# 20. ACTVS V. SCENA I.
 
 DORIO, PHORMIO.
 
@@ -1734,7 +1734,7 @@ Eo nos compellit neceßitas. At nescio
 
 ≤line=705≥ Quas istic procul stantes video, hem, mane.
 
-## ACTVS V. SCENA II.
+# 21. ACTVS V. SCENA II.
 
 PERILLA, BROMIA.
 
@@ -1834,7 +1834,7 @@ Experti, sibi ceßisse sciunt infeliciter.
 
 Bro. Consulis probè: aetque ob id tibi lubens paruero.
 
-## ACTVS V. SCENA III.
+# 22. ACTVS V. SCENA III.
 
 PHORMIO, DORIO.
 
@@ -1915,7 +1915,7 @@ Offertur: nam in tempore venire, omnium
 
 ≤line=785≥ Rerum solet esse primum. \-\--
 
-## ACTVS V. SCENA IV.
+# 23. ACTVS V. SCENA IV.
 
 PERILLA, BROMIA, DORIO, PHORMIO.
 

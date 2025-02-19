@@ -305,7 +305,7 @@ Aman, Palaestinos periculo eximit.
 
 
 
-## Personae sive interloquutores huius dramatis.
+# 1. Personae sive interloquutores huius dramatis.
 
 Assuerus, qui et Artaxerxes, rex Persarum.
 
@@ -335,7 +335,7 @@ Nuntius.
 
 **Chorus Susianarum.**
 
-## Actus primus
+# 4. Actus primus
 
 *Mardochaeus solus*
 
@@ -863,7 +863,7 @@ Momento ad ima trudere usque Tartara,
 
 Et infimos locare sede in regia.
 
-## Actus secundus
+# 7. Actus secundus
 
 *Mardochaeus*
 
@@ -1699,7 +1699,7 @@ Sed deiici vetat malorum turbine,
 
 Redditque eos purgatiores, quam antea.
 
-## Actus tertius
+# 12. Actus tertius
 
 *Esther*
 
@@ -2531,7 +2531,7 @@ Raucae tuum clangore buccinae, organis
 
 Et cymbalis, nomen canemus perpetim.
 
-## Actus quartus
+# 17. Actus quartus
 
 *Aman*
 
@@ -3375,7 +3375,7 @@ Ibi regiam, iure optimo, vel Thessala
 
 Quis Tempe dixerit, vel Elysios lares.
 
-## Actus quintus*
+# 22. Actus quintus*
 
 *Assuerus*
 
@@ -4027,7 +4027,7 @@ Cum pace cornucopiae.
 
 **Finis Tragediae de regina Edissa sive Esther.**
 
-## Peroratio
+# 27. Peroratio
 
 Ad vos, viri, revertor, humanissimi,
 

@@ -215,7 +215,7 @@ B...oj te sÚmptaj kaˆ leëj corostate‹.
 
 
 
-## ≤folio=212≥ PERSONAE. ≤folio=314≥
+# 1. ≤folio=212≥ PERSONAE. ≤folio=314≥
 
 ANGELUS, prolog...zwn.
 
@@ -248,7 +248,7 @@ MATRES HIEROSOLYMITANAE.
 CHORI duo primi, Vatum ac Piorum, tertius Senum Hebraeorum, quartus
 Militum Romanorum.
 
-## ≤folio=213≥ ACTUS PRIMUS. ≤folio=315≥
+# 2. ≤folio=213≥ ACTUS PRIMUS. ≤folio=315≥
 
 ANGELUS.
 
@@ -718,7 +718,7 @@ Dulce lenimen, nec inhospitali
 
 ≤line=230≥ Praeda tyranno.
 
-## ACTUS SECUNDUS.
+# 4. ACTUS SECUNDUS.
 
 JOSEPHUS.
 
@@ -1285,7 +1285,7 @@ Quisquis Rege minor (nec fieri negat)
 
 Hebraeo, timidas subiiciet manus.’ \[Hebraeo\]
 
-## ACTUS TERTIUS.
+# 6. ACTUS TERTIUS.
 
 HERODES, LEGATI,
 
@@ -1878,7 +1878,7 @@ Quae per proavos transmissa suos,
 
 Securus arat regna colonus.
 
-## ACTUS QUARTUS. ≤folio=339≥
+# 8. ACTUS QUARTUS. ≤folio=339≥
 
 MARIAMNE. TISIPHONE, reliquis Furiis comitata. HERODES.
 
@@ -3345,7 +3345,7 @@ Quis me restituat mihi?
 
 Quis me restituat tibi?
 
-## ACTUS QUINTUS.
+# 10. ACTUS QUINTUS.
 
 MATRES BETHLEHEMITICAE, Hierosolymam aut alio cum infantibus fugientes.
 

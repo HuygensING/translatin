@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0068" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Sedecias tragoedia</title>
+        <title type="sub"></title>
+        <author>Malapertius, Carolus</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Ioannes Cnobbarus</publisher>
+        <pubPlace>Antwerp</pubPlace>
+        <date>1632</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Malapertius-Sedecias</name><lb/>
+            Short title: <title>Sedecias</title><lb/>
+            Year of first edition: <date>1624</date><lb/>
+            Author information:<lb/>
+            Alias: Malapert, Charles<lb/>
+            Birth: 1581, Mons<lb/>
+            Death: 1630, Vittoria<lb/>
+            Floruit: None, Douai, Arras<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Charles_Malapert">Link</ref><lb/>
+            <emph>Selectae PP. Soc. Ies. Tragoediae (Antwerp: Cnobbarus, 1632)</emph><lb/>
+            <ref target="https://books.google.nl/books?id=1HqjB9FfrcEC">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">tragedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>CAROLI MALAPERTII</p>
+  <p>E SOCIETATE IESV</p>
+  <p>SEDECIAS</p>
+  <p>TRAGOEDIA.</p>
+  <p>ARGVMENTVM.</p>
+  <p>Nabuchodonosor cum Ioachinum regno movisset, Sedeciam patruum
+  Ierosolymis regem constituit; qui fisus deinde Aegyptiorum amicitia
+  Babylonico foederi renuntiavit, contra quam Ieremias coram et Ezechiel
+  Babylone captivus divinitus admonerent, nam partim impiorum procerum
+  consiliis in transversum actus, partim (ut refert Iosephus) quod
+  duorum Prophetarum vaticinationes in speciem pugnantes esse
+  videbantur, salubria utriusque monita contempsit; ipsumque adeo
+  Ieremiam male mulctatum in foedissimi carceris cloacam coniici vel
+  curavit, vel permisit. Premebantur interea biennium totum arctissima
+  obsidione Ierosolymae a Nabuzardano aliisque ducibus regis
+  Nabuchodonosoris, donec peste fameque dirissima civibus exhaustis
+  Sedecias occulto itinere, praemissis filiis et coniugibus, nocturna
+  fuga urbem deserit, cuius illa ipsa nocte hostes potiti magnam partem,
+  ut in nocturna invasione fit, succenderunt. Victor Nabuzardanus ut
+  primum regem dilapsum sentit, magna celeritate insecutus e fuga
+  retrahit, et Nabuchodonosoro Reblathis agenti vinctum cum filiis
+  sistit. Rex ferus tristissimo spectaculo filios patre inspectante
+  trucidari, mox Sedeciae ipsi oculos effodi et inde Babylonem deportari
+  mandat. <hi rend="italic">Ex lib. 4. Regum cap. 25. 2.
+  Paralipom. cap. 36. Iosepho lib. 10. Antiquit. Iudaic. cap. 10. et
+  11.</hi></p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae.">
+  <head>1. PERSONAE.</head>
+  <p>Sedecias.</p>
+  <p>Armiger.</p>
+  <p>Nabvzardan.</p>
+  <p>Nvntivs.</p>
+  <p>Nabvchodonosor.</p>
+  <p>Ieremias.</p>
+  <p>Filii Sedeciae.</p>
+  <p><hi rend="bold">Chorvs.</hi>*</p>
+</div>
+<div type="level1" xml:id="actvs-primvs.">
+  <head>3. ACTVS PRIMVS.</head>
+  <p><hi rend="italic">Sedeciam initae fugae sero
+  poenitet.</hi></p>
+  <p>Sedecias. Armiger.</p>
+  <p>Sed. Imbellis, excors, gentis opprobrium tuae,</p>
+  <p>Quousque anhelum proditi ad labem imperi</p>
+  <p>Gressum fatigas? Siste, iam satis est fugae,</p>
+  <p>Ignavus ut sis. Aude age superbos retro</p>
+  <p>(5) Referre vultus. Nullus a tergo est metus.</p>
+  <p>Require Solymas, dubia qua montis iuga</p>
+  <p>Vix pervicaci lumina obtutu notant</p>
+  <p>Piceaque fumus nube praetexit diem.</p>
+  <p>Sic fruere regno, fruere, sic regem inclytum,</p>
+  <p>(10) Caeloque teste strenue ignavum decet.</p>
+  <p>Pudenda comitum turba, quid letum bene</p>
+  <p>Manu merenti densa per Medum agmina</p>
+  <p>Male obstitistis? Turpis officii piget.</p>
+  <p>Par est malevolo, quisquis ad probrum iuvat.</p>
+  <p>(15) Ruente Solyma non satis credo fuit</p>
+  <p>Necis aut sepulcri. Sola per nemorum loca</p>
+  <p>Vilesque latebras quaerimus fato viam,</p>
+  <p>Dignum leaenae pabulum, indigni hostium</p>
+  <p>Oppetere dextra patriae et busto tegi.</p>
+  <p>(20) Adeone dulce est vivere! Miserum mori!</p>
+  <p>Moriamur anime, dedecus nulla satis</p>
+  <p>Morte eluendum. Qua licet, nostro tamen</p>
+  <p>Sanguine luatur. Qui probri haerentem nequit</p>
+  <p>Labem expiare, finiat sensum, ultima</p>
+  <p>(25) Ferro secutus. Verte in infandum caput</p>
+  <p>Huc arma miles. Quisquis e turba voles</p>
+  <p>Patriae ruinas, liberum ulcisci necem,</p>
+  <p>Perime nocentem. Rara vindicta obtigit</p>
+  <p>Tuta in tyrannum. Quisquis e turba voles</p>
+  <p>(30) Referre meritis gratiam facilem meis,</p>
+  <p>Perime volentem, sive crudelis mihi,</p>
+  <p>Sive es benignus, commoda regi manum,</p>
+  <p>Mortem rependi praemium aut poenam rogat.</p>
+  <p>Adeste cuncti, adeste. Quid frustra pii</p>
+  <p>(35) Exhorruistis? Arma, non gemitus peto.</p>
+  <p>Servate lacrymas funeri, aut patriae date</p>
+  <p>Per me ruenti! Vah pudor! Nemo omnium</p>
+  <p>Aut esse iustus ultor aut gratus volet?</p>
+  <p>Ite, ite, fata quemque quo ducunt sua.</p>
+  <p>(40) Quod quaero, promptum est. Sentio qua pectoris</p>
+  <p>Imi latebras cor mihi ignavum quatit,</p>
+  <p>Illinc revellam lucis exosae moras.</p>
+  <p>Me, me ille nostris, si potest, poenis satur</p>
+  <p>Parte e serena lentus adspiciat poli,</p>
+  <p>(45) Qui probrum in omne legit Isacidum genus.</p>
+  <p>Nil fulminandum est, solus e tanto nocens</p>
+  <p>Populo supersum, certius telum hac manu</p>
+  <p>In me vibrabo. Arm. Magne rex, quis te dolor</p>
+  <p>Agit impotentem, vitae ut ingratus tuae</p>
+  <p>(50) Deum lacessas? Sed. Vt lacessitus malum</p>
+  <p>Malus ipse perdat, diro ut aspectu levet</p>
+  <p>Caelum atque terras. Arm. Parce vesanis diem</p>
+  <p>Scelerare verbis, teque pietati refer.</p>
+  <p>Haec ipsa luimus scelera; delirant duces,</p>
+  <p>(55) Plectimur Hebraei. Nempe si monitis fores</p>
+  <p>Vatum obsecutus, salva nunc staret Sion</p>
+  <p>Starentque Solymae. Sed. Quos mihi vates canis?</p>
+  <p>Oracla dubia nostra iam nutant fide</p>
+  <p>Pugnantque secum: vincla, Babylonem occinit.</p>
+  <p>(60) Hinc Ieremias, inde Babylonem mihi</p>
+  <p>Vnquam videndam captus Ezechiel negat.</p>
+  <p>Vterque vates sortis auctorem
+  <hi rend="italic">Deum</hi></p>
+  <p>Vterque iactat. Arm. Fateor et dudum haereo</p>
+  <p>Mecum ipse fati dubius interpres tui,</p>
+  <p>(65) Oracla sed quae clusa perplexis latent</p>
+  <p>Vocum involucris, ipsa per rerum explicant</p>
+  <p>Eventa sese. Dum tamen sors fluctuat</p>
+  <p>Incerta, si dant fata, quaerenda est salus,</p>
+  <p>Nam cur salubris consili tantum piget?</p>
+  <p>(70) Furor est apertum ruere in exitium palam.</p>
+  <p>Sed. Pudor est inultum fugere. Arm. Sed si res ferat,</p>
+  <p>Necesse; fortem tempori aptari decet.</p>
+  <p>Sed. Mori fugacem? Arm. Fugit hac David, pudet</p>
+  <p>Sequi nepotem? Sed. Damno fugientem nepos.</p>
+  <p>(75) Laudo Saulem mortis invictum metu.</p>
+  <p>Arm. Parum interest, timore quo fractas cadas.</p>
+  <p>Vitam Saul timebat, hoc victus metu est.</p>
+  <p>Sed. Probrum timebat, nemo magnanimus tulit.</p>
+  <p>Arm. Adversa ferre nemo magnanimus negat.</p>
+  <p>(80) Imbellis ille est, sponte qui vitam abiicit</p>
+  <p>Lucemque durae sortis impatiens fugit.</p>
+  <p>Sceleratus idem, carnifex dirus sui,</p>
+  <p>Hoc parricida tetrior, quo tu tibi es</p>
+  <p>Proprior parente. Fortis esse animi reor</p>
+  <p>(85) Durare contra quidquid est durum pati.</p>
+  <p>Nec cedere retro, stare qua summus iubet</p>
+  <p>Statione ductor laudis hoc verum est decus.</p>
+  <p>Sed. Magnifica verba, macte, cui Mavors calet</p>
+  <p>Ventoso in ore, friget ad pugnam manus.</p>
+  <p>(90) Arm. Hosti probata dextera est. Sed. Nobis pedes.</p>
+  <p>Arm. Ardente Solyma, vertitur vitio fuga?</p>
+  <p>Totam malorum Iliada pestemque et famem</p>
+  <p>Memorare cogis memori? At ingrato iuvat</p>
+  <p>Memorare vel sic. Qui pedes laudas meos,</p>
+  <p>(95) Equos requiris? Fallitur quisquis putat</p>
+  <p>Solymae relictos; sessor absumptum gerit</p>
+  <p>Inusitato aenigmate sonipedem suum.</p>
+  <p>Bis Aquilo galeam sparsit hiberna nive</p>
+  <p>Glacieque in una stupuit hastili manum</p>
+  <p>(100) Haerere miles, bis sub aestiva cane</p>
+  <p>Animam aestuantem duximus. Nondum satis</p>
+  <p>Belli aut malorum est? Fare, quid prohibes dolor?</p>
+  <p>Quid anime refugis? Fare et invitus tuos</p>
+  <p>Luctus retracta. Tantuli e turba sumus</p>
+  <p>(105) Magna relicti. Querimur Assyriis hebes</p>
+  <p>Ferrum tamen fuisse, cum patria iacet</p>
+  <p>Sorte invidenda, quisquis hostili manu</p>
+  <p>Animam profudit. Pestis et caelum nocens,</p>
+  <p>Ignava fata, fortium robur virum</p>
+  <p>(110) Misere abstulistis. Solyma non uno fuit</p>
+  <p>Vincenda ab hoste. Quidquid horreri assolet</p>
+  <p>Pastus nefandi, dulce ieiunis fuit</p>
+  <p>Ipsa, ipsa mater (conscium testor diem,</p>
+  <p>Factum est, quod olim posteri factum negent</p>
+  <p>(115) Aut execrentur), dubia quem damnet neci,</p>
+  <p>Dum coniugem inter, inter et natum stetit,</p>
+  <p>Oblita matrem, ’Redde quodcumque es mei</p>
+  <p>O nate’, dixit, vixque tendenti manus</p>
+  <p>Aversa iugulum pressit et cultrum impio</p>
+  <p>(120) Defixit ictu. Volvitur leto puer</p>
+  <p>Manatque tenuis corpore exsangui cruor.</p>
+  <p>Exceptus ille est, ne quid infaustae dapis</p>
+  <p>Patri periret. Saepe ab incepto manus</p>
+  <p>Scelere resistunt, saepe se infelix parens</p>
+  <p>(125) In facinus urget. ’Perge, perfectum est nefas,</p>
+  <p>Infausta genitrix, perge, quod restat pium est,</p>
+  <p>Pascere maritum’, dixit et ferro secat</p>
+  <p>Medium cadaver, viscerum vellit fibras</p>
+  <p>Adhuc calentum, moxque frustatim suos</p>
+  <p>(130) Errans per artus, per lacertorum moras</p>
+  <p>Indocta foedae membra lanienae amputat,</p>
+  <p>Et quod malorum maximum in matre arbitror,</p>
+  <p>Defossa geminis lumina in specubus rigent</p>
+  <p>Negantque lacrymas, torva, sine sensu, furens</p>
+  <p>(135) Vt Baccha fertur. Fervet undanti latex</p>
+  <p>Iactatque aheno membra. Pars lento vera</p>
+  <p>Stillat cruenta, subdit invitas parens</p>
+  <p>Et hic et illic impio flammas rogo,</p>
+  <p>Partem in remoto provida recondit penu,</p>
+  <p>(140) Et esse tanto in scelere frugalem placet.</p>
+  <p>Epulae instruuntur denique. O fatum grave!</p>
+  <p>Vltra Thyestem est aliquid, et Graium leves</p>
+  <p>Vicimus Hebraei fabulas rerum fide</p>
+  <p>Caelo pudenda. Crimine alieno nocens</p>
+  <p>(145) Ignarus illic lancinat natos pater,</p>
+  <p>Nostri volentes, dumque praeclusae viam</p>
+  <p>Fauces malique conscium pectus negat,</p>
+  <p>Dum stomachus horret pollui infanda dape,</p>
+  <p>Pietatis omnem pertinax sensum furor</p>
+  <p>(150) Evicit, utero mater invito suos</p>
+  <p>Foetus regessit, et reluctanti viro</p>
+  <p>Scidit epulandos. I modo et fugam exprobra</p>
+  <p>Victasque Solymas, querere desertos lares</p>
+  <p>Vix semivivis. Proditum regnum voca,</p>
+  <p>(155) Alimenta quando pertinax nulla invenit</p>
+  <p>Rabies edendi, ni tuos forsan dares</p>
+  <p>Natos coquinae. Sed quid hic vanis diem</p>
+  <p>Terimus querelis? Fixa si penitus sedet</p>
+  <p>Mori voluntas, iungere et regno iurat</p>
+  <p>(160) Regem cadenti, facilis ad letum via est.</p>
+  <p>Redeamus illuc unde discessum est male,</p>
+  <p>Reddamur hosti, scilicet magno impius</p>
+  <p>Optarit emptum Medus, ut regem suis</p>
+  <p>Addat trophaeis, dubia quae merito facit</p>
+  <p>(165) Hostis superstes. Sed. Num Sedecias potest</p>
+  <p>Cuiquam timendus esse? Arm. Si vivit, potest.</p>
+  <p>Ludum insolentem ludit et miros habet</p>
+  <p>Fortuna reditus, quosque defecit gradu,</p>
+  <p>Alterna visens rursus in stabili locat.</p>
+  <p>(170) Sed. Opem sed unde rebus afflictis iubes</p>
+  <p>Sperare miseros? Arm. Vnde speramus nihil.</p>
+  <p>Nec sic tamen iacemus, ut nullus queat</p>
+  <p>Erigere lapsos. Mutuam pactus fidem</p>
+  <p>Socia arma iunxit, Pharia quem tellus colit</p>
+  <p>(175) Late tyrannum. Flectere huc cursum licet.</p>
+  <p>Parant amicos prospera, reposcunt fidem</p>
+  <p>Adversa. Sed. Poscunt, fateor, at raro impetrant.</p>
+  <p>Arm. Tentare liceat. Sed. Nempe Medi ut gratiam</p>
+  <p>Pharao tyranni capite mercetur meo,</p>
+  <p>(180) Pacis redemptae victima ut vilis cadam?</p>
+  <p>Arm. Legunt quieti praesidia, miseri occupant</p>
+  <p>Quodcumque asylum. Sed. Cum mori tempus vocat,</p>
+  <p>Precario vixisse post regnum pudet.</p>
+  <p>Arm. Matura quamvis fata nunc regi forent,</p>
+  <p>(185) Non sunt parenti. Coniugem, natos pater</p>
+  <p>Orbos relinques? Hanc tenent iussi viam</p>
+  <p>Carpuntque celeres. Fida sed quoties virum</p>
+  <p>Coniux requirit? Parva natorum manus</p>
+  <p>Tremente quoties ipsa cum silva tremens</p>
+  <p>(190) Vultus reflectit, trepida quem pone audiat</p>
+  <p>Hostem an parentem? Propera, ut adventu prior</p>
+  <p>Tueare inermes. Sequere, qua multum tui</p>
+  <p>Via antecessit. Sed. Solus inflectit meos</p>
+  <p>Amor ille sensus. Fateor hac victum trahis.</p>
+  <p>(195) Pro misera pietas! Cogis infelix patrem</p>
+  <p>Vitae perosum vivere et fugam exequi</p>
+  <p>Mori obstinatum. Testor immitem
+  <hi rend="italic">Deum</hi>.</p>
+  <p>Non trepidus hostem fugio. Vos, nati, sequor.</p>
+  <p><hi rend="bold">CHORVS I.</hi></p>
+  <p>Filii Prophetarvm.</p>
+  <p>’Impune pollicetur</p>
+  <p>(200) Sibi impius futurum,</p>
+  <p>Quoties vibrare lentus</p>
+  <p>Trisulca tela differt</p>
+  <p>Hominum deumque rector.</p>
+  <p>Nullus memor nefandi</p>
+  <p>(205) Fandique nostra curat;</p>
+  <p>Rapitur peritque iustus,</p>
+  <p>Premitur iacetque virtus;</p>
+  <p>Sceleri bene et scelesto est.</p>
+  <p>Adeste et innocenti</p>
+  <p>(210) Laqueum parate mecum,</p>
+  <p>Bona undecumque praeda est.</p>
+  <p>Sic impius, sed aequa</p>
+  <p>Qui lance cuncta librat,</p>
+  <p>Non surdus ultor audit.</p>
+  <p>(215) Raro poena fugax scelus</p>
+  <p>Claudo deseruit pede,</p>
+  <p>Compensat gravitas moram.</p>
+  <p>Iustum rebus in anxiis</p>
+  <p>Vindex aetheris arbiter</p>
+  <p>(220) Metu et fraudibus asseret.</p>
+  <p>Frustra faucibus imminet</p>
+  <p>Ductis impia factio,</p>
+  <p>Frustra ringitur invidus,</p>
+  <p>Caeco et murmure perstrepit,</p>
+  <p>(225) Iras denso ut in agmine</p>
+  <p>Et longos apis asperat</p>
+  <p>Non iam mellea bombos,</p>
+  <p>Aut spinae et tribuli leves</p>
+  <p>Subiecto ut crepitant foco.</p>
+  <p>(230) Frustra consiliantium</p>
+  <p>Coetus pervigil excubant</p>
+  <p>Et linguas acuunt suas,</p>
+  <p>Serpens ut trifidis micat</p>
+  <p>Vno gutture sibilis.</p>
+  <p>(235) Iustus propositi tenax</p>
+  <p>Fretus numine prospero</p>
+  <p>Cassos non timet impetus,</p>
+  <p>Vt qui rupis in arduo</p>
+  <p>Pastor vertice considens</p>
+  <p>(240) Insanum mare despicit.</p>
+  <p>Astu callidus et dolo</p>
+  <p>Doli prenditur artifex,</p>
+  <p>Haeret implicitus pedem</p>
+  <p>Plagis quas male tenderat.’</p>
+  <p>(245) Haec quondam cecinit sacer</p>
+  <p>Vates sub Solymae iugis</p>
+  <p>Nervis dulce loquacibus,</p>
+  <p>Verbis lene sonantibus,</p>
+  <p>Subiectasque Sionio</p>
+  <p>(250) Valles reddere vertici</p>
+  <p>Vocali docuit lyra</p>
+  <p>Iessaei genus inclytum.</p>
+  <p>Haec nuper Ieremias</p>
+  <p>Tetro in specu canebat,</p>
+  <p>(255) Quo principum immerentem</p>
+  <p>Retruserant furores.</p>
+  <p>Medio e lacu monebat,</p>
+  <p>Cum vix tenace limo,</p>
+  <p>Cum vix olente coeno</p>
+  <p>(260) Toto emineret ore:</p>
+  <p>Vel sic tamen rebelles</p>
+  <p>Regemque principesque</p>
+  <p>Toto increpabat ore.</p>
+  <p>Nunc aequus ille vindex,</p>
+  <p>(265) Suam suique vatis</p>
+  <p>Vltus vicem, rependit</p>
+  <p>Regi parem scelestis</p>
+  <p>Ducibusque talionem.</p>
+  <p>Fugitant paventque anbeli</p>
+  <p>(270) Rex ipse principesque,</p>
+  <p>Fugitant paventque frustra:</p>
+  <p>Victor superbus instat,</p>
+  <p>Tam iamque terga prendit.</p>
+  <p>Dabunt, dabunt scelesti</p>
+  <p>(275) Captiva colla vinclis,</p>
+  <p>Quae vatibus parabant.</p>
+  <p>At unus ille retro</p>
+  <p>Liber specu remissus</p>
+  <p>Bis Solyma capta cernit,</p>
+  <p>(280) Et barbaros verendus</p>
+  <p>Refulget inter hostes.</p>
+  <p>Nusquam praesidio <hi rend="italic">Deus</hi></p>
+  <p>Fallax destituet suos.</p>
+  <p>Orbis concidat et chaos</p>
+  <p>(285) Rerum dissolvat decus,</p>
+  <p>Illaesum caput erigent</p>
+  <p>Inter fragmina mundi.</p>
+</div>
+<div type="level1" xml:id="actvs-secvndvs.">
+  <head>5. ACTVS SECVNDVS.</head>
+  <p><hi rend="italic">Nabuzardan fugientem Sedeciam
+  insequitur et capit.</hi></p>
+  <p>Nabvzardan, Nvntivs.</p>
+  <p>Nab. Vt pedibus alas addit et vires timor!</p>
+  <p>Vix antegressos, longa et enectos fame</p>
+  <p>(290) Sequimur Hebraeos, plus tamen cursu valent.</p>
+  <p>Hic dubia rursus semita in plures abit</p>
+  <p>Vos, qua renascens vix bene affulget iubar,</p>
+  <p>Properate. Maior turba, qua Pharium est iter,</p>
+  <p>Mediumque Titan pendulus librat diem.</p>
+  <p>(295) Vos ite medii, abstrusa, defossa, invia</p>
+  <p>Lustrate celeres. Vile non petitur caput,</p>
+  <p>Nec praeda tenuis. Vnicum monitos volo:</p>
+  <p>Servate regem, regiae et stirpem domus</p>
+  <p>Tenete vinclis, quos Nabuchodonosoro</p>
+  <p>(300) Placet exhiberi. Ruite, et in vulgus truces</p>
+  <p>Saevite reliquum. Sistite hic reliqui gradum,</p>
+  <p>Captemus auras undique, haud longe reor</p>
+  <p>Abesse Hebraeos. Nae meis si laudibus</p>
+  <p>Accedat unum, currui ut iunctum meo</p>
+  <p>(305) Regem triumphi ferculum eximium traham.</p>
+  <p>Tum me beatum et caelitum excelsissimum!</p>
+  <p>Per gemina Phoebi lustra vix fractum Ilium</p>
+  <p>Asiaeque columen dirutum Argivi canant</p>
+  <p>Aut mentiuntur, nec meae possint tamen</p>
+  <p>(310) Officere laudit perfidae et nunquam satis</p>
+  <p>Solymae iacentes hac iacent stratae manu.</p>
+  <p>Puditum est Pelasgae fraudis. Vt fortes decet,</p>
+  <p>Vicere Medi. Quidquid ad regni caput</p>
+  <p>Tot ante regum struxit insanus labor,</p>
+  <p>(315) Ferro recisum est. Turrium immanes premunt</p>
+  <p>Suos ruinae. Facta per muros via est,</p>
+  <p>Quos qui iacentes videat, haud credat tamto</p>
+  <p>Potuisse sterni. Qualis erictis furit</p>
+  <p>Obicibus amnis, cum iugo montes fluunt</p>
+  <p>(320) Nivei soluto, miscet et caeli novas</p>
+  <p>Imber ruinas – ille per campos vagus</p>
+  <p>Vetitos, per arva fertur et tumidum undique</p>
+  <p>Diffundit agmen –, talis horrendum intonans</p>
+  <p>Miles per hostem caede molitur viam</p>
+  <p>(325) Ferrumque et ignem stringit utrovis ferens</p>
+  <p>Exitium. Hebraei morte non una cadunt:</p>
+  <p>Hunc flamma latebris pellit, ut stricto induat</p>
+  <p>Mucrone pectus; ille dum ferrum timet</p>
+  <p>Hostile, patriis eligens flammis mori,</p>
+  <p>(330) Mortem, sepulcrum quaerit, et domi invenit.</p>
+  <p>Solyma ululatu tota femineo sonant</p>
+  <p>Ipsosque terror paene victores subit.</p>
+  <p>Congesta patrum decora, caelatas trabes</p>
+  <p>Depascit ardor, regiam flammae ambiunt.</p>
+  <p>(335) Nec parcit ignis, parcere ut victor velit.</p>
+  <p>Non prohibet avidas flamma, non pestis manus;</p>
+  <p>Medios per aestus, inter ardentes globos</p>
+  <p>Semiusta miles spolia populator rapit.</p>
+  <p>Quique obstinatae taedio victus morae</p>
+  <p>(340) Damnabat arma nuper, auro nunc gravis</p>
+  <p>Spoliisque onustus gestit, et geminis lubent</p>
+  <p>Ignoscit annis. Gratius magno bonum est</p>
+  <p>Quodcumque constat, pretia commendat labor.</p>
+  <p>Sed quid moratur miles huc regem mihi</p>
+  <p>(345) Pertrahere vinctum? Salva si nostros fugit</p>
+  <p>Haec praeda casses, non satis victas reor</p>
+  <p>Mihi esse Solymas; contumax notum est caput,</p>
+  <p>Noti rebelles. Rursus indomita parent</p>
+  <p>Cervice bellum, plebis ingenium ferae</p>
+  <p>(350) Vel inde disce, liberis saturi suis</p>
+  <p>Fugiunt parentes. Quis vagus campis Geta,</p>
+  <p>Quis inhospitali Caucaso, aut mediis satus</p>
+  <p>Scythiae pruinis tam ferum potuit nefas?</p>
+  <p>At quem citato video praecipitem gradu?</p>
+  <p>(355) Libet ire contra. Fare: quo res est loco?</p>
+  <p>Nvn. Dux magne salve! Salva res, salva omnia.</p>
+  <p>Nab. Rex ergo captus? Nvn. Captus. Nab. O laetum diem!</p>
+  <p>Vivo, triumpho. Sed rei gestae ex fide</p>
+  <p>Seriem recense. Nvn. Dum feram hinc illinc vagis</p>
+  <p>(360) Venamur oculis, forte decusso orbita</p>
+  <p>Notata rore est, qua pedum vestigiis</p>
+  <p>Iamiam subactam gramen attollit comam,</p>
+  <p>Dum ferimur illuc et datas praedae notas.</p>
+  <p>Sequimur anheli, sensit adventum prior</p>
+  <p>(365) Rex ipse nostrum. Sensit et vultum simul,</p>
+  <p>Simul arma flectens. ’Sistite o socii fugam,</p>
+  <p>Tenemur,’ inquit, ’non decet tergo viros</p>
+  <p>Excipere mortem, pectus adversum date,</p>
+  <p>Ferte arma in hostem.’ Sic miser frustra suos</p>
+  <p>(370) Increpitat; illi densa per nemorum impigre</p>
+  <p>Dumeta reptant, quemque qua subigit timor.</p>
+  <p>Vt abesse socios vidit et nudum latus,</p>
+  <p>Infremuit amens. Aggerat furias dolor,</p>
+  <p>Furiae dolorem; nec pudor turpes sinit</p>
+  <p>(375) Captare latebras. Ergo non dubius mori,</p>
+  <p>Per tela et agmen pronus adversum ruit,</p>
+  <p>Suaque lacessens fata, fulmineum rotat</p>
+  <p>Ensem huc et illuc, quaque pilorum seges</p>
+  <p>Cuspidibus horret densior, cursum incitat.</p>
+  <p>(380) Qualis cruentus inter Armenias leo</p>
+  <p>Deprensus hastas, asper et dirum infremens</p>
+  <p>Cervice totas excutit fulva iubas,</p>
+  <p>Strictoque nunc hos dente, nunc illos petit.</p>
+  <p>Nos, quando iussa non sinunt aliud tua,</p>
+  <p>(385) Eximus arte vulnera, aut clypeo cadunt.</p>
+  <p>Miratur ipse indigna tam lentos pati</p>
+  <p>Impune ab uno, cominus nullum sibi</p>
+  <p>Conserere dextram, dumque violento imminens</p>
+  <p>Furore in ictum surgit, ingentem impetum</p>
+  <p>(390) Aereique triplices non ferens clypei moras</p>
+  <p>Dissiluit ensis, haesit ignotum intuens</p>
+  <p>Capulum atque inermem dexteram. At turba undique</p>
+  <p>Clamore in unum tota sublato volat</p>
+  <p>Centumque frustra manibus obnixum premit.</p>
+  <p>(395) Nab. Facere imperata militis primum est decus,</p>
+  <p>Non quidquid ira suaserit, temere obvium</p>
+  <p>Truncare ferro, sistere ardentem impetum</p>
+  <p>Vel inter arma, iamque libratam manum</p>
+  <p>Revocare ab ictu, cum tuba receptum canit.</p>
+  <p>(400) Per iacta passim spolia, per fusas opes</p>
+  <p>Hostem irretorto lumine fugacem sequi,</p>
+  <p>Hoc militare est. Nunc et hoc nostrum reor,</p>
+  <p>Dispicere restris paria quae meritis queant</p>
+  <p>Praemia reponi. Faxo ne fraudi sient</p>
+  <p>(405) Neglecta cuiquam spolia, dum sequitur ducem.</p>
+  <p>Quid vero regis liberi? An tutum tenent?</p>
+  <p>Nvn. Iam puto tenentur. Vix enim exiguo patrem</p>
+  <p>Spatio anteibant, ut fugaces prodere</p>
+  <p>Regis ministros mors prope admota impulit.</p>
+  <p>(410) Nab. Sapienter istud. Emica actutum in pedes</p>
+  <p>Qua te antecedit rumor, et nostro refer</p>
+  <p>Haec certa regi, Reblathis quantocyus</p>
+  <p>Victosque Hebraeos meque victorem affore.</p>
+  <p>At at propinquo tremuit armorum sono</p>
+  <p>(415) Concussa tellus; militem agnosco meum.</p>
+  <p>Rex ecce trahitur vinctus.</p>
+  <p>Nabvzardan. Sedecias.</p>
+  <p>Infandum caput,</p>
+  <p>Rebelle, vecors, ergo sperabas meas</p>
+  <p>Evadere manus? Siccine? Incensae ruant</p>
+  <p>Tuo igne Solymae, concidat regni status,</p>
+  <p>(420) Regisque scelera populus immeritus luat,</p>
+  <p>Dum tu malorum machinator facinorum</p>
+  <p>Bustumque patriae, tota quem numquam satls</p>
+  <p>Solyma obruisset, subtrahis leto caput?</p>
+  <p>At si obstinate sederat nunquam iugum</p>
+  <p>(425) Subire nostrum, quin prius dira omnia,</p>
+  <p>Pestemque et ignes et famem et bellum pati</p>
+  <p>Et cuncta ferre, ferre quae obsessus potest,</p>
+  <p>Post strata flammis Solyma, post pestem et famem</p>
+  <p>Cui te reservas deinde? Quae regna altera</p>
+  <p>(430) Perdenda restant? Melius ardentem rogum</p>
+  <p>Patriae subisses funus extremum tuae:</p>
+  <p>Rex occidisses. Perditum an tanti fuit</p>
+  <p>Superesse, posthac ut tibi frustra invoces</p>
+  <p>Mortem relictam? Vile ludibrium hostium,</p>
+  <p>(435) Vivax miseriis tempus ut quaeras tuis?</p>
+  <p>Sed. Quaecumque amarus ingeris victor probra,</p>
+  <p>Audire merui. Fateor et sero pudet.</p>
+  <p>Parum rebellis, contumax parum fui.</p>
+  <p>Res est inepta, facere perfidiae modum.</p>
+  <p>(440) Post pertinaces hactenus belli moras,</p>
+  <p>Post tot meorum funera hoc unum dolet,</p>
+  <p>Vestro quod igne Solyma non nostro iacent.</p>
+  <p>Hac si deinceps stare non poterant manu,</p>
+  <p>Poterant perire. Cuncta cumulassem prius</p>
+  <p>(445) Quibus superbis spolia et ardenti super</p>
+  <p>Cumulo irruissem. Trahere labentem omnia</p>
+  <p>Regem decebat. Nec tamen iactes tuos</p>
+  <p>Tantum triumphos, non tua victos premis</p>
+  <p>Virtute Hebraeos: Solyma consumpsit lues,</p>
+  <p>(450) Tu diruisti, faciei et imbellis potest</p>
+  <p>Iactare flammas. Nabvz. Captus armatum improbo</p>
+  <p>Lacessit ore? Sed. Qui mori lucrum putat,</p>
+  <p>Lacessero hostem captas armatum potest.</p>
+  <p>Nabvz. Procace lingua melior, armatas fugis,</p>
+  <p>(455) Pugnas inermis? Sed. Arma si reddi iubes,</p>
+  <p>Manu refellam quidquid obiectas probri.</p>
+  <p>Nabvz. Hoc facere Solymis decuit. Sed. Et factum fuit</p>
+  <p>Nabvz. Cum prae se Hebraeos miles Assyrius canes</p>
+  <p>Ageret fugaces. Sed. Persicas inter nurus</p>
+  <p>(460) Narrare captam forte cum Solymam voles;</p>
+  <p>Adversa vestris tela vix aliquot bene</p>
+  <p>Tenuisse in urbe militum larvas refer,</p>
+  <p>Quos sola macies, luridi et vultus color</p>
+  <p>Faceret timendos. Nabvz. Facile frustrari impetam</p>
+  <p>(465) Hostilem ab altis turribus quivis potest,</p>
+  <p>Et trahere bellum. Sed. Facile, si ignavi obtident.</p>
+  <p>Nabvz. Laudes sceleste pergis argutis meas</p>
+  <p>Obterere dictis? Faxo ut hic sidat tumor</p>
+  <p>Et agere victum doctus assuescas malis,</p>
+  <p>(470) Caeca ut reclusus nocte, poedore obsitus,</p>
+  <p>Tecum ipse statuas victor, an victus sies.</p>
+  <p>Sed. Fortuna miserum facere, non timidum potest.</p>
+  <p>Exsilia, mortem, mille poenarum modos,</p>
+  <p>Quamque his et illis esse peiorem reor</p>
+  <p>(475) Minare vitam, carcere et vinclis preme.</p>
+  <p>Exstabit animus liber, invictus, suus.</p>
+  <p>Nabvz. Sic te esse iubeo liberum, invictum, tuum.</p>
+  <p><hi rend="bold">CHORVS SECVNDVS.</hi></p>
+  <p>Filiae Sion.</p>
+  <p><hi rend="italic">Ex cap. 2. Lament. Ieremiae.</hi></p>
+  <p>Eheu! Quantis mersit tenebris</p>
+  <p>Solyma iratus superum Rector!</p>
+  <p>(480) Eheu! Quanto turbine vertit</p>
+  <p>Celsa aetheriae tecta Sionis!</p>
+  <p>Quae surgebant aemula caelo,</p>
+  <p>Nunc aequa solo culmina fumant.</p>
+  <p>Dum prona suo frena furori</p>
+  <p>(485) Laxat, avitae nil memor aedis,</p>
+  <p>Sacra profanis culmina miscens,</p>
+  <p>Vna obvolvit cuncta ruina.</p>
+  <p>Regibus olim condita priscis</p>
+  <p>Monumenta patrum subruit ultor,</p>
+  <p>(490) Celsis positas montibus arces,</p>
+  <p>Moenia fossis collapsa suis,</p>
+  <p>Planum Assyriis constravit iter</p>
+  <p>Nobile regum, regnique duces,</p>
+  <p>Fortia bello pectora, Medo</p>
+  <p>(495) Dare ludibrium pertulit hosti.</p>
+  <p>Ipse, ipse animos fregit Iudae.</p>
+  <p>Ipse, ipse animos surgere Persis</p>
+  <p>Dedit et robur numine dextro,</p>
+  <p>Cum praecipites agitant nostros</p>
+  <p>(500) Moenia circum, dum cuncta metunt</p>
+  <p>Obvia ferro, ceu flamma leves</p>
+  <p>Agitata notis haurit aristas.</p>
+  <p>Fuit ille, fuit tutela suis.</p>
+  <p>Nunc crudelem versus in hostem</p>
+  <p>(505) Tela infenso dirigit arcu,</p>
+  <p>Nervum adductis cornibus urget.</p>
+  <p>Figit medium, mediumque fugit</p>
+  <p>Pectus arundo morte relicta,</p>
+  <p>Quemque, ut forma et robore praestat,</p>
+  <p>(510) Primum ignato destinat orco.</p>
+  <p>Quas continuit pressitque diu,</p>
+  <p>Irarum omnes fundit habenas.</p>
+  <p>Ignis ut arcto fornice clausus</p>
+  <p>Furit effracto fornice victor.</p>
+  <p>(515) Non quassa iacent ariete Medo</p>
+  <p>Moenia Solymae, murum hostili</p>
+  <p>Turresque manu <hi rend="italic">Deus</hi>
+  armipotens</p>
+  <p>Vertit ab imo. <hi rend="italic">Deus</hi> ipse
+  tuos</p>
+  <p>Iuvenes leto mersit acerbo et</p>
+  <p>(520) Totam opplevit cladibus urbem.</p>
+  <p>Quod sibi quondam penetrale sacrum</p>
+  <p>Proprio voluit iure dicatum,</p>
+  <p>Hosti cessit praeda profano,</p>
+  <p>Vt disiectis sepibus hortus,</p>
+  <p>(525) Quem foedarum ruit ingluvies</p>
+  <p>Vertitque suum. Nil sacra movent</p>
+  <p>Otia, festum et sabbata damnat,</p>
+  <p>Capita Superis proxima, regem et</p>
+  <p>Nihilo Mystam rege minorem,</p>
+  <p>(530) Ludum Assyriis dedit opprobriis.</p>
+  <p>Vix nota suis ara sacrificis.</p>
+  <p>Nunquam externo violata pede,</p>
+  <p>Pervia cuique est. Atria ovantum</p>
+  <p>Vndique plausus sacra volutant,</p>
+  <p>(535) Vt cum festo carmine nuper</p>
+  <p>Personat aedes, at nunc alios</p>
+  <p>Impia pangunt agmina cantus.</p>
+  <p>Nec praecipiti nos mente
+  <hi rend="italic">Deus</hi></p>
+  <p>Dedit exitio; digerit olim</p>
+  <p>(540) Haec fata sciens, neu nostra putes</p>
+  <p>Temere verti. Librata suo</p>
+  <p>Aere pependit linea, Solymae</p>
+  <p>Dum tecta solo funditus aequat,</p>
+  <p>Dum celsa cadunt moenia et ipsum</p>
+  <p>(545) Quod celsa tegit moenia vallum.</p>
+  <p>Defossa suis aerata latet</p>
+  <p>Porta ruinis. Solido vectis</p>
+  <p>Fusus aheno, sera non uno</p>
+  <p>Obdita ferro, contrita iacent.</p>
+  <p>(550) Soliti portis iura sub altis</p>
+  <p>Reddere proceres nunc illa timent,</p>
+  <p>Quae dat victrix iura libido.</p>
+  <p>Heu ubi sanctae regula legis?</p>
+  <p>Vbi fatidicum carmina vatum?</p>
+  <p>(555) Populo nullus ventura canit,</p>
+  <p>Aut sua vanus somnia narrat.</p>
+  <p>Rigidis tecti corpora villis</p>
+  <p>Iacuere senes, tepido crinem</p>
+  <p>Cinere sparsi. Prohibet nullus</p>
+  <p>(560) Hoc de Solymis sumere victor.</p>
+  <p>Virgo pudicas laniata genas,</p>
+  <p>Virgo solutas lacerata comas,</p>
+  <p>Patriae sese in pulvere versat.</p>
+  <p>Tabida longo lumina fletu</p>
+  <p>(565) Acies sensim tenuata fugit.</p>
+  <p>Intima torquet viscera luctus,</p>
+  <p>Felleum amaras iecur in lacrymas</p>
+  <p>Abit effusum, terramque rigat,</p>
+  <p>Dum tot in unam congesta diem</p>
+  <p>(570) Mala ploramus: cum depositi</p>
+  <p>Solymae propter compita passim</p>
+  <p>Pueri dulces linquunt animas,</p>
+  <p>Pressoque infans ubere frustra</p>
+  <p>Moritur primo in limine vitae.</p>
+  <p>(575) At quibus aetas grandior os iam</p>
+  <p>Vocemque dedit: ’Heu ubi panis?</p>
+  <p>Heu ubi, mater optima, vinum est?’</p>
+  <p>Miseri clamant, voceque in ipsa</p>
+  <p>Defecta calor membra relinquit.</p>
+  <p>(580) At si qua pio natum exanimem</p>
+  <p>Fovet amplexu, gremio hic matris</p>
+  <p>Animam reddens colla reclinat.</p>
+  <p>Quibus assimilem tua fata Sion?</p>
+  <p>Quibus exemplis relevare parem?</p>
+  <p>(585) Miseri miserum hoc solamen habent,</p>
+  <p>Similis socios memorare mali.</p>
+  <p>At nemo tuis cladibus usquam</p>
+  <p>Aequando tulit. Premeris toto ut</p>
+  <p>Obruta ponto, nec opem in tantis</p>
+  <p>(590) Quisquam aerumnis ferre laborat.</p>
+  <p>Quis ferre tamen (fac velle) queat?</p>
+  <p>Somnia vates delira tibi</p>
+  <p>Cecinit blandus, nimiumque favens</p>
+  <p>Scelera obtexit. Nemo salubres</p>
+  <p>(595) Gemitus morit, quibus infensum</p>
+  <p>Provida posses flectere Numen.</p>
+  <p>Tibi Niliacis affore ab oris</p>
+  <p>Spondebat opem, tibi Chaldaeas</p>
+  <p>Marte secundo pellere turmas,</p>
+  <p>(600) Sed spe miseram lusit inani.</p>
+  <p>Nunc qui Solymae collapsa videt</p>
+  <p>Tecta viator, manibus plausum</p>
+  <p>Geminis tollit motansque caput,</p>
+  <p>Illane Solyma est nobilis, inquit,</p>
+  <p>(605) Tot populorum regia nutrix?</p>
+  <p>Illane ocellus mundique decus?</p>
+  <p>Inhiant patulis rictibus hostes,</p>
+  <p>Acuunt pressis dentibus iras</p>
+  <p>Stridentque feri, sibila vibrant</p>
+  <p>(610) Anguis ad instar. ’Celeres’, aiunt,</p>
+  <p>’Currite socii, rapite incensas</p>
+  <p>Avidi Solymas, vertite ab imo.’</p>
+  <p>Quantum Isacidum est, Medum agminibus</p>
+  <p>Quantula praeda est? En illa dies</p>
+  <p>(615) Vltima Hebraeia, festa Assyriis</p>
+  <p>Tandem illuxit. Bene habet: votis</p>
+  <p>Lucem adspicimus mille petitam</p>
+  <p>Per tam longi taedia belli.</p>
+  <p>Quaecumque <hi rend="italic">Deus</hi> tibi fata,
+  Sion,</p>
+  <p>(620) Sanxerat olim, quae praesaga</p>
+  <p>Fuerant vates mente locuti,</p>
+  <p>Nimis heu veris rebus adimplet.</p>
+  <p>Nescius ulli parcere saevit</p>
+  <p>Durus in omnes, gaudere tuis</p>
+  <p>(625) Dedit immitem cladibus hostem,</p>
+  <p>Celsumque tua stare ruina.</p>
+  <p>Taciti cives patriae e busto</p>
+  <p>Timidis caelum questubus implent.</p>
+  <p>Et tu miserae nata Sionis</p>
+  <p>(630) Funde perennes oculis rivos,</p>
+  <p>Non nocte tibi, non luce tibi</p>
+  <p>Requiem indulge, madeant geminae</p>
+  <p>Vsque assiduo pupulae ab imbri.</p>
+  <p>Nec te pigeat nocte silenti,</p>
+  <p>(635) Vigilum quoties nocturna dabit</p>
+  <p>Buccina signum, duro corpus</p>
+  <p>Tollere strato serasque <hi rend="italic">Deo</hi></p>
+  <p>Dicere laudes, nivis in morem</p>
+  <p>Vere solutae Domino coram</p>
+  <p>(640) Cor funde pium, tolle pudicas</p>
+  <p>Cum voce manus et sparsa viis</p>
+  <p>Iuvenum memora corpora totis:</p>
+  <p>Pietate <hi rend="italic">Deus</hi> tangitur ista.</p>
+  <p>Adspice caelo pater Abramidum,</p>
+  <p>(645) Aspice quam tot caedibus urbem</p>
+  <p>Viduam linquas. Ergone placet,</p>
+  <p>Quae membra manu mollia finxit,</p>
+  <p>Eadem truncet sua discerpens</p>
+  <p>Viscera mater? Penetrale sacrum</p>
+  <p>(650) Proprio Mystae sanguine foedant,</p>
+  <p>Proprio vates. Num forte iubes</p>
+  <p>Cruor ille tuas imbuat aras?</p>
+  <p>Puerum obscoenae sparsa volucres</p>
+  <p>Corpora tundunt, inhumata senum</p>
+  <p>(655) Membra superstant, ferro pariter</p>
+  <p>Iuvenes trunci et nubilis aetas</p>
+  <p>Stravere vias. Heu saeva dies!</p>
+  <p>Semperque tua nobilis ira!</p>
+  <p>Funesta dies! Quae communi</p>
+  <p>(660) Regnum exitio regemque tulit,</p>
+  <p>Dum tu venia flecti indocilis</p>
+  <p>Sternis similis cuncta furenti.</p>
+  <p>Vt sacra Deum festa quotannis</p>
+  <p>Populi circum turba frequentat,</p>
+  <p>(665) Non secus hostes coiere mei,</p>
+  <p>Nimium celeres tua iussa sequi.</p>
+  <p>Cinxere meos aggere cives,</p>
+  <p>Nemo ut vigiles fallere tecto</p>
+  <p>Tramite posset, nemo furoris</p>
+  <p>(670) Immune tui servare caput.</p>
+  <p>Quae tot alebam regia mater</p>
+  <p>Gremio natos laeta superbo,</p>
+  <p>Orba, infelix, qua voce parens</p>
+  <p>Deinde vocabor? Barbarus hostis</p>
+  <p>(675) Aetherque nocens et dira fames</p>
+  <p>Vario hauserunt funere ad unum</p>
+  <p>Cara relictae pignora matris.</p>
+</div>
+<div type="level1" xml:id="actvs-tertivs.">
+  <head>7. ACTVS TERTIVS.</head>
+  <p><hi rend="italic">Nabuchodonosor victoria elatus
+  adversus Deum insolescit, Sedeciae insultat et dira quaeque
+  minitatur.</hi></p>
+  <p>Nabvchodonozor. Ieremias.</p>
+  <p>Nab. Quem, Phoebe, nostro cernis imperio parem,</p>
+  <p>Quacumque Nereus incoli terras sinit,</p>
+  <p>(680) Seu retegis orbem melior et primis novus</p>
+  <p>Occurris Indis, spatia seu mensus poli</p>
+  <p>Currus Ibero tingis emeritos freto?</p>
+  <p>Iam ter rebelles ferre ter domiti sciunt</p>
+  <p>Victorem Hebraeis posuit Aegyptus minas</p>
+  <p>(685) Sociasque vidit ruere et aequari solo</p>
+  <p>Quieta Solymas. Genere mortali altior,</p>
+  <p>Par gradior astris, omnis aut unum adspicit</p>
+  <p>Dominum subactus orbis, aut unum timet</p>
+  <p>Lacessere hostem, foedus Assyrium ultimi</p>
+  <p>(690) Hominum reposcunt lege qua victi solent.</p>
+  <p>Caelum est relictum, dignus est nostris labor,</p>
+  <p>Dignus trophaeis. Iuppiter posthac mihi</p>
+  <p>Certare solus ausit, et nisi abditus</p>
+  <p>Caelo lateret, si pedem liceat pedi</p>
+  <p>(695) Conferre, vincam. Memet habuisset ducem</p>
+  <p>Terrigena miles, qui gravi Pindum iugo</p>
+  <p>Imposuit Ossae, tertium ad superos gradum</p>
+  <p>Struxissem Olympo. Quid deum turbam moror?</p>
+  <p>Si sunt tamen di. Iuppiter caelo imperet</p>
+  <p>(700) Ventosque sensus domitet expertes, meum est</p>
+  <p>Regnare vivis. Imbribus caelum obtegat,</p>
+  <p>Tegam ipse telis. Gravior at nubes cadet</p>
+  <p>Quam concitaro: fulmen incertum vibret</p>
+  <p>Non deligenti saxa diffringens manu,</p>
+  <p>(705) Timidosque inani territet populos sono.</p>
+  <p>Non haec trisulcum dextra, sed telum vibrat</p>
+  <p>Quo destinatum certius figit caput.</p>
+  <p>At te quis animi devium exagitat furor</p>
+  <p>Recutite Iuda, numen ut toties meum</p>
+  <p>(710) Demens lacessas? Moveram regno duos</p>
+  <p>Reges paterno, tertium indignum aetheris</p>
+  <p>Vitalis haustu, Marte bis fractum meo,</p>
+  <p>Solio locaram; rursus intumuit ferox,</p>
+  <p>Residesque in arma compulit populos. Luat,</p>
+  <p>(715) Luat scelestus, sentiat quidquid grave</p>
+  <p>Iratus audet victor, aut victus timet.</p>
+  <p>Quaerit rebellem, quisquis ingratum male</p>
+  <p>Sceptro reponit. Nempe si invisum genus,</p>
+  <p>Natos, parentes ultor extinxem prius,</p>
+  <p>(720) Non deinde toties aliud ex alio serant</p>
+  <p>Bellum nepotes. Perfidos nasci puto,</p>
+  <p>Vt nemo doceat. Nulla tam fixa inditur</p>
+  <p>Natura soboli, nulla tam certo obvenit</p>
+  <p>A patre rebelli liberis hereditas.</p>
+  <p>(725) Bene est: tenetur tota cum catulis fera.</p>
+  <p>Nullum relinquam stirpis infandae super.</p>
+  <p>Huc pertrahantur. At quis e contra gradum</p>
+  <p>Taciturnus infert vestis ignotae senex?</p>
+  <p>Ier. Rex magne, vatem sponte captivum adspicis,</p>
+  <p>(730) Cui dira Solymae excidia, cui totam dedit</p>
+  <p>Seriem malorum nosse regnorum Arbiter.</p>
+  <p>Ni mens fuisset laeva, fatorum minas</p>
+  <p>Pridem imminentum potuit admonitu meo</p>
+  <p>Vitare Iudas. Potuit, at tumidi duces</p>
+  <p>(735) Inauspicata tela sumpserunt manu.</p>
+  <p>Traxere bellum, cuius Assyrium quoque</p>
+  <p>Misereret hostem, plusque poenarum tibi</p>
+  <p>Volens pependit Solyma, quam possis ferus</p>
+  <p>Exigere victor. Pace sed dici hoc tua</p>
+  <p>(740) Liceat: suorum scelere, non vestro Sion</p>
+  <p>Excisa ferro est. Alibi regnorum decus</p>
+  <p>Huc ferat et illuc aura fortunae levis,</p>
+  <p>Nostri ille Rector, cuius aeterno omnia</p>
+  <p>Nutu feruntur, imperi ad clavum sedet</p>
+  <p>(745) Rerumque taxat moribus nostris modum.</p>
+  <p>Te, quem secundo bella successu efferunt,</p>
+  <p>Animos feroces premere, moderari impetum,</p>
+  <p>Memoremque sortis esse communis decet.</p>
+  <p>Suis ruinis Solyma quem tumidum facit,</p>
+  <p>(750) Tumidum domaret melius. Hoc Babylon loco est,</p>
+  <p>Vnde illa cecidit: quique momento obrui</p>
+  <p>Imperia nosti victor, ipse mox tuo</p>
+  <p>Docere id ipsum victus exemplo potes.</p>
+  <p>Nec mille forsan ducibus aut annis moram</p>
+  <p>(755) Facies duobus. Fata quam paucis
+  <hi rend="italic">Deus</hi></p>
+  <p>Tam lenta dixit? Vna nonnumquam dies</p>
+  <p>Funere triumphos mutat et famulo ducem.</p>
+  <p>Haec tu memento, quoque fortunae altius</p>
+  <p>Te laeta tollit, levius afflictos preme:</p>
+  <p>(760) <hi rend="italic">Deum</hi> faventem metue
+  nec tutum puta</p>
+  <p>Efferre cuiquam contumax caelo caput.</p>
+  <p>Nab. Sua cuique dextra est, quod
+  <hi rend="italic">Deum</hi> populi vocant.</p>
+  <p>Ier. At illud unde est quod tuam dextram vocas?</p>
+  <p>Nab. Mene ergo terrae filium aut fungum putas?</p>
+  <p>(765) Non sunt parentes? Ier. At suae parentibus</p>
+  <p>Dextrae fuerunt. Vnde? Nab. Quem captas senex,</p>
+  <p>Regem an sophistam? Ier. Neminem est animus meis</p>
+  <p>Captare verbis, nec tamen nostrum arbitror</p>
+  <p>Palpare reges. Rex es, at te hominem decet</p>
+  <p>(770) Meminisse eundem: purpuram et regni notas</p>
+  <p>Natura nescit, quae sinu nudos dedit</p>
+  <p>Nudosque recipit. Nab. Iure nascendi pares</p>
+  <p>Fortuna post discrevit. Ier. An sorte haec regi,</p>
+  <p>Nutune potius mentis aeternae putas?</p>
+  <p>(775) Nab. Fortuna magnum est numen, aut nullum reor.</p>
+  <p>Ier. Fortuna nullum est numen, aut caecum puta.</p>
+  <p>Non deligenti dona si spargit manu,</p>
+  <p>Cur colitur aris, nulla quae merita adspicit?</p>
+  <p>Frustra es colendo, demereri cum nequis.</p>
+  <p>(780) Sin merita prudens pensat et votis favet,</p>
+  <p>Fortuna non est. Nab. Fata, fortunam voca, aut</p>
+  <p>Quodcumque tandem volvit humanas vices,</p>
+  <p>Nisi ille potius, quem sibi quivis manu</p>
+  <p>Sancire poterit, ordo fatorum manet.</p>
+  <p>(785) Ier. Aequumne fuit, summus ut rerum parens,</p>
+  <p>Quae cuncta sapiens condidit, casu sinat</p>
+  <p>Neglecta ferri, ut quidlibet temere audeat</p>
+  <p>Libido inulta? Num tuo morem hunc velis</p>
+  <p>Regno obtinere, regis ut nullo metu</p>
+  <p>(790) Legumque nullo quisque quod lubitum est nefas</p>
+  <p>Designet ultro? Nab. Quid si et hoc mundi decus</p>
+  <p>Temere coisse nobiles censent Magi?</p>
+  <p>Cur sorte nequeat, sorte quod natum est, regi?</p>
+  <p>Ier. Sublime flammas mille qui appensas videt,</p>
+  <p>(795) Stabilique caelos rite volventes vice</p>
+  <p>Lunae labores. Solis eximium iubar</p>
+  <p>Nunc alta scandens spatia radiati aetheris,</p>
+  <p>Nunc capita gyro nostra propiori legens,</p>
+  <p>Libransque toti lance bis iusta diem</p>
+  <p>(780) Noctemque mundo. Cernere haec inquam potest</p>
+  <p>Ostenta rerum, credit et caecum chaos,</p>
+  <p>(Magis ipse caecus) cuncta dum miscet, sinu</p>
+  <p>Forte omnia extudisse? Pars mundi quota est</p>
+  <p>Vestra illa Babylon, quam tot artificum manus</p>
+  <p>(785) Vix condiderunt? Nemo quae certa undique</p>
+  <p>Ratione constant esse fortunae putat.</p>
+  <p>Nab. At ille Olympi si quis est rector polum</p>
+  <p>Habet, habeatque, dum tamen terras sinat</p>
+  <p>Nobis regendas: sorte divisum mihi</p>
+  <p>(790) Non invidenda cum Iove imperium feram.</p>
+  <p>Ier. Mundi ille rector, qui tibi superbas dedit</p>
+  <p>Frenare gentes, hoc tributum regibus</p>
+  <p>Imperat, honorem et Numinis iaesi metum.</p>
+  <p>Reges timendi gregibus imperitant suis,</p>
+  <p>(795) Maior minores territat reges
+  <hi rend="italic">Deus</hi>.</p>
+  <p>Tute ipse nostrum carcere et vinclis premis.</p>
+  <p>Sibi perduelles non domet reges
+  <hi rend="italic">Deus</hi>?</p>
+  <p>Nab. Nequit rebellis esse qui nulli fidem</p>
+  <p>Obstrinxit. Ier. At qui condidit, cunctos sibi</p>
+  <p>(800) Obstrinxit idem. Lege non alia sumus.</p>
+  <p>Quis cum parente pactus in manum venit,</p>
+  <p>Dicto audientem filiam et fragi fore?</p>
+  <p>Dei et parentum nascimur, non vendicat</p>
+  <p>Mancipio abactum filium ut praedam pater.</p>
+  <p>(805) Nab. At enim parentum nota maiestas palam,</p>
+  <p>Et nota regum, facere si iussa abnuis,</p>
+  <p>Vindex potestas. Quod coli Numen iubes,</p>
+  <p>Si nemo novit, si scelestis integrum</p>
+  <p>Addit, et utrosvis fulminum afflatu petit?</p>
+  <p>(810) Ier. Documentum in ingens regibus Hebraei sumus,</p>
+  <p>Quam certa Superi damna neglecti ferant.</p>
+  <p>Nec tibi superbo cuncta si ad votum fluunt,</p>
+  <p>Sic fuerit olim: vindicem agnosces
+  <hi rend="italic">Deum</hi>.</p>
+  <p>Saepe ille seram, sed gravem poenam exigit.</p>
+  <p>(815) Nab. Longinqua narras. Tempore accepto interim</p>
+  <p>Vtamur. Ier. Ecquod tempus acceptum vocas,</p>
+  <p>Cum polliceri crastinum nemo audeat?</p>
+  <p>Nab. Cane ista Hebraeis, numina et vates mihi</p>
+  <p>Timent minari. Si meis quisquam audeat</p>
+  <p>(820) Obstare votis, obruam Mystas suis</p>
+  <p>Deosque templis. Ier. Obrui putris queunt</p>
+  <p>Ludibria trunci, stulta quae Persis colit,</p>
+  <p>At ille noster qui tenet caelum
+  <hi rend="italic">Deus</hi></p>
+  <p>Nusquam tenetur clausus et nusquam deest,</p>
+  <p>(825) Mortaliumque fata, regnorum vices,</p>
+  <p>Non fortuita caecus ex urna movet,</p>
+  <p>Sed mente longe provida rerum modum</p>
+  <p>Metasque ponit. Nab. Regna, regnorum status,</p>
+  <p>Martem secundum, vota in hac posui manu.</p>
+  <p>(830) Precario regnatur, ubi capiti imminet</p>
+  <p>Maior potestas. Ier. Qui <hi rend="italic">Deo</hi>
+  subdi abnuit,</p>
+  <p>Regnare longum non potest. Nab. Possum, abnuo,</p>
+  <p>Testorque nullos esse qua regno Deos.</p>
+  <p>Abscede vates: trahitur en vinctus mihi</p>
+  <p>(835) Rex perduellis.</p>
+  <p>Nabvchodonosar. Sedecias. Filii Sedeciae.</p>
+  <p>Tene ego infandum caput</p>
+  <p>Aspicio? Sed quo perfidum cultu decet.</p>
+  <p>Hac spe paterna sceptra moderari manu</p>
+  <p>Dederam immerenti, bella ut ingratus mihi</p>
+  <p>Hostis reponas? Sed. Fateor, ingratum tenes,</p>
+  <p>(840) Sontem, rebellem, dira supplicia ingere,</p>
+  <p>Ferrumque et ignes, mille per mortes neca.</p>
+  <p>Nil deprecabor meritus, at talem quoque</p>
+  <p>Aliquid rogare liberum infelix manus</p>
+  <p>Cogit parentem; parce puerornm indoli,</p>
+  <p>(845) Et quos tenellae primus aetatis decor</p>
+  <p>Subducit irae, victor indignos puta</p>
+  <p>Quorum cruentes sanguine ultricem manum.</p>
+  <p>Non illud oro, pristinae ut sortis decus</p>
+  <p>Nomenque teneant. Liberis hanc spem meis</p>
+  <p>(850) Perfidus ademi: patere, quod captis sat est,</p>
+  <p>Servire miseros, nobili et vinctos iugum</p>
+  <p>Accipere collo. Regibus nemo hoc neget.</p>
+  <p>Sic tibi superstes vivat illa spes domus,</p>
+  <p>Aliusque solo nomine Evilmerodach</p>
+  <p>(855) Virtute reddat, reddat et vultu patrem,</p>
+  <p>Partisque populos addat imperiis novos,</p>
+  <p>Si quos relinques. Nab. Arma qui nuper ferox</p>
+  <p>Solymis rotabat, verba quam blandus iacit!</p>
+  <p>En tibi trahuntur liberi, amplexu, osculis</p>
+  <p>(860) Lassare. Sic te decuit agnosci patrem.</p>
+  <p>Fil. Pater heu! Pater mi! Sed. Filii heu digni patre</p>
+  <p>Feliciore! Quid tenellis compedes</p>
+  <p>Tentare rigidas manibus incassum iuvat?</p>
+  <p>Heu vana pietas! Fil. Heu pater! Miser heu pater!</p>
+  <p>(865) Sed. Ite, ite nati, Principis pectus feri</p>
+  <p>Mollite lacrymis. Vestra sollicitum salus</p>
+  <p>Habet parentem, nil meas poenas moror.</p>
+  <p>Fil. Miserere Princeps, vinculis patrem exime.</p>
+  <p>Nab. Procul amoveto, lictor, invisum genus.</p>
+  <p>(870) Pereant scelesti. Sed. Sceleris auctorem tenes</p>
+  <p>Reum, fatentem. Parce turbae innoxiae,</p>
+  <p>Nisi si in parentem crimini pietas datur.</p>
+  <p>Nab. Iam sunt nocentes, perfidi, si sunt tui.</p>
+  <p>Tollantur hostes. Sed. Hoc capit nomen puer?</p>
+  <p>(875) Nab. At capiet olim, Solyma cum generis memor</p>
+  <p>Recidiva ponet. Pertinax amor hic patris</p>
+  <p>Consulere natis ante Chaldaeos suis</p>
+  <p>Penitusque belli tollere sementem admonet.</p>
+  <p>Sed. Cessat leonis, hoste prostrato, furor,</p>
+  <p>(880) Lacerat cadaver si qua de vulgo fera est.</p>
+  <p>Nab. Prostratus hostis saepe vires integrat.</p>
+  <p>Sed. Non sic iacemus Isacidae, ut cuiquam timor</p>
+  <p>Possimus esse. Nab. Surgere, qui vivit, potest.</p>
+  <p>Sed. Victorem in omne lenitas vulgus decet,</p>
+  <p>(885) Quid regem in ipsum? Nab. Nempe qui rex non foret,</p>
+  <p>Nisi hoc dedissem. Sed. Regibus fueram satus,</p>
+  <p>Hoc non dedisti. Nab. Fateor. Hoc habeas tuum,</p>
+  <p>Quod perfidorum perfidus regum es nepos.</p>
+  <p>Cavere nostrum est ne qua damnatum genus</p>
+  <p>(890) Soboles propaget, semper ut minoribus</p>
+  <p>Perfidia placeat maior, et inausa audeat.</p>
+  <p>Sed. Quos iam rebelles (velle fac) rursus queant</p>
+  <p>Tentare populos? Quantulum Isacidum fames</p>
+  <p>Pestisque reliquum fecerant, flammae et furor</p>
+  <p>(895) Inimicus hausit. Nulla tam grandis senem</p>
+  <p>Aetas redemit, feminam nullus pudor,</p>
+  <p>Nisi forma placuit. Vix satis leti capax</p>
+  <p>Per vulnus infans matris occubuit suae,</p>
+  <p>Nascendo moriens. Sed quod indignum hactenus</p>
+  <p>(900) Possit videri, pugna nocturnis tegit</p>
+  <p>Commissa tenebris. Fecit hoc tincti semel</p>
+  <p>Ferri libido, fecit incensus dolor.</p>
+  <p>Non facile frenos ira, non Mavors capit.</p>
+  <p>Quodcumque tandem est, militum fuerit scelus.</p>
+  <p>(905) Adhuc cruentum nulla te absentem potest</p>
+  <p>Fecisse caedes. Nunc ubi armorum impius</p>
+  <p>Resedit ardor, tollere puellos potes,</p>
+  <p>Miles quibus pepercit, et miles furens?</p>
+  <p>Nab. Hoc est quod alta luce victorem pudet,</p>
+  <p>(910) Quod adhuc inulto nulla vindicta obtigit.</p>
+  <p>Atrox, cruentum si quid admissum hactenus,</p>
+  <p>Id noster animo miles indulsit suo.</p>
+  <p>Mihi nil litatum est, nunc meum tempus vocat</p>
+  <p>Furere furorem. Lictor, haec monstra abdito</p>
+  <p>(915) Specu reconde, pauca dum mecum exigo,</p>
+  <p>Poenamque Hebraeae quaero perfidiae parem.</p>
+  <p>Impune ut abeant, nec mihi meritas luant</p>
+  <p>Poenas Apellae? Nulla tam indecorem dies</p>
+  <p>Arguerit umquam, tamque non memorem mei,</p>
+  <p>(920) Bene est. Petebat liberis parci suis.</p>
+  <p>Pater hic tenetur; qua dolet, ferrum exigam.</p>
+  <p>Parentis oculos morte funestet sua</p>
+  <p>Invisa soboles. Numerus angustus meo</p>
+  <p>Tres sunt furori, fateor, at quotquot potest</p>
+  <p>(925) Mortes timere, videat, et geminis statim</p>
+  <p>Luminibus orbus imprimat visum nefas,</p>
+  <p>Animoque deinceps semper infelix suos,</p>
+  <p>Luctus revolvat. Hic placet poenae modus,</p>
+  <p>Sibi superstes funus extendat suum,</p>
+  <p>(930) Careatque luce vivus, et quidquid potest</p>
+  <p>Auferre cuiquam Parca fatalem colo</p>
+  <p>Fusum recidens, vita viventi auferat</p>
+  <p>Misera, per omnes tracta poenarum modos.</p>
+  <p>I, ferrum et ignes, lictor, i, mortes para.</p>
+  <p>(935) Me regiae intus iam dapes dudum vocant.</p>
+  <p><hi rend="bold">CHORVS TERTIVS</hi></p>
+  <p>Filii Prophetarvm.</p>
+  <p>Crederet quisquam? Superis honores</p>
+  <p>Invidet vecors hominum libido:</p>
+  <p>Suppares Divis pudet ire reges.</p>
+  <p>Altera exsurgit Babylone moles</p>
+  <p>(940) Iamque vicinis minitatur astris,</p>
+  <p>Et novi caelum quatient Gigantes.</p>
+  <p>Ille vastator Solymae, cruore</p>
+  <p>Ebrios nostro Nabuchodonosor</p>
+  <p>Pascitur thuris nebula, Deosque</p>
+  <p>(945) Pinguis omenti procul a vapore</p>
+  <p>Aemulus arcet.</p>
+  <p>Parce terrarum Superumque rector,</p>
+  <p>Parce, si culpam satis hanc luerunt,</p>
+  <p>Parce, si nondum satis eluerunt</p>
+  <p>(950) Aliger primi sceleris repertor,</p>
+  <p>Dum tuis certat titulis superbus,</p>
+  <p>Quique, quos unquam genuit nepotes,</p>
+  <p>Ante damnavit male cautus Adam.</p>
+  <p>Ilicet diae nitor ille lucis,</p>
+  <p>(955) Candicans caelo rutilus novello,</p>
+  <p>Sede ab excelsa ruit ultimisque</p>
+  <p>Squallet inferni tenebris barathri.</p>
+  <p>Iste fatalem violare morsu</p>
+  <p>Ausus autumnum vetitosque doctae</p>
+  <p>(960) Arboris foetus, miser esse primus,</p>
+  <p>Plusque quam vellet didicit malorum.</p>
+  <p>Noxa non uni stetit una magno,</p>
+  <p>Posteris dentes hodieque ab illo</p>
+  <p>Dentiunt morsu metuuntque tangi.</p>
+  <p>(965) Creduli quondam vitio mariti</p>
+  <p>Feminae ad fraudes patuisse narrant</p>
+  <p>Pyxidem aerumnis gravidam malisque.</p>
+  <p>Inde morbornm incubuisse terris</p>
+  <p>Agmen et totum tenuisse mundum.</p>
+  <p>(970) Haec fide vates memorent Pelasga</p>
+  <p>Et coli ad lumen celebrent aniles:</p>
+  <p>Eva Pandoram facit innocentem</p>
+  <p>Et capi blandae facilis maritae</p>
+  <p>Vxorius Adam.</p>
+  <p>(975) Tempore ex illo miseranda proles</p>
+  <p>Nascimur matrum prope parricidae,</p>
+  <p>Voce testati gemituque primo</p>
+  <p>Omen infaustum genitalis horae.</p>
+  <p>Terror Alcides Nemeae feraram</p>
+  <p>(980) Si fuit quisquam, fuit ille quantus</p>
+  <p>Quilibet nostrum, modo natus infans</p>
+  <p>Quaesiit lucem, et gemuit reperta</p>
+  <p>Luce misellus.</p>
+  <p>Scilicet cunas puer inter arctas</p>
+  <p>(985) Guttur elisit tumidum colubris,</p>
+  <p>Maximum credo facinus patravit</p>
+  <p>Et suo dignum Iove, noctibusque</p>
+  <p>Nequiter iunctis bene cum papillas</p>
+  <p>Vberum pressis tenuit labellis.</p>
+  <p>(990) Nec superborum potiora nostris</p>
+  <p>Iura natales habuere regum.</p>
+  <p>Sint licet festi populo, fuere</p>
+  <p>Flebiles nato miseraeque matri.</p>
+  <p>Qui modo aurata radias corona</p>
+  <p>(995) Squallidus gemmis populisque circum</p>
+  <p>Sceptra moliris metuenda centum,</p>
+  <p>Qui pedum irato quoties sub ictu</p>
+  <p>Succutis terrat tremulumque mundum,</p>
+  <p>Ferreos armas sonitu maniplos,</p>
+  <p>(1000) Qui datos caelo temerare rerum</p>
+  <p>Terminos audax subicis carinis</p>
+  <p>Montium saltus equitique tutum</p>
+  <p>Per freta insternis tabulata pontem.</p>
+  <p>Pone quos circumdedit apparatus</p>
+  <p>(1005) Sortis alternans favor inquietae,</p>
+  <p>Et tuis pollens opibus superbi,</p>
+  <p>Qualis a partu tenerum rubebas,</p>
+  <p>Fascia qualis puer obvolutus</p>
+  <p>Cura pendebas gerulaeque pondus,</p>
+  <p>(1010) Qualis ignotas vagus inter umbras</p>
+  <p>Sutilis cymbae referes Magistro</p>
+  <p>Ordine naulum.</p>
+  <p>Tutius Princeps animi modestus</p>
+  <p>Subdit aeterno sua sceptra sceptro,</p>
+  <p>(1015) Numinis castas veneratus aras.</p>
+  <p>Hinc caput rerum pius auspicatur,</p>
+  <p>Gratus huc laetos iterum refundit</p>
+  <p>Exitus, seu cum domito triumphans</p>
+  <p>Hoste festivas vehitur per urbes,</p>
+  <p>(1020) Seu toga clarus studiis beatae</p>
+  <p>Pacis indulget fruiturque parto</p>
+  <p>Civium tutus animis suorum.</p>
+  <p>Impotens regno Superumque temtor,</p>
+  <p>Quem iuvat toti populo timeri,</p>
+  <p>(1025) Horreat cunctis metuendus omnes.</p>
+  <p>Excubent quamvis vigilum catervae,</p>
+  <p>Haereant denso lateri cohortes,</p>
+  <p>Nulla securos vehet hora soles,</p>
+  <p>Nulla tranquillos feret hora somnos.</p>
+  <p>(1030) Qui tot incedit comitatus armis,</p>
+  <p>Vir fide incedit comitatus una.</p>
+  <p>Saepe qui regum genua advolutus</p>
+  <p>Dextera prensat, diadema fulvum</p>
+  <p>Respicit limis, inhiatque sceptro,</p>
+  <p>(1035) Qui manum blandis terit usque labris.</p>
+  <p>Immemor sortis nimis ille nostrae est,</p>
+  <p>Qui tot incertis homines rotari</p>
+  <p>Casibus cernit, renuitque demens</p>
+  <p>Cedere caelo.</p>
+  <p>(1040) At cuius ictu proximae stridunt fores?</p>
+  <p>Quis ille vultum moestus et fletu gravis,</p>
+  <p>Atro verendum cinere conspersus caput,</p>
+  <p>Nimiumque nostri similis? Impexum manu</p>
+  <p>Mentum revellit, squallidam spargit comam,</p>
+  <p>(1045) Diversa iactat brachia, adductis sonat</p>
+  <p>Pectus lacertis, vestium abrumpit sinus,</p>
+  <p>Hoc more nostro. Pectus appressum pilis</p>
+  <p>Intus cruentis horret. Hebraeus palam est,</p>
+  <p>Quicumque miser est. Tantulum huc secedite,</p>
+  <p>(1050) Propiusque moesti verba captemus senis.</p>
+</div>
+<div type="level1" xml:id="actvs-qvartvs.">
+  <head>9. ACTVS QVARTVS.</head>
+  <p><hi rend="italic">Narratur caedes filiorum Sedeciae, et
+  Sedeciae ipsius excaecatio.</hi></p>
+  <p>Ieremias. Chorvs.</p>
+  <p>Ier. Supreme rector cuncta qui nutu moves,</p>
+  <p>Eritne tandem gravibus aerumnis modus?</p>
+  <p>Eritne per te? Solyma, Davidis labor</p>
+  <p>Totque inde regum, pulvis et tumulus iacent.</p>
+  <p>(1055) Nos praeda trahimur, bisque dispersis nova</p>
+  <p>Exilia mandas, spatia sed terrae negant.</p>
+  <p>Non unus hostis spolia de nobis tulit,</p>
+  <p>Non una Medus: trita Babylonem via est,</p>
+  <p>Et trita Memphim. Sola Iudaeis negat</p>
+  <p>(1060) Iudaea sedes, cetera exsulibus patent,</p>
+  <p>Nullumque Hebraeo vilius venit caput.</p>
+  <p>Meruimus ista fateor, et si quid potest</p>
+  <p>His esse gravius. Fecimus caelum nocens</p>
+  <p>Diri nepotes, melior at Patrum tibi</p>
+  <p>(1065) Memoria subeat. Abrahae imperiis fides</p>
+  <p>Probata duris, castus Isaci timor,</p>
+  <p>Et tot Iacobi pectus invictum malis.</p>
+  <p>Pietate avita patere natorum scelus</p>
+  <p>Obliterari. Stirpe si exscindi ultima</p>
+  <p>(1070) Placet Israelem, quis tuis meritos dabit</p>
+  <p>Aris honores? Quis tuas laudes canet?</p>
+  <p>Ammoniusne perfidus? Nostris ferox</p>
+  <p>Medus ruinis? Fuerit incassum via</p>
+  <p>Medium per aequor, aggeris structi modo</p>
+  <p>(1075) Vbi mare gemina fronte marmoreum stetit?</p>
+  <p><hi rend="bold">Chor. Qui sic repente fixus obtuta
+  silet</hi></p>
+  <p>Senex in uno? Totus horrescit comis,</p>
+  <p>Animamque pectus vir anhelantem capit.</p>
+  <p>Haud dubia vatis signa iam pleni
+  <hi rend="italic">Deo</hi>.</p>
+  <p>(1080) Ier. Quid me furore concitas iterum sacro,</p>
+  <p>Aeterne genitor, mentis alienum meae,</p>
+  <p>Tuae capacem? Quae, quibus vates canam?</p>
+  <p>Quae fata restant? Aliquid extremas potest</p>
+  <p>Vltra esse flammas, nec satis Solymae iacent?</p>
+  <p>(1085) Vtinam occidissent totae, et hoc saltem darent</p>
+  <p>Fata in supremis unicum aerumnis bonum,</p>
+  <p>Nihil timere. Sola metuendum mihi</p>
+  <p>Facitis tyrannum parva natorum cohors</p>
+  <p>Capti parentis. Pro ferax scelerum dies!</p>
+  <p>(1090) O magne Rector quid novi monstri obiicis!</p>
+  <p>Chor. Averte in hostes omen infaustum, o
+  <hi rend="italic">Deus</hi>.</p>
+  <p>Ier. Nihil ominamur, providi ut vates solent,</p>
+  <p>Olim futarum. Video et intersum malis.</p>
+  <p>Geruntur intus. Tota res luce et palam est.</p>
+  <p>(1095) En ille Superum temtor et bello insolens</p>
+  <p>Nabuchodonosor, Regis exuvias mei</p>
+  <p>Davidque ab alto purpuram ostentat toro.</p>
+  <p>Frontem tiaras noster, et sacrae comam</p>
+  <p>Cinxere vittae. Geminus hinc illinc ducum</p>
+  <p>(1110) Discubuit ordo. Spolia Solymorom micant</p>
+  <p>Et hic et illic. Ipsa quae pictis premunt</p>
+  <p>Aulaea lectis, nostra distinxit manus,</p>
+  <p>Et quae superbis fixa regalis domus</p>
+  <p>Parietibus haerent, monstra calcati maris,</p>
+  <p>(1115) Mersosqoe currus, bella, mystarum tubas</p>
+  <p>Muris timendas, mille prostratos duces,</p>
+  <p>Et facinus omne gentis Hebraeae canant.</p>
+  <p>Merum sacrato, pro nefas! auro rubet.</p>
+  <p>Vile in profano est, miles hoc quivis bibit.</p>
+  <p>(1120) En ecce Ductor memorat armorum vices,</p>
+  <p>Et castra parvo tota metatur mero</p>
+  <p>Victasque Solymas. Hic Sion nuper stetit,</p>
+  <p>Tulitque caelo proximum e terris caput.</p>
+  <p>Relligio gentis unica hic templum fuit.</p>
+  <p>(1125) Saepe hac rebelles, prima dum valli darem</p>
+  <p>Praesidia circum, cominus pugnam parant,</p>
+  <p>Audentque signis serere collatis manum.</p>
+  <p>Illic sepultae rex per ambages viae</p>
+  <p>Iam luce dubia profugus e terra exstitit.</p>
+  <p>(1130) Sic bella pingit, calice mox toto impiger</p>
+  <p>Falsisque Solymis proluit madidum caput.</p>
+  <p>Io triumphos, ceteri assensu fremunt,</p>
+  <p>Geminantque plausus. Chor. Lacrymas socii date</p>
+  <p>Gemitusque contra, plangite infaustum diem,</p>
+  <p>(1135) Et tota nostris Reblatha lamentis sonent.</p>
+  <p>Ier. At at nefandae ferculum coenae dabit</p>
+  <p>Dignum satelles. Agite, sic mensis quadrent</p>
+  <p>Primis secundae, sanguinem hae sitiunt dapes.</p>
+  <p>Vinctus Sedecias trahitur et totus quidem,</p>
+  <p>(1140) Miseri parentis liberi stipant latus</p>
+  <p>Densantque pavidi. Chor. Magne regnator poli,</p>
+  <p>Miserere tandem, vultu et afflictum aspice</p>
+  <p>Iudam sereno. Parce, per si quid tibi</p>
+  <p>Vmquam parentum dulce nostrorum fuit.</p>
+  <p>(1145) Ier. Vix misera gressum cominus pompa intulit</p>
+  <p>Verosque Hebraeus ante simulatum stetit,</p>
+  <p>Assiluit iste, qualis e Gangetico</p>
+  <p>Ieiuna lustro tigris ad praedam volat.</p>
+  <p>Ardent minaces ore truculento genae,</p>
+  <p>(1150) Exundat ira pectus, et largo insuper</p>
+  <p>Baccho tumescens igne non uno furit.</p>
+  <p>Nec multa fatus, voce violenta intonat</p>
+  <p>Ferrum satelles, moxque devotos neci</p>
+  <p>Lumine pererrans, caede quem prima immolet</p>
+  <p>(1155) Patris dolori dubitat, et peragi nefas</p>
+  <p>Iuvat ordinate. Macte, consilium capis</p>
+  <p>Dignum tyranno. Subiit extremos patri</p>
+  <p>Servare luctus, ipsa quos aetas minor</p>
+  <p>Et blanda pietas altius cordi imprimant.</p>
+  <p>(1160) Sedet ille trunco fixus, hoc ritu suas</p>
+  <p>Spectare mortes placuit, et toto frui</p>
+  <p>Luctu quietum. Dirimit hinc illinc breve</p>
+  <p>Spatium misellos, impares numerus facit,</p>
+  <p>At pro duobus dexter assistit patri</p>
+  <p>(1165) Aetate fratres Iosias vincens duos.</p>
+  <p>Lictor puellum quisque correptum tenens,</p>
+  <p>Ferro et parata pendet in vulnus manu,</p>
+  <p>Spectatque nutum. Lancinant totidem neces</p>
+  <p>Iam cor paternum, totque vix unus capit</p>
+  <p>(1170) Animus timores. Iosias totum hinc rapit,</p>
+  <p>Rursum minores inde sollicitant duo,</p>
+  <p>Dividere patrem vellet affusum tribus.</p>
+  <p>Violenta ceu cum maria discordes agunt</p>
+  <p>Feruntque Zephyri, cedit atque instat sibi</p>
+  <p>(1175) Instabilis unda. Nauta cui faciat pedem</p>
+  <p>Incertas aurae, vela in ancipiti tenet.</p>
+  <p>Iterum efferati regis indomitum prece</p>
+  <p>Lenire pectus genitor infelix parat,</p>
+  <p>Positoque natos poplite advolvi iubet.</p>
+  <p>(1180) At ecce Iosiam supplicem frustra semel</p>
+  <p>Pudet fuisse. Decora maiorum puer</p>
+  <p>Pictosque vultus cernit, et faciunt suo</p>
+  <p>Animos nepoti. ’Liber ad manes tibi</p>
+  <p>Genitor praeibo; sed decus spreti feram</p>
+  <p>(1185) Mecum tyranni.’ Dixit, et iugulo necem</p>
+  <p>Hausit sui securus, eductum cruor</p>
+  <p>Ferrum secutus vulnere ingenti fluit,</p>
+  <p>Donec recepta morte procubuit solo,</p>
+  <p>Humique fesso lumine requirens patrem</p>
+  <p>(1190) Vidit tyrannum, vidit, et moriens quoque</p>
+  <p>Vultus retorsit. Tristius letum haec facit</p>
+  <p>Pietas parenti. Nititur frustra suis</p>
+  <p>Pugnax catenis, pectus insano gemit</p>
+  <p>Ferri sub ictu, vincula quod unum sinunt.</p>
+  <p>(1195) Hinc trepidus infans, territus fratris nece,</p>
+  <p>Lictoris ipsa veste contexit caput,</p>
+  <p>Marmaricus ut cum perculit totas leo</p>
+  <p>Cum nemore caulas, audiit fremitum pecus,</p>
+  <p>Minorque tauro turba congeminat latus:</p>
+  <p>(1200) Carnificis illinc alter observat manum</p>
+  <p>Strictumque ferrum, conscius fratrem sibi</p>
+  <p>Vnum anteire. Spectat et longo impius</p>
+  <p>Rex scelere gaudet; neve disiunctus parum</p>
+  <p>Primi secundus obruat sensum dolor,</p>
+  <p>(1205) Dispensat iras lentus, et spatio necem</p>
+  <p>Doctus tyrannus quamque distinguit suo.</p>
+  <p>Ergo ut paternos tantulum primus furor</p>
+  <p>Remisit artus, fecit et luctus nori</p>
+  <p>Animum capacem, proximum caedi imperat</p>
+  <p>(1210) Adicique fratri. Barbarum quamvis sonum</p>
+  <p>Sensit puellus, seque ab incauti manu</p>
+  <p>Rapuit ministri, turba currenti favet,</p>
+  <p>At ille parvo facile trepidantem gradu</p>
+  <p>Secutus, ensem penitus in tergo abdidit.</p>
+  <p>(1215) Gemino puellus flumine aspergit solum,</p>
+  <p>Et utrimque moriens pronus in patrem cadit.</p>
+  <p>Chor. Pro facinus atrox, dirum et aspectu horridum!</p>
+  <p>Ier. Tepido paternos sanguine implentem sinus</p>
+  <p>Exanimis ipse genitor amplexu ultimo,</p>
+  <p>(1220) Vinclisque circum corpori affusis premit.</p>
+  <p>Chor. Miserande genitor! Ier. Stricta quod nequiit manus,</p>
+  <p>Frigentis oculos osculis claudit suis,</p>
+  <p>Et ore presso spiritum abeuntem legit.</p>
+  <p>Odere tandem triste convivae nefas,</p>
+  <p>(1225) Quin ipse Solymae clarius victor gemit</p>
+  <p>Palamque diro parvulos praedam dolet</p>
+  <p>Monstro stitisse. Vellet incolumes fugam</p>
+  <p>Tenuisse, vellet morte defunctum levi</p>
+  <p>Toto parentem conditum regno tegi.</p>
+  <p>(1230) Solus furori barbarus constans suo</p>
+  <p>Terret gementes. Hostis est, cui hostium</p>
+  <p>Aegre est recidi penitus invisam indolem.</p>
+  <p>Ignave lictor tertium hoe monstrum neca.</p>
+  <p>Ictum parabat ille, cum parvas manus</p>
+  <p>(1235) Oculosque contra trepidus obtendit puer,</p>
+  <p>Vicitque pietas, et novo monstro stupet</p>
+  <p>Mucrone stricto lictor ad caedem piger.</p>
+  <p>Nec blandus infans, nec ferum pectus movet</p>
+  <p>Lictor patronus, precibus accrescit furor.</p>
+  <p>(1240) Vt cum medullas hausit et corpus sacer</p>
+  <p>Depastus ardor ossibus vacuis furit,</p>
+  <p>Iam medici et omnis asperat tactus malum;</p>
+  <p>Intus revulsis torridum fibris iecur</p>
+  <p>Quas biberit undas, urit et gelido amplius</p>
+  <p>(1245) A latice vires Stygius accendit vapor.</p>
+  <p>Sic dira rabies, impia, intractabilis</p>
+  <p>Regis cruenti saevit, et pectus ferum</p>
+  <p>Ardet magis magisque furiarum impotens.</p>
+  <p>At tibi necandos lictor imbellis tuos,</p>
+  <p>(1250) Si renuis istum, liberos, inquit, dabo.</p>
+  <p>Vix dum coacta carnifex totam manu</p>
+  <p>Mortem tenello pectori infigit satis,</p>
+  <p>Facinusque et ipsum cum facit, damnat nefas.</p>
+  <p>Ast ubi cruento tres videt sparsos solo</p>
+  <p>(1255) Cruentus ipse, nec novas mortes timet</p>
+  <p>Iam genitor orbus. Pectus oppressum diu</p>
+  <p>Furiasque et omnes laxat irarum impetus</p>
+  <p>Dudum paratos. Vincla nequidquam excutit</p>
+  <p>Arctatque motu. Ringitur, frendet, fremit,</p>
+  <p>(1260) Opprobria diris miscet, et quidquid ferum</p>
+  <p>Insanus animo suggerit promptum dolor.</p>
+  <p>Hostes lacessit, fata, nec caelo impius</p>
+  <p>Superisve parcit. Mille nunc ignes vocat</p>
+  <p>In se aut tyrannum, nunc remolito chaos</p>
+  <p>(1265) Hiare mundo, seque et infandum caput</p>
+  <p>Vlterius Erebo, Tartari ad finem ultimum</p>
+  <p>Vivos videntes ruere, nec dubitet prior</p>
+  <p>Trabere sequentem. Risit indignans minas</p>
+  <p>Amarus hostis, luminum et geminas faces</p>
+  <p>(1270) Capite revelli voce violenta imperat.</p>
+  <p>Vltro ministros noster irritat probris:</p>
+  <p>’Adeste barbari, adeste (si convicio</p>
+  <p>Emenda mors est) belluae, atque his addite</p>
+  <p>Funeribus unum. Facitis? Et puerum neces</p>
+  <p>(1275) Audetis ultra? Adeste, et invisum diem</p>
+  <p>Eruite. Parte moriar hac saltem mei,</p>
+  <p>Quae tot suorum funere implevit patrem.</p>
+  <p>Vnum oculi, et illud esse postremum volo,</p>
+  <p>Torvi tyrannum aspicite, et obliquos mali</p>
+  <p>(1280) Hirquos rotate. Barbari, vultus notas</p>
+  <p>Odiumque menti figite aeternum meae.’</p>
+  <p>Nec plura fatus, praebuit firmum caput</p>
+  <p>Ad utrumque vulnus. Lictor hinc illinc premens</p>
+  <p>Vnguem sub ipsos orbium infodit specus,</p>
+  <p>(1285) Oculosque ab ima funditus sede extudit</p>
+  <p>Tum quoque feroces. Perstat indomitus furor,</p>
+  <p>Vacuique vultus igne truculento micant.</p>
+  <p>Vinclis solutus vellit haerentes genis</p>
+  <p>Fibras, et alta luce vestigans diem</p>
+  <p>(1290) Gaudet tenebris. Sanguine implevit manum</p>
+  <p>Taboque late regias spargens dapes</p>
+  <p>Ipsum et tyrannum. Quod tibi, si qua id tamen</p>
+  <p>Iustitia caelo curat, his dignum
+  <hi rend="italic">Deus</hi></p>
+  <p>Pactis reponat. Caecus hanc unam velim</p>
+  <p>(1295) Aspicere lucem. Chor. Siluit et sensim sibi</p>
+  <p>Vates relictus excutit membris
+  <hi rend="italic">Deum</hi>.</p>
+  <p>O dura nimium fata! Cui monstro, o Pater,</p>
+  <p>Exterminandos placuit Isacidas dari!</p>
+  <p>Ier. Misella turba, quid tuas clades gravas?</p>
+  <p>(1300) Anteire lacrymis funera atque uno malo</p>
+  <p>Bis esse miserum, me iubet solum
+  <hi rend="italic">Deus</hi>.</p>
+  <p>Quid ante tempus fata luctumque occupas?</p>
+  <p>Non sunt tamen futura, quae coram geri</p>
+  <p>Loquebar absens. Facta nunc, facta ultio eat.</p>
+  <p>(1305) Ite, ite celeres, quotquot infaustae Sion</p>
+  <p>Natae supersunt, facite mox tota excitae</p>
+  <p>Ab urbe coeant, regii ut stirpem tori</p>
+  <p>Donent sepulchro. Qua iacent, sparses legant</p>
+  <p>Parentis oculos, marmore ut clausum pari,</p>
+  <p>(1310) Quod licuit unum, filii hoc habeant patris.</p>
+  <p>Abiere. Quae nunc prima, quae demum miser</p>
+  <p>Postrema plangam? Fumat et lapsae vetus</p>
+  <p>Querela Solymae est! Polluit templi intimos</p>
+  <p>Hostis recessus. Ordo Pontificum sacer,</p>
+  <p>(1315) Rex ipse, regum prole cum tota perit.</p>
+  <p>Captiva turba est. Regis elati minis</p>
+  <p>Par sit potestas, cardines mundi ultimos</p>
+  <p>Bello fatiget, nec suo perstet loco</p>
+  <p>Immune caelum. Magne regnator Deûm,</p>
+  <p>(1320) Tam lentus audis scelera! Tam lentus vides</p>
+  <p>Reges superbos! Ceteri an quidvis patrant</p>
+  <p>Impune nullo numinis laesi metu,</p>
+  <p>Solique Iudae dextera trisulcum gerit</p>
+  <p>Vibratque telum? Comprime, ah! vocem, dolor,</p>
+  <p>(1325) Et ore dignos impio questus doma.</p>
+  <p>Ante, ante placidi mille violatum est probris</p>
+  <p>Nomen parentis, foederi illusum sacro,</p>
+  <p>Truncis litatum, iuris infractus vigor,</p>
+  <p>Fas omne pulsum. Iustus Israel
+  <hi rend="italic">Deus</hi>,</p>
+  <p>(1330) Cum plectit et cum parcit, ex aequo bonus.</p>
+  <p>Maiore scelera nostra taxarit modo,</p>
+  <p>At scelera nullum nostra servarant modum,</p>
+  <p>Nec te, superbo capite quae terres Deos,</p>
+  <p>Insana Babylon, mitius fatum manet.</p>
+  <p>(1335) Divina si quid caelitos veri canunt</p>
+  <p>Responsa vatum, si quid ad modulos lyrae</p>
+  <p>Auctor futuri certus atque idem inclytus</p>
+  <p>Iessaeos armis, muta pendebunt tuis</p>
+  <p>Nablia salictis, quando victoris soli</p>
+  <p>(1340) Fluenta propter pascet Assyrium gregem</p>
+  <p>Captivus hospes. Forsan et nuper suum</p>
+  <p>Pecus ipse ducet. Patrium frustra melos</p>
+  <p>Cantare iussus, quale, dum Sion stetit,</p>
+  <p>Solymis sonabat, occinet festa tibi</p>
+  <p>(1345) Pro voce gemitam: Siccine, heu! sacra extero</p>
+  <p>Prodamus hosti? Deerat hoc unum malis</p>
+  <p>Cantare miseros. Ante dediscat suas</p>
+  <p>Mea dextra chordas, ante lingua torrido</p>
+  <p>Haerens palato vocis officium neget,</p>
+  <p>(1350) Obliviosa quam mihi mente excidant</p>
+  <p>Solymae penates inclytum et templi decus,</p>
+  <p>Quam mihi madentes ulla lux tergat genas,</p>
+  <p>Nisi quae Sionis moenia et templi obrutas</p>
+  <p>Restituet aras. Tu tamen caelo arbiter</p>
+  <p>(1355) Qui cuncta cernis, reddere protervae vicem</p>
+  <p>Memento Idumae, voce quae nuper meos</p>
+  <p>Stimulabat hostes: ’Vertite ex imo omnia,</p>
+  <p>Eruite vel quod terra defossam tegit.’</p>
+  <p>Nec tibi, meretrix magna, quae fastus meos</p>
+  <p>(1360) Fastu premis maiore, vindex desuper</p>
+  <p>Dormit severas. Aderit, o! adsit dies,</p>
+  <p>Victorque felix, paria qui nostris tibi</p>
+  <p>Remetiatur praemia, et pueros sinu</p>
+  <p>Raptos parentum frangat ad saxum impius,</p>
+  <p>(1365) Matremque nato spargat exanimem suo.</p>
+  <p><hi rend="bold">CHORVS QVARTVS.</hi></p>
+  <p>Filiae Sion.</p>
+  <p>Si pectus gemitu, brachia planctibus,</p>
+  <p>Si rivis oculi sufficient novis,</p>
+  <p>Extremam sociae dicite naeniam,</p>
+  <p>Dum funus patriae condimus ultimum.</p>
+  <p>(1370) Huc moestae facies squalor et orbitas,</p>
+  <p>Funesti huc gemitus, huc iterum dolor</p>
+  <p>Postremumque veni. Non solitis placet</p>
+  <p>Cor figi stimulis. Subde animo faces,</p>
+  <p>Quas nec continuis pupula fletibus,</p>
+  <p>(1375) Nec lapsu minuat temporis orbita.</p>
+  <p>En, nudata tibi pectora solvimus,</p>
+  <p>Et crinem patriae pulvere sordidum.</p>
+  <p>En quae multiplici funere lividas</p>
+  <p>Sulcavere manus vulnera per genas,</p>
+  <p>(1380) Irritata novo sanguine perpluunt.</p>
+  <p>Ploratus oculi quod datis, est leve.</p>
+  <p>Nil flendum solitis perpetimur modis.</p>
+  <p>Salsas vulneribns vergite lacrymas,</p>
+  <p>Et mixtim geminum per laceros mihi</p>
+  <p>(1385) Vultus flumen eat. Sistite lugubrem</p>
+  <p>Hic pompam, comites, caraque pignora.</p>
+  <p>Molliri tepidis vulnera fletibus,</p>
+  <p>Componique decet parvula, dum calent,</p>
+  <p>Docta membra manu. Sindone cum deest</p>
+  <p>(1390) Qua regum tumulo corpora contegas,</p>
+  <p>Infelix pietas, pondus inutile</p>
+  <p>Peplum barbarico stamine diditum</p>
+  <p>Et fluxam cidari detrahe carbasum,</p>
+  <p>Cui tanto miserae comimur ambitu?</p>
+  <p>(1395) Nimis heu clari generis soboles,</p>
+  <p>Heu certa nimis! Accipe Princeps</p>
+  <p>Quae prima tibi lamenta damus,</p>
+  <p>Quae prima ferunt verbera planctus.</p>
+  <p>Accipe, Iosia, qui aetate duos</p>
+  <p>(1400) Anteis fratres, qui morte duos,</p>
+  <p>Te suprema voce ciemus</p>
+  <p>Solymis sero nate tuendis,</p>
+  <p>Cito formosae nate parenti.</p>
+  <p>Misera heu mater! Nimis in luctus</p>
+  <p>(1405) Fecunda tuos, quae te regio,</p>
+  <p>Quis victor habet? Misera heu mater!</p>
+  <p>Seu tua nondum funera sentis,</p>
+  <p>Seu nota gemis: quis sollicitae</p>
+  <p>Animum possit fallere matris?</p>
+  <p>(1410) Captiva parens, orba, infelix,</p>
+  <p>Vidua vivi coniugia uxor,</p>
+  <p>Quos hic gemitus, quae verba dares,</p>
+  <p>Si tantus habet sua verba dolor?</p>
+  <p>Vos, o comitum turba dolentum,</p>
+  <p>(1415) Ite ad planctus, explete vices</p>
+  <p>Dura mater abest; ite, sed illis</p>
+  <p>Quibus ipsa parens viribus ite.</p>
+  <p>Innuba quantum potis es virgo,</p>
+  <p>Animo totam concipe matrem.</p>
+  <p>(1420) Innuba quantum satis es virgo,</p>
+  <p>Paribus matrem redde querelis.</p>
+  <p>Occidis eheu! occidis eheu!</p>
+  <p>Tantum ad luctus catenae tuis</p>
+  <p>Puer infelix, quem spectabant</p>
+  <p>(1425) Sceptra secundum, mors spectabat</p>
+  <p>Impia primum. Tibi Davidis</p>
+  <p>Fortia populi gesta vovebant,</p>
+  <p>Salomonis opes, Iosiae castos</p>
+  <p>Superum cultus, dignos solio,</p>
+  <p>(1430) Dignos proavi nomine mores.</p>
+  <p>Superi vanas risere preces,</p>
+  <p>Zephyrique leves vota tulerunt.</p>
+  <p>Occidis eheu! Occidis eheu</p>
+  <p>Puer infelix! Tecum omnes</p>
+  <p>(1435) Spes sub gelido marmore claudis.</p>
+  <p>Ades o nostri gaudia nuper</p>
+  <p>Splendorque chori, virgo puelle,</p>
+  <p>Huc castus ades, nec turpe sinus</p>
+  <p>Tibi virgineos tetigisse puta.</p>
+  <p>(1440) Ades, et lacrymis implere meis,</p>
+  <p>Dum vulnus hians saniemque premo.</p>
+  <p>Heu vulnus atrox! Quo vita tibi,</p>
+  <p>Quo nostra omnis gloria fluxit.</p>
+  <p>Altum heu vulnus nimiumque patens!</p>
+  <p>(1445) Oblitus eras in quem fureres</p>
+  <p>Dire satelles, pueri qnando</p>
+  <p>Impete tanto ruis in iugulum.</p>
+  <p>Formose puer, patere intonsus</p>
+  <p>Per colla fluens lactea crinis,</p>
+  <p>(1450) Non doctus acu, sed lege sua</p>
+  <p>Notos sese crispet in orbes.</p>
+  <p>Ora parentum confusa notis,</p>
+  <p>Lumina blandae matria amores,</p>
+  <p>Lumina celsae frontis honorem,</p>
+  <p>(1455) Claude aeternis claude tenebris.</p>
+  <p>Niveum roseis iunge labellis</p>
+  <p>Propius dentem, strictius aequo</p>
+  <p>Ora tetendit ultimus ardor.</p>
+  <p>Tende sub imum brachia pectus,</p>
+  <p>(1460) Sceptroque habiles belloque manus</p>
+  <p>Ad funebrem flecte decussim.</p>
+  <p>Sic compositum quodcumque tui est,</p>
+  <p>Iosia, ignoto redde sepulchro,</p>
+  <p>Patrium Assyrius diripit hostia.</p>
+  <p>(1465) Sed sic compositum condite Iosiae</p>
+  <p>Quod mortale fuit; non violabilis</p>
+  <p>Pars nostri melior vulneraque et necem</p>
+  <p>Tristesque inferias spiritus effugit.</p>
+  <p>Nequidquam solito carmine praeficae</p>
+  <p>(1470) Affantur positum corpus et impio</p>
+  <p>Decertant animum iungere funeri.</p>
+  <p>Manes innocuos inter et Abrahae</p>
+  <p>Exceptus patrio est parvulus in sinu,</p>
+  <p>Securusque feri Nabuchodonosor</p>
+  <p>(1475) Aevum laetus agit.</p>
+  <p>Nec turpi Iosias occubuit nece,</p>
+  <p>Quem non rex animi terruit impotens,</p>
+  <p>Elati tumidos nube supercili,</p>
+  <p>Non pendente minax vulnere carnifex.</p>
+  <p>(1480) Alio luctus vertite vestros,</p>
+  <p>Alio planctus; sua iusta tulit</p>
+  <p>Lacrymasque puer de tribus unus.</p>
+  <p>Qualis cupido sectus ab ungui</p>
+  <p>Flos veris honor (quem virgineae</p>
+  <p>(1485) Carpsere manus, dum quaeque sibi</p>
+  <p>Sertum arguto pollice nectunt)</p>
+  <p>Cui sua nondum forma recessit,</p>
+  <p>Cui sua sensim forma recedit,</p>
+  <p>Nec enim tellus iam mater alit.</p>
+  <p>(1490) Talis vestros pueri vultus</p>
+  <p>Nunc candor habet, cedensque genis</p>
+  <p>Decor extremus quiddam solito</p>
+  <p>Plus more micat, ceu supremo</p>
+  <p>Natura parens munere funus</p>
+  <p>(1495) Dignata novos afflet honores.</p>
+  <p>Scilicet istae timor armato</p>
+  <p>Meruere manus esse tyranno,</p>
+  <p>Vix bene balba voce parentum</p>
+  <p>Pappare infans nomina doctus</p>
+  <p>(1500) Scilicet olim bella moveret,</p>
+  <p>Patriae quaerens ubi forte locus,</p>
+  <p>Sortisque memor quam nosse nequit.</p>
+  <p>Si tamen aequum tollere censes</p>
+  <p>Quidquid possit metui quondam,</p>
+  <p>(1505) Et idem iustum tutumque putas,</p>
+  <p>Evilmerodach reliquamque tuae</p>
+  <p>Spem tolle domus. Hac lege licet,</p>
+  <p>Metui possunt. Nempe Assyrius</p>
+  <p>Rex Sennacherib (dignus ab illo es</p>
+  <p>(1510) Tertius heres) iugulum natis</p>
+  <p>Dedit incautus, quasque colebat</p>
+  <p>Cernuus aras, victima maior</p>
+  <p>Sanguine sparsit.</p>
+  <p>Parcite longis turba querelis.</p>
+  <p>(1515) Fugit ardenti levis hora rota,</p>
+  <p>Nec nisi furtim licet esse piis.</p>
+  <p>Conferte suos Iosiae fratres,</p>
+  <p>Donaque tumulo mittite raptim,</p>
+  <p>Qualia deceat mittere captas,</p>
+  <p>(1520) Non quae Solymis stantibus olim</p>
+  <p>Traheret pompae regius ordo.</p>
+  <p>Parvi o manes, puri o manes,</p>
+  <p>Vmbraeque nihil lucis egentes,</p>
+  <p>Laeti ad plures ite Isacidas.</p>
+  <p>(1525) Ite, et proavos visite reges.</p>
+  <p>Nihil ad funus conferre pius</p>
+  <p>Genitor potuit carius istis:</p>
+  <p>Oculi nostrae sidera gentis,</p>
+  <p>Geminis pulsi sedibus orbes,</p>
+  <p>(1530) Quorum ad nutus proceres nuper</p>
+  <p>Populique omnis turba tremebat,</p>
+  <p>Vltima nostri fercula adeste,</p>
+  <p>Non parva tamen fercula luctus.</p>
+  <p>Cardine verso crepuere fores.</p>
+  <p>(1535) Adest tyrannus, et quidem irato gradu.</p>
+  <p>Adhuc tumescit. Ite diversae, aviae,</p>
+  <p>Et cara celeres pignora in tuto abdite.</p>
+  <p>En barbarorum tota carnificum manus,</p>
+  <p>Comitatus illo dignus, e foribus ruit.</p>
+</div>
+<div type="level1" xml:id="actvs-qvintvs.">
+  <head>12. ACTVS QVINTVS.</head>
+  <p><hi rend="italic">Sedecias oculis effossis foras
+  producitur, et Babylonem amandatur.</hi></p>
+  <p>Nabvchodonosor. Sedecias.</p>
+  <p>(1540) Nab. Bene est, abunde est. Solyma nunc tandem
+  iacent.</p>
+  <p>Sic perfidorum decuit Isacidum ultimas</p>
+  <p>Spes quoque recidi, regiam ex imo domum</p>
+  <p>Subruere. Flecti quod nequit, frangi potest.</p>
+  <p>Nunc, anime, regnas, nunc tibi nemo hostium</p>
+  <p>(1545) Abiit inultus. Pudeat irarum deos.</p>
+  <p>Nostris deinceps Graecia excluso Iove</p>
+  <p>Adolebit aris, dicet Alciden suum,</p>
+  <p>Cana nitentes populo impediet comas,</p>
+  <p>Regumque dextra stipitem ultorem geram.</p>
+  <p>(1550) Vnam tamen deesse vindictae queror</p>
+  <p>Laudem beatae, fuerat haec populo palam</p>
+  <p>Manus probanda, non domi occluso male</p>
+  <p>Perdenda virtus. Lictor huc vivum trahe</p>
+  <p>Regis cadaver, sanguine natorum et suo</p>
+  <p>(1555) Vulnere cruentum. Reblathis spectaculum,</p>
+  <p>Rebellibusque nobile exemplum dabit.</p>
+  <p>Audire miseri cominus questus placet.</p>
+  <p>Vos facite regem nemo vicinum indicet,</p>
+  <p>Caecisque totae gressibus pateant viae.</p>
+  <p>(1560) Sed. Quis cespitanti cogit incertum gradu</p>
+  <p>Properare ductor? Trahito quo lubitum est, sequor,</p>
+  <p>Vel ad tyrannum. Quisquis es tamen, precor,</p>
+  <p>Ne filiorum membra proculcem parens,</p>
+  <p>Carusve sanguis lubricum fallat pedem.</p>
+  <p>(1565) Violare furor est, ipsa quod tuto in loco</p>
+  <p>Natura posuit. Fallor? An tetri specus</p>
+  <p>Iter est ad umbras carcerisque antrum mei?</p>
+  <p>Illuc eamus, caecitas capiti impio</p>
+  <p>Parum alta nox est. Quid male hic superas domos</p>
+  <p>(1570) Funus luesque oberro? Quid manes meos</p>
+  <p>Et insepultas vivus exequias traho</p>
+  <p>Mihimet parentans? Reddite sepulchro suum,</p>
+  <p>Aut rupis altae condite abstrusum specu.</p>
+  <p>Non ille primis solibus pateat locus,</p>
+  <p>(1575) Non ille seris; quid mihi impendat diem</p>
+  <p>Perdatque Phoebus? Nocte non una obrutus</p>
+  <p>Liberior illic questubus vitam exigam,</p>
+  <p>Et iusta genitor liberis solvam tribus</p>
+  <p>Forsan inhumatis. Lacrymas oculi negent,</p>
+  <p>(1580) Melius inanes sanguinem volvent genae.</p>
+  <p>Nunquam coire patiar hac venas manu.</p>
+  <p>Scrutabor ungui vulnera, et saniem extraham;</p>
+  <p>Non alius imber hos magis luctus decet.</p>
+  <p>Heu me! Per ipsas urbis ingredimur vias.</p>
+  <p>(1585) Sentio, videmur; verba, quod possum, audio,</p>
+  <p>Tandemque nostris aliquis ingemuit malis,</p>
+  <p>Seu Medus ille est victor, et duro quoque</p>
+  <p>Vel ab hoste pietas exprimit luctus suos,</p>
+  <p>Sive est Hebraeus, voce qui timida ingemit,</p>
+  <p>(1590) Spectatque trunci triste simulacrum ducis,</p>
+  <p>Sive hunc et illum miseret, utrumque alloquor.</p>
+  <p>Mihi dare gemitus parcite, haud pro me queror.</p>
+  <p>Dies ademptus, et patri ingesta orbitas,</p>
+  <p>Sed tum videnti. Vincla, carcer, servitus,</p>
+  <p>(1595) Vindicta levis est; ferre quod merui, fero.</p>
+  <p>Nil ille lacero moveat e vultu cruor.</p>
+  <p>Meus est, nocens est, alius hanc vestem imbuit</p>
+  <p>Patriumque nati sanguis infecit sinum,</p>
+  <p>Innocuus aliquid iste virgineum rubet</p>
+  <p>(1600) Lacrymisque dignum. Caecus hoc etiam scio.</p>
+  <p>Captiva turba, filiae heu! Quondam Sion,</p>
+  <p>Lamenta, lacerum crinibus vulsis caput</p>
+  <p>Vestrosque planctus filii insontes petunt,</p>
+  <p>Non pater iniquus. Perferam hanc molem mali,</p>
+  <p>(1605) Clarisque nimium rebus evolvam miser</p>
+  <p>Perplexa nuper fata; praestabo fidem</p>
+  <p>Vtrique vatum, pone victrices rotas</p>
+  <p>Cum pars triumphi magna Babylonem invehar.</p>
+  <p>Sed non videbo. Luce ab amissa hoc erit</p>
+  <p>(1610) Solamen unum. Nab. Macte divinum caput,</p>
+  <p>Oracla funde. Sed. Ludimur? An aures mihi</p>
+  <p>Violavit illinc hostia infandi sonus?</p>
+  <p>Non ludor, hic est bellua, irarum novos</p>
+  <p>Suffigit animo redditus stimulos dolor.</p>
+  <p>(1615) Fit omne rursus et recrudescit nefas.</p>
+  <p>Regum tyranne, seculi exitium, lues,</p>
+  <p>Conviva miles, fortis ad puerum necem,</p>
+  <p>Sed patre revincto, sceptra quid foedas manu?</p>
+  <p>Non tibi vetustum nobili a stirpe est genus,</p>
+  <p>(1620) Tellure natus regium incestas decus.</p>
+  <p>Solymam tui vicere, post pugnas tuum est,</p>
+  <p>Puerum cruore ludere, et strata super</p>
+  <p>Bellare mensa. Nab. Quis mei indicium facit?</p>
+  <p>Luminibus orbi forsitan Apellae vident?</p>
+  <p>(1625) Sed. Visu carentem cetera ut lateant satis,</p>
+  <p>Tu non latebis. Coge membratim mori</p>
+  <p>Reliquos per artus, omne quo voces meant</p>
+  <p>Iter recide, non tamen sensum tui</p>
+  <p>Abstuleris umquam. Absiste qui noctem hanc regis,</p>
+  <p>(1630) Solus sagaci nare deprendam feram,</p>
+  <p>Frangamque morsu. Nab. Quin tibi procacem prius</p>
+  <p>Linguam hanc revelli iussero. Sed. At vultu satis</p>
+  <p>Tuam tacens mutusque barbariem loquar.</p>
+  <p>Nab. Moriere. Sed. Quis me compotem voti facit?</p>
+  <p>(1635) Non est tyrannus. Moriar. O laetum diem!</p>
+  <p>Te, te vel umbra Tartari erumpens specu,</p>
+  <p>Te pater inultus prole cum tota petam,</p>
+  <p>Stygiamque vibrans propius ac propius facem</p>
+  <p>Sequar usque et usque. Nulla nox animum tibi</p>
+  <p>(1640) Faciet quietum, nulla securum dies.</p>
+  <p>Nab. Vmbras minare, spectra quae caeci vident,</p>
+  <p>Dum tibi superbo colla prosubigam pede,</p>
+  <p>Vivumque vivus ipse post currum traham.</p>
+  <p>Curate famuli, tota Babylonem ocyus</p>
+  <p>(1645) Pompa ut sequatur; iste praetentans viam</p>
+  <p>Baculo senili, currui adiunctus meo,</p>
+  <p>Diadema victi praeferat regis notam.</p>
+  <p>Sed. Ibo, ibo, magne ductor, et fortem manum,</p>
+  <p>Clarumque facinus hisce testabor notis.</p>
+  <p>(1650) Adeste populi, quosque sublimis videt</p>
+  <p>Mundi Bootes cardinem ignavum premens,</p>
+  <p>Et queis perustum verticem Phoebus rota</p>
+  <p>Propiore crispat. Nullus haec taceat dies,</p>
+  <p>Totisque saeclis audiam infelix pater,</p>
+  <p>(1655) Dum tu tyrannus. Adsit et vindex notet,</p>
+  <p>Quo te minorem gerere detrectas,
+  <hi rend="italic">Deus</hi>,</p>
+  <p>Suumque servet liberis epulum tuis.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+        
+    </body>
+</text>
+</TEI>

@@ -162,7 +162,7 @@ Morosophus, De vera ac personata Sapientia. Comoedia non minus festiva
 quam pia Morosophi titulo inscripta autore Gulielmo Gnapheo Hagensi ludi
 litterarii apud Elbingenses moderatore.
 
-## Argumentum Comoediae.
+# 1. Argumentum Comoediae.
 
 Trimetri legitimi.
 
@@ -212,7 +212,7 @@ Atque illius sacram domum revisere,
 
 Coelestia inde ut hauriat mathemata.
 
-## Prologus.
+# 2. Prologus.
 
 Trimetri legitimi.
 
@@ -312,7 +312,7 @@ Cognoscite autem, Morosophus ut ganniat
 
 Utque hunc suus Genius sale aspergat nigro.
 
-## Actus primus. \[scaena prima.\]
+# 3. Actus primus. \[scaena prima.\]
 
 Trimetri legitimi.
 
@@ -488,7 +488,7 @@ Hominisque monstrum ut dignus est tractate. *Mor.* Ehem,
 
 *Gen.* Quid hoc? Mane, suas Midae aureis assuam.
 
-## Actus primi Scaena II.
+# 4. Actus primi Scaena II.
 
 Trimetri Comici.
 
@@ -641,7 +641,7 @@ Benigne ergo facis, qui te modo proferas.
 
 *Mor.* Ne me interpella, dum Diis vota nuncupo.
 
-## Actus primi Scena III.
+# 5. Actus primi Scena III.
 
 Tigellius Morosophus Dromo.
 
@@ -675,7 +675,7 @@ Ridendum. *Dro.* Habes, here, organa omnia. *Mor.* Hem, rectest.
 
 Instructus, euge, iam negotium tento.
 
-## Actus primi Scaena IIII.
+# 6. Actus primi Scaena IIII.
 
 Morosophus Tigellius Dromo Geta.
 
@@ -812,7 +812,7 @@ Eo ad forum; Pulchra o Laverna, da mihi istos fallere,
 
 Ne vapulem miser, si nihil obsonii referam domum.
 
-## Actus secundus \[Scena I\]
+# 7. Actus secundus \[Scena I\]
 
 Simus Crito
 
@@ -856,7 +856,7 @@ Solo e loco secumque multa disputat.
 
 Rogabo quid valeat, quid hanc cladem ferat.
 
-## Actus Secundi Scena II.
+# 8. Actus Secundi Scena II.
 
 Simus Crito Dromo.
 
@@ -1012,7 +1012,7 @@ Quos tu ruis? *Sim.* Sine ingrediar, Sophum volo.
 
 *Drom.* Si quidem quid adfers hae tibi patent fores.
 
-## Actus secundi Scena III
+# 9. Actus secundi Scena III
 
 Sophia sola
 
@@ -1176,7 +1176,7 @@ Incommodent, si Numen hoc meum exeram,
 
 Ego vos tuebor virgines, quiescite.
 
-## Actus secundi scena IIII.
+# 10. Actus secundi scena IIII.
 
 Theophilus Philocalus Sophia.
 
@@ -1440,7 +1440,7 @@ Germane, eamus intro quam primum obsecro.
 
 \’Haerere in aliqua parte apud Sophiam, optimum.\’
 
-## Actus tertii scena prima.
+# 11. Actus tertii scena prima.
 
 Simus solus.
 
@@ -1496,7 +1496,7 @@ Quidvis agam, modo hoc ne agam. Sed per tempus Crito advenit.
 
 Huic ostendam, quidnam boni ominis dent istae chartulae.
 
-## Actus tertii scena II.
+# 12. Actus tertii scena II.
 
 Crito Simus.
 
@@ -1588,7 +1588,7 @@ Metus. *Cri.* Vah, curis solver atque affectibus. \[solvor?\]
 
 Nos dixerint. *Cri.* Aspergamus aquas amplius.
 
-## Actus tertii scena III.
+# 13. Actus tertii scena III.
 
 Crito Simus Chorus.
 
@@ -1640,7 +1640,7 @@ Io Paean, io Paean.
 
 Operantur, quam nos Moriae mystae sacri.\’
 
-## Actus tertii Scena IIII.
+# 14. Actus tertii Scena IIII.
 
 Eutychus Sophrona.
 
@@ -1804,7 +1804,7 @@ Quamquam immerentibus, benigne facere. Proin
 
 Ibo intro, quodque potero, faciam sedulo.
 
-## Actus quartus.
+# 15. Actus quartus.
 
 Morosophus solus.
 
@@ -1878,7 +1878,7 @@ Autoritatem, comparem sane bonam,
 
 Nam vestis, ut vulgo ferunt, virum facit.
 
-## Actus quarti scena II.
+# 16. Actus quarti scena II.
 
 Simus Crito Chorus
 
@@ -1944,7 +1944,7 @@ Intercalare.
 
 Io Paean, io Paean.
 
-## Actus IIII scena III.
+# 17. Actus IIII scena III.
 
 Morosophus Simus Crito Dromo
 
@@ -2192,7 +2192,7 @@ Aselle transfuga? *Mor.* Mitte me, aut malum dabo.
 
 Abite, quid cunctamini? En baculum tibi.
 
-## Actus IIII Scena IIII.
+# 18. Actus IIII Scena IIII.
 
 Morosophus solus
 
@@ -2238,7 +2238,7 @@ Genus quod eligam mihi, quid inceptem,
 
 Vah, huius mali autorem esse, meo plaustro? Ah.
 
-## Actus IIII Scena V.
+# 19. Actus IIII Scena V.
 
 Simus Crito Morosophus.
 
@@ -2298,7 +2298,7 @@ Se adflarier, nam somniis libens credis
 
 Homo vanus, atque somniator insignis.
 
-## Actus IIII Scena VI.
+# 20. Actus IIII Scena VI.
 
 Theophilus Philocalus Sophrona.
 
@@ -2486,7 +2486,7 @@ Quod comparare iussa sum, frugalius
 
 Obsonium e foro adfero piae hospiti?
 
-## Actus Quintus
+# 21. Actus Quintus
 
 Simus Crito.
 
@@ -2517,7 +2517,7 @@ Deme supercilio nubem.
 
 *Cri.* Nocuit differre paratis.
 
-## Actus V Scena II.
+# 22. Actus V Scena II.
 
 Morosophus Simus Crito.
 
@@ -2599,7 +2599,7 @@ Quibus bene conscia mens nihil doloris usque parturit
 
 Quando deorum afflatus hoc mandare in somnis visus est?
 
-## Actus V Scena III.
+# 23. Actus V Scena III.
 
 Simus Crito Morosophus.
 
@@ -2661,7 +2661,7 @@ Meae mentis ocio ac tranquillitati consulam?
 
 Valeat Sapientia, valeat fastus, valeat Soph\[ôo\]n chorus.
 
-## Actus V Scena IIII.
+# 24. Actus V Scena IIII.
 
 Simus Crito Morosophus Chorus.
 
@@ -2801,7 +2801,7 @@ Intercalare
 
 Io Paean, io Paean.
 
-## Actus V Scena V.
+# 25. Actus V Scena V.
 
 Theophilus Morosophus Simus Crito.
 
@@ -3057,7 +3057,7 @@ Mentem quid ardor occupet, quamque aestuet.
 
 *The.* Age, age, illius subeamus aedem supplices.
 
-## Actus V Scena VI.
+# 26. Actus V Scena VI.
 
 Sophia Theophilus Morosophus.
 

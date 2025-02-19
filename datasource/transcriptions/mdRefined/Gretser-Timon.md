@@ -54,7 +54,7 @@ Actus hosque mei pignus amoris habe. «20»
 
 
 
-## Prologus
+# 1. Prologus
 
 Salvete, spectatores ornatissimi.
 
@@ -206,7 +206,7 @@ Synopsisque brevis quae sunt futura omnium.
 
 ≤line=75≥ Abeo, valete, pensum persolvi meum.
 
-## Actus primi scena sexta.
+# 2. Actus primi scena sexta.
 
 Plutus, Desidia, Ocium, comites Pluti.
 
@@ -284,7 +284,7 @@ Inanem sumet operam, non me detrahet
 
 Rodendo scabendoque celsis sedibus poli.
 
-## Actus secundi, scena prima
+# 3. Actus secundi, scena prima
 
 Timon, Gnatonides, Gastrophilus, Gemoenus parasiti
 

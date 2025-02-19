@@ -54,7 +54,7 @@ Alis levatus ipse ad astra hinc evolo.
 
 
 
-## ACTUS I.
+# 1. ACTUS I.
 
 
 
@@ -190,7 +190,7 @@ Dedicat hanc genio Caesar cum coniuge noctem,
 
 O nox perpetuo carmine digna coli!
 
-## ACTUS II.
+# 2. ACTUS II.
 
 
 
@@ -323,7 +323,7 @@ Vivite felices ambo, dum vita superstes,
 
 Et locet aethereo vos deus inde polo!
 
-## ACTUS III.
+# 3. ACTUS III.
 
 
 
@@ -494,7 +494,7 @@ Vistulam et duras Codani per undas
 
 Et vada Rheni.
 
-## ACTUS IV.
+# 4. ACTUS IV.
 
 
 
@@ -549,7 +549,7 @@ Atque hos Caesareis, rex bone, pasce cibis.
 Hinc rursus silentium et pocula aurea et paterae per regios pincernas
 circumlatae et inter pocula pulsata tympana et cornua.
 
-## ACTUS V.
+# 5. ACTUS V.
 
 
 

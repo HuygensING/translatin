@@ -203,7 +203,7 @@ Saecula vel rursus prisca rediisse putet.
 
 
 
-## PERSONAE.
+# 1. PERSONAE.
 
 IESUS CHRISTUS dominus noster.
 
@@ -239,7 +239,7 @@ TRAGOEDIA
 
 CHRISTUS PATIENS.
 
-## ACTUS PRIMUS.
+# 4. ACTUS PRIMUS.
 
 IESUS.
 
@@ -715,7 +715,7 @@ Qui domi servit. Miserae tenemus
 
 ≤line=235≥ Semper Aegyptum, patriamque nunquam.
 
-## ACTUS SECUNDUS.
+# 6. ACTUS SECUNDUS.
 
 PETRUS.
 
@@ -1287,7 +1287,7 @@ Sancte precamur, votisque piis
 
 Tandem praesens disce vocari.
 
-## ACTUS TERTIUS.
+# 8. ACTUS TERTIUS.
 
 IUDAS. CAIAPHAS.
 
@@ -1841,7 +1841,7 @@ Potuere aliis reddere vitam,
 
 ≤line=790≥ Se nemo sibi.
 
-## ACTUS QUARTUS.
+# 11. ACTUS QUARTUS.
 
 NUNTIUS PRIOR. CHORUS IUDAEARUM MULIERUM. NUNTIUS ALTER.
 
@@ -2595,7 +2595,7 @@ Insons sume caput. Non potuit dari
 
 Aris ulla tuis dignior hostia.
 
-## ACTUS QUINTUS.
+# 16. ACTUS QUINTUS.
 
 IOSEPHUS ARIMATHENSIS. NICODEMUS.
 

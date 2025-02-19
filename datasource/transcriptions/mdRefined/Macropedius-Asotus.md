@@ -100,7 +100,7 @@ Epulantur et ducunt choros cum gaudio.
 
 
 
-## DRAMATIS PERSONAE.
+# 1. DRAMATIS PERSONAE.
 
 Prologus Diaboli duo
 
@@ -122,7 +122,7 @@ Thryptus
 
 Cometa servi frugi Chorus ex pueris et puellulis.
 
-## PROLOGUS.
+# 2. PROLOGUS.
 
 Iambico trimetro.
 
@@ -292,7 +292,7 @@ Silentium praebete. Non decet uti eos
 
 Sermonis officio, ad theatrum qui appetunt.
 
-## ACTUS I. SCAENA I.
+# 3. ACTUS I. SCAENA I.
 
 Versus sunt iambici trimetri.
 
@@ -508,7 +508,7 @@ Licentiam res pessum eat domestica;
 
 Cras rediero. COM. Sospes redi, sospes vale.
 
-## ACTUS I. SCAENA II.
+# 4. ACTUS I. SCAENA II.
 
 Iambici trimetri vel senarii.
 
@@ -556,7 +556,7 @@ Ipsum volo praevortere, ut ropalo fores
 
 Non pulsitet, donec ea quae volo fecerit.
 
-## ACTUS I. SCAENA III.
+# 5. ACTUS I. SCAENA III.
 
 Senarii iambici.
 
@@ -738,7 +738,7 @@ Et ulmei et phoenicei faxo sient.
 
 Strident fores: an aliquis audeat egredi?
 
-## ACTUS I. SCAENA IV.
+# 6. ACTUS I. SCAENA IV.
 
 Trimetri, ut superiores.
 
@@ -900,7 +900,7 @@ Obitis referre gratiam,
 
 Stude et vicissitudinem.
 
-## ACTUS II. SCAENA I.
+# 8. ACTUS II. SCAENA I.
 
 Iambici tetrametri.
 
@@ -1012,7 +1012,7 @@ TRI. Servum innocentem omnia decet perferre mala, quanto magis
 
 ≤line=425≥ Nos, qui innumera commisimus. Vale. DAE. Valete. ------------
 
-## ACTUS II. SCAENA II.
+# 9. ACTUS II. SCAENA II.
 
 Octonarii, ut superiores.
 
@@ -1075,7 +1075,7 @@ Trux carnifex. Timeo faciat in me impetum, ita torsit ferox
 
 Voltum. Ast eo obviam et capite demisso honorem exhibuero.
 
-## ACTUS II. SCAENA III.
+# 10. ACTUS II. SCAENA III.
 
 Tetrametri, ut superiores.
 
@@ -1170,7 +1170,7 @@ Nunc carbasa (inquam) Euro dabo atque frena laxabo genio.
 
 Exit Colax ad haec probe exigenda mire accommodus.
 
-## ACTUS II. SCAENA IV.
+# 11. ACTUS II. SCAENA IV.
 
 Iambici senarii.
 
@@ -1232,7 +1232,7 @@ Quid arguo, cuius meam dementia
 
 Gulam beat? Canet: haud videntem se videt.
 
-## ACTUS II. SCAENA V.
+# 12. ACTUS II. SCAENA V.
 
 Iambici dimetri et trimetri.
 
@@ -1496,7 +1496,7 @@ Non initio resistitur,
 
 Peius priore pertrahit.
 
-## ACTUS III. SCAENA I.
+# 14. ACTUS III. SCAENA I.
 
 Iambici senarii.
 
@@ -1556,7 +1556,7 @@ Sis propitius, non convenit, minime expedit.
 
 Crepit ostium: videbo clam, quis exeat.
 
-## ACTUS III. SCAENA II.
+# 15. ACTUS III. SCAENA II.
 
 Trimetri, ut superiores.
 
@@ -1631,7 +1631,7 @@ Si conferatur oeconomo. At ego nunc sequor.
 
 Clausum ostium est, validissime pulsavero.
 
-## ACTUS III. SCAENA III.
+# 16. ACTUS III. SCAENA III.
 
 Senarii.
 
@@ -1701,7 +1701,7 @@ Quin advolas? His, credo, provocabitur
 
 Sermonibus. ------------
 
-## ACTUS III. SCAENA IV.
+# 17. ACTUS III. SCAENA IV.
 
 Senarii.
 
@@ -1813,7 +1813,7 @@ Inclamitant divos. Atat, quid hoc mali?
 
 Celerius haec dirimenda, ne gliscat malum.
 
-## ACTUS III. SCAENA V.
+# 18. ACTUS III. SCAENA V.
 
 Trimetri.
 
@@ -1855,7 +1855,7 @@ Procedam, ut audiam atque consulam probe
 
 (Si quivero) bonae adolescentis indoli.
 
-## ACTUS III. SCAENA VI.
+# 19. ACTUS III. SCAENA VI.
 
 Senarii.
 
@@ -1949,7 +1949,7 @@ Me sequere, ut animi causa eamus quolibet.
 
 ASO. Non te sequor. COME. Turbatus est. Heus, te sequor.
 
-## ACTUS III. SCAENA VII.
+# 20. ACTUS III. SCAENA VII.
 
 Iambici tetrametri.
 
@@ -2003,7 +2003,7 @@ Therapontas animadvorterim. Producite illos huc foras,
 
 Lorarii, quo iusseram intus ordine. Producite. THR. Heu.
 
-## ACTUS III. SCAENA VIII.
+# 21. ACTUS III. SCAENA VIII.
 
 Octonarii, ut superiores.
 
@@ -2097,7 +2097,7 @@ Post furta, scorta, libidines ad veritatis tramitem
 
 ≤line=920≥ Reduxero. Ite pueri, Asotum quaerite, ut compareat.
 
-## ACTUS III. SCAENA IX.
+# 22. ACTUS III. SCAENA IX.
 
 Senarii.
 
@@ -2213,7 +2213,7 @@ ASO. Ille abiit, ego recta ad patrem processero
 
 ≤line=975≥ Omnemque rem, quae ad me attinet, petivero.
 
-## ACTUS III. SCAENA X.
+# 23. ACTUS III. SCAENA X.
 
 Senarii.
 
@@ -2329,7 +2329,7 @@ Et portionem, quam requiris, supputem.
 
 ≤line=1030≥ Eheu miser. ASO. Ne lacrima, pater. Sequor.
 
-## ACTUS III. SCAENA XI.
+# 24. ACTUS III. SCAENA XI.
 
 Dimetri.
 
@@ -2467,7 +2467,7 @@ Et in omnibus, quae impune agis,
 
 Finem subinde respice.
 
-## ACTUS IV. SCAENA I.
+# 26. ACTUS IV. SCAENA I.
 
 Iambici trimetri.
 
@@ -2529,7 +2529,7 @@ Libet mihi observare, quid vel egerint
 
 Vel dixerint. ------------
 
-## ACTUS IV. SCAENA II.
+# 27. ACTUS IV. SCAENA II.
 
 Trimetri.
 
@@ -2607,7 +2607,7 @@ Et commodum ex foro redit Philaetius
 
 In agrum iturus. Aggrediar et alloquar.
 
-## ACTUS IV. SCAENA III.
+# 28. ACTUS IV. SCAENA III.
 
 Trimetri.
 
@@ -2677,7 +2677,7 @@ Obtrusero haec, si vera sint. Eccum procul.
 
 Tu, abi domum, stude parandis piscibus.
 
-## ACTUS IV. SCAENA IV.
+# 29. ACTUS IV. SCAENA IV.
 
 Trimetri.
 
@@ -2733,7 +2733,7 @@ Tribonius reversus (eccum eum procul)
 
 Recturus est. ------------
 
-## ACTUS IV. SCAENA V.
+# 30. ACTUS IV. SCAENA V.
 
 Trimetri.
 
@@ -2873,7 +2873,7 @@ Rem hereditariam. At aperitur ostium.
 
 ≤line=1280≥ Procedit huc senex foras, silendum erit.
 
-## ACTUS IV. SCAENA VI.
+# 31. ACTUS IV. SCAENA VI.
 
 Trimetri.
 
@@ -2959,7 +2959,7 @@ THR. Faciam libens. Ibo, redibo ocissime.
 
 ≤line=1320≥ EUM. Satage. Intus est quod interim peregero.
 
-## ACTUS IV. SCAENA VII.
+# 32. ACTUS IV. SCAENA VII.
 
 Tetrametri.
 
@@ -3062,7 +3062,7 @@ Valeat Philaetius tenax, valeant amici ceteri.
 
 Nostros amores exigamus sedulo. PLA. Concedimus.
 
-## ACTUS IV. SCAENA VIII.
+# 33. ACTUS IV. SCAENA VIII.
 
 Tetrametri, ut superiores.
 
@@ -3208,7 +3208,7 @@ Ne post tuam petulantiam
 
 Cum re salutem perduas.
 
-## ACTUS V. SCAENA I.
+# 35. ACTUS V. SCAENA I.
 
 Iambici trimetri.
 
@@ -3266,7 +3266,7 @@ Nanciscier. Nam sic parare, inhonestius.
 
 ≤line=1460≥ Strident fores; periero, si videar seni.
 
-## ACTUS V. SCAENA II.
+# 36. ACTUS V. SCAENA II.
 
 Trimetri.
 
@@ -3420,7 +3420,7 @@ Partum est tua κολακίᾳ. Non iam places.
 
 Lactandus alius, qui tuam ingluviem expleat.
 
-## ACTUS V. SCAENA III.
+# 37. ACTUS V. SCAENA III.
 
 Tetrametri.
 
@@ -3508,7 +3508,7 @@ Quid cesso compellare longius, priusquam ab aedibus
 
 ≤line=1575≥ Abscedat aut me quispiam rei antevortat nuntius?
 
-## ACTUS V. SCAENA IV.
+# 38. ACTUS V. SCAENA IV.
 
 Quadrati, ut superiores.
 
@@ -3652,7 +3652,7 @@ Quasi e gravi somno excitus videor renatus denuo.
 
 Ades, Merimne, citus; ades, Triboni; adeste celeriter.
 
-## ACTUS V. SCAENA V.
+# 39. ACTUS V. SCAENA V.
 
 Octonarii, ut superiores.
 
@@ -3757,7 +3757,7 @@ Gnatus meus, qui mortuus fuerat, revixit spiritu, et
 
 ≤line=1690≥ Qui perierat, repertus est. MER. Parebimus. EUM. Celerrime.
 
-## ACTUS V. SCAENA VI.
+# 40. ACTUS V. SCAENA VI.
 
 Iambici trimetri.
 
@@ -3845,7 +3845,7 @@ Resciveram. Nunc itaque, gnate, tuam improbam
 
 EUM. Heus, nondum adestis? ------------
 
-## ACTUS V. SCAENA VII.
+# 41. ACTUS V. SCAENA VII.
 
 Trimetri.
 
@@ -3903,7 +3903,7 @@ Tu me sequere, fili. ASO. Sequor, pater, praei.
 
 Mihi liceat. EUM. Sis bono animo, placabitur.
 
-## ACTUS V. SCAENA VIII.
+# 42. ACTUS V. SCAENA VIII.
 
 Senarii, ut superiores.
 
@@ -4017,7 +4017,7 @@ Laetifica. PHI. Enim non introibo. TRI. Age, mi ere. PHI. Abi.
 
 ≤line=1810≥ TRI. Iratus est, salute fratris lividus.
 
-## ACTUS V. SCAENA ULTIMA.
+# 43. ACTUS V. SCAENA ULTIMA.
 
 Trimetri.
 

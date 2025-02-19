@@ -286,7 +286,7 @@ Soter Gloriosus.
 
 
 
-## Prologus.
+# 1. Prologus.
 
 Iambici Senarij.
 
@@ -400,11 +400,11 @@ Quàm thema facti dixerit, non fabulam.
 
 ≤page=11≥
 
-## Argumentum.
+# 2. Argumentum.
 
 Idem genus carminis.
 
-## Actus 1.
+# 3. Actus 1.
 
 SOtére Iesu condito subter lapidem
 
@@ -466,11 +466,11 @@ Porta vel Rus. Synagoga.
 
 Domus matris Marci, quò conueniebant discipuli.
 
-## Personae.
+# 4. Personae.
 
 Primo: Recitator prologi, periochae siue argumenti, & perorationis.
 
-## Interlocutores.
+# 5. Interlocutores.
 
 Maria Magdalena. Caiphas.
 
@@ -496,7 +496,7 @@ Christus apparens.
 
 ≤page=13≥
 
-## Actus primi Scena prima.
+# 6. Actus primi Scena prima.
 
 Maria Magdalena, Jacobi, Salome.
 
@@ -680,7 +680,7 @@ Etsi via longa, faxo.
 
 ≤page=16≥
 
-## Actus primi Scena secunda.
+# 7. Actus primi Scena secunda.
 
 Gabriel vnus Angelorum, progressus ad septa maceriae.
 
@@ -880,7 +880,7 @@ Procul tremore dissipatos exigam,
 
 Regnare numen hoc vt eiulent solo.
 
-## Actus primi Scena tertia.
+# 8. Actus primi Scena tertia.
 
 Magdalena, Gabriel Angelus, Gillo & Casca.
 
@@ -944,7 +944,7 @@ Responsa reddere mens mihi non suppetet.
 
 CAS. Solúsne? neuter alteri improperauerit.
 
-## Actus primi Scena quarta.
+# 9. Actus primi Scena quarta.
 
 Magdalena, Maria Jacobi, Gabriel Angelus.
 
@@ -1028,7 +1028,7 @@ MAR.IAC. Terricula mira, non queo
 
 Jncolumis hic manere.
 
-## Actus primi Scena quinta.
+# 10. Actus primi Scena quinta.
 
 Maria Magdalena. Christus in specie hortulani.
 
@@ -1112,7 +1112,7 @@ Eo, atque gesta, visa simul ex ordine
 
 ≤line=280≥ Narrabo memoriter vndecim.
 
-## Actus secundi Scena prima.
+# 11. Actus secundi Scena prima.
 
 Maria, Joannes.
 
@@ -1324,7 +1324,7 @@ Et sindonem seorsum, ais,
 
 Spectasse proprijs oculis.
 
-## Actus secundi Scena secunda.
+# 12. Actus secundi Scena secunda.
 
 Lucas, Cleophas, Christus.
 
@@ -1594,7 +1594,7 @@ Decedat? CH. Ohe. LV. abs tam praescio mysterij,
 
 ≤line=505≥ Nisi satur, auelli haud queam.
 
-## Actus secundi Scena tertia.
+# 17. Actus secundi Scena tertia.
 
 Cayphas, Casca, Gillo, Amos.
 
@@ -1806,7 +1806,7 @@ Silentium est, vbi mutua conscientia.
 
 CAS. Vale Caipha. CAI. Valete, sed pacti memores.
 
-## Actus secundi Scena quarta.
+# 18. Actus secundi Scena quarta.
 
 Lucas, Cleophas.
 
@@ -1893,7 +1893,7 @@ Jnuidisse alijs ne videamur hunc
 
 Nuntium, Lucas, bene suades.
 
-## Actus tertii Scena prima.
+# 19. Actus tertii Scena prima.
 
 Christus solus.
 
@@ -1935,7 +1935,7 @@ Vt me videntes praesto teneant firmi apud
 
 Se: quod Deus Dominusque viuo in saecula.
 
-## Actus tertii Scena secunda.
+# 20. Actus tertii Scena secunda.
 
 Maria virgo, Maria Magdalena, Maria Salome.
 
@@ -2109,7 +2109,7 @@ Haec conferamus, atque
 
 Jteris diem notemus.
 
-## Actus tertij Scena tertia.
+# 21. Actus tertij Scena tertia.
 
 Petrus, Barpt. Phil. Christus.
 
@@ -2407,7 +2407,7 @@ Exurge a mortis nocte, & i, me lumine.
 
 ≤page=44≥
 
-## Actus tertij Scena quarta.
+# 24. Actus tertij Scena quarta.
 
 Philippus, Joannes.
 
@@ -2463,7 +2463,7 @@ IOAN. Opinor. PH. Ergo triste iudicium reuoco,
 
 ≤page=45≥
 
-## Actus tertij Scena quinta.
+# 25. Actus tertij Scena quinta.
 
 Iacobus Justus, frater Domini, Thomas Dydimus.
 
@@ -2543,7 +2543,7 @@ Quid vero credit? THO. Ita est animus.
 
 Palam caue aliquem offendere.
 
-## Actus quarti Scena prima.
+# 26. Actus quarti Scena prima.
 
 Christus solus.
 
@@ -2625,7 +2625,7 @@ Tot, tamque subito, viribus hominum prehendi,
 
 Sic gloria accrescet Deo.
 
-## Actus quarti Scena secunda.
+# 27. Actus quarti Scena secunda.
 
 Petrus, Thomas, Nathanael.
 
@@ -2701,7 +2701,7 @@ NAT. Cras alterum interest. PE. Vice fortunae Deum.
 
 ≤page=49≥
 
-## Actus quarti Scena tertia.
+# 28. Actus quarti Scena tertia.
 
 Osias, Machir.
 
@@ -2845,7 +2845,7 @@ Simul vacauerit, etiam atque etiam penitus
 
 Fidemque veri dogmate amplectar prius.
 
-## Actus quarti Scena quarta.
+# 29. Actus quarti Scena quarta.
 
 Philippus solus recurrens Hierosolymam.
 
@@ -3001,7 +3001,7 @@ Quid est morae nunc, quo minus potens mei
 
 Jter capessam: profugio.
 
-## Actus quinti Scena prima.
+# 30. Actus quinti Scena prima.
 
 Jacobus Justus, Osias, Thomas.
 
@@ -3093,7 +3093,7 @@ Praecepta Domini conferendo ad inuicem.
 
 Dictúmne. IA. nempe, nequid effluat. TH sequimur.
 
-## Actus quinti Scena secunda.
+# 31. Actus quinti Scena secunda.
 
 Petrus, Chorus discipulorum per os Ioannis vel Iacobi.
 
@@ -3233,7 +3233,7 @@ CHO. Placet auspicari?: PET. rite principio preces
 
 Fundantur. ita procedet opus.
 
-## Actus quinti Scena tertia.
+# 32. Actus quinti Scena tertia.
 
 Syba seruus presbyteri solus.
 
@@ -3341,7 +3341,7 @@ Nae signifer ego vapularem!
 
 Tutius est vim agere in culinam.
 
-## Act. quinti Sce. quarta, & vltima.
+# 33. Act. quinti Sce. quarta, & vltima.
 
 Christus, Chorus discíp. per os Petri.
 
@@ -3531,7 +3531,7 @@ Amen.
 
 
 
-## Peroratio.
+# 38. Peroratio.
 
 Senarij.
 

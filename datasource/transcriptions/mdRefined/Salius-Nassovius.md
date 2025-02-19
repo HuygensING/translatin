@@ -19,7 +19,7 @@ PANAGII SALII NASSOVIUS TRAGOEDIA.
 
 
 
-## Dramatis Personae
+# 1. Dramatis Personae
 
 Nassovius. Holachius.
 
@@ -31,7 +31,7 @@ Satelles. Nuntius.
 
 **Chorus.**
 
-## ACTUS PRIMUS.
+# 3. ACTUS PRIMUS.
 
 *Nassovius, Holachius.*
 
@@ -461,7 +461,7 @@ Aut dantem populis iura tyrannide!
 
 ≤line=205≥ Id fortuna nimis Nassovii docet.
 
-## ACTUS SECUNDUS.
+# 5. ACTUS SECUNDUS.
 
 *Gerardus.*
 
@@ -787,7 +787,7 @@ Nudavitque bonis omnibus incolas
 
 Longis seditionibus.
 
-## ACTUS TERTIUS.
+# 7. ACTUS TERTIUS.
 
 *Colignia, Nutrix.*
 
@@ -1242,7 +1242,7 @@ Vivatque secure quietus,
 
 Conscia quem minime premit mens.
 
-## ACTUS QUARTUS.
+# 9. ACTUS QUARTUS.
 
 *Gerardus.*
 
@@ -1472,7 +1472,7 @@ Hostis, occidi poterit latenter.
 
 Altera vulpes.
 
-## ACTUS QUINTUS.
+# 11. ACTUS QUINTUS.
 
 *Nutrix.*
 

@@ -37,7 +37,7 @@ Euphratis. Chorus est ex bonis spiritibus, quos Angelos vocamus. Sathan
 
 
 
-## ACTUS PRIMUS.
+# 1. ACTUS PRIMUS.
 
 Trimetri iambici.
 
@@ -669,7 +669,7 @@ Possit ut illo sata progenies
 
 Supplere locum.
 
-## ACTUS SECUNDUS.
+# 3. ACTUS SECUNDUS.
 
 ADAMUS, ANGELUS.
 
@@ -1743,7 +1743,7 @@ Si quid erit malorum,
 
 Sanctorumque chorus modulabitur omnis *Alleluia.*
 
-## ACTUS III.
+# 5. ACTUS III.
 
 SATHAN, ADAMUS.
 
@@ -2137,7 +2137,7 @@ Haeredum serie, nec minor est Dei
 
 Prospectura piis cura minoribus.
 
-## ACTUS IIII.
+# 7. ACTUS IIII.
 
 EVA, SATHAN.
 
@@ -3143,7 +3143,7 @@ Fraude decepit. Mulier maritum
 
 Capta fefellit.
 
-## ACTUS QUINTUS.
+# 9. ACTUS QUINTUS.
 
 SATHAN.
 

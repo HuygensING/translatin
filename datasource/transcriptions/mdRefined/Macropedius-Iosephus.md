@@ -75,7 +75,7 @@ Duxit pudicam gnatam eorum coniugem.
 
 
 
-## DRAMATIS PERSONAE.
+# 1. DRAMATIS PERSONAE.
 
 Prologus Stratophilus Thaltibius praeco
 
@@ -107,7 +107,7 @@ servi
 
 ≤line=4≥ Pistos Sapientes
 
-## PROLOGUS.
+# 2. PROLOGUS.
 
 Cum *Lazarum* dudum suam vos, quos huic
 
@@ -211,7 +211,7 @@ Sed (ut ante dixi) suscipite pro amoribus
 
 **Finis Prologi.**
 
-## ACTUS I. SCAENA I.
+# 4. ACTUS I. SCAENA I.
 
 Versus iambici.
 
@@ -377,7 +377,7 @@ AEG. Adesto Ioseph, ut marito obtemperet.
 
 ≤line=130≥ Adesto. ------------
 
-## ACTUS I. SCAENA II.
+# 5. ACTUS I. SCAENA II.
 
 Iambici trimetri.
 
@@ -555,7 +555,7 @@ Sed eccum adest sub sole formosissimus.
 
 ≤line=215≥ Qui cor meum iaculis amoris vulnerat.
 
-## ACTUS I. SCAENA III.
+# 6. ACTUS I. SCAENA III.
 
 \< Trimetri, ut ubique\>.
 
@@ -673,7 +673,7 @@ Quis callidae huius feminae mentem queat
 
 Non absque causa familiam mittet foras.
 
-## ACTUS I. SCAENA IV.
+# 7. ACTUS I. SCAENA IV.
 
 SERVI duo, ANCILLAE duae, ASENATH, IOSEPH.
 
@@ -819,7 +819,7 @@ Propter humani generis salutem
 
 Cuncta creavit.
 
-## ACTUS II. SCAENA I.
+# 9. ACTUS II. SCAENA I.
 
 Trimetri.
 
@@ -879,7 +879,7 @@ Effundere soleo. Ut aliquantulum suo
 
 Cui tamen erile nefas, nefas est prodere.
 
-## ACTUS II. SCAENA II.
+# 10. ACTUS II. SCAENA II.
 
 AEGLA, PHRONIMUS.
 
@@ -911,7 +911,7 @@ Exaudiam. Si namque nil mali struat
 
 ≤line=380≥ Cum illis doli, mala verba dabit et verbera.
 
-## ACTUS II. SCAENA III.
+# 11. ACTUS II. SCAENA III.
 
 AEGLA, CATHARIS, AGNE, PHRONIMUS.
 
@@ -1063,7 +1063,7 @@ CAT. Cuiusnam? PHR. Erae. Silete, praestat ingredi.
 
 Carcer sonat, ego abibo quo mihi iusserat.
 
-## ACTUS II. SCAENA IV.
+# 12. ACTUS II. SCAENA IV.
 
 IOSEPH, DESMOPHYLAX, AEGLA.
 
@@ -1295,7 +1295,7 @@ Vale ut meres, ingrate Ioseph. Hora erit
 
 Cum te velis mihi misertum. Proh dolor.
 
-## ACTUS II. SCAENA V.
+# 13. ACTUS II. SCAENA V.
 
 IOSEPH solus.
 
@@ -1331,7 +1331,7 @@ Dee Sabaoth, da vincere et da perpeti.
 
 Quid hoc? ------------
 
-## ACTUS II. SCAENA VI.
+# 14. ACTUS II. SCAENA VI.
 
 SERVI duo, ANCILLAE duae, IOSEPH, ASENATH.
 
@@ -1435,7 +1435,7 @@ Reliquerim. Satius tamen rem debitam
 
 Curare, quidvis ingruerit, et ingredi.
 
-## ACTUS II. SCAENA VII.
+# 15. ACTUS II. SCAENA VII.
 
 IOSEPH, AEGLA.
 
@@ -1525,7 +1525,7 @@ Tibi pallium, quo salva sit mihi castitas.
 
 Adeste! Proh. Vim patior a viro improbo.
 
-## ACTUS II. SCAENA VIII.
+# 16. ACTUS II. SCAENA VIII.
 
 FAMILIA, IOSEPH, AEGLA.
 
@@ -1599,7 +1599,7 @@ Quis omnia haec constructa per calumniam
 
 Adest Ioseph tristior, loquatur is.
 
-## ACTUS II. SCAENA IX.
+# 17. ACTUS II. SCAENA IX.
 
 IOSEPH, PISTUS, PHRONIMUS.
 
@@ -1765,7 +1765,7 @@ Quisquis ipsam conditori
 
 ≤line=790≥ Praeparat cenaculum.
 
-## ACTUS III. SCAENA I.
+# 19. ACTUS III. SCAENA I.
 
 Trimetri.
 
@@ -1807,7 +1807,7 @@ AEG. Pestem puta. Veniat maritus. STR. Eccum eum.
 
 Quid habet mulier? Ecquid furens intro fugit?
 
-## ACTUS III. SCAENA II.
+# 20. ACTUS III. SCAENA II.
 
 Trimetri, ut reliqui omnes.
 
@@ -1903,7 +1903,7 @@ AEG. Plus video te tribuere moecho quam mihi.
 
 Iam adest domus nostrae columen, interroga.
 
-## ACTUS III. SCAENA III.
+# 21. ACTUS III. SCAENA III.
 
 POTIPHAR, IOSEPH, AEGLA.
 
@@ -2073,7 +2073,7 @@ Abducite. IO. Ere. POT. Non audio. IO. Heu me. POT. Abducite.
 
 Non est malum quod superet iram mulieris.
 
-## ACTUS III. SCAENA IV.
+# 22. ACTUS III. SCAENA IV.
 
 EUPOLEMUS, STRATOPHILUS, IOSEPH, FAMILIA, DESMOPHYLAX.
 
@@ -2129,7 +2129,7 @@ EUP. Facies probe. Ioseph, vale. IO. Valete vos.
 
 Valete virgines et omnis familia.
 
-## ACTUS III. SCAENA V.
+# 23. ACTUS III. SCAENA V.
 
 CATHARIS, AGNE, PHRONIMUS, PISTUS.
 
@@ -2213,7 +2213,7 @@ Ex regia familia, ut habitus indicat.
 
 Spectemus a longe obsecro eventum rei.
 
-## ACTUS III. SCAENA VI.
+# 24. ACTUS III. SCAENA VI.
 
 MINISTRI REGII duo, CAPTIVI duo, DESMOPHYLAX, IOSEPH.
 
@@ -2325,7 +2325,7 @@ Cum tantum mihi fecerit.
 
 Sis, Hebraee, etc.
 
-## ACTUS IV. SCAENA I.
+# 26. ACTUS IV. SCAENA I.
 
 Trimetri.
 
@@ -2447,7 +2447,7 @@ Mihi in alios mox exhibenda munera.
 
 Valete. OEN. Tu divine Ioseph quoque vale.
 
-## ACTUS IV. SCAENA II.
+# 27. ACTUS IV. SCAENA II.
 
 POTIPHAR solus.
 
@@ -2481,7 +2481,7 @@ Hac eruam custodia, atque pristino
 
 Mox alligabo muneri. Hem custos adest.
 
-## ACTUS IV. SCAENA III.
+# 28. ACTUS IV. SCAENA III.
 
 DESMOPHYLAX, POTIPHAR.
 
@@ -2545,7 +2545,7 @@ Qui propter odium feminae lacui insidet.
 
 Sed eccum erum, confecto adest negotio.
 
-## ACTUS IV. SCAENA IV.
+# 29. ACTUS IV. SCAENA IV.
 
 POTIPHAR, DESMOPHYLAX.
 
@@ -2647,7 +2647,7 @@ Si forte rex me quoque velit res serias
 
 Tractare vel quadamtenus disponere.
 
-## ACTUS IV. SCAENA V.
+# 30. ACTUS IV. SCAENA V.
 
 APOTOMUS, HYPERETES.
 
@@ -2677,7 +2677,7 @@ Sub feriis) mox propalet. APO. Pol feriae
 
 Hem tibi virum. ------------
 
-## ACTUS IV. SCAENA VI.
+# 31. ACTUS IV. SCAENA VI.
 
 HYPERETES, DESMOPHYLAX, IOSEPH, CAPTIVI duo.
 
@@ -2721,7 +2721,7 @@ Sunt aperiendo proximi. Intus dixero.
 
 ≤line=1230≥ Praei, sequar. DES. Sic fecerimus honestius.
 
-## ACTUS IV. SCAENA VII.
+# 32. ACTUS IV. SCAENA VII.
 
 HYPERETES, OENOCHOUS, ARTOCOPUS, PARHO.
 
@@ -2985,7 +2985,7 @@ Manet aequa in omnia saecula.
 
 Bacchus, etc.
 
-## ACTUS V. SCAENA I.
+# 34. ACTUS V. SCAENA I.
 
 Trimetri.
 
@@ -3081,7 +3081,7 @@ Stolidus dari mihi verba pro rebus sinam?
 
 Abite mox, et quod iubeo facessite.
 
-## ACTUS V. SCAENA II.
+# 35. ACTUS V. SCAENA II.
 
 POTIPHAR, SAPIENTES.
 
@@ -3125,7 +3125,7 @@ Loquar familiae, et fanum adibo Serapidis.
 
 Quid denuo pincerna habet? ------------
 
-## ACTUS V. SCAENA III.
+# 36. ACTUS V. SCAENA III.
 
 OENOCHOUS, PARHO, HYPERETES.
 
@@ -3211,7 +3211,7 @@ Quam pro sui nominis honore debuit.
 
 Hem commodum. HYP. Quid? OEN. Ecce custos carceris.
 
-## ACTUS V. SCAENA IV.
+# 37. ACTUS V. SCAENA IV.
 
 OENOCHOUS, DESMOPHYLAX, IOSEPH, HYPERETES.
 
@@ -3271,7 +3271,7 @@ HYP. Nos sequere, Hebraee, quod ante quam sistendus es,
 
 Tonsus, lavandus, et induendus es. IO. Sequor.
 
-## ACTUS V. SCAENA V.
+# 38. ACTUS V. SCAENA V.
 
 DESMOPHYLAX solus.
 
@@ -3319,7 +3319,7 @@ Fortasse erili expulsus inclementia.
 
 Libet (antequam se abducat hinc porro) alloqui.
 
-## ACTUS V. SCAENA VI.
+# 39. ACTUS V. SCAENA VI.
 
 PISTOS , DESMOPHYLAX.
 
@@ -3477,7 +3477,7 @@ PI. Vale, ubi tibi praedixeram, ipsum offenderis.
 
 Ioseph stolatum eduxerint, spectandum erit.
 
-## ACTUS V. SCAENA VII.
+# 40. ACTUS V. SCAENA VII.
 
 OENOCHOUS, IOSEPH, HYPERETES.
 
@@ -3531,7 +3531,7 @@ Rogo praesidem sapientiam, ut regi omnia
 
 Sub involucro tradidisti obscurius.
 
-## ACTUS V. SCAENA VIII.
+# 41. ACTUS V. SCAENA VIII.
 
 OENOCHOUS, PARHO, IOSEPH, THALTIBIUS.
 
@@ -3737,7 +3737,7 @@ Actum esset hercle de salute principis.
 
 Sed eccum eum pro quo citando mittimur.
 
-## ACTUS V. SCAENA IX.
+# 42. ACTUS V. SCAENA IX.
 
 POTIPHAR, DESMOPHYLAX, THALTIBIUS.
 
@@ -3851,7 +3851,7 @@ Virum antevortere. DES. Crepit ostium, uxor est.
 
 Vale. Satage, morae inest periculum. POT. Hei mihi.
 
-## ACTUS V. SCAENA X.
+# 43. ACTUS V. SCAENA X.
 
 AEGLA, POTIPHAR, EUPOLEMUS.
 
@@ -3969,7 +3969,7 @@ Aut nostrum Ioseph digno honore affecerit.
 
 Hem, sat morae, intro, ut haec eris praenuntiem.
 
-## ACTUS V. SCAENA XI.
+# 44. ACTUS V. SCAENA XI.
 
 Tetrametri.
 
@@ -4025,7 +4025,7 @@ Id nos tui tum consules tum satrapae decernimus.
 
 Sed praeco adest, exaudiamus quid Parhoni nuntiet.
 
-## ACTUS V. SCAENA XII.
+# 45. ACTUS V. SCAENA XII.
 
 Tetrametri.
 
@@ -4144,7 +4144,7 @@ Cum uxore disceptandum erit. Tu exsequere, vos concedite
 
 ≤line=1890≥ Pro dignitate principes. ACON. Decet id quidem. Concedimus.
 
-## ACTUS V. SCAENA XIII.
+# 46. ACTUS V. SCAENA XIII.
 
 Tetrametri.
 
@@ -4263,7 +4263,7 @@ THA. Σωτῆρα κόσμου reg. etc. Genuque flexo, etc. *ut supra.*
 
 AEG. Mi vir, dabunt nobis Dii ingenitam viro clementiam.
 
-## ACTUS V. SCAENA XIIII.
+# 47. ACTUS V. SCAENA XIIII.
 
 Tetrametri.
 
@@ -4345,7 +4345,7 @@ Gnatae, quam ab incunabulis Deum timere ipse docui.
 
 Sed eccam eam. ------------
 
-## ACTUS V. SCAENA XV.
+# 48. ACTUS V. SCAENA XV.
 
 Trimetri.
 

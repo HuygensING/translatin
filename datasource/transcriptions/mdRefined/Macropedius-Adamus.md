@@ -127,7 +127,7 @@ Solacioque destituto gaudium.
 
 
 
-## PROLOGUS.
+# 1. PROLOGUS.
 
 ≤line=1≥ Vos plurimum salvere cupio quotquot huic
 
@@ -305,7 +305,7 @@ Mundano in hoc ergastulo atque exsilio in hoc,
 
 Heu tum labore tum dolore confici.
 
-## PERSONAE dramatis seu diverbii Actus primi
+# 2. PERSONAE dramatis seu diverbii Actus primi
 
 Adamus
 
@@ -319,7 +319,7 @@ fratres Genius Adami.
 
 Abel
 
-## ACTUS I. SCAENA I.
+# 3. ACTUS I. SCAENA I.
 
 Versus iambici trimetri sunt in primo Actu omnes.
 
@@ -377,7 +377,7 @@ Consors miseriae factus est. Is liberis
 
 Qui cesserit sacrificium, mihi referet.
 
-## ACTUS I. SCAENA II.
+# 4. ACTUS I. SCAENA II.
 
 Versus ut superiores.
 
@@ -493,7 +493,7 @@ Maturrime, ne gliscat ira in odium et in
 
 Furiam periculo proximam. AD. Cedamus huc.
 
-## ACTUS I. SCAENA III.
+# 5. ACTUS I. SCAENA III.
 
 CAIN, ABEL, ELOHIM.
 
@@ -585,7 +585,7 @@ Longe videre patrem meum et matrem meam.
 
 Ne deprehendar, abire praestat tempori.
 
-## ACTUS I. SCAENA IV.
+# 6. ACTUS I. SCAENA IV.
 
 HAEVA, ADAMUS.
 
@@ -753,7 +753,7 @@ Non potero carum obruere terra filium, at
 
 ≤line=295≥ Lugebo eum digressa, donec occidam.
 
-## ACTUS I. SCAENA V.
+# 7. ACTUS I. SCAENA V.
 
 ADAMUS, GENIUS.
 
@@ -947,7 +947,7 @@ Ex caede fratris horreo. Adeo coniugem,
 
 ≤line=390≥ Relicto in hoc loco interim cadavere. Heu.
 
-## ACTUS I. SCAENA VI.
+# 8. ACTUS I. SCAENA VI.
 
 CAIN, ELOHIM.
 
@@ -1003,7 +1003,7 @@ Ut vel salute temporali gaudeas,
 
 Adsunt parentes, cessero. ------------
 
-## ACTUS I. SCAENA VII.
+# 9. ACTUS I. SCAENA VII.
 
 HAEVA, ADAMUS.
 
@@ -1129,7 +1129,7 @@ Et morte triumphata miseris
 
 Nova vita resurget apud superos.
 
-## PERSONAE dramatis in secundo Actu.
+# 11. PERSONAE dramatis in secundo Actu.
 
 Protoplasti 2 Siba
 
@@ -1141,7 +1141,7 @@ Abraham patriarcha
 
 Isaac filius Elohim Deus.
 
-## ACTUS II. SCAENA I.
+# 12. ACTUS II. SCAENA I.
 
 Versus iambici trimetri.
 
@@ -1205,7 +1205,7 @@ AD. Invadit horror me gravis. HAE. Me quoque velut
 
 Ob numinis (quod suspicor) praesentiam. Au.
 
-## ACTUS II. SCAENA II.
+# 13. ACTUS II. SCAENA II.
 
 Versus ut superiores.
 
@@ -1277,7 +1277,7 @@ Quemnam typum salutis edet Abraham.
 
 Dudum seni genitus ephebus Isaac.
 
-## ACTUS II. SCAENA III.
+# 14. ACTUS II. SCAENA III.
 
 Iambici tetrametri.
 
@@ -1299,7 +1299,7 @@ Onus feras istisque sufficias laboribus. IS. Libens
 
 Sedeo, pater, malim tamen iuvare te, pater. AB. Iuva. IS. Hem.
 
-## ACTUS II. SCAENA interiectitia.
+# 15. ACTUS II. SCAENA interiectitia.
 
 Omnes senarii.
 
@@ -1365,7 +1365,7 @@ Graidion (haud scio quod cuive) audio queri
 
 Et condolere ephebo onusto fascibus.
 
-## ACTUS II. Residuum SCAENAE III.
+# 16. ACTUS II. Residuum SCAENAE III.
 
 Versus partim dimetri, partim tetrametri.
 
@@ -1453,7 +1453,7 @@ Nostrae saluti consuluit. GE. En Abraham ipsum conveni.
 
 ≤line=615≥ HAE. Quonam ille se iam proripit, spe destitutam deserens?
 
-## ACTUS II. SCAENA IV.
+# 17. ACTUS II. SCAENA IV.
 
 Quaternarii.
 
@@ -1497,7 +1497,7 @@ AB. Decidet ipsus Elohim. HAE. Quando? Et quod argumentum habes?
 
 AB. Praesente Adamo patre nostro dixero. En et ipse adest.
 
-## ACTUS II. SCAENA V.
+# 18. ACTUS II. SCAENA V.
 
 Tetrametri, seu octonarii.
 
@@ -1745,7 +1745,7 @@ Mittet cito quem missurus erat?
 
 *Repetitio*
 
-## PERSONAE dramatis Actus tertii.
+# 20. PERSONAE dramatis Actus tertii.
 
 Protoplasti 2 Aaron
 
@@ -1765,7 +1765,7 @@ Populus
 
 Reus lapidandus Aegri 4.
 
-## ACTUS III. SCAENA I.
+# 21. ACTUS III. SCAENA I.
 
 Tetrametri.
 
@@ -1861,7 +1861,7 @@ Quae dudum in Aegypto immolata non vacat mysterio.
 
 Adorire, ne nos alio ituri deserant. AD. Non deserent.
 
-## ACTUS III. SCAENA interiectitia.
+# 22. ACTUS III. SCAENA interiectitia.
 
 Versu tetrametro.
 
@@ -1953,7 +1953,7 @@ NA. Quid lateat hic mysterii, non nostrum id est evolvere,
 
 AD. Valete, vestrae comitati magnam habemus gratiam.
 
-## ACTUS III. Residuum SCAENAE I.
+# 23. ACTUS III. Residuum SCAENAE I.
 
 HAE. Optasti, Adame: en commodum, pro voto adest Genius tuus.
 
@@ -1965,7 +1965,7 @@ Deinde de Manna cibo dulcissimo esurientibus
 
 Nisi adesse te quoque iusserit. HAE. Men’ prohibeat tibi coniugem?
 
-## ACTUS III. SCAENA II.
+# 24. ACTUS III. SCAENA II.
 
 Octonarii ut superiores.
 
@@ -2133,7 +2133,7 @@ HAE. Heu heu, morimur. Quis ferat? Quis videat? Et quis audiat?
 
 AD. Certe uxor haec sunt audienda videndaque; animo forti ades.
 
-## ACTUS III. SCAENA III.
+# 25. ACTUS III. SCAENA III.
 
 Versus partim dimetri, partim tetrametri.
 
@@ -2238,7 +2238,7 @@ volunt?
 
 AD. Afflatus est (ut autumo) quodam superno numine.
 
-## ACTUS III. SCAENA IV.
+# 26. ACTUS III. SCAENA IV.
 
 Tetrametri.
 
@@ -2374,7 +2374,7 @@ Tumultus hic? Quis clamor hic? AD. Cedamus, uxor, hinc procul,
 
 ≤line=1035≥ Ne nos tumultus obruat. ------------
 
-## ACTUS III. SCAENA V.
+# 27. ACTUS III. SCAENA V.
 
 Versus octonarii.
 
@@ -2429,7 +2429,7 @@ PO. Huc huc in hos legirupio clathros. Reverso Moyse,
 
 Tibi debitas poenas dabis. Quid adhuc morae? ------------
 
-## ACTUS III. SCAENA VI.
+# 28. ACTUS III. SCAENA VI.
 
 Iambici trimetri.
 
@@ -2483,7 +2483,7 @@ Decernitis? MO. Nihil. LE.2. Valete, principes. MO. Iam
 
 AA. En gloria domini tabernaculum operit.
 
-## ACTUS III. SCAENA VII.
+# 29. ACTUS III. SCAENA VII.
 
 Trimetri, et pauci dimetri.
 
@@ -2557,7 +2557,7 @@ Videam voratos ignibus mox eici.
 
 ≤line=1115≥ En miser Adam. ------------
 
-## ACTUS III. SCAENA VIII.
+# 30. ACTUS III. SCAENA VIII.
 
 Trimetri.
 
@@ -2743,7 +2743,7 @@ Iam sciscitare nuper id quod omisimus.
 
 AD. Memorem mones, interrogabo. ------------
 
-## ACTUS III. SCAENA Interiectitia
+# 31. ACTUS III. SCAENA Interiectitia
 
 Versu tetrametro.
 
@@ -2789,7 +2789,7 @@ GE. Quin liceat hoc, quod advenae Iether licet? Pueros voca.
 
 AD. Heus pueri, adeste. Denuo se proripit? ------------
 
-## ACTUS III. SCAENA altera Interiectitia.
+# 32. ACTUS III. SCAENA altera Interiectitia.
 
 BOOZ et ISACHAR pueri duo, ADAM, HAEVA.
 
@@ -2881,7 +2881,7 @@ Si tanta nunc in typico, Adame, corpori dulcedo sit.
 
 AD. Profecto coniunx maxima; liceat modo experirier.
 
-## ACTUS III. Residuum SCAENAE VIII.
+# 33. ACTUS III. Residuum SCAENAE VIII.
 
 Senarii.
 
@@ -2895,7 +2895,7 @@ Idololatras num videmus denuo?
 
 AD. Nequaquam; at accedamus, ut sciamus certius.
 
-## ACTUS III. SCAENA IX.
+# 34. ACTUS III. SCAENA IX.
 
 Octonarii.
 
@@ -2933,7 +2933,7 @@ Te uxor petit; tantisper hinc secedo, dum te deseret.
 
 HAE. Tum mox redi. ------------
 
-## ACTUS III. SCAENA X.
+# 35. ACTUS III. SCAENA X.
 
 Senarii.
 
@@ -3027,7 +3027,7 @@ Relicta sola ubi maritum reperiam?
 
 Eccum virum doloris haud tolerabilis.
 
-## ACTUS III. SCAENA XI.
+# 36. ACTUS III. SCAENA XI.
 
 Senarii.
 
@@ -3127,7 +3127,7 @@ Bona iussa Dei male sprevit, et ad
 
 Procul a paradisi deliciis.
 
-## PERSONAE dramatis Actus quarti.
+# 38. PERSONAE dramatis Actus quarti.
 
 Protoplasti 2 Esaias
 
@@ -3139,7 +3139,7 @@ David rex puer Ezechiel
 
 Goliath philistaeus Daniel
 
-## ACTUS IV. SCAENA I.
+# 39. ACTUS IV. SCAENA I.
 
 Versus iambici trimetri.
 
@@ -3205,7 +3205,7 @@ Hoc maxime, quod certiores faciet is
 
 Quem pro Saule regem inunctum audivimus.
 
-## ACTUS IV. SCAENA II.
+# 40. ACTUS IV. SCAENA II.
 
 Ut superiores trimetri.
 
@@ -3413,7 +3413,7 @@ Videbis. HAE. Ad quid arma puero regia?
 
 GE. Praetentat ipsa num queant fore usui.
 
-## ACTUS IV. SCAENA III.
+# 41. ACTUS IV. SCAENA III.
 
 Trimetri.
 
@@ -3463,7 +3463,7 @@ Miram Dei potentiam. HAE. Heu Adame, ades.
 
 Heu me relinquit dum voco Genius meus.
 
-## ACTUS IV. SCAENA IV.
+# 42. ACTUS IV. SCAENA IV.
 
 Trimetri, ut superiores.
 
@@ -3605,7 +3605,7 @@ AD. Denuo utriusque nostrum adest Genius, cui
 
 Sacer prophetarum cuneus adiunctus est.
 
-## ACTUS IV. SCAENA V.
+# 43. ACTUS IV. SCAENA V.
 
 Versus partim tetrametri partim trimetri.
 
@@ -3809,7 +3809,7 @@ Mortalibus, quibus Deus sua prodidit
 
 Daniel adesset. ------------
 
-## ACTUS IV. SCAENA VI.
+# 45. ACTUS IV. SCAENA VI.
 
 Trimetri.
 
@@ -3949,7 +3949,7 @@ Tandem (rogitamus) ut exhibeas.
 
 *Repetitio.*
 
-## Dramatis PERSONAE in quinto Actu.
+# 47. Dramatis PERSONAE in quinto Actu.
 
 Protoplasti 2 Abra famula
 
@@ -3961,7 +3961,7 @@ Zacharias senex Elizabeth anus
 
 Mariam virgo Epilogus.
 
-## ACTUS V. SCAENA I.
+# 48. ACTUS V. SCAENA I.
 
 Versus Iambici tetrametri.
 
@@ -4034,7 +4034,7 @@ adest
 
 Genius tuus. ------------
 
-## ACTUS V. SCAENA II.
+# 49. ACTUS V. SCAENA II.
 
 Senarii.
 
@@ -4194,7 +4194,7 @@ HAE. Alter sacerdos, alter et Simeon pius
 
 Qui et ipse toto Christum anhelat pectore.
 
-## ACTUS V. SCAENA III.
+# 50. ACTUS V. SCAENA III.
 
 Trimetri.
 
@@ -4416,7 +4416,7 @@ Responderit? SI. Videbimus. Redit modo
 
 ≤line=1970≥ Qui cesserat. ------------
 
-## ACTUS V. SCAENA IV.
+# 51. ACTUS V. SCAENA IV.
 
 Trimetri.
 
@@ -4591,7 +4591,7 @@ Modo legat, aut lectura sit. HAE. Cedamus. En,
 
 Sursum manus puras levat. ------------
 
-## ACTUS V. SCAENA V.
+# 52. ACTUS V. SCAENA V.
 
 Senarii et quaternarii.
 
@@ -4731,7 +4731,7 @@ Siccine propinquat omnium nostrum salus?
 
 AD. Fugiamus, inquam. HAE. Ubi latebrae? Heu quo fugiam? Atat.
 
-## ACTUS V. SCANEA VI.
+# 53. ACTUS V. SCANEA VI.
 
 Trimetri et nonnulli dimetri.
 
@@ -4887,7 +4887,7 @@ Commenda. GAB. In omnibus, Maria, tibi haud secus
 
 Atque paranymphus obsequar. Vale, domina.
 
-## ACTUS V. SCAENA VII.
+# 54. ACTUS V. SCAENA VII.
 
 Trimetri.
 
@@ -4929,7 +4929,7 @@ Priusquam eam. At meo pudori consulens
 
 Domum introgressa excipiam eum cum gaudio.
 
-## ACTUS V. SCAENA VIII.
+# 55. ACTUS V. SCAENA VIII.
 
 Trimetri.
 
@@ -4971,7 +4971,7 @@ Cedamus hinc porro, et loquentem nymphio
 
 ≤line=2230≥ Spectemus a longe. ------------
 
-## ACTUS V. SCAENA IX.
+# 56. ACTUS V. SCAENA IX.
 
 Trimetri.
 
@@ -5051,7 +5051,7 @@ Redimiculum. Te operiam, et inde ipsa operiar.
 
 MA. Esto. Expedi. AB. Hem. ------------
 
-## ACTUS V. SCAENA X.
+# 57. ACTUS V. SCAENA X.
 
 Versus trimetri.
 
@@ -5171,7 +5171,7 @@ Peccata nostra non merentur consequi.
 
 HAE. Sileamus, auscultemus: occipient melos.
 
-## ACTUS V. SCAENA XI.
+# 58. ACTUS V. SCAENA XI.
 
 Trimetri et dimetri.
 
@@ -5291,7 +5291,7 @@ Nostro absoluto Elizabeth tibi συγγενὴς
 
 ≤line=2370≥ Prodit foras. ------------
 
-## ACTUS V. SCAENA XII.
+# 59. ACTUS V. SCAENA XII.
 
 Versus ut superiores.
 
@@ -5391,7 +5391,7 @@ Davidis etenim filiae talaribus
 
 Obtempero. EL. Sequere, puella, tu quoque. AB. Hem.
 
-## ACTUS V. SCAENA XIII.
+# 60. ACTUS V. SCAENA XIII.
 
 Trimetri omnes.
 
@@ -5497,7 +5497,7 @@ Et tum pavori tum pudori consulat.
 
 Suum uterque nostrum sciscitetur obvium.
 
-## ACTUS V. SCAENA XIV.
+# 61. ACTUS V. SCAENA XIV.
 
 Trimetri.
 
@@ -5573,7 +5573,7 @@ GE.1. Audendum erit, quod pro scelestis, sordidis,
 
 Praei, Adame. GE.2. Sequere, mulier, a tergo virum. HAE. Hem.
 
-## ACTUS V. SCAENA XV.
+# 62. ACTUS V. SCAENA XV.
 
 Senarii omnes.
 
@@ -5717,7 +5717,7 @@ Et quicquid est virtutis in me psallet in
 
 ≤line=2570≥ Laudem Dei. Mihi concine, Abra. AB. Prompta sum, hem.
 
-## ACTUS V. SCAENA XVI.
+# 63. ACTUS V. SCAENA XVI.
 
 Versus iambici dimetri.
 
@@ -5821,7 +5821,7 @@ In aevum et ultra saecula.
 
 Sit summa laus etc.
 
-## ACTUS V. SCAENA XVII.
+# 64. ACTUS V. SCAENA XVII.
 
 Senarii.
 
@@ -5899,7 +5899,7 @@ Sequere, Abra, heram tuam. AB. Ilicet. EL. Sit laus Deo,
 
 Cunctis salutem qui dabit mortalibus.
 
-## EPILOGUS, per quemlibet dicendus aut canendus.
+# 65. EPILOGUS, per quemlibet dicendus aut canendus.
 
 Haec quotquot advolastis ad spectacula,
 

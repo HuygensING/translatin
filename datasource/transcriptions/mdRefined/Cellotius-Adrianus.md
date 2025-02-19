@@ -259,7 +259,7 @@ ni prohibeatur ascensura.
 
 
 
-## PERSONAE.
+# 1. PERSONAE.
 
 Galerius Maximianus Armentarius.
 
@@ -287,9 +287,9 @@ Timaeus Puer honorar.
 
 ≤page=1≥ TRAGOEDIA S. ADRIANVS MARTYR.
 
-## ACTVS PRIMVS.
+# 3. ACTVS PRIMVS.
 
-## [^1]SCENA PRIMA.
+# 4. [^1]SCENA PRIMA.
 
 ADRIANVS. §
 
@@ -411,7 +411,7 @@ Quis ille sacro pileum filo efferens?
 
 Metellus hic est.\-\--
 
-## [^2]SCENA SECVNDA.
+# 5. [^2]SCENA SECVNDA.
 
 ADRIANVS. METELLVS.
 
@@ -623,7 +623,7 @@ Pugna reductus, faciet euentus fidem
 
 Quàm vana templis numina insideant tuis.
 
-## ≤page=7≥ [^5]SCENA TERTIA.
+# 6. ≤page=7≥ [^5]SCENA TERTIA.
 
 FLAVIVS. ADRIANVS. METELLVS.
 
@@ -839,7 +839,7 @@ Audire habenas, séque generosa abripi
 
 Sinit quadrigâ; non malus regitur malè.
 
-## [^8]SCENA QVARTA.
+# 7. [^8]SCENA QVARTA.
 
 GALERIVS. ADRIANVS.
 
@@ -1021,7 +1021,7 @@ Et vincla subeo laetus; in vinclis habes
 
 Galeri amicum, dubia si reliquis fides.
 
-## ≤page=14≥ [^9]SCENA QVINTA.
+# 8. ≤page=14≥ [^9]SCENA QVINTA.
 
 GALERIVS. TITIANVS.
 
@@ -1195,9 +1195,9 @@ Tam non ipse sibi aequus
 
 Quam Proeto grauis hosti.
 
-## ≤page=17≥ [^11]ACTVS SECVNDVS.
+# 10. ≤page=17≥ [^11]ACTVS SECVNDVS.
 
-## SCENA PRIMA.
+# 11. SCENA PRIMA.
 
 NATALIA.
 
@@ -1329,7 +1329,7 @@ Hic dabit arenam carcer, hic socium tori
 
 Quaero, per illum prompta, vel cum illo mori.
 
-## [^12]SCENA SECVNDA.
+# 12. [^12]SCENA SECVNDA.
 
 FLAVIVS. NATALIA.
 
@@ -1397,7 +1397,7 @@ Toleranda veniat, quàm tenebrosae haurias
 
 Domus mephitim: siste, dùm educo foras.
 
-## [^13]SCENA TERTIA.
+# 13. [^13]SCENA TERTIA.
 
 NATALIA.
 
@@ -1433,7 +1433,7 @@ Stridor catenae: gaudia haud capiunt modum,
 
 Tamen & premantur teste dum sedes vacet.
 
-## [^14]SCENA QVARTA.
+# 14. [^14]SCENA QVARTA.
 
 NATALIA. FLAVIVS.
 
@@ -1481,7 +1481,7 @@ Sirene ludi. Flau. Sancta proh thalami fides?
 
 Amor imperauit.
 
-## [^15]SCENA QVINTA.
+# 15. [^15]SCENA QVINTA.
 
 ADRIANVS. NATALIA. ANTHIMVS.
 
@@ -1919,7 +1919,7 @@ Fecisse diuos. Anthi. Cede confestim loco,
 
 Compone vultus, Consulis prodit cohors.
 
-## [^17]SCENA SEXTA.
+# 16. [^17]SCENA SEXTA.
 
 TITIANVS. NATALIA.
 
@@ -2019,7 +2019,7 @@ Memor supremi foederis, mentem indue
 
 Ah! tuósque perdis aeternum miser.
 
-## [^18]SCENA SEPTIMA.
+# 17. [^18]SCENA SEPTIMA.
 
 GALLVS. TITIANVS. ADRIANVS. ANTHIMVS.
 
@@ -2745,9 +2745,9 @@ Vmbrabit latè populos; terrásque reuisens
 
 Sparget honoratum viuax Astraea serenum
 
-## ACTVS TERTIVS.
+# 19. ACTVS TERTIVS.
 
-## [^24]SCENA PRIMA.
+# 20. [^24]SCENA PRIMA.
 
 FLAVIVS. ADRIANVS. ANTHIMVS.
 
@@ -2939,7 +2939,7 @@ Si stas in illo coniugis charae sinu,
 
 Quam fronte laeta Caesar id de me audiet?
 
-## ≤page=47≥ [^25]SCENA SECVNDA.
+# 21. ≤page=47≥ [^25]SCENA SECVNDA.
 
 ADRIANVS.
 
@@ -2983,7 +2983,7 @@ Mortem occupare fortiter, Christe est tuum,
 
 Pugnet Adrianus, Christe tu palmam feres.
 
-## ≤page=48≥ [^26]SCENA TERTIA.
+# 22. ≤page=48≥ [^26]SCENA TERTIA.
 
 TIMAEVS. ADRIANVS.
 
@@ -3025,7 +3025,7 @@ Vel cuncta fallunt, pileus vel me manet.
 
 Sed curro, tarda est omnis optanti mora.
 
-## ≤page=49≥ [^27]SCENA QVARTA.
+# 23. ≤page=49≥ [^27]SCENA QVARTA.
 
 ADRIANVS.
 
@@ -3073,7 +3073,7 @@ Matrona quali nostra cum ardore aduolat?
 
 Jpsa est, quis illam turbo tam praeceps agit?
 
-## ≤page=50≥ [^28]SCENA QVINTA.
+# 24. ≤page=50≥ [^28]SCENA QVINTA.
 
 NATALIA. ADRIANVS.
 
@@ -3335,7 +3335,7 @@ Deus in propinquo est. Christe luctantem adiuua.
 
 Adrianus. Secreta vires vota luctanti dabunt.
 
-## ≤page=55≥ [^32]SCENA SEXTA.
+# 25. ≤page=55≥ [^32]SCENA SEXTA.
 
 GALERIVS. ADRIANVS. ANTHIMVS. METELLVS.
 
@@ -4237,7 +4237,7 @@ Quod per furorem, Christus ignoscat polò.
 
 Vale Galeri, Iudicem iudex time.
 
-## [^37]SCENA SEPTIMA.
+# 26. [^37]SCENA SEPTIMA.
 
 TITIANVS. GALLVS. FLAVIVS.
 
@@ -4453,9 +4453,9 @@ Olim triumphatae sequentur
 
 Horribiles scelerum cateruae.
 
-## [^39]ACTVS QVARTVS.
+# 28. [^39]ACTVS QVARTVS.
 
-## SCENA PRIMA.
+# 29. SCENA PRIMA.
 
 NATALIA, in virili habitu.
 
@@ -4559,7 +4559,7 @@ Et ecce circùm limen obscurae domus
 
 Sollicitus errat. \-\--
 
-## ≤page=76≥ [^40]SCENA SECVNDA.
+# 30. ≤page=76≥ [^40]SCENA SECVNDA.
 
 NATALIA. FLAVIVS.
 
@@ -4777,7 +4777,7 @@ Cui claustra pateant, si quis immittat pedem
 
 Iterum mouebo, capite supplicium exigam.
 
-## [^41]SCENA TERTIA.
+# 31. [^41]SCENA TERTIA.
 
 FLAVIVS.
 
@@ -4891,7 +4891,7 @@ Stabit perennis nacta connubio virum
 
 Cardo palatiî? Caesaris prodit cohors.
 
-## [^42]SCENA QVARTA.
+# 32. [^42]SCENA QVARTA.
 
 GALERIVS. FLAVIVS.
 
@@ -4963,7 +4963,7 @@ Thebana qualem morte nobilitat lues.
 
 Flauius. Aegnima si te fallit, aedipodem tenes.
 
-## [^43]SCENA QVINTA.
+# 33. [^43]SCENA QVINTA.
 
 GALERIVS. NATALIA.
 
@@ -5335,9 +5335,9 @@ Circunstat: oculos huc & huc coniux rotat
 
 Sollicita: luctum Consul interiùs coquit.
 
-## [^45]ACTVS QVINTVS.
+# 35. [^45]ACTVS QVINTVS.
 
-## SCENA PRIMA.
+# 36. SCENA PRIMA.
 
 TITIANVS. ADRIANVS. NATALIA.
 
@@ -5459,7 +5459,7 @@ Iactate cineres. Turba Galilaei gregis
 
 Eat, & Deos perosa damnatos colat.
 
-## ≤page=92≥ [^47]SCENA SECVNDA.
+# 37. ≤page=92≥ [^47]SCENA SECVNDA.
 
 NATALIA. ADRIANVS.
 
@@ -5683,7 +5683,7 @@ Vestes redona, quicquid Adriani nota
 
 Signauit, esse statuo non frustrà meum.
 
-## ≤page=96≥ [^48]SCENA TERTIA.
+# 38. ≤page=96≥ [^48]SCENA TERTIA.
 
 NATALIA.
 
@@ -5813,7 +5813,7 @@ Hac assidebo sedula, atque iterùm meo
 
 Spirare faciam spiritu. \-\--
 
-## [^49]SCENA QVARTA.
+# 39. [^49]SCENA QVARTA.
 
 FLAVIVS. NATALIA.
 
@@ -5851,7 +5851,7 @@ A Rege repeti: subiice & nomen proci,
 
 Non poenitebit Flauii. \-\--
 
-## ≤page=99≥ [^50]SCENA QVINTA.
+# 40. ≤page=99≥ [^50]SCENA QVINTA.
 
 NATALIA.
 

@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0069" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Iulius Caesar tragoedia</title>
+        <title type="sub"></title>
+        <author>Muretus, Marcus Antonius</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Stephanus Myliandrus</publisher>
+        <pubPlace>Rostock</pubPlace>
+        <date>1591</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Muretus-Caesar</name><lb/>
+            Short title: <title>Caesar</title><lb/>
+            Year of first edition: <date>1545</date><lb/>
+            Author information:<lb/>
+            Alias: Muret, Marc-Antoine<lb/>
+            Birth: 1526, Muret<lb/>
+            Death: 1585, Rome<lb/>
+            Floruit: None, Bordeaux, Rome<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Muretus">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://www.let.leidenuniv.nl/Dutch/Latijn/MURE01.html">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">tragedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>Julius Caesar,</p>
+  <p>Tragoedia.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="personae-dramatis.">
+  <head>1. Personae dramatis.</head>
+  <p>C. Julius Caesar. M. Brutus.</p>
+  <p>C. Cassius. Decimus Brutus.</p>
+  <p>Calpurnia. Nutrix.</p>
+  <p><hi rend="bold">Chorus civium Romanorum.</hi></p>
+</div>
+<div type="level1" xml:id="actus-primus">
+  <head>3. Actus Primus</head>
+  <p><hi rend="italic">Caesar.</hi></p>
+  <p>Iam tota pene terra Romanos timet,</p>
+  <p>Et qua resurgens aureis Phoebus comis</p>
+  <p>Indos propinqua subditos tingit face,</p>
+  <p>Et qua cadentes pronus inflectens equos</p>
+  <p>Gratae sorori cedit alternas vices,</p>
+  <p>Patruique lasso stagna crispat lumine.</p>
+  <p>Quacunque Nereus margines terrae premit,</p>
+  <p>Reges vel ipsi Caesaris nomen timent.</p>
+  <p>Numerent triumphos, cum volent, alii suos,</p>
+  <p>Seque a subactis nominent provinciis:</p>
+  <p>Plus est vocari Caesarem. Quisquis novos</p>
+  <p>Aliunde titulos quaerit, is jam detrahit.</p>
+  <p>Numerare ductu vis meo victas plagas?</p>
+  <p>Percurrito omnes. Ipsa victrix gentium</p>
+  <p>Mihi Roma cessit. Ille tam magnus gener,</p>
+  <p>Ut pene nomen duceret jam impar sibi,</p>
+  <p>Terra marique fusus agnovit meas</p>
+  <p>Praestare vires: quemque noluerat parem,</p>
+  <p>Tulit priorem. Thessali caede hostium</p>
+  <p>Maduere campi; principum membris canes,</p>
+  <p>Avesque pastae; ductor ipse exterritus,</p>
+  <p>Fugare suetus, fugit, et notos petens,</p>
+  <p>Sensit manere raram in aerumnis fidem.</p>
+  <p>Quid ergo restat, quidve dignum Caesare</p>
+  <p>Subacta tellus exhibere ultra potest?</p>
+  <p>Caelum petendum est: terra jam vilet mihi.</p>
+  <p>Supreme Rector, qui verendo fulmine,</p>
+  <p>Iratus, orbis utrumque perterres polum,</p>
+  <p>Si verus esse sanguis Ascanii putor,</p>
+  <p>Generisque nostri tu ipse princeps auctor es:</p>
+  <p>Regni me in aliquam recipito partem tui,</p>
+  <p>Avos ut inter splendidum sidus meos,</p>
+  <p>Matris Diones proximam aspiciam facem.</p>
+  <p>Jam vel mihi, vel patriae vixi satis:</p>
+  <p>Quid teneor ultra? jam mihi exactum est, geri</p>
+  <p>Sago togaque quidquid eximium potest.</p>
+  <p>Hostes perempti, civibus leges datae,</p>
+  <p>Digestus annus, redditus sacris nitor,</p>
+  <p>Compostus orbis: cogitari nec queunt</p>
+  <p>Majora cuiquam, nec minora a me geri.</p>
+  <p>Vivam otiosus? at id quidem vix vivere est,</p>
+  <p>Nec sol quietem, nec bonus princeps capit.</p>
+  <p>Cum vita partes muneris functa est sui,</p>
+  <p>Mors propera nunquam, sera nonnunquam venit.</p>
+  <p>Mihi multa vates dira minitantur quidem,</p>
+  <p>Suadentque, amicis ut meum stipem latus:</p>
+  <p>At enim timere Caesaris nunquam fuit.</p>
+  <p>Ignava mens rebusque non exercita</p>
+  <p>Vereatur atrae mortis incertum diem:</p>
+  <p>Generosus animus, quique se nullo videt</p>
+  <p>Scelere impiatum, semper est liber metu.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Sors rerum domina omnium</p>
+  <p>Non usquam stabili fixa manet pede,</p>
+  <p>Sed vultum assidue innovans,</p>
+  <p>Incertisque rotans omnia flexibus,</p>
+  <p>Alternas variat vices.</p>
+  <p>Seu mitis faveat, sive premat nocens,</p>
+  <p>Vento mobilior volat.</p>
+  <p>Illam si nitida fronte reliquerit</p>
+  <p>Abdens lampada Delius,</p>
+  <p>Idem flammivomos cum moderans equos</p>
+  <p>Mundo restituet diem,</p>
+  <p>Sub vultu poterit cernere nubilo,</p>
+  <p>Queis praesens erat, abditam.</p>
+  <p>Nec solum exiguis rebus inaestuans</p>
+  <p>Privatas agitat domos:</p>
+  <p>Ipsis imperiis, dum libuit, novam</p>
+  <p>Inducit faciem ferox.</p>
+  <p>Haec regum arbitrio nos voluit regi,</p>
+  <p>Donec Tarquinii furor</p>
+  <p>Commovit proceres, tam rigidum ut semel</p>
+  <p>Cervice excuterent jugum.</p>
+  <p>Hinc noscura Patrum, curaque Consulum</p>
+  <p>Tutos semper ab exteris</p>
+  <p>Jam per longa satis tempora praestitit;</p>
+  <p>Non a seditionibus,</p>
+  <p>Quas pene assiduas exitialiter</p>
+  <p>Fervens imperii sitis</p>
+  <p>Nonnullorum animis insita commovet,</p>
+  <p>Haec Gracchis animos dedit:</p>
+  <p>Haec Syllas, Mariosque in patriae luem</p>
+  <p>Armavit. Sed opus quid est</p>
+  <p>Prisca exempla referre? Haec quoque Caesarem</p>
+  <p>Commisit genero: neque</p>
+  <p>Impostus prius est horum odiis modus,</p>
+  <p>Quam Mars sanguine civium</p>
+  <p>Campos Pharsalicos undique tinxerit.</p>
+  <p>Tunc, Pompei, caput in tuum</p>
+  <p>Belli terrificus detonuit fragor.</p>
+  <p>Nunc Caesar solio insidens</p>
+  <p>Optatis fruitur, proque libidine</p>
+  <p>Solus temperat omnia.</p>
+  <p>Sic jam nomine sub novo,</p>
+  <p>Regni forma redit vetus.</p>
+  <p>Atque hoc scilicet efficit</p>
+  <p>Non usquam stabili fixa manens pede</p>
+  <p>Sors rerum domina omnium.</p>
+</div>
+<div type="level1" xml:id="actus-secundus.">
+  <head>5. Actus secundus.</head>
+  <p><hi rend="italic">M. Brutus.</hi></p>
+  <p>Quousque tandem, Brute, virtutem tuam</p>
+  <p>Dormire pateris otiosam degener?</p>
+  <p>Quousque differs, civitatem liberam</p>
+  <p>Tua videre vindicatam dextera?</p>
+  <p>Nihilne te virtus tuorum commovet,</p>
+  <p>Nomenque Bruti? nihil gementis patriae,</p>
+  <p>Pressae a tyranno, opemque poscentis tuam</p>
+  <p>Conditio dura? nil libelli supplices,</p>
+  <p>Queis Brutum abesse civitatis vindicem</p>
+  <p>Cives queruntur? Haec parum si te movent,</p>
+  <p>Tua jam, vir ut sis, te satis conjux monet,</p>
+  <p>Fidem cruore quae tibi obstrinxit suam,</p>
+  <p>Testata sic se avunculi prolem tui.</p>
+  <p>Si ab exequendis te avocat coeptis timor,</p>
+  <p>Animusque pigro torpet ignavus gelu,</p>
+  <p>Ex femina perdisce, quid deceat virum.</p>
+  <p>An vero stirpis auctor, et princeps tuae,</p>
+  <p>Dominatione civitatem regia</p>
+  <p>Quod liberarit, post honores maximos</p>
+  <p>Complexus astra est; Servilius, a quo tua est</p>
+  <p>Deducta mater, Maelium in caussa pari</p>
+  <p>Peremit: num exempla te per talia</p>
+  <p>Pigebit ire, et gloriam adipisci parem?</p>
+  <p>Mucrone salvo, atque artubus adhuc integris,</p>
+  <p>Videre Brutus, et pati regem potest?</p>
+  <p>Imo audeamus magnum aliquid et nos quoque;</p>
+  <p>Mactatus hacce dextera tandem cadat,</p>
+  <p>Qui quandocunque ceciderit, sero cadet.</p>
+  <p>Pro patria confligere, augurium optimum est.</p>
+  <p>Generosiores frena detrectant equi:</p>
+  <p>Nec nisi coacti perferunt tauri jugum:</p>
+  <p>Roma patietur, quod recusant belluae?</p>
+  <p>Reges adorent barbarae gentes suos,</p>
+  <p>Non Roma mundi terror, et mundi stupor.</p>
+  <p>Vivente Bruto, Roma reges nesciet.</p>
+  <p>At vero non rex iste, sed dictator est.</p>
+  <p>Dum res sit una, quid aliud nomen juvat?</p>
+  <p>At nomen illud refugit, et oblatas sibi</p>
+  <p>Rejicit coronas. Fingere hoc, et ludere est.</p>
+  <p>Nam cur Tribunos igitur amovit loco?</p>
+  <p>At mihi et honores, et semel vitam dedit.</p>
+  <p>Plus patria illis omnibus apud me potest.</p>
+  <p>Qui se tyranno in patriam gratum exhibet,</p>
+  <p>Dum vult inepte gratus esse, ingratus est.</p>
+  <p>O rem pudendam! mollis est vix vir satis,</p>
+  <p>Regit Quirites. Martis ortos sanguine,</p>
+  <p>Totumque nutu pathicus orbem temperat.</p>
+  <p>Accingere, et vim, Brute, nunc profer tuam.</p>
+  <p>Accommoda orsis venit implendis dies.</p>
+  <p>Phoebus renascens subditos cives jugo,</p>
+  <p>Servosque vidit: liberos videat cadens.</p>
+  <p><hi rend="italic">Cassius. Brutus.</hi></p>
+  <p>O cujus alto nixa virtus pectore</p>
+  <p>Sperare Romam sola depressam jubet,</p>
+  <p>Magnanime Brute, Phoebus aurato diem</p>
+  <p>Adduxit ore, tam diu optatam mihi,</p>
+  <p>Qua patria nostra libera evadat manu.</p>
+  <p>Ita fausta votis sors meis respondeat,</p>
+  <p>Ut haec tyranni virulentum sanguinem</p>
+  <p>Haurire dextra gestit et vix se tenet:</p>
+  <p>Utque haec nihil me cogitantem praeter haec</p>
+  <p>Nox tota vidit. Sic in illum me feram,</p>
+  <p>Sic involabo, sic mucronem pectore</p>
+  <p>Condam scelesto: fors et ipsis dentibus,</p>
+  <p>Cervice dira noxium obscindam caput:</p>
+  <p>Cruento ut ore prodiens in publicum</p>
+  <p>Clamare possim: Roma tandem libera est.</p>
+  <p>Ferus ille animus, et publici invasor boni,</p>
+  <p>Tenues in auras dissipatus vanuit.</p>
+  <p>Tunc si vel atra morte sit pariter mihi</p>
+  <p>Mutanda vita, laetus atque alacer cadem.</p>
+  <p>Bene moritur, qui patriam moriens juvat.</p>
+  <p>Quid tu? quid alta mente tecum mussitas?</p>
+  <p>Annon eodem prorsus affectu cales?</p>
+  <p>Effare: nam quamvis legi in vultu potest,</p>
+  <p>Orationis sum tamen cupidus tuae.</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Quid me plura loqui opus est, Cassi?</p>
+  <p>Num mea tibi constantia nota est?</p>
+  <p>Semel inter nos stetit, aut vitam</p>
+  <p>Pectore forti simul abjicere,</p>
+  <p>Aut patriam transdere in antiquam</p>
+  <p>Libertatem. Semel hoc dictum est.</p>
+  <p>Aut hoc necesse est perfici, aut Brutum mori.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>O Romuleae gloria gentis,</p>
+  <p>Quam tibi vere rigido incoctum est</p>
+  <p>Pectus honesto: quam tua me animi</p>
+  <p>Oratio securum esse jubet!</p>
+  <p>Unus mihi nunc scrupulus restat:</p>
+  <p>Unane opera confodiendum</p>
+  <p>Cum Caesare ipso censeas Antonium?</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Jam saepe dixi, id esse consilium mihi,</p>
+  <p>Salvis perimere civibus tyrannida.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>Perimatur ergo ab infimis radicibus,</p>
+  <p>Ne quando posthac caesa rursum pullulet.</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Latet sub uno tota radix corpore.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>Itan’ videtur? amplius nil proloquar.</p>
+  <p>Tibi pareatur: te sequimur omnes ducem.</p>
+  <p>Vide modo, ut, cum opus erit, adsis.</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Videro.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>Ego interim meque et meos paravero.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Quicunque forti pectore, patriam</p>
+  <p>Praeferre vitae non dubitat suae,</p>
+  <p>Ut vel per enses, propter illam,</p>
+  <p>Oppositosque feratur ignes:</p>
+  <p>Non summus illi rerum opifex Deus</p>
+  <p>Pigro revinxit pectora frigore,</p>
+  <p>Sed spiritus cessit superbos,</p>
+  <p>Indomitamque timore mentem:</p>
+  <p>Et bullienti plurima sanguine</p>
+  <p>Caelestis aurae semina condidit,</p>
+  <p>Et dixit: I, plebem prementes</p>
+  <p>Contere, nil veritus, tyrannos.</p>
+  <p>Hac arte praestans Harmodius suos</p>
+  <p>Servavit, uno nixus amiculo:</p>
+  <p>Nunc utriusque excelsa florent</p>
+  <p>Nomina non tribuenda servis.</p>
+  <p>Quos si otiosos tuta sequens timor</p>
+  <p>Forte avocasset rebus ab arduis,</p>
+  <p>Qui mortuos consumpsit ignis,</p>
+  <p>Nomina non minus obruisset.</p>
+  <p>Caret severus crimine Carnabas,</p>
+  <p>Et laude dignus creditur, haud probro,</p>
+  <p>Quamvis ferocem caede dextram</p>
+  <p>Tingere nil veritus paterna.</p>
+  <p>Odit tyrannos Jupiter, et favet,</p>
+  <p>Cum quisquam in illos consilium parat:</p>
+  <p>Illosque natis saepe tradit,</p>
+  <p>Conjugibusve suis necandos.</p>
+  <p>O quot, quibusque est plena periculis</p>
+  <p>Sors imperantum! praecipue quibus</p>
+  <p>Non civium concors voluntas,</p>
+  <p>Sed regimen peperere vires.</p>
+  <p>Plebem timeto, qui solio insidens,</p>
+  <p>Plebi timeris. Fons odii timor</p>
+  <p>Audere jussit multa multos.</p>
+  <p>Saepe gelu calor excitatur.</p>
+  <p>Rarus tyrannus morte perit sua:</p>
+  <p>Illos veneno cauta necat manus,</p>
+  <p>Hoc plebis iratae tumultus,</p>
+  <p>Hos rigidus glado satelles.</p>
+  <p>Multo ille vitam tutius exigit,</p>
+  <p>Quicunque parvis privus in aedibus,</p>
+  <p>Nullum timens, nulli timendus,</p>
+  <p>Pelle sub exigua quiescit.</p>
+</div>
+<div type="level1" xml:id="actus-tertius.">
+  <head>7. Actus tertius.</head>
+  <p><hi rend="italic">Calpurnia. Nutrix.</hi></p>
+  <p>O di! molestis tollite omen somniis,</p>
+  <p>Nec sinite, quaeso, pondus ullum tam malis</p>
+  <p>Inesse visis! Horror artus concutit,</p>
+  <p>Corpusque totum frigidus sudor lavat,</p>
+  <p>Quoties recordor: mensque nescio quod malum</p>
+  <p>Praesagit ipsa.</p>
+  <p><hi rend="italic">Nutrix</hi></p>
+  <p>Alumna, quidnam esse hoc putem,</p>
+  <p>Moesto quod ore, et lacrymis manantibus,</p>
+  <p>Secreta quaeris, teque nobis subtrahis?</p>
+  <p>Quae caussa fletus? quisve tam subitus dolor</p>
+  <p>Turbare mentem tam cito potuit tuam?</p>
+  <p>Potestne flendum quippiam contingere</p>
+  <p>Nuptae viro, qui pene fortunam regit?</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Dilecta nutrix quid mihi instet, nescio:</p>
+  <p>Sed me misellam mirus invasit timor.</p>
+  <p><hi rend="italic">Nutrix</hi></p>
+  <p>Conceptus unde?</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Nil tibi, vel si velim,</p>
+  <p>Celare possum, visa noctis proximae</p>
+  <p>Me terruerunt. Victa nam postquam dies</p>
+  <p>Hesterna cessit, noxque nigro tegmine</p>
+  <p>Involvit omnem caeca telluris globum:</p>
+  <p>Amplexa blandum Caesaris collum mei,</p>
+  <p>Placida quiete vix resolvi coeperam,</p>
+  <p>Cum mihi repente visus: heu, nutrix mea,</p>
+  <p>Retine labantem.</p>
+  <p><hi rend="italic">Nutrix</hi></p>
+  <p>Alumna, habeto animum bonum.</p>
+  <p>Sopor timores saepe vanos objicit.</p>
+  <p>Narrare perge cuncta, velut occoeperas.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Caesar meus, nutrix mea, heu, Caesar meus,</p>
+  <p>Meus ille Caesar, quo mea innixa est salus,</p>
+  <p>Mihi visus ulnas inter effusus meas,</p>
+  <p>Jacere multo sanguine et tabo fluens,</p>
+  <p>Multisque plagis pulcra fossus pectora.</p>
+  <p>Tum mihi quietem subitus excussit timor.</p>
+  <p>Misera arctius repente complector virum,</p>
+  <p>Pectusque tento, quaeque somnus finxerat,</p>
+  <p>Vix falsa credo: vix habeo manibus fidem.</p>
+  <p>Heu quid deorum, talibus visis, mihi</p>
+  <p>Minatur ira, quidve portendit mali?</p>
+  <p><hi rend="italic">Nutrix</hi></p>
+  <p>Omitte questus, neve nondum urgens malum</p>
+  <p>Celerare perge. Qui malum timet imminens,</p>
+  <p>Geminat timendo. Sivi nihil instat mali,</p>
+  <p>Fallaxque mentem imago turbavit tuam,</p>
+  <p>Cur vana veros caussa producet metus?</p>
+  <p>Seu (quod repellant sancta divum numina!)</p>
+  <p>Mutata Romae fata quid gravius parant,</p>
+  <p>Tamen haud timendum est. Rite conceptis deos</p>
+  <p>Mollire votis, thuraque aris omnibus</p>
+  <p>Adolere praestat. Non inexorabilis</p>
+  <p>Mens est deorum: saepe flectuntur prece.</p>
+  <p>Quamquam equidem, alumna, instare nil existimo:</p>
+  <p>Sed vana mentes saepe ludunt somnia.</p>
+  <p>Quam saepe inanis est mihi objectus timor,</p>
+  <p>Sic somnianti? nulla inest somno fides.</p>
+  <p>Quis tam vel audax, Caesarem ut petere audeat?</p>
+  <p>Vel tam impius, petere ut velit patriae patrem?</p>
+  <p>Quotquot vel error, vel voluntas pertinax,</p>
+  <p>Vel invidia Caesari inimicarat tuo,</p>
+  <p>Partim verendus perculit Martis furor,</p>
+  <p>Miranda partim Caesaris clementia</p>
+  <p>Servavit, et servando amicos reddidit.</p>
+  <p>An ullus ingenio esse tam immani queat,</p>
+  <p>Debere vitam ut cui suam se intelligat,</p>
+  <p>Illius ipse tentet insidiis caput?</p>
+  <p>Omitte questus: abjice ex animo metum.</p>
+  <p>Venti leves tua dissipabunt somnia.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Ita di velint! Utcunque sit, saltem virum</p>
+  <p>Precabor, ut se contineat hodie domi.</p>
+  <p>Ubi quid timetur, cautio nunquam nocet.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Jam dies Annae rediit Perennae:</p>
+  <p>O quot in laetis, Tyberine, ripis,</p>
+  <p>Senties lusus hodie venustos?</p>
+  <p>Quot puellarum pedibus premeris?</p>
+  <p>Candidi quot te juvenes revisent,</p>
+  <p>Quot senes? qui dehinc titubante gressu,</p>
+  <p>Saepe siccatis madidi culullis,</p>
+  <p>Nare de crispa tremulum vibrissent,</p>
+  <p>Et vacillantes agitent choreas.</p>
+  <p>Di! procul laevum teneatis omen,</p>
+  <p>Neu mali quicquam sinite evenire,</p>
+  <p>Quo minus vultu populus sereno</p>
+  <p>Possit antquos celebrare ritus:</p>
+  <p>Tuta sed vestro assidue perennet</p>
+  <p>Roma favore.</p>
+  <p>Nil in humanis stabile est putandum:</p>
+  <p>Saepe securos inimica lusus</p>
+  <p>Horrido turbat Nemesis flagello,</p>
+  <p>Grataque in luctus, gemitusque amaros</p>
+  <p>Gaudia vertis.</p>
+  <p>Abstine, o densa sata nocte virgo,</p>
+  <p>Virgo, quae voces reprimis superbas,</p>
+  <p>Et feris sceptro nimium potenti</p>
+  <p>Magna locutos.</p>
+  <p>Romuli te gens colit, et veretur:</p>
+  <p>Cur premis, qui te venerantur, et qui</p>
+  <p>Debito addicti tua prosequuntur</p>
+  <p>Numina cultu?</p>
+</div>
+<div type="level1" xml:id="actus-quartus.">
+  <head>9. Actus quartus.</head>
+  <p><hi rend="italic">Caesar. Calpurnia. D.
+  Brutus.</hi></p>
+  <p>Ne deprecare: turpe me fractum metu</p>
+  <p>Desistere esset.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>tam nihil apud te valent</p>
+  <p>Uxoris (eheu!) pene jam exanimis preces?</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>Quid? somniis me credere tuis postulas?</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Non: sed timori ut non nihil tribuas meo.</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>At iste solis nititur somniis timor.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Finge esse vanum: tribuito aliquid conjugi.</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>Etiam petenti, quid decus laedat meum?</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Non: sed petenti, quod caput servet tuum.</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>Desine timere.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Audere desine tu prius.</p>
+  <p>Tuaeque si adeo spernis uxoris metum,</p>
+  <p>Movere vatum oraculis minacibus,</p>
+  <p>Periculosam qui tibi hanc lucem admonent.</p>
+  <p>Si spectra, si te auspicia, si fibrae monent</p>
+  <p>Cavere, et hunc meum timorem comprobant:</p>
+  <p>Quid in paratam pertinax mortem ruis?</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>Quando timorem ponere aliter non potes,</p>
+  <p>Ne nos tibi queraris omnino nihil</p>
+  <p>Tribuere, mittatur Senatus in hunc diem.</p>
+  <p><hi rend="italic">D. Brutus</hi></p>
+  <p>Magnanime Caesar, quod tibi verbum excidit?</p>
+  <p>Tene potuisse Barbarorum copias,</p>
+  <p>Nil mente mota, fortiter contemnere,</p>
+  <p>Non posse nunc temnere mulieris somnia?</p>
+  <p>Ubi pectoris vis illa praecellens tui est,</p>
+  <p>Quam sensit olim, quique septeno videt</p>
+  <p>Nilum per arva profluentem gurgite,</p>
+  <p>Quique glaciali colla suppositos polo,</p>
+  <p>Concreta pigro maria sulcat marmore,</p>
+  <p>Et quos rapaci Rhodanus unda verberat,</p>
+  <p>Galli feroces? ô statum deterrimum,</p>
+  <p>Si Caesar orbem, Caesarem mulier regit!</p>
+  <p>Conscende currus, laeta victrix, aureos,</p>
+  <p>Gemmantibusque pervehitor urbem rotis:</p>
+  <p>Totius orbis sola domitorem domas.</p>
+  <p>Veteres triumphos Roma nunc sileat suos,</p>
+  <p>Et militaris conticescat gloria:</p>
+  <p>Invictus armis Caesar hodie vincitur.</p>
+  <p>Quid, Caesar, animi patribus credis fore,</p>
+  <p>Si te jubente convocatos jusseris</p>
+  <p>Abire nunc, redire, cum Calpurniae</p>
+  <p>Meliora sese objecerint insomnia?</p>
+  <p>Vade potius constanter, et nomen cape</p>
+  <p>Parthis timendum: aut, hoc minus si te juvat,</p>
+  <p>Prodito saltem, atque ipse patres mittito:</p>
+  <p>Ne negligi se, aut ludibrio haberi putent.</p>
+  <p><hi rend="italic">Caesar</hi></p>
+  <p>Incertus animi, et huc et illuc distrahor</p>
+  <p>Qualis per aequor concitum bacchantibus</p>
+  <p>Deprensa ventis fertur incerto ratis</p>
+  <p>Agitata cursu. Pellit illinc Africus</p>
+  <p>Creber procellis, Eurus hinc, illinc Notus.</p>
+  <p>Sic me hinc tuae, Calpurnia, inflectunt preces,</p>
+  <p>Hinc dicta Bruti. Sed tamen quando semel</p>
+  <p>Vel cadere praestat, quam metu longo premi:</p>
+  <p>Non si trecentis vocibus vatum avocer,</p>
+  <p>Non si ipse voce propria praesens Deus</p>
+  <p>Moneat pericli, atque hic manendum suadeat,</p>
+  <p>Me continebo. Desine, uxor, conqueri.</p>
+  <p>Eamus: omnis jacta nobis alea est.</p>
+  <p><hi rend="italic">Calpurnia</hi></p>
+  <p>Abiit, mea nil dicta moratus.</p>
+  <p>Dî, qui Romae geritis curam,</p>
+  <p>Quo vos fas est cumque vocari.</p>
+  <p>Nomine, si vos manibus puris,</p>
+  <p>Menteque casta semper colui,</p>
+  <p>Servat meo in Caesare Romam.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Creditur vulgus muliebre nunquam,</p>
+  <p>Consili micam dare profuturi,</p>
+  <p>Sed rapi affectu, penitusque sama</p>
+  <p>Mente carere:</p>
+  <p>Sed tamen si quis bonus aestimator</p>
+  <p>Rem putet recta ratione totam,</p>
+  <p>Dicet in multis micuisse magnam</p>
+  <p>Consilii vim.</p>
+  <p>Ilion nunquam cecidisset olim,</p>
+  <p>Imo adhuc arces Priami manerent,</p>
+  <p>Si Deo plenae Paris audiisset</p>
+  <p>Dicta sororis.</p>
+  <p>Illa, cum laeta tumidus rapina</p>
+  <p>Raptor ad sedes patrias rediret,</p>
+  <p>Dicitur totam, resoluta crines,</p>
+  <p>Isse per urbem,</p>
+  <p>Clamitans: turpem procul ire moecham</p>
+  <p>Cogite, o Teucri, perit illa secum</p>
+  <p>Moenibus vestris, Phrygiaeque fata</p>
+  <p>Ultima pubi.</p>
+  <p>Caede jam campos video madentes:</p>
+  <p>Jam ferox gnatus Thetidos marinae</p>
+  <p>Hinc et hinc strages geminat, tremenda</p>
+  <p>Cuspide pugnax.</p>
+  <p>Jamque mutato Simois colore</p>
+  <p>Inficit ripas, galeasque secum</p>
+  <p>Volvit, et fortis madidas juventae</p>
+  <p>Sanguine cetras.</p>
+  <p>Ah dolor! sanctas etiamne ad aras,</p>
+  <p>Exuis vitam, genitor, senilem?</p>
+  <p>Nec vel Herceus cohibet furentem</p>
+  <p>Jupiter iram?</p>
+  <p>Haec, et his multo cecinisse plura,</p>
+  <p>Dicitur quondam furibunda vates:</p>
+  <p>Sed dolor Phoebi vetuit superbos</p>
+  <p>Credere Troas.</p>
+  <p>Pertinax quisquis sibi credit uni,</p>
+  <p>Ceteros spernens melius monentes:</p>
+  <p>Ille, si coeptis pereat sub ipsis,</p>
+  <p>Jure peribit.</p>
+</div>
+<div type="level1" xml:id="actus-quintus.">
+  <head>11. Actus quintus.</head>
+  <p><hi rend="italic">Brutus et Cassius.</hi></p>
+  <p>Spirate cives! Caesar interfectus est,</p>
+  <p>Ille, ille Caesar, patriae terror suae,</p>
+  <p>Hostis senatus, innocentum carnifex,</p>
+  <p>Legum ruina, publici juris lues:</p>
+  <p>Cujus rapinas nuper, et libidines</p>
+  <p>Agnovit orbis totus, et perpessus est.</p>
+  <p>In curia, quam oppresserat, oppressus jacet.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>En, Roma, gladium adhuc tepentem sanguine:</p>
+  <p>En dignitatis vindicem dextram tuae.</p>
+  <p>Impurus ille, qui furore nefario,</p>
+  <p>Rabieque caeca, te, et tuos vexaverat,</p>
+  <p>Hac, hac manu, atque hoc, hocce gladio, quem vides,</p>
+  <p>Consauciatus, et omnibus membris lacer,</p>
+  <p>Undam cruoris, et animam evomuit simul.</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Ite, ite, cives, convolate in curiam:</p>
+  <p>Mentem novo saturate jam spectaculo.</p>
+  <p>Immanis ille latro, qui regnum sua</p>
+  <p>Jam spe vorarat, patriae oppressae incubans,</p>
+  <p>Anima probris plena omnibus spoliatus est.</p>
+  <p>Ite, et cadaver illud obscoenum feris</p>
+  <p>Date laniandum, quo feram absumant ferae.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>Erymanthium perculerit Alcides aprum,</p>
+  <p>Hydramque flammis pertinacem extinxerit,</p>
+  <p>Lapsumque caelo, iterumque caelo redditum</p>
+  <p>Confecerit leonem: in uno corpore</p>
+  <p>Sexcenta nobis monstra debellata sunt.</p>
+  <p>Si strenuis justus datur factis honos,</p>
+  <p>Tua, Brute, fastos ampliabit gloria.</p>
+  <p><hi rend="italic">Brutus</hi></p>
+  <p>Quicunque mente patriam saeva premit,</p>
+  <p>Suosque cives subdit, ut servos, sibi,</p>
+  <p>Dum blandientis jam tenet summum rotae,</p>
+  <p>Ipsosque pene temnit aequalis deos:</p>
+  <p>Simul atque versus cassat astrorum favor,</p>
+  <p>Et constitutas tempus adduxit vices,</p>
+  <p>Cadit, suoque ceteros casu monet,</p>
+  <p>Virtute dempta, ne quid aeternum putent.</p>
+  <p><hi rend="italic">Cassius</hi></p>
+  <p>Sic, sic tyranni debitas poenas luant,</p>
+  <p>Nunquamque sicca finiant vitam nece.</p>
+  <p>Eamus hinc, et editam Capitolii</p>
+  <p>Scandamus arcem. Roma tandem libera est.</p>
+  <p><hi rend="italic">Calpurnia. Chorus.</hi></p>
+  <p>Eheu, quis aures nuncius tetigit meas,</p>
+  <p>Cecidisse dira Caesarem Bruti manu?</p>
+  <p>O somniorum jam nimis veram fidem!</p>
+  <p>Sic misera quondam Troici conjux senis,</p>
+  <p>Quam somniarat, tulit, et experta est facem.</p>
+  <p>O, quae dolori verba sufficiant meo?</p>
+  <p>Dehisce terra, meque miserandam abripe,</p>
+  <p>Aut vos nefandi parricidae, huc, huc cito</p>
+  <p>Venite gressu, quoque ferro conjugem</p>
+  <p>Meum necastis, me, me eodem tollite.</p>
+  <p>Secunda vestras hostia exspecto manus.</p>
+  <p>Cupide madentem conjugali sanguine</p>
+  <p>Jugulo mucronem, aut pectore excipiam meo.</p>
+  <p>Nondum litasti, Brute, perficito sacrum.</p>
+  <p>Nondum peremptus Caesar est: pars illius</p>
+  <p>Maneo superstes. Non meus vitam tibi</p>
+  <p>Vir denegarat: ne mihi mortem nega.</p>
+  <p>Moriar semel, quo desinam toties mori.</p>
+  <p>Aut tu, doloris turba nostri particeps,</p>
+  <p>Dum languidus paullatim animus absumitur,</p>
+  <p>Et membra linquens tabida, petit Caesarem,</p>
+  <p>Adjunge moestam fletibus vocem meis.</p>
+  <p><hi rend="bold">Chorus</hi></p>
+  <p>Aetheris alti lugeat orbis:</p>
+  <p>Tuque o radiis incincte caput,</p>
+  <p>Volucris splendens arbiter anni,</p>
+  <p>Propera pulcros abdere vultus.</p>
+  <p>Tu quoque falsae dominator aquae,</p>
+  <p>Valide terram concute sceptro.</p>
+  <p>Omnia moerorem patefaciant.</p>
+  <p>Ille subactae gloria terrae,</p>
+  <p>Nunc repetiti gloria caeli,</p>
+  <p>Uno Caesar Jove patre minor</p>
+  <p>Liquit terras.</p>
+  <p>O impuri! o illaudati!</p>
+  <p>Quorum sacrilega manus potuit</p>
+  <p>Tantum mundi extinguere lumen,</p>
+  <p>Quae vobis sint supplicia satis?</p>
+  <p>Quis taurus, quae rota, quis gladius,</p>
+  <p>Possit vestrum aequare furorem?</p>
+  <p>Vobis tellus, vobis aether,</p>
+  <p>Vobis deneget unda quietem:</p>
+  <p>Vos ultrices agitent furiae:</p>
+  <p>Una cruentis agitet flagris,</p>
+  <p>Altera tetro coquat igne genas;</p>
+  <p>Tristes alia objiciat colubras,</p>
+  <p>Quae se vestro sanguine pascant:</p>
+  <p>Stygia donec sede receptos</p>
+  <p>Laniet rostro vultur adunco.</p>
+  <p>Vexet iniquum Aeolidae pondus,</p>
+  <p>Et supplici quidquid acerbi</p>
+  <p>Sceleratos exagitat manes.</p>
+  <p>At tu, nostri caussa doloris,</p>
+  <p>Multum flete, et multum flende,</p>
+  <p>Hos bone planctus accipe, Caesar.</p>
+  <p>Caesar.</p>
+  <p>Quid caelitum me fletis adjunctum choro?</p>
+  <p>Non luridi me stagna Cocyti tenent,</p>
+  <p>Sed templa caeli; non malignae me furor</p>
+  <p>Tetigit cohortis; ipsa jam genitrix manu</p>
+  <p>Me collocarat inter astrorum globos.</p>
+  <p>Simulacra tantum nuda dilaniata sunt:</p>
+  <p>Nec ipse cecidi: umbra cecidit tantum mea.</p>
+  <p>Desinite flere: lacrymae miseros decent.</p>
+  <p>Qui me furenti, (vera praemoneo Indiges,)</p>
+  <p>Sunt animo adorti, non inultum illud ferent.</p>
+  <p>Heres meae virtutis, ut sceptri mei,</p>
+  <p>Nepos sororis, arbitratu pro suo</p>
+  <p>Poenas reposcet. Ponite modum luctibus.</p>
+  <p>Ego ad alta caeli tecta stellantis feror.</p>
+  <p>Calpurnia.</p>
+  <p>Unde, quaeso, vox ad aures ista pervenit meas?</p>
+  <p>En, sonum, marite, dulcem vocis agnosco tuae.</p>
+  <p>Non iniqua te peremit parricidarum manus:</p>
+  <p>Vivis, et receptus astris, laetus assides Jovi.</p>
+  <p>Quo soles, bonus, favore perge complecti tuos.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>Sunt manes aliquid: cumque diem ultimum</p>
+  <p>Adduxit fera mors, est aliquid tamen,</p>
+  <p>Quod vitat Libitinam</p>
+  <p>Exstructosque fugit rogos.</p>
+  <p>Id si, dum vegetat membra, datum sibi</p>
+  <p>Vitae curriculum pariter egerit,</p>
+  <p>Nec se turpificarit</p>
+  <p>Impuris scelerum notis.</p>
+  <p>Mox, ut corporeo carcere liberum est,</p>
+  <p>Rursus sidereas convolat in domos,</p>
+  <p>Qua Saturnia lacte</p>
+  <p>Signavit proprio viam:</p>
+  <p>Atque illic, numero caelicolum additum,</p>
+  <p>Caelesti ambrosiae gramine vescitur,</p>
+  <p>Et carchesia sacri</p>
+  <p>Plena nectaris ebibit.</p>
+  <p>Haec olim haud dubie praemia vos manent,</p>
+  <p>Quicunque innocuo pectore simplices</p>
+  <p>Virtutemque tenetis,</p>
+  <p>Et canam colitis fidem.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p></p>
+</div>
+        
+    </body>
+</text>
+</TEI>

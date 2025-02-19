@@ -134,7 +134,7 @@ scriptum datum Londini 27. Martii 1587 complectitur.
 
 
 
-## TRAGOEDIAE INTERLOCVTORES.
+# 1. TRAGOEDIAE INTERLOCVTORES.
 
 Henrici octavi umbra.
 
@@ -170,7 +170,7 @@ Chorus captivorum, ex quo seorsim interloquuntur puellae duae.
 
 ADRIANI ROVLERII INSVLANI STVARTA.
 
-## ACTVS PRIMVS.
+# 3. ACTVS PRIMVS.
 
 Henricus octavus.
 
@@ -874,7 +874,7 @@ Fundamenta ruat papales amplius aras
 
 Devenerata focis. Vivet vetus Albio nomen!
 
-## ACTVS SECVNDVS.
+# 5. ACTVS SECVNDVS.
 
 Stuarta cum Medico suo.
 
@@ -1666,7 +1666,7 @@ Nec dubitamus cernere iustos
 
 ≤line=660≥ Omnia divos.
 
-## ACTVS TERTIVS.
+# 7. ACTVS TERTIVS.
 
 Drurius.
 
@@ -2366,7 +2366,7 @@ Iura viderunt gemino Stuartam
 
 Dicere regno.
 
-## ACTVS QVARTVS.
+# 9. ACTVS QVARTVS.
 
 Amias. Stuarta. Medicus. Chorus.
 
@@ -3076,7 +3076,7 @@ Et suppiicio, quâe patrat idem,
 
 Hospes eodem peccata luat.
 
-## ACTVS QVINTVS.
+# 15. ACTVS QVINTVS.
 
 Erbyus. Stuarta. Melvinus.
 

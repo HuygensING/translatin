@@ -151,7 +151,7 @@ PRINCEPS AURIACUS, Sive LIBERTAS DEFENSA: TRAGOEDIA NOVA.
 
 
 
-## Dramatis personae:
+# 1. Dramatis personae:
 
 I Alastor
 
@@ -179,7 +179,7 @@ V Nuntius, Chorus
 
 Vates
 
-## ACTUS PRIMUS.
+# 6. ACTUS PRIMUS.
 
 ALASTOR.
 
@@ -681,7 +681,7 @@ Carmen cantabimus, et numen
 
 Iovae celebrabimus augustum.
 
-## ACTUS SECUNDUS.
+# 8. ACTUS SECUNDUS.
 
 TYRANNUS.
 
@@ -1305,7 +1305,7 @@ Surrigit contra stimulos feroci
 
 Pectore calces.
 
-## ACTUS TERTIUS
+# 10. ACTUS TERTIUS
 
 PRINCEPS
 
@@ -1709,7 +1709,7 @@ Crudae nemo tyrannidis
 
 Effugit, nisi qui fugit.
 
-## ACTUS QUARTUS.
+# 12. ACTUS QUARTUS.
 
 EUSEBIUS.
 
@@ -2185,7 +2185,7 @@ Domat ille et refraenat rerum
 
 Sator, aetherias qui colit arces.
 
-## ACTUS QUINTUS.
+# 14. ACTUS QUINTUS.
 
 NUNCIUS. CHORUS.
 

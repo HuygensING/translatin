@@ -101,7 +101,7 @@ Per sacrificum causa agnita restituitur.
 
 
 
-## DRAMATIS PERSONAE.
+# 1. DRAMATIS PERSONAE.
 
 Prologus cum Moro Paedium, puer
 
@@ -117,7 +117,7 @@ Tolmesia, caupona Bacchus, persona muta
 
 Ancilla cauponae Tribules, personae mutae.
 
-## PROLOGUS IN ALUTAM cum MORO.
+# 2. PROLOGUS IN ALUTAM cum MORO.
 
 Carmen ubique iambicum trimetrum acatalectum est
 
@@ -239,7 +239,7 @@ Vanusque fiat hic apparatus scaenicus
 
 Et tota vestra intentio frustrata sit.
 
-## ACTUS I. SCAENA I.
+# 3. ACTUS I. SCAENA I.
 
 ALUTA sola.
 
@@ -301,7 +301,7 @@ Canis esurit. Ehodum huc, voluptuarii,
 
 Adeste; nam parvo admodum venumdabo.
 
-## ACTUS I. SCAENA II.
+# 4. ACTUS I. SCAENA II.
 
 SPERMOLOGUS, HARPAX.
 
@@ -387,7 +387,7 @@ Ubi erit opportunum, adsequar. Vade ocius,
 
 Ne transferat merces, quia loco se movet.
 
-## ACTUS I. SCAENA III.
+# 5. ACTUS I. SCAENA III.
 
 ALUTA, SPERMOLOGUS, HARPAX.
 
@@ -475,7 +475,7 @@ SPE. Tam nostra praeda, nostra quam lux solis est.
 
 ≤line=170≥ Sed ante convenire oportet Harpaga.
 
-## ACTUS I. SCAENA IV.
+# 6. ACTUS I. SCAENA IV.
 
 ALUTA sola.
 
@@ -501,7 +501,7 @@ Modo spes meae. At mora omnis est prolixior.
 
 Occeperint, nisi sit de emendis mercibus.
 
-## ACTUS I. SCAENA V.
+# 7. ACTUS I. SCAENA V.
 
 SPERMOLOGUS, HARPAX.
 
@@ -539,7 +539,7 @@ Intelligenti pauca. Cave, ne exaudiat!
 
 Tua dicta fac verbis meis respondeant!
 
-## ACTUS I. SCAENA VI.
+# 8. ACTUS I. SCAENA VI.
 
 SPERMOLOGUS, ALUTA, HARPAX.
 
@@ -687,7 +687,7 @@ Ac tigridas e republica
 
 Raserit, eam corruperit.
 
-## ACTUS II. SCAENA I.
+# 10. ACTUS II. SCAENA I.
 
 ALUTA, TOLMESIA, ANCILLA.
 
@@ -735,7 +735,7 @@ Infunde, bibe, dein solvito! ALU. Curabitur.
 
 ANC. Nisi tute cures, gallus hic servabitur.
 
-## ACTUS II. SCAENA II.
+# 11. ACTUS II. SCAENA II.
 
 SPERMOLOGUS, HARPAX.
 
@@ -763,7 +763,7 @@ HAR. Nostra est, modo ebria sit. Latebo clanculum,
 
 Quid possies! Crepat ostium; cedamus hinc.
 
-## ACTUS II. SCAENA III.
+# 12. ACTUS II. SCAENA III.
 
 ALUTA, TOLMESIA, ANCILLA.
 
@@ -867,7 +867,7 @@ Se tum viri tum feminae
 
 Et vomitum adusque ingurgitent.
 
-## ACTUS III. SCAENA I.
+# 14. ACTUS III. SCAENA I.
 
 HARPAX, SPERMOLOGUS.
 
@@ -911,7 +911,7 @@ Hanc vomicam, ut obliquis viam metitur hanc
 
 Gressibus et usque convomit. Sequar eminus.
 
-## ACTUS III. SCAENA II.
+# 15. ACTUS III. SCAENA II.
 
 ALUTA, HARPAX, SPERMOLOGUS.
 
@@ -1007,7 +1007,7 @@ Ita alligata impuritas,
 
 Nil tractitent nisi turpia.
 
-## ACTUS IV. SCAENA I.
+# 17. ACTUS IV. SCAENA I.
 
 HEINO, PAEDIVM.
 
@@ -1041,7 +1041,7 @@ Certe actum erit de re domestica hoc die
 
 Ut non quiescat, donicum se ingurgitet.
 
-## ACTUS IV. SCAENA II.
+# 18. ACTUS IV. SCAENA II.
 
 ALUTA sola.
 
@@ -1083,7 +1083,7 @@ Domi. Si ibi, profecto nulla sum. At si ibi
 
 ≤line=445≥ Non fuerit, aliqua spes mihi fors residua est.
 
-## ACTUS IV. SCAENA III.
+# 19. ACTUS IV. SCAENA III.
 
 PAEDIUM, HEINO.
 
@@ -1112,7 +1112,7 @@ Hunc parvulum? Ibo foras, ut eventum rei
 
 Videam. ------------
 
-## ACTUS IV. SCAENA IV.
+# 20. ACTUS IV. SCAENA IV.
 
 ALUTA, HEINO, DROMULUS.
 
@@ -1192,7 +1192,7 @@ Pigram, superbam aut invidam
 
 Cui nulla cura domesticae.
 
-## ACTUS V. SCAENA I.
+# 22. ACTUS V. SCAENA I.
 
 ALUTA, HEINO.
 
@@ -1218,7 +1218,7 @@ Indutus albo supparo, cinctus stola,
 
 Se signat undique nescio quid murmurans.
 
-## ACTUS V. SCAENA II.
+# 23. ACTUS V. SCAENA II.
 
 MYSTOTUS, HEINO, ALUTA.
 
@@ -1262,7 +1262,7 @@ HEI. Paremus; haud enim decet mysteriis
 
 Sacris adesse rusticos. Stemus procul!
 
-## ACTUS V. SCAENA III.
+# 24. ACTUS V. SCAENA III.
 
 MYSTOTUS sacrificus, ALUTA.
 
@@ -1294,7 +1294,7 @@ Adflata numine est. Ut audiit mysteria,
 
 Quem proruens post se reliquit, fetido.
 
-## ACTUS V. SCAENA IV.
+# 25. ACTUS V. SCAENA IV.
 
 HEINO, MYSTOTUS sacrificus.
 

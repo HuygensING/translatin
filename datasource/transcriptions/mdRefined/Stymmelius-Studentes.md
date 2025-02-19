@@ -266,7 +266,7 @@ V. H. addictiss. Christophorus Stummelius F.
 
 
 
-## PROLOGVS
+# 1. PROLOGVS
 
 Ingens mei tenet vos admiratio
 
@@ -350,7 +350,7 @@ Olim cothurno forsitan videbitis.
 
 Nunc argumentum dicetur Comoediae
 
-## INTERLOCUTORES.
+# 2. INTERLOCUTORES.
 
 Philargyrus Eubulus Philostorgus, senes
 
@@ -436,7 +436,7 @@ Emungit argento, se febre dictitans
 
 Laborasse, et Danistae dat pecuniam.
 
-## ACTUS I. SCENA I.
+# 3. ACTUS I. SCENA I.
 
 PHILARGYRUS, EUBULUS, PHILOSTORGUS. Trimetri.
 
@@ -828,7 +828,7 @@ Vos itidem vestros quoque iubete accersere.
 
 EUB. I prae, sequar, fiet, non ulla erit mora.
 
-## ACTUS I. SCENA II.
+# 4. ACTUS I. SCENA II.
 
 PHILOMATHES, ACOLASTUS, ACRATES. Trimetri
 
@@ -870,7 +870,7 @@ Idcirco percontare ex ipsis quid velint
 
 Nos te sequemur.
 
-## ACTUS I. SCENA III.
+# 5. ACTUS I. SCENA III.
 
 PHILOMATHES, ACOLASTUS, ACRATES, EUBULUS, PHILOSTORGUS, PHILARGYRUS.
 Trochaici Tetrametri, Catalectici,
@@ -1015,7 +1015,7 @@ Tu igitur caelitus tua nosmet perfunde gratia.
 
 Et largire, studia ut succedant quam felicissime
 
-## ACTUS I. SCENA IIII.
+# 6. ACTUS I. SCENA IIII.
 
 EUBULUS, Senarii.
 
@@ -1069,7 +1069,7 @@ Laetior exspectat nigri te portitor Orci,
 
 Divite ab hoc, dicens, praemia magna feram.
 
-## ACTUS II. SCENA I.
+# 8. ACTUS II. SCENA I.
 
 ACOLASTUS, ACRATES, PHILOMATHES, DANISTA. Octonarii quadrati.
 
@@ -1103,7 +1103,7 @@ Verbis, fiet, parata quin iam sunt omnia, ne sit mora
 
 Ite intro ut capiatis cibum. ACO. I prae nos sequemur te hospitem.
 
-## ACTUS II. SCENA II.
+# 9. ACTUS II. SCENA II.
 
 MUSOPOLUS, COLAX. Trochaici, Tetrametri, Catalectici.
 
@@ -1241,7 +1241,7 @@ Iam diutius non detinebo, et magnas gratias
 
 Non solum ago, sed etiam habeo, ego hac ibo, tu interim vale.
 
-## ACTUS II. SCENA III.
+# 10. ACTUS II. SCENA III.
 
 PHILOMATHES, ACOLASTUS, ACRATES, COLAX. Scazontes.
 
@@ -1317,7 +1317,7 @@ Huius igitur fidei volueritis si vos
 
 Committere, sequimini, nam vos ad huc ducam.
 
-## ACTUS II. SCENA IIII.
+# 11. ACTUS II. SCENA IIII.
 
 COLAX, PHILOMATHES, ACRATES, ACOLASTUS, PAEDEUTES praeceptor,
 Phrontistes famulus. Senarii.
@@ -1512,7 +1512,7 @@ Praeceptor. PAE. Et vos adolescentes optimi.
 
 Deus fortunet vestros conatus pios.
 
-## ACTUS II. SCENA V.
+# 12. ACTUS II. SCENA V.
 
 MYSPOLUS, COLAX. Tetrametri, Iambici, Catalectici.
 
@@ -1578,7 +1578,7 @@ Demiror, quod tantopere festinent. MYS. Ad lectionem
 
 Fortasse ituri sunt. CO. exspectabo atque interrogabo.
 
-## ACTUS II. SCENA VI.
+# 13. ACTUS II. SCENA VI.
 
 MYSPOLUS, COLAX, ACRATES,
 
@@ -1704,7 +1704,7 @@ Mores, quin etiam ad pessima sunt mala
 
 Calcar pernicies foeda dolis scatens.
 
-## ACTUS III. SCENA I.
+# 15. ACTUS III. SCENA I.
 
 ACOLASTUS, Senarii. Iambici.
 
@@ -1820,7 +1820,7 @@ Si nil preces valebunt, addam munera
 
 Quae conciliant Deos, ne dum animum muliebrem.
 
-## ACTUS III. SCENA II.
+# 16. ACTUS III. SCENA II.
 
 DELEASTISA, ACOLASTUS. Trochaici, Tetrametri, Catalectici.
 
@@ -2066,7 +2066,7 @@ Invitavi ad cenam, cum quibus cras frontem exporrigam
 
 Quando quidem pater cum matre ad amicos iam profectus est.
 
-## ACTUS III. SCENA III.
+# 17. ACTUS III. SCENA III.
 
 ACOLASTUS, DELEASTISA, COLAX MYSPOLUS, PHILOSTASIUS ACRATES, CERDONES.
 Senarii, Septenarii et Octonarii mixti.
@@ -2341,7 +2341,7 @@ CER. Heu heu inermes caedimur.
 
 COL. Satis dederunt poenarum, coniciamus nos in pedes.
 
-## ACTUS III. SCENA IIII.
+# 18. ACTUS III. SCENA IIII.
 
 PHILOMATHES. Trimetri.
 
@@ -2399,7 +2399,7 @@ Ut in viam reducam, et redeant ad frugem.
 
 Sed eccum Acolastum video.
 
-## ACTUS III. SCENA V.
+# 19. ACTUS III. SCENA V.
 
 ACOLASTUS, PHILOMATHES. Trimetri.
 
@@ -2529,7 +2529,7 @@ Et gignunt odium novem sororum.
 
 Obnixe studiis adhaere honestis.
 
-## ACTUS IIII. SCENA I.
+# 21. ACTUS IIII. SCENA I.
 
 EUPROSITUS ELEUTHERIA Senarii.
 
@@ -2583,7 +2583,7 @@ Hominis ingenium, per servom accersi iube.
 
 EUP. Dromo, accerse Acolastum, ut mox veniat huc rogo.
 
-## ACTUS IIII. SCENA II.
+# 22. ACTUS IIII. SCENA II.
 
 ACOLASTUS, Scazontes.
 
@@ -2677,7 +2677,7 @@ Veretur ut sim ducturus, et ut expurgem
 
 Me, ipsaque flens iam dudum meam fidem implorat.
 
-## ACTUS IIII. SCENA III.
+# 23. ACTUS IIII. SCENA III.
 
 EUPROSITUS, ELEUTHERIA, ACOLASTUS. Octonarii.
 
@@ -2745,7 +2745,7 @@ Sed conferam me nunc domum, idoneum sum nactus nuntium,
 
 Per literas hac de re certiorem facturus patrem.
 
-## ACTUS IIII. SCENA IIII.
+# 24. ACTUS IIII. SCENA IIII.
 
 DANISTA, ACRATES.
 
@@ -2817,7 +2817,7 @@ Si pater rem cum scortis habere me rescisceret,
 
 Ludere, potare dies et noctes, ferret gravissime.
 
-## ACTUS IIII. SCENA V.
+# 25. ACTUS IIII. SCENA V.
 
 EUBULUS, PHILOSTORGUS. Septenarii.
 
@@ -2907,7 +2907,7 @@ Hanc, precor, pestem fuge qui novena
 
 Numina quaeris.
 
-## ACTUS V. SCENA I.
+# 27. ACTUS V. SCENA I.
 
 ACOLASTUS. Trimetri.
 
@@ -2991,7 +2991,7 @@ Mens hercle praesagit mihi infortunium.
 
 Sed ni fallor, video patrem, huc accedere.
 
-## ACTUS V. SCENA II.
+# 28. ACTUS V. SCENA II.
 
 EUPROSITUS, ELEUTHERIA. Trochaici, Catalectici. Tetrametri.
 
@@ -3013,7 +3013,7 @@ Ego paulisper in forum prodibo, num quid sit novi,
 
 Auditurus, cuius nostra saecula sunt plenissima.
 
-## ACTUS V. SCENA III.
+# 29. ACTUS V. SCENA III.
 
 EUBULUS, ACOLASTUS, PHILOSTORGUS. Tetrametri, Iambici, Catalectici.
 
@@ -3070,7 +3070,7 @@ EUB. Aspera verba nihil si proficiunt, quid lenia moverent?
 
 Sed nisi fallunt oculi, procul video istos advenire.
 
-## ACTUS V. SCENA IIII.
+# 30. ACTUS V. SCENA IIII.
 
 EUPROSITUS, ACOLASTUS, EUBULUS, PHILOSTORGUS. Senarii, Septenarii et
 Octonarii.
@@ -3235,7 +3235,7 @@ Cui denumerabo argentum quod debet.
 
 EUP. sequere. EUB. sequar.
 
-## ACTUS V. SCENA V.
+# 31. ACTUS V. SCENA V.
 
 ACOLASTUS, ACRATES. Trimetri.
 
@@ -3321,7 +3321,7 @@ Mores, edocet optimos,
 
 Ut vitam instituas in melius, monens.
 
-## EPILOGUS
+# 33. EPILOGUS
 
 A M. CHRISTOPHORO CORnero additus.
 
@@ -3435,7 +3435,7 @@ Quae imitantur et referunt mortalium omnium
 
 Conditiones, mores, studium et vitae modum.
 
-## Errata singulorum tangunt, vitiaque,
+# 35. Errata singulorum tangunt, vitiaque,
 
 Et quemlibet monent suo de munere.
 

@@ -12,7 +12,7 @@ COMOEDIA NOVA.
 
 
 
-## ACTORVM NOMINA.
+# 1. ACTORVM NOMINA.
 
 BROMIA.
 
@@ -42,7 +42,7 @@ LEONIDES.
 
 EVBVLVS.
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 EN rursus exeo in proscenium, à didascalo
 
@@ -102,7 +102,7 @@ Conatus. Sed satis iam vos remoratus sum diu.
 
 Nunc huius argumentum audite fabulae.
 
-## PERIOCHA.
+# 3. PERIOCHA.
 
 Duo adolescentes praeceptori literis
 
@@ -124,7 +124,7 @@ Didascalo morti eximuntur: & in scholâ
 
 ≤line=10≥ Castigati, suis redduntur matribus.
 
-## ACTVS I. SCENA I.
+# 4. ACTVS I. SCENA I.
 
 BROMIA, PSEVDOLVS.
 
@@ -193,7 +193,7 @@ Paulisper subsistam, atque vbi propiùs accesserit alloquar.
 
 ≤page=56≥
 
-## ACTVS I. SCENA II.
+# 5. ACTVS I. SCENA II.
 
 LESBIA, BROMIA.
 
@@ -248,7 +248,7 @@ Les. Praecedo, sequere. \-\--
 
 ≤page=57≥
 
-## ACTVS I. SCENA III.
+# 6. ACTVS I. SCENA III.
 
 LESBIA, MYDA, EVGENIVS, BROMIA.
 
@@ -314,7 +314,7 @@ Nam parùm in studijs proficiunt, qui ad alia
 
 Distracti, rariùs adsunt. Lesb. Curabitur.
 
-## ACTVS I. SCENA IV.
+# 7. ACTVS I. SCENA IV.
 
 BROMIA, LESBIA.
 
@@ -422,7 +422,7 @@ Futurum. Les. Bene vale. Bro. Et tu, in vesperum. Sed vt
 
 Maturius adsis vide. Les. In me nihil erit morae.
 
-## ACTVS I. SCENA V.
+# 8. ACTVS I. SCENA V.
 
 HARPALVS, PSEVDOLVS.
 
@@ -528,7 +528,7 @@ Har. Nae tu homo es ignauus, qui à pedibus opem tibi
 
 ≤page=62≥
 
-## ACTVS II. SCENA I.
+# 9. ACTVS II. SCENA I.
 
 EVGENIVS, MYDA.
 
@@ -596,7 +596,7 @@ Facessant improbi: in scholam
 
 Herculè ego illos nunquam recepero.
 
-## ACTVS II. SCENA II.
+# 10. ACTVS II. SCENA II.
 
 HARPALVS, PSEVDOLVS. BROMIA.
 
@@ -673,7 +673,7 @@ Mater Harpale. Ipsa est, gaudeo. nihil potuit
 
 Fieri opportuniùs. \-\--
 
-## ACTVS II. SCENA III.
+# 11. ACTVS II. SCENA III.
 
 LESBIA, BROMIA, EVGENIVS.
 
@@ -813,7 +813,7 @@ Lubet: vestrosque instituite filios:
 
 ≤line=300≥ Cum talibus enim nolim mihi quicquam esse negotij.
 
-## ACTVS III. SCENA I.
+# 12. ACTVS III. SCENA I.
 
 PAMPHAGVS, PHORMIO.
 
@@ -900,7 +900,7 @@ Sperare ausim. Praestolemur eos accedentes, &
 
 Quid sint loquuturi obseruemus sedulò. Phor. Placet.
 
-## ACTVS III. SCENA II.
+# 13. ACTVS III. SCENA II.
 
 HARPALVS, PSEVDOLVS, PAMPHAGVS, PHORMIO.
 
@@ -1006,7 +1006,7 @@ Quo ire constitueramus. Sequimini, pulsabo ostium.
 
 ≤line=385≥ At eccum commodè exeuntem cauponem, alloquar.
 
-## ACTVS III. SCENA III.
+# 14. ACTVS III. SCENA III.
 
 PAMPHAGVS, SANNIO. PHORMIO, HARPALVS, PSEVDOLVS.
 
@@ -1202,7 +1202,7 @@ Ecce vndecim. Quid nunc vobis videtur? Haec
 
 Nobis cedunt omnia. \-\--
 
-## ACTVS III. SCENA IV.
+# 15. ACTVS III. SCENA IV.
 
 SANNIO, PAMPHAGVS, PHORMIO, HARPALVS, PSEVDOLVS,
 
@@ -1278,7 +1278,7 @@ Meae. Har. Aliquid tamen nobis erit
 
 ≤page=76≥
 
-## ACTVS IV SCENA I.
+# 16. ACTVS IV SCENA I.
 
 CHREMES, HARPALVS, PSEVDOLVS, SANNIO.
 
@@ -1360,7 +1360,7 @@ Mea nihil interest. Sequimini me intrò: tibi
 
 Vobis restituentur vestes. Pse. I prae, sequimur.
 
-## ACTVS IV. SCENA II.
+# 17. ACTVS IV. SCENA II.
 
 SYRVS, SANCA, CHREMES.
 
@@ -1442,7 +1442,7 @@ Praedari quisque licere existimat sibi.
 
 Sed considebo hic paulisper, donec redeant.
 
-## ACTVS IV. SCENA III.
+# 18. ACTVS IV. SCENA III.
 
 SYRVS, HARPALVS, SANGA, PSEVDOLVS, CHREMES.
 
@@ -1491,7 +1491,7 @@ Pse. O nos miserrimos! Syr. Tace nequam, ac progredere. Sed
 
 Herum eccum egressum conspicor.
 
-## ACTVS IV. SCENA IV.
+# 19. ACTVS IV. SCENA IV.
 
 LEONIDES, SYRVS, SANCA, CHREMES.
 
@@ -1529,7 +1529,7 @@ Heus tu, quid stas rustice? Praetorem sequere, ac telam tuam
 
 Esse dic. Chr. Nihil est quod aequè fecero lubens.
 
-## ACTVS V. SCENA I.
+# 20. ACTVS V. SCENA I.
 
 BROMIA, EVEVLVS, LESBIA.
 
@@ -1637,7 +1637,7 @@ quod nos facere cogit necessitas, durum,
 
 Vt aiunt, telum. Les. Eamus igitur. \-\--
 
-## ACTVS V SCENA II.
+# 21. ACTVS V SCENA II.
 
 EVGENIVS, LESBIA, BROMIA.
 
@@ -1771,7 +1771,7 @@ Eug. Sequimini me intro, atque ibi paulisper expectate, dum
 
 Eum aliquid effecturum boni.
 
-## ACTVS V. SCENA III.
+# 22. ACTVS V. SCENA III.
 
 LEONIDES, SANCA, HARPALVS, PSEVDOLVS.
 
@@ -1843,7 +1843,7 @@ Salutem commendantes supplices Har. Eheu,
 
 Quam miserum est mori? \-\--
 
-## ACTVS V. \[\< IV\] SCENA IV.
+# 23. ACTVS V. \[\< IV\] SCENA IV.
 
 EVGENIVS, BROMIA, LESBIA, HARPALVS, LEONIDES, PSEVDOLVS.
 

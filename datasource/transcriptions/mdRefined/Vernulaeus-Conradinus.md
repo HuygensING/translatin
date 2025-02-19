@@ -50,7 +50,7 @@ M. CC. LXVIII. XXVI. Octobris.
 
 
 
-## Personae Tragaediae.
+# 1. Personae Tragaediae.
 
 COnradinus Dux Sueviae.
 
@@ -96,9 +96,9 @@ CONRADINVS
 
 TRAGOEDIA.
 
-## ACTVS PRIMVS.
+# 3. ACTVS PRIMVS.
 
-## SCENA PRIMA.
+# 4. SCENA PRIMA.
 
 Conradinus, Senex.
 
@@ -234,7 +234,7 @@ Senex. Etiam futurus postmodum mortis comes.
 
 Et una sors & una mors ambos manet.
 
-## SCENA SECUNDA.
+# 5. SCENA SECUNDA.
 
 Fridericus, Conradinus, Senex.
 
@@ -398,7 +398,7 @@ Frid. Quis iste laeto corripit gressu viam?
 
 Italis ab oris, quisquis est, ad nos venit.
 
-## SCENA TERTIA.
+# 6. SCENA TERTIA.
 
 Girardus Pisanus, Conradinus,
 
@@ -536,7 +536,7 @@ Genas rigabit! filium emittet parens.
 
 Reducem haud videbit. Vita fortis est jocus.
 
-## SCENA QUARTA.
+# 7. SCENA QUARTA.
 
 Elisabetha, Nutrix, Senex.
 
@@ -698,7 +698,7 @@ Jam cingit armis. Elis. Rursus exundat dolor.
 
 Senex. Vitare nemo, quod timet, flendo potest.
 
-## SCENA QVINTA.
+# 8. SCENA QVINTA.
 
 Conradinus, Fridericus, Elisabetha, Senex,
 
@@ -834,7 +834,7 @@ Nutrix. Sperare, Domina, fas sit, huc intus veni
 
 Elis. Spes nostra Natus. Nu. Fata restituent tibi.
 
-## SCENA SEXTA.
+# 9. SCENA SEXTA.
 
 Conradinas, Fridericus, Hurnaisus, Marinus
 
@@ -1042,9 +1042,9 @@ Annue coeptis Deus alme novis
 
 Annue coeptis Fortuna novis.
 
-## ACTVS SECVNDVS.
+# 11. ACTVS SECVNDVS.
 
-## SCENA PRIMA.
+# 12. SCENA PRIMA.
 
 Carolus Andegavensis, Robertus Comes
 
@@ -1210,7 +1210,7 @@ Audire quae Rex non voles, jam jam audies.
 
 ≤page=20≥
 
-## SCENA SECUNDA.
+# 13. SCENA SECUNDA.
 
 Corolus, Cosmanus, Robertus Comes, Senex.
 
@@ -1388,7 +1388,7 @@ Victoriarum dividit palmas Tonans.
 
 ≤page=23≥
 
-## SCENA TERTIA.
+# 14. SCENA TERTIA.
 
 Conradinus, Girardus Pisanus, Fridericus,
 
@@ -1522,7 +1522,7 @@ Stantes coluntur Principes: sed cum cadunt,
 
 Omnes recedunt, & fugit retrò favor.
 
-## SCENA QUARTA.
+# 15. SCENA QUARTA.
 
 Girardus, Conradinus, Nuntius, Fridericus
 
@@ -1644,7 +1644,7 @@ Fortuna causam non juvat semper bonam.
 
 Mens nata magnis subjaces sorti quoque.
 
-## SCENA QUINTA.
+# 16. SCENA QUINTA.
 
 Conradinus, Milites, Girardus,
 
@@ -1720,7 +1720,7 @@ Hurn. State hic, & illic state vos, globus omnium
 
 Sic ite, totis buccinae castris sonent.
 
-## SCENA SEXTA.
+# 17. SCENA SEXTA.
 
 Carolus, Cosmanus, Robertus, Miles.
 
@@ -1908,9 +1908,9 @@ Sit certa, dum incerta est fuga.
 
 ≤page=32≥
 
-## ACTVS TERTIVS.
+# 19. ACTVS TERTIVS.
 
-## SCENA PRIMA.
+# 20. SCENA PRIMA.
 
 Carolus, Robertus, Senex.
 
@@ -2042,7 +2042,7 @@ Exclusa nullum ratio conservat locum.
 
 Car. Bene est, reversus Miles en captos trahit.
 
-## SCENA SECUNDA.
+# 21. SCENA SECUNDA.
 
 Cosmanus, Carolus, Hurnaisus, Marinus,
 
@@ -2206,7 +2206,7 @@ Consilia frustra quaerit; irato sat est
 
 ≤page=37≥
 
-## SCENA TERTIA.
+# 22. SCENA TERTIA.
 
 Conradinus, Fridericus, Senex, Piscator.
 
@@ -2428,7 +2428,7 @@ Meliore dignâ sorte! quid rursum imminet ?
 
 Quid iste torvo quaeritat vultu minax?
 
-## SCENA QUARTA.
+# 23. SCENA QUARTA.
 
 Ioannes de Frangipanibus, Piscator, Conradinus,
 
@@ -2552,7 +2552,7 @@ Frustraque natum lachrymis quaerit suum.
 
 Eripere morti non potest Matris dolor.
 
-## SCENA QVINTA.
+# 24. SCENA QVINTA.
 
 Elisabetha, Nutrix, Miles, Senex.
 
@@ -2876,9 +2876,9 @@ Et nos plaudimus omnes
 
 Regna Carole victor.
 
-## ACTVS QVARTVS.
+# 26. ACTVS QVARTVS.
 
-## SCENA PRIMA.
+# 27. SCENA PRIMA.
 
 Carolus, Robertus, Cosmanus, Senex.
 
@@ -3018,7 +3018,7 @@ Sen. Mutare mentem rex ferox nunquam solet.
 
 Cupido totum sola consilium expedit.
 
-## SCENA SECUNDA.
+# 28. SCENA SECUNDA.
 
 Cosmanus, Carolus, Ioannes Frangipanibus,
 
@@ -3316,7 +3316,7 @@ Nocens tyrannus tristis est, & se premit,
 
 Torquere dum vult, ipse se torquet prius.
 
-## SCENA TERTIA.
+# 29. SCENA TERTIA.
 
 Carolus, Robertus, Senex, Cosmanus,
 
@@ -3490,7 +3490,7 @@ Et en Senatus. Sen. Scilicet quem tu reges,
 
 Consilia reges expetunt, sed quae volunt.
 
-## SCENA QUARTA.
+# 30. SCENA QUARTA.
 
 Carolus, Robertus, Senatores
 
@@ -3886,9 +3886,9 @@ Ultima ferimus verba, valete.
 
 ≤page=65≥
 
-## ACTVS QVINTVS.
+# 32. ACTVS QVINTVS.
 
-## SCENA PRIMA.
+# 33. SCENA PRIMA.
 
 Elizabetha, Nutrix, Senex, VVernerus
 
@@ -4064,7 +4064,7 @@ Caeca in ruinam sors trahit quicquid dedit.
 
 ≤page=68≥
 
-## SCENA SECUNDA.
+# 34. SCENA SECUNDA.
 
 Carolus, Robertus, VVernerus Comes,
 
@@ -4306,7 +4306,7 @@ Adstrictiore guttur, & vitam exigat.
 
 ≤page=72≥
 
-## SCENA TERTIA.
+# 35. SCENA TERTIA.
 
 Robertus Bariensis Scriba, Conradinus, Fridericus,
 
@@ -4444,7 +4444,7 @@ Etiam est necesse; nobili in morte est decus
 
 Cum liber animus surgit, & mortem subit.
 
-## SCENA QVINTA.
+# 36. SCENA QVINTA.
 
 Robertus Scriba, Fridericus, Conradinus,
 

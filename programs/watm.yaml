@@ -4,3 +4,17 @@ excludeElements:
 asTsv: true
 # hyphenation:
 #  lineType: ln
+inheritFeatures:
+  - source: work
+    destination: part
+    namespace: tt
+    features:
+      - titleExpanded
+      - author
+      - firstEdition
+      - pubYear
+      - pubPlace
+      - publisher
+      - diction
+      - genre
+

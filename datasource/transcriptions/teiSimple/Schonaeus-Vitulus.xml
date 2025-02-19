@@ -21,1269 +21,1250 @@
 </div>
 <div type="level1" xml:id="main">
   <head>Main</head>
-  <div type="level2" xml:id="actorvm-nomina.">
-    <head>ACTORVM NOMINA.</head>
-    <p>COROEBVS, rusticus.</p>
-    <p>CANTHARA, Coroebi vxor.</p>
-    <p>BACCHIS, meretrices.</p>
-    <p>SYRA,</p>
-    <p>CHREMES, rusticus.</p>
-    <p>PINALDVS, Lanio.</p>
-    <p>DORIO, Pinaldi famulus.</p>
-    <p>SOSTRATA, Chremetis vxor.</p>
-    <p>BERARDVS, Exorcista.</p>
-  </div>
-  <div type="level2" xml:id="prologvs.">
-    <head>PROLOGVS.</head>
-    <p>Iambici.</p>
-    <p>Salutem vobis plurimam precor, viri,</p>
-    <p>Ac feminae, huc quotquot venistis, scenicos</p>
-    <p>Spectatum ludos: quos nunc exhibebimus</p>
-    <p>Iocosos, atque ludicros: castos tamen,</p>
-    <p>≤line=5≥ Atque verecundos. Obscoenos enim iocos,</p>
-    <p>Salesque inurbanos noster didascalus</p>
-    <p>Cane peius, &amp; angue fugiendos sibi putat.</p>
-    <p>Nihil turpe est rudi instillandum testulae,</p>
-    <p>Quae odorem, quo semel imbuitur, seruat diu.</p>
-    <p>≤line=10≥ Et quanquam id hactenus cauisse sedulè</p>
-    <p>Se existimat; haud desunt tamen, qui in illius</p>
-    <p>≤page=163≥</p>
-    <p>Comoedijs quaedam parum pudica esse asserunt.</p>
-    <p>Qui falli, &amp; tota mihi videntur errare</p>
-    <p>Viâ. Rerum, ac verborum castimoniam,</p>
-    <p>≤line=15≥ Et puritatem amat choragus noster, at</p>
-    <p>Superstitionem morosam, &amp; nimis anxiam,</p>
-    <p>Tetricamque curiositatem plane despicit.</p>
-    <p>Aequis hominibus, atque candidis suam</p>
-    <p>Probari cupit industriam. Dedit aliàs sacras,</p>
-    <p>≤line=20≥ Ex mysticis vobis depromptas litteris.</p>
-    <p>Iam ludicram, ac profanam accipite fabulam.</p>
-    <p>Iocos, facetiasque hoc tempus postulat.</p>
-    <p>Aduertite animos, atque cum silentio</p>
-    <p>Auscultate obsecro argumentum fabulae.</p>
-  </div>
-  <div type="level2" xml:id="periocha.">
-    <head>PERIOCHA.</head>
-    <p>Trimetri Iambici.</p>
-    <p>Coroebus ab vxore ad mercatum mittitur.</p>
-    <p>Qui de via fatigatus, diuertit in</p>
-    <p>Cauponam: vbi à meretriculis potu obrutus,</p>
-    <p>Vitulino tergori insuitur, atque ebrio</p>
-    <p>≤line=5≥ Chremeti venditur pro vitulo. Accersitur</p>
-    <p>Manè lanio: qui voce Coroebi territus,</p>
-    <p>Fugit: dein’ exorcista vocatur, vt suis</p>
-    <p>Furentem incantamentis placet belluam.</p>
-    <p>Hic quoque metu tremens abit. Mox cognito</p>
-    <p>≤line=10≥ Fuco, ridetur affatim. Coroebus à</p>
-    <p>Chremete, &amp; Sostrata domum ductus, redit</p>
-    <p>In gratiam cum vxore decepta dolo.</p>
-    <p>≤folio=L2≥</p>
-    <p>≤page=164≥</p>
-  </div>
-  <div type="level2" xml:id="actvs-i.-scena-i.">
-    <head>ACTVS I. SCENA I.</head>
-    <p>COROEBVS.</p>
-    <p>Iambici.</p>
-    <p>NAE ego hominum, qui viuunt, sum infelicißimus,</p>
-    <p>Cui tam molesta, ac rixosa vxor contigit.</p>
-    <p>Quae non humaniter me, atque vt bonam vxorem</p>
-    <p>Decet, tractat, sed quae miserum durißimis</p>
-    <p>≤line=5≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Quotidie, atque adeo indignis exercet modis.</p>
-    <p>Non maritum me suum esse deputat,</p>
-    <p>Sed vernam potius, aut mancipium vilißimum.</p>
-    <p>Nulla mihi per eam quies, nulla intermißio</p>
-    <p>Conceditur laboris: neque me respicit</p>
-    <p>≤line=10≥ Quicquam, neque aetatem meam.</p>
-    <p>Molesta, superba, procax, morosa, contumax.</p>
-    <p>Aequum sit, an iniquum, quod imperat, nihil</p>
-    <p>Videt, nihilque pensi habet.</p>
-    <p>Cui si pergas repugnare, irrites magis.</p>
-    <p>≤line=15≥ A solis ortu vsque ad occasum, aut domi,</p>
-    <p>Aut in agro sudandum, &amp; laborandum est mihi.</p>
-    <p>Nunc sunt mulgendae vaccae, nunc curandi equi,</p>
-    <p>Nunc frumentum flagellandum; nunc defricanda</p>
-    <p>Mulctralia, nunc purgandum stabulum. Denique</p>
-    <p>≤line=20≥ Nullum ocium datur mihi: neque eam miseret mei</p>
-    <p>Vnquam. Verum hoc vnum illi curae est maximè, vt</p>
-    <p>Sibi sit benè, cum mihi est malè.</p>
-    <p>Porrò ad mala haec isthuc quoque accedit, mihi</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Quod multò omnium est grauißimum:</p>
-    <p>≤line=25≥ Nimirum quod me illa vtî hominem insulsum, atque
-    fatuum</p>
-    <p>≤page=165≥</p>
-    <p>Contemnendum, atque adeo illudendum proponat sibi.</p>
-    <p>Me caudicem, bardum, stupidum, insipidumque esse, vsque
-    clamitans.</p>
-    <p>Quae nisi omnia patienter feram; aut si me vnico</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Saltem verbo excusare, aut illam refellere</p>
-    <p>≤line=30≥ Parem, ex insana insaniorem eam reddo mihi.</p>
-    <p>Cui ego malo quod remedium inueniam, planè nescio.</p>
-    <p>Sed crepuit ostium, at at, ipsa exit foras.</p>
-    <p>Vae capiti, scapulisque meis, nisi me sedulo</p>
-    <p>Laborantem conspiciat. Mulctrale igitur hoc</p>
-    <p>≤line=35≥ Mihi defricandum, ac abluendum sumam. Sic agam.</p>
-  </div>
-  <div type="level2" xml:id="actvs-i.-scena-ii.">
-    <head>ACTVS I. SCENA II.</head>
-    <p>CANTHARA, COROBBVS.</p>
-    <p>Eiusdem rationis versus.</p>
-    <p>PRouiso quid meus agat cessator: quo non puto</p>
-    <p>Alium magis esse ignauum, tardum, ac desidem</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Vsquam stipitem, non hominem esse dixeris.</p>
-    <p>Hebes est, iners, vecors, ac stolidus, stertit noctes &amp;
-    dies.</p>
-    <p>≤line=40≥ Nae ego infelix sum, quae tali marito nupserim.</p>
-    <p>Sed eccum caudicem adoriar.</p>
-    <p>Probè, vt putat, officio nunc fungitur suo:</p>
-    <p>Qui cum se maximè mouet, nihil promouet.</p>
-    <p>Hem, quid agis furcifer? COR. Blanda herculè salutatio.</p>
-    <p>≤line=45≥ CAN. Quid tecum mußitas mastigia? COR. Nihil mea
-    Canthara.</p>
-    <p>CAN. Nihil? hem, negas? Quid de salute garriebas impudens?</p>
-    <p>≤folio=L3≥</p>
-    <p>≤page=166≥</p>
-    <p>Cor. Salutem tibi precabar plurimam. Can. Credo vt soles.</p>
-    <p>Sed ausculta, vt scias, quid absque mora sit agendum tibi.</p>
-    <p>Cor. Quid, an rursus me ablegare paras quopiam?</p>
-    <p>≤line=50≥ Can. Itáne statim responsas? vah, crucior mihi</p>
-    <p>Fustem deesse, quo scapulas tibi conteram ignauißimo.</p>
-    <p>Cor. Hem, perge sodes mea Canthara. Can. Faciam, at vide, ne
-    me</p>
-    <p>Ad eundem interturbes modum. Cor. Non fiet. Can. in oppidum</p>
-    <p>Tibi est eundum protinus. Cor. Eho, in oppidum?</p>
-    <p>≤line=55≥ Mulctrale igitur hoc deponam, sed quid eò? dic mihi
-    Canthara.</p>
-    <p>Can. Tergus vitulinum, &amp; oua, quae collegi plurima ad</p>
-    <p>Mercatum deferes, praeterea ex gallis alterum.</p>
-    <p>Cor. Quid gallum? quamobrem quaeso? Can. Quia nihil aliud</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Quam totos pugnant dies. Neque mirum, cum vnicum</p>
-    <p>≤line=60≥ Arbustum non alat duos erithacos.</p>
-    <p>Cor. Quid hoc sibi vult prouerbium? Can. Tace stolide, &amp;</p>
-    <p>Tuâ quod nihil refert, omitte percontarier.</p>
-    <p>Cor. Probè herclè intelligo. quanquam tuum arbustum</p>
-    <p>Non admodum grauatè aluerit duos. Can. Tace inquam,</p>
-    <p>≤line=65≥ Et ad iter te accinge, ac perones indue. I</p>
-    <p>Intrò, parata tibi reperies omnia.</p>
-    <p>Me miseram! quàm vereor ne haec etiam malè curet, factu tamen</p>
-    <p>Quae sunt facillima: adeo nil sapit caudex.</p>
-    <p>≤page=167≥</p>
-    <p>Et animus, nescio quid mihi praesagit mali.</p>
-    <p>≤line=70≥ Cor. En redeo vxor probe vti conspicis, ad viam</p>
-    <p>Instructus. CAN. Video: sed vbi tergus vitulinum cedo?</p>
-    <p>COR. Quia non potui simul omnia. CAN. O hominem ignauißimum!</p>
-    <p>Ehem, adfer ocyus. COR. Hic est. Sed quomodo,</p>
-    <p>Gestabo cuncta haec, quae vix asinus, aut mulus ferat?</p>
-    <p>≤line=75≥ Et, ne oua frangam, metuo, CAN. Quid cessas
-    tardißime?</p>
-    <p>Ego tibi modum, quo facile gestes, ostendero.</p>
-    <p>Demitte caput. COR. Quid tum nunc inceptas? CA. Ita</p>
-    <p>Gestabis commodè, sine. Co. Hem, sino. Quis nunc tibi</p>
-    <p>Videor? CAN. Quis alter Hercules:</p>
-    <p>≤line=80≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Non leonis, sed vitulino tergore</p>
-    <p>Formidabilis. COR. Clauam insuper mihi</p>
-    <p>Da, ex qua corbem suspendam gallinariam.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>CAN. Rectè dicis. Hem tibi. CO. Sic incedam commodè</p>
-    <p>Et, ne oua frangam, nullum iam erit periculum.</p>
-    <p>≤line=85≥ Sed dic mihi, quanti haec vis vendi omnia? CA.
-    Singula</p>
-    <p>Vendes stupide, non omnia simul. COR. Etiam oua?</p>
-    <p>CAN. Garris? de gallo, &amp; tergore loquor. COR. Nunc
-    intelligo.</p>
-    <p>Sed quanti vendam? cedo sodes. CAN. Gallum decem,</p>
-    <p>Tergus triginta, si potes, sestertijs.</p>
-    <p>≤line=90≥ COR. Curabo sedulò. CAN. Sed audin’? pluris indica.</p>
-    <p>CO. Scio. Iniquum petam, vt quod est aequum feram,</p>
-    <p>CAN. Tenes. De ouis nihil habeo quod mandem tibi,</p>
-    <p>In his vendendis fac foro te accommodes.</p>
-    <p>COR. Memorem dices te monuisse mea Canthara. At</p>
-    <p>≤line=95≥ Priusquam me in viam dem, lactis obsecro</p>
-    <p>≤folio=L4≥</p>
-    <p>≤page=168≥</p>
-    <p>Mihi adfer cymbium. Can. Adferam. Cor. Benigne</p>
-    <p>Dicis. Nunc te laudo. Can. Hem, ad saturitatem iam bibe.</p>
-    <p>Cor. Non herclè est ferenda sitis. Nectar hoc mihi sapit</p>
-    <p>Lac. Can. Cessatum est satis: i, &amp; negotium tuum</p>
-    <p>≤line=100≥ Fac exequare gnauiter, quodque alias est</p>
-    <p>Peccatum, nunc vt sarcias vide. Cor. Dabo operam sedulò:</p>
-    <p>Vale. Can. Vale, ac matura reditum, audin’. Cor. Cras admodum
-    mane</p>
-    <p>Faxo reuersum me videas. Can. Hem, quid ais? pessime</p>
-    <p>Excipieris, nisi reuertaris vesperi.</p>
-    <p>≤line=105≥ Cor. An auem me nunc esse putas, quom testudinem</p>
-    <p>Appellare soles? ---</p>
-  </div>
-  <div type="level2" xml:id="actvs-i.-scena-iii.">
-    <head>ACTVS I. SCENA III.</head>
-    <p>CANTHARA.</p>
-    <p>Eiusdem generis.</p>
-    <p>--- Abijt tandem furcifer:</p>
-    <p>Atque vtinam redeat nunquam. Ego aedepol eam</p>
-    <p>Iacturam parui momenti esse deputem.</p>
-    <p>Nam quam quaeso mulierem vsquam reperias, quae non</p>
-    <p>≤line=110≥ Libenter, atque adeò cupide tali careat viro?</p>
-    <p>Non arbitror in toto hoc vico similem huic inuenirier:</p>
-    <p>Adeo eius stultitia, atque socordia superat omnia.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
-    </note>Atque ideo nihil est, quod tuto illi commiseris.</p>
-    <p>Quare non mediocriter vereor, ne hoc quoque negotium</p>
-    <p>≤page=169≥</p>
-    <p>≤line=115≥ Nunc male curet stupidus. Tum cauponas metuo,</p>
-    <p>Quae simplicibus insidiari solent agricolis.</p>
-    <p>A quibus hic noster quamuis delusus sit saepius,</p>
-    <p>Tamen, ne rursus illi verba dent, periculum</p>
-    <p>Esse puto maximum, namque os illi subleuerint</p>
-    <p>≤line=120≥ Facillimè: praesertim si vel vnicum</p>
-    <p>Cereuisiae biberit cantharum. Itaque lactis cymbium</p>
-    <p>Illi dabam libenter, ne sitiret in via.</p>
-    <p>Nunc ad vicinam hanc ibo Lesbiam, atque de optima</p>
-    <p>Vt mihi cereuisia promat iubebo. mox</p>
-    <p>≤line=125≥ Sub vesperum domum redeo. Quo tempore</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Si nondum reuersum nostrum cunctatorem reperero,</p>
-    <p>Vae illius scapulis, quas tam molles, atque pultem reddam ei.</p>
-  </div>
-  <div type="level2" xml:id="actvs-i.-scena-iv.">
-    <head>ACTVS I. SCENA IV.</head>
-    <p>COROEBVS.</p>
-    <p>Eiusdem generis.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>DE via, atque his baiulandis oneribus</p>
-    <p>Plana me defatigatum esse sentio.</p>
-    <p>≤line=130≥ Neque id mirum profecto, cum &amp; grauißimum</p>
-    <p>Pondus sustineam, &amp; solis aestus hactenus</p>
-    <p>Perpetuo tolerandus fuerit mihi. Nunc ad</p>
-    <p>Vrbem me tandem deuenisse gaudeo: ibi vt existimo,</p>
-    <p>Quiescendi dabitur locus. Atque vtinam emptorem statim</p>
-    <p>≤line=135≥ Inueniam: vt ante vesperum mihi domum</p>
-    <p>Reuerti liceat. Atque istud ni fiat, vae capiti meo:</p>
-    <p>Quod totum vxor mihi tuber reddet vndique.</p>
-    <p>Quanquam id iam defessum est satis,</p>
-    <p>Etiamsi verberibus non contundatur insuper.</p>
-    <p>≤folio=L5≥</p>
-    <p>≤page=170≥</p>
-    <p>≤line=140≥ Vtinam hic esset aliquis, qui hoc tergus mihi
-    exuat.</p>
-    <p>Sed solus sum, neque quenquam huc accedere</p>
-    <p>Conspicor: ipse vt mihi sim adiutor necesse est. Id agam.</p>
-    <p>Nunc hinc recta via ad forum me confero.</p>
-  </div>
-  <div type="level2" xml:id="actvs-ii.-scena-i.">
-    <head>ACTVS II. SCENA I.</head>
-    <p>BACCHIS, SYRA.</p>
-    <p>Iambici.</p>
-    <p>Perpaucos pol Syra reperias meretricibus</p>
-    <p>≤line=145≥ Fideles euenire amatores, vel Phormio</p>
-    <p>Hic vicinus noster, quoties iurabat Bromiae,</p>
-    <p>Quam sanctè, vt quiuis facilè posset credere.</p>
-    <p>Se nunquam illa viua aliam ducturum domum.</p>
-    <p>Hem, duxit. Sy. Scio, peccatum ab ipso maximum est.</p>
-    <p>≤line=150≥ Bac. Id illi nil morantur perfidi: huc tantum</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Incumbunt, vt blanditijs suis precio</p>
-    <p>Quam minimo voluptatem suam expleant.</p>
-    <p>Nam formâ impulsi vestrâ, vos illi colunt.</p>
-    <p>Haec vbi mutata est, aliò animum continuò conferunt.</p>
-    <p>≤line=155≥ Nisi prospectum est interea aliquid vobis, deserta
-    viuitis.</p>
-    <p>Syr. Verum mihi videris Bacchis, dicere.</p>
-    <p>Bac. Nunc itaque te moneo, atque exhortor sedulò,</p>
-    <p>Ne cuiusquam istorum te vnquam misereat, quin</p>
-    <p>Spolies atque mutiles, quemcunque nacta sis.</p>
-    <p>≤line=160≥ Syr. Itane, vt eximium neminem habeam? Bac.
-    Neminem.</p>
-    <p>Nam veluti vos illi ex animo non diligunt,</p>
-    <p>Sic à vobis pecuniam illorum potius quam eos</p>
-    <p>Amari conuenit. Fragile, fluxum, ac fugax</p>
-    <p>Bonum est forma haec priusquam deperit, tibi</p>
-    <p>≤page=171≥</p>
-    <p>≤line=165≥ Consulas necesse est. Syr. Memorem dices te monuisse.
-    Quin</p>
-    <p>Et me, &amp; meum amorem, &amp; vitam permitto tibi.</p>
-    <p>Te, quae aetate, &amp; prudentia me maior es,</p>
-    <p>Operâ, atque tuo consilio vt me adiuues, rogo.</p>
-    <p>Bac. Faciam pol sedulò: tu dicto pareas vide.</p>
-    <p>≤line=170≥ Syr. Pro viribus enitar mea Bacchis, vt per omnia</p>
-    <p>Tuis me admonitionibus obsequentem praebeam.</p>
-    <p>Bac. Facis vt te decet. At miror huc nullum hodie ex ciuibus</p>
-    <p>Potatum diuertisse, cum tamen magnus</p>
-    <p>Toto hoc die fuerit aestus. Syr. Penuria ac</p>
-    <p>≤line=175≥ Annonae caritas frugalitatem nunc docet</p>
-    <p>Plurimos. Bac. Est vt dicis. Spero tamen</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Ex ditioribus adolescentes aliquot, aut rusticos</p>
-    <p>Bene nummatos, huc venturos sub vesperum.</p>
-    <p>Syr. Ego agricolas non minus opto, quam ciues: ex quibus</p>
-    <p>≤line=180≥ Lucrum plerumque nobis prouenit vberius.</p>
-    <p>Bac. Verè tu istud. Sed nisi quid me fallunt oculi, procul</p>
-    <p>Video aduentare, nescio quem, onustum probè.</p>
-    <p>Syr. Nihil fefellit te prospectus: rusticus</p>
-    <p>Est aedepol. sua, quae non potuit vendere,</p>
-    <p>≤line=185≥ Ex vrbe domum refert. Bac. Illam praedam nostram
-    fore</p>
-    <p>Spero. obseruemus quid sit acturus. Si longius</p>
-    <p>Ire pergat, blanditijs eum, atque commodè</p>
-    <p>Loquenda detinebimus. Syr. Oh, rectè, placet.</p>
-    <p>≤page=172≥</p>
-  </div>
-  <div type="level2" xml:id="actvs-ii.-scena-ii.">
-    <head>ACTVS II. SCENA II.</head>
-    <p>COROEBVS.</p>
-    <p>Eiusdem rationis versus.</p>
-    <p>VT te Dij Deaeque vxor perdant, quae me à prandio</p>
-    <p>≤line=190≥ Hodie ad mercatum miseris. Meque adeò, qui</p>
-    <p>Tibi paruerim &amp; non flocci, nihilique fecerim.</p>
-    <p>Credo ego fecisse illam hoc de industria, quo me</p>
-    <p>Vltro citroque currendo fatigaret miserum:</p>
-    <p>Aut quod sola voluit esse domi: aut ad Lesbiam</p>
-    <p>≤line=195≥ Vicinam nostram potatum ire, quo inscio</p>
-    <p>Me saepè commeat. Nam nisi tale quid esset, cur obsecro.</p>
-    <p>A meridie me ablegasset? quo tempore</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Alcedonia in foro esse solent. Sedi ibi diu:</p>
-    <p>Cum interea nec licitator, nec emptor ad me quispiam</p>
-    <p>≤line=200≥ Veniret. Tandem cum spes nulla vendendi mihi</p>
-    <p>Istic superesse videretur surgo, ac totum oppidum</p>
-    <p>Perambulo: neque emptorem inuenio tamen.</p>
-    <p>Nunc itaque domum reuerti certum est: non tamen</p>
-    <p>Prius, quam in diuersorio</p>
-    <p>≤line=205≥ Hoc proximo famem, ac sitim sedauero.</p>
-  </div>
-  <div type="level2" xml:id="actvs-ii.-scena-iii.">
-    <head>ACTVS II. SCENA III.</head>
-    <p>BACCHIS, SYRA, COROEBVS.</p>
-    <p>Eiusdem generis.</p>
-    <p>SAtis istis substitit diu, nunc huc viam affectat:</p>
-    <p>Praeda haec pol nostris digna est vnguibus. Blande</p>
-    <p>Hominem compellabo: tu orationi fac</p>
-    <p>Subseruias. Syr. Faciam; nam quo modo id fieri soleat</p>
-    <p>≤page=173≥</p>
-    <p>≤line=210≥ Calleo. COR. Cauponam eccam cum ancilla ante
-    ostium</p>
-    <p>Stare video, commodè herculè. Bac. Noster est, huc se</p>
-    <p>Deflectit, atque adeò is est, quem nunc maximè</p>
-    <p>Nobis dari velim. Syr. Nostin’? Bac. Probe. Coroebus est,</p>
-    <p>Homo stolidus, &amp; insulsus: praesertim cum adbibit</p>
-    <p>≤line=215≥ Plus paullulò: quod pol libenter, &amp; cupidè
-    facit.</p>
-    <p>COR. Saluete matronae. Bac. Coraebe salue. COR. Quid? Nostin’</p>
-    <p>Me, &amp; quo appellor nomine? Bac. Quidni, cum non semel</p>
-    <p>In aedibus his nostris potaueris. COR. Iam etiam sitis</p>
-    <p>Ingens me torquet, nec minor fames. Bac. Benè</p>
-    <p>≤line=220≥ Habet: ego isti malo remedium facilè inuenero.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Ingredere, atque onera haec depone. COR. Non est tempus</p>
-    <p>Ingrediendi, appetit vespera, &amp; iter mihi</p>
-    <p>Restat longius. Syr. Hem, intra sodes. COR. Non herculè</p>
-    <p>Faciam. Hic pro foribus considebo. tu cereuisiae</p>
-    <p>≤line=225≥ Mihi prome cantharum, ipse, quod comedam, mecum
-    attuli.</p>
-    <p>Bac. Nae tu frugalior es, quàm par est. Quod si tales caeteri</p>
-    <p>Essent agricolae, ad restim propediem cunctis</p>
-    <p>Iam deuentura res esset cauponibus.</p>
-    <p>COR. Magnum vectigal parsimonia est. Bac. Etiam sententias</p>
-    <p>≤page=174≥</p>
-    <p>≤line=230≥ Tenes Coroebe? COR. Teneo. Sed verborum iam est
-    satis.</p>
-    <p>Prome potius: fauces enim ariditate crepant mihi,</p>
-    <p>Ego merenda, quam attuli domo, super</p>
-    <p>Scabellum hoc apponam. Ba. Abi Syra, ac prome ocyus.</p>
-    <p>COR. Non herclè sapit cibus, nisi prius aridum</p>
-    <p>≤line=235≥ Guttur potu colluero. Syr. Coroebe, haec fausta
-    sit</p>
-    <p>Tibi cereuisia. COR. Euge, beasti, cedo cantharum</p>
-    <p>Sodes. Syr. Accipe. Bac. Quo pacto illa tibi sapit cereuisia?
-    COR. vt</p>
-    <p>Nectar merum. Bac. Bibe largius. COR. Quid etiam largius?</p>
-    <p>Totum ebibi. Bac. Hem, bene fecisti, laudo: Syra</p>
-    <p>≤line=240≥ Prome iterum, atque audin’, diligenter annota. Syr.
-    In</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Hoc obliuiosa, aut tarda soleo esse minimè.</p>
-    <p>COR. Nunc mihi cibus sapere incipit meliuscule.</p>
-    <p>Syr. Hem, accipe Coraebe plenum cantharum. COR. Bene</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Facis: nam etiam nunc sitio. tanta est sicci gutturis</p>
-    <p>≤line=245≥ Ariditas. Bac. Quin bibe largiter, cereuisia optima
-    est.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>COR. Talis herclè videtur mihi. Quod est tibi</p>
-    <p>Nomen? Bac. Mihi? Bacchidem appellant. COR. Hem, Bacchidem,</p>
-    <p>Ego pol talem Bacchidem, quàm Bacchum malim. Sy. Eho, benè,</p>
-    <p>Atque facetè. COR. Quod tibi iuuencula? Syr. Syra. COR.
-    Meminero</p>
-    <p>≤line=250≥ Probè. Praebibo tibi Bacchis. Bac. Sit saluti</p>
-    <p>Coroebe. Indulge genio, atque hilarem te praebe. COR. Syra,</p>
-    <p>≤page=175≥</p>
-    <p>Micas istas da gallo: ac potum etiam admoue:</p>
-    <p>Ne, dum ego satur sum, ille pereat inediâ. Syr. Curabitur.</p>
-    <p>Bac. Estnè hic gallus venalis? COR. Est, &amp; caetera</p>
-    <p>≤line=255≥ Etiam: tergus nimirum vitulinum, atque oua omnia.</p>
-    <p>Bac. Quanti indicas? COR. Singula non omnia simul vt</p>
-    <p>Vendam, mea mihi praecepit Canthara. Syr. Valeat</p>
-    <p>Illa: an tu, cum vir sis, mulieri parendum tibi</p>
-    <p>Putabis stultè? Vah, magna pol te, &amp; alios viros</p>
-    <p>≤line=260≥ Ignominia afficis. Quanti? indica sodes. COR. Non
-    herculè</p>
-    <p>Faciam: memini enim in mandatis quid sit datum mihi.</p>
-    <p>Bac. Hem, praebibo tibi Coroebe. COR. Habeo gratiam</p>
-    <p>Mea Bacchis. Bac. En, totum ebibi. tu vti respondeas</p>
-    <p>Vide. COR. Bonâ fide? Bac. Optimâ. COR. Bene fecisti, cedo
-    cantharum.</p>
-    <p>≤line=265≥ Syr. Promam. COR. Quid cessas? non herculè committam à
-    muliere</p>
-    <p>Vt superatus videar. Syr. Hem tibi. COR. Quid nunc ais
-    Bacchis?</p>
-    <p>Quid tu autem Syra? Syr. Virum te praebuisti strenuum: laudo.</p>
-    <p>COR. Nunquam etiam vsquam fui, quin omnes me laudarent
-    plurimum.</p>
-    <p>Bac. Nihil mirum: nam merito istud semper tibi accidit tuo.</p>
-    <p>≤line=270≥ COR. Ob, rectè Syr. Non sentit caudex sibi palpum
-    obtrudier</p>
-    <p>Bac. Coroebe, quo nunc animo es? nondum has tuas</p>
-    <p>≤page=176≥</p>
-    <p>Vis vendere merces? Cor. Oua primum à me emite, mox</p>
-    <p>De reliquis videro. Ecce contemplamini,</p>
-    <p>Recentia sunt omnia. Syr. Coroebe, praebibo</p>
-    <p>≤line=275≥ Tibi dimidiatum hunc cantharum. Cor. Totum ebibe.</p>
-    <p>Syr. Lubens id fecero, si idem te facturum promittas mihi.</p>
-    <p>Cor. Promitto, quid cessas? Syr. Hem tibi. COR. Bene fecisti
-    Syra.</p>
-    <p>Syr. Coroebe, recentem tibi promam cantharum.</p>
-    <p>Bac. Propera. COR. Mea Bacchis, mea festiuitas, quanto</p>
-    <p>≤line=280≥ Nunc mihi formosior videre, quam dudum.</p>
-    <p>Bac. Et tu pol multo hilarior. Sine cerere,</p>
-    <p>Et Baccho friget Venus. COR. Euge osculum mihi</p>
-    <p>Da mea vita. Bac. Neque hoc, neque si quid aliud amplius</p>
-    <p>A me petas, tibi negandum existimem,</p>
-    <p>≤line=285≥ Syr. Accipe Coroebe, atque ebibe. COR. Nihil est quod
-    aequè fecero</p>
-    <p>Lubens. Bac. Vt bibit helluo. nae nos te, vt dignus es,</p>
-    <p>Exercebimus. COR. Oh, nunc demum mihi viuere</p>
-    <p>Lubet. amplectere me Syra cum suauio.</p>
-    <p>Syr. Faciam &amp; lubenter aedepol. COR. Non tam nectar
-    sapit,</p>
-    <p>≤line=290≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Quàm istud osculum. Sed vespera appetit.</p>
-    <p>Abeundum nunc erit mihi: si modo domum</p>
-    <p>Luce venire velim, &amp; metuo ne vxor ebrium</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Me esse sentiat. Syr. Manebis hic Coroebe,</p>
-    <p>Si nos audias: neque sub noctem te dederis in viam.</p>
-    <p>≤page=177≥</p>
-    <p>≤line=295≥ COR. Nihil agitis subducatur ratio, quod cantharos</p>
-    <p>Promsisti Syra? Bac. Mitte isthuc, ac bibe largius.</p>
-    <p>Eho, propino Coroebe. COR. Sit salutiferum mea</p>
-    <p>Bacchis. Sed tamen abeundum est mihi: quo meo animo nihil</p>
-    <p>Est aegrius. Syr. Valeant ista, &amp; nobis bene
-    consulentibus</p>
-    <p>≤line=300≥ Obsequere sodes. Quam non sit tutum, de nocte per</p>
-    <p>Viam ire hominem solum, nosti. COR. Surgendum est tamen. At at,
-    quid hoc?</p>
-    <p>Vicit cereuisia quam bibi. Syr. Nimirum hoc Bacchidis</p>
-    <p>Consilium rectum erat: vt apud nos hîc maneres</p>
-    <p>Coroebe. COR. Agitedum, si id mihi arbitramini</p>
-    <p>≤line=305≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Expedire, faciam. mos gerendus est</p>
-    <p>Bacchidi. Bac. Coroebe nunc mihi videris</p>
-    <p>Sapere. Hem, sessum illum recipe Syra. Syr. Hic mihi latus</p>
-    <p>Dextrum claude Coroebe. COR. Osculum mihi da, mea</p>
-    <p>Vita. Bac. Hem tibi cantharum. COR. Iucunda oratio.</p>
-    <p>≤line=310≥ Syr. Pol ebrius est totus. Bac. Iam iam in nassam
-    incidet:</p>
-    <p>Nunquam enim hodie casses euaserit meos.</p>
-    <p>Syr. Tota haec praeda est nostra. COR. Vt sapiunt oua mea? Bac.
-    Labitur:</p>
-    <p>Hem, sustine illum Syra. Syr. Ego eum nihil moror.</p>
-    <p>Labatur furcifer. Bac. Ha, ha, he in cacabum incidit.</p>
-    <p>≤line=315≥ Aqua repletum sordidas vt abluat nates.</p>
-    <p>Sy. Spectaculum risu dignum. Ba Extrahamus pecus.</p>
-    <p>≤folio=M≥</p>
-    <p>≤page=178≥</p>
-    <p>Ne fortè expergiscatur, frigus sentiens.</p>
-  </div>
-  <div type="level2" xml:id="actvs-ii.-scena-iv.">
-    <head>ACTVS II. SCENA IV.</head>
-    <p>BACCHIS, SYRA.</p>
-    <p>Eiusdem rationis.</p>
-    <p>QVid? quid venire in mentem nunc posset mihi?</p>
-    <p>Quidnam? quo ludos hic aliquem faciam lepidos?</p>
-    <p>≤line=320≥ Si modo fortuna se secundam praebeat</p>
-    <p>Mihi. Syr. Quid istud obsecro? Bac. Ridebimus affatim,</p>
-    <p>Vt opinor. Nec ea res nobis incommodo</p>
-    <p>Erit Syra. Syr. Oh, quo pacto? dic sodes. Bac. Age,</p>
-    <p>Dicam, at primum tu gallum, atque oua intrò aufer. Haec</p>
-    <p>≤line=325≥ Vt nobis cedat praeda, efficiam callide.</p>
-    <p>Syr. Eo quanquam, quid incoeptes, non intelligo.</p>
-    <p>Bac. Quin maius hinc nobis spero lucrum, si Fors</p>
-    <p>Modo fauerit. Vt stertit sterquilinium. Nae ego</p>
-    <p>Te exercebo probè. Syr. Hem, redeo. Nunc quid facere</p>
-    <p>≤line=330≥ Constitueris, dic mihi amabo. Bac. Ausculta,
-    Ebrium</p>
-    <p>Hunc tergori inuoluemus, &amp; consuemus vndique,</p>
-    <p>Eumque modo sub noctem rustico alicui</p>
-    <p>Poto, venum obtrudemus pro vitulo. Syr. Vah, callidum</p>
-    <p>Consilium, modo venerit aliquis. Bac. Bene ominare: non</p>
-    <p>≤line=335≥ Diu erit, quin mirum conspicias spectaculum.</p>
-    <p>Hem, tu filum, atque acum mihi expedi. Syr. Effero.</p>
-    <p>Bac. Credo hanc rem nobis successuram ex sententia</p>
-    <p>Adeo mens mihi, nescio quid praesagit boni.</p>
-    <p>≤page=179≥</p>
-    <p>Sy. Hem Bacchis, accipe acum, &amp; filum satis longum,</p>
-    <p>≤line=340≥ Vt arbitror. Bac. Tu hic nunc esto adiutrix mihi.</p>
-    <p>Syr. Iuuabo sedulò. Bac. Crumenam ei primum adimam: Nihil</p>
-    <p>Omnino sentit caudex: mortuum illum dixeris.</p>
-    <p>Quid cras futurum arbitrare Syra, crapulam</p>
-    <p>Cum edormierit? Sed video huc aduentare, nescio</p>
-    <p>≤line=345≥ Quem. Dij nos respiciunt Syra. Is pol ebrius</p>
-    <p>Est quoque, nisi oculi hallucinantur mihi. Syr. Bene</p>
-    <p>Mecastor factum, gaudeo. Hic iam colligatus, &amp;</p>
-    <p>Consutus est satis. Vide obsecro Bacchis,</p>
-    <p>Malè peream, nisi vitulum esse putaueris.</p>
-    <p>≤line=350≥ Bac. Rectè. Sed aliud est, quod nunc ago. Viden’</p>
-    <p>Accedentem? Syr. Quidni. Ebrius est totus. Bac. Ego</p>
-    <p>Meo hunc circumueniam modo.</p>
-  </div>
-  <div type="level2" xml:id="actvs-ii.-scena-v.">
-    <head>ACTVS II. SCENA V.</head>
-    <p>CHREMES, BACCHIS, SYRA.</p>
-    <p>Eiusdem generis.</p>
-    <p>NAE nos cutem curauimus, genioque indulsimus</p>
-    <p>Lautè, atque prolixè, à summo mane vsque ad vesperum.</p>
-    <p>≤line=355≥ Vtinam talis mihi saepe eueniat compotatio.</p>
-    <p>In qua me planè asymbolum</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Fecit vacca, multò pluris, quàm emeram,</p>
-    <p>Vendita. Bac. Audin’ quid dicat Syra?</p>
-    <p>Syr. Audio. Vaccam se gloriatur ex sententia</p>
-    <p>≤line=360≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Vendidisse. Bac. Ita est. Chr. Sed antequam domum</p>
-    <p>Me conferam, vicinae hae mihi mulierculae</p>
-    <p>Sunt compellanda, atque ab ijs osculum petendum.</p>
-    <p>≤folio=M2≥</p>
-    <p>≤page=180≥</p>
-    <p>In quo quidem minimè difficiles fore eas arbitror.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Bac. Prô Iupiter! vicinus hic noster Chremes</p>
-    <p>≤line=365≥ Est. nullum nunc mihi magis optarim dari,</p>
-    <p>Hic faceto erit nobis illudendus ioco.</p>
-    <p>Namque hominem magis emacem, ac vendacem illo inuenias
-    neminem.</p>
-    <p>CHR. Sed eccam commodè pro foribus stare vtramque conspicor.</p>
-    <p>Quod de Syrenibus poëtae fabulantur, id</p>
-    <p>≤line=370≥ Hic praeter euntibus accidit quotidie, quos suis</p>
-    <p>Blanditijs illae in fraudem illectant, ac malis</p>
-    <p>Grauibus mulctant saepißimè. Sed ego mihi</p>
-    <p>Ab eis cauero, nam non ingrediar: at foris</p>
-    <p>Cum illis paulisper fabulans</p>
-    <p>≤line=375≥ Non nisi vnum mihi promi iubebo cantharum,</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Dein’ domum rectâ me recipiam viâ. Bac. At</p>
-    <p>Nos te tractabimus vt mereris furcifer.</p>
-    <p>Huc te qui contulisti in tempore, Lux dubia dolis,</p>
-    <p>Ac fraudibus est accommoda. Alloquar. Salue</p>
-    <p>≤line=380≥ Chreme. CHR. Eho, saluete mulierculae. Quem ante
-    ostium</p>
-    <p>Hic praestolamini tam vesperi? Bac. Lucri</p>
-    <p>Bonus odor euocauit nos foras. CHR. Rectè. Sed osculum</p>
-    <p>Ab vtraque mihi volo. Syr. Nihil detrectamus. CHR. Bene</p>
-    <p>Herculè fecistis, laudo: prome cantharum.</p>
-    <p>≤line=385≥ Syr. Fiet. Bac. Hilaris pol nunc planè mihi
-    videris</p>
-    <p>Chreme. Credo hunc tibi diem illuxisse prosperè.</p>
-    <p>CHR. Prosperrime, tales ego mihi optarim plurimos.</p>
-    <p>Bac. Et nobis quoque felix, faustusque fuit satis.</p>
-    <p>≤page=181≥</p>
-    <p>Syr. Chreme, accipe cantharum. Chr. Cedo. Sed dic mihi</p>
-    <p>≤line=390≥ Sodes Bacchis, quidnam id sit, quod vobis hodie
-    accidit</p>
-    <p>Feliciter? Bac. Dicam. Vitulum emimus modò,</p>
-    <p>Bene admodum saginatum, ex sententiâ.</p>
-    <p>CHR. Vbi iste est? Bac. Eccum eum. CHR. Crassus herclè, ac
-    pinguis</p>
-    <p>Est totus. Sed rursúsne hunc vultis vendere?</p>
-    <p>≤line=395≥ Bac. Volumus, si emptor contingat commodus. CHR.
-    Mihi</p>
-    <p>Eum vendite: pecuniam numerabo protinus.</p>
-    <p>Bac. Placet. CHR. Quanti indicas? Bac. Florenis quatuor. CHR.
-    Ah,</p>
-    <p>Nimio profectò. tres dabo. Bac. Vah, itane Chreme</p>
-    <p>Licitare? mirum ni esse furtiuum putes.</p>
-    <p>≤line=400≥ CHR. Age, age, decem adijciam sestertios. Satis</p>
-    <p>Id sit vobis. Bac. Sed praesentem pecuniam,</p>
-    <p>Vt dixti, numerari nobis volumus. CHR. Dabitur statim.</p>
-    <p>Bac. Agedum, ratum esto. CHR. Nunc tibi praebibo Bacchis.</p>
-    <p>Bac. Bibe largiter. CHR. Bona herculè est cereuisia.</p>
-    <p>≤line=405≥ Sed vitulum statim à vobis velim</p>
-    <p>In haram hinc abducier, cras admodum mane</p>
-    <p>Iubebo vocari lanionem. Bac. Pecuniam</p>
-    <p>Prius numera. CHR. Accipe, lectum est, conueniet numerus,</p>
-    <p>Quantum promisi. Quin duo sesterti</p>
-    <p>≤line=410≥ Supersunt, quos pro cereuisia datos puta. Bac.
-    Adiuua</p>
-    <p>Me Syra. Syr. Praesto sum. Bac. In hara concludamus pecus.</p>
-    <p>≤folio=M3≥</p>
-    <p>≤page=182≥</p>
-    <p>Chr. Ibi te oblecta supremum supplicium crastino</p>
-    <p>Lues die. Bac. Nunc intrò abeamus hinc Syra.</p>
-    <p>Nae nobis hic ludus ceßit feliciter.</p>
-    <p>≤line=415≥ Dij boni, quantus cras populi erit risus,</p>
-    <p>Vbi noster hic innotuerit fucus. Nunc ostio</p>
-    <p>Clauso, nos ad somnum componamus. Syr. Rectè mones.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iii.-scena-i.">
-    <head>ACTVS III. SCENA I.</head>
-    <p>CANTHARA.</p>
-    <p>Iambici.</p>
-    <p>ME miseram, vix sum compos animi, ita ardeo iracundia.</p>
-    <p>Neque, somnum hac nocte oculis vidi meis. Quin nescio</p>
-    <p>≤line=420≥ Quid suspicer, aut quid ei euenisse cogitem.</p>
-    <p>Sed dubium non est, quin in ganeum aliquod se immerserit,</p>
-    <p>Vbi totam hanc noctem inter meretrices degit suauiter.</p>
-    <p>Nae ego illum modo domum vbi redierit, vt dignus est,</p>
-    <p>Exercebo mastigiam. Ah, quam nunc illum mihi</p>
-    <p>≤line=430≥ Dari velim, vt in eum hanc animi euomam
-    aegritudinem:</p>
-    <p>Vtque in capillum illi inuolem, oculosque vnguibus</p>
-    <p>Exsculpem sceleratißimo. Qui me sibi</p>
-    <p>Tam audacter, &amp; imprudenter illudendam existimat.</p>
-    <p>Mox supplicans: opinor, aderit. Sed nihil</p>
-    <p>≤line=435≥ Aget, nimium pol errat, si me precibus, aut</p>
-    <p>Lachrymis placari posse putat. Satis, satis</p>
-    <p>Iam vxor lenis, ac placabilis fui.</p>
-    <p>Iram nunc eius faxo, vt sentiat, cuius patientia,</p>
-    <p>≤page=183≥</p>
-    <p>Ac lenitate turpiter est abusus hactenus.</p>
-    <p>≤line=440≥ Si ille sibi in prostibulis, &amp; diuersorijs</p>
-    <p>Consumendum arbitratur, quod comparcimus</p>
-    <p>Nos, nostrum defraudantes genium: ego vicißim</p>
-    <p>Eum probe vlta, in tempore prospiciam mihi.</p>
-    <p>Sed fortasse aliud erit, quod illum sit remoratum tam diu.</p>
-    <p>≤line=445≥ Istud quidem velim, quanquam, ne sit quod
-    suspicor,</p>
-    <p>Nimium vereor: vbi vbi est, celari non poterit diu.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iii.-scena-ii.">
-    <head>ACTVS III. SCENA II.</head>
-    <p>CHREMES, PINALDVS, DORIO, COROEBVS.</p>
-    <p>Eiusdem rationis versus.</p>
-    <p>QVid isthuc? itáne ad clarum dormiui diem?</p>
-    <p>Et tamen adhuc nox multa oculis inest mei:</p>
-    <p>Neque hesternam etiam nunc satis edormiui crapulam,</p>
-    <p>≤line=450≥ Nimis herclè largiter potaueram, &amp; gulam</p>
-    <p>Ad summum oppleram luxu dapsili. Neque</p>
-    <p>Sine magno etiam meo lucro, atque commodo.</p>
-    <p>Mitto iam vaccam, nimio venditam. Vitulum insuper</p>
-    <p>Emi à vicinis his meretriculis, bene</p>
-    <p>≤line=455≥ Saginatum, ac pinguem, precio admodum vili:</p>
-    <p>Quem iam mihi mactandum puto. Itaque lanio nunc</p>
-    <p>Huc erit accersendus Pinaldus. Quin Syro,</p>
-    <p>Famulo nostro id dabo negotij. Sed commode, &amp;</p>
-    <p>Per tempus video eum huc accedentem cum seruulo,</p>
-    <p>≤line=460≥ Securi, alijsque armis probè instructum. Nihil</p>
-    <p>Posset mihi nunc accidere opportunius.</p>
-    <p>Pin. Moue te Dorio. Dor. Moueo meherclè sedulò.</p>
-    <p>≤folio=M4≥</p>
-    <p>≤page=184≥</p>
-    <p>Pin. Credo sed aut nihil, aut parùm</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Promoues, non cogitas iamdudum septimam</p>
-    <p>≤line=465≥ Praeterijsse horam? Sed Chremetem ante ostium</p>
-    <p>Consistentem video. hui, tam mane, qui heri</p>
-    <p>Tantum biberat. Chr. Hem, salue Pinalde. Pin. Eho, Chreme</p>
-    <p>Quid te tam diluculo è lecto euocauit?</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Res seria sit oportet, non tibi dolet caput?</p>
-    <p>≤line=470≥ Chr. Mitte isthuc, aliud nunc agendum erit tibi,</p>
-    <p>Pin. Si quâ in re meâ operâ tibi fortè est opus,</p>
-    <p>Age, impera, ac factum puta. Chr. A vobis heri</p>
-    <p>Digressus, emebam vitulum. Pin. Quid, vitulum tam vesperi? Chr.
-    Hunc</p>
-    <p>Velim nobis mactes. Pin. Quanquam aliò propero, tamen quia</p>
-    <p>≤line=475≥ Amici sumus, effectum id tibi dabo statim.</p>
-    <p>Sed vbi est vitulus? Chr. In hara reperies. Pin. Extrahe
-    Dorio.</p>
-    <p>Ego cultros expediam. Dor. Faciam herculè sedulò</p>
-    <p>Hu, hu, erige te. Cor. Quid vis tibi? Dor. Prô Iupiter!</p>
-    <p>Quid isthuc est monstri? succurrite obsecro.</p>
-    <p>≤line=480≥ Pin. Quid vociferare, aut quidnam expalluisti
-    Dorio?</p>
-    <p>Dor. Formidine pol me iste exanimauit vitulus. Si modò</p>
-    <p>Vitulus dicendus est, &amp; non potius cacodaemon quispiam:</p>
-    <p>Chr. Dij meliora Dorio Pin. Ipse eum adoriar,</p>
-    <p>Hem, surge, surge: &amp; progredere. Cor. Sine, sine me. Pin.
-    Deum</p>
-    <p>≤page=185≥</p>
-    <p>≤line=485≥ Immortalem! quid hoc est prodigij? metu</p>
-    <p>Animus planè obstupuit mihi. In malam crucem</p>
-    <p>Chreme hinc abi tuo cum vitulo, Dorio, sequere</p>
-    <p>Me: nolim mihi cum isthoc monstro quicquiam esse negotij.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iii.-scena-iii.">
-    <head>ACTVS III. SCENA III.</head>
-    <p>SOSTRATA, CHREMES, COROEBUS.</p>
-    <p>Eiusdem generis versus.</p>
-    <p>QVas excitari hîc turbas audio? Chreme,</p>
-    <p>≤line=490≥ Quid extimuisti? aut quid palles? satin’ salua</p>
-    <p>Res. Hem taces? CHR. Quid ego tibi dicam miser?</p>
-    <p>Quem heri vitulum emi, eum negant esse vitulum</p>
-    <p>SOS. Quid igitur? CHR. Quid? cacodaemonem. Sos. prohibeant
-    hoc</p>
-    <p>Superi. CHR. Lanio cum famulo aufugit territus.</p>
-    <p>≤line=495≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Sos. Mira praedicas. CHR. Atqui verißima.</p>
-    <p>Quod si fortè mihi non credis, rem ipse experire,</p>
-    <p>Haram ingressa. Sos. Ah, tun’ me quod ipse non audes,</p>
-    <p>Facere iubes? CHR. Bis iam tentatum est, neque sine</p>
-    <p>Magno periculo. Sos. O viros fortes, ac strenuos!</p>
-    <p>≤line=500≥ CHR. Siccine ais? accede propius, si tuto te id
-    facturam putas,</p>
-    <p>Sos. Nae ego formidolosa sim, vitulum mihi</p>
-    <p>Si metuendum esse existimem. Her, her, satis dormiuisti diu,</p>
-    <p>Surge hic dies tuae neci</p>
-    <p>Est destinatus. COR. Vah, sine dormiam. Sos. Dij boni!</p>
-    <p>≤line=505≥ Seruate me obsecro, Chreme, succurre miserae</p>
-    <p>≤folio=M5≥</p>
-    <p>≤page=186≥</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Mihi. Chr. Quid nunc ais Sostrata? satin’ credis</p>
-    <p>Non esse vitulum? Sos. Eheu, me infelicißimam!</p>
-    <p>Genua terrore mihi succidunt. Hem sustine</p>
-    <p>Me oro Chreme. Chr. Nae ego hunc vitulum emi auspicio malo!</p>
-    <p>≤line=510≥ Sos. O rem prodigiosam! Quid agimus nunc? aut qui das
-    consilij?</p>
-    <p>Chr. Neque quid dicam herclè, neque quid consulam scio:</p>
-    <p>Ita mihi mentem ademit hoc inexpectatum</p>
-    <p>Malum. Sos. Tamen consilium nobis erit inueniendum Chreme.</p>
-    <p>Chr. Quid si exercistam huc accersi iubeamus, vt</p>
-    <p>≤line=515≥ Pecudem incantet, malumque istum genium, qui eam</p>
-    <p>Exagitat, expellat. Sos. Placet: namque incantationibus</p>
-    <p>Magnam atque admirabilem vim inesse praedicant.</p>
-    <p>Chr. Ego ad illum eo, tu me domi operire, dum</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Redeo. Sos. Propera. Enim vero quid suspicor,</p>
-    <p>≤line=520≥ Aut quid coniectem nescio: nisi à Deo</p>
-    <p>Nostris criminibus offenso, hoc incommodum</p>
-    <p>Esse immissum! nam ex qua alia causa tam graue</p>
-    <p>Nobis oriretur malum?</p>
-    <p>Quale in vita ego nulli vnquam euenisse memini.</p>
-    <p>≤line=525≥ Ibo intrò, neque toto hoc die foras quoquam pedem
-    efferam.</p>
-    <p>Nolim mihi rem esse cum incantationibus.</p>
-    <p>≤page=187≥</p>
-  </div>
-  <div type="level2" xml:id="actvs-iii.-scena-iv.">
-    <head>ACTVS III. SCENA IV.</head>
-    <p>BERALDVS, CHREMES, COROEBVS.</p>
-    <p>Eiusdem generis.</p>
-    <p>Incredibilia sunt, quae praedicas Chreme,</p>
-    <p>Chr. Nil falsi dixi Beralde. Ber. Quis vitulum loqui</p>
-    <p>Humanâ voce audiuit vnquam? Chr. Ego quidem</p>
-    <p>≤line=530≥ Praeterquam nunc, aliàs nunquam. Miraberis,</p>
-    <p>Vbi audieris. Ber. nihilominus, nisi me meae</p>
-    <p>Fallunt artes, remedium isti inueniam malo.</p>
-    <p>Chr. Faxint ita superi. Hem, isthaec hara est, in qua</p>
-    <p>Fascinatum reperies pecus. Ber. Tu cereum</p>
-    <p>≤line=535≥ Accende, ego exorcismum, qui hac accommodus</p>
-    <p>Ad rem maxime erit, quaeram. Chr. Faciam sedulò.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Bene habet: inueni herclè satis efficacem: quo</p>
-    <p>Vel tres ad inferos facile pepulero cacodaemonas.</p>
-    <p>Chr. En cereum accensum tibi. Ber. Cedo, exordiar.</p>
-    <p>≤line=540≥ Adiuro te cerita pecus, per. Cor. Quid tibi rei</p>
-    <p>Mecum est? aut quid vis? Ber. Prô Deum atque hominum fidem!</p>
-    <p>Quid hoc monstri est? pauore animus tremit mihi,</p>
-    <p>Chreme, male tibi sit cum tuo vitulo. Vale.</p>
-    <p>Chr. Quid nunc faciam infelix? Exorcista aufugit,</p>
-    <p>≤line=545≥ Et totus etiam pauco atque horreo formidine,</p>
-    <p>Mirum quae saga nobis praestigijs suis</p>
-    <p>Hanc excantarit pecudem. Quicquid est, ego</p>
-    <p>Hinc me intrò conijcio: neque fenestras, neque ostium</p>
-    <p>Toto hoc aperiam die, etiamsi pulsent plurimi.</p>
-    <p>≤page=188≥</p>
-  </div>
-  <div type="level2" xml:id="actvs-iv.-scena-i.">
-    <head>ACTVS IV. SCENA I.</head>
-    <p>COROEBVS.</p>
-    <p>Iambici.</p>
-    <p>≤line=550≥ DIsperii, quid agam, quò me vertam, aut in quem
-    hominem</p>
-    <p>Commutatus sum infelix? Nae haec mirabilis</p>
-    <p>Est metamorphosis. Dij meretriculas illas</p>
-    <p>Malè perdant, quae mihi os subleuerunt tam turpiter,</p>
-    <p>Quae me vitulino tergori insutum, ludos</p>
-    <p>≤line=555≥ Ac delicias fecere sibi. Circumspice</p>
-    <p>Coroebe, an te hic habitus, &amp; vestitus satis</p>
-    <p>Deceat. O me miserrimum! vah, dispudet</p>
-    <p>Mihi sic data esse verba. vbi marsupium?</p>
-    <p>Vbi oua, vbi gallus meus? Perierunt omnia.</p>
-    <p>≤line=560≥ Quid dicet vxor, vbi domum rediero, oculos</p>
-    <p>Sat scio, ex capite eruet mihi. Malè herculè</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Potatum est. Sed quò me nunc recipiam? namque hîc</p>
-    <p>Si maneam, risui, ac ludibrio ero omnibus.</p>
-    <p>Ad proximas has aedes accedem, in quibus</p>
-    <p>≤line=565≥ Chremetem habitare existimo. Sed ostium</p>
-    <p>Clausum est, pulsabo. Nam verecundia homini invtilis</p>
-    <p>Est, dum neceßitas vrget, durum, vt ferunt, telum.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iv.-scena-ii.">
-    <head>ACTVS IV. SCENA II.</head>
-    <p>COROEBVS, CHREMES</p>
-    <p>Eiusdem generis versus</p>
-    <p>Heus, heus, aperiat sodes aliquis ostium.</p>
-    <p>Quid istud? nemon’ prodit? Non pol desinam</p>
-    <p>≤line=570≥ Pulsare. hui, quid hoc? an calcibus fores</p>
-    <p>≤page=189≥</p>
-    <p>Erunt effringendae? altum hîc omnes dormiunt:</p>
-    <p>Quanquam iamdudum clarus illuxit dies.</p>
-    <p>Pulsabo denuo: neque finem faciam, donec prodeat</p>
-    <p>Aliquis. CHR. Quis toties, atque tam grauiter nostras pepulit
-    fores?</p>
-    <p>≤line=575≥ COR. Eho, fenestram potius, quam ostium aperis
-    Chreme?</p>
-    <p>CHR. Quis tu homo es? aut quid apud has aedes negotij est</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Tibi? COR. Aperi ostium sodes, ac me intromitte. CHR.
-    Papae.</p>
-    <p>Vnde hic emergit homo, vitulino tergore</p>
-    <p>Indutus! COR. Ostium aperi: id te quaeso mi Chreme.</p>
-    <p>≤line=580≥ CHR. Ignotum ego intromitto neminem. Quis es?</p>
-    <p>COR. Coroebus sum, minimè ignotus tibi. CHR. Deum</p>
-    <p>Immortalem! est is ipsus, mira hîc nobis accidunt.</p>
-    <p>COR. Quin ostium aperi: quid cessas? an diutius</p>
-    <p>Hic mihi morandum erit? CHR. Faciam, atque ipse ad te prodibo
-    foras.</p>
-    <p>≤line=585≥ COR. Propera. CHR. Quid, audebóne progredi? COR.
-    Quidni.</p>
-    <p>Nihil tibi à me erit expectandum mali.</p>
-    <p>CHR. Mirum ni tu hoc fueris monstrum, quod nos exterruit</p>
-    <p>Hactenus. COR. Ego nemini terrori, quod sciam,</p>
-    <p>Fui: at ne risui, &amp; ludibrio plurimis</p>
-    <p>≤line=590≥ Fuerim, metuo miser. CHR. Miris certè modis</p>
-    <p>Hic terruit nos vitulus. Quid tibi contigerit nescio.</p>
-    <p>COR. Quid audio? vos vitulus terruit? vbi iste</p>
-    <p>Erat? dic mihi amabo. CH. Rogas? in isthac nostra hara.</p>
-    <p>≤page=190≥</p>
-    <p>Cor. Quid ais, in hara? atqui ex illa ego prorepsi modò.</p>
-    <p>≤line=595≥ Chr. Tun’ ex hara Coroebe? Cor. In ea hac nocte
-    diuersorium</p>
-    <p>Fuit mihi. Che. Nae tu nos horrendo perterruisti</p>
-    <p>Metu. Sed commodè eccum huc redeuntem lanionem conspicor:</p>
-    <p>Eum mihi operiri certum est, vt mirabilem</p>
-    <p>Hanc rem illi impertiam. Cor. Ego intrò eo, nolo me quispiam</p>
-    <p>≤line=600≥ Amictu hoc inuolutum conspiciat: nam me pudet mei.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iv.-scena-iii.">
-    <head>ACTVS IV. SCENA III.</head>
-    <p>PINALDVS, CHREMES, BERALDVS.</p>
-    <p>Eiusdem generis.</p>
-    <p>HAc nunc domum redeo, vt visam quid agat Chremes:</p>
-    <p>Et quo pacto res cesserit ei cum execrabili</p>
-    <p>Isthoc vitulo, qui me plane exanimauerat metu.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Sed eccum pro foribus eum consistentem video.</p>
-    <p>≤line=605≥ Multò nunc quam modo erat, est hilarior.</p>
-    <p>Quid illi acciderit miror. Compellabo hominem.</p>
-    <p>Hem, quo modo se res habent Chreme? satin’ ex sententia?</p>
-    <p>Chr. Eho Pinalde, te hic praestolor accedentem:</p>
-    <p>Nam nullus est nunc omnium, quem ego mihi</p>
-    <p>≤line=610≥ Malim dari quam te. Pin. Quid ita sodes? cedo.</p>
-    <p>Chr. O nos stultè meticulosos, qui eum nobis</p>
-    <p>Vitulum tantopere fugiendum putauimus!</p>
-    <p>Pin. Qui sic Chreme? certo mihi videbatur formidandus nimis.</p>
-    <p>≤page=191≥</p>
-    <p>Sed quid rides, aut quid accidit obsecro?</p>
-    <p>≤line=615≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Chr. Iocularium in malum herclè incidimus inscij.</p>
-    <p>Pin. Hem, quid factum est? ne retice, vt tecum rideam. Chr.
-    Nihil</p>
-    <p>Vnquam risu magis dignum cuiquam euenisse arbitror.</p>
-    <p>Pin. Quin dic, quid est? Chr. Dicam, sed rideo accedentem
-    Beraldum,</p>
-    <p>Hic quoque incantationibus suis modo</p>
-    <p>≤line=620≥ Aggressus pecudem, subitò correptus metu</p>
-    <p>Aufugit turpiter, vt nunc etiam palleat</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Vide. ô exorcistam animosum, atque strenuum!</p>
-    <p>Ber. Deum immortalem! vt me laruatus ille terruit</p>
-    <p>Vitulus? &amp; vix etiam nunc confirmatus sum satis.</p>
-    <p>≤line=625≥ Nihilominus tamen cupio cognoscere,</p>
-    <p>Quam tandem haec res sit sortitura catastrophen.</p>
-    <p>Ob id itaque nunc huc speculatum reuertor. Sed</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Video Chremetem stare ante ostium: Quis ille alter?</p>
-    <p>Pinaldus est lanio, qui territus quoque</p>
-    <p>≤line=630≥ Fugit, accersitus ad mactandum belluam.</p>
-    <p>Sed quid hoc? nihil aliud quam rident: quid acciderit</p>
-    <p>Miror: accedam, ac compellabo. Hem Chreme,</p>
-    <p>Quid agitur? rides? Eho Pinalde, tu quoque hîc</p>
-    <p>Eras? vbi execrandus iste vitulus? Chr. Ex hara</p>
-    <p>≤line=635≥ Erupit, euasit. Ber. Abeat in malam crucem.</p>
-    <p>Sed quid rides? an risu digna ea res tibi</p>
-    <p>Videtur? Chr. Defessus iam sum ridendo. Ber. Quid accidit?</p>
-    <p>Cedo, hem taces? Chr. Multum tu hercule vales tuis</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Incantationibus Beralde. Ber. Siccine</p>
-    <p>≤line=640≥ Ais, &amp; ludis? Chr. Qui vitulum in homimem
-    commutaueris</p>
-    <p>≤page=192≥</p>
-    <p>Nobis. Pin. Quid audio? Ber. Irrides? referam herclè gratiam.</p>
-    <p>Chr. Nequaquam: quod res est loquor. Pin. Dic seriò</p>
-    <p>Chreme, &amp; iocari desine. Chr. Non equidem iocor.</p>
-    <p>Iam faxo ipsi hominem esse videatis, qui vitulus erat</p>
-    <p>≤line=645≥ Modò. Pin. Nae tu nugator es facetus, sed</p>
-    <p>Mitte iocos, &amp; quid acciderit narra obsecro.</p>
-    <p>Chr. Faciam, atque libenter herculè: namque ego vobis</p>
-    <p>Commemorare id malo, quam vos qui percontamini, scire.</p>
-    <p>Ber. Quin igitur incipis, an nondum etiam solus risisti
-    satis?</p>
-    <p>≤line=650≥ Chr. Heri mihi probè poto festiue admodum</p>
-    <p>Os subleuerunt vicinae hae meretriculae.</p>
-    <p>Ber. Quo pacto? cedo: nam audire gestio. Chr. Ebrium</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Coroebum, atque vitulino insutum tergori,</p>
-    <p>Pro vitulo, ebrio vendidere mihi. Pin. Ha, ha, he, nihil</p>
-    <p>≤line=655≥ In vita audiui factum festiuius:</p>
-    <p>Nihilque facetum, atque lepidum magis. Ber. Quid ais Chreme?</p>
-    <p>Coroebum pro vitulo. Chr. Sic est factum, quanquam mei</p>
-    <p>Me pudet. Pin. O rem nouam, atque auditis iucundißimam!</p>
-    <p>Abeo. per vrbem totam hanc dispersurus fabulam.</p>
-    <p>≤line=660≥ Valete. Chr. Tu me intrò sequere Beralde: ibi</p>
-    <p>Faxo magis rideas. vbi vitulum videris, tuo</p>
-    <p>≤page=193≥</p>
-    <p>Exorcismo in hominem commutatum nobis. Ber. Sequor.</p>
-  </div>
-  <div type="level2" xml:id="actvs-iv.-scena-iv.">
-    <head>ACTVS IV. SCENA IV.</head>
-    <p>SYRA, BACCHIS, PINALDVS.</p>
-    <p>Eiusdem rationis versus.</p>
-    <p>FAcetè pol Bacchis, lepideque rusticos</p>
-    <p>Illos duos fefellimus:</p>
-    <p>≤line=665≥ Neque in toto, vt opinor, reperias oppido</p>
-    <p>Quenquam, qui non isthuc à nobis, &amp; benè</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Dicat factum, &amp; laudet maximè, neque</p>
-    <p>Dubito, quin modò huc confluxuri sint plurimi,</p>
-    <p>Totam rem à nobis vt exquirant exactius.</p>
-    <p>≤line=670≥ Bac. Isthuc quidem non est dubium mihi. Syr.
-    Ridebitur</p>
-    <p>Pol affatim. Sed lanionem Pinaldum commodè</p>
-    <p>Huc accedentem video: rectâ ad nos pergit viâ.</p>
-    <p>Pin. Conueni aliquot ex nostris compotoribus,</p>
-    <p>Illisque rem omnem commemoraui ordine. Quis risus, &amp;</p>
-    <p>≤line=675≥ Cachinnus passim exortus sit, verbis meherculè</p>
-    <p>Effari non possem. Nunc mihi negotium</p>
-    <p>Dederunt, vt apud has meretriculas ientaculum</p>
-    <p>Iubeam apparari: atque omnes symbolis datis</p>
-    <p>Sequuturos se promisere protinus.</p>
-    <p>≤line=680≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Bac. Audin’ tu Syra quid dicat? Syr. Oh, audio,</p>
-    <p>Et in sinu gaudeo. Pin. Sed opportunè eas</p>
-    <p>Pro foribus stantes conspicor, alloquar; hem mulierculae,</p>
-    <p>Vitulum vos hîc habere venalem, bene</p>
-    <p>Saginatum, mihi quidam ex vicinis dicebat modo.</p>
-    <p>≤folio=N≥</p>
-    <p>≤page=194≥</p>
-    <p>≤line=685≥ Bac. Eum ex sententia vendidimus heri. Sed furijs is
-    hodie</p>
-    <p>Coepit miserè exagitarier. Pin. Quid audio? Syr. Oh,</p>
-    <p>Quasi nescias, cum exanimatus formidine,</p>
-    <p>Vix effugeris insanientem bestiam.</p>
-    <p>Pin. Tacete obsecro, iam ridendo omnes defatigati sumus.</p>
-    <p>≤line=690≥ Bac. O fortes, strenuosque animos! O confidentiam</p>
-    <p>Ingentem! quid autem exorcista? ille se virum</p>
-    <p>Praebens, furiosam pecudem tam placidam, atque ouem</p>
-    <p>Suis reddebat incantationibus.</p>
-    <p>Pin. Tace sodes mea Bacchis: rem omnem, vt audio,</p>
-    <p>≤line=695≥ Nostis. Nae vos lepidam meditatae estis fallaciam,</p>
-    <p>Quae per totum iam diuulgata est oppidum,</p>
-    <p>Et quae risum paßim excitauit maximum.</p>
-    <p>Sed nunc qua gratia huc veni, dicam. Ientaculum</p>
-    <p>Erit apparandum tibi. Mox belli aderunt homunculi.</p>
-    <p>≤line=700≥ Bac. Nihil est, quod aequè fecero lubens. Pin.
-    Totus</p>
-    <p>Hîc nobis ridendo, atque iocando tranfigendus est dies.</p>
-  </div>
-  <div type="level2" xml:id="actvs-v-scena-i.">
-    <head>ACTVS V SCENA I.</head>
-    <p>BERALDVS, CHREMES.</p>
-    <p>Iambici.</p>
-    <p>AD satietatem iam risimus Chreme:</p>
-    <p>Vt tandem hinc abeam me tempus monet. Sed quid?</p>
-    <p>Audebimúsne posthac quoquam prodire? Chr. Quid ita?</p>
-    <p>≤line=705≥ Ber. Rogas? quia risui erimus omnibus. Tu qui</p>
-    <p>Hominem ebrium pro vitulo mercatus es ebrius: ego</p>
-    <p>Qui tam stultus fui, vt eum tanquam bestiam</p>
-    <p>≤page=195≥</p>
-    <p>Furijs exagitatam, incantandum existimauerim mihi.</p>
-    <p>Chr. In ore erimus omni populo. tum in diuersorijs</p>
-    <p>≤line=710≥ Fabula compotoribus. Ber. Ebrietas te Chreme</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Vtcunque excusabit, sed quid de me futurum est, qui</p>
-    <p>Mane sobrius illudendum me tam turpiter</p>
-    <p>Praebuerim. Chr. Vt dij Deaeque istas meretriculas</p>
-    <p>Malè perdant. Vah, pudet sic verba data esse mihi.</p>
-    <p>≤line=715≥ At, si viuo, mox referam gratiam ne me</p>
-    <p>Impunè sycophantijs, &amp; fraudibus suis</p>
-    <p>Circumuenisse videantur. Ber. Ego quoque quid imprecer</p>
-    <p>Eis mali, pol nescio. Chr. Imprecationes</p>
-    <p>Nostras illae nihil morantur improbae.</p>
-    <p>≤line=720≥ Inueniendum mihi erit aliquid, quo par pari</p>
-    <p>Referam: ne illae suos dolos feliciter</p>
-    <p>Sibi ceßisse glorientur diu. Ber. Huiusmodi</p>
-    <p>Obsecro aliquid inueni. Chr. Meditabor herculè sedulò.</p>
-    <p>At vxorem eccam cum Coroebo exire conspicor.</p>
-    <p>≤line=725≥ Be. Tu eas hic operire, ego domum rectâ</p>
-    <p>Eo viâ: nec toto hoc quoquam progrediar die:</p>
-    <p>Ita me pudet mei. ---</p>
-  </div>
-  <div type="level2" xml:id="actvs-v.-scena-ii.">
-    <head>ACTVS V. SCENA II.</head>
-    <p>SOSTRATA, COROEBVS, CHREMES</p>
-    <p>Eiusdem rationis versus.</p>
-    <p>--- Esto animo bono Coroebe, ego</p>
-    <p>Domum ipsa te reducam, atque vt cum vxore in gratiam</p>
-    <p>Redeas, enitar sedulò. Neque dubito,</p>
-    <p>≤folio=N2≥</p>
-    <p>≤page=196≥</p>
-    <p>≤line=730≥ Quin id reddam effectum tibi.</p>
-    <p>Tu tantum ne ipse tibi desis, etiam atque etiam vide. At</p>
-    <p>Eccum nostrum Chremetem, cuius opera in hac re opus</p>
-    <p>Erit mihi. COR. Compella, ne quò hinc abeat longiùs.</p>
-    <p>Sos. Hem, quò parabas ire Chreme? an rursus potatum quopiam.</p>
-    <p>≤line=735≥ CHR. Minimè: satis heri potaui infeliciter.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>A potu mihi posthac temperandum censeo.</p>
-    <p>Sos. Siquidem poßis, nihil prius, neque melius:</p>
-    <p>Verum si incipias, neque perficias gnauiter,</p>
-    <p>Metuo ne error postremus sit futurus peßimus.</p>
-    <p>≤line=740≥ COR. Valeant ista mea Sostrata, atque consilio me,
-    vtî</p>
-    <p>Promisisti, adiuua miserum. vxor improba</p>
-    <p>Mihi est domi: quam quâ ratione placem, nescio</p>
-    <p>Infelix. CHR. Memineris te esse virum. Eho, tun’ feminam</p>
-    <p>Tibi metuendam existimas? COR. Non satis qualis</p>
-    <p>≤line=745≥ Ea sit, nosti Chreme, non mulierem, sed Tisiphonem,
-    aut</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Aliam infernalem Furiam esse dixeris,</p>
-    <p>Si cum illa res sit tibi. CHR. Apage sis, nimis herculè</p>
-    <p>Formidulosus es Coroebe. Quin caue potius,</p>
-    <p>Ne femina imperet tibi. Nodo malo</p>
-    <p>≤line=750≥ Malus est quaerendus cuneus. COR. Hei misero mihi!</p>
-    <p>Si id solum consulis Chreme, sat consilij habeo. Sos. Quiesce,
-    ego</p>
-    <p>Huic malo remedium quaeram. Sed tuo mihi</p>
-    <p>Ad hanc rem, quam paro, opus erit auxilio Chreme.</p>
-    <p>≤page=197≥</p>
-    <p>CHR. Hic sum, vtere: namque huic benefaxim lubens.</p>
-    <p>≤line=755≥ COR. Habeo gratiam, &amp; habiturus sum, quoad viuam
-    maximam.</p>
-    <p>Scio vos antea nunquam vsos amicitia mea,</p>
-    <p>Gratum dicetis me, atque memorem. Sed cedo</p>
-    <p>Quid habes consilij Sostrata? eloquere obsecro.</p>
-    <p>Sos. Vitulino tergore rursus te indutum, domum</p>
-    <p>≤line=760≥ Ducemus, atque in itinere à venefica,</p>
-    <p>Aut saga quapiam commutatum in vitulum</p>
-    <p>Dicemus: quemadmodum à Circe Vlyßis socios ferunt</p>
-    <p>Conuersos esse in porcos. COR. Etiam rides Sostrata?</p>
-    <p>Sos. Nequaquam. Eamus intrò, ac tergus indue.</p>
-    <p>≤line=765≥ Nae ego eadem impostura fallam vxorem tuam,</p>
-    <p>Qua heri lepidè huic imposuerunt meretriculae.</p>
-    <p>CHR. Inepta. mitte nugas, &amp; aliud inueni.</p>
-    <p>Sos. Iamdudum inueni. COR. Quid sodes mea Sostrata?</p>
-    <p>Sos. Quod vxor tua credet facilè. COR. Age, commemora
-    obsecro:</p>
-    <p>≤line=770≥ Nam audire gestio. Sos. Scis quam non sit vsquam hoc
-    tempore.</p>
-    <p>Tutum à praedonibus. COR. Scio, perge. Sos. In eorum manus</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Te dicemus incidisse. COR. Rectè. Sos. Eos tibi</p>
-    <p>A mercatu redeunti omnem eripuisse pecuniam.</p>
-    <p>CHR. Verisimile id erit. namque illud saepius</p>
-    <p>≤line=775≥ Euenisse memini. Sos. Insuper te vapulasse vsque ad
-    necem.</p>
-    <p>CHR. Lepidum, ita me Deus amet, commentum. Sos. Tu id ita factum
-    esse assere:</p>
-    <p>≤folio=N3≥</p>
-    <p>≤page=198≥</p>
-    <p>Et membra verberibus assimula tibi contusa esse omnia.</p>
-    <p>Cor. Hem, laudo, nunquam vidi melius consilium dari.</p>
-    <p>Sos. Idem nos factum esse affirmabimus: idque non procul</p>
-    <p>≤line=780≥ Ab aedibus nostris. Cor. Agite, vos me domum</p>
-    <p>Deducite. pedibus enim iam insistere nequeo, planè</p>
-    <p>Delumbatus, à praedonibus. Chr. Oh, rectè. isthuc tene.</p>
-  </div>
-  <div type="level2" xml:id="actvs-v.-scena-iii.">
-    <head>ACTVS V. SCENA III.</head>
-    <p>CANTHARA.</p>
-    <p>Eiusdem generis.</p>
-    <p>Hactenus ego meum Coroehum in diuersorio,</p>
-    <p>Aut in ganeo aliquo potare suspicata sum:</p>
-    <p>≤line=785≥ (Mulieri enim haud ferè fidelem reperias virum)</p>
-    <p>Sed cum ne nunc quidem domum reuersus sit,</p>
-    <p>Ne quid ei aduersi acciderit in via, nimis</p>
-    <p>Timeo infelix. Plurimae occurrunt mihi</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Suspiciones, quae hunc meo animo exaugent metum.</p>
-    <p>≤line=790≥ Stultè profectò à me factum est, quae heri illum
-    tam</p>
-    <p>Serò ad mercatum miserim, ut redire vix</p>
-    <p>Potuerit vesper: tum quae ipsa hodie non iuerim</p>
-    <p>Potius. Nunc quoniam ille hac totâ nocte abfuit</p>
-    <p>Domo, quae cogito? quibus sollicitor curis? quod nisi</p>
-    <p>≤line=795≥ <note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Aliquid ei euenisset infortunij.</p>
-    <p>Iamdudum hîc scio adesset. Neque, ego nunc de tergore,</p>
-    <p>Aut de gallo, aut de ouis tam sum solicita, quàm</p>
-    <p>Eius saluti, uitaeque metuo misera.</p>
-    <p>Et nescio profectò, quid mihi animus praesagit mali.</p>
-    <p>≤page=199≥</p>
-    <p>≤line=800≥ Quapropter non malè me facturam existimem,</p>
-    <p>Si eadem, quâ illum iuisse, &amp; redijsse arbitror,</p>
-    <p>Statim iam ad oppidum pergam viâ. At primùm</p>
-    <p>Hinc ingrediar, ancillae vt isthuc indicem:</p>
-    <p>Dein continuò rursus prodibo foras.</p>
-  </div>
-  <div type="level2" xml:id="actvs-v.-scena-iv.">
-    <head>ACTVS V. SCENA IV.</head>
-    <p>SOSTRATA, COROEBVS, CHREMES, CANTHARA.</p>
-    <p>Eiusdem generis.</p>
-    <p>≤line=805≥ NVnc non ita procul ab aedibus tuis Coroebe</p>
-    <p>Absumus, incumbe humeris nostris quantum potes,</p>
-    <p>Et te pedibus consistere non posse aßimula:</p>
-    <p>Idque adeò cautè, ne si vxor fucum intelligat,</p>
-    <p>Tu quasi sorex tuo indicio hodie pereas:</p>
-    <p>≤line=810≥ Magnumque pudorem incutias nobis. Cor. Sostrata,</p>
-    <p>Memini probe. mea res agitur: quae si malè cesserit,</p>
-    <p>Actum est, perij. Chr. Hem, serua, vxorem egressam video
-    foras.</p>
-    <p>Can. Ad oppidum nunc rectâ propero. at at, quid hoc?</p>
-    <p>Accedunt huc, nescio qui ebrium, vti videtur, aut</p>
-    <p>≤line=815≥ Infirmum, aut mente captum quempiam trahunt.</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Mirum ni Coroebus sit meus, adeò ad</p>
-    <p>Accessum eorum mens inhorrescit mihi.</p>
-    <p>Sos. Hem stipes, vah obmutuisti? ipse te prodes.</p>
-    <p>Suspira, vociferare, atque viam comple questubus.</p>
-    <p>≤line=820≥ Cor. Me miserum! differor doloribus, genua labant,</p>
-    <p>Et membra mihi luxata, confractaque sunt omnia.</p>
-    <p>≤folio=N4≥</p>
-    <p>≤page=200≥</p>
-    <p>Ecquis me viuit infelicior! Sos. Rectè.</p>
-    <p>Sic perge. Can. Is est ipsus, me nulla pol miserior est.</p>
-    <p>Cor. Haeccine fieri flagitia? nihilque à grassatoribus</p>
-    <p>≤line=825≥ Vsquam esse tutum? atque adeò in publica via: ô</p>
-    <p>Supinam legum, atque magistratuum oscitantiam!</p>
-    <p>Per quam nunc tanta perpetrantur facinora. Chr. Probè,</p>
-    <p>Ni rem nossem, crederem verè hunc queri.</p>
-    <p>Can. Hem, quae te agitant intemperiae? aut quid eiulas,</p>
-    <p>≤line=830≥ Quererisue furcifer? aut quid est causae, cur aeger
-    huc</p>
-    <p>Nunc reducaris, qui sanus heri nostra exibas domo?</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
-    </note>Cor. Vt summus Iupiter te perdat Canthara,</p>
-    <p>Quae me ad mercatum hesterno die extrusisti à prandio,</p>
-    <p>Vt luce redire nequiuerim domum. Can. Quid, an</p>
-    <p>≤line=835≥ Mihi hic quicquam imputandum esse putas impudens?</p>
-    <p>Chr. Ah, desine male loqui: satis ipsum Canthara</p>
-    <p>Cruciat suum infortunium,</p>
-    <p>Etiamsi tu id maledictis non conduplices.</p>
-    <p>Can. Quid illi accidit? aut cur pedibus nequit ingredi?</p>
-    <p>≤line=840≥ Nae ego illi hunc lethargum excutiam, si fustem
-    sumpsero.</p>
-    <p>Sos. Vide quid dicas Canthara, satis est miser</p>
-    <p>Tuus Coroebus: itaque parce malè loqui, ac</p>
-    <p>Minarier. Can. Quid illi deest? Sos. Eho, rogas?</p>
-    <p>Vix membra trahit infelix. Co. Eheu, me miserrimum.</p>
-    <p>≤line=845≥ Can. Vnde hoc illi accidit? cedo. Sos. Cùm heri sub
-    vesperum</p>
-    <p>≤page=201≥</p>
-    <p>Domum rediret, adorti sunt eum in viâ</p>
-    <p>Praedones aliquot, qui non modò pecuniam</p>
-    <p>Illi eripuerunt omnem, verùm vsque ad necem</p>
-    <p>Etiam verberibus multis mulctarunt infelicißimum.</p>
-    <p>≤line=850≥ Cor. Sic herclè est factum, huiusmodi negotia</p>
-    <p>Mihi comminisceris semper, quibus me excarnifices, habes</p>
-    <p>Quod petijsti, nempe vt aliquo occiderem modo.</p>
-    <p>Ca. Quid isthuc? an ego tibi culpanda videor improbe?</p>
-    <p>Chr. Neque, tu, neque ille Canthara.</p>
-    <p>≤line=855≥ Verùm, quia quod factum est, infectum reddi non
-    potest,</p>
-    <p>Mitte iurgia: &amp; quod ad hanc rem opus est, consule.</p>
-    <p>Multa multis eueniunt incommoda,</p>
-    <p><note>
-      <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
-    </note>Bonis etiam, atque industrijs, quapropter, vt</p>
-    <p>Alia tua facta sunt, hoc quicquid est mali</p>
-    <p>≤line=860≥ Aequo animo patere. At nimium hîc cessamus diu.</p>
-    <p>Tu, si sapis intrò deductum illum cura sedulò,</p>
-    <p>Dum spes est vitae. Can. Perij, quid posthac solatio aut</p>
-    <p>Voluptati poterit esse? siquidem hoc quod restat aetatis</p>
-    <p>Cum claudo, atque elumbi exigendum erit mihi. Chr. Magna</p>
-    <p>≤line=865≥ Adhuc spes est. in tepido illum lecto repone. Ca.
-    Praecedo,</p>
-    <p>Vt apparem vos me sequimini. Sos. Abijt illa, bene pol</p>
-    <p>Tibi se habent principia. Cor. Superis magnas ago gratias,</p>
-    <p>Et vobis, quorum ope, atque consilio magnum euasi malum.</p>
-    <p>Nae ego lepidâ imposturâ hodie os vxori subleui meae.</p>
-    <p>≤line=870≥ Valete spectatores, atque mecum plaudite.</p>
-  </div>
+  <p></p>
+</div>
+<div type="level1" xml:id="actorvm-nomina.">
+  <head>1. ACTORVM NOMINA.</head>
+  <p>COROEBVS, rusticus.</p>
+  <p>CANTHARA, Coroebi vxor.</p>
+  <p>BACCHIS, meretrices.</p>
+  <p>SYRA,</p>
+  <p>CHREMES, rusticus.</p>
+  <p>PINALDVS, Lanio.</p>
+  <p>DORIO, Pinaldi famulus.</p>
+  <p>SOSTRATA, Chremetis vxor.</p>
+  <p>BERARDVS, Exorcista.</p>
+</div>
+<div type="level1" xml:id="prologvs.">
+  <head>2. PROLOGVS.</head>
+  <p>Iambici.</p>
+  <p>Salutem vobis plurimam precor, viri,</p>
+  <p>Ac feminae, huc quotquot venistis, scenicos</p>
+  <p>Spectatum ludos: quos nunc exhibebimus</p>
+  <p>Iocosos, atque ludicros: castos tamen,</p>
+  <p>≤line=5≥ Atque verecundos. Obscoenos enim iocos,</p>
+  <p>Salesque inurbanos noster didascalus</p>
+  <p>Cane peius, &amp; angue fugiendos sibi putat.</p>
+  <p>Nihil turpe est rudi instillandum testulae,</p>
+  <p>Quae odorem, quo semel imbuitur, seruat diu.</p>
+  <p>≤line=10≥ Et quanquam id hactenus cauisse sedulè</p>
+  <p>Se existimat; haud desunt tamen, qui in illius</p>
+  <p>≤page=163≥</p>
+  <p>Comoedijs quaedam parum pudica esse asserunt.</p>
+  <p>Qui falli, &amp; tota mihi videntur errare</p>
+  <p>Viâ. Rerum, ac verborum castimoniam,</p>
+  <p>≤line=15≥ Et puritatem amat choragus noster, at</p>
+  <p>Superstitionem morosam, &amp; nimis anxiam,</p>
+  <p>Tetricamque curiositatem plane despicit.</p>
+  <p>Aequis hominibus, atque candidis suam</p>
+  <p>Probari cupit industriam. Dedit aliàs sacras,</p>
+  <p>≤line=20≥ Ex mysticis vobis depromptas litteris.</p>
+  <p>Iam ludicram, ac profanam accipite fabulam.</p>
+  <p>Iocos, facetiasque hoc tempus postulat.</p>
+  <p>Aduertite animos, atque cum silentio</p>
+  <p>Auscultate obsecro argumentum fabulae.</p>
+</div>
+<div type="level1" xml:id="periocha.">
+  <head>3. PERIOCHA.</head>
+  <p>Trimetri Iambici.</p>
+  <p>Coroebus ab vxore ad mercatum mittitur.</p>
+  <p>Qui de via fatigatus, diuertit in</p>
+  <p>Cauponam: vbi à meretriculis potu obrutus,</p>
+  <p>Vitulino tergori insuitur, atque ebrio</p>
+  <p>≤line=5≥ Chremeti venditur pro vitulo. Accersitur</p>
+  <p>Manè lanio: qui voce Coroebi territus,</p>
+  <p>Fugit: dein’ exorcista vocatur, vt suis</p>
+  <p>Furentem incantamentis placet belluam.</p>
+  <p>Hic quoque metu tremens abit. Mox cognito</p>
+  <p>≤line=10≥ Fuco, ridetur affatim. Coroebus à</p>
+  <p>Chremete, &amp; Sostrata domum ductus, redit</p>
+  <p>In gratiam cum vxore decepta dolo.</p>
+  <p>≤folio=L2≥</p>
+  <p>≤page=164≥</p>
+</div>
+<div type="level1" xml:id="actvs-i.-scena-i.">
+  <head>4. ACTVS I. SCENA I.</head>
+  <p>COROEBVS.</p>
+  <p>Iambici.</p>
+  <p>NAE ego hominum, qui viuunt, sum infelicißimus,</p>
+  <p>Cui tam molesta, ac rixosa vxor contigit.</p>
+  <p>Quae non humaniter me, atque vt bonam vxorem</p>
+  <p>Decet, tractat, sed quae miserum durißimis</p>
+  <p>≤line=5≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Quotidie, atque adeo indignis exercet modis.</p>
+  <p>Non maritum me suum esse deputat,</p>
+  <p>Sed vernam potius, aut mancipium vilißimum.</p>
+  <p>Nulla mihi per eam quies, nulla intermißio</p>
+  <p>Conceditur laboris: neque me respicit</p>
+  <p>≤line=10≥ Quicquam, neque aetatem meam.</p>
+  <p>Molesta, superba, procax, morosa, contumax.</p>
+  <p>Aequum sit, an iniquum, quod imperat, nihil</p>
+  <p>Videt, nihilque pensi habet.</p>
+  <p>Cui si pergas repugnare, irrites magis.</p>
+  <p>≤line=15≥ A solis ortu vsque ad occasum, aut domi,</p>
+  <p>Aut in agro sudandum, &amp; laborandum est mihi.</p>
+  <p>Nunc sunt mulgendae vaccae, nunc curandi equi,</p>
+  <p>Nunc frumentum flagellandum; nunc defricanda</p>
+  <p>Mulctralia, nunc purgandum stabulum. Denique</p>
+  <p>≤line=20≥ Nullum ocium datur mihi: neque eam miseret mei</p>
+  <p>Vnquam. Verum hoc vnum illi curae est maximè, vt</p>
+  <p>Sibi sit benè, cum mihi est malè.</p>
+  <p>Porrò ad mala haec isthuc quoque accedit, mihi</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Quod multò omnium est grauißimum:</p>
+  <p>≤line=25≥ Nimirum quod me illa vtî hominem insulsum, atque
+  fatuum</p>
+  <p>≤page=165≥</p>
+  <p>Contemnendum, atque adeo illudendum proponat sibi.</p>
+  <p>Me caudicem, bardum, stupidum, insipidumque esse, vsque
+  clamitans.</p>
+  <p>Quae nisi omnia patienter feram; aut si me vnico</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Saltem verbo excusare, aut illam refellere</p>
+  <p>≤line=30≥ Parem, ex insana insaniorem eam reddo mihi.</p>
+  <p>Cui ego malo quod remedium inueniam, planè nescio.</p>
+  <p>Sed crepuit ostium, at at, ipsa exit foras.</p>
+  <p>Vae capiti, scapulisque meis, nisi me sedulo</p>
+  <p>Laborantem conspiciat. Mulctrale igitur hoc</p>
+  <p>≤line=35≥ Mihi defricandum, ac abluendum sumam. Sic agam.</p>
+</div>
+<div type="level1" xml:id="actvs-i.-scena-ii.">
+  <head>5. ACTVS I. SCENA II.</head>
+  <p>CANTHARA, COROBBVS.</p>
+  <p>Eiusdem rationis versus.</p>
+  <p>PRouiso quid meus agat cessator: quo non puto</p>
+  <p>Alium magis esse ignauum, tardum, ac desidem</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Vsquam stipitem, non hominem esse dixeris.</p>
+  <p>Hebes est, iners, vecors, ac stolidus, stertit noctes &amp;
+  dies.</p>
+  <p>≤line=40≥ Nae ego infelix sum, quae tali marito nupserim.</p>
+  <p>Sed eccum caudicem adoriar.</p>
+  <p>Probè, vt putat, officio nunc fungitur suo:</p>
+  <p>Qui cum se maximè mouet, nihil promouet.</p>
+  <p>Hem, quid agis furcifer? COR. Blanda herculè salutatio.</p>
+  <p>≤line=45≥ CAN. Quid tecum mußitas mastigia? COR. Nihil mea
+  Canthara.</p>
+  <p>CAN. Nihil? hem, negas? Quid de salute garriebas impudens?</p>
+  <p>≤folio=L3≥</p>
+  <p>≤page=166≥</p>
+  <p>Cor. Salutem tibi precabar plurimam. Can. Credo vt soles.</p>
+  <p>Sed ausculta, vt scias, quid absque mora sit agendum tibi.</p>
+  <p>Cor. Quid, an rursus me ablegare paras quopiam?</p>
+  <p>≤line=50≥ Can. Itáne statim responsas? vah, crucior mihi</p>
+  <p>Fustem deesse, quo scapulas tibi conteram ignauißimo.</p>
+  <p>Cor. Hem, perge sodes mea Canthara. Can. Faciam, at vide, ne me</p>
+  <p>Ad eundem interturbes modum. Cor. Non fiet. Can. in oppidum</p>
+  <p>Tibi est eundum protinus. Cor. Eho, in oppidum?</p>
+  <p>≤line=55≥ Mulctrale igitur hoc deponam, sed quid eò? dic mihi
+  Canthara.</p>
+  <p>Can. Tergus vitulinum, &amp; oua, quae collegi plurima ad</p>
+  <p>Mercatum deferes, praeterea ex gallis alterum.</p>
+  <p>Cor. Quid gallum? quamobrem quaeso? Can. Quia nihil aliud</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Quam totos pugnant dies. Neque mirum, cum vnicum</p>
+  <p>≤line=60≥ Arbustum non alat duos erithacos.</p>
+  <p>Cor. Quid hoc sibi vult prouerbium? Can. Tace stolide, &amp;</p>
+  <p>Tuâ quod nihil refert, omitte percontarier.</p>
+  <p>Cor. Probè herclè intelligo. quanquam tuum arbustum</p>
+  <p>Non admodum grauatè aluerit duos. Can. Tace inquam,</p>
+  <p>≤line=65≥ Et ad iter te accinge, ac perones indue. I</p>
+  <p>Intrò, parata tibi reperies omnia.</p>
+  <p>Me miseram! quàm vereor ne haec etiam malè curet, factu tamen</p>
+  <p>Quae sunt facillima: adeo nil sapit caudex.</p>
+  <p>≤page=167≥</p>
+  <p>Et animus, nescio quid mihi praesagit mali.</p>
+  <p>≤line=70≥ Cor. En redeo vxor probe vti conspicis, ad viam</p>
+  <p>Instructus. CAN. Video: sed vbi tergus vitulinum cedo?</p>
+  <p>COR. Quia non potui simul omnia. CAN. O hominem ignauißimum!</p>
+  <p>Ehem, adfer ocyus. COR. Hic est. Sed quomodo,</p>
+  <p>Gestabo cuncta haec, quae vix asinus, aut mulus ferat?</p>
+  <p>≤line=75≥ Et, ne oua frangam, metuo, CAN. Quid cessas
+  tardißime?</p>
+  <p>Ego tibi modum, quo facile gestes, ostendero.</p>
+  <p>Demitte caput. COR. Quid tum nunc inceptas? CA. Ita</p>
+  <p>Gestabis commodè, sine. Co. Hem, sino. Quis nunc tibi</p>
+  <p>Videor? CAN. Quis alter Hercules:</p>
+  <p>≤line=80≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Non leonis, sed vitulino tergore</p>
+  <p>Formidabilis. COR. Clauam insuper mihi</p>
+  <p>Da, ex qua corbem suspendam gallinariam.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>CAN. Rectè dicis. Hem tibi. CO. Sic incedam commodè</p>
+  <p>Et, ne oua frangam, nullum iam erit periculum.</p>
+  <p>≤line=85≥ Sed dic mihi, quanti haec vis vendi omnia? CA.
+  Singula</p>
+  <p>Vendes stupide, non omnia simul. COR. Etiam oua?</p>
+  <p>CAN. Garris? de gallo, &amp; tergore loquor. COR. Nunc
+  intelligo.</p>
+  <p>Sed quanti vendam? cedo sodes. CAN. Gallum decem,</p>
+  <p>Tergus triginta, si potes, sestertijs.</p>
+  <p>≤line=90≥ COR. Curabo sedulò. CAN. Sed audin’? pluris indica.</p>
+  <p>CO. Scio. Iniquum petam, vt quod est aequum feram,</p>
+  <p>CAN. Tenes. De ouis nihil habeo quod mandem tibi,</p>
+  <p>In his vendendis fac foro te accommodes.</p>
+  <p>COR. Memorem dices te monuisse mea Canthara. At</p>
+  <p>≤line=95≥ Priusquam me in viam dem, lactis obsecro</p>
+  <p>≤folio=L4≥</p>
+  <p>≤page=168≥</p>
+  <p>Mihi adfer cymbium. Can. Adferam. Cor. Benigne</p>
+  <p>Dicis. Nunc te laudo. Can. Hem, ad saturitatem iam bibe.</p>
+  <p>Cor. Non herclè est ferenda sitis. Nectar hoc mihi sapit</p>
+  <p>Lac. Can. Cessatum est satis: i, &amp; negotium tuum</p>
+  <p>≤line=100≥ Fac exequare gnauiter, quodque alias est</p>
+  <p>Peccatum, nunc vt sarcias vide. Cor. Dabo operam sedulò:</p>
+  <p>Vale. Can. Vale, ac matura reditum, audin’. Cor. Cras admodum
+  mane</p>
+  <p>Faxo reuersum me videas. Can. Hem, quid ais? pessime</p>
+  <p>Excipieris, nisi reuertaris vesperi.</p>
+  <p>≤line=105≥ Cor. An auem me nunc esse putas, quom testudinem</p>
+  <p>Appellare soles? ---</p>
+</div>
+<div type="level1" xml:id="actvs-i.-scena-iii.">
+  <head>6. ACTVS I. SCENA III.</head>
+  <p>CANTHARA.</p>
+  <p>Eiusdem generis.</p>
+  <p>--- Abijt tandem furcifer:</p>
+  <p>Atque vtinam redeat nunquam. Ego aedepol eam</p>
+  <p>Iacturam parui momenti esse deputem.</p>
+  <p>Nam quam quaeso mulierem vsquam reperias, quae non</p>
+  <p>≤line=110≥ Libenter, atque adeò cupide tali careat viro?</p>
+  <p>Non arbitror in toto hoc vico similem huic inuenirier:</p>
+  <p>Adeo eius stultitia, atque socordia superat omnia.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 3.</p>
+  </note>Atque ideo nihil est, quod tuto illi commiseris.</p>
+  <p>Quare non mediocriter vereor, ne hoc quoque negotium</p>
+  <p>≤page=169≥</p>
+  <p>≤line=115≥ Nunc male curet stupidus. Tum cauponas metuo,</p>
+  <p>Quae simplicibus insidiari solent agricolis.</p>
+  <p>A quibus hic noster quamuis delusus sit saepius,</p>
+  <p>Tamen, ne rursus illi verba dent, periculum</p>
+  <p>Esse puto maximum, namque os illi subleuerint</p>
+  <p>≤line=120≥ Facillimè: praesertim si vel vnicum</p>
+  <p>Cereuisiae biberit cantharum. Itaque lactis cymbium</p>
+  <p>Illi dabam libenter, ne sitiret in via.</p>
+  <p>Nunc ad vicinam hanc ibo Lesbiam, atque de optima</p>
+  <p>Vt mihi cereuisia promat iubebo. mox</p>
+  <p>≤line=125≥ Sub vesperum domum redeo. Quo tempore</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Si nondum reuersum nostrum cunctatorem reperero,</p>
+  <p>Vae illius scapulis, quas tam molles, atque pultem reddam ei.</p>
+</div>
+<div type="level1" xml:id="actvs-i.-scena-iv.">
+  <head>7. ACTVS I. SCENA IV.</head>
+  <p>COROEBVS.</p>
+  <p>Eiusdem generis.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>DE via, atque his baiulandis oneribus</p>
+  <p>Plana me defatigatum esse sentio.</p>
+  <p>≤line=130≥ Neque id mirum profecto, cum &amp; grauißimum</p>
+  <p>Pondus sustineam, &amp; solis aestus hactenus</p>
+  <p>Perpetuo tolerandus fuerit mihi. Nunc ad</p>
+  <p>Vrbem me tandem deuenisse gaudeo: ibi vt existimo,</p>
+  <p>Quiescendi dabitur locus. Atque vtinam emptorem statim</p>
+  <p>≤line=135≥ Inueniam: vt ante vesperum mihi domum</p>
+  <p>Reuerti liceat. Atque istud ni fiat, vae capiti meo:</p>
+  <p>Quod totum vxor mihi tuber reddet vndique.</p>
+  <p>Quanquam id iam defessum est satis,</p>
+  <p>Etiamsi verberibus non contundatur insuper.</p>
+  <p>≤folio=L5≥</p>
+  <p>≤page=170≥</p>
+  <p>≤line=140≥ Vtinam hic esset aliquis, qui hoc tergus mihi exuat.</p>
+  <p>Sed solus sum, neque quenquam huc accedere</p>
+  <p>Conspicor: ipse vt mihi sim adiutor necesse est. Id agam.</p>
+  <p>Nunc hinc recta via ad forum me confero.</p>
+</div>
+<div type="level1" xml:id="actvs-ii.-scena-i.">
+  <head>8. ACTVS II. SCENA I.</head>
+  <p>BACCHIS, SYRA.</p>
+  <p>Iambici.</p>
+  <p>Perpaucos pol Syra reperias meretricibus</p>
+  <p>≤line=145≥ Fideles euenire amatores, vel Phormio</p>
+  <p>Hic vicinus noster, quoties iurabat Bromiae,</p>
+  <p>Quam sanctè, vt quiuis facilè posset credere.</p>
+  <p>Se nunquam illa viua aliam ducturum domum.</p>
+  <p>Hem, duxit. Sy. Scio, peccatum ab ipso maximum est.</p>
+  <p>≤line=150≥ Bac. Id illi nil morantur perfidi: huc tantum</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Incumbunt, vt blanditijs suis precio</p>
+  <p>Quam minimo voluptatem suam expleant.</p>
+  <p>Nam formâ impulsi vestrâ, vos illi colunt.</p>
+  <p>Haec vbi mutata est, aliò animum continuò conferunt.</p>
+  <p>≤line=155≥ Nisi prospectum est interea aliquid vobis, deserta
+  viuitis.</p>
+  <p>Syr. Verum mihi videris Bacchis, dicere.</p>
+  <p>Bac. Nunc itaque te moneo, atque exhortor sedulò,</p>
+  <p>Ne cuiusquam istorum te vnquam misereat, quin</p>
+  <p>Spolies atque mutiles, quemcunque nacta sis.</p>
+  <p>≤line=160≥ Syr. Itane, vt eximium neminem habeam? Bac. Neminem.</p>
+  <p>Nam veluti vos illi ex animo non diligunt,</p>
+  <p>Sic à vobis pecuniam illorum potius quam eos</p>
+  <p>Amari conuenit. Fragile, fluxum, ac fugax</p>
+  <p>Bonum est forma haec priusquam deperit, tibi</p>
+  <p>≤page=171≥</p>
+  <p>≤line=165≥ Consulas necesse est. Syr. Memorem dices te monuisse.
+  Quin</p>
+  <p>Et me, &amp; meum amorem, &amp; vitam permitto tibi.</p>
+  <p>Te, quae aetate, &amp; prudentia me maior es,</p>
+  <p>Operâ, atque tuo consilio vt me adiuues, rogo.</p>
+  <p>Bac. Faciam pol sedulò: tu dicto pareas vide.</p>
+  <p>≤line=170≥ Syr. Pro viribus enitar mea Bacchis, vt per omnia</p>
+  <p>Tuis me admonitionibus obsequentem praebeam.</p>
+  <p>Bac. Facis vt te decet. At miror huc nullum hodie ex ciuibus</p>
+  <p>Potatum diuertisse, cum tamen magnus</p>
+  <p>Toto hoc die fuerit aestus. Syr. Penuria ac</p>
+  <p>≤line=175≥ Annonae caritas frugalitatem nunc docet</p>
+  <p>Plurimos. Bac. Est vt dicis. Spero tamen</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Ex ditioribus adolescentes aliquot, aut rusticos</p>
+  <p>Bene nummatos, huc venturos sub vesperum.</p>
+  <p>Syr. Ego agricolas non minus opto, quam ciues: ex quibus</p>
+  <p>≤line=180≥ Lucrum plerumque nobis prouenit vberius.</p>
+  <p>Bac. Verè tu istud. Sed nisi quid me fallunt oculi, procul</p>
+  <p>Video aduentare, nescio quem, onustum probè.</p>
+  <p>Syr. Nihil fefellit te prospectus: rusticus</p>
+  <p>Est aedepol. sua, quae non potuit vendere,</p>
+  <p>≤line=185≥ Ex vrbe domum refert. Bac. Illam praedam nostram
+  fore</p>
+  <p>Spero. obseruemus quid sit acturus. Si longius</p>
+  <p>Ire pergat, blanditijs eum, atque commodè</p>
+  <p>Loquenda detinebimus. Syr. Oh, rectè, placet.</p>
+  <p>≤page=172≥</p>
+</div>
+<div type="level1" xml:id="actvs-ii.-scena-ii.">
+  <head>9. ACTVS II. SCENA II.</head>
+  <p>COROEBVS.</p>
+  <p>Eiusdem rationis versus.</p>
+  <p>VT te Dij Deaeque vxor perdant, quae me à prandio</p>
+  <p>≤line=190≥ Hodie ad mercatum miseris. Meque adeò, qui</p>
+  <p>Tibi paruerim &amp; non flocci, nihilique fecerim.</p>
+  <p>Credo ego fecisse illam hoc de industria, quo me</p>
+  <p>Vltro citroque currendo fatigaret miserum:</p>
+  <p>Aut quod sola voluit esse domi: aut ad Lesbiam</p>
+  <p>≤line=195≥ Vicinam nostram potatum ire, quo inscio</p>
+  <p>Me saepè commeat. Nam nisi tale quid esset, cur obsecro.</p>
+  <p>A meridie me ablegasset? quo tempore</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Alcedonia in foro esse solent. Sedi ibi diu:</p>
+  <p>Cum interea nec licitator, nec emptor ad me quispiam</p>
+  <p>≤line=200≥ Veniret. Tandem cum spes nulla vendendi mihi</p>
+  <p>Istic superesse videretur surgo, ac totum oppidum</p>
+  <p>Perambulo: neque emptorem inuenio tamen.</p>
+  <p>Nunc itaque domum reuerti certum est: non tamen</p>
+  <p>Prius, quam in diuersorio</p>
+  <p>≤line=205≥ Hoc proximo famem, ac sitim sedauero.</p>
+</div>
+<div type="level1" xml:id="actvs-ii.-scena-iii.">
+  <head>10. ACTVS II. SCENA III.</head>
+  <p>BACCHIS, SYRA, COROEBVS.</p>
+  <p>Eiusdem generis.</p>
+  <p>SAtis istis substitit diu, nunc huc viam affectat:</p>
+  <p>Praeda haec pol nostris digna est vnguibus. Blande</p>
+  <p>Hominem compellabo: tu orationi fac</p>
+  <p>Subseruias. Syr. Faciam; nam quo modo id fieri soleat</p>
+  <p>≤page=173≥</p>
+  <p>≤line=210≥ Calleo. COR. Cauponam eccam cum ancilla ante ostium</p>
+  <p>Stare video, commodè herculè. Bac. Noster est, huc se</p>
+  <p>Deflectit, atque adeò is est, quem nunc maximè</p>
+  <p>Nobis dari velim. Syr. Nostin’? Bac. Probe. Coroebus est,</p>
+  <p>Homo stolidus, &amp; insulsus: praesertim cum adbibit</p>
+  <p>≤line=215≥ Plus paullulò: quod pol libenter, &amp; cupidè
+  facit.</p>
+  <p>COR. Saluete matronae. Bac. Coraebe salue. COR. Quid? Nostin’</p>
+  <p>Me, &amp; quo appellor nomine? Bac. Quidni, cum non semel</p>
+  <p>In aedibus his nostris potaueris. COR. Iam etiam sitis</p>
+  <p>Ingens me torquet, nec minor fames. Bac. Benè</p>
+  <p>≤line=220≥ Habet: ego isti malo remedium facilè inuenero.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Ingredere, atque onera haec depone. COR. Non est tempus</p>
+  <p>Ingrediendi, appetit vespera, &amp; iter mihi</p>
+  <p>Restat longius. Syr. Hem, intra sodes. COR. Non herculè</p>
+  <p>Faciam. Hic pro foribus considebo. tu cereuisiae</p>
+  <p>≤line=225≥ Mihi prome cantharum, ipse, quod comedam, mecum
+  attuli.</p>
+  <p>Bac. Nae tu frugalior es, quàm par est. Quod si tales caeteri</p>
+  <p>Essent agricolae, ad restim propediem cunctis</p>
+  <p>Iam deuentura res esset cauponibus.</p>
+  <p>COR. Magnum vectigal parsimonia est. Bac. Etiam sententias</p>
+  <p>≤page=174≥</p>
+  <p>≤line=230≥ Tenes Coroebe? COR. Teneo. Sed verborum iam est
+  satis.</p>
+  <p>Prome potius: fauces enim ariditate crepant mihi,</p>
+  <p>Ego merenda, quam attuli domo, super</p>
+  <p>Scabellum hoc apponam. Ba. Abi Syra, ac prome ocyus.</p>
+  <p>COR. Non herclè sapit cibus, nisi prius aridum</p>
+  <p>≤line=235≥ Guttur potu colluero. Syr. Coroebe, haec fausta sit</p>
+  <p>Tibi cereuisia. COR. Euge, beasti, cedo cantharum</p>
+  <p>Sodes. Syr. Accipe. Bac. Quo pacto illa tibi sapit cereuisia? COR.
+  vt</p>
+  <p>Nectar merum. Bac. Bibe largius. COR. Quid etiam largius?</p>
+  <p>Totum ebibi. Bac. Hem, bene fecisti, laudo: Syra</p>
+  <p>≤line=240≥ Prome iterum, atque audin’, diligenter annota. Syr.
+  In</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Hoc obliuiosa, aut tarda soleo esse minimè.</p>
+  <p>COR. Nunc mihi cibus sapere incipit meliuscule.</p>
+  <p>Syr. Hem, accipe Coraebe plenum cantharum. COR. Bene</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Facis: nam etiam nunc sitio. tanta est sicci gutturis</p>
+  <p>≤line=245≥ Ariditas. Bac. Quin bibe largiter, cereuisia optima
+  est.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>COR. Talis herclè videtur mihi. Quod est tibi</p>
+  <p>Nomen? Bac. Mihi? Bacchidem appellant. COR. Hem, Bacchidem,</p>
+  <p>Ego pol talem Bacchidem, quàm Bacchum malim. Sy. Eho, benè,</p>
+  <p>Atque facetè. COR. Quod tibi iuuencula? Syr. Syra. COR.
+  Meminero</p>
+  <p>≤line=250≥ Probè. Praebibo tibi Bacchis. Bac. Sit saluti</p>
+  <p>Coroebe. Indulge genio, atque hilarem te praebe. COR. Syra,</p>
+  <p>≤page=175≥</p>
+  <p>Micas istas da gallo: ac potum etiam admoue:</p>
+  <p>Ne, dum ego satur sum, ille pereat inediâ. Syr. Curabitur.</p>
+  <p>Bac. Estnè hic gallus venalis? COR. Est, &amp; caetera</p>
+  <p>≤line=255≥ Etiam: tergus nimirum vitulinum, atque oua omnia.</p>
+  <p>Bac. Quanti indicas? COR. Singula non omnia simul vt</p>
+  <p>Vendam, mea mihi praecepit Canthara. Syr. Valeat</p>
+  <p>Illa: an tu, cum vir sis, mulieri parendum tibi</p>
+  <p>Putabis stultè? Vah, magna pol te, &amp; alios viros</p>
+  <p>≤line=260≥ Ignominia afficis. Quanti? indica sodes. COR. Non
+  herculè</p>
+  <p>Faciam: memini enim in mandatis quid sit datum mihi.</p>
+  <p>Bac. Hem, praebibo tibi Coroebe. COR. Habeo gratiam</p>
+  <p>Mea Bacchis. Bac. En, totum ebibi. tu vti respondeas</p>
+  <p>Vide. COR. Bonâ fide? Bac. Optimâ. COR. Bene fecisti, cedo
+  cantharum.</p>
+  <p>≤line=265≥ Syr. Promam. COR. Quid cessas? non herculè committam à
+  muliere</p>
+  <p>Vt superatus videar. Syr. Hem tibi. COR. Quid nunc ais Bacchis?</p>
+  <p>Quid tu autem Syra? Syr. Virum te praebuisti strenuum: laudo.</p>
+  <p>COR. Nunquam etiam vsquam fui, quin omnes me laudarent
+  plurimum.</p>
+  <p>Bac. Nihil mirum: nam merito istud semper tibi accidit tuo.</p>
+  <p>≤line=270≥ COR. Ob, rectè Syr. Non sentit caudex sibi palpum
+  obtrudier</p>
+  <p>Bac. Coroebe, quo nunc animo es? nondum has tuas</p>
+  <p>≤page=176≥</p>
+  <p>Vis vendere merces? Cor. Oua primum à me emite, mox</p>
+  <p>De reliquis videro. Ecce contemplamini,</p>
+  <p>Recentia sunt omnia. Syr. Coroebe, praebibo</p>
+  <p>≤line=275≥ Tibi dimidiatum hunc cantharum. Cor. Totum ebibe.</p>
+  <p>Syr. Lubens id fecero, si idem te facturum promittas mihi.</p>
+  <p>Cor. Promitto, quid cessas? Syr. Hem tibi. COR. Bene fecisti
+  Syra.</p>
+  <p>Syr. Coroebe, recentem tibi promam cantharum.</p>
+  <p>Bac. Propera. COR. Mea Bacchis, mea festiuitas, quanto</p>
+  <p>≤line=280≥ Nunc mihi formosior videre, quam dudum.</p>
+  <p>Bac. Et tu pol multo hilarior. Sine cerere,</p>
+  <p>Et Baccho friget Venus. COR. Euge osculum mihi</p>
+  <p>Da mea vita. Bac. Neque hoc, neque si quid aliud amplius</p>
+  <p>A me petas, tibi negandum existimem,</p>
+  <p>≤line=285≥ Syr. Accipe Coroebe, atque ebibe. COR. Nihil est quod
+  aequè fecero</p>
+  <p>Lubens. Bac. Vt bibit helluo. nae nos te, vt dignus es,</p>
+  <p>Exercebimus. COR. Oh, nunc demum mihi viuere</p>
+  <p>Lubet. amplectere me Syra cum suauio.</p>
+  <p>Syr. Faciam &amp; lubenter aedepol. COR. Non tam nectar sapit,</p>
+  <p>≤line=290≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Quàm istud osculum. Sed vespera appetit.</p>
+  <p>Abeundum nunc erit mihi: si modo domum</p>
+  <p>Luce venire velim, &amp; metuo ne vxor ebrium</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Me esse sentiat. Syr. Manebis hic Coroebe,</p>
+  <p>Si nos audias: neque sub noctem te dederis in viam.</p>
+  <p>≤page=177≥</p>
+  <p>≤line=295≥ COR. Nihil agitis subducatur ratio, quod cantharos</p>
+  <p>Promsisti Syra? Bac. Mitte isthuc, ac bibe largius.</p>
+  <p>Eho, propino Coroebe. COR. Sit salutiferum mea</p>
+  <p>Bacchis. Sed tamen abeundum est mihi: quo meo animo nihil</p>
+  <p>Est aegrius. Syr. Valeant ista, &amp; nobis bene consulentibus</p>
+  <p>≤line=300≥ Obsequere sodes. Quam non sit tutum, de nocte per</p>
+  <p>Viam ire hominem solum, nosti. COR. Surgendum est tamen. At at,
+  quid hoc?</p>
+  <p>Vicit cereuisia quam bibi. Syr. Nimirum hoc Bacchidis</p>
+  <p>Consilium rectum erat: vt apud nos hîc maneres</p>
+  <p>Coroebe. COR. Agitedum, si id mihi arbitramini</p>
+  <p>≤line=305≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Expedire, faciam. mos gerendus est</p>
+  <p>Bacchidi. Bac. Coroebe nunc mihi videris</p>
+  <p>Sapere. Hem, sessum illum recipe Syra. Syr. Hic mihi latus</p>
+  <p>Dextrum claude Coroebe. COR. Osculum mihi da, mea</p>
+  <p>Vita. Bac. Hem tibi cantharum. COR. Iucunda oratio.</p>
+  <p>≤line=310≥ Syr. Pol ebrius est totus. Bac. Iam iam in nassam
+  incidet:</p>
+  <p>Nunquam enim hodie casses euaserit meos.</p>
+  <p>Syr. Tota haec praeda est nostra. COR. Vt sapiunt oua mea? Bac.
+  Labitur:</p>
+  <p>Hem, sustine illum Syra. Syr. Ego eum nihil moror.</p>
+  <p>Labatur furcifer. Bac. Ha, ha, he in cacabum incidit.</p>
+  <p>≤line=315≥ Aqua repletum sordidas vt abluat nates.</p>
+  <p>Sy. Spectaculum risu dignum. Ba Extrahamus pecus.</p>
+  <p>≤folio=M≥</p>
+  <p>≤page=178≥</p>
+  <p>Ne fortè expergiscatur, frigus sentiens.</p>
+</div>
+<div type="level1" xml:id="actvs-ii.-scena-iv.">
+  <head>11. ACTVS II. SCENA IV.</head>
+  <p>BACCHIS, SYRA.</p>
+  <p>Eiusdem rationis.</p>
+  <p>QVid? quid venire in mentem nunc posset mihi?</p>
+  <p>Quidnam? quo ludos hic aliquem faciam lepidos?</p>
+  <p>≤line=320≥ Si modo fortuna se secundam praebeat</p>
+  <p>Mihi. Syr. Quid istud obsecro? Bac. Ridebimus affatim,</p>
+  <p>Vt opinor. Nec ea res nobis incommodo</p>
+  <p>Erit Syra. Syr. Oh, quo pacto? dic sodes. Bac. Age,</p>
+  <p>Dicam, at primum tu gallum, atque oua intrò aufer. Haec</p>
+  <p>≤line=325≥ Vt nobis cedat praeda, efficiam callide.</p>
+  <p>Syr. Eo quanquam, quid incoeptes, non intelligo.</p>
+  <p>Bac. Quin maius hinc nobis spero lucrum, si Fors</p>
+  <p>Modo fauerit. Vt stertit sterquilinium. Nae ego</p>
+  <p>Te exercebo probè. Syr. Hem, redeo. Nunc quid facere</p>
+  <p>≤line=330≥ Constitueris, dic mihi amabo. Bac. Ausculta, Ebrium</p>
+  <p>Hunc tergori inuoluemus, &amp; consuemus vndique,</p>
+  <p>Eumque modo sub noctem rustico alicui</p>
+  <p>Poto, venum obtrudemus pro vitulo. Syr. Vah, callidum</p>
+  <p>Consilium, modo venerit aliquis. Bac. Bene ominare: non</p>
+  <p>≤line=335≥ Diu erit, quin mirum conspicias spectaculum.</p>
+  <p>Hem, tu filum, atque acum mihi expedi. Syr. Effero.</p>
+  <p>Bac. Credo hanc rem nobis successuram ex sententia</p>
+  <p>Adeo mens mihi, nescio quid praesagit boni.</p>
+  <p>≤page=179≥</p>
+  <p>Sy. Hem Bacchis, accipe acum, &amp; filum satis longum,</p>
+  <p>≤line=340≥ Vt arbitror. Bac. Tu hic nunc esto adiutrix mihi.</p>
+  <p>Syr. Iuuabo sedulò. Bac. Crumenam ei primum adimam: Nihil</p>
+  <p>Omnino sentit caudex: mortuum illum dixeris.</p>
+  <p>Quid cras futurum arbitrare Syra, crapulam</p>
+  <p>Cum edormierit? Sed video huc aduentare, nescio</p>
+  <p>≤line=345≥ Quem. Dij nos respiciunt Syra. Is pol ebrius</p>
+  <p>Est quoque, nisi oculi hallucinantur mihi. Syr. Bene</p>
+  <p>Mecastor factum, gaudeo. Hic iam colligatus, &amp;</p>
+  <p>Consutus est satis. Vide obsecro Bacchis,</p>
+  <p>Malè peream, nisi vitulum esse putaueris.</p>
+  <p>≤line=350≥ Bac. Rectè. Sed aliud est, quod nunc ago. Viden’</p>
+  <p>Accedentem? Syr. Quidni. Ebrius est totus. Bac. Ego</p>
+  <p>Meo hunc circumueniam modo.</p>
+</div>
+<div type="level1" xml:id="actvs-ii.-scena-v.">
+  <head>12. ACTVS II. SCENA V.</head>
+  <p>CHREMES, BACCHIS, SYRA.</p>
+  <p>Eiusdem generis.</p>
+  <p>NAE nos cutem curauimus, genioque indulsimus</p>
+  <p>Lautè, atque prolixè, à summo mane vsque ad vesperum.</p>
+  <p>≤line=355≥ Vtinam talis mihi saepe eueniat compotatio.</p>
+  <p>In qua me planè asymbolum</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Fecit vacca, multò pluris, quàm emeram,</p>
+  <p>Vendita. Bac. Audin’ quid dicat Syra?</p>
+  <p>Syr. Audio. Vaccam se gloriatur ex sententia</p>
+  <p>≤line=360≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Vendidisse. Bac. Ita est. Chr. Sed antequam domum</p>
+  <p>Me conferam, vicinae hae mihi mulierculae</p>
+  <p>Sunt compellanda, atque ab ijs osculum petendum.</p>
+  <p>≤folio=M2≥</p>
+  <p>≤page=180≥</p>
+  <p>In quo quidem minimè difficiles fore eas arbitror.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Bac. Prô Iupiter! vicinus hic noster Chremes</p>
+  <p>≤line=365≥ Est. nullum nunc mihi magis optarim dari,</p>
+  <p>Hic faceto erit nobis illudendus ioco.</p>
+  <p>Namque hominem magis emacem, ac vendacem illo inuenias neminem.</p>
+  <p>CHR. Sed eccam commodè pro foribus stare vtramque conspicor.</p>
+  <p>Quod de Syrenibus poëtae fabulantur, id</p>
+  <p>≤line=370≥ Hic praeter euntibus accidit quotidie, quos suis</p>
+  <p>Blanditijs illae in fraudem illectant, ac malis</p>
+  <p>Grauibus mulctant saepißimè. Sed ego mihi</p>
+  <p>Ab eis cauero, nam non ingrediar: at foris</p>
+  <p>Cum illis paulisper fabulans</p>
+  <p>≤line=375≥ Non nisi vnum mihi promi iubebo cantharum,</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Dein’ domum rectâ me recipiam viâ. Bac. At</p>
+  <p>Nos te tractabimus vt mereris furcifer.</p>
+  <p>Huc te qui contulisti in tempore, Lux dubia dolis,</p>
+  <p>Ac fraudibus est accommoda. Alloquar. Salue</p>
+  <p>≤line=380≥ Chreme. CHR. Eho, saluete mulierculae. Quem ante
+  ostium</p>
+  <p>Hic praestolamini tam vesperi? Bac. Lucri</p>
+  <p>Bonus odor euocauit nos foras. CHR. Rectè. Sed osculum</p>
+  <p>Ab vtraque mihi volo. Syr. Nihil detrectamus. CHR. Bene</p>
+  <p>Herculè fecistis, laudo: prome cantharum.</p>
+  <p>≤line=385≥ Syr. Fiet. Bac. Hilaris pol nunc planè mihi videris</p>
+  <p>Chreme. Credo hunc tibi diem illuxisse prosperè.</p>
+  <p>CHR. Prosperrime, tales ego mihi optarim plurimos.</p>
+  <p>Bac. Et nobis quoque felix, faustusque fuit satis.</p>
+  <p>≤page=181≥</p>
+  <p>Syr. Chreme, accipe cantharum. Chr. Cedo. Sed dic mihi</p>
+  <p>≤line=390≥ Sodes Bacchis, quidnam id sit, quod vobis hodie
+  accidit</p>
+  <p>Feliciter? Bac. Dicam. Vitulum emimus modò,</p>
+  <p>Bene admodum saginatum, ex sententiâ.</p>
+  <p>CHR. Vbi iste est? Bac. Eccum eum. CHR. Crassus herclè, ac
+  pinguis</p>
+  <p>Est totus. Sed rursúsne hunc vultis vendere?</p>
+  <p>≤line=395≥ Bac. Volumus, si emptor contingat commodus. CHR.
+  Mihi</p>
+  <p>Eum vendite: pecuniam numerabo protinus.</p>
+  <p>Bac. Placet. CHR. Quanti indicas? Bac. Florenis quatuor. CHR.
+  Ah,</p>
+  <p>Nimio profectò. tres dabo. Bac. Vah, itane Chreme</p>
+  <p>Licitare? mirum ni esse furtiuum putes.</p>
+  <p>≤line=400≥ CHR. Age, age, decem adijciam sestertios. Satis</p>
+  <p>Id sit vobis. Bac. Sed praesentem pecuniam,</p>
+  <p>Vt dixti, numerari nobis volumus. CHR. Dabitur statim.</p>
+  <p>Bac. Agedum, ratum esto. CHR. Nunc tibi praebibo Bacchis.</p>
+  <p>Bac. Bibe largiter. CHR. Bona herculè est cereuisia.</p>
+  <p>≤line=405≥ Sed vitulum statim à vobis velim</p>
+  <p>In haram hinc abducier, cras admodum mane</p>
+  <p>Iubebo vocari lanionem. Bac. Pecuniam</p>
+  <p>Prius numera. CHR. Accipe, lectum est, conueniet numerus,</p>
+  <p>Quantum promisi. Quin duo sesterti</p>
+  <p>≤line=410≥ Supersunt, quos pro cereuisia datos puta. Bac.
+  Adiuua</p>
+  <p>Me Syra. Syr. Praesto sum. Bac. In hara concludamus pecus.</p>
+  <p>≤folio=M3≥</p>
+  <p>≤page=182≥</p>
+  <p>Chr. Ibi te oblecta supremum supplicium crastino</p>
+  <p>Lues die. Bac. Nunc intrò abeamus hinc Syra.</p>
+  <p>Nae nobis hic ludus ceßit feliciter.</p>
+  <p>≤line=415≥ Dij boni, quantus cras populi erit risus,</p>
+  <p>Vbi noster hic innotuerit fucus. Nunc ostio</p>
+  <p>Clauso, nos ad somnum componamus. Syr. Rectè mones.</p>
+</div>
+<div type="level1" xml:id="actvs-iii.-scena-i.">
+  <head>13. ACTVS III. SCENA I.</head>
+  <p>CANTHARA.</p>
+  <p>Iambici.</p>
+  <p>ME miseram, vix sum compos animi, ita ardeo iracundia.</p>
+  <p>Neque, somnum hac nocte oculis vidi meis. Quin nescio</p>
+  <p>≤line=420≥ Quid suspicer, aut quid ei euenisse cogitem.</p>
+  <p>Sed dubium non est, quin in ganeum aliquod se immerserit,</p>
+  <p>Vbi totam hanc noctem inter meretrices degit suauiter.</p>
+  <p>Nae ego illum modo domum vbi redierit, vt dignus est,</p>
+  <p>Exercebo mastigiam. Ah, quam nunc illum mihi</p>
+  <p>≤line=430≥ Dari velim, vt in eum hanc animi euomam
+  aegritudinem:</p>
+  <p>Vtque in capillum illi inuolem, oculosque vnguibus</p>
+  <p>Exsculpem sceleratißimo. Qui me sibi</p>
+  <p>Tam audacter, &amp; imprudenter illudendam existimat.</p>
+  <p>Mox supplicans: opinor, aderit. Sed nihil</p>
+  <p>≤line=435≥ Aget, nimium pol errat, si me precibus, aut</p>
+  <p>Lachrymis placari posse putat. Satis, satis</p>
+  <p>Iam vxor lenis, ac placabilis fui.</p>
+  <p>Iram nunc eius faxo, vt sentiat, cuius patientia,</p>
+  <p>≤page=183≥</p>
+  <p>Ac lenitate turpiter est abusus hactenus.</p>
+  <p>≤line=440≥ Si ille sibi in prostibulis, &amp; diuersorijs</p>
+  <p>Consumendum arbitratur, quod comparcimus</p>
+  <p>Nos, nostrum defraudantes genium: ego vicißim</p>
+  <p>Eum probe vlta, in tempore prospiciam mihi.</p>
+  <p>Sed fortasse aliud erit, quod illum sit remoratum tam diu.</p>
+  <p>≤line=445≥ Istud quidem velim, quanquam, ne sit quod suspicor,</p>
+  <p>Nimium vereor: vbi vbi est, celari non poterit diu.</p>
+</div>
+<div type="level1" xml:id="actvs-iii.-scena-ii.">
+  <head>14. ACTVS III. SCENA II.</head>
+  <p>CHREMES, PINALDVS, DORIO, COROEBVS.</p>
+  <p>Eiusdem rationis versus.</p>
+  <p>QVid isthuc? itáne ad clarum dormiui diem?</p>
+  <p>Et tamen adhuc nox multa oculis inest mei:</p>
+  <p>Neque hesternam etiam nunc satis edormiui crapulam,</p>
+  <p>≤line=450≥ Nimis herclè largiter potaueram, &amp; gulam</p>
+  <p>Ad summum oppleram luxu dapsili. Neque</p>
+  <p>Sine magno etiam meo lucro, atque commodo.</p>
+  <p>Mitto iam vaccam, nimio venditam. Vitulum insuper</p>
+  <p>Emi à vicinis his meretriculis, bene</p>
+  <p>≤line=455≥ Saginatum, ac pinguem, precio admodum vili:</p>
+  <p>Quem iam mihi mactandum puto. Itaque lanio nunc</p>
+  <p>Huc erit accersendus Pinaldus. Quin Syro,</p>
+  <p>Famulo nostro id dabo negotij. Sed commode, &amp;</p>
+  <p>Per tempus video eum huc accedentem cum seruulo,</p>
+  <p>≤line=460≥ Securi, alijsque armis probè instructum. Nihil</p>
+  <p>Posset mihi nunc accidere opportunius.</p>
+  <p>Pin. Moue te Dorio. Dor. Moueo meherclè sedulò.</p>
+  <p>≤folio=M4≥</p>
+  <p>≤page=184≥</p>
+  <p>Pin. Credo sed aut nihil, aut parùm</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Promoues, non cogitas iamdudum septimam</p>
+  <p>≤line=465≥ Praeterijsse horam? Sed Chremetem ante ostium</p>
+  <p>Consistentem video. hui, tam mane, qui heri</p>
+  <p>Tantum biberat. Chr. Hem, salue Pinalde. Pin. Eho, Chreme</p>
+  <p>Quid te tam diluculo è lecto euocauit?</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Res seria sit oportet, non tibi dolet caput?</p>
+  <p>≤line=470≥ Chr. Mitte isthuc, aliud nunc agendum erit tibi,</p>
+  <p>Pin. Si quâ in re meâ operâ tibi fortè est opus,</p>
+  <p>Age, impera, ac factum puta. Chr. A vobis heri</p>
+  <p>Digressus, emebam vitulum. Pin. Quid, vitulum tam vesperi? Chr.
+  Hunc</p>
+  <p>Velim nobis mactes. Pin. Quanquam aliò propero, tamen quia</p>
+  <p>≤line=475≥ Amici sumus, effectum id tibi dabo statim.</p>
+  <p>Sed vbi est vitulus? Chr. In hara reperies. Pin. Extrahe Dorio.</p>
+  <p>Ego cultros expediam. Dor. Faciam herculè sedulò</p>
+  <p>Hu, hu, erige te. Cor. Quid vis tibi? Dor. Prô Iupiter!</p>
+  <p>Quid isthuc est monstri? succurrite obsecro.</p>
+  <p>≤line=480≥ Pin. Quid vociferare, aut quidnam expalluisti Dorio?</p>
+  <p>Dor. Formidine pol me iste exanimauit vitulus. Si modò</p>
+  <p>Vitulus dicendus est, &amp; non potius cacodaemon quispiam:</p>
+  <p>Chr. Dij meliora Dorio Pin. Ipse eum adoriar,</p>
+  <p>Hem, surge, surge: &amp; progredere. Cor. Sine, sine me. Pin.
+  Deum</p>
+  <p>≤page=185≥</p>
+  <p>≤line=485≥ Immortalem! quid hoc est prodigij? metu</p>
+  <p>Animus planè obstupuit mihi. In malam crucem</p>
+  <p>Chreme hinc abi tuo cum vitulo, Dorio, sequere</p>
+  <p>Me: nolim mihi cum isthoc monstro quicquiam esse negotij.</p>
+</div>
+<div type="level1" xml:id="actvs-iii.-scena-iii.">
+  <head>15. ACTVS III. SCENA III.</head>
+  <p>SOSTRATA, CHREMES, COROEBUS.</p>
+  <p>Eiusdem generis versus.</p>
+  <p>QVas excitari hîc turbas audio? Chreme,</p>
+  <p>≤line=490≥ Quid extimuisti? aut quid palles? satin’ salua</p>
+  <p>Res. Hem taces? CHR. Quid ego tibi dicam miser?</p>
+  <p>Quem heri vitulum emi, eum negant esse vitulum</p>
+  <p>SOS. Quid igitur? CHR. Quid? cacodaemonem. Sos. prohibeant hoc</p>
+  <p>Superi. CHR. Lanio cum famulo aufugit territus.</p>
+  <p>≤line=495≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Sos. Mira praedicas. CHR. Atqui verißima.</p>
+  <p>Quod si fortè mihi non credis, rem ipse experire,</p>
+  <p>Haram ingressa. Sos. Ah, tun’ me quod ipse non audes,</p>
+  <p>Facere iubes? CHR. Bis iam tentatum est, neque sine</p>
+  <p>Magno periculo. Sos. O viros fortes, ac strenuos!</p>
+  <p>≤line=500≥ CHR. Siccine ais? accede propius, si tuto te id facturam
+  putas,</p>
+  <p>Sos. Nae ego formidolosa sim, vitulum mihi</p>
+  <p>Si metuendum esse existimem. Her, her, satis dormiuisti diu,</p>
+  <p>Surge hic dies tuae neci</p>
+  <p>Est destinatus. COR. Vah, sine dormiam. Sos. Dij boni!</p>
+  <p>≤line=505≥ Seruate me obsecro, Chreme, succurre miserae</p>
+  <p>≤folio=M5≥</p>
+  <p>≤page=186≥</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Mihi. Chr. Quid nunc ais Sostrata? satin’ credis</p>
+  <p>Non esse vitulum? Sos. Eheu, me infelicißimam!</p>
+  <p>Genua terrore mihi succidunt. Hem sustine</p>
+  <p>Me oro Chreme. Chr. Nae ego hunc vitulum emi auspicio malo!</p>
+  <p>≤line=510≥ Sos. O rem prodigiosam! Quid agimus nunc? aut qui das
+  consilij?</p>
+  <p>Chr. Neque quid dicam herclè, neque quid consulam scio:</p>
+  <p>Ita mihi mentem ademit hoc inexpectatum</p>
+  <p>Malum. Sos. Tamen consilium nobis erit inueniendum Chreme.</p>
+  <p>Chr. Quid si exercistam huc accersi iubeamus, vt</p>
+  <p>≤line=515≥ Pecudem incantet, malumque istum genium, qui eam</p>
+  <p>Exagitat, expellat. Sos. Placet: namque incantationibus</p>
+  <p>Magnam atque admirabilem vim inesse praedicant.</p>
+  <p>Chr. Ego ad illum eo, tu me domi operire, dum</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Redeo. Sos. Propera. Enim vero quid suspicor,</p>
+  <p>≤line=520≥ Aut quid coniectem nescio: nisi à Deo</p>
+  <p>Nostris criminibus offenso, hoc incommodum</p>
+  <p>Esse immissum! nam ex qua alia causa tam graue</p>
+  <p>Nobis oriretur malum?</p>
+  <p>Quale in vita ego nulli vnquam euenisse memini.</p>
+  <p>≤line=525≥ Ibo intrò, neque toto hoc die foras quoquam pedem
+  efferam.</p>
+  <p>Nolim mihi rem esse cum incantationibus.</p>
+  <p>≤page=187≥</p>
+</div>
+<div type="level1" xml:id="actvs-iii.-scena-iv.">
+  <head>16. ACTVS III. SCENA IV.</head>
+  <p>BERALDVS, CHREMES, COROEBVS.</p>
+  <p>Eiusdem generis.</p>
+  <p>Incredibilia sunt, quae praedicas Chreme,</p>
+  <p>Chr. Nil falsi dixi Beralde. Ber. Quis vitulum loqui</p>
+  <p>Humanâ voce audiuit vnquam? Chr. Ego quidem</p>
+  <p>≤line=530≥ Praeterquam nunc, aliàs nunquam. Miraberis,</p>
+  <p>Vbi audieris. Ber. nihilominus, nisi me meae</p>
+  <p>Fallunt artes, remedium isti inueniam malo.</p>
+  <p>Chr. Faxint ita superi. Hem, isthaec hara est, in qua</p>
+  <p>Fascinatum reperies pecus. Ber. Tu cereum</p>
+  <p>≤line=535≥ Accende, ego exorcismum, qui hac accommodus</p>
+  <p>Ad rem maxime erit, quaeram. Chr. Faciam sedulò.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Bene habet: inueni herclè satis efficacem: quo</p>
+  <p>Vel tres ad inferos facile pepulero cacodaemonas.</p>
+  <p>Chr. En cereum accensum tibi. Ber. Cedo, exordiar.</p>
+  <p>≤line=540≥ Adiuro te cerita pecus, per. Cor. Quid tibi rei</p>
+  <p>Mecum est? aut quid vis? Ber. Prô Deum atque hominum fidem!</p>
+  <p>Quid hoc monstri est? pauore animus tremit mihi,</p>
+  <p>Chreme, male tibi sit cum tuo vitulo. Vale.</p>
+  <p>Chr. Quid nunc faciam infelix? Exorcista aufugit,</p>
+  <p>≤line=545≥ Et totus etiam pauco atque horreo formidine,</p>
+  <p>Mirum quae saga nobis praestigijs suis</p>
+  <p>Hanc excantarit pecudem. Quicquid est, ego</p>
+  <p>Hinc me intrò conijcio: neque fenestras, neque ostium</p>
+  <p>Toto hoc aperiam die, etiamsi pulsent plurimi.</p>
+  <p>≤page=188≥</p>
+</div>
+<div type="level1" xml:id="actvs-iv.-scena-i.">
+  <head>17. ACTVS IV. SCENA I.</head>
+  <p>COROEBVS.</p>
+  <p>Iambici.</p>
+  <p>≤line=550≥ DIsperii, quid agam, quò me vertam, aut in quem
+  hominem</p>
+  <p>Commutatus sum infelix? Nae haec mirabilis</p>
+  <p>Est metamorphosis. Dij meretriculas illas</p>
+  <p>Malè perdant, quae mihi os subleuerunt tam turpiter,</p>
+  <p>Quae me vitulino tergori insutum, ludos</p>
+  <p>≤line=555≥ Ac delicias fecere sibi. Circumspice</p>
+  <p>Coroebe, an te hic habitus, &amp; vestitus satis</p>
+  <p>Deceat. O me miserrimum! vah, dispudet</p>
+  <p>Mihi sic data esse verba. vbi marsupium?</p>
+  <p>Vbi oua, vbi gallus meus? Perierunt omnia.</p>
+  <p>≤line=560≥ Quid dicet vxor, vbi domum rediero, oculos</p>
+  <p>Sat scio, ex capite eruet mihi. Malè herculè</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Potatum est. Sed quò me nunc recipiam? namque hîc</p>
+  <p>Si maneam, risui, ac ludibrio ero omnibus.</p>
+  <p>Ad proximas has aedes accedem, in quibus</p>
+  <p>≤line=565≥ Chremetem habitare existimo. Sed ostium</p>
+  <p>Clausum est, pulsabo. Nam verecundia homini invtilis</p>
+  <p>Est, dum neceßitas vrget, durum, vt ferunt, telum.</p>
+</div>
+<div type="level1" xml:id="actvs-iv.-scena-ii.">
+  <head>18. ACTVS IV. SCENA II.</head>
+  <p>COROEBVS, CHREMES</p>
+  <p>Eiusdem generis versus</p>
+  <p>Heus, heus, aperiat sodes aliquis ostium.</p>
+  <p>Quid istud? nemon’ prodit? Non pol desinam</p>
+  <p>≤line=570≥ Pulsare. hui, quid hoc? an calcibus fores</p>
+  <p>≤page=189≥</p>
+  <p>Erunt effringendae? altum hîc omnes dormiunt:</p>
+  <p>Quanquam iamdudum clarus illuxit dies.</p>
+  <p>Pulsabo denuo: neque finem faciam, donec prodeat</p>
+  <p>Aliquis. CHR. Quis toties, atque tam grauiter nostras pepulit
+  fores?</p>
+  <p>≤line=575≥ COR. Eho, fenestram potius, quam ostium aperis
+  Chreme?</p>
+  <p>CHR. Quis tu homo es? aut quid apud has aedes negotij est</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Tibi? COR. Aperi ostium sodes, ac me intromitte. CHR.
+  Papae.</p>
+  <p>Vnde hic emergit homo, vitulino tergore</p>
+  <p>Indutus! COR. Ostium aperi: id te quaeso mi Chreme.</p>
+  <p>≤line=580≥ CHR. Ignotum ego intromitto neminem. Quis es?</p>
+  <p>COR. Coroebus sum, minimè ignotus tibi. CHR. Deum</p>
+  <p>Immortalem! est is ipsus, mira hîc nobis accidunt.</p>
+  <p>COR. Quin ostium aperi: quid cessas? an diutius</p>
+  <p>Hic mihi morandum erit? CHR. Faciam, atque ipse ad te prodibo
+  foras.</p>
+  <p>≤line=585≥ COR. Propera. CHR. Quid, audebóne progredi? COR.
+  Quidni.</p>
+  <p>Nihil tibi à me erit expectandum mali.</p>
+  <p>CHR. Mirum ni tu hoc fueris monstrum, quod nos exterruit</p>
+  <p>Hactenus. COR. Ego nemini terrori, quod sciam,</p>
+  <p>Fui: at ne risui, &amp; ludibrio plurimis</p>
+  <p>≤line=590≥ Fuerim, metuo miser. CHR. Miris certè modis</p>
+  <p>Hic terruit nos vitulus. Quid tibi contigerit nescio.</p>
+  <p>COR. Quid audio? vos vitulus terruit? vbi iste</p>
+  <p>Erat? dic mihi amabo. CH. Rogas? in isthac nostra hara.</p>
+  <p>≤page=190≥</p>
+  <p>Cor. Quid ais, in hara? atqui ex illa ego prorepsi modò.</p>
+  <p>≤line=595≥ Chr. Tun’ ex hara Coroebe? Cor. In ea hac nocte
+  diuersorium</p>
+  <p>Fuit mihi. Che. Nae tu nos horrendo perterruisti</p>
+  <p>Metu. Sed commodè eccum huc redeuntem lanionem conspicor:</p>
+  <p>Eum mihi operiri certum est, vt mirabilem</p>
+  <p>Hanc rem illi impertiam. Cor. Ego intrò eo, nolo me quispiam</p>
+  <p>≤line=600≥ Amictu hoc inuolutum conspiciat: nam me pudet mei.</p>
+</div>
+<div type="level1" xml:id="actvs-iv.-scena-iii.">
+  <head>19. ACTVS IV. SCENA III.</head>
+  <p>PINALDVS, CHREMES, BERALDVS.</p>
+  <p>Eiusdem generis.</p>
+  <p>HAc nunc domum redeo, vt visam quid agat Chremes:</p>
+  <p>Et quo pacto res cesserit ei cum execrabili</p>
+  <p>Isthoc vitulo, qui me plane exanimauerat metu.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Sed eccum pro foribus eum consistentem video.</p>
+  <p>≤line=605≥ Multò nunc quam modo erat, est hilarior.</p>
+  <p>Quid illi acciderit miror. Compellabo hominem.</p>
+  <p>Hem, quo modo se res habent Chreme? satin’ ex sententia?</p>
+  <p>Chr. Eho Pinalde, te hic praestolor accedentem:</p>
+  <p>Nam nullus est nunc omnium, quem ego mihi</p>
+  <p>≤line=610≥ Malim dari quam te. Pin. Quid ita sodes? cedo.</p>
+  <p>Chr. O nos stultè meticulosos, qui eum nobis</p>
+  <p>Vitulum tantopere fugiendum putauimus!</p>
+  <p>Pin. Qui sic Chreme? certo mihi videbatur formidandus nimis.</p>
+  <p>≤page=191≥</p>
+  <p>Sed quid rides, aut quid accidit obsecro?</p>
+  <p>≤line=615≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Chr. Iocularium in malum herclè incidimus inscij.</p>
+  <p>Pin. Hem, quid factum est? ne retice, vt tecum rideam. Chr.
+  Nihil</p>
+  <p>Vnquam risu magis dignum cuiquam euenisse arbitror.</p>
+  <p>Pin. Quin dic, quid est? Chr. Dicam, sed rideo accedentem
+  Beraldum,</p>
+  <p>Hic quoque incantationibus suis modo</p>
+  <p>≤line=620≥ Aggressus pecudem, subitò correptus metu</p>
+  <p>Aufugit turpiter, vt nunc etiam palleat</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Vide. ô exorcistam animosum, atque strenuum!</p>
+  <p>Ber. Deum immortalem! vt me laruatus ille terruit</p>
+  <p>Vitulus? &amp; vix etiam nunc confirmatus sum satis.</p>
+  <p>≤line=625≥ Nihilominus tamen cupio cognoscere,</p>
+  <p>Quam tandem haec res sit sortitura catastrophen.</p>
+  <p>Ob id itaque nunc huc speculatum reuertor. Sed</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Video Chremetem stare ante ostium: Quis ille alter?</p>
+  <p>Pinaldus est lanio, qui territus quoque</p>
+  <p>≤line=630≥ Fugit, accersitus ad mactandum belluam.</p>
+  <p>Sed quid hoc? nihil aliud quam rident: quid acciderit</p>
+  <p>Miror: accedam, ac compellabo. Hem Chreme,</p>
+  <p>Quid agitur? rides? Eho Pinalde, tu quoque hîc</p>
+  <p>Eras? vbi execrandus iste vitulus? Chr. Ex hara</p>
+  <p>≤line=635≥ Erupit, euasit. Ber. Abeat in malam crucem.</p>
+  <p>Sed quid rides? an risu digna ea res tibi</p>
+  <p>Videtur? Chr. Defessus iam sum ridendo. Ber. Quid accidit?</p>
+  <p>Cedo, hem taces? Chr. Multum tu hercule vales tuis</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Incantationibus Beralde. Ber. Siccine</p>
+  <p>≤line=640≥ Ais, &amp; ludis? Chr. Qui vitulum in homimem
+  commutaueris</p>
+  <p>≤page=192≥</p>
+  <p>Nobis. Pin. Quid audio? Ber. Irrides? referam herclè gratiam.</p>
+  <p>Chr. Nequaquam: quod res est loquor. Pin. Dic seriò</p>
+  <p>Chreme, &amp; iocari desine. Chr. Non equidem iocor.</p>
+  <p>Iam faxo ipsi hominem esse videatis, qui vitulus erat</p>
+  <p>≤line=645≥ Modò. Pin. Nae tu nugator es facetus, sed</p>
+  <p>Mitte iocos, &amp; quid acciderit narra obsecro.</p>
+  <p>Chr. Faciam, atque libenter herculè: namque ego vobis</p>
+  <p>Commemorare id malo, quam vos qui percontamini, scire.</p>
+  <p>Ber. Quin igitur incipis, an nondum etiam solus risisti satis?</p>
+  <p>≤line=650≥ Chr. Heri mihi probè poto festiue admodum</p>
+  <p>Os subleuerunt vicinae hae meretriculae.</p>
+  <p>Ber. Quo pacto? cedo: nam audire gestio. Chr. Ebrium</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Coroebum, atque vitulino insutum tergori,</p>
+  <p>Pro vitulo, ebrio vendidere mihi. Pin. Ha, ha, he, nihil</p>
+  <p>≤line=655≥ In vita audiui factum festiuius:</p>
+  <p>Nihilque facetum, atque lepidum magis. Ber. Quid ais Chreme?</p>
+  <p>Coroebum pro vitulo. Chr. Sic est factum, quanquam mei</p>
+  <p>Me pudet. Pin. O rem nouam, atque auditis iucundißimam!</p>
+  <p>Abeo. per vrbem totam hanc dispersurus fabulam.</p>
+  <p>≤line=660≥ Valete. Chr. Tu me intrò sequere Beralde: ibi</p>
+  <p>Faxo magis rideas. vbi vitulum videris, tuo</p>
+  <p>≤page=193≥</p>
+  <p>Exorcismo in hominem commutatum nobis. Ber. Sequor.</p>
+</div>
+<div type="level1" xml:id="actvs-iv.-scena-iv.">
+  <head>20. ACTVS IV. SCENA IV.</head>
+  <p>SYRA, BACCHIS, PINALDVS.</p>
+  <p>Eiusdem rationis versus.</p>
+  <p>FAcetè pol Bacchis, lepideque rusticos</p>
+  <p>Illos duos fefellimus:</p>
+  <p>≤line=665≥ Neque in toto, vt opinor, reperias oppido</p>
+  <p>Quenquam, qui non isthuc à nobis, &amp; benè</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Dicat factum, &amp; laudet maximè, neque</p>
+  <p>Dubito, quin modò huc confluxuri sint plurimi,</p>
+  <p>Totam rem à nobis vt exquirant exactius.</p>
+  <p>≤line=670≥ Bac. Isthuc quidem non est dubium mihi. Syr.
+  Ridebitur</p>
+  <p>Pol affatim. Sed lanionem Pinaldum commodè</p>
+  <p>Huc accedentem video: rectâ ad nos pergit viâ.</p>
+  <p>Pin. Conueni aliquot ex nostris compotoribus,</p>
+  <p>Illisque rem omnem commemoraui ordine. Quis risus, &amp;</p>
+  <p>≤line=675≥ Cachinnus passim exortus sit, verbis meherculè</p>
+  <p>Effari non possem. Nunc mihi negotium</p>
+  <p>Dederunt, vt apud has meretriculas ientaculum</p>
+  <p>Iubeam apparari: atque omnes symbolis datis</p>
+  <p>Sequuturos se promisere protinus.</p>
+  <p>≤line=680≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Bac. Audin’ tu Syra quid dicat? Syr. Oh, audio,</p>
+  <p>Et in sinu gaudeo. Pin. Sed opportunè eas</p>
+  <p>Pro foribus stantes conspicor, alloquar; hem mulierculae,</p>
+  <p>Vitulum vos hîc habere venalem, bene</p>
+  <p>Saginatum, mihi quidam ex vicinis dicebat modo.</p>
+  <p>≤folio=N≥</p>
+  <p>≤page=194≥</p>
+  <p>≤line=685≥ Bac. Eum ex sententia vendidimus heri. Sed furijs is
+  hodie</p>
+  <p>Coepit miserè exagitarier. Pin. Quid audio? Syr. Oh,</p>
+  <p>Quasi nescias, cum exanimatus formidine,</p>
+  <p>Vix effugeris insanientem bestiam.</p>
+  <p>Pin. Tacete obsecro, iam ridendo omnes defatigati sumus.</p>
+  <p>≤line=690≥ Bac. O fortes, strenuosque animos! O confidentiam</p>
+  <p>Ingentem! quid autem exorcista? ille se virum</p>
+  <p>Praebens, furiosam pecudem tam placidam, atque ouem</p>
+  <p>Suis reddebat incantationibus.</p>
+  <p>Pin. Tace sodes mea Bacchis: rem omnem, vt audio,</p>
+  <p>≤line=695≥ Nostis. Nae vos lepidam meditatae estis fallaciam,</p>
+  <p>Quae per totum iam diuulgata est oppidum,</p>
+  <p>Et quae risum paßim excitauit maximum.</p>
+  <p>Sed nunc qua gratia huc veni, dicam. Ientaculum</p>
+  <p>Erit apparandum tibi. Mox belli aderunt homunculi.</p>
+  <p>≤line=700≥ Bac. Nihil est, quod aequè fecero lubens. Pin. Totus</p>
+  <p>Hîc nobis ridendo, atque iocando tranfigendus est dies.</p>
+</div>
+<div type="level1" xml:id="actvs-v-scena-i.">
+  <head>21. ACTVS V SCENA I.</head>
+  <p>BERALDVS, CHREMES.</p>
+  <p>Iambici.</p>
+  <p>AD satietatem iam risimus Chreme:</p>
+  <p>Vt tandem hinc abeam me tempus monet. Sed quid?</p>
+  <p>Audebimúsne posthac quoquam prodire? Chr. Quid ita?</p>
+  <p>≤line=705≥ Ber. Rogas? quia risui erimus omnibus. Tu qui</p>
+  <p>Hominem ebrium pro vitulo mercatus es ebrius: ego</p>
+  <p>Qui tam stultus fui, vt eum tanquam bestiam</p>
+  <p>≤page=195≥</p>
+  <p>Furijs exagitatam, incantandum existimauerim mihi.</p>
+  <p>Chr. In ore erimus omni populo. tum in diuersorijs</p>
+  <p>≤line=710≥ Fabula compotoribus. Ber. Ebrietas te Chreme</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Vtcunque excusabit, sed quid de me futurum est, qui</p>
+  <p>Mane sobrius illudendum me tam turpiter</p>
+  <p>Praebuerim. Chr. Vt dij Deaeque istas meretriculas</p>
+  <p>Malè perdant. Vah, pudet sic verba data esse mihi.</p>
+  <p>≤line=715≥ At, si viuo, mox referam gratiam ne me</p>
+  <p>Impunè sycophantijs, &amp; fraudibus suis</p>
+  <p>Circumuenisse videantur. Ber. Ego quoque quid imprecer</p>
+  <p>Eis mali, pol nescio. Chr. Imprecationes</p>
+  <p>Nostras illae nihil morantur improbae.</p>
+  <p>≤line=720≥ Inueniendum mihi erit aliquid, quo par pari</p>
+  <p>Referam: ne illae suos dolos feliciter</p>
+  <p>Sibi ceßisse glorientur diu. Ber. Huiusmodi</p>
+  <p>Obsecro aliquid inueni. Chr. Meditabor herculè sedulò.</p>
+  <p>At vxorem eccam cum Coroebo exire conspicor.</p>
+  <p>≤line=725≥ Be. Tu eas hic operire, ego domum rectâ</p>
+  <p>Eo viâ: nec toto hoc quoquam progrediar die:</p>
+  <p>Ita me pudet mei. ---</p>
+</div>
+<div type="level1" xml:id="actvs-v.-scena-ii.">
+  <head>22. ACTVS V. SCENA II.</head>
+  <p>SOSTRATA, COROEBVS, CHREMES</p>
+  <p>Eiusdem rationis versus.</p>
+  <p>--- Esto animo bono Coroebe, ego</p>
+  <p>Domum ipsa te reducam, atque vt cum vxore in gratiam</p>
+  <p>Redeas, enitar sedulò. Neque dubito,</p>
+  <p>≤folio=N2≥</p>
+  <p>≤page=196≥</p>
+  <p>≤line=730≥ Quin id reddam effectum tibi.</p>
+  <p>Tu tantum ne ipse tibi desis, etiam atque etiam vide. At</p>
+  <p>Eccum nostrum Chremetem, cuius opera in hac re opus</p>
+  <p>Erit mihi. COR. Compella, ne quò hinc abeat longiùs.</p>
+  <p>Sos. Hem, quò parabas ire Chreme? an rursus potatum quopiam.</p>
+  <p>≤line=735≥ CHR. Minimè: satis heri potaui infeliciter.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>A potu mihi posthac temperandum censeo.</p>
+  <p>Sos. Siquidem poßis, nihil prius, neque melius:</p>
+  <p>Verum si incipias, neque perficias gnauiter,</p>
+  <p>Metuo ne error postremus sit futurus peßimus.</p>
+  <p>≤line=740≥ COR. Valeant ista mea Sostrata, atque consilio me,
+  vtî</p>
+  <p>Promisisti, adiuua miserum. vxor improba</p>
+  <p>Mihi est domi: quam quâ ratione placem, nescio</p>
+  <p>Infelix. CHR. Memineris te esse virum. Eho, tun’ feminam</p>
+  <p>Tibi metuendam existimas? COR. Non satis qualis</p>
+  <p>≤line=745≥ Ea sit, nosti Chreme, non mulierem, sed Tisiphonem,
+  aut</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Aliam infernalem Furiam esse dixeris,</p>
+  <p>Si cum illa res sit tibi. CHR. Apage sis, nimis herculè</p>
+  <p>Formidulosus es Coroebe. Quin caue potius,</p>
+  <p>Ne femina imperet tibi. Nodo malo</p>
+  <p>≤line=750≥ Malus est quaerendus cuneus. COR. Hei misero mihi!</p>
+  <p>Si id solum consulis Chreme, sat consilij habeo. Sos. Quiesce,
+  ego</p>
+  <p>Huic malo remedium quaeram. Sed tuo mihi</p>
+  <p>Ad hanc rem, quam paro, opus erit auxilio Chreme.</p>
+  <p>≤page=197≥</p>
+  <p>CHR. Hic sum, vtere: namque huic benefaxim lubens.</p>
+  <p>≤line=755≥ COR. Habeo gratiam, &amp; habiturus sum, quoad viuam
+  maximam.</p>
+  <p>Scio vos antea nunquam vsos amicitia mea,</p>
+  <p>Gratum dicetis me, atque memorem. Sed cedo</p>
+  <p>Quid habes consilij Sostrata? eloquere obsecro.</p>
+  <p>Sos. Vitulino tergore rursus te indutum, domum</p>
+  <p>≤line=760≥ Ducemus, atque in itinere à venefica,</p>
+  <p>Aut saga quapiam commutatum in vitulum</p>
+  <p>Dicemus: quemadmodum à Circe Vlyßis socios ferunt</p>
+  <p>Conuersos esse in porcos. COR. Etiam rides Sostrata?</p>
+  <p>Sos. Nequaquam. Eamus intrò, ac tergus indue.</p>
+  <p>≤line=765≥ Nae ego eadem impostura fallam vxorem tuam,</p>
+  <p>Qua heri lepidè huic imposuerunt meretriculae.</p>
+  <p>CHR. Inepta. mitte nugas, &amp; aliud inueni.</p>
+  <p>Sos. Iamdudum inueni. COR. Quid sodes mea Sostrata?</p>
+  <p>Sos. Quod vxor tua credet facilè. COR. Age, commemora obsecro:</p>
+  <p>≤line=770≥ Nam audire gestio. Sos. Scis quam non sit vsquam hoc
+  tempore.</p>
+  <p>Tutum à praedonibus. COR. Scio, perge. Sos. In eorum manus</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Te dicemus incidisse. COR. Rectè. Sos. Eos tibi</p>
+  <p>A mercatu redeunti omnem eripuisse pecuniam.</p>
+  <p>CHR. Verisimile id erit. namque illud saepius</p>
+  <p>≤line=775≥ Euenisse memini. Sos. Insuper te vapulasse vsque ad
+  necem.</p>
+  <p>CHR. Lepidum, ita me Deus amet, commentum. Sos. Tu id ita factum
+  esse assere:</p>
+  <p>≤folio=N3≥</p>
+  <p>≤page=198≥</p>
+  <p>Et membra verberibus assimula tibi contusa esse omnia.</p>
+  <p>Cor. Hem, laudo, nunquam vidi melius consilium dari.</p>
+  <p>Sos. Idem nos factum esse affirmabimus: idque non procul</p>
+  <p>≤line=780≥ Ab aedibus nostris. Cor. Agite, vos me domum</p>
+  <p>Deducite. pedibus enim iam insistere nequeo, planè</p>
+  <p>Delumbatus, à praedonibus. Chr. Oh, rectè. isthuc tene.</p>
+</div>
+<div type="level1" xml:id="actvs-v.-scena-iii.">
+  <head>23. ACTVS V. SCENA III.</head>
+  <p>CANTHARA.</p>
+  <p>Eiusdem generis.</p>
+  <p>Hactenus ego meum Coroehum in diuersorio,</p>
+  <p>Aut in ganeo aliquo potare suspicata sum:</p>
+  <p>≤line=785≥ (Mulieri enim haud ferè fidelem reperias virum)</p>
+  <p>Sed cum ne nunc quidem domum reuersus sit,</p>
+  <p>Ne quid ei aduersi acciderit in via, nimis</p>
+  <p>Timeo infelix. Plurimae occurrunt mihi</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Suspiciones, quae hunc meo animo exaugent metum.</p>
+  <p>≤line=790≥ Stultè profectò à me factum est, quae heri illum tam</p>
+  <p>Serò ad mercatum miserim, ut redire vix</p>
+  <p>Potuerit vesper: tum quae ipsa hodie non iuerim</p>
+  <p>Potius. Nunc quoniam ille hac totâ nocte abfuit</p>
+  <p>Domo, quae cogito? quibus sollicitor curis? quod nisi</p>
+  <p>≤line=795≥ <note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Aliquid ei euenisset infortunij.</p>
+  <p>Iamdudum hîc scio adesset. Neque, ego nunc de tergore,</p>
+  <p>Aut de gallo, aut de ouis tam sum solicita, quàm</p>
+  <p>Eius saluti, uitaeque metuo misera.</p>
+  <p>Et nescio profectò, quid mihi animus praesagit mali.</p>
+  <p>≤page=199≥</p>
+  <p>≤line=800≥ Quapropter non malè me facturam existimem,</p>
+  <p>Si eadem, quâ illum iuisse, &amp; redijsse arbitror,</p>
+  <p>Statim iam ad oppidum pergam viâ. At primùm</p>
+  <p>Hinc ingrediar, ancillae vt isthuc indicem:</p>
+  <p>Dein continuò rursus prodibo foras.</p>
+</div>
+<div type="level1" xml:id="actvs-v.-scena-iv.">
+  <head>24. ACTVS V. SCENA IV.</head>
+  <p>SOSTRATA, COROEBVS, CHREMES, CANTHARA.</p>
+  <p>Eiusdem generis.</p>
+  <p>≤line=805≥ NVnc non ita procul ab aedibus tuis Coroebe</p>
+  <p>Absumus, incumbe humeris nostris quantum potes,</p>
+  <p>Et te pedibus consistere non posse aßimula:</p>
+  <p>Idque adeò cautè, ne si vxor fucum intelligat,</p>
+  <p>Tu quasi sorex tuo indicio hodie pereas:</p>
+  <p>≤line=810≥ Magnumque pudorem incutias nobis. Cor. Sostrata,</p>
+  <p>Memini probe. mea res agitur: quae si malè cesserit,</p>
+  <p>Actum est, perij. Chr. Hem, serua, vxorem egressam video foras.</p>
+  <p>Can. Ad oppidum nunc rectâ propero. at at, quid hoc?</p>
+  <p>Accedunt huc, nescio qui ebrium, vti videtur, aut</p>
+  <p>≤line=815≥ Infirmum, aut mente captum quempiam trahunt.</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Mirum ni Coroebus sit meus, adeò ad</p>
+  <p>Accessum eorum mens inhorrescit mihi.</p>
+  <p>Sos. Hem stipes, vah obmutuisti? ipse te prodes.</p>
+  <p>Suspira, vociferare, atque viam comple questubus.</p>
+  <p>≤line=820≥ Cor. Me miserum! differor doloribus, genua labant,</p>
+  <p>Et membra mihi luxata, confractaque sunt omnia.</p>
+  <p>≤folio=N4≥</p>
+  <p>≤page=200≥</p>
+  <p>Ecquis me viuit infelicior! Sos. Rectè.</p>
+  <p>Sic perge. Can. Is est ipsus, me nulla pol miserior est.</p>
+  <p>Cor. Haeccine fieri flagitia? nihilque à grassatoribus</p>
+  <p>≤line=825≥ Vsquam esse tutum? atque adeò in publica via: ô</p>
+  <p>Supinam legum, atque magistratuum oscitantiam!</p>
+  <p>Per quam nunc tanta perpetrantur facinora. Chr. Probè,</p>
+  <p>Ni rem nossem, crederem verè hunc queri.</p>
+  <p>Can. Hem, quae te agitant intemperiae? aut quid eiulas,</p>
+  <p>≤line=830≥ Quererisue furcifer? aut quid est causae, cur aeger
+  huc</p>
+  <p>Nunc reducaris, qui sanus heri nostra exibas domo?</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch.</p>
+  </note>Cor. Vt summus Iupiter te perdat Canthara,</p>
+  <p>Quae me ad mercatum hesterno die extrusisti à prandio,</p>
+  <p>Vt luce redire nequiuerim domum. Can. Quid, an</p>
+  <p>≤line=835≥ Mihi hic quicquam imputandum esse putas impudens?</p>
+  <p>Chr. Ah, desine male loqui: satis ipsum Canthara</p>
+  <p>Cruciat suum infortunium,</p>
+  <p>Etiamsi tu id maledictis non conduplices.</p>
+  <p>Can. Quid illi accidit? aut cur pedibus nequit ingredi?</p>
+  <p>≤line=840≥ Nae ego illi hunc lethargum excutiam, si fustem
+  sumpsero.</p>
+  <p>Sos. Vide quid dicas Canthara, satis est miser</p>
+  <p>Tuus Coroebus: itaque parce malè loqui, ac</p>
+  <p>Minarier. Can. Quid illi deest? Sos. Eho, rogas?</p>
+  <p>Vix membra trahit infelix. Co. Eheu, me miserrimum.</p>
+  <p>≤line=845≥ Can. Vnde hoc illi accidit? cedo. Sos. Cùm heri sub
+  vesperum</p>
+  <p>≤page=201≥</p>
+  <p>Domum rediret, adorti sunt eum in viâ</p>
+  <p>Praedones aliquot, qui non modò pecuniam</p>
+  <p>Illi eripuerunt omnem, verùm vsque ad necem</p>
+  <p>Etiam verberibus multis mulctarunt infelicißimum.</p>
+  <p>≤line=850≥ Cor. Sic herclè est factum, huiusmodi negotia</p>
+  <p>Mihi comminisceris semper, quibus me excarnifices, habes</p>
+  <p>Quod petijsti, nempe vt aliquo occiderem modo.</p>
+  <p>Ca. Quid isthuc? an ego tibi culpanda videor improbe?</p>
+  <p>Chr. Neque, tu, neque ille Canthara.</p>
+  <p>≤line=855≥ Verùm, quia quod factum est, infectum reddi non
+  potest,</p>
+  <p>Mitte iurgia: &amp; quod ad hanc rem opus est, consule.</p>
+  <p>Multa multis eueniunt incommoda,</p>
+  <p><note>
+    <p><hi rendition="simple:italic">In margine</hi> Troch. 2.</p>
+  </note>Bonis etiam, atque industrijs, quapropter, vt</p>
+  <p>Alia tua facta sunt, hoc quicquid est mali</p>
+  <p>≤line=860≥ Aequo animo patere. At nimium hîc cessamus diu.</p>
+  <p>Tu, si sapis intrò deductum illum cura sedulò,</p>
+  <p>Dum spes est vitae. Can. Perij, quid posthac solatio aut</p>
+  <p>Voluptati poterit esse? siquidem hoc quod restat aetatis</p>
+  <p>Cum claudo, atque elumbi exigendum erit mihi. Chr. Magna</p>
+  <p>≤line=865≥ Adhuc spes est. in tepido illum lecto repone. Ca.
+  Praecedo,</p>
+  <p>Vt apparem vos me sequimini. Sos. Abijt illa, bene pol</p>
+  <p>Tibi se habent principia. Cor. Superis magnas ago gratias,</p>
+  <p>Et vobis, quorum ope, atque consilio magnum euasi malum.</p>
+  <p>Nae ego lepidâ imposturâ hodie os vxori subleui meae.</p>
+  <p>≤line=870≥ Valete spectatores, atque mecum plaudite.</p>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

@@ -96,700 +96,697 @@
 </div>
 <div type="level1" xml:id="main">
   <head>Main</head>
-  <div type="level2" xml:id="dramatis-personae.">
-    <head>DRAMATIS PERSONAE.</head>
-    <p>Prologus cum Moro Paedium, puer</p>
-    <p>Aluta, uxor Dromellus, servus</p>
-    <p>Heino, maritus Mystotus, sacrificus</p>
-    <p>Spermologus, parasitus Grex seu Epilogus</p>
-    <p>Harpax, scurra Chorus Mimallonum</p>
-    <p>Tolmesia, caupona Bacchus, persona muta</p>
-    <p>Ancilla cauponae Tribules, personae mutae.</p>
-  </div>
-  <div type="level2" xml:id="prologus-in-alutam-cum-moro.">
-    <head>PROLOGUS IN ALUTAM cum MORO.</head>
-    <p>Carmen ubique iambicum trimetrum acatalectum est</p>
-    <p>praeterquam in choro, ubi dimetrum est.</p>
-    <p>Mulierculam, prodire quam videbitis,</p>
-    <p>Mittit maritus in forum venumdare</p>
-    <p>Altilia, pullos, anseres, anates quoque</p>
-    <p>Et id genus volucrum ex cohorte pluria.</p>
-    <p>≤line=5≥ Duobus implanata quae nebulonibus</p>
-    <p>Suavibusque inebriata poculis</p>
-    <p>Mox, quemadmodum bacchabitur, spoliabitur</p>
-    <p>Curabiturque (si libet) spectabitis.</p>
-    <p>Nec plura de argumento ob artem comicam</p>
-    <p>≤line=10≥ Me proloqui scriptor iubebat fabulae,</p>
-    <p>Nisi quod sit huic <hi rendition="simple:italic">Aluta</hi> nomen
-    fabulae.</p>
-    <p>Paucis tamen vos ego monendos censui.</p>
-    <p>Audite et animadvertite ergo, quae impero</p>
-    <p>Servanda; si secus fuant qui fecerint,</p>
-    <p>≤line=15≥ Faxo sciant, quam edictiones histricas</p>
-    <p>Temerarii contempserint. MOR. Eho! PRO. Sile!</p>
-    <p>Primum omnium ne indoctiores hic strepant</p>
-    <p>Aut sibilis aut mussitationibus,</p>
-    <p>Doctos quod admonere neutiquam est opus,</p>
-    <p>≤line=20≥ Suapte qui probitate ubique sibi imperant.</p>
-    <p>Ipsos tamen nec praetereundos arbitror:</p>
-    <p>Si quicquam inepte exhibitum et inconcinniter</p>
-    <p>Prolatum erit, non in poetam ganniant</p>
-    <p>(Quid dico? In auctorem volebam dicere,</p>
-    <p>≤line=25≥ Nam auctor poetae nomen haud sibi arrogat),</p>
-    <p>Sed histrionibus tumultuantibus</p>
-    <p>Indulgeant, gratuita et aequi consulant.</p>
-    <p>Dico omnibus, sed maxime petulantibus,</p>
-    <p>Ineptulis et parvulis, ne lusibus</p>
-    <p>≤line=30≥ Puerilibus cachinnulisque tinnulis</p>
-    <p>Nos distrahant, ne vapulent. MOR. Ehe! PRO. Tace!</p>
-    <p>MOR. Iam ne semel quidem loquar: iamne sileo?</p>
-    <p>PRO. Sed et volo, ne quis (quod ante oportuit</p>
-    <p>Factum) aut ab alvo crepitet aut foedum halitum</p>
-    <p>≤line=35≥ Spiret, ne odore gravi theatrum puteat.</p>
-    <p>Paene excidit (quod dictum oportuit prius):</p>
-    <p>Quamvis ut in triclinio discumbitis</p>
-    <p>Variaque nitent fercla bacchanalium,</p>
-    <p>Non tamen in os vobis volabunt phasides,</p>
-    <p>≤line=40≥ Non anseres, non turtures, non turduli</p>
-    <p>Nec delicatae artocreae aut placentulae,</p>
-    <p>Quod histriones nil duant nisi fabulas.</p>
-    <p>Proinde quod quisque apparavit, edat domi,</p>
-    <p>Nisi sit satur scaena soluta fabulis.</p>
-    <p>≤line=45≥ Heus tu, puer, qui commodissimum locum</p>
-    <p>Theatri occupas, tibi dico et omnibus, ne iners</p>
-    <p>Socorsve torpeas, sed ore, naribus,</p>
-    <p>Oculis et auribus, manibus et calcibus</p>
-    <p>Attendito, auscultato et animadvertito,</p>
-    <p>≤line=50≥ Ne quando stertentem choragus te audiat</p>
-    <p>Discasque verbere, verbulo quod neglegis.</p>
-    <p>Advertite itaque singuli, sedete cum</p>
-    <p>Silentio! Caveata Aluta (ut dixeram)</p>
-    <p>Suis onusta altilibus actutum exiet.</p>
-    <p>≤line=55≥ Videte, ne clamore vestro aut ipsa aves</p>
-    <p>Territa reportet aut aves timidae avolent</p>
-    <p>Vanusque fiat hic apparatus scaenicus</p>
-    <p>Et tota vestra intentio frustrata sit.</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-i.">
-    <head>ACTUS I. SCAENA I.</head>
-    <p>ALUTA sola.</p>
-    <p>Mecastor improbum est genus hoc hominum; diem</p>
-    <p>≤line=60≥ Totum hic sedebo, et nemo erit qui porrigat</p>
-    <p>Vel crustulum panis vel haustum aquae. Ego quidem</p>
-    <p>Sto, restito, sedeo, resideo, nemo omnium</p>
-    <p>Invitat aut salutat, at quasi stupidum</p>
-    <p>Me truncum habent et, si alloquor, muti silent.</p>
-    <p>≤line=65≥ Multo secus Beata, Greta, Bertula</p>
-    <p>Et Metta convicaneae me tractitant.</p>
-    <p>Verum improbum id genus, quod urbes incolit.</p>
-    <p>Nam rapere dumtaxat studet, nihil dare.</p>
-    <p>Quod si anseres pullosque gallinaceos,</p>
-    <p>≤line=70≥ (Quis maxime inhiant voluptuarii)</p>
-    <p>Mihi fraude suppilare possent, ilico</p>
-    <p>Festum hunc diem sibi ducerent meque miseram</p>
-    <p>Ludibrio habitam pellerent. Verum mihi</p>
-    <p>Meisque cavero. Caveam obturabo, ne</p>
-    <p>≤line=75≥ Cuiuspiam introrepat huc manus rapax.</p>
-    <p>Videone, ut unus et alter huc spectet? Scio,</p>
-    <p>Iam quisque tractat, si queat pro re mihi</p>
-    <p>Dare verba. Verum Aluta (ut inquam) caverit,</p>
-    <p>Heinonis uxor, ne dolo implanarier</p>
-    <p>≤line=80≥ Cuiuspiamve astu queat spoliarier.</p>
-    <p>Accedite, approperate et emite quilibet</p>
-    <p>(Praesente sed pecunia) altilia mea!</p>
-    <p>Sola est opus pecunia; bibendum erit,</p>
-    <p>Edendum erit post paululum. Sol cardini</p>
-    <p>≤line=85≥ Iam proximust et venter ut famelicus</p>
-    <p>Canis esurit. Ehodum huc, voluptuarii,</p>
-    <p>Adeste; nam parvo admodum venumdabo.</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-ii.">
-    <head>ACTUS I. SCAENA II.</head>
-    <p>SPERMOLOGUS, HARPAX.</p>
-    <p>Ita sancta amet me Saturitas, hac muliere</p>
-    <p>Amentiorem (quod sciam) usquam gentium</p>
-    <p>≤line=90≥ Non vidi in hunc diem usque. Si necessitas</p>
-    <p>Me adigeret, omnia eius altilia queam</p>
-    <p>Dicto facilius tollere. Harpax obviust,</p>
-    <p>Cuius quidem ventrem tam inanem ac flaccidum</p>
-    <p>Modo suspicor quam pera pastoralis est</p>
-    <p>≤line=95≥ Sub vesperem. Harpax, ut tuae fortunulae</p>
-    <p>Se habent? Quid ovis cassa retis est? Nihil</p>
-    <p>Piscatum in hunc diem? HAR. Nihil. Pereo fame</p>
-    <p>Miserrimus nigerrima. Nunc tertius</p>
-    <p>Agitur dies, quo praeter holera putrida</p>
-    <p>≤line=100≥ E compitis collecta nil gustaverim.</p>
-    <p>Quid multa? Venter hic meus tam flaccidus</p>
-    <p>Quam inanis haec retis cruci me destinat.</p>
-    <p>SPE. In portu adest salus tibi; confidito!</p>
-    <p>HAR. Non fido, quando ab occidente et miseria</p>
-    <p>≤line=105≥ Venti mihi flent iugiter. Vale! SPE. Heus! HAR. Quid
-    est?</p>
-    <p>SPE. Si potis es, Harpax, callidus depromere</p>
-    <p>Id, quod bibamus, faxo ego, ut venter tuus</p>
-    <p>Tam flaccidus sesquipede iam exstet turgidus.</p>
-    <p>HAR. Vah, periit ars parasitica. Unde possies</p>
-    <p>≤line=110≥ Sic ampliter consulere nostris ventribus</p>
-    <p>Tam inanibus? SPE. Scies, cum aqualiculum hunc tuum</p>
-    <p>Ut tympanum extensum cibo palpaveris.</p>
-    <p>HAR. An vera, Spermologe, refers? SPE. Verissima.</p>
-    <p>HAR. Id sancta faxit Saturitas! Sed quo ordine?</p>
-    <p>≤line=115≥ SPE. Videsne stolidam feminam illam et quid ferat?</p>
-    <p>HAR. Quidni? Cohortales aves, quam plurimi</p>
-    <p>Ut veneant, obtrudit ultro singulis.</p>
-    <p>SPE. Illam ego ut avem delusero, mercem auferam.</p>
-    <p>HAR. Quo pacto id, obsecro? SPE. Et suum et nomen viri</p>
-    <p>≤line=120≥ Modo prodidit. HAR. Tibi cognitam finges? SPE.
-    Sapis,</p>
-    <p>Et proximam. Sed adorior mulierculam,</p>
-    <p>Ne me antevertat quispiam ex nugigerulis</p>
-    <p>Circumforaneis, perinde qui atque nos</p>
-    <p>Huiusmodi aucupio student. HAR. Nil certius.</p>
-    <p>≤line=125≥ I prae, licere blanditer! SPE. Quin actum agis?</p>
-    <p>Sed audin’? HAR. Hem. SPE. Adsis tempori! HAR. Memorem mones.</p>
-    <p>Ubi erit opportunum, adsequar. Vade ocius,</p>
-    <p>Ne transferat merces, quia loco se movet.</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-iii.">
-    <head>ACTUS I. SCAENA III.</head>
-    <p>ALUTA, SPERMOLOGUS, HARPAX.</p>
-    <p>Quid monstri hoc est? Phoebi umbra fit brevissima,</p>
-    <p>≤line=130≥ Gallus meus medium diei nuntiat,</p>
-    <p>Nec quisquam adhuc licitatus est aut praebuit</p>
-    <p>Argentum. In eminentiorem illum locum</p>
-    <p>Concessero: ibi resedero et quosque obvios</p>
-    <p>Excepero. Eccum commodum, huc quidam advolat</p>
-    <p>≤line=135≥ Contorto in umerum laevum amictus pallio.</p>
-    <p>Quid cesso compellare? Adesdum, adesdum, ohe!</p>
-    <p>Et sequitur alter, ocius venumdabo.</p>
-    <p>Heu quisquis es, bone vir, licere, eme optima</p>
-    <p>Ac pinguia altilia mea, anates, anseres</p>
-    <p>≤line=140≥ Pullosque pinguiusculos, gallum quoque</p>
-    <p>Pulcherrimum, parvo admodum! Ecquid restitas?</p>
-    <p>SPE. Quid restitem? Id etiam rogas? Num tu uxor es</p>
-    <p>Heinonis incluta, nobilis formosaque?</p>
-    <p>ALU. Ea ipsa sum; sed unde me nosti, o bone?</p>
-    <p>≤line=145≥ SPE. Mea Aluta, mea cognata, non te noverim?</p>
-    <p>Quicum a tenellis unguibus iocarier</p>
-    <p>Consueverim? An tibi excidit Petronii</p>
-    <p>Tam dulce cognati tui nomen? ALU. Tun’ es?</p>
-    <p>Tun’ ipsus ades, o mi Petroni, o mi nepos?</p>
-    <p>≤line=150≥ Quo lapsa tempora? Non quidem agnovissem in hoc</p>
-    <p>Te atro cucullo, nisi te ipsum proderes.</p>
-    <p>HAR. Hic hercle homo versutus est, facillime</p>
-    <p>Album esse nigrum huic (reor) persuaserit.</p>
-    <p>Porro indicat nutu ex foro secedere.</p>
-    <p>≤line=155≥ ALU. Stupeo admodum, cognate mi. Sed quaeso dic,</p>
-    <p>Num causa emendi me adieris? SPE. Pol neutiquam,</p>
-    <p>Verum ut salutem te advolo. Nihilominus,</p>
-    <p>Si de emptione res agitur, est qui petat.</p>
-    <p>ALU. Quisnam ipsus est? SPE. Consors meust, obambulat</p>
-    <p>≤line=160≥ Hic uspiam. Ubi modo vagatur ipse homo?</p>
-    <p>ALU. Post angulum illum forsitan se transtulit.</p>
-    <p>SPE. Ita suspicor. Vin’ quaeritem? ALU. Quidni? Obsecro,</p>
-    <p>Actutum abi, si fors queat reducier!</p>
-    <p>SPE. Lubens facesso, in rem tuam statim hic ero.</p>
-    <p>≤line=165≥ Cave alteris nobis emenda distrahas!</p>
-    <p>ALU. Nequaquam agam, vobis enim servavero.</p>
-    <p>Bene ambula ac redambula! Ille abivit et</p>
-    <p>Me principem facturus est, si redierit.</p>
-    <p>SPE. Tam nostra praeda, nostra quam lux solis est.</p>
-    <p>≤line=170≥ Sed ante convenire oportet Harpaga.</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-iv.">
-    <head>ACTUS I. SCAENA IV.</head>
-    <p>ALUTA sola.</p>
-    <p>Vestram, dii, fidem, quis umquam id auguret?</p>
-    <p>Semel omnia accidunt mihi ex sententia:</p>
-    <p>Cognatus antiquus, novus amicus; fides</p>
-    <p>Reducta, quae exsulaverat, si adduxerit,</p>
-    <p>≤line=175≥ Quem abisse porro condolet. In eo ipso enim</p>
-    <p>Mihi totius pendet salutis ancora.</p>
-    <p>Periero fame, ni redeat emptor ilico.</p>
-    <p>Sed eccum utrumque conspicor; sunt in vado</p>
-    <p>Modo spes meae. At mora omnis est prolixior.</p>
-    <p>≤line=180≥ Nescio quid inter se loqui prudentiae</p>
-    <p>Occeperint, nisi sit de emendis mercibus.</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-v.">
-    <head>ACTUS I. SCAENA V.</head>
-    <p>SPERMOLOGUS, HARPAX.</p>
-    <p>Te commode paulo prius subduxti. HAR. Eho.</p>
-    <p>Omisso adesne obsonio? SPE. Tace modo ac</p>
-    <p>Te principem spera futurum, si velis!</p>
-    <p>≤line=185≥ HAR. Hem, quin velim? Quid vult agi? SPE. Te
-    principem</p>
-    <p>Spermologus hic facturus est, si assenseris.</p>
-    <p>HAR. Assentior. Quid postea? SPE. Te nobilem hoc</p>
-    <p>Die ... HAR. Licet. SPE. Regem ... HAR. Licet. SPE. Croesum
-    dabo.</p>
-    <p>HAR. Apage, vel oletum facito me, modo commodes!</p>
-    <p>≤line=190≥ SPE. Ego faxo in ipsas Croesi opes mox irruas.</p>
-    <p>HAR. At Croeso omisso nunc vel Harpaga satura!</p>
-    <p>Quid facto opust? SPE. Parum admodum. Tute emeris</p>
-    <p>Altilia! HAR. Tute te magis suspenderis!</p>
-    <p>Cui nec obolus est quidem quo restim emam,</p>
-    <p>≤line=195≥ Ego emero? In crucem tu abi malam, ego emero?</p>
-    <p>SPE. Hem, hem, sile! Tu emes, ego fidem iussero.</p>
-    <p>Intelligenti pauca. Cave, ne exaudiat!</p>
-    <p>Tua dicta fac verbis meis respondeant!</p>
-  </div>
-  <div type="level2" xml:id="actus-i.-scaena-vi.">
-    <head>ACTUS I. SCAENA VI.</head>
-    <p>SPERMOLOGUS, ALUTA, HARPAX.</p>
-    <p>Ut hic fidelem experta in aliis utere,</p>
-    <p>≤line=200≥ Mea Aluta! ALU. Mi cognate, hic est, quem dixeras?</p>
-    <p>SPE. Pol ipsus. En hominem, omnia istaec qui auferet.</p>
-    <p>ALU. Data pecunia? SPE. Quid istuc? Maxime.</p>
-    <p>ALU. Non queo, Petroni, dignum ut est, rependere.</p>
-    <p>HAR. Quanti haec familia? ALU. Quindecim sestertiis,</p>
-    <p>≤line=205≥ Minutulum est. HAR. Hui, nimium id est; decem
-    dabo.</p>
-    <p>ALU. Haudquaquam erit, nam pinguiuscula est. HAR. Sat est.</p>
-    <p>Nam parvuli pulli admodum ac tenerrimi.</p>
-    <p>ALU. Hoc delicatiora erunt obsonia. SPE. Hem.</p>
-    <p>Ago proxenetam; assem adhibe! HAR. Eho, addo. ALU. Non satis.</p>
-    <p>≤line=210≥ SPE. Sat, Aluta. ALU. Non. SPE. Addes teruncium et
-    auferes.</p>
-    <p>HAR. Nimium est, Petroni. ALU. Etsi minust, habeat sibi.</p>
-    <p>Tuam auferet, cognate mi, per gratiam.</p>
-    <p>Hem, nummulos primum! HAR. Dabuntur primulum.</p>
-    <p>Papae! SPE. Heus, ut est? HAR. Male, quia zonam perdidi.</p>
-    <p>≤line=215≥ SPE. Nugae: domi liquisti. HAR. Id hercle
-    suspicor.</p>
-    <p>SPE. Certo scio. HAR. Sic? Salva res, tu solvito,</p>
-    <p>Reddam domi. SPE. Fidem iubebo. Tollito!</p>
-    <p>ALU. Malim adferat; tantisper hic morabimur,</p>
-    <p>Dum redeat. HAR. Ah, non plus meruit huius fides?</p>
-    <p>≤line=220≥ SPE. Gallum relinque pignori! HAR. Do pignori. Hem</p>
-    <p>Habeat, moretur paululum. SPE. Ocius redi!</p>
-    <p>HAR. Ocissime; sed heus tu, ubi te offendero?</p>
-    <p>ALU. Ad aureum leonis intersignium.</p>
-    <p>Illic edendum, illic bibendum erit prius</p>
-    <p>≤line=225≥ Quam abeam. HAR. Hem. SPE. Sapis profecto; curassis
-    cutem!</p>
-    <p>ALU. Verum age, nepos, illum reducito citius!</p>
-    <p>SPE. Quin tu taces? Uterque iam te intro sequimur</p>
-    <p>Bellos homunculos ibi acturi. Vale!</p>
-    <p>ALU. Vale, Petroni! Hic admodum propensus est</p>
-    <p>≤line=230≥ Mihi. Ni amicus esset, haud se impenderet.</p>
-    <p>At pignori accepisse gallum certius</p>
-    <p>Multoque certius. Nam in urbibus dolus</p>
-    <p>Quam plurimus. Gradior in oenopolium,</p>
-    <p>Ubi ventrem in hoc vico prius purgaverim.</p>
-    <p>≤line=235≥ SPE. Edat, bibat et inebrietur stolida! Ego hinc</p>
-    <p>In ganeum procedam, ut alloquar Harpaga.</p>
-    <p>Fors queat adhuc toga inebriatae tollier.</p>
-    <p><hi rendition="simple:bold">CHORUS ex Bacchidibus seu
-    Mimallonibus.</hi></p>
-    <p>Iacche Bacche ohe, ohe,</p>
-    <p>O Bacche Iacche ohe, ohe.</p>
-    <p>≤line=240≥ Ornate Bacchanalibus</p>
-    <p>Bacchum corona, Bacchides.</p>
-    <p>Iacche Bacche ohe, ohe,</p>
-    <p>O Bacche Iacche ohe, ohe.</p>
-    <p>Risu, iocis et potibus</p>
-    <p>≤line=245≥ Baccho parantur orgia.</p>
-    <p>Iacche Bacche ohe, ohe,</p>
-    <p>O Bacche Iacche ohe, ohe.</p>
-    <p>Bacchi furore corripi</p>
-    <p>Coetus oportet Maenadum.</p>
-    <p>≤line=250≥ Iacche Bacche ohe, ohe,</p>
-    <p>O Bacche Iacche ohe, ohe.</p>
-    <p>Io Bromi, Liber pater,</p>
-    <p>Io Priape, Iacche io.</p>
-    <p>Iacche Bacche ohe, ohe,</p>
-    <p>≤line=255≥ O Bacche Iacche ohe, ohe.</p>
-    <p>Alius CHORUS extra Bacchanalia</p>
-    <p>ex matronis Bunscoticis.</p>
-    <p>Faex generis humani est genus</p>
-    <p>Parasiticum, lurconicum,</p>
-    <p>Scurrarum et id genus omnium,</p>
-    <p>Qui in otio ventri student.</p>
-    <p>≤line=260≥ Hi callidos facetiis,</p>
-    <p>Hi simplices astutia,</p>
-    <p>Hi singulos fraude ac dolo</p>
-    <p>Pro ventre passim irretiunt.</p>
-    <p>Hos nisi magistratus velut</p>
-    <p>≤line=265≥ Fures latronesque aut lupos</p>
-    <p>Ac tigridas e republica</p>
-    <p>Raserit, eam corruperit.</p>
-  </div>
-  <div type="level2" xml:id="actus-ii.-scaena-i.">
-    <head>ACTUS II. SCAENA I.</head>
-    <p>ALUTA, TOLMESIA, ANCILLA.</p>
-    <p>Prudentis est nostratium proverbio</p>
-    <p>Ventrem prius purgare quam aliud ingerat.</p>
-    <p>≤line=270≥ Iam re absoluta pulsitandum est ostium.</p>
-    <p>Quis has fores recludet? Ecquis aperiet?</p>
-    <p>Pulsabo validius. Quis, inquam, aperiet has</p>
-    <p>Ambas fores? Exaudit hic nemo omnium?</p>
-    <p>TOL. Heus ohe, ut importuna! Quis vult ingredi?</p>
-    <p>≤line=275≥ ALU. Cum gallo ego ipsa Aluta gallinaceo.</p>
-    <p>Recludedum! Quod edatur ac bibatur huc</p>
-    <p>Mox adferatur splendide. TOL. Est pecunia?</p>
-    <p>ALU. Mox aderit, heus. TOL. Hem. ALU. Quaeque dulcia sint. TOL.
-    Licet.</p>
-    <p>Modo splendeat pecunia. ALU. Ah, pecunia?</p>
-    <p>≤line=280≥ Limus pecunia. Vina dulcia, blandula</p>
-    <p>Massicaque prome! Audin’? TOL. Vel insanit vel est</p>
-    <p>Ebria mulier. ANC. Utut est, videbitur ilico.</p>
-    <p>ALU. Iam numerat argentum mihi, mox tinniet.</p>
-    <p>Ut imperatrici inclutae mox offeret.</p>
-    <p>≤line=285≥ Age Aluta, laetum ducito hunc diem! Ades ehodum,</p>
-    <p>Ehodum puella, quin ministras fercula?</p>
-    <p>Quin Bromius assilit? ANC. Hem, en prior tibi congius.</p>
-    <p>Infunde, bibe, dein solvito! ALU. Curabitur.</p>
-    <p>ANC. Nisi tute cures, gallus hic servabitur.</p>
-  </div>
-  <div type="level2" xml:id="actus-ii.-scaena-ii.">
-    <head>ACTUS II. SCAENA II.</head>
-    <p>SPERMOLOGUS, HARPAX.</p>
-    <p>≤line=290≥ Delusimus probe mulierem per Iovem.</p>
-    <p>Ignoro tamen, ubi nebulo sese abstruserit,</p>
-    <p>Cui se popinae fornicive immerserit.</p>
-    <p>Nam ganeum lustravi et unum et alterum,</p>
-    <p>Nec paret usquam gentium. Hoc equidem scio,</p>
-    <p>≤line=295≥ Ubi ubi sit, larido esse pestem maximam.</p>
-    <p>Sed adest homo, quem quaerito, paulo alacrior.</p>
-    <p>Portas pecuniam? HAR. Hahahe, nil residuum est?</p>
-    <p>SPE. Toga admodum bona, pulla, duplex, civica.</p>
-    <p>HAR. Nostra est, modo ebria sit. Latebo clanculum,</p>
-    <p>≤line=300≥ Alio alloquar in itinere schemate. SPE. Hem, vide,</p>
-    <p>Quid possies! Crepat ostium; cedamus hinc.</p>
-  </div>
-  <div type="level2" xml:id="actus-ii.-scaena-iii.">
-    <head>ACTUS II. SCAENA III.</head>
-    <p>ALUTA, TOLMESIA, ANCILLA.</p>
-    <p>Quidum moratur perfidus, qui sese ait</p>
-    <p>Quantocius rediturum et argentum mihi</p>
-    <p>Daturum? TOL. Ain’ vero pecuniam tibi</p>
-    <p>≤line=305≥ Morarier? ALU. Sic dico. TOL. Quibus ex mercibus?</p>
-    <p>ALU. Altilia quispiam emit; illi credidi</p>
-    <p>(Quia perdidit zonam) pecuniam. TOL. Obsecro,</p>
-    <p>Quantam? ALU. Undecim sestertios. TOL. Novisti eum?</p>
-    <p>ALU. Non edepol, sed eum Petronius mihi</p>
-    <p>≤line=310≥ Cognatus ut consortem et intus et in cute</p>
-    <p>Novit. TOL. Quis hic cognatus est tuus? Quis hic</p>
-    <p>Petronius? ALU. Qui se nepotem dixerat,</p>
-    <p>Qui adduxerat hominem, fidem qui iusserat.</p>
-    <p>TOL. Impostor ille fuit, nec est in urbe (quod</p>
-    <p>≤line=315≥ Sciam) vir istoc nomine. ALU. Heu me miseram, ut</p>
-    <p>Mihi callidi imposuere, subdoli et vafri!</p>
-    <p>Verum hic relictust pignori gallus. Putas,</p>
-    <p>Reliquerint mihi tam animosum ἀλέκτoρα?</p>
-    <p>Non id putes; mox aderit hic pecunia,</p>
-    <p>≤line=320≥ Mox aderit et Petronius. TOL. Mox, mox! Nisi</p>
-    <p>Mox solveris (quia usque mox) gallus meust.</p>
-    <p>Nam aliquid valo potius rapere quam nil dari.</p>
-    <p>ALU. Sic impie tollesne delicias meas?</p>
-    <p>Quantum est, quod edi, quod bibi? Teruncio</p>
-    <p>≤line=325≥ Solvi potest. Heinonis uxor sum, dabit</p>
-    <p>Lubens, forum si quando raeda accesserit.</p>
-    <p>Tam ignota Aluta? Ignotus Heino? TOL. Nescio,</p>
-    <p>Quis Heino sit, quae Aluta sit. Tres congios</p>
-    <p>Tu ternio potasti optimi vini; pro eis</p>
-    <p>≤line=330≥ Aut aes repones, aut ἀλέκτoρα vindico.</p>
-    <p>ALU. O pervigil custos domus, sicine migras</p>
-    <p>Cortem in alienam? Ibo et querar viro meo.</p>
-    <p>ANC. Non longe abibis, quin Bromius te sopiet.</p>
-    <p>Hem, exi, pavimentum domus ne convomas</p>
-    <p>≤line=335≥ Foedesve multo turpius; cloacam adi!</p>
-    <p>ALU. Exonerem ut alvum, denuo hinc secessero.</p>
-    <p><hi rendition="simple:bold">CHORUS Maenadum.</hi></p>
-    <p>Iacche Bacche ... Ornate Bacchanalibus ...
-    <hi rendition="simple:italic">ut supra</hi>.</p>
-    <p>Alius CHORUS matronarum.</p>
-    <p>Honesta cauponaria</p>
-    <p>Censetur inter divites;</p>
-    <p>At mihi videtur improba</p>
-    <p>≤line=340≥ Quaestusque sordidissimus.</p>
-    <p>Quid foedius quam promere,</p>
-    <p>Quo inebrient se reprobi</p>
-    <p>Reddantque mentis impotes,</p>
-    <p>Immo ex hominibus bestias?</p>
-    <p>≤line=345≥ Hoc caupo avarus expetit,</p>
-    <p>Ut maxime vino oppleant</p>
-    <p>Se tum viri tum feminae</p>
-    <p>Et vomitum adusque ingurgitent.</p>
-  </div>
-  <div type="level2" xml:id="actus-iii.-scaena-i.">
-    <head>ACTUS III. SCAENA I.</head>
-    <p>HARPAX, SPERMOLOGUS.</p>
-    <p>E viculo vides labantem Bacchidem,</p>
-    <p>≤line=350≥ Viam per omnem eructuantem crebriter</p>
-    <p>Ingurgitatam crapulam? SPE. Video, tuum est.</p>
-    <p>HAR. Quidnam? SPE. Rogas? An non spopondisti modo</p>
-    <p>Sacroque foedere deierasti lancibus</p>
-    <p>Meis tua adfutura abunde pocula?</p>
-    <p>≤line=355≥ HAR. Iuravi et ultro tibi probe perfecero.</p>
-    <p>SPE. Quonam modo? HAR. Scin’, quid prius suggesseris</p>
-    <p>De duplici toga? SPE. Hem, immo. Perge dicere!</p>
-    <p>HAR. Iam caespitat, dormiturit, mox uspiam</p>
-    <p>Sub arboris sopita fronde concidet</p>
-    <p>≤line=360≥ Aut propter aggerem vel in salebram; ibi</p>
-    <p>Industriam meae artis exercuero. SPE. Abi,</p>
-    <p>Sequar brevi. HAR. Audin’? SPE. Quid? HAR. Sequere quam mox! SPE.
-    Modo.</p>
-    <p>HAR. Quam plena curarum est et anxia vita, quae</p>
-    <p>Hoc retiaclo comparat victum sibi!</p>
-    <p>≤line=365≥ Rete, dolus, impostura, furta sunt meae</p>
-    <p>Artis peritia, inde crux. Hem. Eccam ebriam</p>
-    <p>Hanc vomicam, ut obliquis viam metitur hanc</p>
-    <p>Gressibus et usque convomit. Sequar eminus.</p>
-  </div>
-  <div type="level2" xml:id="actus-iii.-scaena-ii.">
-    <head>ACTUS III. SCAENA II.</head>
-    <p>ALUTA, HARPAX, SPERMOLOGUS.</p>
-    <p>O galle, galle, ut es subductus et</p>
-    <p>≤line=370≥ Reliqua familia tota. Dii, vestram fidem!</p>
-    <p>Petronius, Petronius, dolus, dolus!</p>
-    <p>Ut cuncta volvuntur sinistro ex ordine,</p>
-    <p>Caelestia et terrestria occidunt, pedes</p>
-    <p>Nutant, caput dolet admodum, caput, caput.</p>
-    <p>≤line=375≥ O Heino, serva uxorculam tuam, obsecro, ae!</p>
-    <p>HAR. Modo est adire commodum, quia labitur.</p>
-    <p>Mercurius adsit! Ecquid est, coniunx mea?</p>
-    <p>Quid aegra ades? Quid sordida es, mea Alutula?</p>
-    <p>ALU. O Heino, serva Alutulam tuam! Labo.</p>
-    <p>≤line=380≥ HAR. Ego (ne time) te sustinebo, Alutula.</p>
-    <p>ALU. Non sum (puto) illa, quae olim eram, tua Alutula.</p>
-    <p>Hic dormienti accumbe! HAR. Ego accubuero tibi</p>
-    <p>Et mollius posuero. ALU. Operi vultus meos!</p>
-    <p>Vertuntur omnia, terra, caelum. HAR. Operier</p>
-    <p>≤line=385≥ Vittane vis? ALU. Volo, nam ea optima est. HAR.
-    Togam</p>
-    <p>Ne convomas, num detrahi cupis? ALU. Volo, ae.</p>
-    <p>HAR. Sic, sic, ita omnia simul impura evome!</p>
-    <p>SPE. Per Herculem scelestiorem neminem</p>
-    <p>Vidi hoc homine. Togam tenet, vestes quoque</p>
-    <p>≤line=390≥ Praecidit usque ad femora. Quis me hercle vel</p>
-    <p>Nequissimus tam foeda, tam insolentia</p>
-    <p>Tentaverit? Nunc absolutis technicis</p>
-    <p>Versutiis suffarcinatus omnibus</p>
-    <p>Redit alacer. HAR. Num egi probe negotium?</p>
-    <p>≤line=395≥ SPE. Ita sancta amet me Saturitas, scelestus es,</p>
-    <p>Harpax. Qui id actum? Ubi retis est? HAR. Dicam tibi,</p>
-    <p>Ubi viculum hunc tutum subierimus. SPE. Sapis.</p>
-    <p>HAR. Ganeum adeamus nunc et ollas carnium.</p>
-    <p>Haec praeda suppeditabit ampla pocula.</p>
-    <p><hi rendition="simple:bold">CHORUS Mimallonum.</hi></p>
-    <p>Iacche Bacche ... Ornate Bacchanalibus ...
-    <hi rendition="simple:italic">ut supra</hi>.</p>
-    <p>Alius CHORUS matronarum.</p>
-    <p>≤line=400≥ Foeda est quidem ebrietas viro,</p>
-    <p>At mulieri foedissima:</p>
-    <p>Natura enim haec infirmior,</p>
-    <p>Quod hauserit, foede egerit.</p>
-    <p>Ut se sues spurcissimae</p>
-    <p>≤line=405≥ Caeno lutoque immersitant,</p>
-    <p>Ita inebriatae feminae</p>
-    <p>Vomitu atque oleto se inquinant.</p>
-    <p>At mulierum temulentiam est</p>
-    <p>Ita alligata impuritas,</p>
-    <p>≤line=410≥ Ut lingua, sensus et manus</p>
-    <p>Nil tractitent nisi turpia.</p>
-  </div>
-  <div type="level2" xml:id="actus-iv.-scaena-i.">
-    <head>ACTUS IV. SCAENA I.</head>
-    <p>HEINO, PAEDIVM.</p>
-    <p>Quid hoc esse suspicer, quod uxor nondum adest?</p>
-    <p>Sol vergit in declive et instat atra nox.</p>
-    <p>I, paedium, ... PAE. Hem. HEI. Atque vise, si usquam appareat</p>
-    <p>≤line=415≥ Matercula! PAE. E foro cuneos latura? HEI. Ita.</p>
-    <p>PAE. Eo, pater; verum timeo, ne mordeat</p>
-    <p>Me lamia. HEI. Nequaquam; nam adhuc clarust dies.</p>
-    <p>PAE. Si appareat nusquam, pater, vis regrediar?</p>
-    <p>HEI. Regredere. Cave, ne longe abiveris! PAE. Licet.</p>
-    <p>≤line=420≥ HEI. Vade. Interim nos tritico purgato, uti</p>
-    <p>Poposceras, pultem tibi parabimus.</p>
-    <p>Timeo hercle vero, viserit frustra puer.</p>
-    <p>In thermopolio si eam quis duxerit,</p>
-    <p>Certe actum erit de re domestica hoc die</p>
-    <p>≤line=425≥ Et crastino, cum ad vina sic propensa sit,</p>
-    <p>Ut non quiescat, donicum se ingurgitet.</p>
-  </div>
-  <div type="level2" xml:id="actus-iv.-scaena-ii.">
-    <head>ACTUS IV. SCAENA II.</head>
-    <p>ALUTA sola.</p>
-    <p>Heus, ohe! Ubi sum? Quae sum? Quid intuor undique?</p>
-    <p>Quis daemonum me fascinavit atque in hunc</p>
-    <p>Orbem novum perduxit undique laqueatum? Ut haec</p>
-    <p>≤line=430≥ Mutata subito! Pro supreme Iuppiter,</p>
-    <p>Nil terra, nil caelum est nisi rete unicum.</p>
-    <p>Non absque causa mihi natare videbar et</p>
-    <p>Piscarier. Num ego Aluta sum Bunscotica,</p>
-    <p>Heinonis uxor Hannii, an aliena sum?</p>
-    <p>≤line=435≥ In conscientia ipsa sum, immo ipsissima,</p>
-    <p>Verum in habitu prorsus aliena sum. Nam ubi</p>
-    <p>Toga est? Ubi ricula? Ubi crumenula nigricans?</p>
-    <p>Praecisa vestis usque ad ancas, foeda vix</p>
-    <p>Subucula has nates tegit: plane occidi.</p>
-    <p>≤line=440≥ Quo conferam me? Cui loquar? Ego neminem</p>
-    <p>Agnosco, cuncta videntur ut labentia,</p>
-    <p>Nullusque noverit: perii plane modo.</p>
-    <p>Heinonem adibo sciscitans, num Aluta sit</p>
-    <p>Domi. Si ibi, profecto nulla sum. At si ibi</p>
-    <p>≤line=445≥ Non fuerit, aliqua spes mihi fors residua est.</p>
-  </div>
-  <div type="level2" xml:id="actus-iv.-scaena-iii.">
-    <head>ACTUS IV. SCAENA III.</head>
-    <p>PAEDIUM, HEINO.</p>
-    <p>Heu heu, pater! HEI. Quid est, puelle? PAE. O mi pater!</p>
-    <p>HEI. Quiesce, siste paululum! Quid, gnate, fles?</p>
-    <p>PAE. Heu, mater ... HEI. Hem? PAE. Mater mea est ... HEI. Quid
-    mater est?</p>
-    <p>PAE. Cerrita prorsus est, pater. HEI. Mater tua?</p>
-    <p>≤line=450≥ PAE. Etiam, pater. HEI. Qui scis? PAE. Obibat
-    clamitans,</p>
-    <p>Iactans manus, iactans caput, quasi lamia</p>
-    <p>Larvata faciem, insanit horrendum nimis.</p>
-    <p>Timeo admodum, pater. HEI. Sile, fili, sile!</p>
-    <p>Curabitur. Quid, quaeso, id esse dixero?</p>
-    <p>≤line=455≥ Strigesne terruere vel cacodaemones</p>
-    <p>Hunc parvulum? Ibo foras, ut eventum rei</p>
-    <p>Videam. ————</p>
-  </div>
-  <div type="level2" xml:id="actus-iv.-scaena-iv.">
-    <head>ACTUS IV. SCAENA IV.</head>
-    <p>ALUTA, HEINO, DROMULUS.</p>
-    <p>———— Tribules, obsecro vestram fidem,</p>
-    <p>Heinonis hocine praedium est et haec domus?</p>
-    <p>Nisi mente tota capta sum, haec ea ipsa sunt,</p>
-    <p>≤line=460≥ Quamquam omnia intuar alieno schemate.</p>
-    <p>HEI. Supreme Iuppiter, quid haec portenderint!</p>
-    <p>ALU. Heino, Heino, ubi uxor Aluta? Numquid est domi?</p>
-    <p>HEI. Dii boni te, Aluta, servassint! Veni!</p>
-    <p>ALU. Haudquaquam; enim dic vero, an ipsa sit domi!</p>
-    <p>≤line=465≥ HEI. Tune ipsa mea matrona, Aluta mea? Veni!</p>
-    <p>ALU. An ipsa sum? HEI. Tu ipsissima. ALU. At non sum in
-    habitu.</p>
-    <p>HEI. Ingredere! Nos videbimus. Pro Iuppiter,</p>
-    <p>Quid auspicabor quove me vertam miser?</p>
-    <p>Quis hanc misellam ita fascinavit, perdidit?</p>
-    <p>≤line=470≥ Quis consulet nobis modo? I, puer, ad sacrum</p>
-    <p>Et sacrificum nostrum advoca celerrime</p>
-    <p>Mystotum, ut exorcizet hanc miserrimam,</p>
-    <p>Ne forte quovis genio iniquo adflata sit.</p>
-    <p>DRO. Licet. HEI. Vola! DRO. Licet. HEI. Cito veniat! DRO.
-    Licet.</p>
-    <p>≤line=475≥ HEI. Nos interim studebimus, uti dormiat</p>
-    <p>Parumper, ac tantisper hoc sub schemate,</p>
-    <p>Quo rediit huc, sinemus, ille dum advolet.</p>
-    <p>Neque dubito eum, cum sciverit, mox adfore.</p>
-    <p>Ingressus itaque habebo curam coniugis.</p>
-    <p><hi rendition="simple:bold">CHORUS.</hi></p>
-    <p>Iacche Bacche ... Ornate Bacchanalibus ...
-    <hi rendition="simple:italic">ut supra</hi>.</p>
-    <p>ALIUS.</p>
-    <p>≤line=480≥ Nil gravius est viro bono</p>
-    <p>Quam habere stultam coniugem,</p>
-    <p>Cum illi foris et in aedibus</p>
-    <p>Sit usque pestis maxima.</p>
-    <p>Haec derogat famae viri,</p>
-    <p>≤line=485≥ Corrumpit omnem familiam,</p>
-    <p>Rem dissipat domesticam,</p>
-    <p>Praesertim ubi sapere se putat.</p>
-    <p>Duxisse praestat efferam,</p>
-    <p>Pigram, superbam aut invidam</p>
-    <p>≤line=490≥ Quam stolidam et amentem, rei</p>
-    <p>Cui nulla cura domesticae.</p>
-  </div>
-  <div type="level2" xml:id="actus-v.-scaena-i.">
-    <head>ACTUS V. SCAENA I.</head>
-    <p>ALUTA, HEINO.</p>
-    <p>Dolus, dolus, malus dolus, Petronius,</p>
-    <p>Gallus meus. HEI. Quiesce, Aluta, paululum!</p>
-    <p>Non est dolus. ALU. Dolus, dolus, Petronius.</p>
-    <p>≤line=495≥ HEI. Quisnam Petronius? ALU. Nepos, dolus,</p>
-    <p>Petronius, gallus meus. HEI. Mirabile hoc</p>
-    <p>Insaniae genus! Memorat gallos, dolos,</p>
-    <p>Petronios. Sed occipit quiescere;</p>
-    <p>Si dormiat, spes aliqua curae erit. Foras</p>
-    <p>≤line=500≥ Prodibo, dum veniat sacrificus. Eccum adest,</p>
-    <p>Indutus albo supparo, cinctus stola,</p>
-    <p>Se signat undique nescio quid murmurans.</p>
-  </div>
-  <div type="level2" xml:id="actus-v.-scaena-ii.">
-    <head>ACTUS V. SCAENA II.</head>
-    <p>MYSTOTUS, HEINO, ALUTA.</p>
-    <p>Quid hoc mali est, Heino, quod uxori accidit?</p>
-    <p>HEI. Mystote, tota spes mea est in te unico.</p>
-    <p>≤line=505≥ MYS. Ubi, quomodo et quando accidit? HEI. Mane
-    exiit</p>
-    <p>Mente integra ad forum, redit iam vesperi</p>
-    <p>Lymphata, rapta nescio quo daemone.</p>
-    <p>Clamat, vomit, aliena loquitur, nullus est</p>
-    <p>Rationis usus. Tu vide, quid possies</p>
-    <p>≤line=510≥ Per verba sacra et mystica aut quid facto opust!</p>
-    <p>MYS. Dabo operam. At ubi posuistis illam? Ducite</p>
-    <p>Me intro! HEI. En misellam, ut vultibus torvis iacet!</p>
-    <p>MYS. Hui, quidnam hoc est, quod rete caput obvolvitur?</p>
-    <p>HEI. Comparuit ita, neque temere tentavimus</p>
-    <p>≤line=515≥ Resolvere. MYS. Auferatur. Hoc non quodlibet</p>
-    <p>Fore rete, sed nebulonis auguror. ALU. Dolus,</p>
-    <p>Dolus. HEI. Hem, occipit. ALU. Petronius. MYS. Quisnam ipsus
-    est?</p>
-    <p>ALU. Tenebrio, gallus meus, sestertii.</p>
-    <p>HEI. Haec usque cantat. MYS. Singularis admodum haec</p>
-    <p>≤line=520≥ Insania est. Seorsum abite paululum!</p>
-    <p>HEI. Paremus; haud enim decet mysteriis</p>
-    <p>Sacris adesse rusticos. Stemus procul!</p>
-  </div>
-  <div type="level2" xml:id="actus-v.-scaena-iii.">
-    <head>ACTUS V. SCAENA III.</head>
-    <p>MYSTOTUS sacrificus, ALUTA.</p>
-    <p>In nomine patris atque filii, sacri</p>
-    <p>Quoque spiritus cede, maledicte diabole,</p>
-    <p>≤line=525≥ Ab hac Dei famula et da honorem illi Deo,</p>
-    <p>Qui iudicare mortuos venturus est</p>
-    <p>Vivosque per flammam! ALU. Heus Bromi, heus Iacche, ades!</p>
-    <p>MYS. Ego te, Bromi, exorcizo. Iacche, adiuro te</p>
-    <p>Per filium Dei, ut vel exeas vel ut ...</p>
-    <p>≤line=530≥ ALU. Phi, Bromie, phi, phi, Bacche, phi, quam amarus
-    es!</p>
-    <p>MYS. Vin’ dulcia? ALU. Hem, sint quaeque dulcia, Massica.</p>
-    <p>Mox emptor solverit. MYS. Per Herculem patremque</p>
-    <p>Liberum, non admodum haec mulier malo</p>
-    <p>Adflata numine est. Ut audiit mysteria,</p>
-    <p>≤line=535≥ Mox ultro prosiluit nocens solo halitu,</p>
-    <p>Quem proruens post se reliquit, fetido.</p>
-  </div>
-  <div type="level2" xml:id="actus-v.-scaena-iv.">
-    <head>ACTUS V. SCAENA IV.</head>
-    <p>HEINO, MYSTOTUS sacrificus.</p>
-    <p>Foras repente prosilit sacrificulus.</p>
-    <p>Timeo, male sit rei. MYS. Timere desine!</p>
-    <p>Bona pars propulsa est numinis saevissimi,</p>
-    <p>≤line=540≥ Quod adripit subin’ viros fortissimos.</p>
-    <p>HEI. Hau! MYS. Ceterum quiescat, edormiscat id,</p>
-    <p>Quod residuum est. In crastinum periculum</p>
-    <p>Nullum. Ultro reliquum proruet. Vos denique,</p>
-    <p>Qui adestis huic spectaculo, animadvertite!</p>
-    <p>≤line=545≥ Haud impio est adflata genio mulier haec:</p>
-    <p>Arrepta Baccho. Bacchidum more hactenus</p>
-    <p>Bacchata tandem resipiet. Verum moras</p>
-    <p>Rescindite; haud enim modo, sed crastino</p>
-    <p>Die intus in penita aede sorbitiuncula</p>
-    <p>≤line=550≥ Curabitur. Quod accidit nebulonibus</p>
-    <p>Cras scibitis; nam uterque deprehensus est</p>
-    <p>Plectendus in furca, die sed crastino.</p>
-    <p>Nos, Heino, eamus intro et ipso numine,</p>
-    <p>Quo uxor tua est adflata in urbe, Bacchico</p>
-    <p>≤line=555≥ Nostram cutem curemus istoc praevio</p>
-    <p>Misso dolore molliter! HEI. Placet. Ilicet.</p>
-    <p>GREX histrionum.</p>
-    <p>Spectastis omnes, quam egimus comoediam;</p>
-    <p>Verum veremur, omnibus haud conduxerit.</p>
-    <p>Qui non alacrior excolendis moribus</p>
-    <p>≤line=560≥ Probis bonisque litteris evaserit,</p>
-    <p>Profecto is absque fruge spectator fuit.</p>
-    <p>Cavete proin, ne crapula aut temulentia</p>
-    <p>Gravemini! Haud enim ullus est prudentiae,</p>
-    <p>Ubi regnat ebrietas, locus. Cavete dein,</p>
-    <p>≤line=565≥ Ne fraudibus vacetis aut furto. Ipsa enim</p>
-    <p>Laqueo iugulum adigunt. Valete, plaudite!</p>
-  </div>
+  <p></p>
+</div>
+<div type="level1" xml:id="dramatis-personae.">
+  <head>1. DRAMATIS PERSONAE.</head>
+  <p>Prologus cum Moro Paedium, puer</p>
+  <p>Aluta, uxor Dromellus, servus</p>
+  <p>Heino, maritus Mystotus, sacrificus</p>
+  <p>Spermologus, parasitus Grex seu Epilogus</p>
+  <p>Harpax, scurra Chorus Mimallonum</p>
+  <p>Tolmesia, caupona Bacchus, persona muta</p>
+  <p>Ancilla cauponae Tribules, personae mutae.</p>
+</div>
+<div type="level1" xml:id="prologus-in-alutam-cum-moro.">
+  <head>2. PROLOGUS IN ALUTAM cum MORO.</head>
+  <p>Carmen ubique iambicum trimetrum acatalectum est</p>
+  <p>praeterquam in choro, ubi dimetrum est.</p>
+  <p>Mulierculam, prodire quam videbitis,</p>
+  <p>Mittit maritus in forum venumdare</p>
+  <p>Altilia, pullos, anseres, anates quoque</p>
+  <p>Et id genus volucrum ex cohorte pluria.</p>
+  <p>≤line=5≥ Duobus implanata quae nebulonibus</p>
+  <p>Suavibusque inebriata poculis</p>
+  <p>Mox, quemadmodum bacchabitur, spoliabitur</p>
+  <p>Curabiturque (si libet) spectabitis.</p>
+  <p>Nec plura de argumento ob artem comicam</p>
+  <p>≤line=10≥ Me proloqui scriptor iubebat fabulae,</p>
+  <p>Nisi quod sit huic <hi rendition="simple:italic">Aluta</hi> nomen
+  fabulae.</p>
+  <p>Paucis tamen vos ego monendos censui.</p>
+  <p>Audite et animadvertite ergo, quae impero</p>
+  <p>Servanda; si secus fuant qui fecerint,</p>
+  <p>≤line=15≥ Faxo sciant, quam edictiones histricas</p>
+  <p>Temerarii contempserint. MOR. Eho! PRO. Sile!</p>
+  <p>Primum omnium ne indoctiores hic strepant</p>
+  <p>Aut sibilis aut mussitationibus,</p>
+  <p>Doctos quod admonere neutiquam est opus,</p>
+  <p>≤line=20≥ Suapte qui probitate ubique sibi imperant.</p>
+  <p>Ipsos tamen nec praetereundos arbitror:</p>
+  <p>Si quicquam inepte exhibitum et inconcinniter</p>
+  <p>Prolatum erit, non in poetam ganniant</p>
+  <p>(Quid dico? In auctorem volebam dicere,</p>
+  <p>≤line=25≥ Nam auctor poetae nomen haud sibi arrogat),</p>
+  <p>Sed histrionibus tumultuantibus</p>
+  <p>Indulgeant, gratuita et aequi consulant.</p>
+  <p>Dico omnibus, sed maxime petulantibus,</p>
+  <p>Ineptulis et parvulis, ne lusibus</p>
+  <p>≤line=30≥ Puerilibus cachinnulisque tinnulis</p>
+  <p>Nos distrahant, ne vapulent. MOR. Ehe! PRO. Tace!</p>
+  <p>MOR. Iam ne semel quidem loquar: iamne sileo?</p>
+  <p>PRO. Sed et volo, ne quis (quod ante oportuit</p>
+  <p>Factum) aut ab alvo crepitet aut foedum halitum</p>
+  <p>≤line=35≥ Spiret, ne odore gravi theatrum puteat.</p>
+  <p>Paene excidit (quod dictum oportuit prius):</p>
+  <p>Quamvis ut in triclinio discumbitis</p>
+  <p>Variaque nitent fercla bacchanalium,</p>
+  <p>Non tamen in os vobis volabunt phasides,</p>
+  <p>≤line=40≥ Non anseres, non turtures, non turduli</p>
+  <p>Nec delicatae artocreae aut placentulae,</p>
+  <p>Quod histriones nil duant nisi fabulas.</p>
+  <p>Proinde quod quisque apparavit, edat domi,</p>
+  <p>Nisi sit satur scaena soluta fabulis.</p>
+  <p>≤line=45≥ Heus tu, puer, qui commodissimum locum</p>
+  <p>Theatri occupas, tibi dico et omnibus, ne iners</p>
+  <p>Socorsve torpeas, sed ore, naribus,</p>
+  <p>Oculis et auribus, manibus et calcibus</p>
+  <p>Attendito, auscultato et animadvertito,</p>
+  <p>≤line=50≥ Ne quando stertentem choragus te audiat</p>
+  <p>Discasque verbere, verbulo quod neglegis.</p>
+  <p>Advertite itaque singuli, sedete cum</p>
+  <p>Silentio! Caveata Aluta (ut dixeram)</p>
+  <p>Suis onusta altilibus actutum exiet.</p>
+  <p>≤line=55≥ Videte, ne clamore vestro aut ipsa aves</p>
+  <p>Territa reportet aut aves timidae avolent</p>
+  <p>Vanusque fiat hic apparatus scaenicus</p>
+  <p>Et tota vestra intentio frustrata sit.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-i.">
+  <head>3. ACTUS I. SCAENA I.</head>
+  <p>ALUTA sola.</p>
+  <p>Mecastor improbum est genus hoc hominum; diem</p>
+  <p>≤line=60≥ Totum hic sedebo, et nemo erit qui porrigat</p>
+  <p>Vel crustulum panis vel haustum aquae. Ego quidem</p>
+  <p>Sto, restito, sedeo, resideo, nemo omnium</p>
+  <p>Invitat aut salutat, at quasi stupidum</p>
+  <p>Me truncum habent et, si alloquor, muti silent.</p>
+  <p>≤line=65≥ Multo secus Beata, Greta, Bertula</p>
+  <p>Et Metta convicaneae me tractitant.</p>
+  <p>Verum improbum id genus, quod urbes incolit.</p>
+  <p>Nam rapere dumtaxat studet, nihil dare.</p>
+  <p>Quod si anseres pullosque gallinaceos,</p>
+  <p>≤line=70≥ (Quis maxime inhiant voluptuarii)</p>
+  <p>Mihi fraude suppilare possent, ilico</p>
+  <p>Festum hunc diem sibi ducerent meque miseram</p>
+  <p>Ludibrio habitam pellerent. Verum mihi</p>
+  <p>Meisque cavero. Caveam obturabo, ne</p>
+  <p>≤line=75≥ Cuiuspiam introrepat huc manus rapax.</p>
+  <p>Videone, ut unus et alter huc spectet? Scio,</p>
+  <p>Iam quisque tractat, si queat pro re mihi</p>
+  <p>Dare verba. Verum Aluta (ut inquam) caverit,</p>
+  <p>Heinonis uxor, ne dolo implanarier</p>
+  <p>≤line=80≥ Cuiuspiamve astu queat spoliarier.</p>
+  <p>Accedite, approperate et emite quilibet</p>
+  <p>(Praesente sed pecunia) altilia mea!</p>
+  <p>Sola est opus pecunia; bibendum erit,</p>
+  <p>Edendum erit post paululum. Sol cardini</p>
+  <p>≤line=85≥ Iam proximust et venter ut famelicus</p>
+  <p>Canis esurit. Ehodum huc, voluptuarii,</p>
+  <p>Adeste; nam parvo admodum venumdabo.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-ii.">
+  <head>4. ACTUS I. SCAENA II.</head>
+  <p>SPERMOLOGUS, HARPAX.</p>
+  <p>Ita sancta amet me Saturitas, hac muliere</p>
+  <p>Amentiorem (quod sciam) usquam gentium</p>
+  <p>≤line=90≥ Non vidi in hunc diem usque. Si necessitas</p>
+  <p>Me adigeret, omnia eius altilia queam</p>
+  <p>Dicto facilius tollere. Harpax obviust,</p>
+  <p>Cuius quidem ventrem tam inanem ac flaccidum</p>
+  <p>Modo suspicor quam pera pastoralis est</p>
+  <p>≤line=95≥ Sub vesperem. Harpax, ut tuae fortunulae</p>
+  <p>Se habent? Quid ovis cassa retis est? Nihil</p>
+  <p>Piscatum in hunc diem? HAR. Nihil. Pereo fame</p>
+  <p>Miserrimus nigerrima. Nunc tertius</p>
+  <p>Agitur dies, quo praeter holera putrida</p>
+  <p>≤line=100≥ E compitis collecta nil gustaverim.</p>
+  <p>Quid multa? Venter hic meus tam flaccidus</p>
+  <p>Quam inanis haec retis cruci me destinat.</p>
+  <p>SPE. In portu adest salus tibi; confidito!</p>
+  <p>HAR. Non fido, quando ab occidente et miseria</p>
+  <p>≤line=105≥ Venti mihi flent iugiter. Vale! SPE. Heus! HAR. Quid
+  est?</p>
+  <p>SPE. Si potis es, Harpax, callidus depromere</p>
+  <p>Id, quod bibamus, faxo ego, ut venter tuus</p>
+  <p>Tam flaccidus sesquipede iam exstet turgidus.</p>
+  <p>HAR. Vah, periit ars parasitica. Unde possies</p>
+  <p>≤line=110≥ Sic ampliter consulere nostris ventribus</p>
+  <p>Tam inanibus? SPE. Scies, cum aqualiculum hunc tuum</p>
+  <p>Ut tympanum extensum cibo palpaveris.</p>
+  <p>HAR. An vera, Spermologe, refers? SPE. Verissima.</p>
+  <p>HAR. Id sancta faxit Saturitas! Sed quo ordine?</p>
+  <p>≤line=115≥ SPE. Videsne stolidam feminam illam et quid ferat?</p>
+  <p>HAR. Quidni? Cohortales aves, quam plurimi</p>
+  <p>Ut veneant, obtrudit ultro singulis.</p>
+  <p>SPE. Illam ego ut avem delusero, mercem auferam.</p>
+  <p>HAR. Quo pacto id, obsecro? SPE. Et suum et nomen viri</p>
+  <p>≤line=120≥ Modo prodidit. HAR. Tibi cognitam finges? SPE.
+  Sapis,</p>
+  <p>Et proximam. Sed adorior mulierculam,</p>
+  <p>Ne me antevertat quispiam ex nugigerulis</p>
+  <p>Circumforaneis, perinde qui atque nos</p>
+  <p>Huiusmodi aucupio student. HAR. Nil certius.</p>
+  <p>≤line=125≥ I prae, licere blanditer! SPE. Quin actum agis?</p>
+  <p>Sed audin’? HAR. Hem. SPE. Adsis tempori! HAR. Memorem mones.</p>
+  <p>Ubi erit opportunum, adsequar. Vade ocius,</p>
+  <p>Ne transferat merces, quia loco se movet.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-iii.">
+  <head>5. ACTUS I. SCAENA III.</head>
+  <p>ALUTA, SPERMOLOGUS, HARPAX.</p>
+  <p>Quid monstri hoc est? Phoebi umbra fit brevissima,</p>
+  <p>≤line=130≥ Gallus meus medium diei nuntiat,</p>
+  <p>Nec quisquam adhuc licitatus est aut praebuit</p>
+  <p>Argentum. In eminentiorem illum locum</p>
+  <p>Concessero: ibi resedero et quosque obvios</p>
+  <p>Excepero. Eccum commodum, huc quidam advolat</p>
+  <p>≤line=135≥ Contorto in umerum laevum amictus pallio.</p>
+  <p>Quid cesso compellare? Adesdum, adesdum, ohe!</p>
+  <p>Et sequitur alter, ocius venumdabo.</p>
+  <p>Heu quisquis es, bone vir, licere, eme optima</p>
+  <p>Ac pinguia altilia mea, anates, anseres</p>
+  <p>≤line=140≥ Pullosque pinguiusculos, gallum quoque</p>
+  <p>Pulcherrimum, parvo admodum! Ecquid restitas?</p>
+  <p>SPE. Quid restitem? Id etiam rogas? Num tu uxor es</p>
+  <p>Heinonis incluta, nobilis formosaque?</p>
+  <p>ALU. Ea ipsa sum; sed unde me nosti, o bone?</p>
+  <p>≤line=145≥ SPE. Mea Aluta, mea cognata, non te noverim?</p>
+  <p>Quicum a tenellis unguibus iocarier</p>
+  <p>Consueverim? An tibi excidit Petronii</p>
+  <p>Tam dulce cognati tui nomen? ALU. Tun’ es?</p>
+  <p>Tun’ ipsus ades, o mi Petroni, o mi nepos?</p>
+  <p>≤line=150≥ Quo lapsa tempora? Non quidem agnovissem in hoc</p>
+  <p>Te atro cucullo, nisi te ipsum proderes.</p>
+  <p>HAR. Hic hercle homo versutus est, facillime</p>
+  <p>Album esse nigrum huic (reor) persuaserit.</p>
+  <p>Porro indicat nutu ex foro secedere.</p>
+  <p>≤line=155≥ ALU. Stupeo admodum, cognate mi. Sed quaeso dic,</p>
+  <p>Num causa emendi me adieris? SPE. Pol neutiquam,</p>
+  <p>Verum ut salutem te advolo. Nihilominus,</p>
+  <p>Si de emptione res agitur, est qui petat.</p>
+  <p>ALU. Quisnam ipsus est? SPE. Consors meust, obambulat</p>
+  <p>≤line=160≥ Hic uspiam. Ubi modo vagatur ipse homo?</p>
+  <p>ALU. Post angulum illum forsitan se transtulit.</p>
+  <p>SPE. Ita suspicor. Vin’ quaeritem? ALU. Quidni? Obsecro,</p>
+  <p>Actutum abi, si fors queat reducier!</p>
+  <p>SPE. Lubens facesso, in rem tuam statim hic ero.</p>
+  <p>≤line=165≥ Cave alteris nobis emenda distrahas!</p>
+  <p>ALU. Nequaquam agam, vobis enim servavero.</p>
+  <p>Bene ambula ac redambula! Ille abivit et</p>
+  <p>Me principem facturus est, si redierit.</p>
+  <p>SPE. Tam nostra praeda, nostra quam lux solis est.</p>
+  <p>≤line=170≥ Sed ante convenire oportet Harpaga.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-iv.">
+  <head>6. ACTUS I. SCAENA IV.</head>
+  <p>ALUTA sola.</p>
+  <p>Vestram, dii, fidem, quis umquam id auguret?</p>
+  <p>Semel omnia accidunt mihi ex sententia:</p>
+  <p>Cognatus antiquus, novus amicus; fides</p>
+  <p>Reducta, quae exsulaverat, si adduxerit,</p>
+  <p>≤line=175≥ Quem abisse porro condolet. In eo ipso enim</p>
+  <p>Mihi totius pendet salutis ancora.</p>
+  <p>Periero fame, ni redeat emptor ilico.</p>
+  <p>Sed eccum utrumque conspicor; sunt in vado</p>
+  <p>Modo spes meae. At mora omnis est prolixior.</p>
+  <p>≤line=180≥ Nescio quid inter se loqui prudentiae</p>
+  <p>Occeperint, nisi sit de emendis mercibus.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-v.">
+  <head>7. ACTUS I. SCAENA V.</head>
+  <p>SPERMOLOGUS, HARPAX.</p>
+  <p>Te commode paulo prius subduxti. HAR. Eho.</p>
+  <p>Omisso adesne obsonio? SPE. Tace modo ac</p>
+  <p>Te principem spera futurum, si velis!</p>
+  <p>≤line=185≥ HAR. Hem, quin velim? Quid vult agi? SPE. Te
+  principem</p>
+  <p>Spermologus hic facturus est, si assenseris.</p>
+  <p>HAR. Assentior. Quid postea? SPE. Te nobilem hoc</p>
+  <p>Die ... HAR. Licet. SPE. Regem ... HAR. Licet. SPE. Croesum
+  dabo.</p>
+  <p>HAR. Apage, vel oletum facito me, modo commodes!</p>
+  <p>≤line=190≥ SPE. Ego faxo in ipsas Croesi opes mox irruas.</p>
+  <p>HAR. At Croeso omisso nunc vel Harpaga satura!</p>
+  <p>Quid facto opust? SPE. Parum admodum. Tute emeris</p>
+  <p>Altilia! HAR. Tute te magis suspenderis!</p>
+  <p>Cui nec obolus est quidem quo restim emam,</p>
+  <p>≤line=195≥ Ego emero? In crucem tu abi malam, ego emero?</p>
+  <p>SPE. Hem, hem, sile! Tu emes, ego fidem iussero.</p>
+  <p>Intelligenti pauca. Cave, ne exaudiat!</p>
+  <p>Tua dicta fac verbis meis respondeant!</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-vi.">
+  <head>8. ACTUS I. SCAENA VI.</head>
+  <p>SPERMOLOGUS, ALUTA, HARPAX.</p>
+  <p>Ut hic fidelem experta in aliis utere,</p>
+  <p>≤line=200≥ Mea Aluta! ALU. Mi cognate, hic est, quem dixeras?</p>
+  <p>SPE. Pol ipsus. En hominem, omnia istaec qui auferet.</p>
+  <p>ALU. Data pecunia? SPE. Quid istuc? Maxime.</p>
+  <p>ALU. Non queo, Petroni, dignum ut est, rependere.</p>
+  <p>HAR. Quanti haec familia? ALU. Quindecim sestertiis,</p>
+  <p>≤line=205≥ Minutulum est. HAR. Hui, nimium id est; decem dabo.</p>
+  <p>ALU. Haudquaquam erit, nam pinguiuscula est. HAR. Sat est.</p>
+  <p>Nam parvuli pulli admodum ac tenerrimi.</p>
+  <p>ALU. Hoc delicatiora erunt obsonia. SPE. Hem.</p>
+  <p>Ago proxenetam; assem adhibe! HAR. Eho, addo. ALU. Non satis.</p>
+  <p>≤line=210≥ SPE. Sat, Aluta. ALU. Non. SPE. Addes teruncium et
+  auferes.</p>
+  <p>HAR. Nimium est, Petroni. ALU. Etsi minust, habeat sibi.</p>
+  <p>Tuam auferet, cognate mi, per gratiam.</p>
+  <p>Hem, nummulos primum! HAR. Dabuntur primulum.</p>
+  <p>Papae! SPE. Heus, ut est? HAR. Male, quia zonam perdidi.</p>
+  <p>≤line=215≥ SPE. Nugae: domi liquisti. HAR. Id hercle suspicor.</p>
+  <p>SPE. Certo scio. HAR. Sic? Salva res, tu solvito,</p>
+  <p>Reddam domi. SPE. Fidem iubebo. Tollito!</p>
+  <p>ALU. Malim adferat; tantisper hic morabimur,</p>
+  <p>Dum redeat. HAR. Ah, non plus meruit huius fides?</p>
+  <p>≤line=220≥ SPE. Gallum relinque pignori! HAR. Do pignori. Hem</p>
+  <p>Habeat, moretur paululum. SPE. Ocius redi!</p>
+  <p>HAR. Ocissime; sed heus tu, ubi te offendero?</p>
+  <p>ALU. Ad aureum leonis intersignium.</p>
+  <p>Illic edendum, illic bibendum erit prius</p>
+  <p>≤line=225≥ Quam abeam. HAR. Hem. SPE. Sapis profecto; curassis
+  cutem!</p>
+  <p>ALU. Verum age, nepos, illum reducito citius!</p>
+  <p>SPE. Quin tu taces? Uterque iam te intro sequimur</p>
+  <p>Bellos homunculos ibi acturi. Vale!</p>
+  <p>ALU. Vale, Petroni! Hic admodum propensus est</p>
+  <p>≤line=230≥ Mihi. Ni amicus esset, haud se impenderet.</p>
+  <p>At pignori accepisse gallum certius</p>
+  <p>Multoque certius. Nam in urbibus dolus</p>
+  <p>Quam plurimus. Gradior in oenopolium,</p>
+  <p>Ubi ventrem in hoc vico prius purgaverim.</p>
+  <p>≤line=235≥ SPE. Edat, bibat et inebrietur stolida! Ego hinc</p>
+  <p>In ganeum procedam, ut alloquar Harpaga.</p>
+  <p>Fors queat adhuc toga inebriatae tollier.</p>
+  <p><hi rendition="simple:bold">CHORUS ex Bacchidibus seu
+  Mimallonibus.</hi></p>
+  <p>Iacche Bacche ohe, ohe,</p>
+  <p>O Bacche Iacche ohe, ohe.</p>
+  <p>≤line=240≥ Ornate Bacchanalibus</p>
+  <p>Bacchum corona, Bacchides.</p>
+  <p>Iacche Bacche ohe, ohe,</p>
+  <p>O Bacche Iacche ohe, ohe.</p>
+  <p>Risu, iocis et potibus</p>
+  <p>≤line=245≥ Baccho parantur orgia.</p>
+  <p>Iacche Bacche ohe, ohe,</p>
+  <p>O Bacche Iacche ohe, ohe.</p>
+  <p>Bacchi furore corripi</p>
+  <p>Coetus oportet Maenadum.</p>
+  <p>≤line=250≥ Iacche Bacche ohe, ohe,</p>
+  <p>O Bacche Iacche ohe, ohe.</p>
+  <p>Io Bromi, Liber pater,</p>
+  <p>Io Priape, Iacche io.</p>
+  <p>Iacche Bacche ohe, ohe,</p>
+  <p>≤line=255≥ O Bacche Iacche ohe, ohe.</p>
+  <p>Alius CHORUS extra Bacchanalia</p>
+  <p>ex matronis Bunscoticis.</p>
+  <p>Faex generis humani est genus</p>
+  <p>Parasiticum, lurconicum,</p>
+  <p>Scurrarum et id genus omnium,</p>
+  <p>Qui in otio ventri student.</p>
+  <p>≤line=260≥ Hi callidos facetiis,</p>
+  <p>Hi simplices astutia,</p>
+  <p>Hi singulos fraude ac dolo</p>
+  <p>Pro ventre passim irretiunt.</p>
+  <p>Hos nisi magistratus velut</p>
+  <p>≤line=265≥ Fures latronesque aut lupos</p>
+  <p>Ac tigridas e republica</p>
+  <p>Raserit, eam corruperit.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-i.">
+  <head>10. ACTUS II. SCAENA I.</head>
+  <p>ALUTA, TOLMESIA, ANCILLA.</p>
+  <p>Prudentis est nostratium proverbio</p>
+  <p>Ventrem prius purgare quam aliud ingerat.</p>
+  <p>≤line=270≥ Iam re absoluta pulsitandum est ostium.</p>
+  <p>Quis has fores recludet? Ecquis aperiet?</p>
+  <p>Pulsabo validius. Quis, inquam, aperiet has</p>
+  <p>Ambas fores? Exaudit hic nemo omnium?</p>
+  <p>TOL. Heus ohe, ut importuna! Quis vult ingredi?</p>
+  <p>≤line=275≥ ALU. Cum gallo ego ipsa Aluta gallinaceo.</p>
+  <p>Recludedum! Quod edatur ac bibatur huc</p>
+  <p>Mox adferatur splendide. TOL. Est pecunia?</p>
+  <p>ALU. Mox aderit, heus. TOL. Hem. ALU. Quaeque dulcia sint. TOL.
+  Licet.</p>
+  <p>Modo splendeat pecunia. ALU. Ah, pecunia?</p>
+  <p>≤line=280≥ Limus pecunia. Vina dulcia, blandula</p>
+  <p>Massicaque prome! Audin’? TOL. Vel insanit vel est</p>
+  <p>Ebria mulier. ANC. Utut est, videbitur ilico.</p>
+  <p>ALU. Iam numerat argentum mihi, mox tinniet.</p>
+  <p>Ut imperatrici inclutae mox offeret.</p>
+  <p>≤line=285≥ Age Aluta, laetum ducito hunc diem! Ades ehodum,</p>
+  <p>Ehodum puella, quin ministras fercula?</p>
+  <p>Quin Bromius assilit? ANC. Hem, en prior tibi congius.</p>
+  <p>Infunde, bibe, dein solvito! ALU. Curabitur.</p>
+  <p>ANC. Nisi tute cures, gallus hic servabitur.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-ii.">
+  <head>11. ACTUS II. SCAENA II.</head>
+  <p>SPERMOLOGUS, HARPAX.</p>
+  <p>≤line=290≥ Delusimus probe mulierem per Iovem.</p>
+  <p>Ignoro tamen, ubi nebulo sese abstruserit,</p>
+  <p>Cui se popinae fornicive immerserit.</p>
+  <p>Nam ganeum lustravi et unum et alterum,</p>
+  <p>Nec paret usquam gentium. Hoc equidem scio,</p>
+  <p>≤line=295≥ Ubi ubi sit, larido esse pestem maximam.</p>
+  <p>Sed adest homo, quem quaerito, paulo alacrior.</p>
+  <p>Portas pecuniam? HAR. Hahahe, nil residuum est?</p>
+  <p>SPE. Toga admodum bona, pulla, duplex, civica.</p>
+  <p>HAR. Nostra est, modo ebria sit. Latebo clanculum,</p>
+  <p>≤line=300≥ Alio alloquar in itinere schemate. SPE. Hem, vide,</p>
+  <p>Quid possies! Crepat ostium; cedamus hinc.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-iii.">
+  <head>12. ACTUS II. SCAENA III.</head>
+  <p>ALUTA, TOLMESIA, ANCILLA.</p>
+  <p>Quidum moratur perfidus, qui sese ait</p>
+  <p>Quantocius rediturum et argentum mihi</p>
+  <p>Daturum? TOL. Ain’ vero pecuniam tibi</p>
+  <p>≤line=305≥ Morarier? ALU. Sic dico. TOL. Quibus ex mercibus?</p>
+  <p>ALU. Altilia quispiam emit; illi credidi</p>
+  <p>(Quia perdidit zonam) pecuniam. TOL. Obsecro,</p>
+  <p>Quantam? ALU. Undecim sestertios. TOL. Novisti eum?</p>
+  <p>ALU. Non edepol, sed eum Petronius mihi</p>
+  <p>≤line=310≥ Cognatus ut consortem et intus et in cute</p>
+  <p>Novit. TOL. Quis hic cognatus est tuus? Quis hic</p>
+  <p>Petronius? ALU. Qui se nepotem dixerat,</p>
+  <p>Qui adduxerat hominem, fidem qui iusserat.</p>
+  <p>TOL. Impostor ille fuit, nec est in urbe (quod</p>
+  <p>≤line=315≥ Sciam) vir istoc nomine. ALU. Heu me miseram, ut</p>
+  <p>Mihi callidi imposuere, subdoli et vafri!</p>
+  <p>Verum hic relictust pignori gallus. Putas,</p>
+  <p>Reliquerint mihi tam animosum ἀλέκτoρα?</p>
+  <p>Non id putes; mox aderit hic pecunia,</p>
+  <p>≤line=320≥ Mox aderit et Petronius. TOL. Mox, mox! Nisi</p>
+  <p>Mox solveris (quia usque mox) gallus meust.</p>
+  <p>Nam aliquid valo potius rapere quam nil dari.</p>
+  <p>ALU. Sic impie tollesne delicias meas?</p>
+  <p>Quantum est, quod edi, quod bibi? Teruncio</p>
+  <p>≤line=325≥ Solvi potest. Heinonis uxor sum, dabit</p>
+  <p>Lubens, forum si quando raeda accesserit.</p>
+  <p>Tam ignota Aluta? Ignotus Heino? TOL. Nescio,</p>
+  <p>Quis Heino sit, quae Aluta sit. Tres congios</p>
+  <p>Tu ternio potasti optimi vini; pro eis</p>
+  <p>≤line=330≥ Aut aes repones, aut ἀλέκτoρα vindico.</p>
+  <p>ALU. O pervigil custos domus, sicine migras</p>
+  <p>Cortem in alienam? Ibo et querar viro meo.</p>
+  <p>ANC. Non longe abibis, quin Bromius te sopiet.</p>
+  <p>Hem, exi, pavimentum domus ne convomas</p>
+  <p>≤line=335≥ Foedesve multo turpius; cloacam adi!</p>
+  <p>ALU. Exonerem ut alvum, denuo hinc secessero.</p>
+  <p><hi rendition="simple:bold">CHORUS Maenadum.</hi></p>
+  <p>Iacche Bacche ... Ornate Bacchanalibus ...
+  <hi rendition="simple:italic">ut supra</hi>.</p>
+  <p>Alius CHORUS matronarum.</p>
+  <p>Honesta cauponaria</p>
+  <p>Censetur inter divites;</p>
+  <p>At mihi videtur improba</p>
+  <p>≤line=340≥ Quaestusque sordidissimus.</p>
+  <p>Quid foedius quam promere,</p>
+  <p>Quo inebrient se reprobi</p>
+  <p>Reddantque mentis impotes,</p>
+  <p>Immo ex hominibus bestias?</p>
+  <p>≤line=345≥ Hoc caupo avarus expetit,</p>
+  <p>Ut maxime vino oppleant</p>
+  <p>Se tum viri tum feminae</p>
+  <p>Et vomitum adusque ingurgitent.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-i.">
+  <head>14. ACTUS III. SCAENA I.</head>
+  <p>HARPAX, SPERMOLOGUS.</p>
+  <p>E viculo vides labantem Bacchidem,</p>
+  <p>≤line=350≥ Viam per omnem eructuantem crebriter</p>
+  <p>Ingurgitatam crapulam? SPE. Video, tuum est.</p>
+  <p>HAR. Quidnam? SPE. Rogas? An non spopondisti modo</p>
+  <p>Sacroque foedere deierasti lancibus</p>
+  <p>Meis tua adfutura abunde pocula?</p>
+  <p>≤line=355≥ HAR. Iuravi et ultro tibi probe perfecero.</p>
+  <p>SPE. Quonam modo? HAR. Scin’, quid prius suggesseris</p>
+  <p>De duplici toga? SPE. Hem, immo. Perge dicere!</p>
+  <p>HAR. Iam caespitat, dormiturit, mox uspiam</p>
+  <p>Sub arboris sopita fronde concidet</p>
+  <p>≤line=360≥ Aut propter aggerem vel in salebram; ibi</p>
+  <p>Industriam meae artis exercuero. SPE. Abi,</p>
+  <p>Sequar brevi. HAR. Audin’? SPE. Quid? HAR. Sequere quam mox! SPE.
+  Modo.</p>
+  <p>HAR. Quam plena curarum est et anxia vita, quae</p>
+  <p>Hoc retiaclo comparat victum sibi!</p>
+  <p>≤line=365≥ Rete, dolus, impostura, furta sunt meae</p>
+  <p>Artis peritia, inde crux. Hem. Eccam ebriam</p>
+  <p>Hanc vomicam, ut obliquis viam metitur hanc</p>
+  <p>Gressibus et usque convomit. Sequar eminus.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-ii.">
+  <head>15. ACTUS III. SCAENA II.</head>
+  <p>ALUTA, HARPAX, SPERMOLOGUS.</p>
+  <p>O galle, galle, ut es subductus et</p>
+  <p>≤line=370≥ Reliqua familia tota. Dii, vestram fidem!</p>
+  <p>Petronius, Petronius, dolus, dolus!</p>
+  <p>Ut cuncta volvuntur sinistro ex ordine,</p>
+  <p>Caelestia et terrestria occidunt, pedes</p>
+  <p>Nutant, caput dolet admodum, caput, caput.</p>
+  <p>≤line=375≥ O Heino, serva uxorculam tuam, obsecro, ae!</p>
+  <p>HAR. Modo est adire commodum, quia labitur.</p>
+  <p>Mercurius adsit! Ecquid est, coniunx mea?</p>
+  <p>Quid aegra ades? Quid sordida es, mea Alutula?</p>
+  <p>ALU. O Heino, serva Alutulam tuam! Labo.</p>
+  <p>≤line=380≥ HAR. Ego (ne time) te sustinebo, Alutula.</p>
+  <p>ALU. Non sum (puto) illa, quae olim eram, tua Alutula.</p>
+  <p>Hic dormienti accumbe! HAR. Ego accubuero tibi</p>
+  <p>Et mollius posuero. ALU. Operi vultus meos!</p>
+  <p>Vertuntur omnia, terra, caelum. HAR. Operier</p>
+  <p>≤line=385≥ Vittane vis? ALU. Volo, nam ea optima est. HAR.
+  Togam</p>
+  <p>Ne convomas, num detrahi cupis? ALU. Volo, ae.</p>
+  <p>HAR. Sic, sic, ita omnia simul impura evome!</p>
+  <p>SPE. Per Herculem scelestiorem neminem</p>
+  <p>Vidi hoc homine. Togam tenet, vestes quoque</p>
+  <p>≤line=390≥ Praecidit usque ad femora. Quis me hercle vel</p>
+  <p>Nequissimus tam foeda, tam insolentia</p>
+  <p>Tentaverit? Nunc absolutis technicis</p>
+  <p>Versutiis suffarcinatus omnibus</p>
+  <p>Redit alacer. HAR. Num egi probe negotium?</p>
+  <p>≤line=395≥ SPE. Ita sancta amet me Saturitas, scelestus es,</p>
+  <p>Harpax. Qui id actum? Ubi retis est? HAR. Dicam tibi,</p>
+  <p>Ubi viculum hunc tutum subierimus. SPE. Sapis.</p>
+  <p>HAR. Ganeum adeamus nunc et ollas carnium.</p>
+  <p>Haec praeda suppeditabit ampla pocula.</p>
+  <p><hi rendition="simple:bold">CHORUS Mimallonum.</hi></p>
+  <p>Iacche Bacche ... Ornate Bacchanalibus ...
+  <hi rendition="simple:italic">ut supra</hi>.</p>
+  <p>Alius CHORUS matronarum.</p>
+  <p>≤line=400≥ Foeda est quidem ebrietas viro,</p>
+  <p>At mulieri foedissima:</p>
+  <p>Natura enim haec infirmior,</p>
+  <p>Quod hauserit, foede egerit.</p>
+  <p>Ut se sues spurcissimae</p>
+  <p>≤line=405≥ Caeno lutoque immersitant,</p>
+  <p>Ita inebriatae feminae</p>
+  <p>Vomitu atque oleto se inquinant.</p>
+  <p>At mulierum temulentiam est</p>
+  <p>Ita alligata impuritas,</p>
+  <p>≤line=410≥ Ut lingua, sensus et manus</p>
+  <p>Nil tractitent nisi turpia.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-i.">
+  <head>17. ACTUS IV. SCAENA I.</head>
+  <p>HEINO, PAEDIVM.</p>
+  <p>Quid hoc esse suspicer, quod uxor nondum adest?</p>
+  <p>Sol vergit in declive et instat atra nox.</p>
+  <p>I, paedium, ... PAE. Hem. HEI. Atque vise, si usquam appareat</p>
+  <p>≤line=415≥ Matercula! PAE. E foro cuneos latura? HEI. Ita.</p>
+  <p>PAE. Eo, pater; verum timeo, ne mordeat</p>
+  <p>Me lamia. HEI. Nequaquam; nam adhuc clarust dies.</p>
+  <p>PAE. Si appareat nusquam, pater, vis regrediar?</p>
+  <p>HEI. Regredere. Cave, ne longe abiveris! PAE. Licet.</p>
+  <p>≤line=420≥ HEI. Vade. Interim nos tritico purgato, uti</p>
+  <p>Poposceras, pultem tibi parabimus.</p>
+  <p>Timeo hercle vero, viserit frustra puer.</p>
+  <p>In thermopolio si eam quis duxerit,</p>
+  <p>Certe actum erit de re domestica hoc die</p>
+  <p>≤line=425≥ Et crastino, cum ad vina sic propensa sit,</p>
+  <p>Ut non quiescat, donicum se ingurgitet.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-ii.">
+  <head>18. ACTUS IV. SCAENA II.</head>
+  <p>ALUTA sola.</p>
+  <p>Heus, ohe! Ubi sum? Quae sum? Quid intuor undique?</p>
+  <p>Quis daemonum me fascinavit atque in hunc</p>
+  <p>Orbem novum perduxit undique laqueatum? Ut haec</p>
+  <p>≤line=430≥ Mutata subito! Pro supreme Iuppiter,</p>
+  <p>Nil terra, nil caelum est nisi rete unicum.</p>
+  <p>Non absque causa mihi natare videbar et</p>
+  <p>Piscarier. Num ego Aluta sum Bunscotica,</p>
+  <p>Heinonis uxor Hannii, an aliena sum?</p>
+  <p>≤line=435≥ In conscientia ipsa sum, immo ipsissima,</p>
+  <p>Verum in habitu prorsus aliena sum. Nam ubi</p>
+  <p>Toga est? Ubi ricula? Ubi crumenula nigricans?</p>
+  <p>Praecisa vestis usque ad ancas, foeda vix</p>
+  <p>Subucula has nates tegit: plane occidi.</p>
+  <p>≤line=440≥ Quo conferam me? Cui loquar? Ego neminem</p>
+  <p>Agnosco, cuncta videntur ut labentia,</p>
+  <p>Nullusque noverit: perii plane modo.</p>
+  <p>Heinonem adibo sciscitans, num Aluta sit</p>
+  <p>Domi. Si ibi, profecto nulla sum. At si ibi</p>
+  <p>≤line=445≥ Non fuerit, aliqua spes mihi fors residua est.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-iii.">
+  <head>19. ACTUS IV. SCAENA III.</head>
+  <p>PAEDIUM, HEINO.</p>
+  <p>Heu heu, pater! HEI. Quid est, puelle? PAE. O mi pater!</p>
+  <p>HEI. Quiesce, siste paululum! Quid, gnate, fles?</p>
+  <p>PAE. Heu, mater ... HEI. Hem? PAE. Mater mea est ... HEI. Quid
+  mater est?</p>
+  <p>PAE. Cerrita prorsus est, pater. HEI. Mater tua?</p>
+  <p>≤line=450≥ PAE. Etiam, pater. HEI. Qui scis? PAE. Obibat
+  clamitans,</p>
+  <p>Iactans manus, iactans caput, quasi lamia</p>
+  <p>Larvata faciem, insanit horrendum nimis.</p>
+  <p>Timeo admodum, pater. HEI. Sile, fili, sile!</p>
+  <p>Curabitur. Quid, quaeso, id esse dixero?</p>
+  <p>≤line=455≥ Strigesne terruere vel cacodaemones</p>
+  <p>Hunc parvulum? Ibo foras, ut eventum rei</p>
+  <p>Videam. ————</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-iv.">
+  <head>20. ACTUS IV. SCAENA IV.</head>
+  <p>ALUTA, HEINO, DROMULUS.</p>
+  <p>———— Tribules, obsecro vestram fidem,</p>
+  <p>Heinonis hocine praedium est et haec domus?</p>
+  <p>Nisi mente tota capta sum, haec ea ipsa sunt,</p>
+  <p>≤line=460≥ Quamquam omnia intuar alieno schemate.</p>
+  <p>HEI. Supreme Iuppiter, quid haec portenderint!</p>
+  <p>ALU. Heino, Heino, ubi uxor Aluta? Numquid est domi?</p>
+  <p>HEI. Dii boni te, Aluta, servassint! Veni!</p>
+  <p>ALU. Haudquaquam; enim dic vero, an ipsa sit domi!</p>
+  <p>≤line=465≥ HEI. Tune ipsa mea matrona, Aluta mea? Veni!</p>
+  <p>ALU. An ipsa sum? HEI. Tu ipsissima. ALU. At non sum in habitu.</p>
+  <p>HEI. Ingredere! Nos videbimus. Pro Iuppiter,</p>
+  <p>Quid auspicabor quove me vertam miser?</p>
+  <p>Quis hanc misellam ita fascinavit, perdidit?</p>
+  <p>≤line=470≥ Quis consulet nobis modo? I, puer, ad sacrum</p>
+  <p>Et sacrificum nostrum advoca celerrime</p>
+  <p>Mystotum, ut exorcizet hanc miserrimam,</p>
+  <p>Ne forte quovis genio iniquo adflata sit.</p>
+  <p>DRO. Licet. HEI. Vola! DRO. Licet. HEI. Cito veniat! DRO.
+  Licet.</p>
+  <p>≤line=475≥ HEI. Nos interim studebimus, uti dormiat</p>
+  <p>Parumper, ac tantisper hoc sub schemate,</p>
+  <p>Quo rediit huc, sinemus, ille dum advolet.</p>
+  <p>Neque dubito eum, cum sciverit, mox adfore.</p>
+  <p>Ingressus itaque habebo curam coniugis.</p>
+  <p><hi rendition="simple:bold">CHORUS.</hi></p>
+  <p>Iacche Bacche ... Ornate Bacchanalibus ...
+  <hi rendition="simple:italic">ut supra</hi>.</p>
+  <p>ALIUS.</p>
+  <p>≤line=480≥ Nil gravius est viro bono</p>
+  <p>Quam habere stultam coniugem,</p>
+  <p>Cum illi foris et in aedibus</p>
+  <p>Sit usque pestis maxima.</p>
+  <p>Haec derogat famae viri,</p>
+  <p>≤line=485≥ Corrumpit omnem familiam,</p>
+  <p>Rem dissipat domesticam,</p>
+  <p>Praesertim ubi sapere se putat.</p>
+  <p>Duxisse praestat efferam,</p>
+  <p>Pigram, superbam aut invidam</p>
+  <p>≤line=490≥ Quam stolidam et amentem, rei</p>
+  <p>Cui nulla cura domesticae.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-i.">
+  <head>22. ACTUS V. SCAENA I.</head>
+  <p>ALUTA, HEINO.</p>
+  <p>Dolus, dolus, malus dolus, Petronius,</p>
+  <p>Gallus meus. HEI. Quiesce, Aluta, paululum!</p>
+  <p>Non est dolus. ALU. Dolus, dolus, Petronius.</p>
+  <p>≤line=495≥ HEI. Quisnam Petronius? ALU. Nepos, dolus,</p>
+  <p>Petronius, gallus meus. HEI. Mirabile hoc</p>
+  <p>Insaniae genus! Memorat gallos, dolos,</p>
+  <p>Petronios. Sed occipit quiescere;</p>
+  <p>Si dormiat, spes aliqua curae erit. Foras</p>
+  <p>≤line=500≥ Prodibo, dum veniat sacrificus. Eccum adest,</p>
+  <p>Indutus albo supparo, cinctus stola,</p>
+  <p>Se signat undique nescio quid murmurans.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-ii.">
+  <head>23. ACTUS V. SCAENA II.</head>
+  <p>MYSTOTUS, HEINO, ALUTA.</p>
+  <p>Quid hoc mali est, Heino, quod uxori accidit?</p>
+  <p>HEI. Mystote, tota spes mea est in te unico.</p>
+  <p>≤line=505≥ MYS. Ubi, quomodo et quando accidit? HEI. Mane exiit</p>
+  <p>Mente integra ad forum, redit iam vesperi</p>
+  <p>Lymphata, rapta nescio quo daemone.</p>
+  <p>Clamat, vomit, aliena loquitur, nullus est</p>
+  <p>Rationis usus. Tu vide, quid possies</p>
+  <p>≤line=510≥ Per verba sacra et mystica aut quid facto opust!</p>
+  <p>MYS. Dabo operam. At ubi posuistis illam? Ducite</p>
+  <p>Me intro! HEI. En misellam, ut vultibus torvis iacet!</p>
+  <p>MYS. Hui, quidnam hoc est, quod rete caput obvolvitur?</p>
+  <p>HEI. Comparuit ita, neque temere tentavimus</p>
+  <p>≤line=515≥ Resolvere. MYS. Auferatur. Hoc non quodlibet</p>
+  <p>Fore rete, sed nebulonis auguror. ALU. Dolus,</p>
+  <p>Dolus. HEI. Hem, occipit. ALU. Petronius. MYS. Quisnam ipsus
+  est?</p>
+  <p>ALU. Tenebrio, gallus meus, sestertii.</p>
+  <p>HEI. Haec usque cantat. MYS. Singularis admodum haec</p>
+  <p>≤line=520≥ Insania est. Seorsum abite paululum!</p>
+  <p>HEI. Paremus; haud enim decet mysteriis</p>
+  <p>Sacris adesse rusticos. Stemus procul!</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-iii.">
+  <head>24. ACTUS V. SCAENA III.</head>
+  <p>MYSTOTUS sacrificus, ALUTA.</p>
+  <p>In nomine patris atque filii, sacri</p>
+  <p>Quoque spiritus cede, maledicte diabole,</p>
+  <p>≤line=525≥ Ab hac Dei famula et da honorem illi Deo,</p>
+  <p>Qui iudicare mortuos venturus est</p>
+  <p>Vivosque per flammam! ALU. Heus Bromi, heus Iacche, ades!</p>
+  <p>MYS. Ego te, Bromi, exorcizo. Iacche, adiuro te</p>
+  <p>Per filium Dei, ut vel exeas vel ut ...</p>
+  <p>≤line=530≥ ALU. Phi, Bromie, phi, phi, Bacche, phi, quam amarus
+  es!</p>
+  <p>MYS. Vin’ dulcia? ALU. Hem, sint quaeque dulcia, Massica.</p>
+  <p>Mox emptor solverit. MYS. Per Herculem patremque</p>
+  <p>Liberum, non admodum haec mulier malo</p>
+  <p>Adflata numine est. Ut audiit mysteria,</p>
+  <p>≤line=535≥ Mox ultro prosiluit nocens solo halitu,</p>
+  <p>Quem proruens post se reliquit, fetido.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-iv.">
+  <head>25. ACTUS V. SCAENA IV.</head>
+  <p>HEINO, MYSTOTUS sacrificus.</p>
+  <p>Foras repente prosilit sacrificulus.</p>
+  <p>Timeo, male sit rei. MYS. Timere desine!</p>
+  <p>Bona pars propulsa est numinis saevissimi,</p>
+  <p>≤line=540≥ Quod adripit subin’ viros fortissimos.</p>
+  <p>HEI. Hau! MYS. Ceterum quiescat, edormiscat id,</p>
+  <p>Quod residuum est. In crastinum periculum</p>
+  <p>Nullum. Ultro reliquum proruet. Vos denique,</p>
+  <p>Qui adestis huic spectaculo, animadvertite!</p>
+  <p>≤line=545≥ Haud impio est adflata genio mulier haec:</p>
+  <p>Arrepta Baccho. Bacchidum more hactenus</p>
+  <p>Bacchata tandem resipiet. Verum moras</p>
+  <p>Rescindite; haud enim modo, sed crastino</p>
+  <p>Die intus in penita aede sorbitiuncula</p>
+  <p>≤line=550≥ Curabitur. Quod accidit nebulonibus</p>
+  <p>Cras scibitis; nam uterque deprehensus est</p>
+  <p>Plectendus in furca, die sed crastino.</p>
+  <p>Nos, Heino, eamus intro et ipso numine,</p>
+  <p>Quo uxor tua est adflata in urbe, Bacchico</p>
+  <p>≤line=555≥ Nostram cutem curemus istoc praevio</p>
+  <p>Misso dolore molliter! HEI. Placet. Ilicet.</p>
+  <p>GREX histrionum.</p>
+  <p>Spectastis omnes, quam egimus comoediam;</p>
+  <p>Verum veremur, omnibus haud conduxerit.</p>
+  <p>Qui non alacrior excolendis moribus</p>
+  <p>≤line=560≥ Probis bonisque litteris evaserit,</p>
+  <p>Profecto is absque fruge spectator fuit.</p>
+  <p>Cavete proin, ne crapula aut temulentia</p>
+  <p>Gravemini! Haud enim ullus est prudentiae,</p>
+  <p>Ubi regnat ebrietas, locus. Cavete dein,</p>
+  <p>≤line=565≥ Ne fraudibus vacetis aut furto. Ipsa enim</p>
+  <p>Laqueo iugulum adigunt. Valete, plaudite!</p>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

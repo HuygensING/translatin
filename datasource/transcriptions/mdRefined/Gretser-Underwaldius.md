@@ -213,7 +213,7 @@ Aut simul iucunda et idonea dicere vitae.
 
 
 
-## Prologus
+# 1. Prologus
 
 Salvete Lucernenses1 quotquot huc pedem
 
@@ -413,7 +413,7 @@ Favete Nicolei caussa Underwaldii.
 
 
 
-## Actus primi scena secunda
+# 2. Actus primi scena secunda
 
 Nicolaus. Daemones (Belial; Asmodaeus)
 

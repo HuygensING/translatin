@@ -334,7 +334,7 @@ conclusit.
 
 
 
-## PERSONAE
+# 1. PERSONAE
 
 Vmbra Cunimundi. Satellites.
 
@@ -348,7 +348,7 @@ Nobilis. Chorus.
 
 ≤page=1≥
 
-## ACTVS PRIMVS.
+# 2. ACTVS PRIMVS.
 
 VMBRA CVNIMVNDI.
 
@@ -680,7 +680,7 @@ Et non vno noxia flagro
 
 Pectora vindex torquet Erynnis.
 
-## ACTVS SECVNDVS
+# 4. ACTVS SECVNDVS
 
 Rosimunda Diletta.
 
@@ -1424,7 +1424,7 @@ Et solerti mente latentes
 
 Rerum potuit noscere causas.
 
-## ACTVS TERTIVS
+# 6. ACTVS TERTIVS
 
 Rosimunda Helmiges.
 
@@ -1664,7 +1664,7 @@ Nunquam faciles effera poenas,
 
 Nec vulgares cogitat actus.
 
-## ACTVS QVARTVS
+# 8. ACTVS QVARTVS
 
 ROSIMVNDA, HELMIGES,
 
@@ -2116,7 +2116,7 @@ Pectore, quicquid nimis ambiguo
 
 Fortuna leuis iure coercet.
 
-## ACTVS QUINTVS
+# 10. ACTVS QUINTVS
 
 LONGINVS, SENEX.
 

@@ -559,7 +559,7 @@ Calend. Augusti Anno Domini, 1549.
 
 
 
-## PROLOGUS cum argumento in Euripum Tragoediam.
+# 1. PROLOGUS cum argumento in Euripum Tragoediam.
 
 Actam Louanij in Paedagogio Falconensi, Anno Domin 1548. Calend. Iulij.
 
@@ -795,7 +795,7 @@ Nunc (actioni ne qua contingat mora)
 
 Ad ludiones intro, mox vt prodeant.
 
-## PERSONAE DRAMATIS.
+# 2. PERSONAE DRAMATIS.
 
 Venvs et Cvpido, Diabolico schemate, Actu Primo, Quarto, et Quinto.
 
@@ -6369,7 +6369,7 @@ Quam regni dapibus perpetuis frui.
 
 ≤page=274≥
 
-## PERORATIO
+# 13. PERORATIO
 
 Ad vos revertor, iam peractis omnibus,
 

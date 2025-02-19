@@ -630,7 +630,7 @@ lius D.
 
 
 
-## PROLOGVS.
+# 1. PROLOGVS.
 
 Senarij.
 
@@ -718,7 +718,7 @@ Vt vestro patrocinio à rabidis morsibus
 
 Sit Sycophantarum tutus, vos obsecrat.
 
-## PERSONAE DRAMATIS
+# 2. PERSONAE DRAMATIS
 
 Angelus.
 
@@ -760,7 +760,7 @@ Satellites decem.
 
 Nuncius Ismaëlis.
 
-## PERIOCHA.
+# 3. PERIOCHA.
 
 Senarij
 
@@ -804,7 +804,7 @@ Manum ne extendas in puerum, & vt respicit,
 
 ≤line=20≥ Pro gnato haerentem in dumis arietem obtulit.
 
-## Actus I. Scena I.
+# 4. Actus I. Scena I.
 
 LOTHVS.
 
@@ -1044,7 +1044,7 @@ Ei fore, nunc ergo introrsus me recipiam
 
 Vt quae sunt ad iter hoc necessaria parem.
 
-## Scena II.
+# 5. Scena II.
 
 MAMRE, ESCOL, ANER.
 
@@ -1160,7 +1160,7 @@ Quae tu soles nobis pandere, diuinitas
 
 Edoctus. --
 
-## Scena III.
+# 6. Scena III.
 
 ABRAHAM, MAMRE, ESCOL. ANER.
 
@@ -1384,7 +1384,7 @@ Ad ipsum alio cum risum fuerit tempore,
 
 Docentem vt audiamus eum prolixius.
 
-## Scena IIII.
+# 8. Scena IIII.
 
 LOTHVS, ABRAMVS.
 
@@ -1538,7 +1538,7 @@ Haec est diuinae iustißima regula mentis,
 
 Aestuet vt tantò tardicr ira magis.
 
-## Actus II. Scena I.
+# 10. Actus II. Scena I.
 
 ABRAMVS.
 
@@ -1576,7 +1576,7 @@ Et iuxta vetus prouerbium est occipitio prior
 
 Frons, & agrum foecundum faciunt Domini vestigiae.
 
-## Scena II.
+# 11. Scena II.
 
 SARA, ISMAEL.
 
@@ -1650,7 +1650,7 @@ Eueniat citius quam velim. Verum ô Deus
 
 Hanc à nobis auerte cladem maximam.
 
-## Scena III.
+# 12. Scena III.
 
 ISMAEL, AGAR
 
@@ -1696,7 +1696,7 @@ Adire ipsam, atque expiscari quid sit negotij,
 
 Quod tam indignus modis meum tractauit filium.
 
-## Scena IIII.
+# 13. Scena IIII.
 
 AGAR. SARA
 
@@ -1742,7 +1742,7 @@ Quam illam? an ego Abrami coniunx, & domina siem,
 
 Nec ne? vtinam adesset iam, sed eccum iam venit.
 
-## Scena V.
+# 14. Scena V.
 
 ABRAMVS, SARA, AGAR.
 
@@ -1948,7 +1948,7 @@ Haeres progenitus coniuge libera
 
 Solus ius patriae susciperet domus.
 
-## Actus III. Scena I.
+# 16. Actus III. Scena I.
 
 ABRAMVS, ANGELVS.
 
@@ -2020,7 +2020,7 @@ Potens propagator nec non pater fiet.
 
 ABR. Domine mi, Domine mi, mox quod iubes fiet.
 
-## Scena II.
+# 17. Scena II.
 
 ABRAMVS, EBEDCATON.
 
@@ -2046,7 +2046,7 @@ Et faciam hac lubens. Nam melius est tuae voci obsequi,
 
 Quam stolidis & fatuis nostris indulgere affectibus.
 
-## Scena III.
+# 18. Scena III.
 
 EBEDCATON, AGAR, ISMAEL.
 
@@ -2070,7 +2070,7 @@ Quod nostra vetula intriuit nobis, id exedendum erit.
 
 AG. O mi fili, tu miser es, & ego omnium miserrima.
 
-## Scena IIII.
+# 19. Scena IIII.
 
 ABRAMVS, EBEDCATON, AGAR, ISMAEL.
 
@@ -2160,7 +2160,7 @@ Viuet Ismaël certò, & pater gentis erit maximae.
 
 Ite. valete, non possum vobiscum iam loqui amplius.
 
-## Scena V.
+# 20. Scena V.
 
 AGAR, ISMAEL.
 
@@ -2224,7 +2224,7 @@ Traduxisse? & peregrinos inter habitare populos,
 
 Et quid deest ei? an non hic etiam praesentem habet Deum?
 
-## Scena VI.
+# 21. Scena VI.
 
 ABRAMVS, ABIMELECH, PHICHOL
 
@@ -2406,7 +2406,7 @@ Manu parua, paucisque instructus copijs,
 
 Pauor e Panico pauefactis hostibus.
 
-## Scena VII.
+# 22. Scena VII.
 
 AGAR. ISMAEL, ANGELVS
 
@@ -2486,7 +2486,7 @@ Sedes figere, corde laetiore
 
 Cum natis socia & tori vt quiescat.
 
-## Actus IIII. Scena I.
+# 24. Actus IIII. Scena I.
 
 ABRAMVS.
 
@@ -2590,7 +2590,7 @@ Verùm instat tempus, vt quae sunt necessaria parem.
 
 Heus puer Eleazarum Damascenum mox euoca.
 
-## Scena II.
+# 25. Scena II.
 
 EBEDCATON, ELEAZARVS. ABRAMVS.
 
@@ -2640,7 +2640,7 @@ ELE. Here mi dabo operam vt curentur recte omnia.
 
 ABR. Dicas etiam Isaco, vt mox sese ad iter paret.
 
-## Scena III.
+# 26. Scena III.
 
 ABRAMVS.
 
@@ -2736,7 +2736,7 @@ Cum matre, audiam quid hoc sit? nam videtur tristior
 
 Esse mater solitò, fortè aliquid mens praesagit mali.
 
-## Scena III.
+# 27. Scena III.
 
 SARA, ISACVS, ABRAMVS
 
@@ -2822,7 +2822,7 @@ Sic fides omnes superat dolores
 
 Robore magno.
 
-## Actus V. Scena I.
+# 29. Actus V. Scena I.
 
 SARA, SCHIPCHA, ELEAZARVS.
 
@@ -2984,7 +2984,7 @@ ELE. AEquum est precari omnes nos pro salute heri
 
 Et herilis filij, & id faciemus sedulò.
 
-## Scena II.
+# 30. Scena II.
 
 ABRAMVS, ISACVS. SYRISCVS, ANDRODVS.
 
@@ -3114,7 +3114,7 @@ Interdum, quàm gratum est nobis. AND. Verum est, & non satis
 
 Mirari etiam possum, quid hoc munc sit negotij.
 
-## Scena III.
+# 31. Scena III.
 
 ABRAMVS, ISACVS, ANGELVS
 
@@ -3330,7 +3330,7 @@ Moram trahamus: tu praecurre, & dic vt mox parent,
 
 Ad reditum omnia, nam tempus etiam redeundi, domum.
 
-## Scena IIII.
+# 32. Scena IIII.
 
 ELEAZARVS, SARA, ABRAMVS, ISACVS.
 
@@ -3392,7 +3392,7 @@ SA. Veniunt? ABR. Sunt ne salua omnia? SA. Te saluo mi vir omnia.
 
 ISA. O mea mater charißima. SA. Fili mi dilectissime.
 
-## Scena V.
+# 33. Scena V.
 
 NVNCIVS, ELEAZARVS.
 
@@ -3440,7 +3440,7 @@ Cum nulla est spes reliqua amplius,
 
 Vertens moerorem in gaudium.
 
-## EPILOGVS.
+# 35. EPILOGVS.
 
 Ingentes vobis spectatores optimi
 

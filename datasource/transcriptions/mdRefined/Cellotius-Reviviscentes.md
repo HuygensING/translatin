@@ -105,7 +105,7 @@ felicitati mactandus.
 
 
 
-## PERSONAE.
+# 1. PERSONAE.
 
 
 
@@ -163,7 +163,7 @@ Euadit insons, vita Charilao redit:
 
 Sosipater in vtroque reuiuiscit filio.
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 DATE mihi noti atque ignoti audientiam
 
@@ -267,9 +267,9 @@ Gloriam parentum, malos mores pessundate,
 
 Vt vobis benè bonis sit, & malis malè.
 
-## ≤page=327≥ ACTVS PRIMVS.
+# 3. ≤page=327≥ ACTVS PRIMVS.
 
-## [^2]SCENA PRIMA.
+# 4. [^2]SCENA PRIMA.
 
 EVMENES. CHARILAVS. CRITIAS. HIPPIAS.
 
@@ -333,7 +333,7 @@ Crit. Neque se haud prouocatum pedibus obiiciet mihi,
 
 Incitaui hominem quantùm pote est. Eum. Properè aduoca.
 
-## ≤page=329≥ [^3]SCENA SECVNDA.
+# 5. ≤page=329≥ [^3]SCENA SECVNDA.
 
 CHARILAVS. EVMENES.
 
@@ -411,7 +411,7 @@ Seruulorum! mittendus est accientem qui acciat.
 
 I, quaere. Sed eccum Critiam. Vt anhelat verbero.
 
-## ≤page=331≥ [^5]SCENA TERTIA.
+# 6. ≤page=331≥ [^5]SCENA TERTIA.
 
 EVMENES. CHARILAVS. CRITIAS. TOXILVS.
 
@@ -550,7 +550,7 @@ Libero creditur, seruo nihil, etsi purgitat,
 
 Quasi non homo adaequè seruus ac liber siet.
 
-## [^6]SCENA QVARTA.
+# 7. [^6]SCENA QVARTA.
 
 CALLICLES. EVMENES. CHARILAVS.
 
@@ -618,7 +618,7 @@ Char. Quid ais cognate: Call. Hic est bestia eius sibilus.
 
 Char. Horreo cùm dicis, Perge. Call. Sed eccum patruum.
 
-## [^7]SCENA QVINTA.
+# 8. [^7]SCENA QVINTA.
 
 SOSIPATER. CALLICLES. CHARILAVS. EVMENES.
 
@@ -784,7 +784,7 @@ Sos. Videro, sequimini.\-\--
 
 
 
-## [^8]SCENA SEXTA.
+# 9. [^8]SCENA SEXTA.
 
 
 
@@ -838,9 +838,9 @@ Opibúsque summis suum faciet vt pereat Herculem.
 
 Licet Alcmenae non sim, tamen Eurystheum in me repperit.
 
-## ≤page=341≥ ACTVS SECVNDVS.
+# 10. ≤page=341≥ ACTVS SECVNDVS.
 
-## [^9]SCENA PRIMA.
+# 11. [^9]SCENA PRIMA.
 
 CLEOSTRATA. TOXILVS.
 
@@ -924,7 +924,7 @@ Exin velum vortitur. Cleo. Audio. sed. Tox. Quid, sed? hoc
 
 Aggredere tantum, quod occoeperis factum puta.
 
-## [^10]SCENA SECVNDA.
+# 12. [^10]SCENA SECVNDA.
 
 HIPPIAS. CLEOSTRATA. TOXILVS.
 
@@ -1031,7 +1031,7 @@ J sume festinus, solus esto, clauem refer.
 
 Hipp. Faciam quod iubes, ad te curriculò regrediar.
 
-## ≤page=346≥ [^11]SCENA TERTIA.
+# 13. ≤page=346≥ [^11]SCENA TERTIA.
 
 CLEOSTRATA. TOXILVS.
 
@@ -1069,7 +1069,7 @@ Cleo. Toxicum? Tox. Euge. Cleo. Quando? Tox. Cras, hodie, modò.
 
 Cleo. Hoc suades? Tox. Cùm tibi salutem & vitam volo.
 
-## ≤page=347≥ [^13]SCENA QVARTA.
+# 14. ≤page=347≥ [^13]SCENA QVARTA.
 
 HIPPIAS. CLEOSTRATA TOXILVS.
 
@@ -1101,7 +1101,7 @@ Valeat, reuortat ocyùs, ambo filios
 
 Facturum me quò valeant. Hipp. Mi domina vale.
 
-## [^14]SCENA QVINTA.
+# 15. [^14]SCENA QVINTA.
 
 TOXILVS. CLEOSTRATA.
 
@@ -1129,7 +1129,7 @@ Non facilè os ipsi subleuerim. Cleo. Tamen. Tox. Quid tamen?
 
 Cleo. Alios vidisti ventos. Tox. Pax. Factum puta.
 
-## [^15]SCENA SEXTA.
+# 16. [^15]SCENA SEXTA.
 
 CLEOSTRATA.
 
@@ -1159,7 +1159,7 @@ Promissis implebo, libertatem, lubentiam
 
 Spondebo, fiet spero morigerus mihi.
 
-## [^16]SCENA SEPTIMA.
+# 17. [^16]SCENA SEPTIMA.
 
 CLEOSTRATA. TOXILVS.
 
@@ -1223,7 +1223,7 @@ Si bonus es, viuo. Tox. Faciet exemplum hic dies
 
 Meae bonitatis, spero viues, tantùm abi.
 
-## [^17]SCENA OCTAVA.
+# 18. [^17]SCENA OCTAVA.
 
 TOXILVS.
 
@@ -1251,7 +1251,7 @@ Libens videbit, ante quem non vult mori.
 
 Sed quis hic est? Perii. Videon’ Hippiam? Ipsus est.
 
-## [^18]SCENA NONA.
+# 19. [^18]SCENA NONA.
 
 HIPPIAS. TOXILVS.
 
@@ -1341,7 +1341,7 @@ Cur redires? Hipp. Libuit. spondes? Tox. Spondeo. Hipp. Vale
 
 Ad herum recurro. Tox. Vel hercle in malam magnam crucem.
 
-## [^19]SCENA DECIMA.
+# 20. [^19]SCENA DECIMA.
 
 TOXILVS.
 
@@ -1363,7 +1363,7 @@ In magnis consiliis multorum diuûm opus est ope:
 
 Marsupio & isti numen falsificum est, delenificum.
 
-## [^20]SCENA VNDECIMA.
+# 21. [^20]SCENA VNDECIMA.
 
 TOXILVS. LYDVS.
 
@@ -1427,7 +1427,7 @@ Difacite cum istâc cochleâ mihi ne quicquam rei siet
 
 Nisi vbi moriendum fuerit. At tandem egreditur foras.
 
-## ≤page=356≥[^21]SCENA DVODECIMA.
+# 22. ≤page=356≥[^21]SCENA DVODECIMA.
 
 TOXILVS. PHILANDER.
 
@@ -1677,7 +1677,7 @@ Quòd periculi faciundi tempus suggeris.
 
 Tox. Et sine periculo. Phil. Istic opperirè me.
 
-## ≤page=361≥ [^22]SCENA DECIMATERTIA.
+# 23. ≤page=361≥ [^22]SCENA DECIMATERTIA.
 
 TOXILVS.
 
@@ -1717,7 +1717,7 @@ Strenuè, sed ordinatè. Nam nunquàm latus nudat.
 
 Sed ecce gradum ex oppido contrà tollit dux hostilis.
 
-## ≤page=362≥ [^23]SCENA DECIMAQVARTA.
+# 24. ≤page=362≥ [^23]SCENA DECIMAQVARTA.
 
 PHILANDER. LYDVS. TOXILVS.
 
@@ -1787,7 +1787,7 @@ Tox. Narrabo fors & pharmaci euentu tui.
 
 Phil. Commodè herclè. Vale ergo. Tox. Tu mihi multùm vale.
 
-## [^24]SCENA DECIMAQVINTA.
+# 25. [^24]SCENA DECIMAQVINTA.
 
 TOXILVS.
 
@@ -1821,9 +1821,9 @@ O poculum! ô ambrosia! ô vita Cleostratae! ô Toxili labor!
 
 Benè est in abaco: abeo. Di facito redeat breui Eumenes.
 
-## ACTVS TERTIVS.
+# 26. ACTVS TERTIVS.
 
-## [^26]SCENA PRIMA.
+# 27. [^26]SCENA PRIMA.
 
 EVMENES. CHARILAVS.
 
@@ -1861,7 +1861,7 @@ Sudorem, & aestum, mox vt sedaris sitim
 
 Aduocabis, quò matrem salutemus insimul.
 
-## [^27]SCENA SECVNDA.
+# 28. [^27]SCENA SECVNDA.
 
 CHARILAVS.
 
@@ -1891,7 +1891,7 @@ Meritò Deus Bacchus est, multa bona homini duit.
 
 Genua laborant. heu caput. morior. heu cor. occidi.
 
-## [^29]SCENA TERTIA.
+# 29. [^29]SCENA TERTIA.
 
 CRITIAS.
 
@@ -1923,7 +1923,7 @@ Cleostrata, Toxile, properate, accurrite,
 
 Cleostrata, Eumenes.\-\--
 
-## [^30]SCENA QVARTA.
+# 30. [^30]SCENA QVARTA.
 
 TOXILVS. CRITIAS.
 
@@ -1980,7 +1980,7 @@ Speculabor extra teli iactum quid gerat?
 
 Fors aliquâ parte Di facient placabilem.
 
-## ≤page=368≥ [^31]SCENA QVINTA.
+# 31. ≤page=368≥ [^31]SCENA QVINTA.
 
 LEOSTRATA. CRITIAS. TOXILVS.
 
@@ -2096,7 +2096,7 @@ A stabulo quadrupes. Crit. Calcar faciet Pegasum
 
 Quemcunque in sistam, nil moror, reducem puta.
 
-## [^32]SCENA SEXTA.
+# 32. [^32]SCENA SEXTA.
 
 CLEOSTRATA. TOXILVS.
 
@@ -2206,7 +2206,7 @@ Cleo. Commodè mones. i modo, patricidam aduoca. Tox. Tuum
 
 Igitur curato officium, ego efficiam meum.
 
-## ≤page=373≥ [^33]SCENA SEPTIMA.
+# 33. ≤page=373≥ [^33]SCENA SEPTIMA.
 
 CLEOSTRATA.
 
@@ -2242,7 +2242,7 @@ Neuter haeres esto, quando esse Charilaus nequit.
 
 Sed ellum, expecto quid animi hoc casu gerat.
 
-## [^34]SCENA OCTAVA.
+# 34. [^34]SCENA OCTAVA.
 
 EVMENES. CLEOSTRATA.
 
@@ -2324,7 +2324,7 @@ Osculum dare raptim. Cleo. Dum mox adbites. Eum. Meam
 
 Faxo ne culparis, mater, indiligentiam.
 
-## [^35]SCENA NONA.
+# 35. [^35]SCENA NONA.
 
 EVMENIS.
 
@@ -2380,9 +2380,9 @@ Charilae nondum dico supremum vale,
 
 Eluam te lacrymis vbi reuenerit pater.
 
-## ≤page=377≥ ACTVS QVARTVS.
+# 36. ≤page=377≥ ACTVS QVARTVS.
 
-## [^36]SCENA PRIMA.
+# 37. [^36]SCENA PRIMA.
 
 SOSIPATER. CLEOSTRATA. CALLICLES. CRITIAS. HIPPIAS.
 
@@ -2544,7 +2544,7 @@ Sos. Ab vnguiculis expertus sum hominem prouidum,
 
 Si minùs rixarum moueret. Call. Eccum quem petis.
 
-## ≤page=381≥ [^37]SCENA SECVNDA.
+# 38. ≤page=381≥ [^37]SCENA SECVNDA.
 
 SOSIPATER. TOXILVS. CLEOSTRATA.
 
@@ -2678,7 +2678,7 @@ extroquebo\]
 
 Sos. Simplex adolescentia est. Tox. Si est innocens. Sos. Ite, hoc agam.
 
-## [^38]SCENA TERTIA.
+# 39. [^38]SCENA TERTIA.
 
 CALLICLES. SOSIPATER.
 
@@ -2734,7 +2734,7 @@ Si mihi sit quae gallinas voret, quamuis amem,
 
 Et faciam delicias, tamen eiiciam domo.
 
-## [^39]SCENA QVARTA.
+# 40. [^39]SCENA QVARTA.
 
 EVMENES. SOSIPATER. CALLICLES \[\< SOSIPARER\]
 
@@ -2949,7 +2949,7 @@ Mala agere, miseria est, non mala pati: scelestum
 
 Infamia non facit. Sos. Hanc philosophiam occines Charonti.
 
-## ≤page=391≥ [^40]SCENA QVARTA.
+# 41. ≤page=391≥ [^40]SCENA QVARTA.
 
 
 
@@ -3100,7 +3100,7 @@ Vt labori quietem detis. Nic. Amiciter imperas, praei.
 
 Sos. Omnia parata serui, Philandrum Toxilus aduoces.
 
-## ≤page=395≥ [^41]SCENA SEXTA.
+# 42. ≤page=395≥ [^41]SCENA SEXTA.
 
 EVMENES.
 
@@ -3132,7 +3132,7 @@ Nequitia superet? bonis malè fiat, non bonis benè?
 
 Hâc aetate? hoc genere? his moribus? paternâ operâ occidam?
 
-## [^42]SCENA SEPTIMA.
+# 43. [^42]SCENA SEPTIMA.
 
 CALLICLES. TOXILVS.
 
@@ -3160,7 +3160,7 @@ Porrò adiutassis. Tox. Qui celat, quasi qui adiuuat,
 
 Call. Quaeso inquam. Tox. Frustra inquam ei: admedicum curro, ne attine.
 
-## [^43]SCENA OCTAVA.
+# 44. [^43]SCENA OCTAVA.
 
 CALLICLES. EVMENES.
 
@@ -3258,7 +3258,7 @@ Felicitatem: indignum est insontem mori.
 
 Eum. Turpe non est: animus probro si vacat, sat est benè.
 
-## [^44]SCENA NONA.
+# 45. [^44]SCENA NONA.
 
 PHILANDER. TOXILVS. CALLICLES. EVMENES.
 
@@ -3294,9 +3294,9 @@ Morsem spectat: non Aesculapius ipse sanet
 
 Cum totâ suà barba, ita pulsus arteriam reliquit.
 
-## ACTVS QVINTVS.
+# 46. ACTVS QVINTVS.
 
-## [^45]SCENA PRIMA.
+# 47. [^45]SCENA PRIMA.
 
 SOSIPARER. NICOBVLVS. EVMENES. PHIDIPPIDES. PHIILANDER.
 
@@ -3544,7 +3544,7 @@ Si quid peccatis, Deos timete vindices.
 
 Praeuaricari ne cogar, excedam foro.
 
-## [^46]SCENA SECVNDA.
+# 48. [^46]SCENA SECVNDA.
 
 EVMENES. NICOBVLVS. PHIDIPTIDES.
 
@@ -3626,7 +3626,7 @@ Amisit lumen, alterum iubet effodi.
 
 Quae dementia coecum esse ne luscus sies?
 
-## [^47]SCENA TERTIA.
+# 49. [^47]SCENA TERTIA.
 
 TOXILVS. NICOBVLVS. EVMENES. PHILANDER. PHIDIPPIDES. CALLICLES. CRITIAS.
 HIPPIAS.
@@ -4155,7 +4155,7 @@ Tox. Membra deartuata, exossatum corpus, & quicquid times.
 
 Phil. Adde boias, equuleos, catastas, & quicquid merx.
 
-## ≤page=419≥ [^51]SCENA QVARTA.
+# 50. ≤page=419≥ [^51]SCENA QVARTA.
 
 SOSIPATER. NICOBVLVS. PHILANDER. TOXILVS. CLEOSTRATA.
 
@@ -4278,7 +4278,7 @@ Magicóque verba fremitu immurmuret, manes vocet,
 
 Cerberum remeanti Charilai animulae consopiat.
 
-## [^54]SCENA QVINTA.
+# 51. [^54]SCENA QVINTA.
 
 CLEOSTRATA. SOSIPATER. PHILANDER. CHARILAVS. PHIDIPPIDES. TOXILVS.
 EVMENES. CRITIAS. HIPPIAS.
@@ -4496,7 +4496,7 @@ Quàm furciferendus. Crit. Argutus es philomore. Tox. Namnam
 
 Me decet qui in vitâ fui argutus, acute moriri.
 
-## ≤page=428≥ [^55]SCENA SEXTA.
+# 52. ≤page=428≥ [^55]SCENA SEXTA.
 
 SOSIPATER. PHILANDER. CLEOSTRATA. EVMENES. CHARILAVS.
 

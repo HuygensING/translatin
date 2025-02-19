@@ -64,7 +64,7 @@ Fruitur perenni squallidus solacio.
 
 
 
-## PERSONAE DRAMATIS.
+# 1. PERSONAE DRAMATIS.
 
 Prologus Ancilla
 
@@ -88,7 +88,7 @@ cum 4 fratribus:
 
 \<Aphron, Cybicus, Etosius, Gauricus\>
 
-## PROLOGUS
+# 2. PROLOGUS
 
 Cum animos videret ad theatron plurium
 
@@ -208,7 +208,7 @@ Errare, ut is se moneat: audeo dicere,
 
 Quod obstinata mente dum cognoverit
 
-## ≤line=60≥ Errata quamvis minima, non defenderit.
+# 3. ≤line=60≥ Errata quamvis minima, non defenderit.
 
 Valete cuncti, et si favetis ludiis,
 
@@ -216,7 +216,7 @@ Quieti adeste vos, rogamus maxime.
 
 **Finis prologi.**
 
-## ACTUS I. SCAENA I.
+# 5. ACTUS I. SCAENA I.
 
 Iambici trimetri.
 
@@ -314,7 +314,7 @@ Huiusmodi est, ut nisi suavioribus
 
 Verbis loquare et blandulis, nil impetres.
 
-## ACTUS I. SCAENA II.
+# 6. ACTUS I. SCAENA II.
 
 Trimetri.
 
@@ -454,7 +454,7 @@ LAE. Licet, obsequendum mulieri. Ingrediar domum, et
 
 ≤line=175≥ Mutato amictu mox adibo Daemonem.
 
-## ACTUS I. SCAENA III.
+# 7. ACTUS I. SCAENA III.
 
 Trimetri.
 
@@ -493,7 +493,7 @@ Sed commodum, Cynopa adest. Cynopa, erus
 
 OEC. Ingredere. Tu Daetre, ad forum sequere. DAE. Assequor.
 
-## ACTUS I. SCAENA IV.
+# 8. ACTUS I. SCAENA IV.
 
 Trimetri.
 
@@ -575,7 +575,7 @@ CYN. Morare adhuc. LAE. Quid adhuc morae? CYN. Festucae adhuc
 
 A tergo adhaerent. LAE. Expedi. CYN. Sta paululum.
 
-## ACTUS I. SCAENA V
+# 9. ACTUS I. SCAENA V
 
 Trimetri.
 
@@ -639,7 +639,7 @@ Quod pauperum suorum Deus miserebitur
 
 Nec vota eorum prorsus interitura sunt.
 
-## ACTUS I. SCAENA VI.
+# 10. ACTUS I. SCAENA VI.
 
 Trimetri.
 
@@ -713,7 +713,7 @@ BRO. Foribus priores adsumus. Sta pone me.
 
 Tibi proximus stet Lazarus. TY. Stet Lazarus.
 
-## ACTUS I. SCAENA VII.
+# 11. ACTUS I. SCAENA VII.
 
 Trimetri, ut superiores.
 
@@ -867,7 +867,7 @@ Et exiet mox quispiam? Laemargus est.
 
 An solus usque, Typhle, agam causam tuam?
 
-## ACTUS I. SCAENA VIII.
+# 12. ACTUS I. SCAENA VIII.
 
 Trimetri.
 
@@ -1161,7 +1161,7 @@ Me soleris et adiuves.
 
 *Repetitio*: Preces votaque etc.
 
-## ACTUS II. SCAENA I.
+# 14. ACTUS II. SCAENA I.
 
 Tetrametri.
 
@@ -1225,7 +1225,7 @@ CYN. Illos volebam sordidos. Eamus intro et hunc gregem
 
 ≤line=520≥ Foribus seratis arceamus aedibus. THRA. Praei, sequor.
 
-## ACTUS II. SCAENA II.
+# 15. ACTUS II. SCAENA II.
 
 Tetrametri.
 
@@ -1308,7 +1308,7 @@ Nam video quosdam incognitos huc advolantes eminus
 
 Et ulcerosum Lazarum. TY. Nil obfuturus Lazarus.
 
-## ACTUS II. SCAENA III.
+# 16. ACTUS II. SCAENA III.
 
 Trimetri.
 
@@ -1376,7 +1376,7 @@ Fiat tamen non mea voluntas, sed tua.
 
 Procumbam in hac umbra et morabor gratiam.
 
-## ACTUS II. SCAENA IV.
+# 17. ACTUS II. SCAENA IV.
 
 MOLOBRUS cum PUERO, BRONCHUS, TYPHLUS.
 
@@ -1576,7 +1576,7 @@ Hanc partem ratus optimam
 
 *Repetitio*: Inter stulta etc.
 
-## ACTUS III. SCAENA I.
+# 19. ACTUS III. SCAENA I.
 
 Trimetri, ut reliqui omnes.
 
@@ -1688,7 +1688,7 @@ TRY. Abi. Hunc gregem tenebriconum non queam
 
 Propellere? ------------
 
-## ACTUS III. SCAENA II.
+# 20. ACTUS III. SCAENA II.
 
 CYNOPA, TRYPHERA, THRASO.
 
@@ -1742,7 +1742,7 @@ Ero apparata singula. CYN. Hem, facesso, era.
 
 TRY. Ibo intro, ut huc Thrasus morator exeat.
 
-## ACTUS III. SCAENA III.
+# 21. ACTUS III. SCAENA III.
 
 LAZARUS, BRONCHUS, THRASO, TYPHLUS.
 
@@ -1889,7 +1889,7 @@ Sapone quo manus meas hoc pure et his
 
 Putoribus piabo, prorsus nescio.
 
-## ACTUS III. SCAENA IV.
+# 22. ACTUS III. SCAENA IV.
 
 HYMNUS Lazari cum mendicis.
 
@@ -1967,7 +1967,7 @@ Solabitur nos, Lazare.
 
 ≤line=855≥ BRO. Crepunt fores, cedamus hac in viculum. TY. Hem.
 
-## ACTUS III. SCAENA V.
+# 23. ACTUS III. SCAENA V.
 
 CYNOPA solus.
 
@@ -2057,7 +2057,7 @@ Sors quod una sit omnibus
 
 Haec mortalibus optima.
 
-## ACTUS IV. SCAENA I.
+# 25. ACTUS IV. SCAENA I.
 
 Iambici trimetri.
 
@@ -2107,7 +2107,7 @@ APHR. Recte mones. LAZ. Oro, domina, mei memineris.
 
 ≤line=915≥ TRY. Sequar obvium; absenti Cynopam emisero.
 
-## ACTUS IV. SCAENA II.
+# 26. ACTUS IV. SCAENA II.
 
 LAZARUS, CYNOPA.
 
@@ -2151,7 +2151,7 @@ LAZ. Heu, quisquis es, miserere Lazari, fame
 
 ≤line=935≥ Qui deficit. ------------
 
-## ACTUS IV. SCAENA III.
+# 27. ACTUS IV. SCAENA III.
 
 MERIMNUS, LAEMARGUS, DAEMONES, FRATRES.
 
@@ -2235,7 +2235,7 @@ LAE. Hem, quisque quod magis libet prehendito.
 
 ≤line=970≥ Mensam meam volo cuique liberam.
 
-## ACTUS IV. SCAENA IV.
+# 28. ACTUS IV. SCAENA IV.
 
 LAZARUS solus.
 
@@ -2303,7 +2303,7 @@ Tenet ultima, et fatiscit aeger spiritus.
 
 Quare age, domine, sine bucceam mihi porrigi.
 
-## ACTUS IV. SCAENA V.
+# 29. ACTUS IV. SCAENA V.
 
 LAEMARGUS, THRASO, TRYPHERA, FRATRES, CYNOPA.
 
@@ -2399,7 +2399,7 @@ Ubi iam quievit poculum. CYN. Hem tibi ferculum,
 
 LAE. Mutato quadras primulum. CYN. Hem tibi quadras.
 
-## ACTUS IV. SCAENA VI.
+# 30. ACTUS IV. SCAENA VI.
 
 THRASO, LAZARUS.
 
@@ -2457,7 +2457,7 @@ Dolor afficit me et horror ingens occupat
 
 Ibo intro, ut haec ero meo renuntiem.
 
-## ACTUS IV. SCAENA VII.
+# 31. ACTUS IV. SCAENA VII.
 
 THRASO, LAEMARGUS, CONVIVAE omnes
 
@@ -2589,7 +2589,7 @@ Ponatur hoc in lectulo, medicus quoque
 
 Mox advocatus consulat, quid facto opust.
 
-## ACTUS IV. SCAENA VIII.
+# 32. ACTUS IV. SCAENA VIII.
 
 DIABOLI duo \<ASTEROTH, BELIAL\>, ANGELI DUO,
 
@@ -2765,7 +2765,7 @@ Basiliscum et aspidem teres.
 
 *Repetitio*: In Abrahae etc.
 
-## ACTUS V. SCAENA I.
+# 34. ACTUS V. SCAENA I.
 
 \<Trimetri\>
 
@@ -2825,7 +2825,7 @@ Melior mihi videor quod hunc ferre mereor.
 
 ≤line=1230≥ Crepit ostium, deflecte gressum in viculum.
 
-## ACTUS V. SCAENA II.
+# 35. ACTUS V. SCAENA II.
 
 OECONOMUS, TRYPHERA, DAEMONES.
 
@@ -2931,7 +2931,7 @@ OEC. Iam sapis. Eamus intro, et hoc negotium
 
 TRY. Hei fetor intolerabilis. DAEM. Nasum obstrue.
 
-## ACTUS V. SCAENA III.
+# 36. ACTUS V. SCAENA III.
 
 THRASO, CYNOPA.
 
@@ -3049,7 +3049,7 @@ THRA. Sta hic paululum; videbis omnes progredi,
 
 Saneque ero pompam exhibere splendidam. Huc.
 
-## ACTUS V. SCAENA IV.
+# 37. ACTUS V. SCAENA IV.
 
 OECONOMUS, DAEMONES, cum FAMILIA et FRATRIBUS,
 
@@ -3101,7 +3101,7 @@ Usque adeo levis haec arca mortualis est.
 
 OEC. Non fabulandi hic est locus. Procedite. MOL. Hem.
 
-## ACTUS V. SCAENA V.
+# 38. ACTUS V. SCAENA V.
 
 THRASO, CYNOPA, OECONOMUS.
 
@@ -3121,7 +3121,7 @@ Eamus intro et reliquiis ciborum et hoc
 
 Baccho cutem curemus. CYN. Id longe optimum.
 
-## ACTUS V. SCAENA VI.
+# 39. ACTUS V. SCAENA VI.
 
 LAEMARGUS, ABRAHAM.
 

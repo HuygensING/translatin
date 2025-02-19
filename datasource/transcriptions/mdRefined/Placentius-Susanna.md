@@ -36,7 +36,7 @@ firmius inhaeret, nec cito desidet.
 
 
 
-## Interlocutores
+# 1. Interlocutores
 
 *Poëta orans argumentum ad populum*.
 
@@ -68,7 +68,7 @@ Lorarii duo *personae mutae*
 
 *Angelus persona muta, stringens gladium*
 
-## Argumentum *sub iambis hyponactiis*
+# 2. Argumentum *sub iambis hyponactiis*
 
 Senes duo multo omnium impiissimi
 
@@ -116,7 +116,7 @@ spem in coelicolas ; favete nutibus.
 
 Exibit hic bis pessimus senex Crito.
 
-## ACTUS PRIMUS
+# 3. ACTUS PRIMUS
 
 *Crito iureconsultus et Petulus servus*
 
@@ -476,7 +476,7 @@ causemini; ita imperavit Susanna nostra.
 
 cui numquam aliquid negetur. Itaque eamus.
 
-## ACTUS SECUNDUS
+# 4. ACTUS SECUNDUS
 
 *Crito, Chrisalus senes*
 

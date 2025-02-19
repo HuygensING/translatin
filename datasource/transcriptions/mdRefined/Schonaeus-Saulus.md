@@ -12,7 +12,7 @@ SAVLVS.
 
 
 
-## Actorum nomina.
+# 1. Actorum nomina.
 
 SAVLVS.
 
@@ -54,7 +54,7 @@ IGNATIVS,
 
 ≤page=2≥
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 Senarij Iambici.
 
@@ -214,7 +214,7 @@ Recepto visu, & sacro afflatus numine,
 
 ≤line=15≥ Assertor Christi ex hoste euadit maximus.
 
-## ACTVS I. SCENA I.
+# 3. ACTVS I. SCENA I.
 
 SAVLVS, SOSIA.
 
@@ -302,7 +302,7 @@ Quid stas cunctator? redijsse oportuit.
 
 ≤folio=N3≥
 
-## ACTVS I. SCENA II.
+# 4. ACTVS I. SCENA II.
 
 SAVLVS.
 
@@ -376,7 +376,7 @@ Istum interturbem coetum. dormiunt, ego
 
 Pol illos, vti merentur, commouebo sacrilegos.
 
-## ACTVS I. SCENA III.
+# 5. ACTVS I. SCENA III.
 
 TRANIO, SOSIA, LYCO.
 
@@ -414,7 +414,7 @@ Commotus est, video, appellemus illum comiter.
 
 Animo irato mollis solet mederi oratio.
 
-## ACTVS I. SCENA IV.
+# 6. ACTVS I. SCENA IV.
 
 SAVLVS, SOSIA, TRANIO, LYCO.
 
@@ -548,7 +548,7 @@ Dilatio. Sa. Praebete vos viros, ego interim
 
 Tantisper hîc donec reditis opperiar foris.
 
-## ACTVS I. SCENA V.
+# 7. ACTVS I. SCENA V.
 
 SAVLVS.
 
@@ -628,7 +628,7 @@ Dum illi absunt, ibo intro. dein vbi quae ad hanc rem attinent
 
 Porro curauero, reuertar euestigio.
 
-## ACTVS I. SCENA VI.
+# 8. ACTVS I. SCENA VI.
 
 TRANIO, EVLALIA, LYCO, THEOPHILVS.
 
@@ -706,7 +706,7 @@ Nos expectat, properemus. Tr. Vah, moue te sceleratißime.
 
 Ly. Sequere venefica, nisi obtorto collo malis protrahi.
 
-## ACTVS I. SCENA VII.
+# 9. ACTVS I. SCENA VII.
 
 SAVLVS, TRANIO, LYCO, THBOPHILVS.
 
@@ -857,7 +857,7 @@ Dein’ ad me simul omnes reuertimini. Ly. Curabitur.
 
 Faxo tali eum mactatum, atque hi sunt, infortunio.
 
-## ACTVS II. SCENA I.
+# 10. ACTVS II. SCENA I.
 
 EVSTACHIVS, SOPHRONIVS, PHILIPPVS,
 
@@ -1059,7 +1059,7 @@ Ph. Quid si isthuc in animum induxisti fore vtile,
 
 Agite; nolo vobis vllum commodum in me claudier.
 
-## ACTVS II. SCENA II.
+# 11. ACTVS II. SCENA II.
 
 TRANIO.
 
@@ -1129,7 +1129,7 @@ Erit, quod non licere sibi putabunt audacißimi.
 
 Sed quid Lyconem tam diu remoretur nescio.
 
-## ACTVS II. SCENA III.
+# 12. ACTVS II. SCENA III.
 
 LYCO, TRANIO.
 
@@ -1181,7 +1181,7 @@ Tempus: & herus nos opperitur sat scio.
 
 ≤line=440≥ Properemus, ne quid fortè nostra offendatur mora.
 
-## ACTVS II. SCENA IV.
+# 13. ACTVS II. SCENA IV.
 
 SAVLVS, LYCO, TRANIO, LABRAX.
 
@@ -1323,7 +1323,7 @@ Vae isti culinae, quae nos saturabit famelicos.
 
 ≤line=505≥ Hem, quid stas Labrax? quin sequeris? La. Ego verò ac lubens.
 
-## ACTVS III. SCENA I.
+# 14. ACTVS III. SCENA I.
 
 PHILIPPVS, SOPHRONIVS, EVSTACHIVS.
 
@@ -1478,7 +1478,7 @@ Cerno, aegrum lecto decumbentem bajulant. viden’
 
 ≤line=575≥ Philippe? Ph. Video. Hem, quin illis prodimus obuiam.
 
-## ACTVS III. SCENA II.
+# 15. ACTVS III. SCENA II.
 
 NOSOPONVS, POLYDORVS, PHILIPPVS.
 
@@ -1757,7 +1757,7 @@ Eamus fratres. Tu autem mi adolescens, etiam atque etiam
 
 No. Memorem faxo te dicas monuisse. Ph. Hem fratres consequimini.
 
-## ACTVS III. SCENA III.
+# 16. ACTVS III. SCENA III.
 
 POLYDORVS, NOSOPONVS, PHILOXENES.
 
@@ -1873,7 +1873,7 @@ Feratur commodi. sine, inquam, ac me permittito
 
 Po. Itáne? No. Ita pater. Po. O lepidum spectaculum!
 
-## ACTVS III. SCENA IV.
+# 17. ACTVS III. SCENA IV.
 
 LYCO, TRANIO.
 
@@ -1992,7 +1992,7 @@ Rectà nos conferamus, cras vbi hoc villi edormiuimus,
 
 Per otium sobrij de isthac re consultabimus.
 
-## ACTVS IV. SCENA I.
+# 18. ACTVS IV. SCENA I.
 
 SAVLVS, PHYLAX.
 
@@ -2094,7 +2094,7 @@ Donec hoc perfecero. Ph. Laudo. Sa. I nunc intro, ego quod in
 
 Illos me facere dignum est, inuenero.
 
-## ACTVS IV. SCENA II.
+# 19. ACTVS IV. SCENA II.
 
 SAVLVS.
 
@@ -2250,7 +2250,7 @@ Quid aliud malim, quàm vel hodie itineri accingier?
 
 ≤line=930≥ At sat is hic cessatum est, adire eos volo.
 
-## ACTVS IV. SCENA III.
+# 20. ACTVS IV. SCENA III.
 
 LYCO.
 
@@ -2307,7 +2307,7 @@ Aedibus ipsum opportunè prodire conspicor.
 
 Laetus est, nondum isthaec resciuit mala.
 
-## ACTVS IV. SCENA IV.
+# 21. ACTVS IV. SCENA IV.
 
 SAVLVS, LYCO.
 
@@ -2427,7 +2427,7 @@ Intro ibi meum consilium, quidque in hac re
 
 Te facere velim intelliges. Ly. I prae, sequor.
 
-## ACTVS V SCENA I.
+# 22. ACTVS V SCENA I.
 
 MACARIVS, EVSTACHIVS,
 
@@ -2619,7 +2619,7 @@ Quid censeam, quidque expedire nobis arbitrer.
 
 Clanculum. Ma. Age igitur, res non patitur moram.
 
-## ACTVS V. SCENA II.
+# 23. ACTVS V. SCENA II.
 
 SAVLVS, SOSIA, TRANIO, LYCO. IESVS.
 
@@ -2810,7 +2810,7 @@ Sua dignabitur miserum clementia.
 
 Qui consoletur, doceatque quid spei reliquum fiet.
 
-## ACTVS V. SCENA III.
+# 24. ACTVS V. SCENA III.
 
 PHILIVPVS, SOPHRONIVS.
 
@@ -2895,7 +2895,7 @@ Mox aderit spero, huc me interea consequere. So. O miseriam!
 
 ≤page=49≥
 
-## ACTVS V. SCENA IV.
+# 25. ACTVS V. SCENA IV.
 
 EVSTACHIVS, POLYDORVS.
 
@@ -2993,7 +2993,7 @@ Abire, & quemadmodum monuit Polydorus, caeterum
 
 [^137]Fratribus incredibilem istum impertiri nuntium.
 
-## ACTVS V. SCENA V.
+# 26. ACTVS V. SCENA V.
 
 SAVLVS.
 
@@ -3081,7 +3081,7 @@ Longè commendatißima, si sese piam,
 
 Age Sosia, cedo manum, ac me intro reducito.
 
-## ACTVS V. SCENA VI.
+# 27. ACTVS V. SCENA VI.
 
 ANANIAS, MACARIVS, POLYDORVS.
 
@@ -3310,7 +3310,7 @@ Ei rem iam incredibilem, ac insperatam nuntiem.
 
 ≤page=56≥
 
-## ACTVS V. SCENA VII.
+# 28. ACTVS V. SCENA VII.
 
 ANANIAS, SAVLVS, POLYDORVS.
 
@@ -3498,7 +3498,7 @@ Paulisper, si placet, manete, vt audiatis, hic
 
 Qui progreditur, quid fit dicturus insuper.
 
-## PERORATIO.
+# 29. PERORATIO.
 
 Senarii & septenarii Iambici.
 

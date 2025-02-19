@@ -592,10 +592,12 @@ class TeiFromDocx:
 
                 number = f"{number.lower()}{numberSub}"
                 sections.append([start, triggerN, number])
+                secNum = len(sections)
+                secHead = f"{pre}{trigger}{post}".strip()
                 replacement = (
-                    f"## {pre}{trigger}{post}"
+                    f"# {secNum}. {secHead}"
                     if isSection
-                    else f"**{pre}{trigger}{post}**"
+                    else f"**{secHead}**"
                 )
             else:
                 replacement = match.group(0)

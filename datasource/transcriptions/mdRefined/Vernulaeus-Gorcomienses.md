@@ -467,7 +467,7 @@ Conuerte fructum, spectate hunc Vates bonus.
 
 
 
-## PERSONAE TRAGOEDIAE.
+# 1. PERSONAE TRAGOEDIAE.
 
 Fides Catholica.
 
@@ -513,7 +513,7 @@ Fratres duo Nicolai Pici.
 
 NICOLAI VERNVLAEI GORCOMIENSES.
 
-## ACTVS I. SCENA I.
+# 3. ACTVS I. SCENA I.
 
 Fides Catholica.
 
@@ -731,7 +731,7 @@ Cruoris alti flumen, & rabidum manus
 
 Incipe ratum est, peruersitas tua dum rata est.
 
-## SCENA II.
+# 4. SCENA II.
 
 Haereses tres, Caluiniana, Lutherana, Memnonistica.
 
@@ -1015,7 +1015,7 @@ Quaerendus ille mox Sorores: sed venit
 
 Nec fallor, hanc iuuamen immittit Pater.
 
-## SCENA III.
+# 5. SCENA III.
 
 Inquisitio, pugionibus cincta,
 
@@ -1119,7 +1119,7 @@ Parere certum est, & Bataue tuo viam
 
 Sceleri dabo: sic crescet in nefas scelus.
 
-## SCENA IV.
+# 6. SCENA IV.
 
 Haereses tres, & Inquisitio.
 
@@ -1569,7 +1569,7 @@ Fidei paternos: exules sequimur Fidem,
 
 Respice Deus, miserere Patriae Deus.
 
-## ACTVS II. SCENA I.
+# 8. ACTVS II. SCENA I.
 
 Lumnius Comes à Marca.
 
@@ -1735,7 +1735,7 @@ Et posteris credenda bella gentibus.
 
 Sic Lumnium testaberis Regi grauem.
 
-## SCENA II.
+# 9. SCENA II.
 
 Duuenuordius, Lumnius,
 
@@ -1991,7 +1991,7 @@ Venient, & effuso Batauia sanguine
 
 Rideat; erit sic perfidis cunctis timor.
 
-## SCENA III.
+# 10. SCENA III.
 
 Fides Catholica.
 
@@ -2083,7 +2083,7 @@ Constansque rapit gloria vitae
 
 Caelos, alacres ite Beati.
 
-## SCENA IV
+# 11. SCENA IV
 
 Inquisitio, Omalius, Captiui,
 
@@ -2315,7 +2315,7 @@ Dubius volentes, mente dum certâ tuos
 
 Crescat fides, cruore parta iam tuo.
 
-## SCENA V.
+# 12. SCENA V.
 
 Lumnius, Captiui, Omalius,
 
@@ -2595,7 +2595,7 @@ Forsitan hostem gratia flectet.
 
 ≤page=66≥
 
-## ACTVS III. SCENA I.
+# 14. ACTVS III. SCENA I.
 
 Tres Haereses.
 
@@ -2731,7 +2731,7 @@ Attende sceleri; Lumnius peraget tuum
 
 Spirabit, hanc namque haereses poscunt viam.
 
-## SCENA II.
+# 15. SCENA II.
 
 Lumnius, Duuenuordius, Bre¬
 
@@ -2929,7 +2929,7 @@ Libera repurgatae scientia patriae.
 
 ≤line=1110≥ DV. Sed en rebelles illico sapiant sibi.
 
-## SCENA III.
+# 16. SCENA III.
 
 Lumnius. N. P. Leon. Ministri,
 
@@ -3387,7 +3387,7 @@ Dabit haec mihi nox orta consilium necis.
 
 ≤page=82≥
 
-## SCENA IV.
+# 17. SCENA IV.
 
 Chorus Gorcomianorum, Lunnius, Brederodius, N. Pici Fratres,
 Duuenuordius, Omal.
@@ -3546,7 +3546,7 @@ Quem liberabis interim claudes domo.
 
 
 
-## SCENA V.
+# 19. SCENA V.
 
 Omalius, N. Picus. Hieronymus, Hezius.
 
@@ -3600,7 +3600,7 @@ Sed ibo fratres alloquar. HEZ. Salue Pater.
 
 ≤page=87≥
 
-## SCENA VI.
+# 20. SCENA VI.
 
 Nicolaus Picus, Fratres Pici.
 
@@ -3830,7 +3830,7 @@ Et quisquis hanc iuuat, simul sese iuuat.
 
 ≤page=92≥
 
-## ACTVS IV. SCENA I.
+# 22. ACTVS IV. SCENA I.
 
 Inquisitio Haeretica.
 
@@ -3956,7 +3956,7 @@ Exscindit vmbras. I, relinque iam diem
 
 Lumni, nefandum Nox scelus aperit tibi.
 
-## SCENA II.
+# 23. SCENA II.
 
 Lumnius, Duuenuordius, Brederodius, Nuncius, Omalius.
 
@@ -4238,7 +4238,7 @@ Discinde, donec trux cruorem respuat
 
 Quid ago? cito, cito, nescio, nescio, moras.
 
-## SCENA III.
+# 24. SCENA III.
 
 Omalius, Milites, Captiui.
 
@@ -4390,7 +4390,7 @@ Recipe fidem tuam. Patria vale, vale.
 
 Certamen intra, gloriam victrix feres.
 
-## SCENA IV.
+# 25. SCENA IV.
 
 Omalius, Milites.
 
@@ -4588,7 +4588,7 @@ Cunctum pati potest malum.
 
 ≤page=108≥
 
-## ACTVS V. SCENA I.
+# 27. ACTVS V. SCENA I.
 
 Senex Gorcomianus, Chorus Gorcomianorum.
 
@@ -4692,7 +4692,7 @@ Deploro nostris, & Tyranni si furor
 
 Noster erit idem. Sed Tyrannus en venit.
 
-## SCENA II.
+# 30. SCENA II.
 
 Lumnius, Duuenuordius, Brederodius, Senex, Chorus.
 
@@ -4868,7 +4868,7 @@ Sine rege cernens, & suâ Dominam fide.
 
 ≤page=114≥
 
-## SCENA III.
+# 33. SCENA III.
 
 Senex, Chorus, Fides Catholica.
 
@@ -5142,7 +5142,7 @@ Nostri penates iussa seruabunt Fides.
 
 ≤line=1525≥ Nunc Diua Diua vale. FID. Valete, vos quoque.
 
-## SCENA IV.
+# 35. SCENA IV.
 
 Fides Catholica in exilium abiens, Crucifixum Batauis relinquit.
 

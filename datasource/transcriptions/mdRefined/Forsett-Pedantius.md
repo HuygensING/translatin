@@ -128,7 +128,7 @@ In *numero, genere* & *ca•••* pouetur eodem.
 
 **PEDANTIVS. COMOEDIA Acta Cantabrigiae in COLL. TRIN.**
 
-## PERSONAE.
+# 1. PERSONAE.
 
 *Crobolus.* Amator.
 
@@ -152,7 +152,7 @@ In *numero, genere* & *ca•••* pouetur eodem.
 
 *Gilbertus.* Mercator pannarius.
 
-## ARGVMENTVM.
+# 2. ARGVMENTVM.
 
 *Lydiam* virginem, *Charondae* senis ancillam amabat *Chremuli* o∣lim
 seruus *Crobolus:* quam eandem sibi petijt *Paedagogus Pedantius.
@@ -162,9 +162,9 @@ Lydia,* minas ille, Virgi∣nem vt faciat liberam, poscit triginta
 *Crobolus* astutijs suis suorumque fecit, nummos vt daret *Pedantius,*
 ipse *Lydiam* acciperet.
 
-## Actus. 1.
+# 3. Actus. 1.
 
-## Scena. 1.
+# 4. Scena. 1.
 
 CROBOLVS.
 
@@ -393,7 +393,7 @@ Pog.
 
 Ego huc & illuc vortar, quo imperabis.
 
-## Actus 1. Scena 2.
+# 5. Actus 1. Scena 2.
 
 CROBOLVS.
 
@@ -720,7 +720,7 @@ Te verò imaginatio, siue phan∣tasia turbet melancholica perpetuò: qui
 vmbras rerum, non *identitates & haecceitates* ipsas vides. Sed nunc
 iste quid agat, paulisper hîc obseruabo.
 
-## Actus primi *Scena* Tertia.
+# 6. Actus primi *Scena* Tertia.
 
 PEDANTIVS.
 
@@ -1009,7 +1009,7 @@ ego quippè uxorem non *Thaidem,* ambio: sic enìm apud optimos authores
 Thais, (quae famosissima meretrix erat) abso∣lutè ponitur pro quavis
 meretrice.
 
-## Actus primi: *Scena* Quarta.
+# 7. Actus primi: *Scena* Quarta.
 
 POGGLOSTVS.
 
@@ -1277,9 +1277,9 @@ Ped.
 
 Eamus intrò nè hic fortasse de∣nuò nos invadat.
 
-## Actus secundus:
+# 8. Actus secundus:
 
-## Scena Prima.
+# 9. Scena Prima.
 
 CROBOLVS.
 
@@ -1356,7 +1356,7 @@ saginabo. Incep∣tum est, spero, haud incommodè, Exitus acta probabit.
 Sed quis hic strepitus? tu domum revertere, ego Pogglostum consequar, ut
 Tyrophagum agenda cuncta doceam.
 
-## Actus secundus: *Scena* Secunda.
+# 10. Actus secundus: *Scena* Secunda.
 
 PEDANTIVS.
 
@@ -1666,7 +1666,7 @@ Ped.
 Nequaquàm: spectator eris mearum pugnarum, dùm ego hanc ado∣rior vel
 adoro potius.
 
-## Actus secundus. *Scena* Tertia.
+# 11. Actus secundus. *Scena* Tertia.
 
 LYDIA.
 
@@ -1901,7 +1901,7 @@ Ped.
 Mihi verò sic omnem abstulit animum, ut nesciam ens sim an non ens.
 Sequere me.
 
-## Actus secundus. *Scena* Quarta.
+# 12. Actus secundus. *Scena* Quarta.
 
 TYROPHAGVS.
 
@@ -1991,9 +1991,9 @@ sto∣machi nostri calor quantò superet struthiocameli furnum. Nàm certè
 concoquere hominem, & planè absu∣mere decrevi: Pogglostum credo carcere
 conclusum aliquo, cùm jàm nusquàm appareat. Reviso quid hic agatur.
 
-## Actus tertius.
+# 13. Actus tertius.
 
-## Scena prima.
+# 14. Scena prima.
 
 PEDANTIVS.
 
@@ -2114,7 +2114,7 @@ sunt res domesticae, sivè (ut Graeei loquuntur) oeconomicae, tùm etiàm
 comparandae vestes aulicae: Nàm *splendidae vestes sunt nobilitatis
 testes.* Sequere me.
 
-## Actus Tertius. *Scena* Secunda.
+# 15. Actus Tertius. *Scena* Secunda.
 
 POGGLOSTVS *solus.*
 
@@ -2141,7 +2141,7 @@ illam lubens artificiosè am∣putarem?
 
 ≤page=73|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/80?hi=0;vid=14811;q1=pedantius≥
 
-## Actus Tertius.*Scena* Tertia.
+# 16. Actus Tertius.*Scena* Tertia.
 
 TYROPHAGVS.
 
@@ -2259,7 +2259,7 @@ Tyr.
 
 Miserum me! quid audio? quo fugiam? Crobole, Crob.
 
-## Actus tertius. *Scena* Quarta.
+# 17. Actus tertius. *Scena* Quarta.
 
 CROBOLVS.
 
@@ -2391,7 +2391,7 @@ Optimè ibi etiàm hoc ornatu me exuam. Eamus.
 
 ≤page=80|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/87?hi=0;vid=14811;q1=pedantius≥
 
-## Actus Tertius. *Scena* Quinta.
+# 18. Actus Tertius. *Scena* Quinta.
 
 PEDANTIVS.
 
@@ -2618,7 +2618,7 @@ tempore substantialis quaedam subtilitas: scilicet *in ignem,* qui certe
 ≤page=89|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/96?hi=0;vid=14811;q1=pedantius≥
 ex mente Commentatoris, nihil est ali∣ud quàm aër inflammatus▪
 
-## Actus tertius. *Scena* Sexta.
+# 19. Actus tertius. *Scena* Sexta.
 
 LYDIA.
 
@@ -2894,9 +2894,9 @@ extra horizontem intelligentiae nostrae positas. Hoc visum est nobis
 addere co∣rollarium ad declarandum judicium meum, si quis fortè novitius
 perplexus sit super istâ re. Nunc abibo, & docebo Parillum.
 
-## Actus Quarta.
+# 20. Actus Quarta.
 
-## Scena Prima.
+# 21. Scena Prima.
 
 CROBOLVS.
 
@@ -3127,7 +3127,7 @@ Cro.
 
 Eamus, Poggloste.
 
-## Actus Quarta. *Scena* Secunda.
+# 22. Actus Quarta. *Scena* Secunda.
 
 DROMODOTVS.
 
@@ -3283,7 +3283,7 @@ Syllogismorum verò pes∣sima. Eamus.
 
 ≤page=114|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/121?hi=0;vid=14811;q1=pedantius≥
 
-## Actus Quartus. *Scena* Tertia.
+# 23. Actus Quartus. *Scena* Tertia.
 
 PEDANTIVS.
 
@@ -3343,7 +3343,7 @@ locupletissimū Amorem meum: tamen (vt fatear quod res est) postquàm
 as∣pexi hanc, ità sum recreatus, vt mihi Deus aliquis fecisse medicinam
 videa∣tur. Age, loquere, vt te videam.
 
-## Actus Quartus. *Scena* Quarta.
+# 24. Actus Quartus. *Scena* Quarta.
 
 TVSCIDILLA.
 
@@ -3605,7 +3605,7 @@ Lud.
 Quid tàm praecipitantèr à nobis avolat? Ego experiar, quid fiet. Vos
 introite, valete.
 
-## Actus Quartus. *Scena* Quinta.
+# 25. Actus Quartus. *Scena* Quinta.
 
 GILBERTVS.
 
@@ -3784,9 +3784,9 @@ Nunc postquam hic abierit, quid non & ego abeo?
 
 ≤page=133|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/140?hi=0;vid=14811;q1=pedantius≥
 
-## Actus Quintus.
+# 26. Actus Quintus.
 
-## Scena Prima.
+# 27. Scena Prima.
 
 PEDANTIVS.
 
@@ -3935,7 +3935,7 @@ Ped.
 Nunc quoniam vacat, dum iste▪ revertitur, ut occultetur quid conor, ad
 praelegendi me munus per∣sonamque revocabo. Parille, Parille, exito.
 
-## Actus Quintus. *Scena* Secunda.
+# 28. Actus Quintus. *Scena* Secunda.
 
 PARILLVS.
 
@@ -4104,7 +4104,7 @@ hoc nau∣fragium.
 
 ≤page=144|https://quod.lib.umich.edu/e/eebo/A09214.0001.001/151?hi=0;vid=14811;q1=pedantius≥
 
-## Actus Quintus. *Scena* Tertia.
+# 29. Actus Quintus. *Scena* Tertia.
 
 GILBERTVS.
 
@@ -4440,7 +4440,7 @@ Ped.
 
 Qui non est hodiè, cras minùs aptus erit.
 
-## Actus Quintus. *Scena* Quarta.
+# 30. Actus Quintus. *Scena* Quarta.
 
 DROMODOTVS.
 
@@ -4486,7 +4486,7 @@ Ped.
 
 Acta jàm & transacta sunt om∣nia, vti spero.
 
-## Actus Quintus. *Scena* Quinta.
+# 31. Actus Quintus. *Scena* Quinta.
 
 BLETVS.
 
@@ -4584,7 +4584,7 @@ Ble.
 
 Concrepuit jàm ostium ab eâ; expectate parumper.
 
-## Actus Quintus. *Scena* Sexta.
+# 32. Actus Quintus. *Scena* Sexta.
 
 TVSCIDILLA.
 

@@ -46,7 +46,7 @@ Fit matribus gnatisque magnum gaudium.
 
 
 
-## DRAMATIS PERSONAE.
+# 1. DRAMATIS PERSONAE.
 
 Prologus cum Morione Dromella, ancilla
 
@@ -68,7 +68,7 @@ Melancia, ancilla Marlocappus, diabolus
 
 **Chorus ex Aristippicae scholae auditoribus.**
 
-## PROLOGUS cum MORIONE.
+# 3. PROLOGUS cum MORIONE.
 
 Iambici trimetri.
 
@@ -224,7 +224,7 @@ Ne huius choragi in vos crepent mox cottabi. MOR. St.
 
 Ego abeo. MOR. Ego maneo. PRO. Mane. MOR. Manebo, abi.
 
-## ACTUS I. SCAENA I.
+# 4. ACTUS I. SCAENA I.
 
 Iambici trimetri acatalectici.
 
@@ -302,7 +302,7 @@ Sed commodum, eccam, obambulat mihi eminus.
 
 Morabor usque dum appropinquet, et alloquar.
 
-## ACTUS I. SCAENA II.
+# 5. ACTUS I. SCAENA II.
 
 Trimetri ut superiores.
 
@@ -414,7 +414,7 @@ E fronte sphaeristerii gnatum meum
 
 ≤line=165≥ Vocavero. Heus tu, Clopice, adesdum, sequere me.
 
-## ACTUS I. SCAENA III.
+# 6. ACTUS I. SCAENA III.
 
 Trimetri ut superiores.
 
@@ -458,7 +458,7 @@ Nos arguant coram magistro ignaviae.
 
 Pulsare tentant ostium: properandum erit.
 
-## ACTUS I. SCAENA IV.
+# 7. ACTUS I. SCAENA IV.
 
 Trimetri ut superiores.
 
@@ -512,7 +512,7 @@ Diverberes, alias male audies. Vale.
 
 ARI. Valete. Daemonium sua mater filio est.
 
-## ACTUS I. SCAENA V.
+# 8. ACTUS I. SCAENA V.
 
 Iambici dimetri acatalectici.
 
@@ -588,7 +588,7 @@ Si quis tener dimittitur
 
 Confundet is matrem suam.
 
-## ACTUS II. SCAENA I.
+# 10. ACTUS II. SCAENA I.
 
 Iambici tetrametri seu octonarii.
 
@@ -682,7 +682,7 @@ Per dolum aliena rapere. CLO. Do, dimitte me. DYS. Cedo statim.
 
 CLO. Meretricie, scelerate, perfide, accipe tuam rem atque abi.
 
-## ACTUS II. SCAENA II.
+# 11. ACTUS II. SCAENA II.
 
 Octonarii quadrati, ut superiores.
 
@@ -705,7 +705,7 @@ Ni sustulisses nummulos meos. ARI. Sat est verborum, eos
 
 ≤line=290≥ Prehendite, introducite, ut certaminis palmam ferant.
 
-## ACTUS II. SCAENA III.
+# 12. ACTUS II. SCAENA III.
 
 Iambici dimetri acatalectici.
 
@@ -763,7 +763,7 @@ Res) fungi honesto munere,
 
 Malos subinde caedere.
 
-## ACTUS III. SCAENA I.
+# 14. ACTUS III. SCAENA I.
 
 Iambici trimetri acatalectici.
 
@@ -799,7 +799,7 @@ Valeat Aristippus senex, trux carnifex.
 
 DYS. Eamus hinc. ------------
 
-## ACTUS III. SCAENA II.
+# 15. ACTUS III. SCAENA II.
 
 Trimetri ut superiores.
 
@@ -853,7 +853,7 @@ Dum currere ad Philotecnium neptem queam
 
 Et omnibus de his certiorem reddere.
 
-## ACTUS III. SCAENA III.
+# 16. ACTUS III. SCAENA III.
 
 Trimetri ut praecedentes.
 
@@ -947,7 +947,7 @@ Comminxero, cognata, me, nisi redeas.
 
 CA. Maledicta sola si ingero, nihil hinc mali.
 
-## ACTUS III. SCAENA IV.
+# 17. ACTUS III. SCAENA IV.
 
 Trimetri ut praecedentes.
 
@@ -1067,7 +1067,7 @@ CA. Fiat; nam id optimum arbitrata sum, prius
 
 Quam tu mihi suggesseris: valeant scholae.
 
-## ACTUS III. SCAENA V.
+# 18. ACTUS III. SCAENA V.
 
 Iambici dimetri acatalectici.
 
@@ -1129,7 +1129,7 @@ Mulier, sed et nocentior
 
 (Si conferas) cacodaemone.
 
-## ACTUS IV. SCAENA I.
+# 20. ACTUS IV. SCAENA I.
 
 Iambici trimetri acatalectici.
 
@@ -1179,7 +1179,7 @@ Formosulae atque comptulae. CLO. Recte id quidem
 
 Iam quispiam mittendus est, qui accersiat.
 
-## ACTUS IV. SCAENA II.
+# 21. ACTUS IV. SCAENA II.
 
 Senarii iambici ut superiores.
 
@@ -1267,7 +1267,7 @@ Procedere? DYS. Video. CLO. Is tuis medebitur
 
 Amoribus. DYS. Faxit Venus, sequere. CLO. Sequor.
 
-## ACTUS IV. SCAENA III.
+# 22. ACTUS IV. SCAENA III.
 
 Iambici trimetri ut superiores.
 
@@ -1325,7 +1325,7 @@ GAU. Curabo; tu opperire. LAB. Sint formosula.
 
 GAU. Erunt. At ubi te repperero? LAB. Hoc loco. GAU. Placet.
 
-## ACTUS IV. SCAENA IV.
+# 23. ACTUS IV. SCAENA IV.
 
 Iambici trimetri quadrati.
 
@@ -1365,7 +1365,7 @@ DYS. Si huiusmodi forent puellae, quas modo ductarier
 
 ≤line=585≥ Poposcimus, pol respuendae non forent. CLO. Pol non forent.
 
-## ACTUS IV. SCAENA V.
+# 24. ACTUS IV. SCAENA V.
 
 Octonarii quadrati ut superiores.
 
@@ -1389,7 +1389,7 @@ Putes. BROM. Ita volueram. Ingredimini et assidete, si placet.
 
 LAB. Nobis lubet, placeat modo adolescentibus. BROM. Contamini.
 
-## ACTUS IV. SCAENA VI.
+# 25. ACTUS IV. SCAENA VI.
 
 Tetrametri ut superiores.
 
@@ -1510,7 +1510,7 @@ Rhamnusiae, quae pessimum mihi vortit in statum optimum.
 
 ≤line=650≥ LAB. Litemus. Illi si velint, studento furtis pessimis.
 
-## ACTUS IV. SCAENA VII.
+# 26. ACTUS IV. SCAENA VII.
 
 Iambici tetrametri catalectici aut septenarii.
 
@@ -1569,7 +1569,7 @@ Bromium hospitem nostrum. Erimus accepti adferentes praedam.
 
 Hunc optimum est accedere et rei ordinem explicare.
 
-## ACTUS IV. SCAENA VIII.
+# 27. ACTUS IV. SCAENA VIII.
 
 Iambici trimetri acatalectici.
 
@@ -1599,7 +1599,7 @@ Quod si resciscat praeses, ipsi viderint.
 
 In me, puto, nil deprendet noxiae.
 
-## ACTUS IV. SCAENA IX.
+# 28. ACTUS IV. SCAENA IX.
 
 Senarii ut superiores.
 
@@ -1637,7 +1637,7 @@ Exactius iam examinandam iudici.
 
 Tu rem tuam, villane, cape. VIL. Habeo gratiam.
 
-## ACTUS IV. SCAENA X.
+# 29. ACTUS IV. SCAENA X.
 
 Iambici dimetri acatalectici.
 
@@ -1701,7 +1701,7 @@ Adulteria, scortatio,
 
 Nisi abusibus pecuniae?
 
-## ACTUS V. SCAENA I.
+# 31. ACTUS V. SCAENA I.
 
 Iambici trimetri acatalectici.
 
@@ -1789,7 +1789,7 @@ POMP. Scholastici fuere? CA. Dudum et hactenus
 
 Valete. Nam me adesse oportet praesidi.
 
-## ACTUS V. SCAENA II.
+# 32. ACTUS V. SCAENA II.
 
 Iambici tetrametri quadrati.
 
@@ -1850,7 +1850,7 @@ PHI. Iam deficit animus, labascunt omnia artua, nullus est
 
 Sensus. Utinam adsit. Heu morarier et sedere cogimur.
 
-## ACTUS V. SCAENA III.
+# 33. ACTUS V. SCAENA III.
 
 Tetrametri catalectici vel septenarii.
 
@@ -1888,7 +1888,7 @@ Pronuntiamus supplicio. LORA. Paremus. IUDEX. Exsequuntor.
 
 Clangat tuba. LORA. Heus uterque se commendet omnipotenti.
 
-## ACTUS V. SCAENA IV.
+# 34. ACTUS V. SCAENA IV.
 
 Iambici dimetri.
 
@@ -1944,7 +1944,7 @@ Tuba intonat secundo: adest
 
 Triumphus et spectaculum.
 
-## ACTUS V. SCAENA V.
+# 35. ACTUS V. SCAENA V.
 
 Anapaestici dimetri acatalectici.
 
@@ -2010,7 +2010,7 @@ LORA. Sinimus neque enim cupimus vestrae
 
 Obstare saluti, si qua fuat.
 
-## ACTUS V. SCAENA VI.
+# 36. ACTUS V. SCAENA VI.
 
 Trochaici trimetri catalectici.
 
@@ -2058,7 +2058,7 @@ ARI. Heus adeste, sequimini, ut scholastico
 
 ≤line=890≥ More corrigamini. Confidite.
 
-## ACTUS V. SCAENA VII.
+# 37. ACTUS V. SCAENA VII.
 
 Dimetri acatalectici.
 
@@ -2112,7 +2112,7 @@ LOR. Fugiamus hinc. Tuba intonat,
 
 Frendens citat nos Lucifer.
 
-## ACTUS V. SCAENA VIII.
+# 38. ACTUS V. SCAENA VIII.
 
 Iambici trimetri catalectici.
 
@@ -2184,7 +2184,7 @@ Ne, amabo, neglegatis haec correcti.
 
 CAPT. Qui neglegamus haec? Valete, matres.
 
-## ACTUS V. SCAENA IX.
+# 39. ACTUS V. SCAENA IX.
 
 Trimetri catalectici ut superiores.
 
@@ -2226,7 +2226,7 @@ Cenamque post didascalo, vicinis
 
 ≤line=965≥ Amiculisque proximis paremus.
 
-## ACTUS V. SCAENA X.
+# 40. ACTUS V. SCAENA X.
 
 Trimetri catalectici.
 
@@ -2306,7 +2306,7 @@ Procidite sponte supplices. DYS. Facessimus.
 
 Sed, obsecro, sequare nos. DIDA. Ite, assequar.
 
-## ACTUS V. SCAENA XI.
+# 41. ACTUS V. SCAENA XI.
 
 Trimetri ut praecedentes.
 
@@ -2362,7 +2362,7 @@ Sese et suos afficere probro iugiter.
 
 CA. Praestat profecto maxime. Sistamus hic.
 
-## ACTUS V. SCAENA XII.
+# 42. ACTUS V. SCAENA XII.
 
 Trimetri ut praecedentes.
 
@@ -2420,7 +2420,7 @@ Vix annuentem ad vesperum convivium
 
 PHI. Fecistis istuc probe. Secedite. CLO. Hem.
 
-## ACTUS V. SCAENA XIII.
+# 43. ACTUS V. SCAENA XIII.
 
 Trimetri ut superiores.
 
@@ -2484,7 +2484,7 @@ Tirunculi, in laudem Dei ora solvite.
 
 Dein sequimini. DYS. Haud gravatim solvimus.
 
-## ACTUS V. SCAENA XIV.
+# 44. ACTUS V. SCAENA XIV.
 
 Hymnus Sapphicus.
 

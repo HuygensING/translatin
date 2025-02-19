@@ -14,7 +14,7 @@ TOBAEVS.
 
 
 
-## Actorum nomina.
+# 1. Actorum nomina.
 
 TOBAEVS, senex.
 
@@ -50,7 +50,7 @@ GABELVS, senex.
 
 ≤page=2≥
 
-## PROLOGVS
+# 2. PROLOGVS
 
 Trimetri.
 
@@ -148,7 +148,7 @@ Quem conspicamini exire in proscenium,
 
 ≤line=45≥ Vobis periocham recitabit comoediae.
 
-## COMOEDIAE PERIOCHA.
+# 3. COMOEDIAE PERIOCHA.
 
 Tobaeus operam humandis nauans mortuis,
 
@@ -174,7 +174,7 @@ Praeter spem obiecto vndiquaque perstrepunt.
 
 ≤page=4≥
 
-## ACTVS I. SCENA I.
+# 4. ACTVS I. SCENA I.
 
 TOBAEVS, MYDA.
 
@@ -366,7 +366,7 @@ Parare, quod sit charius, quàm ipse est sibi?
 
 ≤line=90≥ Sed ostium à nobis crepuit, atque ipse exit foras.
 
-## ACTVS I. SCENA II.
+# 5. ACTVS I. SCENA II.
 
 TOBIAS TOBAEVS.
 
@@ -432,7 +432,7 @@ Non hominem demeretur. Sed cesso domum.
 
 Reuerti, vt quod opus sit futurum apparem.
 
-## ACTVS I. SCENA III.
+# 6. ACTVS I. SCENA III.
 
 ACHIOR, AEGIO, NABATHVS, TOBAEVS.
 
@@ -516,7 +516,7 @@ Tu mihi dexter accumbe Aegio: tu sinister Achior
 
 Tu Nabathe ex aduerso sedebis commode.
 
-## ACTVS I. SCENA IV.
+# 7. ACTVS I. SCENA IV.
 
 TOBAEVS, AEGIO, NABATHVS.
 
@@ -588,7 +588,7 @@ Et animus mihi praesagit nescio quid infortunij.
 
 ≤page=11≥
 
-## ACTVS I. SCENA V.
+# 8. ACTVS I. SCENA V.
 
 TOBIAS, TOBAEVS, ACHIOR.
 
@@ -648,7 +648,7 @@ Ac consanguinei perempti corpus publica
 
 ≤page=12≥
 
-## ACTVS I. SCENA VI.
+# 9. ACTVS I. SCENA VI.
 
 NABATVS, ACHIOR, AEGIO.
 
@@ -680,7 +680,7 @@ Oremus, vt temerariam eius confidentiam
 
 In meliorem vertat, quàm nos remur, exitum.
 
-## ACTVS I. SCENA VII.
+# 10. ACTVS I. SCENA VII.
 
 TOBAEVS, ANNA.
 
@@ -852,7 +852,7 @@ Vt neque lachrymis, neque precibus licet blandis
 
 Magis moueatur quàm saxum! ò grauis luctus!
 
-## ACTVS II. SCENA I.
+# 11. ACTVS II. SCENA I.
 
 SARA.
 
@@ -972,7 +972,7 @@ Meisque os obtures obtrectatoribus: quò desinant
 
 suis me posthac immerentem traducero mendaciis.
 
-## ACTVS II. SCENA II.
+# 12. ACTVS II. SCENA II.
 
 RAGVEL, SARA.
 
@@ -1079,7 +1079,7 @@ velis?
 
 Rag. Sequere me intrò. iam dudum enim te mater expectat domi.
 
-## ACTVS II. SCENA III.
+# 13. ACTVS II. SCENA III.
 
 TOBAEVS, ANNA.
 
@@ -1246,7 +1246,7 @@ An. Hem, desino, tu vide quo pacto efugias inediam, tibi
 
 Quam jam imminere denuncio: ego mihi facile prospexero.
 
-## ACTVS II. SCENA IV.
+# 14. ACTVS II. SCENA IV.
 
 ANNA, TOBIAS.
 
@@ -1373,7 +1373,7 @@ Sed quid quod te rogem mater. An. Quid? To. Nunquid est
 
 To. Intro igitur eamus. An. Vt lubet. hac me consequere. To. Sequor.
 
-## ACTVS II. SCENA V.
+# 15. ACTVS II. SCENA V.
 
 TOBAEVS.
 
@@ -1465,7 +1465,7 @@ Iam pridem enim vitae satietas me cepit meae.
 
 ≤page=26≥
 
-## ACTVS II. SCENA VI.
+# 16. ACTVS II. SCENA VI.
 
 TOBIAS, TOBAEVS, RAPHAEL.
 
@@ -1669,7 +1669,7 @@ Ad tempus, & pro Raphaele Azaria
 
 [^67]Mihi nomen esse dixero.
 
-## ACTVS II. SCENA VII.
+# 17. ACTVS II. SCENA VII.
 
 TOBIAS, TOBAEVS, RAPHAEL.
 
@@ -1783,7 +1783,7 @@ Intro, ac protinus ad iter para te: ne
 
 Quid huius commodum tua remoretur cunctatio. To. Fiet.
 
-## ACTVS II. SCENA VIII.
+# 18. ACTVS II. SCENA VIII.
 
 TOBAEVS, RAPHAEL. TOBIAS,
 
@@ -1831,7 +1831,7 @@ Hem puer, concede huc, meque intro reducito.
 
 ≤page=31≥
 
-## ACTVS III. SCENA I.
+# 19. ACTVS III. SCENA I.
 
 TOBIAS, RAPHAEL.
 
@@ -1859,7 +1859,7 @@ Sudore ac puluere turpatos abluam. Ra.
 
 ≤line=765≥ Non fastidiendum praebebit refrigerium mihi.
 
-## ACTVS III. SCENA. II.
+# 20. ACTVS III. SCENA. II.
 
 ANNA.
 
@@ -1915,7 +1915,7 @@ Aut dulce, aut iucundum videtur. Hei mihi, nullam arbitror
 
 [^77]Mulierum me infeliciorem viuere.
 
-## ACTVS III. SCENA III.
+# 21. ACTVS III. SCENA III.
 
 TOBIAS.
 
@@ -1959,7 +1959,7 @@ Se narraturum promisit. Sed eccum, ipsus
 
 Foras egreditur. \-\--
 
-## ACTVS III. SCENA IV.
+# 22. ACTVS III. SCENA IV.
 
 RAPHAEL, TOBIAS.
 
@@ -2149,7 +2149,7 @@ Esset quaerendus, vltrò nobis venit obuiam.
 
 ≤line=895≥ Nam tristior mihi videtur. Ra. Tace, quid ei doleat scio.
 
-## ACTVS III. SCENA V.
+# 23. ACTVS III. SCENA V.
 
 RAGVEL, EDNA.
 
@@ -2282,7 +2282,7 @@ Te, ac mactato ariete bene saginato, conuiuium appara:
 
 Mox simul omnes sequemur, ac hilarem sumemus hunc diem.
 
-## ACTVS III. SCENA VII.
+# 24. ACTVS III. SCENA VII.
 
 TOBIAS, RAPHAEL, RAGVEL.
 
@@ -2398,7 +2398,7 @@ Quis me fortunatior, si hoc coniugium feliciter
 
 Me consequimini. Tob. Deus vertat bene.
 
-## ACTVS IV. SCENA I.
+# 25. ACTVS IV. SCENA I.
 
 PHAEDRA, MYRRIINA.
 
@@ -2486,7 +2486,7 @@ Ocyus nos amoliamur: nolo me hîc hera
 
 ≤line=1045≥ Tecum garrientem conspiciat. Ph. I prae, sequor.
 
-## ACTVS IV. SCENA II.
+# 26. ACTVS IV. SCENA II.
 
 TOBIAS, SARA.
 
@@ -2552,7 +2552,7 @@ In me intentatos eludam. Sa. Vbi voles, sequor.
 
 Deus nostris fauore dignetur conatibus.
 
-## ACTVS IV. SCENA III.
+# 27. ACTVS IV. SCENA III.
 
 RAGVEL.
 
@@ -2644,7 +2644,7 @@ Fiamus vulgi, magisque traducamur, ac probris
 
 Vxor exit, quàm metuo, ne ex haec quod doleat audiam.
 
-## ACTVS IV. SCENA IV
+# 28. ACTVS IV. SCENA IV
 
 EDNA, MYRRHINA, RAGVEL.
 
@@ -2743,7 +2743,7 @@ Totam familiam delibutam reddamus gaudio.
 
 ≤line=1160≥ My. Age, Nae ego ex hoc nuncia maximum aliquod capiam bonum.
 
-## ACTVS IV. SCENA V.
+# 29. ACTVS IV. SCENA V.
 
 RAPHAEL, RAGVEL, LYCHAS.
 
@@ -2851,7 +2851,7 @@ Ad quod amicos omnes volo vocarier:
 
 Vt solidum hoc, numerisque omnibus fit absolutum gaudium.
 
-## ACTVS IV. SCENA VI.
+# 30. ACTVS IV. SCENA VI.
 
 TOBIAS. RAPHAEL.
 
@@ -2925,7 +2925,7 @@ comes.
 
 ≤page=51≥
 
-## ACTVS IV. SCENA VII.
+# 31. ACTVS IV. SCENA VII.
 
 SOSIA, MYRRHINA.
 
@@ -3009,7 +3009,7 @@ Intro fugiamus, ne quis forte hic nos opprimat
 
 Otiose garrientes: sequere me. Sos. Sequor.
 
-## ACTVS IV. SCENA VIII.
+# 32. ACTVS IV. SCENA VIII.
 
 GABELVS, RAPHAEL.
 
@@ -3104,7 +3104,7 @@ dignum facis.
 
 Gab. Tantisper opperire, intus dum me paro. Rap. Propera.
 
-## ACTVS V. SCENA I.
+# 33. ACTVS V. SCENA I.
 
 RAGVEL.
 
@@ -3214,7 +3214,7 @@ Omnes ex nostris aedibus simul exeunt.
 
 Mentem venit discessus: ô dolor grauis!
 
-## ACTVS V. SCENA II.
+# 34. ACTVS V. SCENA II.
 
 TOBIAS, RAPHAEL, RAGVEL, SARA.
 
@@ -3339,7 +3339,7 @@ Grati, nunc id incusare, quod votis frequenter vt
 
 Multa ex quo fuerint commoda, eius aequum est ferre incommoda.
 
-## ACTVS V. SCENA III.
+# 35. ACTVS V. SCENA III.
 
 TOBIAS, RAPHAEL.
 
@@ -3405,7 +3405,7 @@ Pulchrè gnaros, eis obuiam mittemus. To. Quid? tibi
 
 Si ex vsu istud fore videtur, age, lubens obtempero.
 
-## ACTVS V. SCENA IV.
+# 36. ACTVS V. SCENA IV.
 
 TOBAEVS, ANNA.
 
@@ -3563,7 +3563,7 @@ Diuinae non diffidas munificentiae.
 
 ≤page=62≥
 
-## ACTVS V. SCENA V.
+# 37. ACTVS V. SCENA V.
 
 TOBIAS, RAPHAEL, ANNA, TOBAEVS.
 
@@ -3717,7 +3717,7 @@ An. Intro igitur concedam, vt hoc ipsi dem negotij.
 ≤line=1600≥ Nisi quid dissentis mi vir. Tob. Iube properet quantùm
 potest.
 
-## ACTVS V. SCENA VI.
+# 38. ACTVS V. SCENA VI.
 
 TOBAEVS, TOBIAS, RAPHAEL.
 
@@ -3820,7 +3820,7 @@ Si quidem te ô caelum iterum mihi detur contemplarier?
 
 ≤page=67≥
 
-## PERORATIO
+# 39. PERORATIO
 
 Trimetri.
 

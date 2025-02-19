@@ -161,7 +161,7 @@ Quintinus serenus gandauus Epilogum dicebat.
 
 ≤page=5≥
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 EGregij patres (quamuis nec diuite vena
 
@@ -189,7 +189,7 @@ A quo principium rebus: pia cepta secundet
 
 
 
-## Argumentum.
+# 3. Argumentum.
 
 SAlutiarum marchio galterus, auis
 
@@ -1729,7 +1729,7 @@ Beatitatis perpetuę scandatur iter. K. Amen.
 
 ≤page=26≥
 
-## Actus secundus.
+# 4. Actus secundus.
 
 Sextus. Kinca. Galterus. Grisellis.
 
@@ -4929,7 +4929,7 @@ Vincite tartareum, supremus luppiter arces
 
 Aethereas vobis lęto det scandere gressu.
 
-## Conclusio.
+# 5. Conclusio.
 
 ≤line=2205≥ Grisellidis admirabilem patientiam
 
@@ -4983,7 +4983,7 @@ Placuisse: & egisse idoneam spectaculo
 
 Comoediam: Parcite tepidis laboribus
 
-## ≤line=2230≥ Errata siqua sint tolerate aut mungite.
+# 6. ≤line=2230≥ Errata siqua sint tolerate aut mungite.
 
 Nos optimo maximo prae ceteris
 

@@ -42,29 +42,29 @@
 </div>
 <div type="level1" xml:id="main">
   <head>Main</head>
-  <div type="level2" xml:id="prologus">
-    <head>Prologus</head>
-    <p>Postea quam mihi visum est posse aptius sumi iam dicendi genus,
-    quam quod ad cohortationem licenciandorum adiuuet, quo feruentius de
-    cetero prosequantur litteras, id arbitrabar vehementer vtile fore,
-    quod fructus adferrem amatoris scientiarum, coniungens eius ex
-    aduerso discrimina, qui litteris posthabitis ad questus aceruum sese
-    conferebat. Deprecor, o adulescentes dulcissimi, quod vestre iam
-    vtilitatis causa decantare libet, ita tenaci pectore imbibitote, ne
-    quid vnquam iucundius aut laudabilius existimetis, quam quod ad hec
-    que suxistis dogmata longe maiores semper philosophie refectiones
-    studeatis exhaurire. Moueat vos Vincentii quem audituri estis decus,
-    gloria, finis, pellitiat et lacessat Stylphontis ignominia,
-    calamitas, oppressio, cogitantes omnia mortalium bona, diuitias,
-    regna, potentatus, gloriam, iuuentam, valitudinem, siue fortune
-    iaculis siue fati crudelis incursu concuti adimique posse, animum
-    vero scientia decorum nunquam (etsi teneros exeat artus) posse
-    labefactarier.</p>
-    <p>Obsecro etiam humanissimos patres, vt hos iocos salis expertes in
-    hac ieiunij tempestate, que serio grauitateque potius egeret, equo
-    auscultent animo nec secus de his sentiant atque ea ipse congessi
-    iamiam in lucem processura.</p>
-  </div>
+  <p></p>
+</div>
+<div type="level1" xml:id="prologus">
+  <head>7. Prologus</head>
+  <p>Postea quam mihi visum est posse aptius sumi iam dicendi genus,
+  quam quod ad cohortationem licenciandorum adiuuet, quo feruentius de
+  cetero prosequantur litteras, id arbitrabar vehementer vtile fore,
+  quod fructus adferrem amatoris scientiarum, coniungens eius ex aduerso
+  discrimina, qui litteris posthabitis ad questus aceruum sese
+  conferebat. Deprecor, o adulescentes dulcissimi, quod vestre iam
+  vtilitatis causa decantare libet, ita tenaci pectore imbibitote, ne
+  quid vnquam iucundius aut laudabilius existimetis, quam quod ad hec
+  que suxistis dogmata longe maiores semper philosophie refectiones
+  studeatis exhaurire. Moueat vos Vincentii quem audituri estis decus,
+  gloria, finis, pellitiat et lacessat Stylphontis ignominia, calamitas,
+  oppressio, cogitantes omnia mortalium bona, diuitias, regna,
+  potentatus, gloriam, iuuentam, valitudinem, siue fortune iaculis siue
+  fati crudelis incursu concuti adimique posse, animum vero scientia
+  decorum nunquam (etsi teneros exeat artus) posse labefactarier.</p>
+  <p>Obsecro etiam humanissimos patres, vt hos iocos salis expertes in
+  hac ieiunij tempestate, que serio grauitateque potius egeret, equo
+  auscultent animo nec secus de his sentiant atque ea ipse congessi
+  iamiam in lucem processura.</p>
   <div type="level2" xml:id="prima-scena">
     <head>Prima scena</head>
     <p>Stylpho. Vincentius.</p>
@@ -468,17 +468,17 @@
     te cure, quid laboris attineat.</p>
     <p><hi rendition="simple:bold">Stilpho.</hi> Presens adero.</p>
   </div>
-  <div type="level2" xml:id="conclusio">
-    <head>CONCLUSIO</head>
-    <p>Quam admiranda fati commutatio! Ex curiali villanus, ex familiari
-    Cardinalium seruus agricolum, ex elato deiectus, ex animarum pastore
-    pastor porcorum euasit! Adeo miserabiles dat exitus ignorantia.
-    Vincentius recepto parentum opitulatamine, gymnasij locum repetiit
-    iuribusque obnixe perlectis. In principis primo cancellarium
-    assumitur, cuius deinde presidio fretus ad canonicatum, postremo ad
-    episcopi culmina concorditer eligitur Rexitque feliciter et
-    prudenter. Valete et plaudite.</p>
-  </div>
+</div>
+<div type="level1" xml:id="conclusio">
+  <head>8. CONCLUSIO</head>
+  <p>Quam admiranda fati commutatio! Ex curiali villanus, ex familiari
+  Cardinalium seruus agricolum, ex elato deiectus, ex animarum pastore
+  pastor porcorum euasit! Adeo miserabiles dat exitus ignorantia.
+  Vincentius recepto parentum opitulatamine, gymnasij locum repetiit
+  iuribusque obnixe perlectis. In principis primo cancellarium
+  assumitur, cuius deinde presidio fretus ad canonicatum, postremo ad
+  episcopi culmina concorditer eligitur Rexitque feliciter et prudenter.
+  Valete et plaudite.</p>
 </div>
 <div type="level1" xml:id="back">
   <head>Back</head>

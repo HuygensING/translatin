@@ -158,7 +158,7 @@ Nunc Homulus, per me nam resipiscet homo.
 
 ≤folio=Aiija≥
 
-## INTERLOQVVTORES
+# 1. INTERLOQVVTORES
 
 comoediae sequentis.
 
@@ -198,7 +198,7 @@ ANGELVS deducens Homulum.
 
 ≤folio=Aiijb≥
 
-## PROLOGVS
+# 2. PROLOGVS
 
 SIVE ARGVMENTVM
 
@@ -302,11 +302,11 @@ Amen ferte pij, & plaudite vocibus.
 
 ≤folio=Aiiijb≥
 
-## ACTVS I.
+# 3. ACTVS I.
 
 DEVS, MORS, HOMVLVS.
 
-## SCENA I.
+# 4. SCENA I.
 
 \[DEVS.\]
 
@@ -508,7 +508,7 @@ Quid isthaec rogitas?
 
 I, 2, 135-156. ACTVS I
 
-## SCENA II.
+# 5. SCENA II.
 
 MORS.
 
@@ -623,7 +623,7 @@ Reppulit, infernis piandum sulfureisque lacunis.
 
 Vt vltro capias, quod vitare non poles.
 
-## SCENA III.
+# 6. SCENA III.
 
 HOMVLVS.
 
@@ -750,7 +750,7 @@ O chara mors, suspende paulisper vindictam,
 
 ≤line=230≥ Dum consulam paucis huic meae calamitati.
 
-## SCENA IIII.
+# 7. SCENA IIII.
 
 MORS.
 
@@ -860,13 +860,13 @@ Intus abeo, vultusque occultabo meos.
 
 Tu rem geras sapienter tuam & celeriter.
 
-## ACTVS II.
+# 8. ACTVS II.
 
 HOMVLVS. HANNIO, HIRTACVS. CANTAGER,
 
 HARVNDIO. BELLEROPHON.
 
-## SCENA I.
+# 9. SCENA I.
 
 \[HOMVLVS.\]
 
@@ -974,7 +974,7 @@ Nam ego ad vos gradum conuerteram meum.
 
 ≤line=16≥ HOMVLI n,2,323-346.
 
-## SCENA II.
+# 10. SCENA II.
 
 HANNIO.
 
@@ -1066,7 +1066,7 @@ Syncerus sum & absque dolot
 
 Candidus & sine stybio verbi factor.
 
-## SCENA III.
+# 11. SCENA III.
 
 HOMVLVS.
 
@@ -1136,7 +1136,7 @@ Diutius ne celatum velis. nam quicquid
 
 Mihi vni dixeris, amico dixeris integerrimo.
 
-## SCENA IIII.
+# 12. SCENA IIII.
 
 HOMVLVS.
 
@@ -1310,7 +1310,7 @@ A latere tuo disccderem nunquam.
 
 ≤line=21≥ ll,5,458-485. ACTVS II
 
-## ≤folio=Biija≥ SCENA V.
+# 13. ≤folio=Biija≥ SCENA V.
 
 HOMVLVS.
 
@@ -1490,7 +1490,7 @@ Nunquam magis solus fui, quam hodie, infelix ego disperij.
 
 Lbiiija\]
 
-## ACTVS III.
+# 14. ACTVS III.
 
 HOMVLVS. MEGARIVS, PAMPHILVS, TRABILIO, CONFRANEVS,
 
@@ -1498,7 +1498,7 @@ LICAMBEVS, ABAGARDUS,
 
 CLATRIA, HELBIA, OLENDRIA. PHYLLIRIA.
 
-## SCENA I.
+# 15. SCENA I.
 
 \[HOMVLVS.\]
 
@@ -1594,7 +1594,7 @@ Propinquos genere, oportet
 
 Mutuo defensare & prodesse inuicem.
 
-## SCENA II.
+# 16. SCENA II.
 
 HOMVLVS
 
@@ -1738,7 +1738,7 @@ Retentant me mea negocia,
 
 Itaque satius esse reor, ista domi digerere.
 
-## SCENA III.
+# 17. SCENA III.
 
 HOMVLVS.
 
@@ -1866,7 +1866,7 @@ Semperne celabis intra te edacissimam
 
 Hanc pestem? obsecro vt edicas mihi.
 
-## SCENA IIII.
+# 18. SCENA IIII.
 
 HOMVLVS.
 
@@ -1934,11 +1934,11 @@ Nescio. paulisper Intus mecum meditabor,
 
 Si quid consilij queam reperire mihi.
 
-## ACTVS IIII.
+# 19. ACTVS IIII.
 
 HOMVLVS, OPVLENTIA.
 
-## SCENA I.
+# 20. SCENA I.
 
 Non sum, ut arbitror, (secundet deus)
 
@@ -2028,7 +2028,7 @@ Superi oderunt bonique homines
 
 Quod abundat necessitati, egenis dispartiendum est.
 
-## SCENA II
+# 21. SCENA II
 
 HOMVLVS.
 
@@ -2128,7 +2128,7 @@ Caput intervtrasque collocabo palmas.[^46]
 
 Si queam reminisci cuiuspiam auxiliatoris.
 
-## ACTUS V
+# 22. ACTUS V
 
 HOMVLVS, VIRTVS. COGNITIO, FORTITVDO, CONFESSIO,
 
@@ -2136,7 +2136,7 @@ PRVDENTIA, PVLCHRITVDO,
 
 QVINISENSVS, CRAMBARABVS, LARVICOLA.
 
-## SCENA I.
+# 23. SCENA I.
 
 Actum est. Terras percurri omnes.
 
@@ -2366,7 +2366,7 @@ Genibus procumbe illius ante pedes.
 
 ≤line=845≥ Nanque deo superisque simul gratissjma virgo est,
 
-## SCENA II.
+# 24. SCENA II.
 
 HOMVLVS.
 
@@ -2540,7 +2540,7 @@ Placabilis, & super delicto praestabilis,
 
 Ne me sinat aeternis interire supplicijs.
 
-## SCENA III.
+# 25. SCENA III.
 
 MARIA AD FILIVM.
 
@@ -2923,7 +2923,7 @@ Adeste, obsecro, in diem eius o Prudentia,
 
 Fortitudo, Pulchritudo & Quinisensus.
 
-## SCENA IIII.
+# 26. SCENA IIII.
 
 PRVDENTIA. FORTITVDO, PVLCHRITVDO, QVINISENSVS.
 
@@ -3209,7 +3209,7 @@ Candida cognitio nil nisi vera canit,
 
 Verum tibi obtemperabo libens, nec verbum amplius addam.
 
-## SCENA V.
+# 27. SCENA V.
 
 QUERIMONIA DAEMONUM DE AMISSO HOMULO.
 
@@ -3518,7 +3518,7 @@ CRAMBARABVS.
 
 Ego verbero sum.
 
-## SCENA VI.
+# 28. SCENA VI.
 
 VIRTVS.
 
@@ -3924,7 +3924,7 @@ Nequiequam me postulaueris adiutricem.
 
 60 HOMVLI
 
-## SCENA VII.
+# 29. SCENA VII.
 
 HOMVLVS.
 

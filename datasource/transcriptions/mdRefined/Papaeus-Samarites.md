@@ -125,7 +125,7 @@ Pandocheo tradit curandum, et curam ipse agit.
 
 
 
-## Prologus
+# 1. Prologus
 
 Quia paedotribae est non literis, sed moribus
 
@@ -175,7 +175,7 @@ Quod ut efficit: perit homo, sed restituitur
 
 A Christo. Operam date nobis per silentium.
 
-## Actus primi scaena prima
+# 2. Actus primi scaena prima
 
 Trimetri, et eiusdem Rationis.
 
@@ -243,7 +243,7 @@ Pestemque perniciemque nostrum siccine
 
 Animi impetum, et dolorem acerbum reprimere.
 
-## Actus primi scaena secunda
+# 3. Actus primi scaena secunda
 
 Trimetri eiusdem generis cum uno Septenario Iambico
 
@@ -341,7 +341,7 @@ Sed captemus, quid secum solus mussitet.
 
 Gul. Tu illuc concede, huc me illatebrabo ego strenue.
 
-## Actus primi scaena tertia
+# 4. Actus primi scaena tertia
 
 Aegio adolescens.
 
@@ -401,7 +401,7 @@ Esca est malorum, nodo inexplicabili
 
 ≤line=105≥ Illaqueans incautos nimis, ach, miseris modis.
 
-## Actus primi scaena quarta
+# 5. Actus primi scaena quarta
 
 Octonarii Iambici.
 
@@ -450,7 +450,7 @@ Propterea adhuc nostrae sunt contrahendae in arctum copiae
 
 ≤line=125≥ Atque instruendae, ut oportuniore dimicent loco.
 
-## Actus secundi scaena prima
+# 6. Actus secundi scaena prima
 
 Aegio adolescens. Eubulus paedagogus.
 
@@ -524,7 +524,7 @@ Morieris: mors inobedientibus praesto est.
 
 Vive itaque, et illum aversare, haec pater mandat.
 
-## Actus secundi scaena secunda
+# 7. Actus secundi scaena secunda
 
 Senarii Iambici.
 
@@ -556,7 +556,7 @@ Post ego succenturiatus, omnes machinas
 
 Adhibebo, nec denique labor erit irritus.
 
-## Actus secundi scaena tertia
+# 8. Actus secundi scaena tertia
 
 Octonarii Septenarii, et Senarii Iambici
 
@@ -683,7 +683,7 @@ Te attempera, utque ventus fuerit, exin velum verteris.
 
 Gul. Utramque in aurem dormi, curabitur. Utar foro.
 
-## Actus secundi scaena quarta
+# 9. Actus secundi scaena quarta
 
 Senarii omnes.
 
@@ -783,7 +783,7 @@ Apage! haud capiar quidem; obfirmavui animum adeo
 
 Et praemunivi, in portu tutus navuigo.
 
-## Actus tertii scaena prima
+# 10. Actus tertii scaena prima
 
 Senarii Iambici et Trochaici
 
@@ -853,7 +853,7 @@ Fugitis? Quin manete! Stupidiores caudice
 
 Tamen obstinate, ut coepi, propositum premam.
 
-## Actus tertii scaena secunda
+# 11. Actus tertii scaena secunda
 
 Septenarii Trochaici.
 
@@ -1124,7 +1124,7 @@ Virtus ut desit. Curaberis a me; quin penarium
 
 Potius compilabo patris. Este animo interim bono.
 
-## Actus tertii scaena tertia
+# 12. Actus tertii scaena tertia
 
 Trimetri Iambici.
 
@@ -1146,7 +1146,7 @@ Foras extemplo proruit se, hoc ut mali
 
 ≤line=450≥ Portendat quippiam; animus anxius in metu est.
 
-## Argumentum est mali importuna celeritas.
+# 13. Argumentum est mali importuna celeritas.
 
 Vah, cui nunc credas? Ita rara est homini fides.
 
@@ -1170,7 +1170,7 @@ Quo rem resciscam, uti se habet, exploratius,
 
 Assimilabo quasi nihil horum noverim.
 
-## Actus tertii scaena quarta
+# 14. Actus tertii scaena quarta
 
 Senarii eiusdem generis cum uno septenario.
 
@@ -1270,7 +1270,7 @@ Eub. Bona verba, quaeso. Meg. Quod res est dico. Eub. Dehinc
 
 Operoso et uigili te esse animo, Eubule, impero.
 
-## Actus tertii scaena quinta
+# 15. Actus tertii scaena quinta
 
 Hedylogus. Gulo. Aegio
 
@@ -1352,7 +1352,7 @@ Ut vulgo solet inter quos male gratia coit.
 
 Perniciosa omnibus est semper contentio.
 
-## Actus quarti scaena prima
+# 16. Actus quarti scaena prima
 
 Octonarii et Septenarii Iambici.
 
@@ -1434,7 +1434,7 @@ Quid, intellextine? An nondum etiam hoc? Hed. Imo, probe.
 
 Dia. Hac igitur nunc in harena desudascite.
 
-## Actus quarti scaena secunda
+# 17. Actus quarti scaena secunda
 
 Scazontes.
 
@@ -1508,7 +1508,7 @@ Ocius. Opus est facto. Dro. Opera dabitur, Eubule,
 
 Vale; nostrum iter utriusque bene Deus vertat.
 
-## Actus quarti scaena tertia
+# 18. Actus quarti scaena tertia
 
 Diabolus. Dromo
 
@@ -1560,7 +1560,7 @@ Nihili in minimi precii senatu praesidet.
 
 Neque malarum rerum autores refellere.
 
-## Actus quarti scaena quarta
+# 19. Actus quarti scaena quarta
 
 Octonarii Septenarii Senarii, Iambici
 
@@ -1645,7 +1645,7 @@ Hed. Hem, vide.
 
 *Sarcophilia hic saltabit cum Cupidine, Marte, et Como latronibus*.
 
-## Actus quinti scaena prima
+# 20. Actus quinti scaena prima
 
 Senarii. Iambici.
 
@@ -1709,7 +1709,7 @@ Patri, cuius minime optet fieri particeps,
 
 Meque expediam qua suspectus sum noxia.
 
-## Actus quinti scaena secunda
+# 21. Actus quinti scaena secunda
 
 Septenarii. Trochaici et Iambici Senarii.
 
@@ -1743,7 +1743,7 @@ Ornate, plagis ulcerate, occidite!
 
 ≤line=720≥ Dia. Bene habet, auferte praedam. En, semianimus iacet.
 
-## Actus quinti scaena tertia
+# 22. Actus quinti scaena tertia
 
 Trimetri Iambici et Trochaici uno cum Dimetro.
 
@@ -1777,7 +1777,7 @@ Levites ibit legibus instructus sacris.
 
 Postremum destinabo Samariten meum.
 
-## Actus quinti scaena quarta
+# 23. Actus quinti scaena quarta
 
 Trimetri ut superiores.
 
@@ -1795,7 +1795,7 @@ Caeterum illi tam indignis exemplis saucio
 
 ≤line=740≥ Nihil queant conferre. Doleo seminecis vicem.
 
-## Actus quinti scaena quinta
+# 24. Actus quinti scaena quinta
 
 Trochaici septenarii.
 
@@ -1829,7 +1829,7 @@ Aerumnosum adire aegrum, quem neque re, neque verbis iuves.
 
 Progredior igitur, mando illius affecti curam Deo.
 
-## Actus quinti scaena sexta
+# 25. Actus quinti scaena sexta
 
 Trimetri Iambici.
 
@@ -1927,7 +1927,7 @@ Amo te. Sama. Istam fac teneas mentem, et quid
 
 ≤line=800≥ Possiem amicus, comperies magno tuo bono.
 
-## Actus quinti scaena septima
+# 26. Actus quinti scaena septima
 
 Trimetri Iambici cum septenario.
 
@@ -2053,7 +2053,7 @@ Minime domi, sed in popina absumerem.
 
 Neu Samaritem expectate; haud hodie aderit.
 
-## Peroratio
+# 27. Peroratio
 
 ≤line=860≥ Tace, verbero! Quin, spectatores optimi,
 

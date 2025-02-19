@@ -738,7 +738,7 @@ Anno 1562.
 
 
 
-## Actorum nomina.
+# 1. Actorum nomina.
 
 Moses Pharo Aegyptiorum rex.
 
@@ -767,7 +767,7 @@ Populus Israelis. Hydrophila
 
 **Chorus ex filiis Israelis Polyhydria ancillae**
 
-## Epilogus. Populus Aegyptius. Demus.
+# 3. Epilogus. Populus Aegyptius. Demus.
 
 ≤page=7≥
 
@@ -813,7 +813,7 @@ R ubrum: hos Pharo insequens mox vnda mergitur.
 
 I srael laetus canticum Domino canit.
 
-## PROLOGVS.
+# 4. PROLOGVS.
 
 Iamb. Trimetri.
 
@@ -1051,7 +1051,7 @@ Sit & potens in omnibus operibus suis.
 
 **FINIS PROLOGI.**
 
-## Actus primi Scena prima.
+# 8. Actus primi Scena prima.
 
 Eliabus solus. Trimetri Iamb.
 
@@ -2071,7 +2071,7 @@ Humeris miser non excutit
 
 Peccati onus miserabile.
 
-## Actus secundi Scena prima.
+# 14. Actus secundi Scena prima.
 
 Moses solus. Trimetri.
 
@@ -2233,7 +2233,7 @@ Mente assequi, nisi quid praesidij sit magis
 
 ≤line=670≥ In oculis, rem quibus explorabo veriùs.
 
-## Scena 2. Septenarii & Octonarii.
+# 15. Scena 2. Septenarii & Octonarii.
 
 Elohim. Moses.
 
@@ -2500,7 +2500,7 @@ Ex mancipijs hisce nihili & frugiperditis
 
 Quemquam ocio, inertiaque consenescere?
 
-## Scena 4. Scazontes.
+# 16. Scena 4. Scazontes.
 
 Moses solus.
 
@@ -2838,7 +2838,7 @@ Scuto suae potentiae.
 
 
 
-## Actus 3. Scena 1a Senarii.
+# 21. Actus 3. Scena 1a Senarii.
 
 Moses. Aaron.
 
@@ -3268,7 +3268,7 @@ Negantur paleae, id quod futurum iam scio.
 
 Videndum quid iam nobis dicturus siet.
 
-## Scena tertia Senarii.
+# 23. Scena tertia Senarii.
 
 Iudas, Simeon, Henochus, Moses, Aaron, Pharo.
 
@@ -3934,7 +3934,7 @@ Verbis. eamus intrò, vbi nugabimur
 
 Magis super his nebulonibus. Iamn. Rex Pharo licet.
 
-## Scena 7. Scazontes.
+# 28. Scena 7. Scazontes.
 
 Moses. Elohim.
 
@@ -3990,7 +3990,7 @@ Sic Moses dixeris statim ac redibit lux
 
 Crastina. Mos. sic dixero, me vt seruet tuum numen.
 
-## Scena 8. Trochaici Trimetri.
+# 29. Scena 8. Trochaici Trimetri.
 
 Eliabus. Siphra altera.
 
@@ -4252,7 +4252,7 @@ Et vniuersos dirigit
 
 Terrae, polique tractus.
 
-## Actus 4. Scena I. Senarii Iamb.
+# 31. Actus 4. Scena I. Senarii Iamb.
 
 Polyhydria. Hydrophila. Demus.
 
@@ -4344,7 +4344,7 @@ Rectà domum cruentis cum hydrijs meis.
 
 Hydr. Domum ego reuorti sic sine aqua vix audeo.
 
-## Scena 2. Trochaici Senarii.
+# 32. Scena 2. Trochaici Senarii.
 
 Pharo. Symbulus. Moses. Aaron.
 
@@ -4555,7 +4555,7 @@ Exitus. Zor. rectè istud habes. Iamn. dixti herclè verùm.
 
 Nam cuiuis facilè fidem abhibere, minus tutum est.
 
-## Scena 3. Trimetri Iambici.
+# 34. Scena 3. Trimetri Iambici.
 
 Populus Aegyp. Demarchus. Desmophylax.
 
@@ -4642,7 +4642,7 @@ Vt dicis. Dem. agè igitur illuc nos eamus, vt
 
 Functi officio à Pharone ineamus gratiam.
 
-## Scena 4. Septenarii.
+# 36. Scena 4. Septenarii.
 
 Moses. Aaron. Populus Aegypt. Pharo. Symbulus.
 
@@ -4778,7 +4778,7 @@ Vt coepisti, obdura & profer quicquid ingerunt tibi
 
 Loquuntur. Pha. adferunt fumos meros. Symb sapis probè.
 
-## Scena 5. Trimetri.
+# 38. Scena 5. Trimetri.
 
 Maria. Populus Israelis. Demarchus. Desmophylax.
 
@@ -4994,7 +4994,7 @@ Quos quaerimus: magnum viae dispendium
 
 Nobis ademerunt. Desm. agè hos alloquere tu.
 
-## Scena 6. Eiusdem generis cum superioribus
+# 40. Scena 6. Eiusdem generis cum superioribus
 
 ≤line=1975≥ Demarchus. Moses. Aaron. Desmophylax. Pharo.
 
@@ -5102,7 +5102,7 @@ Sed nos tamen praestaemus, quod promisimus:
 
 Aar. Precemur etiam pro impijs, quoad possumus.
 
-## Scena 7. Trimetri Iamb.
+# 41. Scena 7. Trimetri Iamb.
 
 Thodopis. Spudaea.
 
@@ -5357,7 +5357,7 @@ Thod. Pol optimè dicis. Sed ne quis audiat
 
 Hos sermones, eamus intrò. Spud. i prae, sequar.
 
-## Scena 8. Similis farinae vsus.
+# 42. Scena 8. Similis farinae vsus.
 
 Droma. Amalechus.
 
@@ -5465,7 +5465,7 @@ Ama. Ibo, vt apud Pharaonem istoc me exonerem nuncio.
 
 ≤line=2200≥ Tu, quò lubet. Dro. nusquam aedepol, nisi domum.
 
-## Scena 9. Octonarii admistis Septe¬
+# 43. Scena 9. Octonarii admistis Septe¬
 
 nariis quibusdam.
 
@@ -5587,7 +5587,7 @@ Vomica mihi in collo tumet. Mamb. iam si mihi ad manum siet
 
 Phar. Facite vos, fingite, inuenite remedia ac me sequimini.
 
-## Scena 10. Trimetri Iambici.
+# 45. Scena 10. Trimetri Iambici.
 
 Moses. Pharo. Aaron. Demarchus. Desmophylax.
 
@@ -5691,7 +5691,7 @@ Visum est, agè face vt lubet, ego mihi prouidero.
 
 ≤line=2205≥ Desm. Vah, me tui pudet, quòd ante tempus es miser.
 
-## Scena II. Vt superiores.
+# 47. Scena II. Vt superiores.
 
 Moses. Aaron. Desmophylax. Pharo.
 
@@ -5819,7 +5819,7 @@ Phar. Sic est profectò. Sed tu istuc Moses face.
 
 ≤line=2265≥ Mose. Iam fecerit Pominus, postquam hinc discessero.
 
-## Scena XII.
+# 49. Scena XII.
 
 Siphra sola.
 
@@ -5883,7 +5883,7 @@ Huc prodeunt Israelitae nostri, quibus
 
 Me adiungam, vt vna celebrem Dominum cantibus.
 
-## Scena XIII. Eiusdem generis vt sup.
+# 51. Scena XIII. Eiusdem generis vt sup.
 
 Iudas. Simeon. Henochus. Eliabus.
 
@@ -6091,7 +6091,7 @@ Miris modis excindere.
 
 G iij COMOEDIA
 
-## Actus 5. Scena I.
+# 53. Actus 5. Scena I.
 
 Pharo. Symbulus. Trimetri Iamb.
 
@@ -6161,7 +6161,7 @@ Non, si pereat Aegyptus vniuersa. Symb. fac
 
 Istam teneas mentem, quocunque res cadat.
 
-## Scena 2. Trimetri, vt superiores.
+# 54. Scena 2. Trimetri, vt superiores.
 
 Moses. Aaron. Pharo. Symbulus.
 
@@ -6397,7 +6397,7 @@ Praesentia tutari dilectam tibi ab orbe condito
 
 Ecclesiam. Eloh. illam ego nunquam deseram. tu abi. [^99]
 
-## Scena 4. Trimetri.
+# 55. Scena 4. Trimetri.
 
 Demus. Amalechus.
 
@@ -6483,7 +6483,7 @@ Sed inter spem metumque haerendum est, donicum
 
 Res docuerit aliud. vale. Amal. tu quoque vale.
 
-## Scena 5. Senarii Iamb.
+# 57. Scena 5. Senarii Iamb.
 
 Ifraelitae. Moses. Aaron.
 
@@ -6603,7 +6603,7 @@ In primogenitis exerit potentiam.
 
 Hoc vulnus extremum est, nunc hinc exibimus.
 
-## Scena 6. Eiusdem generis.
+# 59. Scena 6. Eiusdem generis.
 
 Populus Aegyptius. Demus. Pharo. Symbulus.
 
@@ -6753,7 +6753,7 @@ Phar. Abite sanè nunc iam, & vt diximodò,
 
 Precamini Dominum mihi fausta omnia.
 
-## Scena 7. Trimetri.
+# 61. Scena 7. Trimetri.
 
 Iudas. Simeon. Henochus & Israelitae omnes.
 
@@ -6819,7 +6819,7 @@ O quam mirabilia sunt tua opera Domine?
 
 ≤line=2730≥ Quàm magna sunt quae perficis vsque in Israhel?
 
-## Scena 8. Similis farinae.
+# 63. Scena 8. Similis farinae.
 
 Elohim. Moses.
 
@@ -6865,7 +6865,7 @@ Seruauero: proinde nihil vereamini.
 
 ≤line=2750≥ Mos. Spes nostra tu Domine, in te nos sperabimus.
 
-## Scena 9.
+# 64. Scena 9.
 
 Quadrati Iamb.
 
@@ -7000,7 +7000,7 @@ Foelicißimi, eorum foelicitas breuis ac supra modum
 
 Pellucet, hoc facilius rumpitur.
 
-## Scena 10. Octonarii vt supra.
+# 65. Scena 10. Octonarii vt supra.
 
 Moses. Elohim. Pharo. Symbulus. Pop. Aegyptius.
 
@@ -7282,7 +7282,7 @@ Submersit vndis, quando siccus
 
 Cantate Iovam etc.
 
-## Epilogus, seu Peroratio.
+# 66. Epilogus, seu Peroratio.
 
 Senarij Iamb.
 

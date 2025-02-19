@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0063" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Iesus scholasticus</title>
+        <title type="sub">IESUS SCHOLASTICUS Georgii Macropedii</title>
+        <author>Macropedius, Georgius</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Hermannus Borculous</publisher>
+        <pubPlace>Utrecht</pubPlace>
+        <date>1556</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Macropedius-Iesus</name><lb/>
+            Short title: <title>Iesus</title><lb/>
+            Year of first edition: <date>1556</date><lb/>
+            Author information:<lb/>
+            Alias: Lanckvelt, Joris van<lb/>
+            Birth: 1487, Gemert<lb/>
+            Death: 1558, s-Hertogenbosch<lb/>
+            Floruit: None, s-Hertogenbosch, Liege, Utrecht<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Macropedius">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://hum2.leidenuniv.nl/Dutch/Ceneton/Facsimiles/MacropediusJesus1556/index.htm">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>IESUS SCHOLASTICUS</p>
+  <p>Georgii Macropedii.</p>
+  <p>Ultraiecti.</p>
+  <p>Harmannus Borculous excudebat.</p>
+  <p>Anno 1556.</p>
+  <p>REVERENDO DOMINO NICOLAO A NOVA TERRA,</p>
+  <p>Episcopo Hebronensi et Suffraganeo Traiectensi,</p>
+  <p>Georgius Macropedius S. D. P.</p>
+  <p>Pro singulari qua me semper complexus es, Reverende Domine, tua
+  benevolentia, non habeo quod tibi rependam praeter exiguum hoc
+  literarium munusculum (nempe <hi rend="italic">Iesum
+  scholasticum</hi>), quod tibi nonnihil placere consideravi. Hoc itaque
+  tibi liberius (quamquam non sine rubore) quam alii cuivis nuncupare
+  ausus fui, novisti siquidem naturam meam pusillanimem et plus satis
+  verecundam.</p>
+  <p>Accipe igitur, Reverende Praesul, hoc quantulumcumqe munusculum,
+  quod verecundus offero, et boni consule. Vale in Christo Iesu, omnium
+  nostrum quantumvis puero salvatore et redemptore.</p>
+  <p>Traiecti, anno 1556.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="dramatis-personae.">
+  <head>1. DRAMATIS PERSONAE.</head>
+  <p>Prologus cum Epilogo Nathanael</p>
+  <p>Iesuah Abibas</p>
+  <p>Maria Iustus</p>
+  <p>Elizabeth Saul</p>
+  <p>Ioannes Gamaliel</p>
+  <p>Zacharias Nicodemus</p>
+  <p>Iosephus Nabal</p>
+  <p>Stephanus Pontifex</p>
+  <p>Gabriel Paedisca.</p>
+  <p>&lt;Philippus&gt;</p>
+</div>
+<div type="level1" xml:id="prologus.">
+  <head>2. PROLOGUS.</head>
+  <p>Audite me, puelli et adolescentuli,</p>
+  <p>Quotquot theatro nostro adestis comico.</p>
+  <p>Advertite (inquam) et mentem et aures paululum,</p>
+  <p>Ut audiatis pauculos logos meos,</p>
+  <p>(5) Quos omnium vestrum in salutem et commodum</p>
+  <p>Iam proloquar. Silete et animadvertite.</p>
+  <p>Pater supernus filium Deus deum</p>
+  <p>Demisit exsulantem in hoc ergastulum,</p>
+  <p>Ut recuperaret perditum genus hominum,</p>
+  <p>(10) Primo quod in parente Adamo perierat.</p>
+  <p>Hic carne sumpta ex illabata virgine,</p>
+  <p>Nostri absque scelere factus est simillimus.</p>
+  <p>Qui moribus seorsum ab incunabulis</p>
+  <p>Piis probisque docuit id, quod postmodum</p>
+  <p>(15) Sermonibus docturus erat in publico.</p>
+  <p>Puerilibus itaque vos Iesu moribus</p>
+  <p>(Scholasticos praesertim et omnes parvulos)</p>
+  <p>Primis ab annis imbui ex animo volens,</p>
+  <p>Vobis Iesum nunc scholasticum offero,</p>
+  <p>(20) Qui neutiquam virum potentem in opere et in</p>
+  <p>Sermone vobis obtulissem comicῶς.</p>
+  <p>Id, quod quidem me iudice foret indecens,</p>
+  <p>Non omnia siquidem apta sunt comoediae</p>
+  <p>Rerum argumenta. Gravia enim tragoediae</p>
+  <p>(25) Mage congruunt et maxime si heroicae</p>
+</div>
+<div type="level1" xml:id="personae-erunt-tristemque-habebunt-exitum.">
+  <head>3. Personae erunt tristemque habebunt exitum.</head>
+  <p>State itaque vos, pueri, ut puellum Iesuah</p>
+  <p>Cum matre virgine videatis progredi.</p>
+  <p>State (inquam) et omnibus quietis fabulis</p>
+  <p>(30) Spectate, si qua imitatione digna sint</p>
+  <p>In matre virginea aut puello Iesuah.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-i.">
+  <head>4. ACTUS I. SCAENA I.</head>
+  <p>Versus iambici trimetri.</p>
+  <p>MARIA, IESUAH.</p>
+  <p>Lassata sum, puer, oppido ex laboribus</p>
+  <p>Itineris huius nec minus tu (ut suspicor),</p>
+  <p>Quod adhuc es admodum puer nec adhuc satis</p>
+  <p>(35) Solidata sunt vestigia. IES. Ita se res habet,</p>
+  <p>Sed amplius condoleo lassitudini</p>
+  <p>Tuae meis quam incommodis, matercula, heu.</p>
+  <p>Sedeamus igitur hac sub arbore et patrem</p>
+  <p>Moremur itidem lassum (ut autumo), suis</p>
+  <p>(40) Qui me subinde baiulavit in umeris.</p>
+  <p>MAR. Patrem tuum morabimur, mi gnate, in hoc</p>
+  <p>Loco, ut quiescamus aliquantulum sub his</p>
+  <p>Ramis virentibus, quoad pater pius</p>
+  <p>Adveniat, ut Deum patrem tuum et omnium</p>
+  <p>(45) Nostrum invocemus ac litemus victimam.</p>
+  <p>IES. Me, mater, offer victimam, me victimam</p>
+  <p>Pater salutarem dedit litantibus.</p>
+  <p>Per me patrem reddent sibi propitium, ad haec</p>
+  <p>Tandem ipse victimam offeram me pro omnibus.</p>
+  <p>(50) MAR. Quid est quod inquis, gnate mi? Num tradues</p>
+  <p>Te olim necandum ut victimam? IES. Velut oviculam</p>
+  <p>Ducent ad aram innoxiam. Prorsus semel</p>
+  <p>Ne pereat omne hominum genus. Placanda sic</p>
+  <p>Ira est patris, propter scelus qui iratus est</p>
+  <p>(55) Generi omnium mortalium. MAR. Heu me, gnate mi,</p>
+  <p>(Ut video) nondum omnes machaerae, quas mihi</p>
+  <p>Simeon senex praedixerat, animam meam</p>
+  <p>Secuere? IES. Non omnes utique, mater mea,</p>
+  <p>Sed pluria his sufferre oportet te atque me. MAR. Hem.</p>
+  <p>(60) IES. Ne lacrima, matercula. En pater meus</p>
+  <p>Nunc advenit cum Zacharia atque familia,</p>
+  <p>Qui erunt tibi solacio. Ne lacrima.</p>
+  <p>MAR. Surgamus itaque, nam petit me Elizabeth</p>
+  <p>Cum tibi cognato puerulo et prodromo tuo,</p>
+  <p>(65) Ut suspicor. IES. Ne suspicare, ita res se habet.</p>
+  <p>Nam is est puer, qui haud editus me haud editum</p>
+  <p>In gaudio cognovit et vaticinio</p>
+  <p>Patris mihi praecursor indicatus est.</p>
+  <p>Iam terge ocellos, nam propinquat Elizabeth.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-ii.">
+  <head>5. ACTUS I. SCAENA II.</head>
+  <p>MARIA, ELIZABETH, IESUS, IOANNES.</p>
+  <p>(70) Cognata, salve plurimum in sancto osculo.</p>
+  <p>Quam gaudeo in Deo salutari meo,</p>
+  <p>Quod post tot annos denuo videre te</p>
+  <p>Merui tuo cum filio et puero meo.</p>
+  <p>ELI. O virgo mater incluta domini mei,</p>
+  <p>(75) Non creduas quanto aniculam hanc me gaudio</p>
+  <p>Perfuderis, nec creduas quanta hic puer</p>
+  <p>Nunc gestiet laetitia, ubi dominum suum</p>
+  <p>Coram videbit, qui in utero exsiluit meo, ut debuit,</p>
+  <p>Nondum editus prae gaudio praesentiae.</p>
+  <p>(80) Accede matrem, gnate mi, domini tui et</p>
+  <p>Coram aspice tibi coaevum Iesuah,</p>
+  <p>Propter quem in utero gestiebas gaudio.</p>
+  <p>MAR. Accede, Iesu, prodromi matrem tui,</p>
+  <p>Deinde loquere prodromo coaevulo.</p>
+  <p>(85) IES. Cognata, salve, Elizabeth. ELI. Salve, puer</p>
+  <p>Dulcissime et ter maxime. Huc adsis, puer.</p>
+  <p>IOA. Mater mea, adsum. ELI. Non Iesuah, tibi</p>
+  <p>Coaevulum et nepotulum, nosti? IOA. Probe. Hem,</p>
+  <p>Mi domine Iesu, unde hoc mihi ut me, servulum</p>
+  <p>(90) Tuum inutilem, digneris invisere prior?</p>
+  <p>Duodecimus nunc annus est, quod primulum</p>
+  <p>Te matris in utero meae nondum editus</p>
+  <p>Nondum editum prae gaudio exsiliens puer</p>
+  <p>Agnoveram et prae gaudio nunc maximo</p>
+  <p>(95) Illacrimor. IES. Te lacrimante non queo</p>
+  <p>Quin lacrimem, dilecte Ioannes Deo.</p>
+  <p>Te amplector et deosculor, dilecte mi.</p>
+  <p>ELI. En quanta vis amoris his in parvulis.</p>
+  <p>Quis dubitet has per lacrimas, quin alteri</p>
+  <p>(100) Vitam suam alter ultroneus impenderit,</p>
+  <p>Si iam sibi vim tanti amoris exhibent?</p>
+  <p>MAR. Heu, lacrimas mihi quoque cient hae lacrimae.</p>
+  <p>ELI. Materna mens gnatum videns lacrimarier</p>
+  <p>Qui contineat a lacrimis? MAR. Hae lacrimae</p>
+  <p>(105) Praesagiunt diras mihi, neptis mea,</p>
+  <p>Pauloque post (heu me) futuras lacrimas,</p>
+  <p>Quas inde ab annis duodecim praedixerat</p>
+  <p>Mihi Simeon per spiritum propheticum. Heu.</p>
+  <p>ELI. Domini mei mater, tuas siste lacrimas.</p>
+  <p>(110) En tuus Ioseph, regia Davidis ex</p>
+  <p>Stirpe editus, iam properat huc cum Zacharia,</p>
+  <p>Viro meo. Iam siste lacrimas tuas.</p>
+  <p>Pueri advolant fletu remisso patribus.</p>
+  <p>Nos (si placet) viris eamus obviam.</p>
+  <p>(115) MAR. Eamus et templum Dei ingressi simul</p>
+  <p>Dominum invocemus et offeramus munera,</p>
+  <p>Quae in lege quondam scripta sunt per Moysen,</p>
+  <p>Ut absolutis singulis negotijs</p>
+  <p>Montana vos, nos Nazareth, queamus hinc</p>
+  <p>(120) Et expediti et impigri cum parvulis</p>
+  <p>Proficiscier, quod hic dies sit septimus.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-iii.">
+  <head>6. ACTUS I. SCAENA III.</head>
+  <p>ZACHARIAS, MARIA, IOSEPH, ELIZABETH, IESUAH.</p>
+  <p>Salvete. MAR. Salve, Zacharia. ZAC. Et tu salvus sis.</p>
+  <p>ELI. Salvete. IOS. Salve, Elizabeth. Sacrificium</p>
+  <p>Ut offeramus vesperum, huc concessimus,</p>
+  <p>(125) Quo crastino diluculo, quam liquimus,</p>
+  <p>Nostram petamus Nazareth. ZAC. Montana nos.</p>
+  <p>Eamus itaque simul in aedem dominicam et</p>
+  <p>Domino Deo nostras litemus victimas</p>
+  <p>His pro puellis atque eorum matribus,</p>
+  <p>(130) Ne illos quod imminet periculum obruat.</p>
+  <p>Scis, quid de eis quondam propheta dixerit.</p>
+  <p>IOS. Quid David et reliqui prophetae dixerint,</p>
+  <p>Heu novimus. Praestat tamen silere quam</p>
+  <p>Novam movere matribus tragoediam.</p>
+  <p>(135) ZAC. Ergo intro euntes impleamus munia.</p>
+  <p>Adeste, feminae. ELI. Adsumus cum liberis.</p>
+  <p>MAR. Ambae adsumus cum liberis promptissimae</p>
+  <p>Et in domum domini Dei alacres ibimus,</p>
+  <p>Sistemus et ei liberos spontaneae. Hem.</p>
+  <p>(140) Zebedaei et hic est filius. Salve, puer.</p>
+  <p>IES. Et hic Ioanniscus est et hic mihi</p>
+  <p>Cognatus est et hic mihi dilectus est,</p>
+  <p>Olim mihi multo futurus carior,</p>
+  <p>Cum pectori meo incubans mysteria</p>
+  <p>(145) Sapientiae et divini amoris hauserit.</p>
+  <p>Sed audiamus, precor, quid dicturus est.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scaena-iv.">
+  <head>7. ACTUS I. SCAENA IV.</head>
+  <p>STEPHANUS, IOSEPH, IESUS.</p>
+  <p>Audite, cuncti, state et animadvertite.</p>
+  <p>IOS. Quidnam novi praeterque consuetudinem</p>
+  <p>Inceptat hic loqui? IES. Tacendum erit, pater.</p>
+  <p>(150) STE. Audite, dixi, state et animadvertite.</p>
+  <p>Quia controversia haud parva fuit hactenus</p>
+  <p>De Meschia Christove nostris patribus</p>
+  <p>Promisso, ob hoc decrevimus iam publicis</p>
+  <p>Determinare disputationibus,</p>
+  <p>(155) Quidnam rudi populo siet de Meschia</p>
+  <p>Credendum. Ob hoc voluere nomodidascali et</p>
+  <p>Legisperiti singulos, scholasticis</p>
+  <p>Legalibusque disciplinis subditos,</p>
+  <p>Cras convenire mane ad horam tertiam</p>
+  <p>(160) In hunc locum cunctique sint, iuvenes senesque,</p>
+  <p>Et ad rogandum et ad loquendum liberi</p>
+  <p>Adsintque cuncti, qui velint, sive incolae</p>
+  <p>Sive accolae sive exteri sine strepitu.</p>
+  <p>Valete, cuncti, et praedicate ceteris.</p>
+  <p>(165) Sic praecipit, qui praesidebit, Gamaliel.</p>
+  <p>IES. O si mihi liceat adesse libere</p>
+  <p>Citra parentum offensionem et iurgium</p>
+  <p>Huic disputationi. At neutiquam sinent.</p>
+  <p>Sed mage Deo est oboediendum quam hominibus.</p>
+  <p>(170) Palam Deo, clam matre, cras scholasticus</p>
+  <p>Puer ipse νoμoδιδασκάλoυς accessero,</p>
+  <p>Ne videar obviare matris aut patris</p>
+  <p>Temeriter ex protervia beneplacitis.</p>
+  <p><hi rend="bold">CHORUS carmine trochaico
+  dimetro.</hi></p>
+  <p>Quisque caelicum parentem</p>
+  <p>(175) Laudet, oret, praedicet,</p>
+  <p>Maxime tamen puelli</p>
+  <p>A tenellis unguibus.</p>
+  <p>Quotquot ergo procreastis</p>
+  <p>Vel nutritis liberos,</p>
+  <p>(180) Sic docete eos pudicis</p>
+  <p>Cum logis tum moribus,</p>
+  <p>Ut Deum timere discant</p>
+  <p>Mox ab incunabulis</p>
+  <p>Visitentque templa crebro,</p>
+  <p>(185) Supplices et obsecrent.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-i.">
+  <head>9. ACTUS II. SCAENA I.</head>
+  <p>Versus tetrametri.</p>
+  <p>IESUAH solus.</p>
+  <p>In aede sacra aut porticu Schlomonis hoc fiet die</p>
+  <p>(Ut indicavit praeco) de tuo, pater mi, filio</p>
+  <p>Seu Meschia celeberrima et solennis disputatio,</p>
+  <p>Cui volui adesse pro amplianda gloria, pater, tua.</p>
+  <p>(190) Urit tamen mentem meam in matrem meam affectus pius,</p>
+  <p>Quod eam sciam supra modum indolituram amaris lacrimis.</p>
+  <p>Melius tamen tua, pater, pro gloria et salute plurium,</p>
+  <p>Ut uterque nostrum lugeat, quam hominum genus male pereat.</p>
+  <p>Haec namque vita aeterna erit, si noverint te, mi pater,</p>
+  <p>(195) Et Iesuah Christum tuum. Solare tu materculam</p>
+  <p>Meam, obsecro, per spiritum nobis coaeternum, pater.</p>
+  <p>Libenter ego pro perdito homine lacrimabor iugiter.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-ii.">
+  <head>10. ACTUS II. SCAENA II.</head>
+  <p>Versus trimetri.</p>
+  <p>GABRIEL, IESUAH.</p>
+  <p>Ave. IES. Quis hic? Tun’ Gabriel, patris mei</p>
+  <p>Bonus angelus fortissimusque nuntius?</p>
+  <p>(200) GAB. Ego Gabriel, puelle, tibi minister et</p>
+  <p>Matri tuae paranymphus integerrimus</p>
+  <p>Ad te a Deo patre missus, ut te non modo</p>
+  <p>Pro matre sollicitum tua consoler, at</p>
+  <p>Etiam futura roborem in certamina,</p>
+  <p>(205) Quae tibi puer mox ingruent. Sed fortiter</p>
+  <p>Agas oportet pro paterna gloria et</p>
+  <p>Salute pro mortalium certo sciens,</p>
+  <p>Quod a patre tibi tradita sapientia</p>
+  <p>Omnes tibi contrarios superaveris,</p>
+  <p>(210) Cum tu via ipsa et veritas et vita sis.</p>
+  <p>IES. Supplex ago tibi gratias Deo patri,</p>
+  <p>Qui neutiquam me deseris. Sed te obsecro,</p>
+  <p>Mi Gabriel, ne deseras matrem meam, sed ut</p>
+  <p>Paranymphus ipsam cum patre meo dirigas.</p>
+  <p>(215) GAB. Et dirigam et post triduum huc reduxero.</p>
+  <p>Mi domine Iesu, iam vale. IES. Vale, Gabriel,</p>
+  <p>Et me supernis civibus dic exsulem. Heu.</p>
+  <p>GAB. Ne fle, puer, dabit tibi Deus pater</p>
+  <p>In omnibus victoriam. Vale. IES. Vale.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-iii.">
+  <head>11. ACTUS II. SCAENA III.</head>
+  <p>IESUAH solus.</p>
+  <p>(220) Quamquam angelus me Gabriel solatus est</p>
+  <p>Blande admodum et corroboravit plurimum,</p>
+  <p>Tanto tamen dolore cor meum angitur,</p>
+  <p>Ut non queam quin lacrimem. Parente enim</p>
+  <p>Utroque deserto (heu dolor) solus vagor</p>
+  <p>(225) Nec adesse matri nec patri carissimo</p>
+  <p>Est integrum. Putabit illa quod patri</p>
+  <p>Nutricio, contra ille quod matri adsiem.</p>
+  <p>Verum absoluto vespere diei itinere,</p>
+  <p>Cum viderint me abesse deversorio,</p>
+  <p>(230) Heu quo dolore et lacrimis uterque tunc</p>
+  <p>Torquebitur. Tunc, heu, doloris gladius (ut</p>
+  <p>Praedixerat Simeon senex) praecordia</p>
+  <p>Penetrabit et materna dirus viscera.</p>
+  <p>Inde hic mihi modo gemitus atque hae lacrimae.</p>
+  <p>(235) At utroque posthabito me oportet in tuis,</p>
+  <p>Pater supreme, sedulo negotiis</p>
+  <p>Versarier. Quod ut assequar digne tua</p>
+  <p>Pro gloria, tibi supplices porrigo manus</p>
+  <p>Flectoque tibi cum lacrimis mea genua</p>
+  <p>(240) Aures tuas obtestans, pater clementiae, ut</p>
+  <p>Me exaudias. Christi tui faciem aspice</p>
+  <p>Oculosque rorantes amaris lacrimis.</p>
+  <p>A dexteris quosnam video mihi proximos?</p>
+  <p>Scholastici sunt, ficui sese applicant.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-iv.">
+  <head>12. ACTUS II. SCAENA IV.</head>
+  <p>NATHANAEL, ABIBAS.</p>
+  <p>(245) Quemnam videmus eminus puellum? ABI. Ubi?</p>
+  <p>NAT. Procul a sinistris eiulantem. ABI. Video, sed</p>
+  <p>Non aliquis est nostratium. Candidus enim et</p>
+  <p>Rubicundus est, electus atque ex milibus.</p>
+  <p>Quis non fleat videns, puelle, amabiles</p>
+  <p>(250) Genas tuas suffundi amaris lacrimis?</p>
+  <p>Vide obsecro te, ut os decens, roseae genae,</p>
+  <p>Frons lata, ocelli splendidi prae se ferunt</p>
+  <p>Et indolem plane entheam et prae filiis</p>
+  <p>Mortalium forma decorum et inclutum.</p>
+  <p>(255) Quid membra reliqua corporis, nisi filium</p>
+  <p>Dei, tribus qui apparuit pueris suis</p>
+  <p>Fornacis olim in ignibus? Nathanael,</p>
+  <p>Quin advolamus? Quin puellum amplectimur?</p>
+  <p>Quin osculamur? Quem eligas ex milibus</p>
+  <p>(260) Huic comparandum puerulo vel angelo?</p>
+  <p>Sic nempe facies rutilat, ut vultum angeli</p>
+  <p>Videre mihi videar. Eamus obsecro.</p>
+  <p>NAT. Mane sub hac ficu latentes clanculum</p>
+  <p>Exaudiamus, quid Deum precabitur.</p>
+  <p>(265) Se orationi praeparat, nam poplites</p>
+  <p>Solo imprimit manusque graciles complicat</p>
+  <p>Oculosque rorantes ad aethera sublevat.</p>
+  <p>ABI. Placet, audiamus. Vox enim eius dulcis est</p>
+  <p>Et in illius diffusa labris gratia.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-v.">
+  <head>13. ACTUS II. SCAENA V.</head>
+  <p>IESUAH, NATHANAEL, ABIBAS.</p>
+  <p>(270) O magne rerum conditor, Deus meus,</p>
+  <p>Pater meus caelestis ante saecula,</p>
+  <p>Qui gloriae tuae ampliandae gratia</p>
+  <p>Et pro salute generis hominum perditi</p>
+  <p>Me filium tuum unigenitum in hunc lacum,</p>
+  <p>(275) Ex matre mortalem editum, dirae neci</p>
+  <p>Praedestinatum, hunc e supernis sedibus</p>
+  <p>Misisti, et oro te et obsecro pro temporis</p>
+  <p>Ratione et hoc aetatis, ut mihi sedium</p>
+  <p>Dones tuarum praesidem sapientiam,</p>
+  <p>(280) Quo adsit mihi et mecum laboret, ut per hanc</p>
+  <p>Meam tua innotescat orbi gloria.</p>
+  <p>Pater, celebra filium tuum hoc die,</p>
+  <p>Quo te tuus celebret vicissim filius.</p>
+  <p>Cum aetate crescat gratia et sapientia</p>
+  <p>(285) Coram hominibus, tua quo augeatur gloria.</p>
+  <p>Me ob hoc enim parentibus subduxi, ut in</p>
+  <p>His, quae tuum ad honorem sient, sim sedulo.</p>
+  <p>Da quoque, pater, animo meo constantiam,</p>
+  <p>Pudore ne confusus humano velim</p>
+  <p>(290) Aut veritatem obnubere aut pessumdare.</p>
+  <p>NAT. Perfusus, en, iam lacrimis surgit puer</p>
+  <p>Suosque vultus sacram ad aedem dirigit.</p>
+  <p>ABI. Loquamur obiter, antequam nos deserat,</p>
+  <p>Quo eius fruamur paululum praesentia.</p>
+  <p>(295) Vox namque dulcis est genaeque amabiles.</p>
+  <p>En sponte se peti videns nos appetit.</p>
+  <p>Heus tu. NAT. Hem. ABI. Saluta blanditer, quod amore cum</p>
+  <p>Suavitate dignus est. NAT. Memorem mones.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-vi.">
+  <head>14. ACTUS II. SCAENA VI.</head>
+  <p>NATHANAEL, IESUAH, ABIBAS.</p>
+  <p>Ave, puelle. IES. Avete, amiculi mei.</p>
+  <p>(300) ABI. Amice, salve. IES. Salvus es, fratercule.</p>
+  <p>NAT. Dic quaeso cuias es, puer, quod habitus hic,</p>
+  <p>Praetexta et haec, non incolam aut ἐπιχώριον,</p>
+  <p>Sed exterum et puerum peregrinum indicant.</p>
+  <p>IES. Ex Nazareth orationis gratia</p>
+  <p>(305) Huc cum meis parentibus concesseram</p>
+  <p>Illisque (rebus absolutis singulis)</p>
+  <p>Domum reversis solus (eheu) divagor.</p>
+  <p>NAT. Matrem tuam cur deserebas, qui admodum</p>
+  <p>Es adhuc puer? IES. Quod in iis, quae erant patris mei,</p>
+  <p>(310) Et esse oportuit hactenus et adhuc fore.</p>
+  <p>NAT. Quid te pater deseruit hic? Studione? IES. Non,</p>
+  <p>Sed simplici ignorantia, quandoquidem</p>
+  <p>Pater putavit quod meae materculae,</p>
+  <p>Et illa quod patri adforem. Seorsum enim</p>
+  <p>(315) Revertier solent parentes approbi</p>
+  <p>Et liberi quibuslibet sociarier.</p>
+  <p>Sed vesperi, ubi convenerint, doloribus</p>
+  <p>Dirissimis se afflixerint, praesertim ea,</p>
+  <p>In cuius utero coalui menses novem,</p>
+  <p>(320) Quae genuit atque lacte genitum nutriit,</p>
+  <p>Quae nudulum vel involutum fasciis</p>
+  <p>Refovit in gremio suo, quae sedulo</p>
+  <p>Coinquinatum sordibus purgavit et</p>
+  <p>In omnibus necessitatibus meis</p>
+  <p>(325) Puerilibus noctu diuque mihi adfuit.</p>
+  <p>An non putatis hanc piam materculam</p>
+  <p>Supra modum indolituram, ubi vesperi</p>
+  <p>Desiderari viderit, sed vel in agris</p>
+  <p>Vel compitis famelicum vagarier?</p>
+  <p>(330) Profecto mater non potest insigniter</p>
+  <p>Sua non amare pignora, illa maxime,</p>
+  <p>Quibus officia tanta pietatis duodecim</p>
+  <p>Exhibuit annis nec rebellia comperit.</p>
+  <p>Heu causam ob hanc non queo miser quin lacrimem.</p>
+  <p>(335) NAT. Desine, puer, fundere tam amaras lacrimas.</p>
+  <p>Alias nec ipse continebo lacrimas.</p>
+  <p>Tu loquere, Abiba, cum puellulo puer.</p>
+  <p>ABI. Nec ipse eum flentem videns queo quin fleam.</p>
+  <p>Tu perge eum sermone mutato alloqui. NAT. Hem.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-vii.">
+  <head>15. ACTUS II. SCAENA VII.</head>
+  <p>NATHANAEL, IESUAH, ABIBAS.</p>
+  <p>(340) Amabo dic, quonam voceris nomine.</p>
+  <p>IES. Iesuah. NAT. Nomen salutis hoc, puer.</p>
+  <p>Doce, obsecro, tuopte more nos quoque</p>
+  <p>Orare caelestem patrem. Dabimus tibi</p>
+  <p>Panem suavi butyro aut melle illitum,</p>
+  <p>(345) Quod esurire obambulantem suspicor.</p>
+  <p>IES. Cibus est meus facere voluntatem patris,</p>
+  <p>Caelos qui inhabitat. Is suos non deserit,</p>
+  <p>Sed se timentes et colentes diligit.</p>
+  <p>NAT. Quot natus es annos? IES. Duodecim, ut aestimo.</p>
+  <p>(350) NAT. Quis te erudivit in sacris puellulum?</p>
+  <p>IES. Nil praeter hoc, quod a meo patre didici,</p>
+  <p>Novi. NAT. Quisnam est pater? Eruditus est?</p>
+  <p>IES. Omnes in illo sunt simul sapientiae et</p>
+  <p>Scientiae thesauri ad unum absconditi.</p>
+  <p>(355) NAT. Quid sentit is de Meschia? IES. Quid sentiat,</p>
+  <p>Nisi quod palam scriptura de ipso prodidit?</p>
+  <p>NAT. Videre tu non minus ab ipso praeditus</p>
+  <p>Scientia quam si in schola a didascalis</p>
+  <p>Legisperitis institutus sis probe.</p>
+  <p>(360) Oramus autem, ut adsies doctoribus</p>
+  <p>Nonam sub horam, ut disputantes audias.</p>
+  <p>IES. Vereor adire. NAT. Te morabimur atque te</p>
+  <p>Tuebimur, ne te pudor suffundat aut</p>
+  <p>Deterreat. Quin Gamalieli quoque, patri</p>
+  <p>(365) Meo atque nomodidascalo, de te loquar.</p>
+  <p>Adest Saul. Me abire oportet ilico,</p>
+  <p>Tu loquere, Abiba, parvulo. ABI. Paucis loquar.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-viii.">
+  <head>16. ACTUS II. SCAENA VIII.</head>
+  <p>ABIBA, IESUAH.</p>
+  <p>Haec trabea amabo dic tibi unde, Iesuah.</p>
+  <p>Contextus hic minime est quidem nostratium.</p>
+  <p>(370) IES. Dicam tibi, fratercule atque amicule.</p>
+  <p>Meam volunt materculam hunc χιτώνα mihi</p>
+  <p>Ipsis ab incunabulis industrie</p>
+  <p>Contexuisse desuper velut ἄραφον</p>
+  <p>Talarem adusque fimbriam, et domino a Deo</p>
+  <p>(375) Patre caelico tantum impetrasse precario, ut</p>
+  <p>Haec ipsa crescat cum meo corpusculo</p>
+  <p>Usque ad virilem aetatem et ultimam necem,</p>
+  <p>Et distrahenda ad exteros (heu me) viros.</p>
+  <p>ABI. Quid lacrimae fluunt ocellis denuo?</p>
+  <p>(380) Mortem times, quam omnes pariter obibimus?</p>
+  <p>Nos pueri adhuc sumus. Quid ante tempus es</p>
+  <p>Miser atque me tecum incitas ad lacrimas?</p>
+  <p>Quo tunica tum tua distrahenda aut quo modo?</p>
+  <p>IES. De me omnia, heu, quae scripta sunt, implenda sunt.</p>
+  <p>(385) Vestes meas partiti erant sibi et super</p>
+  <p>Vestem meam misere sortes impii</p>
+  <p>Coram meis quoque proximis. Hinc lacrimae.</p>
+  <p>ABI. Ne lacrima. Sile, Iesuah, Saul adest,</p>
+  <p>Ne nos ioco Sardonico derideat.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-ix.">
+  <head>17. ACTUS II. SCAENA IX.</head>
+  <p>IUSTUS, SAUL, IESUAH, ABIBAS.</p>
+  <p>(390) Saul Saul, liceat mihi, rogo, congredi.</p>
+  <p>SAU. Reverte, Iuste, domum tuam, quia ineptus es.</p>
+  <p>IES. Sit mecum Iustus obsecro, fratres mei.</p>
+  <p>Fortasse enim hic aliquando erit mihi notior,</p>
+  <p>Quod videam eum bonae indolis puellulum.</p>
+  <p>(395) SAU. Indoctus est prorsusque analphabetus est.</p>
+  <p>IES. Ex ore nonne infantium laudem suam</p>
+  <p>Deus efficit? Liceat Iusto congredi.</p>
+  <p>SAU. Licet, adsit. IES. Adsit mihi fraterculus,</p>
+  <p>Quamquam rudis. Probis parentibus ortus est,</p>
+  <p>(400) Viri optimi probique amicus filius,</p>
+  <p>Olim vocandus Barsabas. Frater mi, ades.</p>
+  <p>ABI. Novistin’ hunc? IES. Novi probe, hem. Quis ephebus hic</p>
+  <p>(Citus advolat), qui serio nos appetit?</p>
+  <p>ABI. Is Stephanus est, minister hic διδασκάλων.</p>
+  <p>(405) IES. Minister illorum fidelis est, mihi</p>
+  <p>Testis futurus postea fidelior.</p>
+  <p>Nam dura pro me postmodum passurus est.</p>
+  <p>ABI. Exaudiamus, quid novi dicturus est.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scaena-x.">
+  <head>18. ACTUS II. SCAENA X.</head>
+  <p>STEPHANUS, ABIBAS, SAUL, IESUS, IUSTUS.</p>
+  <p>Quid obsecro, socii mei, moramini?</p>
+  <p>(410) Quin templum aditis atque nomodidascalos?</p>
+  <p>Mandant Gamaliel ceterique didascali,</p>
+  <p>Ut symmathetae mox cum Abiba filio</p>
+  <p>Et Nazareno Iesuah compareant,</p>
+  <p>Quo disputantes audiant de Meschia</p>
+  <p>(415) Interrogentque (si velint) vel disputent.</p>
+  <p>Nathanael vos antevertit singulos.</p>
+  <p>Adeste cuncti, vos morantur plurimi.</p>
+  <p>ABI. Vocat pater me et Iesuah cum ceteris.</p>
+  <p>Eamus itaque alacriter, ne nos pigros</p>
+  <p>(420) Seu tarditatis arguat. SAU. Abeamus hinc.</p>
+  <p>IES. Vereor, Abiba. ABI. Absit pudor, iubet pater.</p>
+  <p>Acceptus eris amaberisque ab omnibus.</p>
+  <p>Si volueris, interroga vel disputa.</p>
+  <p>Adesto, Iuste, Iesuah cum ceteris.</p>
+  <p>(425) IUS. Puerum puer sequor libens. Sequere, Saul.</p>
+  <p>STE. Ego vos praeibo, adesse vos ut nuntiem.</p>
+  <p>SAU. Praei, sequor cum parvulis ut parvulus.</p>
+  <p>Festina, Iuste, lentius ne corruas.</p>
+  <p>Nam si cecideris, quis putas te sublevet?</p>
+  <p>(430) IUS. Saul libens. SAU. Ego te libens? IUS. Tu me
+  libens.</p>
+  <p>Etsi fuas mane lupus rapax, tamen</p>
+  <p>Cum Beniamin ad vesperam escas divides.</p>
+  <p>SAU. Putaveram te omnino stupidum et inscium.</p>
+  <p>Non tamen amusum penitus esse conspicor,</p>
+  <p>(435) Ab Iesuah nec separandum amiculis.</p>
+  <p>Sequere. IUS. Sequor. Scholae sumus iam proximi,</p>
+  <p>Ingreditur atque pontifex aedem sacram.</p>
+  <p>Fors erit ibi dialexis haec de Meschia,</p>
+  <p>Cui sumus iam a nomodidascalo acciti.</p>
+  <p>(440) SAU. Certo ibi futura. Quo putas se pontifex,</p>
+  <p>Nisi sacram ad aedem recipiat? Sequere et sile. IUS. Hem.</p>
+  <p><hi rend="bold">CHORUS.</hi></p>
+  <p>Liberos si habes capaces,</p>
+  <p>Erudi ipsos, si queas,</p>
+  <p>Aut docendos eruditis</p>
+  <p>(445) Trade praeceptoribus.</p>
+  <p>Nam scholaris disciplina</p>
+  <p>Omnibus mortalium</p>
+  <p>Disciplinis praestat atque</p>
+  <p>Legibus quibuslibet.</p>
+  <p>(450) Hanc palaestram tolle mundo,</p>
+  <p>Destrues ecclesiam,</p>
+  <p>Destrues sacrum et profanum,</p>
+  <p>Destrues rempublicam.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-i.">
+  <head>20. ACTUS III. SCAENA I.</head>
+  <p>GAMALIEL, ABIBAS, NATHANAEL.</p>
+  <p>De puero Iesu mira mihi narrata sunt.</p>
+  <p>(455) Quapropter hunc, domini mei et didascali,</p>
+  <p>Volo huc puellum accirier. Vocetur huc,</p>
+  <p>Si dignus est (ut dicitur) nos audiat,</p>
+  <p>Interroget vel disputet, quamquam puer</p>
+  <p>Duodennis aut Galilaeus est. Abiba, ades.</p>
+  <p>(460) ABI. Adsum, pater. GAM. Quin tecum adest Iesuah,</p>
+  <p>Carus tibi et Nathanieli plurimum?</p>
+  <p>Accerse eum. ABI. Vocabo, quamquam plurimum</p>
+  <p>Verebitur. GAM. Concede tu, Nathanael,</p>
+  <p>Ut tum pavori tum pudori blanditer</p>
+  <p>(465) Uterque pueri consulat. NAT. Concedimus</p>
+  <p>Tuebimurque, ut ambo ei promisimus.</p>
+  <p>Videbitis (ni fallor) in puellulo</p>
+  <p>Divinam inesse et indolem et sapientiam.</p>
+  <p>GAM. Ex Nazareth aliquid boni sperabimus?</p>
+  <p>(470) NAT. Sperabimus (dubio procul) multum boni.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-ii.">
+  <head>21. ACTUS III. SCAENA II.</head>
+  <p>GAMALIEL, NATHANAEL, IESUAH, PONTIFEX.</p>
+  <p>Papae Deum immortalem, ut hic speciosus est</p>
+  <p>Prae filiis mortalium atque amabilis!</p>
+  <p>Quis dubitet hunc Dei inhabitare spiritum?</p>
+  <p>NAT. Hoc dixeris, si eum loquentem audiveris.</p>
+  <p>(475) IES. Salvete, nomodidascali et domini mei.</p>
+  <p>GAM. Quis es, puer, vel unde ades? Dic libere.</p>
+  <p>IES. Natum ferunt in Bethlehem, at me Nazareth</p>
+  <p>Nutrivit usque in hunc diem. GAM. Sunt tibi pater</p>
+  <p>Materque? IES. Sunt. GAM. Quid pater agit? IES. Faber est
+  pater.</p>
+  <p>(480) GAM. Ars humilis est. IES. Hac me tamen nutrivit et</p>
+  <p>Matrem hactenus. GAM. In literis versatus es?</p>
+  <p>Te in lege satis et in prophetis asserunt</p>
+  <p>Recte institutum. IES. Nil scio, nisi quod meo</p>
+  <p>Ex patre didici sedulo atque retinui.</p>
+  <p>(485) GAM. Adeo eruditus est, ut te quoque interim</p>
+  <p>Doceat et instruat? IES. In eo paene omnis est</p>
+  <p>Thesaurus et sapientiae et prudentiae</p>
+  <p>Reconditus. NAT. Nos idem et ab ipso audivimus</p>
+  <p>Et in ipso eosdem absconditos videbitis.</p>
+  <p>(490) PON. Sedeat puellus Iesuah mihi proximus,</p>
+  <p>Dum finiatur ipsa disputatio.</p>
+  <p>IES. Tantisper hoc in angulo sedebo vel</p>
+  <p>Stabo potius, mi domine, dum soluta sit.</p>
+  <p>NAT. Rubore prae pudore puer afficitur et</p>
+  <p>(495) Veretur inter principes viderier.</p>
+  <p>GAM. Sede ergo liber medius inter nos, puer,</p>
+  <p>Et hunc locum occupabis hora proxima.</p>
+  <p>IES. Quia sic placet dominis meis, sedeo libens.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-iii.">
+  <head>22. ACTUS III. SCAENA III.</head>
+  <p>GAMALIEL, NICODEMUS, NABAL.</p>
+  <p>Iam, quemadmodum decrevimus, domini mei,</p>
+  <p>(500) Tractandum erit de Meschia, an venturus est,</p>
+  <p>An frustra eum exspectavimus et frustra adhuc</p>
+  <p>Posthac eum exspectabimus. Super hoc, patres,</p>
+  <p>In lege quid vel in prophetis proditum est,</p>
+  <p>Scrutamini et decernite, ut populus rudis</p>
+  <p>(505) In veritate roboretur et in fide</p>
+  <p>(Velut hactenus) non ambigat. Profecto enim haud</p>
+  <p>Refert parum istuc credere aut non credere.</p>
+  <p>Dic, Nicodeme, tu tuam sententiam,</p>
+  <p>Aetate quod praestas scientiaque in Israhel.</p>
+  <p>(510) NIC. Quamquam scio multos fuisse et esse adhuc,</p>
+  <p>Qui Meschian ex lege posse Moseos</p>
+  <p>Venturum in hunc mundum negent probarier,</p>
+  <p>Tamen in prophetis id liquet manifestius,</p>
+  <p>Praesertim iis, qui attenti eosdem lectitant.</p>
+  <p>(515) Verum loquantur doctiores doctius.</p>
+  <p>NAB. Nec in prophetis usquam aperte mentio</p>
+  <p>Fit Meschiae. Proinde fabulosa sunt,</p>
+  <p>Quae dictitarunt hactenus. GAM. Quid audio?</p>
+  <p>Dic tu, puer, quid sentias. NAB. Puer senes</p>
+  <p>(520) (Si diis placet) docturus est. GAM. Sile parum.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-iv.">
+  <head>23. ACTUS III. SCAENA IV.</head>
+  <p>IESUAH, PONTIFEX, GAMALIEL.</p>
+  <p>Domini mei et patres mei, miror equidem</p>
+  <p>In re quod hac manifesta adhuc haeretis et</p>
+  <p>Titubatis. An semel excidit, quod dixerat</p>
+  <p>Iehova in initio creationis omnium</p>
+  <p>(525) Ad callidum serpentem et ipsam mulierem?</p>
+  <p>Dissidia ponam inter te et ipsam mulierem,</p>
+  <p>Inter tuum et semen mulieris, quod caput</p>
+  <p>Tibi virulentum conteret. Dicite mihi,</p>
+  <p>Quod semen hoc putatis esse vel fore,</p>
+  <p>(530) Quod impium caput diaboli conteret,</p>
+  <p>Nisi Meschian, nisi Christon et Dei patris</p>
+  <p>Unctumque sancto spiritu gnatum unicum?</p>
+  <p>PON. Bene intulit profecto puer hic parvulus,</p>
+  <p>Sed qua, puer, ratione serpentis caput</p>
+  <p>(535) Hoc conteret semen, rogo ultra disseras.</p>
+  <p>IES. Canit entheos propheta sic per os Dei.</p>
+  <p>Propter scelus populi mei percussi eum,</p>
+  <p>(Intelligis) Christum meum seu Meschian.</p>
+  <p>Propter scelus siquidem Deus primarium</p>
+  <p>(540) Adami et Hevae, quod genus mortalium</p>
+  <p>Per traducem contraxerat, graviter Deus</p>
+  <p>Offensus haud placarier potuit, nisi</p>
+  <p>Innoxium per sanguinem Christi sui,</p>
+  <p>Qui solus omnium absque peccato patris</p>
+  <p>(545) Iram sui perinde sacra ac victima</p>
+  <p>Placaret ultro sanguine ac nece propria.</p>
+  <p>Venturus igitur Christus est, qui pro suo</p>
+  <p>Populo beando mortem obibit et caput</p>
+  <p>Patre mitigato virulentum conteret.</p>
+  <p>(550) Contritum erit, cum vis ei tyrannidis</p>
+  <p>Apud inferos adempta erit, ubi Meschiae</p>
+  <p>Credentibus caeli aperientur ostia.</p>
+  <p>PON. Tantum hactenus de Meschiae potentia</p>
+  <p>Non novimus. Succurrit ex legene aliud?</p>
+  <p>(555) IES. Quid planius quam id, quod canebat Moyses</p>
+  <p>Vobis: prophetam suscitabit dominus ex</p>
+  <p>Confratribus vestris et ipsum veluti me</p>
+  <p>Exaudietis in omnibus, quae dixerit</p>
+  <p>Vobis. Quid aliud de propheta Moyses</p>
+  <p>(560) Praenuntiat quam Meschiam legem novam</p>
+  <p>Scripturum in hominum cordibus, cui in omnibus</p>
+  <p>Oboediendum erit perinde ac Moysi</p>
+  <p>In lege veteri, lapidibus quam insculpserat?</p>
+  <p>PON. Vere puer nil aliud hic praenuntiat.</p>
+  <p>(565) GAM. Adhucne sunt, quae ex lege Iesu proferas?</p>
+  <p>IES. Permulta sunt, sed unum adhuc libet addere.</p>
+  <p>GAM. Dic. ————</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-v.">
+  <head>24. ACTUS III. SCAENA V.</head>
+  <p>IESUAH, GAMALIEL, PONTIFEX, ABIBAS.</p>
+  <p>———— Israhel patriarcha cum bene diceret</p>
+  <p>Morti propinquus liberis, prudens ait:</p>
+  <p>Non auferetur ex Iehuda sceptron aut</p>
+  <p>(570) Dux femoris eius, donec adsit ille qui</p>
+  <p>Venturus est et ipse erit tunc gentium</p>
+  <p>Exspectatio. Quis ille, qui venturus est,</p>
+  <p>Nisi Meschiah, domini mei, quem ex semine</p>
+  <p>Iudaico vos nasciturum creditis.</p>
+  <p>(575) In eumque gentes spem suam novissimam</p>
+  <p>Ponent velut verae salutis anchoram.</p>
+  <p>GAM. Et haec prophetis consonant, ἔνθεε puer.</p>
+  <p>Si quisquam habet quod his contrarium putet,</p>
+  <p>Id differendum in crastinum hora tertia,</p>
+  <p>(580) Quod hora iam sit serior. Cras alacrior</p>
+  <p>Quisque rediturus est et expeditior</p>
+  <p>Tractabimusque, qualis aut quo schemate</p>
+  <p>Venturus est (sat quod liquet modo) Meschiah.</p>
+  <p>PON. Nisi puer hic esset humilis et natus fabro,</p>
+  <p>(585) Hunc Meschian Deique gnatum dicerem.</p>
+  <p>Quis tamen erit, suo patebit tempore.</p>
+  <p>GAM. Non accipit Deus πρόσωπoν hominis, at</p>
+  <p>Si quis Dei est amator aut virtutis, hunc</p>
+  <p>Merito elevat, quemadmodum Davida Amosque</p>
+  <p>(590) A gregibus ad prophetiam vocaverat.</p>
+  <p>PON. Verum, sed haec domino Deo committimus.</p>
+  <p>Ostendat ipse, ad quid puellum elegerit.</p>
+  <p>GAM. Duc, fili, in aedes puerulum ad merendulam</p>
+  <p>Et vesperi ut tecum refectus dormiat.</p>
+  <p>(595) Abi. Ducam, pater, nisi Iustus ipsum abduxerit.</p>
+  <p>Id quod futurum suspicor. GAM. Si sic, placet.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-vi.">
+  <head>25. ACTUS III. SCAENA VI.</head>
+  <p>IUSTUS, ABIBAS, IESUAH.</p>
+  <p>Eamus ad matrem meam, mi Iesuah.</p>
+  <p>Quod ipsa nos morabitur sub vesperem,</p>
+  <p>Cras tecum, Abiba, dormiet. ABI. Placet. Tamen</p>
+  <p>(600) Quod te rogavi et quod spopondisti mihi,</p>
+  <p>Me obsecro, puer, primum doce, quemadmodum</p>
+  <p>Pater mihi caelestis invocandus est.</p>
+  <p>IES. Docebo te et sic more nostro dixeris:</p>
+  <p>Pater superne, conditor rerum omnium,</p>
+  <p>(605) Nomen tuum sanctum innotescat omnibus.</p>
+  <p>ABI. Tu perge, numeris metricis verba teneo.</p>
+  <p>IES. Regnum tuum adveniat repulsis hostibus.</p>
+  <p>ABI. Ut primum et hoc numeris tenebo metricis.</p>
+  <p>IES. Tua fiat in terris voluntas, quemadmodum in</p>
+  <p>(610) Caelestibus. ABI. Sed et hoc tenebo, pergito.</p>
+  <p>IES. Ἐπιούσιον panem adde nobis hoc die.</p>
+  <p>ABI. Et hoc tenebo. IES. Remitte nobis debita, ut</p>
+  <p>Nobis remittimus omnibus debentibus.</p>
+  <p>ABI. Et hoc tenebo quamlibet difficilius.</p>
+  <p>(615) IES. Ne nos sinas induci in hostiles dolos.</p>
+  <p>ABI. Tenebo. IES. Sed nos a malo omni libera.</p>
+  <p>Tibi soli enim regnum, potestas, gloria,</p>
+  <p>Per cuncta in aevum saeculorum saecula.</p>
+  <p>Amen. Pater sic invocandus est meus.</p>
+  <p>(620) ABI. Si sic tuus, nosterque sic orandus est.</p>
+  <p>IUS. Iam meritus est (ut dixeratis) Iesuah</p>
+  <p>Cum butyro aut cum melle panem candidum</p>
+  <p>Mecum deinde iturus ad matrem. ABI. Placet.</p>
+  <p>IUS. Cape ergo panem candidum, mi Iesuah,</p>
+  <p>(625) Cum butyro et properemus ad matrem meam.</p>
+  <p>ABI. Cape. IES. Amicule, habeo gratiam. Vale. ABI. Vale.</p>
+  <p>Cras, spero, mecum dormies. Vale. IES. Vale.</p>
+  <p>Valeat pater cum fratre amico in crastinum.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scaena-vii.">
+  <head>26. ACTUS III. SCAENA VII.</head>
+  <p>IUSTUS, IESUAH.</p>
+  <p>Quod per tuam institutionem meritus es,</p>
+  <p>(630) Nunc ede, puer. IES. Nequaquam edam solus, sed hoc,</p>
+  <p>Iuste, tecum dividam domi tuae.</p>
+  <p>IUS. Matercla mea nobis paravit brosymon</p>
+  <p>Ex lacte dulci et pane candidissimo.</p>
+  <p>IES. Hoc dabimus igitur pauperi. IUS. Esto. Sed, obsecro,</p>
+  <p>(635) Non tibi parat, mi Iesuah, mater tua</p>
+  <p>Ex lacte dulci et pane suavi et candido</p>
+  <p>Dulce et suave brosymon? IES. Numquam parat.</p>
+  <p>IUS. Qui non coquit? IES. Quod sensim ad paenitentiam</p>
+  <p>Adhuc tenellum nutriat, quemadmodum</p>
+  <p>(640) Et meus Ioannes puer nutritus est</p>
+  <p>Domi suae sterilibus a parentibus.</p>
+  <p>Qui iam suis avulsus a parentibus,</p>
+  <p>Deserta eremi squalidaque loca appetet</p>
+  <p>Nil praeter ἀκρίδας τε καὶ μέλι ἄγριον</p>
+  <p>(645) Esurus et pilos camelorum induet.</p>
+  <p>IUS. Tantillus ille puerulus vix te (arbitror)</p>
+  <p>Antiquior. IES. Tantillus hic. IUS. Papae, quid hoc?</p>
+  <p>Sed age tibi matercla quid coquere solet</p>
+  <p>Seu quo hactenus nutritus es? IES. Lacti acidulo</p>
+  <p>(650) Farinulam hordeaceam commiscuit</p>
+  <p>Pultemque sibi mihique coxit sobriam</p>
+  <p>Holusculumve ex brassica aut rapunculis.</p>
+  <p>IUS. Nil addidit condiminis, nil butyri?</p>
+  <p>IES. Condimen optimum arbitrata erat famem</p>
+  <p>(655) Sub vesperem et sub horam prandii.</p>
+  <p>Nihilominus tamen subinde butyro aut</p>
+  <p>Melle oblinit panem mihi hordeaceum,</p>
+  <p>Quo indulgeat meae tenellae aetatulae</p>
+  <p>Sciamque prava odisse et eligere bona.</p>
+  <p>(660) Sitientibus quoque ultro aquae sunt obviae.</p>
+  <p>IUS. Tam rigida mea non est mihi matercula.</p>
+  <p>Paedisca adest, nunc proximi sumus aedibus.</p>
+  <p>IES. Age differamus epulum adusque vesperem.</p>
+  <p>Vereor enim, ne non queamus tempori</p>
+  <p>(665) Adesse disputationibus. Consultius</p>
+  <p>Hanc dividamus tortulam cum butyro</p>
+  <p>Et vesperi coquendum edamus brosymon.</p>
+  <p>IUS. Paedisca adest. Si nondum adhuc paraverit,</p>
+  <p>Moremur usque ad vesperem. IES. Iam mihi places.</p>
+  <p>(670) Iam cape meae merendulae partem alteram.</p>
+  <p>Sed eamus intro et edamus intus, ut decet.</p>
+  <p><hi rend="bold">CHORUS.</hi></p>
+  <p>Praecipit Deus parentes</p>
+  <p>Et coli et venerarier,</p>
+  <p>Sed se amandum et se colendum</p>
+  <p>(675) Praecipit super omnia.</p>
+  <p>Si parens eget vel aegret,</p>
+  <p>Esto gnatus obsequens,</p>
+  <p>At si honor Dei requirat,</p>
+  <p>Hunc cole, illos neglige.</p>
+  <p>(680) Nam qui amat patrem matremve</p>
+  <p>Plus quam Iesum, indignus est</p>
+  <p>(Ipse ut inquit) appellari</p>
+  <p>Christiano nomine.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-i.">
+  <head>28. ACTUS IV. SCAENA I.</head>
+  <p>IESUAH solus.</p>
+  <p>Priusquam abibo, genibus inflexis mihi</p>
+  <p>(685) Pater meus caelestis invocandus est,</p>
+  <p>Ut prosperum faciat mihi hoc negotium,</p>
+  <p>Quod eius ad laudem subibo et gloriam.</p>
+  <p>O, mi pater, da mihi tuarum sedium</p>
+  <p>Sapientiam, prudentiam seu spiritum</p>
+  <p>(690) Scientiae (sine quo nihil agere</p>
+  <p>Humana valet infirmitas), ut hoc die</p>
+  <p>Sic praedicem nomen tuum et Christi tui,</p>
+  <p>Ut te patrem atque filium cum spiritu</p>
+  <p>Sancto sciant hostes tui per saecula.</p>
+  <p>(695) Scio namque, quod sub hoc die mihi ingruat</p>
+  <p>Non parva cum hostibus tuis contentio.</p>
+  <p>Verumtamen fiat tua voluntas, pater.</p>
+  <p>Et obsecro, soleris ut matrem meam,</p>
+  <p>Quam scio mea de absentia lacrimarier.</p>
+  <p>(700) Nunc ibo, dira quo vocat necessitas.</p>
+  <p>Prospectat eminus foras Nathanael.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-ii.">
+  <head>29. ACTUS IV. SCAENA II.</head>
+  <p>GAMALIEL, NATHANAEL, IESUAH.</p>
+  <p>Ubi noster est Iesuah? NAT. Ecce adest puer</p>
+  <p>Roseas genas suffusus aegris lacrimis.</p>
+  <p>Iam vidi eum poplitibus inflexis suum</p>
+  <p>(705) Manibusque supplicibus patrem precarier.</p>
+  <p>GAM. Quid est, Iesu, quod videris lacrimas</p>
+  <p>Fudisse amaras? Obsecro, si quispiam</p>
+  <p>Te laeserit, dicas mihi liberrime.</p>
+  <p>IES. Nullus profecto, domine mi, puerilis id</p>
+  <p>(710) Natura habet, facile ut fleat seu rideat.</p>
+  <p>Quin et facile matris meae obliviscier</p>
+  <p>Nequeo puer. GAM. Solare, Iesu: crastino</p>
+  <p>Die aderit hic matercula et nos te interim</p>
+  <p>Curabimus. IES. Ago gratias, domini mei, et</p>
+  <p>(715) Omnis boni largitor ipse retribuet.</p>
+  <p>GAM. Tersis ocellis denuo, puer, sede et,</p>
+  <p>Si postulet res, te tuere libere. IES. Hem.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-iii.">
+  <head>30. ACTUS IV. SCAENA III.</head>
+  <p>GAMALIEL, IESUAH, NICODEMUS cum ceteris.</p>
+  <p>Quod proposuimus hinc ab hora tertia,</p>
+  <p>Nunc explicemus lucide, domini mei et</p>
+  <p>(720) Didascali doctissimi. Prius tamen,</p>
+  <p>Si quid puer locutus est verbo Dei</p>
+  <p>Contrarium in prioribus sermonibus,</p>
+  <p>Nunc quisque vestrum dicat hic liberrime,</p>
+  <p>Ne quis queratur quod puello plusculum</p>
+  <p>(725) Sit attributum quam seni didascalo.</p>
+  <p>IES. Nihil mihi tribui volo, patres mei,</p>
+  <p>Sed veritati plurimum. Sermo meus</p>
+  <p>Si veritate vacuus est, reprehendite.</p>
+  <p>Si veritate nititur, concedite.</p>
+  <p>(730) NIC. Concedimus. Tuam imus in sententiam.</p>
+  <p>A. Concedimus. B. Concedimus. C. Concedimus.</p>
+  <p>GAM. Quid itaque, Nicodeme, sentiendum erit</p>
+  <p>De Meschiae venturi honore et gloria</p>
+  <p>Qualive sit venturus ad nos schemate?</p>
+  <p>(735) Tum ceteri quoque super hoc respondeant.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-iv.">
+  <head>31. ACTUS IV. SCAENA IV.</head>
+  <p>NICODEMUS, GAMALIEL, PONTIFEX cum ceteris.</p>
+  <p>Diversi varia praedicant nec mutuo</p>
+  <p>Consentiunt, verum (ut mihi persuadeo)</p>
+  <p>Iuxta prophetas ut potentem principem</p>
+  <p>Venturum eundem existimo, qui ferrea</p>
+  <p>(740) Virga rebelles corriget, sed pristinum</p>
+  <p>Cum gloria regnum Israheli porriget,</p>
+  <p>Ex omnibusque gentibus profugos suis</p>
+  <p>Reducet huc viribus et armis bellicis.</p>
+  <p>A. Sic asserunt. B. Sic credimus. C. Sic ethnicos</p>
+  <p>(745) Premi potentia et rebelles opprimi</p>
+  <p>Decet atque sic necesse erit per Meschian.</p>
+  <p>GAM. Quid tibi, puer, videbitur? Modo dicito</p>
+  <p>Nec te pudor nec te pavor deterreat.</p>
+  <p>Pro veritate libere loqui decet.</p>
+  <p>(750) Praestat tamen redire ad horam vesperam,</p>
+  <p>Ne taedium sermo pariat prolixior.</p>
+  <p>PON. Non sic, patres. Prius audiamus Iesuah.</p>
+  <p>GAM. Loquatur ergo Iesuah liberrime.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-v.">
+  <head>32. ACTUS IV. SCAENA V.</head>
+  <p>IESUAH, PONTIFEX, GAMALIEL, SAUL.</p>
+  <p>Gamaliel pro veritate libere</p>
+  <p>(755) Loqui iubet. Loquar proinde libere.</p>
+  <p>Sed oro, si quid interim balbutiam,</p>
+  <p>Ignoscite pueritiae atque infantiae.</p>
+  <p>PON. Ignoscitur; loquere, puelle, libere.</p>
+  <p>IES. Ut Nicodemus senserat, consentiunt</p>
+  <p>(760) Prope singuli. Nusquam tamen probabitur,</p>
+  <p>Quod ullus haec verus propheta senserit.</p>
+  <p>Sed ex diametro prorsus his contraria.</p>
+  <p>Venit (inquit) ecce rex tuus Zacharias.</p>
+  <p>Filia Sion, regem vides, sed obsecro</p>
+  <p>(765) Quonam apparatu regio? Qua purpura</p>
+  <p>Vel coccino quove aureo diademate?</p>
+  <p>Stipatus aut quo milite? En venit tibi</p>
+  <p>Mansuetus aut pauper asinae vili insidens.</p>
+  <p>Quod schema regium pro Meschia tuo?</p>
+  <p>(770) Quis cultus hic regis tui ter maximi?</p>
+  <p>Fateor tamen, quod dignitatis nomina</p>
+  <p>Subinde Meschiae in prophetis pluribus</p>
+  <p>Tribuuntur, ut regis, ducis, pantocratoros,</p>
+  <p>Quae saecularem non tamen fastum volunt,</p>
+  <p>(775) Verum Dei ter maximi potentiam</p>
+  <p>Et gloriam, qua contumaces arguet,</p>
+  <p>Primum Iehudaeos, deinde et ethnicos.</p>
+  <p>Dicturus est profecto non modo gentibus,</p>
+  <p>Sed et Iehudaeis sibi rebellibus:</p>
+  <p>(780) Regnum meum non est ab hoc mundo, sed ex</p>
+  <p>Superum patre omnium, Deo ter maximo,</p>
+  <p>Qui solus omnibus creatis imperat.</p>
+  <p>PON. Ergone Deus credendus est, cum venerit</p>
+  <p>Christus? IES. Deus verus et homo credendus est,</p>
+  <p>(785) Adeoque filius Dei et hominis unicus,</p>
+  <p>Altissimus et humillimus. PON. Absurda sunt,</p>
+  <p>Quae loquere, Iesu. Qui Deus et homo simul</p>
+  <p>In eodem et uno Meschia convenerint?</p>
+  <p>Deusne carnem assumpserit? Deus hominem?</p>
+  <p>(790) GAM. Absurda plurimum videntur haec, puer,</p>
+  <p>Verum tuae donanda teneritudini.</p>
+  <p>IES. Cum signa videritis homini impossibilia</p>
+  <p>Patique eundem, quae Deo non congruunt,</p>
+  <p>Tandem ibitis (scio) in meam sententiam.</p>
+  <p>(795) GAM. Abire praestat quam his super contendere.</p>
+  <p>SAU. Non sic. Sine me, oro te, Rabbi, cum Iesuah</p>
+  <p>Confligere. GAM. Hem, verbo tenus, sine verbere.</p>
+  <p>SAU. Verbo tenus, sine verbere. Respondeat.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-vi.">
+  <head>33. ACTUS IV. SCAENA VI.</head>
+  <p>SAUL, IESUAH, GAMALIEL.</p>
+  <p>Quaenam putas, sordidule, nostrum Meschian</p>
+  <p>(800) Indigna passurum ut hominem aut, si Deus erit,</p>
+  <p>Quonam modo passurus est? Dic, sordide.</p>
+  <p>IES. Saul, Saul, quid niteris me persequi?</p>
+  <p>Expende quinquagesimum atque tertium</p>
+  <p>Caput Esaiae et dic mihi, Saul, quis est,</p>
+  <p>(805) De quo prophetes loquitur hoc modo inquiens:</p>
+  <p>Vidimus eum, sed non erat species ei</p>
+  <p>Neque decor, et ut novissimum virorum et ut</p>
+  <p>Virum dolorum infirmitati obnoxium,</p>
+  <p>Vere ipse nostros et dolores languidus</p>
+  <p>(810) Tulit, ipse vulneratus atque attritus est.</p>
+  <p>Propter scelus populi mei percussi eum.</p>
+  <p>Nos velut oves erravimus. Deus pater</p>
+  <p>Posuit in illo iniquitates omnium</p>
+  <p>Nostrum. Quia voluit ipse, sponte oblatus est.</p>
+  <p>(815) Nam velut ovis vel ut agnus ad necem innocens</p>
+  <p>Ducetur atque cum scelestis ut scelus</p>
+  <p>Reputatus est et, quae propheta latius</p>
+  <p>Praecinuit, alia pluria. Dic mi, Saul</p>
+  <p>(Qui olim meus futurus es), de quo putas</p>
+  <p>(820) Tam vilia et tam abiecta praecini, nisi</p>
+  <p>De Meschia Deique et hominis filio,</p>
+  <p>Quamquam illius generationem neutiquam</p>
+  <p>Mortalium quisquam valebit assequi?</p>
+  <p>GAM. Respondeat Saul volens confligere.</p>
+  <p>(825) SAU. In eo prophetae non satis versatus est</p>
+  <p>Loco Saul. Moretur horam in proximam,</p>
+  <p>Cedo sub hac hora, puer, conflictui.</p>
+  <p>GAM. Sic puer Iesus cum suis edat et bibat</p>
+  <p>Speretque cras adfore suam materculam.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-vii.">
+  <head>34. ACTUS IV. SCAENA VII.</head>
+  <p>IUSTUS, PAEDISCA, IESUAH.</p>
+  <p>(830) Laetare, Iesu: cras tuam materculam</p>
+  <p>Non sine triumpho nobili visurus es,</p>
+  <p>Ut inquit archididascalus Gamaliel.</p>
+  <p>Proinde eamus ad meam materculam. En</p>
+  <p>Paedisca nobis obvia est cum brosymo.</p>
+  <p>(835) Adduxero cras tibi tuam materculam. IES. O</p>
+  <p>Utinam mihi ipsam adduxeris. IUS. Adduxero.</p>
+  <p>Exibo enim diluculo et per viculos</p>
+  <p>Et plateas quaeram tibi, quam diligis.</p>
+  <p>Facile indicabunt ipsam amarae lacrimae.</p>
+  <p>(840) IES. Heu lacrimae matrisque carae lacrimae. Heu.</p>
+  <p>IUS. Ne lacrima. En Paedisca adest cum brosymo.</p>
+  <p>PAE. En dulce lac cum pane coctum candido</p>
+  <p>Edendum Iusto mittitur cum Iesuah,</p>
+  <p>Suo amiculo. IES. Magnas agemus gratias.</p>
+  <p>(845) PAE. Pappate iam, puelluli. IUS. Pappabimus.</p>
+  <p>IES. Pappabo tecum, amicule, his matris tuae</p>
+  <p>In aedibus. Pappabis et tu suaviter</p>
+  <p>Patris mei tandem in supernis aedibus.</p>
+  <p>IUS. Ubi habitat, inque Iesuah, pater tuus?</p>
+  <p>(850) IES. Procul hinc, Iuste, et in supernis montibus.</p>
+  <p>Ubi fuerimus robustiores, huc revertar et</p>
+  <p>Cum gaudio te duxero ad patrem meum,</p>
+  <p>Ubi melle coctum saccaroque brosymon</p>
+  <p>Pappabimus sine termino suavius.</p>
+  <p>(855) IUS. Quid huc Saul? ————</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-viii">
+  <head>35. ACTUS IV. SCAENA VIII</head>
+  <p>SAUL, IESUAH, IUSTUS.</p>
+  <p>———— Mi Iuste Iuste. IUS. Saul Saul.</p>
+  <p>SAU. Qui venimus simul, simulne vescimur?</p>
+  <p>IUS. Analphabetus est Iustus, neutiquam</p>
+  <p>Te intelligit. SAU. Te duxeram. IUS. At me calcibus</p>
+  <p>Lapsum luto mox imprimendum dixeras.</p>
+  <p>(860) SAU. Abi in malam crucem. IES. Mali nil irroges.</p>
+  <p>Quin redde potius pro malis bona Sauli.</p>
+  <p>Te quaeso admittito. IUS. Saul, Saul, ades.</p>
+  <p>SAU. Saul adest. Hoc exedamus brosymon.</p>
+  <p>IUS. Haudquaquam, enim iusto es lupo rapacior.</p>
+  <p>(865) Sit Iesuah pars (ut decet) merito amplior.</p>
+  <p>IES. Mi Iuste, sat erit omnibus. Sed obsecro,</p>
+  <p>Quis coxit hoc tam delicatum brosymon?</p>
+  <p>IUS. Matercula mea utrique nostrum, Iesuah.</p>
+  <p>Exedere oportet, antequam cedamus hinc.</p>
+  <p>(870) IES. Non possumus, nisi Saulus hic sit alacrior.</p>
+  <p>SAU. Rapacior dicere volebas, ergo ero</p>
+  <p>Rapacior. IES. Iure optimo tibi competit</p>
+  <p>Rapacitas, si fueris usus debite.</p>
+  <p>SAU. Raptim ergo edam, tribui meae quo congruam,</p>
+  <p>(875) Quo Beniamin respondeam. IES. Responderis,</p>
+  <p>Si vesperi escas et spolia diviseris.</p>
+  <p>Edat Saul, nos revocat hora denuo.</p>
+  <p>IUS. Prius exedamus brosymon. IES. Aliquantulum</p>
+  <p>Praeibo vos, quod urgeat negotium.</p>
+  <p>(880) IUS. Ego te sequor, tu exede, Saul. SAU. Exedo,
+  sequar.</p>
+  <p>Turpe est manere, subsequor. Quid pueri habent?</p>
+  <p>Quid stupet Iustus? Iesuah quid sternitur?</p>
+  <p>IES. Domine pater, dominator et vitae meae,</p>
+  <p>Patrem et meam solare matrem virginem. Heu</p>
+  <p>(885) Et lacrimantem dirigat bonus angelus.</p>
+  <p>SAU. Quid obstupescis, Iuste mi? Quid prospicis?</p>
+  <p>IUS. Video eminus precantem Iesum supplicem.</p>
+  <p>Et ecce adest ei angelus, qui uberrimas</p>
+  <p>Abstergit oculis lacrimas. SAU. Erras, puer.</p>
+  <p>(890) IUS. Non erro, et angelus evolat, surgit puer.</p>
+  <p>SAU. Praeite vos, ego subsequar. IUS. Praeibimus.</p>
+  <p>SAU. Si vera sunt quae loquitur hic simplex puer,</p>
+  <p>Plus in puello Iesuah latere quam</p>
+  <p>Foris patere suspicor. Nihilominus</p>
+  <p>(895) Leges avitas atque mores patrios</p>
+  <p>Statui tenere mordicus, quos prorsus hic</p>
+  <p>Semel abrogare nititur. Subsequor eos,</p>
+  <p>Ubi grunnientem alvum meam levaverim.</p>
+  <p>Consultius cedam tamen conflictui.</p>
+</div>
+<div type="level1" xml:id="actus-iv.-scaena-ix.">
+  <head>36. ACTUS IV. SCAENA IX.</head>
+  <p>GAMALIEL cum ceteris.</p>
+  <p>(900) Si vel Saul velit vel alius quispiam</p>
+  <p>Logois Iesu obnitier, respondeat.</p>
+  <p>Sed (ut audio) cessit Saul conflictui</p>
+  <p>Hinc maxime, quod tempori haud compareat.</p>
+  <p>Si qui velint, respondeant liberrime.</p>
+  <p>(905) Differre namque in crastinum vix commodum,</p>
+  <p>Quod crastinus dialexim habebit propriam</p>
+  <p>De Meschiae Christive certo tempore,</p>
+  <p>Quo se pie invocantibus venturus est.</p>
+  <p>Studento singuli in arduo hoc negotio</p>
+  <p>(910) Proferre, quod sit utile atque accommodum.</p>
+  <p>Nec enim aliud est quod dignius tractetur aut</p>
+  <p>Quod sit magis mortalibus probabile.</p>
+  <p><hi rend="bold">CHORUS.</hi></p>
+  <p>Veritatem praedicandam</p>
+  <p>Mandat ipsa veritas,</p>
+  <p>(915) Veritatem nam loquendo</p>
+  <p>Christus ipse passus est.</p>
+  <p>Est boni ergo Christiani</p>
+  <p>Verum amare et eloqui.</p>
+  <p>Plus tamen decet puellum</p>
+  <p>(920) Veritati incumbere.</p>
+  <p>Nam puer, qui assuescit ultro</p>
+  <p>Subdolis mendaciis,</p>
+  <p>Is solet propensus esse ad</p>
+  <p>Furta et ad periuria.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-i.">
+  <head>38. ACTUS V. SCAENA I.</head>
+  <p>GAMALIEL, IESUAH.</p>
+  <p>(925) Iam nocte lapsa horaque lucis primula</p>
+  <p>Adest Iesuah, maximae spei puer,</p>
+  <p>Qui heri licet mihi visus est et pluribus</p>
+  <p>Absurda quaedam dicere. Nihilominus</p>
+  <p>Mihi peperere scrupulum non parvulum</p>
+  <p>(930) De Meschiae nostri apparatu humillimo et</p>
+  <p>Non regio. Is mihi modo conveniendus est.</p>
+  <p>Dic mihi, puer, te nocte quis habuit hospitem?</p>
+  <p>IES. Iusto meo condormivi suaviter.</p>
+  <p>GAM. Num vesperi cenatus es? IES. Sum maxime.</p>
+  <p>(935) Nam lacte dulci et pane candidissimo</p>
+  <p>Refecit idem a prandio atque vesperi.</p>
+  <p>GAM. Cur non eundem comitem habes reditus tui?</p>
+  <p>IES. Miseratus is lacrimas meas pius exiit,</p>
+  <p>Ut queritet per viculos et compita</p>
+  <p>(940) Maestam meam materculam. GAM. Qui noverit?</p>
+  <p>IES. Ex lacrimis vultusque maestitudine</p>
+  <p>Agnoscet (heu dolor) et aliis tecmeriis,</p>
+  <p>Quae facile deprehendet. Heu. GAM. Ne fle, puer.</p>
+  <p>Priusquam enim absoluta sit dialexis haec,</p>
+  <p>(945) Spero, tuam visurus es materculam. IES. Heu.</p>
+  <p>GAM. Ne lugeas, sed asside. IES. Rabbi, libens.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-ii.">
+  <head>39. ACTUS V. SCAENA II.</head>
+  <p>GAMALIEL, IESUAH, IUSTUS.</p>
+  <p>Convenimus diebus his, domini mei,</p>
+  <p>Gravissimosque legis et vatum locos</p>
+  <p>Seu quaestiones ventilavimus magis</p>
+  <p>(950) Quam absolvimus. Verum una adhuc restat gravis.</p>
+  <p>Immo omnium ut gravissima est, sic cognitu</p>
+  <p>Foret omnibus hominibus utilissima et</p>
+  <p>Multo omnium gratissima, modo sint qui eam</p>
+  <p>Digne explicent seu digerant. Nam quaestio est,</p>
+  <p>(955) Quo saeculorum tempore (modo nondum adest)</p>
+  <p>Venturus est salutis auctor Meschia.</p>
+  <p>Alacriter primum, puer, profer tuam</p>
+  <p>Sententiam, ne forte tua matercula</p>
+  <p>Superveniat et non sinat tum proloqui.</p>
+  <p>(960) IES. Dicam, domine, quod sentio et probavero.</p>
+  <p>IUS. Mi Iesuah, mi Iesuah, cum patre tuo</p>
+  <p>Matercla adest. GAM. Quid adeo, Iuste, obstreperus es</p>
+  <p>Venerando in hoc διδασκάλων synedrio?</p>
+  <p>IUS. Ignoscite mihi, quaeso, nam me amor impulit.</p>
+  <p>(965) IES. Ignosce Iusto, te obsecro, Rabbi, meo,</p>
+  <p>Quem amor impulit liberius istaec eloqui.</p>
+  <p>GAM. Ignoscitur. Ubi mater est? IUS. Mox aderit. En.</p>
+  <p>GAM. Accede, Iesuah, ipsam amplectere et</p>
+  <p>Deosculare, velut probum puerum decet.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-iii.">
+  <head>40. ACTUS V. SCAENA III.</head>
+  <p>NATHANAEL, MARIA, IESUAH.</p>
+  <p>(970) En quanta matri ad filium propensio.</p>
+  <p>Ut osculatur, ut increpat cum lacrimis.</p>
+  <p>Identidem ut matri puer collacrimat.</p>
+  <p>Exaudiamus, quid loquantur mutuo.</p>
+  <p>MAR. Mi gnate, qui potuisti abesse parentibus?</p>
+  <p>(975) Ego te paterque tuus dolentes anxie</p>
+  <p>Quaesivimus non aliter atque in Sirasirim</p>
+  <p>Sponsum suum quaesiit amica perditum.</p>
+  <p>IES. Quid obsecro est, carissimi, quod me anxie</p>
+  <p>Quaesistis? An incognitum vobis fuit,</p>
+  <p>(980) Quod in his, quae sunt patris mei, me sedulo</p>
+  <p>Fore oportuit? NAT. Stupidi parentes nesciunt,</p>
+  <p>Quid dixerit. Revertet huc, ut dixerat.</p>
+  <p>IES. Carissimi, tantisper hic moramini,</p>
+  <p>Dum patribus dominisque dixero. Vale. MAR. Heu.</p>
+  <p>(985) IES. Ne mater, obsecro, lacrima. MAR. Non lugeo.</p>
+  <p>Non luctus, sed amoris hae sunt lacrimae.</p>
+  <p>NAT. Redit puer dicturus, uti spoponderat,</p>
+  <p>De Meschiae adventu suam sententiam.</p>
+  <p>Brevibus tamen, quemadmodum res postulat.</p>
+  <p>(990) Nam mater aegre a filio divellitur</p>
+  <p>Aegreque filius a sua matercula.</p>
+  <p>Morer, ut queat citra ruborem congredi.</p>
+  <p>Ades, puer, te sine rubore duxero.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-iv.">
+  <head>41. ACTUS V. SCAENA IV.</head>
+  <p>PONTIFEX, GAMALIEL, IESUAH.</p>
+  <p>Probe facis, Nathanael, quod consulis</p>
+  <p>(995) Nimio pudori matris atque filii.</p>
+  <p>Sedeat puellus denuo solito in loco</p>
+  <p>Mediusque nostrum proferat de Meschia,</p>
+  <p>Quonam sit adventurus ad nos tempore et</p>
+  <p>Dicturus. IES. Ipse, qui loquebar, ecce nunc</p>
+  <p>(1000) Tandem advolo. Dicam, domine, quod sentio</p>
+  <p>Certisque (cum volueritis) rationibus</p>
+  <p>Tempore suo probavero. GAM. Dic libere et</p>
+  <p>Breviter, ut adsies tuae materculae.</p>
+  <p>IES. Si conferamus omnium vaticinia</p>
+  <p>(1005) Veterum prophetarum atque nostri temporis,</p>
+  <p>Liquido patebit atque luce clarius,</p>
+  <p>Quod Meschiah Deique et hominis filius</p>
+  <p>Iam venerit mundoque sensim clarius</p>
+  <p>Per signa, per prodigia, per miracula</p>
+  <p>(1010) Erit agnitus. Quod scimus istuc loquimur et</p>
+  <p>Quod vidimus testamur et quod dicimus</p>
+  <p>Probabimus suo loco atque tempore.</p>
+  <p>Necessitas me nunc oboedientiae</p>
+  <p>Patris mei et matris meae carissimae</p>
+  <p>(1015) Abire cogit Nazareth. Valebitis.</p>
+  <p>Et habebo semper gratiam, domini mei,</p>
+  <p>Pro benevolentia mihi iam praestita.</p>
+  <p>PON. Non sic, puelle, nam tuae volumus loqui</p>
+  <p>Materculae. IES. Ipsam accivero. PON. Curre, advoca. IES. Hem.</p>
+  <p>(1020) PON. Quid de hoc puello dixero? ————</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-v.">
+  <head>42. ACTUS V. SCAENA V.</head>
+  <p>GAMALIEL, NICODEMUS, NATHANAEL.</p>
+  <p>———— Stupenda sunt,</p>
+  <p>Quae protulit puerulus hic, non admodum</p>
+  <p>Tamen prophetis dissona atque temporum</p>
+  <p>Ratio admodum non discrepat. NIC. Hic, quisquis est,</p>
+  <p>Divinus est nec sine Deo in tenellulo</p>
+  <p>(1025) Tantum potest sapientiae et prudentiae</p>
+  <p>Latere, quantum in eo latere vidimus</p>
+  <p>Seu deprehendimus. NAT. Patres mei, licet</p>
+  <p>Ego rudis, iuvenis inexpertusque sim,</p>
+  <p>Tamen hic puer (si credimus tecmeriis)</p>
+  <p>(1030) Aut filius Dei est vel ipse Christus est,</p>
+  <p>Rex Israhel, prout prophetae concinunt.</p>
+  <p>PON. Temerarium istuc dicitur. Nam filius</p>
+  <p>Lignarii fabri absque stemmate regio</p>
+  <p>Et Nazareni Meschia futurus est?</p>
+  <p>(1035) Ex Bethlehemne nasciturum praecinit,</p>
+  <p>Davidis urbe, qui reget populum Israhel?</p>
+  <p>Examinate cautius, quis sit puer,</p>
+  <p>Vulgus priusquam exaudiat vel creduat.</p>
+  <p>NAT. En mater eminus suo cum filio.</p>
+  <p>(1040) Si quis velit iam, sciscitetur pluria</p>
+  <p>Salvo pudore iuvenculae. GAM. Salvo. Quid hoc?</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-vi.">
+  <head>43. ACTUS V. SCAENA VI.</head>
+  <p>GAMALIEL, MARIA, IESUAH, PONTIFEX.</p>
+  <p>Matrona, salve. Tune mater huius es</p>
+  <p>Puelli Iesuah, qui (ut inquit) natus est</p>
+  <p>Annos duodecim aut circiter? MAR. Ego, domine, sum</p>
+  <p>(1045) (Secede, gnate, paululum dum te advocem.)</p>
+  <p>Huius puelli mater et ministra sum;</p>
+  <p>Duodennis atque a Martio iam factus est.</p>
+  <p>GAM. Dicit se habere patrem fabrum lignarium.</p>
+  <p>MAR. Habet profecto (praeter hunc, qui condidit</p>
+  <p>(1050) Caelos) patrem in terris fabrum lignarium.</p>
+  <p>GAM. Cuius tribus uterque vestrum est, dicito.</p>
+  <p>MAR. Uterque nostrum de tribu Iuda ortus est.</p>
+  <p>GAM. Ubi natus est puellus hic? MAR. In Bethlehem.</p>
+  <p>Quod inde pater originem traxerat, eo</p>
+  <p>(1055) Profecta sum professionis tempore</p>
+  <p>Ibique peperi filium hunc meum unicum.</p>
+  <p>Indeque reversi Aegyptios petivimus,</p>
+  <p>Annum dein post septimum iterum Nazareth</p>
+  <p>Repetivimus et orationis gratia</p>
+  <p>(1060) Huc venimus nostramque denuo Nazareth,</p>
+  <p>Si pace vestra liceat, hinc repedabimus.</p>
+  <p>GAM. Quid ni liceret pace nostra, filia?</p>
+  <p>Interrogavimus ista curiosius</p>
+  <p>Ob pueri inaestimabilem scientiam et</p>
+  <p>(1065) Prudentiam. In naturae et aliis dotibus</p>
+  <p>Incomparabilis viris est omnibus,</p>
+  <p>Nostrae scholae magistris et sapientibus.</p>
+  <p>Nihil est enim, de quo probe non disputet,</p>
+  <p>Sese rogantibusque non respondeat.</p>
+  <p>(1070) Sed, amabo, dic: quis docuit hunc? Pater ipsius</p>
+  <p>Aliusve quispiam? MAR. Pater caelestis hunc</p>
+  <p>Per spiritus sui supernam gratiam</p>
+  <p>Hunc sedulo atque clanculum domi erudit</p>
+  <p>Sacrasque scripturas sine libris edocet.</p>
+  <p>(1075) Si qua alia sunt interroganda, dicite,</p>
+  <p>Manebo dum responderim. GAM. Nulla alia sunt.</p>
+  <p>Redeat puer cum matre, ut abeat Nazareth.</p>
+  <p>MAR. Ades, mi Iesuah, ut vale dicas tuis</p>
+  <p>Didascalis tuisque praeceptoribus.</p>
+  <p>(1080) IES. Valete, nomodidascali cum amiculis,</p>
+  <p>Et habeo gratiam, patres, quod hactenus</p>
+  <p>Me in aedibus vestris nutristis hilariter.</p>
+  <p>Pater supernus retribuat. PON. Vale, puer.</p>
+  <p>Patrem omnium Deum coles, deinde eos,</p>
+  <p>(1085) Qui te ediderunt saeculo, patrem tuum et</p>
+  <p>Matrem tuam, ut bene sit tibique in hoc solo</p>
+  <p>Longoque vivas tempore. IES. Sponte obsequar</p>
+  <p>Parentibus, venerande pontifex. Vale.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-vii.">
+  <head>44. ACTUS V. SCAENA VII.</head>
+  <p>NATHANAEL, PONTIFEX, GAMALIEL, NICODEMUS.</p>
+  <p>Conferte iam, domini mei, quae dicta sunt</p>
+  <p>(1090) A matre sancta et simplici de filio</p>
+  <p>Sententiis propheticis. Anne ex tribu</p>
+  <p>Christus oriturus creditur Iudaica?</p>
+  <p>In Bethlehemne natus est? Aegyptiisne</p>
+  <p>Ex partibus reductus est ad Nazareth?</p>
+  <p>(1095) An non prophetae his concinunt? Sic namque habent:</p>
+  <p>Non auferetur sceptron ex Iuda neque</p>
+  <p>Dux femoris eius, donicum venturus est</p>
+  <p>Is qui Israhel mittendus est et ipse erit</p>
+  <p>Cunctarum in orbe gentium exspectatio.</p>
+  <p>(1100) Nec Bethlehem inter principes Iudaicos</p>
+  <p>Est minima, quod dux Israhel hinc exiit,</p>
+  <p>Et eius ortus a diebus saeculi.</p>
+  <p>Et nonne filius patri revocandus ex</p>
+  <p>Aegypto erit, quo a Nazareth uti flosculus</p>
+  <p>(1105) Iam Nazareus et sit et vocatus sit?</p>
+  <p>Si conferantur haec iis, quae dicta sunt,</p>
+  <p>Quid aliud hunc quam Meschian pronuntiant?</p>
+  <p>PON. Veri similia sunt quidem, quae suggeris,</p>
+  <p>Nathanael. Committo disputantibus.</p>
+  <p>(1110) GAM. Cavendum erit, ne quid temeriter hoc</p>
+  <p>Super negotio rudi popello protinus</p>
+  <p>Pronuntiemus, sed moremur usque, quo</p>
+  <p>Probaverit miraculis (ut dixerat),</p>
+  <p>Quis, qualis, aut quantus fiet. Verumtamen</p>
+  <p>(1115) (Si animi mei ex sententia loqui audeam)</p>
+  <p>Puerum hunc futurum praedicarem Meschian.</p>
+  <p>NIC. Id ipsum et ego iam praedicarem, si audeam.</p>
+  <p>STE. Ego audeo et pronuntio, quod hic puer</p>
+  <p>Sit filius vere Dei et rex Israhel.</p>
+  <p>(1120) NIC. Praestat silere, ne puelli exaudiant,</p>
+  <p>Donec secundo convocetur contio.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-viii.">
+  <head>45. ACTUS V. SCAENA VIII.</head>
+  <p>IOSEPHUS, IESUAH, STEPHANUS cum ceteris.</p>
+  <p>Qui tibi, puer, sunt obvii coaevuli</p>
+  <p>Praeter ducem primarium, qui senior est?</p>
+  <p>IES. Scholastici sunt, mi pater. IOS. Novisti eos?</p>
+  <p>(1125) IES. Novi probe. IOS. Alloquitor valeque dicito.</p>
+  <p>IES. Hic Stephanus est, testis mihi futurus. Heu.</p>
+  <p>STE. Quid lacrimas? IES. Non lacrimer? Tu martyr es</p>
+  <p>Et protomartyr mihi futurus (heu dolor).</p>
+  <p>Corona tibi debetur hic primaria et</p>
+  <p>(1130) Mihi dolor primarius. STE. Quid sibi velint</p>
+  <p>Haec verba, non intelligo. IES. Hic Iustus est</p>
+  <p>Tandem vocandus Barsabas, qui lacte me</p>
+  <p>Dulci atque pane candido refecit et</p>
+  <p>Solatus est. Philippus hic et Prochorus hic,</p>
+  <p>(1135) Cum Parmena et Nicanore, hic Timon quoque</p>
+  <p>Ecclesiae tandem meae ministri erunt.</p>
+  <p>PHI. Neque nos valemus assequi quid dixerit.</p>
+  <p>IES. Praedico iam, scietis autem postea.</p>
+  <p>Ubi Saulus est? PHI. Caecutit is aliquantulum</p>
+  <p>(1140) Aquilone, Iesus, turbido. IES. Caecutiet</p>
+  <p>Multo amplius, quo illuminetur amplius.</p>
+  <p>Tum sentiet, quid fecerit mihi et meis.</p>
+  <p>Tandem tamen vas ἐκλογῆς futurus est.</p>
+  <p>IOS. Ades, puelle. IES. Adsum, pater. Valete vos,</p>
+  <p>(1145) Amiculi. A. Vale. B Vale. C. Vale. D. Vale.</p>
+  <p>Te quando denuo videbimus? Vale.</p>
+  <p>IES. Cum me parentes siverint, tum denuo</p>
+  <p>Videbitis. Valete nunc, mea viscera.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scaena-ix.">
+  <head>46. ACTUS V. SCAENA IX.</head>
+  <p>MARIA, IESUAH, IOSEPH.</p>
+  <p>Fili, quid est quod utrique nostrum dixeras,</p>
+  <p>(1150) Quod (nempe) oporteat te in his, quae sunt patris,</p>
+  <p>Versarier? Quaenam tibi exsequanda sunt</p>
+  <p>Patris superni nomine? IES. In mundum pater</p>
+  <p>Demisit (heu) me filium, quo erroribus</p>
+  <p>Vitiisque pulsis veritatem agnoscat et</p>
+  <p>(1155) Virtutibus homo fulgeat, quo gratiam</p>
+  <p>Patris et salutem consequi per me queat,</p>
+  <p>Quam primus in paradiso Adamus perdidit.</p>
+  <p>MAR. Haec alta, mi Iosephe, sunt mysteria.</p>
+  <p>IOS. Profecto sunt. Suo patebunt tempore.</p>
+  <p>(1160) Nunc recto itinere nos eamus Nazareth.</p>
+  <p>Si non queat puer ingredi, in umeris meis</p>
+  <p>Gestandus est vel ad manus ducendus est.</p>
+  <p>IES. Corroborabit me pater, qui omnia potest,</p>
+  <p>Iterque nostrum prosperum facturus est.</p>
+</div>
+<div type="level1" xml:id="epilogus.">
+  <head>47. EPILOGUS.</head>
+  <p>(1165) Cunctis puellis maxime scholasticis</p>
+  <p>Mores pudicos et probos ostendimus,</p>
+  <p>Cum puerum Iesum comicῶs scholasticum</p>
+  <p>Humilem probumque et oboedientem finximus.</p>
+  <p>Rogamus itaque singuli vos singulos,</p>
+  <p>(1170) Ne quispiam, quod finximus vel egimus,</p>
+  <p>Temeriter actum sive scriptum iudicet.</p>
+  <p>Praeter Dei nam gloriam vel proximi</p>
+  <p>Nostri salutem omnino nil reposcimus.</p>
+  <p>Si Christum Iesum in hoc theatrum duximus,</p>
+  <p>(1175) Excuset hoc primaeva pueri infantia.</p>
+  <p>Nec quempiam vocabulum scholastici</p>
+  <p>Moveat, quod in medio sedens διδασκάλων</p>
+  <p>Audiat eos rogetque more scholastico.</p>
+  <p>Valete nunc et, si placuimus, plaudite.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS.</p>
+  <p>Visa est haec comoedia et subsignata a Reverendo domino</p>
+  <p>episcopo Hebronensi et admissa soli Harmanno Borculoo imprimere</p>
+  <p>et distrahere. Et erat subscriptio</p>
+  <p>G. Scrijvers.</p>
+</div>
+        
+    </body>
+</text>
+</TEI>

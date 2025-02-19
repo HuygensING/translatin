@@ -34,7 +34,7 @@ renuntiare bullis demum pascendorum suum prouintiam suscepit.
 
 
 
-## Prologus
+# 7. Prologus
 
 Postea quam mihi visum est posse aptius sumi iam dicendi genus, quam
 quod ad cohortationem licenciandorum adiuuet, quo feruentius de cetero
@@ -472,7 +472,7 @@ priuilegia precipua et quid ad te cure, quid laboris attineat.
 
 **Stilpho.** Presens adero.
 
-## CONCLUSIO
+# 8. CONCLUSIO
 
 Quam admiranda fati commutatio! Ex curiali villanus, ex familiari
 Cardinalium seruus agricolum, ex elato deiectus, ex animarum pastore

@@ -12,7 +12,7 @@ FABVLA LVDICRA.
 
 
 
-## ACTORVM NOMINA.
+# 1. ACTORVM NOMINA.
 
 PAMPHILVS, adolescens.
 
@@ -108,7 +108,7 @@ A nobis fabulâ. Auscultate sedulò,
 
 Et Comico fauete omnes choragio.
 
-## PROLOGVS. \[= PERIOCHA\]
+# 2. PROLOGVS. \[= PERIOCHA\]
 
 NIsam, puellam rixosam, ambit Pamphilus.
 
@@ -136,7 +136,7 @@ Vinctam agitat, versatque neque prius inde exemit.
 
 Quam culpam supplex confessa, ad frugem redit.
 
-## ACTVS I. SCENA I.
+# 3. ACTVS I. SCENA I.
 
 PAMPHILVS.
 
@@ -204,7 +204,7 @@ Adoriar illos rursus, quanquam saepius
 
 Repulsam passus sum miser.
 
-## ACTVS I. SCENA II.
+# 4. ACTVS I. SCENA II.
 
 CHREMES, PERILLA.
 
@@ -318,7 +318,7 @@ Perilla. Per. Laudo, sed propius huc ad nos accedit
 
 ≤line=80≥ Meae vti subseruias vide, si quid fortè ego defecero.
 
-## ACTVS I. SCENA III. \[\< II\]
+# 5. ACTVS I. SCENA III. \[\< II\]
 
 PAMPHILVS, CHREMES, PERILLA.
 
@@ -448,7 +448,7 @@ Animo esto Pamphile. Pam. Rus hinc nunc concedo, ibi
 
 Me aliquot macerabo dies. Chr. Hem, bene facis. vale.
 
-## ACTVS I. SCENA V.
+# 6. ACTVS I. SCENA V.
 
 NISA, CHREMES, PERILLA.
 
@@ -542,7 +542,7 @@ Istic tumultus concitet.
 
 ≤line=180≥ Chr. Probè mones, itaque lubens obtempero.
 
-## ACTVS II. SCENA I.
+# 7. ACTVS II. SCENA I.
 
 SYRVS, NISA.
 
@@ -655,7 +655,7 @@ Est triumphum magnificum. Age, nunc me lacessat:
 
 ≤line=230≥ Qui volet, faxo illum tali, atque hic est, mactatum malo.
 
-## ACTVS II. SCENA II.
+# 8. ACTVS II. SCENA II.
 
 PAMPHILVS, NISA.
 
@@ -821,7 +821,7 @@ Tu vide vt in tempore, quod omnium rerum primum est, patrem
 
 Pam. Faciam vt mones, Vale mea Nisa. Nis. Pamphile mi, vale.
 
-## ACTVS II. SCENA III.
+# 9. ACTVS II. SCENA III.
 
 CHREMES, PERILLA.
 
@@ -917,7 +917,7 @@ Chr. Taceamus, sermonemque eius aucupemur
 
 ≤line=350≥ Eminus. Per. Placet. \-\--
 
-## ACTVS II. SCENA V. \[\<III\]
+# 10. ACTVS II. SCENA V. \[\<III\]
 
 PAMPHILVS, CHREMES, PERILLA.
 
@@ -1015,7 +1015,7 @@ Oratio mihi animum exanimasset metu.
 
 ≤page=145≥
 
-## ACTVS III. SCENA I.
+# 11. ACTVS III. SCENA I.
 
 LESBIA, BROMIA.
 
@@ -1093,7 +1093,7 @@ Emergendi copia. Sed verba hic facimus, quasi nihil
 
 Inueniat. Les. Probè mones, I prae, sequor.
 
-## ACTVS III. SCENA II.
+# 12. ACTVS III. SCENA II.
 
 CHREMES, PERILLA.
 
@@ -1201,7 +1201,7 @@ Quae erunt opus, paremus sedulò. Per. Bene
 
 ≤page=148≥
 
-## ACTVS III. SCENA III.
+# 13. ACTVS III. SCENA III.
 
 PAMPHILVS.
 
@@ -1263,7 +1263,7 @@ Nunc, vt me parem, domum eo, reuersurus sub vesperum.
 
 ≤page=149≥
 
-## ACTVS IV. SCENA I.
+# 14. ACTVS IV. SCENA I.
 
 CHREMES, SYRVS.
 
@@ -1367,7 +1367,7 @@ Atque vt te dignum est. Eamus nunc intrò,
 
 Iamdudum mater tua nos expectat domi. Syr. Fiat.
 
-## ACTVS IV. SCENA II.
+# 15. ACTVS IV. SCENA II.
 
 PAMPHILVS, NISA.
 
@@ -1517,7 +1517,7 @@ Intrò statim mihi eundum esse arbitror.
 
 Sequatur ipse, si quid est, quod nos velit.
 
-## ACTVS IV. SCENA III.
+# 16. ACTVS IV. SCENA III.
 
 ≤line=5≥
 
@@ -1607,7 +1607,7 @@ Syr. Abijt commota idque vnico verbo, quanquam decreueram
 
 Non puto: alias id fiet opportunius.
 
-## ACTVS V SCENA I.
+# 17. ACTVS V SCENA I.
 
 NISA, PAMPHIIVS.
 
@@ -1667,7 +1667,7 @@ Nunc ad Fabullam vicinam hanc fabulatum eo:
 
 Vbi domum rediero, sentiet pugnos, vnguesque meos.
 
-## ACTVS V. SCENA II.
+# 18. ACTVS V. SCENA II.
 
 CHREMES, PERILLA, PAMVHILVS.
 
@@ -1723,7 +1723,7 @@ Adeo iucundae, dulcesque illi sunt inanes fabulae.
 
 ≤page=157≥
 
-## ACTVS V. SCENA III.
+# 19. ACTVS V. SCENA III.
 
 NISA, CHREMES, PAMPHILVS, PERILLA.
 

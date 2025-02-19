@@ -76,7 +76,7 @@ allatrat. Vale è Legia nostra, Anno. M.D. LVI. XVII. Cal. Maias.
 
 
 
-## PROLOGVS IN CATHARINAM.
+# 1. PROLOGVS IN CATHARINAM.
 
 HVc post duorum Martyrum Tragoedias,
 
@@ -162,7 +162,7 @@ Quamcunque poterimus dabimus industriam.
 
 Dilemma nostrae ast actionis sumite.
 
-## ARGVMENTVM.
+# 2. ARGVMENTVM.
 
 DVM sacra diuis Nilicis Caesar parat,
 
@@ -200,7 +200,7 @@ Corpusque oliuo monte Sinai fluit.
 
 ≤page=8≥
 
-## Personae Tragoediae.
+# 3. Personae Tragoediae.
 
 MAXENTIVS Caesar.
 
@@ -248,9 +248,9 @@ Puellarum Aegyptiarum, & Angelorum.
 
 ≤page=9≥
 
-## ACTVS PRIMI
+# 5. ACTVS PRIMI
 
-## SCENA .I.
+# 6. SCENA .I.
 
 MAXENTIVS.
 
@@ -322,9 +322,9 @@ Istis paraui sceptra nostra ex hostiis,
 
 Seruanda eodem haec ergo sunt litamine.
 
-## ACTVS PRIMI,
+# 7. ACTVS PRIMI,
 
-## SCENA .II.
+# 8. SCENA .II.
 
 MAXENTIVS. ICHTHYBOLVS.
 
@@ -394,7 +394,7 @@ Mouenda res est, suscipi vbi coepit semel.
 
 ≤page=12≥
 
-## ACTVS. I. SCENA. III.
+# 9. ACTVS. I. SCENA. III.
 
 MAXENTIVS. PORPHIRIVS. CERYX.
 
@@ -468,7 +468,7 @@ In me recumbat, quicquid istic ponderis.
 
 Faxo patebit Romulae decus domus.
 
-## ACTVS. I. SCENA. IIII.
+# 10. ACTVS. I. SCENA. IIII.
 
 CATHARINA. NVTRIX.
 
@@ -618,7 +618,7 @@ Felix secundes, & tua ipse dirige:
 
 Pectus paraui, verba moderator rege.
 
-## ACTVS. I. SCENA. V.
+# 11. ACTVS. I. SCENA. V.
 
 CHALEPVS. MAXENTIVS TORBELVS. LIVIA. CATHARINA.
 
@@ -666,9 +666,9 @@ Diuina spirans, expetit coram loqui.
 
 MA. Forsan profertur omen ad sceptrum mihi.
 
-## ACTVS PRIMI,
+# 12. ACTVS PRIMI,
 
-## SCENA. VI.
+# 13. SCENA. VI.
 
 MAXENTIVS. CATHARINA.
 
@@ -852,9 +852,9 @@ Conscendant duce praeeunte Christo.
 
 ≤page=21≥
 
-## ACTVS SECVNDI
+# 15. ACTVS SECVNDI
 
-## SCENA PRIMA.
+# 16. SCENA PRIMA.
 
 MAXENTIVS SOLVS.
 
@@ -932,7 +932,7 @@ Sed en peractis Pontifex prodit sacris:
 
 Scitandus extis quid mihi Dij praedicent.
 
-## ACTVS. II. SCENA. II.
+# 17. ACTVS. II. SCENA. II.
 
 MAXENT. ICHTHYBOL. PORPHYR.
 
@@ -1026,7 +1026,7 @@ Putetis esse, sic inaudita occinit,
 
 Nisi mente diuos non parum vana notet.
 
-## ACTVS. II. SCENA. III.
+# 18. ACTVS. II. SCENA. III.
 
 NAZAMON. BARATHROS. CATHARINA.
 
@@ -1066,7 +1066,7 @@ CA. Inanè tempus trahitis. istuc ducite.
 
 ≤line=335≥ BA. Huc, Caesar, istam duximus iußi tibi.
 
-## ACTVS. II. SCENA. IIII.
+# 19. ACTVS. II. SCENA. IIII.
 
 MAXENTIVS. CATHARINA.
 
@@ -1276,7 +1276,7 @@ Cui negetis quod famem alleuet aut sitim,
 
 Donec quid acto sit opus huic inuenero.
 
-## ACTVS II. SCENA.V.
+# 20. ACTVS II. SCENA.V.
 
 MAXENTIVS. ICHTHYBOLVS. TORBELVS.
 
@@ -1408,9 +1408,9 @@ Falsis patronus cum superis comes.
 
 ≤page=32≥
 
-## ACTVS TERTII
+# 22. ACTVS TERTII
 
-## SCENA PRIMA.
+# 23. SCENA PRIMA.
 
 TORBELVS. DAEMONICVS. CLITVS. SOPHANDER. PHILOLOGVS. TYPHVS.
 
@@ -1536,7 +1536,7 @@ TY. Tandem vocati quin moras dirumpimus?
 
 En Caesar astat, taedio nos expetens.
 
-## ACTVS. III. SCENA. II.
+# 24. ACTVS. III. SCENA. II.
 
 DAEMONICVS. TYPHVS. MAXENTIVS.
 
@@ -1614,7 +1614,7 @@ Muliebre nec nos vsque miramur genus,
 
 Trahe huc, satelles, garrulam sophistriam.
 
-## ACTVS. III. SCENA. III.
+# 25. ACTVS. III. SCENA. III.
 
 MAXENTIVS. CATHARINA. DAEMONICVS. TYPHVS. CLITVS. PHILOLOGVS. SOPHANDER.
 
@@ -2082,7 +2082,7 @@ En nos moratur dexter aßistens patri.
 
 Nos antè Christum creditum praeuisimus.
 
-## ACTVS. III. SCENA. IIII.
+# 26. ACTVS. III. SCENA. IIII.
 
 PELATIS. CERYX. NAZAMON. BARATHROS. CLITVS.
 
@@ -2218,9 +2218,9 @@ Fingere pectus.
 
 ≤page=48≥
 
-## ACTVS QVARTI
+# 28. ACTVS QVARTI
 
-## SCENA PRIMA.
+# 29. SCENA PRIMA.
 
 LIVIA. PORPHIRIVS. MELITE. CLAVDIA.
 
@@ -2356,9 +2356,9 @@ Sed laeta requies, dulcis & melodia.
 
 POR. Spectemus intrò curiosi quid gerant.
 
-## ACTVS QVARTI,
+# 30. ACTVS QVARTI,
 
-## SCENA. II.
+# 31. SCENA. II.
 
 ≤page=51≥
 
@@ -2516,7 +2516,7 @@ D iij.
 
 ≤page=54≥
 
-## ACTVS. IIII. SCENA. III.
+# 32. ACTVS. IIII. SCENA. III.
 
 CHALEPVS. CATHARINA.
 
@@ -2644,7 +2644,7 @@ I, nec timere Caesaris vim me, refer.
 
 **≤line=1060≥ CH. At iste magno vaeniet rigor tibi.**
 
-## ACTVS. IIII. SCENA. IIII.
+# 38. ACTVS. IIII. SCENA. IIII.
 
 MAXENTIVS. CHALEPVS.
 
@@ -2682,7 +2682,7 @@ Fixum supremo stipite exemplum dabit.
 
 Videam priusquam sciter vnde sit nephas.
 
-## ACTVS. IIII. SCENA. V.
+# 40. ACTVS. IIII. SCENA. V.
 
 MAXENTIVS. CATHARINA. ICHTHYBOLVS.
 
@@ -2906,9 +2906,9 @@ Vngues, flamma, gelu, vel gladius ferox,
 
 ≤page=62≥
 
-## ACTVS QVINTI
+# 42. ACTVS QVINTI
 
-## SCENA PRIMA.
+# 43. SCENA PRIMA.
 
 ICHTYBOLVS. MAXENTIVS.
 
@@ -2986,7 +2986,7 @@ Postquam repugnat pertinaci pectore.
 
 Et plebis alta voce vulgus euoca.
 
-## ACTVS. V. SCENA. II.
+# 44. ACTVS. V. SCENA. II.
 
 MAXENT. CATHARINA. ICHTYB.
 
@@ -3088,7 +3088,7 @@ MA. Non per trisulcum fulmen aeterni Iouis:
 
 Nam maga necatae plebis haec poenas luet.
 
-## ACTVS. V. SCENA. III.
+# 45. ACTVS. V. SCENA. III.
 
 MAXENTIVS. LIVIA. PELATIS.
 
@@ -3190,7 +3190,7 @@ Vel ego per ipsa brachia ictum destino.
 
 MA. Per quicquid obstat volue mucronem ferox.
 
-## ACTVS. V. SCENA. IIII.
+# 46. ACTVS. V. SCENA. IIII.
 
 CLAVDIA. MELITE. MAXENT. LIVIA.
 
@@ -3268,7 +3268,7 @@ Principiò in illam decuit iram voluere,
 
 Alios priusquam dogmate inficeret suo.
 
-## ACTVS. V. SCENA. V.
+# 47. ACTVS. V. SCENA. V.
 
 PORPHIRIVS. CLAVDIA. MELITE.
 
@@ -3348,7 +3348,7 @@ Sed deferamus corpus exsangue famulae.
 
 En Caesar istuc rursus atrox exilit.
 
-## ACTVS. V. SCENA. VI.
+# 48. ACTVS. V. SCENA. VI.
 
 MAXENTIVS. BARATROS. NAZAMON. PELATIS.
 
@@ -3384,7 +3384,7 @@ MA. In vos tamen vindicem flectam manum.
 
 En date merentes ense poenas perfidi.
 
-## ACTVS. V. SCENA. VII.
+# 49. ACTVS. V. SCENA. VII.
 
 PORPHIRIVS. MAXENTIVS. CATHARINA. PELATIS.
 
@@ -3448,9 +3448,9 @@ Miles cruenta segniter tollam manu?
 
 MA. Facesse tandem quod iuberis, carnifex.
 
-## ACTVS QVINTI
+# 50. ACTVS QVINTI
 
-## SCENA. VIII.
+# 51. SCENA. VIII.
 
 ≤page=73≥
 

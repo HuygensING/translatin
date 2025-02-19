@@ -19,7 +19,7 @@ DD. Ordinum Transisalaniae typographum. MCDVII. \[1607\]
 
 
 
-## ≤folio=v≥ Actorum Nomina.
+# 1. ≤folio=v≥ Actorum Nomina.
 
 THEOPHILUS EVCLIO
 
@@ -31,7 +31,7 @@ AEGIO IGNATIVS
 
 ≤folio=Ar≥ FABVLA COMICA
 
-## Actus 1. Scena 1.
+# 2. Actus 1. Scena 1.
 
 *Iambici.*
 
@@ -81,7 +81,7 @@ Horsum se confert, uti puto; itaque hic paulisper
 
 Subsistam, donec propius accesserit. *Troch.*
 
-## Actus 1. Scena 2.
+# 3. Actus 1. Scena 2.
 
 *Eiusdem generis*
 
@@ -137,7 +137,7 @@ Procul hinc stantem video? Theophilus est, nisi
 
 Hallucinantur oculi. Accedam, atque alloquar.
 
-## Actus 1. Scena 3.
+# 4. Actus 1. Scena 3.
 
 *Eiusdem rationis versus.*
 
@@ -207,7 +207,7 @@ Futurum me confido. Sed tacendi tempus est,
 
 Propius adsunt: auscultemus sedulo.
 
-## Actus 1. Scena 4.
+# 5. Actus 1. Scena 4.
 
 *Eiusdem generis.*
 
@@ -291,7 +291,7 @@ Valete. *Nos*. Valete et vos viri honoratissimi.
 
 ≤folio=Br≥
 
-## Actus 2. Scena 1.
+# 6. Actus 2. Scena 1.
 
 *Iambici.*
 
@@ -373,7 +373,7 @@ Aggressos adoriamur. *Nos.* Fiat. Inutilis
 
 Enim pudor est homini, dum urget necessitas.
 
-## Actus 2. Scena 2.
+# 7. Actus 2. Scena 2.
 
 *Eiusdem generis.*
 
@@ -421,7 +421,7 @@ A me petent, quod arbitror futurum, nihil auferent.
 
 *Phi.* Rectâ ad nos accedunt viâ.
 
-## Actus 2. Scena 3.
+# 8. Actus 2. Scena 3.
 
 *Eiusdem rationis versus.*
 
@@ -513,7 +513,7 @@ Abite inquam, vel in malam crucem,
 
 Uti digni estis impurissimi.
 
-## Actus 3. Scena 1.
+# 9. Actus 3. Scena 1.
 
 *Iambici.*
 
@@ -567,7 +567,7 @@ Alium mavis comitem. *The.* Nullum pol optarim magis.
 
 *Mac.* Eamus igitur. *The.* Perplacet.
 
-## ≤folio=Cr≥ Actus 3. Scena 2.
+# 10. ≤folio=Cr≥ Actus 3. Scena 2.
 
 *Eiusdem rationis versus.*
 
@@ -675,7 +675,7 @@ Vortat bene. Nunc quo ire constitueram, pergo.
 
 Valete. *Mac.* Et tu vale Eusebi charissime.
 
-## Actus 3. Scena 3.
+# 11. Actus 3. Scena 3.
 
 *Eiusdem generis versus.*
 
@@ -721,7 +721,7 @@ Neque conquiescam, neque cessabo, donec quod pie, ac
 
 Salubriter conceptum est, perfectum conspexero, hoc agam.
 
-## Actus 4. Scena 1.
+# 12. Actus 4. Scena 1.
 
 *Iambici.*
 
@@ -801,7 +801,7 @@ Alios etiam ut idem faciant hortatur plurimos:
 
 Hic exspectemus illum, atque salutemus comiter.
 
-## ≤folio=Dr≥ Actus 4. Scena 2.
+# 13. ≤folio=Dr≥ Actus 4. Scena 2.
 
 *Eiusdem rationis versus.*
 
@@ -908,7 +908,7 @@ Hoc accipite munusculum.
 
 *Nos.* Gratiam tibi habemus maximam vir humanissime. *Troch.*
 
-## Actus 4. Scena 3.
+# 14. Actus 4. Scena 3.
 
 *Eiusdem generis versus.*
 
@@ -972,7 +972,7 @@ Nos falsurum. Verum advesperascit, et sol iam occidit, *Troch.*
 
 Domum itaque ut nos conferamus expedit.
 
-## Actus 5. Scena 1.
+# 15. Actus 5. Scena 1.
 
 *Iambici.*
 
@@ -1000,7 +1000,7 @@ Quae mox huc adferetur, vide ut bene numeres,
 
 Ego annotabo sedulo.
 
-## Actus 5. Scena 2.
+# 16. Actus 5. Scena 2.
 
 *Eiusdem generis.*
 
@@ -1107,7 +1107,7 @@ Mihi videris oneratus sarcinâ. Euge, laudo.
 *Eus.* Neque hoc, quod tu portas, onus est leve. *Ig.* I prae,
 consequor.
 
-## Actus 5. Scena 3.
+# 17. Actus 5. Scena 3.
 
 *Eiusdem rationis.*
 
@@ -1174,7 +1174,7 @@ Atque valete viri honorandi.
 \[Plures postea accedent personae mutae, pecuniam etiam adferentes:
 atque interea ludetur aut cantabitur. \[niet goedlees baar op kopie\]
 
-## Actus 5. Scena 4.
+# 18. Actus 5. Scena 4.
 
 *Eiusdem generis.*
 
@@ -1383,7 +1383,7 @@ Sy behoeven spijs, dranck, bedden, lijnwaet, oock cleeren.
 
 1\. Voor al comt helpt ons dat Oudmannen-huys fonderen.
 
-## Actus 1.
+# 20. Actus 1.
 
 Liefde.
 
@@ -1495,7 +1495,7 @@ Die my herwaerts beriep, ras soo sal ick hem versoecken.
 
 B. Werd\’ hy ons const nu waer, herwerts soud\’ hem vercloecken.
 
-## Actus 2.
+# 21. Actus 2.
 
 Barmherticheyt. Liefde.
 
@@ -1593,7 +1593,7 @@ Hoe sult ghy \’taenschijn dijns meesters durven aenschouwen?
 
 L. Neemt ons vermaen ten goet, ten sal u niet berouwen.
 
-## Actus 3.
+# 22. Actus 3.
 
 Liefde. Barmherticheyt.
 
@@ -1687,7 +1687,7 @@ Om mijns naems wil laeckten ghy noyt eenich onghemack:
 
 B. Maer voor den Vrecken sal Gods aenschijn staen seer strac.
 
-## Actus 4.
+# 23. Actus 4.
 
 Barmherticheyt. Liefde.
 

@@ -16,7 +16,7 @@ Ludicra praeexercitamenta
 
 
 
-## PERSONAE
+# 1. PERSONAE
 
 Prologus
 
@@ -66,7 +66,7 @@ Multum docta cohors, multum cirrata iuventus
 
 Debet Capnioni, multa Thalia meo.
 
-## PROLOGUS
+# 3. PROLOGUS
 
 Novus poeta sentiens actoribus
 
@@ -377,7 +377,7 @@ sed spe bona laetus sedet, nam sperat acquirere
 
 discitque virtute deum colere.
 
-## ACTVS SECVNDVS
+# 4. ACTVS SECVNDVS
 
 *Alcabicius. Greta. Elsa.*
 
@@ -546,7 +546,7 @@ Diligamus ergo nos vates caelitus sacros,
 
 Quorum ludos scaenicos ostendimus facete.
 
-## ACTVS TERTIVS
+# 5. ACTVS TERTIVS
 
 *Henno. Elsa. Dromo.*
 
@@ -653,7 +653,7 @@ Nisi luisset vatibus infensus et contrarius
 
 ≤line=280≥ Thersita sive Zoilus, nil esset illis clarius.
 
-## ACTVS QVARTVS
+# 6. ACTVS QVARTVS
 
 *Dromo. Petrucius.*
 
@@ -817,7 +817,7 @@ Et impigre
 
 Ut cum Phoebo sempiternus esse possis.
 
-## ACTVS QVINTVS
+# 7. ACTVS QVINTVS
 
 *Petrucius. Dromo.*
 

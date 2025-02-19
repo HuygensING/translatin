@@ -11,7 +11,7 @@ LL. doctoris latine grece et hebraice doctissimi
 
 
 
-## PERSONAE.
+# 1. PERSONAE.
 
 Prologvs
 
@@ -29,7 +29,7 @@ Pharisevs
 
 Epilogvs.
 
-## PROLOGVS.
+# 2. PROLOGVS.
 
 Si unquam tulistis ad iocum vestros pedes
 
@@ -75,7 +75,7 @@ Si senserit placuisse primitias suas,
 
 Faciet deinde integras comoedias.
 
-## ACTVS PRIMVS.
+# 3. ACTVS PRIMVS.
 
 HELVO.
 
@@ -498,7 +498,7 @@ Brevi et cito. Li. Nos philosophabimur inter haec.
 
 ≤line=230≥ Bv. Fiat, sed heus cavetedum, ne quid nimis.
 
-## ACTVS SECVNDVS.
+# 4. ACTVS SECVNDVS.
 
 PHARISEVS. HELVO. LIXA.
 
@@ -584,7 +584,7 @@ Li. Nunc, Heluo, quantum esset in rem tute scis,
 
 He. Sequar virum, si mutiat, pugnos edet.
 
-## ACTVS TERTIVS.
+# 5. ACTVS TERTIVS.
 
 BVTTVBATTA. SALAX. LIXA. ARISTOPHORVS
 
@@ -1022,7 +1022,7 @@ Ludos leves meo cavillo callide
 
 Vobis videntibus attuli. Id licuit mihi.
 
-## EPILOGVS.
+# 6. EPILOGVS.
 
 Si quis cupit prudenter omne negotium
 

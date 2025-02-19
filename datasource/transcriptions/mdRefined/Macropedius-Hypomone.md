@@ -73,7 +73,7 @@ Omnibus iis fit spiritale gaudium.
 
 
 
-## DRAMATIS PERSONAE.
+# 1. DRAMATIS PERSONAE.
 
 Hypomone Eneas claudus, cum caecis
 
@@ -243,7 +243,7 @@ Vestrum indicent. Valete, et adiuvate nos
 
 Silentio. GR. Valete semper in Deo.
 
-## ACTUS I. SCAENA I.
+# 2. ACTUS I. SCAENA I.
 
 GRAPHE, HYPOMONE.
 
@@ -365,7 +365,7 @@ Illis parantem exaudiamus. HY. Adi. Placet
 
 Ut audiamus quid rei occeptet loqui.
 
-## ACTUS I. SCAENA II.
+# 3. ACTUS I. SCAENA II.
 
 IOBUS, GRAPHE, HYPOMONE, LAZARUS cum LEPROSIS.
 
@@ -555,7 +555,7 @@ Et hunc Iobum et ulcerosum Lazarum
 
 GRA. Libens eos hortabor ad tolerantiam.
 
-## ACTUS I. SCAENA III.
+# 4. ACTUS I. SCAENA III.
 
 GRAPHE sola.
 
@@ -799,7 +799,7 @@ Complectere hanc (ut dixeram) tibi redditam, et
 
 Brevissime certo adfuturum credito.
 
-## ACTUS I. SCAENA IV.
+# 5. ACTUS I. SCAENA IV.
 
 IOBUS, HYPOMONE, GRAPHE.
 
@@ -879,7 +879,7 @@ Reposita spes haec est mea
 
 Certissima in sinu meo.
 
-## ACTUS II. SCAENA I.
+# 7. ACTUS II. SCAENA I.
 
 ABISAI, IOABUS.
 
@@ -995,7 +995,7 @@ Nostrum sit, et caro nostra, noster avunculus.
 
 En commodum, ipse e latibulo sese exserit.
 
-## ACTUS II. SCAENA II.
+# 8. ACTUS II. SCAENA II.
 
 DAVID, IOABUS, ABISAI, TYRO.
 
@@ -1105,7 +1105,7 @@ Tum notos mihi quoslibet,
 
 ≤line=490≥ Ne quemvis videam miser.
 
-## ACTUS II. SCAENA III.
+# 9. ACTUS II. SCAENA III.
 
 HYPOMONE, GRAPHE.
 
@@ -1169,7 +1169,7 @@ Subduxti mihi proximum,
 
 Abscondisti et amiculos.
 
-## ACTUS II. SCAENA IV.
+# 10. ACTUS II. SCAENA IV.
 
 HYPOMONE, GRAPHE, DAVID.
 
@@ -1281,7 +1281,7 @@ Graphe tuis, rex, propriis sermonibus.
 
 DA. O nil prius mihi istius sermonibus.
 
-## ACTUS II. SCAENA V.
+# 11. ACTUS II. SCAENA V.
 
 HYPOMONE, GRAPHE, DAVID.
 
@@ -1515,7 +1515,7 @@ Angustiis fovere eum solacio.
 
 Alios tamen prius levandos censeo.
 
-## ACTUS II. SCAENA VI.
+# 12. ACTUS II. SCAENA VI.
 
 HELIAS cum suis, HYPOMONE, GRAPHE.
 
@@ -1637,7 +1637,7 @@ Superbientium quoque
 
 Despectione sedula.
 
-## ACTUS III. SCAENA I.
+# 14. ACTUS III. SCAENA I.
 
 HYPOMONE, GRAPHE, THOBIAS.
 
@@ -1707,7 +1707,7 @@ Et alia quae desiderabis plurima.
 
 Accedit ipsa ultronea te; compella eam.
 
-## ACTUS III. SCAENA II.
+# 15. ACTUS III. SCAENA II.
 
 THOBIAS, HYPOMONE, CLAUDUS, ARTHRICUS,
 
@@ -1867,7 +1867,7 @@ Convescitor nec improbis.
 
 *Repetitio*: Benedic.
 
-## ACTUS IV. SCAENA I.
+# 17. ACTUS IV. SCAENA I.
 
 GRAPHE, HYPOMONE, FILII prophetarum duo \<HANI, HEBION\>.
 
@@ -1953,7 +1953,7 @@ Nos esse ter miserrimos. Haec, domina, sunt
 
 Quae flere nos nostrosque cogunt iugiter.
 
-## ACTUS IV. SCAENA II.
+# 18. ACTUS IV. SCAENA II.
 
 HYPOMONE, PENICHROS.
 
@@ -2007,7 +2007,7 @@ Aliquam tamen nobis ferunt spem profore
 
 Arriserit), sed languidum est solacium.
 
-## ACTUS IV. SCAENA III.
+# 19. ACTUS IV. SCAENA III.
 
 GYMNICUS, PSORALEUS, ORPHANUS, HYPOMONE,
 
@@ -2103,7 +2103,7 @@ HY. Confidite igitur et Graphes intendite
 
 Sermonibus. Valete, filii mei.
 
-## ACTUS IV. SCAENA IV.
+# 20. ACTUS IV. SCAENA IV.
 
 GRAPHE, GREX, HYPOMONE.
 
@@ -2227,7 +2227,7 @@ Ut opprimentes puniat,
 
 Ne se audeant extollere.
 
-## ACTUS V. SCAENA I.
+# 22. ACTUS V. SCAENA I.
 
 HYPOMONE, GRAPHE, IOBUS.
 
@@ -2279,7 +2279,7 @@ IOB. Faxit Deus! Me neutra, quaeso, deserat.
 
 Ubi Thobian, Davida et inopes vidimus.
 
-## ACTUS V. SCAENA II.
+# 23. ACTUS V. SCAENA II.
 
 HYPOMONE, GRAPHE, DAVID.
 
@@ -2347,7 +2347,7 @@ HY. En qui prius caecutiebat, Thobias
 
 clare videns cum filio fit obvius.
 
-## ACTUS V. SCAENA III.
+# 24. ACTUS V. SCAENA III.
 
 THOBIAS cum FILIO, HYPOMONE, GRAPHE.
 
@@ -2407,7 +2407,7 @@ TH. Loquatur ipsa, seu loquatur filius,
 
 Tantisper ego secessero. ------------
 
-## ACTUS V. SCAENA IV.
+# 25. ACTUS V. SCAENA IV.
 
 HYPOMONE, FILIUS, SARA, GRAPHE.
 
@@ -2559,7 +2559,7 @@ Ad pauperes iam transeundum parvulos.
 
 FI. Memores futuri magnam habemus gratiam.
 
-## ACTUS V. SCAENA V.
+# 26. ACTUS V. SCAENA V.
 
 PAUPERES quattuor, HYPOMONE, GRAPHE,
 

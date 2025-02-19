@@ -12,7 +12,7 @@ Tragoedia.
 
 
 
-## Personae dramatis.
+# 1. Personae dramatis.
 
 C. Julius Caesar. M. Brutus.
 
@@ -22,7 +22,7 @@ Calpurnia. Nutrix.
 
 **Chorus civium Romanorum.**
 
-## Actus Primus
+# 3. Actus Primus
 
 *Caesar.*
 
@@ -222,7 +222,7 @@ Non usquam stabili fixa manens pede
 
 Sors rerum domina omnium.
 
-## Actus secundus.
+# 5. Actus secundus.
 
 *M. Brutus.*
 
@@ -532,7 +532,7 @@ Nullum timens, nulli timendus,
 
 Pelle sub exigua quiescit.
 
-## Actus tertius.
+# 7. Actus tertius.
 
 *Calpurnia. Nutrix.*
 
@@ -748,7 +748,7 @@ Debito addicti tua prosequuntur
 
 Numina cultu?
 
-## Actus quartus.
+# 9. Actus quartus.
 
 *Caesar. Calpurnia. D. Brutus.*
 
@@ -992,7 +992,7 @@ Ille, si coeptis pereat sub ipsis,
 
 Jure peribit.
 
-## Actus quintus.
+# 11. Actus quintus.
 
 *Brutus et Cassius.*
 

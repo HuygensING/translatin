@@ -72,7 +72,7 @@ Trapezocomus mensae structor
 
 Hyperetes minister.
 
-## PROLOGUS AD SPECTATORES.
+# 1. PROLOGUS AD SPECTATORES.
 
 SAlutem, gratiam, et pacem a summo Patre
 
@@ -156,7 +156,7 @@ Sed heus Puelle, tu periocham totius
 
 Rei recitato summatim Auditoribus.
 
-## ARGUMENTUM.
+# 2. ARGUMENTUM.
 
 Ioannes Baptista Zacchariae filius
 
@@ -230,7 +230,7 @@ Et tandem etiam saltante puella occiditur.
 
 ≤page=17|http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s017.html≥
 
-## ACTUS I. SCENA I.
+# 3. ACTUS I. SCENA I.
 
 Ioannes solus.
 
@@ -296,7 +296,7 @@ Nam quosdam illic modo praesentes conspicor,
 
 Accedam propius, coram illos alloquar.
 
-## ACTUS I. SCENA II.
+# 4. ACTUS I. SCENA II.
 
 Ahas, Ionadab \[(transcriber); sic: Ionadap\] , Ioiada, Symon, populus,
 Ioannes.
@@ -585,7 +585,7 @@ Ioi. Arridet nobis conditio, tu quod bonum
 
 Ac utile tibi videtur, facito libere.
 
-## ACTUS I. SCENA. III.
+# 5. ACTUS I. SCENA. III.
 
 Telones et Ergolabus, publicani. Empollemus et Dorymestor, milites.
 Ioannes Baptista Ioiada.
@@ -937,7 +937,7 @@ Eisdem afficiemur plagis,
 
 Queîs servus ille inutilis.
 
-## ACTUS II. SCENA I.
+# 7. ACTUS II. SCENA I.
 
 Issachar et Nain, Pharisaei. Sadoc et Sedekia, Sadducaei.
 
@@ -1162,7 +1162,7 @@ Quid dicturus siet possimus assequi.
 
 Sad. Belle mones Issachar. obtemperabimus.
 
-## ACTUS II SCENA II.
+# 8. ACTUS II SCENA II.
 
 Ioannes. Ioiada, os turbae Telones, os publicanorum. Empollemus, os
 militum.
@@ -1346,7 +1346,7 @@ In vobis effecit, id haud tribuetis mihi,
 
 Sed ei, a quo solo manant dona omnia.
 
-## ACTUS II. SCENA III.
+# 9. ACTUS II. SCENA III.
 
 Issachar, os pharisaeorum. Sadoc, os
 
@@ -1564,7 +1564,7 @@ Ioi. Is ipsus Rabbi. Ioan. Accedat. praestolabimur
 
 Eum heîc tantisper, donec adsit commodum.
 
-## ACTUS II. SCENA IIII.
+# 10. ACTUS II. SCENA IIII.
 
 ≤page=42|http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s042.html≥
 
@@ -1768,7 +1768,7 @@ Videtur commodum sibi, nos parebimus
 
 \[Note: Dimet.\] Merito. Sed eamus, tempus est.
 
-## ACTUS II. SCENA V.
+# 11. ACTUS II. SCENA V.
 
 Ioiada, Ahas, Symon, Ioannes.
 
@@ -2022,7 +2022,7 @@ Salutifera potius piaque
 
 Usque imitemur singuli
 
-## ACTUS III. SCENA I.
+# 13. ACTUS III. SCENA I.
 
 Herodias. Abra, Pedisca, pedisequae.
 
@@ -2155,7 +2155,7 @@ Meo sane instituto. Iam aggrediar eum
 
 Quidnam rei sit, si possum expiscarier.
 
-## ACTUS III. SCENA II.
+# 14. ACTUS III. SCENA II.
 
 Morio. Herodias.
 
@@ -2337,7 +2337,7 @@ Alio iam mihi porro concedendum est. Mo. Vale
 
 Herodia amica mea suavissima.
 
-## ACTUS III. SCENA III.
+# 15. ACTUS III. SCENA III.
 
 Somatophilax, Morio, Herodias.
 
@@ -2521,7 +2521,7 @@ Contingant omnia prospere, atque ille meritis
 
 Condigna supplicia assequatur protinus.
 
-## ACTUS III. SCENA IIII.
+# 16. ACTUS III. SCENA IIII.
 
 Herodes, H(rwdia\\s. Doryphorus, Somatophilax, satellites.
 
@@ -2909,7 +2909,7 @@ Fugiamus usque sedulo,
 
 Sectantes castimoniam.
 
-## ACTUS IIII. SCENA I.
+# 18. ACTUS IIII. SCENA I.
 
 Sileon. Zambri, sacerdotes. Doeg, Chusi, levitae.
 
@@ -3018,7 +3018,7 @@ Convitiis intolerandis aggrediatur. Sil. Id
 
 Praestat caverier, at lupus est in fabula.
 
-## ACTUS IIII. SCENA II.
+# 19. ACTUS IIII. SCENA II.
 
 Ioannes. Ioiada, os turbae. Zambri, os sacerdotum et levitarum.
 
@@ -3226,7 +3226,7 @@ Ut modo. Sed expecto tantisper, donec illi
 
 Una adsint. \--
 
-## ACTUS IIII. SCENA III.
+# 20. ACTUS IIII. SCENA III.
 
 Cleopas, Nathanael, discipuli. Ioannes.
 
@@ -3486,7 +3486,7 @@ Et laetum patribus insinuare nuntium.
 
 Na. Quando ergo ita vis, et nos tecum manebimus.
 
-## ACTUS IIII. SCENA III.
+# 21. ACTUS IIII. SCENA III.
 
 Rhabduchus, Demius, Lictores. Cohors Herodinorum Ioannes, Cleopas, et
 Nathanael.
@@ -3762,7 +3762,7 @@ Atque illius mysteriw=n
 
 Dispensatores impigros.
 
-## ACTUS V. SCENA I.
+# 23. ACTUS V. SCENA I.
 
 Herodes Rex. Dorymestor et Somatophylax satellites.
 
@@ -3898,7 +3898,7 @@ Causa. Tro. Lubenter admodum rex maxime
 
 Sequar quocumque me vocaveris. He. Bene est.
 
-## ACTUS V. SCENA II.
+# 24. ACTUS V. SCENA II.
 
 Herodias sola.
 
@@ -4000,7 +4000,7 @@ In natalis sui diem. is enim adest, foresque
 
 Donec transeat iste, ut ubi Rex sit audiam.
 
-## ACTUS V. SCENA III.
+# 25. ACTUS V. SCENA III.
 
 Trochias. Herodias.
 
@@ -4096,7 +4096,7 @@ Pandam. Ipsa enim vel sola mihi auxiliarier
 
 Atque usui esse hîc prae omnibus simul potest.
 
-## ACTUS V. SCENA IIII.
+# 26. ACTUS V. SCENA IIII.
 
 Salome, Herodiadis filia. Meracisca et Neanis, pedisequae. Herodias.
 
@@ -4299,7 +4299,7 @@ Sa. Fieri potest. sed num ipsum hîc exspectabimus?
 
 He. Quid ni vero? Sal. Bene habet, arridet et mihi.
 
-## ACTUS V. SCENA V.
+# 27. ACTUS V. SCENA V.
 
 Herodes, Doryphorus, Herodias, Salome, Parastates, Ephorus, Buleta.
 Tamias, Trapezocomus, Sitophorus, Oenochorus.
@@ -4524,7 +4524,7 @@ Non etenim nisi per me vocata veniet He. I
 
 Tu igitur mea lux accersitum ipsam. H(r. Aderit brevi.
 
-## ACTUS V. SCENA VI.
+# 28. ACTUS V. SCENA VI.
 
 Salome, Herodias, Herodes, Parastates, Stolarcha, Hegemon, Synedrus,
 Agoranomus, Hyperetes minister.
@@ -4772,7 +4772,7 @@ Una vivamusque sybaritice H(r. Placet.
 
 Syn. Placet hercle Rex. Her. Levate scyphos. Syn. Curabitur.
 
-## ACTUS V. SCENA VII.
+# 29. ACTUS V. SCENA VII.
 
 Andranchus, Salome, Herodias, Herodes, Hegemon, Ephorus.
 
@@ -4920,7 +4920,7 @@ Tandem erit, eheu. nam id clamat conscia mens mali.
 
 ≤page=107|http://mateo.uni-mannheim.de/camena/schopjac1/jpg/s107.html≥
 
-## ACTUS V. SCENA VIII.
+# 30. ACTUS V. SCENA VIII.
 
 Maasias, Nathanael, Semei, Cleopas, Discipuli Ioannis.
 
@@ -5208,7 +5208,7 @@ Indicibilia gaudia
 
 Adepturi sint perpetim.
 
-## EPILOGUS.
+# 32. EPILOGUS.
 
 HAbetis Spectatores candidissimi,
 
