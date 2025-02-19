@@ -1,0 +1,1997 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0105" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Studentes</title>
+        <title type="sub">Studentes, comoedia de vita studiosorum, nunc primum in lucem edita auctore M. Christophoro Stymmelio</title>
+        <author>Stymmelius, Christophorus</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Iohannes Eichorn</publisher>
+        <pubPlace>Frankfurt a/d Oder</pubPlace>
+        <date>1550</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Stymmelius-Studentes</name><lb/>
+            Short title: <title>Studentes</title><lb/>
+            Year of first edition: <date>1550</date><lb/>
+            Author information:<lb/>
+            Alias: Stummel, Christoph<lb/>
+            Birth: 1525, Frankfurt a/d Oder<lb/>
+            Death: 1588, Stettin<lb/>
+            Floruit: None, Stettin<lb/>
+            <ref target="https://de.wikipedia.org/wiki/Christoph_Stymmelius">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://mateo.uni-mannheim.de/camena/stummel1/te01.html">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">comedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>STUDENTES, COMOEDIA DE VITA STUDIOSORUM, NUNC PRIMUM in lucem edita
+  auctore M. Christophoro Stummelio F. Eiusdem Carmen de iudicio
+  Paridis. ADDITA EST PRAEFATIO Iodoci Willich, et epilogus a M.
+  Christophoro Cornero. EXCUDEBAT Iohannes Eichorn Francofordii ad
+  Viadrum, Anno M.D.L.</p>
+  <p>IN ZOILUM.</p>
+  <p>Invide cur acuis ringendo Zoile dentes?</p>
+  <p>Cur sulcat vultus ruga maligna tuos?</p>
+  <p>Sed tu Maeonidem ridebas Zoile vatem,</p>
+  <p>Et similis numquam desinis esse tui.</p>
+  <p>An non est iuvenum iuvenilia condere scripta?</p>
+  <p>Si capitur studiis ipsa iuventa suis.</p>
+  <p>Ut Cereri grata est peragendis messibus aestas,</p>
+  <p>Bacchus in autumno dulcia vina bibit.</p>
+  <p>Sic matura dabit posthac maturior aetas,</p>
+  <p>Interea hoc placida perlege mente, precor.</p>
+  <p>PRAEFATIO IODOCI WILLICHII RESELLIANI AD Wipertum Suevum LL.
+  Doctorem, et syndicum Vratislaviensem, et poetarum amantissimum.</p>
+  <p>ANIMADVERTI olim iuxta argumenti, et imitationis naturam et
+  tractationem tria fuisse poetarum gener ausitatissima, quorum primum
+  fuit utile, quod aut ad erudiendos et expoliendos animos adolescentum
+  conducebat, ut quod honestatem, eiusque semina et decora, cum
+  singularum per diversos circumstantiarum ordines officiis continebat
+  h)qiko\n dictum, aut ad rerum naturae cognitionem et diiudicationem
+  plurimum faciebat, fusiologiko\n antiquitus appellatum. Verum in
+  priorem classem et sacrarum literarum poemata referenda sunt,
+  cuiusmodi per quam multa a poetis Germanis summa laude nostra memoria
+  decantat, et prelo excusa florent. Alterum est duntaxat animi
+  oblectandi gratia expetitum quod etsi nihil, vel quod cum virtute
+  coniunctum esset, vel quod ad rei natur alis indagationem, atque
+  proprietatem conferret, vel quod ad pietatem vitae cum civilis, tum
+  Christianae conduceret, probe docuit, canoras tamen nugas et ludicra
+  interdum</p>
+  <p>nimis obscoena diligenter promovit. Tertium est eorum, quibus non
+  tantum curae est voluptas, sed etiam utilitas. Delectant quidem, cum
+  hilariores animi affectus concitant. Utiles vero sunt, cum ingenia
+  propter certarum vel arcanarum, vel humanarum cognitionem informent,
+  de quibus sic Horatius ad Pisones cecinit:</p>
+  <p>Aut prodesse volunt, aut delectare poetae,</p>
+  <p>Aut simul et iucunda, et idonea dicere vitae</p>
+  <p>Verum sicut Primum, etsi non sit utile, tamen aliquanto durius,
+  tamquam seniorib. Catonib. aptius censetur. ita proximum cum non parum
+  animos humanos oblectet, mollius est, et iuventuti magis accomodatum.
+  Ultimum autem utrique aetati convenit, totique theatro satis
+  appositum. Id enim non tantum docet, sed et uno labore, unaque opera
+  mirifice delectat. Quare id genus poemata cum venalia passim
+  exstabunt, vel in regionib. longius positis, cum ex horum venditione
+  librarii non parum pecuniae facient, tum vero non interitur a sunt,
+  sed vivacissima tamquam seu Apolline, seu cedro digna perdurabunt, et
+  consistent. Id quod et Horatius his versibus voluit:</p>
+  <p>Omne tulit punctum, qui miscuit utile dulci</p>
+  <p>Lectorem delectando, pariterque monendo.</p>
+  <p>Hic meret aete liber Sosiis, hic et mare transit</p>
+  <p>Et longum noto scriptori prorogat aevum.</p>
+  <p>Quibus cognitis, non difficile erit de quibuslibet</p>
+  <p>poetis propter materiam iudicium facere, idque exquisitum. Nam si
+  Aristoteli Empedocles, cui nihil praeter metrum cum Homero commune
+  est, non sit poeta, sed cum propter rerum naturae tractationem
+  susceptam utilior esse exoptabat, potius fusiolo/gos, iudicatur de quo
+  tamen Lucretii praestantissimum elogium memoriae proditum est hoc
+  modo:</p>
+  <p>Nil tamen hoc habuisse viro praeclarius in se</p>
+  <p>Nec sanctum magis, et mirum carumque videtur</p>
+  <p>Carmina quin etiam divini pectoris eius</p>
+  <p>Vociferantur, et exponunt, praeclara reperta</p>
+  <p>Ut vix humana videatur stirpe creatus</p>
+  <p>Quid nam quaeso quis iudicii de Lucretio proferet? cuius opus etsi
+  nobis hodie mutilum sit, multis tamen luminibus et ingenii, et artis
+  praestare quadam ad Q. fratrem epistola Cicero pronuntiavit, et a
+  Cicerone eosdem libros emendatos D. Hieronymus ex Eusebio testatur.
+  Est ne diversum statuendum de Varrone Attacino Narbonensi? Hic enim
+  non minus atque Lucretius Empedoclis exemplum secutus est. Ad hunc
+  modum Lucanum esse oratorem, quam poetam, cum simplicius citra ulla
+  voluptatis illectamenta suam historiam cecinerat F. Quintilianus
+  mavult, Mirum igitur est, cur Aristoteles in comoedia solam voluptatem
+  quaesierat. Nam illi est hoc dramatis genus imitatio improbiorum, non
+  tamen ad omnem malitiam, sed turpitudinis ridicula particula. Primum
+  hic to\ faulote/rwn etsi</p>
+  <p>ambiguum sit, tamen ad personas certis rationibus referre cupio et
+  contendo. Sentit enim in hoc poemate inferioris sortis atque ita iuxta
+  vulgi sententiam deteriores et viliores esse histriones, qui tamen non
+  sunt ad extremum flagitiosi, quales in tragicis facinoribus, ut
+  plurimum esse consueverunt.</p>
+  <p>Deinde argumentum est cum turpitudine coniunctum, quod tamen non
+  magnopere pios spectatores neque offendit, neque corum mores
+  corrumpit. Scriptum enim reliquit philosophus a)i/sxos a)nw/dunon kai\
+  ou) fqartiko\n quod est, turpe est argumentum, atta men doloris
+  expers, et sine magna honestorum morum corruptela. Eius vero exemplum
+  a ridicula facie subiecit, quae etsi turpe et perversum quiddam sit,
+  non tamen protinus dolore quempiam afficit. Postremo eius finis
+  statuitur to\ geloi=on quod ridiculum, et risum voluptatemque moveret.
+  Quod si quis illam descriptionis naturam mordicus sequi
+  efflagitaverit, vix quempiam comicum poetam salutabimus. Fatemur
+  quidem in Aristophanicis comoediis (is enim Aristotelis memoria ab
+  omnibus comoediae poeta dictus, atque philosopho circiter sexaginta
+  annos maior fuit) plura esse ridicula, quam seria, eaque pia, et
+  honesta, quae tamen bona exparte satyrica iuxta eius temporis
+  consuetudinem esse apparent.</p>
+  <p>Nonne in equitibus cernitur, at Cleonem tribunum plebis tamquam
+  peculatorem</p>
+  <p>perstrinxerat, adeo ut ipse faciem suam minio oblitus (reliqui enim
+  illius potentiam formidabant) personam egerat? Nonne et Niciam summum
+  ducem, utique mitem, et liberalem tamquam desidem et agricolam in
+  fabula, quam Gorgiam auctore plutarcho inscripsit, gravius taxaverat?
+  Nonne in nebulis, quas Dionysio Siciliae tyranno formam reipub.
+  Atheniensis petenti platonem misisse scribitur, absque controversia
+  magis propter opus et ornamentum Atticae linguae absolutum, quam
+  propter crimina, quibus per meteora gravissime Socratem philosophiae
+  patrem precio et impulsione Anyti et Meliti adductus, insectari
+  contenderat? Nonne in Vespis Philocleonem propter iudicii
+  affectationem, et ambitum insimulaverat? Nam vespae iuvenes iudiciorum
+  desiderio tenebantur, sed senes suis stimulis exstimulabant. Quid
+  multis? pauca sunt quibus docet et eadem sunt ceu pa/rerga quod genus
+  sunt in Pluto de paupertatis et opulentiae collatione, ita et in pace
+  pacis commoda prosuit, ut eandem Graecis iam bello defatigatis
+  suaderet. Proinde Aristotelem ad priscam comoediam magis respexisse
+  arbitror, et censeo, cuius usus sub id tempus (Nam Tragoediae protinus
+  successit) frequentis simus fuit. Quatenus autem mores quorundam
+  civium deridendo et traducendo taxaverat, non parum reipublicae
+  profuit, Multi enim sibi cavebant,</p>
+  <p>ne spectaculo ceteris esset, atque domestico probro. Verum cum
+  nimiae licentiae fenestra aperta esset, lege lata sanctum erat, ne
+  quis carmen infame pro poneret. Quod et in caussa est, cur nova
+  comoedia surrogata sit, argumento communi omnib. hominibus mediocris
+  fortunae, nimisque amaritudinis habens. Itaque spectatoribus plus
+  delectationis adfert, quia argumento concinna est, quia consuetudine
+  congrua est, quia sententiis utilis est, quid metro praesertim
+  trimetro apta est. Quapropter recentiorum Graecorum comoediae finitio
+  et nostro tempore gratior erit ut quae sit privatae, civilisque
+  fortunae sine vitae periculo comprehensio. Donatus idem quoque
+  agnoscit, sed a)ki/ndunon exponit, et addit, qua comoedia discitur,
+  quid sit in vita utile quid contra evitandum, non aliter atque in
+  ethicis fieri solitum est, quibus et expetendorum et fugiendorum est
+  professio. Est igitur Livio Andronico comoedia cottidianae vitae
+  speculum, quem Cicero secutus eam esse pronuntiat imitationem vitae,
+  speculum consuetudinis, imaginem veritatis. Quod genus exempla in
+  Terentianis fabulis manifestissima sunt, in quarum aliis modo vaga
+  libido damnatur, et coniugii honesti laus confirmatur, modo in aliis
+  nuptias non esse legitimas, nisi parentum consensu factas dilucide
+  adumbrat, modo in aliis dissidium inter socrum, et nurum perpetuum
+  esse ostendit, modo alia atque alia certa quadam thesi comprehensa</p>
+  <p>argumenta fusissime explanantur, et actione quasi in speculo
+  commonstrantur. Ad hunc modum nostra aetas multos comicos velut ex
+  equo Troiano effudit, non ita infelices, quorum opera rerum et
+  profanarum et sacrarum spectacula quam illustrissima nobis exhibita
+  sunt, atque nuper Christophorus Stummelius iuvenis mihi perquam carus,
+  studiorum meorum socius apud nos tamquam in patria comoediam
+  dexterrime lusit, manqa/nontes aut studentes inscriptam, qua
+  discipulorum iam in Academiam unam aliquam excolendi ingenii gratia
+  commigrantium mores depinguntur, cuius protasis scholastico more
+  proposita est, ut post datum nomen gymnasiarchae sese malis
+  condiscipulis adiungant, ut omnia labore parentum parta et vino et
+  alea concoquant, ut sub nullius praeceptoris, et pii et honesti ferula
+  vivere exoptent. Mox epitasis subditur, propter multarum turbarum,
+  quas dare ebrii consueverunt, tumultum, propter frequentem in aedes
+  privatas incursionem, et propter alia multa incommoda. Sed catastrophe
+  istorum ardelionum vitam sic corrigit, ut ad meliorem frugem redeant,
+  ne cepas, sicut Germanis est proverbium, pro alliis domum reportasse
+  videantur. Hanc vero comoediam recens compositam tibi nostrae
+  Academiae haud paenitendo alumno de meliore nota commendatam cupio.
+  Quod si non cuncta ad vivum Aristarchis resecuerit, aetati, et</p>
+  <p>tempori perturbatiori imputabitur. Nos autem maximam de eius
+  ingenio, et indole spem concepi mus, iam id aetatis flores accipe,
+  bonique consule, postea dulcissimos fructus percipies.</p>
+  <p>PRUDENTIBUS ET SINGULARI GRAVITAte praeditis Coss. et patribus
+  senatus Francfordiani ad Viadrum, S. P. D.</p>
+  <p>Verissime dictum est humanissimi patres,</p>
+  <p>Nescio qua natale solum dulcedine cunctos</p>
+  <p>Ducit, et immemores non sinit esse sui.</p>
+  <p>Nam etiamsi Ovidius procul ab Italia et Paelignis focis inter
+  rigidos et immanes Tomitas Vitam ageret, tamen saepenumero animadverti
+  omnibus hominib. singularem quendam amo rem genitalis loci insitum et
+  impressum esse. Cuius rei evidentissimum exemplum ex Ulysse haberi
+  potest, qui Ithacam suam asperrimis saxulis tamquam nidulum affixam,
+  immortalitati anteposuit, ita ut etiam optaret fumum de patriis posse
+  videre focis. Atque cum de hac re cogito, eius amoris semina in me
+  quoque reperio. Quis enim extra naturam positus, seu plane a)/storgos
+  aliter sibi in animum induceret? Proinde saepissime mihi in animo
+  fuit, amoris in patriam perspicua</p>
+  <p>vestigia relinquere, quod commodissime nunc fieri posse existimavi,
+  cum praeludia ingenii mei in lucem suasu et consilio doctorum virorum
+  edere decrevissem, ut hunc laborem vobis humaniss. patribus, qui ad
+  gubernacula patriae meae sedetis, nuncuparem. Nam merito patria
+  studiorum meorum fructum a me repetere debet, ut a qua hoc beneficii
+  acceperim, si aliquo in literis progressus essem. Sed hic dicet
+  aliquis, quam utilitatem poterit patria ex Comoedia percipere? Huic
+  Cicero pro me respondebit, qui de dramaticis scriptis ita loquitur:
+  Etenim haec conficta arbitror a poetis esse, ut effictos nostros mores
+  in alienis personis, expressamque imaginem vitae quottidianae
+  videremus. Hic docentur pattes quod ad cultum ingenii in liberis
+  spectat, non esse parcendum sumptibus, nec tamen ad luxuriam profuse
+  largiendum. Illud enim currentes moratur, hoc vero a studiis penitus
+  avertit. Videndum igitur, ubi et quando dandum sit Poterunt etiam
+  filii vestri, sodales mei, qui partim nunc coaetanei sunt, partim
+  procedente tempore succrescent, salutarem inde doctrinam haurire. Nam
+  gnaviter, dandam esse operam literis Comoedia docet, vitanda prava
+  consortia, amori non indulgendum, quorum utrumque a Musis abducit, et
+  viam adeundi intercludit. Quod experientia docemur, cum non raro bonae
+  spei adolescentes, qui nimis pravo sodalicio adhaeserunt, alieni a
+  studiis facti spem et exspectationem paren tum fefellerunt Scio etiam
+  multos amori operam dantes, femineis blanditiis ita illectos esse,</p>
+  <p>ut turpiter praeter voluntatem parentum matrimoniali copula
+  devincti sint. Reperias enim nonnullos, qui pulchras domi alunt filias
+  aucupium exercere, ut adolescentes parum cautos inescent, perinde ut
+  aucupes, qui in area canoram avem collocant, ad quam cum ceterae
+  colludentes advolitant, tamquam omnia essent tuta, reti operiuntur cum
+  magno vitae suae peri culo. Ita etiam quibusdam adolescentibus evenit,
+  ut colludendo turpiter capiantur. Sed tamen Matrimonium non insector,
+  imo hoc volo, ut honeste, aperte, cum consensu parentum utriusque
+  partis contrahatur. Quare humanissimi patres, hoc levidense munus meo
+  labore in gratiam vestrorum liberorum excultum aequo animo suscipite,
+  bonique consulite, et Musarum cultoribus, ut facitis, favete: ne
+  studia apud vos, quae ubique ruinam minari videntur, in praeceps eant.
+  Satan enim hoc exulceratissimo saeculo in ultima mundi senecta illud
+  unice molitur, ut scholas, sine quibus puritas Christianae doctrinae
+  conservari nequit, dissipet.</p>
+  <p>Valete.</p>
+  <p>V. H. addictiss. Christophorus Stummelius F.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="prologvs">
+  <head>1. PROLOGVS</head>
+  <p>Ingens mei tenet vos admiratio</p>
+  <p>Hic quotquot adestis, spectatores optimi,</p>
+  <p>Tantum laborem sponte quod susceperim.</p>
+  <p>Multi me cupidum laudis, multi audaculum</p>
+  <p>Vocabunt, operam subsannantes plurimum</p>
+  <p>Auresque in altum cervino more arrigent,</p>
+  <p>Si quid possent vitiosum deprehendere.</p>
+  <p>Nam saepe paruum erratum obfuscat optima,</p>
+  <p>Vitiaque plus quam virtutes sunt obvia.</p>
+  <p>Sed hi me nil movent, nec huius fecerim:</p>
+  <p>Siquidem Terentio atque Homero idem accidit</p>
+  <p>Qui si nunc viverent, quantumvis plurimum</p>
+  <p>Laudentur, essent omnium abiectissimi.</p>
+  <p>Cunctis enim placere non est res levis,</p>
+  <p>Quod nemo praestabit, nec unquam praestitit.</p>
+  <p>Verum tamen mihi firmiter persuadeo</p>
+  <p>Amari me a multis, quibus paucissimis</p>
+  <p>Exponam, cur agressus sim provinciam</p>
+  <p>Scribendi, diligenter animum advortite.</p>
+  <p>A multis sum rogatus precibus improbis,</p>
+  <p>Ut aliquid opera dignum et studio, scriberem,</p>
+  <p>Queis cum reluctari nollem, quod plurima</p>
+  <p>Ipsorum in me collata exstent beneficia,</p>
+  <p>Ad scribendam animum contuli Comoediam,</p>
+  <p>Ex quo videbam me fructus amplissimos</p>
+  <p>Percepturum, non sine labore maximo,</p>
+  <p>Sunt etenim pulchra semper difficillima.</p>
+  <p>Vidi etiam multos Palladis ad sacraria</p>
+  <p>Tendere, sed pervenire paucos admodum.</p>
+  <p>Ea quae sit caussa hac facti specie ostendere</p>
+  <p>Volui. Siquidem multos hinc deterret labor,</p>
+  <p>Quem fugimus ex aequo omnes, cum nemo queat</p>
+  <p>Sine hoc ad culmen doctrinae conscendere.</p>
+  <p>Plerosque se ducit pravum consortium,</p>
+  <p>Multos esca malorum voluptas, otium,</p>
+  <p>Venus, ludi, iuvenum pestes taeterrimae.</p>
+  <p>Quapropter adeste animis, et cum silentio</p>
+  <p>Attendite, ut aequi sitis posthac iudices.</p>
+  <p>Quem nunc socco indutum videtis ingredi,</p>
+  <p>Olim cothurno forsitan videbitis.</p>
+  <p>Nunc argumentum dicetur Comoediae</p>
+</div>
+<div type="level1" xml:id="interlocutores.">
+  <head>2. INTERLOCUTORES.</head>
+  <p>Philargyrus Eubulus Philostorgus, senes</p>
+  <p>Philomathes, filius Philargyri</p>
+  <p>Acolastus, filius Eubuli</p>
+  <p>Acrates, filius Philostorgi</p>
+  <p>Colax Myspolus Philostasius Musopolus, studiosi</p>
+  <p>Euprositus pater puellae</p>
+  <p>Eleutheria mater puellae</p>
+  <p>Paedeutes praeceptor</p>
+  <p>Phrontistes famulus</p>
+  <p>Danista hospes</p>
+  <p>Deleasthisa puella</p>
+  <p>Cerdones</p>
+  <p>PHilargyrus quamvis divitiis affluens</p>
+  <p>Aegre persuasus a vicinis proximis</p>
+  <p>Philomathem filium cum ipsorum filiis</p>
+  <p>Ad studia misit liberalium artium,</p>
+  <p>Qui manibus et pedibus dans operam literis</p>
+  <p>Ad summa doctrinae pervenit culmina.</p>
+  <p>Sed Acolastus et Acrates pravis consortiis</p>
+  <p>Dum sese adiungunt, corrumpuntur funditus</p>
+  <p>Per Colacem, per philost asium et per MYspolum.</p>
+  <p>Acrates ludo, crebris potationibus,</p>
+  <p>Profundit immensam statim pecuniam,</p>
+  <p>Conflavit aes alienum, fecit nomina,</p>
+  <p>Acolastus Deleasthisam Euprositi filiam</p>
+  <p>Deperit, absente patre vitians virginem,</p>
+  <p>Promittit se ducturum in uxorem domum,</p>
+  <p>Ex quo gravidam factam cum mater filiam</p>
+  <p>Cognovit, rem suo marito detegit.</p>
+  <p>Qui contumeliam hanc ferens aegerrime</p>
+  <p>Acolastum cogit ut vitiatam filiam</p>
+  <p>Ducat, fidemque seruet, sancte quam dedit.</p>
+  <p>Eubulus autem tota re per literas</p>
+  <p>Comperta, mox illuc iter ad gnatum facit,</p>
+  <p>Pessumdat filium, reluctatur, negans</p>
+  <p>Hunc iure cogi posse ut ducat virginem.</p>
+  <p>Ille instat, proscindunt se multis scommatis.</p>
+  <p>Tandem a Philostorgo persuasus, filio</p>
+  <p>Dat hanc in uxorem, celebrantur nuptiae.</p>
+  <p>Acrates vero dolo patrem circumvenit,</p>
+  <p>Emungit argento, se febre dictitans</p>
+  <p>Laborasse, et Danistae dat pecuniam.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scena-i.">
+  <head>3. ACTUS I. SCENA I.</head>
+  <p>PHILARGYRUS, EUBULUS, PHILOSTORGUS. Trimetri.</p>
+  <p>Dies et noctes stimulus hic me plurimum</p>
+  <p>Urget, nec somnum oculis nocte hac vidi meis</p>
+  <p>Adeo me sollicitat gnatus, qui vult sibi</p>
+  <p>Sumptus dari, ut ingenuis vacaret artibus,</p>
+  <p>Et ut varios hominum mores cognosceret.</p>
+  <p>Sed nimis ingentem poscit vim pecuniae,</p>
+  <p>Quam vix labore permagno et sudoribus</p>
+  <p>Immensis potui corradere, consumeret,</p>
+  <p>Et perderet, nunc ut sunt adolescentuli,</p>
+  <p>Amori indulgent plerique meretricio</p>
+  <p>Sudores in cassum profundunt patrios</p>
+  <p>Potando ad multam noctem, ludo, et ceteris</p>
+  <p>Rebus, quae prorsus animum suspendunt meum.</p>
+  <p>Nam pauci consequuntur nunc scientiam,</p>
+  <p>E milibus multis vix ut centesimus</p>
+  <p>Optatam studio possit metam consequi.</p>
+  <p>Sed Eubulum et Philostorgum video procul</p>
+  <p>Advenientes, adibo et amice colloquar.</p>
+  <p>Saluete plurimum. EUB. immortales gratias</p>
+  <p>Habemus. Sed quid adeo es tristis? aut quid est</p>
+  <p>Animum male quod habet tuum? contracta frons</p>
+  <p>Etenim signum est maeroris. Enarra quid est?</p>
+  <p>PHI. Nostin, gnatum meum Philomathem maxumum</p>
+  <p>Natu? EUB. Bene equidem. Sed quid is peccavit, aut</p>
+  <p>Quid commisit? PHI. Nihil caussam mox audies.</p>
+  <p>Is ab ineunte aetate flagrans quam maxumo</p>
+  <p>Studiorum amore, ingenuis semper artibus</p>
+  <p>Incubuit, ut inde divelli nullo modo</p>
+  <p>Posset, quod in primis quidem placuit mihi.</p>
+  <p>Omnes me mirifice efferebant laudibus,</p>
+  <p>Quod gnatum haberem tam diversis dotibus</p>
+  <p>Animi exornatum, qui non ceteri ut solent,</p>
+  <p>Illecebris deditus blandis libidinum,</p>
+  <p>Obnixe sed qui studiis operam poneret,</p>
+  <p>Voluptatem spernens, fugiens commercia</p>
+  <p>Mala, quae corrumpunt mores castos et bonos.</p>
+  <p>Quam mihi placebam, quam mihi adulabar miser,</p>
+  <p>Uno ore omnes beatum quod me praedicant.</p>
+  <p>Nunc miser ex animis, vix vitalem spiritum</p>
+  <p>Duco, adeo me exanimavit et perterruit.</p>
+  <p>PHILOS. Uno verbo eloquere, quid est quod te male</p>
+  <p>Habet? quid tam longis opus est ambagibus?</p>
+  <p>PHIL. Mox audies, heri ad me venit, clamitans:</p>
+  <p>Pater, non possum inter beanos vivere,</p>
+  <p>Idcirco me mittas in quandam Academiam,</p>
+  <p>Ut possim aut philosophiae studio operam dare,</p>
+  <p>Quam Tullius vitae ducem recte vocat:</p>
+  <p>Aut animum adiungere ad iuris scientiam,</p>
+  <p>Qua conservatur vitae nostrae nostrae societas:</p>
+  <p>Aut ad sacrosanctam, si vis, Theologiam,</p>
+  <p>Quae nobis ad salutem aeternam viam aperit,</p>
+  <p>Docens: quibus vestigiis insistere</p>
+  <p>Oporteat, vitam nobis ut conserat</p>
+  <p>Aeternam caelestis pater, propter necem</p>
+  <p>Gnati unigeniti, qui pro nobis mortuus</p>
+  <p>Iram placavit, et caelo nos intulit.</p>
+  <p>Ne in eodem (ut aiunt) luto semper haeream.</p>
+  <p>Ad unguem nam triviales artes (quas vocant)</p>
+  <p>Perdidici, in his puerilibus ne conteram</p>
+  <p>Aetatem, ad altiora ut possim emergere.</p>
+  <p>Quae postquam dixit, horror corpus concutit,</p>
+  <p>Ac, velut attonitus, verbum nullum proloquor.</p>
+  <p>Nam si dixisset: excelsa ab rupe in mare</p>
+  <p>Te mox praecipitato: tulissem equidem facilius.</p>
+  <p>Unde etenim tanta vis argenti mihi foret:</p>
+  <p>Aut unde tantos sumptus gnato suggeram?</p>
+  <p>Cum vix in singulos dies corradere</p>
+  <p>Tantum possim, quantum quottidie insumimus.</p>
+  <p>Nam Sumptuosa et magnifica mihi est domus.</p>
+  <p>Quapropter tot curae, tot et molestiae</p>
+  <p>Me vivum ad mortem adigunt, et diverse trahunt</p>
+  <p>Hic gnatus poscit inauditam pecuniam,</p>
+  <p>Illic uxor, pretiosas vestes expetit.</p>
+  <p>Hic ager, hic rursus est colenda vinea.</p>
+  <p>Hic aedes exstruendae, illic et villula.</p>
+  <p>Hae sunt furiae, quae me vexant miris modis.</p>
+  <p>Sinistro Iove me natum ut Eubule autumem.</p>
+  <p>EUB. Nae tu videris mihi stultus et iners homo.</p>
+  <p>Qui currentem moraris, et non incitas.</p>
+  <p>Tute tuum perdis filium, tu consulis</p>
+  <p>Male tuo gnato, accensum studio dum impedis.</p>
+  <p>Tu grave (crede mihi) supplicium Philargyre</p>
+  <p>Lues. Virorum doctorum sit raritas</p>
+  <p>Quanta vides, tu quem debueras impellere,</p>
+  <p>Non impedis solum, sed et segnem facis.</p>
+  <p>Tenacitatem istam probare non queo,</p>
+  <p>Praesertim cum tantis abundes copiis.</p>
+  <p>Profecto pistrino dignus, dum posthabes</p>
+  <p>Salutem gnati divitiis pessime tuis,</p>
+  <p>Quarum usu fructus, non dominium, tibi datum est.</p>
+  <p>Quid, obsecro, Dominus qui nutu concutit</p>
+  <p>Totum mundum, et quit te his praeposuit copiis.</p>
+  <p>Quid inquam proderunt, cum te vocaverit</p>
+  <p>Ex hoc vitae curriculo? postquam munere</p>
+  <p>Tuo perfunctus auferes ne nummulum.</p>
+  <p>Quare laboras igitur ut opes colligas:</p>
+  <p>Praeterea, rationes cum tecum conferet,</p>
+  <p>Damnatum supplicio te mulctabit gravi,</p>
+  <p>Te his quoniam proposuit, ut non absconderes,</p>
+  <p>Sed ut indigenti subvenires proximo.</p>
+  <p>Cedo canis, quid facies inopi proximo?</p>
+  <p>Qui non ad studia liter arum suggeris</p>
+  <p>Sumptus tuo gnato, quare Themisthocles</p>
+  <p>Recte dixit se malle sine pecunia</p>
+  <p>Virum, non inopem sine viro pecuniam.</p>
+  <p>Cuius ego suffragor lubens sententiae:</p>
+  <p>Quid enim opes tibi prosunt, uti cum nescias?</p>
+  <p>Ego omnem hercule converterem substantiam</p>
+  <p>In studia filii, verbera sed non facit</p>
+  <p>Tanti, nedum verbis ut vellet obsequi.</p>
+  <p>Quare age, commune tu perpende commodum,</p>
+  <p>Et sumptus suppedita studiis gnati tui.</p>
+  <p>Vides etenim quam nequeat sine doctis viris</p>
+  <p>Communis conservari vitae societas.</p>
+  <p>Hi primum dispersos altis in montibus</p>
+  <p>Ferarum more viventes homines feros</p>
+  <p>Per leges latas compulerunt, moenibus</p>
+  <p>Novas urbes cinxerunt, tuti ut viverent</p>
+  <p>A violento incursu exterarum gentium.</p>
+  <p>Sed legibus malorum ut vim compescerent,</p>
+  <p>Per hos eadem servatur parta societas.</p>
+  <p>Quare si vis, una gnatum mittam meum.</p>
+  <p>PHIL. Obtundis, et molestis verbis me enecas</p>
+  <p>Perinde quasi ego vitam horum non noscerem,</p>
+  <p>Nam postquam miseros patres verbis lenibus</p>
+  <p>Emunxerunt argento, quaevis facinora</p>
+  <p>Admittunt, sub praetextu honesti nominis.</p>
+  <p>Scortantur, potant in dies, et quoslibet</p>
+  <p>Tumultus excitant, in aedes impetum</p>
+  <p>Alienas faciunt, hinc caedes, hinc iurgia,</p>
+  <p>Pedisequas rapiunt in publica via,</p>
+  <p>Aut cum natabus concumbentes civium</p>
+  <p>Fidem dant, et velint eas quod ducere</p>
+  <p>Promittunt, id quod et impregnatae postulant.</p>
+  <p>Atqui quod magis est, valde mihi quod displicet,</p>
+  <p>Uxores coniugatas vitiant civium.</p>
+  <p>Hinc saepe nonnulli occiduntur, aut ita</p>
+  <p>Caeduntur, ut vitae non sit spes amplius.</p>
+  <p>Aut comprehensi poena plectuntur gravi.</p>
+  <p>Igitur gnatum suum mittat quisquis volet,</p>
+  <p>Ego mecum decrevi meum non mittere.</p>
+  <p>Nam scio quam sit dura, et quam multis sentibus</p>
+  <p>Obsita via, quae perducit ad scientiam.</p>
+  <p>Quare cum nequeunt sine labore consequi,</p>
+  <p>Nec sine sudore ad excelsum culmen datur</p>
+  <p>Conscendere, mox sese ad delicias conferunt,</p>
+  <p>Ad quas lata et amoena, atque longe tritior</p>
+  <p>Via ducit, namque haec aetas est proclivior</p>
+  <p>Ad corporis delicias et libidines,</p>
+  <p>Quam ad studia, praesertim campo cum currere</p>
+  <p>Datur aperto, et cum non est qui coerceat.</p>
+  <p>Eos frenis, vel cohibeat petulantiam.</p>
+  <p>PHILOS. Nae tu ridiculus homo es, nec mente praeditus</p>
+  <p>Sana, dum cupis hanc aetatem constringere</p>
+  <p>Molestis vinculis, ut degant cochleae</p>
+  <p>Vitam, aut Timonis, qui fugiens commercia</p>
+  <p>Hominum, solus delituit in domo sua.</p>
+  <p>An nescis Ulyssem quam commendet maxime</p>
+  <p>Homerus, quod multorum hominum cognoverit</p>
+  <p>Mores, et multas regiones peragraverit.</p>
+  <p>Pollw=n, ga\r inquit, e)/gnw no/on.</p>
+  <p>Et propterea nunc vocat ipsum polu/qropon.</p>
+  <p>Nunc polu/mhtin, quod potuerit se vertere</p>
+  <p>In omnes partes, consiliis pollens vafris,</p>
+  <p>Quoniam miser fatis depressus asperis</p>
+  <p>Et multis damnis, nactus est prudentiam.</p>
+  <p>Quapropter, si sapis, noli interdicere</p>
+  <p>Gnato convivia et congressus mutuos</p>
+  <p>In his plus discunt, quam si noctes et dies</p>
+  <p>Chartis inhaereant. Manda ut nequissimos</p>
+  <p>Sibi adiungat, nam cum deceptus coeperit</p>
+  <p>Egere, posthac non cuivis credet, scio.</p>
+  <p>Sine etiam interdum ut accedat meretriculas,</p>
+  <p>Quod si circumventus fuerit, non amplius</p>
+  <p>Habebit his fidem, sed aversabitur</p>
+  <p>Sponte sua, demum vera est haec sapientia,</p>
+  <p>Si quis damno accepto desistit et sapit.</p>
+  <p>Quocirca non tam facile possunt decipi</p>
+  <p>Quam simplices, qui temere in quasuis irruunt</p>
+  <p>Technas, nec imperiti ab his sibi cavent.</p>
+  <p>Praeterea perspicuum est, postquam ad rempub.</p>
+  <p>Accedunt, hanc mira regunt prudentia.</p>
+  <p>Sed qui sunt imperiti rerum, fere nihil</p>
+  <p>Prosunt, nec possunt quicquam in coetu proloqui.</p>
+  <p>Quapropter largiendum est aliquid iuvenibus,</p>
+  <p>Nec utendum est censura tam rigida nimis.</p>
+  <p>Postquam pertaesum fuerit, desistent, scio,</p>
+  <p>Et vitam melius etiam formabunt suam.</p>
+  <p>Quare, si libet, una gnatum mittam meum.</p>
+  <p>PHIL. Age, ut lubet, vestrae accedo sententiae</p>
+  <p>Consilium perplacet, quare ne sim in mora</p>
+  <p>Eamus intro. Puer heus Philomathen voca</p>
+  <p>Vos itidem vestros quoque iubete accersere.</p>
+  <p>EUB. I prae, sequar, fiet, non ulla erit mora.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scena-ii.">
+  <head>4. ACTUS I. SCENA II.</head>
+  <p>PHILOMATHES, ACOLASTUS, ACRATES. Trimetri</p>
+  <p>Equidem laetus sum, sed demiror cur pater</p>
+  <p>Tam subito iussit me per puerum accersier,</p>
+  <p>Nisi id est, quod semper insedit animo meo.</p>
+  <p>Ad mercaturam forsan vult me mittere</p>
+  <p>Ingenuarum artium, ut his mentem meam excolam</p>
+  <p>Id quod petivi, et dum vivam semper petam,</p>
+  <p>Quamvis adeo obstinate sibi proposuerat,</p>
+  <p>Se nolle tantos sumptus ad studia dare.</p>
+  <p>Sed quid sit experiar, domum et me conferam.</p>
+  <p>Verum nisi fallor, video properantem Acratem,</p>
+  <p>Et Acolastum, percontabor quid sit novi.</p>
+  <p>Saluete sodales, cur festinatis? quid est?</p>
+  <p>ACOL. Pater tuus nostros secum duxit patres</p>
+  <p>Qui nos vocarunt per pueros, ut sine mora</p>
+  <p>Ilico veniremus ad edes patris tui.</p>
+  <p>PHIL. Age camus, demiror quid hoc sit ominis.</p>
+  <p>ACRA, Sat scio, erit nobis audienda contio.</p>
+  <p>Idcirco percontare ex ipsis quid velint</p>
+  <p>Nos te sequemur.</p>
+</div>
+<div type="level1" xml:id="actus-i.-scena-iii.">
+  <head>5. ACTUS I. SCENA III.</head>
+  <p>PHILOMATHES, ACOLASTUS, ACRATES, EUBULUS, PHILOSTORGUS,
+  PHILARGYRUS. Trochaici Tetrametri, Catalectici,</p>
+  <p>Salvete patres humanissimi</p>
+  <p>Iussu vestro huc accersiti, sine mora nunc adsumus</p>
+  <p>Mandatis vestris obtemperaturi promptissime</p>
+  <p>EUB. Pergratum nobis fecistis, adolescentes optimi</p>
+  <p>Quod tam propere ad nos huc advolastis, rebus omnibus</p>
+  <p>Posthabitis, et laudamus merito vestram oboedientiam.</p>
+  <p>Quare quae sit caussa dicam, quod vos huc vocavimus</p>
+  <p>Inter nos diu multumque consilium captavimus</p>
+  <p>Quam tandem viam vivendi inire vos oporteat,</p>
+  <p>Visum est nobis, filioli carissimi, non ob leves</p>
+  <p>Caussas, ut animum adiungatis ad studia bonarum artium</p>
+  <p>Quapropter, si vobis consilium placet, paucissimis</p>
+  <p>Verbis vestram quisquis significate mentem, nec diu</p>
+  <p>Nos tenete suspensos, statim vos in Academiam</p>
+  <p>Mittemus, sumptusque quantum sat erit, suppeditabimus.</p>
+  <p>PHILO. Vehementer nimis me exhilararunt quae dixisti modo.</p>
+  <p>Non enim quicquam esse posset, quod me tanto gaudio</p>
+  <p>Afficeret, praesertim quod, dum vixi, non unquam improbis.</p>
+  <p>Precibus impetrare potui, nunc at defertur mihi</p>
+  <p>Ultro, quare polliceor vobis, me neruis omnibus</p>
+  <p>Elaboraturum, ne frustra abliguriam bona</p>
+  <p>Patria, sed longe ut revortar, quam ante fueram doctior.</p>
+  <p>ACOL. Quamvis nonnihil, pater, reluctatus sim nunc tamen</p>
+  <p>Do fidem me obnixe operam daturum ingenuis artibus.</p>
+  <p>ACRA. Idem ego polliceor vobis, patres longe humanissimi.</p>
+  <p>EUB. Perplacet mihi modesta haec omnium responsio.</p>
+  <p>Quare cum brevi in peregrinas oras transmittemini</p>
+  <p>Paululum mihi attente auscultate, atque animum advortite.</p>
+  <p>Nam salutiferis vos informabo cautiunculis.</p>
+  <p>Vos etenim perversos dum ignoratis mores saeculi</p>
+  <p>Imperiti rerum, in quasuis irruetis fabricas.</p>
+  <p>Primum igitur cum nullum vivat animal pestilentius</p>
+  <p>Quam mulier, cavete ne vos pelliceant blandissimis</p>
+  <p>Verbis in sui amorem, quo, quoniam sub imo cortice</p>
+  <p>Fel tegit, extra melle perlitus longe dulcissimo.</p>
+  <p>Deterius nihil est, nam postquam emunxerunt pecunia</p>
+  <p>Incautos iuvenes, eiciunt, illudunt, et indice</p>
+  <p>Ostendunt digito, nam femina est nil inconstantius,</p>
+  <p>Quarum non secus mens nunc huc, nunc etiam illuc fluctuat,</p>
+  <p>Quam carens rectore cum variis agitatur flatibus</p>
+  <p>Navis in magno pelago, quid quod et immensa incommoda</p>
+  <p>Ex mulieribus sunt profecta, quae nunc perlongum foret</p>
+  <p>Singula enumerare, sunt etenim cuivis satis obvia</p>
+  <p>Quare dum licet, iugum excutite hoc vestris ceruicibus.</p>
+  <p>Praeterea quoque mala fugite suadeo consortia.</p>
+  <p>Nam per haec bonae indolis iuvenes sunt saepe in maximam</p>
+  <p>Ducti perniciem, etiam in vitae saepius discrimina.</p>
+  <p>Assiduas potationes ludos atque cetera,</p>
+  <p>Ex quib. iurgia, conflictus, caedes nec non pessimae</p>
+  <p>Pestes oriuntur et abunde, ut ex mari omnia flumina</p>
+  <p>Veniunt fugite, nec minus tamquam perniciosissimam</p>
+  <p>Pestem, assentatores, nam melius quis vitam degeret</p>
+  <p>Inter coruos quam inter hos, quippe, ut qui vivos devorent,</p>
+  <p>Illi vero non nisi mortuorum hominum cadavera</p>
+  <p>Ut fertur memorabilis dignaque scitu sententia.</p>
+  <p>Postremo perferte et abstinete, queis conplectimur</p>
+  <p>Omnem nostram vitam, iuxta Epicteti sententiam.</p>
+  <p>Ingenuis studiis dies noctesque incumbite gnaviter.</p>
+  <p>Vitam instituite ut leges, regionisque ut mores ferent</p>
+  <p>Haec igitur vestris mea dicta sensibus recondite.</p>
+  <p>Intus argentum, ne differatur, dinumerabitur.</p>
+  <p>Quare ibimus, et ad viam quae spectant apparabimus</p>
+  <p>Ut oras summo mane, quod dii vortant bene, feliciter</p>
+  <p>Proficiscamini. PHILO. fiet pater.</p>
+  <p>Heus quanta haec est lenitas,</p>
+  <p>Disrumpor miser, tanto me inexpectato gaudio</p>
+  <p>Implerunt. Quare immortales, quas possunt tibi gratias</p>
+  <p>Summe Deus ago, hanc quod mentem patribus nostris infuderis</p>
+  <p>Tu igitur caelitus tua nosmet perfunde gratia.</p>
+  <p>Et largire, studia ut succedant quam felicissime</p>
+</div>
+<div type="level1" xml:id="actus-i.-scena-iiii.">
+  <head>6. ACTUS I. SCENA IIII.</head>
+  <p>EUBULUS, Senarii.</p>
+  <p>Proh Dii vostram fidem, quanta est iniquitas</p>
+  <p>Hominum imperitorum, qui ex ipsa infantia</p>
+  <p>Statim gnatos suos volunt fieri senes,</p>
+  <p>Nec cum sodalibus sinunt colludere.</p>
+  <p>Ac si potare, aut interdum ad meretriculas</p>
+  <p>Accedere, sit scelus ut ignosci non queat.</p>
+  <p>Siquidem nos dum tulit aetas eadem fecimus.</p>
+  <p>Nam scio quanto labore vix persuaserim</p>
+  <p>Vicinum nostrum, quem vocant Philargyrum,</p>
+  <p>Ut gnatum ad literarum studia mitteret.</p>
+  <p>Sed is dum male saluti gnati prospicit,</p>
+  <p>Timet frustra (quod aiunt) ne caelum ruat.</p>
+  <p>Ne amet, ne potet, id est, ne frontem exporrigat.</p>
+  <p>Quoniam ipse istuc aetatis haec non fecerit.</p>
+  <p>Sed cum nunc sint ad studia ingenuarum artium</p>
+  <p>Profecti, faxit Deus ut succedat bene.</p>
+  <p><hi rend="bold">CHORUS PRIMUS.</hi></p>
+  <p>Stulte quid immensum moriturus congeris aurum?</p>
+  <p>Quid tibi conducent totius orbis opes?</p>
+  <p>Quam brevis ignoras, sit vita humana, putasque</p>
+  <p>Cum te Tithonum, mox periturus eris.</p>
+  <p>Obruet incautum nam te mors terminus aevi,</p>
+  <p>Et tua sanguinea stamina falce metet.</p>
+  <p>Laetior exspectat nigri te portitor Orci,</p>
+  <p>Divite ab hoc, dicens, praemia magna feram.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-i.">
+  <head>8. ACTUS II. SCENA I.</head>
+  <p>ACOLASTUS, ACRATES, PHILOMATHES, DANISTA. Octonarii quadrati.</p>
+  <p>Ex tam longo itinere defessis nobis utinam contingeret</p>
+  <p>Idoneum hospitium, ubi cibis, epulis et rebus ceteris</p>
+  <p>Possemus languentes recreare vires animi et corporis.</p>
+  <p>In hac habitare platea aiunt bonum quendam et hilarem hospitem,</p>
+  <p>Apud hunc divertemus, corpusque fatigatum recreabimus,</p>
+  <p>Pulsabo igitur fores. Heus actutum aperite aliquis ostium.</p>
+  <p>DAN. Vos advenisse incolumes gaudeo laetorque maxume</p>
+  <p>Sed quid sit, ad me cur venistis, perquam scire gestio.</p>
+  <p>Quapropter adventus vestri caussam brevibus exponite</p>
+  <p>ACOL. Nos huc ad literarum studia consilio missi patrum,</p>
+  <p>Quoniam celebritas universitatis longe increbruit.</p>
+  <p>Petimus, ut nos hospitio excipere velis, et quam lautissime</p>
+  <p>Instructis epulis recreare, ut decet. DAN. nihil opus est
+  pluribus</p>
+  <p>Verbis, fiet, parata quin iam sunt omnia, ne sit mora</p>
+  <p>Ite intro ut capiatis cibum. ACO. I prae nos sequemur te
+  hospitem.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-ii.">
+  <head>9. ACTUS II. SCENA II.</head>
+  <p>MUSOPOLUS, COLAX. Trochaici, Tetrametri, Catalectici.</p>
+  <p>AGe age, si vacat, Colax, paululum deambulabimus.</p>
+  <p>Quis etenim domi solus nunc posset delitescere?</p>
+  <p>Tam sereno caelo, tamque amoeno nempe tempore,</p>
+  <p>Quo tellus fecunda producit fructus uberrimos</p>
+  <p>COL. Recte dicis ego eo una, paucis confabulabimur</p>
+  <p>De quibusdam rebus, non enim decet ut inanibus</p>
+  <p>Nugis transmittamus tempus. MUSO. Consilium mihi perplacet.</p>
+  <p>COL. Conferemus igitur inter nos de concentu orbium</p>
+  <p>Aethereorum, ac primum tu tuam mihi dic sententiam</p>
+  <p>MU. Rem profecto difficilem proponis, eloquar tamen</p>
+  <p>Aetheream regionem octo distinxerunt caelestibus</p>
+  <p>Spheris videlicet, septem planetarum quas nuncupant</p>
+  <p>Errones, et his accedit sphaera octava et maximae</p>
+  <p>Firmamentum, quod caelum quoque nunc plerique appellitant.</p>
+  <p>Hae quia circulariter moventur, quaedam tardius</p>
+  <p>Et quaedam velocius, distinctos efficiunt sonos.</p>
+  <p>Nec fieri potest, ut esset tacitus motus orbium,</p>
+  <p>Quandoquidem sonum reddit percussus aer vimine</p>
+  <p>Hunc contentum propter suavitatem Musas nuncupant.</p>
+  <p>Lunarem globum Clio, mercurium Euterpen nominant</p>
+  <p>Et Venus Thalia, Melpomeneque solis orbita,</p>
+  <p>Mars Terpsichore, Iuppiter Erato, sed sidus Saturnium</p>
+  <p>Dicitur Polyhymnia, at caelum vocant Uraniam</p>
+  <p>Sicut nomen indicat, quae sic concordantes sonum</p>
+  <p>Efficiunt postremum, qui de suavitate dicitur</p>
+  <p>Calliope, et ob id Ascraeo poetae est praestantissima</p>
+  <p>Quae fit ex concordante harmonia caelestium orbium,</p>
+  <p>Sicut octo pueris cantillantibus unus fit sonus,</p>
+  <p>Ex puerilium vocum qui constat concordantia.</p>
+  <p>CO. Mira refers, humanae mentis miror perspicaciam</p>
+  <p>Sed qui fit, quod tam suavis sonus non possit percipi?</p>
+  <p>MU. Cum respectu caeli terra non sit magnitudine</p>
+  <p>Exigua notabilis. Tanta amplitudo in circulis</p>
+  <p>Est caelestibus, quare reddunt sonum quoque maximum</p>
+  <p>Quem non capere possunt aurium nostrarum angustiae</p>
+  <p>Sumus enim caeli respectu Atomi velut Democriti</p>
+  <p>Sicut populi qui accolunt Catadupa Nili divitis</p>
+  <p>Ingentis fragoris amplitudinem non audiunt.</p>
+  <p>COL. Suaviter mihi philosopharis, perge si est tibi otium.</p>
+  <p>MUS. Haec quia demulcent aures, ideo apparent verissima.</p>
+  <p>Sed ego convincam no esse concentum caelestium</p>
+  <p>Sphaerarum, argumentis firmis, et tu mox assenties.</p>
+  <p>Non enim pulsantur, nec si pulsarentur ederent</p>
+  <p>Vel minimum sonum, nam caeli corpora sunt crassissima</p>
+  <p>Praeterea, absurdum soni declarat definitio.</p>
+  <p>Nam sonus ex collisione collisorum corporum</p>
+  <p>Nascitur, in qua aer percussus ad aures nostras pervenit.</p>
+  <p>Hic tria sunt, percutiens, aer, et collisa corpora</p>
+  <p>Verum illic non est qui percutiat, nec sese mutuo</p>
+  <p>Contingunt, igitur nec possunt se simul collidere.</p>
+  <p>Atqui, demus ut se collidant: sonus sine aere</p>
+  <p>Neutiquam fiet, qui percussus valide facit sonum</p>
+  <p>Supra Lunae autem globum lucentem, non esse aerem</p>
+  <p>Unusquisque sanae mentis compos facile colliget:</p>
+  <p>Cum nihil supra Lunam mutationi obnoxium</p>
+  <p>Et multo minus corruptioni ostendi posset.</p>
+  <p>Aerem porro mutationi non obnoxium</p>
+  <p>Esse, si quis diceret, nulla ratione praeditus</p>
+  <p>Iudicaretur, totique naturae contrarius.</p>
+  <p>Quare destructis principiis atque caussis omnibus</p>
+  <p>Efficitur, propter circumgyrationem exsistere</p>
+  <p>Non posse sonum, quapropter numquam mihi persuadebitur.</p>
+  <p>Sed satis confabulatum est, alio nunc me conferam.</p>
+  <p>CO. Hercle divina est mentis tuae in reb. sagacitas.</p>
+  <p>Verum quandoquidem nunc alio te rapiunt negotia</p>
+  <p>Iam diutius non detinebo, et magnas gratias</p>
+  <p>Non solum ago, sed etiam habeo, ego hac ibo, tu interim vale.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-iii.">
+  <head>10. ACTUS II. SCENA III.</head>
+  <p>PHILOMATHES, ACOLASTUS, ACRATES, COLAX. Scazontes.</p>
+  <p>Enim vero cutem curavimus laute,</p>
+  <p>Et corporis perbelle reduximus vires,</p>
+  <p>Nunc igitur restat, ut do etissimo nosmet</p>
+  <p>Praeceptori, qui nos ad culmen excelsum</p>
+  <p>Doctrinae ducat, submittamus, ut laetis</p>
+  <p>Studia procedant auspiciis. ACOL. Mones recte</p>
+  <p>Eamus igitur ut docto, pio et cuius</p>
+  <p>Fides perspecta est omnibus (oppido nam sunt</p>
+  <p>Hae virtutes rarae) credamus ut ductu</p>
+  <p>Huius non solum discamus bonas artes,</p>
+  <p>Sed moribus etiam, qui nos decent, castis</p>
+  <p>Mentem informemus. ACRA. Adolescentulum comptum</p>
+  <p>Viden’? certe habitus studiosum indicat, quare</p>
+  <p>Ex hoc quaeremus quis sit antesignanus</p>
+  <p>In hac tam clara et celebri Academia, ne nos</p>
+  <p>Indocto credamus, ne et (quod solet dici)</p>
+  <p>Caecus caecum ducat, tu exquire rem ex ipso</p>
+  <p>Philomathes. PHI. Salue adolescens plurimum COL. Ingentes</p>
+  <p>Ago vobis gratias, paucissimis quid sit</p>
+  <p>Quod vultis expedite, nam mihi iam non</p>
+  <p>Licet vobiscum multum fabulari, Sed</p>
+  <p>Negotia me alio vocant, age uno dic</p>
+  <p>Verbo. PHIL. Fiet. Petimus nos certiores ut</p>
+  <p>Reddas, quis antecellat ceteris, et quis</p>
+  <p>In hac Academia quam plurimos semper</p>
+  <p>Erudiat studiosos, nam nos quoque huc missi,</p>
+  <p>Ut animum adiungeremus ad bonas artes.</p>
+  <p>COL. Non infimo vos iudico loco natos</p>
+  <p>Id quod mores, vultus verecundus, et deinde</p>
+  <p>Vestitus, incessus, subindicant clare.</p>
+  <p>Quare quod petiistis faciam lubens, et vos</p>
+  <p>Ducam ad Paedeuten, qui nunc ceteris praestat</p>
+  <p>Longissime, studio, pietate, doctrina,</p>
+  <p>Fide, quae nunc res inter mortua est pene.</p>
+  <p>Huius igitur fidei volueritis si vos</p>
+  <p>Committere, sequimini, nam vos ad huc ducam.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-iiii.">
+  <head>11. ACTUS II. SCENA IIII.</head>
+  <p>COLAX, PHILOMATHES, ACRATES, ACOLASTUS, PAEDEUTES praeceptor,
+  Phrontistes famulus. Senarii.</p>
+  <p>HEus heus nemon’ prodit? PHRON. quis est, qui calcibus</p>
+  <p>Insultat ianuae, quid vis, vel quid cupis?</p>
+  <p>COL. est praeceptor domi? PHR. est, sed mihi ne quempiam</p>
+  <p>Ad se intromitterem mandavit serio.</p>
+  <p>Verum exspectato, mox revortar huc foras.</p>
+  <p>Colax adest ducens tres adolescentulos,</p>
+  <p>Vult intromittier tecumque colloqui,</p>
+  <p>Me primum iussit introire ut quaererem</p>
+  <p>An sibi pateret aditus ad te paululum.</p>
+  <p>PAED. Age accedat.</p>
+  <p>COL. Quid nunc? licet? PHRON. Introite iam.</p>
+  <p>COL. Salue praeceptor. PAED. Habeo gratias. Sed quid cupis</p>
+  <p>Hoc comitatu? COL. Ut eos ad te huc introducerem</p>
+  <p>Petierunt, verum quid cupiant mox audies.</p>
+  <p>PAED. Adventus vester est mihi optatissimus.</p>
+  <p>Sed quare huc advenistis, scire pervelim.</p>
+  <p>PHI. Nos claritate nominis tui, et scholae</p>
+  <p>Exciti consilio patrum huc devenimus,</p>
+  <p>Ut animum adiceremus ad ingenuarum artium</p>
+  <p>Studia, quibus imbuti non solum ecclesiae</p>
+  <p>Sed et possemus prodesse reipublicae.</p>
+  <p>Cum igitur tu ceteris praestes longissime</p>
+  <p>Docendi studio, et (quod nunc est rarissimum)</p>
+  <p>Fide, petimus nos in disciplinam ut velis</p>
+  <p>Recipere, pollicemur diligentiam</p>
+  <p>Iugem, et nos gratos erga te exhibebimus,</p>
+  <p>Non solum pretio, sed tui etiam memoria,</p>
+  <p>Quam non lethe poterit, dum vivam exstinguere.</p>
+  <p>PAE. Equidem talentum quod mihi est concreditum</p>
+  <p>Humi non mandabo, sed cuivis libera</p>
+  <p>Ad usuram dabitur utendi copia.</p>
+  <p>Nam semper impense omnibus studui bonis</p>
+  <p>Prodesse idcirco ne nunc etiam abscondere</p>
+  <p>Lumen videar, recipio vos quidem lubens.</p>
+  <p>Nam multum pollicetur mihi bona indoles,</p>
+  <p>Quae in vobis elucet fulgore maxumo</p>
+  <p>Quam etiam natura ostendit signis plurimis</p>
+  <p>Nam praeterquam quod frontis mihi mediocritas</p>
+  <p>Pilorumque color medius, nimium non niger</p>
+  <p>Nec albus nimium, et quoque capilli crispuli,</p>
+  <p>Ostentant ingenium bonamque memoriam:</p>
+  <p>Sed etiam lineamenta omnia corporis</p>
+  <p>Immensum quiddam et magnum promittunt mihi</p>
+  <p>Huius etenim scholae lex est: a)gew/mhtros</p>
+  <p>Ne quisquam introeat, quare diligentiam</p>
+  <p>Si adhibueritis, non dubito quin brevissimo</p>
+  <p>Tempore percipietis fructus uberrimos.</p>
+  <p>Sed cum non liceat ad musas lata via</p>
+  <p>Currere, verum angusta nimis atque sentibus</p>
+  <p>Multis obsita, ad excelsum montis verticem,</p>
+  <p>In quo Phoebus virginibus stipatus novem</p>
+  <p>Sedet tangens citharam canoram pollice:</p>
+  <p>Pellite desidiam, nam segnes ab hoc procul</p>
+  <p>Arcentur colle, quippe qui per maxumos</p>
+  <p>Sudores, ascenditur, et diligentiam</p>
+  <p>Vigilem, quare improbo labore hic est opus</p>
+  <p>Si quis scientiae vult fructus carpere.</p>
+  <p>Nam literarum radices Isocrates</p>
+  <p>Amaras dixit, sed fructus dulcissimos.</p>
+  <p>Hinc veteres pingebant. Mercurium et Herculem</p>
+  <p>Cupidini iunctum, quippe quod ingenium, amor</p>
+  <p>Et labor in eo requiratur, qui ascendere</p>
+  <p>Vult ad praeruptum et arduum scientiae</p>
+  <p>Collem. Labori vos fortiter opponite,</p>
+  <p>Sicut se palma contra onus in altum erigit.</p>
+  <p>Nam permagno labore dii vendunt bona</p>
+  <p>Omnia hominibus, sic tandem dabitur libere</p>
+  <p>Ad musas currere, quas me duce videbitis</p>
+  <p>Brevi, a quibus edocti rerum scientiam</p>
+  <p>Multarum, immortali fama clarebitis</p>
+  <p>Non etenim ad rem parandam faciunt literae</p>
+  <p>Solum, sed et favorem regumque et ducum</p>
+  <p>Conciliant, quamvis sit doctus inops, ditior</p>
+  <p>Multo quam indoctus omnium ditissimus.</p>
+  <p>Nam doctus non ignem, non fortunam timet,</p>
+  <p>Non exilium, sed cuncta bona secum gerit.</p>
+  <p>Quare labore et vigiliis contendite</p>
+  <p>Ad excelsum culmen doctrinae ascendere.</p>
+  <p>Ad cuius limen assident cura et labor</p>
+  <p>In me non deerit vobis studium, non fides.</p>
+  <p>PHI. Fiet praeceptor, omnibus insudabimus</p>
+  <p>Neruis, et literis semper inhaerebimus.</p>
+  <p>Nam scio quid possit ignavum et molle otium.</p>
+  <p>Non etenim solum ad vitia est fomes plurima,</p>
+  <p>Sed etiam ingenii vires reddit languidas</p>
+  <p>Et corrumpit, quas intendit vel maximus</p>
+  <p>Labor, ut est in ferro cernere durissimo,</p>
+  <p>Quod citius cum iacet scabra rubigine</p>
+  <p>Conteritur et consumitur quam maxumo</p>
+  <p>Usu, ergo totis incumbemus viribus.</p>
+  <p>Labores nullos impigre fugitabimus,</p>
+  <p>Ut possimus penetrare ad montis intimos</p>
+  <p>Secessus, tu vale igitur nunc carissime</p>
+  <p>Praeceptor. PAE. Et vos adolescentes optimi.</p>
+  <p>Deus fortunet vestros conatus pios.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-v.">
+  <head>12. ACTUS II. SCENA V.</head>
+  <p>MYSPOLUS, COLAX. Tetrametri, Iambici, Catalectici.</p>
+  <p>Heri perstrenue quidem usque ad primam noctis horam</p>
+  <p>Potavimus, omnesque Colax, adeo sumus inebriati</p>
+  <p>Ut vix possemus stare, quin ad terram laberemur</p>
+  <p>Proni, ut solent hi qui laborant morbo Comitiali.</p>
+  <p>Siquidem brevis Epilepsia est ebrietas, eruditi</p>
+  <p>Viri ut dicunt. Cum igitur nos satias cepisset bibendi</p>
+  <p>Prodimus in forum. Primum ingens nobis multitudo</p>
+  <p>Cerdonum venit obviam, qui in nos strictis ruentes</p>
+  <p>Gladiis, magna vi faciunt impetum, hos animo virili</p>
+  <p>Sic caedimus, ut victi tandem dare terga cogerentur.</p>
+  <p>Multosque vulneravimus, ut vix spes vitae sit ulla.</p>
+  <p>Mox orto clamore in nos insurgit vigilum caterua</p>
+  <p>Armis radians, pars gladios stringunt, pars magno tumultu</p>
+  <p>Torquent venabula, quos statim egimus in fugam ut columbas</p>
+  <p>Aquila solet, vel lupus agnas, ceruam ut leo fugare</p>
+  <p>Risu emoriebar, quod tam turpiter hi, quibus salutem</p>
+  <p>Urbis senatus commisit, fugerent.</p>
+  <p>COL. Agc quid deinceps?</p>
+  <p>Cives ne sunt commoti? nam prompti adversus studentes</p>
+  <p>Esse solent. MYS. Maxime, concurrunt mox clamore magno</p>
+  <p>Instructi armis. Sed nos ad nostrum confugimus asylum</p>
+  <p>Quis enim cum tanta stultus multitudine dimicaret?</p>
+  <p>COL. Laudo, nec possum quin suspiciam hoc tantum facinus audax.</p>
+  <p>Cur etenim a vobis vi vim illatam non depelleretis</p>
+  <p>Nam bruta, quamvis nostrae sint expertia rationis</p>
+  <p>Propulsant externam vim, quare non nobis liceret?</p>
+  <p>Verum isthaec missa faciemus, age ad proximam tabernam</p>
+  <p>Vinariam ibimus. Sed est ne ille Acrates et Acolastus</p>
+  <p>Qui nobis obviam procedunt? hercle sunt, quid hoc sit,</p>
+  <p>Demiror, quod tantopere festinent. MYS. Ad lectionem</p>
+  <p>Fortasse ituri sunt. CO. exspectabo atque interrogabo.</p>
+</div>
+<div type="level1" xml:id="actus-ii.-scena-vi.">
+  <head>13. ACTUS II. SCENA VI.</head>
+  <p>MYSPOLUS, COLAX, ACRATES,</p>
+  <p>ACOLASTUS. Septenarii.</p>
+  <p>CO. Salvete plurimum sodales optimi, sed heus</p>
+  <p>Quo tenditis? quid festinatis? ACO. nihil, nisi cum diu</p>
+  <p>Hora sit audita, ad lectionem ut mox me conferam.</p>
+  <p>Si quidem neglecta lectio numquam revertitur,</p>
+  <p>Nec velut Euripus Euboicus rursus reciprocat,</p>
+  <p>COL. Hui tun ad lectionem?</p>
+  <p>ACR. Quorsum vos ergo ibitis?</p>
+  <p>COL. Nos symbolum contulimus apud Deleasthisae patrem,</p>
+  <p>Ibi aliquantum potabimus, nam genio addiximus</p>
+  <p>Totum hunc diem, multis quem transmittemus gaudiis.</p>
+  <p>Quare si vultis ire nobiscum acceptissimi</p>
+  <p>Eritis, sat scio, ubi sunt praeterea iuvenes plurimi</p>
+  <p>Spectatae fidei, castis exornati moribus,</p>
+  <p>In quibus est nihil simulatum, quin aperto pectore</p>
+  <p>Omnia agunt, cum quibus in tenebris mices tutissime.</p>
+  <p>Non est quod timeatis, ego pro vobis ponam lubens</p>
+  <p>ACR. Non possumus praesertim lectionis horula</p>
+  <p>Cum instet, quam non libenter negligimus, deinde pater</p>
+  <p>Potationes nobis inter dixit serio.</p>
+  <p>Mandans, dies et noctes ingenuis ut artibus</p>
+  <p>Incumberemus. MYS. Ego in his non morem gero patri,</p>
+  <p>Usque adeo dum hanc reget vitalis animam spiritus</p>
+  <p>Dum vernat aetas, dum vegetae sunt vires corporis</p>
+  <p>Vitam multis variisque illecebris laetus transigam.</p>
+  <p>Volubili nam gressu haec aetas cito praetervolat.</p>
+  <p>Quare morositati non erit apud me locus.</p>
+  <p>Scio etenim effeta quid secum senectus advehat,</p>
+  <p>Tristitiam, languorem, imbecillitatem corporis,</p>
+  <p>In quam tot morbi, totque infortunia magna incidunt,</p>
+  <p>Ut, deliria, mortis inopinus horis singulis</p>
+  <p>Adventus exspectandus, atque quae sunt cetera.</p>
+  <p>Ad eam stadio decurso postquam metam venero,</p>
+  <p>Tunc sapiam, tunc prudens ero, destitutus viribus</p>
+  <p>Cum fuero, sponte cessabo, atque cum illis saeculi</p>
+  <p>Huius mores despiciam, annihilabo, ut ne quid supra</p>
+  <p>Nam cum ipsis non licuerit rebus his operam dare</p>
+  <p>Vel per morosos praeceptores et rigidos patres,</p>
+  <p>Aut per egestatem, nobis eadem prohibent et vetant.</p>
+  <p>Felicitatem hanc nobis invidentes invidi.</p>
+  <p>Quare deliciis perfruar, quas adolescentia</p>
+  <p>Fert, et vos, si saperetis, mecum faceretis scio.</p>
+  <p>Rogo igitur si potest fieri, ut nobiscum illuc simul</p>
+  <p>Eatis, ego vicissim non mortis pericula</p>
+  <p>Adire formidabo, me dicetis alterum</p>
+  <p>Pyladen, qui se saepe Agamemnonium Oresten dixerat</p>
+  <p>Apud Thoantem regem Scythiae ut eum periculis</p>
+  <p>Eriperet mortis, vitam non dubitavit ponere</p>
+  <p>Praeterea tibi amicitia iunges iuvenes plurimos</p>
+  <p>Stemmate praeclaros, et genere ortos nobilissimo</p>
+  <p>ACO. Age, eamus una. Sed posthac ero diligentior.</p>
+  <p>Nam non possum semper chartis et studiis immori.</p>
+  <p><hi rend="bold">CHORUS SECUNDUS.</hi></p>
+  <p>Quotquot Pierii numina verticis</p>
+  <p>Intonsumque colunt Pegasidum ducem,</p>
+  <p>Noctes atque dies pectore cogitent</p>
+  <p>Ut pravos fugiant et temerarios,</p>
+  <p>Sirenum veluti dulcia carmina.</p>
+  <p>Namque hi virgineos non maculant modo</p>
+  <p>Mores, quin etiam ad pessima sunt mala</p>
+  <p>Calcar pernicies foeda dolis scatens.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scena-i.">
+  <head>15. ACTUS III. SCENA I.</head>
+  <p>ACOLASTUS, Senarii. Iambici.</p>
+  <p>Deum immortalem quantus ignis aestuat</p>
+  <p>In me, qui quoniam per venas passim repit</p>
+  <p>Totum cor incendit flammis furentibus:</p>
+  <p>Ut videar mihi pro verbis flammam emittere,</p>
+  <p>Enceladus quamvis inflammat Trinacriam</p>
+  <p>Dum fumantes flammas iratus evomit:</p>
+  <p>Audacter affirmare ausim, maioribus</p>
+  <p>Me torqueri aestibus, quin verba flammea</p>
+  <p>Videntur, adeo me Deleasthisae coquit</p>
+  <p>Et formae decus, et morum castimonia.</p>
+  <p>Taceo cetera tam corporis quam animi bona.</p>
+  <p>Nam formae tantus est splendor, vix ut putem</p>
+  <p>Esse aliquam cum qua merito conferri queat,</p>
+  <p>Quin etiam Iove Saturnio dignissima,</p>
+  <p>Qui captus nunc Europae, nunc Calistonis,</p>
+  <p>Nunc Ius, nunc Semeles, formis pulcherrimis</p>
+  <p>Sed ex huius forma plus incalesceret,</p>
+  <p>Quam Cytheraeae praeferret Priameius Paris,</p>
+  <p>Quaeque aureum pomum ferret dignissima.</p>
+  <p>Quid referam nigricantes oculos? quid ebore</p>
+  <p>Candidius collum? quid caesariem ceu auream?</p>
+  <p>Denique color sanguineus mixtus lacteo</p>
+  <p>In facie, quid memorem turgentes mammulas?</p>
+  <p>In summa, tanta est corporis laudabilis</p>
+  <p>Habitudo, ut in hanc Deos Deasque omnes rear</p>
+  <p>Certatim contulisse munera splendida.</p>
+  <p>Ac singulari effictam diligentia.</p>
+  <p>Certe formam Venus dedit, animi bona</p>
+  <p>Minerua, dicendi leporem Atlantius</p>
+  <p>Iuvenis, nam quoties veniunt verba virginis</p>
+  <p>Mihi in mentem, quae inter nos facta sunt heri:</p>
+  <p>Ita exardesco, ut nisi amorem meum expleam</p>
+  <p>Actum sit de me, et vitae non spes amplius.</p>
+  <p>O utinam tantum me a te mare disiungeret</p>
+  <p>Quod Abydenum iuvenem et puellam Sestiam</p>
+  <p>Disiunxit, non timerem impetuosum mare,</p>
+  <p>Quin subito ad te tranarem, modo mihi copia</p>
+  <p>Tui fieret. Nam timidos et segnes amor</p>
+  <p>Odit, nec vereor quod sit submersus miser.</p>
+  <p>Non idem semper universos exitus</p>
+  <p>Manet. Tu igitur alma Venus aspira meis</p>
+  <p>Coeptis, et fac puella infelix ut fruar.</p>
+  <p>His etenim adesse soles, qui sub Cupidinis</p>
+  <p>Tui gnati signis merentur fortiter.</p>
+  <p>Fac igitur parili ut amore puella exaestuet.</p>
+  <p>Per te Atalantam pulcher cursu transgressus est</p>
+  <p>Hippomenes, poma postquam emisit aurea,</p>
+  <p>Quibus tollendis impedita vincitur.</p>
+  <p>Tuo beneficio rapuit Helenam Paris,</p>
+  <p>Propter quam tota Asia est eversa funditus.</p>
+  <p>Sed stultus in ventos quid amorem effutio?</p>
+  <p>Aggrediar rem, en iam commodum prodit foras.</p>
+  <p>Nunc dabitur colloquendi late copia.</p>
+  <p>Amorem detegam remotis arbitris.</p>
+  <p>Si nil preces valebunt, addam munera</p>
+  <p>Quae conciliant Deos, ne dum animum muliebrem.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scena-ii.">
+  <head>16. ACTUS III. SCENA II.</head>
+  <p>DELEASTISA, ACOLASTUS. Trochaici, Tetrametri, Catalectici.</p>
+  <p>AEdepol nunc primum sentio, nunc misera intelligo</p>
+  <p>Quid possit amor, quem tam saepe exsecravi indignissime,</p>
+  <p>Omnesque puellas tamque non sanae mentis compotes</p>
+  <p>Quae capi se amore perpessae sint valde turpiter.</p>
+  <p>Nempe Medeam et Scyllam et Minois regis filiam,</p>
+  <p>Nunc Palinodiam cogor cantare, nam vis maior est</p>
+  <p>Aligeri Dei, quam ut imbelles possint mulierculae</p>
+  <p>Huic sese opponere, qui maximum Iovem coegerit</p>
+  <p>Ut tauri vel cygni formam indueret, stulta igitur fui</p>
+  <p>Quod sum saepe amorem verbis detestata pessimis</p>
+  <p>Namque amor, ut sequentes ducit, sic reluctantes trahit.</p>
+  <p>Id quod experior nunc misera, quae modis exerceor</p>
+  <p>Miris. Acolasti etenim forma excellens me coquit</p>
+  <p>Qui forte heri apud nos una aderat hesterno in convivio.</p>
+  <p>Hunc postquam conspexi, flammas concepi imo pectore.</p>
+  <p>Ut nisi optato ipsius perfruar amore, funditus</p>
+  <p>Perierim, quare deos immortales supplex precor</p>
+  <p>Ut nos optatis Hymenaeis iungant Iunone auspice</p>
+  <p>Quod si non fiet, laqueo vel ferro vitam finiam,</p>
+  <p>Et parcis invitis truncabo fatalia stamina.</p>
+  <p>ACOL.</p>
+  <p>Arrige nunc aures Acolaste, tua agitur iam res et salus.</p>
+  <p>Age ne te maceres, tui te faciam voti compotem.</p>
+  <p>Non possum me continere quin salutem et colloquar</p>
+  <p>Salue mea Venus, salue et Charis tu mellitissima.</p>
+  <p>DELE. Euge Acolaste, salue ab imo calce ad summum verticem.</p>
+  <p>Cur tristis? cur pallidus? quare ducis suspiria?</p>
+  <p>Num mali tibi quicquam contigit? nam sunt haec saecula</p>
+  <p>Insidiis hominum plenissima, dum melius sibi cupit</p>
+  <p>Quisque quam alteri, enarra quid afflictet te, corculum</p>
+  <p>ACO. Hei mihi. DEL. Per Deos omnes te mi animule oro et
+  obsecro,</p>
+  <p>Ut mihi detegas audacter quid miserum te mordeat</p>
+  <p>Omnib, neruis operam dabo ut tibi bene consulam.</p>
+  <p>ACO. Omnino nihil, non caelum sudum est omni tempore.</p>
+  <p>DE: Facies? indicat tua pertristis dolorem maximum,</p>
+  <p>Quem nisi notum feceris mihi, peribo funditus.</p>
+  <p>Dic age, num quisquam tuis doloribus mederier</p>
+  <p>Possit. ACO. Hercle nemo nisi tu sola potes, quare adiuva.</p>
+  <p>DEL. In me non erit mora, tu saltem mihi mentem aperi tuam.</p>
+  <p>ACO. Age vero, dum adeo isthaec, delicium meum scire expetis.</p>
+  <p>Da fidem te nulli credituram, et nusquam gentium</p>
+  <p>Divulgaturam.</p>
+  <p>DEL. En dextram meam, quae fidei symbolum est.</p>
+  <p>Angeronam me dices, Aegyptium atque Harpocratem.</p>
+  <p>ACO. Cum mihi nuper assideres prae lauto in convivio,</p>
+  <p>Coepi Deleastisa contueri tam laudabilem</p>
+  <p>Formam, qua praestas, quaque antecellis vel longissime</p>
+  <p>Omnibus puellis. Hesperus ut quam fulgidissimas</p>
+  <p>Stellas vincit, et Lunam Sol ut fulgore maximo</p>
+  <p>Superat, sic tibi laude formae nulla virgo aequabitur.</p>
+  <p>Sed velut praesente Sole pereunt omnia sidera,</p>
+  <p>Sic tecum collata forma cunctarum obtenebrabitur.</p>
+  <p>Singulae nam partes corporis sunt dignae amplissima</p>
+  <p>Laude, queis narrandis, ne dum exornandis, vix Gallicum</p>
+  <p>Herculem satis facturum existimem, vel Nestorem</p>
+  <p>Gemina quis digne laudet rutilantia fronte lumina?</p>
+  <p>Ex quibus vel mille gratiae catervatim emicant.</p>
+  <p>Quis roseum os? aut quis genas rubicundulas? Quis palpebras</p>
+  <p>Nigras laudet? quis capitis pilos celebret vel aureos?</p>
+  <p>Quis mammillas eminentes summo laudet pectore?</p>
+  <p>Denique cuncta respondent sibi, quae sunt toto in corpore.</p>
+  <p>Nil nimis magnum, nihil paruum nimis, symmetria</p>
+  <p>Iusta conformata sunt, satis mirari ut non queam</p>
+  <p>Quae, dum caute circumspecto Deleastisa singula.</p>
+  <p>Coepi perdite te amare, nam per oculos influit</p>
+  <p>Saevus amor cordis penetralia intima, ceu per cannulas,</p>
+  <p>Qui me flammiferis sagittis transfixit crudeliter,</p>
+  <p>Adeo ut nec die quies mihi sit, nec nocte carpere</p>
+  <p>Somnum possim, sed semper tua forma obversatur mihi,</p>
+  <p>Ut meum nisi amorem explevero, perierim funditus</p>
+  <p>Ipso in flore aetatis, ceu rosa quae calore maxumo</p>
+  <p>Solis cum fuerit correpta, marcescit mox decidens.</p>
+  <p>In tua cum sint igitur manu tam mors quam vita, te</p>
+  <p>Supplex obsecro ut vitam mihi dones, neve me sinas</p>
+  <p>Morte perire, meae et voluntati acquiescas, mel meum.</p>
+  <p>Posce quid vis volueris, vel pretiosissima munera,</p>
+  <p>Nam tibi nil denegare possem, quin mox largiar.</p>
+  <p>DEL. O indignum facinus, Proh Deus audacem impudentiam.</p>
+  <p>Vah qua fronte sollicitare me audes de stupro, scelus?</p>
+  <p>An me venalem, aut in propatulo me habere existimas</p>
+  <p>Intactam pudicitiam? an cum scorto te nunc publico</p>
+  <p>Verba facere? nec mei rationem habes, canis impudens.</p>
+  <p>Ni fidem tibi dedissem, proh quantas turbas darem.</p>
+  <p>Nobis non eadem ratio est, quae vobis adolescentib.</p>
+  <p>Virgines enim omnes conferrem cum veste serica</p>
+  <p>Adolescentes porro reserunt aurum quam purissimum:</p>
+  <p>Nam velut illa cum semel maculas turpes assumpserit:</p>
+  <p>Aut in caenum si demersa fuerit inpurissimum,</p>
+  <p>Elui potest nec arte, nec labore maxumo.</p>
+  <p>Aurum vero quamvis commaculatum, extergi sic potest</p>
+  <p>Etiam plus ut niteat, quam ante, si purum putum foret.</p>
+  <p>Sic adolescentes flocci faciunt, quia illis non obest,</p>
+  <p>Sed nos si semel conspersae fuerimus tenui nota,</p>
+  <p>Numquam detergemus acceptam a nobis infamiam.</p>
+  <p>Quare oportet, ne pudicitiam perdamus turpiter</p>
+  <p>Invigilare caute, quae nobis dos est amplissima,</p>
+  <p>Quam semel laesam numquam redimes vel aere maxumo.</p>
+  <p>ACOL. O crudelitatem immensam, et o saevitiam Tigridis.</p>
+  <p>An non te miseret mei? quem cernis contabescere</p>
+  <p>Nimio amore, non secus ut quondam Clytiae miserrima</p>
+  <p>Cum iam sim repulsam passus, multorum exemplum sequar,</p>
+  <p>Et vel ferro vel laqueo salutem quaeram, tu lues</p>
+  <p>Poenam, quae mortis ferae mihi caussa es crudelissima.</p>
+  <p>Deleasthisa, do fidem, et iuro per conscia sidera</p>
+  <p>Me te ducturum uxorem domum, ex me si conceperis.</p>
+  <p>DE. Dii te perduint cum isthac procacitate, pessime.</p>
+  <p>ACOL. Quo fugis? audi verbum unum. DEL. Non audio
+  petulantissime.</p>
+  <p>AC. Non possum non admirari cunctarum versutiam.</p>
+  <p>Adeo ut omnes in eodem ludo edoctas esse arbitrer,</p>
+  <p>Quod tam pulchre dissimulare didicerint et calleant</p>
+  <p>Id quod nunc in Deleasthisa cognovi certissime.</p>
+  <p>Quae cum amore tanto exaestuet dissimulat optime,</p>
+  <p>Sic est ingenium muliebre his institutum moribus,</p>
+  <p>Ut quanto plus exoptent, tanto opponant se fortius.</p>
+  <p>Quo magis expetant, eo reluctentur plus et negent.</p>
+  <p>Nam cogi volunt volentes, et reluctantes petunt.</p>
+  <p>Sed ad eam me conferam, intus ut reconciliem mihi,</p>
+  <p>Et petam ut convivium apparet nobis lautissimum</p>
+  <p>Nam Colacem cum Myspolo, et Philostasium ipsumque Acratem</p>
+  <p>Invitavi ad cenam, cum quibus cras frontem exporrigam</p>
+  <p>Quando quidem pater cum matre ad amicos iam profectus est.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scena-iii.">
+  <head>17. ACTUS III. SCENA III.</head>
+  <p>ACOLASTUS, DELEASTISA, COLAX MYSPOLUS, PHILOSTASIUS ACRATES,
+  CERDONES. Senarii, Septenarii et Octonarii mixti.</p>
+  <p>Puer heus, insterne mensam, post ocissime</p>
+  <p>Ad Colacem et ceteros te confer, ut sine</p>
+  <p>Mora veniant iube, cuncta esse dicito</p>
+  <p>Parata, mox voca aliquem qui cenantibus</p>
+  <p>Nobis ludat fidibus, ne quid desit vide,</p>
+  <p>Tu Deleastisa compara coronulas</p>
+  <p>Aliquot, convivis quas des advenientibus,</p>
+  <p>Postquam verbis blandoque amplexu exceperis,</p>
+  <p>Ut sint omnia superflua, ne desit vide.</p>
+  <p>Abunde cras soluam, tene tu memoria</p>
+  <p>Si plus exposueris.</p>
+  <p>DEL. Curabitur bene.</p>
+  <p>Tu saltem, convivas ut exhilares, vide,</p>
+  <p>Vel poculis, vel per salsis facetiis,</p>
+  <p>ACO. Intendam vires omnes, ut me strenuum</p>
+  <p>Geram potando, ne discedant sobrii.</p>
+  <p>Siquidem meretur laudem nunc amplissimam.</p>
+  <p>CO. Saluete plurimum. ACO. Ingentes vobis ago</p>
+  <p>Quod advenistis, gratias, suavissimi</p>
+  <p>Congerrones.</p>
+  <p>MY. Sed non ages posthac, scio.</p>
+  <p>Edaces et bibaces convivas habes.</p>
+  <p>DE. Adventus vester est mihi acceptissimus.</p>
+  <p>CO. Hoc amplexu prae gaudio cor exsilit.</p>
+  <p>DE. Corollas has, horti nostri donaria,</p>
+  <p>Accipite aequo animo, exigua nec munuscula</p>
+  <p>Spernite. PHI. Quam suave spirant hae coronulae.</p>
+  <p>ACO. Puer, recentem aquam fer, ut lavent manus.</p>
+  <p>ACR. Ad sacrificium nos ituros autumas?</p>
+  <p>Quae manibus illotis tractare erat nefas.</p>
+  <p>ACO. Accumbite. Iam lubet animo meo obsequi.</p>
+  <p>Indulgens genio vivam, dum vivam, bene.</p>
+  <p>In Alexandrinis deliciis vitam exigam,</p>
+  <p>Dum fert aetas, dumque valent vires corporis.</p>
+  <p>Aut bibat aut abeat: Graecorum in conviviis</p>
+  <p>Erat lex celeberrima, quam nos hic gnaviter</p>
+  <p>Servabimus, quare Colax hoc praebibo</p>
+  <p>Tibi, quod faustum sit felixque, poculum.</p>
+  <p>COL. Lubens excipio, et summas habeo gratias.</p>
+  <p>AC. Tibi vero hunc uno Myspole haustu cantharum</p>
+  <p>Do, sed tu Deleasthisa, mel meum, prius bibes.</p>
+  <p>MY. Excipio, sit salus. CO. Heus Acrates, hoc tibi</p>
+  <p>Quod cernis praebibo poculum. AC. Habeo lubens.</p>
+  <p>MY. Philostasi, hoc saluto te benigne cantharo.</p>
+  <p>PHI. Respondebo, sed mensae exhaustum imponito.</p>
+  <p>MY. Videbis, candide bibam, non de me aliter expertus es.</p>
+  <p>ACO. Heus puer, accerse, ut iussi qui fidibus canat.</p>
+  <p>Ni recte efficies vapulabis postea.</p>
+  <p>Deinde huc ad mensam concede, et cantilenam concine.</p>
+  <p>PU. Adest. AC. Intende neruos, bone vir, et nos excita</p>
+  <p>Faceta cantiuncula, si quid potes.</p>
+  <p>ODE DE ADULTERIO Veneris et Martis, ex Homero Odyss.</p>
+  <p>Viderat Martem Venerem foventem,</p>
+  <p>Atque inexstructo thalamo cubantem,</p>
+  <p>Qui regit solis volucres quadrigas</p>
+  <p>Comptus Apollo.</p>
+  <p>Nuntiat fabro cito claudicanti,</p>
+  <p>Qui graves technas animo doloso</p>
+  <p>Invenit, paruas fabricans catenas</p>
+  <p>Retia Ponit.</p>
+  <p>Est et in Lemnum peregre profectus,</p>
+  <p>Id quod observans rigidus gradivus</p>
+  <p>Mox ad asuetum thalamum cucurrit,</p>
+  <p>Gaudia quaerens.</p>
+  <p>Cumque conscendunt, cupidos amantes</p>
+  <p>Fraudis ignaros capiunt catenae,</p>
+  <p>Ex quibus captis datur exeundi</p>
+  <p>Nulla potestas.</p>
+  <p>Mulciber postquam videt esse captos.</p>
+  <p>Convocat cunctos superos deasque,</p>
+  <p>Ut scelus Martis rigidi viderent</p>
+  <p>Cum Cytherea.</p>
+  <p>Martis amplexu Venus obvoluta</p>
+  <p>Praebuit risum superis solutum,</p>
+  <p>Membra quod nulla potuit pudenda</p>
+  <p>Veste fovere.</p>
+  <p>Non erat quisquam ratione tali</p>
+  <p>Qui pati amplexus cuperet Diones,</p>
+  <p>Praeter Atlantis nitidum nepotem</p>
+  <p>Pleionesque</p>
+  <p>ACOL. Equidem et ego me cum Venere vinciri permitterem.</p>
+  <p>ACR. Satis commissatum est, famemque explevimus.</p>
+  <p>Iube fasciculos aliquot chartarum huc adferrier.</p>
+  <p>Cibus tollatur, ludemus parumper, nam quid alea</p>
+  <p>Possit, lubet experiri. ACO. Puer heus, profer fasciculos duos.</p>
+  <p>Mappam mensalem tolle cum cibo, et statim</p>
+  <p>Aquam puram, ut lavent manus, adfer, ne sit mora.</p>
+  <p>MY. Acrates, tu distribue folia, verum fraus absit et dolus.</p>
+  <p>Pecuniam coniciemus in hunc circulum,</p>
+  <p>Ut qui futurus sit victor mox auferat,</p>
+  <p>Nunc volue fortuna rotam, nunc mea suspice</p>
+  <p>Vultu benigno vota, victor tibi bidentes offeram.</p>
+  <p>ACR. Periclitemur quid vehat fortuna, tu Colax</p>
+  <p>Es primus. ACOL. Accede Deleasthisa huc, ludemus paululum.</p>
+  <p>Sudarium auro pertextum depones, ego duas</p>
+  <p>Ulnas deponam serici villosi, age asside.</p>
+  <p>D. Utut placet, impartire folia, vincam te certissime.</p>
+  <p>ACRA. Mea est pecunia haec, vici ludum. PHI. non largior.</p>
+  <p>ACRA. Cur non? PHI. Pecuniam, inquam, redde furcifer.</p>
+  <p>ACRA. Non reddam. PHI. At ego, scelus, vicisse te nego.</p>
+  <p>ACRA. Quid caussae? PHIL. Non aperte lusisti, sed subdole</p>
+  <p>Composuisti chartam, et folium e medio subtraxisti.</p>
+  <p>Dein</p>
+  <p>Clam quod non placuit sub mensam demisisti impudens.</p>
+  <p>Atque en iacet ad huc sub pedibus tuis, quare pecuniam</p>
+  <p>Redde. ACRA. At non reddam, medium te licet discerpseris.</p>
+  <p>PH. Hoc pugione te pungam nisi reddas pecuniam.</p>
+  <p>A. Ut lubet, ego itidem faciam, robur experiar tuum.</p>
+  <p>Proh facinus indignum trucidor heu miser.</p>
+  <p>Acolaste subveni, quid cessas? AC. Proh, tantum scelus</p>
+  <p>In alienis aedibus admittere, non pudet</p>
+  <p>Tantas turbas sub noctem dare? ACR. quid cessas? vindica,</p>
+  <p>Trucida. Ac. Sublimem rapiant omnes te daemones.</p>
+  <p>An leve crimen putas tantam vim facere in aliena domo?</p>
+  <p>Mox amove te hinc, aut fustibus eiciam te foras.</p>
+  <p>Hanc pro meis meritis nunc gratiam rependitis?</p>
+  <p>PH. Quid tibi vis? non me terrebis saevis dictis tuis.</p>
+  <p>Iam pugnus haerebit tibi in mala, nisi os compresseris.</p>
+  <p>MYS. Quid agis Philosthasi? non decet tumultuari in aedibus</p>
+  <p>Alienis, nam capitale est facinus, age domum ibimus.</p>
+  <p>Deducam te usque ad contubernium tuum</p>
+  <p>Per hanc plateam, est enim quam ceterae multo tranquillior,</p>
+  <p>Sed ecce ingens cerdonum multitudo nobis obviam</p>
+  <p>Venit vociferando. CER. Ba ba bu.</p>
+  <p>PHIL. Vix duo sunt, tace.</p>
+  <p>Mirum spectaculum videbis, hoc agemus in fugam.</p>
+  <p>Canes enim vehementer latrant, mordent minus.</p>
+  <p>Colax ad dexteram concedito, tu isthinc Myspole</p>
+  <p>Aditum interclude, ne qua pateat his fuga.</p>
+  <p>Horrendum clamitans, ego stricto hos ense persequar,</p>
+  <p>Tamquam praedam in casses agam, vos sternite</p>
+  <p>Eos ad terram, intellexistis me? COL. Bene.</p>
+  <p>CER. Ba ba bu. PHIL. Ho ho ho.</p>
+  <p>CER. Heu heu inermes caedimur.</p>
+  <p>COL. Satis dederunt poenarum, coniciamus nos in pedes.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scena-iiii.">
+  <head>18. ACTUS III. SCENA IIII.</head>
+  <p>PHILOMATHES. Trimetri.</p>
+  <p>Usu tandem quottidiano iam comperi,</p>
+  <p>Vere dixisse Homerum, qui quam plurimos</p>
+  <p>Dissimiles patrum dixit esse filios.</p>
+  <p>Plures peiores, meliores paucissimos.</p>
+  <p>Cuius rei clarissimum exemplum Acrates</p>
+  <p>Et Acolastus praebent, qui cuncta dissipant,</p>
+  <p>Quae patres vix summo labore et maximis</p>
+  <p>Sudoribus congesserunt. Sed incidit</p>
+  <p>Vetus sermone vulgatum proverbium:</p>
+  <p>Tenax requirit prodigum, et dum attentius</p>
+  <p>Omnia perquiro, video: quando altissimus</p>
+  <p>Sit Parnasus, et ad huc angusta semita</p>
+  <p>Sentibus innumeris et spinetis obsita,</p>
+  <p>Saxosa, et non nisi per sudorem pervia,</p>
+  <p>Ad quam monstra advigilant aspectu pessimo,</p>
+  <p>Quae ascendentes non admittunt, sed avocant:</p>
+  <p>Voluptas, paupertas, pravum consortium.</p>
+  <p>Quamvis sublata voce Pierides vocent,</p>
+  <p>Et monstrent laureos licet ramusculos.</p>
+  <p>Circumvenire multos his monstris, quibus</p>
+  <p>Dum dant operam, a studiis se totos segregant.</p>
+  <p>Quod contingit meis quoque conterraneis,</p>
+  <p>Qui dum nimis libidinibus obtemperant,</p>
+  <p>Remiserunt Musis et Phoebo nuntium.</p>
+  <p>Ad hos igitur, si sint domi, me conferam,</p>
+  <p>Ut in viam reducam, et redeant ad frugem.</p>
+  <p>Sed eccum Acolastum video.</p>
+</div>
+<div type="level1" xml:id="actus-iii.-scena-v.">
+  <head>19. ACTUS III. SCENA V.</head>
+  <p>ACOLASTUS, PHILOMATHES. Trimetri.</p>
+  <p>SAlve plurimum.</p>
+  <p>Opportune quidem venis mihi obviam.</p>
+  <p>Sed ubi est Acrates? ACOL. Domi est, aegrotat paululum.</p>
+  <p>PHI. Aegrotat? quo morbo? letali forsitan.</p>
+  <p>AC. Non arbitror. PHI. Verum unde exortus tam cito</p>
+  <p>Invaluit morbus? fortasse aliquanto bibit</p>
+  <p>Largius. AC. Ego hercle ignoro. PHI. Non est quod tegas,</p>
+  <p>Rem novi a principio. Sed mirari satis</p>
+  <p>Non possim, cur istos sectere gurgites.</p>
+  <p>Cur istis te adiungas, quare commercium</p>
+  <p>Habeas cum perditissimis nebulonibus,</p>
+  <p>Qui non honestatem, non pietatem colunt.</p>
+  <p>AC. Heri ad me veniebant, quare ego pro viribus</p>
+  <p>Satis prolixe tractabam. PHI. Miserrimum,</p>
+  <p>Eo nunc rem redisse, ut si cui bene ut elis,</p>
+  <p>Hunc multis nisi mox poculis inebries</p>
+  <p>Amicitiae disrupta dicant foedera.</p>
+  <p>An patris verba tibi exciderunt tam cito?</p>
+  <p>Quibus monebat nos, ut scis, ne talibus</p>
+  <p>Adhaereremus, qui bonarum ab artium</p>
+  <p>Studiis nos abstraherent, et pravis moribus</p>
+  <p>Vitam nostram inficerent, morati pessime.</p>
+  <p>Videbis in quae te incautum trudent mala,</p>
+  <p>Postquam satis blandis verbis te illexerint.</p>
+  <p>AC. Quod si non fecero, Timonem me appellitant,</p>
+  <p>Aut philosophum. PHI. Dicant, permitte, quod velint.</p>
+  <p>Nam nulla fides est, nec iusti observantia.</p>
+  <p>Quos coram cernis et putas esse optimos,</p>
+  <p>His minime fide, nam sunt perversissimi,</p>
+  <p>Qui te apud alios illudent, quamvis plurima</p>
+  <p>Coram, et vitam promittant pro te fundere.</p>
+  <p>Nam tales praediti sunt lingua duplici.</p>
+  <p>Mel et virus spirant uno ore et halitu.</p>
+  <p>AC. Non arbitror, namque horum perspexi fidem.</p>
+  <p>PHI. Fidem? qua in re. quod est letali vulnere</p>
+  <p>Ab his Acrates confossus? egregiam fidem.</p>
+  <p>Quod temet ipsum ferme eiecissent domo.</p>
+  <p>ACO. Non est letale, vix mucrone paululum</p>
+  <p>Perstrinxit, postquam multo esset vino obrutus.</p>
+  <p>PHI. Vide quid agas, non homines huius temporis</p>
+  <p>Tam cito cognosces, quin etiam centum salis</p>
+  <p>Si modios cum nonnullis hic consumpseris,</p>
+  <p>Vix ingenium cuiuslibet perspexeris.</p>
+  <p>Crudeles saepe serpentes sub floribus</p>
+  <p>Latent, et spinas saepe quoque rosae occulunt.</p>
+  <p>AC. Non possum me plane ab hominib. seiungere.</p>
+  <p>Nec pater unquam interdixit, ne bonos mihi</p>
+  <p>Amicitia adolescentes adiungerem,</p>
+  <p>Et omni demererer benevolentia.</p>
+  <p>PHI. Amicitia inter latrones? ACO. Proh Iuppiter</p>
+  <p>Tua quid interest? Si quid consumpsero</p>
+  <p>Id fiet de meo. PHI. Consume non moror.</p>
+  <p>Sic sunt nunc homines, qui cum sibi non consulant</p>
+  <p>Alios bene monentes tamen non audiunt.</p>
+  <p><hi rend="bold">CHORUS TERTIUS.</hi></p>
+  <p>Qui vis ingenuis labore magno</p>
+  <p>Eniti studiis, ad astra clarum</p>
+  <p>Nomen tollere, feminas venustas</p>
+  <p>Et ludos, epulasque sperne lautas.</p>
+  <p>Incautos iuvenes tria haec inescant,</p>
+  <p>Atque ad plurima probra dant fenestram.</p>
+  <p>Et gignunt odium novem sororum.</p>
+  <p>Obnixe studiis adhaere honestis.</p>
+</div>
+<div type="level1" xml:id="actus-iiii.-scena-i.">
+  <head>21. ACTUS IIII. SCENA I.</head>
+  <p>EUPROSITUS ELEUTHERIA Senarii.</p>
+  <p>AIn verum esse, quod nobis absentibus</p>
+  <p>Vitium sit oblatum (me miserum) filiae,</p>
+  <p>ELEU. Sic est, EUP. Quis fecit? ELEU.</p>
+  <p>Acolastus. EUP. Nullam fidem</p>
+  <p>Esse in mundo, proh Iuppiter, heu iniuriam.</p>
+  <p>Vix sum compos mentis, sic ebullit cruor</p>
+  <p>Circa cor, atque ad iram mentem concitat.</p>
+  <p>Si mihi scelestus nunc daretur obviam,</p>
+  <p>Hunc ensem in costas adigerem vi maxima,</p>
+  <p>Et hanc viam cerebro miseri conspergerem.</p>
+  <p>Vir es Acolaste, gessisti te fortiter,</p>
+  <p>Imbellem debellasti vir puellulam:</p>
+  <p>Pudicitiam eripuisti, age, te mihi obviam</p>
+  <p>Offer conceptam merito hanc in te iram evomam.</p>
+  <p>EL. Dedit iusiurandum se ducturum domum,</p>
+  <p>Quare effervescentem iram, mi vir, comprime.</p>
+  <p>Placuit puellae species adolescentulo,</p>
+  <p>(Pudicitia cum forma agit nam litem maximam)</p>
+  <p>Calcaria addidit amor, locus et occasio.</p>
+  <p>Amice agendum est cum adolescente et leniter.</p>
+  <p>Voluntas virginis adfuit, et humaniter</p>
+  <p>Fecit, persuadebo hominem, et accedet mihi</p>
+  <p>Ut ducat uxorem, novi tractabile</p>
+  <p>Hominis ingenium, per servom accersi iube.</p>
+  <p>EUP. Dromo, accerse Acolastum, ut mox veniat huc rogo.</p>
+</div>
+<div type="level1" xml:id="actus-iiii.-scena-ii.">
+  <head>22. ACTUS IIII. SCENA II.</head>
+  <p>ACOLASTUS, Scazontes.</p>
+  <p>Quam numquam, Dii immortales, secundae res</p>
+  <p>In amore perveniunt ad exitum laetum.</p>
+  <p>Gravis quin luctus hunc sequatur a tergo.</p>
+  <p>Meo malo nunc etiam intelligo, demens</p>
+  <p>Amor cur captus lumine, et puer cur sit.</p>
+  <p>Nam saepe prudentissimos facit caecos</p>
+  <p>Et tamquam pueros nil sapere, quod expertus</p>
+  <p>Meo malo iam sum, periculis qui me</p>
+  <p>Tot obieci, caecus et infans, nihil cernens</p>
+  <p>Futurum, et qui finis amorem hunc sequi posset.</p>
+  <p>Atque adeo, tot lubens angustiis memet</p>
+  <p>Involui, ut inde me expedire non possim.</p>
+  <p>Compressi virginem, quae nunc gerit fetum:</p>
+  <p>Fidem dedi, me ducturum domum dixi.</p>
+  <p>Quae res me sic excruciat, ut nihil supra.</p>
+  <p>Huc illuc impellor, tamquam in mari navis,</p>
+  <p>Procellosi quando ineunt proelium venti.</p>
+  <p>Ut nesciam miser, quid me futurum sit,</p>
+  <p>Ducam vero? pater obstat, qui modis miris</p>
+  <p>Me tractabit. quid dicet? num puellas ut</p>
+  <p>Vitiares huc te misi? an ut bonas artes</p>
+  <p>Perdisceres, probatis moribus vitam</p>
+  <p>Informares? an non haec antea praedixi?</p>
+  <p>Quando vides Philomathen sic inhaerere</p>
+  <p>Amori? qui quoque monere debebat</p>
+  <p>Ut non tam turpiter substantiam nostram</p>
+  <p>Sine tuorum studiorum perderes fructu.</p>
+  <p>Penitus ignoro quid respondeam patri.</p>
+  <p>Non dicam? pietas, aequitas, amor, leges,</p>
+  <p>Fides, religio, Deleasthisae agunt causam,</p>
+  <p>Atque adeo invitum me impellunt, trahunt, cogunt,</p>
+  <p>Minantes poenam si non duxero, ut fas est.</p>
+  <p>Quibus si advorsarer, vel si reluctarer,</p>
+  <p>Essem dignus cui tellus hisceret vivo,</p>
+  <p>Et velut Amphiaraum absorberet Argivum.</p>
+  <p>Quid nunc restat? nisi ut de monte praecelso</p>
+  <p>Me praecipitem, aut latebras animae ense perquiram.</p>
+  <p>Tam me circumvallant angustiae multae,</p>
+  <p>Mori ut malim potius, quam sic frui vita.</p>
+  <p>Sed hanc dum in vivis fuero a me abstrahet nullus,</p>
+  <p>Quae mihi suum misera concredidit corpus.</p>
+  <p>Nun deseram, decrevi, sed domum ducam.</p>
+  <p>Quare ad patrem me conferam puellae, quae</p>
+  <p>Veretur ut sim ducturus, et ut expurgem</p>
+  <p>Me, ipsaque flens iam dudum meam fidem implorat.</p>
+</div>
+<div type="level1" xml:id="actus-iiii.-scena-iii.">
+  <head>23. ACTUS IIII. SCENA III.</head>
+  <p>EUPROSITUS, ELEUTHERIA, ACOLASTUS. Octonarii.</p>
+  <p>Qua fronte, quo ore absentibus nobis es ausus, carnufex</p>
+  <p>Domum nostram contemerare, et notam famosam inurere?</p>
+  <p>Vix me contineo, quin tibi mox manibus in crines involem,</p>
+  <p>Et discerpam Threiciae mulieres ut vatem Oeagrium,</p>
+  <p>Qui nunc familiam nostram asperseris tam turpi infamia.</p>
+  <p>Ut stas? ubi pudor? ubi verecundia? quid ais heus tu furcifer?</p>
+  <p>ACOL. Audi verbum unum, peccavi, fateor, veniam supplex peto.</p>
+  <p>EUP. Veniam? qui facinus Phalaridis tauro dignum commiseris.</p>
+  <p>Num me ludibrio habes? ACOL. Non veniam cupio ut vellem
+  avertere</p>
+  <p>A me culpam, sed ut furibundam isthanc iram compesceres.</p>
+  <p>Factum quod est, infectum reddi non potest, ad optimam</p>
+  <p>Quin potius partem confer, forma, aetas, amor, ad id me
+  impulit.</p>
+  <p>Amor quid possit nosti, cuius non supremus Iuppiter</p>
+  <p>Potuit vel tela vel faces a se ardentes avertere.</p>
+  <p>Age dehonestavi puellam, maximis honoribus</p>
+  <p>Eandem afficiam, in uxorem ducam, quod fiat auspice</p>
+  <p>Deo precor, ab hac, dum vivam, me nemo nisi mors abstrahet.</p>
+  <p>Hanc mihi selegi praeter ceteras, cum qua aetatem exigam.</p>
+  <p>Quapropter desine succensere, amorem et aetatem vides</p>
+  <p>Amborum. EUP. Si non feceris, cogam te iure et legibus.</p>
+  <p>EL. Hanc, mi fili, ut scis, unicam tantummodo habemus filiam,</p>
+  <p>Solacium senectutis nostrae, cuias tu flosculum</p>
+  <p>Decerpsisti, quam si non duxeris, mox vitae terminum</p>
+  <p>Pones, quare per hoc caput te obtestor, ne nos de seras.</p>
+  <p>Habebis dotem amplissimam, et dum vivam, omnia plena manu</p>
+  <p>Ad vitam suggeram, misereat te senectutis meae.</p>
+  <p>ACO. Ne lacrima, dum spiritus alit hanc animam numquam vos
+  deseram.</p>
+  <p>Et citius caelum flores, aut tellus producet sidera,</p>
+  <p>Quam vel casus acerbus, vel grave aliquod infortunium</p>
+  <p>Deleasthisam eripiat mihi, et ab ea me vivum segreget.</p>
+  <p>Sed conferam me nunc domum, idoneum sum nactus nuntium,</p>
+  <p>Per literas hac de re certiorem facturus patrem.</p>
+</div>
+<div type="level1" xml:id="actus-iiii.-scena-iiii.">
+  <head>24. ACTUS IIII. SCENA IIII.</head>
+  <p>DANISTA, ACRATES.</p>
+  <p>Trochaici, Tetrametri, Catalectici.</p>
+  <p>Acrati demens nuper credidi vicenos aureos,</p>
+  <p>Et iam constitutus effluxit soluendi terminus.</p>
+  <p>Quapropter fugitat meum conspectum, nec mihi obviam,</p>
+  <p>Quod sensi, venit, Sed mox me viso in aliam conicit</p>
+  <p>Sese plateam, quare si mihi nunc daretur obviam</p>
+  <p>Compellarem. Nam mala nomina saepe compellanda sunt.</p>
+  <p>Hisce sunt homines nostra aetate exornati morib.</p>
+  <p>Ut, nisi quod tuum est repetas, non sponte sua tibi redderent.</p>
+  <p>Vel si quis quid reddit, magna est huic agenda gratia.</p>
+  <p>Adeo ut ipsa fides irata hinc ad Deos secesserit.</p>
+  <p>Et perfidia emissa, ex inferno cunctos invaserit.</p>
+  <p>Eccum quem quaero, sequar mox a tergo, ne se occulat</p>
+  <p>Aliorsum me viso, heus bone vir, quando reddes debitum?</p>
+  <p>AC. Debitum? quid? DA. Debitum. AC. quantum? DA. Vicenos
+  aureos,</p>
+  <p>AC. Quando mutuo dedisti? DA. Nescis? ah homo impudens.</p>
+  <p>Denos tibi dedi, quos perdidisti nuper alea.</p>
+  <p>Octiduo post iterum denos, quos dederas meretriculae,</p>
+  <p>Et chirurgo, quod cur asset vulnus in convivio</p>
+  <p>Acceptum, ficumque quo te tunc meretrix donaverat</p>
+  <p>Cum tecum cubaret, ad minimum integros menses duos.</p>
+  <p>Quare redde quod debes, aut rem ad Rectorem deferam.</p>
+  <p>ACR. Non abest multum, quin hoc in luto te provoluerem</p>
+  <p>Quod me compellare audes effrons in publica viae.</p>
+  <p>Nonne dixi tibi, me nuntium misisse in patriam?</p>
+  <p>Qui quam primum venerit, aes alienum persolvam tibi.</p>
+  <p>DAN, Quo te proripis? o effrenatam hominis impudentiam.</p>
+  <p>Tu facies ut nulli crediturus sim pecuniam.</p>
+  <p>ACRA. Quid nunc comminiscar? aut quam nunc intendam fabricam?</p>
+  <p>Ut patrem argento emungam, atque huic ut persoluam debitum.</p>
+  <p>Dicam me dimidium pene annum correptum luridae</p>
+  <p>Febre laborasse, et ita tantam consumpsisse pecuniam.</p>
+  <p>Si pater rem cum scortis habere me rescisceret,</p>
+  <p>Ludere, potare dies et noctes, ferret gravissime.</p>
+</div>
+<div type="level1" xml:id="actus-iiii.-scena-v.">
+  <head>25. ACTUS IIII. SCENA V.</head>
+  <p>EUBULUS, PHILOSTORGUS. Septenarii.</p>
+  <p>Philostorgum exoptarem nunc mihi dari obviam.</p>
+  <p>Sed ipse exit foras, conveniam et quaeram quo velit.</p>
+  <p>PHI. Te quaerebam salue. EUB. Et ego te. PHI. Cur frontem
+  contrahis?</p>
+  <p>EUB. A filio allatae mihi sunt literae, in quibus</p>
+  <p>Scribit se Euprositi cuiusdam vitiasse filiam,</p>
+  <p>Atque ab eodem cogi, ut ducat in uxorem, legibus.</p>
+  <p>Quae res animum meum adeo excruciat, potius ut mori</p>
+  <p>Malim quam vivere. Utinam mors in primo limine</p>
+  <p>Vitae extinxisset te, ne mihi caussa dolorum fores.</p>
+  <p>Acolaste Acolaste, quam saepe monui fideliter</p>
+  <p>Ne perditis adhaereres pessime consortiis,</p>
+  <p>Neve sineres blanditiis te capi muliebribus,</p>
+  <p>Id quod timebam non sine dolore meo contigit.</p>
+  <p>Quam inique est comparatum, ut hi, quibus sunt filii</p>
+  <p>Obtemperantes et morigeri, his permittant nihil</p>
+  <p>Et largiantur quoque pecuniam parcissime.</p>
+  <p>Nos vero, qui quodcumque illis lubet concedimus,</p>
+  <p>Plerumque habeamus filios quam perditissimos.</p>
+  <p>Nunc demum sentio, pecuniam et licentiam</p>
+  <p>Esse adolescentulorum corruptelam maxumam.</p>
+  <p>Sed utinam aut filius aut ego e vivis excederem,</p>
+  <p>Ne nebulonem viderem posthac impurissimum.</p>
+  <p>Verum, si mihi dabitur in conspectum, pessumdabo.</p>
+  <p>Nihil ne de tuo novi audivisti filio?</p>
+  <p>PH. Nihil, nisi quod scribit febre laborasse se diu.</p>
+  <p>Vicenos aureos petens, sibi ut transmitterem,</p>
+  <p>Utpote, quos curando morbo hoc illic insumpserit</p>
+  <p>Non igitur filium sines uxorem ducere?</p>
+  <p>EUB. Non hercle faciam, quin meis manibus occiderem</p>
+  <p>Potius, quam ut hoc homini impurissimo permitterem.</p>
+  <p>PHI. Quid ergo facies? EUB. quid? rogas? cras quando illuxerit</p>
+  <p>Dies, iter ingrediar, ut ad ipsum proficiscar, tenes?</p>
+  <p>Tu, si voles poteris una mecum. PHI. recte mones.</p>
+  <p>Abi domum, et quae sunt necessaria ad iter, para.</p>
+  <p><hi rend="bold">CHORUS QUARTUS.</hi></p>
+  <p>Peius haud quicquam muliere vivit,</p>
+  <p>Nam venenoso vomit ore flammam,</p>
+  <p>Et quibus fallat iuvenes tenellos</p>
+  <p>Retia ponit.</p>
+  <p>Spirat emittens velut Aetna flammam,</p>
+  <p>Perdat ut stultos miserosque amantes,</p>
+  <p>Hanc, precor, pestem fuge qui novena</p>
+  <p>Numina quaeris.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scena-i.">
+  <head>27. ACTUS V. SCENA I.</head>
+  <p>ACOLASTUS. Trimetri.</p>
+  <p>Postquam delusus esset ab Ate Iuppiter</p>
+  <p>Hanc crinibus arreptam deturbat caelitus,</p>
+  <p>Nec unquam divorum fruitur commercio.</p>
+  <p>Verum homines inter graditur veloci pede,</p>
+  <p>Calamitates et caedes miscens maximas.</p>
+  <p>Eadem mihi nunc mille rixas seminat,</p>
+  <p>Hic virginis pater, ex parte altera meus,</p>
+  <p>Minantur mihi Geticis extrema affectibus,</p>
+  <p>Alter si non, alter vero si duxero.</p>
+  <p>Omnia sunt plena, quo me verto angustiis.</p>
+  <p>Tot me circumvallant miserum molestiae,</p>
+  <p>Ut nisi me Deus eripiat e tantis malis,</p>
+  <p>Ad extremam infelix redigar insaniam.</p>
+  <p>Audio patrem advenisse, hic mihi sunt iurgia</p>
+  <p>Parata, quibus, hei mihi, iam tractabor modis.</p>
+  <p>Sed ad Litas Iovis me vertam filias,</p>
+  <p>Quae tardis et lentis sequuntur passibus:</p>
+  <p>His supplex ero, verbaque dicam precantia,</p>
+  <p>Ut me velint eripere, e tantis cladibus,</p>
+  <p>Infelici qui coepi amare sidere.</p>
+  <p>Litae, Litae, servate miserum vestra ope.</p>
+  <p>Ad vos venio consilium auxiliumque expetens,</p>
+  <p>Approperate citis gressibus. Si vos mihi</p>
+  <p>Auxilium denegatis pereo funditus.</p>
+  <p>Si scissem ex hac re tot lites, tot iurgia</p>
+  <p>Mihi futura, numquam patrassem miser.</p>
+  <p>Beatus ille, qui procul ab his vinculis,</p>
+  <p>Sedulo vacare potest ingenuis artibus.</p>
+  <p>O si reverti elapsa possent tempora,</p>
+  <p>Numquam me tot curis incautum involuerem.</p>
+  <p>Recte dictum est, damnosas esse feminas</p>
+  <p>Bonas malasque. Nam quantumvis castitas</p>
+  <p>Laudetur Penelopes, tamen procis fuit</p>
+  <p>Exitii caussa, quos Ulysses sustulit.</p>
+  <p>Et Asiae toti dedit exitium Tyndaris,</p>
+  <p>Sic mea Deleasthisa mihi peperit maximas</p>
+  <p>Rixas, sed ad patrem meum me conferam,</p>
+  <p>Ut audiam num hac de caussa succenseat.</p>
+  <p>Mens hercle praesagit mihi infortunium.</p>
+  <p>Sed ni fallor, video patrem, huc accedere.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scena-ii.">
+  <head>28. ACTUS V. SCENA II.</head>
+  <p>EUPROSITUS, ELEUTHERIA. Trochaici, Catalectici. Tetrametri.</p>
+  <p>AUdine uxor, num fuit hodie hic Acolastus? ELE. Non arbitror.</p>
+  <p>EUP. Illud timeo, ne effugiat, neve aliorsum se conferat.</p>
+  <p>Quam suspitionem parit mihi, quod semper procrastinat,</p>
+  <p>Et quod rarius nunc huc adventat solito.</p>
+  <p>EL. ne time.</p>
+  <p>Ingenuus adolescens est, non faciet, concoepi bonam</p>
+  <p>Spem, sed fortasse ad cenam veniet. EUP. Igitur cenam para.</p>
+  <p>Ego paulisper in forum prodibo, num quid sit novi,</p>
+  <p>Auditurus, cuius nostra saecula sunt plenissima.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scena-iii.">
+  <head>29. ACTUS V. SCENA III.</head>
+  <p>EUBULUS, ACOLASTUS, PHILOSTORGUS. Tetrametri, Iambici,
+  Catalectici.</p>
+  <p>Eho bone vir, hodie faciam ut scias quanti pater sit</p>
+  <p>Faciendus, non impune feres quod vitiasti puellam,</p>
+  <p>Et eandem me invito vis ducere in uxorem sceleste.</p>
+  <p>ACO. Pater, da veniam, quaeso pater.</p>
+  <p>PHI. non te dignum facis. EUB. quid?</p>
+  <p>PHI. Occides filium? EUB. morietur. PHI. ah saevire noli.</p>
+  <p>ACO. Hoc est esse patrem? EUB. atque hoc est esse filium? ACO.
+  Miser sum.</p>
+  <p>PHI. Eubule, non hercle sinam ut facias me praesente caedem.</p>
+  <p>Cedo, num tu tam facile potes animum exuere paternum?</p>
+  <p>EU. Non exuerem patris animum, perfricta fronte quod me</p>
+  <p>Patrem non agnoscit, cuius dictis merito obsecundet.</p>
+  <p>Scis quo pacto ab ineunte aetate mihi contrariatus</p>
+  <p>Et tergiversatus sit, qui me invito patre ducet</p>
+  <p>In uxorem istam meretricem, non sine dedecore summo,</p>
+  <p>Cum non obseruet stipes quantae insidiae sibi struantur.</p>
+  <p>Quae nemini obtrudi possunt; inescant sic amantes</p>
+  <p>Ut quas vitiaverint in uxores ducant easdem.</p>
+  <p>Ante aliquot annos si duxisses uxorem, vir esses.</p>
+  <p>Vide ut stet, quam nullum aedat ingenui signum pudoris.</p>
+  <p>Age, accerse Euprositum, videbimus quo iure possit</p>
+  <p>Tibi nubere, sui ipsius prodiga cum sit pudoris.</p>
+  <p>Vel potu vel cibo porrexit huic meretrix amorem,</p>
+  <p>Adeo est submersus in amore, ut non abstrahi inde possit.</p>
+  <p>PHI. Humanius age, vix enim ut non ducat obtinebis.</p>
+  <p>EUB. Aspera verba nihil si proficiunt, quid lenia moverent?</p>
+  <p>Sed nisi fallunt oculi, procul video istos advenire.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scena-iiii.">
+  <head>30. ACTUS V. SCENA IIII.</head>
+  <p>EUPROSITUS, ACOLASTUS, EUBULUS, PHILOSTORGUS. Senarii, Septenarii
+  et Octonarii.</p>
+  <p>Itan dicis te tam impotenti esse a patre</p>
+  <p>Animo tractatum, et nolle ut ducas filiam</p>
+  <p>Meam, quam vi tute, ut nosti compresseris?</p>
+  <p>ACO. Sic est, et si non adfuisset Acratis</p>
+  <p>Pater Philostorgus, necasset me, satis</p>
+  <p>Crudeliter paterni oblitus muneris.</p>
+  <p>Sed exspectant nos, accedamus ocius.</p>
+  <p>EUP. Est ne ille tuus pater, qui dexteram tenet?</p>
+  <p>ACO. Ille est, promissam barbam qui mulcet manu,</p>
+  <p>Qui cogitabundus declinat in terram caput.</p>
+  <p>EUP. Accedam et alloquar, Saluete plurimum.</p>
+  <p>PHI. Habemus gratias. EUBU. Age bone vir, tu coges filium</p>
+  <p>Meum, ut ducat gnatam tuam? quo iure? quibusue legibus?</p>
+  <p>EUP. Huius regionis, namque apud nos cautum est si quis
+  virginem</p>
+  <p>Vitiaverit, ducat eandem, aut capite poenam luat.</p>
+  <p>Quare si non vult, ego procedam iure et legibus.</p>
+  <p>EUB. Egregiam legem, quae fenestram patefacit libidini.</p>
+  <p>Nam si quis habuerit domi maturas filias,</p>
+  <p>Ita ut nemini easdem poterit obtrudere,</p>
+  <p>Hac ratione in nassam pelliceret adolescentulos</p>
+  <p>Rerum imperitos, ut vitiatas ducerent,</p>
+  <p>Atque sub honesto posset lenonem agere nomine,</p>
+  <p>Et peregre proficisci, ut maior sit his occasio.</p>
+  <p>Quin virgines sunt vigili adservandae custodia,</p>
+  <p>Arcendae a iuvenum crebra consuetudine.</p>
+  <p>EUP. Duram profecto mihi demandas provinciam</p>
+  <p>Siquidem mallem suum custos esse potius, quam virginem</p>
+  <p>Hanc custodire, sui quae custos esse non potest.</p>
+  <p>EUB. Veterator. EUP. hem quid dicis? EUB. dicebam gnatum meum</p>
+  <p>Tuam non ducturum esse filiam.</p>
+  <p>EUP. Quibus rationibus.</p>
+  <p>EUB. Nam filius vicesimum quintum cum non excesserit</p>
+  <p>Annum, sui iuris non est, nec quicquam sine parentibus</p>
+  <p>Suscipere audet, ne minimum, non dicam quod matrimonium</p>
+  <p>Contrahere possit invitis parentibus.</p>
+  <p>Quare tuam gnato meo locare filiam</p>
+  <p>Non poteris, nec debes, cum mihi subiectus sit adhuc filius.</p>
+  <p>EUPR. Igitur infamiam qua me domumque meam aspersit, feram?</p>
+  <p>Non hercle faciam, quin potius omnia med bona largiar</p>
+  <p>Iurisperitis, quam hoc ut ferat inultum filius tuus.</p>
+  <p>Qui cum possint citra negotium ex mala caussae bonam</p>
+  <p>Facere, ex bona poterunt vel optimam.</p>
+  <p>Cedo,</p>
+  <p>Tu ne aequo animo laturus esses, filiae tuae</p>
+  <p>Si quis stuprum inferret? EUB. Ego non factum probo.</p>
+  <p>Sed quare admisit eum? cur non stulta a se repulit?</p>
+  <p>Adolescentes enim non tam sunt in crimine quam virgines:</p>
+  <p>Quippe quod hi non secus ac canes sagaces inquirunt feram,</p>
+  <p>Quam visam prosequuntur, apprehensam mordicus tenent.</p>
+  <p>EUPR. Cur non reluctata est pudicitiae exemplar Lucretia?</p>
+  <p>Perinde quasi possent imbelles virgines viris</p>
+  <p>Sese opponere. Sed cum non aequitati apud vos sit locus,</p>
+  <p>Vobiscum stricto iure agam, et hunc in ius traham,</p>
+  <p>Ut si noluerit, ut dixi, poenam capite luat,</p>
+  <p>Iuxta leges nostrae regionis; et instituta publica.</p>
+  <p>PHILO. Eubule iniquus es nimis, non approbo, aequum postulat.</p>
+  <p>Nam prae stat has leges servari, ne data improbis</p>
+  <p>Ansa peccandi, in quasvis irruant innuptas virgines.</p>
+  <p>Praeterea non est quod causere. nam pater</p>
+  <p>Vir est probatae fidei, non infamis crimine</p>
+  <p>Ullo, divitiis pollens, ipsa virgo, praeterquam quod est</p>
+  <p>Formosa, vitam egit pudice et duriter,</p>
+  <p>Ut tota civitas testatur, quae clamat scelus</p>
+  <p>Infandum admisisse hunc, et quovis supplicio dignissimum.</p>
+  <p>Insuper amor, aequitas, relligio caussam agunt.</p>
+  <p>Amor quidem, quod si hunc ab illa segregaveris,</p>
+  <p>Actum est de vita et salute filii tui.</p>
+  <p>Siquidem sibimet ipsi asciscet vitae periculum.</p>
+  <p>Porro aequitas, quia aequum est si quis quicquam asperserit,</p>
+  <p>Abstergat ut idem. Postremo religio quoque monet</p>
+  <p>Iusiurandum sancte esse servandum, quo te devinxeris.</p>
+  <p>ACO. Pater si me vivum vis miserum ab hac ne me abstrahe.</p>
+  <p>EUB. Habeas, valeas, oblectes te cum illa. ACO. Sine te exorem
+  pater.</p>
+  <p>EUB. Age duces. ACO. O lenissimum patrem nunc te geram in sinu.</p>
+  <p>EUB. Dotem dic Euprosite. EUP. Dabo quingentos aureos.</p>
+  <p>EUB, Placet, eamus nunc intus ubi reliqua curabimus</p>
+  <p>Si quae supererunt, duc nos in domum tuam.</p>
+  <p>EUP. Fiat sequimini. PHI. Mox sequar, prius ad gnatum me
+  conferam,</p>
+  <p>Cui denumerabo argentum quod debet.</p>
+  <p>EUP. sequere. EUB. sequar.</p>
+</div>
+<div type="level1" xml:id="actus-v.-scena-v.">
+  <head>31. ACTUS V. SCENA V.</head>
+  <p>ACOLASTUS, ACRATES. Trimetri.</p>
+  <p>Non possum me tantis explere gaudiis,</p>
+  <p>Quod in portum e tam turbulentis fluctib.</p>
+  <p>Sim delatus, mareque iam conquieverit.</p>
+  <p>Verum quem nunc exoptem mihi potissimum</p>
+  <p>Dari, cui tam subita haec enarrem gaudia.</p>
+  <p>Acratem video hilari vultu, sed pervelim</p>
+  <p>Scire, quod huic sit tam magnum oblatum gaudium.</p>
+  <p>ACR. Quandoquidem omnia ceciderunt ex sententia,</p>
+  <p>Non possum quin frontem explicem prae gaudio,</p>
+  <p>Atque adeo ut ad congerrones me conferam,</p>
+  <p>Cum quibus hunc hilarem laetus transmittam diem,</p>
+  <p>Dum turget crumena (o lenissimum patrem)</p>
+  <p>Cum non amplius erit posthac egebimus.</p>
+  <p>ACO. Conveniam Heus Acrates, quod obortum est tibi gaudium?</p>
+  <p>Videris etenim quam soles multo hilarior.</p>
+  <p>ACR. Ehem Acolaste, hodie mihi fortuna se dedit,</p>
+  <p>Tanto me affecit insperato gaudio.</p>
+  <p>Pater enim omnem dinumeravit pecuniam,</p>
+  <p>Quam debebam, et meis dictis habuit fidem,</p>
+  <p>Nam me febre labor asse patri scripseram</p>
+  <p>Sex menses, tantamque insumpsisse pecuniam,</p>
+  <p>Sed nescit in quos usus hanc converterim.</p>
+  <p>Praeterea immensam argenti vim dedit mihi</p>
+  <p>In sumptus, quapropter laetitia diffluo.</p>
+  <p>Sed, ut se res habent tuae? dic obsecro.</p>
+  <p>ACO. Deleasthisa datur mihi nuptum, atque nuptiae</p>
+  <p>Parantur, quocirca nunc res est in vado.</p>
+  <p>Pater iratus cum Euprosito inivit gratiam,</p>
+  <p>Cui se totum dedit, quem summe diligit.</p>
+  <p>Eamus intro, hunc hilarem sumemus diem.</p>
+  <p>Non est quod exspectetis, intus nuptiae</p>
+  <p>Celebrabuntur, verum valete et plaudite.</p>
+  <p><hi rend="bold">CHORUS QUINTUS.</hi></p>
+  <p>Stagnans velivoli maris</p>
+  <p>Praesentes hominum reddit imagines,</p>
+  <p>Quando carceribus domat</p>
+  <p>Fratres nimbiferos Hippotades ferus.</p>
+  <p>Sic comoedia splendida</p>
+  <p>Emendat vitium, detegit et malos</p>
+  <p>Mores, edocet optimos,</p>
+  <p>Ut vitam instituas in melius, monens.</p>
+</div>
+<div type="level1" xml:id="epilogus">
+  <head>33. EPILOGUS</head>
+  <p>A M. CHRISTOPHORO CORnero additus.</p>
+  <p>Felicitatem vobis maximam precor,</p>
+  <p>Qui fabulam hanc spectastis, quae pulchre docet,</p>
+  <p>Quibus sint praediti studiis et moribus</p>
+  <p>Iuvenes, bonas qui tractant literas, licet</p>
+  <p>Id non agant simili cura atque industria.</p>
+  <p>Sed scire vultis quid sit, et admiramini,</p>
+  <p>Quod cernitis me quoque nunc prodire iuvenem,</p>
+  <p>Et has agendi partes sumere ultimas,</p>
+  <p>At cur ego huc veniam non multis eloquar:</p>
+  <p>Detis mihi saltem pauca dicendi locum.</p>
+  <p>Haec namque dicam, vestris quae sunt moribus</p>
+  <p>Voluntatique non inconvenientia.</p>
+  <p>Vester facit candor probitasque maxima,</p>
+  <p>Atque animus illius, qui ludos hos facit,</p>
+  <p>Poeticum ut chorum vestrae custodiae</p>
+  <p>Meis quibus possim commendem verbulis.</p>
+  <p>Comoediae quoque dicam quam sint utiles</p>
+  <p>Et haec recens quid spectet fabula,</p>
+  <p>Sed gratias vobis habemus plurimas,</p>
+  <p>Ad scenicum hoc quod venistis spectaculum.</p>
+  <p>Requirit hoc vestra bonitas et aequitas,</p>
+  <p>Boni ut faciatis studium hoc aequanimiter,</p>
+  <p>Honoris quod vestri caussa suscepimus.</p>
+  <p>Nam quo magis bonas amatis literas,</p>
+  <p>Hoc mage studete iam novis laboribus.</p>
+  <p>Quapropter auditores o clarissimi,</p>
+  <p>Rogamus omnes, pro vestra sapientia,</p>
+  <p>Et singulari virtutis praestantia,</p>
+  <p>Servate Musas hoc tam misero saeculo,</p>
+  <p>Easque defendite, quae nil auxilii habent.</p>
+  <p>Videtis enim quot osores nunc perferant,</p>
+  <p>Quorum furor ut per totum mundum saeviat</p>
+  <p>In hos, quibus favent Musae castissimae.</p>
+  <p>Quis negligit nunc contemnere tam sanctas literas?</p>
+  <p>Quibus reguntur orbes mundi nobiles?</p>
+  <p>Quis est, cui non placeret potius barbaras</p>
+  <p>Gentes et audaces sequi, quam literas?</p>
+  <p>Quos non mali rudesque patronos habent?</p>
+  <p>At nos miseri, qui summas res amplectimur,</p>
+  <p>Et qui vitae studemus innocentiae,</p>
+  <p>Contemnimur, negligimur ferme ab omnibus.</p>
+  <p>Vos ergo nos omnes amate benigniter,</p>
+  <p>Et facite ut studium hoc nostrum semper floreat.</p>
+  <p>Hoc vestra requirit dignitas et gloria,</p>
+  <p>At tu iuventus literis dedita sacris,</p>
+  <p><hi rend="bold">Chori Musarum nobilis docta
+  assecla,</hi></p>
+  <p>Comoedias ama, sequere, admirareque</p>
+  <p>Audi, doce, fac, age, laudeque multa vehe.</p>
+  <p>Hoc etenim qui facit videre dicitur,</p>
+  <p>Humana vita quam sit multis obruta</p>
+  <p>Molestiis, crucibus, fortunis et miseriis,</p>
+  <p>Incertus ut casus regat prope omnia.</p>
+  <p>Sunt etenim spectaculum vitae huius comoediae</p>
+  <p>Quae imitantur et referunt mortalium omnium</p>
+  <p>Conditiones, mores, studium et vitae modum.</p>
+</div>
+<div type="level1" xml:id="errata-singulorum-tangunt-vitiaque">
+  <head>35. Errata singulorum tangunt, vitiaque,</head>
+  <p>Et quemlibet monent suo de munere.</p>
+  <p>Si quid sequi velis, sequendum quod putes,</p>
+  <p>Vitare si quid, huc peto mentem dirige.</p>
+  <p>Si nescis aetatis florem quid deceat, aut</p>
+  <p>Si scire vis, quid agat senum prudentia,</p>
+  <p>Dolus famulorum quam sit multus et favor,</p>
+  <p>Meretricum quanta sit techna et fallacia,</p>
+  <p>Imaginem vides horum in comoediis,</p>
+  <p>Quas elegantia praestans Terentius.</p>
+  <p>Et salibus gaudens Plautus edidit vetus.</p>
+  <p>At cerne quid fiat nostro nunc tempore,</p>
+  <p>Quo non minus vigent bonae res quam antea,</p>
+  <p>Quo iuvenis elegans datus poeticae</p>
+  <p>Profanis non tantum studet Comoediis,</p>
+  <p>Sed et sacras historias ludens edocet,</p>
+  <p>Ac scenicis soccis vult reddere bonos</p>
+  <p>Viros, et ad pietatis studium adducere.</p>
+  <p>Quod et noster novus Comicus hic praestitit,</p>
+  <p>Rem non novam sed aetate hac valde utilem,</p>
+  <p>Cum dulci spectandam dedit spectaculo.</p>
+  <p>Videtis istos iuvenes hoc in circulo,</p>
+  <p>Illis et adiunctos parentes optimos.</p>
+  <p>Qui cum vellent eos summam operam literis</p>
+  <p>Navare dulcibus, et fieri quoque bonos,</p>
+  <p>Mittunt ad literatos et celebres viros,</p>
+  <p>Nec maximis quidem parcentes sumptibus.</p>
+  <p>Ipsi sed partim susceptam ingressi viam,</p>
+  <p>Ad quam volunt metam veniunt feliciter,</p>
+  <p>Et doctiores facti laude maxima</p>
+  <p>Domum patris repetunt, ut Philomathes probus.</p>
+  <p>Acolastus autem et Acrates nummis datis,</p>
+  <p>Parentibus fucum faciunt mirabilem,</p>
+  <p>Prae se ferentes studiosorum nomina,</p>
+  <p>Sed interim se dant heu turpi luxui,</p>
+  <p>Et nil minus bonas quam curant literas,</p>
+  <p>Ludis student, turpes atque colunt feminas,</p>
+  <p>Perdunt dies in poculis et otio.</p>
+  <p>Nomina faciunt aereque multo gravant suos.</p>
+  <p>Tandem domum redeunt nulla arte praediti</p>
+  <p>Et sunt suis gravis crux et molestia.</p>
+  <p>Sed nos sciamus quae sit nostra functio</p>
+  <p>Cui Deus pater praefecit singulos,</p>
+  <p>Curemus ipsam studio et maxima fide,</p>
+  <p>Nil haesitantes quin Deus ter optimus,</p>
+  <p>Nostros sit adiuturus conatus ita,</p>
+  <p>Ut se receperit facturum sedulo.</p>
+  <p>Sed haec boni consulite quae dixi modo.</p>
+  <p>Nam Musicus nunc alio ducitur chorus</p>
+  <p>Vos interim belle valete et plaudite.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS.</p>
+</div>
+        
+    </body>
+</text>
+</TEI>

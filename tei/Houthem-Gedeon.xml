@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0042" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Gedeon tragico-comoedia</title>
+        <title type="sub">GEDEON TRAGICO¬COMOEDIA sacra in qua tamquam in speculo nitidißimo nostrorum temporum faciem manifestißime relucentem intueri licet.</title>
+        <author>Houthem, Libertus</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Gualterus Morberius</publisher>
+        <pubPlace>Liège</pubPlace>
+        <date>1575</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Houthem-Gedeon</name><lb/>
+            Short title: <title>Gedeon</title><lb/>
+            Year of first edition: <date>1575</date><lb/>
+            Author information:<lb/>
+            Alias: None<lb/>
+            Birth: c.1533, Liège<lb/>
+            Death: 1584, Prague<lb/>
+            Floruit: None, Brussels, Mons, Prague<lb/>
+            <ref target="https://en.wikipedia.org/wiki/Libertus_Houthem">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            <ref target="https://books.google.nl/books?id=YWFPAAAAcAAJ">Source link</ref>
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">verse</term>
+            <term type="genre">tragicomedy</term>
+            <term type="acts">5</term>
+            <term type="chorus">yes</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>/</p>
+  <p>GEDEON</p>
+  <p>TRAGICO¬</p>
+  <p>COMOEDIA</p>
+  <p>sacra in qua tamquam in speculo ni¬</p>
+  <p>tidißimo nostrorum temporum fa¬</p>
+  <p>ciem manifestißime relucentem in¬</p>
+  <p>tueri licet.</p>
+  <p>PER FRATREM LIBERTVM</p>
+  <p>HOVTHEM LEODIVM: HIE¬</p>
+  <p>RONYMIANAE APVD</p>
+  <p>SVOS PROFES¬</p>
+  <p>SIONIS.</p>
+  <p>LEODII,</p>
+  <p>Ex Officina Gualteri Morberij.</p>
+  <p>M. D. LXXV.</p>
+  <p>Nutu &amp; consensu Reuerend.</p>
+  <p>VT GENERE VITAE-</p>
+  <p>QUE ORNAMENTIS, ITA</p>
+  <p>etiam literis clarissimo D. Reuerendoque in Christo Patri,</p>
+  <p>D. Gulielmo du Paix, Amplissimi Floreffiensium Colle¬</p>
+  <p>gij Abbati dignissimo, Moecenati suo perpetua fide co¬</p>
+  <p>lendo. S.</p>
+  <p>ACCOMMODARAM numeris poëti¬</p>
+  <p>cis iam inde à quinquennio (Rde. in Chri¬</p>
+  <p>sto Pater) inter scholasticas functiones,</p>
+  <p>vix tamen vel scalpendis (vt aiunt) au¬</p>
+  <p>ribus ocium relinquentes, ex instrumento</p>
+  <p>veteri petitam Gedeonis historiam, id</p>
+  <p>quod vt facerem res ipsa me monere hortarique suo quo¬</p>
+  <p>dam iure poterat. In ea siquidem tanquam in speculo</p>
+  <p>nitidissimo Belgij nostri miserandam ac inaudita tem¬</p>
+  <p>porum iniquitate exhulceratam faciem, imo rerum om¬</p>
+  <p>nium inuersam scenam, quam vtinam Deus opt. max.</p>
+  <p>bonorum exoratus precibus in pristinum ordinem ni¬</p>
+  <p>toremque restituere dignetur, manifestissimè relucen¬</p>
+  <p>tem intueri licet. Hanc vbi vidissent eruditionis fama</p>
+  <p>quidam virtutisque gloria celeberrimi viri, magno om¬</p>
+  <p>nium plausu nostrae ciuitatis oculis exhibitam, reprae¬</p>
+  <p>sentatamque fuisse: mihi authores esse coeperunt, neque</p>
+  <p>quotidianis desierunt conuiciis sollicitare, dum de ea</p>
+  <p>excudenda consilium susciperem. Multis iam annis re¬</p>
+  <p>luctatus sum, vt qui scirem doctissimo hoc saeculo nihil</p>
+  <p>in publicum emittendum, quod non ingenio perfectum</p>
+  <p>esset &amp; elaboratum industria. Latere satius iudicabam,</p>
+  <p>quam in morem soricis ingenij sui tenuitatem prodere,</p>
+  <p>quorundam doctus periculo, qui dum sibi ex male na¬</p>
+  <p>tis poematis laudem petitum ibant: pro laude summam</p>
+  <p>reportarunt ignominiam. Sciebam gloriam eiusdem</p>
+  <p><milestone unit="folio" facs="Aij"/></p>
+  <p>eum Crocodilo esse ingenij, qui fugientem insectatur,</p>
+  <p>persequentem vero quanta potest celeritate fugit, ac</p>
+  <p>proinde maiori putabam cum gloria coniunctum bene</p>
+  <p>latere, neque inanem aurae popularis fauorem captare,</p>
+  <p>quam stultè interdum affectata frustrari gloria. Verum</p>
+  <p>animum in ea obfirmatum sententia: validissimis ex¬</p>
+  <p>pugnarunt arietibus, dum crederem aliis multis non di¬</p>
+  <p>splicitura, quae ipsorum exactissimo probarentur iudicio.</p>
+  <p>Boni viri non esse contendebant gloriam quae cum lau¬</p>
+  <p>data fama indiuiduam quandam affinitatem habet, con¬</p>
+  <p>temnere. Faciendum aliquid cum Plinio asserebant,</p>
+  <p>quo nos apud posteritatem vixisse testaremur. Putabant,</p>
+  <p>quandoquidem praeceptorum studia facillime in puero¬</p>
+  <p>rum animos defluunt, hac ratione non mediocre ad li¬</p>
+  <p>terarum studia incitamentum nostrae fidei mancipatis</p>
+  <p>adolescentibus additum iri, quos cum eo consilio vsos</p>
+  <p>intelligerem, vt id non auderem reprehendere, non quin</p>
+  <p>ab eo ipse dissentirem, sed quod eos tanta esse sapientia</p>
+  <p>iudicarem, vt ipsorum iudicio meum anteponere nefas</p>
+  <p>videretur: victus sum, coepique mecum disquirere cu¬</p>
+  <p>ius nomini praesertim nuncupata prodiret in publicum.</p>
+  <p>Non est enim scriptoribus nouum, postquam libris suis</p>
+  <p>imo liberis, quos ingenio suo (veluti comminiscuntur</p>
+  <p>Poëtae Mineruam è cerebro Iouis natam) pepererunt,</p>
+  <p>vltimam imposuerunt manum: primarium aliquem vi¬</p>
+  <p>rum queritare, cuius patrocinio veluti Vulcanio clypeo</p>
+  <p>muniti, nullos Zoilorum reformident assultus. In hoc</p>
+  <p>cum essem: tu vir generosissime, tu Rde. in Christo pa</p>
+  <p>ter, ac vnice hac summa rerum omnium difficultate stu¬</p>
+  <p>diorum Moecenas, qui Musas bellicis tumultibus toto</p>
+  <p>propemodum orbe profligatas reuocare modis omni¬</p>
+  <p>bus niteris, imo in tuo illo sacrario vbi praesentissimus</p>
+  <p>es ipsis Phoebus, foues, occurrebas. Tu cuius dotes ac</p>
+  <p>virtutes non vanis argumentis iam mihi cognitas san¬</p>
+  <p>ctè veneror, semperque venerabor, hoc munere di¬</p>
+  <p>gnissimus succurrebas. Tu inquam qui Gedeonem quen¬</p>
+  <p>dam nobis representans, omni animi studio contendis,</p>
+  <p>vt Floreffiensi cymbae<ptr target="#tn1" n="1"/> nihil ab vllis procellis, quamdiu</p>
+  <p>lucis huius vsura frui tibi dabitur a superis, sit pertime¬</p>
+  <p>scendum, proprium tibi rationibus non paucis sane noc</p>
+  <p>qualecunque ποίημα fecisti. Humanitatem illam tuam</p>
+  <p>in omnes bonos, comitatem, mansuetudinem, quam</p>
+  <p>vel primo ipso congressu, homo alioqui ignotus, &amp; an¬</p>
+  <p>tea dignitati tuae numquam visus, expertus sum: quis Ci¬</p>
+  <p>cero, non dicam exornare, sed vel enarrare queat? Di¬</p>
+  <p>gnitatem summam summa cum modestia (quam hu¬</p>
+  <p>militatem appellant) coniunctam: in te re vera non</p>
+  <p>obscure animaduerti. Quod meum de tua dignitate iu¬</p>
+  <p>dicium licet mihi ipsi testi oculato satis crederem: cor¬</p>
+  <p>datissimorum tamen nobilissimorumque virorum: quos</p>
+  <p>Namurcensis habet Comitatus, qui te penitus perspexe¬</p>
+  <p>runt, testimonio: non parum confirmatum est. Fui ego</p>
+  <p>in frequenti illorum coetu cum (ita vt fit) amplitudinis</p>
+  <p>tuae incidisset mentio, vere humilem (ipsorum vtor vo¬</p>
+  <p>cabulo) Abbatem te vno ore omnes praedicarent, qua</p>
+  <p>laude nescio an maior huius ordinis viro tribui possit.</p>
+  <p>Quid de liberalitate tua dicturus sum, quae tanta est, quę¬</p>
+  <p>que me sibi tam obnoxium fecit vt non modo mea om¬</p>
+  <p>nia peculij iure vsurpare, verum etiam me ipsum in per¬</p>
+  <p>petuam seruitutem tibi vendicare non iniuria possis?</p>
+  <p>neque vero alterius quam tuus esse possum aut volo.</p>
+  <p>Sed quorsum me rapit tui nominis obseruantia, &amp; di¬</p>
+  <p>cata tibi voluntas? Quorsum quaeso me abripit verita¬</p>
+  <p>tis prodendae desiderium? Noui pudorem tuum. Noui</p>
+  <p>virtutes tuas, quarum magnitudinem quia vereor vt</p>
+  <p>minima ex parte dicendo possim assequi: de illis nunc</p>
+  <p>altum mihi indico silentium. Caeterum cum te talem</p>
+  <p>ac tantum noster hic Gedeon agnoscit, cum tibi vel a¬</p>
+  <p>dolescenti poëtica studia non displicuisse intelligit, in</p>
+  <p>quibus eum apicem conscendisti vt si tua poemata pu¬</p>
+  <p>blicare velis, merito omnes te nostrae memoriae poëta¬</p>
+  <p>rum coryphaeum quendam clament: qui antea publicam</p>
+  <p>lucem, &amp; coetus hominum fugitabat, te patrono prodi¬</p>
+  <p>re gestit, &amp; in spem nonnullam etiam publici fauoris</p>
+  <p>erigitur, speratque fore vt liquido intelligant zoili non¬</p>
+  <p>dum esse deploratam vel mediocrium ingeniorum cau¬</p>
+  <p>sam, vbi illis te patronum viderint. Suscipe igitur que¬</p>
+  <p>so per innatam illam tibi erga literarum studiosos ani¬</p>
+  <p><milestone unit="folio" facs="Aiij"/></p>
+  <p>mi propensionem, quae ita in te elucet: vt te ad hanc</p>
+  <p>virtutem natura genuisse videatur, voluntas exercuisse,</p>
+  <p>fortuna seruasse, hoc chartaceum munusculum, quod</p>
+  <p>sub tui praeclari nominis commendatione in manus ho¬</p>
+  <p>minum &amp; posteritatis famam peruenire maxime vel¬</p>
+  <p>lem, non quidem quod ex illo hominum sim genere,</p>
+  <p>qui scire suum nihil esse putant, nisi id eos scire sciat</p>
+  <p>alter, qui digito monstrari desiderant, optantque Cir¬</p>
+  <p>ratorum dictata fieri, (dabitur venia si cum Satyrico</p>
+  <p>loquar) sed vt Apellis suam venerem pro pergula cen¬</p>
+  <p>surae publicae exponentis exemplo, si quid merito re¬</p>
+  <p>praehensum vnquam intellexero, possim aliquando in¬</p>
+  <p>cudi restituere, &amp; vrsino more foetum lambendo ex¬</p>
+  <p>polire, efficereque vt si non ab omnibus erroribus vin¬</p>
+  <p>dicatum videri possit: saltem quam paucissimis infectum</p>
+  <p>deprauatumque relinquatur. Vale Musarum columen</p>
+  <p>praesidiumque meum Kalendis ipsis Septembris Anno</p>
+  <p>post reparatam salutem. 1575.</p>
+  <p>Tuae amplitudini addictißimus clientulus,</p>
+  <p>Frater Libertus Houthem.</p>
+  <p>PROSOPOPOEIA GE¬</p>
+  <p>DEONIS MADIANITICA TY¬</p>
+  <p>rannide vexati qui tanquam in exilium relegatus:</p>
+  <p>ab hoc suo Moecenate suscipi desiderat.</p>
+  <p>REbus in afflictis iam septima ducitur aestas,</p>
+  <p>Exercet tristi nos fera turba iugo.</p>
+  <p>Viuentis populum conculcat numinis, omnis</p>
+  <p>Expers qui pectus relligionis habet.</p>
+  <p>Ruris opes vastat lapidosae grandinis instar,</p>
+  <p>Et premit immiti nostraque nosque pede</p>
+  <p>Nulla quies longos est exceptura labores,</p>
+  <p>Durior ex veteri cura labore fluit.</p>
+  <p>Omnia deuastat rabidi violentia Martis,</p>
+  <p>Pacis &amp; est nostro numen ab orbe procul.</p>
+  <p>Arma sonat totus litui clangoribus aether,</p>
+  <p>Tympana bellisono murmure tacta fremunt.</p>
+  <p>Rellictis igitur patriae iam finibus erro,</p>
+  <p>Instat in exilium barbarus bostis agens:</p>
+  <p>Dij faciant nostro contingat meta labori,</p>
+  <p>Gratus &amp; externis gentibus esse queam.</p>
+  <p>Voluo meos oculos partes conuersus in omnes.</p>
+  <p>Laetam si videam forte quietis opem.</p>
+  <p>In te nostra quies, vir pacis, tota recumbit,</p>
+  <p>Es misero requies, portus, &amp; ara mihi.</p>
+  <p>Luctor vt euadam miserae discrimina sortis,</p>
+  <p>Me refoue pacis munere quaeso tuae,</p>
+  <p>O venerande Pater, quem publica scripta loquuntur,</p>
+  <p>De nostra solitum conditione queri.</p>
+  <p>Vnus es in miseros cuius clementia nota est,</p>
+  <p>Pulsat vbi pectus iusta querela tuum.</p>
+  <p>Aspice me, partemque tui sub nominis vmbra</p>
+  <p>Indulge, non sic sors mea tristis erit.</p>
+  <p>Suscipe me, candore tuae me protege pacis,</p>
+  <p>Suscipe me, victus quilibet hostis erit.</p>
+  <p>HANNARDVS GA.</p>
+  <p>merius Mosaeus Poëta Laureatus</p>
+  <p>Fratri Liberto suo plus¬</p>
+  <p>quam fratri.</p>
+  <p>De Gedeone tuo vis vt quod sentio dicam?</p>
+  <p>Non alio Gedeon debuit ore cani.</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <p><hi rend="bold">Ludionum nomenclaturę</hi></p>
+  <p>Gedeon.</p>
+  <p>Angelus.</p>
+  <p>Deus.</p>
+  <p>Crafgasticus.</p>
+  <p>Philostasiotes.</p>
+  <p>Thoribodes.</p>
+  <p>Ioas Gedeonis Pater.</p>
+  <p>Phara Gedeonis puer.</p>
+  <p>Reges Madianitarum : Oreb.</p>
+  <p>Zebee.</p>
+  <p>Zeb.</p>
+  <p>Salmana.</p>
+  <p>Milites Madianitarum.</p>
+  <p>Milites Gedeonis.</p>
+  <p>Praeco.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>* IGnoscet vt confido aequus Lector quod data opera in propriis
+  ali¬</p>
+  <p>quot vocabulis quantitatem variauerim, &amp; alienos interdum
+  ver¬</p>
+  <p>sus, qui negotio ita congruebant, vt se ingeßisse potius, quam
+  vocati vi¬</p>
+  <p>deri poßint: huc transtulerim, doctißmorum quorumque exemplo.</p>
+</div>
+<div type="level1" xml:id="prologvs">
+  <head>3. PROLOGVS</head>
+  <p>IN GEDEONEM.</p>
+  <p>EXpertus author istius Tragoediae</p>
+  <p>Quae nunc paratis exhibetur pulpitis,</p>
+  <p>Quam sit molestum post cruces scholasticas,</p>
+  <p>Domesticosque post labores, qui quidem</p>
+  <p>(5) Vel nocte media vix sinunt quiescere,</p>
+  <p>Nouo labori rursus insenescere:</p>
+  <p>Indixerat Musis silentium suis.</p>
+  <p>Voluebat animo multa quae silentium,</p>
+  <p>Suadere cuiuis iure possent optimo,</p>
+  <p>(10) Benignitatis attamen vestrae memor,</p>
+  <p>Qua nunc frequenter eius hanc opellulam</p>
+  <p>Iuuistis, orta dum doceret quid mari</p>
+  <p>Venus nephandis aduehat cultoribus</p>
+  <p>Suis, periclo Therei Thracum Ducis.</p>
+  <p>(15) Cum Bethsaba nati doceret maximam</p>
+  <p>In iudicandis litibus prudentiam,</p>
+  <p>Exempla statuens iudicis longè optimi.</p>
+  <p>Cum rursus huius ciuitatis gloriam,</p>
+  <p>Ex hoste partam Geutico proponeret,</p>
+  <p>(20) Nos esse curae maximo probans Deo,</p>
+  <p>Qui sacra colimus ipsius mente integra:</p>
+  <p><milestone unit="folio" facs="B"/></p>
+  <p>Ea signa vidit tum fauoris omnium</p>
+  <p>Vt nunc eandem sit palestram liberè</p>
+  <p>Ingressus, atque Gedeonem scripserit.</p>
+  <p>(25) Ea est quidem sacris petita fontibus</p>
+  <p>At AEschyli sumpsit tragoedi pallium.</p>
+  <p>Tractabitur ne nesciatis hoc modo:</p>
+  <p>Lamenta fundit Gedeon, quod hostium</p>
+  <p>Pressus gemat populus Dei tyrannide.</p>
+  <p>(30) Pias obaudit maximus preces Deus,</p>
+  <p>Eumque populi consecrat ducem sui,</p>
+  <p>Id quod duobus comprobat miraculis.</p>
+  <p>Ergo coacta militum parua manu,</p>
+  <p>Numerosa fundit hostis impij agmina.</p>
+  <p>(35) Fauete linguis, quaque adestis gratia</p>
+  <p>Spectate quid noster sibi chorus velit:</p>
+  <p>Ad actionem sunt parati ludij.</p>
+</div>
+<div type="level1" xml:id="actvs-primi.">
+  <head>4. ACTVS PRIMI.</head>
+  <p></p>
+</div>
+<div type="level1" xml:id="scena-prima.">
+  <head>5. SCENA PRIMA.</head>
+  <p>Gedeon solus.</p>
+  <p>Heu quam duris vitam sub legibus isthic</p>
+  <p>Degimus, ô teretis clementia numina coeli,</p>
+  <p>(40) O qui perpetuo solus regis omnia nutu,</p>
+  <p>Tune tuum populum tanta sub mole gementem</p>
+  <p>Istis vexari permittes cladibus vsque?</p>
+  <p>Nam curae curas vndam velut vnda resorbent.</p>
+  <p>Hunc inquam populum, tanti quem feceris olim</p>
+  <p>(45) Vt refluo Phariam submerseris aequore gentem,</p>
+  <p>Posset vt accepta tibi libertate vacare?</p>
+  <p>Septima iam fluxit calidis sub solibus aestas,</p>
+  <p>Cum tua crudeli depressa tyrannide luget</p>
+  <p>Gens, quam legisti populis ex omnibus vnam.</p>
+  <p>(50) Nos premit hinc Madiam, premit hinc Amalechicus
+  hostis,</p>
+  <p>Hinc fera gens studiis asperrima Martis, oborta</p>
+  <p>Hic vbi sol ortu terras aspergit Eoo.</p>
+  <p>Non etiam si tot mihi sint in Stentoris ore</p>
+  <p>Linguae, quot foliis aestiuo tempore vernant</p>
+  <p>(55) Syluae, non (inquam) scelerum percurrere formas</p>
+  <p>Exiguo possem (gemitus nam verba retardant)</p>
+  <p>Tempore, quid querar? incumbunt in singula verba</p>
+  <p><milestone unit="folio" facs="Bij"/></p>
+  <p>*</p>
+  <p>Surgentes imo gemitus de pectore moesti.</p>
+  <p>Anxietas animi vehemens facit esse disertum,</p>
+  <p>(60) Denique sunt questus misero solaminis instar,</p>
+  <p>Sed lamenta nihil turbatae nautica cymbae</p>
+  <p>Prosunt, nec vanis mitescunt planctibus vndae.</p>
+  <p>Ach quoties vanas spes nunc concepimus, aestas</p>
+  <p>Dum nostrum culmis recreat cerealibus orbem:</p>
+  <p>(65) Protinus hi segetes facto simul agmine perdunt,</p>
+  <p>Vt sternunt agros lapidosae grandinis ictus.</p>
+  <p>In gregibus frustra seruandis perdimus horas.</p>
+  <p>Quem finem dabis aerumnis Deus optime? nunquam</p>
+  <p>Respicies nostros vultu placatus amico</p>
+  <p>(70) Quos tristi patimur sub conditione labores?</p>
+  <p>Nostra quidem, fateor, poenas peccata merentur,</p>
+  <p>Sepè parum memores quantis nos dotibus olim</p>
+  <p>Ornaris, crebro legem violauimus ausu.</p>
+  <p>Tu tamen ingenita nostros pietate labores.</p>
+  <p>(75) Excute, ne qui nos odiis infestat amaris</p>
+  <p>Dicat, quis Dominus quem predicat Israël? eius</p>
+  <p>Quae vires? qui non gentem defendere lectam</p>
+  <p>Poßit. blasphemae tolerabis scommata gentis?</p>
+  <p>Hoc Deus auertas, hominum quia te mala tangunt,</p>
+  <p>(80) Nec vis impuro te ledi turpiter ore.</p>
+  <p>Hic ego nam rursus bellum ferus hostis adornat,</p>
+  <p>Grana suis paleis euentilo, cum fuga restet,</p>
+  <p>Quae tanto poterit finem dare sola labori.</p>
+</div>
+<div type="level1" xml:id="actus-primi.-scena-secunda.">
+  <head>6. Actus primi. Scena secunda.</head>
+  <p>Angelus coelo demissus.</p>
+  <p>MAgni Tonantis aliger</p>
+  <p>(85) Isthuc minister aduolo,</p>
+  <p>Coeli relictis atriis,</p>
+  <p>Ad Isaci missus lares,</p>
+  <p>Ad arua dico, posteris</p>
+  <p>Promissa quae sunt Abrahae.</p>
+  <p>(90) Vt subiugatis gentibus,</p>
+  <p>Vitam beatam ducerent,</p>
+  <p>Si pacta sacri foederis</p>
+  <p>Initi simul cum maximo</p>
+  <p>Qui regnat in coelis Deo:</p>
+  <p>(95) Ausu procaci ac perfido</p>
+  <p>Violata non vnquam forent.</p>
+  <p>Verum cruentos hostium</p>
+  <p>Quod seruitutis sub iugo</p>
+  <p>Timuere nunc exercitus:</p>
+  <p>(100) Imo tulêre quae solet</p>
+  <p>Audere victor efferus:</p>
+  <p>Domanda erant his cladibus</p>
+  <p>Gentis rebellis pectora.</p>
+  <p>Caballus vt proteruior</p>
+  <p>(105) Euadit, ac ferocior,</p>
+  <p>Lupata si laxata sint:</p>
+  <p>Humana sic mens, quae modum</p>
+  <p><milestone unit="folio" facs="Biij"/></p>
+  <p>Rebus secundis nullum habet,</p>
+  <p>Fastu proteruo peruicax,</p>
+  <p>(110) Rebellis est Deo suo,</p>
+  <p>Abunde cum res affluunt.</p>
+  <p>Quo plura hominibus contulit</p>
+  <p>Bonitas Dei, hoc innascitur</p>
+  <p>His altior securitas.</p>
+  <p>(115) Sed hic popellus maxime,</p>
+  <p>Si conquieuit paululum</p>
+  <p>Dei flagellum vindicis,</p>
+  <p>Deos sibi statuit nouos,</p>
+  <p>Acritibus se mancipat</p>
+  <p>(120) Demens prophanis, hinc parent</p>
+  <p>Rerum benignus, vt suum</p>
+  <p>Perire plasma non sinat:</p>
+  <p>Castigat hanc licentiam,</p>
+  <p>Nunc bellicis tumultibus,</p>
+  <p>(125) Nunc pallida famis cruce,</p>
+  <p>Nunc pestilentis aeris</p>
+  <p>Exuscitans contagia.</p>
+  <p>At ne in malis despondeat</p>
+  <p>Animum, nihil fiduciae</p>
+  <p>(130) Sibi relinquens, dum iugum</p>
+  <p>Fert debitum sceleri suo:</p>
+  <p>His vel prophetas excitat,</p>
+  <p>Vel bellicos mittit duces,</p>
+  <p>Qui liberatos asperae</p>
+  <p>(135) Ex seruitutis vinculis,</p>
+  <p>In pristinum reddant locum.</p>
+  <p>Vt nunc dabit Gedeona,</p>
+  <p>Hostis cruenti qui minas</p>
+  <p>Retundat, ac ferociam,</p>
+  <p>(140) Cui salutem nuncio,</p>
+  <p>A praepotenti &amp; maximo</p>
+  <p>Qui cuncta condidit Deo.</p>
+</div>
+<div type="level1" xml:id="actus-primi.-scena-tertia.">
+  <head>7. Actus primi. Scena tertia.</head>
+  <p>.</p>
+  <p>Angelus. Gedeon.</p>
+  <p>Angelus.TEcum supremus arbiter rerum Deus</p>
+  <p>Gedeon, virùm fortißime.</p>
+  <p>(145) Gedeon. Te per fidem tuam obsecro, si adest Deus</p>
+  <p>Nobis, quid his premimur malis?</p>
+  <p>Vbi sunt Dei quae praedicant magnalia?</p>
+  <p>Magna eius vbi potentia?</p>
+  <p>Cur nos relinquis penitus, ô rerum parens</p>
+  <p>(150) Hostique dedis impio?</p>
+  <p>Lupis vorandum cur gregem pastor tuum</p>
+  <p>Ira obstinata deseris?</p>
+  <p>Memento coetus seruitute ab aspera</p>
+  <p>Quem vindicasti, quem tibi</p>
+  <p>(155) Peculiari sorte, patrimonium</p>
+  <p>Ceu proprium receperas.</p>
+  <p>Quousque tandem nomini sines tuo,</p>
+  <p>Hostem proteruum illudere?</p>
+  <p>Te vidit orbis vindicantem ab omnibus</p>
+  <p>(160) Semper tuos periculis,</p>
+  <p>Seceßit vnda te iubente, &amp; vitreo</p>
+  <p>Muro liquor coercuit</p>
+  <p>Cursum, feroces viribus suis duces</p>
+  <p>Ponti recursus obruit.</p>
+  <p>(165) Domine intuere probra, contumelias,</p>
+  <p>Et hostium ludibria</p>
+  <p>Qui te lacessunt impiis conuiciis,</p>
+  <p>Molestiis nos opprimunt.</p>
+  <p>Nam nec tenebrae nos tegunt, nec pellimus</p>
+  <p>(170) Obscuritate inturias</p>
+  <p>Ope destituti, &amp; omnibus fracti malis.</p>
+  <p>Populi pudori consule,</p>
+  <p>Vt te merentem prosequantur laudibus:</p>
+  <p>Miseri leuati luctibus.</p>
+  <p>(175) Angelus. Vestri misertus est Deus, querimonias</p>
+  <p>Nec esse siuit irritas,</p>
+  <p>Proinde populi te sui ducem eligit,</p>
+  <p>Vt hunc ab hostibus asseras.</p>
+  <p>Facile Deus oratione vincitur</p>
+  <p>(180) Piis piorum planctibus.</p>
+  <p>Videre dubio premere quiddam pectore,</p>
+  <p>Exclude quicquid te mouet.</p>
+  <p>Te vult Deus populi sui esse vindicem,</p>
+  <p>Te vindicem Deus eligit.</p>
+  <p>(185) Gedeon. Quae sunt meae vires Domine? potentia</p>
+  <p>Quanta est? Manaßis in tribu</p>
+  <p>Mei parentis infima est cognatio,</p>
+  <p>Extrema cuius occupo.</p>
+  <p>Quid? an leonem prouocabit hinnulus?</p>
+  <p>(190) Aquilamue cornix? Madian</p>
+  <p>Cum lacte matris imbibit ferociam,</p>
+  <p>Ad bella natus aspera.</p>
+  <p>Numerosus hostis est, &amp; idem barbarus</p>
+  <p>Nos exigua populi manus</p>
+  <p>(195) Placidae quieti nata, nata numini</p>
+  <p>Patrum colendo perpetim.</p>
+  <p>Angelus. Res non gerentur viribus mortalium,</p>
+  <p>Sed vindicis Dei manu.</p>
+  <p>Pro te Deus pugnabit, vnicum vt virum</p>
+  <p>(200) Sic dißipabis Madian.</p>
+  <p>Gedeon. Fiat igitur summo quod est visum Deo,</p>
+  <p>Praefractus hanc nec abnuo</p>
+  <p>Quam praecipit prouinciam capessere,</p>
+  <p>Promissa nam soluet Deus.</p>
+  <p>(205) Sed si fauoris certa me spes detinet:</p>
+  <p>Resiste paulisper precor.</p>
+  <p>Adorno sacram mente casta victimam,</p>
+  <p>Tuis dicandam honoribus.</p>
+  <p><milestone unit="folio" facs="C"/></p>
+  <p>Et parce quaeso, certiori si quiaci. ??BBJB</p>
+  <p>(210) Signo velim cognoscere.</p>
+  <p>Angelus. Haud difficulter hic tibi subseruiam,</p>
+  <p>Quod erat in animo perfice.</p>
+  <p>Digresso ??BBJB</p>
+  <p>Sensere Domini vindicis potentiam</p>
+  <p>Gentis rebellis pectora,</p>
+  <p>(215) Sensere numen, quum feroces viribus</p>
+  <p>Coiere Reges, copiis</p>
+  <p>Castrisque iunctis, seruitutem ciuibus</p>
+  <p>Eius minati &amp; vincula.</p>
+  <p>Offensus iram prorogat suam Deus.</p>
+  <p>(220) Ast vindicat tandem, graui</p>
+  <p>Premens flagello, nec resistit, dum malis</p>
+  <p>Ponant modum rationibus. Proinde mortales citius aut serius</p>
+  <p>Manenda cum sit vindicis</p>
+  <p>(225) Dei manus, ni tempori resipiscitis</p>
+  <p>Delebit omnes funditus.</p>
+  <p>Incidere quam sit horridum perpendite</p>
+  <p>Viuentis in manus Dei.</p>
+  <p>Quid est acerbis quod gemit sub cladibus</p>
+  <p>(230) Vtraque quicquid respicit</p>
+  <p>Titan domo? sibi malum hoc ipsi suis</p>
+  <p>Equis ferunt, non uult Deus</p>
+  <p>Hos perditos, vltro tamen ter &amp; quater</p>
+  <p>Miseri, abeunt se perditum</p>
+  <p>(235) Dum tempus est igitur, simul resipiscite.</p>
+  <p>Cupit misericors hoc Deus.</p>
+  <p>Gedeon. Adsum Domine, seruum tuum ne despice,</p>
+  <p>Sacrificium tibi adfero. <ptr target="#tn2" n="2"/></p>
+  <p>Fac vt sciam qui sis Domine, signum volo.</p>
+  <p>(240) Hoc igitur in lapide loca</p>
+  <p>Quod attulisti, mox rigabis in scuto.</p>
+  <p>Fiet Domine. Vae vae mihi.</p>
+  <p>Iam nulla vitae spes mihi restat super,</p>
+  <p>O quantus animum nunc metus</p>
+  <p>(245) Versat meum, quod Angelum vidi Dei.</p>
+  <p>Deus meus me respice.</p>
+</div>
+<div type="level1" xml:id="actus-primi.-scena-quarta.">
+  <head>8. Actus primi. Scena quarta.</head>
+  <p>Deus. Gedeon.</p>
+  <p>Deus. POne metum Gedeon, terror procul omnis abesto,</p>
+  <p>Nullum periclum Gedeon tibi imminet.</p>
+  <p>Pax tecum manet alta, quies foelicibus armis</p>
+  <p>(250) Mox comparata, te beabit &amp; tuos.</p>
+  <p>Gedeon. Ergo tibi statuam sacris solennibus aras,</p>
+  <p>Quas saepe taurus sanguine imbuet suo.</p>
+  <p>Hic placidam precibus nostris accomodat aurem,</p>
+  <p>Qui regnat altum maximus super aethera.</p>
+  <p>(255) Hic placidam nobis pacem denunciat, ergo</p>
+  <p>Locus hic Dei pax nuncupabitur, polum</p>
+  <p><milestone unit="folio" facs="Cij"/></p>
+  <p>Dum vagus alterna lustrabit lampade Titan,</p>
+  <p>Tellus marinis dum alluetur fluctibus.</p>
+  <p><hi rend="bold">Chorus primus.</hi></p>
+  <p>Tota quidem Domini terra est, &amp; quicquid vbique</p>
+  <p>(260) Vel parca celat vel benigna sufficit,</p>
+  <p>Quique colunt montesque feros, camposque feraces,</p>
+  <p>Vrbesque sanctis temperatas legibus.</p>
+  <p>Ille super pelagus solidum connexuit orbem,</p>
+  <p>Stabilis vt vndas inter instabiles foret,</p>
+  <p>(265) Et toties rapidis pulsatus fluctibus, omnes</p>
+  <p>Compage firma sustineret impetus.</p>
+  <p>Cuncta igitur merito Domini sunt: sed tamen vnam</p>
+  <p>Sedem sibi ille dedicauit propriam.</p>
+  <p>Ecquis eo scandet? cuiue haec permissa potestas,</p>
+  <p>(270) Loco vt beatum sistat in sancto gradum?</p>
+  <p>Cui manus &amp; mens est insons, nec vana volutat</p>
+  <p>Animo, nec vlli damna periurus dedit.</p>
+  <p>Huic Dominus donabit opes: hunc numine dextro</p>
+  <p>A vi, procacique eruet calumnia.</p>
+  <p>(275) Haec vera est pietas, hac itur ad aethera, veri</p>
+  <p>Sic intueri numinis vultum licet.</p>
+</div>
+<div type="level1" xml:id="actus-secundus.-scena-prima.">
+  <head>10. Actus secundus. Scena prima.</head>
+  <p>Crafgasticus. Philostasiotes. Thoribodes.</p>
+  <p>Crafgast. CErbere qui Ditis latratu regna trifauci</p>
+  <p>Peruigili seruas studio, quem noxia turba</p>
+  <p>Horret, &amp; angustis cupit euitare cauernis.</p>
+  <p>(280) Quis tandem fuit, infando qui praeditus ausu</p>
+  <p>Euertit statuam Baalim, lucumque parentum</p>
+  <p>Relligione sacrum est ausus tondere bipenni?</p>
+  <p>Philostasiotes. Te refugi fallant latices, atque ore natanti</p>
+  <p>Arescat decepta sitis, dapibusque relictis</p>
+  <p>(285) In tua mansurus migret praecordia vultur,</p>
+  <p>Qui Baalim tollis scelerum fabricator honores.</p>
+  <p>Thoribod. Trans Styga, trans erebum, te raptent Ditis alumni.</p>
+  <p>Infra Titanum tenebras, infraque recessus</p>
+  <p>Tartareos: coecumque chaos quo flebilis orci</p>
+  <p>(290) Fundamenta latent, praeceps vbi mersus anheles,</p>
+  <p>Dum rotat astra polus, feriunt dum littora venti.</p>
+  <p>Crafgas. Nunquam hodie scelus hoc certe remanebit inultum,</p>
+  <p>Persequar inuisum caput hoc, per saxa, per ignes,</p>
+  <p>Cum tetro fundat sceleratam sanguine vitam.</p>
+  <p>(295) Dic age quis scelus hoc insana mente patrauit?</p>
+  <p>Thoribod. Nescio quid timido rumor submurmurat ore,</p>
+  <p>Nominat hunc Gedeona, loas ex sangune cretum.</p>
+  <p>Philost. Quis precor huic tantos animos ad crimina fecit,</p>
+  <p>Omnia qui manibus violauit sacra prophanis?</p>
+  <p>(300) Sol prius occiduo quam condat in aequore currum</p>
+  <p>Ingentes nobis poenas dabit improbus, aegro</p>
+  <p>Sentiet hoc fixum moriens in pectore ferum.</p>
+  <p>Crafgast. Omnia sic etiam coelestia numina iuro,</p>
+  <p>Et quaecunque latent ferali monstra baratro,</p>
+  <p>(305) Huic animam eripiam sontem per vulnera mille.</p>
+  <p><milestone unit="folio" facs="Ciij"/></p>
+  <p>Non ita Cadmeae lacerarunt Penthea matres,</p>
+  <p>Dardanidas Graij non tanta clade cohortes</p>
+  <p>Affecere, tibi quam diram perfide mortem</p>
+  <p>Apparo, qui violas manibus diuina prophanis.</p>
+</div>
+<div type="level1" xml:id="actus-secundi.-scena-secunda.">
+  <head>11. Actus secundi. Scena secunda.</head>
+  <p>Ioas. Phara. Crafgasticus. Philosta¬</p>
+  <p>siotes. Thoribodes.</p>
+  <p>(310) Ioas. VEtusta ad aures fama nostras attulit,</p>
+  <p>Serisque patres posteris</p>
+  <p>Stupenda facta tradidere à te Deus</p>
+  <p>Priscis patrata saeculis.</p>
+  <p>Eliminatis quum prophanis gentibus,</p>
+  <p>(315) Et incolis prioribus,</p>
+  <p>Horum labore fructibusque perfrui</p>
+  <p>Nostris dedisti patribus.</p>
+  <p>Certe nec armis lucidis, nec viribus</p>
+  <p>Debemus has victorias,</p>
+  <p>(320) Sed nos fauoris aura mollis, &amp; tua</p>
+  <p>Protexit indulgentia.</p>
+  <p>Ergo salutis author vnice ô Deus,</p>
+  <p>Ades piis salutifer.</p>
+  <p>Te dante vires, hostium ferociam</p>
+  <p>(325) Tam facile profligabimus</p>
+  <p>Taurus minaci quam iacit cornu pilas,</p>
+  <p>Stipulaeue fasces aridae.</p>
+  <p>Superba Regum colla crasso in puluere</p>
+  <p>Prostrata conculcabimus.</p>
+  <p>(330) Non arcus istam letifer fiduciam,</p>
+  <p>Non macro saeuus ingerit.</p>
+  <p>Tu nos ab hoste subtrahes, sternes solo</p>
+  <p>Insensa nobis agmina.</p>
+  <p>Non ergo semper iure te laudabimus</p>
+  <p>(335) Nostrae salutis vindicem?</p>
+  <p>Ac donec orbis astra voluet ignea,</p>
+  <p>Te prosequemur laudibus?</p>
+  <p>Mihi quotidie causa maior est, tuam</p>
+  <p>Vt praedicem clementiam,</p>
+  <p>(340) Humillimos qui respicis, quos splendida</p>
+  <p>Reponis inter sydera.</p>
+  <p>Nam quis ego sum cuius tuo de germine</p>
+  <p>Populo ducem determines?</p>
+  <p>Ergo obsequentes legibus erimus tuis,</p>
+  <p>(345) Deos perosi gentium,</p>
+  <p>Donec vicißim roscidae nocti dies</p>
+  <p>Succedet, &amp; nox lumini.</p>
+  <p>Phara. Quid armifer sibi vult populus hic, qui viam</p>
+  <p>Affectat ad nos, nescio</p>
+  <p>(350) Quam praeferens vultu minace ferociam?</p>
+  <p>In tempore tibi prospice.</p>
+  <p>Presagit animus nam mihi mali quippiam,</p>
+  <p>In foribus est periculum.</p>
+  <p>Ioas. Fili, Deo curae sumus, nil impij</p>
+  <p>(355) Queant nocere, si Deus</p>
+  <p>Velit tueri nos potenti dextera.</p>
+  <p>Illis dolet videlicet,</p>
+  <p>Nemus quod excisum impiis finem dedit</p>
+  <p>Abominationibus.</p>
+  <p>(360) Pessum Baal quod Gedeon aras dedit</p>
+  <p>Liuore tantum non crepant.</p>
+  <p>Verbis sed hic ponam modum. sunt proximi.</p>
+  <p>Crafgast. In tempore bone vir venis.</p>
+  <p>Saturandus est qui nostra torquet viscera</p>
+  <p>(365) Dolor, vbi nunc ter peßimus</p>
+  <p>Hostis deorum latitat? isthuc prodeat,</p>
+  <p>Mortem scelestus vt oppetat,</p>
+  <p>Ioas. Quid igitur animum exhulcerat vestrum precor?</p>
+  <p>Quem hostem deorum dicitis?</p>
+  <p>(370) Thoribod. Quasi nescias scelestus ille Gedeon</p>
+  <p>Quid nocte caeca fecerit.</p>
+  <p>Ioas. Praestare si quid fecerit, non est meum,</p>
+  <p>Nec est meis in aedibus,</p>
+  <p>AEtatem habet, nec imperio meo amplius</p>
+  <p>(375) Subest, viri togam induit.</p>
+  <p>Philost. Tutudit bipenni consecratum numini</p>
+  <p>Pietate maiorum nemus.</p>
+  <p>Subuertit aram maximo facram Deo</p>
+  <p>Baal, nephandus furcifer.</p>
+  <p>(380) Ioas. Quo vos furoris impetus queso rapit?</p>
+  <p>Quoue abstrahit vesania?</p>
+  <p>Vltoribus numnam Deus vobis eget</p>
+  <p>Iniuriam si passus est?</p>
+  <p>Si vester est Baal Deus: perdat suos</p>
+  <p>(385) Hostes trisulco fulmine</p>
+  <p>Lucis priusquam crastinae facem adferat</p>
+  <p>Tenebras fugans Titan polo.</p>
+  <p>Impune nunquam laeserit quisquam Deum</p>
+  <p>Opera data qui fit nocens.</p>
+  <p>(390) Premit scelestum poena culpam subsequens,</p>
+  <p>Modo serius, modo citius.</p>
+  <p>Thoribod. Verum quidem tu praedicas, malim tamen</p>
+  <p>Transuerberandum millies</p>
+  <p>Sceleratam vt expuat animam scelus dari.</p>
+  <p>(395) O si furores sentiat,</p>
+  <p>Quibus mihi distringitur pectus modo,</p>
+  <p>Vitam repente poneret.</p>
+  <p>Crasgast. Non Gedeon posthac mihi dicetur, at</p>
+  <p>Hierobaal, ter &amp; quater</p>
+  <p>(400) Hostis Deorum peßimus, poenas luet</p>
+  <p>Quocunque tandem tempore.</p>
+  <p><milestone unit="folio" facs="D"/></p>
+</div>
+<div type="level1" xml:id="actus-secundi.-scena-tertia.">
+  <head>12. Actus secundi. Scena tertia.</head>
+  <p>Reges Madianitarum. Zebee. Salmana.</p>
+  <p>Milites sex.</p>
+  <p>Zebee. IGnea vestit agros culmis cerealibus aestas,</p>
+  <p>Belloque vires suggerit.</p>
+  <p>Cessatum satis est igitur, caecisque latebris</p>
+  <p>(405) Decet pedes educere,</p>
+  <p>Hic nullam peperit laudem victoribus annus.</p>
+  <p>Torpemus imbelli otio.</p>
+  <p>Carpite tela manu, crudelesque induite iras,</p>
+  <p>Ite Israelem perditum.</p>
+  <p>(410) Salmana. Hic adeo populus laeta cum pace triamphat:</p>
+  <p>Augescit immensum in modum,</p>
+  <p>Vt nisi iam grauiter belloque fameque dometur:</p>
+  <p>Contemnat hostium manus.</p>
+  <p>Zebee. Hinc igitur motis par est discedere castris,</p>
+  <p>(415) Nos tempus &amp; coelum vocant.</p>
+  <p>Martis inauditos voluo sub pectore motus</p>
+  <p>Quos gens rebellis sentiet.</p>
+  <p>Nunquid erat satius quam tantas soluere poenas,</p>
+  <p>Colere Deos gentilium?</p>
+  <p>(420) Nostra nec insana contemnere numina mente:</p>
+  <p>Deos deorum maximos?</p>
+  <p>Quis precor est Dominus quem praedicat Israel, eius</p>
+  <p>Vbi patefit potentia?</p>
+  <p>Egregiam vero laudem gens ista reportat,</p>
+  <p>(425) Quae sic Deo fidit suo.</p>
+  <p>Primus militum. Adsumus instructi telis &amp; milite forti,</p>
+  <p>Animi pares fiducia.</p>
+  <p>Aspice quae fortem defendat lancea dextram,</p>
+  <p>Quis mucro latere pendeat.</p>
+  <p>(430) Haec recutitorum profundent tela cruorem,</p>
+  <p>Ditique mittent hospites.</p>
+  <p>Secundus militum Vos isthac bello defensos dextera reddet,</p>
+  <p>O inclyti populi duces.</p>
+  <p>Flauentes veluti grando deuastat aristas.</p>
+  <p>(435) Sic obruemus Israel.</p>
+  <p>Tertius. Nec certe vanos respiro pectoris aestus,</p>
+  <p>Vires potenter exeram.</p>
+  <p>Sunt mihi praestantes iuuenili in corpore vires,</p>
+  <p>Galeaeque consuetum caput</p>
+  <p>(440) Hostibus occurret, quanquam illos Iuppiter ipse</p>
+  <p>Armet trisulco fulmine.</p>
+  <p>Quartus. Praeteritos repeto memori cum pectore casus,</p>
+  <p>Armisque partam gloriam.</p>
+  <p>Non ego praeteritae virtutis praemia perdam,</p>
+  <p>(445) Ignauiae me mancipans,</p>
+  <p>Sed victo referam praeclarum ex hoste trophaeum,</p>
+  <p>Diis dicandum maximis.</p>
+  <p>Quintus. Non frustra praeßi cristata caßide crines,</p>
+  <p>Lorica nec pectus tegit.</p>
+  <p><milestone unit="folio" facs="Dij"/></p>
+  <p>(450) Nec frustra laeuum defendit parma lacertum,</p>
+  <p>Maculis refulgens aureis,</p>
+  <p>Tela sed hostilis maculabo sanguinis haustu,</p>
+  <p>Martis secundo numine.</p>
+  <p>Sextus. Martia nos etiam primis sectamur ab annis</p>
+  <p>(455) Castra, vt nihil vestrum queat</p>
+  <p>De nostris quisquam decerpere laudibus, eia</p>
+  <p>Quin hostium irruimus solum?</p>
+  <p>Primus ego aggrediar pugnantem cominus hostem,</p>
+  <p>Virtute rara dimicans.</p>
+  <p>(460) zebee. Fortibus haud semper res bellica viribus vti</p>
+  <p>Desiderat, sed plus valet,</p>
+  <p>Consilium interdum prudenti pectore natum:</p>
+  <p>Quàm robur ingens corporis.</p>
+  <p>Prudens exuperat firmas industria vires,</p>
+  <p>(465) Vt assequare quod velis.</p>
+  <p>Nos in quos igitur regni spes tota recumbit:</p>
+  <p>Consulere rebus conuenit.</p>
+  <p>Salmana. Nec prius hostiles cuneos tentabimus armis,</p>
+  <p>Quam colligamus copias.</p>
+  <p>(470) Consultum fuerit lordanis per vada totum</p>
+  <p>Exercitum traducere,</p>
+  <p>Huc vbi saxoso pulsatur flumine vallis</p>
+  <p>Munita montium ambitu,</p>
+  <p>Quam lesraelem vulgari nomine dicunt.</p>
+  <p>(475) Aciem tribunus instruat.</p>
+  <p>Haec eadem repetat litui cum murmure praeco</p>
+  <p>Idem vt phalanges audiant</p>
+  <p>Praeco. Concipiam ingentes flatus Rex inclyte, summis</p>
+  <p>Pulmonis ex penetralibus.</p>
+  <p>(480) Salmana. Aere cieto viros igitur, quo castra moueri</p>
+  <p>Exercitus totus sciat.</p>
+  <p>Praeco. Arrectis astet qui militat auribus, isthinc<ptr target="#tn3" n="3"/></p>
+  <p>Reges iubent discedere.</p>
+  <p>Scilicet est propero lordanis trans vada gressu</p>
+  <p>(485) Ad vallem eundum lesrael.</p>
+  <p>Tribunus. Ordinis hoc igitur dextra laeuaque tenete,</p>
+  <p>Errare neque alio licet.</p>
+  <p>Secundus. Mil. Nos animis promptis tua iussa capeßimus omnes,</p>
+  <p>Nam pruriunt nobis manus,</p>
+  <p>(490) Et cupimus certe immiti certare duello,</p>
+  <p>Dum claßicum pugnam indicet.<ptr target="#tn4" n="4"/></p>
+  <p>Zebee. Hic locus est quo vos translatis degere castris</p>
+  <p>Voluimus ô fortes viri.</p>
+  <p>Commoda cum sese dederint vt tempora pugnae,</p>
+  <p>(495) Populum obruamus Israël.<ptr target="#tn5" n="5"/></p>
+  <list type="ordered:arabic">
+    <item n="3">
+      <p>Militum. Montibus haec statio circundata, nos iubet esse</p>
+    </item>
+  </list>
+  <p>Vacuo timoris pectore.</p>
+  <p>Nunc fessas vires epulis recreare necesse est,</p>
+  <p>Fuso per herbam exercitu.<ptr target="#tn6" n="6"/></p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>(500) COelitum Rector bone, mitis aurem</p>
+  <p>Admoue in rebus trepidis vocanti,</p>
+  <p><milestone unit="folio" facs="Diij"/></p>
+  <p>* -</p>
+  <p>Neu meos vulta tetrico severus</p>
+  <p>Despice questus.</p>
+  <p>Aspice attentus mihi quo tumultu</p>
+  <p>(505) Aestuet pectus, gemitu dolores</p>
+  <p>Quo fremant, dum vis mihi frausque saeui</p>
+  <p>Imminet hostis.</p>
+  <p>Imminet saeuus capiti tyrannus,</p>
+  <p>Et meae mortis meditatur atrox</p>
+  <p>(510) Crimen, &amp; secum furit impotenti</p>
+  <p>Turbidus ira.</p>
+  <p>Cor micat, neruis trepidant solutis</p>
+  <p>Oßium nexus, animus labascit</p>
+  <p>Semper et pallens oculis oberrat</p>
+  <p>(515) Mortis Imago.</p>
+  <p>Sed Deus vultu aspiciens amico,</p>
+  <p>Nos quibus curis premimur, resoluet</p>
+  <p>Gaudio luctum, dabit et serenae</p>
+  <p>Tempora vitae.</p>
+</div>
+<div type="level1" xml:id="actus-tertij.-scena-prima.">
+  <head>14. Actus tertij. Scena prima.</head>
+  <p>Deus. Gedeon. Phara. Praeco.</p>
+  <p>(520) TEmpus adest promissa velim quo soluere, gentem</p>
+  <p>Et vindicare ab hostibus</p>
+  <p>Quam firmata mihi propriam per foedera feci.</p>
+  <p>Huc admoue aures Gedeon,</p>
+  <p>-</p>
+  <p>Gedeon. Me me adsum, moneas seruum Domine, ecce paratus</p>
+  <p>(525) In omnibus tibi obsequi est.</p>
+  <p>Deus. Dißimulo tacitus curas quandoque meorum,</p>
+  <p>Ipsorum vt explorem fidem,</p>
+  <p>Sed tandem postquam res deplorata videtur,</p>
+  <p>Forti assero dextra meos.</p>
+  <p>(530) Hostiles poteram nutu disperdere turmas,</p>
+  <p>Terraeque hiatu absumere:</p>
+  <p>Verum ex mille modis superûm quibus vltio constat,</p>
+  <p>Mihi hic probatur maxime.</p>
+  <p>Vt socias se armare tribus, patriamque tueri</p>
+  <p>(535) Clangente iubeas buccina.</p>
+  <p>Doque dedique fidem vestris quod partibus astans</p>
+  <p>Curabo, vt hostes occidant.</p>
+  <p>Vos ego crudeli incolumes ex hoste reducam,</p>
+  <p>Ceu trans rubrum ductos fretum.</p>
+  <p>(540) Gedeon. O bonitas immensa Dei, qui talia seruis</p>
+  <p>Praestat suis beneficia.</p>
+  <p>Phara. O Domine haud quisquam meritas persoluere grates</p>
+  <p>Tibi queat mortalium.</p>
+  <p>Praeco. Quis tantas iusto decantet carmine laudes,</p>
+  <p>(545) Quantas mereris ò Deus?</p>
+  <p>Gedeon Haec igitur Domini nostris edissere dicta.<ptr target="#tn7" n="7"/></p>
+  <p>Vt iam iam ad arma constuant.</p>
+  <p>Praeco. Noxia quandoquidem fuerit mora, sedulus istam Obiuero
+  prouinciam.</p>
+  <p>(550) Gedeon Te Deus alme colam, te toto pectore amabo,<ptr target="#tn8" n="8"/></p>
+  <p>Mea ô Deus potentia.</p>
+  <p>Tu clypeus, tu tela mihi, tu certa salutis</p>
+  <p>Spes, obtinendae ex his malis.</p>
+  <p>Iam nos laetiferis mors circumuoluerat atra</p>
+  <p>(555) Ni tu iuuares caßibus.</p>
+  <p>Te duce sternemus rutilantes aere phalanges,</p>
+  <p>Quas ductor hostis dirigit.</p>
+  <p>Laus, honor, imperium Domino, qui robore summo</p>
+  <p>Ex morte nos media eripit.</p>
+</div>
+<div type="level1" xml:id="actus-tertij.-scena-secunda.">
+  <head>15. Actus tertij. Scena secunda.</head>
+  <p>Praeco. Gedeon.</p>
+  <p>(560) GEns pugnare manu prompta, &amp; studiosa laborum,<ptr target="#tn9" n="9"/></p>
+  <p>Confestim vt clangor litui peruenit ad aures,</p>
+  <p>Te gauisa duce: assumptis huc irruit arnis.</p>
+  <p>Nec dubium quin sic animos permouerit ille,</p>
+  <p>Qui regit astrigeri splendentia climata coeli:</p>
+  <p>(565) Auscultate precor validae virtutis alumni<ptr target="#tn10" n="10"/></p>
+  <p>Et delecta Deo quondam sanctißima proles,</p>
+  <p>Quas struat insidias, ipsis exosa Deorum</p>
+  <p>Consiliis, gens crudelis, male perfida, fallax.</p>
+  <p>Nunc calcata iacet peregrina falce repressa</p>
+  <p>(570) Tempore quae fuerat nobis spes vna futuro.</p>
+  <p>Cernitis agricolas miseros qui sedibus almis</p>
+  <p>Pulsi, spem vitae vestris posuere sub armis.</p>
+  <p>Hostis at interea nostris nunc fulminat aruis</p>
+  <p>Et metit arboreos fructus, nunc pabula equorum</p>
+  <p>(575) Sunt segetes, nostrae quondam spes maxima vitae.</p>
+  <p>Quis ferat hos animos tandem? quis perfida coepta</p>
+  <p>Sustineat? gentis quis poßit facta proterua</p>
+  <p>Ferre? vel insano quem fert sub pectore fastum?</p>
+  <p>Haecne ferenda viris, Domini quos sancta voluntas</p>
+  <p>(580) Hos habitare locos iußit? quae terra parentum</p>
+  <p>Est data promißis, proprio quam sanguine partam</p>
+  <p>Incoluere patres, hanc nobis barbarus hostis</p>
+  <p>Vastat, &amp; immeritos vexat crudelibus armis.</p>
+  <p>O gens Isacidûm fortis, num robore sancto</p>
+  <p>(585) Quinque simul potuit se opponere regibus Abram,</p>
+  <p>Et pauidos hostes foelici fundere dextra?</p>
+  <p>Num losue potuit totum pugnacibus armis</p>
+  <p>Hoc vastare solum, quamuis saeui arma gygantes</p>
+  <p>Ferrent? hic igitur toties te perfidus hostis</p>
+  <p>(590) Luserit &amp; nostrum vastauerit aduena regnum?</p>
+  <p>Ac impune feret? quis nunc virtutis auitae</p>
+  <p>Est memor? aut quem nunc praestantia facta parentum</p>
+  <p>Tangunt? ab tantam vestris depellite pestem</p>
+  <p>Sedibus, en patria in nostra nunc barbara tela,</p>
+  <p>(595) Barbarus en miles foelicibus errat in agris.</p>
+  <p>Vos quaeso vestrae moueant quas foedere lecti</p>
+  <p>lunxistis nuptae, misere quas Barbarus hostis</p>
+  <p>Abripiet captas, moueat vos paruula proles,</p>
+  <p>Vnica quae nobis nunc spes est gentis auitae:</p>
+  <p><milestone unit="folio" facs="E"/></p>
+  <p>(600) Addite quod Dominus promißi haud immemor vnquam</p>
+  <p>Foelici incolumes ex bello nostra reducet</p>
+  <p>Agmina, nunc igitur patriae defendite fines,</p>
+  <p>Vt conseruentur fidei rata foedera sanctae.</p>
+  <p>Primus Militum. Explorabo meas vires, si forte leuamen,</p>
+  <p>(605) Suppeditare queant populo sub mole ruenti.</p>
+  <list type="ordered:arabic">
+    <item n="2">
+      <p>Militum. Nil intentatum linquam, quo barbarus hostis</p>
+    </item>
+  </list>
+  <p>Det poenas, vitae spiracla nouißima fundens</p>
+  <list type="ordered:arabic">
+    <item n="3">
+      <p>Mil. Cuncta licet ferro longe lateque reuellant:</p>
+    </item>
+  </list>
+  <p>Non tamen iccirco me terror inutilis angit.</p>
+  <p>(610) 4. Mil. Quin spero rigidos superare potentibus
+  hostes</p>
+  <p>Armis, si faueat, qui vasti est arbiter orbis.</p>
+  <list type="ordered:arabic">
+    <item n="5">
+      <p>Mil. Portabo aduersum fidens ego pectus in hostem,</p>
+    </item>
+  </list>
+  <p>Cordaqe vulnificis transfigam inimica fagittis.</p>
+  <list type="ordered:arabic">
+    <item n="6">
+      <p>Mil. Afferet auxilium ex adyto sublimis olympi</p>
+    </item>
+  </list>
+  <p>(615) Qui iustis totum moderatur legibus orbem.</p>
+  <list type="ordered:arabic">
+    <item n="7">
+      <p>Mil. Haud aegre patriae positurus nomine vitam</p>
+    </item>
+  </list>
+  <p>Coniunctis densos inuadam viribus hostes.</p>
+  <list type="ordered:arabic">
+    <item n="8">
+      <p>Mil. Pectori adaptabo vires, pectusque furori,</p>
+    </item>
+  </list>
+  <p>Infesti donec violentia corruat hostis.</p>
+  <p>(620) Gedeon. Sic sic magnanimo praestantes pectore, sic
+  sic</p>
+  <p>Pergite, lucescet tandem post nubila Phoebus.</p>
+  <p>Collisis quaßi crepitarunt nubibus ignes,</p>
+  <p>Vt quando aetherea Dominus nos conuenit arce,</p>
+  <p>Ibo igitur, coeli paucis vt numen adorem.</p>
+  <p>(625) Primus. Nos in procinctu interea expectabimus
+  hostem.</p>
+</div>
+<div type="level1" xml:id="actus-tertij.-scena-tertia.">
+  <head>16. Actus tertij. Scena tertia.</head>
+  <p>Gedeon. Deus.</p>
+  <p>Gedeon. O Conditor rerum Deus,</p>
+  <p>Seruum tuum ne despice,</p>
+  <p>Nec grauiter obsecro feras,</p>
+  <p>Si forsitan fundat preces</p>
+  <p>(630) Tuis molestas auribus.</p>
+  <p>Deus. Licet loquare, Gedeon</p>
+  <p>Gedeon. Non ambigo quin certius</p>
+  <p>Certißimo, nobis feres</p>
+  <p>Opem tuam, qua ex hostium</p>
+  <p>(635) Nos explicemus caßibus,</p>
+  <p>Sed parce queso, si tuam</p>
+  <p>Nimis vrgeo patientiam.</p>
+  <p>Domine Deus, si per manum</p>
+  <p>Meam erues ex hostibus</p>
+  <p>(640) Populum Israêl, fac vellus hoc</p>
+  <p>Humo quod instratum iacet,</p>
+  <p>Madescat imbre roscido,</p>
+  <p>Et tota terra sicca sit.<ptr target="#tn11" n="11"/></p>
+  <p>Miranda certe maximi</p>
+  <p>(645) Bonitas Dei, acclementia,</p>
+  <p>Optemperare qui suis</p>
+  <p>Dignatur etiam seruulis.</p>
+  <p>Sed exprimendus ros venit.</p>
+  <p>Insigne testimonium</p>
+  <p><milestone unit="folio" facs="Eij"/></p>
+  <p>(650) Bonitatis vt sit, maximi</p>
+  <p>Ac optimi semper Dei.</p>
+  <p>In me furoris ne tui</p>
+  <p>Queso impetus desaeuiat,</p>
+  <p>Tuus secundo seruulus,</p>
+  <p>(655) Si colloqui tecum audeat.</p>
+  <p>Fac rorulenta terra sit,</p>
+  <p>Siccumque vellus, dum suos</p>
+  <p>Sol obruit radios mari.</p>
+  <p>Praecipitat humida nox polo,<ptr target="#tn12" n="12"/></p>
+  <p>(660) O inclytum Isacidum genus.</p>
+  <p>Res igitur hoc expostulat,</p>
+  <p>Sub pellibus quisque vt suis</p>
+  <p>Hanc transigat noctem, recens</p>
+  <p>Vt recreatis viribus:</p>
+  <p>(665) Occurrat hosti exercitus,</p>
+  <p>Aurora crastina cum polum</p>
+  <p>Tinget corusco lumine.</p>
+  <p>Prim. Mil. Prudenter istud consulis.<ptr target="#tn13" n="13"/></p>
+</div>
+<div type="level1" xml:id="actus-tertij.-scena-quarta.">
+  <head>17. Actus tertij. Scena quarta.</head>
+  <p>O Amor ô nulla superabilis arte Cupido</p>
+  <p>(670) Magnificas tacito qui pede tollis opes,</p>
+  <p>Nemo tuas superum potis est vitare sagittas,</p>
+  <p>Sint homines tuti per tua tela minus.</p>
+  <p>Illa tulit Phoebus, Mars &amp; Saturnia luno:</p>
+  <p>Aequoris illa Deus: Aetheris illa Deus.</p>
+  <p>(675) Nos etiam sanctis colimus tua numina votis,</p>
+  <p>Blandus ades dum nox induit astra polo.</p>
+  <p><hi rend="bold">Chorus.</hi></p>
+  <p>DVm ferox armis inimicus instat,</p>
+  <p>Ad montes vaga lumina</p>
+  <p>Proximos circunfero, si quid illinc</p>
+  <p>(680) Forte appareat auxili.</p>
+  <p>At mihi coeli Dominus solique</p>
+  <p>Certam solus opem feret.</p>
+  <p>Ille, quid vano trepidans tumultu</p>
+  <p>Cor pulsas mihi pectora?</p>
+  <p>(685) Ille sanctorum (mihi crede) custos</p>
+  <p>Noctes excubat &amp; dies,</p>
+  <p>Victa nec blandi illecebris soporis:</p>
+  <p>Vnquam lumina dimouet.</p>
+  <p>Sospitem è cunctis Dominus periclis</p>
+  <p>(690) Semper te bonus eruet.</p>
+</div>
+<div type="level1" xml:id="actus-quarti.-scena-prima.">
+  <head>19. Actus quarti. Scena prima.</head>
+  <p>Gedeon. Milites. Deus.</p>
+  <p>Gedeon. AVrea nunc motis Palantias emicat astris,</p>
+  <p>Germanoque locum cedit Latonia Phoebe.</p>
+  <p>Visam num precibus nostris concesserit aurem:<ptr target="#tn14" n="14"/></p>
+  <p>Qui circunfuso suspendit in aëre terras.</p>
+  <p><milestone unit="folio" facs="Eiij"/></p>
+  <p>(695) Tota quidem gelido tellus nunc rore madescit.</p>
+  <p>Tam siccum est vellus quam cum post tempora veris <ptr target="#tn15" n="15"/></p>
+  <p>Syrius exurit sitientes feruidus agros.</p>
+  <p>Quid multis? qui tot dubitat post edita signa:</p>
+  <p>Est dignus, tellus quem vasto absumat hiatu.</p>
+  <p>(700) Carmine te celebri dominumque Deumque fatebor</p>
+  <p>Dum reget hos calidi vel guttula sanguinis artus.</p>
+</div>
+<div type="level1" xml:id="actus-quarti.-scena-secunda.">
+  <head>20. Actus quarti. Scena secunda.</head>
+  <p>Oreb. Zeb. Zebee. Salmana Reges</p>
+  <p>vna cum suis militibus.</p>
+  <p>Oreb. COllegit hostis si dijs</p>
+  <p>Placet, feroces copias.</p>
+  <p>Nondum icta toties pectoris</p>
+  <p>(705) Sani obtinens vel vnicam</p>
+  <p>Micam, popelii sordidi</p>
+  <p>Exosa turba gentibus.</p>
+  <p>Zeb. Impune non louis armiger</p>
+  <p>Animalculi vilißimi</p>
+  <p>(710) Contempserat potentiam.</p>
+  <p>Quare fere tutißimum est</p>
+  <p>Vel tuta pertimescere.</p>
+  <p>Zebee. Aliquoties plebecula haec</p>
+  <p>Opprimitur iratis dijs,</p>
+  <p>(715) Foeliciore protasis,</p>
+  <p>Sed clauditur Cathastrophe.</p>
+  <p>Salmana. Quasi sit genus mortalium</p>
+  <p>Qui curet, &amp; non casibus</p>
+  <p>Regantur incertis vices,</p>
+  <p>(720) Quibus ista mundi machina,</p>
+  <p>Similis manens sui, omnium</p>
+  <p>Vitam tuetur, ac fouet.</p>
+  <p>Oreb. Cùm crastinum diluxerit ˂ crastinm</p>
+  <p>Solis iubar: videbimus</p>
+  <p>(725) Quid poßit hostis viribus.</p>
+  <p>Zeb. Neque dicta nunc velim mea</p>
+  <p>Sic accipi, quod rennuam</p>
+  <p>Cum gente ferro congredi,</p>
+  <p>Quam nominari vix fero.</p>
+  <p>(730) Zebee. Iam septies nobis dedit</p>
+  <p>Poenas suae vesaniae</p>
+  <p>Vilißima haec plebecula,</p>
+  <p>Clementioribus hactenus</p>
+  <p>Nobis sed vsi. nunc ferent</p>
+  <p>(735) Quod victor audebit ferox,</p>
+  <p>Oestro furoris percitus.</p>
+  <p>Salmana. Vigilatne miles excubans?</p>
+  <p>Primus militum. Vigilat, nec est qui non suam</p>
+  <p>Rectißime prouinciam</p>
+  <p>(740) Nunc administret temporis,</p>
+  <p>Rex Salmana inuictißime.</p>
+  <p>Salmana. Isthuc volebam, nam solet</p>
+  <p>Vigilantia periculum</p>
+  <p>Quod imminet retundier.</p>
+  <p>(745) Primus militum. Est vestra nobis maxime</p>
+  <p>Curae salus, facillime</p>
+  <p>Feramus hoc vt tedij,</p>
+  <p>Generare quod solet labor.</p>
+  <p>Oreb. Seruos fideles quod decet</p>
+  <p>(750) Fecisse vos semper scio.</p>
+  <p>Proinde cum bello editae</p>
+  <p>Pacis fruemur commodo:</p>
+  <p>Feretis ampla praemia.</p>
+  <p>Zebee. Facite vt sciamus tempori,</p>
+  <p>(755) Vel musca si praeteruolet.</p>
+  <p>Primus militum. Curabitur recte admodum:<ptr target="#tn16" n="16"/></p>
+</div>
+<div type="level1" xml:id="actus-quarti.-scena-tertia">
+  <head>21. Actus quarti. Scena tertia</head>
+  <p>Gedeon. Phara. Milites</p>
+  <p>Gedeon. INtempesta quidem nox est, &amp; fessa labore</p>
+  <p>Corpora nunc essent grato recreanda sopore:</p>
+  <p>Hostica sed Dominus vult nos inuadere castra,</p>
+  <p>(760) Auspice quo foelix iam nunc cadet alea belli.</p>
+  <p>Primus militum. Num graue sit vitam posituro soluere somnum?</p>
+  <list type="ordered:arabic">
+    <item n="2">
+      <p>Militum. Est quocunque vocat Dominus sine murmure eundum.</p>
+    </item>
+    <item>
+      <p>Militum. Nectam alas humeris, pedibus talaria nectam,</p>
+    </item>
+  </list>
+  <p>Consequar vt celeri Regem Gedeona cursu.</p>
+  <p>(765) 4. Militum. Degener haud vnquam remorabitur optima
+  terror</p>
+  <p>Pectora, quae virtus incendit laudis amore.</p>
+  <p>5. Mil. Intrepidus quocunqe voles, &amp; duxeris, ibo.</p>
+  <list type="ordered:arabic">
+    <item n="6">
+      <p>Mil. Fidus ego fuero Gedeon tibi semper Achates.</p>
+    </item>
+    <item>
+      <p>Mil. Quolibet abducas vel mortis claustra subibo.</p>
+    </item>
+  </list>
+  <p>(770) 8. Mil. Ardet pugnandi miro mihi pectus amore.</p>
+  <p>Gedeon. O animis validi Abramidae, nunc fortibus armis</p>
+  <p>Has aptate manus, queis duros ante labores</p>
+  <p>Pro patria a Domino promissa saepe tulistis.</p>
+  <p>Non procul hostis abest, vicino hostilia castra</p>
+  <p>(775) Sunt defixa loco, pellendus milite forti</p>
+  <p>Nunc erit, aut seruum praebendum in vincula corpus.</p>
+  <p>Nunc memores patriae, nuptas &amp; pignora chara</p>
+  <p>Voluite, victrici patrios inuisere dextra</p>
+  <p>Sit nunc cura lares, pulchrum est audere paternos</p>
+  <p>(780) Defensare locos; pulchrum est pugnando tenere</p>
+  <p>Promissas nostris olim maioribus vrbes.</p>
+  <p>Non vos luctificae mortis, non tristis imago</p>
+  <p>Bellorum moueat, forti quin pectoris aestu</p>
+  <p>Pergite, nunc hosti vestras ostendite vires.</p>
+  <p>(785) Nunc animis opus est, nunc vos defendite telis.</p>
+  <p>Fingite nunc nuptas, &amp; auos, charosque parentes</p>
+  <p>In vestris gladiis solam retinere salutem.</p>
+  <p>Pergite nunc porro, qua monti vallis adhaeret,</p>
+  <p>Fons vbi bullit Arad tenui pellucidus vnda</p>
+  <p>(790) 9. Mil. Ductorem sequimur quo tandemcunqe vocemur.</p>
+  <p><hi rend="bold">Chorus.<ptr target="#tn17" n="17"/></hi></p>
+  <p>REgnator orbis vnus, &amp; verus Deus,</p>
+  <p>Solumque numen propitium, pollens, potens,</p>
+  <p><milestone unit="folio" facs="F"/></p>
+  <p>Idem seuerus vltor, &amp; clemens pater.</p>
+  <p>Tuis tremendus &amp; seuerus bostibus,</p>
+  <p>(795) Tuis amicis lenis, &amp; salutifer,</p>
+  <p>Irae timendae, sed tamen placabilis,</p>
+  <p>Amore feruens, idem, &amp; irritabilis.</p>
+  <p>Nos seruitutis iusta presserunt mala,</p>
+  <p>Meritasque poenas dedimus impij, impiis,</p>
+  <p>(800) Benignitatis sed tuae tandem memor:</p>
+  <p>Maerore pressos, obrutosque luctibus</p>
+  <p>Leuas beato gaudiorum nuncio.</p>
+</div>
+<div type="level1" xml:id="actus-quinti.-scena-prima.">
+  <head>23. Actus quinti. Scena prima.</head>
+  <p>Deus. Gedeon.</p>
+  <p>Deus. HVc aures patulas Gedeon, huc lumina flecte.</p>
+  <p>Gedeon. Asto paratus obsequi, tu praecipe.</p>
+  <p>(805) Deus. Magna nimis tecum populi vis tendit in hostem,</p>
+  <p>Quam non beabo gloria victoriae</p>
+  <p>Ne quando auertens recto de tramite gressus,</p>
+  <p>Et mente male grata Israêl, velut solet,</p>
+  <p>Hunc mihi promeritae decerpat laudis honorem,</p>
+  <p>(810) Propriis redemptam iactitans se viribus.</p>
+  <p>Nuncius haec igitur cunctis expromito dicta:</p>
+  <p>Ambage nulla nuncium circumloquens,</p>
+  <p>Si quis degenerem non prorsus mente timorem</p>
+  <p>Exclusit, aedes vt paternas hinc petat.</p>
+  <p>(815) Gedeon. Nulla mora est in me, tua iussa facessere regnum
+  est,</p>
+  <p>O qui latebras mentium abditas vides.</p>
+  <p>Languida si pauidus cuiusquam pectora terror<ptr target="#tn18" n="18"/></p>
+  <p>Occupat, abire hunc praecipit Deus ad suos,</p>
+  <list type="ordered:arabic">
+    <item n="5">
+      <p>Israel. Frustra tentamus Iudaica regna tueri</p>
+    </item>
+  </list>
+  <p>(820) Imbellis huius signa sectati ducis.</p>
+  <p>Hostiles quoties turmas &amp; castra recordor</p>
+  <p>Terrore sanguis frigidus mihi diffluit.</p>
+  <p>Gedeon. Quid tacitus voluis quod aperta fronte fatendum est?</p>
+  <p>Quid gannientis vulpis instar murmuras?</p>
+  <p>(825) 5. Israel. Hinc pugnare vetat mens quae labefacta
+  timore</p>
+  <p>Curas medullis intimis premit graues,</p>
+  <p>Hinc pugnare iubet pudor, huc ita fluctibus illuc</p>
+  <p>Luctantibus certi nihil tenens feror.</p>
+  <p>Gedeon. Non intrat reprobum fidei spes credula pectus</p>
+  <p>(830) Isthinc facesse dedecus nostrae domus.</p>
+  <p>Defecere duo &amp; viginti millia castris,<ptr target="#tn19" n="19"/></p>
+  <p>Superant decem tantum virorum millia.</p>
+  <p>Deus. Magna nimis rursus populi vis tendit in hostem,</p>
+  <p>Sed imperatis te meis accommoda.</p>
+  <p>(835) Non procul obliquo lustratur flumine vallis,</p>
+  <p>Vbi indicabo quos velim hosti occurrere.</p>
+  <p>Pergite qua nunc me praeeuntem cernitis, ipse<ptr target="#tn20" n="20"/></p>
+  <p>Sic vult ab alto qui regit mundum aethere.</p>
+  <p>Qui desumpta manu canis instar flumina lambent.</p>
+  <p>(840) Iubeas seorsim a caeteris consistere.</p>
+  <p><milestone unit="folio" facs="Fij"/></p>
+  <p>i. 4.</p>
+  <p>Gedeon. O comites dum facta dei miranda recordor</p>
+  <p>Obstupeo, verbis ora nec praehent iter.</p>
+  <p>Nos igitur quoniam nescimus sensa Tonantis:<ptr target="#tn21" n="21"/></p>
+  <p>Parere tacitos numinis iußis decet.</p>
+  <p>(845) Hunc Dominus fluuium degustet quisque bibendo</p>
+  <p>lubet, patrabit suspicor quiddam noui.</p>
+  <p>Tum Deus. Qui lympham hauserunt canis instar forte trecenti,</p>
+  <p>Comitatus istis dißipabis Madian.</p>
+  <p>Gedeon. Vt valeant igitur reliqui te authore iubebo,</p>
+  <p>(850) Cibisque sumptis cum hoste conseram manus.<ptr target="#tn22" n="22"/></p>
+</div>
+<div type="level1" xml:id="actus-quinti.-scena-secunda.">
+  <head>24. Actus quinti. Scena secunda.</head>
+  <p>Cantent Madianitae.</p>
+  <p>(4)</p>
+  <p>BAcche pater viridi radiant cui cincta corymbo</p>
+  <p>Tempora, largifluus semper adesto tuis.</p>
+  <p>Optima tu grauibus praestas medicamina curis,</p>
+  <p>Et recreas dulci tristia corda mero.</p>
+  <p>(855) Tu praestas modulos, tu praestas carmnis artem,</p>
+  <p>Soluis in artifices nescia membra gradus.</p>
+  <p>Mane voco te, te voco, quando mergit in alto</p>
+  <p>Antipodas visens aequore Phoebus aequos.</p>
+</div>
+<div type="level1" xml:id="actus-quinti-scena-tertia.">
+  <head>25. Actus quinti: Scena tertia.</head>
+  <p>Gedeon. Milites. Dominus,</p>
+  <p>Gedeon: NOctis adest medium, placido nunc munere somni</p>
+  <p>(860) Mortales gaudent, taciturna silentia noctis</p>
+  <p>Nunc regnant, fulgent tacito vaga sydera coelo.</p>
+  <p>Pergite foelicis subituri praelia pugnae.</p>
+  <p>Primus militum. Nunquam commisit quin re promissa probaret</p>
+  <p>Auspice quo belli casus tentare supremos</p>
+  <p>(865) Est animus, quare te Dux spes optima lactet.</p>
+  <list type="ordered:arabic">
+    <item n="2">
+      <p>Militum. Non metuo quicquam, valet hinc procul improbus
+      ille</p>
+    </item>
+  </list>
+  <p>Et metus, &amp; stultam quotquot ludibria mentem</p>
+  <p>Conturbare solent, suspiro tempora pugnae.</p>
+  <list type="ordered:arabic">
+    <item n="3">
+      <p>Mil. Te duce nequaquam numerosi militis hostem</p>
+    </item>
+  </list>
+  <p>(870) Extimeo, qui non vllo virtutis amore</p>
+  <p>Efferus, &amp; nulla qui relligione mouetur.</p>
+  <list type="ordered:arabic">
+    <item n="4">
+      <p>Mil. Deseret vnda prius nudos in littore pisces,</p>
+    </item>
+  </list>
+  <p>Et Phoebus tenebras facto sibi foedere iunget,</p>
+  <p>Quam tua sectari dum res sinet arma recusem.</p>
+  <p>(875) 5. MiI. Quanquam Israelem durus perterreat bostis,</p>
+  <p>Qui tamen auspicio Domini iusta induit arma:</p>
+  <p>Praeditus hac mente est vt nulla pericula curet.</p>
+  <list type="ordered:arabic">
+    <item n="6">
+      <p>Mil. Nos non concursus pugnae, non vlla negamus</p>
+    </item>
+  </list>
+  <p>Fortiter atroci tentare pericula marte,</p>
+  <p>(880) Cumque hoste audaci cupio concurrere pugna.</p>
+  <p>Gedeon. O gens lecta Deo qui cocaua nubila coeli</p>
+  <p>Qui mare, qui terrae totius maxima regna</p>
+  <p><milestone unit="folio" facs="Fiij"/></p>
+  <p>Imperio fraenat stabili, qui sedibus istis</p>
+  <p>Expulit immanes hostes, qui patribus istam</p>
+  <p>(885) Exhibuit terram, nos nunc defendet, in illum</p>
+  <p>Si modo spem vitae ponamus fortiter omnem.</p>
+  <p>Deus. Matura Gedeon latebrosae hoc tempore noctis,</p>
+  <p>Huc pergas, vbi nunc hostis tentoria fixit,</p>
+  <p>Quod si forte tibi pectus timor horridus angit.</p>
+  <p>(890) Si solus tentes quae sunt obeunda pericla:</p>
+  <p>Phara puer tecum descendat, fortius istud</p>
+  <p>Aggredieris opus, patulis quando auribus horum</p>
+  <p>Audieris voces. Ged: faciam quod praecipis vltro.</p>
+  <p>Mecum Phara. Prope est vigilum custodia, gressum</p>
+  <p>(895) Comprimo, sed patulas huc aures arrige, si quis</p>
+  <p>Forte per obscuram denarret somnia noctem.</p>
+</div>
+<div type="level1" xml:id="actus-quinti.-scena-quarta.">
+  <head>26. Actus quinti. Scena quarta.</head>
+  <p>Madianitae. Gedeon. Phara.</p>
+  <list type="ordered:arabic">
+    <item n="3">
+      <p>Madianitarum. EHeu recenti corda palpitant metu,</p>
+    </item>
+  </list>
+  <p>Mens horret, haeret vox in ipsis faucibus,</p>
+  <p>Nec ora verbis peruium praebent iter,</p>
+  <p>(900) Nocturna sic me visa miserum territant.</p>
+  <p>Quartus. Quibus obsecro vexatus es phantasmatis?</p>
+  <p>Tertius. Hoc somnium pectus mihi hercle lancinat,</p>
+  <p>Vulgariter siquidem solet prouerbio</p>
+  <p>Dici, sub auroram esse vera somnia.</p>
+  <p>(905) Quartus. Nunc porro quale somnium fuerit sciam.</p>
+  <p>Tertius. Videbar alta sub quiete ex hordeo</p>
+  <p>Cinericium panem videre, Madian</p>
+  <p>Qui castra magno dißiparet impetu.</p>
+  <p>Quartus Similia saepe animus mihi monstra ingerit.</p>
+  <p>(910) Porro fatebor quae mihi mens dictitat.</p>
+  <p>Est hordeum inter grana vile caetera,</p>
+  <p>In Israel sic Gedeon vilißimus.<ptr target="#tn23" n="23"/></p>
+  <p>Subuertet hostis castra Madianitici.</p>
+  <p>Quae polliceris esse vera res docet</p>
+  <p>(915) Deus ô Deorum maxime, ac fortißime.<ptr target="#tn24" n="24"/></p>
+</div>
+<div type="level1" xml:id="actus-quinti-scena-quinta.">
+  <head>27. Actus quinti: Scena quinta.</head>
+  <p>Gedeon. Milites vtriusque partis.</p>
+  <p>Gedeon. NVnc hosti tempus validas ostendere vires.</p>
+  <p>Sit mora tarda procul nunc est victoria certa.<ptr target="#tn25" n="25"/></p>
+  <p>Quisque tuba crepitet, cum res &amp; tempora poscent,</p>
+  <p>Exclametque Dei gladius, Gedeonis atque.</p>
+  <p>(920) 1. Mad. Vicerunt verpi, vitam fuga sola tuetur,</p>
+  <p>Consulite Reges inclyti vobis fuga.</p>
+  <list type="ordered:arabic">
+    <item>
+      <p>IsraeI. Vicimus ô comites, fugientem caedite turbam,</p>
+    </item>
+  </list>
+  <p>Quis hic locus? quae regio? quae mundi plaga?</p>
+  <list type="ordered:arabic">
+    <item n="2">
+      <p>Mad. Vbi sum? sub ortu solis? an sub cardine</p>
+    </item>
+  </list>
+  <p>(925) Glacialis vrsae? an occidente sub polo?</p>
+  <p>Quas trahimus auras? quod solum fesso subest?</p>
+  <p>Vbi socij? forti ille vbi grege militum</p>
+  <p>Animosus Amalech? quanta strages contigit?</p>
+  <p>Socij cruenta caede confecti iacent</p>
+  <p>(930) Vbi tela? vbi arcus? arma quis viuo mihi</p>
+  <p>Detrahere potuit? o vices rerum asperas</p>
+  <p>Libet meum videre victorem, libet,</p>
+  <p>Exurge victor quem nouum coelo pater</p>
+  <p>Genuit relicto? ad arma, ad arma, quis fragor?</p>
+  <p>(935) Quis terror iste? quis tot inuexit cruces?</p>
+  <p>Vbi me recondam? quaue tellure obruam?</p>
+  <p>Quis Tanais, aut quis Nilus, aut quis Persica</p>
+  <p>Violentus vnda Tigris, aut Rhenus ferox</p>
+  <p>Tagusue Ibera turbidus gaza fluens,</p>
+  <p>(940) Caput hoc malis praesentibus subduxerit,</p>
+  <p>Spes nulla postquam monstrat afflicto viam?</p>
+  <p>Zebee. Quisquamne regno gaudet? ô fallax bonum,</p>
+  <p>Quantum malorum fronte quam blanda tegis.</p>
+  <p>Vt alta ventos semper excipiunt iuga,</p>
+  <p>(945) Rupemque saxis vasta dirimentem freta</p>
+  <p>Quamuis quieti verberant fluctus maris.</p>
+  <p>Imperia sic excelsa Fortunae obiacent.</p>
+  <p>Gedeon. Siccine fraterno tinxistis sanguine dextras?</p>
+  <p>leter hos procul posita mora</p>
+  <p>(950) Interfice, inferias meis</p>
+  <p>Vos mitto fratribus impij.</p>
+  <p>Blasphema tandem turba sic poenas luit.</p>
+  <p>Laus aeterna Deo, &amp; perpetuum decus,</p>
+  <p>Qui nos eripiens omnibus ex malis,</p>
+  <p>(955) Monstrauit populo quam faueat suo.</p>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>Τέλοs.</p>
+  <p>Suo Liberto Houthem, Ioannes</p>
+  <p>Berghius, Leodius.</p>
+  <p>QVam decuit tantas Gedeonem sumere laudes</p>
+  <p>Hoc ex elogio docte Liberte tuo?</p>
+  <p>Vt nihil hic tragica quod non grauitate feratur,</p>
+  <p>Quod non sermoni congruat atque rei?</p>
+  <p>Ad viuum votiua viri suspiria fingis,</p>
+  <p>Cum populi motus clade precatur opem:</p>
+  <p>Et velut è coelo monstras responsa, placentes</p>
+  <p>Aras, diuina foedera pacta fide:</p>
+  <p>Ac dein, Heroem qualis fiducia coepit</p>
+  <p>Cum iussum properans aggrederetur opus.</p>
+  <p>Denique conflictus ceu vero Marte furentes,</p>
+  <p>Hosteque de victo parta trophaea refers.</p>
+  <p>Scilicet euentus prudens sic instruis omnes,</p>
+  <p>Ac rerum seriem, ceu modo visa geri.</p>
+  <p>Hoc opus vt praestans, illi quoque ture dicasti:</p>
+  <p>Plurima quem faciunt cum Gedeone parem.</p>
+  <p>Et Dux &amp; Pater est superis donantibus iste,</p>
+  <p>Et sibi commißi gloria magna gregis.</p>
+  <p>I nunc ergo liber, tam dignus &amp; exprimat actor,</p>
+  <p>Quam te Moecenas dignus, &amp; author habent.</p>
+  <p><milestone unit="folio" facs="G"/></p>
+  <p>Bartholomeus Honorius Leodius</p>
+  <p>Canonicus Floreffiensis ad Lectorem.</p>
+  <p>LIbera letetur Liberti Legia Lusu,</p>
+  <p>Quo voluit matrem iam recreare senem.</p>
+  <p>Colligat ergo nuces quas proiicit ille, iuuentus,</p>
+  <p>Forsan &amp; his vsos proderit esse senes.</p>
+  <p>Visus erat foelix ob amicum Scilla Metellum,</p>
+  <p>In quo nil veri, Lector, amoris erat:</p>
+  <p>Gratulor ipse mihi quod me Libertus amantem</p>
+  <p>Non ficta reclamet, Consul vt ille, fide.</p>
+  <p>O me foelicem tantae probitatis amico,</p>
+  <p>Cui cumulat flores florida nostra domus.</p>
+  <p>Quemque domus Dominus virtutis praedicat ergo,</p>
+  <p>Et regni socium vellet habere sui.</p>
+  <p>Hic est si nescis sacer ille Dupasius Abbas,</p>
+  <p>Cuius honoratum Sambria spectat opus.</p>
+  <p>Viuat vterque diu nostrorum gloria vatum,</p>
+  <p>Nosque suis pasci lusibus ambo sinant.</p>
+  <p>FINIS.</p>
+  <p>REVERENDO IN</p>
+  <p>CHRISTO PATRI AC</p>
+  <p>Domino D. Gulielmo du Payx Monasterij</p>
+  <p>Floreffiani Abbati multò dignissi¬</p>
+  <p>mo Gualtherus Morberius</p>
+  <p>Typographus.</p>
+  <p>D. P. S.</p>
+  <p>SAlue cura Deûm, pacis fidißime custos,</p>
+  <p>Laus &amp; pierij gloria prima chori.</p>
+  <p>Salue magne parens, per quem Floreffa triumphans,</p>
+  <p>Optima laetitiae debita corda gerit.</p>
+  <p>Salue pacificum Gulielme piißime nomen,</p>
+  <p>A proauis tractum pacificator habens:</p>
+  <p>Et lege mittentis pacato carmina vultu,</p>
+  <p>Quae dat Morberica sedulus arte labor.</p>
+  <p>An tibi turpe putes libris fauisse premendis,</p>
+  <p>Atque Typographicis posse vacare notis?</p>
+  <p>Non puto: nam docto cum vate Typographus vnam</p>
+  <p>Propositam laudem, quam mereantur habent.</p>
+  <p>Scilicet ille suam faciendis versibus artem,</p>
+  <p>At factis operam versibus iste locat.</p>
+  <p>FINIS.</p>
+  <p>Respondet hec Tragicocomedia Historiae quam</p>
+  <p>recensent sacra biblia: Iudicum 6. &amp; 7.</p>
+  <p>quare non nisi vtiliter iuuentus</p>
+  <p>eam addiscet atque exhibebit.</p>
+  <p>Sic sentio Anthonius Ghenart.</p>
+</div>
+        
+<div type="notes"><note xml:id="tn1"><p><hi rend="footnote">1</hi> <hi rend="italic">In margine</hi>: Floreffiana domus
+    plurimis iisque doctissimis Poëtis abundat, totus nimirum grex ad
+    pastoris sui exemplum componitur.</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> In margine: Constituat sua Gedeon ex Angeli praescripto super
+    lapidem. Tangat illa Angelus ignis ea denique consumatur ac
+    evanescat Angelus tum rursus Gedeon</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> In margine: Tuba, clangorem alacriter excitet.</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> In margine: Traiiciant Iordanme</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> In margine: Ingrediantur sua tentoria Reges.</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> In margine: Desideat exercitus in valle, cibo se recreaturus.</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> In margine: praeconi.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> In margine: praecone digresso</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> In margine: Praeco educens milites ad Gedeonem.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> In margine: Oratio Gedeonis, ad milites.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> <hi rend="italic">In margine</hi>: Irroret Deus solum
+    vellus, terra circum circa manente sicca. Tum Gedeon.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> In margine: Reversus ad milites.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> In margine: Recipiant se in scenas Tum ex Madianitis duo, in
+    terram effusi ??BB</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> In margine: Circunspiciat Gedeon humum num madeat.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> In margine: Eat nunc, ut videat, madeatne vellus.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> In margine: Recipiant se Reges in sua tentoria.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> In margine: Moventur castra.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> In margine: Conversus ad suos.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> In margine: Conversus ad Deum.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> In margine: Gedeon reliquis militibus. Sequuntur milites quocum
+    pervenerint, Deus Gedeonem hoc alloquio compellet.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> In margine: Procumbant alii bibituri, alii manu ad os proiiciente
+    lambant aquam.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> In margine: Ingrediantur Milites.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> In margine: Haec audiens Gedeon provoluat se ad Deum adorandum.
+    ˂pronolvat.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> In margine: Prodeant Reges Madianitarum.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> In margine; Mixtum carminis genus.</p></note></div>
+
+    </body>
+</text>
+</TEI>
