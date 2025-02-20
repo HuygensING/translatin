@@ -19,7 +19,7 @@ DS_STORE = ".DS_Store"
 def reorg():
     authors = [x for x in dirContents(ORIG_DIR)[1] if x != DS_STORE]
 
-    nWorks = 0
+    nDramas = 0
     notOk = 0
     skipped = 0
 
@@ -52,9 +52,9 @@ def reorg():
                 operations.append((f"{author}/{title}{ext}", f"{author} - {title}{ext}"))
 
             console(f"\t{msg:<5} {author} - {title}")
-            nWorks += 1
+            nDramas += 1
 
-    console(f"{nWorks} works of {len(authors)} authors")
+    console(f"{nDramas} dramas of {len(authors)} authors")
 
     if skipped:
         console(f"skipped {skipped} tilde files")

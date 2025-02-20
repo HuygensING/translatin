@@ -1,0 +1,251 @@
+generic:
+  editor: Jan Bloemendal
+  title: Translatin (drama, 1500-1750))
+  language: la
+  converter: Dirk Roorda (Text-Fabric)
+  sourceFormat: DOCX
+  descriptionTf: Edition
+  institute1: HuC (Humanities Cluster) Amsterdam
+  institute2: Huygens Instituut Amsterdam
+  contributors1: |-
+    Hennie Brugman, Hayco de Jong, Bram Buitendijk, Sebastiaan van Daalen, Dirk Roorda
+
+models:
+  - translatin
+
+prelim: false
+granularity: token
+procins: false
+parentEdges: false
+siblingEdges: false
+lineModel:
+  model: I
+pageModel:
+  model: I
+sectionModel: 
+  model: III
+  levels:
+  - drama
+  - part
+  - chunk
+
+extra:
+  editor:
+    meta:
+      description: >-
+        Editor of the translatin corpus
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - editor
+      - titleStmt
+      - fileDesc
+    nodeType: drama
+  transcribers:
+    meta:
+      description: >-
+        Transcriber(s) of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - name
+      - respStmt
+      - titleStmt
+      - fileDesc
+    nodeType: drama
+  titleShort:
+    meta:
+      description: >-
+        Short title of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title
+      - bibl
+      - sourceDesc
+    nodeType: drama
+  titleExpanded:
+    meta:
+      description: >-
+        Title of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          type: main
+      - titleStmt
+      - fileDesc
+    nodeType: drama
+  titleFull:
+    meta:
+      description: >-
+        Long title of the drama, includes subtitle
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - title:
+          type: sub
+      - titleStmt
+      - fileDesc
+    nodeType: drama
+  author:
+    meta:
+      description: >-
+        Author of the drama, full name
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - author
+      - titleStmt
+      - fileDesc
+    nodeType: drama
+  sourceDescription:
+    meta:
+      description: >-
+        Description of the source of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - emph
+      - bibl
+      - sourceDesc
+    nodeType: drama
+  sourceLink:
+    meta:
+      description: >-
+        Link to description of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - ref@target
+      - bibl
+      - sourceDesc
+    nodeType: drama
+  medium:
+    meta:
+      description: >-
+        Medium of the source: manuscript or printed
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: medium
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: drama
+  firstEdition:
+    meta:
+      description: >-
+        Year of first edition of the drama
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date
+      - bibl
+      - sourceDesc
+    nodeType: drama
+  pubYear:
+    meta:
+      description: >-
+        Year of publication of the edition
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - date
+      - publicationStmt
+      - fileDesc
+    nodeType: drama
+  pubPlace:
+    meta:
+      description: >-
+        Place of publication of the edition
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - pubPlace
+      - publicationStmt
+      - fileDesc
+    nodeType: drama
+  publisher:
+    meta:
+      description: >-
+        Publisher of the edition
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - publisher
+      - publicationStmt
+      - fileDesc
+    nodeType: drama
+  diction:
+    meta:
+      description: >-
+        Writing style: prose or poetry
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: diction
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: drama
+  genre:
+    meta:
+      description: >-
+        Genre: comedy, tragedy, etc.
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: genre
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: drama
+  acts:
+    meta:
+      description: >-
+        Number of acts
+      valueType: int
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: acts
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: drama
+  chorus:
+    meta:
+      description: >-
+        Whether there is a chorus: yes, None
+      valueType: str
+      conversionMethod: derived
+      conversionCode: tt
+    path:
+      - term:
+          type: chorus
+      - keywords
+      - textClass
+      - profileDesc
+    nodeType: drama
+
+

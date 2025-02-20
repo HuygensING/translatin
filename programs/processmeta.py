@@ -14,7 +14,7 @@ TEMPLATE = """\
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{workId}" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{dramaId}" xml:lang="lat">
 <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -34,7 +34,7 @@ TEMPLATE = """\
     </publicationStmt>
     <sourceDesc>
         <bibl>
-            Identifier: <name>{work}</name><lb/>
+            Identifier: <name>{drama}</name><lb/>
             Short title: <title>{titleShort}</title><lb/>
             Year of first edition: <date>{firstEdition}</date><lb/>
             Author information:<lb/>
@@ -76,10 +76,10 @@ class Meta:
         self.Process = Process
         self.metaFields = readYaml(asFile=METADATA_YML)
         self.error = False
-        self.workById = {}
-        self.workByName = {}
+        self.dramaById = {}
+        self.dramaByName = {}
 
-    def readMetadata(self, workFiles):
+    def readMetadata(self, dramaFiles):
         if self.error:
             return
 
@@ -88,28 +88,28 @@ class Meta:
         Process = self.Process
         metaFields = self.metaFields
 
-        workById = self.workById
-        workByName = self.workByName
+        dramaById = self.dramaById
+        dramaByName = self.dramaByName
 
-        goodWorkFiles = {}
+        goodDramaFiles = {}
 
-        default = dict(author={}, work={})
+        default = dict(author={}, drama={})
         self.default = default
 
-        metadata = dict(author={}, work={})
+        metadata = dict(author={}, drama={})
         self.metadata = metadata
         ws = {}
 
         try:
             wb = load_workbook(METADATA_FILE, data_only=True)
             ws["author"] = wb["author"]
-            ws["work"] = wb["work"]
+            ws["drama"] = wb["drama"]
         except Exception as e:
             Process.warn(heading=f"\t{str(e)}")
             self.error = True
-            return goodWorkFiles
+            return goodDramaFiles
 
-        for kind in ("author", "work"):
+        for kind in ("author", "drama"):
             (headRow, *rows) = list(ws[kind].rows)
 
             fields = {i: head.value for (i, head) in enumerate(headRow)}
@@ -123,7 +123,7 @@ class Meta:
 
                 if column not in fieldInvHead:
                     Process.warn(
-                        work=f"Meta {kind}",
+                        drama=f"Meta {kind}",
                         ln=0,
                         line=column,
                         heading="Extra column configured",
@@ -139,7 +139,7 @@ class Meta:
             for v, k in fieldInvHead.items():
                 if v not in fieldInv:
                     Process.warn(
-                        work=f"Meta {kind}",
+                        drama=f"Meta {kind}",
                         ln=0,
                         line=v,
                         heading="Column not configured",
@@ -164,7 +164,7 @@ class Meta:
 
                     if field is None:
                         Process.warn(
-                            work=f"Meta {kind}",
+                            drama=f"Meta {kind}",
                             ln=rp,
                             line=fieldRep,
                             heading="Column not configured",
@@ -184,7 +184,7 @@ class Meta:
 
                     if authorId is None:
                         Process.warn(
-                            work="author",
+                            drama="author",
                             ln=rp,
                             line=thisMeta["name"],
                             heading="no acro",
@@ -192,7 +192,7 @@ class Meta:
                         continue
                     elif authorId in metadata[kind]:
                         Process.warn(
-                            work="author",
+                            drama="author",
                             ln=rp,
                             line=authorId,
                             heading="acro not unique",
@@ -205,7 +205,7 @@ class Meta:
 
                     metadata[kind][authorId] = thisMeta
 
-                elif kind == "work":
+                elif kind == "drama":
                     sourceLink = thisMeta.get("sourceLink", None)
                     sourceLinkRep = (
                         f"""<ref target="{sourceLink}">Source link</ref>"""
@@ -216,54 +216,54 @@ class Meta:
 
                     author = thisMeta["author"] or "Unknown"
                     title = thisMeta["titleShort"]
-                    work = toAscii(f"{author}-{title}")
+                    drama = toAscii(f"{author}-{title}")
 
                     if author != "Unknown" and author not in metadata["author"]:
                         Process.warn(
-                            work=work,
+                            drama=drama,
                             ln=rp,
                             line=author,
                             heading="author not found",
                         )
 
-                    if work in workFiles:
-                        realWork = workFiles[work]
-                        goodWorkFiles[work] = realWork
+                    if drama in dramaFiles:
+                        realDrama = dramaFiles[drama]
+                        goodDramaFiles[drama] = realDrama
 
-                        thisMeta["work"] = work
-                        workId = f"translatin{rp:>04}"
-                        metadata[kind][workId] = thisMeta
-                        workById[workId] = work
-                        workByName[work] = workId
+                        thisMeta["drama"] = drama
+                        dramaId = f"translatin{rp:>04}"
+                        metadata[kind][dramaId] = thisMeta
+                        dramaById[dramaId] = drama
+                        dramaByName[drama] = dramaId
 
                     else:
-                        Process.warn(work=work, ln=rp, heading="metadata but no data")
+                        Process.warn(drama=drama, ln=rp, heading="metadata but no data")
 
-        for work in sorted(workFiles):
-            if work not in workByName:
-                Process.warn(work=work, heading="data but no metadata")
+        for drama in sorted(dramaFiles):
+            if drama not in dramaByName:
+                Process.warn(drama=drama, heading="data but no metadata")
 
         console("Metadata collected.")
         Process.showWarnings()
-        return goodWorkFiles
+        return goodDramaFiles
 
-    def fillTemplate(self, workName, **data):
+    def fillTemplate(self, dramaName, **data):
         if self.error:
             return None
 
         metaFields = self.metaFields
         template = self.template
         metadata = self.metadata
-        workByName = self.workByName
-        workDefault = self.default["work"]
+        dramaByName = self.dramaByName
+        dramaDefault = self.default["drama"]
         authorDefault = self.default["author"]
 
-        workId = workByName.get(workName, None)
+        dramaId = dramaByName.get(dramaName, None)
 
-        if workId is None or workId not in metadata["work"]:
-            thisMetadata = workDefault
+        if dramaId is None or dramaId not in metadata["drama"]:
+            thisMetadata = dramaDefault
         else:
-            thisMetadata = metadata["work"][workId]
+            thisMetadata = metadata["drama"][dramaId]
 
         if thisMetadata.get("titleFull", None) == thisMetadata.get("titleExpanded", None):
             thisMetadata["titleFull"] = ""
@@ -280,7 +280,7 @@ class Meta:
         corpusMetadata = {k: v.value for k, v in metaFields["corpus"].items()}
 
         return template.format(
-            workId=workId,
+            dramaId=dramaId,
             **thisMetadata,
             **corpusMetadata,
             **authorMetadata,

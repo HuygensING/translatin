@@ -53,7 +53,7 @@ from processhelpers import (
     wrapParas,
 )
 
-from workspecific import WorkSpecific
+from dramaspecific import DramaSpecific
 
 SECTIONTRIGGER_RE = re.compile(
     r"""
@@ -419,15 +419,15 @@ class TeiFromDocx:
             console(*args, **kwargs)
 
     def warn(
-        self, work=None, ln=None, line=None, heading=None, summarize=False, serious=True
+        self, drama=None, ln=None, line=None, heading=None, summarize=False, serious=True
     ):
         rh = self.rhw if serious else self.rhi
         warnings = self.warnings if serious else self.info
 
-        warnings.append((work, ln, line, heading, summarize))
+        warnings.append((drama, ln, line, heading, summarize))
 
         if rh:
-            rh.write(msgLine(work, ln, line, heading))
+            rh.write(msgLine(drama, ln, line, heading))
 
     def showWarnings(self, serious=True):
         silent = self.silent
@@ -439,14 +439,14 @@ class TeiFromDocx:
         summarized = collections.Counter()
         i = 0
 
-        for work, ln, line, heading, summarize in warnings:
+        for drama, ln, line, heading, summarize in warnings:
             if summarize:
                 summarized[heading] += 1
             else:
                 if i >= limit:
                     continue
 
-                self.console(msgLine(work, ln, line, heading), error=serious)
+                self.console(msgLine(drama, ln, line, heading), error=serious)
                 i += 1
 
         nSummarized = len(summarized)
@@ -476,8 +476,8 @@ class TeiFromDocx:
     def getInventory(self):
         Meta = self.Meta
 
-        workFiles = {}
-        self.workFiles = workFiles
+        dramaFiles = {}
+        self.dramaFiles = dramaFiles
 
         console("GET docx files and their metadata from XLS ...")
 
@@ -488,27 +488,27 @@ class TeiFromDocx:
         )
 
         for file in files:
-            workName = file.removesuffix(".docx")
-            saneWorkName = sanitizeFileName(workName)
+            dramaName = file.removesuffix(".docx")
+            saneDramaName = sanitizeFileName(dramaName)
 
-            if saneWorkName is None:
-                self.warn(work=workName, heading="Not a valid work name")
+            if saneDramaName is None:
+                self.warn(drama=dramaName, heading="Not a valid drama name")
                 continue
 
-            workFiles[saneWorkName] = workName
+            dramaFiles[saneDramaName] = dramaName
 
         console("")
 
-        goodWorkFiles = Meta.readMetadata(workFiles)
+        goodDramaFiles = Meta.readMetadata(dramaFiles)
         console(
-            f"Continuing with {len(goodWorkFiles)} good files "
-            f"among {len(workFiles)} in total"
+            f"Continuing with {len(goodDramaFiles)} good files "
+            f"among {len(dramaFiles)} in total"
         )
-        self.workFiles = goodWorkFiles
+        self.dramaFiles = goodDramaFiles
 
-    def makeLineNumRepl(self, workName):
+    def makeLineNumRepl(self, dramaName):
         lineNumbers = []
-        self.lineNumbers[workName] = lineNumbers
+        self.lineNumbers[dramaName] = lineNumbers
 
         def replAlone(match):
             lNum = match.group(1)
@@ -531,8 +531,8 @@ class TeiFromDocx:
         self.lnumReplBareAfter = replGeneric(2, "≤line={b}≥ {a}")
         self.lnumReplBareBefore = replGeneric(1, "≤line={a}≥ {b}")
 
-    def makeSectionTriggerRepl(self, workName):
-        sections = self.sections[workName]
+    def makeSectionTriggerRepl(self, dramaName):
+        sections = self.sections[dramaName]
 
         def repl(match):
             (pre, trigger, post, number, after) = match.group(1, 2, 3, 4, 5)
@@ -606,7 +606,7 @@ class TeiFromDocx:
 
         self.sectionRepl = repl
 
-    def makeNoteRepl(self, workName):
+    def makeNoteRepl(self, dramaName):
         notes = []
         self.notes = notes
         self.noteMark = 0
@@ -628,13 +628,13 @@ class TeiFromDocx:
 
         return repl
 
-    def cleanup(self, text, workName):
+    def cleanup(self, text, dramaName):
         lines = self.lines
         specific = self.specific
 
-        self.sections[workName] = []
+        self.sections[dramaName] = []
 
-        specific.makePageRepl(workName)
+        specific.makePageRepl(dramaName)
 
         # only to check whether there are unwrapped paragraphs
         # n = len(SPLIT_PARA_RE.findall(text))
@@ -649,9 +649,9 @@ class TeiFromDocx:
         text = text.replace("$", "")
         text = SMALLCAPS_RE.sub(r"\1", text)
 
-        workMethod = workName.replace("-", "_")
+        dramaMethod = dramaName.replace("-", "_")
 
-        method = getattr(specific, workMethod, None)
+        method = getattr(specific, dramaMethod, None)
         msg = "special  "
 
         if method is None:
@@ -671,7 +671,7 @@ class TeiFromDocx:
             parts = rest.split(kind, 1)
 
             if len(parts) == 1:
-                self.warn(work=workName, heading=f"No {kind}")
+                self.warn(drama=dramaName, heading=f"No {kind}")
                 pre = ""
                 rest = parts[0]
             else:
@@ -686,7 +686,7 @@ class TeiFromDocx:
         main = textParts["/main/"]
         back = textParts["/back/"]
 
-        self.makeLineNumRepl(workName)
+        self.makeLineNumRepl(dramaName)
         main = LINENUMBER_ALONE_RE.sub(self.lnumReplAlone, main)
         main = LINENUMBER_BEFORE_RE.sub(self.lnumReplBefore, main)
         main = LINENUMBER_AFTER_RE.sub(self.lnumReplAfter, main)
@@ -694,11 +694,11 @@ class TeiFromDocx:
         main = LINENUMBER_BARE_BEFORE_RE.sub(self.lnumReplBareBefore, main)
         main = LINENUMBER_DASH_BEFORE_RE.sub(self.lnumReplBareBefore, main)
 
-        self.makeSectionTriggerRepl(workName)
+        self.makeSectionTriggerRepl(dramaName)
         main = SECTIONTRIGGER_RE.sub(self.sectionRepl, main)
         main = main.replace("qqq", "")
 
-        lines[workName] = int(
+        lines[dramaName] = int(
             round(front.count("\n") + main.count("\n") + back.count("\n"))
         )
 
@@ -706,7 +706,7 @@ class TeiFromDocx:
         text = wrapParas(text)
         return (msg, text)
 
-    def transformWork(self, workName):
+    def transformDrama(self, dramaName):
         if self.error:
             return (False, None, None)
 
@@ -715,7 +715,7 @@ class TeiFromDocx:
         if Meta.error:
             return (False, None, None)
 
-        with open(f"{TEIXDIR}/{workName}.xml") as f:
+        with open(f"{TEIXDIR}/{dramaName}.xml") as f:
             text = f.read()
 
         textLines = text.split("\n")
@@ -748,14 +748,14 @@ class TeiFromDocx:
         n = len(leftovers)
 
         if n:
-            self.warn(work=workName, heading=f"number leftovers: {n} x")
+            self.warn(drama=dramaName, heading=f"number leftovers: {n} x")
 
-        repl = self.makeNoteRepl(workName)
+        repl = self.makeNoteRepl(dramaName)
         material = NOTE_RE.sub(repl, material)
 
         notes = "\n".join(self.notes)
         notes = f"""\n<div type="notes">{notes}</div>\n""" if notes.strip() else ""
-        text = Meta.fillTemplate(workName, text=material, notes=notes)
+        text = Meta.fillTemplate(dramaName, text=material, notes=notes)
 
         return (True, "", text)
 
@@ -769,7 +769,7 @@ class TeiFromDocx:
         skipClean=False,
         skipTeix=False,
         skipTei=False,
-        workName=None,
+        dramaName=None,
     ):
         if self.error:
             return
@@ -777,22 +777,22 @@ class TeiFromDocx:
         self.warnings = []
         extraLog = {}
         self.extraLog = extraLog
-        self.specific = WorkSpecific(self)
+        self.specific = DramaSpecific(self)
 
         self.rhw = open(REPORT_WARNINGS, mode="w")
         self.rhi = open(REPORT_INFO, mode="w")
 
         cleanDone = False
 
-        console("DOCX => Markdown per work ...")
+        console("DOCX => Markdown per drama ...")
         console(
-            f"\t   {'work':30} | "
+            f"\t   {'drama':30} | "
             f"{'lines':>7} | {'lnums':>5} | {'pages':>5} | {'folios':>5}| "
             f"{'sect':>4} | "
             f"conversion steps"
         )
 
-        workFiles = self.workFiles
+        dramaFiles = self.dramaFiles
 
         initTree(MD_ORIGDIR, fresh=False)
         initTree(MD_FINALDIR, fresh=False)
@@ -809,7 +809,7 @@ class TeiFromDocx:
         self.pages = pages
         self.sections = sections
 
-        nWorks = 0
+        nDramas = 0
         allOK = True
         someOK = False
         specNone = 0
@@ -819,12 +819,12 @@ class TeiFromDocx:
         totFolios = 0
         totSections = 0
 
-        for file in sorted(workFiles):
-            if workName is not None and file != workName:
+        for file in sorted(dramaFiles):
+            if dramaName is not None and file != dramaName:
                 continue
 
-            nWorks += 1
-            realFile = workFiles[file]
+            nDramas += 1
+            realFile = dramaFiles[file]
 
             inFile = f"{DOCXDIR}/{realFile}.docx"
             rawFile = f"{MD_ORIGDIR}/{file}.md"
@@ -887,16 +887,16 @@ class TeiFromDocx:
             teiUptodate = fileExists(teiFile) and mTime(teiFile) > mTime(teixFile)
 
             if not skipTei and (forceTei or not teiUptodate):
-                (workStatus, workMsg, workText) = self.transformWork(file)
+                (dramaStatus, dramaMsg, dramaText) = self.transformDrama(file)
 
-                if not workStatus:
+                if not dramaStatus:
                     thisOK = False
 
-                if workMsg:
-                    extraMsg = workMsg
+                if dramaMsg:
+                    extraMsg = dramaMsg
 
                 with open(teiFile, "w") as f:
-                    f.write(workText)
+                    f.write(dramaText)
 
                 convMessage.append("tei")
 
@@ -927,13 +927,13 @@ class TeiFromDocx:
                 )
 
         totStatus = "OK" if allOK else "+-" if someOK else "!!"
-        msg = f"All works ({nWorks})"
+        msg = f"All dramas ({nDramas})"
         self.console(
             f"\t{totStatus} {msg:30} | "
             f"{totLines:>7} | {totLineNumbers:>5} | {totPages:>5} | {totFolios:>5} | "
             f"{totSections:>4} | done"
         )
-        self.console(f"Works without specifics defined: {specNone}")
+        self.console(f"Dramas without specifics defined: {specNone}")
 
         if cleanDone:
             writeYaml(lines, asFile=REPORT_LINES_RAW)
@@ -946,8 +946,8 @@ class TeiFromDocx:
         sectionInfo = {}
 
         if cleanDone:
-            for file in sorted(workFiles):
-                if workName is not None and file != workName:
+            for file in sorted(dramaFiles):
+                if dramaName is not None and file != dramaName:
                     continue
 
                 wLines = sorted(lineNumbers.get(file, []), key=lambda x: x[0])
@@ -1029,7 +1029,7 @@ class TeiFromDocx:
                         "skipClean",
                         "skipTeix",
                         "skipTei",
-                        "workName",
+                        "dramaName",
                     }
                 }
                 self.convert(**mykwargs)

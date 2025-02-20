@@ -123,7 +123,7 @@ The values of this feature have type str.
 
 ## `transcribers`
 
-Transcriber(s) of the work
+Transcriber(s) of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -131,7 +131,7 @@ The values of this feature have type str.
 
 ## `titleShort`
 
-Short title of the work
+Short title of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -139,7 +139,7 @@ The values of this feature have type str.
 
 ## `titleExpanded`
 
-Title of the work
+Title of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -147,7 +147,7 @@ The values of this feature have type str.
 
 ## `titleFull`
 
-Long title of the work, includes subtitle
+Long title of the drama, includes subtitle
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -155,7 +155,15 @@ The values of this feature have type str.
 
 ## `author`
 
-Author of the work, full name
+Author of the drama, full name
+The values of this feature have type str.
+*   `conversionMethod`: `derived`
+*   `conversionCode`: `tt`
+
+
+## `sourceDescription`
+
+Description of the source of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -163,7 +171,7 @@ The values of this feature have type str.
 
 ## `sourceLink`
 
-Link to description of the work
+Link to description of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -179,7 +187,7 @@ The values of this feature have type str.
 
 ## `firstEdition`
 
-Year of first edition of the work
+Year of first edition of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -440,7 +448,7 @@ The values of this feature have type str.
 
 ## `transcribers`
 
-Transcriber(s) of the work
+Transcriber(s) of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -448,7 +456,7 @@ The values of this feature have type str.
 
 ## `titleShort`
 
-Short title of the work
+Short title of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -456,7 +464,7 @@ The values of this feature have type str.
 
 ## `titleExpanded`
 
-Title of the work
+Title of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -464,7 +472,7 @@ The values of this feature have type str.
 
 ## `titleFull`
 
-Long title of the work, includes subtitle
+Long title of the drama, includes subtitle
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -472,7 +480,15 @@ The values of this feature have type str.
 
 ## `author`
 
-Author of the work, full name
+Author of the drama, full name
+The values of this feature have type str.
+*   `conversionMethod`: `derived`
+*   `conversionCode`: `tt`
+
+
+## `sourceDescription`
+
+Description of the source of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -480,7 +496,7 @@ The values of this feature have type str.
 
 ## `sourceLink`
 
-Link to description of the work
+Link to description of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`
@@ -496,7 +512,7 @@ The values of this feature have type str.
 
 ## `firstEdition`
 
-Year of first edition of the work
+Year of first edition of the drama
 The values of this feature have type str.
 *   `conversionMethod`: `derived`
 *   `conversionCode`: `tt`

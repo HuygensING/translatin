@@ -1,0 +1,11 @@
+scans:
+  prev:
+    part:
+      vars:
+        node: '=-1'
+      value: '{node}' 
+  next:
+    part:
+      vars:
+        node: '=+1'
+      value: '{node}' 

@@ -9,6 +9,7 @@ REPO = "translatin"
 BACKEND = "github"
 
 _REPODIR = expanduser(f"~/{BACKEND}/{ORG}/{REPO}")
+_CONFIGDIR = f"{_REPODIR}/config"
 _PROGRAMDIR = f"{_REPODIR}/programs"
 _REPORTDIR = f"{_REPODIR}/report"
 _NERDIR = f"{_REPODIR}/ner/specs"
@@ -25,8 +26,8 @@ TEIXDIR = f"{_TRANSDIR}/teiSimple"
 TRANS_TXT = f"{_TRANSDIR}/translation.txt"
 SOURCEBASE = _REPODIR
 TEIDIR = f"{_REPODIR}/tei"
-METADATA_YML = f"{_PROGRAMDIR}/metadata.yml"
-METADATA_FILE = f"{_METADIR}/work-author.xlsx"
+METADATA_YML = f"{_CONFIGDIR}/metadata.yml"
+METADATA_FILE = f"{_METADIR}/drama-author.xlsx"
 
 REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
 REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
@@ -60,19 +61,19 @@ def sanitizeFileName(fName):
     if not match:
         return None
 
-    (auth, work) = match.group(1, 2)
-    return toAscii(f"{auth}-{work}")
+    (auth, drama) = match.group(1, 2)
+    return toAscii(f"{auth}-{drama}")
 
 
-def msgLine(work, ln, line, heading):
-    workRep = "" if work is None else f"{work:<30}"
+def msgLine(drama, ln, line, heading):
+    dramaRep = "" if drama is None else f"{drama:<30}"
     lnRep = "" if ln is None else f"{ln:>5}"
     lineRep = "" if line is None else f" :: {line}"
-    sep1 = ":" if workRep else ""
+    sep1 = ":" if dramaRep else ""
     headingRep = "" if heading is None else f"{heading:<30}"
-    sep2 = " " if (workRep or lnRep) and (headingRep or lineRep) else ""
+    sep2 = " " if (dramaRep or lnRep) and (headingRep or lineRep) else ""
 
-    return f"{workRep}{sep1}{lnRep}{sep2}{headingRep}{lineRep}\n"
+    return f"{dramaRep}{sep1}{lnRep}{sep2}{headingRep}{lineRep}\n"
 
 
 Wrapper = TextWrapper(

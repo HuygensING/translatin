@@ -16,7 +16,7 @@
 @valueType=str
 @version=0.0.1
 @writtenBy=Text-Fabric
-@dateWritten=2025-02-19T12:33:13+00:00Z
+@dateWritten=2025-02-19T13:25:31+00:00Z
 
 2071730	Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.
 Innocentia victrix sive Genovefa

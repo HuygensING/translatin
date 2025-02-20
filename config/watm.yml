@@ -1,0 +1,27 @@
+textRepoLevel: 1
+excludeElements:
+  - chunk
+asTsv: true
+# hyphenation:
+#  lineType: ln
+inheritFeatures:
+  - source: drama
+    destination: part
+    namespace: tt
+    features:
+      - titleShort
+      - titleExpanded
+      - author
+      - firstEdition
+      - pubYear
+      - pubPlace
+      - publisher
+      - sourceLink
+      - editor
+      - transcribers
+      - medium
+      - acts
+      - chorus
+      - diction
+      - genre
+
