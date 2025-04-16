@@ -12,7 +12,7 @@ PENTECOSTE.
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 AZARIAS.
 
@@ -40,7 +40,7 @@ SYRVS.
 
 IOSEPHVS.
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -96,7 +96,7 @@ Animisque eum auscultate. Audito, & cognito
 
 ≤line=25≥ Argumento, facilius percipietis caetera.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 Iambici.
 
@@ -126,7 +126,7 @@ Pro fundo acceptam, effundit liberaliter.
 
 ≤page=170≥
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 ALARIAS, HANANVS, SIMEON, MELCHIAS.
 
@@ -210,7 +210,7 @@ Compellaturus. Subsistamus hic sodes,
 
 Aza. Sequntur & alij, quid sit futurum nescio.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 PETRVS, AZARIAS, SIMEON, HANANVS.
 
@@ -590,7 +590,7 @@ Pet. Hem, laudo. Eamus iam intrò. Quae ad salutem
 
 Porro vobis erunt opus, illic peragentur omnia.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 ALEXANDER, MELCHIAS.
 
@@ -704,7 +704,7 @@ Et illos vlciscamur, &
 
 ≤line=270≥ Nobis caueamus in tempore. Mel. Placet. Praecede, sequor.
 
-# 7. ACTVS II. SCENA I.
+## 7. ACTVS II. SCENA I.
 
 ANNAS, MELCHIAS, CAIPHAS,
 
@@ -806,7 +806,7 @@ Esse volumus. An. Istud igitur decretum sit, nec
 
 Rationibus. \-\--
 
-# 8. ACTVS II. SCENA II.
+## 8. ACTVS II. SCENA II.
 
 IACOBVS, IOANNES, PETRVS.
 
@@ -964,7 +964,7 @@ Benignitate etiam vberius prouehere, ac secundare
 
 Dignetur. \-\--
 
-# 9. ACTVS II. SCENA III.
+## 9. ACTVS II. SCENA III.
 
 HANANVS, AZARIAS, SIMEON.
 
@@ -1092,7 +1092,7 @@ Aduentantes nescio quos: & vt hinc
 
 Abeamus, tempus nos monet.
 
-# 10. ACTVS II. SCENA IV.
+## 10. ACTVS II. SCENA IV.
 
 ANNAS, CAIPHAS, MELCHIAS.
 
@@ -1202,7 +1202,7 @@ Ex communi omnium decreto statuetur,
 
 Quo pacto imposterum in eos animaduertendum siet.
 
-# 11. ACTVS III. SCENA I.
+## 11. ACTVS III. SCENA I.
 
 PETRVS, IOANNES, ACHIOR.
 
@@ -1318,7 +1318,7 @@ Gratias. Ach. Nihil est quod aequè fecero lubens.
 
 ≤page=189≥
 
-# 12. ACTVS III. SCENA II.
+## 12. ACTVS III. SCENA II.
 
 SIMEON, AZARIAS, PETRVS.
 
@@ -1526,7 +1526,7 @@ Enim eos habet, quod de sanato claudo per totum oppidum
 
 Quid sit euenturum denique.
 
-# 13. ACTVS III. SCENA III.
+## 13. ACTVS III. SCENA III.
 
 ANNAS, CAIPHAS, IOANNES, PETRVS.
 
@@ -1590,7 +1590,7 @@ E templo eos abripite, & asseruate sedulò.
 
 Causam illorum crastino cognoscemus die.
 
-# 14. ACTVS III. SCENA IV.
+## 14. ACTVS III. SCENA IV.
 
 HANANVS, SIMEON, AZARIAS.
 
@@ -1708,7 +1708,7 @@ Quod incoeptum est feliciter,
 
 ≤line=725≥ Ad bonum perducat exitum. Han. Rectè mones.
 
-# 15. ACTVS IV. SCENA I.
+## 15. ACTVS IV. SCENA I.
 
 ACHIOR, ANNAS, PETRVS,
 
@@ -1856,7 +1856,7 @@ Sed an sint vera, quae dixisti, nescio.
 
 Secedite hinc paulisper, donec vos reuocauero.
 
-# 16. ACTVS IV. SCENA II.
+## 16. ACTVS IV. SCENA II.
 
 ANNAS, CAIPHAS, ALEXANDER, SYRVS.
 
@@ -1904,7 +1904,7 @@ Ehem, huc eos ad nos statim reducite. Syr. Effectum dabimus
 
 Dum redeant. Cai. Placet. I prae, sequimur.
 
-# 17. ACTVS IV. SCENA III.
+## 17. ACTVS IV. SCENA III.
 
 PETRVS, IOANNES, SYRVS.
 
@@ -1972,7 +1972,7 @@ Sacerdotum reducamus, mandatum est nobis.
 ≤line=840≥ Io. Parati sumus. Hem, praecedite, sequimur. Syr. Benè
 dicitis.
 
-# 18. ACTVS IV. SCENA IV.
+## 18. ACTVS IV. SCENA IV.
 
 ANNAS, CAIPHAS, IOANNES, PETRVS.
 
@@ -2098,7 +2098,7 @@ Nostram sentietis propediem. Ioa. Quicquid
 
 In nos decreueritis, patiemur fortiter.
 
-# 19. ACTVS V. SCENA I.
+## 19. ACTVS V. SCENA I.
 
 CAIPHAS.
 
@@ -2160,7 +2160,7 @@ Idem illum quod me, vt arbitror, torquet malum.
 
 Subsistam hic, vt, quid sit dicturus, audiam.
 
-# 20. ACTVS V. SCENA II.
+## 20. ACTVS V. SCENA II.
 
 ALEXANDER, CAIPHAS.
 
@@ -2270,7 +2270,7 @@ Ac cras diluxerit, ad Annam ibo, atque hac de re cum illo loquar
 
 Seriò. \-\--
 
-# 21. ACTVS V. SCENA III.
+## 21. ACTVS V. SCENA III.
 
 IOANNES, PETRVS.
 
@@ -2346,7 +2346,7 @@ Io. Iampridem illorum innotuit fucus. At,
 
 Huc accedentes. Illos hic opperiamur. Pet. Placet.
 
-# 22. ACTVS V. SCENA IV.
+## 22. ACTVS V. SCENA IV.
 
 AZARIAS, HANANVS PETRVS IOANNES.
 
@@ -2432,7 +2432,7 @@ Barnabam appellandum existimauimus.
 
 [^129]Paulisper maneamus, donec huc accesserit. Pet. Fiat.
 
-# 23. ACTVS V SCENAV.
+## 23. ACTVS V SCENAV.
 
 IOSEPHVS, PETRVS, IOANNES.
 

@@ -78,7 +78,7 @@ finum ingestum, ad palum alligari, & sagittis configi imperat.
 
 
 
-# 1. ≤page=241≥ PERSONAE.
+## 1. ≤page=241≥ PERSONAE.
 
 S. Anastasius Martyr.
 
@@ -126,9 +126,9 @@ Praeco.
 
 
 
-# 3. ACTVS PRIMVS.
+## 3. ACTVS PRIMVS.
 
-# 4. [^1]SCENA PRIMA.
+## 4. [^1]SCENA PRIMA.
 
 S. ANASTASIVS proloquitur.
 
@@ -314,7 +314,7 @@ Iam vincla strident, audior: dirum gemit
 
 Subacta poenis anima, iam coelum grauat.
 
-# 5. [^4]SCENA SECVNDA.
+## 5. [^4]SCENA SECVNDA.
 
 VMBRA HORMISDAE. S. ANASTASIVS.
 
@@ -374,7 +374,7 @@ Metanoea pectus: nemo dum spirat, Deo
 
 Ex asse periit: caetera exsequere vt lubet.
 
-# 6. [^5]SCENA TERTIA.
+## 6. [^5]SCENA TERTIA.
 
 VMBRA HORMISDAE.
 
@@ -612,9 +612,9 @@ Tandem sternitur: at qui venit vltimus,
 
 Non est maximus impetus.
 
-# 8. ACTVS SECVNDVS.
+## 8. ACTVS SECVNDVS.
 
-# 9. [^12]SCENA PRIMA.
+## 9. [^12]SCENA PRIMA.
 
 CHOSROES. MARDESANES.
 
@@ -1012,7 +1012,7 @@ Excita si quid turbat impietas styge,
 
 In me redundent omnia, at non sum reus.
 
-# 10. [^16]SCENA SECVNDA.
+## 10. [^16]SCENA SECVNDA.
 
 NVNTIVS. CHOSROES. COSMAS. MARDESANES.
 
@@ -1352,9 +1352,9 @@ Cardine pandit? Vasaces hic est,
 
 Cui facit aulae gratia nomen.
 
-# 12. ≤page=264≥ ACTVS TERTIVS
+## 12. ≤page=264≥ ACTVS TERTIVS
 
-# 13. [^18]SCENA PRIMA.
+## 13. [^18]SCENA PRIMA.
 
 **CHORVS. VASACES.**
 
@@ -1512,7 +1512,7 @@ O Persis, vrbem peior Ausonio tenet,
 
 Qui non timetur hostis! ô patria! ô pater
 
-# 15. [^19]SCENA SECVNDA.
+## 15. [^19]SCENA SECVNDA.
 
 SYROES. CHORVS.
 
@@ -1566,7 +1566,7 @@ Vos rapite ab aulâ si quid hostile obuiat.
 
 Vndique tumultus, vndique vlulatus sonet.
 
-# 19. ≤page=268≥ [^20]SCENA TERTIA.
+## 19. ≤page=268≥ [^20]SCENA TERTIA.
 
 SYROES.
 
@@ -1790,7 +1790,7 @@ Non Mardesanis; liber & Dominus mei
 
 Haec tela tracto: seruiat si qui potest.
 
-# 20. [^23]SCENA QVARTA.
+## 20. [^23]SCENA QVARTA.
 
 RAZATES. SYROES. SARBARAS.
 
@@ -1944,7 +1944,7 @@ Etiam fauentem prouidus Graecum time.
 
 
 
-# 21. ≤page=275≥ [^24]SCENA QVINTA.
+## 21. ≤page=275≥ [^24]SCENA QVINTA.
 
 SYROES. HEMELIVS. RAZATES.
 
@@ -2074,7 +2074,7 @@ Spectabit orbis: crimen in causà latet,
 
 Agentis animus dat suum factis modum.
 
-# 22. ≤page=278≥ [^26]SCENA SEXTA.
+## 22. ≤page=278≥ [^26]SCENA SEXTA.
 
 NVNTIVS. SYROES. HEMELIVS.
 
@@ -2382,9 +2382,9 @@ Pergamus, socii, duce
 
 Faustâ ter quater arbore.
 
-# 24. ACTVS QVARTVS.
+## 24. ACTVS QVARTVS.
 
-# 25. [^32]SCENA PRIMA.
+## 25. [^32]SCENA PRIMA.
 
 SYROES. RAZATES. SANDOCES. STASANOR. HOMOTIMI.
 
@@ -2618,7 +2618,7 @@ Quo plus dulce putatur.
 
 Sand. Conuerte Phoebi vultum in orientis plagas.
 
-# 26. ≤page=288≥ [^33]SCENA SECVNDA.
+## 26. ≤page=288≥ [^33]SCENA SECVNDA.
 
 COSMAS. SANDOCES. SYROES. SARBARAS.
 
@@ -2790,7 +2790,7 @@ Natosque, & aptum iungite insidiis Sene:
 
 Perimere catulos genere de prauo ratum est.
 
-# 27. [^34]SCENA TERTIA.
+## 27. [^34]SCENA TERTIA.
 
 SYROES.
 
@@ -2914,9 +2914,9 @@ Suâ fatiscat sub rapinâ,
 
 Supplicii pretiosus emptor.
 
-# 29. [^36]ACTVS QVINTVS.
+## 29. [^36]ACTVS QVINTVS.
 
-# 30. SCENA PRIMA.
+## 30. SCENA PRIMA.
 
 CHOSROES. CARDARIGA.
 
@@ -3020,7 +3020,7 @@ Quam longa viui funera extendet patris
 
 Quando mori vetabit, vt iubeat mori?
 
-# 31. [^37]SCENA SECVNDA.
+## 31. [^37]SCENA SECVNDA.
 
 PACORVS. PHARNACES. ARAMANES. CHOSROES. VOLOGESES. CARDARIGA.
 
@@ -3126,7 +3126,7 @@ Mori rogantem Chosroëm, & vetitum mori.
 
 Pacor. Secede miles, Principis paret cohors.
 
-# 32. ≤page=298≥ [^38]SCENA TERTIA.
+## 32. ≤page=298≥ [^38]SCENA TERTIA.
 
 
 
@@ -3192,7 +3192,7 @@ Syr. At nemo vestrûm fratrem habet, nemo patrem
 
 Ita iudicandum sanguinis fontem sui.
 
-# 33. [^39]SCENA QVARTA.
+## 33. [^39]SCENA QVARTA.
 
 PRAECO. CARDARIGA. MARDESANES. PACORVS. SYROES. SARBARAS. RAZATES.
 
@@ -3296,7 +3296,7 @@ Pacor. Terni supersunt. Syr. Regulum dico, Sirae
 
 Meretricis anguem.Pacor. Mardesam Praeco cita.
 
-# 34. ≤page=302≥ [^41]SCENA QVINTA.
+## 34. ≤page=302≥ [^41]SCENA QVINTA.
 
 PRAECO. MARDESANES. CMOSROES. PACORVS. SYROES. ARDARIGA.
 
@@ -3404,7 +3404,7 @@ Dabo feritati: Mardesam Syroës necat,
 
 Sed non inultum; si quis est coelo Deus.
 
-# 35. [^42]SCENA SEXTA.
+## 35. [^42]SCENA SEXTA.
 
 PRAECO. CHOSROES. VOLOGESES. SYROES. MARDESANES. RAZATES. SARBARAS.
 CARDARIGA. PACORVS.
@@ -3701,7 +3701,7 @@ Refer huc citatus, Pacor. Spero confiet breui
 
 Quod iusta Regis ira, quod leges iubent.
 
-# 36. [^43]SCENA SEPTIMA.
+## 36. [^43]SCENA SEPTIMA.
 
 CHOSROES. SYROES. VOLOGESES. PHARNACES. PRAECO.
 
@@ -3839,7 +3839,7 @@ Volog. Oculi valete, lucidae mundi faces,
 
 Túque alme Mithra, aeterna nox oritur, vale.
 
-# 37. [^45]SCENA OCTAVA.
+## 37. [^45]SCENA OCTAVA.
 
 PACORVS. SYROES. CHOSROES.
 
@@ -3871,7 +3871,7 @@ Et Dii timentur? & Deos esse autumant?
 
 Syr. Tandem timendos Chosroës faciet Deos.
 
-# 38. ≤page=314≥ [^46]SCENA NONA.
+## 38. ≤page=314≥ [^46]SCENA NONA.
 
 VOLOGESES. CHOSROES. SYROES.
 
@@ -3925,7 +3925,7 @@ Syr. Auferte monstrum hoc, ora funestat mea,
 
 Per coeca Lethes antra perpetuùm gemat.
 
-# 39. [^47]SCENA DECIMA.
+## 39. [^47]SCENA DECIMA.
 
 CHOSROES. SYROES. SARBARAS. RAZATES. ARAMANES. PHARNACES.
 

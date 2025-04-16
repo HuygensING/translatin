@@ -1,11 +1,11 @@
 scans:
   prev:
-    part:
+    drama:
       vars:
         node: '=-1'
       value: '{node}' 
   next:
-    part:
+    drama:
       vars:
         node: '=+1'
       value: '{node}' 

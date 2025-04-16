@@ -358,7 +358,7 @@ CARCER BABYLONIVS.
 
 TRAGAEDIA SACRA.
 
-# 3. Actus primi. Scena Ia.
+## 3. Actus primi. Scena Ia.
 
 NABVCHODONOZOR.
 
@@ -642,7 +642,7 @@ Et tu Solymé, Solymé infoelix
 
 ≤line=135≥ Et tu Solymè sparsa iacebis.
 
-# 5. ACTVS 2. ≤folio=Biij≥
+## 5. ACTVS 2. ≤folio=Biij≥
 
 ≤page=6≥
 
@@ -1056,7 +1056,7 @@ Fletibus haustis claudite longos
 
 Complorato funere manes.
 
-# 7. ACTVS 3.
+## 7. ACTVS 3.
 
 PROPHETA.
 
@@ -1622,7 +1622,7 @@ Hîc intumulet barbarus hostis
 
 Tacitisque bibat terra cauernis.
 
-# 9. ACTVS 4.
+## 9. ACTVS 4.
 
 NABVCHODONOZOR Rex.
 
@@ -2060,7 +2060,7 @@ Et caesa virûm corpora voluens
 
 Bibet aeternum mersa cruorem.
 
-# 12. ACTVS 5.
+## 12. ACTVS 5.
 
 SEDECHIAS, NABVCHODONOZOR,
 

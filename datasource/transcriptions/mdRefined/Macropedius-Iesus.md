@@ -37,7 +37,7 @@ Traiecti, anno 1556.
 
 
 
-# 1. DRAMATIS PERSONAE.
+## 1. DRAMATIS PERSONAE.
 
 Prologus cum Epilogo Nathanael
 
@@ -59,7 +59,7 @@ Gabriel Paedisca.
 
 \<Philippus\>
 
-# 2. PROLOGUS.
+## 2. PROLOGUS.
 
 Audite me, puelli et adolescentuli,
 
@@ -111,7 +111,7 @@ Rerum argumenta. Gravia enim tragoediae
 
 ≤line=25≥ Mage congruunt et maxime si heroicae
 
-# 3. Personae erunt tristemque habebunt exitum.
+## 3. Personae erunt tristemque habebunt exitum.
 
 State itaque vos, pueri, ut puellum Iesuah
 
@@ -123,7 +123,7 @@ State (inquam) et omnibus quietis fabulis
 
 In matre virginea aut puello Iesuah.
 
-# 4. ACTUS I. SCAENA I.
+## 4. ACTUS I. SCAENA I.
 
 Versus iambici trimetri.
 
@@ -205,7 +205,7 @@ Patris mihi praecursor indicatus est.
 
 Iam terge ocellos, nam propinquat Elizabeth.
 
-# 5. ACTUS I. SCAENA II.
+## 5. ACTUS I. SCAENA II.
 
 MARIA, ELIZABETH, IESUS, IOANNES.
 
@@ -313,7 +313,7 @@ Montana vos, nos Nazareth, queamus hinc
 
 Proficiscier, quod hic dies sit septimus.
 
-# 6. ACTUS I. SCAENA III.
+## 6. ACTUS I. SCAENA III.
 
 ZACHARIAS, MARIA, IOSEPH, ELIZABETH, IESUAH.
 
@@ -367,7 +367,7 @@ Cum pectori meo incubans mysteria
 
 Sed audiamus, precor, quid dicturus est.
 
-# 7. ACTUS I. SCAENA IV.
+## 7. ACTUS I. SCAENA IV.
 
 STEPHANUS, IOSEPH, IESUS.
 
@@ -451,7 +451,7 @@ Visitentque templa crebro,
 
 ≤line=185≥ Supplices et obsecrent.
 
-# 9. ACTUS II. SCAENA I.
+## 9. ACTUS II. SCAENA I.
 
 Versus tetrametri.
 
@@ -481,7 +481,7 @@ Meam, obsecro, per spiritum nobis coaeternum, pater.
 
 Libenter ego pro perdito homine lacrimabor iugiter.
 
-# 10. ACTUS II. SCAENA II.
+## 10. ACTUS II. SCAENA II.
 
 Versus trimetri.
 
@@ -531,7 +531,7 @@ GAB. Ne fle, puer, dabit tibi Deus pater
 
 In omnibus victoriam. Vale. IES. Vale.
 
-# 11. ACTUS II. SCAENA III.
+## 11. ACTUS II. SCAENA III.
 
 IESUAH solus.
 
@@ -585,7 +585,7 @@ A dexteris quosnam video mihi proximos?
 
 Scholastici sunt, ficui sese applicant.
 
-# 12. ACTUS II. SCAENA IV.
+## 12. ACTUS II. SCAENA IV.
 
 NATHANAEL, ABIBAS.
 
@@ -639,7 +639,7 @@ ABI. Placet, audiamus. Vox enim eius dulcis est
 
 Et in illius diffusa labris gratia.
 
-# 13. ACTUS II. SCAENA V.
+## 13. ACTUS II. SCAENA V.
 
 IESUAH, NATHANAEL, ABIBAS.
 
@@ -701,7 +701,7 @@ Heus tu. NAT. Hem. ABI. Saluta blanditer, quod amore cum
 
 Suavitate dignus est. NAT. Memorem mones.
 
-# 14. ACTUS II. SCAENA VI.
+## 14. ACTUS II. SCAENA VI.
 
 NATHANAEL, IESUAH, ABIBAS.
 
@@ -787,7 +787,7 @@ ABI. Nec ipse eum flentem videns queo quin fleam.
 
 Tu perge eum sermone mutato alloqui. NAT. Hem.
 
-# 15. ACTUS II. SCAENA VII.
+## 15. ACTUS II. SCAENA VII.
 
 NATHANAEL, IESUAH, ABIBAS.
 
@@ -847,7 +847,7 @@ Adest Saul. Me abire oportet ilico,
 
 Tu loquere, Abiba, parvulo. ABI. Paucis loquar.
 
-# 16. ACTUS II. SCAENA VIII.
+## 16. ACTUS II. SCAENA VIII.
 
 ABIBA, IESUAH.
 
@@ -895,7 +895,7 @@ ABI. Ne lacrima. Sile, Iesuah, Saul adest,
 
 Ne nos ioco Sardonico derideat.
 
-# 17. ACTUS II. SCAENA IX.
+## 17. ACTUS II. SCAENA IX.
 
 IUSTUS, SAUL, IESUAH, ABIBAS.
 
@@ -937,7 +937,7 @@ Nam dura pro me postmodum passurus est.
 
 ABI. Exaudiamus, quid novi dicturus est.
 
-# 18. ACTUS II. SCAENA X.
+## 18. ACTUS II. SCAENA X.
 
 STEPHANUS, ABIBAS, SAUL, IESUS, IUSTUS.
 
@@ -1033,7 +1033,7 @@ Destrues sacrum et profanum,
 
 Destrues rempublicam.
 
-# 20. ACTUS III. SCAENA I.
+## 20. ACTUS III. SCAENA I.
 
 GAMALIEL, ABIBAS, NATHANAEL.
 
@@ -1071,7 +1071,7 @@ GAM. Ex Nazareth aliquid boni sperabimus?
 
 ≤line=470≥ NAT. Sperabimus (dubio procul) multum boni.
 
-# 21. ACTUS III. SCAENA II.
+## 21. ACTUS III. SCAENA II.
 
 GAMALIEL, NATHANAEL, IESUAH, PONTIFEX.
 
@@ -1131,7 +1131,7 @@ Et hunc locum occupabis hora proxima.
 
 IES. Quia sic placet dominis meis, sedeo libens.
 
-# 22. ACTUS III. SCAENA III.
+## 22. ACTUS III. SCAENA III.
 
 GAMALIEL, NICODEMUS, NABAL.
 
@@ -1179,7 +1179,7 @@ Dic tu, puer, quid sentias. NAB. Puer senes
 
 ≤line=520≥ (Si diis placet) docturus est. GAM. Sile parum.
 
-# 23. ACTUS III. SCAENA IV.
+## 23. ACTUS III. SCAENA IV.
 
 IESUAH, PONTIFEX, GAMALIEL.
 
@@ -1277,7 +1277,7 @@ IES. Permulta sunt, sed unum adhuc libet addere.
 
 GAM. Dic. ------------
 
-# 24. ACTUS III. SCAENA V.
+## 24. ACTUS III. SCAENA V.
 
 IESUAH, GAMALIEL, PONTIFEX, ABIBAS.
 
@@ -1341,7 +1341,7 @@ Et vesperi ut tecum refectus dormiat.
 
 Id quod futurum suspicor. GAM. Si sic, placet.
 
-# 25. ACTUS III. SCAENA VI.
+## 25. ACTUS III. SCAENA VI.
 
 IUSTUS, ABIBAS, IESUAH.
 
@@ -1409,7 +1409,7 @@ Cras, spero, mecum dormies. Vale. IES. Vale.
 
 Valeat pater cum fratre amico in crastinum.
 
-# 26. ACTUS III. SCAENA VII.
+## 26. ACTUS III. SCAENA VII.
 
 IUSTUS, IESUAH.
 
@@ -1525,7 +1525,7 @@ Plus quam Iesum, indignus est
 
 Christiano nomine.
 
-# 28. ACTUS IV. SCAENA I.
+## 28. ACTUS IV. SCAENA I.
 
 IESUAH solus.
 
@@ -1565,7 +1565,7 @@ Quam scio mea de absentia lacrimarier.
 
 Prospectat eminus foras Nathanael.
 
-# 29. ACTUS IV. SCAENA II.
+## 29. ACTUS IV. SCAENA II.
 
 GAMALIEL, NATHANAEL, IESUAH.
 
@@ -1601,7 +1601,7 @@ GAM. Tersis ocellis denuo, puer, sede et,
 
 Si postulet res, te tuere libere. IES. Hem.
 
-# 30. ACTUS IV. SCAENA III.
+## 30. ACTUS IV. SCAENA III.
 
 GAMALIEL, IESUAH, NICODEMUS cum ceteris.
 
@@ -1641,7 +1641,7 @@ Qualive sit venturus ad nos schemate?
 
 ≤line=735≥ Tum ceteri quoque super hoc respondeant.
 
-# 31. ACTUS IV. SCAENA IV.
+## 31. ACTUS IV. SCAENA IV.
 
 NICODEMUS, GAMALIEL, PONTIFEX cum ceteris.
 
@@ -1681,7 +1681,7 @@ PON. Non sic, patres. Prius audiamus Iesuah.
 
 GAM. Loquatur ergo Iesuah liberrime.
 
-# 32. ACTUS IV. SCAENA V.
+## 32. ACTUS IV. SCAENA V.
 
 IESUAH, PONTIFEX, GAMALIEL, SAUL.
 
@@ -1775,7 +1775,7 @@ Confligere. GAM. Hem, verbo tenus, sine verbere.
 
 SAU. Verbo tenus, sine verbere. Respondeat.
 
-# 33. ACTUS IV. SCAENA VI.
+## 33. ACTUS IV. SCAENA VI.
 
 SAUL, IESUAH, GAMALIEL.
 
@@ -1841,7 +1841,7 @@ GAM. Sic puer Iesus cum suis edat et bibat
 
 Speretque cras adfore suam materculam.
 
-# 34. ACTUS IV. SCAENA VII.
+## 34. ACTUS IV. SCAENA VII.
 
 IUSTUS, PAEDISCA, IESUAH.
 
@@ -1897,7 +1897,7 @@ Pappabimus sine termino suavius.
 
 ≤line=855≥ IUS. Quid huc Saul? ------------
 
-# 35. ACTUS IV. SCAENA VIII
+## 35. ACTUS IV. SCAENA VIII
 
 SAUL, IESUAH, IUSTUS.
 
@@ -1991,7 +1991,7 @@ Ubi grunnientem alvum meam levaverim.
 
 Consultius cedam tamen conflictui.
 
-# 36. ACTUS IV. SCAENA IX.
+## 36. ACTUS IV. SCAENA IX.
 
 GAMALIEL cum ceteris.
 
@@ -2047,7 +2047,7 @@ Is solet propensus esse ad
 
 Furta et ad periuria.
 
-# 38. ACTUS V. SCAENA I.
+## 38. ACTUS V. SCAENA I.
 
 GAMALIEL, IESUAH.
 
@@ -2095,7 +2095,7 @@ Priusquam enim absoluta sit dialexis haec,
 
 GAM. Ne lugeas, sed asside. IES. Rabbi, libens.
 
-# 39. ACTUS V. SCAENA II.
+## 39. ACTUS V. SCAENA II.
 
 GAMALIEL, IESUAH, IUSTUS.
 
@@ -2145,7 +2145,7 @@ GAM. Accede, Iesuah, ipsam amplectere et
 
 Deosculare, velut probum puerum decet.
 
-# 40. ACTUS V. SCAENA III.
+## 40. ACTUS V. SCAENA III.
 
 NATHANAEL, MARIA, IESUAH.
 
@@ -2197,7 +2197,7 @@ Morer, ut queat citra ruborem congredi.
 
 Ades, puer, te sine rubore duxero.
 
-# 41. ACTUS V. SCAENA IV.
+## 41. ACTUS V. SCAENA IV.
 
 PONTIFEX, GAMALIEL, IESUAH.
 
@@ -2255,7 +2255,7 @@ Materculae. IES. Ipsam accivero. PON. Curre, advoca. IES. Hem.
 
 ≤line=1020≥ PON. Quid de hoc puello dixero? ------------
 
-# 42. ACTUS V. SCAENA V.
+## 42. ACTUS V. SCAENA V.
 
 GAMALIEL, NICODEMUS, NATHANAEL.
 
@@ -2303,7 +2303,7 @@ NAT. En mater eminus suo cum filio.
 
 Salvo pudore iuvenculae. GAM. Salvo. Quid hoc?
 
-# 43. ACTUS V. SCAENA VI.
+## 43. ACTUS V. SCAENA VI.
 
 GAMALIEL, MARIA, IESUAH, PONTIFEX.
 
@@ -2401,7 +2401,7 @@ Longoque vivas tempore. IES. Sponte obsequar
 
 Parentibus, venerande pontifex. Vale.
 
-# 44. ACTUS V. SCAENA VII.
+## 44. ACTUS V. SCAENA VII.
 
 NATHANAEL, PONTIFEX, GAMALIEL, NICODEMUS.
 
@@ -2471,7 +2471,7 @@ Sit filius vere Dei et rex Israhel.
 
 Donec secundo convocetur contio.
 
-# 45. ACTUS V. SCAENA VIII.
+## 45. ACTUS V. SCAENA VIII.
 
 IOSEPHUS, IESUAH, STEPHANUS cum ceteris.
 
@@ -2529,7 +2529,7 @@ IES. Cum me parentes siverint, tum denuo
 
 Videbitis. Valete nunc, mea viscera.
 
-# 46. ACTUS V. SCAENA IX.
+## 46. ACTUS V. SCAENA IX.
 
 MARIA, IESUAH, IOSEPH.
 
@@ -2565,7 +2565,7 @@ IES. Corroborabit me pater, qui omnia potest,
 
 Iterque nostrum prosperum facturus est.
 
-# 47. EPILOGUS.
+## 47. EPILOGUS.
 
 ≤line=1165≥ Cunctis puellis maxime scholasticis
 

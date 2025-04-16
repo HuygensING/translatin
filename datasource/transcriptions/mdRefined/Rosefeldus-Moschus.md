@@ -132,7 +132,7 @@ P. L. C.
 
 
 
-# 1. Dramatis personae.
+## 1. Dramatis personae.
 
 Pallas. Brennus Praedones
 
@@ -178,7 +178,7 @@ Viator.
 
 ≤folio=A3≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Pallas.
 
@@ -368,7 +368,7 @@ Haec laurus atque haec virgo victori tibi dabitur.
 
 ≤folio=A5≥
 
-# 3. Actus I. Scaena I.
+## 3. Actus I. Scaena I.
 
 Polyharpax.
 
@@ -424,7 +424,7 @@ Sed quid comburo tempus linguâ? Quin Notarium
 
 Adductum curo aliquem, qui mihi concinnet chirographum!
 
-# 4. Actus I. Scena II.
+## 4. Actus I. Scena II.
 
 Moschus. Polyharpax. Petrucius.
 
@@ -542,7 +542,7 @@ Pol. Age tu, speciosiore manu rescribas istum syngraphum.
 
 Mo. Intereà temporis intus argentum tu sequere me. Pol. Sequor.
 
-# 5. Actus I. Scena III.
+## 5. Actus I. Scena III.
 
 Henno. Petrucius. Moschus.
 
@@ -716,7 +716,7 @@ Ni infortunio famelicum satiabims. He. quàm mox eum.
 
 Incurrimus? Pe. Mane, mane, priùs obseruemus quàm rem agat.
 
-# 6. Actus I. Scena IV.
+## 6. Actus I. Scena IV.
 
 Moschus. Petrucius. Henno.
 
@@ -823,7 +823,7 @@ Faxo accipiamini. Pe quid ergò moraris nos diutiasa
 
 Mo. Venite celeriter. He. non obliuiscemur nostros pedes,
 
-# 7. Actus I. Scena V.
+## 7. Actus I. Scena V.
 
 
 
@@ -948,7 +948,7 @@ Apagite, & hic fuisse edicite vestrae familiae.
 
 He. Apagite, abite, fugite hinc in maximam malam crucem.
 
-# 8. Actus II. Scena I.
+## 8. Actus II. Scena I.
 
 Musophilus.
 
@@ -1081,7 +1081,7 @@ Quin regredior, & ad itiner me praeparo,
 
 Vt quàm primùm parenti me sistam meo,
 
-# 9. Actus II. Scena II.
+## 9. Actus II. Scena II.
 
 Barrabas. Moschus.
 
@@ -1145,7 +1145,7 @@ Larus hians. Ba. Vade, ego in hac ero auceps audax areà
 
 Hem! quàm bonus auceps! quàm bonus auspex aucupij sum ego!
 
-# 10. Actus II. Scena III.
+## 10. Actus II. Scena III.
 
 
 
@@ -1358,7 +1358,7 @@ Ea. Vt placet. Ego interim praeoccupauero iudicem
 
 Br. ego capellas interim mulgore volo meas.
 
-# 11. Actus II. Scena IV.
+## 11. Actus II. Scena IV.
 
 Corydon. Menalcas. Petrucius.
 
@@ -1586,7 +1586,7 @@ Ibi vno & altero hosto conciliabimus meam
 
 Bryllida. Br. Turundis & ego faciam. Cor. perplacet. rebitimus.
 
-# 12. Actus II. Scena V.
+## 12. Actus II. Scena V.
 
 Mercator. Henno.
 
@@ -1901,7 +1901,7 @@ Nam quando plenus sum, tunc habeo melius cor, quàm sobrius.
 
 Sed oportet me domi, nil factitare n. sine me queunt.
 
-# 13. Actus II. Scena VI.
+## 13. Actus II. Scena VI.
 
 Polyharpax. Henno.
 
@@ -1955,7 +1955,7 @@ Vos merces interim in tabernam collocabitis,
 
 Vt si futuri sint emptores, exponatis faciliùs.
 
-# 14. Actus II. Scena VII.
+## 14. Actus II. Scena VII.
 
 Hupim. Mupim. Labrax.
 
@@ -2069,7 +2069,7 @@ Hu. Eho, sunt illi, qui illic contra nos tollunt gradum!
 
 Mu Ego me in pedes, in vrbe ne mihi fiat denuò.
 
-# 15. Actus II. Scena VIII.
+## 15. Actus II. Scena VIII.
 
 Polyharpax. Petrucius.
 
@@ -2259,7 +2259,7 @@ Capitulum currit. bombax. oh, si sus veniret & ederet,
 
 Nam si videbunt hoc, dabunt mihi poenas plagosißimas.
 
-# 16. Actus III. Scena I.
+## 16. Actus III. Scena I.
 
 Musophilus. Puer.
 
@@ -2295,7 +2295,7 @@ Viam. qui me huc duxisti, iterùm me reduc domum.
 
 Abeo valedicturus. Tu Deus mihi benedic.
 
-# 17. Actus III. Scena II.
+## 17. Actus III. Scena II.
 
 Polyharpax. Barrabas.
 
@@ -2578,7 +2578,7 @@ Proh DI immortales obsecro vestram fidem!
 
 Quid ego hodiè negoti confeci malum?
 
-# 18. Actus III. Scena III.
+## 18. Actus III. Scena III.
 
 Polyharpax.
 
@@ -2642,7 +2642,7 @@ Nec minus bono cum iure quàm Danisticum.
 
 Quid autem? Expiscandum est enim, vtrum se res ita habeat.
 
-# 19. Actus III. Scena IV.
+## 19. Actus III. Scena IV.
 
 Barrabas. Moschus.
 
@@ -2694,7 +2694,7 @@ Igitur prouenturam benè confido tibi.
 
 Mo. Tace, parce voci, praeda progreditursoras.
 
-# 20. Actus III. Scena V.
+## 20. Actus III. Scena V.
 
 Polyharpax. Moschus. Barrabas.
 
@@ -3030,7 +3030,7 @@ Nomine. non nescit & praetor, quid album vel nigrum siet.
 
 :
 
-# 21. Actus III. Scena VI.
+## 21. Actus III. Scena VI.
 
 Polyharpax. Viator.
 
@@ -3060,7 +3060,7 @@ Adibo Lugrum, & huius consciam faciam rei.
 
 ≤folio=E4≥
 
-# 22. Actus III. Scena VII.
+## 22. Actus III. Scena VII.
 
 Brennus. Attabus. Musophilus.
 
@@ -3176,7 +3176,7 @@ Sed eiquid visceribus tumultuantibus loquor,
 
 Quin adeò pagum proximum, & ostiatim peto cibum!
 
-# 23. Actus IV. Scena I.
+## 23. Actus IV. Scena I.
 
 Moschus. Polybarpax. Viator. PRAETOR.
 
@@ -3740,7 +3740,7 @@ He. Aquam, panem. Esurigo me divexat, panem, aquam date.
 
 ≤folio=F4≥
 
-# 24. Actus IV. Scena II.
+## 24. Actus IV. Scena II.
 
 Praetor Sulpitius. AEmylius. Flauius. Pleminius. Henno. Viator.
 Petrucius.
@@ -3939,7 +3939,7 @@ Eum, vt permittat, concedat, damnatum voluimus
 
 
 
-# 25. Actus IV. Scena III.
+## 25. Actus IV. Scena III.
 
 Viator, PRAETOR. Assessores.
 
@@ -4175,7 +4175,7 @@ Caprinam barbam, corpus tam iuvenis hominis corrumperet
 
 Verùm tacebo, vt videam, quorsum res ventura sit.
 
-# 26. Actus IV. Scena IIII.
+## 26. Actus IV. Scena IIII.
 
 Moschus. Polyharpax. Barrabas. Henno.
 
@@ -4363,7 +4363,7 @@ Pol. Ahleheu He. Heus heus Mosch, heus, & tamen venire ad iudicem
 
 Debes. non audis? non vides? debes venire ad iudicem.
 
-# 27. Actus IV. Scena V.
+## 27. Actus IV. Scena V.
 
 Musophilus. Moschus. Polyharpax. Barrabas.
 
@@ -4772,7 +4772,7 @@ Mo. Ab ne tam saeviter nobiscum agite. Co. nihil minus,
 
 Cur scindere voluistis carnem & occidistis puerulum.
 
-# 28. Actus V. Scena I.
+## 28. Actus V. Scena I.
 
 Henno.
 
@@ -4810,7 +4810,7 @@ Tempus habete bonum, nunc ego vado domum.
 
 ≤folio=H≥
 
-# 29. Actus V. Scena II.
+## 29. Actus V. Scena II.
 
 Musophilus. Mercator.
 
@@ -4927,7 +4927,7 @@ Vt nosti. Me. Vade & quamprimùm revertere, vt de Nuptijs
 
 Deliberemus instaurandis auspice Optimo Maximo.
 
-# 30. Actus V. Scena Ill
+## 30. Actus V. Scena Ill
 
 Pallas. Sophie, Mercator. Musophilus.
 
@@ -5011,7 +5011,7 @@ Si placuimus, vobisque placet, plausum date.
 
 ≤folio=H3≥
 
-# 31. Errata quaedam sic corrigantur.
+## 31. Errata quaedam sic corrigantur.
 
 In epigram, vers. 4. pro Dor lege Cor. In prol. v.
 

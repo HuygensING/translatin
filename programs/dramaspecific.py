@@ -64,7 +64,7 @@ ARABIC_PAGENUM_RND_RE = re.compile(
     ([0-9]+)
     [\ ]?
     (?:
-        \\?\) | \)\(
+        \)\( | \\?\)
     )
     """,
     re.X,

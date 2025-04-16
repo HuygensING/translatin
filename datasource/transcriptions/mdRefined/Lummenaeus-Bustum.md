@@ -44,7 +44,7 @@ SARA. ANGELI.
 
 **CHORVS.**
 
-# 2. ACTVS PRIMVS
+## 2. ACTVS PRIMVS
 
 DIVINA NEMESIS.
 
@@ -392,7 +392,7 @@ Serpere nebulam, Sodomae bustum
 
 Indice prodet.
 
-# 4. ACTVS SECVNDVS
+## 4. ACTVS SECVNDVS
 
 ABRAHAM, ANGELI.
 
@@ -654,7 +654,7 @@ Aemula prauae Numina Gentis.
 
 
 
-# 6. ACTVS TERTIVS.
+## 6. ACTVS TERTIVS.
 
 SARA, ABRAHAM.
 
@@ -1065,7 +1065,7 @@ Ocium & blandae saties Voluptae
 
 Perdidit Vrbem.
 
-# 8. ACTVS QVARTVS.
+## 8. ACTVS QVARTVS.
 
 
 
@@ -1621,7 +1621,7 @@ Probrum Gentis inhospitae,
 
 Dignum fulmine, vel mari.
 
-# 10. ACTVS QVINTVS.
+## 10. ACTVS QVINTVS.
 
 LOTVS, IPHILLA, ANGELI.
 

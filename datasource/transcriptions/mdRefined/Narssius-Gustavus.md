@@ -138,7 +138,7 @@ quieti ac silentio, si illo opus, benigne fave!
 
 ≤page=45≥
 
-# 1. ≤folio=A3b≥ Personae tragoediae.
+## 1. ≤folio=A3b≥ Personae tragoediae.
 
 *Gustavus Adolphus* Rex Sueciae etc.
 
@@ -171,7 +171,7 @@ Procerum belli et Militum.
 
 **Gustavus saucius, tragoedia.**
 
-# 3. Actus primus.
+## 3. Actus primus.
 
 Gustavus Adolphus, Rex Sueciae. Maria Eleonora Regina.
 
@@ -779,7 +779,7 @@ Redde *Gustavum* patriae atque in uno
 
 Rego salutem!
 
-# 5. ≤folio=18≥ Actus secundus.
+## 5. ≤folio=18≥ Actus secundus.
 
 \[II, 1\] Axelius Oxenstern.
 
@@ -1391,7 +1391,7 @@ Longe pellat sede Polonum
 
 ≤line=545≥ Et nova *Regem* laurea cingat!
 
-# 7. Actus tertius.
+## 7. Actus tertius.
 
 \[III,1\] Amor coniugalis. Nuntius. Maria Eleonora Regina.
 
@@ -2305,7 +2305,7 @@ Dignus, Tartareo qui lateat specu
 
 Et poenis rigidum sentiat Aeacum.
 
-# 9. ≤folio=46≥ Actus quartus.
+## 9. ≤folio=46≥ Actus quartus.
 
 \[IV, 1\] Franciscus Bernardus comes Turnensis. Ioannes Bannerius.
 Axelius Oxenstern.
@@ -2926,7 +2926,7 @@ Certabimus fideli
 
 Ac pertinaci amore.
 
-# 12. Actus quintus.
+## 12. Actus quintus.
 
 \[V,1\] Axelius Oxenstern.
 

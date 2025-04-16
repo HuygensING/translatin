@@ -808,7 +808,7 @@ nostra lecturus specta; spectaturus lege.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 Iephte, Iudex Hebraeorum nonus. Iephtias Menulema. Filia. Ariphanasso.
 Assecla Iephtae praecipuus. Legati Galadini ad Iephten. Ammon. Rex
@@ -818,9 +818,9 @@ Domestici Menulema. Exploratores Galadini. Nuncii \[Reg: Nuntii\] duo.
 Bagloas barbarus. Chorus Asseclarum Iephtae. Militum. Sodalium
 Menulemae. quas inter,primariae Rachel, et Thamar.
 
-# 2. ACTUS I.
+## 2. ACTUS I.
 
-# 3. SCENA I.
+## 3. SCENA I.
 
 Iephta a fratribus eiecit status, et conditio in terra Tob. Iephte.
 
@@ -930,7 +930,7 @@ Hac lege signa nostra praesens adpetit,
 
 Haec capta bello spolia partitur cohors.
 
-# 4. SCENA II.
+## 4. SCENA II.
 
 Iephte a maioribus natu Populi Galadini Iudex ac Princeps salutatur.
 Legatus I. Legatus II.
@@ -1399,7 +1399,7 @@ Virtute sua surgit in altum.
 
 Nobilis ergo nomine dignus,
 
-# 8. Incipit a se nobilis esse,
+## 8. Incipit a se nobilis esse,
 
 Centum ceris nixus avitis
 
@@ -1457,9 +1457,9 @@ Potiora sedent. domat indomita
 
 Omnia Virtus:
 
-# 9. ACTUS II.
+## 9. ACTUS II.
 
-# 10. SCENA I.
+## 10. SCENA I.
 
 Ariphanasso, miles AEgyptius, assecla Iephtae praecipuus, suum amorem in
 filiam eius Menulemam aperit.
@@ -1730,7 +1730,7 @@ Soceri colentis Numen adversum tibi
 
 Gener esse nequeas. desine. insanis miser.
 
-# 11. SCENA II.
+## 11. SCENA II.
 
 Rex Ammonitarum furens minas et arma spirat. Iudaeos urit sarcasmis.
 Ammon R. \[Abbr.: Rex\] Iaramazda, Beharola, palatini.
@@ -2103,7 +2103,7 @@ Iaramazda, tecum facio iungamus munus,
 
 Iungamus enses. ipsa pernicies iuvet,
 
-# 12. SCENA III.
+## 12. SCENA III.
 
 Ammoni hostilia iactanti Legatus Iephitaeus ter date respondet. Bellum
 conflatur. Ammon. R. \[Abbr.: Rex\]
@@ -2352,7 +2352,7 @@ Servare nullum. faciet, haec faciet manus
 
 Ego vos Apellas sulphuratos! vos ego!
 
-# 13. SCENA IV.
+## 13. SCENA IV.
 
 Ariphanasso, spe potiunda Menulema. eiurat AEgyptios Deos, fit
 proselytus. omnibus bedi periculis se devovet.
@@ -2537,7 +2537,7 @@ Menulema, clarum Marte qui nomen seret.
 
 Discernat ensis quemque rivalem suus.
 
-# 14. SCENA V.
+## 14. SCENA V.
 
 Exploratores Galadini. Reduces e terra hostili, dira nuncians \[Reg:
 nuntians\] .
@@ -3057,7 +3057,7 @@ Crudelius libido bacchari nequit,
 
 Quam si in sepulcri iam reos lasciviat.
 
-# 15. SCENA VI.
+## 15. SCENA VI.
 
 Menulema F. \[Abbr.: ?\] Iephtae, Exploratorum narrationibus territa,
 Patri metuit Moderator Aodus solatur. Ariphanasso in Menulemae gratiam,
@@ -3474,7 +3474,7 @@ Ferro est agendum. plectra sint gladii tua.
 
 Ex hoste caeso gloriam et Sponsam cape.
 
-# 16. SCENA VII.
+## 16. SCENA VII.
 
 Iephta in procinctu stantis Oratio polemica ad milites.
 
@@ -4231,9 +4231,9 @@ Si nostra fugat culpa, benignam
 
 Annue mentem.
 
-# 29. ACTUS III.
+## 29. ACTUS III.
 
-# 30. SCENA I.
+## 30. SCENA I.
 
 Baracus domesticus Menulemae, refert eius piam sollicitudinem, nec non
 timidum omen, propter incertos bellorum eventus. BARACUS.
@@ -4586,7 +4586,7 @@ Laetum aliquid. audis? aera clangunt tertia.
 
 Tu, quisquis ille es, ede, quid portas novi?
 
-# 31. SCENA II.
+## 31. SCENA II.
 
 Iephtaea Victoriae relatio. Nuncius \[Reg: Nuntius\] I. Baracus. Nuncius
 II.
@@ -5078,7 +5078,7 @@ Vitifera ad usque pinguis Abelae iuga.
 
 Frenatur omnis regio nostris legibus.
 
-# 32. SCENA III.
+## 32. SCENA III.
 
 Laus Pacis. Gaudium Galadini Populi ex nunciata \[Reg: nuntiata\]
 Victoria. Aodus. Chorus.
@@ -5342,7 +5342,7 @@ In pompam venias prior.
 Scena tubarum, intercalaris, sive exspectatio reditus Iephtai, cum
 victore exercitus.
 
-# 36. SCENA IV.
+## 36. SCENA IV.
 
 Patris et Filiae confatalis occursus. Iephte. Menulema.
 
@@ -5910,9 +5910,9 @@ Adeste Socii. facinus infandum patris
 
 Prohibete. Natam manibus eripite impiis.
 
-# 45. ACTUS IV.
+## 45. ACTUS IV.
 
-# 46. SCENA I.
+## 46. SCENA I.
 
 Agon primus Iephtae, secum luctantis ex amore naturali in filiam, voto
 immolandam. Iephte.
@@ -6431,7 +6431,7 @@ Arce tetricas cerebri formas:
 
 Puraque tantum somnia ludant.
 
-# 48. SCENA II.
+## 48. SCENA II.
 
 Planctus Menulemae, eiusdemque Sodalium in montibus, Menulema. Thamar et
 Rachel, cum Choro caeter. Virg.
@@ -7229,7 +7229,7 @@ Illa per auras stridula, ventos
 
 Sua post celeres terga relinquit.
 
-# 54. SCENA III.
+## 54. SCENA III.
 
 Iephte evigilans. Ieph: UBi sum? gravi sopore mersus ubi fui?
 
@@ -7287,7 +7287,7 @@ Exposcit ictum: at ipse cunctator ferox
 
 Dubitas ferire? dubito. quia sunt somnia.
 
-# 55. SCENA IV.
+## 55. SCENA IV.
 
 Lucta ultima, et victoria Iephtae, paternos affectus substernentis. Voto
 Religionis. Aodius. Iephte. Chorus.
@@ -7688,9 +7688,9 @@ Cras cum renatum fonte Nabathaeo iubar
 
 Infundet Orbi Phoebus, explebo Sacrum.
 
-# 59. ACTUS V.
+## 59. ACTUS V.
 
-# 60. SCENA I.
+## 60. SCENA I.
 
 Ariphanasso ex variis incerte Fortuna iactationibus, Maspham reversus;
 maioribus obnoxius. Ariphanasso.
@@ -7921,7 +7921,7 @@ Possem mereri. Sortis infelix iocus
 
 Mea culpa non est. odia Fatorum luo.
 
-# 61. SCENA II.
+## 61. SCENA II.
 
 Iephtaei Sacrificii prima Relatio, obscura et interrupta. Aodus.
 Ariphanasso.
@@ -8080,7 +8080,7 @@ Ignoro. Nata, pater, sacerdos, hostia,
 
 Insolita prorsus. AR. siste; quem ploras miser:
 
-# 62. SCENA III.
+## 62. SCENA III.
 
 Iephtaei Holocausti altera Relatio, apertior, sed barbara. Bagloas
 Barbarus. Ariphanasso.
@@ -8477,7 +8477,7 @@ Forte ex senatu fronte non laeta redit.
 
 Ego arbitrabor tacitus eventum rei.
 
-# 63. SCENA IV.
+## 63. SCENA IV.
 
 Flebilem Iephtaei Sacrificii Catastrophen. Ariphanasso tandem clarius
 audit exponi. Baracus. Ariphanasso.

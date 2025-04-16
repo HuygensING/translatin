@@ -142,7 +142,7 @@ Schismatis Anglicani.
 
 
 
-# 1. Personae Tragoediae
+## 1. Personae Tragoediae
 
 Henricus Rex.
 
@@ -217,9 +217,9 @@ ANGLICANVM
 
 TRAGŒDIA.
 
-# 4. ACTVS PRIMVS.
+## 4. ACTVS PRIMVS.
 
-# 5. SCENA I.
+## 5. SCENA I.
 
 Haeresis, Luxuria, Impietas, Tyrannis.
 
@@ -367,7 +367,7 @@ Instate circum, saucii cordis fores
 
 Pulsate, amans amensque sit, nec sit suus.
 
-# 6. SCENA II.
+## 6. SCENA II.
 
 Henricus Rex, Luxuria, Impietas, Tyrannis.
 
@@ -515,7 +515,7 @@ Vt video, ut aeger occido; nutu meum
 
 Hoc pectus uno sauciat, mihi me abstrahit.
 
-# 7. SCENA III.
+## 7. SCENA III.
 
 Bolena, Henricus, Brianus.
 
@@ -653,7 +653,7 @@ Sed en, nec erro, cerno Volsaeum, gravis
 
 Res agitur intus, cura sollicitum tenet.
 
-# 8. SCENA IV.
+## 8. SCENA IV.
 
 Volsaeus, Longlandus, Brianus.
 
@@ -747,7 +747,7 @@ Inveniat ardor. *Volsaeus.* Certus est, si vult, modus.
 
 *Brianus.* En concitato properat ipse Rex gradu.
 
-# 9. SCENA V.
+## 9. SCENA V.
 
 Henricus rex, Volsaeus, Longlandus.
 
@@ -855,7 +855,7 @@ Est digna Rege, Regius sanguis simul.
 
 *Vols.* Curabo quicquid postulat Regis salus.
 
-# 10. SCENA VI.
+## 10. SCENA VI.
 
 Henricus Rex, Ratio, Pietas, Clementia.
 
@@ -1089,9 +1089,9 @@ Amoris iste finis est,
 
 Perire semper, nec mori.
 
-# 12. ACTVS SECVNDVS
+## 12. ACTVS SECVNDVS
 
-# 13. SCENA I.
+## 13. SCENA I.
 
 Catharina Regina, Thomas Morus, pedissequae.
 
@@ -1273,7 +1273,7 @@ Quin hoc ruinis terreat pectus novis.
 
 *Cath.* Venite mecum, cuncta disponat Tonans.
 
-# 14. SCENA II.
+## 14. SCENA II.
 
 Henricus Rex, Brianus, Bolena.
 
@@ -1367,7 +1367,7 @@ Subite in Aulam, consilia volvam hic mea.
 
 *Brian.* Longlandus ecce, Regis affatum petit.
 
-# 15. SCENA III.
+## 15. SCENA III.
 
 Henricus Rex, Longlandus.
 
@@ -1493,7 +1493,7 @@ Hoc mando curis; quod petit tempus, para.
 
 *Longl.* Sed en Senatus, Regium accedit thronum.
 
-# 16. SCENA IV.
+## 16. SCENA IV.
 
 Senatus, Henricus Rex, in Senatu Roffensis episcopus, Morus, et alii.
 
@@ -1639,7 +1639,7 @@ Quem Roma mittit Iudicem, occursu prius
 
 Excipite vestro, cerno, namque ad nos subit.
 
-# 17. SCENA V.
+## 17. SCENA V.
 
 Campegius, Henricus Rex, Volsaeus.
 
@@ -1695,7 +1695,7 @@ Nihil moror, Volsaee Reginam mone.
 
 Subeamus aulam, consilia non deerunt nova.
 
-# 18. SCENA VI.
+## 18. SCENA VI.
 
 Catharina, Volsaeus, Varamus.
 
@@ -1793,7 +1793,7 @@ Confunde luctu pectus, en Regem vides,
 
 Venit ad Tribunal, Iudices adsunt simul.
 
-# 19. SCENA VII.
+## 19. SCENA VII.
 
 Campegius, Volsaeus, Henricus Rex, Catharina Regina, Brianus, Varamus.
 
@@ -2025,9 +2025,9 @@ Subire fortunam decet,
 
 Quam fata donant patriae.
 
-# 21. ACTVS TERTIVS
+## 21. ACTVS TERTIVS
 
-# 22. SCENA I.
+## 22. SCENA I.
 
 Henricus, Campegius, Volsaeus, Brianus, Guilhelmus Varamus.
 
@@ -2201,7 +2201,7 @@ Cum causa regis anxium exercet forum.
 
 *Cam.* Audita causa est; quid tamen? quid hi volunt?
 
-# 23. SCENA II.
+## 23. SCENA II.
 
 Roffensis, Campegius,Volsaeus, Rydlaeus, Henricus Rex.
 
@@ -2313,7 +2313,7 @@ Finire causam; patere rex tempus breve;
 
 Et hoc tribunal coge cum rursus voles.
 
-# 24. SCENA III.
+## 24. SCENA III.
 
 Henricus Rex, Thomas Morus.
 
@@ -2405,7 +2405,7 @@ Rex oro muta cordis hoc votum tui.
 
 *Morus.* Regina, Rex, en prodit, audi Coniugem.
 
-# 25. SCENA III.
+## 25. SCENA III.
 
 Catharina, Henricus, Maria Filia.
 
@@ -2527,7 +2527,7 @@ Regina poscit. *Henr.* Vade nil deerit tibi,
 
 Praestabo quicquid Regium debet decus.
 
-# 26. SCENA V.
+## 26. SCENA V.
 
 Haeresis, Luxuria, Impietas, Tyrannis, Henricus Rex.
 
@@ -2607,7 +2607,7 @@ In regis una dextera est mors et salus.
 
 *Tyran.* Tu quod Bolenae non favet, ferro opprime.
 
-# 27. SCENA VI.
+## 27. SCENA VI.
 
 Longlandus, Henricus Rex.
 
@@ -2681,7 +2681,7 @@ Decidet ipse Pontifex causam brevi.
 
 Bolena sit regina, sit Coniux mea.
 
-# 28. SCENA VII.
+## 28. SCENA VII.
 
 Haeresis cum suis, Longlandus, Brianus.
 
@@ -2753,7 +2753,7 @@ Parat triumphum, gaudiis vacat Domus.
 
 En Rex et ipsa, prodeunt cuncti simul.
 
-# 29. SCENA VIII.
+## 29. SCENA VIII.
 
 Henricus Rex, Bolena, Granmerus.
 
@@ -2954,9 +2954,9 @@ Secat, necat, ruit, obruit.
 
 Misera haec videbit Anglia.
 
-# 31. ACTVS QVARTVS
+## 31. ACTVS QVARTVS
 
-# 32. SCENA I.
+## 32. SCENA I.
 
 Catharina, Longlandus, Maria Filia, Pedissequae.
 
@@ -3098,7 +3098,7 @@ Sui dolores sunt mei, et lachrymae meae.
 
 Quocunque pergis, pergo; tu famulam rege.
 
-# 33. SCENA II.
+## 33. SCENA II.
 
 Henricus Rex, Brianus, Volsaeus, Guilhelmus Varamus.
 
@@ -3232,7 +3232,7 @@ Sedatus in me est pectoris moti furor.
 
 Melioris; alter non sequi errorem amplius.
 
-# 34. SCENA III.
+## 34. SCENA III.
 
 Henricus Rex, Bolena, Brianus.
 
@@ -3334,7 +3334,7 @@ Briane, cura deesse Reginae nihil.
 
 *He.* Adsit Senatus. *Bri.* Aderit, hanc curam geram.
 
-# 35. SCENA IV.
+## 35. SCENA IV.
 
 Henricus Rex, Haeresis cum suis.
 
@@ -3446,7 +3446,7 @@ Fusus parabit sortis excelsae thronum.
 
 *Haeresis.* Satis est, Britanna Terra mutabit fidem.
 
-# 36. SCENA V.
+## 36. SCENA V.
 
 Henricus Rex, Granmerus, Roffensis, Morus, Senatores alii.
 
@@ -3610,7 +3610,7 @@ Cum sol reducet flammeos undis equos
 
 Voca ad tribunal conscios rursum reos.
 
-# 37. SCENA VI.
+## 37. SCENA VI.
 
 Granmerus, Senatores.
 
@@ -3660,7 +3660,7 @@ Vultu propinquat? Pectore in fracto necem
 
 Contemnit audax; credite, hic nimium sapit.
 
-# 38. SCENA VII.
+## 38. SCENA VII.
 
 Granmerus, Roffensis, Senatores.
 
@@ -3724,7 +3724,7 @@ Te perduellem dico, et addico neci.
 
 I lictor, istud amputa seni caput.
 
-# 39. SCENA VIII.
+## 39. SCENA VIII.
 
 Roffensis, Lictor.
 
@@ -3922,9 +3922,9 @@ Haec fera facient oscula.
 
 Rursus Vale, aeternum Vale.
 
-# 41. ACTVS QVINTVS.
+## 41. ACTVS QVINTVS.
 
-# 42. SCENA I.
+## 42. SCENA I.
 
 Religio Catholica, Ratio, Pietas, Clementia.
 
@@ -4024,7 +4024,7 @@ Rex ipse; quid vult! tota concutior metu.
 
 Meditatur iterum misera quod nimium gemam.
 
-# 43. SCENA II.
+## 43. SCENA II.
 
 Henricus Rex, Religio Cath., Ratio, Pietas, Clementia.
 
@@ -4134,7 +4134,7 @@ Parere iustum est Regibus quando iubent.
 
 Sum Rex, et idem Pontifex ero meis.
 
-# 44. SCENA III.
+## 44. SCENA III.
 
 Granmerus, Henricus Rex, Senatores, Aloysia Mori uxor, Margareta filia.
 
@@ -4240,7 +4240,7 @@ Terrebit animos. *Henr.* occidat, pereat, cadat.
 
 Vel me supremum patriae dicat caput.
 
-# 45. SCENA IV.
+## 45. SCENA IV.
 
 Morus, Aloysia, Margareta.
 
@@ -4400,7 +4400,7 @@ Coniux Vale. *Aloysia.* Valere sine te non queo.
 
 O dura vita Patre quae tanto caret.
 
-# 46. SCENA V.
+## 46. SCENA V.
 
 Granmerus, Morus, Senatores.
 
@@ -4494,7 +4494,7 @@ Hodie licebit. *Senat. 1.* Sit satis, tolle hinc moras.
 
 Comitabor, illum Lictor abductum trahe.
 
-# 47. SCENA VI.
+## 47. SCENA VI.
 
 Morus, Senator 1, Lictor, Religio Catholica.
 
@@ -4562,7 +4562,7 @@ Velatur illud Luminis clari caput.
 
 *Mor.* Miserere Iesu, Lictor, en cervix patet.
 
-# 48. SCENA VII.
+## 48. SCENA VII.
 
 Religio, Margareta, Angelus.
 
@@ -4658,7 +4658,7 @@ Replebit altos, sed fremet frustra furor.
 
 Miserere tamen ô Angliae tandem Deus.
 
-# 49. SCENA VIII.
+## 49. SCENA VIII.
 
 Henricus Rex, Brianus, Senat. 1, Bolena, Varamus.
 
@@ -4768,7 +4768,7 @@ Ista est voluntas Regis, I Lictor, feri.
 
 *Bo.* Miserere Rex! miserere coniux! ô Tonans!
 
-# 50. SCENA IX.
+## 50. SCENA IX.
 
 Religio, Angelus, Brianus.
 
@@ -4838,7 +4838,7 @@ Vindicta iusti; effugere Rex nunquam potest.
 
 Et mortem anhelans turbido aspectu tremit.
 
-# 51. SCENA X.
+## 51. SCENA X.
 
 Granmerus, Henricus Rex, Brianus, Religio.
 
@@ -4970,7 +4970,7 @@ Nisi hoc cadaver restat, et longus dolor.
 
 *Gra.* Agedum efferatur; Anglia hoc funus tuum est.
 
-# 52. SCENA XI.
+## 52. SCENA XI.
 
 Religio Catholica.
 

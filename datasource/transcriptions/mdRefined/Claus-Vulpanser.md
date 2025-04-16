@@ -21,7 +21,7 @@ Qui Figitur in nemore arci vicino.
 
 
 
-# 1. Personae.
+## 1. Personae.
 
 *Heribertus*, Dynastae Filius.
 
@@ -39,11 +39,11 @@ Qui Figitur in nemore arci vicino.
 
 Duo Pueri Itali.
 
-# 2. Pars Prima.
+## 2. Pars Prima.
 
-# 3. Scena Prima.
+## 3. Scena Prima.
 
-# 4. Personae. Mopsus, Ganserellus*.
+## 4. Personae. Mopsus, Ganserellus*.
 
 *Mopsus*.[^1] Remaneto puer, et anseres curae tuae
 
@@ -75,9 +75,9 @@ Heri mihi promiserat sortem parem
 
 ≤line=15≥ Cum Vulpulo. Sed ecce! Salve, Vulpule!
 
-# 5. Scena Secunda.
+## 5. Scena Secunda.
 
-# 6. Personae. Vulpulus, Mopsus, Ganserellus.*
+## 6. Personae. Vulpulus, Mopsus, Ganserellus.*
 
 *Vulpulus*. Ut rustice puer loqueris? Assusce melius
 
@@ -137,9 +137,9 @@ Omnes utique peccavimus Primo in Patre.
 
 Ut caeteri homines, Vulpulus nunquam fuit.
 
-# 7. Scena Tertia.
+## 7. Scena Tertia.
 
-# 8. Personae. Accedunt Rosindus, et Cervinus*.
+## 8. Personae. Accedunt Rosindus, et Cervinus*.
 
 ≤line=45≥ *Rosindus*.[^2] Cervine! Nullus dubito, succedet dolus,
 
@@ -161,7 +161,7 @@ Substituit è vicinia. *Gans*. Ergo imus, Pater.
 
 Laetissimus ad aucupia te demum sequor.
 
-# 9. Scena Quarta.
+## 9. Scena Quarta.
 
 *Persona. Vulpulus, Rosindus, Cervinus.*
 
@@ -225,7 +225,7 @@ Monitum sequemur seduli exemplo tuo.
 
 *Cerv*. At ecce! Jam cum Eustachio prodit Comes.
 
-# 10. Scena Quinta.
+## 10. Scena Quinta.
 
 *Personae. Heribertus, Eustachius portans sub Axilla clausam cistulam.
 Vulpulus, Rosindus, Cervinus*.
@@ -320,7 +320,7 @@ Supponimus Gallinae, ut exinde juvenis
 
 Vulpanser excludatur.
 
-# 11. Scena Sexta.
+## 11. Scena Sexta.
 
 *Prioribus accedit Mopsus*.
 
@@ -374,7 +374,7 @@ Hanc cistulam, donec domum redierimus.
 
 *Eust*. Nos persequamur impigre Vulpanserem.
 
-# 12. Scena Septima.
+## 12. Scena Septima.
 
 *Vulpulus Solus*.
 
@@ -412,9 +412,9 @@ Nam nulla curiositas noxia potest
 
 ≤line=170≥ Pectus meum subire. --
 
-# 13. Scena Octava.
+## 13. Scena Octava.
 
-# 14. Personae. Vulpulus, Ganserellus*.
+## 14. Personae. Vulpulus, Ganserellus*.
 
 *Gans.* \.... Domine Vulpule!
 
@@ -486,7 +486,7 @@ Quàm curiosus neutiquam sit \<V\>ulpulus,
 
 Submitto pueros Italos. --
 
-# 15. Scena Nona.
+## 15. Scena Nona.
 
 *Vulpulus Solus*.
 
@@ -504,9 +504,9 @@ Ovum videre vulpis, et simul anseris:
 
 ≤line=210≥ Sed quis iterum importunus huc infert gradum?
 
-# 16. Scena Decima.
+## 16. Scena Decima.
 
-# 17. Personae. Vulpulus, duo Pueri Itali*.
+## 17. Personae. Vulpulus, duo Pueri Itali*.
 
 *Pueri*.[^6] Schöne Spilewerck, schöne Rarität: wer seh will
 
@@ -602,7 +602,7 @@ Valeto. *Vulp*. Grates debitas vobis. Bene
 
 Valete pariter.
 
-# 18. Scena Undecima.
+## 18. Scena Undecima.
 
 *Vulpulus Solus*.
 
@@ -620,9 +620,9 @@ In cespite hoc deposita? Maledicti Itali!
 
 Pueri clepaces! Insequor fures cito.
 
-# 19. Pars Secunda.
+## 19. Pars Secunda.
 
-# 20. Scena Prima.
+## 20. Scena Prima.
 
 *Personae. Heribertus, Eustachius, Rosindus, Cervinus, Ganserellus cum
 Arcula*.
@@ -667,7 +667,7 @@ Consideramus. *Cerv*. Ludicram, credo, dabitur
 
 Comoediam spectare.
 
-# 21. Scena Secunda.
+## 21. Scena Secunda.
 
 *Vulpulus solus*.
 
@@ -697,9 +697,9 @@ Non audeo. Nec dicere quidem, quo dolo
 
 ≤line=295≥ Vel à quibus sim turpiter lusus, licet.
 
-# 22. Scena Tertia.
+## 22. Scena Tertia.
 
-# 23. Personae. Vulpulus, Rosindus, Cervinus*.
+## 23. Personae. Vulpulus, Rosindus, Cervinus*.
 
 *Cervin*.[^9] Nullúmne vidisti modo Vulpanserem
 
@@ -743,9 +743,9 @@ Ego sinistrum. Vulpulus medium occupet,
 
 Vulpanser ad me.
 
-# 24. Scena Quarta.
+## 24. Scena Quarta.
 
-# 25. Personae. Vulpulus, Rosindus*.
+## 25. Personae. Vulpulus, Rosindus*.
 
 *Rosind*. \... Tetricus totus mihi
 
@@ -779,7 +779,7 @@ Minus doleret, crede, quàm rarissimum
 
 Vulpanserem sors posse.
 
-# 26. Scena Quinta.
+## 26. Scena Quinta.
 
 *Vulpulus solus*.
 
@@ -813,9 +813,9 @@ Exercitum spectabo. Maledicti Itali!
 
 ≤line=345≥ O dive mi Patrone!
 
-# 27. Scena Sexta.
+## 27. Scena Sexta.
 
-# 28. Personae. Vulpulus, Ganserellus*
+## 28. Personae. Vulpulus, Ganserellus*
 
 *Gans* \... Domine Vulpule!
 
@@ -917,7 +917,7 @@ Praestiteris, altum spondeo silentium.
 
 Sed bene caveto, ne datam frangas fidem.
 
-# 29. Scena Septima.
+## 29. Scena Septima.
 
 *Vulpulus solus*.
 
@@ -1009,11 +1009,11 @@ Sum perditus, eo, proxima hac ex arbore
 
 Suspendo me. Valeto cum sociis Comes.
 
-# 30. Pars Tertia.
+## 30. Pars Tertia.
 
-# 31. Scena Prima.
+## 31. Scena Prima.
 
-# 32. Personae. Vulpulus, Ganserellus*.
+## 32. Personae. Vulpulus, Ganserellus*.
 
 *Gans*. Mecum mei parentis ingredere domum.
 
@@ -1039,7 +1039,7 @@ Industria à me Praemium, et laudem feres.
 
 ≤line=450≥ *Vulp*. Eris. *Gans*. Ergo propero, curro, festino, volo.
 
-# 33. Scena Secunda.
+## 33. Scena Secunda.
 
 *Vulpulus solus*.
 
@@ -1079,9 +1079,9 @@ Maturus. O si Ganserellus huc cito!
 
 Vis Ingenî tu Vulpulum interim juva.
 
-# 34. Scena Tertia.
+## 34. Scena Tertia.
 
-# 35. Personae. Heribertus, Rosindus, Eustachius, Vulpulus*.
+## 35. Personae. Heribertus, Rosindus, Eustachius, Vulpulus*.
 
 *Her*. Frustra sumus. Vulpanser evasit manus,
 
@@ -1123,7 +1123,7 @@ Nunquid teneri jusseras, Domine Comes?
 
 *Herib*. Id jusseram. *Vulp*. Scis Vulpulum jussa exequi.
 
-# 36. Scena Quarta.
+## 36. Scena Quarta.
 
 *Prioribus accedunt Cervinus, et Mopsus*.
 
@@ -1159,7 +1159,7 @@ Vulpanser. *Vulp*. Haud indigeo custode. *Eust*. Comitem
 
 Admitte saltem. *Vulp*. Vade, vade \...
 
-# 37. Scena Quinta.
+## 37. Scena Quinta.
 
 *Accedit Ganserellus*.
 

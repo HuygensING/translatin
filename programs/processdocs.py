@@ -595,7 +595,7 @@ class TeiFromDocx:
                 secNum = len(sections)
                 secHead = f"{pre}{trigger}{post}".strip()
                 replacement = (
-                    f"# {secNum}. {secHead}"
+                    f"## {secNum}. {secHead}"
                     if isSection
                     else f"**{secHead}**"
                 )

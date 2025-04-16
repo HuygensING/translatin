@@ -12,7 +12,7 @@ ANANIAS.
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 ANANIAS.
 
@@ -48,7 +48,7 @@ PHILAX.
 
 GAMALIEL.
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -100,7 +100,7 @@ Ad eam vos praebete. Eccum adest, qui Periocham
 
 Vobis recitabit. Auscultate sedulò.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 Ananias, eiusque vxor, cùm Spiritum
 
@@ -120,7 +120,7 @@ Virgis caduntur. Gamalielis posteà
 
 Consilio euadunt, & restituuntur suis.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 ANANIAS, SAPHIRA.
 
@@ -248,7 +248,7 @@ Detrahamus: eamque mox reuersi, Apostolis
 
 Offeramus. Sap. Vt lubet. Praecede, consequor.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 PETRVS, IOANNES.
 
@@ -360,7 +360,7 @@ Via. Sed eccum Ananiam huc aduenientem. Io. Est is ipsus.
 
 Opperiamur eum paulisper, dum accesserit.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 ANANIAS, PETRVS, IOANNES.
 
@@ -466,7 +466,7 @@ Dicis. Pet. Eamus nunc intrò, & quod contigit Ananiae,
 
 Notum faciamus omnibus.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 SAPHIRA.
 
@@ -517,7 +517,7 @@ Petrum & Ioannem egressos video. Accedam ad illos, &
 ≤line=185≥ Vbi meus sit maritus quaeram: quem hîc me inuenturum
 arbitror.
 
-# 8. ACTVS I. SCENA V.
+## 8. ACTVS I. SCENA V.
 
 PETRVS, IOANNES, SAPHIRA, IONADAS.
 
@@ -626,7 +626,7 @@ Nobis est commissum, exequamur sedulo. Ioa. Fiat.
 
 ≤page=219≥
 
-# 9. ACTVS II. SCENA I.
+## 9. ACTVS II. SCENA I.
 
 EVSTACHIVS, MACARIVS.
 
@@ -720,7 +720,7 @@ Quoque nota sunt multis. At eccum Petrum, & Ioannem.
 
 [^23]Istorsum, & procul spectemus, quidnam euenturum siet.
 
-# 10. ACTVS II. SCENA II.
+## 10. ACTVS II. SCENA II.
 
 PETRVS, IOANNES, NOSOPONVS, SIMEON.
 
@@ -910,7 +910,7 @@ Idem & tu vti facias velim pater. Sim. Faciam
 
 ≤line=365≥ Fili, atque lubenter. Pet. Euge, laudo. Sequimini.
 
-# 11. ACTVS II. SCENA III.
+## 11. ACTVS II. SCENA III.
 
 ANNAS, CAIPHAS, MELCHIAS.
 
@@ -998,7 +998,7 @@ Iubebo: quodque eorum auctoritate tum
 
 Curabo protinus. Eamus nunc intro. Ca. I prae, sequor.
 
-# 12. ACTVS II. SCENA IV.
+## 12. ACTVS II. SCENA IV.
 
 MACARIVS, EVSTACHIVS.
 
@@ -1104,7 +1104,7 @@ Tempus monet. Eu. Agedum, vt lubet.
 
 ≤page=227≥
 
-# 13. ACTVS III. SCENA I.
+## 13. ACTVS III. SCENA I.
 
 ANNAS, CAIPHAS, PETRVS, IOANNES.
 
@@ -1261,7 +1261,7 @@ Hactenus. Nunc ira nostra quid valeat
 
 Experientur propediem. Cai. Ita nos facere decet.
 
-# 14. ACTVS III. SCENA II.
+## 14. ACTVS III. SCENA II.
 
 SANGA, SYRVS, PETRVS, IOANNES.
 
@@ -1385,7 +1385,7 @@ Ego te interea hic opperiar foris. San. Ehem, sequimini.
 
 Ioa. Nulla in nobis est mora. \-\--
 
-# 15. ACTVS III. SCENA III.
+## 15. ACTVS III. SCENA III.
 
 SANGA, SYRVS.
 
@@ -1498,7 +1498,7 @@ Debetur. Syr. Sic est. Sed aliàs inter nos latiùs de eo
 
 Loquemur. Nunc intrò concedamus. San. Placet.
 
-# 16. ACTVS III. SCENA IV.
+## 16. ACTVS III. SCENA IV.
 
 EVSTACHIVS, MACARIVS.
 
@@ -1604,7 +1604,7 @@ Consulere, ac prospicere dignetur clementiâ.
 
 ≤line=675≥ Eu. Benè mones. Idem vti simul omnes faciant hortabor sedulò.
 
-# 17. ACTVS IV SCENA I
+## 17. ACTVS IV SCENA I
 
 ANGELVS, PETRVS, IOANNES.
 
@@ -1747,7 +1747,7 @@ Conuictos, mitiores posthac illos in nos
 
 Templi ostium apertum video. Ingrediamur. Io. Sequor.
 
-# 18. ACTVS IV. SCENA II.
+## 18. ACTVS IV. SCENA II.
 
 MACARIVS, EVSTACHIVS.
 
@@ -1839,7 +1839,7 @@ Arbitrio, non nostra voluntate exequi
 
 Dignetur omnia. Mac. Rectè tu isthuc frater, laudo.
 
-# 19. ACTVS IV. SCENA III.
+## 19. ACTVS IV. SCENA III.
 
 PETRVS, IOANNES, EVSTACHIVS, MACARIVS.
 
@@ -1951,7 +1951,7 @@ Commodiùs. \-\--
 
 ≤page=241≥
 
-# 20. ACTVS IV. SCENA IV.
+## 20. ACTVS IV. SCENA IV.
 
 ANNAS, CAIPHAS, SANGA, SYRVS.
 
@@ -2080,7 +2080,7 @@ An. Is est ipsus. Idem nunciatum, vt opinor aduenit.
 
 ≤line=890≥ Quid sit dicturus audiamus.
 
-# 21. ACTVS IV. SCENA V.
+## 21. ACTVS IV. SCENA V.
 
 PHYLAX, ANNAS, CAIPHAS, SYRVS, PETRVS.
 
@@ -2204,7 +2204,7 @@ Capiamus, quid in hac periculosâ, atque
 
 Nos: ibi istud fiet commodißimè An. Placet.
 
-# 22. ACTVS V. SCENA I.
+## 22. ACTVS V. SCENA I.
 
 ANNAS, CAIPHAS, PHYLAX, PETRVS, GAMALIEL.
 
@@ -2446,7 +2446,7 @@ Se deliquisse intelligant: & porrò caueant, ne
 
 Quid tale posthac committant vnquam. An. Placet.
 
-# 23. ACTVS V. SCENA II.
+## 23. ACTVS V. SCENA II.
 
 EVSTACHIVS, MACARIVS.
 
@@ -2542,7 +2542,7 @@ Vt, quantum possumus, eos consolemur. Spes bona
 
 Ipsos. Id vt fiat rogo, atque obsecro te mi Deus.
 
-# 24. ACTVS V. SCENA III.
+## 24. ACTVS V. SCENA III.
 
 ANNAS, CAIPHAS, SYRVS, PETRVS, IOANNES.
 
@@ -2608,7 +2608,7 @@ Vt faciatis. \-\--
 
 ≤page=252≥
 
-# 25. ACTVS V. SCENA IV.
+## 25. ACTVS V. SCENA IV.
 
 IOANNES, PETRVS, MACARIVS, EVSTACHIVS.
 

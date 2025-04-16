@@ -44,7 +44,7 @@ mortui corpus triumphali pompa effertur.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 Constantinus Imp. Nuntius
 
@@ -66,9 +66,9 @@ CRISPVS
 
 TRAGOEDIA.
 
-# 2. ACTVS PRIMVS.
+## 2. ACTVS PRIMVS.
 
-# 3. SCENA PRIMA.
+## 3. SCENA PRIMA.
 
 CONSTANTINUS Imperator.
 
@@ -170,7 +170,7 @@ Quis laureato vertice exultans venit?
 
 Age, Anime, pande pectus, hinc spes est tibi.
 
-# 4. SCENA SECUNDA.
+## 4. SCENA SECUNDA.
 
 Nuntius Laureatus, Constantinus.
 
@@ -324,7 +324,7 @@ En, Caesar, hic est, regio in vultu jubar
 
 Elucet ardens, Con. Cerno, Crispus est meus.
 
-# 5. SCENA TERTIA.
+## 5. SCENA TERTIA.
 
 Cristus, Constantinus.
 
@@ -430,7 +430,7 @@ Videre properat; ipse praecurrit quoque
 
 Tibi Senatus gestiens; cuncti favent.
 
-# 6. SCENA QUARTA.
+## 6. SCENA QUARTA.
 
 Crispus, Fausta Imperatrix, Constantinus,
 
@@ -658,9 +658,9 @@ Animos sumit rursus in arma.
 
 Meritos referat Crispus honores.
 
-# 8. ACTVS SECVNDVS.
+## 8. ACTVS SECVNDVS.
 
-# 9. SCENA PRIMA.
+## 9. SCENA PRIMA.
 
 Fausta Imp. Nutrix.
 
@@ -892,7 +892,7 @@ Succumbo, Nutrix, & mihi pectus labat.
 
 ≤page=93≥
 
-# 10. SCENA SECUNDA.
+## 10. SCENA SECUNDA.
 
 Crispus, Fausta.
 
@@ -1054,7 +1054,7 @@ Soli patere nam tibi debet dolor,
 
 ≤line=450≥ Alios latere. Cri. Perge, te, Mater sequor.
 
-# 11. SCENA TERTIA.
+## 11. SCENA TERTIA.
 
 AULICUS SENEX.
 
@@ -1136,7 +1136,7 @@ Quis hic tumultus? Crispe, jam timeo tibi.
 
 Errare in Aulâ facilè non cautus potest.
 
-# 12. SCENA QUARTA.
+## 12. SCENA QUARTA.
 
 Fausta, Crispus, Aulicus, Nutrix.
 
@@ -1368,9 +1368,9 @@ Timenda semper cum favet.
 
 ≤page=101≥
 
-# 15. ACTVS TERTIVS.
+## 15. ACTVS TERTIVS.
 
-# 16. SCENA PRIMA.
+## 16. SCENA PRIMA.
 
 Crispus, Aulicus.
 
@@ -1556,7 +1556,7 @@ Ruit in ruinam. Sic timent, & quod timent,
 
 At ecce Caesar, quantus in vultu est furor!
 
-# 17. SCENA SECUNDA.
+## 17. SCENA SECUNDA.
 
 Constantinus Imp. Constantinus Consul,
 
@@ -1639,7 +1639,7 @@ Augusta conjux, ore dejecto suam
 
 Agit ipsa causam, lachrymae tantum juvant.
 
-# 18. SCENA TERTIA.
+## 18. SCENA TERTIA.
 
 Constantinus, Fausta, Aulicus, Constantinus
 
@@ -1783,7 +1783,7 @@ Nut. Intremus ergo Domina; vix superest sibi.
 
 ≤page=108≥
 
-# 19. SCENA QUARTA.
+## 19. SCENA QUARTA.
 
 Constantinus Imperator.
 
@@ -1988,9 +1988,9 @@ Parcite, Superi, parcite Crispo.
 
 
 
-# 21. ACTVS QVARTVS.
+## 21. ACTVS QVARTVS.
 
-# 22. SCENA PRIMA.
+## 22. SCENA PRIMA.
 
 Constantinus Consul, Praefectus Vrbis.
 
@@ -2100,7 +2100,7 @@ Moriente Crispo facilis ad regnum est via.
 
 Sum primus haeres, primus & Crispum sequor.
 
-# 23. SCENA SECUNDA:
+## 23. SCENA SECUNDA:
 
 Crispus, Artemius Tribunus Militum,
 
@@ -2262,7 +2262,7 @@ Cris. Parebo Patri. Quis jubet? Praef. Caesar jubet.
 
 Cr. Parebo promptus Caesari. Pr. Abrumpe & moras.
 
-# 24. SCENA TERTIA.
+## 24. SCENA TERTIA.
 
 Crispus, Artemius, Milites.
 
@@ -2398,7 +2398,7 @@ Immitte robur, si juves, vincam omnia,
 
 Sed en tribunal Caesar augustus petit.
 
-# 25. SCENA QUARTA.
+## 25. SCENA QUARTA.
 
 Constantinus Imperator, Crispus, seden¬
 
@@ -2564,7 +2564,7 @@ Ubi sum? quis hic sum? vincor, abripior mihi,
 
 Discedo, judex esse non possum Pater.
 
-# 26. SCENA QVINTA.
+## 26. SCENA QVINTA.
 
 Constantinus Consul, Crispus, Praefectus
 
@@ -2742,9 +2742,9 @@ Crispe, fors toti documenta mundo
 
 ≤page=124≥
 
-# 28. ACTVS QVINTVS.
+## 28. ACTVS QVINTVS.
 
-# 29. SCENA PRIMA.
+## 29. SCENA PRIMA.
 
 Praefectus, Crispus, Ephoebi duo.
 
@@ -2927,7 +2927,7 @@ Aeternus ecce pulsat hoc pectus dolor.
 
 ≤page=127≥
 
-# 30. SCENA SECUNDA.
+## 30. SCENA SECUNDA.
 
 Aulicus, Constantinus Imp. Ephoebi.
 
@@ -3059,7 +3059,7 @@ Etiam triumphet mortuus Crispus meus.
 
 Aul. Vos evocate milites, adsint citò.
 
-# 31. SCENA III.
+## 31. SCENA III.
 
 Constantinus, Aulicus,
 
@@ -3131,7 +3131,7 @@ En miles omnis lachrymis Crispum rigat.
 
 ≤line=1385≥ Ut jam triumphet hic tuus Crispus, jube.
 
-# 32. SCENA IV.
+## 32. SCENA IV.
 
 
 

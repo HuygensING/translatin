@@ -431,7 +431,7 @@ vi¬
 
 deri poßint: huc transtulerim, doctißmorum quorumque exemplo.
 
-# 3. PROLOGVS
+## 3. PROLOGVS
 
 IN GEDEONEM.
 
@@ -511,9 +511,9 @@ Spectate quid noster sibi chorus velit:
 
 Ad actionem sunt parati ludij.
 
-# 4. ACTVS PRIMI.
+## 4. ACTVS PRIMI.
 
-# 5. SCENA PRIMA.
+## 5. SCENA PRIMA.
 
 Gedeon solus.
 
@@ -613,7 +613,7 @@ Grana suis paleis euentilo, cum fuga restet,
 
 Quae tanto poterit finem dare sola labori.
 
-# 6. Actus primi. Scena secunda.
+## 6. Actus primi. Scena secunda.
 
 
 
@@ -739,7 +739,7 @@ A praepotenti & maximo
 
 Qui cuncta condidit Deo.
 
-# 7. Actus primi. Scena tertia.
+## 7. Actus primi. Scena tertia.
 
 .
 
@@ -955,7 +955,7 @@ O quantus animum nunc metus
 
 Deus meus me respice.
 
-# 8. Actus primi. Scena quarta.
+## 8. Actus primi. Scena quarta.
 
 Deus. Gedeon.
 
@@ -1025,7 +1025,7 @@ A vi, procacique eruet calumnia.
 
 Sic intueri numinis vultum licet.
 
-# 10. Actus secundus. Scena prima.
+## 10. Actus secundus. Scena prima.
 
 Crafgasticus. Philostasiotes. Thoribodes.
 
@@ -1099,7 +1099,7 @@ Affecere, tibi quam diram perfide mortem
 
 Apparo, qui violas manibus diuina prophanis.
 
-# 11. Actus secundi. Scena secunda.
+## 11. Actus secundi. Scena secunda.
 
 
 
@@ -1293,7 +1293,7 @@ Quocunque tandem tempore.
 
 ≤folio=D≥
 
-# 12. Actus secundi. Scena tertia.
+## 12. Actus secundi. Scena tertia.
 
 
 
@@ -1553,7 +1553,7 @@ Tempora vitae.
 
 
 
-# 14. Actus tertij. Scena prima.
+## 14. Actus tertij. Scena prima.
 
 Deus. Gedeon. Phara. Praeco.
 
@@ -1640,7 +1640,7 @@ Laus, honor, imperium Domino, qui robore summo
 
 Ex morte nos media eripit.
 
-# 15. Actus tertij. Scena secunda.
+## 15. Actus tertij. Scena secunda.
 
 
 
@@ -1780,7 +1780,7 @@ Ibo igitur, coeli paucis vt numen adorem.
 
 ≤line=625≥ Primus. Nos in procinctu interea expectabimus hostem.
 
-# 16. Actus tertij. Scena tertia.
+## 16. Actus tertij. Scena tertia.
 
 Gedeon. Deus.
 
@@ -1874,7 +1874,7 @@ Tinget corusco lumine.
 
 Prim. Mil. Prudenter istud consulis.[^13]
 
-# 17. Actus tertij. Scena quarta.
+## 17. Actus tertij. Scena quarta.
 
 O Amor ô nulla superabilis arte Cupido
 
@@ -1924,7 +1924,7 @@ Sospitem è cunctis Dominus periclis
 
 
 
-# 19. Actus quarti. Scena prima.
+## 19. Actus quarti. Scena prima.
 
 Gedeon. Milites. Deus.
 
@@ -1954,7 +1954,7 @@ Dum reget hos calidi vel guttula sanguinis artus.
 
 
 
-# 20. Actus quarti. Scena secunda.
+## 20. Actus quarti. Scena secunda.
 
 Oreb. Zeb. Zebee. Salmana Reges
 
@@ -2070,7 +2070,7 @@ Zebee. Facite vt sciamus tempori,
 
 Primus militum. Curabitur recte admodum:[^16]
 
-# 21. Actus quarti. Scena tertia
+## 21. Actus quarti. Scena tertia
 
 Gedeon. Phara. Milites
 
@@ -2172,7 +2172,7 @@ Maerore pressos, obrutosque luctibus
 
 Leuas beato gaudiorum nuncio.
 
-# 23. Actus quinti. Scena prima.
+## 23. Actus quinti. Scena prima.
 
 Deus. Gedeon.
 
@@ -2278,7 +2278,7 @@ Gedeon. Vt valeant igitur reliqui te authore iubebo,
 
 
 
-# 24. Actus quinti. Scena secunda.
+## 24. Actus quinti. Scena secunda.
 
 Cantent Madianitae.
 
@@ -2300,7 +2300,7 @@ Mane voco te, te voco, quando mergit in alto
 
 Antipodas visens aequore Phoebus aequos.
 
-# 25. Actus quinti: Scena tertia.
+## 25. Actus quinti: Scena tertia.
 
 Gedeon. Milites. Dominus,
 
@@ -2384,7 +2384,7 @@ Mecum Phara. Prope est vigilum custodia, gressum
 
 Forte per obscuram denarret somnia noctem.
 
-# 26. Actus quinti. Scena quarta.
+## 26. Actus quinti. Scena quarta.
 
 Madianitae. Gedeon. Phara.
 
@@ -2428,7 +2428,7 @@ Quae polliceris esse vera res docet
 
 
 
-# 27. Actus quinti: Scena quinta.
+## 27. Actus quinti: Scena quinta.
 
 Gedeon. Milites vtriusque partis.
 

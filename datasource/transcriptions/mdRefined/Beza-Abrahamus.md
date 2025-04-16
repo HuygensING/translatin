@@ -131,7 +131,7 @@ amplitudinem referatis.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 PROLOGUS.
 
@@ -149,7 +149,7 @@ ISAACUS.
 
 **CHORUS EX PASTORIBUS.**
 
-# 3. PROLOGVS.
+## 3. PROLOGVS.
 
 QVicunque tandem propter hoc negotium
 
@@ -295,7 +295,7 @@ Nihil est pericli, quas modo nobis datis
 
 Aures, ad aedes quisque post feret suas.
 
-# 4. ACTVS PRIMVS.
+## 4. ACTVS PRIMVS.
 
 ABRAHAMUS.
 
@@ -1669,7 +1669,7 @@ Exerce, acerbo mox futuro praelio:
 
 Hodierna pugna mißionem non habet.
 
-# 6. ACTVS SECVNDVS.
+## 6. ACTVS SECVNDVS.
 
 ABRAH. PAST.
 
@@ -1979,7 +1979,7 @@ Laetis reverso gratulemur vocibus.
 
 Sic est, eamus, nam nihil magis decet.
 
-# 8. ACTVS TERTIVS.
+## 8. ACTVS TERTIVS.
 
 ISACUS. ABRAHAMUS.
 
@@ -2992,7 +2992,7 @@ At tu, perge alacer divina capessere jussa
 
 Ista capessentem quem praemia tanta sequentur.
 
-# 9. EPILOGVS.
+## 9. EPILOGVS.
 
 PEracta tandem seria haec est actio
 

@@ -12,7 +12,7 @@ NAAMAN.
 
 
 
-# 1. Actorum nomina.
+## 1. Actorum nomina.
 
 NAAMAN, Princeps Syrus.
 
@@ -40,7 +40,7 @@ ELISAEVS, vates.
 
 ≤page=2≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Senarij.
 
@@ -122,7 +122,7 @@ Video mihi esse abeundum : nam qui periocham
 
 Est recitaturus, exit in proscenium. \[\> poscenium\]
 
-# 3. COMOEDIAE ARGVMENTVM.
+## 3. COMOEDIAE ARGVMENTVM.
 
 NAaman rebus pulchrè gestis nobilis,
 
@@ -146,7 +146,7 @@ Ad flumen it, lauat, mundatur protinus.
 
 Ac munus offert, verumque agnoscit Deum
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 ARTEMONA.
 
@@ -262,7 +262,7 @@ Quid circumferat, aut quid respectet nescio.
 
 Ibo obuiam, vt quem quaerat, quove properet, intelligam,
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 PHRONESIVM, ARTEMONA.
 
@@ -465,7 +465,7 @@ Quare intro concedamus: ibi rem omnem tibi
 
 Clam commemorabo ordine. PH. Praecede, consequor.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 DORIO.
 
@@ -523,7 +523,7 @@ Nam hic me si stantem ociosum offenderint,
 
 Nulla causa est, quin suspensus vapulem miser.
 
-# 7. ACTVS I. SCENA IIII.
+## 7. ACTVS I. SCENA IIII.
 
 ARTEMONA, PHRONESIVM.
 
@@ -722,7 +722,7 @@ Ne si tua mi fortè opera sit opus, in mora sies. PH. Eo.
 
 ≤page=13≥
 
-# 8. ACTVS I. SCENA V.
+## 8. ACTVS I. SCENA V.
 
 PHRONESIVM.
 
@@ -782,7 +782,7 @@ Vt quae in caenam paratò sunt opus, comparem.
 
 ≤page=14≥
 
-# 9. ACTVS II. SCENA I.
+## 9. ACTVS II. SCENA I.
 
 NAAMAN.
 
@@ -978,7 +978,7 @@ Mox aufugiet, opinor, vbi hic me astare viderit.
 
 Manebo, vt quid velit, aut quid dictura sit intelligam.
 
-# 10. ACTVS II. SCENA II.
+## 10. ACTVS II. SCENA II.
 
 ARTEMONA. NAAMAN.
 
@@ -1252,7 +1252,7 @@ AEdepol ipsa foras egreditur Phronesium.
 
 Eho, accedamus: tute iam ipsius verba audies.
 
-# 11. ACTVS II. SCENA III.
+## 11. ACTVS II. SCENA III.
 
 PHRONESIVM, ARTEMONA.
 
@@ -1423,7 +1423,7 @@ Imperiosa, atque importuna femina est!
 
 Ex insana insaniorem eam efficies tibi.
 
-# 12. ACTVS III. SCENA I.
+## 12. ACTVS III. SCENA I.
 
 NAAMAN, PHRONESIVM.
 
@@ -1587,7 +1587,7 @@ Dicere volui? hem, vxor si forte me quaeret, domi
 
 Mox adfuturum dicito. Ph. Curabitur.
 
-# 13. ACTVS III. SCENA II.
+## 13. ACTVS III. SCENA II.
 
 NAAMAN.
 
@@ -1614,7 +1614,7 @@ Sit obsequendum mihi. Sed quid facias? qui vitam amat
 
 Id exequar; mulierculis nihil fidei habeo.
 
-# 14. ACTVS III. SCENA III.
+## 14. ACTVS III. SCENA III.
 
 SOSIA.
 
@@ -1667,7 +1667,7 @@ Aut herus est, aut oculi mihi prospiciunt parum, ipsus est,
 
 Opportunè sanè, procedam illi obuiam.
 
-# 15. ACTVS III. SCENA IV.
+## 15. ACTVS III. SCENA IV.
 
 NAAMAN, SOSIA.
 
@@ -1717,7 +1717,7 @@ Tamen non eo, nisi regem prius conuenero,
 
 ≤line=720≥ De eius consilio facturus quod ad hanc rem attinet,
 
-# 16. ACTVS III. SCENA V.
+## 16. ACTVS III. SCENA V.
 
 STRATO, LEONIDAS.
 
@@ -1948,7 +1948,7 @@ Si mundatur, quot, ac quantas commoditates vide.
 
 Sed quidnam à nobis tam grauiter concrepuerunt fores?
 
-# 17. ACTVS III. SCENA VI.
+## 17. ACTVS III. SCENA VI.
 
 BROMIA; DORIO, LEONIDAS, STRATO.
 
@@ -2070,7 +2070,7 @@ Sed properemus, tu Bromia, vt diei tempus est,
 
 Vide sis ne quò hinc abeas longius. Br. Vsque domi adero.
 
-# 18. ACTVS IV. SCENA I.
+## 18. ACTVS IV. SCENA I.
 
 BROMIA, PHRONESIVM, DORIO.
 
@@ -2230,7 +2230,7 @@ Quoties qua in me futura sunt exempla reminiscor miser.
 
 ≤page=38≥
 
-# 19. ACTVS IV. SCENA II.
+## 19. ACTVS IV. SCENA II.
 
 NAAMAN, LEONIDAS. STRATO.
 
@@ -2345,7 +2345,7 @@ Tu Strato interea cum caeteris in hoc
 
 ≤page=40≥
 
-# 20. ACTVS IV. SCENA III.
+## 20. ACTVS IV. SCENA III.
 
 STRATO, SVRVS.
 
@@ -2431,7 +2431,7 @@ Est quod malim omnium: nam iamdudum animus est
 
 ≤line=1045≥ In patinis. St. Frugi es. Sy. Hilarem hunc sumamus diem.
 
-# 21. ACTVS IV SCENA IV.
+## 21. ACTVS IV SCENA IV.
 
 NAAMAN, LEONIDAS.
 
@@ -2609,7 +2609,7 @@ Le. Quid vnus faciet nobis? ah, mane obsecro.
 
 Na. Vae misero mihi, nescio quod magnum hoc nuncio expecto malum.
 
-# 22. ACTVS IV. SCENA V.
+## 22. ACTVS IV. SCENA V.
 
 MELCHIAS, NAAMAN, LEONIDAS.
 
@@ -2719,7 +2719,7 @@ Me. Apage sis, egon’ ob eam rem quicquam abs te? nunquam faciam.
 
 Sequere me. Ego ad Elisaeum recta te deducam via.
 
-# 23. ACTVS V. SCENA I.
+## 23. ACTVS V. SCENA I.
 
 NAAMAN, LEONIDAS. STORAX.
 
@@ -2831,7 +2831,7 @@ Hem, sequere me Leonida; tu interea dum absumus
 
 Tu satur es, illi ringantur inedia. St. Curabuntur probè.
 
-# 24. ACTVS V. SCENA II.
+## 24. ACTVS V. SCENA II.
 
 STRATO.
 
@@ -2909,7 +2909,7 @@ At nescio quos aduentare huc conspicio procul.
 
 Ibo intro, ibique illos opperiar dum redeant.
 
-# 25. ACTVS V. SCENA III.
+## 25. ACTVS V. SCENA III.
 
 NAAMAN, LEONIDAS.
 
@@ -3016,7 +3016,7 @@ Ac proinde demiror quid dicturus sit, vbi
 
 ≤line=1320≥ Te sanum, membrisque omnibus valentem viderit.
 
-# 26. ACTVS V. SCENA IV.
+## 26. ACTVS V. SCENA IV.
 
 STRATO, NAAMAN, LEONIDAS.
 
@@ -3112,7 +3112,7 @@ Elisaeum pergamus Leonida. Le. I prae, sequor.
 
 ≤page=53≥
 
-# 27. ACTVS V. SCENA V.
+## 27. ACTVS V. SCENA V.
 
 STRATO.
 
@@ -3142,7 +3142,7 @@ Eum tibi abunde pensatum iri existima. At satis
 
 ≤line=1375≥ Hic cessatum est. Nunc me in pedes quantum queo.
 
-# 28. ACTVS V. SCENA VI.
+## 28. ACTVS V. SCENA VI.
 
 NAAMAN, ELISAEVS. LEONIDAS.
 
@@ -3302,7 +3302,7 @@ Na. Quid eo? Le. Valedices, agesque gratias. Na. Bene
 
 Mones, eamus. Nae mihi feliciter hic illuxit dies.
 
-# 29. ACTVS V. SCENA VII.
+## 29. ACTVS V. SCENA VII.
 
 PHRONESIVM, ARTEMONA. DORIO.
 
@@ -3441,7 +3441,7 @@ Ph. Age, sequor. faxit Deus vt hoc nobis perpetuum sit bonum.
 
 ≤page=59≥
 
-# 30. PERORATIO.
+## 30. PERORATIO.
 
 Senarii, & septenarii Iambici.
 

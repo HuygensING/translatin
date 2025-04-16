@@ -373,7 +373,7 @@ horrore mistum inaestimandum gaudium.
 
 
 
-# 1. Prologus
+## 1. Prologus
 
 Expertus auctor huius est comoediae
 
@@ -487,7 +487,7 @@ Nunc ad meos praefationis partibus
 
 salvete, eos et adiuvate silentio.
 
-# 2. Dramatis personae
+## 2. Dramatis personae
 
 Tobias senior
 
@@ -523,7 +523,7 @@ Soer Gabeli famulus
 
 ≤line=4≥ Convivae Tobiae
 
-# 3. Personae mutae
+## 3. Personae mutae
 
 Duo interpretes
 
@@ -531,7 +531,7 @@ Tres choragi psaltae et totidem psaltriae
 
 Calliopius prologi et epilogi recitator
 
-# 4. Actus I. Scena I
+## 4. Actus I. Scena I
 
 Tobias senior
 
@@ -607,7 +607,7 @@ Atat quis hic tumultus est? Consultius
 
 intro ruo, foris priusquam adobruar.
 
-# 5. Actus I. Scena II
+## 5. Actus I. Scena II
 
 Tsaddic intus sauciatus prodit
 
@@ -637,7 +637,7 @@ Sathanae propitius erue, o Deus Pater.
 
 ≤line=105≥ Meum in tuas commendo spiritum manus.
 
-# 6. Actus I. Scena III
+## 6. Actus I. Scena III
 
 Tobias iunior, Tobias senior
 
@@ -723,7 +723,7 @@ gratissimos credo futuros hospites.
 
 Blande alloquar ne forte se alio conferant.
 
-# 7. Actus I. Scena IIII.
+## 7. Actus I. Scena IIII.
 
 Tobias iunior, Achior, Nabath
 
@@ -795,7 +795,7 @@ Ego quae dedit mandata, vado ut exequar.
 
 Ach. Tentabimus, rerum tuarum, age, satage.
 
-# 8. Actus I. Scena V.
+## 8. Actus I. Scena V.
 
 Achior, Nabath, Tobias senior
 
@@ -913,7 +913,7 @@ caelestem studeas sub grege pauperum
 
 nonnunquam excipere hospitem.
 
-# 10. Actus II. Scena I.
+## 10. Actus II. Scena I.
 
 Tobias senior, Tobias iunior
 
@@ -967,7 +967,7 @@ T.i. Morabor te ergo promptus ut iuvem
 
 in omnibus. Sed proximant, tacendum erit.
 
-# 11. Actus II. Scena II.
+## 11. Actus II. Scena II.
 
 Achior, Tobias senior, Nabath, Tobias iunior
 
@@ -1083,7 +1083,7 @@ T.i. Mane, pater, nam mater ex foro redit
 
 hoedum renitentemque ducit cornibus.
 
-# 12. Actus II. Scena III.
+## 12. Actus II. Scena III.
 
 Anna, Tobias senior
 
@@ -1127,7 +1127,7 @@ et tu mini furtum imputes, silicernium?
 
 Vale, ut mereris, suspicator improbe!
 
-# 13. Actus II. Scena IIII.
+## 13. Actus II. Scena IIII.
 
 Tobias senior, Tobias iunior
 
@@ -1177,7 +1177,7 @@ matri et tibi, quae erit reliqua, pecuniae.
 
 Pape quis hic? Sed est necesse sequi patrem.
 
-# 14. Actus II. Scena V.
+## 14. Actus II. Scena V.
 
 Raphael archangelus
 
@@ -1255,7 +1255,7 @@ gnato videtis proximum, me comite qui
 
 mox longiori sese itineri accinxerit.
 
-# 15. Actus II. Scena VI
+## 15. Actus II. Scena VI
 
 Tobias senior, Tobias Junior, Raphael archangelus, Anna
 
@@ -1429,7 +1429,7 @@ Salvum proinde brevi reversum videris.
 
 An. Heu non queo, natum quin absentem fleam, heu!
 
-# 16. Actus II. Scena VII.
+## 16. Actus II. Scena VII.
 
 Raphaet, Tobias iunior
 
@@ -1491,7 +1491,7 @@ caelitum tanquam iubeant relicto
 
 pulvere mundi.
 
-# 18. Actus III. Scena I.
+## 18. Actus III. Scena I.
 
 Tobias iunior, Raphael
 
@@ -1545,7 +1545,7 @@ Ergo silentio Deique freti ope
 
 fortes subauscultemus ecquid dixerit.
 
-# 19. Actus III. Scena II.
+## 19. Actus III. Scena II.
 
 Asmodaeus
 
@@ -1623,7 +1623,7 @@ propellor hinc, est Raphael, vah Raphael,
 
 nimis mihi es incommodus, fugiendum erit!
 
-# 20. Actus III. Scena III.
+## 20. Actus III. Scena III.
 
 Tobias iunior, Raphael
 
@@ -1711,7 +1711,7 @@ exit quoque eius uxor Anna, uterque nos
 
 ≤line=585≥ ceu noscitaret aspicit: adeamus hos.
 
-# 21. Actus III. Scena IIII.
+## 21. Actus III. Scena IIII.
 
 Raguel, Anna R., Raphael, Tobias iunior, Sara
 
@@ -1775,7 +1775,7 @@ An. Indica,
 
 marite, nunc servis quod effectum velis.
 
-# 22. Actus III. Scena V.
+## 22. Actus III. Scena V.
 
 Eleazarus, Syrus, Raguel, Tobias iu., Raphael, Sara
 
@@ -1837,7 +1837,7 @@ in matrimonium unicam gnatam petit.
 
 Sara Utrumque, mi parens, libenter fecero.
 
-# 23. Actus IIl. Scena VI.
+## 23. Actus IIl. Scena VI.
 
 Rague!, Anna R., Tobias iunior, Sara, Raphael, Sopper
 
@@ -1935,7 +1935,7 @@ Adrepit Asmodaeus huc foedissimus
 
 ille genius: nil obtinebit attamen!
 
-# 24. Actus III. Scena VII.
+## 24. Actus III. Scena VII.
 
 Asmodaeus
 
@@ -1973,7 +1973,7 @@ Exit puella: ut soleo pedens digredi,
 
 ≤line=690≥ relinquam huic toetorem ab alvo pessimum.
 
-# 25. Actus III. Scena VIII.
+## 25. Actus III. Scena VIII.
 
 Abra, Chorter
 
@@ -2043,7 +2043,7 @@ ne forte quis nos arguat.
 
 **Chor. Recte mones.**
 
-# 29. Actus III. Scena IX.
+## 29. Actus III. Scena IX.
 
 Tobias Junior, Sara
 
@@ -2069,7 +2069,7 @@ T.i. Quod his facio prunis, inest mysterium.
 
 Videor videre hinc avolantem daemonem.
 
-# 30. Actus III. Scena X.
+## 30. Actus III. Scena X.
 
 Asmodaeus, Raphael
 
@@ -2113,7 +2113,7 @@ ut nemini mortalium.
 
 Asm. Ut heu sum miser!
 
-# 31. Actus III. Scena XI.
+## 31. Actus III. Scena XI.
 
 Haec apertis scenis in Sarae conclavis aguntur penetralibus
 
@@ -2223,7 +2223,7 @@ reverenter aggredi decet,
 
 mota procul libidine.
 
-# 33. Actus IV. Scena I.
+## 33. Actus IV. Scena I.
 
 Raguel, Anna
 
@@ -2259,7 +2259,7 @@ mandemus.
 
 An. Optime mones. Heus Abra, ades!
 
-# 34. Actus IV. Scena II.
+## 34. Actus IV. Scena II.
 
 Abra, Anna, Raguel, Chorter
 
@@ -2361,7 +2361,7 @@ illi.
 
 An. Probe mones, marite, sic decet.
 
-# 37. Actus IV. Scena III.
+## 37. Actus IV. Scena III.
 
 Raguel, Tobias iimior, Sara
 
@@ -2437,7 +2437,7 @@ prius mihi mandanda sunt. Tum subsequar.
 
 T.i. Scio.
 
-# 38. Actus IV. Scena IIII.
+## 38. Actus IV. Scena IIII.
 
 Tobias iunior, Raphael archangelus
 
@@ -2491,7 +2491,7 @@ coniungat aliquot itineris tibi comités.
 
 Raph. Non est opus. Sed quando vis, opperiar hic.
 
-# 39. Actus IV. Scena V.
+## 39. Actus IV. Scena V.
 
 Raphael solus
 
@@ -2531,7 +2531,7 @@ Hinc omnibus rursus bonis beabitur.
 
 vernaculos quoque video mihi comites.
 
-# 40. Actus IV. Scena VI.
+## 40. Actus IV. Scena VI.
 
 Raguel, Chera, Arsan, Doeg, Raphaet, Tobias iunior, Meheman, Sodar
 
@@ -2705,7 +2705,7 @@ Raph. Rages subintrantes Gabeli venimus
 
 ad ostium. Pulso. Recludite heus fores!
 
-# 41. Actus IV. Scena VII.
+## 41. Actus IV. Scena VII.
 
 Soer, Raphael, Gabelus, Chera
 
@@ -2829,7 +2829,7 @@ Sed euge video et relliquos reverti. Eo
 
 ≤line=1045≥ domesticis ut laeta primus nunciem.
 
-# 42. Actus IV. Scena VIII.
+## 42. Actus IV. Scena VIII.
 
 Gabelus, Raphael, Meheman, Arsan
 
@@ -2935,7 +2935,7 @@ nam Raguelis ad domicilium venimus.
 
 Praecedit ille, adesse nos ut nunciet.
 
-# 43. Actus IV. Scena IX.
+## 43. Actus IV. Scena IX.
 
 Raphael, Gabelus, Tobias Junior, Raguel
 
@@ -2995,7 +2995,7 @@ celebrare gestio, licet certo sciam
 
 matrem patremque et singulos domesticos.
 
-# 44. Actus IV. Scena X.
+## 44. Actus IV. Scena X.
 
 Raphael, Tobias senior, Anna Tobiae
 
@@ -3075,7 +3075,7 @@ En prodeunt mensa relicta et ferculis.
 
 Accedo veluti praesto fuerim cominus.
 
-# 45. Actus IV. Scena ultima (XI).
+## 45. Actus IV. Scena ultima (XI).
 
 Raguel, Tobias iunior, Sara
 
@@ -3173,7 +3173,7 @@ et pace semper floridos
 
 laeta nepotes Isaci.
 
-# 46. Actus V. Scena I.
+## 46. Actus V. Scena I.
 
 Raguel, Tobias iunior, Anna, Sara, Arsan, Doeg, Meheman, Sodar, Abra,
 Gabelus
@@ -3306,7 +3306,7 @@ Ad proprios sospes Lares euge appuli.
 
 ≤line=1250≥ Introeo spectoque omnia satin\’ salva sint.
 
-# 47. Actus V. Scena II.
+## 47. Actus V. Scena II.
 
 Raphael, Tobias Junior, Sara
 
@@ -3344,7 +3344,7 @@ T.i. En expeditum habeo.
 
 Raph. Bene est. Cito ilicet.
 
-# 48. Actus V. Scena III.
+## 48. Actus V. Scena III.
 
 Anna Tobiae
 
@@ -3378,7 +3378,7 @@ Certe ipsus est! Est ipsus! Est ipsissimus!
 
 Euge! Propero domum et viro moesto indico.
 
-# 49. Actus V. Scena IIII.
+## 49. Actus V. Scena IIII.
 
 Raphael, Tobias iunior
 
@@ -3414,7 +3414,7 @@ amplexibusque caecum adhuc age excipe!
 
 ≤line=1295≥ T.i. Iam vix apud me sum, socie, prae gaudio!
 
-# 50. Actus V. Scena V.
+## 50. Actus V. Scena V.
 
 Tobias senior, Naar, Tobias iunior, Anna
 
@@ -3550,7 +3550,7 @@ T.i. Satis propinquo affmitatis ex gradu:
 
 est Raguelis consobrini filia.
 
-# 51. Actus V. Scena VI.
+## 51. Actus V. Scena VI.
 
 Tobias senior, Sara, Anna, famuli
 
@@ -3599,7 +3599,7 @@ deseruerant nec nunc tamen spernendi erunt.
 
 An. Nequaquam erunt: id enim vetaret caritas.
 
-# 52. Actus V. Scena VII.
+## 52. Actus V. Scena VII.
 
 Tobias senior, Achior, Nabath, Tobias iunior
 
@@ -3673,7 +3673,7 @@ semissem eorum, quae comes mihi attulit,
 
 ≤line=1400≥ Sed ecce adest. Ἀπάνευθε ei offeramus hoc.
 
-# 53. Actus V. Scena VIII.
+## 53. Actus V. Scena VIII.
 
 Tobias senior, Raphael, Tobias iunior, Familia Tobiae
 
@@ -3845,7 +3845,7 @@ indulgeamus cum Dei praeconio.
 
 ≤line=1475≥ Fam. Placet. Praei, te omnes sequemur ordine!
 
-# 54. Epilogus
+## 54. Epilogus
 
 Ad vos peractis, plena benevolentiae
 

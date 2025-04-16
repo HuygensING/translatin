@@ -265,7 +265,7 @@ Feres perenne stipendium.
 
 MILES CHRISTIANVS.
 
-# 1. Personae Dramatis.
+## 1. Personae Dramatis.
 
 Miles Christianus. Cosmus, mundus.
 
@@ -293,7 +293,7 @@ Behemothus Chremius.
 
 **CHORVS EX MVNDI ET CARNIS PEDISSEQVIS.**
 
-# 3. ARGVMENTVM COMOEDIAE.
+## 3. ARGVMENTVM COMOEDIAE.
 
 Trimetri.
 
@@ -331,7 +331,7 @@ S pectat coronam sempiternae gloriae.
 
 
 
-# 4. Prologus in Militem.
+## 4. Prologus in Militem.
 
 Senarii Iambici.
 
@@ -634,9 +634,9 @@ Nobis: fauete Comico choragio.
 
 Spectate, videbitis prodire Militem.
 
-# 5. ACTVS PRIMI, SCENA PRIMA.
+## 5. ACTVS PRIMI, SCENA PRIMA.
 
-# 6. ARGVMENTVM.
+## 6. ARGVMENTVM.
 
 Docet militem prima militiae dogmata.
 
@@ -1000,9 +1000,9 @@ Quin in eo, quo iam coepi currere stadio,
 
 TIM. Dabit ille (fidito) qui militiae Dux erit.
 
-# 7. ACTVS PRIMI, SCENA SECVNDA.
+## 7. ACTVS PRIMI, SCENA SECVNDA.
 
-# 8. ARGVMENTVM.
+## 8. ARGVMENTVM.
 
 Insultant militi daemones.
 
@@ -1066,9 +1066,9 @@ Dolus sit an virtus in hoste quis requirat? PLA. respice
 
 Pus Tartari, commodè adest Satanas Imperator noster. DIAB. Hem.
 
-# 9. ACTVS I. SCENA III.
+## 9. ACTVS I. SCENA III.
 
-# 10. ARGVMENTVM.
+## 10. ARGVMENTVM.
 
 Enarrat Satanas virtutes suas & potentiam.
 
@@ -1154,9 +1154,9 @@ Ponam, similisque sim vel ipsi altissimo,
 
 ≤line=385≥ Et vnicum in terris numen me omnes colant.
 
-# 11. ACTVS PRIMI, SCENA QYARTA
+## 11. ACTVS PRIMI, SCENA QYARTA
 
-# 12. ARGVMENTVM.
+## 12. ARGVMENTVM.
 
 Hic deliberat de conscribendo exercitu.
 
@@ -1290,9 +1290,9 @@ Subornabitis, vt ne cùm opus erit, in mora sient.
 
 
 
-# 13. ACTVS PRIMI, SCENA QVINTA,
+## 13. ACTVS PRIMI, SCENA QVINTA,
 
-# 14. ARGVMENTVM.
+## 14. ARGVMENTVM.
 
 
 
@@ -1623,9 +1623,9 @@ Nisi vanitatem splendidam:
 
 Nullius ipsa est roboris.
 
-# 16. ACTVS SECVNDI, SCENA PRIMA.
+## 16. ACTVS SECVNDI, SCENA PRIMA.
 
-# 17. ARGVMENTVM.
+## 17. ARGVMENTVM.
 
 Cosmus, id est, mundus accersitus ad Satanam vt contra Militem vnà
 depugnet, hic facultates suas enumerat.
@@ -1868,9 +1868,9 @@ Geryona quendam si propius cognoueris.
 
 Ipsa est. quò sic properat? conueniam & alloquar.
 
-# 18. ACTVS SECVNDI, SCENA SECVNDA.
+## 18. ACTVS SECVNDI, SCENA SECVNDA.
 
-# 19. ARGVMENTVM.
+## 19. ARGVMENTVM.
 
 Recenset accersita Sarx, hoc est, caro suas item vires, nec sibi esse
 hostem perniciosum magis spiritu.
@@ -1993,9 +1993,9 @@ COS. Eamus, ne quid illi simus in mora.
 
 ≤page=24≥
 
-# 20. ACTVS SECVNDI, SCENA TERTIA.
+## 20. ACTVS SECVNDI, SCENA TERTIA.
 
-# 21. ARGVMENTVM.
+## 21. ARGVMENTVM.
 
 Quomodo Miles christianus ex spiritu & aqua renatus, carni resistere
 debeat.
@@ -2173,9 +2173,9 @@ Adeamus. namque eam videre animus gestit meus.
 
 ≤page=26≥
 
-# 22. ACTVS SECVNDI, SCENA QVARTA.
+## 22. ACTVS SECVNDI, SCENA QVARTA.
 
-# 23. ARGVMENTVM.
+## 23. ARGVMENTVM.
 
 Graphe de spiritu legis, hoc est, Verbi Dei (qui solus viuificat) hic
 disserit, quem Militem Christianum imprimis & habere & nosse oportet.
@@ -2520,9 +2520,9 @@ Obsecro sodes adeamus ipsam. GRAP. Jstic modò
 
 Sum. non patiar tibi vbera claudier mea.
 
-# 24. ACTVS SECVNDI, SCENA QVINTA
+## 24. ACTVS SECVNDI, SCENA QVINTA
 
-# 25. ARGVMENTVM.
+## 25. ARGVMENTVM.
 
 Inducitur Behemothus Satanae vis ac facultas, vt & ipse ingenium
 Satanicum satis arroganter declaret. Viderit lector quanta sit serpenti
@@ -2707,9 +2707,9 @@ Sit, nouimus. quid denique futurum hercle nescio. SAT. Heu,
 
 Huic malo remedium inuenero. BEH. Non dubium id quidem.
 
-# 26. ACTVS SECVNDI, SCENA SEXTA.
+## 26. ACTVS SECVNDI, SCENA SEXTA.
 
-# 27. ARGVMENTVM.
+## 27. ARGVMENTVM.
 
 Per fidem docemur, nos ipsos abnegare, atque omnibus nostris renunciare:
 quòd hoc sit praecipuum opus fidei, nempè mortificatio seu internecio
@@ -3267,9 +3267,9 @@ Om alle myn aduersanten.
 
 
 
-# 29. ACTVS TERTII, SCENA PRIMA.
+## 29. ACTVS TERTII, SCENA PRIMA.
 
-# 30. ARGVMENTVM.
+## 30. ARGVMENTVM.
 
 Paraenetica parasceue ad spem consequendam; quàm vt Militi summè quoque
 necessariam nunc porrò adeunt.
@@ -3406,9 +3406,9 @@ Exi foras. PIST. Soror reclude Militi.
 
 ≤page=38≥
 
-# 31. ACTVS TERTII, SCENA SECVNDA.
+## 31. ACTVS TERTII, SCENA SECVNDA.
 
-# 32. ARGVMENTVM.
+## 32. ARGVMENTVM.
 
 Ductus ad spem per fidem docetur ad crucem obeundam, indeque aeternam
 felicitatem sperandam.
@@ -3761,9 +3761,9 @@ Ad auri scoriam excoqui. Sed tu mea
 
 Fungere tuo officio. ELP. libens faciam soror.
 
-# 33. ACTVS TERTII, SCENA TERTIA.
+## 33. ACTVS TERTII, SCENA TERTIA.
 
-# 34. ARGVMENTVM.
+## 34. ARGVMENTVM.
 
 Eadem hortatur Elpis, vt si Christo conformis esse velit, crucem ac
 tentationes cum eodem perferat.
@@ -4000,9 +4000,9 @@ Spera ac fide, te neutiquam submergier
 
 Permittet clementissimus Princeps tuus.
 
-# 35. ACTVS TERTII, SCENA QVARTA.
+## 35. ACTVS TERTII, SCENA QVARTA.
 
-# 36. ARGVMENTVM.
+## 36. ARGVMENTVM.
 
 Precatio Militis: indéque ad Caritatem, vtpote quòd in praelio extremè
 futura sit necessaria, ducitur.
@@ -4081,7 +4081,7 @@ De qua modò dixeram, alloquatur & magis.
 
 ≤page=44≥
 
-# 37. ACTVS TERTII, SCENA QVINTA.
+## 37. ACTVS TERTII, SCENA QVINTA.
 
 De consessu habendo huius saeculi Principes inter se consultant.
 
@@ -4164,9 +4164,9 @@ Cedamus, vt locum paremus, cedite heus pedissequa.
 
 ≤page=45≥
 
-# 38. ACTVS TERTII, SCENA SEXTA,
+## 38. ACTVS TERTII, SCENA SEXTA,
 
-# 39. ARGVMENTVM.
+## 39. ARGVMENTVM.
 
 Deliberatur de inuadendo hoste: ac quisque suas facultates & dolos
 explicat.
@@ -4650,7 +4650,7 @@ Haec sola sors & portio est.
 
 ≤page=52≥
 
-# 41. ACTVS QVARTI, SCENA PRIMA.
+## 41. ACTVS QVARTI, SCENA PRIMA.
 
 Cum legis perfectio sit caritas, docetur primo de caritate Dei, quod est
 in lege praeceptum maximum.
@@ -5019,7 +5019,7 @@ Dignas agere. faxit tamen Princeps meus,
 
 Vobis vicissim vt eueniant laeta omnia.
 
-# 42. ACTVS IIII, SCENA SECVNDA.
+## 42. ACTVS IIII, SCENA SECVNDA.
 
 Nunc dilectionis pars altera explicatur, quae est erga proximum.
 
@@ -5483,7 +5483,7 @@ Tenebrarum, vt nostra ope ijs resistat fortiter
 
 ELP. Eamus, istaec adferamus. TIM. Res monet.
 
-# 43. ACTVS QVARTI, SCENA TERTIA.
+## 43. ACTVS QVARTI, SCENA TERTIA.
 
 Ad arma lucis exhorrescunt daemones.
 
@@ -5547,7 +5547,7 @@ Hoc schemate nolim. PLA. Tu me iam propè territas
 
 Fuge ad Sathanam, timide fuge, fuge, etiam fuge.
 
-# 44. ACTVS IIII, SCENA QVARTA
+## 44. ACTVS IIII, SCENA QVARTA
 
 Armatur Miles, fitque progressus maior ad ipsam epithasin,
 
@@ -5985,7 +5985,7 @@ Ac persequatur angelus
 
 ≤line=2590≥ Hos vsque ad vltimum tuus.
 
-# 46. ACTVS QVINTI, SCENA PRIMA.
+## 46. ACTVS QVINTI, SCENA PRIMA.
 
 Principes huius mundi in aciem educunt copias suas.
 
@@ -6062,7 +6062,7 @@ Sagittis. DAEM. Nosque his fuscinis. por, hei.
 
 
 
-# 47. ACTVS V SCENA SECVNDA
+## 47. ACTVS V SCENA SECVNDA
 
 Animatur ad pugnam Miles, fitque atrox vtrinque conflictus: ad extremum
 vincit Miles,
@@ -6170,7 +6170,7 @@ Nam gladius iste penetrat omnia. SATA. Heu dolor.
 
 ≤line=2670≥ DAEM. Puff puff. Victi sumus. fugite, puff puff. fugite.
 
-# 48. ACTVS V. SCENA III. ET VLTIMA.
+## 48. ACTVS V. SCENA III. ET VLTIMA.
 
 Catastrophem habet gratiarum actio de parta victoria: ac demum Miles
 Iustitiae coronam exspectat.
@@ -6227,7 +6227,7 @@ Orbe tibi paratum. MIL. Euax. Sit Christo gloria.
 
 ≤page=67≥
 
-# 49. Epilogus.
+## 49. Epilogus.
 
 SPectastis optimi ciues, probissimi
 

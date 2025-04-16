@@ -512,7 +512,7 @@ Et arbiter nostrae benignus opellulae,
 
 Et candidus spectator actiunculae.
 
-# 1. Dramatis personae.
+## 1. Dramatis personae.
 
 Mago seruolus. Sephirach matrona.
 
@@ -539,7 +539,7 @@ filius, Arnoldus Tielmaniae filius et Nicolaus Alardi filius.
 
 Edita M. Cornelio Dobbio Praetore orthodoxae fidei observantissimo.
 
-# 2. Prologus.
+## 2. Prologus.
 
 *Trimetri*.
 
@@ -691,7 +691,7 @@ Nouarum qui spectandi faciant copiam.
 
 **PROTASIS COMOEDIAE.**
 
-# 4. ACTVS PRIMI SCENA I.
+## 4. ACTVS PRIMI SCENA I.
 
 *Trimetri.*
 
@@ -765,7 +765,7 @@ Nam si responsem, irritem magis. *Hic senarius perficitur initio scenae*
 
 *insequentis.*
 
-# 5. ACTVS PRIMI SCENA II.
+## 5. ACTVS PRIMI SCENA II.
 
 *Trimetri.*
 
@@ -790,7 +790,7 @@ Facere? abi intro, et quod facto opus est, face: ni uelis
 
 Cerebro heic tuo uias dispergier. *Mag.* Lubens.
 
-# 6. ACTVS PRIMI SCENA III.
+## 6. ACTVS PRIMI SCENA III.
 
 *Tetrametri Iambici, partim Acatalectici, partim Catalectici.*
 
@@ -905,7 +905,7 @@ Diem festiuom, et amoenitatis plenum hunc. o faciem bene
 
 Pulcram. quantum ore egregio decus enitet? quae gratia?
 
-# 7. ACTVS PRIMI SCENA IIII.
+## 7. ACTVS PRIMI SCENA IIII.
 
 *Trochaici tetrametri, catalectici.*
 
@@ -1276,7 +1276,7 @@ scio.
 
 Abeo intro, quando proficio nihil. tu uideris, scelus.
 
-# 8. ACTVS PRIMI SCENA V.
+## 8. ACTVS PRIMI SCENA V.
 
 *Tetrametri Iambici, acatalectici.*
 
@@ -1378,7 +1378,7 @@ Me commendo, et salutem meam. quaeso impium cupidinem
 
 Compesce dominae, et me adiuua, ne animum labefactet mihi.
 
-# 9. ACTVS SECVNDI SCENA I.
+## 9. ACTVS SECVNDI SCENA I.
 
 *Trimetri.*
 
@@ -1512,7 +1512,7 @@ Dei sumus. postremo, quando conscius
 
 Mali accidere, innocentia incolumi, potest.
 
-# 10. ACTVS SECVNDI SCENA II.
+## 10. ACTVS SECVNDI SCENA II.
 
 *Tetrametri trochaici, catalectici.*
 
@@ -1595,7 +1595,7 @@ Perij: hoc quid sit uereor. nequeo satis mirarier. neque *Acatalectici.*
 
 Conijcere scio, mihi nescio quid animus praesagit mali.
 
-# 11. ACTVS SECVNDI SCENA III.
+## 11. ACTVS SECVNDI SCENA III.
 
 *Iambici, partim tetrametri, catalectici et acatalectici, partim
 trimetri, admistis trochaicis quibusdam.*
@@ -1660,7 +1660,7 @@ Vos istum asseruatum curate mihi tamen. *Trimeter.*
 
 **EPITASIS COMOEDIAE.**
 
-# 13. ACTVS TERTII. SCENA I.
+## 13. ACTVS TERTII. SCENA I.
 
 *Iambici trimetri, admistis tetrametris quibusdam, tum acatalecticis,
 tum catalecticis.*
@@ -1928,7 +1928,7 @@ Quae nolunt. *Seph.* Improbitas alia aliam trahit.
 
 ≤line=640≥ Abi intro, ego quid facto siet opus uidero.
 
-# 14. ACTVS TERTII SCENA II.
+## 14. ACTVS TERTII SCENA II.
 
 *Iambici tetrametri, catalectici.*
 
@@ -2033,7 +2033,7 @@ Non usus est, me illi temere aperire. Eho, ubi estis uos? foras
 
 Agite huc, corruptorem isthunc seruom meum Ioseph educite.
 
-# 15. ACTVS QVARTI. SCENA I.
+## 15. ACTVS QVARTI. SCENA I.
 
 *Iambici tetrametri, acatalectici.*
 
@@ -2087,7 +2087,7 @@ Primo, neque soli, nec solus adeo hicce accidit. in re (ut aiunt)
 
 Mala, bonus animus dimidium adimit mali. 710 *Senarius.*
 
-# 16. ACTVS QVARTI SCENA II.
+## 16. ACTVS QVARTI SCENA II.
 
 *Tetrametri catalectici, tum Iambici, tum Trochaici.*
 
@@ -2146,7 +2146,7 @@ Domus parebat tota modo. ehem, quo redactus subito
 
 Est? ut mortale nihil florere diu potest. *Senarius.*
 
-# 17. ACTVS QVARTI SCENA III.
+## 17. ACTVS QVARTI SCENA III.
 
 *Trochaici tetrametri catalectici.*
 
@@ -2206,7 +2206,7 @@ Cui nihil recusandum, quod communis fert conditio:
 
 CATASTROPHE.
 
-# 18. ACTVS QVINTI SCENA I.
+## 18. ACTVS QVINTI SCENA I.
 
 *Trochaici tetrametri catalectici.*
 
@@ -2288,7 +2288,7 @@ Impertiam: lubentioremque faciam, quam lubentia est.
 
 Aperite ocyus hoc: heus, ecquis he‹c est? ecquis audit?
 
-# 19. ACTVS QVINTI SCENA II.
+## 19. ACTVS QVINTI SCENA II.
 
 *Tetrametri trochaici, catalectici.*
 
@@ -2316,7 +2316,7 @@ Esse scio honore quouis dignum. *Han.* Est sane: at nunc matura. ita
 
 Facto opus est. *Gul.* Curabitur.
 
-# 20. ACTVS QVINTI SCENA III.
+## 20. ACTVS QVINTI SCENA III.
 
 *Trimetri Trochaici, catalectici.*
 

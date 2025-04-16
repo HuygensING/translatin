@@ -151,7 +151,7 @@ Tuus Gnapheus.
 
 
 
-# 1. ACTORVM NOMINA
+## 1. ACTORVM NOMINA
 
 PELARGVS, pater.
 
@@ -177,7 +177,7 @@ SYRA, Laidis pedisequa.
 
 CHREMES, rusticus.
 
-# 2. PROLOGVS
+## 2. PROLOGVS
 
 *Constans Senariis*
 
@@ -298,7 +298,7 @@ Memineris atque debitum plausum dare.
 
 In prologe haec satis. Periocha sic habet:
 
-# 3. ARGVMENTVM COMOEDIAE
+## 3. ARGVMENTVM COMOEDIAE
 
 Duos cum haberet filios pater, abdicat
 
@@ -322,7 +322,7 @@ Pater reducem sibi gratulatur filium,
 
 Amplectitur, sub haec epulatum prouocat.
 
-# 4. ACTVS PRIMI SCAENA PRIMA
+## 4. ACTVS PRIMI SCAENA PRIMA
 
 Pelargus Eubulus
 
@@ -770,7 +770,7 @@ Nunc ut diei gnato dictae tempus est,
 
 Rationes omnes concinnabo ad calculos.
 
-# 5. ACTVS PRIMI SCAENA SECVNDA
+## 5. ACTVS PRIMI SCAENA SECVNDA
 
 Acolastus Philautus
 
@@ -862,7 +862,7 @@ Bene
 
 Est. Tu intro irrumpe ad senem, expectabo te domi meae.
 
-# 6. ACTVS PRIMI SCAENA TERTIA
+## 6. ACTVS PRIMI SCAENA TERTIA
 
 Acolastus Pelargus
 
@@ -1138,7 +1138,7 @@ Huc, huc calamitatis scilicet tuo,
 
 Philaute concilio inferor. O dolor grauis.
 
-# 7. ACTVS PRIMI SCAENA QVARTA
+## 7. ACTVS PRIMI SCAENA QVARTA
 
 *Acolastus Philautus*
 
@@ -1244,7 +1244,7 @@ Quin concedimus intro?
 
 Impera et puta factum.
 
-# 8. ACTVS SECVNDA SCAENA PRIMA
+## 8. ACTVS SECVNDA SCAENA PRIMA
 
 *Pantolabus Pamphagus*
 
@@ -1614,7 +1614,7 @@ Discipulum.
 
 En aurem utramque surrigo ad magistri dogmata.
 
-# 9. ACTVS SECVNDI SCAENA SECVNDA
+## 9. ACTVS SECVNDI SCAENA SECVNDA
 
 *Philautus Acolastus*
 
@@ -1716,7 +1716,7 @@ Concinant Musae celebres canora
 
 Carmina uoce.
 
-# 10. ACTVS SECVNDI SCAENA TERTIA
+## 10. ACTVS SECVNDI SCAENA TERTIA
 
 *Pamphagus Pantolabus Acolastus*
 
@@ -2230,7 +2230,7 @@ Sustolle haec.
 
 Quam pulchre procedo hodie. O fortunatum hunc diem.
 
-# 11. ACTVS SECVNDI SCAENA QVARTA
+## 11. ACTVS SECVNDI SCAENA QVARTA
 
 *Pamphagus Solus*
 
@@ -2282,7 +2282,7 @@ Faxo iam ostenso auro, quod me habere nesciunt, simul
 
 Ad me non accurrisse doleant obtrusis mercibus.
 
-# 12. ACTVS SECVNDI SCAENA QVINTA
+## 12. ACTVS SECVNDI SCAENA QVINTA
 
 Acolastus Pantolabus Sannio Syrus Pamphagus
 
@@ -2434,7 +2434,7 @@ Ocius haec introducite ut coquis dentur.
 
 Vos me sequimini, tibicines, intro.
 
-# 13. ACTVS TERTII SCAENA PRIMA
+## 13. ACTVS TERTII SCAENA PRIMA
 
 *Bromia Ancilla*
 
@@ -2524,7 +2524,7 @@ Huc aduentare. Aedes nostrae uix ceperint.
 
 Ibo illis obuiam ac, quid uenerim, eloquar.
 
-# 14. ACTVS TERTII SCAENA SECVNDA
+## 14. ACTVS TERTII SCAENA SECVNDA
 
 *Lais Syrus Bromia*
 
@@ -2646,7 +2646,7 @@ Caleat, rogas? Immo ardet te intime.
 
 Properemus ocius.
 
-# 15. ACTVS TERTII SCAENA TERTIA
+## 15. ACTVS TERTII SCAENA TERTIA
 
 *Eubulus Pelargus*
 
@@ -2940,7 +2940,7 @@ Ut ad nos deuertas, Eubule piissime.
 
 Quando istuc uis, fiat. Nolo ullum in me tibi claudi commodum.
 
-# 16. ACTVS TERTII SCAENA QVARTA
+## 16. ACTVS TERTII SCAENA QVARTA
 
 *Bromia Syrus*
 
@@ -3098,7 +3098,7 @@ Surrexisse. Procurramus intro Bromia.
 
 I prae, sequar.
 
-# 17. ACTVS TERTII SCAENA QVINTA
+## 17. ACTVS TERTII SCAENA QVINTA
 
 *Acolastus Syrus Lais*
 
@@ -3322,7 +3322,7 @@ Abeamus, hanc solidam noctem consecratum Veneri.
 
 Placet.
 
-# 18. ACTVS QVARTI {SCAENA PRIMA}
+## 18. ACTVS QVARTI {SCAENA PRIMA}
 
 *Pamphagus Solus*
 
@@ -3352,7 +3352,7 @@ Ut eam egerere stomacho esset opus, ubi ipsam Aetnam circumfero.
 
 Sed heus, Pantolabumne tam mane, qui heri tantum biberit? Hem.
 
-# 19. ACTVS QVARTI SCAENA SECVNDA
+## 19. ACTVS QVARTI SCAENA SECVNDA
 
 *Pantolabus Pamphagus*
 
@@ -3530,7 +3530,7 @@ Quibus facultatum bona pars periit mihi.
 
 Nisi fallor, audio screantem Acolastum. Vale.
 
-# 20. ACTVS QVARTI SCAENA TERTIA
+## 20. ACTVS QVARTI SCAENA TERTIA
 
 *Pantolabus Solus*
 
@@ -3582,7 +3582,7 @@ A nobis nescio quis. Si Leno sit, miror.
 
 Certe, ipsus est. Quid, quod commotus apparet?
 
-# 21. ACTVS QVARTI SCAENA QVARTA
+## 21. ACTVS QVARTI SCAENA QVARTA
 
 *Sannio Pantolabus Pamphagus*
 
@@ -3796,7 +3796,7 @@ Vos adiutate me, precor, o boni, ut resoluat debita.
 
 Agedum, fores stipemus, ne effugiat hodie nostras manus.
 
-# 22. ACTVS QVARTI SCAENA QVINTA
+## 22. ACTVS QVARTI SCAENA QVINTA
 
 *Lais Acolastus Syra Pamphagus Pantolabus*
 
@@ -3924,7 +3924,7 @@ Deuortite ad me omnes simul.
 
 Heus tu nebulo, respice ad me. Vestitum hunc depexum habe.
 
-# 23. ACTVS QVARTI SCAENA SEXTA
+## 23. ACTVS QVARTI SCAENA SEXTA
 
 *Acolastus Solus*
 
@@ -3992,7 +3992,7 @@ A uilla rusticus uenit. Istinc adoriar,
 
 Pudore posito, ut qui mihi sit inutilis.
 
-# 24. ACTVS QVARTI SCAENA SEPTIMA
+## 24. ACTVS QVARTI SCAENA SEPTIMA
 
 *Chremes Acolastus*
 
@@ -4102,7 +4102,7 @@ Sequor. Vah, ab equis ad asinos. Non magis credas
 
 Fortunae uoltui quam mobili uento.
 
-# 25. ACTVS QVINTI \[SCAENA PRIMA\]
+## 25. ACTVS QVINTI \[SCAENA PRIMA\]
 
 *Pelargus Eubulus*
 
@@ -4228,7 +4228,7 @@ Labe, maculis et pestibus, quoquo uersum respexeris.
 
 Domi nunc desidere certum est, dum Eubulus redeat meus.
 
-# 26. ACTVS QVINTI SCAENA SECVNDA
+## 26. ACTVS QVINTI SCAENA SECVNDA
 
 *Acolastus solus*
 
@@ -4318,7 +4318,7 @@ Num me deorum quisquam respicii,
 
 Quibus tam sum neglectui? Haud equidem arbitror.
 
-# 27. ACTVS QVINTI SCAENA TERTIA
+## 27. ACTVS QVINTI SCAENA TERTIA
 
 *Eubulus solus*
 
@@ -4348,7 +4348,7 @@ Vt Pelargum repetam, qui curis se afflictat improbis.
 
 Nam me, scio, sollicitus expectat, dum ad se redeam domum.
 
-# 28. ACTVS QVINTI SCAENA QVARTA
+## 28. ACTVS QVINTI SCAENA QVARTA
 
 *Acolastus solus*
 
@@ -4448,7 +4448,7 @@ Egero. Qua fronte enim, quo ore, quibus uestibus
 
 Redeam ad patrem nudus, sceleratus, impudens?
 
-# 29. ACTVS QVINTI SCAENA QVINTA
+## 29. ACTVS QVINTI SCAENA QVINTA
 
 *Pelargus Eubulus Acolastus*
 
@@ -4778,7 +4778,7 @@ Age, age, intro epulatum concedamus.
 
 Scilicet.
 
-# 30. PERORATIO
+## 30. PERORATIO
 
 *Trimetri.*
 

@@ -68,7 +68,7 @@ Fluentem patri habitandam, grandaeuo seni.
 
 
 
-# 1. PERSONAE DRAMATIS.
+## 1. PERSONAE DRAMATIS.
 
 Iacob duodecim filiorum pater Gabriel Angeli
 
@@ -96,7 +96,7 @@ Potiphar militum praefectus tor
 
 Zephirah uxor Potipharis Beniamin.
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 SI quem iuuat constantia, atque castitas,
 
@@ -234,9 +234,9 @@ Aduertito, ut quid sibi uelit Ioseph queas
 
 Cognoscere, atque hinc mores transformes tuos.
 
-# 3. ACTVS PRIMI
+## 3. ACTVS PRIMI
 
-# 4. SCENA I.
+## 4. SCENA I.
 
 Iacob.
 
@@ -548,7 +548,7 @@ Quam ulciscendo. Solius ultio Dei,
 
 Qui uindicabit iniquitates omnium.
 
-# 5. SCENA II.
+## 5. SCENA II.
 
 Simeon. Zabulon. Leui. Gad.
 
@@ -712,7 +712,7 @@ Ouium boumque armenta pascitote iam,
 
 Iussa capessite parentis, tu me intro sequere.
 
-# 6. SCENA III.
+## 6. SCENA III.
 
 Ruben.
 
@@ -770,7 +770,7 @@ Autem seipso inferiorem, est flecti semper in
 
 Peius. et hi cantiones patrias haud canunt.
 
-# 7. SCENA IIII.
+## 7. SCENA IIII.
 
 Iacob. Ioseph.
 
@@ -874,7 +874,7 @@ Gnati salutem, et dirigas feliciter
 
 Gressus mei, donec incolumis redierit.
 
-# 8. SCENA V.
+## 8. SCENA V.
 
 Ioseph. Xenus.
 
@@ -966,9 +966,9 @@ XEN. Pergas feliciter, atque bellissime uale.
 
 IO. Tu quoque uale, dilecte amice quam optime.
 
-# 9. ACTVS SECVNDI,
+## 9. ACTVS SECVNDI,
 
-# 10. SCENA I.
+## 10. SCENA I.
 
 Simeon. Ruben. Ioseph.
 
@@ -1272,7 +1272,7 @@ Qui uitulum aliquando tulerit, taurum denique
 
 Tollet. semper enim degenerasses moribus,
 
-# 11. SCENA II.
+## 11. SCENA II.
 
 Ruben. Iacob. Dan. Iudas.
 
@@ -1550,7 +1550,7 @@ Luctus me totum compraehendit, coepitque me.
 
 Reuertar in aedes, luctui dabo locum.
 
-# 12. SCENA III.
+## 12. SCENA III.
 
 Ioseph.
 
@@ -1644,7 +1644,7 @@ Habent: quod collubitum est, licere existimant.
 
 Abeo, quid agendum sit uidebo in aedibus.
 
-# 13. SCENA IIII.
+## 13. SCENA IIII.
 
 Simeon. Zabulon. Ruben.
 
@@ -1742,7 +1742,7 @@ Non praedictum tibi nullo dices modo.
 
 II\. Delirus est, abeamus hinc. ZA. I prae, sequar.
 
-# 14. SCENA V.
+## 14. SCENA V.
 
 Potiphar. Ioseph.
 
@@ -2104,9 +2104,9 @@ PO. Nihil est, quam ut utuas ex praescriptis legibus
 
 IO. Curabitur. P. Eamus nunc intro. IO. I prae, sequar.
 
-# 15. ACTVS TERTII,
+## 15. ACTVS TERTII,
 
-# 16. SCENA I.
+## 16. SCENA I.
 
 Sephirah. Ioseph.
 
@@ -2760,7 +2760,7 @@ Quam diligenter munit castitate se.
 
 SE. Quid sim factura, furcifer experibere.
 
-# 18. SCENA II.
+## 18. SCENA II.
 
 Ioseph.
 
@@ -2864,7 +2864,7 @@ Ne herae meae blanditijs ducar impijs.
 
 Abeo intro, dij bene uortant, et mecum sient.
 
-# 19. SCENA III.
+## 19. SCENA III.
 
 Sephira. Ioseph. Gabriel.
 
@@ -3066,7 +3066,7 @@ Manebit in uerbo Domini mihi gloria
 
 Vera, et meas spes semper fixero in Deum.
 
-# 20. SCENA IIII.
+## 20. SCENA IIII.
 
 Sephirah. Potiphar. Ioseph.
 
@@ -3372,7 +3372,7 @@ DR. Quando loseph praestiteris, quod tuum decet
 
 Officium, liberaberis dubio procul.
 
-# 21. SCENA V.
+## 21. SCENA V.
 
 Pharao rex Oenochous.
 
@@ -3506,7 +3506,7 @@ Abi, pedem refer cito. iam libera.
 
 OE. Maturabo domine meis pro uiribus.
 
-# 22. SCENA VI.
+## 22. SCENA VI.
 
 Oenochous. Dromo. Desmius.
 
@@ -3728,9 +3728,9 @@ Nemo magis mihi uidetur partibus
 
 Praeficiendus, uel dignior, regni mei.
 
-# 23. ACTVS QVARTI,
+## 23. ACTVS QVARTI,
 
-# 24. SCENA I.
+## 24. SCENA I.
 
 Pharao. Ioseph.
 
@@ -4128,7 +4128,7 @@ IO. Fiet domine omni sine mora. nam occasio
 
 Neglecta omnia. subuertit, et multa uariat.
 
-# 25. SCENA II.
+## 25. SCENA II.
 
 Iacob. Ruben. Simeon. Leui.
 
@@ -4218,7 +4218,7 @@ RV. Abimus omnia quibus opus est ad uiam
 
 Parare, ne quid nobis desit in uia.
 
-# 26. SCENA III.
+## 26. SCENA III.
 
 Issachar. Simeon. Leui. Iudas. Dan.
 
@@ -4494,7 +4494,7 @@ Est explicanda, quod fiat breuissime
 
 Deos precor. IO. Diduc eos in carcerem.
 
-# 27. SCENA IIII.
+## 27. SCENA IIII.
 
 Ioseph. Simeon. Rub. Leui.
 
@@ -4658,7 +4658,7 @@ Vitae committo. IO. Rape Vos interim domum
 
 Abite, et facite quae iussi, celerrime.
 
-# 28. SCENA V.
+## 28. SCENA V.
 
 Dan. Iudas. Iacob. Leui. Ruben.
 
@@ -4990,9 +4990,9 @@ Pignore mihi. Valete cuncti filij.
 
 FI. Et tu charissime genitor, longum uale.
 
-# 29. ACTVS QVINTI,
+## 29. ACTVS QVINTI,
 
-# 30. SCENA I.
+## 30. SCENA I.
 
 Aser. Nephthalim. Gad. Ioseph.
 
@@ -5160,7 +5160,7 @@ Quidem est paratum, laeti conuiuabimur.
 
 ISA. Nos euestigio consequimur singuli.
 
-# 31. SCENA II.
+## 31. SCENA II.
 
 Ioseph. Oeconomus.
 
@@ -5196,7 +5196,7 @@ Pariter eos dimitte ex nostra regia.
 
 OEC. Fiet. sed quid mihi mandas amplius? IO. Nihil.
 
-# 32. SCENA III.
+## 32. SCENA III.
 
 Ioseph. Oeconomus. Gad. Iudas.
 
@@ -5430,7 +5430,7 @@ Porro loqui de rebus his. Animo sitis
 
 Forti, ne corda perturbentur hic metu.
 
-# 33. SCENA IIII.
+## 33. SCENA IIII.
 
 Iacob.
 
@@ -5486,7 +5486,7 @@ Video. sed quid? Commemorando augetur dolor,
 
 Ingrediar aedes, expectabo filios.
 
-# 34. SCENA V.
+## 34. SCENA V.
 
 Ioseph. Ruben. Simeon. Leui.
 
@@ -5670,13 +5670,13 @@ Peccati dimittit. Quid ego seruem meis
 
 Peccata germanis? ignota singulis
 
-# 35. Errata sint uobis. Ite ad parandum iter.
+## 35. Errata sint uobis. Ite ad parandum iter.
 
 Ego, necesse quae fuerint, nunc porrigam.
 
 Ne quid uobis desit, cum iam eritis in uia.
 
-# 36. SCENA VI.
+## 36. SCENA VI.
 
 Oenochous. Pharao. Ioseph.
 
@@ -5772,7 +5772,7 @@ Intus dabo munera quam preciosissima.
 
 Nos hinc concedimus, uos me omnes sequimini.
 
-# 37. SCENA VII.
+## 37. SCENA VII.
 
 Iacob. Simeon. Ruben. Leui.
 
@@ -5934,7 +5934,7 @@ Ingredior, sequimini. Videre filium
 
 Quam primum ex animo gestio. RV. Sequimur pater.
 
-# 38. EPILOGVS.
+## 38. EPILOGVS.
 
 Exhibita uobis, spectatores candidi,
 

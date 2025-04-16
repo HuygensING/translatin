@@ -12,7 +12,7 @@ TRIVMPHVS CHRISTI.
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 THRASO,)
 
@@ -46,7 +46,7 @@ CLEOPHAS. Discipuli.
 
 LVCAS,
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -126,7 +126,7 @@ Sed vereor ne prolixiore oratione vos
 
 Huius quam sumus acturi, audite periocham.
 
-# 3. COMOEDIAE PERIOCHA.
+## 3. COMOEDIAE PERIOCHA.
 
 REuiuiscit Christus. Iudaeos corripit
 
@@ -150,7 +150,7 @@ Diffidit. Cui Christus, se ostendens denuo,
 
 ≤line=10≥ Animum confirmat, magnoque implet gaudio.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 THRASO, SANGA, DONAX, SIMALIO.
 
@@ -244,7 +244,7 @@ Nostram qui fortè conspexeritis, si quis nos
 
 Consectetur, ne monstretis, quâ aufugerimus viâ.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 MAGDALENE, MARIA, SALOME, ANGELVS.
 
@@ -435,7 +435,7 @@ Mag. Sic est profecto. Nunc in vrbem protinus
 
 Gaudio. Mar. Placet. Sal. Nae nos laetum adferemus nuncium.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 CAIPHAS.
 
@@ -483,7 +483,7 @@ Vt ex eorum decreto, quod ad hanc rem opus erit,
 
 Primo statuatur tempore \-\--
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 MAGDALENE, MARIA, SALOME, IESVS.
 
@@ -579,7 +579,7 @@ Sciam oriturum mihi. Sal. Euge soror, sic decet.
 
 ≤page=99≥
 
-# 8. ACTVS II. SCENAI
+## 8. ACTVS II. SCENAI
 
 CAIPHAS, ANNAS.
 
@@ -697,7 +697,7 @@ Eis donandâ, intellextin’ Caipha? Ca. Probè.
 
 ≤page=101≥
 
-# 9. ACTVS II. SCENA II.
+## 9. ACTVS II. SCENA II.
 
 THRASO, SANGA, ANNAS, CAIPHAS.
 
@@ -785,7 +785,7 @@ Nostros hic consistentes video. Th. Sunt? Profectò sunt; parum
 
 ≤line=285≥ Mihi videntur hilares: & rectâ ad nos huc accedunt viâ.
 
-# 10. ACTVS II. SCENA III.
+## 10. ACTVS II. SCENA III.
 
 CAIPHAS, ANNAS, SANGA, THRASO.
 
@@ -1064,7 +1064,7 @@ Sepulchrum ipse propero, rem inquisiturus
 
 Io. Benè facis: matura reditum. nos te expectabimus domi.
 
-# 11. ACTVS III. SCENA I.
+## 11. ACTVS III. SCENA I.
 
 CLEOPHAS, LVCAS.
 
@@ -1166,7 +1166,7 @@ Et in vrbem retrahat. Luc. Rectè dicis, & ideo hic,
 
 Et alibi quoque tibi lubenter obsequar.
 
-# 12. ACTVS III. SCENA II.
+## 12. ACTVS III. SCENA II.
 
 IESVS, CLEOPHAS, LVCAS.
 
@@ -1584,7 +1584,7 @@ Hic dabitur coenandi locus. Ie. Quanquam decreueram
 
 Luc. Hem, laudo. Cl. Gratias tibi agimus maximas.
 
-# 13. ACTVS IV. SCENA I.
+## 13. ACTVS IV. SCENA I.
 
 CLEOPHAS, LVCAS, IESVS.
 
@@ -1686,7 +1686,7 @@ Vitae nobis hic signum exhibuit. Sed surgamus. Luc. In
 
 Me nihil est morae. Praecede, consequor.
 
-# 14. ACTVS IV. SCENA II.
+## 14. ACTVS IV. SCENA II.
 
 CAIPHAS, ANNAS.
 
@@ -1797,7 +1797,7 @@ Negandum existimo, Ca. Benè facis, laudo. An. I prae, sequor.
 
 ≤page=119≥
 
-# 15. ACTVS IV. SCENA III.
+## 15. ACTVS IV. SCENA III.
 
 IOANNES, CLEOPHAS, IESVS.
 
@@ -1931,7 +1931,7 @@ Habetisne hic aliquid quod edam? eia, apponite.
 
 Nam nullum vobis exhibere possum certius
 
-# 16. Argumentum vitae meae, atque corporis
+## 16. Argumentum vitae meae, atque corporis
 
 ≤line=815≥ Vixi, quàm si me edentem conspexeritis.
 
@@ -2020,7 +2020,7 @@ Non adfuisse nobis. Cl. Ego eum tibi, vbi vbi
 ≤line=855≥ Est, inuentum dabo. Io. Age, propera, ac matura reditum. Cl.
 Eo.
 
-# 17. ACTVS V. SCENA I.
+## 17. ACTVS V. SCENA I.
 
 THOMAS.
 
@@ -2066,7 +2066,7 @@ Aduentum, & quid inter se locuturi sint
 
 Obseruabo sedulo. \-\--
 
-# 18. ACTVS V. SCENA II.
+## 18. ACTVS V. SCENA II.
 
 PETRVS, IOANNES, THOMAS, IESVS.
 
@@ -2244,7 +2244,7 @@ Audierint, credituri sunt tamen. valete.
 
 Reperitur nihil. \-\--
 
-# 19. ACTVS V. SCENA III.
+## 19. ACTVS V. SCENA III.
 
 THOMAS, PETRVS, IOANNES.
 
@@ -2320,7 +2320,7 @@ Noctem fratribus, ac sororibus omnibus
 
 Conuocatis, id fiet tutius, & commodius. Th. Placet.
 
-# 20. PERORATIO.
+## 20. PERORATIO.
 
 Iambici.
 

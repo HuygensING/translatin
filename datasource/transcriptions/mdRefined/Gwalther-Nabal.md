@@ -160,7 +160,7 @@ Amen.
 
 
 
-# 1. DRAMATIS PERSONAE.
+## 1. DRAMATIS PERSONAE.
 
 NABAL paterfamiliâs dives, sed stolidus.
 
@@ -192,7 +192,7 @@ ABISAUS Tribunus militum.
 
 SPHENDONITES OCYMACHUS duces funditorum.
 
-# 2. Prologus
+## 2. Prologus
 
 NE sit cui vestrum novum, quod primus in
 
@@ -326,7 +326,7 @@ Paucisque summam totius Comoediae,
 
 Ut doctus es, proponito.
 
-# 3. PERIOCHA
+## 3. PERIOCHA
 
 COnvivium Nabal parat tonsoribus,
 
@@ -358,11 +358,11 @@ David relictam coniugem iungit sibi,
 
 Connubioque inito parantur nuptiae.
 
-# 4. ACTUS I.
+## 4. ACTUS I.
 
-# 5. SCENA I.
+## 5. SCENA I.
 
-# 6. ARGUMENTUM SCENAE.
+## 6. ARGUMENTUM SCENAE.
 
 HAC scena totius Comoediae fundamenta iaciuntur. Nam et Nabalis per sona
 describitur, et de convivi) apparatu (unde omnis turba oborta est)
@@ -658,9 +658,9 @@ Astas fidelis: precor ut haec serues bona.
 
 Nam digna me plane obtigit provincia.
 
-# 7. ACTUS. I. SCENA II.
+## 7. ACTUS. I. SCENA II.
 
-# 8. ARGUMENTUM.
+## 8. ARGUMENTUM.
 
 Glycylogus servis, ut convivium parent, imperat. Incidunt servorum
 colloquia, quorum alii, ut hoc genus hominum fert, hero detrahunt. At
@@ -772,9 +772,9 @@ Hoc improbum isthoc cochleari extersero.
 
 Quin nunc focus fac totus ut pelluceat.
 
-# 9. ACTUS I. SCENA III.
+## 9. ACTUS I. SCENA III.
 
-# 10. ARGUMENTUM.
+## 10. ARGUMENTUM.
 
 David cum Abiathar de exilii aerumnis colloquitur: sie ut ille quidem
 boni principis, hic vero fidelis antistitis typum praeferat.
@@ -947,9 +947,9 @@ Mali: sed huc nos conferamus paululum,
 
 Ut audiamus quid secum demurmuret.
 
-# 11. ACTUS I. SCENA IIII.
+## 11. ACTUS I. SCENA IIII.
 
-# 12. ARGUMENTUM.
+## 12. ARGUMENTUM.
 
 Ioab milites in castris ob famem tumultuari nuntiat. Hinc de legatione
 ad Nabalem mittenda sit consultatio.
@@ -1068,9 +1068,9 @@ Quo nullus inveniri huic negotio
 
 Huic rem, fideliter ut curet, mandabimus.
 
-# 13. ACTUS I. SCENA V.
+## 13. ACTUS I. SCENA V.
 
-# 14. ARGUMENTUM.
+## 14. ARGUMENTUM.
 
 Abisaus mandatis ad Nabalem perferendis instruitur: inde itineri se
 praeparaturus in castra revertitur.
@@ -1171,11 +1171,11 @@ Sumat sodales sibi: Tum ne quid milites
 
 Novi interea tentent, nos providebimus.
 
-# 15. ACTUS II.
+## 15. ACTUS II.
 
-# 16. SCENA I.
+## 16. SCENA I.
 
-# 17. ARGUMENTUM.
+## 17. ARGUMENTUM.
 
 Duo Nabalis servi rustici de convivii apparatu colloquuntur: quorum
 alter rusticanos mores et ingenium divitum fortunis inimicum ac pauper
@@ -1312,9 +1312,9 @@ Urat, gravi quando dolore perciti
 
 ULTORIS audient Dei sententiam.
 
-# 18. ACTUS II. SCENA II.
+## 18. ACTUS II. SCENA II.
 
-# 19. ARGUMENTUM.
+## 19. ARGUMENTUM.
 
 Adventant Nabalis convivae de hesterna crapula confabulantes.
 Exprimuntur ebriosorum mores et frivola eorundem colloquia.
@@ -1438,9 +1438,9 @@ At ingredimini vos: ego nunc videro,
 
 Nobis parata in tempore ut sint omnia.
 
-# 20. ACTUS II. SCENA III.
+## 20. ACTUS II. SCENA III.
 
-# 21. ARGUMENTUM.
+## 21. ARGUMENTUM.
 
 Abisaus duobus sociis comitatus Nabalis domum adit, ut commeatum ab illo
 postulet. Inter eundum de vitae militaris conditione dura et periculosa
@@ -1561,9 +1561,9 @@ Nabalis est domus: tamen si sic placet
 \[Note: Versus hic initio sequentis Scenae absolvitur.\] Properemus
 ocius.
 
-# 22. ACTUS II. SCENA IIII.
+## 22. ACTUS II. SCENA IIII.
 
-# 23. ARGUMENTUM.
+## 23. ARGUMENTUM.
 
 Nabalem missi a Davide legati conveniunt. Amice com meatum petunt.
 Reicit hos Nabal inhumaniter, hominis sordidi et omnis consilii vacui
@@ -1767,9 +1767,9 @@ Faciam potius quod Glycylogus suasit mihi,
 
 Ut his omissis me parem convivio.
 
-# 24. ACTUS II. SCENA V.
+## 24. ACTUS II. SCENA V.
 
-# 25. ARGUMENTUM.
+## 25. ARGUMENTUM.
 
 Discumbit cum convivis Nabal. Accedunt primis Eubulus et Dysigamus: e
 quibus hic vir alioqui bonus et temperans, uxoris improbitate
@@ -2086,11 +2086,11 @@ Heus Parmeno, vide coquis quid in mora
 
 Siet, quod tardius parant quae iusseram.
 
-# 26. ACTUS III.
+## 26. ACTUS III.
 
-# 27. SCENA I.
+## 27. SCENA I.
 
-# 28. ARGUMENTUM.
+## 28. ARGUMENTUM.
 
 Postquam quae a Nabale passus est Abisaus retulit, David iniuriae
 impatiens cum eodem et Ioabe de vindicta consultat, sicque ad epitasin
@@ -2266,9 +2266,9 @@ Sed rem ad socios referamus, atque singula
 
 Paremus, huc mox producturi militem.
 
-# 29. ACTUS III. SCENA II.
+## 29. ACTUS III. SCENA II.
 
-# 30. ARGUMENTUM.
+## 30. ARGUMENTUM.
 
 Ubi potu plus satis incaluit Nabal, pro suo more convivis est molestior.
 Opponit se huic Eubulus, quem dictis improbis et minis reicit. Quare cum
@@ -2489,9 +2489,9 @@ NA. Itane faciundum censes? GL. Maxime. NA. Placet
 
 Consilium, quin ergo ingredimur. GL. I prae, sequar.
 
-# 31. ACTUS III. SCENA III.
+## 31. ACTUS III. SCENA III.
 
-# 32. ARGUMENTUM.
+## 32. ARGUMENTUM.
 
 Philoponus de Davidis contra Nabalem consilio certior factus, festinus
 ex agro advolat herum suosque praemoniturus. Inter eundum vero solus de
@@ -2552,9 +2552,9 @@ Ineptias ferre: Heic ergo quid sola nunc
 
 Quiritetur, audiam priusquam colloquor.
 
-# 33. ACTUS III. SCENA IIII.
+## 33. ACTUS III. SCENA IIII.
 
-# 34. ARGUMENTUM.
+## 34. ARGUMENTUM.
 
 Abigael Nabalis uxor egressa sola de mariti iniquis moribus conqueritur,
 bonae matronae officium suo exemplo adumbrans. Huic occurrens Philoponus
@@ -2784,9 +2784,9 @@ Parati ad iter ut singuli sient, ego
 
 Mox adero, si quae sunt agenda peregero.
 
-# 35. ACTUS III. SCENA V.
+## 35. ACTUS III. SCENA V.
 
-# 36. ARGUMENTUM.
+## 36. ARGUMENTUM.
 
 Abigael servulo ne se conquerentem audiat amandato consilium de Davide
 muneribus placando init, etc.
@@ -2861,11 +2861,11 @@ Quin ocius parari mando singula,
 
 Ne quid mali gravioris haec mora afferat.
 
-# 37. ACTUS IIII.
+## 37. ACTUS IIII.
 
-# 38. SCENA I.
+## 38. SCENA I.
 
-# 39. ARGUMENTUM.
+## 39. ARGUMENTUM.
 
 Producit armatas copias e castris David, et Nabalis domum oppugnaturus
 instruit aciem.
@@ -3006,9 +3006,9 @@ Curentur, illinc ne mali quid accidat,
 
 Dum nos movemus illuc, IO. Curabo omnia.
 
-# 40. ACTUS IIII. SCENA II.
+## 40. ACTUS IIII. SCENA II.
 
-# 41. ARGUMENTUM.
+## 41. ARGUMENTUM.
 
 Abigael cum commeatu Davidi obviam progressa supplicat. David precibus
 huius motus a cruento incoepto desistit, sicque turba, quae ingens malum
@@ -3274,9 +3274,9 @@ Quare sinamus hunc, dummodo cibaria
 
 Inscius, et invitus etiam, transmiserit.
 
-# 42. ACTUS IIII. SCENA III.
+## 42. ACTUS IIII. SCENA III.
 
-# 43. ARGUMENTUM.
+## 43. ARGUMENTUM.
 
 Abigael Nabali, sobrio iam, quantum sibi suisque omnibus mali sua
 improbitate asciverit, narrat. Habetur in his piae et prudentis matronae
@@ -3504,9 +3504,9 @@ Sequar, suis ut intus hunc coloribus
 
 Pictum severe et dignis increpem modis.
 
-# 44. ACTUS IIII. SCENA IIII.
+## 44. ACTUS IIII. SCENA IIII.
 
-# 45. ARGUMENTUM.
+## 45. ARGUMENTUM.
 
 Dysigamus solus de suae uxoris moribus iniquis queritur. Introducta est
 autem huius descriptio, ut hac antithesi seu collatione Abigaelis virtus
@@ -3588,9 +3588,9 @@ Spudaeus est: tristis videtur: quid siet
 
 Miror, facile tamen quod est rescivero.
 
-# 46. ACTUS IIII. SCENA V.
+## 46. ACTUS IIII. SCENA V.
 
-# 47. ARGUMENTUM.
+## 47. ARGUMENTUM.
 
 Spudaeus Nabalem aegrotare, Philoponus vero eundem iam obiisse narrant
 Dysigamo. Continet tota scena ebrietatis detestabiles fructus, et quam
@@ -3786,11 +3786,11 @@ Ut hoc etiam instructa exemplo, eloquentius
 
 Mecum posthac expostulare possiet.
 
-# 48. ACTUS V.
+## 48. ACTUS V.
 
-# 49. SCENA I.
+## 49. SCENA I.
 
-# 50. ARGUMENTUM.
+## 50. ARGUMENTUM.
 
 Exponitur iustum Dei iudicium, quo Nabalis improbitatem coercuit, et
 Davidi factam iniuriam ultus est. Hinc de Abigaele ducenda instituitur
@@ -3960,9 +3960,9 @@ Quicquam video: properemus ergo hinc ilico
 
 Ad castra, ut Abisaum mandatis instruam.
 
-# 51. ACTUS V. SCENA II.
+## 51. ACTUS V. SCENA II.
 
-# 52. ARGUMENTUM.
+## 52. ARGUMENTUM.
 
 Georgus servili ingenio de heri morte, vere quidem, sed ut vulgus
 pauperum solet, invide et amarulenter disserit. Incidit in hunc
@@ -4139,9 +4139,9 @@ SED MULTA ferat oportet, quisquis sic suas
 
 Res instituit, aliorum ut vivat sumptibus.
 
-# 53. ACTUS V. SCENA III.
+## 53. ACTUS V. SCENA III.
 
-# 54. ARGUMENTUM.
+## 54. ARGUMENTUM.
 
 Abisaus cum Ocymacho inter eundum de Davidis instituto coniugio
 loquuntur, ubi multa de mulierum ingenio dicit Abisaus. Excipit hos
@@ -4306,9 +4306,9 @@ Oporteat. Sed quid ego mecum haec disputo?
 
 Quin intus abeo, tu quid velint intelligam.
 
-# 55. ACTUS V. SCENA IIII.
+## 55. ACTUS V. SCENA IIII.
 
-# 56. ARGUMENTUM.
+## 56. ARGUMENTUM.
 
 Iocosum inseritur duarum ancillularum colloquium: quarum altera
 lascivior nec satis pudica, altera curiosula et loquacula fingitur. De
@@ -4465,9 +4465,9 @@ Sequere. PO. Et volens quidem: nec enim volo me hera
 
 Aut quisquam alius moram heic traxisse viderit.
 
-# 57. ACTUS V. SCENA V.
+## 57. ACTUS V. SCENA V.
 
-# 58. ARGUMENTUM.
+## 58. ARGUMENTUM.
 
 Abigael cum Davide matrimonium contractura ab Abisao deducitur. Excipit
 hanc David, et in nuptias desinit Comoedia.

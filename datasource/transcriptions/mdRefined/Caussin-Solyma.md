@@ -137,7 +137,7 @@ tragoedia catastrophen facis.
 
 SOLYMA.
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 ANGELVS.
 
@@ -179,7 +179,7 @@ NVNCIVS.
 
 SOLYMA TRAGOEDIA.
 
-# 3. ACTVS PRIMVS.
+## 3. ACTVS PRIMVS.
 
 HIEREMIAS.
 
@@ -884,7 +884,7 @@ Rursus bella vocant, nulla dabit modum
 
 Nostris hora laboribus.
 
-# 5. ACTVS SECVNDVS.
+## 5. ACTVS SECVNDVS.
 
 *NABVCHODONOSOR cum Principibus*
 
@@ -998,7 +998,7 @@ Tentaque, si quid effici hoc noctis potest.
 
 SEREGEL. *Dux solus agit fulminastrum*.
 
-# 6. ACTVS SECVNDVS.
+## 6. ACTVS SECVNDVS.
 
 AEquale coelo pondus, & radijs vibrans
 
@@ -1466,7 +1466,7 @@ Ferreus vrget somnus ocellos,
 
 
 
-# 8. ACTVS TERTIVS.
+## 8. ACTVS TERTIVS.
 
 ROHEG PASTOR
 
@@ -2197,7 +2197,7 @@ Heu mea vita!
 
 
 
-# 10. ACTVS QVARTVS.
+## 10. ACTVS QVARTVS.
 
 HIEREMIAS
 
@@ -2934,7 +2934,7 @@ Ei trepidas equitauit vndas.
 
 
 
-# 13. ACTVS QVINTVS.
+## 13. ACTVS QVINTVS.
 
 NABVCHODONOSOR
 

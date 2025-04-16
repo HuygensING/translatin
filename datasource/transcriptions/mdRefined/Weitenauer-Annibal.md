@@ -175,7 +175,7 @@ ultimis tribus versiculis ita conclusi:
 
 
 
-# 1. Personae
+## 1. Personae
 
 Annibal
 
@@ -213,7 +213,7 @@ Ephebi
 
 *haud procul Nicomedia.*
 
-# 3. Prologus
+## 3. Prologus
 
 Mars, Chorus variarum gentium, duce Bithyno, *deinde* Genius Fortunae
 
@@ -481,9 +481,9 @@ Mars Id si Iupiter et Fortuna statuit,
 
 Amicus Annibali Mavors annuit.
 
-# 9. Actus primus
+## 9. Actus primus
 
-# 10. Scena prima
+## 10. Scena prima
 
 Annibal, Aristo
 
@@ -531,7 +531,7 @@ Secutus usque, vita dum durat, sequar.
 
 ≤line=140≥ Accedit hostis, alloqui solum petens.
 
-# 11. Scena secunda
+## 11. Scena secunda
 
 Annibal, Quintius, Quintii Comites
 
@@ -693,7 +693,7 @@ Quint. An saevientem protinus iuvat insequi?
 
 Et praevenire \... sed quis huc tendit celer?
 
-# 12. Scena tertia
+## 12. Scena tertia
 
 Quintius, Aristo
 
@@ -745,7 +745,7 @@ Ne Gisgo veniens impigre utrumque occupet.
 
 Arist. Quidquid vereris, Annibal coram audiet.
 
-# 13. Scena quarta
+## 13. Scena quarta
 
 Quintius, Trabea
 
@@ -813,7 +813,7 @@ Trab. Avuncule, pie avuncule, quid affers mali?
 
 Quint. Sic Roma statuit, resque me praesens iubet.
 
-# 14. Scena quinta
+## 14. Scena quinta
 
 Annibal, Quintius, Trabea
 
@@ -991,7 +991,7 @@ Quint. Hoc curia unum poscit, ut credas favens,
 
 ≤line=355≥ Te Romae amari publice et amicum peti.
 
-# 15. Scena sexta
+## 15. Scena sexta
 
 Annibal, Trabea
 
@@ -1121,7 +1121,7 @@ Romana tantum ceteras urbes praeit.
 
 Ann. Attende mecum, nate, quid Aristo ferat.
 
-# 16. Scena septima
+## 16. Scena septima
 
 Annibal, Trabea, Aristo
 
@@ -1326,9 +1326,9 @@ Sic perit, qui Asiam et Europam appetiit.
 
 Hunc finem pertinax odium invenit.
 
-# 18. Actus secundus
+## 18. Actus secundus
 
-# 19. Scena prima
+## 19. Scena prima
 
 Prusias, Annibal
 
@@ -1534,7 +1534,7 @@ Accede, quid vereris? accede ad patrem
 
 Tantumque, Trabea, disce genitorem sequi.
 
-# 20. Scena secunda
+## 20. Scena secunda
 
 Annibal, Trabea
 
@@ -1708,7 +1708,7 @@ Promissa quod si differunt lenti Dii,
 
 Tamen aliquando patriam cerno redux.
 
-# 21. Scena tertia
+## 21. Scena tertia
 
 Annibal, Trabea, Quintius
 
@@ -1790,7 +1790,7 @@ Ann. Discede, fili: raptor, en, Gisgo imminet.
 
 Trab. Causam tuere filii prima hac die.
 
-# 22. Scena quarta
+## 22. Scena quarta
 
 Annibal, Gisgo cum Asseclis, Aristo
 
@@ -1926,7 +1926,7 @@ Tuum est referre dicta, responsum dedi.
 
 Gisg. Fortassis aliud mollius reddes dein.
 
-# 23. Scena quinta
+## 23. Scena quinta
 
 Annibal, Aristo
 
@@ -1960,9 +1960,9 @@ Carthaginis spes maxima, o Iuno, fave,
 
 Troiae reliquias ut tuo exemplo premam!
 
-# 24. Actus tertius
+## 24. Actus tertius
 
-# 25. Scena prima
+## 25. Scena prima
 
 Prusias, Annibal
 
@@ -2066,7 +2066,7 @@ Prus. Horresco, amice! quis necem Trabeae struit?
 
 Ann. Interroga, rex, Quintium; en, praesens subit.
 
-# 26. Scena secunda
+## 26. Scena secunda
 
 Prusias, Quintius
 
@@ -2224,7 +2224,7 @@ Prus. Deliberanti perbrevem mihi da moram,
 
 An laedere urbem, prodere an malim hospitem.
 
-# 27. Scena tertia
+## 27. Scena tertia
 
 Annibal, Trabea, Aristo
 
@@ -2292,7 +2292,7 @@ Nunc domina terret Roma, nunc laurus placet.
 
 Quid Roma captet quaeque sint rerum vices.
 
-# 28. Scena quarta
+## 28. Scena quarta
 
 Prusias, Annibal, Trabea, Aristo
 
@@ -2308,7 +2308,7 @@ Ann. Adduco, rex, quem praecipis, cladem intuens.
 
 Memento, nate, patris exemplum sequi!
 
-# 29. Scena quinta
+## 29. Scena quinta
 
 Prusias, Trabea
 
@@ -2370,7 +2370,7 @@ Nam Nicomedes salvus est et cras meus.
 
 Me mitte Romam! spiritum impendam patri!
 
-# 30. Scena sexta
+## 30. Scena sexta
 
 Prusias, Annibal, Quintius, Trabea, Aristo, Asseclae regii
 
@@ -2532,9 +2532,9 @@ Trab. O regis amor! o hilaris ex moesto dies!
 
 Ann. O Trabea! Iuno fata convertit potens.
 
-# 31. Actus quartus
+## 31. Actus quartus
 
-# 32. Scena prima
+## 32. Scena prima
 
 Prusias, Annibal
 
@@ -2622,7 +2622,7 @@ Ann. Referam diserte. tu cave fidas, precor:
 
 Fallace vultu orator insidias tegit.
 
-# 33. Scena secunda
+## 33. Scena secunda
 
 Prusias, Gisgo
 
@@ -2690,7 +2690,7 @@ Dumque exterorum regna fugientem ambiunt
 
 Vos odia nondum vetera satiastis truces.
 
-# 34. Scena tertia
+## 34. Scena tertia
 
 Prusias, Gisgo, Annibal
 
@@ -2742,7 +2742,7 @@ Carthaginem non negligo, Gisgo, tuam;
 
 Nunc Flamininum petere res praesens iubet.
 
-# 35. Scena quarta
+## 35. Scena quarta
 
 Annibal, Trabea
 
@@ -2874,7 +2874,7 @@ Ann. Sic mihi probaris, nate, si vitam prius
 
 Quam iusta ponas odia Latialis soli.
 
-# 36. Scena quinta
+## 36. Scena quinta
 
 Annibal, Trabea, Aristo
 
@@ -3238,9 +3238,9 @@ Perdimus!
 
 ≤line=1395≥ Gemimus!
 
-# 38. Actus quintus
+## 38. Actus quintus
 
-# 39. Scena prima
+## 39. Scena prima
 
 Prusias, Annibal
 
@@ -3336,7 +3336,7 @@ Rex, talis urbs te fraudibus capiet suis?
 
 I, Flamininum exire mox regno iube!
 
-# 40. Scena secunda
+## 40. Scena secunda
 
 Prusias, Annibal, Quintius
 
@@ -3380,7 +3380,7 @@ Quint. sequere, narrabo omnia.
 
 ≤line=1460≥ Prus. Festino, ne mors ultimam vocem occupet.
 
-# 41. Scena tertia
+## 41. Scena tertia
 
 Annibal, Aristo
 
@@ -3438,7 +3438,7 @@ Ann. Protractus est a Quintio in lucem dolus:
 
 Mage concitatus Prusias in me furet.
 
-# 42. Scena quarta
+## 42. Scena quarta
 
 Annibal, Trabea inter manus Militum Prusiae, Aristo
 
@@ -3516,7 +3516,7 @@ Pudor! ira et odium! cuncta simul in me irruunt!
 
 Arist. Cadaver hinc auferte, ne luctum augeat.
 
-# 43. Scena quinta
+## 43. Scena quinta
 
 Aristo, Gisgo
 
@@ -3552,7 +3552,7 @@ Gisg. Nunc, nunc triumpho! Martius fomes perit!
 
 Aeterna pax Carthaginem et Romam beat!
 
-# 44. Scena sexta
+## 44. Scena sexta
 
 Prusias cum suis omnibus, Quintius, Gisgo, Aristo
 
@@ -3560,7 +3560,7 @@ Prus. Aristo, adesse coram et Annibalem volo.
 
 Arist. Monebo, nec morabitur regem Annibal.
 
-# 45. Scena septima
+## 45. Scena septima
 
 Iidem, praeter Aristonem
 
@@ -3614,7 +3614,7 @@ Quaesisse tantum Quintio invidiam et notam.
 
 Sic abit ad umbras; veritas nobis patet.
 
-# 46. Scena octava
+## 46. Scena octava
 
 Iidem, Annibal, Aristo
 

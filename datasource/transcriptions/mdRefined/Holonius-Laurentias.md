@@ -77,7 +77,7 @@ Leodij Anno Dominicae natiuitatis M.D. LVI. XVII. Cal. Maias.
 
 ≤page=6≥
 
-# 1. PROLOGVS
+## 1. PROLOGVS
 
 in Laurentiadem.
 
@@ -135,7 +135,7 @@ Et Charitate feruida, & Spe gloriae,
 
 Eadem & ipsi sancta subeamus via.
 
-# 2. ARGVMENTVM.
+## 2. ARGVMENTVM.
 
 Proferimus ergo Martyrem Laurentium,
 
@@ -179,7 +179,7 @@ Cum largitate, atque patientia atrocitas.
 
 ≤page=8≥
 
-# 3. Personae actionis.
+## 3. Personae actionis.
 
 T. DECIVS CAESAR, magnus Christianorum persecutor, quòd odisset
 Philippum: qui cùm Imperator esset, Christianos fouerat, omnesque gazas
@@ -287,7 +287,7 @@ Nec conquiescam, donec auro hocce potiar:
 
 ≤line=25≥ Rimabor artes, quibus id hauriam lucri.
 
-# 5. ACTVS. I. SCENA. II.
+## 5. ACTVS. I. SCENA. II.
 
 DECIVS. CLAVDIVS. VALERIANVS. D. FILIVS.
 
@@ -351,7 +351,7 @@ DE. Voca cohortes, in gregem inuadi iube
 
 D. FI. Id Caesar ago parens, neque has cerno procul.
 
-# 6. ACTVS. I. SCENA. III.
+## 6. ACTVS. I. SCENA. III.
 
 D. FILIVS. PARTHEMIVS. DECIVS PATER. VALERIANVS. SIMALIO.
 
@@ -461,7 +461,7 @@ PA. Mandata Caesaris impigra expediet phalanx.
 
 ≤line=105≥ Huc miles omnis, praeda nunc restat tibi.
 
-# 7. ACTVS. I. SCENA. IIII.
+## 7. ACTVS. I. SCENA. IIII.
 
 XISTVS, LAVRENTIVS.
 
@@ -559,7 +559,7 @@ XI. Me, me imò in illorum obuium amplexus fero,
 
 ≤line=150≥ Ne sit tuendae lenta iustitiae fides.
 
-# 8. ACTVS. I. SCENA. V.
+## 8. ACTVS. I. SCENA. V.
 
 XISTVS. DONAX. SANGA. PARTHEMIVS. PERILLVS. LAVRENTIVS.
 
@@ -633,7 +633,7 @@ XI. Discede frater, muneris iußi memor,
 
 Illo sequeris me probè exacto celer.
 
-# 9. ACTVS.I. SCENA. VI.
+## 9. ACTVS.I. SCENA. VI.
 
 PARTHEMIVS. HIPPOLITVS.
 
@@ -721,9 +721,9 @@ Tanquam superûm domini Diuûm.
 
 ≤page=19≥
 
-# 11. ACTVS SECVNDI.
+## 11. ACTVS SECVNDI.
 
-# 12. SCENA PRIMA.
+## 12. SCENA PRIMA.
 
 MARTIALIS. SALIVS. MARS.
 
@@ -821,7 +821,7 @@ MART. Eo, Caesaris in hunc pectus exacuam magum.
 
 ≤page=21≥
 
-# 13. ACTVS. II. SCENA. II.
+## 13. ACTVS. II. SCENA. II.
 
 LAVRENTIVS. STIPETVS. HAELIGNVS. PEDVNIVS. NOSOPONVS. CAECVLVS.
 
@@ -939,7 +939,7 @@ Agè Stipete, aliò transferamus caetera.
 
 ST. Sequar obsequenter: quaelibet merito iube.
 
-# 14. ACTVS. II. SCENA. III.
+## 14. ACTVS. II. SCENA. III.
 
 DECIVS. MARTIALIS. VALERIANVS.
 
@@ -997,7 +997,7 @@ Ne qua imperata Caesaris tardet mora.
 
 TER. Mandata confestim exigam Iudex tua.
 
-# 15. ACTVS. II. SCENA. IIII.
+## 15. ACTVS. II. SCENA. IIII.
 
 TERTVLVS. PARTHEMIVS. DONAX.
 
@@ -1075,7 +1075,7 @@ Desyderatae mortis & sententiam.
 
 ≤page=26≥
 
-# 16. ACTVS II. SCENA. V.
+## 16. ACTVS II. SCENA. V.
 
 LAVRENTIVS. STIPETVS. XISTVS. VALERIANVS. DECIVS. PARTHEMIVS.
 
@@ -1133,7 +1133,7 @@ Vel me cum eo iunctim ligate vinculis,
 
 Ne vsquam relinquam tam mihi charum latus.
 
-# 17. ACTVS. II. SCENA. VI.
+## 17. ACTVS. II. SCENA. VI.
 
 DECIVS. SIMALIO. LAVRENTIVS. PERILLVS. XISTVS.
 
@@ -1185,7 +1185,7 @@ DEC. Reiicite iuuenem in carceris foedi locos, \[\< iueuem\]
 
 Quem cras tribunal ante sistatis mihi.
 
-# 18. ACTVS. II. SCENA. VII.
+## 18. ACTVS. II. SCENA. VII.
 
 SANGA. LAVRENTIVS. HIPPOLITVS.
 
@@ -1263,7 +1263,7 @@ Alto sydere coelitum,
 
 Cum nato sedeat Dei.
 
-# 20. ACTVS TERTII, SCENA I.
+## 20. ACTVS TERTII, SCENA I.
 
 HIPPOLITVS.
 
@@ -1307,7 +1307,7 @@ Spelaea, & adopertas cauernae ianuas:
 
 ≤line=480≥ Inspecto pauidus, num sit elapsus mihi.
 
-# 21. ACTVS. III. SCENA. II.
+## 21. ACTVS. III. SCENA. II.
 
 HIPPOLITVS LAVRENTIVS.
 
@@ -1415,7 +1415,7 @@ LAV. Felix es Hippolite, & lubens hîc obsequor,
 
 ≤line=530≥ Vobis paratus pectus ipsum impendere.
 
-# 22. ACTVS. III. SCENA. III.
+## 22. ACTVS. III. SCENA. III.
 
 MARTIALIS. SALIVS. MARS.
 
@@ -1459,7 +1459,7 @@ Deficeret inde victus atque authoritas,
 
 Et tot deorum erroris inoliti fides.
 
-# 23. ACTVS. III. SCENA. IIII.
+## 23. ACTVS. III. SCENA. IIII.
 
 CLAVDIVS. VALERIANVS. TERTVLVS.
 
@@ -1517,7 +1517,7 @@ Pertracto vt adsint Christiano commone.
 
 TERT. Huc pergimus citi, hîc erit nihil morae.
 
-# 24. ACTVS. III. SCENA. V.
+## 24. ACTVS. III. SCENA. V.
 
 TERTVLVS.
 
@@ -1553,7 +1553,7 @@ Sed ad Tribunum iussa missus perfero.
 
 ≤page=36≥
 
-# 25. ACTVS. III. SCENA. VI.
+## 25. ACTVS. III. SCENA. VI.
 
 LAVRENTIVS. HIPPOLITVS.
 
@@ -1603,7 +1603,7 @@ Ductura venit te caterua ad Iudicem.
 
 ≤page=37≥
 
-# 26. ACTVS. III. SCENA.VII.
+## 26. ACTVS. III. SCENA.VII.
 
 PARTHEMIVS. SANGA. DONAX. PERILLVS. LAVRENTIVS.
 
@@ -1641,7 +1641,7 @@ Nec secta Christi, nec mihi Iudex placet:
 
 Damnat deos ista, ille truculentus furit.
 
-# 27. ACTVS TERTII SCENA. VIII.
+## 27. ACTVS TERTII SCENA. VIII.
 
 ≤folio=Ciij≥
 
@@ -1809,7 +1809,7 @@ Vt canis erepta dente fera
 
 Nemus indagat, collatrat, furit.
 
-# 29. ACTVS QVARTI SCENA PRIMA.
+## 29. ACTVS QVARTI SCENA PRIMA.
 
 STIPETVS. LAVRENTIVS. PEDVNIVS. HAELIGNVS. CAECVLVS. NOSOPONVS.
 
@@ -2043,7 +2043,7 @@ LAV. Sed intus ad me, munus vt cuique tribuam.
 
 ≤page=46≥
 
-# 30. ACTVS. IIII. SCENA. II.
+## 30. ACTVS. IIII. SCENA. II.
 
 DECIVS PATER. & DECIVS FILIVS.
 
@@ -2149,7 +2149,7 @@ D.F. Intrò phalanges prodituras excito,
 
 D.PA. Istuc agamus, nil morae queo pati.
 
-# 31. ACTVS. IIII. SCENA. III.
+## 31. ACTVS. IIII. SCENA. III.
 
 LAVRENTIVS. STIPETVS. NOSOPONVS.
 
@@ -2177,7 +2177,7 @@ LAV. Quum Caesar istuc purpuratorum manu
 
 Stipatus ibit, state clamantes opem.
 
-# 32. ACTVS. IIII. SCENA. IIII.
+## 32. ACTVS. IIII. SCENA. IIII.
 
 DECIVS. VALERIANVS. HIPPOLITVS. PERILLVS. PARTHEMIVS.
 
@@ -2243,7 +2243,7 @@ Duc lictor hinc, & pertinax caput feri.
 
 Iuuabit attamen pro eo sic me mori.
 
-# 33. ACTVS. IIII. SCENA. V.
+## 33. ACTVS. IIII. SCENA. V.
 
 LAVRENTIVS. PERILLVS. DECIVS. PAVPERES. VALERIANVS.
 
@@ -2367,7 +2367,7 @@ Ac hocce pannosum insequere gladiis genus,
 
 Diripite, rabidi ceu lupi raptant oues.
 
-# 34. ACTVS IIII. SCENA.VI.
+## 34. ACTVS IIII. SCENA.VI.
 
 PARTHEMIVS. PERILLVS. DONAX. SANGA. LAVRENTIVS. DECIVS. VALERIANVS.
 
@@ -2517,7 +2517,7 @@ Quàm vel vota ferant, vel altus ardor.
 
 ≤folio=Diiij≥
 
-# 36. ACTVS QVINTI SCENA PRIMA.
+## 36. ACTVS QVINTI SCENA PRIMA.
 
 PERILLVS. DONAX. PARTHEMIVS. SANGA.
 
@@ -2603,7 +2603,7 @@ DON. Formido quae te terret, atque imbellia?
 
 Vnà manemus, nil maleficae artes iuuent.
 
-# 37. ACTVS QVINTI SCENA. II.
+## 37. ACTVS QVINTI SCENA. II.
 
 ≤page=58≥
 
@@ -2673,7 +2673,7 @@ Quodque huius istuc hostis attrahimus caput.
 
 ≤line=1095≥ CLAV. Haud vlla mandata mora tardebit tua.
 
-# 38. ACTVS QVINTI SCENA. III.
+## 38. ACTVS QVINTI SCENA. III.
 
 PERILLVS. DECIVS. DONAX. SANGA. VALERIANVS.
 
@@ -2703,7 +2703,7 @@ Praefecte, grates agimus, vbi merum dabis.
 
 ≤page=60≥
 
-# 39. ACTVS. V. SCENA. IIII.
+## 39. ACTVS. V. SCENA. IIII.
 
 CLAVDIVS. MARTIALIS. SALIVS.
 
@@ -2731,7 +2731,7 @@ SA. At senties, Hercle, simulatorem bonum:
 
 Rem finge quamuis, post ego mystes sequar.
 
-# 40. ACTVS. V. SCENA. V.
+## 40. ACTVS. V. SCENA. V.
 
 VALERIANVS. SIMALIO. DECIVS. MARTIALIS. LAVRENTIVS.
 
@@ -2827,7 +2827,7 @@ Cruore vi atque verbere expresso imbuat.
 
 Caedite flagellis atque scorpionibus.
 
-# 41. ACTVS. V. SCENA. VI.
+## 41. ACTVS. V. SCENA. VI.
 
 DONAX. PERILLVS. SANGA. MARS. LAVRENTIVS.
 
@@ -2873,7 +2873,7 @@ LA. En cernis isto, quanta vis sit numini?
 
 Cadit imbecillis Martis armati furor.
 
-# 42. ACTVS. V. SCENA. VII.
+## 42. ACTVS. V. SCENA. VII.
 
 MARTIALIS. DECIVS. VALERIANVS. D. FILIVS. PARTHEMIVS.
 
@@ -2969,7 +2969,7 @@ Superos & inferos, tibi iugulum eximam.
 
 PAR. Sic territas postquam trepida es istic fuga.
 
-# 43. ACTVS QVINTI, SCENA. VIII.
+## 43. ACTVS QVINTI, SCENA. VIII.
 
 VALERIANVS. PERILLVS. DONAX. SANGA. DECIVS. LAVRENTIVS.
 
@@ -3065,7 +3065,7 @@ Praefractus etsi fortiter poenas ferat,
 
 Tamen aliis exempla terroris dabit.
 
-# 44. ACTVS QVINTI, SCENA. IX.
+## 44. ACTVS QVINTI, SCENA. IX.
 
 PERILLVS. DONAX. SANGA. LAVRENTIVS. DECIVS. VALERIANVS. TERTVLVS.
 
@@ -3223,7 +3223,7 @@ Cadauer, & superis & inferis graue:
 
 Ac nostra tandem castra repetamus citi.
 
-# 45. ACTVS. V. SCENA VLTIMA.
+## 45. ACTVS. V. SCENA VLTIMA.
 
 HIPPOLITVS. STIPETVS.
 

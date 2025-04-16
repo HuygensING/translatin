@@ -105,7 +105,7 @@ tribunal sistitur, & inferorum cruciatibus addicitur.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 NEMESIS.
 
@@ -151,7 +151,7 @@ BASILIVS.
 
 TRIBVNVS.
 
-# 2. ACTVS PRIMVS.
+## 2. ACTVS PRIMVS.
 
 NEMESIS
 
@@ -511,7 +511,7 @@ Dum mersa fibris in renatis
 
 Cura feros populatur artus.
 
-# 4. ACTVS SECVNDVS.
+## 4. ACTVS SECVNDVS.
 
 CYPRIANVS BASILIVS, CALVMNIATORES
 
@@ -1369,7 +1369,7 @@ Vinci nescia, turbines.
 
 
 
-# 6. ACTVS TERTIVS.
+## 6. ACTVS TERTIVS.
 
 AMALASVNTA THEODORICI FILIA
 
@@ -2131,7 +2131,7 @@ Dum luxuries mitis inescat.
 
 Hamus nescia guttura nectit.
 
-# 8. ACTVS QVARTVS.
+## 8. ACTVS QVARTVS.
 
 THEODORICVS
 
@@ -2891,7 +2891,7 @@ Et repit tacito subsiliens gradu.
 
 „Sed frangunt penitus cornua sontibus.
 
-# 11. ACTVS QVINTVS.
+## 11. ACTVS QVINTVS.
 
 **CHORVS ANGELORVM CVM TVBIS,**
 

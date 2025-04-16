@@ -12,7 +12,7 @@ DANIEL
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 DANIEL, Propheta.
 
@@ -42,7 +42,7 @@ BLEPHARO, Fabri.
 
 MESSENIO,
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -108,7 +108,7 @@ Praebete cum silentio. Ecce prodeuntem, periocham
 
 ≤line=30≥ Qui vobis est recitaturus comoediae.
 
-# 3. COMOEDIAE PERIOCHA.
+## 3. COMOEDIAE PERIOCHA.
 
 VEri Dei cultor, & amator Daniel,
 
@@ -136,7 +136,7 @@ Sacerdotes necantur, Belum Daniel
 
 Sternit, templumque eius subuertit funditus.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 DANIEL.
 
@@ -242,7 +242,7 @@ Belo sacrificetur cacodaemoni. Hinc amoliar
 
 Me protinus; ne quod animo aegrè est, conspicer.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 LITVRGVS, PHYLAX.
 
@@ -336,7 +336,7 @@ Hîc cessamus diu: ad templum nos protinus
 
 Absque vlla mora paremus. Phy. Praecede, sequor.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 DANIEL, CYRVS, LEONIDAS.
 
@@ -508,7 +508,7 @@ Vt hinc abeam. Tibi commendo vitam, & salutem
 
 Meam Deus: tu me tuere innoxium.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 LYTVRCVS, ICHTHIBOLVS, TORBELLVS, cum reliquis Sacerdotibus, CYRVS,
 LEONIDAS.
@@ -659,7 +659,7 @@ Veluti antè beneuolentiam meam est expertus, ita
 
 Nunc iram sentiet. Leo. Rectè. Cyr. Praecedo, sequimini.
 
-# 8. ACTVS II. SCENA I.
+## 8. ACTVS II. SCENA I.
 
 CYRVS, DANIEL.
 
@@ -788,7 +788,7 @@ Cui Deus propitius esse desijt.
 
 ≤line=295≥ Sed vt intrò me nunc recipiam, tempus monet.
 
-# 9. ACTVS II. SCENA II.
+## 9. ACTVS II. SCENA II.
 
 BALTHASARVS, LEONIDAS.
 
@@ -870,7 +870,7 @@ Haec res tandem sit sortitura. Leo. I prae, sequor.
 
 ≤page=61≥
 
-# 10. ACTVS II. SCENA III.
+## 10. ACTVS II. SCENA III.
 
 ICHTHIBOLVS, TORBELLVS, MELCHIAS.
 
@@ -996,7 +996,7 @@ Mel. Id ego quidem, quo pacto fieri soleat, optime
 
 Calleo. Ich. Et ego certè. Eamus nunc, res non patitur moram.
 
-# 11. ACTVS II. SCENA IV.
+## 11. ACTVS II. SCENA IV.
 
 DANIEL.
 
@@ -1086,7 +1086,7 @@ Eia, benè rem successuram auguror: adeò
 
 ≤line=430≥ Diuino afflatus oestro, animus gestit mihi.
 
-# 12. ACTVS III. SCENA I.
+## 12. ACTVS III. SCENA I.
 
 LEONIDAS, BALTHASARVS, CYRVS, DANIEL.
 
@@ -1362,7 +1362,7 @@ Me sequere intro. Dan. Nihil est quod aeque fecero lubens.
 
 ≤page=69≥
 
-# 13. ACTVS III. SCENA II.
+## 13. ACTVS III. SCENA II.
 
 BALTHASARVS, LEONIDAS, ICHTHYBOLVS.
 
@@ -1448,7 +1448,7 @@ Propera, atque caeteros, quantum potes.
 
 Ich. Faciam herclè sedulò. Bal. Hac nos redeamus Leonida.
 
-# 14. ACTVS III. SCENA III.
+## 14. ACTVS III. SCENA III.
 
 ICHTHYBOLVS, MELCHIAS, TORRELLVS.
 
@@ -1528,7 +1528,7 @@ Capiemus, quomodo & illum perdamus, &
 
 ≤page=72≥
 
-# 15. ACTVS III. SCENA IV.
+## 15. ACTVS III. SCENA IV.
 
 CYRVS, DANIEL, ICHTHYBOLVS, MELCHIAS, TORBELLVS.
 
@@ -1688,7 +1688,7 @@ Cy. Ita herculè fiet. Nunc abite vos: ego,
 
 Quae ad hanc rem porrò erunt opus, curauero.
 
-# 16. ACTVS IV. SCENA I.
+## 16. ACTVS IV. SCENA I.
 
 CYRVS, LEONIDAS, DANIEL, MYDA.
 
@@ -1744,7 +1744,7 @@ Mi Domine, vbi videris. Cy. Res indicabit: Hàc
 
 Intro me nunc sequimini. \-\--
 
-# 17. ACTVS IV SCENA II.
+## 17. ACTVS IV SCENA II.
 
 TORBELLVS, MELCHIAS, ICHTHYBOLVS.
 
@@ -1782,7 +1782,7 @@ Totam hanc noctem, vnà cum vxoribus & liberis,
 
 Sumamus hilarem: tuta enim hîc nobis sunt omnia.
 
-# 18. ACTVS IV. SCENA III.
+## 18. ACTVS IV. SCENA III.
 
 ICHTHYBOLVS, TORBELLVS, MELCHIAS,
 
@@ -1913,7 +1913,7 @@ Tor. Me quoque vinum vicit planißimè. At mox cùm
 
 Ich. Ohe, dormitum eamus nunc omnes. Mel. Rectè mones.
 
-# 19. ACTVS IV SCENA IV.
+## 19. ACTVS IV SCENA IV.
 
 DANIEL.
 
@@ -2014,7 +2014,7 @@ Age, age, benè rem successuram mens auguratur
 
 Ad regem ibo, vt nihil in me esse morae intelligat.
 
-# 20. ACTVS V. SCENA I.
+## 20. ACTVS V. SCENA I.
 
 CYRVS, DANIEL.
 
@@ -2092,7 +2092,7 @@ Eamus. Ibi impostorum istorum tibi retegam fallacias.
 
 Praecedamus nos Daniel, vos sequimini.
 
-# 21. ACTVS V. SCENA II.
+## 21. ACTVS V. SCENA II.
 
 ICHTHYBOLVS, MELCHIAS, TORBELLVS.
 
@@ -2146,7 +2146,7 @@ Atque à templo abeamus longiùs. Mox huc reuersi,
 
 [^93]Exoptatum nobis conspiciemus spectaculum. Me. Fiat.
 
-# 22. ACTVS V. SCENA III.
+## 22. ACTVS V. SCENA III.
 
 CYRVS, DANIEL. LEONIDAS, ICHTHYBOLVS, cum reliquis Sacerdotibus.
 
@@ -2312,7 +2312,7 @@ Cyr. Eamus hinc: pudet enim me, pigetque in hoc
 
 Execranda loco diutius morarier.
 
-# 23. ACTVS V. SCENA IIII.
+## 23. ACTVS V. SCENA IIII.
 
 PHORMIO, SYRVS. ICHTHYROLVS, MELCHIAS, TORBELLVS.
 
@@ -2358,7 +2358,7 @@ Hilarem hunc sumamus diem. Sy. Nil pol fecero lubentius.
 
 ≤page=86≥
 
-# 24. ACTVS V. SCENA V.
+## 24. ACTVS V. SCENA V.
 
 BLEPHARO, MESSENIO, DANIEL.
 
@@ -2504,7 +2504,7 @@ Ble. Eamus ad illum & acceptâ pecuniâ, diem
 
 Hunc laeti, atque hilares transigamus. Mes. Hem, placet.
 
-# 25. PERORATIO.
+## 25. PERORATIO.
 
 Iambici.
 

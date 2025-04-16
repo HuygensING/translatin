@@ -10,7 +10,7 @@ TERENTI CHRISTIANI SVSANNA.
 
 
 
-# 1. Actorum nomina.
+## 1. Actorum nomina.
 
 IOACHIMVS.
 
@@ -36,7 +36,7 @@ ANANIAS.
 
 ≤line=1≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -104,7 +104,7 @@ Quiescite igitur, atque fauete silentio,
 
 ≤line=30≥ Vt Periocham vobis recitem comoediae.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 AD probrum Susannam duo solicitant senes.
 
@@ -120,7 +120,7 @@ Dolus, dimittitur illa. Sceleribus suis
 
 Dignum, meritumque supplicium senes luunt.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 IOACHIMVS.
 
@@ -202,7 +202,7 @@ Atque incorrupti, multò maiori voluptati
 
 Sunt mihi. Eam hîc opperiar, & quid loquatur audiam.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 SVSANNA, IOACHIMOS.
 
@@ -364,7 +364,7 @@ Ioa. Qui sint videor mihi propemodum agnoscere.
 
 Praestolabor huc accedentes. Sus. Eo.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 IVDAS, MELCHIAS, IOACHIMVS.
 
@@ -516,7 +516,7 @@ Est quod agam domi. Valete. Iu. Vale Ioachime. Ehem,
 
 Ex me salutem dicas oro. Mel. Idem & ego te rogo. Ioa. Fiet.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 MELCHIAS, IVDAS.
 
@@ -636,7 +636,7 @@ Frustra querendo totum hic consumimus diem.
 
 ≤line=235≥ Valeant illa, & quo coeperamus, rectà pergamus via.
 
-# 8. ACTVS II. SCENA I.
+## 8. ACTVS II. SCENA I.
 
 MELCHIAS.
 
@@ -718,7 +718,7 @@ Quod & nunc absque dubio est facturus. Quasi
 
 Deflectam ad dextram. sic agam.
 
-# 9. ACTVS II. SCENA II.
+## 9. ACTVS II. SCENA II.
 
 IVDAS, MELCHIAS.
 
@@ -910,7 +910,7 @@ Praecurramus nos? Hem, quid stas? opus
 
 Consilium aperuero. Iud. Age, praecede, consequor.
 
-# 10. ACTVS II. SCENA III.
+## 10. ACTVS II. SCENA III.
 
 SVSANNA, SYRA, MELCHIAS, IVSAS.
 
@@ -1118,7 +1118,7 @@ Mel. Nequaquam, quin vim inferemus, si perrexeris
 
 Opem vestram imploro: succurrite miserae mihi.
 
-# 11. ACTVS II. SCENA IV.
+## 11. ACTVS II. SCENA IV.
 
 SYRA, IVDAS, MELCHIAS.
 
@@ -1248,7 +1248,7 @@ Mel. Vbi voles. Iud. Eho, sequere puella, & ostium
 
 Nobis aperi. Syr. Tu istud fac Sosia. Hem clauem accipe.
 
-# 12. ACTVS II. SCENA V.
+## 12. ACTVS II. SCENA V.
 
 SYRA, SOSIA, SVSANNA.
 
@@ -1302,7 +1302,7 @@ Tempus: sequar eas. Intus quae ad hanc rem attinent
 
 ≤page=22≥
 
-# 13. ACTVS III. SCENA I.
+## 13. ACTVS III. SCENA I.
 
 IOACHIMVS.
 
@@ -1360,7 +1360,7 @@ Aduersus impiorum tuere calumnias.
 
 ≤page=23≥
 
-# 14. ACTVS III. SCENA II.
+## 14. ACTVS III. SCENA II.
 
 SVSANNA, IORCHIMVS.
 
@@ -1484,7 +1484,7 @@ Qui nobis exitium parant.
 
 ≤page=25≥
 
-# 15. ACTVS III. SCENA III.
+## 15. ACTVS III. SCENA III.
 
 IVDAS, MELCHIAS.
 
@@ -1574,7 +1574,7 @@ Nos intrò eamus, ibique illos expectemus,
 
 Dum redeant. Mel. Vbi voles, sequor.
 
-# 16. ACTVS III. SCENA IV.
+## 16. ACTVS III. SCENA IV.
 
 SADOCVS, AZARIAS.
 
@@ -1662,7 +1662,7 @@ Se dignum, aequum est, vt ferat. Sad. Est vt dicis. quod intriuit
 
 Ipsa, omne id erit ei exedendum. Az. Praecedo, sequere.
 
-# 17. ACTVS IV. SCENA I.
+## 17. ACTVS IV. SCENA I.
 
 IOACHIMVS, SVSANNA, AZARIAS,
 
@@ -1754,7 +1754,7 @@ Nam iamdudum nos operiuntur, sat scio.
 
 Aza. Sic est, pergamus. Sus. Vt lubet, praecedite, sequimur.
 
-# 18. ACTVS IV. SCENA II.
+## 18. ACTVS IV. SCENA II.
 
 SIMEON, MELCHIAS, IVDAS.
 
@@ -1852,7 +1852,7 @@ Tam honesta, tam inhonestum facinus esse ortum! quid
 
 Bene facitis, quod accersiti adestis, sequimini me intrò.
 
-# 19. ACTVS IV. SCENA III.
+## 19. ACTVS IV. SCENA III.
 
 SOSIA, SYRA.
 
@@ -1938,7 +1938,7 @@ Stimulum calces? Sed satis hic fabulati, atque
 
 Huius expectemus fabula.
 
-# 20. ACTVS IV. SCENA IV.
+## 20. ACTVS IV. SCENA IV.
 
 MELCHIAS, SIMEON, SVSANNA, IVDAS.
 
@@ -2090,7 +2090,7 @@ Et de morte hominis nunquam longa satis cunctatio est.
 
 Ehem, sequere me Susanna. Sus. Sequor, ac lubens.
 
-# 21. ACTVS V. SCENA I.
+## 21. ACTVS V. SCENA I.
 
 DANIEL.
 
@@ -2162,7 +2162,7 @@ Deducitur ad necem. Nae ego
 
 Huc veni in tempore. Prodibo illis obuiam.
 
-# 22. ACTVS V SCENA II.
+## 22. ACTVS V SCENA II.
 
 IOACHIMVS, SVSANNA, DANIEL, MELCHIAS, IVDAS.
 
@@ -2278,7 +2278,7 @@ Mel. Nae tu magno conatu magnas nugas adferes.
 
 Aliosque populi primates: Opportunè admodum.
 
-# 23. ACTVS V. SCENA III.
+## 23. ACTVS V. SCENA III.
 
 DANIEL, SIMEON, MELCHIAS, IVDAS, IOACHIMVS, SVSANNA.
 
@@ -2520,7 +2520,7 @@ Sus. Pro hoc tuo erga me beneficio Daniel tibi
 
 Gratias ago, atque actura sum, dum vixero.
 
-# 24. ACTVS V. SCENA IV.
+## 24. ACTVS V. SCENA IV.
 
 DANIEL, SIMEON, ANANIAS. MELCHIAS, IVDAS.
 
@@ -2650,7 +2650,7 @@ Sternite, proculcate, atque trucidate homines sceleratißimos.
 
 Surgamus, nunc meque intrò, si videtur, sequimini.
 
-# 25. ACTVS V. SCENA V.
+## 25. ACTVS V. SCENA V.
 
 SADOCVS, MELCHIAS, IVDAS, AZARIAS.
 
@@ -2716,7 +2716,7 @@ Aza. Quid? Sad. Quò abstrahemus corpora! Aza. Ea hîc relinquamus
 
 Conspicienda, atque etiam conculcanda omnibus? Sad. Placet.
 
-# 26. PERORATIO.
+## 26. PERORATIO.
 
 Iambici.
 

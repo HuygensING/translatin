@@ -124,7 +124,7 @@ re Troianum deinceps bellum exortum est.
 
 Primus huius spectaculi Actus.
 
-# 2. Prologus silentium a spectatoribus precatur.
+## 2. Prologus silentium a spectatoribus precatur.
 
 ≤folio=Aii≥
 
@@ -343,7 +343,7 @@ Pugna deum, lites dirime fortuitas.
 
 
 
-# 3. ACTVS SECVNDVS.
+## 3. ACTVS SECVNDVS.
 
 Paris se uoluntarium ostendit ad louis mandata, licet impar ad tantum
 iudicium.
@@ -973,7 +973,7 @@ Ad sonitum cytharae uarios intendere motus,
 
 Nil nos cunctamur, fundat modo fistula cantum.
 
-# 4. ACTVS QVARTVS.
+## 4. ACTVS QVARTVS.
 
 ≤folio=C≥
 

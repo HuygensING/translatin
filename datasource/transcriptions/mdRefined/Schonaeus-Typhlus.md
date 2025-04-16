@@ -12,7 +12,7 @@ TYPHLVS.
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 TYPHLVS.
 
@@ -40,7 +40,7 @@ ISACHAR.
 
 AZARIAS.
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -100,7 +100,7 @@ Paucis vobis commemorabit comoediam.
 
 Auscultate oro, atque animum aduertite sedulò.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 Qvi caecus erat natus, Iesu beneficio
 
@@ -118,7 +118,7 @@ Iesum. Qui illum à Iudaeis reiectum, in suum
 
 Statim benignè, & comiter recipit gregem.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 TYPHLVS.
 
@@ -172,7 +172,7 @@ Multò omnium grauißimus!
 
 Sed crepuit ostium. tacebo, vt qui sit qui exit, audiam.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 SIMEON, ANNA, TYPHLVS.
 
@@ -310,7 +310,7 @@ Deinde redi. est quod mandem ampliùs.
 
 ≤page=134≥
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 IESVS, IOANNES, PETRVS.
 
@@ -486,7 +486,7 @@ Sed ad caecum nunc accedamus. Faxo vt prodigiosum, &
 
 ≤line=165≥ Nunquam antè auditum videatis miraculum.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 TYPHLVS, IESVS, IGNATIVS, MYDA.
 
@@ -566,7 +566,7 @@ Ty. Ad piscinam Siloe rectâ me deduces viâ. My. Faciam.
 
 Ig. Vtinam tuo id fiat bono. Ty. Fiet. Bene vale. \-\--
 
-# 8. ACTVS I. SCENA V.
+## 8. ACTVS I. SCENA V.
 
 IGNATIVS, MELCHIAS, IVDAS.
 
@@ -683,7 +683,7 @@ Ig. Vt lubet. Nihil & ego vos moror.
 
 ≤page=140≥
 
-# 9. ACTVS II. SCENA I.
+## 9. ACTVS II. SCENA I.
 
 TYPHLVS, IGNATIVS.
 
@@ -799,7 +799,7 @@ Opportunè huc video accedentes Iudam, & Melchiam.
 
 ≤line=305≥ Nullos aequè atque hos nunc mihi cupiam dari obuios.
 
-# 10. ACTVS II. SCENA II.
+## 10. ACTVS II. SCENA II.
 
 IVDAS, MELCHIAS, IGNATIVS.
 
@@ -863,7 +863,7 @@ Totumque perambulo oppidum:
 
 Hoc tam prodigiosum factum narraturus quibuslibet.
 
-# 11. ACTVS II. SCENA III.
+## 11. ACTVS II. SCENA III.
 
 IVDAS, MELCHIAE.
 
@@ -971,7 +971,7 @@ Opus. Mel. Agedum, laudo consilium tuum. Eamus
 
 Quos, quo volumus, facile impulerimus. Iud. Placet.
 
-# 12. ACTVS II. SCENA IV.
+## 12. ACTVS II. SCENA IV.
 
 SIMON, TYPHLVS, ANNA.
 
@@ -1063,7 +1063,7 @@ Agamus. Ty. Rectè, atque piè. Sim. Praecedo, sequimini.
 
 ≤page=146≥
 
-# 13. ACTVS III. SCENA I.
+## 13. ACTVS III. SCENA I.
 
 CLEOPHAS, IGNATIVS.
 
@@ -1171,7 +1171,7 @@ Ig. Profecto is est ipsus. Probè hominem noui.
 
 Paulisper hic subsistamus, & operiamur eum accedentem.
 
-# 14. ACTVS III. SCENA II.
+## 14. ACTVS III. SCENA II.
 
 TYPHLVS, IGNATIVS, CLEOPHAS.
 
@@ -1260,7 +1260,7 @@ Video non ita procul hinc stantes, nescio
 ≤line=510≥ Quos. Ad eos ibo, atque rogabo, vt hominem istum commonstrent
 mihi.
 
-# 15. ACTVS III. SCENA III.
+## 15. ACTVS III. SCENA III.
 
 IVDAS, MELCHIAS, TYPHLVS.
 
@@ -1360,7 +1360,7 @@ Ibimus vnà tecum; nam qui sint, me nouisse existimo.
 
 ≤line=555≥ Ty. Eamus igitur illis obuiam.
 
-# 16. ACTVS III. SCENA IV.
+## 16. ACTVS III. SCENA IV.
 
 ISACHAR, AZARIAS, MELCHIAS, IVDAS, TYPHLVS.
 
@@ -1514,7 +1514,7 @@ Nullus erit, qui non meritò hoc illi euenisse
 
 ≤line=625≥ Sublato, cunsuluimus nobis. Is. Sic est. praecedo, sequimini.
 
-# 17. ACTVS IV. SCENA I.
+## 17. ACTVS IV. SCENA I.
 
 CLEOPHAS, IGNATIVS.
 
@@ -1630,7 +1630,7 @@ Esse. Ig. Ego quoque hoc hominum gens odi peßimè.
 
 ≤page=155≥
 
-# 18. ACTVS IV. SCENA II.
+## 18. ACTVS IV. SCENA II.
 
 ISACHAR, IVDAS, SIMEON, ANNA.
 
@@ -1767,7 +1767,7 @@ Nota est omnibus. At eccum huc aduenientem, quem
 
 ≤line=740≥ Vocari iußimus. Isa. Video. Hui tam citò?
 
-# 19. ACTVS IV. SCENA III.
+## 19. ACTVS IV. SCENA III.
 
 TYPHLVS, ISACHAR, IVDAS.
 
@@ -1907,7 +1907,7 @@ Furcifer. Nae tu haec magno tuo malo
 
 ≤line=805≥ Dixisse scies propediem. Ty. Nihil ego vestras minas moror.
 
-# 20. ACTVS IV. SCENA IV.
+## 20. ACTVS IV. SCENA IV.
 
 ISACHAR, IVDAS.
 
@@ -1999,7 +1999,7 @@ Intrò nunc concedamus. Iud. Vbi voles, I prae, sequor.
 
 ≤page=161≥
 
-# 21. ACTVS V. SCENA I.
+## 21. ACTVS V. SCENA I.
 
 IGNATIVS, CLEOPHAS.
 
@@ -2091,7 +2091,7 @@ Est certè, nihil potuit accidere opportunius.
 
 Appellabimus eum, vbi propius accesserit.
 
-# 22. ACTVS V. SCENA II.
+## 22. ACTVS V. SCENA II.
 
 TYPHLVS, CLEOPHAS, IGNATIVS.
 
@@ -2171,7 +2171,7 @@ Subueniam operâ. Cl. Ego quoque vnà eo:
 
 Et spero nos eum inuenturos alicubi.
 
-# 23. ACTVS V. SCENA III.
+## 23. ACTVS V. SCENA III.
 
 IESVS, IOANNES, PETRVS.
 
@@ -2227,7 +2227,7 @@ Et de quo hic nobiscum es locutus. Ies. Is
 
 Accedentem, Nam me quaerit, meque sibi dari expetit.
 
-# 24. ACTVS V. SCENA IIII.
+## 24. ACTVS V. SCENA IIII.
 
 TYPHLVS, CLEOPHAS, IESVS, MELCHIAS.
 

@@ -124,7 +124,7 @@ DALILA ICHORVS.
 
 ≤page=94≥
 
-# 1. ACTVS PRIMVS
+## 1. ACTVS PRIMVS
 
 
 
@@ -510,7 +510,7 @@ Et mille tibi spicula figet,
 
 ≤page=101≥
 
-# 3. ACTVS SECVNDVS.
+## 3. ACTVS SECVNDVS.
 
 SAMPSON.
 
@@ -798,7 +798,7 @@ Dalila pellex, inclyte Sampson,
 
 Inclyte Sampson!
 
-# 5. ACTVS TERTIVS
+## 5. ACTVS TERTIVS
 
 DALILA, SAMPSON.
 
@@ -1170,7 +1170,7 @@ Dicere monstrum.
 
 ≤page=113≥
 
-# 7. ACTVS QVARTVS.
+## 7. ACTVS QVARTVS.
 
 BARZANES PALAESTINVS
 
@@ -1386,7 +1386,7 @@ Posthac crimine perfido,
 
 
 
-# 9. ACTVS QVINTVS.
+## 9. ACTVS QVINTVS.
 
 
 

@@ -22,8 +22,8 @@ Table of contents
 | element | attribute | value | amount
 | --- | --- | --- | ---
 | [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-TEI.html) | [lang](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#lang) | `lat` | 118
-| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 2858
-| | | `level2` | 32
+| [div](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-div.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `level1` | 354
+| | | `level2` | 2536
 | | | `notes` | 38
 | [list](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-list.html) | [type](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#type) | `ordered:arabic` | 129
 | | | `ordered:loweralpha` | 2
@@ -935,7 +935,7 @@ Table of contents
 | | | `textus Graecus` | 60
 | [name](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html) |   |  | 236
 | [note](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html) | [id](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#id) | `X` | 3109
-| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 189963
+| [p](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html) |   |  | 189877
 | [profileDesc](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html) |   |  | 118
 | [ptr](https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-ptr.html) | [n](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ATTS.html#n) | `N` | 290
 | | | `NN` | 2035

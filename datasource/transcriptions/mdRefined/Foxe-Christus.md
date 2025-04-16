@@ -219,7 +219,7 @@ Christus Triumphans: Comoedia Apocalyptica, Autore JOANNE FOXO Anglo.
 
 
 
-# 1. PROLOGVS.
+## 1. PROLOGVS.
 
 SAlutem vobis, fructumque ex la∣boribus;
 
@@ -313,7 +313,7 @@ nunc summam, summo com∣pendio.
 
 Breve argumentum inquam, haud bre∣vis Comoediae.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 DUos Evae gnatos accusante Satana,
 
@@ -362,7 +362,7 @@ Vestitur. Strepit undique theatrum plausibus.
 
 ≤page=6|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/25:6?vid=49333≥
 
-# 4. DRAMATIS PERSONAE.
+## 4. DRAMATIS PERSONAE.
 
 Eva
 
@@ -446,7 +446,7 @@ Hierologus concionator
 
 **Chorus quinque virginum.**
 
-# 6. Actus I. Scena I. Trimetri Iambici.
+## 6. Actus I. Scena I. Trimetri Iambici.
 
 Eva.
 
@@ -507,7 +507,7 @@ Boni, malíve, sciam.
 
 ≤page=9|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/28:7?vid=49333≥
 
-# 7. Actus I. Scena II. Trimetri.
+## 7. Actus I. Scena II. Trimetri.
 
 Maria. Eva.
 
@@ -890,7 +890,7 @@ Ipse est, bilem quantam spirans? Nos ne pariter
 
 Unco praecipitet suo.
 
-# 8. Actus I. Scena III. Ejusdem rationis.
+## 8. Actus I. Scena III. Ejusdem rationis.
 
 Satan, Psychephonus, Adopylus.
 
@@ -1082,7 +1082,7 @@ Psychen meam ductat? domi ac foris
 
 Videns nolensque mulctor.
 
-# 9. Actus I. Scena IV. Tetrametri Acatalectici.
+## 9. Actus I. Scena IV. Tetrametri Acatalectici.
 
 Christus redivivus, Psyche, Satan, Psyche∣phonus, Adopylus, Thanatus,
 Raphael angelus.
@@ -1268,7 +1268,7 @@ Feremur in paradisum pariter, fratrem ubi Soma tuum
 
 Laeta expectabis interim.
 
-# 10. Actus II. Scena I. Senarii.
+## 10. Actus II. Scena I. Senarii.
 
 Raphael.
 
@@ -1322,7 +1322,7 @@ perfectis jam rebus, ad herum me revortier
 
 Tempus monet, ubi nihil hic cur mane∣am aliud est.
 
-# 11. Actus II. Scena II. Acatalectici.
+## 11. Actus II. Scena II. Acatalectici.
 
 Archiereus. Nomologus. Saulus. Polyharpax scriba.
 
@@ -1645,7 +1645,7 @@ Nobis producat ad necem. Os ita aliis oppilabimus.
 
 Hoc principiò nunc exequar. Ades No∣mologe mecum unà.
 
-# 12. Actus II. Scena III. Senarii.
+## 12. Actus II. Scena III. Senarii.
 
 Petrus.
 
@@ -1702,7 +1702,7 @@ Spectent, illius{que} praedicent potentiam.
 
 ≤page=30|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/49:8?vid=49333≥
 
-# 13. Actus II. Scena IV. Trimetri Iambici.
+## 13. Actus II. Scena IV. Trimetri Iambici.
 
 Anabasius.
 
@@ -2126,7 +2126,7 @@ POP.
 
 Abite inquam.
 
-# 14. Actus III. Scena I. Iamb. Trimetri.
+## 14. Actus III. Scena I. Iamb. Trimetri.
 
 Ecelesia.
 
@@ -2174,7 +2174,7 @@ Sed quàm infoeliciter huc processi ho∣die? Venit
 ≤page=38|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/57:9?vid=49333≥Nomocrates,
 meus lictor. Quid a∣gam?
 
-# 15. Actus III. Scena II. Trochaici.
+## 15. Actus III. Scena II. Trochaici.
 
 Nomocrates. Ecclesia.
 
@@ -2274,7 +2274,7 @@ Satanae{que} quod permiseram. At{que} ec∣cum, exire video.
 
 ≤page=40|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/59:9?vid=49333≥
 
-# 16. Actus III. Scena III. Iambici Acatalectici.
+## 16. Actus III. Scena III. Iambici Acatalectici.
 
 Psychephonus, Nomocrates, Thanatus lict. Adopylus, Ecclesia.
 
@@ -2572,7 +2572,7 @@ Interim ego nimis cesso haec natis si∣mul impartire gaudia.
 
 ≤page=44|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/63:9?vid=49333≥
 
-# 17. Actus III. Scena IV. Senarii.
+## 17. Actus III. Scena IV. Senarii.
 
 Dioctes, Anabasius, Pornapolis meretrix.
 
@@ -2681,7 +2681,7 @@ Anabasi adsis & ope & consilio simul.
 
 ≤page=47|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/66:9?vid=49333≥
 
-# 18. Actus III. Scena V. Ejusdem rationis.
+## 18. Actus III. Scena V. Ejusdem rationis.
 
 Ecclesia, Paulus conversus.
 
@@ -2899,7 +2899,7 @@ Paratus sum, omnibus ut prosim,[note
 42](https://quod.lib.umich.edu/e/eebo/A40366.0001.001?id=DLPS42;lvl=1;note=inline;rgn=div1;view=trgt)
 debitor.
 
-# 19. Actus III. Scena VI. Eadem cum superioribus.
+## 19. Actus III. Scena VI. Eadem cum superioribus.
 
 Psychephonus.
 
@@ -2946,7 +2946,7 @@ Antiquae & notitiae & militiae à puero particeps.
 
 ≤page=53|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/72:9?vid=49333≥
 
-# 20. Actus III. Scena VII. Quadrata, Anapaestica, Catalectica.
+## 20. Actus III. Scena VII. Quadrata, Anapaestica, Catalectica.
 
 Anabasius, Psychephonus.
 
@@ -3170,7 +3170,7 @@ Mecum igi∣tur si
 
 Venias, in via dixero.
 
-# 21. Actus IV. Scena I. Trimetri.
+## 21. Actus IV. Scena I. Trimetri.
 
 Dioctes.
 
@@ -3217,7 +3217,7 @@ O fors, eccum ipsum de quo agebam, video.
 
 ≤page=58|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/77:10?vid=49333≥
 
-# 22. Actus IV. Scena II. Octonarii, unus Senarius.
+## 22. Actus IV. Scena II. Octonarii, unus Senarius.
 
 Anabasius. Dioctes.
 
@@ -3428,7 +3428,7 @@ Spectatores, si quis quaerat, ego non ad∣fui.
 
 ≤page=61|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/80:10?vid=49333≥
 
-# 23. Actus IV. Scena III. Trimetri.
+## 23. Actus IV. Scena III. Trimetri.
 
 Ecclesia.
 
@@ -3507,7 +3507,7 @@ Haerere diutius, ne quod nolim vi∣deam.
 
 ≤page=64|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/83:10?vid=49333≥
 
-# 24. Actus IV. Scena IV. Trimetri.
+## 24. Actus IV. Scena IV. Trimetri.
 
 Satan solutus. Anabasius. Dioctes. Psychephonus. Pseudamnus.
 
@@ -3929,7 +3929,7 @@ Satanam modò stertere non sinunt haec tempora.
 
 ≤page=74|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/93:10?vid=49333≥
 
-# 25. Actus IV. Scena V. Catalectici Trochaioi.
+## 25. Actus IV. Scena V. Catalectici Trochaioi.
 
 Ecclesia. Africus. Europus.
 
@@ -3992,7 +3992,7 @@ Sed quis egreditur, irrumpens tam im∣mauiter?
 
 ≤page=76|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/95:10?vid=49333≥
 
-# 26. Actus IV. Scena VI. Trimetri.
+## 26. Actus IV. Scena VI. Trimetri.
 
 Dioctes. Africus. Europus.
 
@@ -4234,7 +4234,7 @@ Cubiculum. Eia, prius si memorassem, adventassiet.
 
 ≤page=82|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/101:10?vid=49333≥
 
-# 27. Actus IV. Scena VIII. Ejusdem rationis.
+## 27. Actus IV. Scena VIII. Ejusdem rationis.
 
 Pornapolis, meretrix Babylon. Pseudam∣nus. Psychephonus. Ecclesia.
 
@@ -4596,7 +4596,7 @@ Lunaticam hanc, atque ad Bethlemi∣tas insanam abducite,
 
 Meque hinc sequimini.
 
-# 29. Actus V. Scena I. Senarii.
+## 29. Actus V. Scena I. Senarii.
 
 Satan. Psychephonus. Thanatus lictor. Adopylus. Europus. Hierologus.
 
@@ -4859,7 +4859,7 @@ Francisci, &c.
 
 ≤page=93|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/112:11?vid=49333≥
 
-# 30. Actus V. Scena II. Trochaici Tetrametri Catalectici.
+## 30. Actus V. Scena II. Trochaici Tetrametri Catalectici.
 
 Pseudamnus. Satan palliatus. Psyche∣phonus hypocrita.
 
@@ -4992,7 +4992,7 @@ Sed Pornapolim video. Nos abite.
 
 ≤page=97|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/116:11?vid=49333≥
 
-# 31. Actus V. Scena III. Iambici Trimetri,
+## 31. Actus V. Scena III. Iambici Trimetri,
 
 Pornapolis. Pseudamnus. Anabasius.
 
@@ -5244,7 +5244,7 @@ Vix sum pedum compos.
 
 ≤page=103|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/122:11?vid=49333≥
 
-# 32. Actus V. Scena IV. Scazontes Iambici.
+## 32. Actus V. Scena IV. Scazontes Iambici.
 
 Africus. Europus. Ecclesia.
 
@@ -5479,7 +5479,7 @@ Ad nuptias expectant, quoad veni∣at.
 
 ≤page=109|https://quod.lib.umich.edu/e/eebo/A40366.0001.001/128:11?vid=49333≥
 
-# 33. Actus V. Scena V. Scazontes Iambici.
+## 33. Actus V. Scena V. Scazontes Iambici.
 
 **Chorus 5. Virginum. Ecclesia. Europus. Africus.**
 

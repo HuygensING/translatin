@@ -79,7 +79,7 @@ obruuntur.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 ANGELVS.
 
@@ -105,7 +105,7 @@ ARBOGASTES Chaldaeus.
 
 **CHORVS.**
 
-# 3. ACTVS PRIMVS.
+## 3. ACTVS PRIMVS.
 
 DANIEL
 
@@ -617,7 +617,7 @@ Aura sacros meditatur hymnos.
 
 „ In propria inueniet ruina.
 
-# 5. ACTVS SECVNDVS.
+## 5. ACTVS SECVNDVS.
 
 NABVCHODONOSOR
 
@@ -1215,7 +1215,7 @@ Fati nescia fixeris,
 
 Vltor decutiet Deus.
 
-# 7. ACTVS TERTIVS.
+## 7. ACTVS TERTIVS.
 
 MALAZAR Princeps
 
@@ -2065,7 +2065,7 @@ Signant triumphos in medijs focis
 
 
 
-# 9. ACTVS QVARTVS.
+## 9. ACTVS QVARTVS.
 
 BALTAZAR, ANANIAS, AZARIAS, MISAEL
 
@@ -2735,7 +2735,7 @@ Nectitque pias gloria lauros.
 
 
 
-# 11. ACTVS QVINTVS.
+## 11. ACTVS QVINTVS.
 
 NABVCHODONOSOR
 

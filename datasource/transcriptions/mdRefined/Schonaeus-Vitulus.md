@@ -10,7 +10,7 @@ VITVLVS. FABVLA LVDICRA.
 
 
 
-# 1. ACTORVM NOMINA.
+## 1. ACTORVM NOMINA.
 
 COROEBVS, rusticus.
 
@@ -30,7 +30,7 @@ SOSTRATA, Chremetis vxor.
 
 BERARDVS, Exorcista.
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Iambici.
 
@@ -84,7 +84,7 @@ Aduertite animos, atque cum silentio
 
 Auscultate obsecro argumentum fabulae.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 Trimetri Iambici.
 
@@ -116,7 +116,7 @@ In gratiam cum vxore decepta dolo.
 
 ≤page=164≥
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 COROEBVS.
 
@@ -194,7 +194,7 @@ Laborantem conspiciat. Mulctrale igitur hoc
 
 ≤line=35≥ Mihi defricandum, ac abluendum sumam. Sic agam.
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 CANTHARA, COROBBVS.
 
@@ -352,7 +352,7 @@ Excipieris, nisi reuertaris vesperi.
 
 Appellare soles? \-\--
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 CANTHARA.
 
@@ -404,7 +404,7 @@ Vt mihi cereuisia promat iubebo. mox
 
 Vae illius scapulis, quas tam molles, atque pultem reddam ei.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 COROEBVS.
 
@@ -446,7 +446,7 @@ Conspicor: ipse vt mihi sim adiutor necesse est. Id agam.
 
 Nunc hinc recta via ad forum me confero.
 
-# 8. ACTVS II. SCENA I.
+## 8. ACTVS II. SCENA I.
 
 BACCHIS, SYRA.
 
@@ -546,7 +546,7 @@ Loquenda detinebimus. Syr. Oh, rectè, placet.
 
 ≤page=172≥
 
-# 9. ACTVS II. SCENA II.
+## 9. ACTVS II. SCENA II.
 
 COROEBVS.
 
@@ -586,7 +586,7 @@ Prius, quam in diuersorio
 
 ≤line=205≥ Hoc proximo famem, ac sitim sedauero.
 
-# 10. ACTVS II. SCENA III.
+## 10. ACTVS II. SCENA III.
 
 BACCHIS, SYRA, COROEBVS.
 
@@ -833,7 +833,7 @@ Sy. Spectaculum risu dignum. Ba Extrahamus pecus.
 
 Ne fortè expergiscatur, frigus sentiens.
 
-# 11. ACTVS II. SCENA IV.
+## 11. ACTVS II. SCENA IV.
 
 BACCHIS, SYRA.
 
@@ -911,7 +911,7 @@ Accedentem? Syr. Quidni. Ebrius est totus. Bac. Ego
 
 Meo hunc circumueniam modo.
 
-# 12. ACTVS II. SCENA V.
+## 12. ACTVS II. SCENA V.
 
 CHREMES, BACCHIS, SYRA.
 
@@ -1057,7 +1057,7 @@ Vbi noster hic innotuerit fucus. Nunc ostio
 
 Clauso, nos ad somnum componamus. Syr. Rectè mones.
 
-# 13. ACTVS III. SCENA I.
+## 13. ACTVS III. SCENA I.
 
 CANTHARA.
 
@@ -1113,7 +1113,7 @@ Sed fortasse aliud erit, quod illum sit remoratum tam diu.
 
 Nimium vereor: vbi vbi est, celari non poterit diu.
 
-# 14. ACTVS III. SCENA II.
+## 14. ACTVS III. SCENA II.
 
 CHREMES, PINALDVS, DORIO, COROEBVS.
 
@@ -1209,7 +1209,7 @@ Chreme hinc abi tuo cum vitulo, Dorio, sequere
 
 Me: nolim mihi cum isthoc monstro quicquiam esse negotij.
 
-# 15. ACTVS III. SCENA III.
+## 15. ACTVS III. SCENA III.
 
 SOSTRATA, CHREMES, COROEBUS.
 
@@ -1299,7 +1299,7 @@ Nolim mihi rem esse cum incantationibus.
 
 ≤page=187≥
 
-# 16. ACTVS III. SCENA IV.
+## 16. ACTVS III. SCENA IV.
 
 BERALDVS, CHREMES, COROEBVS.
 
@@ -1353,7 +1353,7 @@ Toto hoc aperiam die, etiamsi pulsent plurimi.
 
 ≤page=188≥
 
-# 17. ACTVS IV. SCENA I.
+## 17. ACTVS IV. SCENA I.
 
 COROEBVS.
 
@@ -1395,7 +1395,7 @@ Clausum est, pulsabo. Nam verecundia homini invtilis
 
 Est, dum neceßitas vrget, durum, vt ferunt, telum.
 
-# 18. ACTVS IV. SCENA II.
+## 18. ACTVS IV. SCENA II.
 
 COROEBVS, CHREMES
 
@@ -1471,7 +1471,7 @@ Hanc rem illi impertiam. Cor. Ego intrò eo, nolo me quispiam
 
 ≤line=600≥ Amictu hoc inuolutum conspiciat: nam me pudet mei.
 
-# 19. ACTVS IV. SCENA III.
+## 19. ACTVS IV. SCENA III.
 
 PINALDVS, CHREMES, BERALDVS.
 
@@ -1607,7 +1607,7 @@ Faxo magis rideas. vbi vitulum videris, tuo
 
 Exorcismo in hominem commutatum nobis. Ber. Sequor.
 
-# 20. ACTVS IV. SCENA IV.
+## 20. ACTVS IV. SCENA IV.
 
 SYRA, BACCHIS, PINALDVS.
 
@@ -1695,7 +1695,7 @@ Erit apparandum tibi. Mox belli aderunt homunculi.
 
 Hîc nobis ridendo, atque iocando tranfigendus est dies.
 
-# 21. ACTVS V SCENA I.
+## 21. ACTVS V SCENA I.
 
 BERALDVS, CHREMES.
 
@@ -1755,7 +1755,7 @@ Eo viâ: nec toto hoc quoquam progrediar die:
 
 Ita me pudet mei. \-\--
 
-# 22. ACTVS V. SCENA II.
+## 22. ACTVS V. SCENA II.
 
 SOSTRATA, COROEBVS, CHREMES
 
@@ -1884,7 +1884,7 @@ Deducite. pedibus enim iam insistere nequeo, planè
 
 Delumbatus, à praedonibus. Chr. Oh, rectè. isthuc tene.
 
-# 23. ACTVS V. SCENA III.
+## 23. ACTVS V. SCENA III.
 
 CANTHARA.
 
@@ -1936,7 +1936,7 @@ Hinc ingrediar, ancillae vt isthuc indicem:
 
 Dein continuò rursus prodibo foras.
 
-# 24. ACTVS V. SCENA IV.
+## 24. ACTVS V. SCENA IV.
 
 SOSTRATA, COROEBVS, CHREMES, CANTHARA.
 

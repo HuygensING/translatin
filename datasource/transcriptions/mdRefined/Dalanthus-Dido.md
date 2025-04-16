@@ -1089,7 +1089,7 @@ Quaque fide spero, protege, quaque potes.
 
 
 
-# 1. DRAMATIS PERSONAE.
+## 1. DRAMATIS PERSONAE.
 
 
 
@@ -1127,7 +1127,7 @@ CHORVS, Nympharum actu secundo, Punicarum actu quinto.
 
 ≤page=19≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Carmen iambicum trimetrum.
 
@@ -1231,7 +1231,7 @@ Fallatur, hac supersedebimus modò:
 
 Persona enim quae prima scenam deseret.
 
-# 3. Tragoediae argumentum ob oculos subijciet.
+## 3. Tragoediae argumentum ob oculos subijciet.
 
 ≤line=50≥ Nunc ora & aures huc & animos vertite:
 
@@ -1265,7 +1265,7 @@ Quas hic Poëta de integro faciet nouas,
 
 Spectandae, an è loco mouendae sint prius.
 
-# 4. Actus .I. Scena .I.
+## 4. Actus .I. Scena .I.
 
 VENVS.
 
@@ -1477,7 +1477,7 @@ Hausura, quo res omnis haereat loco.
 
 Spem maximam artes dant mihi Cupidinis.
 
-# 5. Scena .II.
+## 5. Scena .II.
 
 lambicum Trimetrum.
 
@@ -1585,7 +1585,7 @@ Alimoniam aegritudini subiecero.
 
 
 
-# 6. Scena .III.
+## 6. Scena .III.
 
 Iambicum Trim. admistis Dimetris.
 
@@ -1913,7 +1913,7 @@ Quaecunque iussi perferas. AN. Curauero.
 
 ≤page=31≥
 
-# 7. Scena. IIII.
+## 7. Scena. IIII.
 
 lambicum Trimetrum.
 
@@ -2175,7 +2175,7 @@ Vincit exiguo iaculo superbum
 
 ≤page=35≥
 
-# 9. Actus .II. Scena .I.
+## 9. Actus .II. Scena .I.
 
 Carmen iambicum trimetrum.
 
@@ -2321,7 +2321,7 @@ Venationis eminent insignia.
 
 Properè est volandum, vt iussa Regis exequar.
 
-# 10. Scena .II.
+## 10. Scena .II.
 
 Carmen iambicum trimetrum.
 
@@ -2457,7 +2457,7 @@ DI. Parumper ò ciues mei subsistite,
 
 Donec Phryges se in ordinem collegerint.
 
-# 11. Scena III.
+## 11. Scena III.
 
 lambicum Trimetrum.
 
@@ -2477,7 +2477,7 @@ Mihi est, libenter imperata tua exequor.
 
 MI Obtempero tibi, ac lubens, Rex optime.
 
-# 12. Scena IIII.
+## 12. Scena IIII.
 
 Carmen Anapaesticum.
 
@@ -2639,7 +2639,7 @@ Hic dies fato miseram supremo
 
 ≤line=695≥ Perdit Elisam.
 
-# 14. Actus. III. Scena .1.
+## 14. Actus. III. Scena .1.
 
 lambicum trimetrum mistum anapaestico.
 
@@ -2843,7 +2843,7 @@ Celanda, tellus sustinet quos Africa.
 
 Emerserit, vobis libens impertiam.
 
-# 15. Scena .II.
+## 15. Scena .II.
 
 Carmen iambicum trimetrum commistum dimetro & anapaestico.
 
@@ -3159,7 +3159,7 @@ Agnosco dium maximi ornatum Iouis,
 
 Agnosco collegae mei talaria.
 
-# 16. Scena. III.
+## 16. Scena. III.
 
 lambicum Trimetrum.
 
@@ -3233,7 +3233,7 @@ Hîc esto nostrae nuncius sententiae.
 
 Et re peracta Ditis aulae seruiam.
 
-# 17. Scena IIII.
+## 17. Scena IIII.
 
 Carmen iambicum trimetrum.
 
@@ -3451,7 +3451,7 @@ Cypridis arma.
 
 
 
-# 19. Actus. IIII. Scena. I.
+## 19. Actus. IIII. Scena. I.
 
 Carmen iambicum trimetrum.
 
@@ -3585,7 +3585,7 @@ Se perfida ipse cum cohorte proripit.
 
 Perij, nisi pedibus peperero perfugium.
 
-# 20. Scena. II.
+## 20. Scena. II.
 
 lambicum trimetrum mistum dimetro.
 
@@ -3694,7 +3694,7 @@ Qualis famelica monte sub Gangetico
 
 Pingues iuuencos Tigris inter aestuat.
 
-# 21. Scena. III.
+## 21. Scena. III.
 
 lambicum Trimetrum.
 
@@ -4132,7 +4132,7 @@ Animo malè est, heu nocte opaca deuoror
 
 ≤page=65≥
 
-# 22. Scena. IIII.
+## 22. Scena. IIII.
 
 Iambicum trimetrum.
 
@@ -4288,7 +4288,7 @@ Nil habet pensi, ruit in profundos
 
 ≤line=1470≥ Obuius enses.
 
-# 24. Actus. V. Scena .I.
+## 24. Actus. V. Scena .I.
 
 Carmen iambicum trimetrum.
 
@@ -4406,7 +4406,7 @@ Ipsa exilit humeros onusta stragulis,
 
 Exaestuans en occupat totam pauor.
 
-# 25. Scena. II.
+## 25. Scena. II.
 
 lambicum trimetrum mistum anapaestico.
 
@@ -4626,7 +4626,7 @@ Praestare adultera teneatur coniugi.
 
 Sic sic iuuat sub ima mergi tartara.
 
-# 26. Scena. III.
+## 26. Scena. III.
 
 lambicum Trimetrum.
 

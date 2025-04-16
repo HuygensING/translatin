@@ -82,7 +82,7 @@ Coloniae
 
 
 
-# 1. PERSONAE DRAMATIS.
+## 1. PERSONAE DRAMATIS.
 
 Sigefridus, Comes Palatinus.
 
@@ -96,7 +96,7 @@ Duo Ephebi Genovefae.
 
 Duo Venatores.
 
-# 2. ARGUMENTUM DRAMATIS.
+## 2. ARGUMENTUM DRAMATIS.
 
 Sigefridus, Comes Palatinus, postquam Genovefa, Brabantiae Ducis Filia,
 ejus Conjux, aliquot annis sterilis, post votum B. Virgini fatum,
@@ -230,18 +230,18 @@ Triumphe last erklingen.
 
 ≤page=3≥
 
-# 3. ACTUS I
+## 3. ACTUS I
 
 Hinc Sigefridus redux à suis cum plausu excipitur; indè
 
 Genovefa in eremo exhibetur.
 
-# 4. SCENA I.
+## 4. SCENA I.
 
 Sigefridus, devictis Mauris, redux; jam proximus aulae suae, cum Milite
 suo triumphum ob reportatam victoriam celebrat.
 
-# 5. Personae. Sigefridus cum Ducibus & Milite suo.
+## 5. Personae. Sigefridus cum Ducibus & Milite suo.
 
 *Sigefr*. Tandem evolutas post tot annorum vices,
 
@@ -385,11 +385,11 @@ Generosa poscant acta, pensandum est magis.
 
 Relicta quondam tecta visuntur propè.
 
-# 6. SCENA II.
+## 6. SCENA II.
 
 Genovefa, doloris vehementiâ penè obruta, caelitus recicatur.
 
-# 7. Personae. Genovefa, & caelestes Genii.
+## 7. Personae. Genovefa, & caelestes Genii.
 
 *Genovefa suo dolori tristi citharâ praeludit, tum canit; estque Musica
 per totum*.
@@ -444,7 +444,7 @@ Unzahlbar wird der Thränen Hauff/
 
 Sie täglich sich vermehren
 
-≤page=6≥(
+≤page=6≥
 
 2\. Von Leid bin müd/ und ohn Geblüdt:
 
@@ -509,7 +509,7 @@ Wider Hoͤll und Welt gestritten:
 
 Heut sich enden wird dein Leidt.
 
-≤page=7≥(
+≤page=7≥
 
 *Disparent Genii caelestes, & Beati in caelo.*
 
@@ -547,12 +547,12 @@ Das Leyd ist hin; mein Hertz und Sinn
 
 Nun sebt in Frewden=Tagen.
 
-# 8. SCENA III.
+## 8. SCENA III.
 
 Benoni, territus à Satyris, accurrit ad Matrem; ab hac animatus, jungit
 se eorum choro, cúmque iis jocatur.
 
-# 9. Personae. Benoni. Genovefa; Satyri, Personae mutae.
+## 9. Personae. Benoni. Genovefa; Satyri, Personae mutae.
 
 *Benoni*. Mutter/ Mutter! sie mich beissen.
 
@@ -570,7 +570,7 @@ Ohne Sorgen/ ohne Schewen.
 
 Dir nichts Ubels wird geschehen;
 
-≤page=8≥(
+≤page=8≥
 
 Dan den Frommen sie nicht schaden.
 
@@ -597,7 +597,7 @@ Nun komm/ mein Sohn/ lass betten gehn/
 
 Dass Gott am End uns bey woͤll stehn.
 
-# 10. SCENA IV.
+## 10. SCENA IV.
 
 Sigefridus redux à suis festivo plausu excipitur.
 
@@ -636,7 +636,7 @@ Agite ministra turba, festivo sonet
 
 Lux ista plausu: Principem plaudes decent.
 
-≤page=9≥(
+≤page=9≥
 
 *Cantus*.
 
@@ -726,7 +726,7 @@ Gemit peremptus. Vidimus quando stetit
 
 Oppositus armis hostis, atque aeris sono.
 
-≤page=10≥(
+≤page=10≥
 
 Vicina signis signa conferrent manum;
 
@@ -744,7 +744,7 @@ Datura Achillem scena: Sifridi manum
 
 Referet Achilles; Hector at Maurum dabit.
 
-# 11. SCENA V.
+## 11. SCENA V.
 
 Expeditio Sigefridi contra Maurorum Regem exhibetur in Achille Trojam
 petente; & Hectorem, Trojanorum Ducem, detriumphante.
@@ -783,7 +783,7 @@ Und nach Troja in der Still
 
 Mit den Schiffer säglen will?
 
-≤page=11≥(
+≤page=11≥
 
 Sich an selbe Stadt zu reiben/
 
@@ -859,7 +859,7 @@ O Juno! dich wollest erbarmen/
 
 Und kommen zu Hülff uns Armen.
 
-≤page=12≥(
+≤page=12≥
 
 *Juno*. Wer stoͤret das Wasser/ und meister will seyn?
 
@@ -903,7 +903,7 @@ Sich frewdt das Schiffle mein/
 
 Und hält seyn Lauff.
 
-# 12. Pars II*. Monomachia Achillis, & Hectoris exhibetur.
+## 12. Pars II*. Monomachia Achillis, & Hectoris exhibetur.
 
 *Hector*. Ad arma! ad arma! ad arma!
 
@@ -1007,16 +1007,16 @@ In Streit und fechten hat die Kunst.
 
 ≤page=14≥
 
-# 13. ACTUS II.
+## 13. ACTUS II.
 
 Sigefridus, re examinatâ, deprehendit innocentem fuisse Genovefam.
 
-# 14. SCENA I.
+## 14. SCENA I.
 
 Sigefridus variis affectibus agitatur: accipit literas, à Genovefâ
 moriturâ scriptas; concipit suspicionem in Golonem &c.
 
-# 15. Personae. Sigefridus, Golo, Ephebus Genovefae.
+## 15. Personae. Sigefridus, Golo, Ephebus Genovefae.
 
 *Sigefr*. Jam caesa Eleusis falce septenâ jacet.
 
@@ -1264,13 +1264,13 @@ Partes in omnes, quoque prohibetur magis,
 
 Magìs ferocit, ipsa praesidia occupans.
 
-# 16. SCENA II.
+## 16. SCENA II.
 
 Sigefridus ex Charilo, & Philindo, Genovefae Ephebis, discit rationem
 vivendi Genovefae in suâ absentiâ, deprehendit innocentem fuisse
 Genovefam; reum verò Golonem suspicatur.
 
-# 17. Personae. Sigefridus, Charilus, & Philindus Ephebi.
+## 17. Personae. Sigefridus, Charilus, & Philindus Ephebi.
 
 *Sigefr*. Ades Philinde, túque Genovefae comes
 
@@ -1454,7 +1454,7 @@ Lentum est, dabit, dat; hoc quoque est lentum; dedit.
 
 Sic statuit animus, parta jam, parta ultio est.
 
-# 18. SCENA III.
+## 18. SCENA III.
 
 Golo agitatur primò stimulis conscientiae, deinde infestatur umbra
 occisi Droganis, tum penè desperat: denique in somno videt se accusari
@@ -1499,7 +1499,7 @@ Terras recedes? Ortum, an occasum petes?
 
 Ubique notus perdidi exilii locum;
 
-≤page=21≥(
+≤page=21≥
 
 Vindexque caelum, atque ultor in nostros metus
 
@@ -1575,7 +1575,7 @@ Ubique sceleris ultio infestat reum. *conjicit se in sedem*.
 
 *Golo*. Dehisce tellus; Tartari ad finem ultimum \...
 
-≤page=22≥(
+≤page=22≥
 
 Mansurus ibo: recipe me coecum chaos.
 
@@ -1685,7 +1685,7 @@ Pandamus ultro Principi, & justa impiae
 
 Fraudis feramns pretia, promeritam necem.
 
-# 19. SCENA IV.
+## 19. SCENA IV.
 
 Genovefa gaudet in Deo, Jesu suo: &c. tum audit Filiolum suum orantem
 &c.
@@ -1716,7 +1716,7 @@ Wan mich Leydt/ und Angst bestreiten/
 
 Troͤstet JEsus mich allein.
 
-≤page=24≥(
+≤page=24≥
 
 4\. Wan ich JEsum thu’ umbhälsen
 
@@ -1789,7 +1789,7 @@ Dass alle Creaturen
 
 Recht lobten ins gemein.
 
-≤page=25≥(
+≤page=25≥
 
 *Benoni*. Zukomme dein Reich; dein Will geschehe/ wie im Himmel also
 auch auff Erden.
@@ -1860,7 +1860,7 @@ Bewahr uns beyd zu sammen
 
 Vom Ubel immerdar.
 
-≤page=26≥(
+≤page=26≥
 
 *Benoni*. In Nahmen des Vatters und des Sohns/ und des Heiligen Geistes/
 Amen.
@@ -1873,18 +1873,18 @@ Dass Gott uns beyd vom Ubel rett.
 
 Genov. & Benon. simul. Amen, Amen, Amen, Amen.
 
-# 20. SCENA V.
+## 20. SCENA V.
 
 Golo manifestat crimen suum Sigefrido, qui implacabili irâ successus
 jubet eundem à quatuor equis discerpi, frustra deprecantibus Golonis
 filiis.
 
-# 21. Personae. Golo, Sigefridus, & duo Filii Golonis*.
+## 21. Personae. Golo, Sigefridus, & duo Filii Golonis*.
 
 Golo prodit nigris indutus, acinacem & gladium habens in manu; & ex
 collo pendentem funem.
 
-# 22. Personae. *Golo, Sigefridus, Filii Golonis*.
+## 22. Personae. *Golo, Sigefridus, Filii Golonis*.
 
 *Golo*. Generose Princeps; contine justum precor
 
@@ -1910,7 +1910,7 @@ Proterve; citiùs ignibus junges aquas,
 
 Et placida Nautis antè promittet vada
 
-≤page=27≥(
+≤page=27≥
 
 Inimica syrtis; antè praebebunt lupi
 
@@ -1988,7 +1988,7 @@ Sigefr. Abripite monstrum. *Fil. 2*. pedibus advolvor tuis.
 
 *1*. Per ista Princeps genua. *2* si sanguis placet,
 
-≤page=28≥(
+≤page=28≥
 
 Hunc funde; meliùs sanguis infantûm sapit
 
@@ -1996,12 +1996,12 @@ Senum cruore. *Sigefr*. Cum Patre, & soboles cadet.
 
 Domusque tota: sternam, & evertam omnia.
 
-# 23. SCENA VI.
+## 23. SCENA VI.
 
 Duo Venatores, qui Genovefae pepercerunt, decernunt, tegere hoc factum
 &c.
 
-# 24. Personae. Lindus & Rinaldus Venatores.
+## 24. Personae. Lindus & Rinaldus Venatores.
 
 *Venator I*. Rinalde! dubio nostra res posita est loco:
 
@@ -2031,11 +2031,11 @@ I. Ergo perempta maneat, & ficto dolo
 
 Exsecta pergat lingua testari necem,
 
-# 25. SCENA VII.
+## 25. SCENA VII.
 
 Sigefridus luget mortem Genovefae, & jubet exequias parari.
 
-# 26. Personae. *Sigefridus solus*.
+## 26. Personae. *Sigefridus solus*.
 
 O socia nostri sanguinis, castâ fide
 
@@ -2061,11 +2061,11 @@ Tum sponte moriar: gravia namque urgent mala,
 
 Tantisque portum quaerere aerumnis jubent.
 
-# 27. SCENA VIII.
+## 27. SCENA VIII.
 
 Nuncius refert supplicium Golonis.
 
-# 28. Personae. *Nuncius, Chorus*.
+## 28. Personae. *Nuncius, Chorus*.
 
 *Nunc*. Peracta scena est: digna criminibus dedit
 
@@ -2111,7 +2111,7 @@ Longamque gravior plaga compensat moram.
 
 ≤page=30≥
 
-# 30. SCENA I.
+## 30. SCENA I.
 
 Sigefridus cum aulâ suâ celebrat exequias occisae Genovefae. Musica per
 totum.
@@ -2182,7 +2182,7 @@ Lacrymarum flumina.
 
 ≤page=31≥
 
-# 32. SCENA II.
+## 32. SCENA II.
 
 Duo Venatores interrogati à Sigefrido, fingunt modum, quo Genovefam, &
 Infantem occiderint.
@@ -2273,12 +2273,12 @@ Ego hoc patravi, Quos miser planctus dabo?
 
 Questúsque quos? quae verba sufficient mihi?
 
-# 33. SCENA III.
+## 33. SCENA III.
 
 Genovefa, se morituram rata, filium, priùs mysteria fidei edoctum, Deo
 commendat, seque ad mortem parat.
 
-# 34. Personae. *Genovefa, & Benoni Filius*.
+## 34. Personae. *Genovefa, & Benoni Filius*.
 
 *Scena tota est Musica*.
 
@@ -2532,7 +2532,7 @@ Mir Jesus (diss begehre)
 
 Steh’ bey in letzter Noth.
 
-# 35. SCENA IV.
+## 35. SCENA IV.
 
 Sigefridus venatur in silvâ, in quâ latet Genovefa.
 
@@ -2571,13 +2571,13 @@ varii affectus; adducitur filius &c. Laudatur Deus &c.
 
 *Musica usque ad finem*.
 
-# 36. Personae. Sigefridus, Genovefa, Benoni, Venatores &c.
+## 36. Personae. Sigefridus, Genovefa, Benoni, Venatores &c.
 
 *Venator I*. Ich gfangen hab ein Wunder=Thier/
 
 Zu deinem Dienst ichs bringe dir.
 
-≤page=37≥(
+≤page=37≥
 
 *Genovef*. Sifride? *Sigefr*. Woher kenstu mich?
 
@@ -2655,7 +2655,7 @@ Befohlen hab zu toͤdten dich/
 
 Wan dran gedenck, mich grauset.
 
-≤page=38≥(
+≤page=38≥
 
 Ein Moͤrder bin. *Genov*. Schlags auss dem Sinn.
 
@@ -2727,7 +2727,7 @@ Drumb lasst singen/ drumb last klingen
 
 Unsre Stimme zu dieser Stundt:
 
-≤page=39≥(
+≤page=39≥
 
 Gott/ so droben/ last uns loben
 
@@ -2803,7 +2803,7 @@ Mit Hertzen/ und mit Mundt
 
 Jetzt und zu jeder Stundt.
 
-≤page=40≥(
+≤page=40≥
 
 *Omnes*. Ehrschänderey zu Boden ligt
 

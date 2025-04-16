@@ -12,7 +12,7 @@ IOSEPHVS.
 
 
 
-# 1. Actorum nomina.
+## 1. Actorum nomina.
 
 IACOBVS.
 
@@ -60,7 +60,7 @@ LEONIDES, dispensator.
 
 ≤line=2≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Trimetri Iambici.
 
@@ -116,7 +116,7 @@ Et deridendos se propinant omnibus.
 
 Dum paucis periocham recito comoediae.
 
-# 3. PERIOCHA.
+## 3. PERIOCHA.
 
 PIVS à maleuolis, atque iniquis fratribus
 
@@ -148,7 +148,7 @@ Incusat: mox qui sit reuelat, & patrem
 
 Cum omni familia, ac stirpe ad se accersi iubet.
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 IACOBVS, IOSEPHVS.
 
@@ -353,7 +353,7 @@ Vsquam in me erit mora. Eo, reuersurus breui.
 
 ≤page=7≥
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 IACOBVS.
 
@@ -395,7 +395,7 @@ Quod vt fiat, te oro, atque obtestor, mi Deus.
 
 Quid intus agatur, vt visam, iam me tempus monet.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 ISACHAR, DANVS, IOSEPHVS, RVBEN, IVDAS, cum reliquis fratribus,
 MERCATORES duo.
@@ -604,7 +604,7 @@ Dies illuxit. Iud. In vallem istam, quae propè est,
 
 ≤line=205≥ Secedamus, ibique praedam diuidamus. Da. Perplacet.
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 RVBEN.
 
@@ -658,7 +658,7 @@ Dicam illi, an non? dicam meherculè; etsi ei
 
 Tristißimus sit hic futurus nuncius.
 
-# 8. ACTVS I. SCENA V.
+## 8. ACTVS I. SCENA V.
 
 IACOBVS, RVBEN, DANVS.
 
@@ -892,7 +892,7 @@ Nunc itaque domum reuertamur, vt hoc quod mihi
 
 Restat vitae, in perpetuo moerore, atque luctu transigam.
 
-# 9. ACTVS II. SCENA I.
+## 9. ACTVS II. SCENA I.
 
 IOSEPHVS.
 
@@ -974,7 +974,7 @@ Sed quidnam à nobis crepuit ostium? ipsus est
 
 ≤line=375≥ Foras qui egreditur. Quidnam circumspectet nescio.
 
-# 10. ACTVS II. SCENA II.
+## 10. ACTVS II. SCENA II.
 
 POTIPHAR, IOSEPHVS.
 
@@ -1054,7 +1054,7 @@ Ne, quam de me concepisti, spem fefellisse
 
 Quam nactus es orna, ego statim te consequor.
 
-# 11. ACTVS II. SCENA III.
+## 11. ACTVS II. SCENA III.
 
 POTIPHAR, SEPHIRA.
 
@@ -1137,7 +1137,7 @@ Rem familiarem non parùm amplificatam cernimus.
 
 Vt homo homini praestati tacebo, vt quid loquatur audiam.
 
-# 12. ACTVS II. SCENA IV.
+## 12. ACTVS II. SCENA IV.
 
 IOSEPHVS, SEPHIRA.
 
@@ -1227,7 +1227,7 @@ Superque hic iam cessatum arbitror: & eccum herum
 
 Foras video exeuntem, intrò hac concessero.
 
-# 13. ACTVS II. SCENA V. POTIPHAR.
+## 13. ACTVS II. SCENA V. POTIPHAR.
 
 Eiusdem generis.
 
@@ -1273,7 +1273,7 @@ Sed ostium à nobis crepuit, ad regiam
 
 Quo sum vocatus, recta nunc pergo via.
 
-# 14. ACTVS II. SCENA VI.
+## 14. ACTVS II. SCENA VI.
 
 IOSEPHVS, SEPHIRA.
 
@@ -1453,7 +1453,7 @@ Enimuero voce est opus. O populares, ferte misera
 
 ≤line=590≥ Auxilium, subuenite inopi, \-\--
 
-# 15. ACTVS II. SCENA VII.
+## 15. ACTVS II. SCENA VII.
 
 SYRVS, SEPHIRA, POTIPHAR, IOSEPHVS.
 
@@ -1632,7 +1632,7 @@ Pot. Eamus nunc intrò, ibi quo pacto porrò sit
 
 Plectendus, consilium capiam vna tecum. Sep. I prae, sequor.
 
-# 16. ACTVS III. SCENA I.
+## 16. ACTVS III. SCENA I.
 
 IOSEPHVS, BLEPHARO.
 
@@ -1802,7 +1802,7 @@ Sed nunc, vt est diei tempus, quid captiui agant
 
 [^85]Reuise, & quae opus erunt praebe, ego mox te sequar. Ios. Fiet.
 
-# 17. ACTVS III. SCENA II.
+## 17. ACTVS III. SCENA II.
 
 BLEPHARO.
 
@@ -1866,7 +1866,7 @@ Lyconides est, de quo loquor: illum hic opperiar, vt
 
 ≤line=780≥ Quid velit, aut quem quaerat, quoue eat intelligam.
 
-# 18. ACTVS III. SCENA III.
+## 18. ACTVS III. SCENA III.
 
 LYCONIDES, BLEPHARO, IOSEPHVS.
 
@@ -1984,7 +1984,7 @@ Atque indue, vilibus his abiectis vestibus.
 
 Praecedite iam, ego vbi haec auferri jussero, sequar.
 
-# 19. ACTVS III. SCENA. IV.
+## 19. ACTVS III. SCENA. IV.
 
 BLEPHARO, POTIPHAR, LYCONIDES,
 
@@ -2193,7 +2193,7 @@ Prudentiam, qua homines facilè antecellis caeteros.
 
 Illi gratulemur tantum, tamque insperatum bonum.
 
-# 20. ACTVS IV. SCENA I.
+## 20. ACTVS IV. SCENA I.
 
 IACOBVS, RVBEN, IVDAS, cum reliquis fratribus, excepto Beniamine.
 
@@ -2271,7 +2271,7 @@ Iac. Ita faciam, valete filij. Iud. Vale pater. Iac. Deus
 
 Euntibus sit vobis ac redeuntibus comes.
 
-# 21. ACTVS IV. SCENA II.
+## 21. ACTVS IV. SCENA II.
 
 IACOBVS.
 
@@ -2329,7 +2329,7 @@ Agat, solatium, ac columen senectutis meae.
 
 Eo me oblectabo, dum abfuerint caeteri.
 
-# 22. ACTVS IV. SCENA III.
+## 22. ACTVS IV. SCENA III.
 
 IVDAS, RVBEN, cum reliquis octo fratribus.
 
@@ -2481,7 +2481,7 @@ Et vinculis constricti cura vt asseruentur sedulò.
 
 Ios. abducito inquam. quid cunctaris furcifer?
 
-# 23. ACTVS IV. SCENA IV.
+## 23. ACTVS IV. SCENA IV.
 
 IOSEPHVS, DROMO, SIMEON, RVBEN. cum reliquis fratribus.
 
@@ -2623,7 +2623,7 @@ Fallor, adeo animus mihi nunc gestit gaudio. at fores
 
 ≤line=1120≥ Crepuêre, & video prodeuntes, hac intrò concessero.
 
-# 24. ACTVS IV. SCENA V.
+## 24. ACTVS IV. SCENA V.
 
 ISACHAR, IVDAS, RVBEN, cum reliquis fratrib.
 
@@ -2677,7 +2677,7 @@ Amet: tamen pro viribus adnitemur. Sed satis
 
 Hic cessatum est. pergamus. Isa. Agedam, praecede, sequimur.
 
-# 25. ACTVS IV. SCENA VI.
+## 25. ACTVS IV. SCENA VI.
 
 BENIAMIN, IACOBVS, IVDAS, RVBEN, cum reliquis fratribus.
 
@@ -2799,7 +2799,7 @@ Cur non fame perij potius? O miseriam!
 
 Quàm subitò in luctum hoc mihi mutatum est gaudium!
 
-# 26. ACTVS V. SCENA I.
+## 26. ACTVS V. SCENA I.
 
 IACOBVS, RVBEN, IVDAS, cum reliquis fratrib.
 
@@ -2897,7 +2897,7 @@ Facis. Iac. Eamus nunc intrò: ibi quae parato opus
 
 Erunt ad iter, parabitis. Rub. Age, vt lubet. I prae, sequimur, pater.
 
-# 27. ACTVS V. SCENA II.
+## 27. ACTVS V. SCENA II.
 
 IOSEPHVS. LEONIDES.
 
@@ -2947,7 +2947,7 @@ Obuijsque vinis amplectar, atque exosculer.
 
 Quò gratius hoc tempore mihi accidere posset nihil.
 
-# 28. ACTVS V. SCENA III.
+## 28. ACTVS V. SCENA III.
 
 LEONIDES, IOSEPHVS.
 
@@ -3038,7 +3038,7 @@ Conuiuium. namque omnes hodievt mecum prandeant
 [^129]Volo. atque audin’? fratrem vt saluum statim videant. Leo.
 Intelligo.
 
-# 29. ACTVS V. SCENA IV.
+## 29. ACTVS V. SCENA IV.
 
 RVBEN, BENIAMIN, cum reliquis octo fratribus. LEONIDES, IOSEPHVS,
 SIMEON.
@@ -3152,7 +3152,7 @@ Conuiuium appara, vos intrò me viri \[Couiuium\]
 
 Sequimini. laetum, atque hilarem hunc sumemus diem.
 
-# 30. [^135]ACTVS V. SCENA V.
+## 30. [^135]ACTVS V. SCENA V.
 
 IOSEPHVS, LEONIDES, IVDAS, RVBEN, cum reliquis fratribus.
 
@@ -3260,7 +3260,7 @@ Sed longum esset me hîc illos expectare, dum
 
 ≤line=1400≥ Reducantur: concedam intro, dein’ rursum exeo.
 
-# 31. ACTVS V. SCENA VI.
+## 31. ACTVS V. SCENA VI.
 
 IVDAS, LEONIDES, BENIAMIN, IOSEPHVS. cum reliquis fratribus.
 
@@ -3486,7 +3486,7 @@ Hoc tam admirandum nunciemus gaudium. Ios. Valete
 
 Fratres. OM. Fra. Vale. frater charißime.
 
-# 32. ACTVS V. SCENA VII.
+## 32. ACTVS V. SCENA VII.
 
 RVBEN, BENIAMIN, IVDAS, cum reliquis fratribus.
 
@@ -3552,7 +3552,7 @@ Eum adorauimus omnes. Iud. O prodigium! Sed tempus est
 
 Vt pergamus, nam longa est via. Ben. Agedum vt lubet.
 
-# 33. ACTVS V. SCENA VIII.
+## 33. ACTVS V. SCENA VIII.
 
 IACOBVS, RVBEN, IVDAS, cum reliquis fratrib.
 
@@ -3738,7 +3738,7 @@ Iud. Age pater, vt lubet: in nobis nihil est morae.
 
 Iac. Faxit. Deus vt nobis hoc perpetuum sit gaudium.
 
-# 34. PERORATIO.
+## 34. PERORATIO.
 
 Senarii, & septenarii Iambici.
 

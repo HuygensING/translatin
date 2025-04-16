@@ -324,7 +324,7 @@ ADOLESCENTI OPTIMA SPE PRAEDITO ERARDO A RIVIS.
 
 GRIEKS
 
-# 1. INTERLOQVVTORES.
+## 1. INTERLOQVVTORES.
 
 MARIA MAGDALENE,
 
@@ -344,9 +344,9 @@ CAIPHAS, ANNAS.
 
 ≤page=38≥
 
-# 2. ACTVS PRIMI
+## 2. ACTVS PRIMI
 
-# 3. SCENA PRIMA.
+## 3. SCENA PRIMA.
 
 MARIA MAGDALENE.
 
@@ -424,7 +424,7 @@ Mecum profecturas quum Herum
 
 Turn mente tum gradu,meum.
 
-# 4. SCENA SECVNDA.
+## 4. SCENA SECVNDA.
 
 MARIA MAGDALENE, MARIA SALOME et MARIA IACOBI.
 
@@ -986,7 +986,7 @@ Multo cruentum sanguine,
 
 Mihi cor dolore scinditur.
 
-# 5. SCENA TERTIA.
+## 5. SCENA TERTIA.
 
 ANGELI DVO.
 
@@ -1100,7 +1100,7 @@ Ibi videre viuum erit;
 
 Quem fletis vt iam mortuum.
 
-# 6. SCENA QVARTA.
+## 6. SCENA QVARTA.
 
 MARIAE SALOME, IACOBI ET MAGDALE.
 
@@ -1136,9 +1136,9 @@ Illinc abesse non fero.
 
 ≤page=49≥
 
-# 7. ACTVS SECVNDVS.
+## 7. ACTVS SECVNDVS.
 
-# 8. SCENA PRIMA.
+## 8. SCENA PRIMA.
 
 CENTVRIO, ASCANIVS, RVBRION.
 
@@ -1388,7 +1388,7 @@ Ipsos sed ecce commodum
 
 Videmus huc occurrere
 
-# 9. SCENA SECVNDA.
+## 9. SCENA SECVNDA.
 
 CENTVRIO, CAIAPHAS, ASCANIVS.
 
@@ -1564,7 +1564,7 @@ Aurum nisi dent largiter,
 
 Vulgabo cuncta in compitis.
 
-# 10. SCENA TERTIA.
+## 10. SCENA TERTIA.
 
 CAIAPHAS, ANNAS.
 
@@ -1708,7 +1708,7 @@ Quam naufragum fracta rate,
 
 Tumidis procellis obrui.
 
-# 11. SCENA QVARTA.
+## 11. SCENA QVARTA.
 
 CAIAPHAS, CENTVRIO.
 
@@ -1766,9 +1766,9 @@ Omnes habemus gratiam.
 
 ≤page=58≥
 
-# 12. ACTVS TERTII
+## 12. ACTVS TERTII
 
-# 13. SCENA PRIMA.
+## 13. SCENA PRIMA.
 
 PETRVS, IOANNES.
 
@@ -1906,7 +1906,7 @@ Adferre nobis nuntium.
 
 ≤page=60≥
 
-# 14. SCENA SECVNDA.
+## 14. SCENA SECVNDA.
 
 MARIA SALOME, MARIA IACOBI, PETRVS. \<IOANNES\>.
 
@@ -2006,7 +2006,7 @@ Vt non reperto corpore,
 
 Redeamus vnde venimus.
 
-# 15. SCENA TERTIA.
+## 15. SCENA TERTIA.
 
 MARIAE IACOBI, \<SALOME\>, MAGDALE, \<DVO ANGELI\>. MARIAE? TK?
 
@@ -2132,7 +2132,7 @@ Nusquam reperto corpore,
 
 Magis expedit recedere.
 
-# 16. SCENA QVARTA.
+## 16. SCENA QVARTA.
 
 MAGDALENE.
 
@@ -2296,7 +2296,7 @@ Verum vnde constet te bonum,
 
 Pium, benignum, ni1 reis
 
-# 17. Errata dones plurima?
+## 17. Errata dones plurima?
 
 Da tu vnde grata sim tibi.
 
@@ -2332,9 +2332,9 @@ Cor roboretur1 spiritu.
 
 ≤page=67≥
 
-# 18. ACTVS QVARTI
+## 18. ACTVS QVARTI
 
-# 19. SCENA PRIMA.
+## 19. SCENA PRIMA.
 
 CHRISTVS.
 
@@ -2478,7 +2478,7 @@ Obtutibus meipsum ingeram.
 
 ≤page=69≥
 
-# 20. SCENA SECVNDA.
+## 20. SCENA SECVNDA.
 
 MARIA VIRGO.
 
@@ -2634,7 +2634,7 @@ Vox illa personet meis,
 
 Frustretur expectatio.
 
-# 21. SCENA TERTIA.
+## 21. SCENA TERTIA.
 
 CHRISTVS in carne gloriosa. cum crucis vexillo. et MARIA.
 
@@ -2772,7 +2772,7 @@ Dum corpus in terra iacet,
 
 Anima interim quid egerit.
 
-# 22. SCENA QVARTA.
+## 22. SCENA QVARTA.
 
 CHRISTVS ET MARIA.
 
@@ -3258,9 +3258,9 @@ Vt iam doloris pristini
 
 ≤page=80≥
 
-# 23. ACTVS QVINTVS.
+## 23. ACTVS QVINTVS.
 
-# 24. SCENA PRIMA.
+## 24. SCENA PRIMA.
 
 MAGDALENE.
 
@@ -3506,7 +3506,7 @@ Dum tumbam inanem conspicor,
 
 Modisque diris lancinat.
 
-# 25. SCENA SECVNDA.
+## 25. SCENA SECVNDA.
 
 ANGELVS PRIMVS, SECVNDVS, MAGDALENE.
 
@@ -3656,7 +3656,7 @@ Spei relictum vel tibi
 
 Est obsecro, quid amplius?
 
-# 26. SCENA TERTIA.
+## 26. SCENA TERTIA.
 
 CHRISTVS in specie Hortulani,\<MAGDALENE.\> waarom niet \<MAGDALE.\>?
 
@@ -3972,7 +3972,7 @@ Properabo tantum gaudium
 
 Vt tristibus communicem.
 
-# 27. SCENA QVARTA.
+## 27. SCENA QVARTA.
 
 MARIAE MAGADALE, \<SALOME, IACOBI, CHRISTVS\>.
 
@@ -4098,7 +4098,7 @@ Videbo num quis prodeat,
 
 Gratam salutem cui feram.
 
-# 28. SCENA QVINTA.
+## 28. SCENA QVINTA.
 
 MARIAE MAGDALE, \<SALOME, IACOBI, PETRVS, THOMAS\>.
 
@@ -4264,7 +4264,7 @@ Ego interim occulto in sinu
 
 ≤page=94≥
 
-# 29. PERORATIO.
+## 29. PERORATIO.
 
 Ad vos peractis omnibus
 

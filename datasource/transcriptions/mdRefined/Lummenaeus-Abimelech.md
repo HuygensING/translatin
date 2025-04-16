@@ -138,7 +138,7 @@ ABIMELECHVS. NVNCIVS.
 
 ≤page=36≥
 
-# 2. ACTVS PRIMVS.
+## 2. ACTVS PRIMVS.
 
 VMBRA GEDEONIS.
 
@@ -452,7 +452,7 @@ Quocumque ferat mobilis error.
 
 
 
-# 4. ACTVS SECVNDVS
+## 4. ACTVS SECVNDVS
 
 ABIMELECHVS.
 
@@ -802,7 +802,7 @@ Exempla nimis cruda nepotes.
 
 ≤page=48≥
 
-# 6. ACTVS TERTIVS.
+## 6. ACTVS TERTIVS.
 
 IOTHANES.
 
@@ -1098,7 +1098,7 @@ Propera Iothan, propera Iothan,
 
 Propera, propera, propera, propera.
 
-# 8. ACTVS QVARTVS.
+## 8. ACTVS QVARTVS.
 
 ABIMELECHVS.
 
@@ -1414,7 +1414,7 @@ Cumque recondunt, subigit meritis
 
 Ignea virtus.
 
-# 10. ACTVS QVINTVS
+## 10. ACTVS QVINTVS
 
 NVNCIVS, CHORVS.
 

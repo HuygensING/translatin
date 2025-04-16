@@ -358,7 +358,7 @@ quibus non abest pietas. Vale.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 AMNON.
 
@@ -378,7 +378,7 @@ ROCHI HONERDI. I.C. ET SVPREMI IN HOLLANDIA CONSISTORI SENATORIS
 
 TRAGOEDIA THAMARA.
 
-# 3. SCENA PRIMA. ACTVS PRIMVS.
+## 3. SCENA PRIMA. ACTVS PRIMVS.
 
 AMNON.
 
@@ -598,7 +598,7 @@ Incesta facilis, dura diceris negans.
 
 Garere turpis arbitro debet Venus
 
-# 4. SCENA SECVNDA.
+## 4. SCENA SECVNDA.
 
 IONADABVS. AMNON.
 
@@ -1138,7 +1138,7 @@ Et nunc esse Deo, nec facilem minus
 
 ≤page=16≥
 
-# 6. ACTVS SECVNDVS.
+## 6. ACTVS SECVNDVS.
 
 DAVID
 
@@ -1378,7 +1378,7 @@ Primi vltimique strage quid medios velint
 
 Sperare planum est. Sic suos facilis juvat?
 
-# 7. Errata sic condonat, & scelerum pius
+## 7. Errata sic condonat, & scelerum pius
 
 Poenas remittit? paria quid si posceret
 
@@ -1676,7 +1676,7 @@ Ni cedat amor. Superet curam
 
 Melior regni cura propinqui.
 
-# 9. ACT. TERT. SCENA. PRIMA.
+## 9. ACT. TERT. SCENA. PRIMA.
 
 **CHORVS. SENEX. \[del. NVNTIVS MO\]**
 
@@ -1862,7 +1862,7 @@ Huc me ministro pulchra ducetur soror.
 
 ≤page=30≥
 
-# 12. SCENA SECVNDA.
+## 12. SCENA SECVNDA.
 
 ≤line=4≥
 
@@ -1926,7 +1926,7 @@ SE. Dimitte comites virgo, ne strepitu quies
 
 Geminet cubantis laesa germani malum.
 
-# 13. SCENA TERTIA.
+## 13. SCENA TERTIA.
 
 SENEX.
 
@@ -2140,7 +2140,7 @@ Saeculi mores! tibi somne curam
 
 Credimus, & spem.
 
-# 15. ACT. QVART. SCEN. PRIM.
+## 15. ACT. QVART. SCEN. PRIM.
 
 THAMARA. ABSALOMVS.
 
@@ -2752,7 +2752,7 @@ Redde nepotem. Non insuetus
 
 ≤line=1115≥ Istud veniet crimen in vndas.
 
-# 17. ACT. V. SCEN. I.
+## 17. ACT. V. SCEN. I.
 
 DAVID. ABSALOMVS.
 

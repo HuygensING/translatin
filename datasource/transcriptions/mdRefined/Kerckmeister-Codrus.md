@@ -8,7 +8,7 @@
 
 
 
-# 1. Prologus in Codrum feliciter incipit.
+## 1. Prologus in Codrum feliciter incipit.
 
 Corripio patres, ne sub gymnasia Codri
 
@@ -34,7 +34,7 @@ Et pueros rectis preceptis ponite vestros.
 
 Institui serie prhendere docma probum.
 
-# 2. Argumentum.
+## 2. Argumentum.
 
 Cum die vna Bartoldus et Baldus studentes Agrippina extra menia in
 tusculano lasciuirent, inertem quendam Codrum nomine conspectant. Quem

@@ -16,7 +16,7 @@ TRAGOEDIA.
 
 
 
-# 1. Personae Tragaediae.
+## 1. Personae Tragaediae.
 
 Theodoricus, Rex Italiae.
 
@@ -72,7 +72,7 @@ Anima Theodorici Regis.
 
 ≤page=134≥
 
-# 3. ARGVMENTVM.
+## 3. ARGVMENTVM.
 
 VT uno intuitu Scenam hanc universam videas, Ami¬
 
@@ -114,9 +114,9 @@ Carolus Sigonius.
 
 ≤page=135≥
 
-# 4. ACTVS PRIMVS.
+## 4. ACTVS PRIMVS.
 
-# 5. Argumentum Actus primi.
+## 5. Argumentum Actus primi.
 
 Theodoricus Ioannem Pontificem in vincula conijci, & ˂Theodorcius
 
@@ -126,7 +126,7 @@ stantinopoli apud Iustinum Imperatorem Arrianorum
 
 templa ritu Romano consecraverit.
 
-# 6. SCENA I.
+## 6. SCENA I.
 
 Theodoricus Rex, Senex.
 
@@ -256,7 +256,7 @@ Et gloriosum tunc mori est, cum pro Deo est.
 
 Th. Quid hi? quid ad me? subsilit pectus mihi.
 
-# 7. SCENA II.
+## 7. SCENA II.
 
 Tribunus, Theodoricus Rex.
 
@@ -336,7 +336,7 @@ Specum sub umbris, morte non unâ cadat.
 
 Trib. Vincire mandas? Theod. Vincias, mando, volo.
 
-# 8. SCENA III.
+## 8. SCENA III.
 
 Reymerus, Cyprianus, Theodoricus Rex.
 
@@ -438,7 +438,7 @@ Ut istud oris fulget augusti decus?
 
 Ut est serena mentis immotae quies?
 
-# 9. SCENA IV.
+## 9. SCENA IV.
 
 Theodoricus, Ioannes Pontifex, Tribunus.
 
@@ -588,7 +588,7 @@ Trahe hinc, satelles, incolat clausus specum,
 
 Et inter umbras sentiat, quod Rex jubet.
 
-# 10. SCENA V.
+## 10. SCENA V.
 
 Senex, Ioannes Pontifex, Satelles, Tribunus.
 
@@ -710,7 +710,7 @@ Pulchrum est Tyrannis furere, nec moras pati.
 
 ≤line=265≥ Dolor furorem sequitur, & patitur moras.
 
-# 11. SCENA VI.
+## 11. SCENA VI.
 
 Satelles, Ioannes Pontifex, Senex, Chorus Angelorum.
 
@@ -864,9 +864,9 @@ Hic naufragi Reges cadunt.
 
 **Finis Actus Primi.**
 
-# 15. ACTVS SECVNDVS.
+## 15. ACTVS SECVNDVS.
 
-# 16. Argumentum Actus secundi.
+## 16. Argumentum Actus secundi.
 
 Theodoricus Boëtium & Symnmachum Clarißimos Romae
 
@@ -876,7 +876,7 @@ litteris perduellionis insimulari curat, & in carcerem
 
 detrudit, ubi ab Elpidia Boëtij uxore invisuntur.
 
-# 17. SCENA I.
+## 17. SCENA I.
 
 Vindicta, Vmbra Ioannis Pontificis, Angelus.
 
@@ -1036,7 +1036,7 @@ Justitia coelo lapsa discutiet forum.
 
 ≤line=405≥ Effugere non est Judicis dextram Dei.
 
-# 18. SCENA II.
+## 18. SCENA II.
 
 Theodoricus, Senex, Reymerus, Principes.
 
@@ -1120,7 +1120,7 @@ Nocens laboras. Th. Alia jam vacuo mihi
 
 Curare fas sit: spectra Reges non timent.
 
-# 19. SCENA III.
+## 19. SCENA III.
 
 Sylvanus, Vitalis, Theodoricus, Senex.
 
@@ -1298,7 +1298,7 @@ Decipere justi nesciunt, multis dolis
 
 Falluntur ipsi: facile mentiri est malis.
 
-# 20. SCENA IV.
+## 20. SCENA IV.
 
 Theodoricus, Reymerus, Cyprianus.
 
@@ -1403,7 +1403,7 @@ Spectare sicco judicem vultu suum.
 
 Cyp. Reos tribunal non facit, crimen facit.
 
-# 21. SCENA V.
+## 21. SCENA V.
 
 Theodoricus, Boëtius, Symmachus, Reimerus,
 
@@ -1629,7 +1629,7 @@ Th. Mens ista nimium contumax facit reos.
 
 Cyp. Aliquando, constans saepius negat reos.
 
-# 22. SCENA VI.
+## 22. SCENA VI.
 
 Senex, Elpidia, Manlius, Severinus,
 
@@ -1873,9 +1873,9 @@ Ut mens coelo laeta triumphet.
 
 ≤page=164≥
 
-# 25. ACTVS TERTIVS.
+## 25. ACTVS TERTIVS.
 
-# 26. Argumentum Actus Tertij.
+## 26. Argumentum Actus Tertij.
 
 Elpidia sollicita pro marito patreque primò per Amalasun¬
 
@@ -1887,7 +1887,7 @@ beraturum se promittit, sed paulo post securi percuti am¬
 
 bos iubet. Moriuntur illi magna animi constantia.
 
-# 27. SCENA I.
+## 27. SCENA I.
 
 Elpidia, Manlius, Severinus, Senex.
 
@@ -2005,7 +2005,7 @@ En ipsa prodit. Elp. Offeram Augustae preces.
 
 ≤line=840≥ Sen. Siste hic parumper, ipsa concussa est metu.
 
-# 28. SCENA II.
+## 28. SCENA II.
 
 Amalasuntha, Senex, Elpidia, Athalaricus,
 
@@ -2177,7 +2177,7 @@ Meditatur atrox funus, horrendam necem.
 
 ≤page=169≥
 
-# 29. SCENA III.
+## 29. SCENA III.
 
 Theodoricus, Reymerus, Amalasuntha, Cyprianus,
 
@@ -2383,7 +2383,7 @@ Elp. Valete Nati, gaudeo, atque horror meos
 
 Infestat artus; major incessit timor.
 
-# 30. SCENA IV.
+## 30. SCENA IV.
 
 Theodoricus, Sylvanus, Vitalis, Tribunus.
 
@@ -2439,7 +2439,7 @@ Superba capita, excussimus tandem jugum.
 
 Mors haec triumphus & novum est regnum mihi.
 
-# 31. SCENA V.
+## 31. SCENA V.
 
 Tribunus, Boëtius, Symmachus, Crispus, Calixtus.
 
@@ -2833,9 +2833,9 @@ Urbs lachrymis perennibus.
 
 ≤page=180≥
 
-# 36. ACTVS QVARTVS.
+## 36. ACTVS QVARTVS.
 
-# 37. Argumentum Actus Quarti.
+## 37. Argumentum Actus Quarti.
 
 Cum recipere Elpidia maritum ac patrem putat, utriusque
 
@@ -2847,7 +2847,7 @@ Symmachi sibi minantis videre se arbitratur; itaque
 
 phrenesi & insaniâ corripitur, inque lectum defertur.
 
-# 38. SCENA I.
+## 38. SCENA I.
 
 Vindicta, Angelus.
 
@@ -2919,7 +2919,7 @@ Vultus in omnes ibit. O sero mala
 
 Praesentit animus? ecce vix praesens sibi est.
 
-# 39. SCENA II.
+## 39. SCENA II.
 
 Theodoricus, Elpidia, Senex, Chorus.
 
@@ -3061,7 +3061,7 @@ Da, redde Natos. Th. Ista gens tota est mihi
 
 Delenda ferro, capita Natorum auferes.
 
-# 41. SCENA III.
+## 41. SCENA III.
 
 Elpidia, Senex, Chorus, Crispus, Calyxtus.
 
@@ -3219,7 +3219,7 @@ Ubi sunt? eamus, omnia hoc condam sinu.
 
 Perire debet nil mariti, nil Patris.
 
-# 42. SCENA IV.
+## 42. SCENA IV.
 
 Theodoricus, Amalasuntha, Athalaricus.
 
@@ -3285,7 +3285,7 @@ Instruite mensam dapibus, & desit nihil.
 
 Hic convivium celebratur.
 
-# 43. SCENA V.
+## 43. SCENA V.
 
 Senex, Vindicta, Angelus.
 
@@ -3333,7 +3333,7 @@ Haec meta vitae est, mensa confundet scelus.
 
 ≤page=188≥
 
-# 44. SCENA VI.
+## 44. SCENA VI.
 
 Theodoricus, Amalasuntha, Athalaricus, Reymerus,
 
@@ -3593,9 +3593,9 @@ Divina cum tangit manus.
 
 **Finis Actus Quarti.**
 
-# 47. ACTVS QVINTVS.
+## 47. ACTVS QVINTVS.
 
-# 48. Argumentum Actus Quinti.
+## 48. Argumentum Actus Quinti.
 
 Moritur Tyrannus, Divinae Iustitiae Tribunali Anima eius
 
@@ -3603,7 +3603,7 @@ sistitur, & accusantibus Ioanne Pontifice, Boëtio,
 
 Symmacho, aeternis inferorum ignibus adiudicatur.
 
-# 49. SCENA I.
+## 49. SCENA I.
 
 Vindicta, Vmbra, Daemones, Senex.
 
@@ -3671,7 +3671,7 @@ Dolore pressus, halitum extremum trahit:
 
 En Aula jam jam panditur, luctus patet.
 
-# 50. SCENA II.
+## 50. SCENA II.
 
 Theodoricus, Amalasuntha, Principes, Athalaricus,
 
@@ -3813,7 +3813,7 @@ Heu Nata pereo cum Patre! O vindex Tonans!
 
 Efferte corpus. Rei. Tu tibi imponas modum.
 
-# 51. SCENA III.
+## 51. SCENA III.
 
 Angelus, Vindicta, Daemones.
 
@@ -3853,7 +3853,7 @@ Nimium prophano jussa calcavit Dei.
 
 Vin. Perge ad Tribunal, causa dicenda est Deo.
 
-# 52. SCENA IV.
+## 52. SCENA IV.
 
 Iustitia, Vindicta, Ioannes, Bcëtius, Symmachus.
 
@@ -4021,7 +4021,7 @@ Ambit serenos; vincula & carcer tuus,
 
 Justitia, poenas debitas soluat reus.
 
-# 53. SCENA V.
+## 53. SCENA V.
 
 Iustitia, Anima, Theodericus.
 
@@ -4203,7 +4203,7 @@ Abite, trahite, Daemones flammas date.
 
 ≤page=202≥
 
-# 54. SCENA VI.
+## 54. SCENA VI.
 
 Daemones, Anima damnata.
 

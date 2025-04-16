@@ -263,7 +263,7 @@ DANIEL HEYNSIUS.
 
 
 
-# 1. PERSONAE TRAGOEDIAE
+## 1. PERSONAE TRAGOEDIAE
 
 AURIACUS.
 
@@ -291,7 +291,7 @@ ARMIGER.
 
 LIBERTAS SAUCIA.
 
-# 3. ACTUS PRIMUS.
+## 3. ACTUS PRIMUS.
 
 **Princeps Auriacus.**
 
@@ -783,7 +783,7 @@ Patria tellus Flandria nostros
 
 Imbibe questus.
 
-# 5. ACTUS II. SCENA I.
+## 5. ACTUS II. SCENA I.
 
 *Inquisitio cum tribus Furiis facem et calicem humani sanguinis gestans,
 inebriatur.*
@@ -1134,7 +1134,7 @@ Sic sic eundum est: sceleribus decet tuis
 
 Praeferre sacram Rex Iberorum facem.
 
-# 6. SCENA II.
+## 6. SCENA II.
 
 **Loisa. Senex.**
 
@@ -1788,7 +1788,7 @@ Labitur ille, qui cum mundi
 
 Totius alto corruit ictu.\’
 
-# 8. ACTUS. III. SCENA. I.
+## 8. ACTUS. III. SCENA. I.
 
 **Sicarius. Praefectus.**
 
@@ -2414,7 +2414,7 @@ Heroa petimus, splendidae culmen domus.
 
 En ipse celerem praevius refert pedem.
 
-# 9. SCENA. II.
+## 9. SCENA. II.
 
 **Auriacus. Louisa.**
 
@@ -3137,7 +3137,7 @@ Sorsque in occasum propria secunda
 
 Mole dehiscit.\’
 
-# 11. ACTUS QUARTUS. SCENA I.
+## 11. ACTUS QUARTUS. SCENA I.
 
 **Sicarius. Quattuor Furiae, Inquisitio, Alecto, Megaera, Tisiphone.**
 
@@ -3341,7 +3341,7 @@ Ultimumque intentat ictum. Nescium sortis genus
 
 Gaudia ah inter dapesque funus operitur suum.
 
-# 12. SCENA II.
+## 12. SCENA II.
 
 Loisa. Nutrix.
 
@@ -3531,7 +3531,7 @@ Haud placet oris suspecta fides.
 
 Nos domus intro, pignusque vocant.
 
-# 13. SCENA. III.
+## 13. SCENA. III.
 
 SICARIUS. AURIACUS. Armiger. Chorus Satellitum.
 
@@ -3983,7 +3983,7 @@ Magnum minatur mutus et tacitus pavor,
 
 Animumque terret cognitus nondum dolor.
 
-# 16. ACTUS. V.
+## 16. ACTUS. V.
 
 Loisa. Nutrix.
 

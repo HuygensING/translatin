@@ -105,9 +105,9 @@ ABSALOMVS. CHORVS
 
 ≤line=7≥
 
-# 1. ACTVS PRIMI
+## 1. ACTVS PRIMI
 
-# 2. Scena Prima.
+## 2. Scena Prima.
 
 AMNON.
 
@@ -625,7 +625,7 @@ Destinat Orco.
 
 
 
-# 4. ACTVS II.
+## 4. ACTVS II.
 
 Thamar, Nutrix, Absalomus.
 
@@ -1084,7 +1084,7 @@ An fallor? ore liuido, incessu vago
 
 ≤line=465≥ Meditatur iras Absalom; praegnans malum est.
 
-# 6. ACTVS III.
+## 6. ACTVS III.
 
 Absalom.
 
@@ -1602,7 +1602,7 @@ Semper crimina plectunt.
 
 ≤page=28≥
 
-# 8. ACTVS IIII.
+## 8. ACTVS IIII.
 
 Dauid, Absalomus.
 
@@ -2054,7 +2054,7 @@ Et pij natos studium parentis
 
 Sospitet omnes.
 
-# 10. ACTVS V.
+## 10. ACTVS V.
 
 Dauid, Ionadab, Nuncius, Filij Regis.
 

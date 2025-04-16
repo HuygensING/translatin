@@ -65,7 +65,7 @@ Reddit parentibus et strepunt convivia.
 
 
 
-# 1. DRAMATIS PERSONAE.
+## 1. DRAMATIS PERSONAE.
 
 Prologus Philochrysium
 
@@ -83,7 +83,7 @@ Meloclopus Praetor cum satellitibus
 
 Argyroclopus fures Sycastra, delator.
 
-# 2. PROLOGUS.
+## 2. PROLOGUS.
 
 Didascalus noster animadvertens nihil
 
@@ -199,7 +199,7 @@ Musisque candidis favete candidi.
 
 Post horulam unam aut alteram amittemini.
 
-# 3. ACTUS I. SCAENA I.
+## 3. ACTUS I. SCAENA I.
 
 Iambici trimetri.
 
@@ -317,7 +317,7 @@ Quoque ad epulas vocavero. LIT. Sospes redi.
 
 GAL. Cura, omnia approbe exigas. LIT. Curavero.
 
-# 4. ACTUS I. SCAENA II.
+## 4. ACTUS I. SCAENA II.
 
 \<Iambici trimetri\>.
 
@@ -461,7 +461,7 @@ Caedendus est puer absque controversia,
 
 Quod cum vagantibus est ei communio.
 
-# 5. ACTUS I. SCAENA III.
+## 5. ACTUS I. SCAENA III.
 
 \<Iambici trimetri\>.
 
@@ -568,7 +568,7 @@ Matrem ilico videbimus procedere. PET. Heu,
 
 Mater mea, obsecro, prodi foras! DIS. Opus ingredi.
 
-# 6. ACTUS I. SCAENA IV.
+## 6. ACTUS I. SCAENA IV.
 
 \<Iambici trimetri\>.
 
@@ -686,7 +686,7 @@ Caesum ense fratris Abessalom,
 
 Redarguit clementior.
 
-# 8. ACTUS II. SCAENA I.
+## 8. ACTUS II. SCAENA I.
 
 Iambici trimetri.
 
@@ -720,7 +720,7 @@ Praesentibus malis queant occurrere.
 
 ≤line=300≥ Neque fugiendi neque latendi hic est locus.
 
-# 9. ACTUS II. SCAENA II.
+## 9. ACTUS II. SCAENA II.
 
 \<Iambici trimetri\>.
 
@@ -825,7 +825,7 @@ Mater Petrisci ea est. DID. Nova ea contentio est.
 
 Vos introite. ------------
 
-# 10. ACTUS II. SCAENA III.
+## 10. ACTUS II. SCAENA III.
 
 \<Iambici trimetri\>.
 
@@ -937,7 +937,7 @@ Duci iubebo; adsunt enim lorarii. PET. Hui!
 
 ≤line=400≥ Cedamus hinc mater, valeat! MYS. Haud sic tamen.
 
-# 11. ACTUS II. SCAENA IV.
+## 11. ACTUS II. SCAENA IV.
 
 Versus tetrametri seu octonarii.
 
@@ -1005,7 +1005,7 @@ Iam quicquid irrogaverint probri aut doli multabitur.
 
 ≤line=430≥ Verum, quia adsunt proximi, cedamus intro. PHILO. Ita censeo.
 
-# 12. ACTUS II. SCAENA V.
+## 12. ACTUS II. SCAENA V.
 
 \<Versus tetrametri\>.
 
@@ -1120,7 +1120,7 @@ Illi ad suum rediere prostibulum. DID. Doleo. Vos sequimini.
 
 Crepit ostium in vicinia; vitanda turba. Sequimini.
 
-# 13. ACTUS II. SCAENA VI.
+## 13. ACTUS II. SCAENA VI.
 
 Versus septenarii.
 
@@ -1238,7 +1238,7 @@ Caedendus est tamen impius,
 
 Quo habeant timorem caeteri.
 
-# 15. ACTUS III. SCAENA I.
+## 15. ACTUS III. SCAENA I.
 
 Septenarii.
 
@@ -1312,7 +1312,7 @@ Est. Aliquid, ut me hoc explicem pavore. comminiscar.
 
 Adveniat! Est quod facile persuadebo: obit commentum.
 
-# 16. ACTUS III. SCAENA II.
+## 16. ACTUS III. SCAENA II.
 
 Trimetri.
 
@@ -1362,7 +1362,7 @@ PET. Successit hoc. Iam adibo praefectos meos,
 
 Ubi matrem adesse patrem atque servum dixero.
 
-# 17. ACTUS III. SCAENA III.
+## 17. ACTUS III. SCAENA III.
 
 \<Trimetri.\>
 
@@ -1462,7 +1462,7 @@ Modo loqui. GAL. Heu! MYS. Ne fle, miser! GAL. Certe miser!
 
 Nam senties peiora, si reverteris.
 
-# 18. ACTUS III. SCAENA IV.
+## 18. ACTUS III. SCAENA IV.
 
 \<Trimetri.\>
 
@@ -1636,7 +1636,7 @@ Necessitas quam postulat.
 
 Extrema enim vitiosa sunt.
 
-# 20. ACTUS IV. SCAENA I.
+## 20. ACTUS IV. SCAENA I.
 
 Iambici senarii.
 
@@ -1722,7 +1722,7 @@ Tractate comiter, fovete molliter,
 
 Amate dulciter, dum obambulabimus.
 
-# 21. ACTUS IV. SCAENA II.
+## 21. ACTUS IV. SCAENA II.
 
 \<Trimetri.\>
 
@@ -1750,7 +1750,7 @@ Nam quispiam in vico strepit, ne forte non
 
 Velis viderier. PET. Sequor, strepitum audio.
 
-# 22. ACTUS IV. SCAENA III.
+## 22. ACTUS IV. SCAENA III.
 
 \<Trimetri.\>
 
@@ -1840,7 +1840,7 @@ Recurre iam, Argyroclope, vicum in alterum.
 
 Te deprehendat rusticus, cum redierit.
 
-# 23. ACTUS IV. SCAENA IV.
+## 23. ACTUS IV. SCAENA IV.
 
 Versus tetrametri.
 
@@ -1919,7 +1919,7 @@ Quae dicta sunt proverbio: abit in calamitosum illusio.
 
 Redit ebrius domum. Amiculos morabimur nos sedulo.
 
-# 24. ACTUS IV. SCAENA V.
+## 24. ACTUS IV. SCAENA V.
 
 Septenarii.
 
@@ -1952,7 +1952,7 @@ Malo fugere dicteria irridentium quam verbis
 
 Revincere. ------------
 
-# 25. ACTUS IV. SCAENA VI.
+## 25. ACTUS IV. SCAENA VI.
 
 \<Trimetri\>.
 
@@ -2101,7 +2101,7 @@ Quod in sinistro iam furentis maxime
 
 Strepitum Megerae exaudiam. ------------
 
-# 26. ACTUS IV. SCAENA VII.
+## 26. ACTUS IV. SCAENA VII.
 
 \<Trimetri\>.
 
@@ -2135,7 +2135,7 @@ Et prorsus exsecrandus est praeceptor is,
 
 Qui hos tenebricones non flagellat in dies.
 
-# 27. ACTUS IV. SCAENA VIII.
+## 27. ACTUS IV. SCAENA VIII.
 
 \<Septenarii.\>
 
@@ -2193,7 +2193,7 @@ Sortemque nostram inter caliculos planius recitemus.
 
 Properemus, inquam. Utrimque namque in viculis fit strepitus.
 
-# 28. ACTUS IV. SCAENA IX.
+## 28. ACTUS IV. SCAENA IX.
 
 Trimetri.
 
@@ -2267,7 +2267,7 @@ PRAE. Vade cito. Dum ferrum calet, cudendum erit.
 
 Paulum moratus mox domum revertero.
 
-# 29. ACTUS IV. SCAENA X.
+## 29. ACTUS IV. SCAENA X.
 
 Septenarii.
 
@@ -2369,7 +2369,7 @@ Sceleribus accusati erant Sycasta deferente
 
 ≤line=1055≥ PRAE. Apparet. Ostium crepit; videte, quis prospiciat.
 
-# 30. ACTUS IV. SCAENA XI.
+## 30. ACTUS IV. SCAENA XI.
 
 Trimetri.
 
@@ -2423,7 +2423,7 @@ Prudentiam laude efferam, dum vixero.
 
 PRAE. Non hoc requiro. Sequere me in praetorium.
 
-# 31. ACTUS IV. SCAENA XII.
+## 31. ACTUS IV. SCAENA XII.
 
 \<Trimetri.\>
 
@@ -2545,7 +2545,7 @@ Iaculato ab axe caelico
 
 Pereas trisulco fulmine.
 
-# 33. ACTUS V. SCAENA I.
+## 33. ACTUS V. SCAENA I.
 
 Iambici trimetri.
 
@@ -2597,7 +2597,7 @@ GAL. Stat acquiescere. Heus, adesto vesperi.
 
 GNO. Adero. Bene est: venit uxor obvia mitior.
 
-# 34. ACTUS V. SCAENA II.
+## 34. ACTUS V. SCAENA II.
 
 \<Iambici trimetri.\>
 
@@ -2651,7 +2651,7 @@ Id, quod facit multo magis iam me anxiam.
 
 GAL. Uxor! MYS. Quid occipit? GAL. Uxor! MYS. Hem, quid clamitas?
 
-# 35. ACTUS V. SCAENA III.
+## 35. ACTUS V. SCAENA III.
 
 \<Iambici trimetri\>.
 
@@ -2737,7 +2737,7 @@ GAL. A Gnorimo crepit ostium; morabor hunc.
 
 Tu vade, coniunx: redime, quod necesse erit.
 
-# 36. ACTUS V. SCAENA IV.
+## 36. ACTUS V. SCAENA IV.
 
 \<Trimetri\>.
 
@@ -2823,7 +2823,7 @@ Accurrit uxor; cave mali quicquam inferas.
 
 Cave graves grave gravioribus malis.
 
-# 37. ACTUS V. SCAENA V.
+## 37. ACTUS V. SCAENA V.
 
 \<Trimetri\>.
 
@@ -2909,7 +2909,7 @@ GAL. Eamus itaque, ut tradita hac epistola ad
 
 Clementiam flectere queamus supplices.
 
-# 38. ACTUS V. SCAENA VI.
+## 38. ACTUS V. SCAENA VI.
 
 \<Trimetri\>.
 
@@ -3013,7 +3013,7 @@ GAL. Praetoris optimi Ioves animos parent
 
 Ac mitigent, quo facilius nos audiat.
 
-# 39. ACTUS V. SCAENA VII.
+## 39. ACTUS V. SCAENA VII.
 
 \<Trimetri\>.
 
@@ -3109,7 +3109,7 @@ GAL. Sequimur, magister. Pereat haec pecunia!
 
 DID. Recipite. Iudici referte gratiam.
 
-# 40. ACTUS V. SCAENA VIII.
+## 40. ACTUS V. SCAENA VIII.
 
 \<Trimetri\>.
 
@@ -3163,7 +3163,7 @@ SAT. Hic verna et hic est residuum pecuniae.
 
 Verum bonis potioribus pensabimus.
 
-# 41. ACTUS V. SCAENA IX.
+## 41. ACTUS V. SCAENA IX.
 
 \<Trimetri\>.
 
@@ -3227,9 +3227,9 @@ Hic coximus. Quapropter iis, quae vos domi
 
 ≤line=1450≥ Parastis, hinc recedite ut vescamini.
 
-# 42. ACTUS V. SCAENA ULTIMA.
+## 42. ACTUS V. SCAENA ULTIMA.
 
-# 43. EPILOGUS per GREGEM.
+## 43. EPILOGUS per GREGEM.
 
 Spectator, asta paulum adhuc spectaculo,
 

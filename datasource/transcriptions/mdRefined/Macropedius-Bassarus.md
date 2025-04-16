@@ -66,7 +66,7 @@ Magno omnium risu comesse disserit.
 
 
 
-# 1. ACTORES FABULAE.
+## 1. ACTORES FABULAE.
 
 Prologus Dromus, servus
 
@@ -86,7 +86,7 @@ Euergetes, praeses larvatis.
 
 Merimna, uxor
 
-# 2. PROLOGUS.
+## 2. PROLOGUS.
 
 Versu iambico trimetro.
 
@@ -236,7 +236,7 @@ Et propemodum omnis apparatus rusticus.
 
 Spectate, state, silete, Bassarus exiet.
 
-# 3. ACTUS I. SCAENA I.
+## 3. ACTUS I. SCAENA I.
 
 Iambici trimetri.
 
@@ -318,7 +318,7 @@ Adferet? Habet quod cruciat. Absque causa enim
 
 Tacitus morabor hominem, ut audiam et sciam.
 
-# 4. ACTUS I. SCAENA II.
+## 4. ACTUS I. SCAENA II.
 
 Trimetri.
 
@@ -466,7 +466,7 @@ Graidium adest ancilla pastoris, cui
 
 Loqui me oportet antequam pulsem. CRE. Avolo.
 
-# 5. ACTUS I. SCAENA III.
+## 5. ACTUS I. SCAENA III.
 
 Trimetri.
 
@@ -584,7 +584,7 @@ GR. Video. HIER. Cave nostram sciat opulentiam. GR. Is
 
 Iam praesidi loquitur, molestus non erit.
 
-# 6. ACTUS I. SCAENA IV.
+## 6. ACTUS I. SCAENA IV.
 
 Trimetri.
 
@@ -715,7 +715,7 @@ Mentis salutem neglegens,
 
 Stultissimus, stultissimus, stultissimus, stultissimus.
 
-# 8. ACTUS II. SCAENA I.
+## 8. ACTUS II. SCAENA I.
 
 Trimetri.
 
@@ -825,7 +825,7 @@ Usque ad tenebras hanc tabernam intremus et,
 
 ≤line=350≥ Quid dixerint, exaudiamus clanculum.
 
-# 9. ACTUS II. SCAENA II.
+## 9. ACTUS II. SCAENA II.
 
 Trimetri.
 
@@ -883,7 +883,7 @@ Cavebo ne quis introrepat clanculum.
 
 Procedit, ut suam moretur Bassaram.
 
-# 10. ACTUS II. SCAENA III.
+## 10. ACTUS II. SCAENA III.
 
 Tetrametri.
 
@@ -921,7 +921,7 @@ crastinum.
 
 Redit, quae abierat, anus; subauscultabo quid renuntiet.
 
-# 11. ACTUS II. SCAENA IV.
+## 11. ACTUS II. SCAENA IV.
 
 Tetrametri.
 
@@ -973,7 +973,7 @@ Mentis salutem neglegens,
 
 Stultissimus, stultissimus, stultissimus, stultissimus.
 
-# 13. ACTUS III. SCAENA I.
+## 13. ACTUS III. SCAENA I.
 
 Iambici trimetri.
 
@@ -1069,7 +1069,7 @@ Eccos duos, audire gestio procul,
 
 Quid dixerint. \<. . . . . .\>
 
-# 14. ACTUS III. SCAENA II.
+## 14. ACTUS III. SCAENA II.
 
 Tetrametri catalecti.
 
@@ -1137,7 +1137,7 @@ Secuta namque Hieronymum latenter est ingressa.
 
 Morabor aniculam, ut audiam doli insiti commenta.
 
-# 15. ACTUS III. SCAENA III.
+## 15. ACTUS III. SCAENA III.
 
 Tetrametri acatalecti.
 
@@ -1194,7 +1194,7 @@ Caesae suis farcimina. GRA. Duo scilicet, quasi cum sue haec
 
 Sublata furto nescias. BAS. Vale, tuis cum sordibus.
 
-# 16. ACTUS III. SCAENA IV.
+## 16. ACTUS III. SCAENA IV.
 
 Trimetri.
 
@@ -1244,7 +1244,7 @@ Cum lumine. En quam blanditer garrit sua
 
 Cum garrula anicula et puella amicula.
 
-# 17. ACTUS III. SCAENA V.
+## 17. ACTUS III. SCAENA V.
 
 Trimetri.
 
@@ -1324,7 +1324,7 @@ Si possim utrumque stringere, id lepidissimum. At
 
 Quod alter ad craniarium nucibus strepat.
 
-# 18. ACTUS III. SCAENA VI.
+## 18. ACTUS III. SCAENA VI.
 
 Trimetri.
 
@@ -1356,7 +1356,7 @@ Manes, striges, lemures et Orci numina
 
 Ex hoc asylo neutiquam me moverint.
 
-# 19. ACTUS III. SCAENA VII.
+## 19. ACTUS III. SCAENA VII.
 
 Trimetri.
 
@@ -1415,7 +1415,7 @@ Humilesve celsus despicit,
 
 Stultissimus, stultissimus, stultissimus, stultissimus.
 
-# 21. ACTUS IV. SCAENA I.
+## 21. ACTUS IV. SCAENA I.
 
 Trimetri.
 
@@ -1479,7 +1479,7 @@ PRAE. Poterit quidem. Moremur hic laternulam,
 
 Quamvis tonitrus introire suadeat.
 
-# 22. ACTUS IV. SCAENA II.
+## 22. ACTUS IV. SCAENA II.
 
 Trimetri.
 
@@ -1559,7 +1559,7 @@ Euergetes. PRAE. Hem. BAS. Intro, imminet tonitruum.
 
 PRAE. Papae. BAS. Quis exit huc foras? ------------
 
-# 23. ACTUS IV. SCAENA III.
+## 23. ACTUS IV. SCAENA III.
 
 Trimetri.
 
@@ -1603,7 +1603,7 @@ I, differatur cena et ultra septimam.
 
 Graidio. ------------
 
-# 24. ACTUS IV. SCAENA IV.
+## 24. ACTUS IV. SCAENA IV.
 
 Trimetri.
 
@@ -1683,7 +1683,7 @@ Scapulis meis incumbe. HIER. Sedeo, perge tu.
 
 BAS. Pergam alacriter. Tu, praeses, expectato nos.
 
-# 25. ACTUS IV. SCAENA V.
+## 25. ACTUS IV. SCAENA V.
 
 Trimetri.
 
@@ -1754,7 +1754,7 @@ Taeterrimus me a tergo adoritur daemonum.
 
 PRAE. Apage, quid hoc? HIER. Fugiamus intro, ibi dixero.
 
-# 26. ACTUS IV. SCAENA VI.
+## 26. ACTUS IV. SCAENA VI.
 
 Trimetri.
 
@@ -1818,7 +1818,7 @@ Aeris fragores horridos? Aperi ocius.
 
 BAS. Quid monstri id est? Ingredere raptim. CRE. Claudito.
 
-# 27. ACTUS IV. SCAENA VII.
+## 27. ACTUS IV. SCAENA VII.
 
 Senarii ut praecedentes.
 
@@ -1880,7 +1880,7 @@ Mercurius. Introgredere, ut haec facetius
 
 Turba instrepit foris, serandae sunt fores.
 
-# 28. ACTUS IV. SCAENA VIII.
+## 28. ACTUS IV. SCAENA VIII.
 
 Trimetri.
 
@@ -1981,7 +1981,7 @@ Modestiamque amplectier
 
 ≤line=860≥ Prudentis est, prudentis est, prudentis est, prudentis est.
 
-# 30. ACTUS V. SCAENA I.
+## 30. ACTUS V. SCAENA I.
 
 Trimetri.
 
@@ -2069,7 +2069,7 @@ Vereorque ad hos, qui me volebant has nuces
 
 Sed ostium crepuit; notabo, quis exeat.
 
-# 31. ACTUS V. SCAENA II.
+## 31. ACTUS V. SCAENA II.
 
 Tetrametri.
 
@@ -2141,7 +2141,7 @@ O quanta pernis, sumini, farcimini, tomaculo.
 
 Exit Merimna, commodum, iam nulla pulsandi mora.
 
-# 32. ACTUS V. SCAENA III.
+## 32. ACTUS V. SCAENA III.
 
 Trimetri.
 
@@ -2217,7 +2217,7 @@ Vobiscum ad extremum loqui. PRAE. Loquere palam.
 
 Prodite singuli foras. CRE. Simul adsumus.
 
-# 33. ACTUS V. SCAENA IV.
+## 33. ACTUS V. SCAENA IV.
 
 Trimetri.
 

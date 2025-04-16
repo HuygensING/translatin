@@ -38,7 +38,7 @@ Paralipom. cap. 36. Iosepho lib. 10. Antiquit. Iudaic. cap. 10. et 11.*
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 Sedecias.
 
@@ -56,7 +56,7 @@ Filii Sedeciae.
 
 **Chorvs.***
 
-# 3. ACTVS PRIMVS.
+## 3. ACTVS PRIMVS.
 
 *Sedeciam initae fugae sero poenitet.*
 
@@ -640,7 +640,7 @@ Illaesum caput erigent
 
 Inter fragmina mundi.
 
-# 5. ACTVS SECVNDVS.
+## 5. ACTVS SECVNDVS.
 
 *Nabuzardan fugientem Sedeciam insequitur et capit.*
 
@@ -1436,7 +1436,7 @@ Vario hauserunt funere ad unum
 
 Cara relictae pignora matris.
 
-# 7. ACTVS TERTIVS.
+## 7. ACTVS TERTIVS.
 
 *Nabuchodonosor victoria elatus adversus Deum insolescit, Sedeciae
 insultat et dira quaeque minitatur.*
@@ -2237,7 +2237,7 @@ Quicumque miser est. Tantulum huc secedite,
 
 ≤line=1050≥ Propiusque moesti verba captemus senis.
 
-# 9. ACTVS QVARTVS.
+## 9. ACTVS QVARTVS.
 
 *Narratur caedes filiorum Sedeciae, et Sedeciae ipsius excaecatio.*
 
@@ -3205,7 +3205,7 @@ En barbarorum tota carnificum manus,
 
 Comitatus illo dignus, e foribus ruit.
 
-# 12. ACTVS QVINTVS.
+## 12. ACTVS QVINTVS.
 
 *Sedecias oculis effossis foras producitur, et Babylonem amandatur.*
 

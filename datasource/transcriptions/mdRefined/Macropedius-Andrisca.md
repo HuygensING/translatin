@@ -88,9 +88,9 @@ Ad optimos mores reducta, gaudium.
 
 
 
-# 1. DRAMATIS PERSONAE.
+## 1. DRAMATIS PERSONAE.
 
-# 2. Prologus.
+## 2. Prologus.
 
 Georgus maritus.
 
@@ -260,7 +260,7 @@ Iam adesto amator litterarum candidus,
 
 ≤line=60≥ Tacitusque Musarum Clientes audiat.
 
-# 5. Actus primi. Scena prima.
+## 5. Actus primi. Scena prima.
 
 GEORGUS, ANDRISCA, BYRSOCOPUS.
 
@@ -406,7 +406,7 @@ Accinctus (ut vides) laboribus abeo,
 
 Tonitru imminens ipse excipito. Vale. Geo. Vale.
 
-# 6. ACTUS I. SCENA II.
+## 6. ACTUS I. SCENA II.
 
 Andrisca, Georgus.
 
@@ -462,7 +462,7 @@ Observat (usque ut assolet) suum amasium.
 
 Nihilominus rogo num velit mihi congredi.
 
-# 7. Actus primi Scena tertia.
+## 7. Actus primi Scena tertia.
 
 Porna., Andrisca, Hieronymus.
 
@@ -548,7 +548,7 @@ Haec valeat, illae insaniant, nos clanculum
 
 Clauso ostio, nos nostra agamus ludicra.
 
-# 8. Actus primi. Scena quarta.
+## 8. Actus primi. Scena quarta.
 
 Andrisca sola.
 
@@ -704,7 +704,7 @@ Ab ineptulis riderier,
 
 Potioribus probarier.
 
-# 10. Actus II. Scena I.
+## 10. Actus II. Scena I.
 
 Hieronymus. Porna. Paedisca.
 
@@ -772,7 +772,7 @@ Sed Neminem pro coniuge domi praesidem
 
 Inventurus est mecastor istis tempori.
 
-# 11. Actus secundi. Scena secunda.
+## 11. Actus secundi. Scena secunda.
 
 Georgus solus.
 
@@ -822,7 +822,7 @@ Et nunc feram, districtiusque redarguam.
 
 Tentabo si quid possiem tolerantia.
 
-# 12. Actus secundi. Scena tertia.
+## 12. Actus secundi. Scena tertia.
 
 Andrisca. Georgus.
 
@@ -946,7 +946,7 @@ And. Abactus est minator, euge explosus est,
 
 Clauso ostio redeo ad meas sympotrias.
 
-# 13. Actus secundi. Scena quarta.
+## 13. Actus secundi. Scena quarta.
 
 Byrsocopus, Porna. Paedisca, Georgus, Puer.
 
@@ -1130,7 +1130,7 @@ Sit nocte mystes Cypridos,
 
 Cessare adultus non queat.
 
-# 15. Actus III Scena I.
+## 15. Actus III Scena I.
 
 Andrisca. Porna.
 
@@ -1182,7 +1182,7 @@ Si respicit, mox lite propulsavero,
 
 Ne amasius foris moretur longius.
 
-# 16. Actus tertij scena secunda.
+## 16. Actus tertij scena secunda.
 
 Byrsocopus, Porna.
 
@@ -1244,7 +1244,7 @@ Eccum virum, quem linteo subduxeram
 
 Morabor hunc dum venerit. \_\_\_\_
 
-# 17. Actus tertij Scena tertia.
+## 17. Actus tertij Scena tertia.
 
 Hieronymus, Porna.
 
@@ -1276,7 +1276,7 @@ Dimittere urinam volebam, at ostium à
 
 ≤line=525≥ Caupone crepuit, intus ero securior.
 
-# 18. Actus tertij Scena quarta.
+## 18. Actus tertij Scena quarta.
 
 Caupo, Andrisca.
 
@@ -1440,7 +1440,7 @@ Uxor bibax & adultera
 
 Viro est ferenda neutiquam.
 
-# 20. ACTUS IIII. SCENA I.
+## 20. ACTUS IIII. SCENA I.
 
 Caupo, Georgus.
 
@@ -1574,7 +1574,7 @@ Acris animi est, duris quoque lacertis. sed &
 
 Haec clanculum uxori renunciavero.
 
-# 21. Actus quarti. Scena secunda.
+## 21. Actus quarti. Scena secunda.
 
 Georgus solus.
 
@@ -1610,7 +1610,7 @@ Obiecta crimina. Ast ibi si non fuat,
 
 Id pergo iam videre & experirier.
 
-# 22. ACTUS IIII. SCENA III.
+## 22. ACTUS IIII. SCENA III.
 
 Porna, Hieronymus, Paedisca.
 
@@ -1669,7 +1669,7 @@ Quin volupe amoribus fruamur dum licet
 
 Paed. A proximo ostium crepuit, ingredimini.
 
-# 23. Scena quarta. Actus quarti.
+## 23. Scena quarta. Actus quarti.
 
 Georgus. Caupo.
 
@@ -1751,7 +1751,7 @@ Videor mihi videre vicinum meum.
 
 ≤line=740≥ Ipsus quidem, multoque me infoelicior.
 
-# 24. Actus quarti Scena quinta.
+## 24. Actus quarti Scena quinta.
 
 Byrsocopus. Georgus.
 
@@ -1965,7 +1965,7 @@ Nam in orbe nil morosius
 
 Muliere si imperiosa sit.
 
-# 26. Actus quinti. Scena prima.
+## 26. Actus quinti. Scena prima.
 
 Caupo. Andrisca.
 
@@ -2029,7 +2029,7 @@ Vino optimo. Cau. Sic censeo. nescio etenim
 
 Quoius adeuntis gressibus terra obstrepit.
 
-# 27. Actus quinti Scena secunda.
+## 27. Actus quinti Scena secunda.
 
 Byrsocopus solus.
 
@@ -2083,7 +2083,7 @@ Confricta huic includam equino tergori.
 
 Pulso placide, ne quid sinistrum iudicent.
 
-# 28. Actus V. Scena tertia.
+## 28. Actus V. Scena tertia.
 
 Byrsocopus. Porna. Paedisca. Hieronymus.
 
@@ -2141,7 +2141,7 @@ Satage, redit, lento sed admodum gradu,
 
 Secum acre quiddam (nescio quid) immurmurans.
 
-# 29. Actus quinti Scena quarta.
+## 29. Actus quinti Scena quarta.
 
 Georgus, Byrsocopus, Porna.
 
@@ -2209,7 +2209,7 @@ Facinorum & actuum mihi poenas dabit.
 
 Foris morabor, donicum nudata sit.
 
-# 30. Actus quinti Scena quinta.
+## 30. Actus quinti Scena quinta.
 
 Ponus servus.
 
@@ -2239,7 +2239,7 @@ Prae foribus astat, & gravissimos parat
 
 Veh (si quidem paret mihi) scapulis meis.
 
-# 31. Actus quinti Scena sexta.
+## 31. Actus quinti Scena sexta.
 
 Georgus, Ponus.
 
@@ -2289,7 +2289,7 @@ Abeo. Geo. Introire Byrsocopus aedes parat.
 
 Mihi propius accedendum, ut haec exaudiam.
 
-# 32. Actus quinti Scena septima.
+## 32. Actus quinti Scena septima.
 
 Byrsocopus, Paedisca, Porna, Georgus.
 
@@ -2380,7 +2380,7 @@ Maiorque pax perpetuò in aedibus foret.
 
 Nunc exeunt. \_\_ \_\_
 
-# 33. Actus quinti Scena octava.
+## 33. Actus quinti Scena octava.
 
 Byrsocopus, Puer, Paedisca, Georgus, Porna.
 
@@ -2470,7 +2470,7 @@ Videt me uterque, turpe segredi, moror.
 
 ≤line=1065≥ Conflictus instat huic meo impar flictui.\*
 
-# 34. Actus quinti Scena nona.
+## 34. Actus quinti Scena nona.
 
 Caupo, Andrisca, Byrsocopus, Georgus.
 
@@ -2672,7 +2672,7 @@ Spoliaverit, frustra institutust’ hactenus.
 
 Secessero ne videar, at servum morer.
 
-# 35. ACTUS quinti. SCAENA decima.
+## 35. ACTUS quinti. SCAENA decima.
 
 Hieronymus. Paedisca. Georgus. Byrsocopus.
 
@@ -2718,7 +2718,7 @@ Fugit alacer spoliatus onere vestium.
 
 Vicinus huc properat, sed absque coniuge.
 
-# 36. ACTUS quinti. SCAENA undecima.
+## 36. ACTUS quinti. SCAENA undecima.
 
 Byrsocopus. Georgus. Ponus. Caupo.
 

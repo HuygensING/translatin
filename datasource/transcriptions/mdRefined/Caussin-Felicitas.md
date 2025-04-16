@@ -101,7 +101,7 @@ aliquo post tempore consummauit, destinatur.
 
 
 
-# 1. PERSONAE.
+## 1. PERSONAE.
 
 ANGELVS.
 
@@ -141,7 +141,7 @@ CRISPVS Nobilis occultus Christianus.
 
 
 
-# 3. ARGVMENTVM HEROICO VERSV REDDITVM.
+## 3. ARGVMENTVM HEROICO VERSV REDDITVM.
 
 MAgnanimos canimus iuuenes, & prodiga vitae
 
@@ -227,7 +227,7 @@ Auspice te mites ducunt per sydera pompas.
 
 FELICITAS TRAGOEDIA
 
-# 4. ACTVS PRIMVS.
+## 4. ACTVS PRIMVS.
 
 ANICETVS PONTIFEX. EVAGRIVS COMES PONtificis, Crispus nobilis
 Christianus.
@@ -875,7 +875,7 @@ Perque profanatas mittet sua iura phalanges.
 
 
 
-# 6. ACTVS SECVNDI
+## 6. ACTVS SECVNDI
 
 PERIOCHE.
 
@@ -931,7 +931,7 @@ Ipsa sui similis, magno vicina Tonanti.
 
 
 
-# 7. ACTVS SECVNDVS.
+## 7. ACTVS SECVNDVS.
 
 MARCVS AVRELIVS, FELICITAS
 
@@ -1716,7 +1716,7 @@ Altior terris ego sum, polosque.
 
 Pectore claudo.
 
-# 10. ACTVS TERTII SYNOPSIS.
+## 10. ACTVS TERTII SYNOPSIS.
 
 CArnificum horrendas acies, & tristia caedis
 
@@ -1770,7 +1770,7 @@ Queis Deus, vt viuant, de coelo alimenta ministrat.
 
 
 
-# 11. ACTVS TERTIVS.
+## 11. ACTVS TERTIVS.
 
 MARCVS AVRELIVS, APOLLONIVS, PONTIFEX Idolorum, Publius Praefectus,
 
@@ -2501,7 +2501,7 @@ Cornu gloria diuite.
 
 
 
-# 13. ACTVS QVARTI
+## 13. ACTVS QVARTI
 
 PRAELVSIO.
 
@@ -2527,7 +2527,7 @@ Osculaque in patris Iuuenum globus emicat ardens.
 
 Quos postquam vnanimes ardere, in praelia vidit,
 
-# 14. Incipit, & dulci sanctos affatur amore:
+## 14. Incipit, & dulci sanctos affatur amore:
 
 Pergite magnanimi Iuuenes, quà gloria surgens
 
@@ -2553,7 +2553,7 @@ Stat casus renouare omnes, stat caeca pericla
 
 Tentare, atque animas tanta pro laude pacisci.
 
-# 15. ACTVS QVARTVS.
+## 15. ACTVS QVARTVS.
 
 AVRELIVS PVBLIVS, APOLLONIVS, PONTIFEX,
 
@@ -3257,7 +3257,7 @@ Conuulsisque ruas machina sedibus,
 
 Spectabo impauidus sydera labier.
 
-# 19. ACTVS QVINTI PERIOCHE.
+## 19. ACTVS QVINTI PERIOCHE.
 
 ATtigimus metam, perfecto latus honore
 
@@ -3297,7 +3297,7 @@ Quae non labentes anni rubigine soluant.
 
 
 
-# 20. ACTVS QVINTVS.
+## 20. ACTVS QVINTVS.
 
 PVBLIVS, IANVARIVS, CHORVS.
 

@@ -12,7 +12,7 @@ IVDITHA.
 
 
 
-# 1. Actorum nomina.
+## 1. Actorum nomina.
 
 HOLOFERNES, imperator Assyriorum.
 
@@ -46,7 +46,7 @@ ABRA, Iudithae ancilla.
 
 ≤line=2≥
 
-# 2. PROLOGVS.
+## 2. PROLOGVS.
 
 Trimetri Iambici.
 
@@ -126,7 +126,7 @@ Vos teneam: Eia, aures admouete sedulo,
 
 Huius periocham dum recito actiunculae.
 
-# 3. Comoediae Periocha.
+## 3. Comoediae Periocha.
 
 HOlofernes dux Aßyrici exercitus potens
 
@@ -164,7 +164,7 @@ Praedaque potiti, summum collaudant Deum.
 
 ≤folio=X2≥
 
-# 4. ACTVS I. SCENA I.
+## 4. ACTVS I. SCENA I.
 
 HOLOFERNES, MOABVS.
 
@@ -284,7 +284,7 @@ Hic illum, dum propiùs accedit, opperiar foris.
 
 ≤page=6≥
 
-# 5. ACTVS I. SCENA II.
+## 5. ACTVS I. SCENA II.
 
 ACHIOR, HOLOFERNES, MOABVS.
 
@@ -482,7 +482,7 @@ Sequitur, pugnos in ventrem ingerite venefico.
 
 ≤line=145≥ Hol. Scelerate, tu tuo indicio, quasi sorex, perijsti hodie.
 
-# 6. ACTVS I. SCENA III.
+## 6. ACTVS I. SCENA III.
 
 THRASO, LABRAX, ACHIOR.
 
@@ -604,7 +604,7 @@ Nos nunc conijciamus quantum possumus. Thr. Age
 
 ≤line=200≥ Praecurre, consequor. \-\--
 
-# 7. ACTVS I. SCENA IV.
+## 7. ACTVS I. SCENA IV.
 
 ACHIOR, SADOCVS, MELCHIAE.
 
@@ -739,7 +739,7 @@ Atque ideo tibi lubenter hic obtemperauerimus. Ach. Bene
 
 ≤line=260≥ Herclè facitis. Agedum properemus, res non patitur moram.
 
-# 8. ACTVS II. SCENA I.
+## 8. ACTVS II. SCENA I.
 
 OZYAS, ACHIOR, IOACHIMVS,
 
@@ -879,7 +879,7 @@ Exhortemur sedulò. Ozi. Nihil est quod aequè fecerim
 
 ≤line=325≥ [^43]Lubens. Agedum, praecede, sequimur euestigiò.
 
-# 9. ACTVS II. SCENA II.
+## 9. ACTVS II. SCENA II.
 
 HOLOFERNES, MOABVS, AMMONIDES.
 
@@ -1029,7 +1029,7 @@ Proximè ad vrbem accedamus, ego, vt strenuum
 
 Imperatorem decet, praeibo: vos me consequimini.
 
-# 10. ACTVS II. SCENA III.
+## 10. ACTVS II. SCENA III.
 
 OZYAS, IOACHIMVS.
 
@@ -1153,7 +1153,7 @@ Intro vt concedamus, & omnes ciues ad Deum
 
 [^67]Exorandum cohortemur sedulo. Ioa. Fiat.
 
-# 11. ACTVS II. SCENA IV.
+## 11. ACTVS II. SCENA IV.
 
 HOLOFERNES, AMMONIDES, MOABVS, THRASO.
 
@@ -1293,7 +1293,7 @@ Videte vt exequamini. Thr. Fiet. Hol. De aquae
 
 Ab eis auertenda dico. Mo. Meminimus probè.
 
-# 12. ACTVS III. SCENA I.
+## 12. ACTVS III. SCENA I.
 
 IOACHIMVS, OZIAS, MELCHIAS.
 
@@ -1439,7 +1439,7 @@ Mel. Fiet, nam talis mihi vestra videtur esse oratio,
 
 Vt si refrager pertinanciter peccare me putem.
 
-# 13. ACTVS III. SCENA II.
+## 13. ACTVS III. SCENA II.
 
 HOLOFERNES, AMMonides, MOABVS.
 
@@ -1574,7 +1574,7 @@ Eos omnes aut obseruari, aut obturari iussero.
 
 Am. Isthuc recte, laudo. Hol. Vos me hac consequimini.
 
-# 14. ACTVS III. SCENA III.
+## 14. ACTVS III. SCENA III.
 
 OZYAS, IOACHIMVS.
 
@@ -1673,7 +1673,7 @@ Ioa. Idem, & ego futurum auguror, adeò animus formidine,
 
 Ac terrore obstupuit mihi. \-\--
 
-# 15. ACTVS III. SCENA IV.
+## 15. ACTVS III. SCENA IV.
 
 MELCHIAS, IOACHIMVS, OZYAS.
 
@@ -1751,7 +1751,7 @@ Opus facto siet. Ozi. Vt lubet, praecede, sequimur. O Deus
 
 Serua obsecro, atque tuere nos miserrimos.
 
-# 16. ACTVS IV. SCENA I.
+## 16. ACTVS IV. SCENA I.
 
 OZIAS, IOACHIMVS, MELCHIAS. SADOCVS.
 
@@ -1949,7 +1949,7 @@ Ac presbyteris, huc ad me festinantem video? Ea
 
 Est ipsa. miror quid siet: nec temere esse arbitror.
 
-# 17. ACTVS IV. SCENA II.
+## 17. ACTVS IV. SCENA II.
 
 IVDITHA, AZARIAS, OZYAS.
 
@@ -2124,7 +2124,7 @@ Ozi. Confido ego herculè quoque. Sed nunc, si placet,
 
 Illic expectemus, dum veniat. Aza. Age, in nobis nihil est mora.
 
-# 18. ACTVS IV SCENA III.
+## 18. ACTVS IV SCENA III.
 
 IVDITHA.
 
@@ -2216,7 +2216,7 @@ Adeo diuino afflatus oestro, animus gestit mihi.
 
 Nunc tempus est, ad exeundum vt me parem.
 
-# 19. ACTVS IV. SCENA IV.
+## 19. ACTVS IV. SCENA IV.
 
 OZIAS, AZARIAS. IVDITHA,
 
@@ -2327,7 +2327,7 @@ Omnem populum ad preces continuas excitabimus,
 
 Atque exhortabimur sedulò. Aza. Age, vbi voles: i prae sequor.
 
-# 20. ACTVS IV. SCENA V.
+## 20. ACTVS IV. SCENA V.
 
 IVDITHA, ABRA, LABRAX, THRASO.
 
@@ -2423,7 +2423,7 @@ Nostro gratißimum futurum. Agitedum, sequimini.
 
 Ad illum vos recta deducemus Iud. Placet.
 
-# 21. ACTVS V SCENA I.
+## 21. ACTVS V SCENA I.
 
 HOLOFERNES, AMMONIDES.
 
@@ -2497,7 +2497,7 @@ Haud dubium est mihi. Sed intro nunc eamus, &
 
 In castra ad nostros reuertamur. Am. Agedum, vt lubet, sequor.
 
-# 22. ACTVS V SCENA II.
+## 22. ACTVS V SCENA II.
 
 IVDITHA, ABRA, THRASO.
 
@@ -2633,7 +2633,7 @@ Eò redeamus. Abr. Vbi voles: praecede, consequor.
 
 ≤page=47≥
 
-# 23. ACTVS V. SCENA III.
+## 23. ACTVS V. SCENA III.
 
 HOLOFERNES, MOABVS. BAGOAS, IVDITHA.
 
@@ -2848,7 +2848,7 @@ Bag. Progredere placide Moabe, ego te subsequor.
 
 ≤page=51≥
 
-# 24. ACTVS V. SCENA IV.
+## 24. ACTVS V. SCENA IV.
 
 IVDITHA, ABRA.
 
@@ -2968,7 +2968,7 @@ Rem omnem vobis incolumem, saluamque esse nuncio.
 
 ≤page=53≥
 
-# 25. ACTVS V. SCENA V.
+## 25. ACTVS V. SCENA V.
 
 MELCHIAS, IVDITHA, SADOCVS, OZIA, IOACHIMVS, ACHIOR.
 
@@ -3246,7 +3246,7 @@ Fugam dabunt, vbi ducem suum occisum cognouerint.
 
 ≤page=58≥
 
-# 26. ACTVS V SCENA VI.
+## 26. ACTVS V SCENA VI.
 
 THRASO, LABRAX, BAGOAS, AMMOnides.
 
@@ -3396,7 +3396,7 @@ Periculo. Age, nihil moror exercitum.
 
 Namque hocce tempus praecauere mihi me, non alijs sinit.
 
-# 27. ACTVS V. SCENA VII.
+## 27. ACTVS V. SCENA VII.
 
 MELCHIAS, SADOCVS, AZARIAS.
 
@@ -3474,7 +3474,7 @@ Eum tibi abunde pensatum iri credito.
 
 Sed satis hic cessatum est, nunc me in pedes quantum queo.
 
-# 28. ACTVS V. SCENA VIII.
+## 28. ACTVS V. SCENA VIII.
 
 OZYAS, IVDITHA, IOACHIMVS, AZARIAS.
 
@@ -3552,7 +3552,7 @@ Omnes laudemus, atque praedicemus beneficentiam.
 
 Iud. Piè, atque prudenter praecedite vos, sequor.
 
-# 29. PERORATIO.
+## 29. PERORATIO.
 
 Iambici senarij, & septenarij.
 
@@ -3580,7 +3580,7 @@ Conuitijs, probrisque incessere est ausus. Sed quam precor
 
 Catastrophen nefanda illius sortita est immanitas.
 
-# 30. PERORATIO. 64
+## 30. PERORATIO. 64
 
 Deoque exosa ostentatio? Non fortiter
 

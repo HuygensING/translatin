@@ -12,7 +12,7 @@ SACRA ET NOVA TRAGICO COMOEDIA.
 
 
 
-# 1. Dramatis personae.
+## 1. Dramatis personae.
 
 IOANNES.
 
@@ -50,7 +50,7 @@ TAMIAS
 
 ≤line=9≥
 
-# 2. ARGVMENTVM IN BAPTIsten, Carmine heroico redditum.
+## 2. ARGVMENTVM IN BAPTIsten, Carmine heroico redditum.
 
 ILLE salutiferi vocalis buccina Regis,
 
@@ -92,7 +92,7 @@ Theodorus Schrevelius.
 
 ≤line=10≥
 
-# 3. PROLOGVS.
+## 3. PROLOGVS.
 
 Iambici.
 
@@ -150,7 +150,7 @@ Nunc huius audite argumentum fabulae.
 
 ≤line=11≥
 
-# 4. PERIOCHA.
+## 4. PERIOCHA.
 
 IOannes solitudinem relinquit, ad
 
@@ -166,7 +166,7 @@ In carcerem mox conijcitur. Dein’ caput
 
 Illi praecidi rex iuratus praecipit.
 
-# 5. ACTVS I. SCENA I.
+## 5. ACTVS I. SCENA I.
 
 IOANNES.
 
@@ -224,7 +224,7 @@ Commissum mihi. Sed nescio quos huc conspicor
 
 ≤line=25≥ Accedere, eos adoriar, quamuis ignotos.
 
-# 6. ACTVS I. SCENA II.
+## 6. ACTVS I. SCENA II.
 
 AZARIAS, SIMEON, IOANNES.
 
@@ -405,7 +405,7 @@ Ad hanc praesentem admittam gratiam; nisi
 
 Aqua ablutum. Aza. Vt lubet: parebimus per omnia.
 
-# 7. ACTVS I. SCENA III.
+## 7. ACTVS I. SCENA III.
 
 THRASO, STRATO, IOANNES, SIMEON, AZARIAS.
 
@@ -551,7 +551,7 @@ Thr. Faciemus herclè sedulò.
 
 [^21]Ioan. Nunc isthac vt secedam, rei, atque tempus me monet.
 
-# 8. ACTVS I. SCENA IV.
+## 8. ACTVS I. SCENA IV.
 
 SADOCVS, IONADAS.
 
@@ -655,7 +655,7 @@ Enim dubium est, quin doctorem illum isthic reperturi
 
 Simus. Sad. Verisimile est quod dicis. Ion. Hem, sequere.
 
-# 9. ACTVS I. SCENA V.
+## 9. ACTVS I. SCENA V.
 
 IOANNES, SADOCVS, IONADAS,
 
@@ -753,7 +753,7 @@ Neque impunè feret. Ion. Ita fieri oportet. Sad. Facessat
 
 Nae haec infeliciter illi cedet confidentia.
 
-# 10. ACTVS II. SCENA I.
+## 10. ACTVS II. SCENA I.
 
 SIMEON, AZARIAS, IOANNES.
 
@@ -889,7 +889,7 @@ Vt precibus nobis subuenire apud Deum
 
 Digneris. Io. Fiet. \-\--
 
-# 11. ACTVS II. SCENA II.
+## 11. ACTVS II. SCENA II.
 
 HERODES, LEONIDES.
 
@@ -941,7 +941,7 @@ Her. Istic ad sinistram. Ehem, viden’? Leo. Video hercule.
 
 Ad illum, cupio eum audire, cupio colloqui.
 
-# 12. ACTVS II. SCENA III.
+## 12. ACTVS II. SCENA III.
 
 IOANNES, HERODES, LEONIDES.
 
@@ -1078,7 +1078,7 @@ Hominemque fugiamus maledicum: qui vt rabidus canis
 
 ≤page=27≥
 
-# 13. ACTVS II. SCENA IV.
+## 13. ACTVS II. SCENA IV.
 
 IOANNES.
 
@@ -1118,7 +1118,7 @@ Fastosos illos satrapas,
 
 Sibi placentes, missos facio lubens.
 
-# 14. ACTVS II. SCENA V.
+## 14. ACTVS II. SCENA V.
 
 HERODES, IOANNES.
 
@@ -1240,7 +1240,7 @@ Heus heus, accedite rursus, meque sequimini.
 
 ≤page=30≥
 
-# 15. ACTVS III. SCENA I.
+## 15. ACTVS III. SCENA I.
 
 HERODIAS, HERODES.
 
@@ -1376,7 +1376,7 @@ Gratißimum est. Eamus nunc intro, & hilarem
 
 Hunc sumamus diem. Herod. Placet.
 
-# 16. ACTVS III. SCENA II.
+## 16. ACTVS III. SCENA II.
 
 IOANNES, SIMEON, AZARIAS.
 
@@ -1430,7 +1430,7 @@ Precari, vt gratiam suam
 
 In nos confirmet. Ion. Faciam sedulò. Sim. Vale vir sanctißime.
 
-# 17. ACTVS III. SCENA III.
+## 17. ACTVS III. SCENA III.
 
 SADOCVS, IONADAS, IOANNES.
 
@@ -1588,7 +1588,7 @@ Sad. Et mihi quidem, quae dixisti, minimè probantur omnia.
 
 Ioa. Nihil miror, cum alim robis aliud instillet spiritus.
 
-# 18. ACTVS III. SCENA IV.
+## 18. ACTVS III. SCENA IV.
 
 SADOCVS, IONADAS.
 
@@ -1644,7 +1644,7 @@ Lubens, modò te hic adiutorem praebeas
 
 Atque Leuitas referemus omnia. Sad. Age, placet.
 
-# 19. ACTVS IV. SCENA I.
+## 19. ACTVS IV. SCENA I.
 
 HERODES, HERODIAS.
 
@@ -1804,7 +1804,7 @@ Hoc effectum dabo tibi. \-\--
 
 ≤page=40≥
 
-# 20. ACTVS IV SCENA II.
+## 20. ACTVS IV SCENA II.
 
 HERODES.
 
@@ -1848,7 +1848,7 @@ Comprehendi iubeam: sic tamen ne in vinculis
 
 Tractetur inhumanius.
 
-# 21. ACTVS IV. SCENA III.
+## 21. ACTVS IV. SCENA III.
 
 IOANNES, SYRVS, SANGA, AZARIAS. \[\< SANCA\]
 
@@ -1953,7 +1953,7 @@ Abunde me tutum Deus sua seruabit gratia.
 
 Hem, pergite viri: in me nihil est morae.
 
-# 22. ACTVS IV SCENA IV. \[\< II\]
+## 22. ACTVS IV SCENA IV. \[\< II\]
 
 HERODES.
 
@@ -2007,7 +2007,7 @@ Quem quidem ego planè hilarem mihi sumendum puto.
 
 [^68]Apparatu exceptos dicant, hoc agam.
 
-# 23. ACTVS V SCENA I.
+## 23. ACTVS V SCENA I.
 
 HERODIAS, HERODES.
 
@@ -2068,7 +2068,7 @@ At opportunè eos simul accedere conspicor. bene
 
 Se res habet. Opperiar illos hic ante ostium.
 
-# 24. ACTVS V. SCENA II.
+## 24. ACTVS V. SCENA II.
 
 MELCHIAS, TAMIAS, LYCONIDES, HERODES.
 
@@ -2126,7 +2126,7 @@ Her. Euge, laudo. Indulgeamus genio, & simus hilares.
 
 ≤page=46≥
 
-# 25. ACTVS V. SCENA III.
+## 25. ACTVS V. SCENA III.
 
 HERODIAS, SALOME.
 
@@ -2148,7 +2148,7 @@ Et ad nutum patris te accommoda potißimum.
 
 Nosti quibus ille delectetur maxime. Sal. Fiet.
 
-# 26. ACTVS V. SCENA IV.
+## 26. ACTVS V. SCENA IV.
 
 SALOME, HERODES, MELCHIAS, LYCONIDES, HERODIAS.
 
@@ -2263,7 +2263,7 @@ Mali. Sal. Et hîc, & alibi lubens tibi obsequar
 ≤line=935≥ Mater. Herod. Bene facis, laudo. Sal. Nunc intrò me rursus
 confero.
 
-# 27. ACTVS V. SCENA V.
+## 27. ACTVS V. SCENA V.
 
 HERODES, TAMIAS, MELCHIAS, SALOME, SANGA.
 
@@ -2325,7 +2325,7 @@ Ad spiculatorem pergo viâ. Sed quò
 
 Vis deferri caput? Sal. Adme, siue ad matrem. San. Intelligo.
 
-# 28. ACTVS V. SCENA VI.
+## 28. ACTVS V. SCENA VI.
 
 HERODIAS. SALOME, SANGA.
 
@@ -2444,7 +2444,7 @@ Vt aiunt, non mordent. Herod. Facete, atque lepide.
 
 ≤line=1015≥ Eamus nunc intro, ibique triumphum agamus. Sal. Vt lubet.
 
-# 29. ACTVS V. SCENA VII.
+## 29. ACTVS V. SCENA VII.
 
 SIMEON, AZARIAS.
 

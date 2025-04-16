@@ -37,11 +37,11 @@ drama:
     column: Ms.
   firstEdition:
     tp: str
-    default: "0001" 
+    default: "none" 
     column: First edition
   pubYear:
     tp: str
-    default: "0001" 
+    default: "none" 
     column: year of publication
   pubPlace:
     tp: str

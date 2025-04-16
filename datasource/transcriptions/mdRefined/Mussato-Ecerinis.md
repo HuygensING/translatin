@@ -32,9 +32,9 @@ Nuntius
 
 **Chorus\]**
 
-# 2. ACTUS I
+## 2. ACTUS I
 
-# 3. Scena I
+## 3. Scena I
 
 *Adelheita, Ecerinus, Albricus*
 
@@ -206,7 +206,7 @@ cui bella mortes exitia fraudes doli
 
 ≤line=85≥ perditio et omnis generis humani placent.
 
-# 4. Scena II
+## 4. Scena II
 
 *Sic fatus ima parte secessit domus*
 
@@ -364,9 +364,9 @@ Verona venit anxius,
 
 qui iam fert nova, nuntius.
 
-# 6. ACTVS II
+## 6. ACTVS II
 
-# 7. SCENA I
+## 7. SCENA I
 
 *Nuntius, Chorus*
 
@@ -608,9 +608,9 @@ Te Patrem caeli populus redemptus
 
 ≤line=280≥ invocat supplex, iterum relapsus.
 
-# 11. ACTVS III
+## 11. ACTVS III
 
-# 12. SCENA I
+## 12. SCENA I
 
 *Ecerinus, Albricus*
 
@@ -696,7 +696,7 @@ hinc inde multos transfugas. Absit fides
 
 pietasque nostris actibus semper procul.
 
-# 13. Scena II
+## 13. Scena II
 
 *Ecerinus, Ziramons, Frater Lucas*
 
@@ -732,7 +732,7 @@ stilletque sanies: fumus ad summos polos
 
 a me litatas victimas tales ferat.
 
-# 14. Scena III
+## 14. Scena III
 
 Fr*.* Inclite Ecerine, parce, da fandi locum;
 
@@ -854,7 +854,7 @@ illis iubentibus? Nec inspector Deus
 
 prohibere voluit, esse sic ultro sinens.
 
-# 15. Scena IV
+## 15. Scena IV
 
 *Nuntius, Ecerinus, Ansedisius, Commilitones*
 
@@ -980,9 +980,9 @@ Spectator queritur iudicii parum,
 
 dum restat Patavum quod reparet genus.
 
-# 17. ACTVS IV
+## 17. ACTVS IV
 
-# 18. Scena I
+## 18. Scena I
 
 ≤line=460≥ Ec*.* Adversa vires fortibus praebet viris
 
@@ -996,7 +996,7 @@ Lombarda signis appetit subdi meis
 
 ≤line=465≥ gens tota ab infra Gallicis degens iugis.
 
-# 19. Scena II
+## 19. Scena II
 
 *Nuntius, Chorus*
 
@@ -1144,7 +1144,7 @@ Annuat votis Deus, ut petitis,
 
 virgine natus.
 
-# 21. ACTVS V
+## 21. ACTVS V
 
 *Nuntius, Chorus*
 

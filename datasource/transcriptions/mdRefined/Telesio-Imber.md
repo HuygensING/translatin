@@ -128,7 +128,7 @@ ANTONII THYLESII IMBER AVREVS.
 
 
 
-# 2. ACTVS PRIMVS.
+## 2. ACTVS PRIMVS.
 
 
 
@@ -552,7 +552,7 @@ Et lamenta promit in auras
 
 Gemitus tristes geminans miseriter.
 
-# 4. ACTVS SECVNDVS.
+## 4. ACTVS SECVNDVS.
 
 Deplorat calamitates suas Danaë, cum à parente in turri ferrea esset
 inclusa, eamque nutrix consolatur. Iambici Senarij, extra decem
@@ -999,7 +999,7 @@ Sperare quod tamen audes,
 
 Non irritum faxint dij.
 
-# 9. ACTVS TERTIVS.
+## 9. ACTVS TERTIVS.
 
 Miratur Acrisius turrim aeneam à Vula¬
 
@@ -1718,7 +1718,7 @@ Nunc Cyclopas horridos
 
 ≤line=710≥ Effugit exanimis metu.
 
-# 12. ACTVS QVARTVS.
+## 12. ACTVS QVARTVS.
 
 Attonita secum loquitur Danaë, cum è turri, quo in pluuiam auream
 mutatus penetrauerat, Iuppiter euolasset: mox omnia nutrici enarrat.
@@ -2225,7 +2225,7 @@ Tellus in auras
 
 Nunquam extulisses malum.
 
-# 14. ACTVS QVINTVS.
+## 14. ACTVS QVINTVS.
 
 Exponit flebili uoce nuncius, quibus fuerit modis extracta Danae ab
 Acrisio è turri, & in arcam ligneam coniecta, marique ac uentis

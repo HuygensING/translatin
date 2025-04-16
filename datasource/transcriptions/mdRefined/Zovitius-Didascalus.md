@@ -73,7 +73,7 @@ Octobreis.
 
 
 
-# 1. PROLOGVS.
+## 1. PROLOGVS.
 
 Senarij.
 
@@ -149,7 +149,7 @@ Non exhibebitur hic tibi lasciuia,
 
 Vestrae iuuentutis saluti maximae.
 
-# 2. PERIOCHA.
+## 2. PERIOCHA.
 
 D IDASCALVS traducitur per omnium
 
@@ -171,7 +171,7 @@ V t iudici sese obserunt. Caussa cadit
 
 S alsum parum Demus. Ouat hinc Didascalus.
 
-# 3. DRAMATIS PERSONAE
+## 3. DRAMATIS PERSONAE
 
 Iuppiter Glottus lingua
 
@@ -189,7 +189,7 @@ Didascalus Latinè ludimagister
 
 Antisilenus pelle decorus
 
-# 4. ACTVS I. SCAENA I.
+## 4. ACTVS I. SCAENA I.
 
 Iuppiter.
 
@@ -255,7 +255,7 @@ Apud quem habebit Iusticia, non gratia
 
 ≤line=30≥ Locum. Huc adesto Mercuri, & propere quidem.
 
-# 5. ACTUS I. SCAENA II.
+## 5. ACTUS I. SCAENA II.
 
 Mercurius, Iuppiter.
 
@@ -349,7 +349,7 @@ IUP. Accingor ut dimittar in terram quoque,
 
 Ne ubi alios properare uolo, ipsus ego morer.
 
-# 6. ACTUS II. SCAENA I.
+## 6. ACTUS II. SCAENA I.
 
 Didasculus.
 
@@ -437,7 +437,7 @@ Nostro Antisileno candidi semunciam.
 
 ≤line=115≥ Huc venit. Hypocrisis sese uobis aperiet.
 
-# 7. ACTUS II. SCAENA II.
+## 7. ACTUS II. SCAENA II.
 
 Antisilenus, Didascalus.
 
@@ -537,7 +537,7 @@ Homine imperito nihil iniquius datur,
 
 Qui, nisi quod opse/ipse? facit, nihil rectum putat.
 
-# 8. ACTUS II. SCAENA III.
+## 8. ACTUS II. SCAENA III.
 
 Antisilenus.
 
@@ -613,7 +613,7 @@ Vbique cum versatur Hypocrisis mea,
 
 Vbique sum longè alius animo atque facie.
 
-# 9. ACTUS III. SCAENA I.
+## 9. ACTUS III. SCAENA I.
 
 Mercurius.
 
@@ -813,7 +813,7 @@ Iste huc uenit. Demum mihi, aut Didascalum
 
 Modò indicabit forsitan, quos quaerito.
 
-# 10. ACTUS III. SCAENA II.
+## 10. ACTUS III. SCAENA II.
 
 Demus, Mercurius.
 
@@ -919,7 +919,7 @@ Nunc uellem ut itidem faceret, animus quò meus
 
 Malè saucius permolliusculè cubet.
 
-# 11. ACTUS III. SCAENA III.
+## 11. ACTUS III. SCAENA III.
 
 Colacoglottus, Demus.
 
@@ -1075,7 +1075,7 @@ Hoc, ut qui populi robur est certissimum.
 
 Per hunc salus me constat, aut per neminem.
 
-# 12. ACTUS IIII. SCAENA I.
+## 12. ACTUS IIII. SCAENA I.
 
 Didascalus, Mercurius.
 
@@ -1139,7 +1139,7 @@ DI\. Hoccine datur inhumanius? ME. Bredae tibi et
 
 Demo sedebit Iuppiter, & à prandio.
 
-# 13. ACTUS IIII. SCAENA II.
+## 13. ACTUS IIII. SCAENA II.
 
 Didascalus.
 
@@ -1169,7 +1169,7 @@ Vt tergiuerser. Totus occidi, nisi
 
 Causa mea stabit? Sed huc quaenam uenit?
 
-# 14. ACTUS IIII. SCAENA III.
+## 14. ACTUS IIII. SCAENA III.
 
 Ablabia, Didascalus.
 
@@ -1247,7 +1247,7 @@ Modò destituor: ut quae Iouem ipsum iudicem
 
 Veretur. Actum est equidem de Didascalo.
 
-# 15. ACTUS V. SCAENA I.
+## 15. ACTUS V. SCAENA I.
 
 Demus.
 
@@ -1283,7 +1283,7 @@ Salua omnia loquitur. De utriusque corio
 
 Ludetur. Hinc rectà aduocatum adeo meum.
 
-# 16. ACTUS V. SCAENA II.
+## 16. ACTUS V. SCAENA II.
 
 Didascalus, Alithia.
 
@@ -1341,7 +1341,7 @@ Mercurius est nomenclator ipsius
 
 ≤line=540≥ Iouis. Equidem percommodè. Quin alloquor?
 
-# 17. ACTUS V. SCAENA III.
+## 17. ACTUS V. SCAENA III.
 
 Alithia, Mercurius.
 
@@ -1371,7 +1371,7 @@ Vrbanus es. MER. Perdidi ego scapulas, nisi abeo.
 
 AL. Hem, Demus ipse cum aduocatis huc uenit.
 
-# 18. ACTUS V. SCAENA IIII.
+## 18. ACTUS V. SCAENA IIII.
 
 Diabole, Colacoglottus, Glottus, Demus, Alithia.
 
@@ -1401,7 +1401,7 @@ Trophaea posituri. CO. Benè equidem certa. AL. Quàm
 
 Nondum sciunt nihil Alithia fortius.
 
-# 19. ACTUS V. SCAENA V.
+## 19. ACTUS V. SCAENA V.
 
 Iuppiter, Mercurius, Demus, Didascalus,
 
