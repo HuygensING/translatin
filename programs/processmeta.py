@@ -4,8 +4,6 @@ from tf.core.helpers import console, htmlEsc
 from tf.core.files import readYaml
 from tf.ner.helpers import toAscii
 
-from processhelpers import METADATA_YML, METADATA_FILE
-
 
 TEMPLATE = """\
 <?xml version="1.0" encoding="utf-8"?>
@@ -71,10 +69,11 @@ TEMPLATE = """\
 
 
 class Meta:
-    def __init__(self, Process):
+    def __init__(self, Process, metadataYml, metadataFile):
         self.template = TEMPLATE
         self.Process = Process
-        self.metaFields = readYaml(asFile=METADATA_YML)
+        self.metaFields = readYaml(asFile=metadataYml)
+        self.metadataFile = metadataFile
         self.error = False
         self.dramaById = {}
         self.dramaByName = {}
@@ -87,6 +86,7 @@ class Meta:
 
         Process = self.Process
         metaFields = self.metaFields
+        metadataFile = self.metadataFile
 
         dramaById = self.dramaById
         dramaByName = self.dramaByName
@@ -101,7 +101,7 @@ class Meta:
         ws = {}
 
         try:
-            wb = load_workbook(METADATA_FILE, data_only=True)
+            wb = load_workbook(metadataFile, data_only=True)
             ws["author"] = wb["author"]
             ws["drama"] = wb["drama"]
         except Exception as e:

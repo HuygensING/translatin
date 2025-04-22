@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 Stilpho Jacobi Vimpfelingii Sletstatini
 

@@ -31,27 +31,8 @@ from tf.core.files import (
 from tf.core.helpers import console
 
 from processmeta import Meta as MetaCls
-from processhelpers import (
-    DOCXDIR,
-    MD_ORIGDIR,
-    MD_FINALDIR,
-    TEIXDIR,
-    TEIDIR,
-    REPORT_TRANSDIR,
-    REPORT_WARNINGS,
-    REPORT_INFO,
-    REPORT_LINES,
-    REPORT_PAGES,
-    REPORT_SECTIONS,
-    REPORT_LINES_RAW,
-    REPORT_LINENUMBERS_RAW,
-    REPORT_PAGES_RAW,
-    REPORT_SECTIONS_RAW,
-    msgLine,
-    sanitizeFileName,
-    normalizeChars,
-    wrapParas,
-)
+from processhelpers import setVars
+from processhelpers import msgLine, sanitizeFileName, normalizeChars, wrapParas
 
 from dramaspecific import DramaSpecific
 
@@ -216,7 +197,7 @@ LINENUMBER_ALONE_RE = re.compile(
     ([0-9]+)
     (?=\n\n)
     """,
-    re.X
+    re.X,
 )
 LINENUMBER_BEFORE_RE = re.compile(
     r"""
@@ -389,18 +370,26 @@ SPLIT_PARA_RE = re.compile(r"(?<=[^\n\\])\n(?=[^\n])")
 
 
 class TeiFromDocx:
-    def __init__(self, silent=False):
+    def __init__(self, silent=False, test=False):
         self.silent = silent
         self.error = False
+        settings = setVars(test=test)
 
-        initTree(REPORT_TRANSDIR, fresh=False)
+        for k, v in settings.items():
+            setattr(self, k, v)
+
+        reportTransDir = self.reportTransDir
+        initTree(reportTransDir, fresh=False)
 
         self.warnings = []
         self.info = []
         self.rhw = None
         self.rhi = None
 
-        self.Meta = MetaCls(self)
+        metadataYml = self.metadataYml
+        metadataFile = self.metadataFile
+
+        self.Meta = MetaCls(self, metadataYml, metadataFile)
         self.getInventory()
 
         self.showWarnings(serious=False)
@@ -419,7 +408,13 @@ class TeiFromDocx:
             console(*args, **kwargs)
 
     def warn(
-        self, drama=None, ln=None, line=None, heading=None, summarize=False, serious=True
+        self,
+        drama=None,
+        ln=None,
+        line=None,
+        heading=None,
+        summarize=False,
+        serious=True,
     ):
         rh = self.rhw if serious else self.rhi
         warnings = self.warnings if serious else self.info
@@ -431,6 +426,9 @@ class TeiFromDocx:
 
     def showWarnings(self, serious=True):
         silent = self.silent
+        reportInfo = self.reportInfo
+        reportWarnings = self.reportWarnings
+
         warnings = self.warnings if serious else self.info
 
         nWarnings = len(warnings)
@@ -458,7 +456,7 @@ class TeiFromDocx:
                 self.console(f"{n:>5} {'x':<6} {heading}", error=serious)
 
             if hasattr(self, "rhw"):
-                wFile = REPORT_WARNINGS if serious else REPORT_INFO
+                wFile = reportWarnings if serious else reportInfo
                 self.console(f"See {wFile}", error=serious)
 
         if silent:
@@ -475,6 +473,7 @@ class TeiFromDocx:
 
     def getInventory(self):
         Meta = self.Meta
+        docXDir = self.docXDir
 
         dramaFiles = {}
         self.dramaFiles = dramaFiles
@@ -483,7 +482,7 @@ class TeiFromDocx:
 
         files = sorted(
             x
-            for x in dirContents(DOCXDIR)[0]
+            for x in dirContents(docXDir)[0]
             if x.endswith(".docx") and not x.startswith("~")
         )
 
@@ -595,9 +594,7 @@ class TeiFromDocx:
                 secNum = len(sections)
                 secHead = f"{pre}{trigger}{post}".strip()
                 replacement = (
-                    f"## {secNum}. {secHead}"
-                    if isSection
-                    else f"**{secHead}**"
+                    f"## {secNum}. {secHead}" if isSection else f"**{secHead}**"
                 )
             else:
                 replacement = match.group(0)
@@ -702,7 +699,7 @@ class TeiFromDocx:
             round(front.count("\n") + main.count("\n") + back.count("\n"))
         )
 
-        text = f"# Front\n\n/{front}\n\n# Main\n\n{main}\n\n# Back\n\n{back}\n"
+        text = f"# Front\n\n{front}\n\n# Main\n\n{main}\n\n# Back\n\n{back}\n"
         text = wrapParas(text)
         return (msg, text)
 
@@ -710,12 +707,13 @@ class TeiFromDocx:
         if self.error:
             return (False, None, None)
 
+        teiXDir = self.teiXDir
         Meta = self.Meta
 
         if Meta.error:
             return (False, None, None)
 
-        with open(f"{TEIXDIR}/{dramaName}.xml") as f:
+        with open(f"{teiXDir}/{dramaName}.xml") as f:
             text = f.read()
 
         textLines = text.split("\n")
@@ -774,13 +772,28 @@ class TeiFromDocx:
         if self.error:
             return
 
+        reportInfo = self.reportInfo
+        reportWarnings = self.reportWarnings
+        mdOrigDir = self.mdOrigDir
+        mdFinalDir = self.mdFinalDir
+        docXDir = self.docXDir
+        teiDir = self.teiDir
+        teiXDir = self.teiXDir
+        reportLines = self.reportLines
+        reportLinesRaw = self.reportLinesRaw
+        reportLinenumbersRaw = self.reportLinenumbersRaw
+        reportPages = self.reportPages
+        reportPagesRaw = self.reportPagesRaw
+        reportSections = self.reportSections
+        reportSectionsRaw = self.reportSectionsRaw
+
         self.warnings = []
         extraLog = {}
         self.extraLog = extraLog
         self.specific = DramaSpecific(self)
 
-        self.rhw = open(REPORT_WARNINGS, mode="w")
-        self.rhi = open(REPORT_INFO, mode="w")
+        self.rhw = open(reportWarnings, mode="w")
+        self.rhi = open(reportInfo, mode="w")
 
         cleanDone = False
 
@@ -794,15 +807,15 @@ class TeiFromDocx:
 
         dramaFiles = self.dramaFiles
 
-        initTree(MD_ORIGDIR, fresh=False)
-        initTree(MD_FINALDIR, fresh=False)
-        initTree(TEIXDIR, fresh=False)
-        initTree(TEIDIR, fresh=True, gentle=True)
+        initTree(mdOrigDir, fresh=False)
+        initTree(mdFinalDir, fresh=False)
+        initTree(teiXDir, fresh=False)
+        initTree(teiDir, fresh=True, gentle=True)
 
-        lines = readYaml(asFile=REPORT_LINES_RAW, plain=True)
-        lineNumbers = readYaml(asFile=REPORT_LINENUMBERS_RAW, plain=True)
-        pages = readYaml(asFile=REPORT_PAGES_RAW, plain=True)
-        sections = readYaml(asFile=REPORT_SECTIONS_RAW, plain=True)
+        lines = readYaml(asFile=reportLinesRaw, plain=True)
+        lineNumbers = readYaml(asFile=reportLinenumbersRaw, plain=True)
+        pages = readYaml(asFile=reportPagesRaw, plain=True)
+        sections = readYaml(asFile=reportSectionsRaw, plain=True)
 
         self.lines = lines
         self.lineNumbers = lineNumbers
@@ -826,11 +839,11 @@ class TeiFromDocx:
             nDramas += 1
             realFile = dramaFiles[file]
 
-            inFile = f"{DOCXDIR}/{realFile}.docx"
-            rawFile = f"{MD_ORIGDIR}/{file}.md"
-            cleanFile = f"{MD_FINALDIR}/{file}.md"
-            teixFile = f"{TEIXDIR}/{file}.xml"
-            teiFile = f"{TEIDIR}/{file}.xml"
+            inFile = f"{docXDir}/{realFile}.docx"
+            rawFile = f"{mdOrigDir}/{file}.md"
+            cleanFile = f"{mdFinalDir}/{file}.md"
+            teixFile = f"{teiXDir}/{file}.xml"
+            teiFile = f"{teiDir}/{file}.xml"
 
             rawUptodate = fileExists(rawFile) and mTime(rawFile) > mTime(inFile)
 
@@ -936,10 +949,10 @@ class TeiFromDocx:
         self.console(f"Dramas without specifics defined: {specNone}")
 
         if cleanDone:
-            writeYaml(lines, asFile=REPORT_LINES_RAW)
-            writeYaml(lineNumbers, asFile=REPORT_LINENUMBERS_RAW)
-            writeYaml(pages, asFile=REPORT_PAGES_RAW)
-            writeYaml(sections, asFile=REPORT_SECTIONS_RAW)
+            writeYaml(lines, asFile=reportLinesRaw)
+            writeYaml(lineNumbers, asFile=reportLinenumbersRaw)
+            writeYaml(pages, asFile=reportPagesRaw)
+            writeYaml(sections, asFile=reportSectionsRaw)
 
         lineInfo = {}
         pageInfo = {}
@@ -966,14 +979,14 @@ class TeiFromDocx:
 
                 sectionInfo[file] = items
 
-            writeYaml(lineInfo, asFile=REPORT_LINES)
-            self.console(f"See for pages: {REPORT_LINES}")
+            writeYaml(lineInfo, asFile=reportLines)
+            self.console(f"See for pages: {reportLines}")
 
-            writeYaml(pageInfo, asFile=REPORT_PAGES)
-            self.console(f"See for pages: {REPORT_PAGES}")
+            writeYaml(pageInfo, asFile=reportPages)
+            self.console(f"See for pages: {reportPages}")
 
-            writeYaml(sectionInfo, asFile=REPORT_SECTIONS)
-            self.console(f"See for sections: {REPORT_SECTIONS}")
+            writeYaml(sectionInfo, asFile=reportSections)
+            self.console(f"See for sections: {reportSections}")
 
         self.showWarnings(serious=False)
         self.showWarnings()

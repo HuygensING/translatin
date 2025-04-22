@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 FABVLA COMICA, In commendationem aedificij, egenis senibus Harlemi
 extruendi: *Scripta, aut lusa potius* A CORNELIO SCHONAEO GOVDANO,

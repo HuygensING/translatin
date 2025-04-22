@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 ROCHI HONERDI. I. C.
 

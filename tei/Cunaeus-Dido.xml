@@ -20,13 +20,13 @@
     <publicationStmt>
         <publisher>Unknown publisher</publisher>
         <pubPlace>None</pubPlace>
-        <date>0001</date>
+        <date>none</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>
             Identifier: <name>Cunaeus-Dido</name><lb/>
             Short title: <title>Dido</title><lb/>
-            Year of first edition: <date>0001</date><lb/>
+            Year of first edition: <date>none</date><lb/>
             Author information:<lb/>
             Alias: Kun, Peter van der<lb/>
             Birth: 1586, Vlissingen<lb/>
@@ -54,7 +54,6 @@
     <body>
         <div type="level1" xml:id="front">
   <head>Front</head>
-  <p>/</p>
   <p>TRAGOEDIA DIDO P. CUNAEI</p>
   <p>TRAGOEDIA (la)</p>
   <p>DIDO P. Cunaei</p>

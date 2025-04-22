@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 Tobias sive comice conscripta sacra Veteris Instrumenti Tobiae historia,
 praeter alia pietatis et virtutum documenta perspicuum quoddam

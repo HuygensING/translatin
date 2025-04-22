@@ -1,5 +1,40 @@
-Alberti-Philodoxus.xml
+Zovitius-Ruth.xml
 	1x       0refs    
+	1x       0refs    actvs-primvs.
+	1x       0refs    actvs-quintvs.
+	1x       0refs    actvs-qvartvs.
+	1x       0refs    actvs-secvndus
+	1x       0refs    actvs-tertivs.
+	1x       0refs    back
+	1x       0refs    front
+	1x       0refs    main
+	1x       0refs    periocha.
+	1x       0refs    prologvs
+	1x       0refs    scaena-octava.
+	1x       0refs    scaena-qvarta.
+	1x       0refs    scaena-qvarta.-1
+	1x       0refs    scaena-qvarta.-2
+	1x       0refs    scaena-qvarta.-3
+	1x       0refs    scaena-qvinta-.
+	1x       0refs    scaena-qvinta.
+	1x       0refs    scaena-qvinta.-1
+	1x       0refs    scaena-secvnda.
+	1x       0refs    scaena-secvnda.-1
+	1x       0refs    scaena-secvnda.-2
+	1x       0refs    scaena-secvnda.-3
+	1x       0refs    scaena-secvnda.-4
+	1x       0refs    scaena-septima.
+	1x       0refs    scaena-sexta.
+	1x       0refs    scaena-tertia.
+	1x       0refs    scaena-tertia.-1
+	1x       0refs    scaena-tertia.-2
+	1x       0refs    scaena-tertia.-3
+	1x       0refs    translatin0118
+	Unique:       31
+	Non-unique:    0
+	Unused:       31
+	Referenced:    0 x    0
+Alberti-Philodoxus.xml
 	1x       0refs    argumentum.
 	1x       0refs    back
 	1x       0refs    front
@@ -27,12 +62,11 @@ Alberti-Philodoxus.xml
 	1x       0refs    scena-xviii.
 	1x       0refs    scena-xx.
 	1x       0refs    translatin0001
-	Unique:       28
+	Unique:       27
 	Non-unique:    0
-	Unused:       28
+	Unused:       27
 	Referenced:    0 x    0
 Aler-Innocentia.xml
-	1x       0refs    
 	1x       0refs    actus-i
 	1x       0refs    actus-ii.
 	1x       0refs    argumentum-dramatis.
@@ -70,13 +104,25 @@ Aler-Innocentia.xml
 	1x       0refs    scena-vi.
 	1x       0refs    scena-vii.
 	1x       0refs    scena-viii.
+	1x       1ref     tn1
+	1x       1ref     tn10
+	1x       1ref     tn11
+	1x       1ref     tn12
+	1x       1ref     tn13
+	1x       1ref     tn2
+	1x       1ref     tn3
+	1x       1ref     tn4
+	1x       1ref     tn5
+	1x       1ref     tn6
+	1x       1ref     tn7
+	1x       1ref     tn8
+	1x       1ref     tn9
 	1x       0refs    translatin0002
-	Unique:       39
+	Unique:       51
 	Non-unique:    0
-	Unused:       39
-	Referenced:    0 x    0
+	Unused:       38
+	Referenced:   13 x   13
 Balde-Iephtias.xml
-	1x       0refs    
 	1x       0refs    actus-i.
 	1x       0refs    actus-ii.
 	1x       0refs    actus-iii.
@@ -109,22 +155,20 @@ Balde-Iephtias.xml
 	1x       0refs    scena-vi.
 	1x       0refs    scena-vii.
 	1x       0refs    translatin0003
-	Unique:       33
+	Unique:       32
 	Non-unique:    0
-	Unused:       33
+	Unused:       32
 	Referenced:    0 x    0
 Barlandus-Dialogus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0004
-	Unique:        5
+	Unique:        4
 	Non-unique:    0
-	Unused:        5
+	Unused:        4
 	Referenced:    0 x    0
 Beza-Abrahamus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-secvndvs.
 	1x       0refs    actvs-tertivs.
@@ -135,12 +179,11 @@ Beza-Abrahamus.xml
 	1x       0refs    personae.
 	1x       0refs    prologvs.
 	1x       0refs    translatin0005
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Brechtus-Euripus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
@@ -148,12 +191,11 @@ Brechtus-Euripus.xml
 	1x       0refs    personae-dramatis.
 	1x       0refs    prologus-cum-argumento-in-euripum-tragoediam.
 	1x       0refs    translatin0006
-	Unique:        8
+	Unique:        7
 	Non-unique:    0
-	Unused:        8
+	Unused:        7
 	Referenced:    0 x    0
 Caussin-Felicitas.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvarti
 	1x       0refs    actvs-qvartvs.
@@ -176,12 +218,11 @@ Caussin-Felicitas.xml
 	1x       1ref     tn5
 	1x       1ref     tn6
 	1x       0refs    translatin0007
-	Unique:       23
+	Unique:       22
 	Non-unique:    0
-	Unused:       17
+	Unused:       16
 	Referenced:    6 x    6
 Caussin-Hermenigildus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
@@ -193,12 +234,11 @@ Caussin-Hermenigildus.xml
 	1x       0refs    personae.
 	1x       0refs    prologvs.
 	1x       0refs    translatin0008
-	Unique:       12
+	Unique:       11
 	Non-unique:    0
-	Unused:       12
+	Unused:       11
 	Referenced:    0 x    0
 Caussin-Nabuchodonosor.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -211,12 +251,11 @@ Caussin-Nabuchodonosor.xml
 	1x       1ref     tn1
 	1x       1ref     tn2
 	1x       0refs    translatin0009
-	Unique:       13
+	Unique:       12
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    2 x    2
 Caussin-Solyma.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -235,12 +274,11 @@ Caussin-Solyma.xml
 	1x       1ref     tn6
 	1x       1ref     tn7
 	1x       0refs    translatin0010
-	Unique:       19
+	Unique:       18
 	Non-unique:    0
-	Unused:       12
+	Unused:       11
 	Referenced:    7 x    7
 Caussin-Theodoricus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -251,12 +289,11 @@ Caussin-Theodoricus.xml
 	1x       0refs    main
 	1x       0refs    personae.
 	1x       0refs    translatin0011
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Cellotius-Adrianus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -346,12 +383,11 @@ Cellotius-Adrianus.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0012
-	Unique:       90
+	Unique:       89
 	Non-unique:    0
-	Unused:       40
+	Unused:       39
 	Referenced:   50 x   50
 Cellotius-Chosroes.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -434,12 +470,11 @@ Cellotius-Chosroes.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0013
-	Unique:       83
+	Unique:       82
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:   48 x   48
 Cellotius-Reviviscentes.xml
-	1x       0refs    
 	1x       0refs    actvs-qvintvs.
 	1x       0refs    actvs-tertivs.
 	1x       0refs    back
@@ -552,12 +587,11 @@ Cellotius-Reviviscentes.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0014
-	Unique:      113
+	Unique:      112
 	Non-unique:    0
-	Unused:       57
+	Unused:       56
 	Referenced:   56 x   56
 Cellotius-Sapor.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-tertivs.
@@ -700,12 +734,11 @@ Cellotius-Sapor.xml
 	1x       1ref     tn81
 	1x       1ref     tn9
 	1x       0refs    translatin0015
-	Unique:      143
+	Unique:      142
 	Non-unique:    0
-	Unused:       62
+	Unused:       61
 	Referenced:   81 x   81
 Celtis-Ludus.xml
-	1x       0refs    
 	1x       0refs    actus-i.
 	1x       0refs    actus-ii.
 	1x       0refs    actus-iii.
@@ -715,12 +748,11 @@ Celtis-Ludus.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0016
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Claus-Vulpanser.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
@@ -775,12 +807,11 @@ Claus-Vulpanser.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0017
-	Unique:       55
+	Unique:       54
 	Non-unique:    0
-	Unused:       42
+	Unused:       41
 	Referenced:   13 x   13
 Crocus-Ioseph.xml
-	1x       0refs    
 	1x       0refs    actvs-primi-scena-i.
 	1x       0refs    actvs-primi-scena-ii.
 	1x       0refs    actvs-primi-scena-iii.
@@ -803,23 +834,21 @@ Crocus-Ioseph.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0018
-	Unique:       23
+	Unique:       22
 	Non-unique:    0
-	Unused:       23
+	Unused:       22
 	Referenced:    0 x    0
 Cunaeus-Dido.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    personae-lb
 	1x       0refs    translatin0019
-	Unique:        6
+	Unique:        5
 	Non-unique:    0
-	Unused:        6
+	Unused:        5
 	Referenced:    0 x    0
 Dalanthus-Dido.xml
-	1x       0refs    
 	1x       0refs    actus-.i.-scena-.i.
 	1x       0refs    actus-.ii.-scena-.i.
 	1x       0refs    actus.-iii.-scena-.1.
@@ -860,12 +889,11 @@ Dalanthus-Dido.xml
 	1x       1ref     tn9
 	1x       0refs    tragoediae-argumentum-ob-oculos-subijciet.
 	1x       0refs    translatin0020
-	Unique:       41
+	Unique:       40
 	Non-unique:    0
-	Unused:       27
+	Unused:       26
 	Referenced:   14 x   14
 Diether-Ioseph.xml
-	1x       0refs    
 	1x       0refs    actvs-primi
 	1x       0refs    actvs-qvarti
 	1x       0refs    actvs-qvinti
@@ -907,12 +935,11 @@ Diether-Ioseph.xml
 	1x       0refs    scena-vi.-1
 	1x       0refs    scena-vii.
 	1x       0refs    translatin0021
-	Unique:       42
+	Unique:       41
 	Non-unique:    0
-	Unused:       42
+	Unused:       41
 	Referenced:    0 x    0
 Enden-Philedonius.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    de-i.-uitkomste
 	1x       0refs    de-ii.-uitkomste
@@ -941,12 +968,11 @@ Enden-Philedonius.xml
 	1x       0refs    iv.-uitkomste
 	1x       0refs    main
 	1x       0refs    translatin0022
-	Unique:       29
+	Unique:       28
 	Non-unique:    0
-	Unused:       29
+	Unused:       28
 	Referenced:    0 x    0
 Ens-Auriacus.xml
-	1x       0refs    
 	1x       0refs    actus-primus.
 	1x       0refs    actus-quartus.
 	1x       0refs    actus-quintus.
@@ -957,12 +983,11 @@ Ens-Auriacus.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0023
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Forsett-Pedantius.xml
-	1x       0refs    
 	1x       0refs    actus-1.-scena-2.
 	1x       0refs    actus-primi-scena-quarta.
 	1x       0refs    actus-primi-scena-tertia.
@@ -999,12 +1024,11 @@ Forsett-Pedantius.xml
 	1x       0refs    scena-prima.-3
 	1x       0refs    scena.-1.
 	1x       0refs    translatin0024
-	Unique:       37
+	Unique:       36
 	Non-unique:    0
-	Unused:       37
+	Unused:       36
 	Referenced:    0 x    0
 Foxe-Christus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-i.-trimetri-iambici.
 	1x       0refs    actus-i.-scena-ii.-trimetri.
 	1x       0refs    actus-i.-scena-iii.-ejusdem-rationis.
@@ -1039,12 +1063,11 @@ Foxe-Christus.xml
 	1x       0refs    periocha.
 	1x       0refs    prologvs.
 	1x       0refs    translatin0025
-	Unique:       35
+	Unique:       34
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:    0 x    0
 Gnapheus-Acolastus.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina
 	1x       0refs    actvs-primi-scaena-prima
 	1x       0refs    actvs-primi-scaena-qvarta
@@ -1079,12 +1102,11 @@ Gnapheus-Acolastus.xml
 	1x       0refs    peroratio
 	1x       0refs    prologvs
 	1x       0refs    translatin0026
-	Unique:       35
+	Unique:       34
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:    0 x    0
 Gnapheus-Morosophus.xml
-	1x       0refs    
 	1x       0refs    actus-iiii-scena-iii.
 	1x       0refs    actus-iiii-scena-iiii.
 	1x       0refs    actus-iiii-scena-v.
@@ -1115,12 +1137,11 @@ Gnapheus-Morosophus.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0027
-	Unique:       31
+	Unique:       30
 	Non-unique:    0
-	Unused:       31
+	Unused:       30
 	Referenced:    0 x    0
 Goethals-Soter.xml
-	1x       0refs    
 	1x       0refs    act.-quinti-sce.-quarta-vltima.
 	1x       0refs    actus-1.
 	1x       0refs    actus-primi-scena-prima.
@@ -1153,12 +1174,11 @@ Goethals-Soter.xml
 	1x       0refs    personae.
 	1x       0refs    prologus.
 	1x       0refs    translatin0028
-	Unique:       33
+	Unique:       32
 	Non-unique:    0
-	Unused:       33
+	Unused:       32
 	Referenced:    0 x    0
 Gretser-Timon.xml
-	1x       0refs    
 	1x       0refs    actus-primi-scena-sexta.
 	1x       0refs    actus-secundi-scena-prima
 	1x       0refs    back
@@ -1166,24 +1186,22 @@ Gretser-Timon.xml
 	1x       0refs    main
 	1x       0refs    prologus
 	1x       0refs    translatin0029
-	Unique:        8
+	Unique:        7
 	Non-unique:    0
-	Unused:        8
+	Unused:        7
 	Referenced:    0 x    0
 Gretser-Underwaldius.xml
-	1x       0refs    
 	1x       0refs    actus-primi-scena-secunda
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    prologus
 	1x       0refs    translatin0030
-	Unique:        7
+	Unique:        6
 	Non-unique:    0
-	Unused:        7
+	Unused:        6
 	Referenced:    0 x    0
 Grimald-Christus.xml
-	1x       0refs    
 	1x       0refs    actus-ii.-scena-i.
 	1x       0refs    actus-iii.-scena-vi.
 	1x       0refs    actvs-i.-scena-i.
@@ -1231,12 +1249,11 @@ Grimald-Christus.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0031
-	Unique:       48
+	Unique:       47
 	Non-unique:    0
-	Unused:       32
+	Unused:       31
 	Referenced:   16 x   16
 Grotius-Adamus.xml
-	1x       0refs    
 	1x       0refs    actus-iii.
 	1x       0refs    actus-iiii.
 	1x       0refs    actus-primus.
@@ -1246,12 +1263,11 @@ Grotius-Adamus.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0032
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Grotius-Christus.xml
-	1x       0refs    
 	1x       0refs    actus-primus.
 	1x       0refs    actus-quartus.
 	1x       0refs    actus-quintus.
@@ -1262,23 +1278,21 @@ Grotius-Christus.xml
 	1x       0refs    main
 	1x       0refs    personae.
 	1x       0refs    translatin0033
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Grotius-Phoenissae.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    interlocutores
 	1x       0refs    main
 	1x       0refs    translatin0034
-	Unique:        6
+	Unique:        5
 	Non-unique:    0
-	Unused:        6
+	Unused:        5
 	Referenced:    0 x    0
 Gwalther-Nabal.xml
-	1x       0refs    
 	1x       0refs    actus-i.
 	1x       0refs    actus-i.-scena-iii.
 	1x       0refs    actus-i.-scena-iiii.
@@ -1341,12 +1355,11 @@ Gwalther-Nabal.xml
 	1x       0refs    scena-i.-3
 	1x       0refs    scena-i.-4
 	1x       0refs    translatin0035
-	Unique:       63
+	Unique:       62
 	Non-unique:    0
-	Unused:       63
+	Unused:       62
 	Referenced:    0 x    0
 Heinsius-Auriacus.xml
-	1x       0refs    
 	1x       0refs    actus-ii.-scena-i.
 	1x       0refs    actus-primus.
 	1x       0refs    actus-quartus.-scena-i.
@@ -1362,12 +1375,11 @@ Heinsius-Auriacus.xml
 	1x       0refs    scena.-iii.
 	1x       1ref     tn1
 	1x       0refs    translatin0036
-	Unique:       16
+	Unique:       15
 	Non-unique:    0
-	Unused:       15
+	Unused:       14
 	Referenced:    1 x    1
 Heinsius-Herodes.xml
-	1x       0refs    
 	1x       0refs    actus-quartus.-folio339
 	1x       0refs    actus-quintus.
 	1x       0refs    actus-secundus.
@@ -1378,12 +1390,11 @@ Heinsius-Herodes.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0037
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Holonius-Catharina.xml
-	1x       0refs    
 	1x       0refs    actvs-ii.-scena.v.
 	1x       0refs    actvs-primi
 	1x       0refs    actvs-primi-1
@@ -1428,12 +1439,11 @@ Holonius-Catharina.xml
 	1x       0refs    scena.-vi.
 	1x       0refs    scena.-viii.
 	1x       0refs    translatin0038
-	Unique:       45
+	Unique:       44
 	Non-unique:    0
-	Unused:       45
+	Unused:       44
 	Referenced:    0 x    0
 Holonius-Laurentias.xml
-	1x       0refs    
 	1x       0refs    actvs-ii.-scena.-v.
 	1x       0refs    actvs-iiii.-scena.vi.
 	1x       0refs    actvs-qvarti-scena-prima.
@@ -1478,12 +1488,11 @@ Holonius-Laurentias.xml
 	1x       0refs    prologvs
 	1x       0refs    scena-prima.
 	1x       0refs    translatin0039
-	Unique:       45
+	Unique:       44
 	Non-unique:    0
-	Unused:       45
+	Unused:       44
 	Referenced:    0 x    0
 Honerdus-Thamara.xml
-	1x       0refs    
 	1x       0refs    act.-qvart.-scen.-prim.
 	1x       0refs    act.-tert.-scena.-prima.
 	1x       0refs    act.-v.-scen.-i.
@@ -1498,12 +1507,11 @@ Honerdus-Thamara.xml
 	1x       0refs    scena-secvnda.-1
 	1x       0refs    scena-tertia.
 	1x       0refs    translatin0040
-	Unique:       15
+	Unique:       14
 	Non-unique:    0
-	Unused:       15
+	Unused:       14
 	Referenced:    0 x    0
 Houcharius-Grisellis.xml
-	1x       0refs    
 	1x       0refs    actus-secundus.
 	1x       0refs    argumentum.
 	1x       0refs    back
@@ -1514,12 +1522,11 @@ Houcharius-Grisellis.xml
 	1x       0refs    prologvs.
 	1x       0refs    tertius-actus
 	1x       0refs    translatin0041
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Houthem-Gedeon.xml
-	1x       0refs    
 	1x       0refs    actus-primi.-scena-quarta.
 	1x       0refs    actus-primi.-scena-secunda.
 	1x       0refs    actus-primi.-scena-tertia.
@@ -1570,12 +1577,11 @@ Houthem-Gedeon.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0042
-	Unique:       51
+	Unique:       50
 	Non-unique:    0
-	Unused:       26
+	Unused:       25
 	Referenced:   25 x   25
 Ischyrius-Homulus.xml
-	1x       0refs    
 	1x       0refs    actus-v
 	1x       0refs    actvs-i.
 	1x       0refs    actvs-ii.
@@ -1691,34 +1697,31 @@ Ischyrius-Homulus.xml
 	1x       1ref     tn82
 	1x       1ref     tn9
 	1x       0refs    translatin0043
-	Unique:      116
+	Unique:      115
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:   82 x   82
 Kerckmeister-Codrus.xml
-	1x       0refs    
 	1x       0refs    argumentum.
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    prologus-in-codrum-feliciter-incipit.
 	1x       0refs    translatin0044
-	Unique:        7
+	Unique:        6
 	Non-unique:    0
-	Unused:        7
+	Unused:        6
 	Referenced:    0 x    0
 Knuyt-Scornetta.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0045
-	Unique:        5
+	Unique:        4
 	Non-unique:    0
-	Unused:        5
+	Unused:        4
 	Referenced:    0 x    0
 Laurimanus-Exodus.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actus-3.-scena-1a-senarii.
 	1x       0refs    actus-4.-scena-i.-senarii-iamb.
@@ -1880,12 +1883,11 @@ Laurimanus-Exodus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0046
-	Unique:      162
+	Unique:      161
 	Non-unique:    0
-	Unused:       39
+	Unused:       38
 	Referenced:  123 x  123
 Laurimanus-Miles.xml
-	1x       0refs    
 	1x       0refs    actvs-i.-scena-iii.
 	1x       0refs    actvs-iiii-scena-qvarta
 	1x       0refs    actvs-iiii-scena-secvnda.
@@ -2250,12 +2252,11 @@ Laurimanus-Miles.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0047
-	Unique:      365
+	Unique:      364
 	Non-unique:    0
-	Unused:       49
+	Unused:       48
 	Referenced:  316 x  316
 Locher-Iudicium.xml
-	1x       0refs    
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-secvndvs.
 	1x       0refs    back
@@ -2338,12 +2339,11 @@ Locher-Iudicium.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0048
-	Unique:       83
+	Unique:       82
 	Non-unique:    0
-	Unused:        9
+	Unused:        8
 	Referenced:   74 x   74
 Lummenaeus-Abimelech.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs
@@ -2353,12 +2353,11 @@ Lummenaeus-Abimelech.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0049
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Lummenaeus-Amnon.xml
-	1x       0refs    
 	1x       0refs    actvs-ii.
 	1x       0refs    actvs-iii.
 	1x       0refs    actvs-iiii.
@@ -2369,12 +2368,11 @@ Lummenaeus-Amnon.xml
 	1x       0refs    main
 	1x       0refs    scena-prima.
 	1x       0refs    translatin0050
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Lummenaeus-Bustum.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -2384,12 +2382,11 @@ Lummenaeus-Bustum.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0051
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Lummenaeus-Carcer.xml
-	1x       0refs    
 	1x       0refs    actus-primi.-scena-ia.
 	1x       0refs    actvs-2.-foliobiij
 	1x       0refs    actvs-3.
@@ -2399,12 +2396,11 @@ Lummenaeus-Carcer.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0052
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Lummenaeus-Iephte.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs
@@ -2414,12 +2410,11 @@ Lummenaeus-Iephte.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0053
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Lummenaeus-Sampson.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -2429,12 +2424,11 @@ Lummenaeus-Sampson.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0054
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Lummenaeus-Saul.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs
@@ -2444,12 +2438,11 @@ Lummenaeus-Saul.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0055
-	Unique:       10
+	Unique:        9
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:    0 x    0
 Macropedius-Adamus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2514,12 +2507,11 @@ Macropedius-Adamus.xml
 	1x       0refs    personae-dramatis-seu-diverbii-actus-primi
 	1x       0refs    prologus.
 	1x       0refs    translatin0056
-	Unique:       65
+	Unique:       64
 	Non-unique:    0
-	Unused:       65
+	Unused:       64
 	Referenced:    0 x    0
 Macropedius-Aluta.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2545,12 +2537,11 @@ Macropedius-Aluta.xml
 	1x       0refs    main
 	1x       0refs    prologus-in-alutam-cum-moro.
 	1x       0refs    translatin0057
-	Unique:       26
+	Unique:       25
 	Non-unique:    0
-	Unused:       26
+	Unused:       25
 	Referenced:    0 x    0
 Macropedius-Andrisca.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-ii.
 	1x       0refs    actus-ii.-scena-i.
 	1x       0refs    actus-iii-scena-i.
@@ -2585,12 +2576,11 @@ Macropedius-Andrisca.xml
 	1x       0refs    prologus.
 	1x       0refs    scena-quarta.-actus-quarti.
 	1x       0refs    translatin0058
-	Unique:       35
+	Unique:       34
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:    0 x    0
 Macropedius-Asotus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2634,12 +2624,11 @@ Macropedius-Asotus.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0059
-	Unique:       44
+	Unique:       43
 	Non-unique:    0
-	Unused:       44
+	Unused:       43
 	Referenced:    0 x    0
 Macropedius-Bassarus.xml
-	1x       0refs    
 	1x       0refs    actores-fabulae.
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
@@ -2673,12 +2662,11 @@ Macropedius-Bassarus.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0060
-	Unique:       34
+	Unique:       33
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:    0 x    0
 Macropedius-Hecastus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2722,12 +2710,11 @@ Macropedius-Hecastus.xml
 	1x       0refs    personae-dramatis
 	1x       0refs    prologus-in-hecastum.
 	1x       0refs    translatin0061
-	Unique:       44
+	Unique:       43
 	Non-unique:    0
-	Unused:       44
+	Unused:       43
 	Referenced:    0 x    0
 Macropedius-Hypomone.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2754,12 +2741,11 @@ Macropedius-Hypomone.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0062
-	Unique:       27
+	Unique:       26
 	Non-unique:    0
-	Unused:       27
+	Unused:       26
 	Referenced:    0 x    0
 Macropedius-Iesus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2807,12 +2793,11 @@ Macropedius-Iesus.xml
 	1x       0refs    personae-erunt-tristemque-habebunt-exitum.
 	1x       0refs    prologus.
 	1x       0refs    translatin0063
-	Unique:       48
+	Unique:       47
 	Non-unique:    0
-	Unused:       48
+	Unused:       47
 	Referenced:    0 x    0
 Macropedius-Iosephus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2860,12 +2845,11 @@ Macropedius-Iosephus.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0064
-	Unique:       48
+	Unique:       47
 	Non-unique:    0
-	Unused:       48
+	Unused:       47
 	Referenced:    0 x    0
 Macropedius-Lazarus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2904,12 +2888,11 @@ Macropedius-Lazarus.xml
 	1x       0refs    personae-dramatis.
 	1x       0refs    prologus
 	1x       0refs    translatin0065
-	Unique:       39
+	Unique:       38
 	Non-unique:    0
-	Unused:       39
+	Unused:       38
 	Referenced:    0 x    0
 Macropedius-Petriscus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -2953,12 +2936,11 @@ Macropedius-Petriscus.xml
 	1x       0refs    main
 	1x       0refs    prologus.
 	1x       0refs    translatin0066
-	Unique:       44
+	Unique:       43
 	Non-unique:    0
-	Unused:       44
+	Unused:       43
 	Referenced:    0 x    0
 Macropedius-Rebelles.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-i.-scaena-iii.
@@ -3002,12 +2984,11 @@ Macropedius-Rebelles.xml
 	1x       0refs    main
 	1x       0refs    prologus-cum-morione.
 	1x       0refs    translatin0067
-	Unique:       44
+	Unique:       43
 	Non-unique:    0
-	Unused:       44
+	Unused:       43
 	Referenced:    0 x    0
 Malapertius-Sedecias.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -3018,12 +2999,11 @@ Malapertius-Sedecias.xml
 	1x       0refs    main
 	1x       0refs    personae.
 	1x       0refs    translatin0068
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Muretus-Caesar.xml
-	1x       0refs    
 	1x       0refs    actus-primus
 	1x       0refs    actus-quartus.
 	1x       0refs    actus-quintus.
@@ -3034,12 +3014,11 @@ Muretus-Caesar.xml
 	1x       0refs    main
 	1x       0refs    personae-dramatis.
 	1x       0refs    translatin0069
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Mussato-Ecerinis.xml
-	1x       0refs    
 	1x       0refs    actus-i
 	1x       0refs    actvs-ii
 	1x       0refs    actvs-iii
@@ -3058,12 +3037,11 @@ Mussato-Ecerinis.xml
 	1x       0refs    scena-iii
 	1x       0refs    scena-iv
 	1x       0refs    translatin0070
-	Unique:       19
+	Unique:       18
 	Non-unique:    0
-	Unused:       19
+	Unused:       18
 	Referenced:    0 x    0
 Narssius-Gustavus.xml
-	1x       0refs    
 	1x       0refs    actus-primus.
 	1x       0refs    actus-quintus.
 	1x       0refs    actus-tertius.
@@ -3074,12 +3052,11 @@ Narssius-Gustavus.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0071
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Papaeus-Samarites.xml
-	1x       0refs    
 	1x       0refs    actus-primi-scaena-prima
 	1x       0refs    actus-primi-scaena-quarta
 	1x       0refs    actus-primi-scaena-secunda
@@ -3111,12 +3088,11 @@ Papaeus-Samarites.xml
 	1x       0refs    peroratio
 	1x       0refs    prologus
 	1x       0refs    translatin0072
-	Unique:       32
+	Unique:       31
 	Non-unique:    0
-	Unused:       32
+	Unused:       31
 	Referenced:    0 x    0
 Philicinus-Esther.xml
-	1x       0refs    
 	1x       0refs    actus-primus
 	1x       0refs    actus-quartus
 	1x       0refs    actus-quintus
@@ -3129,12 +3105,11 @@ Philicinus-Esther.xml
 	1x       0refs    personae-sive-interloquutores-huius-dramatis.
 	1x       1ref     tn1
 	1x       0refs    translatin0073
-	Unique:       13
+	Unique:       12
 	Non-unique:    0
-	Unused:       12
+	Unused:       11
 	Referenced:    1 x    1
 Philicinus-Magdalena.xml
-	1x       0refs    
 	1x       0refs    actvs-primi
 	1x       0refs    actvs-qvarti
 	1x       0refs    actvs-qvintvs.
@@ -3168,34 +3143,31 @@ Philicinus-Magdalena.xml
 	1x       0refs    scena-tertia.-3
 	1x       0refs    scena-tertia.-4
 	1x       0refs    translatin0074
-	Unique:       34
+	Unique:       33
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:    0 x    0
 Placentius-Clericus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       1ref     tn1
 	1x       0refs    translatin0075
-	Unique:        6
+	Unique:        5
 	Non-unique:    0
-	Unused:        5
+	Unused:        4
 	Referenced:    1 x    1
 Placentius-Plausus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    peroratio
 	1x       0refs    translatin0076
-	Unique:        6
+	Unique:        5
 	Non-unique:    0
-	Unused:        6
+	Unused:        5
 	Referenced:    0 x    0
 Placentius-Susanna.xml
-	1x       0refs    
 	1x       0refs    actus-primus
 	1x       0refs    actus-secundus
 	1x       0refs    argumentum-sub-iambis-hyponactiis
@@ -3204,12 +3176,11 @@ Placentius-Susanna.xml
 	1x       0refs    interlocutores
 	1x       0refs    main
 	1x       0refs    translatin0077
-	Unique:        9
+	Unique:        8
 	Non-unique:    0
-	Unused:        9
+	Unused:        8
 	Referenced:    0 x    0
 Reuchlin-Henno.xml
-	1x       0refs    
 	1x       0refs    actvs-qvartvs
 	1x       0refs    actvs-qvintvs
 	1x       0refs    actvs-secvndvs
@@ -3221,12 +3192,11 @@ Reuchlin-Henno.xml
 	1x       0refs    prologus
 	1x       1ref     tn1
 	1x       0refs    translatin0078
-	Unique:       12
+	Unique:       11
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    1 x    1
 Reuchlin-Sergius.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-secvndvs.
 	1x       0refs    actvs-tertivs.
@@ -3237,12 +3207,11 @@ Reuchlin-Sergius.xml
 	1x       0refs    personae.
 	1x       0refs    prologvs.
 	1x       0refs    translatin0079
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Rosefeldus-Moschus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-i.
 	1x       0refs    actus-i.-scena-ii.
 	1x       0refs    actus-i.-scena-iii.
@@ -3278,12 +3247,11 @@ Rosefeldus-Moschus.xml
 	1x       0refs    main
 	1x       0refs    prologvs.
 	1x       0refs    translatin0080
-	Unique:       36
+	Unique:       35
 	Non-unique:    0
-	Unused:       36
+	Unused:       35
 	Referenced:    0 x    0
 Roulerius-Stuarta.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -3294,12 +3262,11 @@ Roulerius-Stuarta.xml
 	1x       0refs    main
 	1x       0refs    tragoediae-interlocvtores.
 	1x       0refs    translatin0081
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Ruggle-Ignoramus.xml
-	1x       0refs    
 	1x       0refs    act-i-scaena-vii
 	1x       0refs    act-ii-scaena-iv
 	1x       0refs    act-iii-scaena-iv
@@ -3363,12 +3330,11 @@ Ruggle-Ignoramus.xml
 	1x       0refs    prologus-posterior
 	1x       0refs    prologus-prior
 	1x       0refs    translatin0082
-	Unique:       64
+	Unique:       63
 	Non-unique:    0
-	Unused:       64
+	Unused:       63
 	Referenced:    0 x    0
 Salius-Nassovius.xml
-	1x       0refs    
 	1x       0refs    actus-primus.
 	1x       0refs    actus-quartus.
 	1x       0refs    actus-quintus.
@@ -3379,12 +3345,11 @@ Salius-Nassovius.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0083
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Schonaeus-Ananias.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -3534,12 +3499,11 @@ Schonaeus-Ananias.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0084
-	Unique:      150
+	Unique:      149
 	Non-unique:    0
-	Unused:       30
+	Unused:       29
 	Referenced:  120 x  120
 Schonaeus-Baptistes.xml
-	1x       0refs    
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
 	1x       0refs    actvs-i.-scena-iii.
@@ -3656,12 +3620,11 @@ Schonaeus-Baptistes.xml
 	1x       1ref     tn83
 	1x       1ref     tn9
 	1x       0refs    translatin0085
-	Unique:      117
+	Unique:      116
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:   83 x   83
 Schonaeus-Cunae.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -3793,12 +3756,11 @@ Schonaeus-Cunae.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0086
-	Unique:      132
+	Unique:      131
 	Non-unique:    0
-	Unused:       24
+	Unused:       23
 	Referenced:  108 x  108
 Schonaeus-Daniel.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -3931,12 +3893,11 @@ Schonaeus-Daniel.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0087
-	Unique:      133
+	Unique:      132
 	Non-unique:    0
-	Unused:       30
+	Unused:       29
 	Referenced:  103 x  103
 Schonaeus-Dyscoli.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -4030,12 +3991,11 @@ Schonaeus-Dyscoli.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0088
-	Unique:       94
+	Unique:       93
 	Non-unique:    0
-	Unused:       28
+	Unused:       27
 	Referenced:   66 x   66
 Schonaeus-Fabula.xml
-	1x       0refs    
 	1x       0refs    actus-1.
 	1x       0refs    actus-1.-scena-1.
 	1x       0refs    actus-1.-scena-2.
@@ -4062,12 +4022,11 @@ Schonaeus-Fabula.xml
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    translatin0089
-	Unique:       27
+	Unique:       26
 	Non-unique:    0
-	Unused:       27
+	Unused:       26
 	Referenced:    0 x    0
 Schonaeus-Iosephus.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -4268,12 +4227,11 @@ Schonaeus-Iosephus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0090
-	Unique:      201
+	Unique:      200
 	Non-unique:    0
-	Unused:       39
+	Unused:       38
 	Referenced:  162 x  162
 Schonaeus-Iuditha.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -4540,12 +4498,11 @@ Schonaeus-Iuditha.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0091
-	Unique:      267
+	Unique:      266
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:  232 x  232
 Schonaeus-Naaman.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -4819,12 +4776,11 @@ Schonaeus-Naaman.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0092
-	Unique:      274
+	Unique:      273
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:  239 x  239
 Schonaeus-Nehemias.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -4946,12 +4902,11 @@ Schonaeus-Nehemias.xml
 	1x       1ref     tn87
 	1x       1ref     tn9
 	1x       0refs    translatin0093
-	Unique:      122
+	Unique:      121
 	Non-unique:    0
-	Unused:       35
+	Unused:       34
 	Referenced:   87 x   87
 Schonaeus-Pentecoste.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5110,12 +5065,11 @@ Schonaeus-Pentecoste.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0094
-	Unique:      159
+	Unique:      158
 	Non-unique:    0
-	Unused:       28
+	Unused:       27
 	Referenced:  131 x  131
 Schonaeus-Pseudostratiotae.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5226,12 +5180,11 @@ Schonaeus-Pseudostratiotae.xml
 	1x       1ref     tn83
 	1x       1ref     tn9
 	1x       0refs    translatin0095
-	Unique:      111
+	Unique:      110
 	Non-unique:    0
-	Unused:       28
+	Unused:       27
 	Referenced:   83 x   83
 Schonaeus-Saulus.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5433,12 +5386,11 @@ Schonaeus-Saulus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0096
-	Unique:      202
+	Unique:      201
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:  168 x  168
 Schonaeus-Susanna.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5561,12 +5513,11 @@ Schonaeus-Susanna.xml
 	1x       1ref     tn91
 	1x       1ref     tn92
 	1x       0refs    translatin0097
-	Unique:      123
+	Unique:      122
 	Non-unique:    0
-	Unused:       31
+	Unused:       30
 	Referenced:   92 x   92
 Schonaeus-Tobaeus.xml
-	1x       0refs    
 	1x       0refs    actorum-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5743,12 +5694,11 @@ Schonaeus-Tobaeus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0098
-	Unique:      177
+	Unique:      176
 	Non-unique:    0
-	Unused:       44
+	Unused:       43
 	Referenced:  133 x  133
 Schonaeus-Triumphus.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -5880,12 +5830,11 @@ Schonaeus-Triumphus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0099
-	Unique:      132
+	Unique:      131
 	Non-unique:    0
-	Unused:       25
+	Unused:       24
 	Referenced:  107 x  107
 Schonaeus-Typhlus.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -6016,12 +5965,11 @@ Schonaeus-Typhlus.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0100
-	Unique:      131
+	Unique:      130
 	Non-unique:    0
-	Unused:       29
+	Unused:       28
 	Referenced:  102 x  102
 Schonaeus-Vitulus.xml
-	1x       0refs    
 	1x       0refs    actorvm-nomina.
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-i.-scena-ii.
@@ -6099,12 +6047,11 @@ Schonaeus-Vitulus.xml
 	1x       1ref     tn8
 	1x       1ref     tn9
 	1x       0refs    translatin0101
-	Unique:       78
+	Unique:       77
 	Non-unique:    0
-	Unused:       29
+	Unused:       28
 	Referenced:   49 x   49
 Schopper-Ectrachelistes.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-i.
 	1x       0refs    actus-i.-scena-ii.
 	1x       0refs    actus-i.-scena.-iii.
@@ -6136,24 +6083,22 @@ Schopper-Ectrachelistes.xml
 	1x       0refs    main
 	1x       0refs    prologus-ad-spectatores.
 	1x       0refs    translatin0102
-	Unique:       32
+	Unique:       31
 	Non-unique:    0
-	Unused:       32
+	Unused:       31
 	Referenced:    0 x    0
 Simonides-Castus.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    front
 	1x       0refs    main
 	1x       0refs    personae.
 	1x       1ref     tn1
 	1x       0refs    translatin0103
-	Unique:        7
+	Unique:        6
 	Non-unique:    0
-	Unused:        6
+	Unused:        5
 	Referenced:    1 x    1
 Stymmelius-Isaac.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-i.
 	1x       0refs    actus-ii.-scena-i.
 	1x       0refs    actus-iii.-scena-i.
@@ -6187,12 +6132,11 @@ Stymmelius-Isaac.xml
 	1x       0refs    scena-vi.
 	1x       0refs    scena-vii.
 	1x       0refs    translatin0104
-	Unique:       34
+	Unique:       33
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:    0 x    0
 Stymmelius-Studentes.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-i.
 	1x       0refs    actus-i.-scena-ii.
 	1x       0refs    actus-i.-scena-iii.
@@ -6226,12 +6170,11 @@ Stymmelius-Studentes.xml
 	1x       0refs    main
 	1x       0refs    prologvs
 	1x       0refs    translatin0105
-	Unique:       34
+	Unique:       33
 	Non-unique:    0
-	Unused:       34
+	Unused:       33
 	Referenced:    0 x    0
 Susius-Pendularia.xml
-	1x       0refs    
 	1x       0refs    actvs-primi
 	1x       0refs    actvs-qvarti
 	1x       0refs    actvs-qvinti
@@ -6256,12 +6199,11 @@ Susius-Pendularia.xml
 	1x       0refs    scena-iv.
 	1x       0refs    scena-iv.-1
 	1x       0refs    translatin0106
-	Unique:       25
+	Unique:       24
 	Non-unique:    0
-	Unused:       25
+	Unused:       24
 	Referenced:    0 x    0
 Telesio-Imber.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -6397,12 +6339,11 @@ Telesio-Imber.xml
 	1x       1ref     tn98
 	1x       1ref     tn99
 	1x       0refs    translatin0107
-	Unique:      136
+	Unique:      135
 	Non-unique:    0
-	Unused:       10
+	Unused:        9
 	Referenced:  126 x  126
 Vernulaeus-Conradinus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -6438,12 +6379,11 @@ Vernulaeus-Conradinus.xml
 	1x       0refs    scena-tertia.-3
 	1x       0refs    scena-tertia.-4
 	1x       0refs    translatin0108
-	Unique:       36
+	Unique:       35
 	Non-unique:    0
-	Unused:       36
+	Unused:       35
 	Referenced:    0 x    0
 Vernulaeus-Crispus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -6475,12 +6415,11 @@ Vernulaeus-Crispus.xml
 	1x       0refs    scena-tertia.-2
 	1x       0refs    scena-tertia.-3
 	1x       0refs    translatin0109
-	Unique:       32
+	Unique:       31
 	Non-unique:    0
-	Unused:       32
+	Unused:       31
 	Referenced:    0 x    0
 Vernulaeus-Gorcomienses.xml
-	1x       0refs    
 	1x       0refs    actvs-i.-scena-i.
 	1x       0refs    actvs-ii.-scena-i.
 	1x       0refs    actvs-iii.-scena-i.
@@ -6509,12 +6448,11 @@ Vernulaeus-Gorcomienses.xml
 	1x       0refs    scena-v.-1
 	1x       0refs    scena-vi.
 	1x       0refs    translatin0110
-	Unique:       29
+	Unique:       28
 	Non-unique:    0
-	Unused:       29
+	Unused:       28
 	Referenced:    0 x    0
 Vernulaeus-Henricus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs
 	1x       0refs    actvs-qvintvs.
@@ -6565,12 +6503,11 @@ Vernulaeus-Henricus.xml
 	1x       0refs    scena-x.
 	1x       0refs    scena-xi.
 	1x       0refs    translatin0111
-	Unique:       51
+	Unique:       50
 	Non-unique:    0
-	Unused:       51
+	Unused:       50
 	Referenced:    0 x    0
 Vernulaeus-Theodoricus.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-qvartvs.
 	1x       0refs    actvs-qvintvs.
@@ -6616,12 +6553,11 @@ Vernulaeus-Theodoricus.xml
 	1x       0refs    scena-vi.-2
 	1x       0refs    scena-vi.-3
 	1x       0refs    translatin0112
-	Unique:       46
+	Unique:       45
 	Non-unique:    0
-	Unused:       46
+	Unused:       45
 	Referenced:    0 x    0
 Vladeraccus-Tobias.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scena-i
 	1x       0refs    actus-i.-scena-ii
 	1x       0refs    actus-i.-scena-iii
@@ -6672,12 +6608,11 @@ Vladeraccus-Tobias.xml
 	1x       0refs    personae-mutae
 	1x       0refs    prologus
 	1x       0refs    translatin0113
-	Unique:       51
+	Unique:       50
 	Non-unique:    0
-	Unused:       51
+	Unused:       50
 	Referenced:    0 x    0
 Weitenauer-Annibal.xml
-	1x       0refs    
 	1x       0refs    actus-primus
 	1x       0refs    actus-quartus
 	1x       0refs    actus-quintus
@@ -6720,12 +6655,11 @@ Weitenauer-Annibal.xml
 	1x       0refs    scena-tertia-3
 	1x       0refs    scena-tertia-4
 	1x       0refs    translatin0114
-	Unique:       43
+	Unique:       42
 	Non-unique:    0
-	Unused:       43
+	Unused:       42
 	Referenced:    0 x    0
 Wimpheling-Stylpho.xml
-	1x       0refs    
 	1x       0refs    back
 	1x       0refs    conclusio
 	1x       0refs    front
@@ -6738,12 +6672,11 @@ Wimpheling-Stylpho.xml
 	1x       0refs    sexta-scena
 	1x       0refs    tertia-scena
 	1x       0refs    translatin0115
-	Unique:       13
+	Unique:       12
 	Non-unique:    0
-	Unused:       13
+	Unused:       12
 	Referenced:    0 x    0
 Zevecotius-Rosimunda.xml
-	1x       0refs    
 	1x       0refs    actvs-primvs.
 	1x       0refs    actvs-quintvs
 	1x       0refs    actvs-qvartvs
@@ -6754,12 +6687,11 @@ Zevecotius-Rosimunda.xml
 	1x       0refs    main
 	1x       0refs    personae
 	1x       0refs    translatin0116
-	Unique:       11
+	Unique:       10
 	Non-unique:    0
-	Unused:       11
+	Unused:       10
 	Referenced:    0 x    0
 Zovitius-Didascalus.xml
-	1x       0refs    
 	1x       0refs    actus-i.-scaena-ii.
 	1x       0refs    actus-ii.-scaena-i.
 	1x       0refs    actus-ii.-scaena-ii.
@@ -6783,43 +6715,7 @@ Zovitius-Didascalus.xml
 	1x       0refs    periocha.
 	1x       0refs    prologvs.
 	1x       0refs    translatin0117
-	Unique:       24
+	Unique:       23
 	Non-unique:    0
-	Unused:       24
-	Referenced:    0 x    0
-Zovitius-Ruth.xml
-	1x       0refs    
-	1x       0refs    actvs-primvs.
-	1x       0refs    actvs-quintvs.
-	1x       0refs    actvs-qvartvs.
-	1x       0refs    actvs-secvndus
-	1x       0refs    actvs-tertivs.
-	1x       0refs    back
-	1x       0refs    front
-	1x       0refs    main
-	1x       0refs    periocha.
-	1x       0refs    prologvs
-	1x       0refs    scaena-octava.
-	1x       0refs    scaena-qvarta.
-	1x       0refs    scaena-qvarta.-1
-	1x       0refs    scaena-qvarta.-2
-	1x       0refs    scaena-qvarta.-3
-	1x       0refs    scaena-qvinta-.
-	1x       0refs    scaena-qvinta.
-	1x       0refs    scaena-qvinta.-1
-	1x       0refs    scaena-secvnda.
-	1x       0refs    scaena-secvnda.-1
-	1x       0refs    scaena-secvnda.-2
-	1x       0refs    scaena-secvnda.-3
-	1x       0refs    scaena-secvnda.-4
-	1x       0refs    scaena-septima.
-	1x       0refs    scaena-sexta.
-	1x       0refs    scaena-tertia.
-	1x       0refs    scaena-tertia.-1
-	1x       0refs    scaena-tertia.-2
-	1x       0refs    scaena-tertia.-3
-	1x       0refs    translatin0118
-	Unique:       31
-	Non-unique:    0
-	Unused:       31
+	Unused:       23
 	Referenced:    0 x    0

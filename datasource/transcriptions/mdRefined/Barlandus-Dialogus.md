@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno
 restitutae salutatis MDXXIIII.

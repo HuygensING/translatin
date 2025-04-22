@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 Comoedia cui nomen Sergius Ioannis Capniois vulgo Reuchlin phorcensis
 LL. doctoris latine grece et hebraice doctissimi

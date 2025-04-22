@@ -14,58 +14,58 @@ Alberti-Philodoxus:
 - - 3413
   - §scena
   - ii
-- - 9292
+- - 9266
   - §scena
   - iii
-- - 12138
+- - 12089
   - §scena
   - iv
-- - 13424
+- - 13363
   - §scena
   - v
-- - 16732
+- - 16634
   - §scena
   - vi
-- - 19839
+- - 19691
   - §scena
   - vii
-- - 23895
+- - 23732
   - §scena
   - viii
-- - 25861
+- - 25698
   - §scena
   - ix
-- - 27557
+- - 27379
   - §scena
   - x
-- - 29992
+- - 29804
   - §scena
   - xi
-- - 32601
+- - 32399
   - §scena
   - xii
-- - 36887
+- - 36655
   - §scena
   - xlll
-- - 41880
+- - 41612
   - §scena
   - xiv
-- - 43128
+- - 42855
   - §scena
   - xv
-- - 45383
+- - 45091
   - §scena
   - xvi
-- - 46572
+- - 46270
   - §scena
   - xvii
-- - 47717
+- - 47415
   - §scena
   - xviii
-- - 50357
+- - 50039
   - §scena
   - xix
-- - 52775
+- - 52436
   - §scena
   - xx
 Aler-Innocentia:
@@ -75,325 +75,199 @@ Aler-Innocentia:
 - - 190
   - §argumentum
   - dramatis
-- - 3411
+- - 3485
   - §actus
   - i
-- - 3507
+- - 3582
   - §scena
   - i
-- - 3638
+- - 3715
   - §personae
   - sigefridus
-- - 6517
+- - 6748
   - §scena
   - ii
-- - 6591
+- - 6822
   - §personae
   - genovefa
-- - 9357
+- - 9723
   - §scena
   - iii
-- - 9478
+- - 9844
   - §personae
   - benoni
-- - 10367
+- - 10788
   - §scena
   - iv
-- - 13043
+- - 13616
   - §scena
   - v
-- - 15782
+- - 16518
   - §pars
   - ii
-- - 17506
+- - 18340
   - §actus
   - ii
-- - 17585
+- - 18419
   - §scena
   - i
-- - 17718
+- - 18552
   - §personae
   - sigefridus
-- - 22844
+- - 23943
   - §scena
   - ii
-- - 23032
+- - 24131
   - §personae
   - sigefridus
-- - 26953
+- - 28282
   - §scena
   - iii
-- - 32174
+- - 33781
   - §scena
   - iv
-- - 35464
+- - 37232
   - §scena
   - v
-- - 35621
+- - 37389
   - §personae
   - golo
-- - 35765
+- - 37533
   - §personae
   - ''
-- - 38171
+- - 40091
   - §scena
   - vi
-- - 38258
+- - 40178
   - §personae
   - lindus
-- - 38880
+- - 40831
   - §scena
   - vii
-- - 38953
+- - 40904
   - §personae
   - ''
-- - 39462
+- - 41446
   - §scena
   - viii
-- - 39511
+- - 41495
   - §personae
   - ''
-- - 40144
-  - ±chorus
-  - nunc
-- - 40449
+- - 42481
   - §scena
   - i
-- - 41221
-  - ±chorus
-  - genovefae
-- - 41391
+- - 43493
   - §scena
   - ii
-- - 43420
+- - 45627
   - §scena
   - iii
-- - 43538
+- - 45745
   - §personae
   - ''
-- - 47367
+- - 49868
   - §scena
   - iv
-- - 48123
+- - 50652
   - §personae
   - sigefridus
 Balde-Iephtias:
 - - 2
   - §personae
   - ''
-- - 469
+- - 476
   - §actus
   - i
-- - 479
+- - 486
   - §scena
   - i
-- - 2695
+- - 2792
   - §scena
   - ii
-- - 9009
+- - 9357
+  - ±chorus
+  - asseclarum
+- - 12080
   - ±chorus
   - ''
-- - 10459
-  - ±chorus
-  - pulcrius
-- - 11610
-  - ±chorus
-  - ''
-- - 11890
+- - 12382
   - §incipit
   - a
-- - 12804
+- - 13334
   - §actus
   - ii
-- - 12815
+- - 13345
   - §scena
   - i
-- - 18307
+- - 19027
   - §scena
   - ii
-- - 26075
+- - 26950
   - §scena
   - iii
-- - 31348
+- - 32602
   - §scena
   - iv
-- - 35165
+- - 36512
   - §scena
   - v
-- - 45520
+- - 47285
   - §scena
   - vi
-- - 53824
+- - 55990
   - §scena
   - vii
-- - 62245
-  - ±chorus
-  - vates
-- - 62346
-  - ±chorus
-  - agitatur
-- - 62686
-  - ±chorus
-  - vtinam
-- - 63608
-  - ±chorus
-  - dulcia
-- - 63944
-  - ±chorus
-  - seria
-- - 64168
-  - ±chorus
-  - inimicus
-- - 64669
-  - ±chorus
-  - totus
-- - 65249
-  - ±chorus
-  - ducem
-- - 65604
-  - ±chorus
-  - vtinam
-- - 65950
-  - ±chorus
-  - obscura
-- - 66281
-  - ±chorus
-  - rursus
-- - 67935
-  - ±chorus
-  - conticuit
-- - 68534
+- - 71631
   - §actus
   - iii
-- - 68546
+- - 71643
   - §scena
   - i
-- - 75892
+- - 79189
   - §scena
   - ii
-- - 86568
+- - 89873
   - §scena
   - iii
-- - 86962
-  - ±chorus
-  - bello
-- - 89588
-  - ±chorus
-  - ducite
-- - 90383
-  - ±chorus
-  - maspham
-- - 91042
+- - 94577
   - §scena
   - iv
-- - 100015
-  - ±chorus
-  - militum
-- - 100871
-  - ±chorus
-  - mis
-- - 101185
-  - ±chorus
-  - dam
-- - 101527
-  - ±chorus
-  - dam
-- - 101777
-  - ±chorus
-  - exc
-- - 101961
-  - ±chorus
-  - dam
-- - 102126
-  - ±chorus
-  - exc
-- - 102166
-  - ±chorus
-  - dam
-- - 102801
+- - 107208
   - §actus
   - iv
-- - 102812
+- - 107219
   - §scena
   - i
-- - 109205
-  - ±chorus
-  - chor
-- - 112617
+- - 117550
   - §scena
   - ii
-- - 113817
-  - ±chorus
-  - quando
-- - 115540
-  - ±chorus
-  - nescis
-- - 121100
-  - ±chorus
-  - tuo
-- - 122280
-  - ±chorus
-  - quem
-- - 127034
-  - ±chorus
-  - rupit
-- - 127347
+- - 133034
   - §scena
   - iii
-- - 128519
+- - 134255
   - §scena
   - iv
-- - 128750
-  - ±chorus
-  - genitoris
-- - 131452
-  - ±chorus
-  - iterum
-- - 131918
-  - ±chorus
-  - miretur
-- - 137030
+- - 143167
   - §actus
   - v
-- - 137040
+- - 143177
   - §scena
   - i
-- - 141880
+- - 148093
   - §scena
   - ii
-- - 145580
+- - 151898
   - §scena
   - iii
-- - 153586
+- - 160286
   - §scena
   - iv
-- - 175295
+- - 182732
   - ±chorus
-  - nullus
-- - 179329
-  - ±chorus
-  - vtinam
-- - 180379
-  - ±chorus
-  - resonas
-- - 181051
-  - ±chorus
-  - tale
-- - 183588
-  - ±chorus
-  - flevimus
-- - 184530
-  - ±chorus
-  - quid
-- - 185347
+  - virginum
+- - 193660
   - ±chorus
   - absistat
-- - 187397
-  - ±chorus
-  - pectus
-- - 192814
-  - ±chorus
-  - ''
 Barlandus-Dialogus: []
 Beza-Abrahamus:
 - - 2

@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 STUDENTES, COMOEDIA DE VITA STUDIOSORUM, NUNC PRIMUM in lucem edita
 auctore M. Christophoro Stummelio F. Eiusdem Carmen de iudicio Paridis.

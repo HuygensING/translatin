@@ -4,44 +4,76 @@ from textwrap import TextWrapper
 from tf.core.files import expanduser
 from tf.ner.helpers import toAscii
 
-ORG = "HuygensING"
-REPO = "translatin"
-BACKEND = "github"
 
-_REPODIR = expanduser(f"~/{BACKEND}/{ORG}/{REPO}")
-_CONFIGDIR = f"{_REPODIR}/config"
-_PROGRAMDIR = f"{_REPODIR}/programs"
-_REPORTDIR = f"{_REPODIR}/report"
-_NERDIR = f"{_REPODIR}/ner/specs"
-_DATADIR = f"{_REPODIR}/datasource"
-_TRANSDIR = f"{_DATADIR}/transcriptions"
-_METADIR = f"{_DATADIR}/metadata"
+def setVars(test=False):
+    org = "HuygensING"
+    repo = "translatin"
+    backend = "github"
 
-METACSS = "meta.css"
-METAOUTDIR = f"{_REPODIR}/static/both/metadata"
-DOCXDIR = f"{_TRANSDIR}/docx"
-MD_ORIGDIR = f"{_TRANSDIR}/mdOrig"
-MD_FINALDIR = f"{_TRANSDIR}/mdRefined"
-TEIXDIR = f"{_TRANSDIR}/teiSimple"
-TRANS_TXT = f"{_TRANSDIR}/translation.txt"
-SOURCEBASE = _REPODIR
-TEIDIR = f"{_REPODIR}/tei"
-METADATA_YML = f"{_CONFIGDIR}/metadata.yml"
-METADATA_FILE = f"{_METADIR}/drama-author.xlsx"
+    repoDir = expanduser(f"~/{backend}/{org}/{repo}")
+    configDir = f"{repoDir}/config"
+    reportDir = f"{repoDir}/report"
 
-REPORT_TRANSDIR = f"{_REPORTDIR}/trans"
-REPORT_LETTER_META = f"{REPORT_TRANSDIR}/lettermeta.yml"
-REPORT_LINES = f"{REPORT_TRANSDIR}/lines.yml"
-REPORT_PAGES = f"{REPORT_TRANSDIR}/pages.yml"
-REPORT_SECTIONS = f"{REPORT_TRANSDIR}/sections.yml"
-REPORT_LINES_RAW = f"{REPORT_TRANSDIR}/lines_raw.yml"
-REPORT_LINENUMBERS_RAW = f"{REPORT_TRANSDIR}/linenumbers_raw.yml"
-REPORT_PAGES_RAW = f"{REPORT_TRANSDIR}/pages_raw.yml"
-REPORT_SECTIONS_RAW = f"{REPORT_TRANSDIR}/sections_raw.yml"
-REPORT_WARNINGS = f"{REPORT_TRANSDIR}/warnings.txt"
-REPORT_INFO = f"{REPORT_TRANSDIR}/info.txt"
+    if test:
+        reportDir += "Test"
 
-REPORT_TEIDIR = f"{_REPORTDIR}/tei"
+    dataDir = f"{repoDir}/datasource"
+    metaDir = f"{dataDir}/metadata"
+
+    if test:
+        metaDir += "Test"
+
+    transDir = f"{dataDir}/transcriptions"
+
+    if test:
+        transDir += "Test"
+
+    sourceBase = repoDir
+    docXDir = f"{transDir}/docx"
+    mdOrigDir = f"{transDir}/mdOrig"
+    mdFinalDir = f"{transDir}/mdRefined"
+    teiXDir = f"{transDir}/teiSimple"
+    teiDir = f"{repoDir}/tei"
+
+    if test:
+        teiDir += "Test"
+
+    metadataYml = f"{configDir}/metadata.yml"
+    metadataFile = f"{metaDir}/drama-author.xlsx"
+
+    reportTeiDir = f"{reportDir}/tei"
+    reportTransDir = f"{reportDir}/trans"
+    reportLines = f"{reportTransDir}/lines.yml"
+    reportPages = f"{reportTransDir}/pages.yml"
+    reportSections = f"{reportTransDir}/sections.yml"
+    reportLinesRaw = f"{reportTransDir}/lines_raw.yml"
+    reportLinenumbersRaw = f"{reportTransDir}/linenumbers_raw.yml"
+    reportPagesRaw = f"{reportTransDir}/pages_raw.yml"
+    reportSectionsRaw = f"{reportTransDir}/sections_raw.yml"
+    reportWarnings = f"{reportTransDir}/warnings.txt"
+    reportInfo = f"{reportTransDir}/info.txt"
+
+    return dict(
+        docXDir=docXDir,
+        mdOrigDir=mdOrigDir,
+        mdFinalDir=mdFinalDir,
+        teiXDir=teiXDir,
+        teiDir=teiDir,
+        sourceBase=sourceBase,
+        metadataYml=metadataYml,
+        metadataFile=metadataFile,
+        reportInfo=reportInfo,
+        reportWarnings=reportWarnings,
+        reportTeiDir=reportTeiDir,
+        reportTransDir=reportTransDir,
+        reportLines=reportLines,
+        reportLinesRaw=reportLinesRaw,
+        reportLinenumbersRaw=reportLinenumbersRaw,
+        reportPages=reportPages,
+        reportPagesRaw=reportPagesRaw,
+        reportSections=reportSections,
+        reportSectionsRaw=reportSectionsRaw,
+    )
 
 
 APOS_RE = re.compile(r"""['‘]""")

@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 Stuarta Tragoedia sive Caedes Mariae serenissimae Scotorum reginae in
 Anglia perpetrata

@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 VITVLVS. FABVLA LVDICRA.
 

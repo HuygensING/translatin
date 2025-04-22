@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 MOROSOPHVS / DE VERA AC PERSONATA / SAPIENTIA. COMOEDIA NON / minus
 festiva, quam pia: Morosophi titu-/lo inscripta. Autore Gulielmo

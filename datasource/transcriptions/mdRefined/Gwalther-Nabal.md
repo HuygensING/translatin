@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 NABAL. RODOLPHI GUALTHERI TIGURINI COMOEDIA sacra, quae inscribitur
 Nabal, desumpta ex I. Samuelis XXV. cap. nunc primum conscripta et

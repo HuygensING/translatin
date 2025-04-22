@@ -20,7 +20,7 @@
     <publicationStmt>
         <publisher>Unknown publisher</publisher>
         <pubPlace>None</pubPlace>
-        <date>0001</date>
+        <date>none</date>
     </publicationStmt>
     <sourceDesc>
         <bibl>
@@ -54,7 +54,6 @@
     <body>
         <div type="level1" xml:id="front">
   <head>Front</head>
-  <p>/</p>
   <p>COMOEDIA DE VITA NICOLAI UNDERWALDII</p>
   <p>LA COMÉDIE DE SAINT NICOLAS DE FLUE</p>
   <p><ref target="https://humanistica-helvetica.unifr.ch/authors/37"><hi rend="underline">Jacob

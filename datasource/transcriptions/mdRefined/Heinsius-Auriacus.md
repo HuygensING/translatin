@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 DANIELIS HEINSII
 

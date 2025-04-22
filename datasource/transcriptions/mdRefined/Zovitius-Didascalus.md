@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 DIDASCALVS / COMOEDIA / ut doctissima, ita & lepidissi-/ma, Autore
 Iacobo Zo/uitio Driescharo, / Paedotriba fide-/lissimo. /

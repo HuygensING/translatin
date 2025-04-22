@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 ≤folio=π1r≥
 

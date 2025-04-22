@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 TRAGOEDIA DIDO P. CUNAEI
 

@@ -1,6 +1,6 @@
 # Front
 
-/
+
 
 **Clericus eques, authore evangelista Placentio Trudonense Dominicano**
 
