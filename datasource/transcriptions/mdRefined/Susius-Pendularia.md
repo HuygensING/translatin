@@ -6,7 +6,7 @@ NICOLAI SVSII
 
 E SOCIETATE IESV
 
-OPVSCVLA LITTERARIA 6
+OPVSCVLA LITTERARIA:
 
 LIMA CICERONIANA,
 
@@ -18,9 +18,7 @@ DE PVLCRITVDINE B. MARIAE VIRG.
 
 DISCEPTATIO QVODLIBETICA.
 
-Q. βCοbξ s. sl. X C-LA
-
-EMATA.
+POEMATA.
 
 ELEGIAE MARIANAE,
 
@@ -30,17 +28,11 @@ DRAMA COMICVM.
 
 
 
-Liß.9. 3. AReCfeuα
 
 
 
 
-
-
-
-ANTVERPI
-
-AE
+ANTVERPIAE
 
 Apud Heredes MARTINI NVTII,
 
@@ -738,7 +730,7 @@ Lyd. Ast ego magis aequus malo poenas luere flagitî.
 
 Phil. Cuius? Lyd. Tui, qui innoxium oneras tot malis.
 
-≤line=280≥ lubes ligari, indictâ caußâ me duci iubes.
+≤line=280≥ Iubes ligari, indictâ caußâ me duci iubes.
 
 Phil. Quaeso hoc mihi flagitium noli imputare, mi Lyde.
 
@@ -1443,7 +1435,7 @@ Quem mactabo omnibus cruciabilitatibus.
 
 PI. Δαιτυμόνες δ’ ἀνὰ δώματ’ ἀκουάζωνται ἀοιδοῦ,
 
-590 Ἥμενοι ἑξείης παρὰ δὲ πλήθωσι τράπεζαι
+(590) Ἥμενοι ἑξείης παρὰ δὲ πλήθωσι τράπεζαι
 
 Σίτου καὶ κρειῶν. μέθύ δ’ ἐκ κρητῆρος ἀφύσσων
 

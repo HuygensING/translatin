@@ -4,7 +4,7 @@
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0038" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0039" xml:lang="lat">
 <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -1462,7 +1462,7 @@
     <p>Immissa menti, qua nouus surgit vigor:</p>
     <p>(1000) Vos ite, Christi spiritum sectamini:</p>
     <p>Docebit ille, vincta quod minus queo.</p>
-    <p>D iij.</p>
+    <p><milestone unit="folio" facs="Diij."/></p>
     <p><milestone unit="page" facs="54"/></p>
   </div>
   <div type="level2" xml:id="actvs.-iiii.-scena.-iii.">

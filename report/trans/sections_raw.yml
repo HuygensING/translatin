@@ -1,3 +1,31 @@
+Grotius-Adamus:
+- - 2
+  - §actus
+  - primvs
+- - 9911
+  - ±chorus
+  - ''
+- - 12518
+  - §actus
+  - secvndvs
+- - 28879
+  - ±chorus
+  - ''
+- - 34078
+  - §actus
+  - iii
+- - 39646
+  - ±chorus
+  - ''
+- - 42210
+  - §actus
+  - iiii
+- - 61396
+  - ±chorus
+  - ''
+- - 63611
+  - §actus
+  - qvintvs
 Alberti-Philodoxus:
 - - 15
   - §personae
@@ -2291,34 +2319,6 @@ Grimald-Christus:
 - - 67343
   - §actus-scena
   - v-ii
-Grotius-Adamus:
-- - 2
-  - §actus
-  - primus
-- - 9790
-  - ±chorus
-  - ''
-- - 12354
-  - §actus
-  - secundus
-- - 28459
-  - ±chorus
-  - ''
-- - 33586
-  - §actus
-  - iii
-- - 39070
-  - ±chorus
-  - ''
-- - 41606
-  - §actus
-  - iiii
-- - 60528
-  - ±chorus
-  - ''
-- - 62722
-  - §actus
-  - quintus
 Grotius-Christus:
 - - 2
   - §personae
@@ -2329,45 +2329,48 @@ Grotius-Christus:
 - - 226
   - ±chorus
   - militum
-- - 387
+- - 344
+  - §errata
+  - ''
+- - 425
   - §actus
-  - primus
-- - 6277
+  - primvs
+- - 6417
   - ±chorus
-  - iudaearum
-- - 9620
+  - ivdaearvm
+- - 9829
   - §actus
-  - secundus
-- - 18676
+  - secvndvs
+- - 19020
   - ±chorus
-  - iudaearum
-- - 20872
+  - ivdaearvm
+- - 21252
   - §actus
-  - tertius
-- - 28714
+  - tertivs
+- - 29210
   - ±chorus
-  - iudaearum
-- - 31208
+  - ivdaearvm
+- - 31749
   - ±chorus
   - eheu
-- - 31645
+- - 32197
   - §actus
-  - quartus
-- - 36104
+  - qvartvs
+- - 36727
   - ±chorus
   - dum
-- - 39231
+- - 39915
   - ±chorus
   - quid
-- - 43468
+- - 44191
   - ±chorus
   - positone
-- - 44723
+- - 45457
   - ±chorus
-  - romanorum
-- - 47464
+  - romanorvm
+- - 48244
   - §actus
-  - quintus
+  - qvintvs
 Grotius-Phoenissae:
 - - 2
   - §interlocutores
@@ -2441,6 +2444,34 @@ Grotius-Phoenissae:
 - - 59636
   - ±strophe
   - iii
+Grotius-Sophompaneas:
+- - 2
+  - §actus
+  - primvs
+- - 5911
+  - ±chorus
+  - ''
+- - 9591
+  - §actus
+  - secvndvs
+- - 18712
+  - ±chorus
+  - ''
+- - 21439
+  - §actus
+  - tertivs
+- - 35809
+  - ±chorus
+  - ''
+- - 37477
+  - §actus
+  - qvartvs
+- - 45628
+  - ±chorus
+  - ''
+- - 47297
+  - §actus
+  - qvintvs
 Gwalther-Nabal:
 - - 2
   - §dramatis
@@ -2790,66 +2821,295 @@ Holonius-Catharina:
 - - 44878
   - §scena
   - ii
-- - 47986
+- - 47993
   - §actus-scena
   - iiii-iii
-- - 48615
+- - 48622
   - ±chorus
   - at
-- - 48774
+- - 48781
   - ±chorus
   - caesar
-- - 49265
+- - 49272
   - ±chorus
   - miserere
-- - 49996
+- - 50003
   - ±chorus
   - at
-- - 50538
+- - 50545
   - ±chorus
   - at
-- - 50589
+- - 50596
   - §actus-scena
   - iiii-iiii
-- - 50905
+- - 50912
   - ±chorus
   - renidet
-- - 51339
+- - 51346
   - §actus-scena
   - iiii-v
-- - 54582
+- - 54589
   - ±chorus
   - aegyptiarvm
-- - 55788
+- - 55795
   - §actus
   - qvinti
-- - 55802
+- - 55809
   - §scena
   - prima
-- - 57373
+- - 57380
   - §actus-scena
   - v-ii
-- - 59505
+- - 59512
   - §actus-scena
   - v-iii
-- - 61577
+- - 61584
   - §actus-scena
   - v-iiii
-- - 63115
+- - 63122
   - §actus-scena
   - v-v
-- - 64716
+- - 64723
   - §actus-scena
   - v-vi
-- - 65455
+- - 65462
   - §actus-scena
   - v-vii
-- - 66795
+- - 66802
   - §actus
   - qvinti
-- - 66809
+- - 66816
   - §scena
   - viii
+Holonius-Lambertias:
+- - 2
+  - §prologus
+  - in
+- - 1012
+  - §prologus
+  - ''
+- - 2139
+  - §argumentum
+  - tragoediae
+- - 2620
+  - §personae
+  - tragoediae
+- - 3656
+  - §scena
+  - i
+- - 3666
+  - §interlocutores
+  - ''
+- - 5552
+  - §actus
+  - i
+- - 6073
+  - §actus
+  - i
+- - 7239
+  - §actus
+  - i
+- - 7538
+  - §actus
+  - i
+- - 9633
+  - §actus
+  - i
+- - 9643
+  - §actus
+  - i
+- - 10598
+  - §actus
+  - i
+- - 11689
+  - §actus
+  - i
+- - 11918
+  - §actus
+  - i
+- - 13895
+  - §actus
+  - i
+- - 15372
+  - ±chorus
+  - ''
+- - 15938
+  - §actus
+  - i
+- - 16276
+  - §actus
+  - secvndi
+- - 17988
+  - §actus
+  - ii
+- - 19026
+  - §actus
+  - ii
+- - 19555
+  - §actus
+  - ii
+- - 19929
+  - §actus
+  - ii
+- - 20369
+  - §actus
+  - ii
+- - 20947
+  - §actus
+  - ii
+- - 21918
+  - §actus
+  - ii
+- - 22104
+  - §actus
+  - ii
+- - 23905
+  - §actus
+  - ii
+- - 25984
+  - §actus
+  - ii
+- - 26812
+  - ±chorus
+  - ''
+- - 27466
+  - §actus
+  - iii
+- - 27478
+  - §actus
+  - tertii
+- - 27492
+  - §scena
+  - i
+- - 27502
+  - §interlocutores
+  - ''
+- - 29036
+  - §actus
+  - iii
+- - 29299
+  - §actus
+  - iii
+- - 30039
+  - §actus
+  - iii
+- - 31367
+  - §actus
+  - iii
+- - 31728
+  - §actus
+  - iii
+- - 32787
+  - §actus
+  - iii
+- - 33294
+  - §actus
+  - iii
+- - 34083
+  - §actus
+  - iii
+- - 35265
+  - §actus
+  - iii
+- - 35277
+  - §actus
+  - iii
+- - 36932
+  - §actus
+  - iii
+- - 37179
+  - §actus
+  - iii
+- - 39183
+  - §actus
+  - iii
+- - 39195
+  - ±chorus
+  - ''
+- - 40122
+  - §actus
+  - qvarti
+- - 40136
+  - §scena
+  - i
+- - 40146
+  - §interlocutores
+  - ''
+- - 40933
+  - §actus
+  - iiii
+- - 42360
+  - §actus
+  - iiii
+- - 42896
+  - §actus
+  - iiii
+- - 43432
+  - §actus
+  - iiii
+- - 44837
+  - §actus
+  - iiii
+- - 45238
+  - §actus
+  - iiii
+- - 46891
+  - §actus
+  - iiii
+- - 47076
+  - §actus
+  - iiii
+- - 48712
+  - §actus
+  - iiii
+- - 48912
+  - §actus
+  - iiii
+- - 49296
+  - ±chorus
+  - angelorvm
+- - 50244
+  - §actus
+  - v
+- - 50379
+  - §actus
+  - qvinti
+- - 50393
+  - §scena
+  - i
+- - 50403
+  - §interlocutores
+  - ''
+- - 52064
+  - §actus
+  - v
+- - 52411
+  - §actus
+  - v
+- - 53974
+  - §actus
+  - v
+- - 54619
+  - §actus-scena
+  - v-iii
+- - 55088
+  - §actus
+  - v
+- - 55676
+  - §actus
+  - v
+- - 57659
+  - §actus
+  - v
+- - 58548
+  - §actus
+  - v
+- - 59339
+  - §actus
+  - v
+- - 61121
+  - ±finis
+  - ''
 Holonius-Laurentias:
 - - 12
   - §prologus
@@ -3073,70 +3333,70 @@ Houthem-Gedeon:
 - - 2022
   - §scena
   - prima
-- - 4241
+- - 4249
   - §actus-scena
   - primi-secunda
-- - 5945
+- - 5953
   - §actus-scena
   - primi-tertia
-- - 9657
+- - 9665
   - §actus-scena
   - primi-quarta
-- - 10254
+- - 10262
   - ±chorus
   - primus
-- - 11088
+- - 11096
   - §actus-scena
   - secundus-prima
-- - 12831
+- - 12839
   - §actus-scena
   - secundi-secunda
-- - 16178
+- - 16186
   - §actus-scena
   - secundi-tertia
-- - 20161
+- - 20169
   - ±chorus
   - ''
-- - 20831
+- - 20839
   - §actus-scena
   - tertij-prima
-- - 22508
+- - 22516
   - §actus-scena
   - tertij-secunda
-- - 25851
+- - 25859
   - §actus-scena
   - tertij-tertia
-- - 27160
+- - 27168
   - §actus-scena
   - tertij-quarta
-- - 27547
+- - 27555
   - ±chorus
   - ''
-- - 28010
+- - 28018
   - §actus-scena
   - quarti-prima
-- - 28622
+- - 28630
   - §actus-scena
   - quarti-secunda
-- - 30388
+- - 30396
   - §actus-scena
   - quarti-tertia
-- - 32185
+- - 32193
   - ±chorus
   - ''
-- - 32681
+- - 32689
   - §actus-scena
   - quinti-prima
-- - 35049
+- - 35057
   - §actus-scena
   - quinti-secunda
-- - 35475
+- - 35483
   - §actus-scena
   - quinti-tertia
-- - 37440
+- - 37448
   - §actus-scena
   - quinti-quarta
-- - 38343
+- - 38351
   - §actus-scena
   - quinti-quinta
 Ischyrius-Homulus:
@@ -5512,82 +5772,82 @@ Papaeus-Samarites:
 - - 2
   - §prologus
   - ''
-- - 1086
+- - 1081
   - §actus-scena
   - primi-prima
-- - 2525
+- - 1150
+  - ±comoedia
+  - ''
+- - 2534
   - §actus-scena
   - primi-secunda
-- - 4765
+- - 4783
   - §actus-scena
   - primi-tertia
-- - 6052
+- - 6076
   - §actus-scena
   - primi-quarta
-- - 7428
+- - 7432
   - §actus-scena
   - secundi-prima
-- - 9107
-  - §actus-scena
-  - secundi-secunda
-- - 9759
+- - 9115
+  - §actus
+  - secundi
+- - 9778
   - §actus-scena
   - secundi-tertia
-- - 13249
+- - 15465
   - §actus-scena
-  - secundi-quarta
-- - 15456
+  - tertij-prima
+- - 17049
   - §actus-scena
-  - tertii-prima
-- - 17035
+  - tertij-secunda
+- - 24609
   - §actus-scena
-  - tertii-secunda
-- - 24626
-  - §actus-scena
-  - tertii-tertia
-- - 25069
+  - tertij-tertia
+- - 25047
   - §argumentum
   - est
-- - 25629
+- - 25608
   - §actus-scena
-  - tertii-quarta
-- - 27976
+  - tertij-quarta
+- - 27941
   - §actus-scena
-  - tertii-quinta
-- - 29954
+  - tertij-quinta
+- - 29910
   - §actus-scena
   - quarti-prima
-- - 32125
+- - 32081
   - §actus-scena
   - quarti-secunda
-- - 33695
+- - 33650
   - §actus-scena
   - quarti-tertia
-- - 34961
+- - 34899
   - §actus-scena
   - quarti-quarta
-- - 37088
+- - 37003
   - §actus-scena
   - quinti-prima
-- - 38546
+- - 38450
   - §actus-scena
   - quinti-secunda
-- - 39378
+- - 39278
   - §actus-scena
   - quinti-tertia
-- - 40049
+- - 39939
   - §actus-scena
   - quinti-quarta
-- - 40407
+- - 40293
   - §actus-scena
   - quinti-quinta
-- - 41246
+- - 41138
   - §actus-scena
   - quinti-sexta
-- - 43436
+- - 43319
   - §actus-scena
   - quinti-septima
-- - 46254
+- - 46133
   - §peroratio
   - ''
 Philicinus-Esther:
@@ -5762,22 +6022,46 @@ Philicinus-Magdalena:
   - ''
 Placentius-Clericus: []
 Placentius-Plausus:
-- - 9297
+- - 8650
   - §peroratio
   - ''
 Placentius-Susanna:
 - - 2
   - §interlocutores
   - ''
-- - 421
+- - 410
   - §argumentum
   - ''
-- - 1387
+- - 1415
   - §actus
-  - primus
-- - 9363
+  - primvs
+- - 7514
+  - ±chorus
+  - saepe
+- - 9454
   - §actus
-  - secundus
+  - secvndvs
+- - 10207
+  - ±chorus
+  - atqui
+- - 10438
+  - ±chorus
+  - respira
+- - 10931
+  - ±chorus
+  - scio
+- - 11385
+  - ±chorus
+  - dij
+- - 15836
+  - ±chorus
+  - ita
+- - 16172
+  - ±chorus
+  - perimus
+- - 16559
+  - ±chorus
+  - ambo
 Reuchlin-Henno:
 - - 2
   - §personae
@@ -6148,45 +6432,39 @@ Ruggle-Ignoramus:
   - ''
 Salius-Nassovius:
 - - 2
-  - §dramatis
-  - personae
-- - 101
+  - §personae
+  - dramatis
+- - 102
   - ±chorus
   - ''
-- - 110
+- - 111
   - §actus
-  - primus
-- - 6484
+  - primvs
+- - 6477
   - ±chorus
   - ''
-- - 8724
+- - 8743
   - §actus
-  - secundus
-- - 12877
+  - secvndvs
+- - 12797
   - ±chorus
   - ''
-- - 14160
+- - 14092
   - §actus
-  - tertius
-- - 20169
+  - tertivs
+- - 19864
   - ±chorus
   - ''
-- - 21783
+- - 21501
   - §actus
-  - quartus
-- - 24659
+  - qvartvs
+- - 24347
   - ±chorus
   - ''
-- - 25791
+- - 25496
   - §actus
-  - quintus
-- - 29695
-  - ±chorus
-  - ''
-- - 30971
-  - ±chorus
-  - ''
-- - 31599
+  - qvintvs
+- - 31269
   - ±chorus
   - ''
 Schonaeus-Ananias:
@@ -8036,19 +8314,19 @@ Susius-Pendularia:
 - - 27485
   - §scena
   - iv
-- - 34963
+- - 34965
   - §actus
   - qvinti
-- - 34977
+- - 34979
   - §scena
   - i
-- - 35884
+- - 35886
   - §scena
   - ii
-- - 36879
+- - 36881
   - §scena
   - iii
-- - 38268
+- - 38270
   - §scena
   - iv
 Telesio-Imber:
@@ -9172,6 +9450,85 @@ Zovitius-Didascalus:
 - - 28496
   - §actus-scena
   - v-v
+Zovitius-Ovis:
+- - 2
+  - §scena
+  - i
+- - 22
+  - §actus-scena
+  - primi-prima
+- - 1625
+  - §scena
+  - ii
+- - 5286
+  - §actus
+  - secvndvs
+- - 6772
+  - §scena
+  - secvnda
+- - 9463
+  - §scena
+  - tertia
+- - 11165
+  - §scena
+  - qvarta
+- - 13456
+  - §actus
+  - tertivs
+- - 14268
+  - §scena
+  - secvnda
+- - 15149
+  - §actus-scena
+  - iii-iii
+- - 17024
+  - §scena
+  - qvarta
+- - 19917
+  - §scena
+  - qvinta
+- - 21594
+  - §scena
+  - sexta
+- - 24562
+  - §actus
+  - qvartvs
+- - 27581
+  - §scena
+  - secvnda
+- - 29795
+  - §scena
+  - tertia
+- - 30813
+  - §scena
+  - qvarta
+- - 32731
+  - §scena
+  - qvinta
+- - 33607
+  - §scena
+  - sexta
+- - 36646
+  - §actus
+  - v
+- - 38182
+  - §scena
+  - secvnda
+- - 40499
+  - §scena
+  - tertia
+- - 45689
+  - §scena
+  - qvarta
+- - 47342
+  - §scena
+  - qvinta
+- - 50625
+  - §scena
+  - sexta
+- - 52811
+  - ±finis
+  - ''
 Zovitius-Ruth:
 - - 2
   - ±ludionum

@@ -137,10 +137,15 @@ FOLIO_ALPHA_ROMAN_ALONE_RE = re.compile(
     r"""
     ^
     (
-        [A-Z]
-        [\ ]?
+        (?:
+            [A-Z] |
+            (?:\\\*)
+        )
+        [.\ ]?
         [ijxvcl]*
         [ab]?
+        (?<!Eva)
+        \.?
     )
     $
     """,
@@ -495,7 +500,7 @@ class DramaSpecific:
             )
             \)
             """,
-            re.X | re.S
+            re.X | re.S,
         )
 
         def noteRepl(match):
@@ -517,8 +522,16 @@ class DramaSpecific:
     Gretser_Timon = "generic"
     Gretser_Underwaldius = "generic"
     Grimald_Christus = "generic"
-    Grotius_Adamus = "generic"
-    Grotius_Christus = "generic"
+
+    def Grotius_Adamus(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
+        return text
+
+    def Grotius_Christus(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
+        return text
 
     def Grotius_Phoenissae(self, text):
         folioRe = re.compile(
@@ -542,6 +555,11 @@ class DramaSpecific:
         text = ARABIC_PAGENUM_SQ_FACS_RE.sub(self.pageFacsRepl, text)
         return text
 
+    def Grotius_Sophompaneas(self, text):
+        text = FOLIO_ALPHA_ARABIC_BARE_RE.sub(self.folioRepl, text)
+        text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
+        return text
+
     Gwalther_Nabal = "generic"
     Heinsius_Auriacus = "generic"
 
@@ -557,7 +575,7 @@ class DramaSpecific:
             /
             [\ ]?
             """,
-            re.X
+            re.X,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -576,11 +594,15 @@ class DramaSpecific:
             .*
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = headRe.sub(r"\1", text)
         text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        return text
+
+    def Holonius_Lambertias(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         return text
 
     def Holonius_Laurentias(self, text):
@@ -597,7 +619,7 @@ class DramaSpecific:
             )
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = headRe.sub(r"\1", text)
         text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
@@ -622,7 +644,7 @@ class DramaSpecific:
             .*
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -672,6 +694,7 @@ class DramaSpecific:
     Kerckmeister_Codrus = "generic"
 
     def Knuyt_Scornetta(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         text = FOLIO_ALPHA_ROMAN_SQ_RE.sub(self.folioRepl, text)
         return text
 
@@ -767,7 +790,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -784,7 +807,7 @@ class DramaSpecific:
             SACRA
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         pageSecRe = re.compile(
@@ -799,7 +822,7 @@ class DramaSpecific:
             ([0-9]+)
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageSecRe.sub(self.pageRepl, text)
         return text
@@ -824,7 +847,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -866,7 +889,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -893,7 +916,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -920,7 +943,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -953,7 +976,10 @@ class DramaSpecific:
         text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
         return text
 
-    Papaeus_Samarites = "generic"
+    def Papaeus_Samarites(self, text):
+        text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
+        return text
+
     Philicinus_Esther = "generic"
 
     def Philicinus_Magdalena(self, text):
@@ -975,17 +1001,17 @@ class DramaSpecific:
             \**
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = folioRe.sub(self.folioRepl, text)
         return text
 
     def Placentius_Plausus(self, text):
-        text = ARABIC_PAGENUM_SQ_RE.sub(self.pageRepl, text)
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         return text
 
     def Placentius_Susanna(self, text):
-        text = FOLIO_ALPHA_ARABIC_BARE_RE.sub(self.folioRepl, text)
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
         return text
 
     Reuchlin_Henno = "generic"
@@ -997,7 +1023,10 @@ class DramaSpecific:
 
     Roulerius_Stuarta = "generic"
     Ruggle_Ignoramus = "generic"
-    Salius_Nassovius = "generic"
+
+    def Salius_Nassovius(self, text):
+        text = ARABIC_PAGENUM_BARE_RE.sub(self.pageRepl, text)
+        return text
 
     def Schonaeus_Ananias(self, text):
         text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
@@ -1019,7 +1048,7 @@ class DramaSpecific:
             \.
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1039,7 +1068,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1059,7 +1088,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1084,7 +1113,7 @@ class DramaSpecific:
             \.
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1104,7 +1133,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1132,7 +1161,7 @@ class DramaSpecific:
             ([0-9]+)
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1157,7 +1186,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1186,7 +1215,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1213,7 +1242,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1234,7 +1263,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1259,7 +1288,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1284,7 +1313,7 @@ class DramaSpecific:
             ([0-9]+)
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         pageRe = re.compile(
@@ -1305,7 +1334,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1341,7 +1370,7 @@ class DramaSpecific:
             [.:]?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1366,7 +1395,7 @@ class DramaSpecific:
             [.:]?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1387,7 +1416,7 @@ class DramaSpecific:
             \.?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1435,7 +1464,7 @@ class DramaSpecific:
             )
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = headRe.sub("", text)
         return text
@@ -1461,7 +1490,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1479,7 +1508,7 @@ class DramaSpecific:
             [\ ]
             (?=\\\[)
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = headRe.sub("", text)
         text = FOLIO_ALPHA_ARABIC_ALONE_RE.sub(self.folioRepl, text)
@@ -1510,7 +1539,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1539,7 +1568,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1575,7 +1604,7 @@ class DramaSpecific:
             )?
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
@@ -1640,10 +1669,15 @@ class DramaSpecific:
             [\\.]*
             $
             """,
-            re.X | re.M
+            re.X | re.M,
         )
         text = pageRe.sub(self.pageRepl, text)
         return text
 
     Zovitius_Didascalus = "generic"
+
+    def Zovitius_Ovis(self, text):
+        text = FOLIO_ALPHA_ROMAN_ALONE_RE.sub(self.folioRepl, text)
+        return text
+
     Zovitius_Ruth = "generic"

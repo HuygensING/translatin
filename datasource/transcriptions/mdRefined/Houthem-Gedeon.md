@@ -559,7 +559,7 @@ Tempore, quid querar? incumbunt in singula verba
 
 ≤folio=Bij≥
 
-\*
+≤folio=\*≥
 
 Surgentes imo gemitus de pectore moesti.
 

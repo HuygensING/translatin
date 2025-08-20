@@ -784,32 +784,33 @@ Grimald-Christus:
 - §actus-scena v-i
 - §actus-scena v-ii
 Grotius-Adamus:
-- §actus primus
+- §actus primvs
 - ±chorus
-- §actus secundus
+- §actus secvndvs
 - ±chorus
 - §actus iii
 - ±chorus
 - §actus iiii
 - ±chorus
-- §actus quintus
+- §actus qvintvs
 Grotius-Christus:
 - §personae
 - ±chorus iudaearum
 - ±chorus militum
-- §actus primus
-- ±chorus iudaearum
-- §actus secundus
-- ±chorus iudaearum
-- §actus tertius
-- ±chorus iudaearum
+- §errata
+- §actus primvs
+- ±chorus ivdaearvm
+- §actus secvndvs
+- ±chorus ivdaearvm
+- §actus tertivs
+- ±chorus ivdaearvm
 - ±chorus eheu
-- §actus quartus
+- §actus qvartvs
 - ±chorus dum
 - ±chorus quid
 - ±chorus positone
-- ±chorus romanorum
-- §actus quintus
+- ±chorus romanorvm
+- §actus qvintvs
 Grotius-Phoenissae:
 - §interlocutores
 - ±chorus phoenissarum
@@ -835,6 +836,16 @@ Grotius-Phoenissae:
 - ±strophe i
 - ±strophe ii
 - ±strophe iii
+Grotius-Sophompaneas:
+- §actus primvs
+- ±chorus
+- §actus secvndvs
+- ±chorus
+- §actus tertivs
+- ±chorus
+- §actus qvartvs
+- ±chorus
+- §actus qvintvs
 Gwalther-Nabal:
 - §dramatis personae
 - §prologus
@@ -974,6 +985,83 @@ Holonius-Catharina:
 - §actus-scena v-vii
 - §actus qvinti
 - §scena viii
+Holonius-Lambertias:
+- §prologus in
+- §prologus
+- §argumentum tragoediae
+- §personae tragoediae
+- §scena i
+- §interlocutores
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- §actus i
+- ±chorus
+- §actus i
+- §actus secvndi
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- §actus ii
+- ±chorus
+- §actus iii
+- §actus tertii
+- §scena i
+- §interlocutores
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- §actus iii
+- ±chorus
+- §actus qvarti
+- §scena i
+- §interlocutores
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- §actus iiii
+- ±chorus angelorvm
+- §actus v
+- §actus qvinti
+- §scena i
+- §interlocutores
+- §actus v
+- §actus v
+- §actus v
+- §actus-scena v-iii
+- §actus v
+- §actus v
+- §actus v
+- §actus v
+- §actus v
+- ±finis
 Holonius-Laurentias:
 - §prologus
 - §argumentum
@@ -1885,19 +1973,19 @@ Narssius-Gustavus:
 Papaeus-Samarites:
 - §prologus
 - §actus-scena primi-prima
+- ±comoedia
 - §actus-scena primi-secunda
 - §actus-scena primi-tertia
 - §actus-scena primi-quarta
 - §actus-scena secundi-prima
-- §actus-scena secundi-secunda
+- §actus secundi
 - §actus-scena secundi-tertia
-- §actus-scena secundi-quarta
-- §actus-scena tertii-prima
-- §actus-scena tertii-secunda
-- §actus-scena tertii-tertia
+- §actus-scena tertij-prima
+- §actus-scena tertij-secunda
+- §actus-scena tertij-tertia
 - §argumentum est
-- §actus-scena tertii-quarta
-- §actus-scena tertii-quinta
+- §actus-scena tertij-quarta
+- §actus-scena tertij-quinta
 - §actus-scena quarti-prima
 - §actus-scena quarti-secunda
 - §actus-scena quarti-tertia
@@ -1974,8 +2062,16 @@ Placentius-Plausus:
 Placentius-Susanna:
 - §interlocutores
 - §argumentum
-- §actus primus
-- §actus secundus
+- §actus primvs
+- ±chorus saepe
+- §actus secvndvs
+- ±chorus atqui
+- ±chorus respira
+- ±chorus scio
+- ±chorus dij
+- ±chorus ita
+- ±chorus perimus
+- ±chorus ambo
 Reuchlin-Henno:
 - §personae
 - ±codices
@@ -2103,19 +2199,17 @@ Ruggle-Ignoramus:
 - §actus-scena v-xii
 - §epilogus
 Salius-Nassovius:
-- §dramatis personae
+- §personae dramatis
 - ±chorus
-- §actus primus
+- §actus primvs
 - ±chorus
-- §actus secundus
+- §actus secvndvs
 - ±chorus
-- §actus tertius
+- §actus tertivs
 - ±chorus
-- §actus quartus
+- §actus qvartvs
 - ±chorus
-- §actus quintus
-- ±chorus
-- ±chorus
+- §actus qvintvs
 - ±chorus
 Schonaeus-Ananias:
 - §actorum nomina
@@ -3134,6 +3228,33 @@ Zovitius-Didascalus:
 - §actus-scena v-iii
 - §actus-scena v-iiii
 - §actus-scena v-v
+Zovitius-Ovis:
+- §scena i
+- §actus-scena primi-prima
+- §scena ii
+- §actus secvndvs
+- §scena secvnda
+- §scena tertia
+- §scena qvarta
+- §actus tertivs
+- §scena secvnda
+- §actus-scena iii-iii
+- §scena qvarta
+- §scena qvinta
+- §scena sexta
+- §actus qvartvs
+- §scena secvnda
+- §scena tertia
+- §scena qvarta
+- §scena qvinta
+- §scena sexta
+- §actus v
+- §scena secvnda
+- §scena tertia
+- §scena qvarta
+- §scena qvinta
+- §scena sexta
+- ±finis
 Zovitius-Ruth:
 - ±ludionum nomenclatvrae
 - §prologus

@@ -4,7 +4,7 @@
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0042" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0044" xml:lang="lat">
 <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -340,7 +340,7 @@
     <p>Exiguo possem (gemitus nam verba retardant)</p>
     <p>Tempore, quid querar? incumbunt in singula verba</p>
     <p><milestone unit="folio" facs="Bij"/></p>
-    <p>*</p>
+    <p><milestone unit="folio" facs="*"/></p>
     <p>Surgentes imo gemitus de pectore moesti.</p>
     <p>Anxietas animi vehemens facit esse disertum,</p>
     <p>(60) Denique sunt questus misero solaminis instar,</p>

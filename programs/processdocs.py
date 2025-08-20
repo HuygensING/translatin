@@ -783,6 +783,7 @@ class TeiFromDocx:
         reportLinesRaw = self.reportLinesRaw
         reportLinenumbersRaw = self.reportLinenumbersRaw
         reportPages = self.reportPages
+        reportFolios = self.reportFolios
         reportPagesRaw = self.reportPagesRaw
         reportSections = self.reportSections
         reportSectionsRaw = self.reportSectionsRaw
@@ -956,6 +957,7 @@ class TeiFromDocx:
 
         lineInfo = {}
         pageInfo = {}
+        folioInfo = {}
         sectionInfo = {}
 
         if cleanDone:
@@ -966,7 +968,15 @@ class TeiFromDocx:
                 wLines = sorted(lineNumbers.get(file, []), key=lambda x: x[0])
                 lineInfo[file] = [x[1] for x in wLines]
 
-                wPages = sorted(pages.get(file, []), key=lambda x: x[1])
+                myPages = pages.get(file, [])
+
+                for entry in myPages:
+                    if entry[0] != "f":
+                        continue
+
+                    folioInfo.setdefault(entry[-1], set()).add(file)
+
+                wPages = sorted(myPages, key=lambda x: x[1])
                 pageInfo[file] = [f"{x[0]}. {x[-1]}" for x in wPages]
 
                 wSections = sections.get(file, ())
@@ -980,13 +990,20 @@ class TeiFromDocx:
                 sectionInfo[file] = items
 
             writeYaml(lineInfo, asFile=reportLines)
-            self.console(f"See for pages: {reportLines}")
+            self.console(f"See for lines: {reportLines}")
 
             writeYaml(pageInfo, asFile=reportPages)
             self.console(f"See for pages: {reportPages}")
 
             writeYaml(sectionInfo, asFile=reportSections)
             self.console(f"See for sections: {reportSections}")
+
+            with open(reportFolios, "w") as fh:
+                for fol in sorted(folioInfo):
+                    dramas = ", ".join(sorted(folioInfo[fol]))
+                    fh.write(f"{fol:<10} in {dramas}\n")
+
+            self.console(f"See for folios: {reportFolios}")
 
         self.showWarnings(serious=False)
         self.showWarnings()

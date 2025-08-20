@@ -4,7 +4,7 @@
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0106" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0108" xml:lang="lat">
 <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -56,20 +56,17 @@
   <head>Front</head>
   <p>NICOLAI SVSII</p>
   <p>E SOCIETATE IESV</p>
-  <p>OPVSCVLA LITTERARIA 6</p>
+  <p>OPVSCVLA LITTERARIA:</p>
   <p>LIMA CICERONIANA,</p>
   <p>siue</p>
   <p>DE STYLO LIBER SINGVLARIS,</p>
   <p>DE PVLCRITVDINE B. MARIAE VIRG.</p>
   <p>DISCEPTATIO QVODLIBETICA.</p>
-  <p>Q. βCοbξ s. sl. X C-LA</p>
-  <p>EMATA.</p>
+  <p>POEMATA.</p>
   <p>ELEGIAE MARIANAE,</p>
   <p>LVSVS ANACREONTEI,</p>
   <p>DRAMA COMICVM.</p>
-  <p>Liß.9. 3. AReCfeuα</p>
-  <p>ANTVERPI</p>
-  <p>AE</p>
+  <p>ANTVERPIAE</p>
   <p>Apud Heredes MARTINI NVTII,</p>
   <p>ANNO M. DC. XX.</p>
   <p><milestone unit="page" facs="241"/></p>
@@ -465,7 +462,7 @@
     <p>Solue ellum sis. Lyd. Nolo solui. Phil. Ast ego volo.</p>
     <p>Lyd. Ast ego magis aequus malo poenas luere flagitî.</p>
     <p>Phil. Cuius? Lyd. Tui, qui innoxium oneras tot malis.</p>
-    <p>(280) lubes ligari, indictâ caußâ me duci iubes.</p>
+    <p>(280) Iubes ligari, indictâ caußâ me duci iubes.</p>
     <p>Phil. Quaeso hoc mihi flagitium noli imputare, mi Lyde.</p>
     <p>Lyd. Nolo condonare nisi genua demulseris.</p>
     <p>Philox. Mulsi: congialem tibi propinabo fideliam.</p>
@@ -859,7 +856,11 @@
     <p>Hic nempe gnatus est meus bellißimus,</p>
     <p>Quem mactabo omnibus cruciabilitatibus.</p>
     <p>PI. Δαιτυμόνες δ’ ἀνὰ δώματ’ ἀκουάζωνται ἀοιδοῦ,</p>
-    <p>590 Ἥμενοι ἑξείης παρὰ δὲ πλήθωσι τράπεζαι</p>
+    <list type="ordered:arabic">
+      <item n="590">
+        <p>Ἥμενοι ἑξείης παρὰ δὲ πλήθωσι τράπεζαι</p>
+      </item>
+    </list>
     <p>Σίτου καὶ κρειῶν. μέθύ δ’ ἐκ κρητῆρος ἀφύσσων</p>
     <p>Oίνοχόος φορέῃσι, καὶ ἐκχείῃ δεπάεσσιν</p>
     <p>Τοῦτο τί μοι κάλλιστον ἐνὶ φρεσὶν εἴδεται εἶναι.</p>

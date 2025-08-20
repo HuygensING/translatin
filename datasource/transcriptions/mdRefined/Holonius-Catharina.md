@@ -2512,7 +2512,7 @@ Immissa menti, qua nouus surgit vigor:
 
 Docebit ille, vincta quod minus queo.
 
-D iij.
+≤folio=Diij.≥
 
 ≤page=54≥
 

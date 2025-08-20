@@ -8,76 +8,81 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=          1100x bold
-	                                  3122x footnote
-	                                  9204x italic
-	                                    17x superscript
+	<hi>               rend=          1035x bold
+	                                  3325x footnote
+	                                  9018x italic
+	                                    19x superscript
 	                                     5x underline
 
 Keyword Attributes
 
-	<TEI>              lang=           118x lat
+	<TEI>              lang=           121x lat
 
-	<div>              type=           354x level1
-	                                  2536x level2
-	                                    39x notes
+	<div>              type=           363x level1
+	                                  2637x level2
+	                                    42x notes
 
-	<list>             type=           129x ordered:arabic
+	<list>             type=           130x ordered:arabic
 	                                     2x ordered:loweralpha
 	                                     6x ordered:lowerroman
-	                                    15x ordered:upperalpha
-	                                    88x ordered:upperroman
+	                                    14x ordered:upperalpha
+	                                    87x ordered:upperroman
 	                                     5x unordered
 
-	<milestone>        facs=            11x 1
-	                                    33x 10
-	                                    12x 100
+	<milestone>        facs=             2x *
+	                                     1x *iiij
+	                                     1x *iij
+	                                     1x *ij
+	                                     1x *v
+	                                    15x 1
+	                                    36x 10
+	                                    13x 100
 	                                     1x 1000
 	                                     1x 1005
-	                                    10x 101
+	                                    11x 101
 	                                     1x 1010
 	                                     1x 1015
-	                                    11x 102
+	                                    12x 102
 	                                     1x 1020
 	                                     1x 1025
-	                                    10x 103
+	                                    11x 103
 	                                     1x 1030
 	                                     1x 1035
-	                                    11x 104
+	                                    12x 104
 	                                     1x 1040
 	                                     1x 1045
-	                                    11x 105
+	                                    12x 105
 	                                     1x 1050
 	                                     1x 1055
-	                                    11x 106
+	                                    12x 106
 	                                     1x 1060
 	                                     1x 1065
-	                                    10x 107
+	                                    11x 107
 	                                     1x 1070
 	                                     1x 1075
-	                                    11x 108
+	                                    12x 108
 	                                     1x 1080
 	                                     1x 1085
-	                                    10x 109
+	                                    11x 109
 	                                     1x 1090
 	                                     1x 1095
-	                                    33x 11
-	                                    12x 110
+	                                    36x 11
+	                                    13x 110
 	                                     1x 1100
 	                                     1x 1105
-	                                    10x 111
+	                                    11x 111
 	                                     1x 1110
 	                                     1x 1115
-	                                    10x 112
+	                                    11x 112
 	                                     1x 1120
 	                                     1x 1125
-	                                     9x 113
+	                                    10x 113
 	                                     1x 1130
 	                                     1x 1135
-	                                    10x 114
+	                                    11x 114
 	                                     2x 1140
 	                                     1x 1145
-	                                    10x 115
+	                                    11x 115
 	                                     1x 1150
 	                                     1x 1155
 	                                    10x 116
@@ -90,7 +95,7 @@ Keyword Attributes
 	                                     1x 1180
 	                                     1x 1185
 	                                     9x 119
-	                                    35x 12
+	                                    38x 12
 	                                     9x 120
 	                                     8x 121
 	                                    10x 122
@@ -101,7 +106,7 @@ Keyword Attributes
 	                                     5x 127
 	                                     8x 128
 	                                     6x 129
-	                                    35x 13
+	                                    38x 13
 	                                     8x 130
 	                                     6x 131
 	                                     6x 132
@@ -112,7 +117,7 @@ Keyword Attributes
 	                                     6x 137
 	                                     7x 138
 	                                     6x 139
-	                                    35x 14
+	                                    38x 14
 	                                     8x 140
 	                                     6x 141
 	                                     7x 142
@@ -123,7 +128,7 @@ Keyword Attributes
 	                                     6x 147
 	                                     7x 148
 	                                     6x 149
-	                                    36x 15
+	                                    38x 15
 	                                     8x 150
 	                                     6x 151
 	                                     7x 152
@@ -134,7 +139,7 @@ Keyword Attributes
 	                                     5x 157
 	                                     6x 158
 	                                     5x 159
-	                                    33x 16
+	                                    35x 16
 	                                     7x 160
 	                                     5x 161
 	                                     5x 162
@@ -145,7 +150,7 @@ Keyword Attributes
 	                                     5x 167
 	                                     4x 168
 	                                     4x 169
-	                                    36x 17
+	                                    40x 17
 	                                     6x 170
 	                                     4x 171
 	                                     5x 172
@@ -156,7 +161,7 @@ Keyword Attributes
 	                                     4x 177
 	                                     5x 178
 	                                     4x 179
-	                                    33x 18
+	                                    37x 18
 	                                     6x 180
 	                                     4x 181
 	                                     5x 182
@@ -167,7 +172,7 @@ Keyword Attributes
 	                                     4x 187
 	                                     5x 188
 	                                     4x 189
-	                                    35x 19
+	                                    38x 19
 	                                     6x 190
 	                                     4x 191
 	                                     5x 192
@@ -178,8 +183,8 @@ Keyword Attributes
 	                                     4x 197
 	                                     5x 198
 	                                     4x 199
-	                                    24x 2
-	                                    36x 20
+	                                    25x 2
+	                                    39x 20
 	                                     6x 200
 	                                     4x 201
 	                                     4x 202
@@ -190,7 +195,7 @@ Keyword Attributes
 	                                     2x 207
 	                                     3x 208
 	                                     1x 209
-	                                    34x 21
+	                                    37x 21
 	                                     5x 210
 	                                     4x 211
 	                                     4x 212
@@ -201,7 +206,7 @@ Keyword Attributes
 	                                     3x 217
 	                                     4x 218
 	                                     3x 219
-	                                    34x 22
+	                                    37x 22
 	                                     5x 220
 	                                     3x 221
 	                                     4x 222
@@ -212,7 +217,7 @@ Keyword Attributes
 	                                     3x 227
 	                                     3x 228
 	                                     3x 229
-	                                    34x 23
+	                                    36x 23
 	                                     5x 230
 	                                     3x 231
 	                                     4x 232
@@ -223,7 +228,7 @@ Keyword Attributes
 	                                     2x 237
 	                                     3x 238
 	                                     3x 239
-	                                    33x 24
+	                                    36x 24
 	                                     5x 240
 	                                     4x 241
 	                                     5x 242
@@ -234,7 +239,7 @@ Keyword Attributes
 	                                     4x 247
 	                                     5x 248
 	                                     4x 249
-	                                    34x 25
+	                                    37x 25
 	                                     6x 250
 	                                     4x 251
 	                                     5x 252
@@ -245,7 +250,7 @@ Keyword Attributes
 	                                     3x 257
 	                                     4x 258
 	                                     2x 259
-	                                    32x 26
+	                                    35x 26
 	                                     5x 260
 	                                     2x 261
 	                                     3x 262
@@ -256,7 +261,7 @@ Keyword Attributes
 	                                     2x 267
 	                                     3x 268
 	                                     2x 269
-	                                    32x 27
+	                                    35x 27
 	                                     4x 270
 	                                     2x 271
 	                                     3x 272
@@ -267,7 +272,7 @@ Keyword Attributes
 	                                     1x 277
 	                                     2x 278
 	                                     1x 279
-	                                    32x 28
+	                                    35x 28
 	                                     2x 280
 	                                     1x 281
 	                                     1x 282
@@ -278,7 +283,7 @@ Keyword Attributes
 	                                     1x 287
 	                                     1x 288
 	                                     1x 289
-	                                    33x 29
+	                                    36x 29
 	                                     2x 290
 	                                     1x 291
 	                                     1x 292
@@ -289,8 +294,8 @@ Keyword Attributes
 	                                     1x 297
 	                                     1x 298
 	                                     1x 299
-	                                    28x 3
-	                                    34x 30
+	                                    31x 3
+	                                    37x 30
 	                                     2x 300
 	                                     1x 301
 	                                     1x 302
@@ -301,7 +306,7 @@ Keyword Attributes
 	                                     1x 307
 	                                     1x 308
 	                                     1x 309
-	                                    34x 31
+	                                    37x 31
 	                                     2x 310
 	                                     1x 311
 	                                     2x 312
@@ -312,7 +317,7 @@ Keyword Attributes
 	                                     2x 317
 	                                     2x 318
 	                                     2x 319
-	                                    32x 32
+	                                    35x 32
 	                                     3x 320
 	                                     2x 321
 	                                     2x 322
@@ -323,7 +328,7 @@ Keyword Attributes
 	                                     2x 327
 	                                     2x 328
 	                                     2x 329
-	                                    33x 33
+	                                    36x 33
 	                                     3x 330
 	                                     3x 331
 	                                     2x 332
@@ -334,7 +339,7 @@ Keyword Attributes
 	                                     3x 337
 	                                     3x 338
 	                                     2x 339
-	                                    33x 34
+	                                    36x 34
 	                                     2x 340
 	                                     2x 341
 	                                     2x 342
@@ -345,7 +350,7 @@ Keyword Attributes
 	                                     2x 347
 	                                     2x 348
 	                                     2x 349
-	                                    35x 35
+	                                    37x 35
 	                                     3x 350
 	                                     2x 351
 	                                     3x 352
@@ -356,7 +361,7 @@ Keyword Attributes
 	                                     2x 357
 	                                     2x 358
 	                                     1x 359
-	                                    32x 36
+	                                    35x 36
 	                                     3x 360
 	                                     2x 361
 	                                     2x 362
@@ -367,7 +372,7 @@ Keyword Attributes
 	                                     1x 367
 	                                     1x 368
 	                                     1x 369
-	                                    34x 37
+	                                    37x 37
 	                                     2x 370
 	                                     1x 371
 	                                     1x 372
@@ -378,7 +383,7 @@ Keyword Attributes
 	                                     1x 377
 	                                     1x 378
 	                                     1x 379
-	                                    34x 38
+	                                    37x 38
 	                                     2x 380
 	                                     1x 381
 	                                     1x 382
@@ -389,7 +394,7 @@ Keyword Attributes
 	                                     1x 387
 	                                     1x 388
 	                                     1x 389
-	                                    34x 39
+	                                    37x 39
 	                                     2x 390
 	                                     1x 391
 	                                     1x 392
@@ -400,8 +405,8 @@ Keyword Attributes
 	                                     1x 397
 	                                     1x 398
 	                                     1x 399
-	                                    27x 4
-	                                    35x 40
+	                                    30x 4
+	                                    38x 40
 	                                     2x 400
 	                                     1x 402
 	                                     1x 403
@@ -411,7 +416,7 @@ Keyword Attributes
 	                                     1x 407
 	                                     1x 408
 	                                     1x 409
-	                                    31x 41
+	                                    34x 41
 	                                     2x 410
 	                                     1x 411
 	                                     1x 412
@@ -422,7 +427,7 @@ Keyword Attributes
 	                                     1x 417
 	                                     1x 418
 	                                     1x 419
-	                                    30x 42
+	                                    33x 42
 	                                     2x 420
 	                                     1x 421
 	                                     1x 422
@@ -432,110 +437,110 @@ Keyword Attributes
 	                                     1x 427
 	                                     1x 428
 	                                     1x 429
-	                                    32x 43
+	                                    35x 43
 	                                     2x 430
 	                                     1x 435
-	                                    32x 44
+	                                    35x 44
 	                                     1x 440
 	                                     1x 445
-	                                    33x 45
+	                                    36x 45
 	                                     1x 450
 	                                     1x 455
-	                                    31x 46
+	                                    34x 46
 	                                     1x 460
 	                                     1x 465
-	                                    30x 47
+	                                    33x 47
 	                                     1x 470
 	                                     1x 475
-	                                    33x 48
+	                                    36x 48
 	                                     1x 480
 	                                     1x 485
-	                                    30x 49
+	                                    32x 49
 	                                     1x 490
 	                                     1x 491
 	                                     1x 495
-	                                    31x 5
-	                                    31x 50
+	                                    34x 5
+	                                    34x 50
 	                                     1x 500
 	                                     1x 505
-	                                    30x 51
+	                                    33x 51
 	                                     1x 510
 	                                     1x 515
-	                                    31x 52
+	                                    34x 52
 	                                     1x 520
 	                                     1x 525
-	                                    29x 53
+	                                    32x 53
 	                                     1x 530
 	                                     1x 535
-	                                    30x 54
+	                                    33x 54
 	                                     1x 540
 	                                     1x 545
-	                                    30x 55
+	                                    32x 55
 	                                     1x 550
 	                                     1x 555
-	                                    29x 56
+	                                    31x 56
 	                                     1x 560
 	                                     1x 565
-	                                    28x 57
+	                                    30x 57
 	                                     1x 570
 	                                     1x 575
-	                                    28x 58
+	                                    30x 58
 	                                     1x 580
 	                                     1x 585
-	                                    26x 59
+	                                    28x 59
 	                                     1x 590
 	                                     1x 595
-	                                    28x 6
-	                                    29x 60
+	                                    31x 6
+	                                    31x 60
 	                                     1x 600
 	                                     1x 605
-	                                    25x 61
+	                                    27x 61
 	                                     1x 610
 	                                     1x 615
-	                                    25x 62
+	                                    26x 62
 	                                     1x 620
 	                                     1x 625
-	                                    22x 63
+	                                    23x 63
 	                                     1x 630
 	                                     1x 635
-	                                    23x 64
+	                                    24x 64
 	                                     1x 640
 	                                     1x 645
-	                                    22x 65
+	                                    23x 65
 	                                     1x 650
 	                                     1x 655
-	                                    23x 66
+	                                    24x 66
 	                                     1x 660
 	                                     1x 665
-	                                    21x 67
+	                                    22x 67
 	                                     1x 670
 	                                     1x 675
-	                                    22x 68
+	                                    23x 68
 	                                     1x 680
 	                                     1x 685
-	                                    18x 69
+	                                    19x 69
 	                                     1x 690
 	                                     1x 695
-	                                    29x 7
-	                                    22x 70
+	                                    32x 7
+	                                    23x 70
 	                                     1x 700
 	                                     1x 705
-	                                    20x 71
+	                                    21x 71
 	                                     1x 710
 	                                     1x 715
-	                                    18x 72
+	                                    19x 72
 	                                     1x 720
 	                                     1x 725
-	                                    17x 73
+	                                    18x 73
 	                                     1x 730
 	                                     1x 735
-	                                    18x 74
+	                                    19x 74
 	                                     1x 740
 	                                     1x 745
-	                                    19x 75
+	                                    20x 75
 	                                     1x 750
 	                                     1x 755
-	                                    16x 76
+	                                    17x 76
 	                                     1x 760
 	                                     1x 765
 	                                    15x 77
@@ -547,7 +552,7 @@ Keyword Attributes
 	                                    15x 79
 	                                     1x 790
 	                                     1x 795
-	                                    33x 8
+	                                    36x 8
 	                                    16x 80
 	                                     1x 800
 	                                     1x 805
@@ -557,13 +562,13 @@ Keyword Attributes
 	                                    15x 82
 	                                     1x 820
 	                                     1x 825
-	                                    15x 83
+	                                    14x 83
 	                                     1x 830
 	                                     1x 835
-	                                    14x 84
+	                                    13x 84
 	                                     1x 840
 	                                     1x 845
-	                                    15x 85
+	                                    14x 85
 	                                     1x 850
 	                                     1x 855
 	                                    16x 86
@@ -578,46 +583,48 @@ Keyword Attributes
 	                                    14x 89
 	                                     1x 890
 	                                     1x 895
-	                                    33x 9
+	                                    36x 9
 	                                    14x 90
 	                                     1x 900
 	                                     1x 905
-	                                    12x 91
+	                                    13x 91
 	                                     1x 910
 	                                     1x 915
-	                                    11x 92
+	                                    12x 92
 	                                     1x 920
 	                                     1x 925
-	                                    12x 93
+	                                    13x 93
 	                                     1x 930
 	                                     1x 935
-	                                    12x 94
+	                                    13x 94
 	                                     1x 940
 	                                     1x 945
-	                                    12x 95
+	                                    13x 95
 	                                     1x 950
 	                                     1x 955
-	                                    12x 96
+	                                    13x 96
 	                                     1x 960
 	                                     1x 965
-	                                    11x 97
+	                                    12x 97
 	                                     1x 970
 	                                     1x 975
 	                                    12x 98
 	                                     1x 980
 	                                     1x 985
-	                                    11x 99
+	                                    12x 99
 	                                     1x 990
 	                                     1x 995
-	                                     3x A
+	                                     4x A
+	                                     1x A.iij.
+	                                     1x A.ij
 	                                     2x A1r
 	                                     2x A1v
-	                                     9x A2
+	                                    11x A2
 	                                     1x A2a
 	                                     1x A2b
 	                                     4x A2r
 	                                     4x A2v
-	                                     8x A3
+	                                     9x A3
 	                                     1x A3b
 	                                     3x A3r
 	                                     2x A3v
@@ -627,58 +634,49 @@ Keyword Attributes
 	                                     8x A5
 	                                     2x A5r
 	                                     1x A5v
-	                                     1x A6
 	                                     1x A6r
 	                                     1x A6v
-	                                     1x A7
 	                                     1x A7r
 	                                     1x A7v
-	                                     1x A8
 	                                     1x A8a
 	                                     1x A8r
 	                                     1x A8v
-	                                     1x Aia
-	                                     2x Aii
+	                                     1x Ai.
+	                                     3x Aii
 	                                     1x Aiia
-	                                     1x Aiib
-	                                     1x Aiiia
-	                                     1x Aiiib
-	                                     1x Aiiiia
-	                                     1x Aiiiib
-	                                     3x Aiiij
+	                                     1x Aiii
+	                                     1x Aiiii
+	                                     6x Aiiij
+	                                     1x Aiiij.
 	                                     1x Aiiija
 	                                     1x Aiiijb
-	                                     6x Aiij
+	                                     9x Aiij
 	                                     1x Aiija
 	                                     1x Aiijb
 	                                     1x Aiijv
-	                                     4x Aij
+	                                     8x Aij
 	                                     1x Aija
 	                                     1x Aijb
 	                                     1x Ar
-	                                     1x Av
-	                                     2x Ava
-	                                     2x Avb
-	                                     1x Avia
-	                                     1x Avib
-	                                     1x Aviia
-	                                     1x Aviib
-	                                     1x Aviiia
-	                                     1x Aviiib
+	                                     2x Av
+	                                     1x Ava
+	                                     1x Avb
 	                                     1x Aviijb
 	                                     1x Avija
 	                                     1x Avijb
 	                                     1x Avja
 	                                     1x Avjb
 	                                     1x Avjija
-	                                    16x B
-	                                     1x B1
+	                                    21x B
+	                                     1x B.iiij.
+	                                     1x B.iij.
+	                                     1x B.ij.
 	                                     2x B1r
 	                                     2x B1v
-	                                    13x B2
+	                                    14x B2
 	                                     3x B2r
 	                                     3x B2v
-	                                    12x B3
+	                                    13x B3
 	                                     2x B3r
 	                                     2x B3v
 	                                     8x B4
@@ -687,7 +685,6 @@ Keyword Attributes
 	                                     7x B5
 	                                     1x B5r
 	                                     2x B5v
-	                                     1x B6
 	                                     3x B6r
 	                                     2x B6v
 	                                     2x B7r
@@ -696,18 +693,18 @@ Keyword Attributes
 	                                     3x B8v
 	                                     1x Bi
 	                                     2x Bii
-	                                     1x Biii
-	                                     3x Biiij
+	                                     2x Biii
+	                                     5x Biiij
 	                                     1x Biiijb
-	                                     6x Biij
+	                                     9x Biij
 	                                     1x Biija
 	                                     1x Biijb
-	                                     4x Bij
+	                                     9x Bij
 	                                     1x Bijb
 	                                     1x Bja
 	                                     1x Bjb
 	                                     1x Br
-	                                     1x Bv
+	                                     2x Bv
 	                                     1x Bva
 	                                     1x Bvb
 	                                     1x Bviib
@@ -716,13 +713,16 @@ Keyword Attributes
 	                                     1x Bvija
 	                                     1x Bvja
 	                                     1x Bvjb
-	                                    15x C
+	                                    20x C
+	                                     1x C.
+	                                     1x C.iij.
+	                                     1x C.ij.
 	                                     2x C1r
 	                                     2x C1v
-	                                    12x C2
+	                                    13x C2
 	                                     4x C2r
 	                                     4x C2v
-	                                    12x C3
+	                                    13x C3
 	                                     3x C3r
 	                                     3x C3v
 	                                     7x C4
@@ -740,18 +740,20 @@ Keyword Attributes
 	                                     1x Ci
 	                                     1x Cii
 	                                     1x Ciii
-	                                     3x Ciiij
-	                                     6x Ciij
-	                                     6x Cij
+	                                     6x Ciiij
+	                                     9x Ciij
+	                                     9x Cij
 	                                     2x Cr
-	                                     2x Cv
-	                                    16x D
+	                                     3x Cv
+	                                    19x D
+	                                     1x D.
+	                                     1x D1
 	                                     1x D1r
 	                                     1x D1v
-	                                    11x D2
+	                                    12x D2
 	                                     3x D2r
 	                                     3x D2v
-	                                    11x D3
+	                                    12x D3
 	                                     2x D3r
 	                                     2x D3v
 	                                     6x D4
@@ -766,24 +768,26 @@ Keyword Attributes
 	                                     1x D7v
 	                                     1x D8r
 	                                     1x D8v
-	                                     3x Diiij
+	                                     1x Di
+	                                     4x Diiij
 	                                     1x Diiija
-	                                     5x Diij
+	                                     8x Diij
+	                                     1x Diij.
 	                                     1x Diija
 	                                     1x Diijb
-	                                     6x Dij
+	                                     9x Dij
 	                                     1x Dijb
 	                                     1x Dja
 	                                     1x Djb
 	                                     2x Dr
-	                                     2x Dv
-	                                    12x E
+	                                     3x Dv
+	                                    14x E
 	                                     1x E1r
 	                                     1x E1v
-	                                     7x E2
+	                                     8x E2
 	                                     3x E2r
 	                                     2x E2v
-	                                     7x E3
+	                                     8x E3
 	                                     2x E3r
 	                                     1x E3v
 	                                     5x E4
@@ -798,17 +802,17 @@ Keyword Attributes
 	                                     1x E8r
 	                                     1x E8v
 	                                     2x Ei
-	                                     1x Eiiij
-	                                     5x Eiij
-	                                     5x Eij
+	                                     2x Eiiij
+	                                     6x Eiij
+	                                     7x Eij
 	                                     1x Er
 	                                     3x Ev
-	                                     9x F
+	                                    10x F
 	                                     1x F1
-	                                     6x F2
+	                                     7x F2
 	                                     2x F2r
 	                                     2x F2v
-	                                     7x F3
+	                                     8x F3
 	                                     2x F3r
 	                                     1x F3v
 	                                     5x F4
@@ -827,14 +831,14 @@ Keyword Attributes
 	                                     1x Fi
 	                                     1x Fiiij
 	                                     4x Fiij
-	                                     4x Fij
+	                                     5x Fij
 	                                     2x Fr
 	                                     3x Fv
-	                                    10x G
-	                                     6x G2
+	                                    11x G
+	                                     7x G2
 	                                     2x G2r
 	                                     1x G2v
-	                                     7x G3
+	                                     8x G3
 	                                     1x G3r
 	                                     1x G3v
 	                                     5x G4
@@ -851,10 +855,10 @@ Keyword Attributes
 	                                     1x G8v
 	                                     1x Gi
 	                                     1x Giij
-	                                     1x Gij
+	                                     2x Gij
 	                                     1x Gr
 	                                     1x Gv
-	                                     8x H
+	                                     9x H
 	                                     7x H2
 	                                     1x H2r
 	                                     1x H2v
@@ -862,29 +866,32 @@ Keyword Attributes
 	                                     4x H4
 	                                     4x H5
 	                                     1x Hiij
-	                                     1x Hij
+	                                     2x Hij
 	                                     1x Hr
 	                                     1x Hv
-	                                     8x I
+	                                    10x I
+	                                     1x I.
 	                                     6x I2
 	                                     5x I3
 	                                     4x I4
 	                                     4x I5
+	                                     1x Iij
+	                                     1x Iij.
 	                                     1x Iv
-	                                     6x K
+	                                     7x K
 	                                     5x K2
 	                                     5x K3
 	                                     4x K4
 	                                     4x K5
 	                                     1x Kiij
-	                                     1x Kij
-	                                     4x L
+	                                     2x Kij
+	                                     5x L
 	                                     5x L2
 	                                     5x L3
 	                                     3x L4
 	                                     4x L5
 	                                     1x Liij
-	                                     1x Lij
+	                                     2x Lij
 	                                     5x M
 	                                     5x M2
 	                                     5x M3
@@ -1044,49 +1051,49 @@ Keyword Attributes
 	                                     1x π1v
 	                                     1x π2r
 	                                     1x π2v
-	                   unit=          1118x folio
-	                                  3774x page
+	                   unit=          1213x folio
+	                                  3982x page
 
-	<term>             type=           118x acts
-	                                   118x chorus
-	                                   118x diction
-	                                   118x genre
-	                                   118x medium
+	<term>             type=           121x acts
+	                                   121x chorus
+	                                   121x diction
+	                                   121x genre
+	                                   121x medium
 
-	<title>            type=           118x main
-	                                   118x sub
+	<title>            type=           121x main
+	                                   121x sub
 
 Remaining Attributes and Elements
 
-	<TEI>              id=             118x X
+	<TEI>              id=             121x X
 
-	<author>                           118x 
+	<author>                           121x 
 
-	<bibl>                             118x 
+	<bibl>                             121x 
 
-	<body>                             118x 
+	<body>                             121x 
 
-	<date>                             236x 
+	<date>                             242x 
 
-	<div>              id=            2890x X
+	<div>              id=            3000x X
 
-	<editor>                           118x 
+	<editor>                           121x 
 
-	<emph>                             118x 
+	<emph>                             121x 
 
-	<fileDesc>                         118x 
+	<fileDesc>                         121x 
 
-	<head>                            2890x 
+	<head>                            3000x 
 
-	<item>                              28x 
-	                   n=               61x N
+	<item>                              27x 
+	                   n=               60x N
 	                                   120x NN
-	                                    38x NNN
+	                                    39x NNN
 	                                     6x NNNN
 
-	<keywords>                         118x 
+	<keywords>                         121x 
 
-	<lb>                              1180x 
+	<lb>                              1210x 
 
 	<milestone>        source=           3x blanco
 	                                   100x http://mateo.uni-mannheim.de/camena/schopjacN/jpg/sNNN.html
@@ -1098,41 +1105,41 @@ Remaining Attributes and Elements
 	                                    76x https://quod.lib.umich.edu/e/eebo/ANNNNN.NNNN.NNN/NNN?hi=N;vid=NNNNN;qN=pedantius
 	                                    60x textus Graecus
 
-	<name>                             236x 
+	<name>                             242x 
 
-	<note>             id=            3122x X
+	<note>             id=            3325x X
 
-	<p>                             189834x 
+	<p>                             194311x 
 
-	<profileDesc>                      118x 
+	<profileDesc>                      121x 
 
-	<ptr>              n=              299x N
-	                                  2039x NN
-	                                   784x NNN
-	                   target=        3122x X
+	<ptr>              n=              326x N
+	                                  2203x NN
+	                                   796x NNN
+	                   target=        3325x X
 
-	<pubPlace>                         118x 
+	<pubPlace>                         121x 
 
-	<publicationStmt>                  118x 
+	<publicationStmt>                  121x 
 
-	<publisher>                        118x 
+	<publisher>                        121x 
 
-	<quote>                             70x 
+	<quote>                             69x 
 
-	<ref>              target=         268x X
+	<ref>              target=         270x X
 
-	<resp>                             118x 
+	<resp>                             121x 
 
-	<respStmt>                         118x 
+	<respStmt>                         121x 
 
-	<sourceDesc>                       118x 
+	<sourceDesc>                       121x 
 
-	<teiHeader>                        118x 
+	<teiHeader>                        121x 
 
-	<text>                             118x 
+	<text>                             121x 
 
-	<textClass>                        118x 
+	<textClass>                        121x 
 
-	<title>                            118x 
+	<title>                            121x 
 
-	<titleStmt>                        118x 
+	<titleStmt>                        121x 

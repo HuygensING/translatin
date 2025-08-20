@@ -5662,7 +5662,7 @@ a
 cu tetigim, iam quod per inuidentie maliciam non licuit alio tempore
 licebit: cum
 
-I ij.
+≤folio=Iij.≥
 
 ≤page=75≥
 
@@ -6544,7 +6544,7 @@ Tupluis aethereum nobis sitientibus imbrem
 
 Tu recreas dulcipectora anhela fauo:
 
-I.
+≤folio=I.≥
 
 Te sumus experti coram rectore superno
 
@@ -6926,7 +6926,7 @@ terarum amasijs Thomas
 
 elmaetdanu
 
-D.
+≤folio=D.≥
 
 idiu cogitanti: lectores scientiarum cupidi, diurnis
 
@@ -7624,7 +7624,7 @@ Igne coquens silices nostrum quibus impetat hostem.
 
 Ludouicus Pileus Tomacus emuncte
 
-\*
+≤folio=\*≥
 
 naris adolescentibus. S.
 

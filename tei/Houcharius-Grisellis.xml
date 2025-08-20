@@ -4,7 +4,7 @@
     type="application/xml"
     schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0041" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0043" xml:lang="lat">
 <teiHeader>
 <fileDesc>
     <titleStmt>
@@ -3071,7 +3071,7 @@
     punctum etiam a</p>
     <p>cu tetigim, iam quod per inuidentie maliciam non licuit alio
     tempore licebit: cum</p>
-    <p>I ij.</p>
+    <p><milestone unit="folio" facs="Iij."/></p>
     <p><milestone unit="page" facs="75"/></p>
     <p>obstructum fuerit os loquentium iniqua &amp; a foribus nostris
     pedem re</p>
@@ -3568,10 +3568,7 @@
     <p>Poscimus, his tectis numine missa tuo</p>
     <p>Tupluis aethereum nobis sitientibus imbrem</p>
     <p>Tu recreas dulcipectora anhela fauo:</p>
-    <list type="ordered:upperroman">
-      <item>
-      </item>
-    </list>
+    <p><milestone unit="folio" facs="I."/></p>
     <p>Te sumus experti coram rectore superno</p>
     <p>Intersollicitum cuncta pericla ducem</p>
     <p>Te duce nostra valent studia, est laudanda mathesis</p>
@@ -3779,10 +3776,7 @@
     <p>A L</p>
     <p>terarum amasijs Thomas</p>
     <p>elmaetdanu</p>
-    <list type="ordered:upperalpha">
-      <item n="4">
-      </item>
-    </list>
+    <p><milestone unit="folio" facs="D."/></p>
     <p>idiu cogitanti: lectores scientiarum cupidi, diurnis</p>
     <p>xturnisque chartis impallescere dulcius meliusue</p>
     <p>uenio nihil. uapropter vt arrogantiuscule lo¬</p>
@@ -4210,7 +4204,7 @@
     <p>Stentoreo astantes: ast ocyus atria seruet:</p>
     <p>Igne coquens silices nostrum quibus impetat hostem.</p>
     <p>Ludouicus Pileus Tomacus emuncte</p>
-    <p>*</p>
+    <p><milestone unit="folio" facs="*"/></p>
     <p>naris adolescentibus. S.</p>
     <p>Vmoia mecum seueriori( quod aiuntm trutina ppendo</p>
     <p>virtute suauius expetibiliusue reperio nihil: quam</p>
