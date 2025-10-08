@@ -181,18 +181,18 @@
     <p>In die Lufft mich will erheben.</p>
     <p><milestone unit="page" facs="25"/> Wagen her! ... ich steige drauff/</p>
     <p>Und zum Himmel fahr hinauff.</p>
-    <p>@Justitia div. recitativè.=</p>
+    <p><hi rend="speaker">Justitia div. recitativè.</hi></p>
     <p>Soll ich leyden/ dass obsiege</p>
     <p>Lügen/ und Ehr=Schänderey?</p>
     <p>Dass die Unschuld underlige/</p>
     <p><milestone unit="page" facs="30"/> Und ein Spott der Hoffart sey?</p>
-    <p>@Calumn.= Zum Himmel auff! @Just.= Halt ein den Lauff:</p>
+    <p><hi rend="speaker">Calumn.</hi> Zum Himmel auff! <hi rend="speaker">Just.</hi> Halt ein den Lauff:</p>
     <p>Die Straff ist schon vorhanden.</p>
     <p>Blitz/ Donner fall! in einem Knall</p>
     <p>Das Boͤsswicht mach zu schanden.</p>
     <p><hi rend="italic">Tonat, &amp; calumnia cum curru
     praeceps ex aëre dejicitur.</hi></p>
-    <p><milestone unit="page" facs="35"/> @Justitia.= Ehr, Schänderey zu Bodem ligt:</p>
+    <p><milestone unit="page" facs="35"/> <hi rend="speaker">Justitia.</hi> Ehr, Schänderey zu Bodem ligt:</p>
     <p>Victoriam last singen:</p>
     <p>Die Unschuld hat nun obgesigt:</p>
     <p>Triumphe last erklingen.</p>
@@ -212,7 +212,7 @@
   </div>
   <div type="level2" xml:id="personae.-sigefridus-cum-ducibus-milite-suo.">
     <head>5. Personae. Sigefridus cum Ducibus &amp; Milite suo.</head>
-    <p>@Sigref.= Tandem evolutas post tot annorum vices,</p>
+    <p><hi rend="speaker">Sigref.</hi> Tandem evolutas post tot annorum vices,</p>
     <p><milestone unit="page" facs="40"/> Et dubia Martis studia, Christiadum gregi</p>
     <p>Semper pavendus hostis adverso solum</p>
     <p>Cecidit ore, quique palmarum insolens</p>
@@ -221,13 +221,13 @@
     <p><milestone unit="page" facs="45"/> Nihil timendum est ampliùs: caesus jacet,</p>
     <p>Aut vincla Maurus induit; paucos vagus</p>
     <p>Subduxit error ensibus: restat nihil.</p>
-    <p>@Dux I.= Quisquis decorum gloriâ, &amp; suo Ducem</p>
+    <p><hi rend="speaker">Dux I.</hi> Quisquis decorum gloriâ, &amp; suo Ducem</p>
     <p>Hosti pavendum poscit, &amp; palmis gravem;</p>
-    <p><milestone unit="page" facs="50"/> Videat Sifridum. @Sigref.= Militem hic videat meum,</p>
+    <p><milestone unit="page" facs="50"/> Videat Sifridum. <hi rend="speaker">Sigref.</hi> Militem hic videat meum,</p>
     <p>Cujus manu, ferrôque Maurorum Duces</p>
     <p>Natant voluti sanguine, &amp; suo fluunt</p>
     <p>Cruore, Ducibus mixta congeries gregum.</p>
-    <p>@Dux II.= Haec tota laus est Principis; nostrum nihil.</p>
+    <p><hi rend="speaker">Dux II.</hi> Haec tota laus est Principis; nostrum nihil.</p>
     <p><milestone unit="page" facs="55"/> Testamur oculos: vidimus fortem Ducem,</p>
     <p>Seu quando nostras pressit hostilis phalanx,</p>
     <p>Rueretque in acies, stare securum metûs,</p>
@@ -247,7 +247,7 @@
     <p><milestone unit="page" facs="70"/> Molem lacessens, rumpit obstantem aggerem,</p>
     <p>Totisque campis, finium victor, furit,</p>
     <p>Majore parvam strage compensans moram.</p>
-    <p>@Sigref.= Vidi sequentem Militem, quando calens</p>
+    <p><hi rend="speaker">Sigref.</hi> Vidi sequentem Militem, quando calens</p>
     <p>Per dissipatos ordines virtus ruit,</p>
     <p><milestone unit="page" facs="75"/> Et calle aperto fecit ingentem viam,</p>
     <p>Feriendo utrimque: qualis effracto aggere</p>
@@ -258,7 +258,7 @@
     <p>Utrumque laudes. <hi rend="italic">Milites
     omnes</hi>. Una Sigefridum sonet.</p>
     <p><hi rend="italic">Cantus cum Tubis</hi>.</p>
-    <p>@Sigefrid. Solus.= Huc Martiae Laurus! est parta jam pax:</p>
+    <p><hi rend="speaker">Sigefrid. Solus.</hi> Huc Martiae Laurus! est parta jam pax:</p>
     <p>Nos stamus, pugnamus,</p>
     <p>Hostemque fugamus.</p>
     <p><milestone unit="page" facs="85"/> Hic laesus aut jacet,</p>
@@ -276,8 +276,8 @@
     <p>I prae, meisque subditis nostri refer</p>
     <p><milestone unit="page" facs="95"/> Palmas Gradivi, quaeque prostratus dedit</p>
     <p>Trophaea Maurus: debitos nostrae parent</p>
-    <p>Virtuti honores. @Golind.= Jussa non segnis feram.</p>
-    <p>@Sigref.= Equidem fatebor, esse laudandum magis</p>
+    <p>Virtuti honores. <hi rend="speaker">Golind.</hi> Jussa non segnis feram.</p>
+    <p><hi rend="speaker">Sigref.</hi> Equidem fatebor, esse laudandum magis</p>
     <p>Meruisse palmas, quàm triumphali comas</p>
     <p><milestone unit="page" facs="100"/> Lauro virere: vestra quid tamen Duces</p>
     <p>Generosa poscant acta, pensandum est magis.</p>
@@ -333,7 +333,7 @@
     <p><hi rend="italic">Dum Genovefa extra se jacet,
     aperitur caelum; Genti caelestes visuntur in aëre, in caelo chorus
     eorum, qui, dum viverent, à mendacibus calumniantibus innocentes
-    passi fuerunt</hi>. @Angeli ex aëre.= Genovefa, Lass die
+    passi fuerunt</hi>. <hi rend="speaker">Angeli ex aëre.</hi> Genovefa, Lass die
     Schmertzen</p>
     <p><milestone unit="page" facs="135"/> Fahren/ und nicht trawrig sey:</p>
     <p>Stäts sich frewen soll von Hertzen/</p>
@@ -347,12 +347,12 @@
     <p>Ein lange Ewigkeit:</p>
     <p>Alsdann sich alles Klagen</p>
     <p><milestone unit="page" facs="145"/> Verkehrt in Froͤligkeit.</p>
-    <p>@Beati ex caelo.= <hi rend="italic">Aria.</hi></p>
+    <p><hi rend="speaker">Beati ex caelo.</hi> <hi rend="italic">Aria.</hi></p>
     <p>Alleluja last uns singen/</p>
     <p>Unsre Stimmen last erklingen:</p>
     <p>Leydt in Frewdt sich hat verkehrt/</p>
     <p>So von nun an ewig wehrt.</p>
-    <p>@Genii Caelestes.= <hi rend="italic">Aria.</hi></p>
+    <p><hi rend="speaker">Genii Caelestes.</hi> <hi rend="italic">Aria.</hi></p>
     <p><milestone unit="page" facs="150"/> Genovefa, hast im Leben</p>
     <p>Zwar verlohren Ehr unb Guth:</p>
     <p>GOtt wird alles wieder geben/</p>
@@ -391,25 +391,25 @@
   </div>
   <div type="level2" xml:id="personae.-benoni.-genovefa-satyri-personae-mutae.">
     <head>9. Personae. Benoni. Genovefa; Satyri, Personae mutae.</head>
-    <p>@Benoni.= Mutter/ Mutter! sie mich beissen.</p>
-    <p><milestone unit="page" facs="175"/> @Genov.= Wer mein Kind?
+    <p><hi rend="speaker">Benoni.</hi> Mutter/ Mutter! sie mich beissen.</p>
+    <p><milestone unit="page" facs="175"/> <hi rend="speaker">Genov.</hi> Wer mein Kind?
     <hi rend="italic">Ben</hi>. die grausam Thier.</p>
     <p>Sih’/ da seynd sie; mich zerreissen</p>
     <p>Willen sie/ und dich mit mir.</p>
     <p>Mit den Hoͤrner sie uns drewen.</p>
-    <p>@Genoν.= Sie uns grüssen: bleib nur stehn/</p>
+    <p><hi rend="speaker">Genoν.</hi> Sie uns grüssen: bleib nur stehn/</p>
     <p><milestone unit="page" facs="180"/> Ohne Sorgen/ ohne Schewen.</p>
     <p>Dir nichts Ubels wird geschehen;</p>
     <p><milestone unit="page" facs="8"/></p>
     <p>Dan den Frommen sie nicht schaden.</p>
-    <p>@Ben.= Bin ich fromb? @Genov.= ja/ du bist fromb</p>
-    <p>*@*Ben.= Schaw/ sie uns zu sich einladen.</p>
-    <p><milestone unit="page" facs="185"/> @Genov.= Geh’ ohn Forcht.
+    <p><hi rend="speaker">Ben.</hi> Bin ich fromb? <hi rend="speaker">Genov.</hi> ja/ du bist fromb</p>
+    <p>*<hi rend="speaker">*Ben.</hi> Schaw/ sie uns zu sich einladen.</p>
+    <p><milestone unit="page" facs="185"/> <hi rend="speaker">Genov.</hi> Geh’ ohn Forcht.
     <hi rend="italic">Ben</hi>. Du mit mir komm.</p>
-    <p>@Genov.= Ich will hie das Spiel ansehen:</p>
+    <p><hi rend="speaker">Genov.</hi> Ich will hie das Spiel ansehen:</p>
     <p>Geh’ du hin/ und spiele mit.</p>
-    <p>@Ben.= Soll nichts Ubels mir geschehen?</p>
-    <p>@Genov.= Nein/ mein Kind: dir foͤrchte nit.</p>
+    <p><hi rend="speaker">Ben.</hi> Soll nichts Ubels mir geschehen?</p>
+    <p><hi rend="speaker">Genov.</hi> Nein/ mein Kind: dir foͤrchte nit.</p>
     <p><hi rend="italic">Fit Saltus Satyrorum; qui deinde
     Benoni silvestribus fructibus donant &amp;c</hi>.</p>
     <p><hi rend="italic">Post Saltum. Genovefa.</hi></p>
@@ -421,7 +421,7 @@
     <p>Sigefridus redux à suis festivo plausu excipitur.</p>
     <p><hi rend="italic">Personae</hi>. Golo, praecipuus
     Sigefridi Minister, Senatores, Cives: Sigefridus cum suo milite.</p>
-    <p>@Golo.= Prodite turba, quisquis immunes lares</p>
+    <p><hi rend="speaker">Golo.</hi> Prodite turba, quisquis immunes lares</p>
     <p>Pavore Mauri; conjugem quisquis suam,</p>
     <p>Prolemque &amp; aras numinum, &amp; proprium caput,</p>
     <p><milestone unit="page" facs="195"/> Vitamque dirae gaudet ereptam neci:</p>
@@ -431,14 +431,14 @@
     <p>Fuerat Tyranni, cecidit &amp; lethi comes.</p>
     <p><milestone unit="page" facs="200"/> Occurre Civis Principi, &amp; laetis sonis</p>
     <p>Perenne merito carmen Heroi cane.</p>
-    <p>@Senator I.= Sed ecce miles, cui mucro lauru viret</p>
+    <p><hi rend="speaker">Senator I.</hi> Sed ecce miles, cui mucro lauru viret</p>
     <p>Supremus hastae, gaudii plenus venit.</p>
     <p>Et ipse Princeps, quantus è campo solet</p>
     <p><milestone unit="page" facs="205"/> Redire victor hoste prostrato, venit.</p>
     <p>Agite ministra turba, festivo sonet</p>
     <p>Lux ista plausu: Principem plaudes decent.</p>
     <p><milestone unit="page" facs="9"/></p>
-    <p>@Cantus.=</p>
+    <p><hi rend="speaker">Cantus.</hi></p>
     <p>Eja tubae resonate,</p>
     <p>Plectra melos excitate:</p>
     <p><milestone unit="page" facs="210"/> Triumphales date plausus,</p>
@@ -457,24 +457,24 @@
     <p>Non furori Martis cessit:</p>
     <p>Vis Perduelles subjugavit.</p>
     <p><milestone unit="page" facs="225"/> Ense, dextrâ triumphavit.</p>
-    <p>@Sigefridus= Salvete cara turba, quam tanti est mihi</p>
+    <p><hi rend="speaker">Sigefridus</hi> Salvete cara turba, quam tanti est mihi</p>
     <p>Solvisse longo barbarae gentis metu.</p>
     <p>Jacet peremptus hostis, &amp; stratus solo</p>
     <p>Robur meorum funere probavit suo.</p>
     <p><milestone unit="page" facs="230"/> Jam Marte pulso, jussa feralis tuba</p>
     <p>Cohibere sonitum, murmur ingratum premit.</p>
     <p>Et pax secundis vecta quadrigis redit.</p>
-    <p>@Golo.= Magnanime Princeps Martis impavidum genua,</p>
+    <p><hi rend="speaker">Golo.</hi> Magnanime Princeps Martis impavidum genua,</p>
     <p>Si venia laribus, curiae, tectis foret,</p>
     <p><milestone unit="page" facs="235"/> Conjugibus, aris, liberis; sensus suos</p>
     <p>Sono hoc probarent: civium vivat pater;</p>
     <p>Domitor Tyranni, gentis assertor suae,</p>
     <p>Patriae labantis columen aeternum regat.</p>
-    <p>@Senat.= Exul Gradivus, hostium fusi greges,</p>
+    <p><hi rend="speaker">Senat.</hi> Exul Gradivus, hostium fusi greges,</p>
     <p><milestone unit="page" facs="240"/> Reparata pacis federa, sereni dies,</p>
     <p>Tranquillitatis otia, exclusi metus,</p>
     <p>Salvi penates, munùs est Princeps tuum.</p>
-    <p>@Sigref.= Prohibete laudes: gloria haec una est satis.</p>
+    <p><hi rend="speaker">Sigref.</hi> Prohibete laudes: gloria haec una est satis.</p>
     <p>Servâsse patriam, liberos, Christi fidem,</p>
     <p><milestone unit="page" facs="245"/> Pro quâ vel hostem caedere, aut cadere, reor</p>
     <p>Aequè esse pulchrum. Vicimus; sed hoc decus</p>
@@ -489,7 +489,7 @@
     <p>Sagitta ferri dexterâ, aut qualis cadit</p>
     <p>Excussa caelo stella, cùm stringens polum,</p>
     <p><milestone unit="page" facs="255"/> Rectam citatis ignibus rumpit viam.</p>
-    <p>@Golo.= Petamus Aulam: stat ibi certantem Hectori</p>
+    <p><hi rend="speaker">Golo.</hi> Petamus Aulam: stat ibi certantem Hectori</p>
     <p>Datura Achillem scena: Sifridi manum</p>
     <p>Referet Achilles; Hector at Maurum dabit.</p>
   </div>
@@ -505,7 +505,7 @@
     suis, Venus, Aeolus, Juno.</p>
     <p><hi rend="italic">Scena est musica per
     totum.</hi></p>
-    <p>@Achil.= Fort Gesellen/ dan die Wellen</p>
+    <p><hi rend="speaker">Achil.</hi> Fort Gesellen/ dan die Wellen</p>
     <p><milestone unit="page" facs="260"/> Legen sich: nun schifft geschwind:</p>
     <p>Ohn Gefahren last uns fahren;</p>
     <p>Auff dem Meer seynd keine Wind.</p>
@@ -529,7 +529,7 @@
     <p>Mit Wuthen nicht auffhoͤren/</p>
     <p>Bis dass die Schifflein all zur Stund</p>
     <p><milestone unit="page" facs="280"/> Mit dem Achille gehn zu Grund.</p>
-    <p>@Aeolus.= Kompt ihr Winde dan zusamen/</p>
+    <p><hi rend="speaker">Aeolus.</hi> Kompt ihr Winde dan zusamen/</p>
     <p>Wie auch heischet mit dem Nahmen:</p>
     <p>Euch nit saumet/ kompt geschwind/</p>
     <p>Ost= und Sud= West= und Nord=Wind.</p>
@@ -539,25 +539,25 @@
     <p>Nun Wütet/ und sausset:</p>
     <p>Stürmet/ blaset/ grimmet/ raset</p>
     <p><milestone unit="page" facs="290"/> Und die Schiff kehrt umb und umb.</p>
-    <p>@Achil.= Warumb Venus, der Goͤttinnen</p>
+    <p><hi rend="speaker">Achil.</hi> Warumb Venus, der Goͤttinnen</p>
     <p>Und der Goͤtter Schand und Spott/</p>
     <p>Voller Gifft als boͤse Spinnen/</p>
     <p>Reitzts du auff der Winden Gott?</p>
-    <p><milestone unit="page" facs="295"/> @Aeolus.= Nun wütet mehr/ und blaset/</p>
+    <p><milestone unit="page" facs="295"/> <hi rend="speaker">Aeolus.</hi> Nun wütet mehr/ und blaset/</p>
     <p>Tobet und raset.</p>
     <p>Gausset/ und brausset:</p>
     <p>Zerstoͤret/ nit auffhoͤret.</p>
     <p>Fahrt immer fort zu toben.</p>
     <p><milestone unit="page" facs="300"/> Die Schiff kehrt umb und oben:</p>
     <p>In einem Knall verderbt sie all.</p>
-    <p>@Achil.= O Weh! betrübte Wellen</p>
+    <p><hi rend="speaker">Achil.</hi> O Weh! betrübte Wellen</p>
     <p>Erwecken diess’ Gesellen.</p>
     <p>Wie grausam ist der Winden Heer/</p>
     <p><milestone unit="page" facs="305"/> Er wütet/ raset/ nah und feer.</p>
     <p>O Juno! dich wollest erbarmen/</p>
     <p>Und kommen zu Hülff uns Armen.</p>
     <p><milestone unit="page" facs="12"/></p>
-    <p>@Juno.= Wer stoͤret das Wasser/ und meister will seyn?</p>
+    <p><hi rend="speaker">Juno.</hi> Wer stoͤret das Wasser/ und meister will seyn?</p>
     <p>Gott Aeole zähme der Winden Willmuth/</p>
     <p><milestone unit="page" facs="310"/> Und straffe ihr Wüten/ sonst thut es kein guth.</p>
     <p>Du weist ja/ das Erde und Wasser ist mein.</p>
@@ -566,7 +566,7 @@
     <p>Das Meer sich nit wege</p>
     <p><milestone unit="page" facs="315"/> Der Wind sich nicht rege:</p>
     <p>Juno befilchts.</p>
-    <p>@Achilles.= O Juno! Frewd des Hertzen/</p>
+    <p><hi rend="speaker">Achilles.</hi> O Juno! Frewd des Hertzen/</p>
     <p>Wie lieblich scheinest du/</p>
     <p>Und legst den Streit.</p>
     <p><milestone unit="page" facs="320"/> Vertreibest alle Schmertzen/</p>
@@ -582,55 +582,55 @@
   <div type="level2" xml:id="pars-ii.-monomachia-achillis-hectoris-exhibetur.">
     <head>12. Pars II*. Monomachia Achillis, &amp; Hectoris
     exhibetur.</head>
-    <p>@Hector.= Ad arma! ad arma! ad arma!</p>
-    <p><milestone unit="page" facs="330"/> @Achil.= Ad arma! ad arma! ad arma!</p>
-    <p>@Hect.= Achilles, Wilstu fechten?</p>
+    <p><hi rend="speaker">Hector.</hi> Ad arma! ad arma! ad arma!</p>
+    <p><milestone unit="page" facs="330"/> <hi rend="speaker">Achil.</hi> Ad arma! ad arma! ad arma!</p>
+    <p><hi rend="speaker">Hect.</hi> Achilles, Wilstu fechten?</p>
     <p>Sieh’ Hector steht zum Streit.</p>
-    <p>@Achil.= Zur Lincken/ und zur Rechten</p>
+    <p><hi rend="speaker">Achil.</hi> Zur Lincken/ und zur Rechten</p>
     <p>Achilles ist bereit.</p>
-    <p><milestone unit="page" facs="335"/> @Hect.= Trojaner Lob zu mehren/</p>
+    <p><milestone unit="page" facs="335"/> <hi rend="speaker">Hect.</hi> Trojaner Lob zu mehren/</p>
     <p>Hab einen Heldenmuth:</p>
-    <p>@Achil.= Mir zu der Griechen Ehren</p>
+    <p><hi rend="speaker">Achil.</hi> Mir zu der Griechen Ehren</p>
     <p>Auffwallet schon bas Bluth.</p>
-    <p>@Hect.= Die Griechen mich nit schrecken;</p>
+    <p><hi rend="speaker">Hect.</hi> Die Griechen mich nit schrecken;</p>
     <p><milestone unit="page" facs="340"/> Mit ihrer grosser Gwalt.</p>
-    <p>@Achil.= Sie mich zum Streit aufwecken/</p>
+    <p><hi rend="speaker">Achil.</hi> Sie mich zum Streit aufwecken/</p>
     <p>Dich werd erlegen bald.</p>
     <p><milestone unit="page" facs="13"/></p>
-    <p>@Hect.= Wan ich dich werd auffreiben/</p>
+    <p><hi rend="speaker">Hect.</hi> Wan ich dich werd auffreiben/</p>
     <p>So ligt der Griechen Ehr.</p>
-    <p><milestone unit="page" facs="345"/> @Ach.= Wan ich dich werd entleiben/</p>
+    <p><milestone unit="page" facs="345"/> <hi rend="speaker">Ach.</hi> Wan ich dich werd entleiben/</p>
     <p>Kein Lob hat Troja mehr.</p>
-    <p>@Hect.= Mit dieser Hand und Degen</p>
+    <p><hi rend="speaker">Hect.</hi> Mit dieser Hand und Degen</p>
     <p>Zu Bodem steche ich.</p>
-    <p>@Ach.= Dich werde ich erlegen;</p>
+    <p><hi rend="speaker">Ach.</hi> Dich werde ich erlegen;</p>
     <p><milestone unit="page" facs="350"/> Mein Helden=Muth schützt mich</p>
-    <p>@Miles Graec.= Nur mit der Zung ihr streitet:</p>
+    <p><hi rend="speaker">Miles Graec.</hi> Nur mit der Zung ihr streitet:</p>
     <p>Zeigt/ dass ihr Helden seyt.</p>
-    <p>@Miles Troj.= Zeigt dass euchs Gluck begleitet,</p>
+    <p><hi rend="speaker">Miles Troj.</hi> Zeigt dass euchs Gluck begleitet,</p>
     <p>Und fertig seht zum Streit.</p>
-    <p><milestone unit="page" facs="355"/> @Omn.= Zeigt/ dass ihr Helden seyt/</p>
+    <p><milestone unit="page" facs="355"/> <hi rend="speaker">Omn.</hi> Zeigt/ dass ihr Helden seyt/</p>
     <p>Und fertig steht zum Streit.</p>
-    <p>@Trojan.= Das Glück woll dich begleiten/</p>
+    <p><hi rend="speaker">Trojan.</hi> Das Glück woll dich begleiten/</p>
     <p>O Hector, starcker Held.</p>
-    <p>@Graecus.= Das Glück woͤll mit dir streiten/</p>
+    <p><hi rend="speaker">Graecus.</hi> Das Glück woͤll mit dir streiten/</p>
     <p><milestone unit="page" facs="360"/> Und steh’ dir bey im Feldt.</p>
-    <p>@Trojan.= Apollo mit dir streite/</p>
+    <p><hi rend="speaker">Trojan.</hi> Apollo mit dir streite/</p>
     <p>Und Venus steh dir bey.</p>
-    <p>@Graecus.= Gott Mulciber dich leyte</p>
+    <p><hi rend="speaker">Graecus.</hi> Gott Mulciber dich leyte</p>
     <p>Und Pallas bey dir sey.</p>
     <p><hi rend="italic">Pugnant; inflantur tubae.</hi></p>
-    <p><milestone unit="page" facs="365"/> @Miles Troj.= Fahrt fort/ fahrt fort zu streiten/</p>
+    <p><milestone unit="page" facs="365"/> <hi rend="speaker">Miles Troj.</hi> Fahrt fort/ fahrt fort zu streiten/</p>
     <p>Biss einer obgesigt:</p>
-    <p>@Mil. Graec.= Nit weichet von der Seyten</p>
+    <p><hi rend="speaker">Mil. Graec.</hi> Nit weichet von der Seyten</p>
     <p>Biss einer underligt.</p>
     <p>@Omnes. Biss einer obgesigt/<ptr target="#tn2" n="2"/></p>
     <p><milestone unit="page" facs="370"/> Biss einer underligt.</p>
-    <p>@Mil. Graec.= Hector ist zwar im Degen</p>
+    <p><hi rend="speaker">Mil. Graec.</hi> Hector ist zwar im Degen</p>
     <p>Ein sehr erfahrner Held,</p>
     <p>Doch ist ihm überlegen</p>
     <p>Achilles in dem Feld.</p>
-    <p><milestone unit="page" facs="375"/> @Omnes.= Achilles mit der Goͤtter Kunst</p>
+    <p><milestone unit="page" facs="375"/> <hi rend="speaker">Omnes.</hi> Achilles mit der Goͤtter Kunst</p>
     <p>In Streit und fechten hat die Kunst.</p>
     <p><milestone unit="page" facs="14"/></p>
   </div>
@@ -647,7 +647,7 @@
   </div>
   <div type="level2" xml:id="personae.-sigefridus-golo-ephebus-genovefae.">
     <head>15. Personae. Sigefridus, Golo, Ephebus Genovefae.</head>
-    <p>@Sigref.= Jam caesa Eleusis falce septenâ jacet.</p>
+    <p><hi rend="speaker">Sigref.</hi> Jam caesa Eleusis falce septenâ jacet.</p>
     <p>Pressusque totidem Bacchus in prelis gemit,</p>
     <p>Continuus ùt me Martis incerti labor</p>
     <p>Detinuit inter mortis, &amp; vitae mala.</p>
@@ -657,14 +657,14 @@
     <p>Sed! sed! loquelam strangulat rursum dolor, ...</p>
     <p>Vix ipse tantum, vix adhuc credo scelus ...</p>
     <p><milestone unit="page" facs="385"/> Haec facere Conjux potuit? ... haec consore mei</p>
-    <p>Genovefa thalamii @Golo.<hi rend="italic">=</hi> Cura
+    <p>Genovefa thalamii <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Cura
     quae mentem gravat,</p>
     <p>Magnanime Princeps? aut quis attonitus pavor</p>
-    <p>Stupefecit artus? @Sigref.= Crimen! heu crimen meum</p>
-    <p>Genovefa periit. @Golo.<hi rend="italic">=</hi>
+    <p>Stupefecit artus? <hi rend="speaker">Sigref.</hi> Crimen! heu crimen meum</p>
+    <p>Genovefa periit. <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi>
     Scelere sed periit suo.</p>
-    <p><milestone unit="page" facs="390"/> @Sigref.= Genovefa!
-    @Golo.<hi rend="italic">=</hi> Non Genovefa; sed foedum
+    <p><milestone unit="page" facs="390"/> <hi rend="speaker">Sigref.</hi> Genovefa!
+    <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Non Genovefa; sed foedum
     sui</p>
     <p>Probrum mariti, dedecus clarae domûs,</p>
     <p>Nefanda pellex, jura quae fregit thori,</p>
@@ -673,9 +673,9 @@
     <p><milestone unit="page" facs="395"/> Punire letho scelera Sifridi manus.</p>
     <p>Eruere venis spiritum, atque imo dare</p>
     <p>Deberet orco victimam, infamem lupam.</p>
-    <p>@Sigref.= Et quid patravit sceleris in cunis puer?</p>
+    <p><hi rend="speaker">Sigref.</hi> Et quid patravit sceleris in cunis puer?</p>
     <p><milestone unit="page" facs="15"/></p>
-    <p>@Golo.<hi rend="italic">=</hi> Fuisse spursum,
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Fuisse spursum,
     sceleris hoc erat satis.</p>
     <p><milestone unit="page" facs="400"/> Maneant sepulti noctis aeternae lacu,</p>
     <p>Quorum vel umbra nominis foedat, tibi</p>
@@ -692,26 +692,26 @@
     prodit.</hi></p>
     <p>Serene Princeps! has mihi chartas dedit</p>
     <p>Moritura thalami socia, quas reduci darem</p>
-    <p>Tibi legendas. @Sigef.= Conjugis nosco manum.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Quaecunque sacri pacta
+    <p>Tibi legendas. <hi rend="speaker">Sigef.</hi> Conjugis nosco manum.</p>
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Quaecunque sacri pacta
     violavit thori,</p>
-    <p><milestone unit="page" facs="415"/> Hanc jure Lenam dixeris. @Sigref.= Chartas lego.</p>
+    <p><milestone unit="page" facs="415"/> Hanc jure Lenam dixeris. <hi rend="speaker">Sigref.</hi> Chartas lego.</p>
     <p>Mein Herz! muss also sterben ich?</p>
     <p>Da niemal hab erzürnet dich:</p>
     <p>Hab allzeit trew gehalten dir/</p>
     <p>Und halten werd/ das glaube mir.</p>
-    <p><milestone unit="page" facs="420"/> @Golo.<hi rend="italic">=</hi> Haec
+    <p><milestone unit="page" facs="420"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Haec
     feminarum est indoles: fraudes parant,</p>
     <p>Et mentiuntur; &amp; tamen sibi fidem</p>
     <p>Volunt haberi; maximè quando Venus</p>
-    <p>Obsedit Animum. @Sigref.= Ceteras notas lego.</p>
+    <p>Obsedit Animum. <hi rend="speaker">Sigref.</hi> Ceteras notas lego.</p>
     <p>Wan ich nit wer gewessen trew;</p>
     <p><milestone unit="page" facs="425"/> Hett dein gehorchet ohne Schew;</p>
     <p>Der mich ersucht hat nicht in Ehr/</p>
     <p>Nie in diss Unglück grathen wer.</p>
     <p>Suspicio fraudis oritur: alienum scelus</p>
     <p>Genovefa? culpae nescia, exitio luit.</p>
-    <p><milestone unit="page" facs="430"/> @Golo.<hi rend="italic">=</hi> Haec est
+    <p><milestone unit="page" facs="430"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Haec est
     suprema feminarum malitia;</p>
     <p>Natura mentem queis dedit pronam malo,</p>
     <p>Atque ad nocendum pectus instruxit dolis,</p>
@@ -720,7 +720,7 @@
     <p><milestone unit="page" facs="435"/> Crimen novercae morte non meritâ luit.</p>
     <p><milestone unit="page" facs="16"/></p>
     <p>Quas forma laudat feminas. Helenas puta.</p>
-    <p>@Sigref.= Etiam Susannas oris exornat decus;</p>
+    <p><hi rend="speaker">Sigref.</hi> Etiam Susannas oris exornat decus;</p>
     <p>Et quod negârunt crimen oblatum Procis,</p>
     <p>Absque Daniele, morte non nocuâ expiant.</p>
     <p><milestone unit="page" facs="440"/> Hebraea testis; cujus in vultu decor,</p>
@@ -732,9 +732,9 @@
     <p>Inferre castae Conjugi, &amp; frustra petunt</p>
     <p>Precibus, minisque, fraude confictâ, malè</p>
     <p>In innocentis feminae torquent caput.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Haec ipsa res est;
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Haec ipsa res est;
     tangit &amp; nostrum scelus.<ptr target="#tn3" n="3"/></p>
-    <p><milestone unit="page" facs="450"/> @Sigref.= Absolvo chartam.</p>
+    <p><milestone unit="page" facs="450"/> <hi rend="speaker">Sigref.</hi> Absolvo chartam.</p>
     <p>Doch ware lieber sterben mir/</p>
     <p>Und halten/ was versprochen dir/</p>
     <p>Als leben und Untrew begehn;</p>
@@ -765,14 +765,14 @@
     <p>Errare non posse; error in vulgus cadit.</p>
     <p>Quodcunque statuunt Principes, aequum puta,</p>
     <p>Fixûmque semper: norina regnandi unica, est</p>
-    <p>Una his voluntas. @Sigref.= Jussa properasti nimis.</p>
-    <p><milestone unit="page" facs="480"/> @Golo.<hi rend="italic">=</hi> Obsequia
+    <p>Una his voluntas. <hi rend="speaker">Sigref.</hi> Jussa properasti nimis.</p>
+    <p><milestone unit="page" facs="480"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Obsequia
     servum lenta condemnant reum.</p>
-    <p>@Sigref.= Quid suspicabor? ... Conjugis nostrae procus</p>
+    <p><hi rend="speaker">Sigref.</hi> Quid suspicabor? ... Conjugis nostrae procus</p>
     <p>Quicunque demum is fuerit, est author necis,</p>
     <p>Fictoque proprium scelere velavit scelus.</p>
     <p>Juvat experiri: fraudis aperiam modum. (a)<ptr target="#tn4" n="4"/></p>
-    <p><milestone unit="page" facs="485"/> @Golo.<hi rend="italic">=</hi> Actum est;
+    <p><milestone unit="page" facs="485"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Actum est;
     perimus: sceleris ut poenas luam</p>
     <p>Suspicio satis est: Principum quando haec semel</p>
     <p>Obsedit animos, crescit atque iram parit.</p>
@@ -792,25 +792,25 @@
   <div type="level2" xml:id="personae.-sigefridus-charilus-philindus-ephebi.">
     <head>17. Personae. Sigefridus, Charilus, &amp; Philindus
     Ephebi.</head>
-    <p>@Sigref.= Ades Philinde, túque Genovefae comes</p>
+    <p><hi rend="speaker">Sigref.</hi> Ades Philinde, túque Genovefae comes</p>
     <p><milestone unit="page" facs="495"/> Charile fidelis, fare, quam socia thori</p>
     <p>Absente vitam Conjuge exegit suo?</p>
-    <p>@Charil.= Studio pudoris semper intentam sui.</p>
-    <p>@Sigefrid.= Quisnam virorum venit ad eandem frequens?</p>
-    <p>@Charil.= Praeter Golonem nemo vel semel. @Sigref.= Coquus.</p>
-    <p><milestone unit="page" facs="500"/> Nunquam Droganes adfuit? @Char.= Nunquam: coquum</p>
+    <p><hi rend="speaker">Charil.</hi> Studio pudoris semper intentam sui.</p>
+    <p><hi rend="speaker">Sigefrid.</hi> Quisnam virorum venit ad eandem frequens?</p>
+    <p><hi rend="speaker">Charil.</hi> Praeter Golonem nemo vel semel. <hi rend="speaker">Sigref.</hi> Coquus.</p>
+    <p><milestone unit="page" facs="500"/> Nunquam Droganes adfuit? <hi rend="speaker">Char.</hi> Nunquam: coquum</p>
     <p><milestone unit="page" facs="18"/></p>
     <p>Genovefa nè vidit quidem, aut ipsam coquus,</p>
-    <p>Aut aliquis alius. @Sigref.= Quam fidem dicto facis?</p>
-    <p>@Charil.= Mecum Philindus, vicibus alternis, fores</p>
+    <p>Aut aliquis alius. <hi rend="speaker">Sigref.</hi> Quam fidem dicto facis?</p>
+    <p><hi rend="speaker">Charil.</hi> Mecum Philindus, vicibus alternis, fores</p>
     <p>Vigil occupavit, sive sol medium rotis</p>
     <p><milestone unit="page" facs="505"/> Lustraret orbem, sive nocturnos soror</p>
-    <p>Ageret jugales. @Sigref.= Solus accessum Golo</p>
-    <p>Habuit frequentem? @Phil.= Solus invisit quidem</p>
+    <p>Ageret jugales. <hi rend="speaker">Sigref.</hi> Solus accessum Golo</p>
+    <p>Habuit frequentem? <hi rend="speaker">Phil.</hi> Solus invisit quidem</p>
     <p>Mense, à recessu Principis, primo frequens,</p>
-    <p>At deinde nunquam. @Sigref.= Nulla Genovefae tibi</p>
+    <p>At deinde nunquam. <hi rend="speaker">Sigref.</hi> Nulla Genovefae tibi</p>
     <p><milestone unit="page" facs="510"/> Audita vox est? nulla Golonis fuit?</p>
-    <p>@Phil.= Utriusque nulla: sed tamen vice ultimâ,</p>
+    <p><hi rend="speaker">Phil.</hi> Utriusque nulla: sed tamen vice ultimâ,</p>
     <p>Quam Golo praesens adfuit, tandem audii</p>
     <p>Heram loquentem voce consuetâ altiùs:</p>
     <p>Quid hoc? salaces corpore à casto amove,</p>
@@ -818,12 +818,12 @@
     <p>Properate famuli; Charile, Philinde, ocius</p>
     <p>Huc in cubile; ferte suppetias Herae</p>
     <p>Periclitanti. Poste mox vulso, simul</p>
-    <p>Irruit uterque: solus occurrit @Golo.=</p>
-    <p><milestone unit="page" facs="520"/> @Sigref.= Quae forma vultûs? @Charil.= Totus in vultu
+    <p>Irruit uterque: solus occurrit <hi rend="speaker">Golo.</hi></p>
+    <p><milestone unit="page" facs="520"/> <hi rend="speaker">Sigref.</hi> Quae forma vultûs? <hi rend="speaker">Charil.</hi> Totus in vultu
     cruor,</p>
     <p>Furorque totus: ipse volvebat minas</p>
     <p>Secum ipse saevus grande nescio quid parans.</p>
-    <p>@Sigref.= Etiam locutus aliquid? @Phil.= Hae voces erant.</p>
+    <p><hi rend="speaker">Sigref.</hi> Etiam locutus aliquid? <hi rend="speaker">Phil.</hi> Hae voces erant.</p>
     <p>Patiar repulsam? dedecus inultus feram?</p>
     <p><milestone unit="page" facs="525"/> Regeremus ipsi crimen atque ultro impiam</p>
     <p>Venerem arguemus: scelere condemus scelus.</p>
@@ -838,24 +838,24 @@
     <p><milestone unit="page" facs="535"/> Caraeque soboli mortis accepit diem,</p>
     <p>Judice Sifrido: solus applausit Golo;</p>
     <p>Prostravit alios sortis indignae dolor.</p>
-    <p>@Sigref.= Quo tristis animo nuncium accepit necis?</p>
+    <p><hi rend="speaker">Sigref.</hi> Quo tristis animo nuncium accepit necis?</p>
     <p><milestone unit="page" facs="19"/></p>
-    <p>@Charil.= Quo nemo vitae interrito, &amp; pleno spei,</p>
+    <p><hi rend="speaker">Charil.</hi> Quo nemo vitae interrito, &amp; pleno spei,</p>
     <p><milestone unit="page" facs="540"/> Superisque simili: lumina attollens polo,</p>
     <p>Veniam precatur Cot jugi, capto dolis.</p>
-    <p>Dein Goloni. @Sigref.= Caedis est author Golo:</p>
+    <p>Dein Goloni. <hi rend="speaker">Sigref.</hi> Caedis est author Golo:</p>
     <p>Juro per astra, perque lucentes faces,</p>
-    <p>Dabit ultionem. @Charil.= Genua tum flectit solo,</p>
+    <p>Dabit ultionem. <hi rend="speaker">Charil.</hi> Genua tum flectit solo,</p>
     <p><milestone unit="page" facs="545"/> Intaminatae numen in testem vocans</p>
     <p>Integritatis; innocens, moriar tamen,</p>
     <p>Ait libenter: sic meus Conjux jubet.</p>
     <p>Viva imperanti parui, nunc &amp; mori</p>
-    <p>Pareo jubenti. @Sigref.= Hîc, ò utinam, utinam semel</p>
+    <p>Pareo jubenti. <hi rend="speaker">Sigref.</hi> Hîc, ò utinam, utinam semel</p>
     <p><milestone unit="page" facs="550"/> Non paruisses! viveres, &amp; ego miser</p>
-    <p>Seris carerem lacrymis. @Charil.= Haec dum mori</p>
+    <p>Seris carerem lacrymis. <hi rend="speaker">Charil.</hi> Haec dum mori</p>
     <p>Parata fatur, cardinis postem movet</p>
     <p>Geminus Satelles, atque supremum vocat</p>
-    <p>Lethi ad theatrum: dederat hoc jussum @Golo.=</p>
+    <p>Lethi ad theatrum: dederat hoc jussum <hi rend="speaker">Golo.</hi></p>
     <p><milestone unit="page" facs="555"/> Mox illa sumens brachiis dulcem sui</p>
     <p>Sarcinulam amoris, ibat humanâ altior</p>
     <p>Virtute Princeps: candidae fulgent genae,</p>
@@ -863,17 +863,17 @@
     <p>Ut esse Phoebi gratius lumen solet</p>
     <p><milestone unit="page" facs="560"/> Jamjam cadentis, astra cùm repetunt vices,</p>
     <p>Premiturque dubius nocte vicinâ dies.</p>
-    <p>@Philind.= Stupet omne vulgus: hos movet formae decus;</p>
+    <p><hi rend="speaker">Philind.</hi> Stupet omne vulgus: hos movet formae decus;</p>
     <p>Hos genus avitum; lubricae hos rerum vices;</p>
     <p>Movet animus omnes purus, ac vitae integer,</p>
     <p><milestone unit="page" facs="565"/> Dumque innocentem Matris ex ulnis vident</p>
     <p>Partum doloris pendulum, cuncti tremunt?</p>
     <p>Miserentur, ac mirantur exemplum insolens,</p>
     <p>Nec temperare lactymis sicci queunt.</p>
-    <p>@Paril.= Nec plura scimus. Urbis egressam fores</p>
+    <p><hi rend="speaker">Paril.</hi> Nec plura scimus. Urbis egressam fores</p>
     <p><milestone unit="page" facs="570"/> Lethi ad theatrum, teste secluso procul,</p>
     <p>Duxit Rinaldus, &amp; neci Lictor dedit.</p>
-    <p>@Sigref.= Quae monstra scelerum pandit hic tandem dies?.</p>
+    <p><hi rend="speaker">Sigref.</hi> Quae monstra scelerum pandit hic tandem dies?.</p>
     <p>Jam capio. seriem criminum est orsus Golo,</p>
     <p>Mendacio, &amp; calumniâ; ut scelus suum</p>
     <p><milestone unit="page" facs="575"/> Tegeret nefandus Conjugis nostrae procus,</p>
@@ -894,7 +894,7 @@
     detecturum crimen suum Sigefrido.</p>
     <p><hi rend="italic">Personae</hi>. Golo, Conscientia,
     Umbra Coqui Droganis, Justitia divina &amp;c.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Quis me recessus? quis
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Quis me recessus? quis
     locus profugum teget?</p>
     <p>Ubi me recondam? quave tellure obruam?</p>
     <p>Scelus in aperto est. merge lucentem diem</p>
@@ -917,73 +917,73 @@
     <p><milestone unit="page" facs="600"/> Vindexque caelum, atque ultor in nostros metus</p>
     <p>Comurat orbis: fremuit à tergo sonus?</p>
     <p>Adesse culpae suadet ultorem pavor.</p>
-    <p>@Conscient.= Sic te decebat tremere, cùm dextrâ mihi</p>
+    <p><hi rend="speaker">Conscient.</hi> Sic te decebat tremere, cùm dextrâ mihi</p>
     <p>Lethifera nuper vulnera haec saevus dares.</p>
-    <p><milestone unit="page" facs="605"/> @Golo.<hi rend="italic">=</hi> Egóne?
-    @Consc.= dubitas? @Golo.<hi rend="italic">=</hi> ego
+    <p><milestone unit="page" facs="605"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Egóne?
+    <hi rend="speaker">Consc.</hi> dubitas? <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> ego
     tibi has plagas dedi?</p>
-    <p>@Consc.= Improbe, dedisti.
-    @Golo.<hi rend="italic">=</hi> Quaenam es? @Consc.= ò
+    <p><hi rend="speaker">Consc.</hi> Improbe, dedisti.
+    <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Quaenam es? <hi rend="speaker">Consc.</hi> ò
     pudor! tuam</p>
     <p>Non nôsse temet Conscientiam ampliùs?</p>
-    <p>@Golo.<hi rend="italic">=</hi> Túne mea Conscientia?
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Túne mea Conscientia?
     ô monstrum insolens!</p>
-    <p>@Consc.= Id credo: casta namque, pudibunda, innocens,</p>
+    <p><hi rend="speaker">Consc.</hi> Id credo: casta namque, pudibunda, innocens,</p>
     <p><milestone unit="page" facs="610"/> Rectique semper conscia tibi mens eram,</p>
     <p>Quando animus insons nuper innocuos adhuc</p>
     <p>Regebat artus: Tua sed infamis mihi</p>
     <p>Istud libido rapuit excellens decus.</p>
-    <p>@Golo.<hi rend="italic">=</hi> O tetra facies mentis!
-    @Consc.= at mentis tuae.</p>
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> O tetra facies mentis!
+    <hi rend="speaker">Consc.</hi> at mentis tuae.</p>
     <p><milestone unit="page" facs="615"/> Age nunc, ut optas, tabe funestâ horridos</p>
-    <p>Tuere vultus. @Golo.<hi rend="italic">=</hi> Morior
+    <p>Tuere vultus. <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Morior
     aspectu truci.</p>
-    <p>@Consc.= Quid? itane Veneris gaudia optatae expaves?</p>
-    <p>@Golo.<hi rend="italic">=</hi> Vah! quàm nefando
+    <p><hi rend="speaker">Consc.</hi> Quid? itane Veneris gaudia optatae expaves?</p>
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Vah! quàm nefando
     pollui mentem probro!</p>
-    <p>@Consc.= Scelerate! non fers propriae mentis nefas?</p>
-    <p><milestone unit="page" facs="620"/> @Golo.<hi rend="italic">=</hi> O magne
+    <p><hi rend="speaker">Consc.</hi> Scelerate! non fers propriae mentis nefas?</p>
+    <p><milestone unit="page" facs="620"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> O magne
     Rector! merge portentum hoc stygi,</p>
-    <p>@Consc.= Merget, sed unà merget hoc tetrum caput.</p>
-    <p>@Gol.= O summe Genitor! potiùs orcini canis</p>
+    <p><hi rend="speaker">Consc.</hi> Merget, sed unà merget hoc tetrum caput.</p>
+    <p><hi rend="speaker">Gol.</hi> O summe Genitor! potiùs orcini canis</p>
     <p>Rictus pavendos liceat, aut foedam luem</p>
     <p>Cocyti inertis cernere, aut Lernae mala.</p>
-    <p><milestone unit="page" facs="625"/> @Consc.= Et illa cernes; me nec effugies tamen.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Ferox hyaena, cede;
+    <p><milestone unit="page" facs="625"/> <hi rend="speaker">Consc.</hi> Et illa cernes; me nec effugies tamen.</p>
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Ferox hyaena, cede;
     Garamantas pete.</p>
-    <p>@Consc.= Egóne cedam? Latere non cedam tuo.</p>
+    <p><hi rend="speaker">Consc.</hi> Egóne cedam? Latere non cedam tuo.</p>
     <p>Sedes? sedebo: graderis? en gradior simul.</p>
     <p>Fugis? volatu praepetem anteibo fugam.</p>
-    <p><milestone unit="page" facs="630"/> @Vmbra Droganis.= Sta, sta, sceleste! carnis occisum
+    <p><milestone unit="page" facs="630"/> <hi rend="speaker">Vmbra Droganis.</hi> Sta, sta, sceleste! carnis occisum
     tuo</p>
     <p>Scelere Droganem? vindices caedis meae</p>
-    <p>Poenas reposco. @Golo.<hi rend="italic">=</hi> Fugio,
+    <p>Poenas reposco. <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Fugio,
     nec fugio tamen.</p>
     <p>Undique tenemur Vmbra. Siste, nil prodest fuga!</p>
     <p>Ubique sceleris ultio infestat reum.<ptr target="#tn5" n="5"/></p>
-    <p><milestone unit="page" facs="635"/> @Just. div.= Modicam quietem sinite. dum scenam
+    <p><milestone unit="page" facs="635"/> <hi rend="speaker">Just. div.</hi> Modicam quietem sinite. dum scenam
     paro.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Dehisce tellus;
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Dehisce tellus;
     Tartari ad finem ultimum ...</p>
     <p><milestone unit="page" facs="22"/></p>
     <p>Mansurus ibo: recipe me coecum chaos.</p>
-    <p>@Justit. div.= Regnator orbis, cujus ad nutum pavent</p>
+    <p><hi rend="speaker">Justit. div.</hi> Regnator orbis, cujus ad nutum pavent</p>
     <p>Tellus &amp; astra, vindicem poscit manum</p>
     <p><milestone unit="page" facs="640"/> Fusus Droganis sanguis, &amp; justum rogat</p>
-    <p>Tribunal Umbra. @Vmbra.= Vindica nostrum Deus</p>
-    <p>Ultor cruorem. @Conscient.= Vulnera haec poenam exigunt.</p>
+    <p>Tribunal Umbra. <hi rend="speaker">Vmbra.</hi> Vindica nostrum Deus</p>
+    <p>Ultor cruorem. <hi rend="speaker">Conscient.</hi> Vulnera haec poenam exigunt.</p>
     <p>Mundi Redemptor perditi, atque hominum salus,</p>
-    <p>@Misericordia.= Miserere. @Justit.= Judex aeque, scelerumque
+    <p><hi rend="speaker">Misericordia.</hi> Miserere. <hi rend="speaker">Justit.</hi> Judex aeque, scelerumque
     arbiter,</p>
-    <p><milestone unit="page" facs="645"/> Feri nocentem. @Miser.= Meruit aeternum quidem</p>
+    <p><milestone unit="page" facs="645"/> Feri nocentem. <hi rend="speaker">Miser.</hi> Meruit aeternum quidem</p>
     <p>Perire Golo; meruit incestum scelus;</p>
     <p>Caedes Droganis meruit; at supplex modò</p>
     <p>Veniam precatur, &amp; suum damnat scelus.</p>
-    <p>@Justit.= At serò damnat. @Miser.= Crimen admissum dolet.</p>
+    <p><hi rend="speaker">Justit.</hi> At serò damnat. <hi rend="speaker">Miser.</hi> Crimen admissum dolet.</p>
     <p><milestone unit="page" facs="650"/> Quem poenitet peccasse, hic innocens propè est.</p>
-    <p>@Christ.= Probo dolorem, scelera non laudo tamen.</p>
-    <p>@Miser.= Non antecedit scelera, sed sequitur dolor.</p>
-    <p>@Justit.= Et poena sequitur. @Miser.= Qui dolet, poena est
+    <p><hi rend="speaker">Christ.</hi> Probo dolorem, scelera non laudo tamen.</p>
+    <p><hi rend="speaker">Miser.</hi> Non antecedit scelera, sed sequitur dolor.</p>
+    <p><hi rend="speaker">Justit.</hi> Et poena sequitur. <hi rend="speaker">Miser.</hi> Qui dolet, poena est
     sibi.</p>
     <p>Liceat precari, pedibus advolvor tuis.</p>
     <p><milestone unit="page" facs="655"/> Per illa, Christe. flagra. adhuc stillantibus</p>
@@ -992,7 +992,7 @@
     <p>Rogo, miserere: per cicatrices pedum,</p>
     <p>Et sacra manuum vulnera, &amp; apertos sinus</p>
     <p><milestone unit="page" facs="660"/> Miserantis animi parce deflenti scelus.</p>
-    <p>@Christus.= Desine precari: genua de solo leva.</p>
+    <p><hi rend="speaker">Christus.</hi> Desine precari: genua de solo leva.</p>
     <p>Sic statuo: poenas criminum Golo dabit;</p>
     <p>Sed mitigatas. Diva; quae trutinâ pari</p>
     <p>Quaecunque facta ponderas, trado tibi</p>
@@ -1002,13 +1002,13 @@
     <p>Culpas remittam criminum. Quòd si ferox,</p>
     <p>Et jam malorum pertinax, tegat scelus,</p>
     <p><milestone unit="page" facs="670"/> Plectam aeviternis Tartaro crimen rogis.</p>
-    <p>@Justit.= Accipio causam: nunc tibi ordiar Golo,</p>
+    <p><hi rend="speaker">Justit.</hi> Accipio causam: nunc tibi ordiar Golo,</p>
     <p>Telam implicatam mortis, horrificam necem.</p>
     <p>Ità meruisti. Genera poenarum vide:</p>
     <p><milestone unit="page" facs="23"/></p>
     <p>Funes, catenas. flagra, plumbatas, cruces,</p>
     <p><milestone unit="page" facs="675"/> Enses, catastas, forcipes, ignes, rotas.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Vigilo? vel oculos
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Vigilo? vel oculos
     dubius illudit sopor?</p>
     <p>Quae monstra vidi? coeca tenebrarum loca,</p>
     <p>Erebique tristes vivus evasi rogos.</p>
@@ -1029,7 +1029,7 @@
     <p>Genovefa gaudet in Deo, Jesu suo: &amp;c. tum audit Filiolum suum
     orantem &amp;c.</p>
     <p>Scena tota est musica.</p>
-    <p><milestone unit="page" facs="690"/> @Genov.= 1. Newlich war ich voller Schmertzen/</p>
+    <p><milestone unit="page" facs="690"/> <hi rend="speaker">Genov.</hi> 1. Newlich war ich voller Schmertzen/</p>
     <p>Lag in Qual und hoͤchster Noth,</p>
     <p>Angst sich eintrung biss zum Hertzen/</p>
     <p>Ware mehr dan halber todt.</p>
@@ -1064,15 +1064,15 @@
     <p><milestone unit="page" facs="720"/> Schaff mein Kindlein/ schlaff ohn Sorgen/</p>
     <p>Schlaff biss abend/ schlaff bis morgen.</p>
     <p>Post cantum evigilat Benoni, ad quem</p>
-    <p>@Genovefa.= Auff Benoni! komm und bette</p>
+    <p><hi rend="speaker">Genovefa.</hi> Auff Benoni! komm und bette</p>
     <p>Wie von mir gelehret bist/</p>
     <p><milestone unit="page" facs="725"/> Dass uns Gott vom Ubel rette/</p>
     <p>Jetzund und zu aller Frist.</p>
-    <p>@Benon.= In Nahmen des Vatters/ und des Sohns/ und des Heiligen
+    <p><hi rend="speaker">Benon.</hi> In Nahmen des Vatters/ und des Sohns/ und des Heiligen
     Geistes/ Amen</p>
     <p>Vatter Unser/ der du bist in den Himmelen/ geheiliget werde dein
     Nahm.</p>
-    <p>@Genov.= <hi rend="italic">Aria</hi>. 1. O Vatter!
+    <p><hi rend="speaker">Genov.</hi> <hi rend="italic">Aria</hi>. 1. O Vatter!
     weit erhoben</p>
     <p><milestone unit="page" facs="730"/> In deinem hochsten Thron:</p>
     <p>Wir Kinder dich stäts loben/</p>
@@ -1082,9 +1082,9 @@
     <p><milestone unit="page" facs="735"/> Dass alle Creaturen</p>
     <p>Recht lobten ins gemein.</p>
     <p><milestone unit="page" facs="25"/></p>
-    <p>@Benoni.= Zukomme dein Reich; dein Will geschehe/ wie im Himmel
+    <p><hi rend="speaker">Benoni.</hi> Zukomme dein Reich; dein Will geschehe/ wie im Himmel
     also auch auff Erden.</p>
-    <p>@Genov.= <hi rend="italic">Aria.</hi> 1. Ach nur das
+    <p><hi rend="speaker">Genov.</hi> <hi rend="italic">Aria.</hi> 1. Ach nur das
     Reich daroben/</p>
     <p>Den schoͤnen Pallast dein/</p>
     <p><milestone unit="page" facs="740"/> Räum uns/ die wir dich loben/</p>
@@ -1093,16 +1093,16 @@
     <p>Gestrenger HErr und Gott/</p>
     <p>Dass keiner woͤll verschertzen</p>
     <p><milestone unit="page" facs="745"/> Dein Will/ und dein Gebott.</p>
-    <p>@Ben.= Unser täglich Brodt gib uns heut.</p>
-    <p>@Genov. &amp; Benoni simul. =
+    <p><hi rend="speaker">Ben.</hi> Unser täglich Brodt gib uns heut.</p>
+    <p><hi rend="speaker">Genov. &amp; Benoni simul. </hi>
     <hi rend="italic">Aria.</hi></p>
     <p>Wir bitten unterdessen</p>
     <p>Auff dieser Himmelsreitz/</p>
     <p><milestone unit="page" facs="750"/> Kein Tranck/ kein lecker Essen/</p>
     <p>Gnug ist ein schlechte Speiss.</p>
-    <p>@Benoni.= Vergib uns unsere Schuld/ als wir vergeben unseren
+    <p><hi rend="speaker">Benoni.</hi> Vergib uns unsere Schuld/ als wir vergeben unseren
     Schuldigeren.</p>
-    <p>@Genov.= <hi rend="italic">Aria.</hi> 1. Ja HErr/ ich
+    <p><hi rend="speaker">Genov.</hi> <hi rend="italic">Aria.</hi> 1. Ja HErr/ ich
     meyns von Hertzen/</p>
     <p>Meim Feind vergebe ich;</p>
     <p><milestone unit="page" facs="755"/> Ich widerhols ohn Schertzen/</p>
@@ -1111,9 +1111,9 @@
     <p>Mir meine Sünd/ und Schuld:</p>
     <p>Die Fehler meines Lebens</p>
     <p><milestone unit="page" facs="760"/> Wolst tragen mit Geduldt.</p>
-    <p>@Benoni.= Und führ uns nicht in Versuchung/ sonderen erloͤse uns
+    <p><hi rend="speaker">Benoni.</hi> Und führ uns nicht in Versuchung/ sonderen erloͤse uns
     von dem Ubel. Amen.</p>
-    <p>@Genov.= <hi rend="italic">Aria.</hi> 1. Der Sathan
+    <p><hi rend="speaker">Genov.</hi> <hi rend="italic">Aria.</hi> 1. Der Sathan
     offt durch Ehren</p>
     <p>Zur Welt mich wider ladt:</p>
     <p>Versuchung thut sich mehren/</p>
@@ -1123,12 +1123,12 @@
     <p>Bewahr uns beyd zu sammen</p>
     <p>Vom Ubel immerdar.</p>
     <p><milestone unit="page" facs="26"/></p>
-    <p><milestone unit="page" facs="770"/> @Benoni.= In Nahmen des Vatters und des Sohns/ und des
+    <p><milestone unit="page" facs="770"/> <hi rend="speaker">Benoni.</hi> In Nahmen des Vatters und des Sohns/ und des
     Heiligen Geistes/ Amen.</p>
-    <p>@Genov.= Benoni hat gar schoͤn gebett/</p>
+    <p><hi rend="speaker">Genov.</hi> Benoni hat gar schoͤn gebett/</p>
     <p>Dass Gott uns beyd vom Ubel rett.</p>
-    <p>@Benoni.= Amen, Amen, Amen. Amen.</p>
-    <p>@Genov. &amp; @Benon. simul.= Amen, Amen, Amen, Amen.</p>
+    <p><hi rend="speaker">Benoni.</hi> Amen, Amen, Amen. Amen.</p>
+    <p><hi rend="speaker">Genov. &amp; @Benon. simul.</hi> Amen, Amen, Amen, Amen.</p>
   </div>
   <div type="level2" xml:id="scena-v.-1">
     <head>20. SCENA V.</head>
@@ -1145,21 +1145,21 @@
   <div type="level2" xml:id="personae.-golo-sigefridus-filii-golonis.">
     <head>22. Personae. <hi rend="italic">Golo, Sigefridus,
     Filii Golonis</hi>.</head>
-    <p><milestone unit="page" facs="775"/> @Golo.<hi rend="italic">=</hi> Generose
+    <p><milestone unit="page" facs="775"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Generose
     Princeps; contine justum precor</p>
     <p>Animo furorem, donec exstructam impiae</p>
     <p>Pertexo fraudis machinam, &amp; nostrum scelus.</p>
-    <p>@Sigref.= Quis ille cultus corporis?
-    @Golo.<hi rend="italic">=</hi> Qualis decet</p>
+    <p><hi rend="speaker">Sigref.</hi> Quis ille cultus corporis?
+    <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Qualis decet</p>
     <p>Reum nefandi sceleris, addictum neci.</p>
-    <p><milestone unit="page" facs="780"/> @Sigref.= Tandem fateris?
-    @Golo.<hi rend="italic">=</hi> Facinus agnosco
+    <p><milestone unit="page" facs="780"/> <hi rend="speaker">Sigref.</hi> Tandem fateris?
+    <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Facinus agnosco
     impium.</p>
-    <p>@Sigref.= <hi rend="italic">Sua quemque produnt
+    <p><hi rend="speaker">Sigref.</hi> <hi rend="italic">Sua quemque produnt
     scelera, nec latuit bene</hi></p>
     <p><hi rend="italic">Quodcunque caelo teste patratum est
     nefas</hi>.</p>
-    <p>@Golo.<hi rend="italic">=</hi> Ego Genovefam ad
+    <p><hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Ego Genovefam ad
     stupra, &amp; illicitos thoros</p>
     <p>Tentavi adulter. Dixit: abscede impiè,</p>
     <p><milestone unit="page" facs="785"/> Proterve; citiùs ignibus junges aquas,</p>
@@ -1175,7 +1175,7 @@
     <p>Olim reverso, scelere velavi scelus.</p>
     <p><milestone unit="page" facs="795"/> Sacra violâsse jura Genovefam thori</p>
     <p>Mentitus, arte perfidâ extorsi citae</p>
-    <p>Decreta mortis. @Sigref.= Haec videt lucis parens,</p>
+    <p>Decreta mortis. <hi rend="speaker">Sigref.</hi> Haec videt lucis parens,</p>
     <p>Nec redit in ortus, aut remetitur diem?</p>
     <p>Genovefa nostra periit? infanti quoque</p>
     <p><milestone unit="page" facs="800"/> Decreta mors est; facta quis tam tristia</p>
@@ -1183,7 +1183,7 @@
     <p>Uterique tardas solverat elausi moras,</p>
     <p>Et jam perimitur, Facinus ignotum, efferum;</p>
     <p>Natura majus ferre quo nullum potest.</p>
-    <p><milestone unit="page" facs="805"/> @Golo.<hi rend="italic">=</hi> Nihil
+    <p><milestone unit="page" facs="805"/> <hi rend="speaker">Golo.<hi rend</hi>"italic">=</hi> Nihil
     recuso; dira tormenta ingere:</p>
     <p>Merui; cruentis scelera suppliciis preme.</p>
     <p>Plagae locum metire: cur cessas? feri.</p>
@@ -1195,18 +1195,18 @@
     <p>Disrumpe fibras, mille per partes eant</p>
     <p>Distracta membris membra; in hoc jugulum rue,</p>
     <p><milestone unit="page" facs="815"/> Fractumque crebris ictibus guttur sonet:</p>
-    <p>Minora meritis patiat. @Sigref.= Egon’ ut manus</p>
+    <p>Minora meritis patiat. <hi rend="speaker">Sigref.</hi> Egon’ ut manus</p>
     <p>Puras nocentis polluam attactu ferae?</p>
     <p>Carnificis hoc est munus: huic poenam dabis.</p>
     <p>Abripite famuli monstrum, &amp; avectum foras</p>
     <p><milestone unit="page" facs="820"/> Vivum sonipedes quatuor in partes trahant.</p>
-    <p>@Fil. 1. Gol.= Miserere Patris, supplices nati rogant.</p>
-    <p>@Sigref.= Abripite monstrum. @Fil. 2.= pedibus advolvor tuis.</p>
-    <p>@Fil. 1.= Per genus avitum parce. @2.= per sacras manus.</p>
-    <p>@1.= Per ista Princeps genua. @2.= si sanguis placet,</p>
+    <p><hi rend="speaker">Fil. 1. Gol.</hi> Miserere Patris, supplices nati rogant.</p>
+    <p><hi rend="speaker">Sigref.</hi> Abripite monstrum. <hi rend="speaker">Fil. 2.</hi> pedibus advolvor tuis.</p>
+    <p><hi rend="speaker">Fil. 1.</hi> Per genus avitum parce. <hi rend="speaker">2.</hi> per sacras manus.</p>
+    <p><hi rend="speaker">1.</hi> Per ista Princeps genua. <hi rend="speaker">2.</hi> si sanguis placet,</p>
     <p><milestone unit="page" facs="28"/></p>
     <p><milestone unit="page" facs="825"/> Hunc funde; meliùs sanguis infantûm sapit</p>
-    <p>Senum cruore. @Sigref.= Cum Patre, &amp; soboles cadet.</p>
+    <p>Senum cruore. <hi rend="speaker">Sigref.</hi> Cum Patre, &amp; soboles cadet.</p>
     <p>Domusque tota: sternam, &amp; evertam omnia.</p>
   </div>
   <div type="level2" xml:id="scena-vi.">
@@ -1216,11 +1216,11 @@
   </div>
   <div type="level2" xml:id="personae.-lindus-rinaldus-venatores.">
     <head>24. Personae. Lindus &amp; Rinaldus Venatores.</head>
-    <p>@Venator I.= Rinalde! dubio nostra res posita est loco:</p>
+    <p><hi rend="speaker">Venator I.</hi> Rinalde! dubio nostra res posita est loco:</p>
     <p>Nam fortè Pinceps caedis exquiret modum?</p>
-    <p>@II.= Ingenia facilem prompta reperiunt viam.</p>
+    <p><hi rend="speaker">II.</hi> Ingenia facilem prompta reperiunt viam.</p>
     <p>Fingemus iterum mortis illatae modum:</p>
-    <p><milestone unit="page" facs="830"/> @I.= At si deinde, fama quam jussae necis</p>
+    <p><milestone unit="page" facs="830"/> <hi rend="speaker">I.</hi> At si deinde, fama quam jussae necis</p>
     <p>Perisse fatis hactenus passim tulit,</p>
     <p>Vivam reperiat Dominus? an nostrum putas</p>
     <p>Silentium probabit? 2<hi rend="superscript">us</hi>
@@ -1229,7 +1229,7 @@
     <p><milestone unit="page" facs="835"/> Curâ pusillae sobolis; indignâ sui</p>
     <p>Irâ mariti, nominis sui probro.</p>
     <p>Siti, fameque, &amp; mille consumptam malis,</p>
-    <p>@I.= Ergo perempta maneat, &amp; ficto dolo</p>
+    <p><hi rend="speaker">I.</hi> Ergo perempta maneat, &amp; ficto dolo</p>
     <p>Exsecta pergat lingua testari necem,</p>
   </div>
   <div type="level2" xml:id="scena-vii.">
@@ -1260,12 +1260,12 @@
   <div type="level2" xml:id="personae.-nuncius-chorus.">
     <head>28. Personae. <hi rend="italic">Nuncius,
     Chorus</hi>.</head>
-    <p>@Nunc.= Peracta scena est: digna criminibus dedit</p>
-    <p>Supplicia Golo @Chor.= Nihil in occulto est diu:</p>
+    <p><hi rend="speaker">Nunc.</hi> Peracta scena est: digna criminibus dedit</p>
+    <p>Supplicia Golo <hi rend="speaker">Chor.</hi> Nihil in occulto est diu:</p>
     <p>Quin testis animus, &amp; suum incusans Scelus,</p>
     <p>Semperque pavidus vindicis poenae metu,</p>
     <p><milestone unit="page" facs="855"/> Tandem seipsum prodere &amp; crimen solet.</p>
-    <p>Quo gerere mortis periit? @Nunc.= Horrorem incutit</p>
+    <p>Quo gerere mortis periit? <hi rend="speaker">Nunc.</hi> Horrorem incutit</p>
     <p>Imago scenae. Corpus in multas equi</p>
     <p>Rapuêre partes. Tortor ùt primum Rei</p>
     <p>Artus Golonis vinculo austrinxit jugis,</p>
@@ -1274,7 +1274,7 @@
     <p>Omnisque, vulsi corporis partem tulit.</p>
     <p>Et illa, per quae Golo distractus loca est,</p>
     <p>Longum cruenta tramitem signat nota.</p>
-    <p><milestone unit="page" facs="865"/> @Chor.= Nunc ite, quotquot premitis insontes
+    <p><milestone unit="page" facs="865"/> <hi rend="speaker">Chor.</hi> Nunc ite, quotquot premitis insontes
     dolis,</p>
     <p>Mendaciis, calumniis, injuriis:</p>
     <p>Fraus nulla semper tegitur; &amp; scelus, licet</p>
@@ -1288,13 +1288,13 @@
     <head>29. SCENA I.</head>
     <p>Sigefridus cum aulâ suâ celebrat exequias occisae Genovefae.
     Musica per totum.</p>
-    <p>@Sigref. solus.= Eja turba! pone cultum,</p>
+    <p><hi rend="speaker">Sigref. solus.</hi> Eja turba! pone cultum,</p>
     <p>Luctuosum sume vultum;</p>
     <p>Genovefam plangimus.</p>
     <p><milestone unit="page" facs="875"/> Genovefae fata flemus.</p>
     <p>Sigefrido condolemus;</p>
     <p>Moesta plectra tangimus.</p>
-    <p>@Sigefridus &amp; Chorus concertant.=</p>
+    <p><hi rend="speaker">Sigefridus &amp; Chorus concertant.</hi></p>
     <p>Genovefa sicut una</p>
     <p><milestone unit="page" facs="880"/> Luxit inter astra, Luna:</p>
     <p>Illa Pallas gloriosa,</p>
@@ -1306,7 +1306,7 @@
     <p>Luna haec disparuit.</p>
     <p>Pallas haec expalluit,</p>
     <p>Haec Diana evanuit.</p>
-    <p><milestone unit="page" facs="890"/> @Sigef. solus.= Ergo Lunam flete stellae,</p>
+    <p><milestone unit="page" facs="890"/> <hi rend="speaker">Sigef. solus.</hi> Ergo Lunam flete stellae,</p>
     <p>Pallademque vos puellae:</p>
     <p>Vos Dianam flete Nymphae,</p>
     <p>Vosque rivi, vosque lymphae:</p>
@@ -1314,7 +1314,7 @@
     <p><milestone unit="page" facs="895"/> Prata fontes, antra, montes:</p>
     <p>Genovefam plangite,</p>
     <p>Naeniamque pangite.</p>
-    <p>@Chorus.= Genovefae fata flemus,</p>
+    <p><hi rend="speaker">Chorus.</hi> Genovefae fata flemus,</p>
     <p>Plectra chordis admovemus:</p>
     <p><milestone unit="page" facs="900"/> Ergo tristes ite luctus,</p>
     <p>Et dolorum millę fluctus.</p>
@@ -1328,20 +1328,20 @@
     Genovefam, &amp; Infantem occiderint.</p>
     <p><hi rend="italic">Personae</hi>. Sigefridus, &amp;
     duo Venatores, Lindus, &amp; Rinaldus.</p>
-    <p>@Sigref.= Nunc agite; Linde, tuve fatalis comes</p>
+    <p><hi rend="speaker">Sigref.</hi> Nunc agite; Linde, tuve fatalis comes</p>
     <p><milestone unit="page" facs="905"/> Rinalde casûs, caedis enarra modum.</p>
-    <p>@Rinald.= Fari jubes, tacere quae suadet dolor,</p>
-    <p>@Sigref.= Effare: gaudet animus aerumnas meus</p>
-    <p>@Lindus.= Tacere liceat. @Sigref.= Qui tacet jussus loqui,</p>
-    <p>Imposita solvit jussa. @Lind.= Quid cuiquam licet,</p>
-    <p><milestone unit="page" facs="910"/> Si non licet tacere. @Sigref.= Quid nectis moras?</p>
+    <p><hi rend="speaker">Rinald.</hi> Fari jubes, tacere quae suadet dolor,</p>
+    <p><hi rend="speaker">Sigref.</hi> Effare: gaudet animus aerumnas meus</p>
+    <p><hi rend="speaker">Lindus.</hi> Tacere liceat. <hi rend="speaker">Sigref.</hi> Qui tacet jussus loqui,</p>
+    <p>Imposita solvit jussa. <hi rend="speaker">Lind.</hi> Quid cuiquam licet,</p>
+    <p><milestone unit="page" facs="910"/> Si non licet tacere. <hi rend="speaker">Sigref.</hi> Quid nectis moras?</p>
     <p>Effare, ne te cogat ad voces dolor.</p>
-    <p>@Lind.= Coacta verba placidus accipias precor.</p>
+    <p><hi rend="speaker">Lind.</hi> Coacta verba placidus accipias precor.</p>
     <p>Est procul ab urbe lucus, arboribus niger:</p>
     <p>Has inter abies exerens frequens caput.</p>
     <p><milestone unit="page" facs="915"/> Virente semper alligat trunco nemus.</p>
     <p>Illuc necanda ducitur consors thori.</p>
-    <p>@Rinald.= Ut lassa Silvam tenuit, &amp; caedis locum:</p>
+    <p><hi rend="speaker">Rinald.</hi> Ut lassa Silvam tenuit, &amp; caedis locum:</p>
     <p>Mortem paramus; illa sic fando rogat:</p>
     <p>Brevem moram largire, dum Nato parens</p>
     <p><milestone unit="page" facs="920"/> Munus supremum reddo, &amp; amplexu ultimo</p>
@@ -1350,24 +1350,24 @@
     <p>Spes, inquit, una generis, &amp; avitae domûs,</p>
     <p>Veterisque soboles sanguinis, nimiùm inclyti,</p>
     <p><milestone unit="page" facs="925"/> Patrique similis, morere, sic genitor jubet.</p>
-    <p>@Sigref.= Quid deinde? @Lind.= Pueri flentis in guttur mucro</p>
+    <p><hi rend="speaker">Sigref.</hi> Quid deinde? <hi rend="speaker">Lind.</hi> Pueri flentis in guttur mucro</p>
     <p>Adigitur, ille tinctus è jugulo redit,</p>
-    <p>Puero jacente. @Sigref.= Quò meas lacrymas feram?</p>
+    <p>Puero jacente. <hi rend="speaker">Sigref.</hi> Quò meas lacrymas feram?</p>
     <p><milestone unit="page" facs="32"/></p>
-    <p>Ubi me recondam? @Lind.= Genua tum flexit Parens.</p>
+    <p>Ubi me recondam? <hi rend="speaker">Lind.</hi> Genua tum flexit Parens.</p>
     <p><milestone unit="page" facs="930"/> Isthaec profata: morior, at rutilo diem</p>
     <p>Curru volantem testor, innocua cado.</p>
     <p>Vitae ante actae candor hoc probat: hinc mori</p>
     <p>Non timeo; doleo Conjugem iratum; mori</p>
     <p>Communis est res; Conjuge offenso mori.</p>
     <p><milestone unit="page" facs="935"/> Hoc est, quod horret animus; at vincam tamen.</p>
-    <p>Tum nivea praebet colla @Rinald.= Percussa amputo.</p>
+    <p>Tum nivea praebet colla <hi rend="speaker">Rinald.</hi> Percussa amputo.</p>
     <p>Invitus, atque pavidus, &amp; ad ictum piget.</p>
     <p>Subitus receptâ morte prorumpit cruor,</p>
     <p>Capitéque vulso truncus in pronum ruit.</p>
-    <p><milestone unit="page" facs="940"/> @Lind.= Exscindo linguam gutturi: hanc jussit sibi</p>
+    <p><milestone unit="page" facs="940"/> <hi rend="speaker">Lind.</hi> Exscindo linguam gutturi: hanc jussit sibi</p>
     <p>Referre Golo, caedis exactae indicem.</p>
-    <p>@Sigref.= O Golo, Golo! ... tale quis vidit nefas ...</p>
+    <p><hi rend="speaker">Sigref.</hi> O Golo, Golo! ... tale quis vidit nefas ...</p>
     <p>Ego hoc patravi, Quos miser planctus dabo?</p>
     <p>Questúsque quos? quae verba sufficient mihi?</p>
   </div>
@@ -1380,13 +1380,13 @@
     <head>32. Personae. <hi rend="italic">Genovefa, &amp;
     Benoni Filius</hi>.</head>
     <p><hi rend="italic">Scena tota est Musica</hi>.</p>
-    <p><milestone unit="page" facs="945"/> @Genovef.== Komm Benoni, komm mein Kind/</p>
+    <p><milestone unit="page" facs="945"/> <hi rend="speaker">Genovef.</hi>= Komm Benoni, komm mein Kind/</p>
     <p>Und mir sage auff geschwind/</p>
     <p>Was du wissen must am meist.</p>
-    <p>@Benoni.= Wie viel Goͤtter seynd mein Sohn?</p>
+    <p><hi rend="speaker">Benoni.</hi> Wie viel Goͤtter seynd mein Sohn?</p>
     <p>Ein Gott ist/ und drey Persohn:</p>
     <p><milestone unit="page" facs="950"/> Vatter/ Sohn/ und heilger Geist.</p>
-    <p>@Genοv.= <hi rend="italic">Aria</hi> 1. Der Vatter
+    <p><hi rend="speaker">Genοv.</hi> <hi rend="italic">Aria</hi> 1. Der Vatter
     Gott/ und alles ist:</p>
     <p>Allein er ist von keinem.</p>
     <p>Der Sohn auch Gott/ und alles ist/</p>
@@ -1404,11 +1404,11 @@
     <p>Für uns ist er gestorben;</p>
     <p><milestone unit="page" facs="965"/> Hat wiedrumb uns des Vatters Gunst/</p>
     <p>Und Gnad des Geists erworben:</p>
-    <p>@Recitativè.=</p>
-    <p>Wo ist dann Gott? @Benon.= Ist überall.</p>
-    <p>@Genov.= Hast wohl geantwort: überall.</p>
-    <p>@Benon.= Wo ist das Mutter/ überall?</p>
-    <p><milestone unit="page" facs="970"/> @Genov.= Auff gantzer Erd und Himmels Saal.</p>
+    <p><hi rend="speaker">Recitativè.</hi></p>
+    <p>Wo ist dann Gott? <hi rend="speaker">Benon.</hi> Ist überall.</p>
+    <p><hi rend="speaker">Genov.</hi> Hast wohl geantwort: überall.</p>
+    <p><hi rend="speaker">Benon.</hi> Wo ist das Mutter/ überall?</p>
+    <p><milestone unit="page" facs="970"/> <hi rend="speaker">Genov.</hi> Auff gantzer Erd und Himmels Saal.</p>
     <p><hi rend="italic">Aria.</hi></p>
     <p>Ausser diesem Busch seynd Wälder</p>
     <p>Mehr/ und groͤsser: weite Felder:</p>
@@ -1421,9 +1421,9 @@
     <p>Im Elend/ oder Wollust-Schoss;</p>
     <p><milestone unit="page" facs="980"/> In der Armuth/ oder Pracht/</p>
     <p>In Betrangnuss oder Macht.</p>
-    <p>@Benon.= Warumb seynd wir dan hie allein/</p>
+    <p><hi rend="speaker">Benon.</hi> Warumb seynd wir dan hie allein/</p>
     <p>Und gehn nicht auch zu der Gemeind?</p>
-    <p>@Genov.= Benoni fragt mich bald zu viel.</p>
+    <p><hi rend="speaker">Genov.</hi> Benoni fragt mich bald zu viel.</p>
     <p><milestone unit="page" facs="985"/> Dass wir hie seynd/ ist Gottes Will.</p>
     <p>Er wird nach dieser kurzer Zeit/</p>
     <p>Nach diesem Elend/ Noth/ und Leyd/</p>
@@ -1456,7 +1456,7 @@
     <p>Bald wird dein Mutter bey dir seyn.</p>
     <p>Abit Benoni, &amp; Genovefa manet sola.</p>
     <p><hi rend="italic">Aria.</hi></p>
-    <p><milestone unit="page" facs="1015"/> @Genov.= Die Seel’ ist schon entflogen/</p>
+    <p><milestone unit="page" facs="1015"/> <hi rend="speaker">Genov.</hi> Die Seel’ ist schon entflogen/</p>
     <p>Die Kräfften nehmen ab.</p>
     <p>Die Sonn hat sich gebogen/</p>
     <p>Und geht mit mir zum Grab.</p>
@@ -1512,16 +1512,16 @@
     <p>Sigefridus venatur in silvâ, in quâ latet Genovefa.</p>
     <p>Personae. <hi rend="italic">Sigefridus, &amp;
     Venatores. Scena tota est Musica</hi>.</p>
-    <p>@Venator I.= Zu jagen alles ist bereit!</p>
+    <p><hi rend="speaker">Venator I.</hi> Zu jagen alles ist bereit!</p>
     <p>Die Päss seynd all wohl versehn/</p>
-    <p><milestone unit="page" facs="1065"/> @Venat. II.= Die Garn seynd all wohl aussgebreit:</p>
+    <p><milestone unit="page" facs="1065"/> <hi rend="speaker">Venat. II.</hi> Die Garn seynd all wohl aussgebreit:</p>
     <p>Nun last die Hund abgehn.</p>
     <p><hi rend="italic">Fit venatio</hi>.</p>
     <p>Post venationem.</p>
-    <p>@Sigref.= Hoͤrt auff/ es ist schon Abend=spath/</p>
+    <p><hi rend="speaker">Sigref.</hi> Hoͤrt auff/ es ist schon Abend=spath/</p>
     <p>Die Hunde rufft zu samen.</p>
     <p>Convocantur canes &amp;c. Teih, Teih, Teih &amp;c.</p>
-    <p><milestone unit="page" facs="1070"/> @Sigref.= Ein jeder was gefangen hatt/</p>
+    <p><milestone unit="page" facs="1070"/> <hi rend="speaker">Sigref.</hi> Ein jeder was gefangen hatt/</p>
     <p>Brings her/ und nents mit Nahmen.</p>
     <p>Doch alles soll sich reymen feyn/</p>
     <p>Ders beste reymt soll meister seyn. &amp;c. &amp;c.</p>
@@ -1534,71 +1534,71 @@
   <div type="level2" xml:id="personae.-sigefridus-genovefa-benoni-venatores-c.">
     <head>34. Personae. Sigefridus, Genovefa, Benoni, Venatores
     &amp;c.</head>
-    <p>@Venator I.= Ich gfangen hab ein Wunder=Thier/</p>
+    <p><hi rend="speaker">Venator I.</hi> Ich gfangen hab ein Wunder=Thier/</p>
     <p><milestone unit="page" facs="1075"/> Zu deinem Dienst ichs bringe dir.</p>
     <p><milestone unit="page" facs="37"/></p>
-    <p>@Genovef.== Sifride? @Sigref.= Woher kenstu mich?</p>
-    <p>@Genov.= Doch niemal hab erzürnet dich:</p>
+    <p><hi rend="speaker">Genovef.</hi>= Sifride? <hi rend="speaker">Sigref.</hi> Woher kenstu mich?</p>
+    <p><hi rend="speaker">Genov.</hi> Doch niemal hab erzürnet dich:</p>
     <p>Hab allzeit trew gehalten dir/</p>
     <p>Und halten werd/ das glaube mir.</p>
-    <p><milestone unit="page" facs="1080"/> @Sigref.= Wass seltzam Reden hoͤre ich:</p>
+    <p><milestone unit="page" facs="1080"/> <hi rend="speaker">Sigref.</hi> Wass seltzam Reden hoͤre ich:</p>
     <p>Doch niemal hab gesehen dich.</p>
-    <p>@Genov.= Mein Ehe=Herr! wan nach langer Frist</p>
+    <p><hi rend="speaker">Genov.</hi> Mein Ehe=Herr! wan nach langer Frist</p>
     <p>Dein Zorn noch nicht gestillet ist/</p>
     <p>Buss ihen noch: den Halss ich reich/</p>
     <p><milestone unit="page" facs="1085"/> Obschon unschuldig bin/ zum Streich.</p>
-    <p>@Sigref.= Wass hoͤr ich? Genovefa bist?</p>
+    <p><hi rend="speaker">Sigref.</hi> Wass hoͤr ich? Genovefa bist?</p>
     <p>Die gstorben ist vor langer Frist.</p>
-    <p>@Genov.= Kehr wieder/ Sigefride mein/<ptr target="#tn7" n="7"/></p>
+    <p><hi rend="speaker">Genov.</hi> Kehr wieder/ Sigefride mein/<ptr target="#tn7" n="7"/></p>
     <p>Es lebt noch Genovefa dein.</p>
     <p><hi rend="italic">Sigefridus ad Venatorem.</hi></p>
     <p><milestone unit="page" facs="1090"/> Hat Golo nicht befohlen dir/</p>
     <p>Wie du auch hast erzehlet mir/</p>
     <p>Dass Genovefan toͤdten solst/</p>
     <p>Wie auch geschehn in diesem Holtz.</p>
-    <p>@Venat.= Mein Herr/ ich hab verschoͤnet ihr/</p>
+    <p><hi rend="speaker">Venat.</hi> Mein Herr/ ich hab verschoͤnet ihr/</p>
     <p><milestone unit="page" facs="1095"/> Und dass nit soltest zürnen mir/</p>
     <p>Weil dein Befehl zu toͤdten war/</p>
     <p>Hab ichs verschwiegen all die Jahr.</p>
-    <p>@Genov. ad eundem Venatorem.=</p>
+    <p><hi rend="speaker">Genov. ad eundem Venatorem.</hi></p>
     <p><milestone unit="page" facs="1100"/> Du hast geschenckt das Leben mir/</p>
     <p>Drumb lieben dich werd eben</p>
     <p>Als mich: werd allzeit dienen dir/</p>
     <p>So lang auff Erd werd leben.</p>
-    <p>@Sigref.= Genovefa! Frewd und Schmertz</p>
+    <p><hi rend="speaker">Sigref.</hi> Genovefa! Frewd und Schmertz</p>
     <p><milestone unit="page" facs="1105"/> Uberschwemmen mir das Hertz.</p>
     <p>Genovefa! solst du’s seyn/</p>
     <p>Oder ists der Schatten dein.</p>
-    <p>@Genov.= Sigefride! glaubs mir frey’/</p>
+    <p><hi rend="speaker">Genov.</hi> Sigefride! glaubs mir frey’/</p>
     <p>Dass ich Genovefa sey.</p>
-    <p><milestone unit="page" facs="1110"/> @Sigref.= O! wass für ein Tyrann bin ich!</p>
+    <p><milestone unit="page" facs="1110"/> <hi rend="speaker">Sigref.</hi> O! wass für ein Tyrann bin ich!</p>
     <p>Wie gottlos habe gehausset!</p>
     <p>Befohlen hab zu toͤdten dich/</p>
     <p>Wan dran gedenck, mich grauset.</p>
     <p><milestone unit="page" facs="38"/></p>
-    <p>Ein Moͤrder bin. @Genov.= Schlags auss dem Sinn.</p>
-    <p><milestone unit="page" facs="1115"/> @Sigref.= Mein eygnes Bluth/ und Leben:</p>
+    <p>Ein Moͤrder bin. <hi rend="speaker">Genov.</hi> Schlags auss dem Sinn.</p>
+    <p><milestone unit="page" facs="1115"/> <hi rend="speaker">Sigref.</hi> Mein eygnes Bluth/ und Leben:</p>
     <p>Die Liebste mein/ trew, keusch/ und rein/</p>
     <p>Dem Todt hab übergeben.</p>
-    <p>@Genov.= Doch lebe ich: was kränckest dich?</p>
-    <p>@Sigref.= Für Leidt ich muss erstummen ...</p>
+    <p><hi rend="speaker">Genov.</hi> Doch lebe ich: was kränckest dich?</p>
+    <p><hi rend="speaker">Sigref.</hi> Für Leidt ich muss erstummen ...</p>
     <p><milestone unit="page" facs="1120"/> Bin freylich werth/ mich Fewr/ und Schwerdt</p>
     <p>Reib auff in gleicher Summen.</p>
     <p>Fall auff die Erd: nimb du diss Schwert ...<ptr target="#tn8" n="8"/></p>
     <p>Das Haupt zum Schlag thu neigen ...</p>
-    <p>@Genov.= Das seye ferr: steh auff mein Herr.<ptr target="#tn9" n="9"/></p>
-    <p><milestone unit="page" facs="1125"/> @Sigref.= Die That nicht kan verschweigen.</p>
-    <p>@Genov.= Unschuldig bist; Golonis List</p>
+    <p><hi rend="speaker">Genov.</hi> Das seye ferr: steh auff mein Herr.<ptr target="#tn9" n="9"/></p>
+    <p><milestone unit="page" facs="1125"/> <hi rend="speaker">Sigref.</hi> Die That nicht kan verschweigen.</p>
+    <p><hi rend="speaker">Genov.</hi> Unschuldig bist; Golonis List</p>
     <p>Das Laster hat begangen.</p>
-    <p>@Sigref.= Er hat auch schon der Schandthat Lohn/</p>
+    <p><hi rend="speaker">Sigref.</hi> Er hat auch schon der Schandthat Lohn/</p>
     <p>Wie er verdient/ empfangen.</p>
     <p><milestone unit="page" facs="1130"/> Diss bit ich nu/ dass lassest zu/</p>
     <p>Weil mir versags die Füsse;</p>
     <p>Das küss’ dein Handt/ zur Liebes Pfandt/</p>
-    <p>@Genov.= Gib/ dass auch deine küsse ...<ptr target="#tn10" n="10"/></p>
-    <p>@Sigref.= O schoͤne Zeit! hin ist das Leidt/</p>
+    <p><hi rend="speaker">Genov.</hi> Gib/ dass auch deine küsse ...<ptr target="#tn10" n="10"/></p>
+    <p><hi rend="speaker">Sigref.</hi> O schoͤne Zeit! hin ist das Leidt/</p>
     <p><milestone unit="page" facs="1135"/> Mein Hertz für Frewd thut springen.</p>
-    <p>@Simul.= Nun lass uns beyd/ in Froͤlichkeit</p>
+    <p><hi rend="speaker">Simul.</hi> Nun lass uns beyd/ in Froͤlichkeit</p>
     <p>Mit Stimm/ und Mund erklingen.</p>
     <p><hi rend="italic">Aria.</hi></p>
     <p>1. Der Winter ist fürbey/</p>
@@ -1614,26 +1614,26 @@
     <p><milestone unit="page" facs="39"/></p>
     <p>Gott/ so droben/ last uns loben</p>
     <p>Jederzeit mit Hertz und Mund.</p>
-    <p><milestone unit="page" facs="1145"/> @Sigefridus, Solus.= Die Frewde unermessen/</p>
+    <p><milestone unit="page" facs="1145"/> <hi rend="speaker">Sigefridus, Solus.</hi> Die Frewde unermessen/</p>
     <p>So überschütt mein Sinn/</p>
     <p>Hett mich schier thun vergessen</p>
     <p>Wo’s Kind sey kommen hin.</p>
-    <p>@Genov.= Er lebet noch frisch/ und gesund.</p>
-    <p><milestone unit="page" facs="1150"/> @Sigref.= O newe Frewd! O froͤlich Stundt.</p>
-    <p>@Genov.= Benoni! <hi rend="italic">Ben</hi>. Mutter!
-    @Genov.= Komm geschwindt.<ptr target="#tn12" n="12"/></p>
-    <p>@Sigref.= Er foͤrcht mich billig. @Genov.= Komm mein Kindt.</p>
+    <p><hi rend="speaker">Genov.</hi> Er lebet noch frisch/ und gesund.</p>
+    <p><milestone unit="page" facs="1150"/> <hi rend="speaker">Sigref.</hi> O newe Frewd! O froͤlich Stundt.</p>
+    <p><hi rend="speaker">Genov.</hi> Benoni! <hi rend="italic">Ben</hi>. Mutter!
+    <hi rend="speaker">Genov.</hi> Komm geschwindt.<ptr target="#tn12" n="12"/></p>
+    <p><hi rend="speaker">Sigref.</hi> Er foͤrcht mich billig. <hi rend="speaker">Genov.</hi> Komm mein Kindt.</p>
     <p>Kein Leuth er jemal hat gesehn/</p>
     <p>Drumb foͤrchtet er ... mein Sohn bleib stehn:</p>
     <p><milestone unit="page" facs="1155"/> Und diesen Leuthen sage frey/</p>
     <p>Wer seys/ und wer dein Vatter sey.</p>
-    <p>@Benoni.= Ich bin von Adel guth/</p>
+    <p><hi rend="speaker">Benoni.</hi> Ich bin von Adel guth/</p>
     <p>Von Stammen/ und von Bluth</p>
     <p>Eh= und ehrlich bin gebohren/</p>
     <p><milestone unit="page" facs="1160"/> Von den Eltren ausserkohren:</p>
     <p>Graff Sigfrid mein Vatter ist/</p>
     <p>Und du meine Mutter bist.</p>
-    <p>@Sigref.= Diss ist mein Sohn/ ich seh’ es schon/</p>
+    <p><hi rend="speaker">Sigref.</hi> Diss ist mein Sohn/ ich seh’ es schon/</p>
     <p>Des Gsichts und Leibs Figuren/</p>
     <p><milestone unit="page" facs="1165"/> Die Glieder zart/ der schoͤner Art</p>
     <p>Von keinem Koch herrühren.</p>
@@ -1641,8 +1641,8 @@
     <p>O newe Lust des Hertzen!</p>
     <p>Vermehrst die Frewd/ bringst Froͤlichkeit/</p>
     <p><milestone unit="page" facs="1170"/> Vertreibest allen Schmertzen.</p>
-    <p>@Sigref.= &amp; @Genov.= @Epilogus.=</p>
-    <p>@Simul.= Nun kommet/ all zusahmen/</p>
+    <p><hi rend="speaker">Sigref.</hi> &amp; <hi rend="speaker">Genov.</hi> <hi rend="speaker">Epilogus.</hi></p>
+    <p><hi rend="speaker">Simul.</hi> Nun kommet/ all zusahmen/</p>
     <p>Wie heischet auch mit Nahmen:</p>
     <p>So wohnt in diesem Wald.</p>
     <p><milestone unit="page" facs="1175"/> Hiehin kompt also bald.</p>
@@ -1651,7 +1651,7 @@
     <p>Mit Hertzen/ und mit Mundt</p>
     <p>Jetzt und zu jeder Stundt.</p>
     <p><milestone unit="page" facs="40"/></p>
-    <p><milestone unit="page" facs="1180"/> @Omnes.= Ehrschänderey zu Boden ligt</p>
+    <p><milestone unit="page" facs="1180"/> <hi rend="speaker">Omnes.</hi> Ehrschänderey zu Boden ligt</p>
     <p>Victoriam last singen:</p>
     <p>Die Unschuld nun hat obgesigt</p>
     <p>Triumphe Last erklingen.</p>

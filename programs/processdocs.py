@@ -368,6 +368,8 @@ FIX_ITALIC_RE = re.compile(
 
 SPLIT_PARA_RE = re.compile(r"(?<=[^\n\\])\n(?=[^\n])")
 
+SPEAKER_RE = re.compile(r"@([^=]+)=", re.M)
+
 
 class TeiFromDocx:
     def __init__(self, silent=False, test=False):
@@ -669,15 +671,19 @@ class TeiFromDocx:
 
             if len(parts) == 1:
                 self.warn(drama=dramaName, heading=f"No {kind}")
-                pre = ""
-                rest = parts[0]
+                if i == 0:
+                    pre = ""
+                    rest = parts[0]
+                else:
+                    pre = parts[0]
+                    rest = ""
             else:
                 pre, rest = parts
 
             if i > 0:
                 textParts[kinds[i - 1]] = pre
 
-        textParts[kinds[-1]] = parts[1]
+        textParts[kinds[-1]] = rest
 
         front = textParts["/front/"]
         main = textParts["/main/"]
@@ -737,6 +743,7 @@ class TeiFromDocx:
             line = LNUM_RE.sub(r"(\1)", line)
             line = PNUM_RE.sub(pNumRepl, line)
             line = FNUM_RE.sub(r"""<milestone unit="folio" facs="\1"/>""", line)
+            line = SPEAKER_RE.sub(r"""<hi rend="speaker">\1</hi>""", line)
 
             newTextLines.append(line)
 
@@ -811,7 +818,7 @@ class TeiFromDocx:
         initTree(mdOrigDir, fresh=False)
         initTree(mdFinalDir, fresh=False)
         initTree(teiXDir, fresh=False)
-        initTree(teiDir, fresh=True, gentle=True)
+        initTree(teiDir, fresh=False)
 
         lines = readYaml(asFile=reportLinesRaw, plain=True)
         lineNumbers = readYaml(asFile=reportLinenumbersRaw, plain=True)

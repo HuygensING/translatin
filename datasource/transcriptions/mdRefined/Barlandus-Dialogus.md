@@ -13,29 +13,29 @@ restitutae salutatis MDXXIIII.
 
 Henricus & Iodocus.
 
-HEN. Saluus sis o noster Iodoce.
+\@Hen.= Saluus sis o noster Iodoce.
 
-IO. Et tu salueto Henrice.
+\@Io.= Et tu salueto Henrice.
 
-HE. Quid rerum nunc agitur Louanij?
+\@He.= Quid rerum nunc agitur Louanij?
 
-IO. Quid ageretur, passim nunc mortales, aut ad pocula, & spumantes
+\@Io.= Quid ageretur, passim nunc mortales, aut ad pocula, & spumantes
 desident pateras, aut alea lusitant, aut ad numerum choreas ductitant.
 
-HE. Istaec insania est quam cum bonis omnibus, tum maxime Christiano
+\@He.= Istaec insania est quam cum bonis omnibus, tum maxime Christiano
 uiro indignam iudico. Magis mihi probatur ueterum consuetudo Romanorum,
 qui festis huiusmodi Comoedias potius insignium poetarum exhibebant, ut
 a noxijs istiusmodi comessationibus auocatos iuueniles animos cum quadam
 iucunditate ad literarum & eloquentissi studium excitarent, accenderent,
 inflammarent.
 
-IO. Si tibi tantopere laudatur hoc factum Romani populi, quid tandem ad
-illud Lactantij respondes? In scaenis nescio an sit corruptela
+\@Io.= Si tibi tantopere laudatur hoc factum Romani populi, quid tandem
+ad illud Lactantij respondes? In scaenis nescio an sit corruptela
 uitiosior. Nam Comicae fabulae de stupris uirginum loquuntur, & amoribus
 meretricum, & quo magis sunt eloquentes, qui flagitia illa finxerunt, eo
 magis sententiarum elegantia persuadent.
 
-HE. Istuc dicere Lactantium saepe miratus sum, & nunc item miror. Est
+\@He.= Istuc dicere Lactantium saepe miratus sum, & nunc item miror. Est
 enim Comoedia nihil aliud quam humanae simulacrum uitae, & quae illic de
 stupris uirginum & amoribus meretricum dicuntur, sic dicuntur, ut
 reprehendantur, non ut probentur. Illud enim patris Demeae in Fratribus:
@@ -48,23 +48,23 @@ ueriti Areopagitas ac religiosulos quosdam, qui sanctimoniam omnem in
 uestitu ac supercilijs sedere existimant huic illustrium ac
 doctissimorum coetui uirorum exhibebimus Terentij Ecyram.
 
-IO. Elegantem profecto Comoediam, ac plane moralem, quamque mihi ac meis
-aequalibus hoc anno praeceptor enarrauit. Quo magis gaudeo, te nunc mihi
-datum esse obuium, unde hoc resciscerem.
+\@Io.= Elegantem profecto Comoediam, ac plane moralem, quamque mihi ac
+meis aequalibus hoc anno praeceptor enarrauit. Quo magis gaudeo, te nunc
+mihi datum esse obuium, unde hoc resciscerem.
 
-HE. Quaere igitur aliquem in turba locum unde spectes. Nos enim
+\@He.= Quaere igitur aliquem in turba locum unde spectes. Nos enim
 accingimur.
 
 Dialogus recitatus post actam fabulam.
 
 Henricus & Iodocus.
 
-HEN. Non dici potest mi Iodoce, quam delectarit, quanta uoluptate
+\@Hen.= Non dici potest mi Iodoce, quam delectarit, quanta uoluptate
 remorata sit animum meum haec actio. Nulla uoluptas, nulae funt
 delitiae, quas cum hisce ludis conferre uelim, dic rogo quis instituit
 hanc iuuentutem?
 
-IO. Non unius, sed plurium hic labor est, plures sunt autores, duces,
+\@Io.= Non unius, sed plurium hic labor est, plures sunt autores, duces,
 praefecti. Collectiuus grex est.
 
 (Étienne Daxhelet, *Adrien Barlandus humaniste Belge 1486-1638: Sa Vie,

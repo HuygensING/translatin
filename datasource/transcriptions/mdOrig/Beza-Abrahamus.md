@@ -390,7 +390,7 @@ Sed quid? maritus unde tam subito venit
 
 Abesse longe quando rebar hunc foris?
 
-ABRAHAMUS.
+[\@Abrahamvs.=]{.smallcaps}
 
 Sic ô fidelis, o mei socia thori.
 
@@ -406,7 +406,7 @@ Vtrique praestat gratiam suam Deus
 
 Vterque dicat gratias simul Deo.
 
-Sara. Marite mi, quem nomino Dominum lubent
+[\@Sara.=]{.smallcaps} Marite mi, quem nomino Dominum lubent
 
 Quod poscis aequum est, pareo volens tibi.
 
@@ -420,7 +420,7 @@ Videre rebus, robur & scientiam.
 
 Sic est adusque vivat extremam licet
 
-Abrah. Homo senectam, non tamen dignè satis
+[\@Abrah.=]{.smallcaps} Homo senectam, non tamen dignè satis
 
 Diuque magni dixerit laudes Dei:
 
@@ -434,7 +434,7 @@ TRAGOEDIA SACRA. 13
 
 Vt pro virili praedicet nomen Dei.
 
-Canticum. Sit parens rerum mihi carmen, illi
+@[Canticum]{.smallcaps}.= Sit parens rerum mihi carmen, illi
 
 Mens Deo laudes age dic decentes
 
@@ -558,7 +558,7 @@ Conteret hostes.
 
 TRAGOEDIA SACRA. 15
 
-ABRAHAM.
+[\@Abraham.=]{.smallcaps}
 
 NVnc fida nostri Sara particeps thori
 
@@ -600,7 +600,7 @@ Licet faventis sit puer quis indolis,
 
 Bono haud lare enutritus & domo perit.
 
-Sara. Tecum marite sentio. Quod me simul
+[\@Sara.=]{.smallcaps} Tecum marite sentio. Quod me simul
 
 Mones mearum partiumque, & muneris
 
@@ -624,7 +624,7 @@ Aucturum, ut omne devium vitans, viam
 
 Virtutis almae, quae petit calum, terat.
 
-SATHANAS CUCULLATUS.
+[\@Sathanas cucullatus.=]{.smallcaps}
 
 STygia palude Tartarique faucibus
 
@@ -944,7 +944,7 @@ Ponatis ullum, gloriae aut finem Dei.
 
 Indesinenter praedicetis hunc decet, Indesinenter qui bonis me tot beat.
 
-ANGELUS.
+[\@Angelus.=]{.smallcaps}
 
 Abrame, adesdum Abrame, te Deus vocat.
 
@@ -954,7 +954,7 @@ Nosco decoris signaque & vocis tuae:
 
 En me obsequentem jußibus promptum tuis.
 
-Angel. Abrame, proles ista, proles unica
+[\@Angel.=]{.smallcaps} Abrame, proles ista, proles unica
 
 Amat a proles, nulla quantum amabitur,
 
@@ -972,7 +972,7 @@ Mox immolatum, quantus ipse, quantus est
 
 Totum in favillas fac resolvas protinus.
 
-ABRAH.
+[\@Abrah.=]{.smallcaps}
 
 Gnatum in favillas, filium in cineres meum?
 
@@ -1036,7 +1036,7 @@ Metu & labore: Tutiores nam simul
 
 Pascemus & minore cum molestiâ.
 
-ISAACUS.
+[\@Isaacus.=]{.smallcaps}
 
 Heus, quo repentè me relicto tenditis
 
@@ -1046,7 +1046,7 @@ Mox vestro, amici, coetui fiam comes.
 
 Isace rectè feceris si manseris,
 
-Past. Maneto Isace, cura matris anxia.
+[\@Past.=]{.smallcaps} Maneto Isace, cura matris anxia.
 
 Ni fors, parentum (tale cum resciverim
 
@@ -1078,7 +1078,7 @@ Invadere solent quidquid obviam venit,
 
 Nobis timoris saepè causa non levis.
 
-Isac. Non hoc volebam patris ut ingratiis,
+[\@Isac.=]{.smallcaps} Non hoc volebam patris ut ingratiis,
 
 Aut non rogatâ matre cederem domo.
 
@@ -1086,7 +1086,7 @@ Procul hoc. Egone cogitem tantum nefas?
 
 Nolite de me suspicari hoc ô Boni.
 
-Past. Rectè hoc Isace. Nempe quod facis decet
+[\@Past.=]{.smallcaps} Rectè hoc Isace. Nempe quod facis decet
 
 Pium, modestum, talis & gnatum patris,
 
@@ -1096,7 +1096,7 @@ Conere, quidquid hoc negotii siet,
 
 Quin ista semper mens tibi sit in posterum.
 
-Isac. Ego ut parentum sim rebellis jußibus?
+[\@Isac.=]{.smallcaps} Ego ut parentum sim rebellis jußibus?
 
 Parere mortis malo cum periculo,
 
@@ -1112,7 +1112,7 @@ Propero parentis sciscitaturus mei
 
 Quae sit voluntas: si placet moramini.
 
-Past. Agedum, geremus hic tibi morem puer.
+[\@Past.=]{.smallcaps} Agedum, geremus hic tibi morem puer.
 
 CHORUS EX PASTORIBUS.
 
@@ -1240,7 +1240,7 @@ Sortem, dirempti de prophanis
 
 Nos populis meliore fato.
 
-ISAACUS.
+[\@Isaacus.=]{.smallcaps}
 
 Salvete amici, num citatus advolo?
 
@@ -1262,7 +1262,7 @@ Veniam? sed ecce prodit ipsemet foras.
 
 ABRAH. SARA. ISAC. PAST.
 
-Abrah. Vtcunque res sit hoc decet conjunx tamen
+[\@Abrah.=]{.smallcaps} Vtcunque res sit hoc decet conjunx tamen
 
 Vt pareamus: nempe sic mandat Deus.
 
@@ -1276,15 +1276,15 @@ Quam negligentes horreamus judicem:
 
 Parere nostrum est, imperare est illius.
 
-Sara. Magis magisque mi marite haec cogitans
+[\@Sara.=]{.smallcaps} Magis magisque mi marite haec cogitans
 
 Magis obstupesco: quid an indecens putas
 
 Haec res acerba si meae menti fiet?
 
-Abrah. Adversa mentis robur & vires probant.
+[\@Abrah.=]{.smallcaps} Adversa mentis robur & vires probant.
 
-Sara. Sic est marite: dicitur hoc verè quidem,
+[\@Sara.=]{.smallcaps} Sic est marite: dicitur hoc verè quidem,
 
 Sed quid? quid istud, quod sibi poscit Deus?
 
@@ -1300,13 +1300,13 @@ Itane tota orbare nos fiducia
 
 Deumque nostrae tollere fulcimen spei?
 
-Abrah. Aisne Sara? Quo Deum loco aestimas?
+[\@Abrah.=]{.smallcaps} Aisne Sara? Quo Deum loco aestimas?
 
 Non istud inquam, sed sinas me dicere.
 
-Sara. Quid tu? Deusne ut sit sibi centrarius?
+[\@Sara.=]{.smallcaps} Quid tu? Deusne ut sit sibi centrarius?
 
-Abrah. Mitte ista, mitte obsecro conjunx mea.
+[\@Abrah.=]{.smallcaps} Mitte ista, mitte obsecro conjunx mea.
 
 Quin tu reposto quo timore adstigetis,
 
@@ -1316,19 +1316,19 @@ Secura fide: fide, nam tuis Deus
 
 Reddet valentem filium complexibus.
 
-Sara. Metuo: quid, an non hunc periculo objicit.
+[\@Sara.=]{.smallcaps} Metuo: quid, an non hunc periculo objicit.
 
-Abrah. Ecquod periclum, quem Deus servat, manet?
+[\@Abrah.=]{.smallcaps} Ecquod periclum, quem Deus servat, manet?
 
-Sara. Metuo marite (ut semper est metus comes
+[\@Sara.=]{.smallcaps} Metuo marite (ut semper est metus comes
 
 Amoris) hoc aut istud infortunium.
 
-Abrah. At suspicari nil ego mali queo.
+[\@Abrah.=]{.smallcaps} At suspicari nil ego mali queo.
 
-Sara. Mirum quis hujus consili eventus siet.
+[\@Sara.=]{.smallcaps} Mirum quis hujus consili eventus siet.
 
-Abrah. Quisnam iste, seu quis non erit author est Deus:
+[\@Abrah.=]{.smallcaps} Quisnam iste, seu quis non erit author est Deus:
 
 Ne curiosa quaere causas jussuum
 
@@ -1338,35 +1338,35 @@ Mysteriorum nam supremi numinis
 
 Scrutator audax concidit sub gloriâ.
 
-Sara. Saltem hoc marite, quis sit indica locus
+[\@Sara.=]{.smallcaps} Saltem hoc marite, quis sit indica locus
 
-Quo mandat ire? ABRAH. Cum Deo placet sciam.
+Quo mandat ire? [\@Abrah.=]{.smallcaps} Cum Deo placet sciam.
 
-Sara. Heu me, quid usque sic delibero anxia,
+[\@Sara.=]{.smallcaps} Heu me, quid usque sic delibero anxia,
 
 Iam jam resolvo, non abibit filius
 
-Abrah. Maternus iste adfectus est: at caetera
+[\@Abrah.=]{.smallcaps} Maternus iste adfectus est: at caetera
 
 Scio providebit optimus noster Deus.
 
-Sara. Periculosa, quâ paras iter via est.
+[\@Sara.=]{.smallcaps} Periculosa, quâ paras iter via est.
 
-Abrah. Perit benè is, quisquis perit, Deum sequens.
+[\@Abrah.=]{.smallcaps} Perit benè is, quisquis perit, Deum sequens.
 
-Sara. Sin iste (sed hoc absit omen) sin tamen
+[\@Sara.=]{.smallcaps} Sin iste (sed hoc absit omen) sin tamen
 
 Morte occupetur, alterum funus vide.
 
 Post fata gnati lumen hoc ultra haud fero.
 
-Abrah. Cujusque vitae terminum fixit Deus.
+[\@Abrah.=]{.smallcaps} Cujusque vitae terminum fixit Deus.
 
-Sara. Hic hic marite si immolanda est hostia,
+[\@Sara.=]{.smallcaps} Hic hic marite si immolanda est hostia,
 
 Hic grata certè non minus cadet Deo.
 
-Abrah. Sic tu arbitrare, sed Deo secus placet.
+[\@Abrah.=]{.smallcaps} Sic tu arbitrare, sed Deo secus placet.
 
 Iam, jam marite vincor, haec neceßitas
 
@@ -1384,7 +1384,7 @@ Valeto fili ISA. Mater o, vale mea.
 
 At hoc Isace tu simul dictum tene.
 
-Sara. Caveto aberres a patris viâ tui.
+[\@Sara.=]{.smallcaps} Caveto aberres a patris viâ tui.
 
 At alacris ejus fac premas vestigia,
 
@@ -1404,17 +1404,17 @@ Stringende adesdum: mitte, tibi haec oscula
 
 Extrema si fors, mitte figam haec oscula.
 
-Isac. Amata mater, nulla quantum amabitur
+[\@Isac.=]{.smallcaps} Amata mater, nulla quantum amabitur
 
 Si cura tangat ulla te gnati tui
 
 Rem non molestam fas sit a te ut impetrem.
 
-Sara. Dic nate, quid materna, vis donet tibi
+[\@Sara.=]{.smallcaps} Dic nate, quid materna, vis donet tibi
 
 Aut nostra qua te parte charitas juvet?
 
-Isac. Nil Mater aeque te rogo, quam quod velis
+[\@Isac.=]{.smallcaps} Nil Mater aeque te rogo, quam quod velis
 
 Fracta ista verba, crebra tot suspiria
 
@@ -1432,7 +1432,7 @@ Animula mater mille lachrymis madet?
 
 Videte vestrum quisque quid sit hic rei
 
-Abrah. Famuli, videte sarcinas, & hos utres
+[\@Abrah.=]{.smallcaps} Famuli, videte sarcinas, & hos utres
 
 Et vasa nostris apparata haec usibus,
 
@@ -1446,7 +1446,7 @@ Rectè ordinata sint oportet omnia,
 
 Nam sex dierum hoc imminet nobis iter.
 
-Past. Quid hoc negoti? te quid hac molestiâ
+[\@Past.=]{.smallcaps} Quid hoc negoti? te quid hac molestiâ
 
 Curaque torques? omne quin nobis here
 
@@ -1454,7 +1454,7 @@ Permitte, quidquid hic negotii siet,
 
 Tuum jubere, munus est, nostrum ex sequi.
 
-Abrah. Nunc fida nostri Sara particeps thori
+[\@Abrah.=]{.smallcaps} Nunc fida nostri Sara particeps thori
 
 Vides paratos, filiumque & me viae
 
@@ -1484,7 +1484,7 @@ Strictura laetos laeta vos amplexibus?
 
 Ite & secundo mox redite numine.
 
-Mater valebis, Abra. Iam vale Conjunx. Past. vale.
+Mater valebis, [\@Abra.=]{.smallcaps} Iam vale Conjunx. [\@Past.=]{.smallcaps} vale.
 
 Hâc, hâc eundum est, huc vocat nos semita.
 
@@ -1616,13 +1616,13 @@ Tu fili Isace (nam Deus praesentiam
 
 Tuam requirit) sis patri viae comes.
 
-Past. Domine lubentes quando sic authoritas
+[\@Past.=]{.smallcaps} Domine lubentes quando sic authoritas
 
 Poscit vetantis, hoc manebimus loco,
 
 Donec reverso gratulabimur tibi.
 
-Abrah. Benè est: quod instat, hâc vos filium strue
+[\@Abrah.=]{.smallcaps} Benè est: quod instat, hâc vos filium strue
 
 Onerate quam videtis isthic, ligneâ:
 
@@ -1640,17 +1640,17 @@ Deus, secundum rebus eventum meis.
 
 Heû me, molestus quam dolor me lancinat:
 
-Past. Curabit omne hoc nostra diligentia.
+[\@Past.=]{.smallcaps} Curabit omne hoc nostra diligentia.
 
-Abrah. Adeone tantis aestibus, mortalium
+[\@Abrah.=]{.smallcaps} Adeone tantis aestibus, mortalium
 
 Quemquam fatigat saera curarum cobors?
 
-Famuli valete. Past. Sit tibi felix here
+Famuli valete. [\@Past.=]{.smallcaps} Sit tibi felix here
 
 Iter, secunda det Deus tibi omnia.
 
-Past. Quid hoc sodales? rem novam stupeo viri.
+[\@Past.=]{.smallcaps} Quid hoc sodales? rem novam stupeo viri.
 
 Alius. Et me repentè invadit admirat io.
 
@@ -1892,7 +1892,7 @@ ACTVS TERTIVS.
 
 ISACUS. ABRAHAMUS.
 
-Isac. PAter. Abrah. Vt istud convenit nomen mihi?
+[\@Isac.=]{.smallcaps} PAter. [\@Abrah.=]{.smallcaps} Vt istud convenit nomen mihi?
 
 \<Isac.\>Viden parata mi Pater sint omnia?
 
@@ -1908,7 +1908,7 @@ Sed totius quod est ferè caput rei,
 
 Mactanda quae sit non videtur hostia.
 
-Abrah. Securus esto gnate mi, Deique rem
+[\@Abrah.=]{.smallcaps} Securus esto gnate mi, Deique rem
 
 Remitte totam solim ad arbitrium.
 
@@ -1920,7 +1920,7 @@ Hic tu morare, dum reversum mevides.
 
 Facio imperata mi pater lubens tua.
 
-Isac. Verum hoc Isacum quaeso ne celes tuum
+[\@Isac.=]{.smallcaps} Verum hoc Isacum quaeso ne celes tuum
 
 Vnde ista crebra mi pater suspiria:
 
@@ -1928,11 +1928,11 @@ Variusque vultum saepe qui mutat color?
 
 Te qui molestat, & molestat me dolor.
 
-Abrah. Post ista gnate cum revertar quaerito,
+[\@Abrah.=]{.smallcaps} Post ista gnate cum revertar quaerito,
 
 Hoc vota praesens tempus & poscit preces.
 
-Isac. Si sic videtur, pareo tibi pater.
+[\@Isac.=]{.smallcaps} Si sic videtur, pareo tibi pater.
 
 Simulque praesens usus hic quae postulat
 
@@ -2050,9 +2050,9 @@ Solus mederi vulneri facto potes,
 
 Sin imperatis quid remittas de tuis.
 
-Sath. Sic, sic volebam, perge saltem sic loqui.
+[\@Sath.=]{.smallcaps} Sic, sic volebam, perge saltem sic loqui.
 
-Abrah. An suspicari quisquis de Deo hoc queat
+[\@Abrah.=]{.smallcaps} An suspicari quisquis de Deo hoc queat
 
 Vt dicta quondam, dicta ceu nunquam forent
 
@@ -2082,11 +2082,11 @@ En me obsequentem jußibus tuis Deus,
 
 En macto gnatum quando sic visum tibi.
 
-Sath. In pejus ecce res ruunt rursum meae,
+[\@Sath.=]{.smallcaps} In pejus ecce res ruunt rursum meae,
 
 Novam Cuculle quin movemus machinam.
 
-Abrah. Sed quid, aestuo percitus forsan malo
+[\@Abrah.=]{.smallcaps} Sed quid, aestuo percitus forsan malo
 
 Insanientis verba mentis aemula
 
@@ -2110,9 +2110,9 @@ Ego innocentis, unici, manus pater
 
 Cruore tingam filit? absit hoc nefas.
 
-Sath. Hoc Abrahame si facis, scelus facis.
+[\@Sath.=]{.smallcaps} Hoc Abrahame si facis, scelus facis.
 
-Abrah. Heu me! quid? unde? quo feror? vel quid loquor?
+[\@Abrah.=]{.smallcaps} Heu me! quid? unde? quo feror? vel quid loquor?
 
 Deus, creator mi, redemptor mi, Deus
 
@@ -2134,9 +2134,9 @@ Vltroque natum, & quidquid est rerum domi,
 
 Si sic videtur, qualbet da funeia
 
-Sath. At nostra partes arma defendent meas.
+[\@Sath.=]{.smallcaps} At nostra partes arma defendent meas.
 
-Abrah. Sed hoc cavendum censeo, ne fors Dei
+[\@Abrah.=]{.smallcaps} Sed hoc cavendum censeo, ne fors Dei
 
 Periclitetur veritas; quae non seio
 
@@ -2264,9 +2264,9 @@ Vulnus quod isti fertur, infertur mihi.
 
 Miserere quaeso mi Deus, fac gratiam.
 
-Sath. Tibi nec illam, nec mihi opto gratiam.
+[\@Sath.=]{.smallcaps} Tibi nec illam, nec mihi opto gratiam.
 
-Abrah. At dura mortis si neceßitas manet
+[\@Abrah.=]{.smallcaps} At dura mortis si neceßitas manet
 
 Vllâque flecti nescius Deus prece,
 
@@ -2338,9 +2338,9 @@ Animaque temet pariter & scelere exue:
 
 Amara non est quae citò mors occupat.
 
-Sath. Iacet, nisi illum sublevet rursum Deus.
+[\@Sath.=]{.smallcaps} Iacet, nisi illum sublevet rursum Deus.
 
-Abrah. Heu me! furentem quo me turba affectum
+[\@Abrah.=]{.smallcaps} Heu me! furentem quo me turba affectum
 
 Aufert? egone ut inferam mihi manus,
 
@@ -2422,7 +2422,7 @@ Sathan, caroque, cedito mundus procul,
 
 Nobis hoc unum, quod Deo placet, placet.
 
-Sath. Certè ista verba pondus in se continent
+[\@Sath.=]{.smallcaps} Certè ista verba pondus in se continent
 
 Sin pergat ultra filius certò perit.
 
@@ -2436,7 +2436,7 @@ Quin fortiore pergo pugnans machina.
 
 ABRAHAMUS, ISACUS, SATHANAS. ANGELUS.
 
-Abrah. At ecce gnatum, qui sit obviam mihi,
+[\@Abrah.=]{.smallcaps} At ecce gnatum, qui sit obviam mihi,
 
 Insons, nefandique omnis expers criminis,
 
@@ -2472,9 +2472,9 @@ At nunc necesse cum sit hunc ut alloquar
 
 Quae verba, quaenam prima sumam exordia?
 
-Adesne fili? Isac. Quid meo placet patri?
+Adesne fili? [\@Isac.=]{.smallcaps} Quid meo placet patri?
 
-Abrah. Patri? profecto lancinor telo miser.
+[\@Abrah.=]{.smallcaps} Patri? profecto lancinor telo miser.
 
 Non sentit auris verba, sed cor spicula.
 
@@ -2486,19 +2486,19 @@ Isace fili: Proh miser, jam non queo
 
 Vltra dolorem continere absconditum.
 
-Isac. Quid hoc? repente quod parentem corripit?
+[\@Isac.=]{.smallcaps} Quid hoc? repente quod parentem corripit?
 
-Abrah. Totus tremisco nate mi, formidine
+[\@Abrah.=]{.smallcaps} Totus tremisco nate mi, formidine
 
 Gelidum coire sentio mi sanguinem,
 
-Miserere nostri mi Deus. Isac. Quid est pater?
+Miserere nostri mi Deus. [\@Isac.=]{.smallcaps} Quid est pater?
 
-Abrah. Ne quaeso nati conscientiam time.
+[\@Abrah.=]{.smallcaps} Ne quaeso nati conscientiam time.
 
 Quin crede nostris quidquid hoc sit auribus.
 
-Vin scire gnate quid rei me torqueat? Abrah. siys
+Vin scire gnate quid rei me torqueat? [\@Abrah.=]{.smallcaps}
 
 (Miserere nostri, mi Deus fac gratiam
 
@@ -2510,7 +2510,7 @@ Hic apparatus funeri servit tuo.
 
 46 ABRAHAMUS SACRIFICANS,
 
-Sath. Stygemque testor & profunda Tartari
+[\@Sath.=]{.smallcaps} Stygemque testor & profunda Tartari
 
 Nisi impediret linor & queis prosequor
 
@@ -2520,19 +2520,19 @@ Pietate motus hinc patris, & hinc filii,
 
 Possem parenti condolere & filio.
 
-Abrah. Agedum ferenda nate stat neceßitas
+[\@Abrah.=]{.smallcaps} Agedum ferenda nate stat neceßitas
 
 Quam nostra non vis vertere in melim potest,
 
 Quamquam volente non velim secus Deo.
 
-Isac. Miserere nostri mi parens, atque exue
+[\@Isac.=]{.smallcaps} Miserere nostri mi parens, atque exue
 
 Hanc oro mentem: cerne me tenellulum
 
 Cerne innocentem, parce, parce mi pater.
 
-Abrah. Hucusque patris, gnate mi, solatium,
+[\@Abrah.=]{.smallcaps} Hucusque patris, gnate mi, solatium,
 
 Decusque dulce, spesque patriae domus,
 
@@ -2540,7 +2540,7 @@ Sin vota numen patris audiret tui,
 
 Te morte fili, te redemerim meâ.
 
-Isac. Sin dulce quidquam fecerim tibi pater
+[\@Isac.=]{.smallcaps} Sin dulce quidquam fecerim tibi pater
 
 Vnquamve quidquam, quod tibi gratum foret,
 
@@ -2592,7 +2592,7 @@ Sed quid reatus, quaeve culpa me premit?
 
 An immerentem poscat ad necem Deus?
 
-Abrah. Te nate gratam victimam poscit Deus.
+[\@Abrah.=]{.smallcaps} Te nate gratam victimam poscit Deus.
 
 Ergo innocentem devove mentem prius.
 
@@ -2602,7 +2602,7 @@ Quae perfruuntur gaudiis consortia.
 
 At mi dolorum quantus aestus imminet?
 
-Isac. Pater, sed ipsa matre quid fiet meâ,
+[\@Isac.=]{.smallcaps} Pater, sed ipsa matre quid fiet meâ,
 
 Videor videre sordidatam pulvere
 
@@ -2620,17 +2620,17 @@ Ad fata certè poscor à te tristia,
 
 Lethale sed quis vulnus infliget mihi?
 
-Abrah. Morior: itane verba mentem lancinant?
+[\@Abrah.=]{.smallcaps} Morior: itane verba mentem lancinant?
 
 Ego nate corpus, tu Deo mentem immola.
 
 Vterque rite haud ambigo litabimus.
 
-Isac. Fiat voluntas sic jubentis numinis.
+[\@Isac.=]{.smallcaps} Fiat voluntas sic jubentis numinis.
 
-Sath. Actum est, peractum est, noster est vanus labor.
+[\@Sath.=]{.smallcaps} Actum est, peractum est, noster est vanus labor.
 
-Isac. Agedum paratum cerne filium Pater:
+[\@Isac.=]{.smallcaps} Agedum paratum cerne filium Pater:
 
 Nam quid morabor, certus scilicet mori?
 
@@ -2644,13 +2644,13 @@ Seca, feri, ure, qua libet me divide
 
 Pater, peractis quae paro votis Deo.
 
-Abrah. Pietate gnati crescit (heu) dolor mens:
+[\@Abrah.=]{.smallcaps} Pietate gnati crescit (heu) dolor mens:
 
 Talemne nostra filium sternat manus?
 
 Miserere, nostricausa vulneris Deus.
 
-Isac. Alme Deus, cunctorum author, cum tempore qui res
+[\@Isac.=]{.smallcaps} Alme Deus, cunctorum author, cum tempore qui res
 
 Ire jubes, stabilisque, manens das cuncta moveri,
 
@@ -2720,7 +2720,7 @@ Sed clarioris particeps mox luminis.
 
 Nunc cum videtur victimam feri Pater.
 
-Sath. Puerilis aetas est hîc haud puerilitas.
+[\@Sath.=]{.smallcaps} Puerilis aetas est hîc haud puerilitas.
 
 Nemo ista verba dixerit magis pie.
 
@@ -2728,7 +2728,7 @@ Sat praeliatum est, irritis telis mihi
 
 Fugio, relictâ turpe quamvis parmulâ.
 
-Abrah. Isace fili, qui fuisti filius,
+[\@Abrah.=]{.smallcaps} Isace fili, qui fuisti filius,
 
 Extrema quando te neceßitas manet,
 
@@ -2740,9 +2740,9 @@ Hoc ante stringat nate te, te brachium
 
 Ictu innocentem quam cruento dividat.
 
-Isac. Nosco favoris signa gratus patrii.
+[\@Isac.=]{.smallcaps} Nosco favoris signa gratus patrii.
 
-Abrah. Nunc editurus triste facinus, priùs
+[\@Abrah.=]{.smallcaps} Nunc editurus triste facinus, priùs
 
 Testorque mundum hunc inferumque, & hoc supra
 
@@ -2786,33 +2786,33 @@ Quidquid rietis irium nervis latet:
 
 Hic forte binos sternet ictus unicus.
 
-Isac. Quid! num cadentis audio ferri sonum?
+[\@Isac.=]{.smallcaps} Quid! num cadentis audio ferri sonum?
 
 Itane dextra perperam ferrum tenes
 
-Abrah. Repete, resume. Isac. Cum libet pater feri.
+[\@Abrah.=]{.smallcaps} Repete, resume. [\@Isac.=]{.smallcaps} Cum libet pater feri.
 
 Satisne nostra commodè cervix patet.
 
-Abrah. Pietas an ipsa sit magis gnato pia?
+[\@Abrah.=]{.smallcaps} Pietas an ipsa sit magis gnato pia?
 
 Genna labascunt. concido sensim miser,
 
-Moriorque fili. Isac. Quin resumas integer
+Moriorque fili. [\@Isac.=]{.smallcaps} Quin resumas integer
 
 Vires? Morare nam quid ultrâ mi Pater
 
 Quae laeta caelo me morantur gaudia?
 
-Abrah. AEtas tenella quam tenelli nil habet!
+[\@Abrah.=]{.smallcaps} AEtas tenella quam tenelli nil habet!
 
 Haud ipse quidquam fecerim constantius:
 
 Agedum, superna gnate nunc adi loca.
 
-Angel. Abrame, Abrame. Abrah. Tune me Deus vocas?
+[\@Angel.=]{.smallcaps} Abrame, Abrame. [\@Abrah.=]{.smallcaps} Tune me Deus vocas?
 
-Angel. Abrame, Abrame cura magni numinis
+[\@Angel.=]{.smallcaps} Abrame, Abrame cura magni numinis
 
 Caputque charum, conde strictum acinacem,
 
@@ -2822,9 +2822,9 @@ Satis probatam vidimus fidem tuam
 
 Qui jussa duri filio praefers Dei.
 
-Abrah. O mi Creator. Isac. Redemptor mi Deus.
+[\@Abrah.=]{.smallcaps} O mi Creator. [\@Isac.=]{.smallcaps} Redemptor mi Deus.
 
-Abrah. Quid hoc? quis hasce vepres concutit sonus?
+[\@Abrah.=]{.smallcaps} Quid hoc? quis hasce vepres concutit sonus?
 
 Sonus animatum, bestiamque cornua
 
@@ -2838,9 +2838,9 @@ Aries hic ipse gratior mactabitur,
 
 Concede fili, victimam paro novam.
 
-Angel. Attende Abrame. Abrah. Quid meo placet Deo?
+[\@Angel.=]{.smallcaps} Attende Abrame. [\@Abrah.=]{.smallcaps} Quid meo placet Deo?
 
-Angel. Abrahame, tuas me ferre haec jußit ad aures
+[\@Angel.=]{.smallcaps} Abrahame, tuas me ferre haec jußit ad aures
 
 Dicta Deus, tali quem percipe voce loquentem.
 

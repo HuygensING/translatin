@@ -105,7 +105,7 @@ Casus, labores, quos ego omnes pertuli?
 
 Limes doloris sit mihi Farnesius.
 
-≤line=30≥ Hol. Agere et pati magna, est virorum principum,
+≤line=30≥ \@Hol.= Agere et pati magna, est virorum principum,
 
 Sed multa passis multa contingit quoque
 
@@ -131,7 +131,7 @@ Statuis legere cum aeneis patriae pater,
 
 Tyrannice prementis omnia sub iugo.
 
-Nas. Est haec, amice, vana praedicatio
+\@Nas.= Est haec, amice, vana praedicatio
 
 Nostrum laborem post manentis gloriae,
 
@@ -169,7 +169,7 @@ Vitae occupatus, ferreum somnum inuoco,
 
 ≤line=60≥ Qui nostra claudat haec in aeuum lumina.
 
-Hol. Quo verba tendant miror, o lux principum,
+\@Hol.= Quo verba tendant miror, o lux principum,
 
 Aut quis dolorem casus excitauerit
 
@@ -201,7 +201,7 @@ Metuunt tui te hostes, vel vmbram etiam tuam,
 
 ≤line=75≥ Patria amat vt vitam, quid optes amplius?
 
-Nas. Vtinam se haberent res eo quo ais modo!
+\@Nas.= Vtinam se haberent res eo quo ais modo!
 
 Fuimus timendi, sors recedens alteri
 
@@ -241,7 +241,7 @@ Assidua, tu si quid quod adferas habes
 
 ≤line=95≥ Solatii in tristissimis his casibus
 
-Effare. Hol. Rerum longus vsus, plus satis
+Effare. \@Hol.= Rerum longus vsus, plus satis
 
 M
 
@@ -335,7 +335,7 @@ Molire, fac, et perfice ad victoriam
 
 Quaecumque de te expectat omnis Belgica.
 
-≤line=140≥ Nas. Multam doloris tu tua prudentia
+≤line=140≥ \@Nas.= Multam doloris tu tua prudentia
 
 Partem leuasti, iamque stat Batauis meis
 
@@ -573,7 +573,7 @@ Interficere quoquo modo Auriacum ducem.
 
 Si vis, paratus pergo coepta vt exequar.
 
-Ratio. Audacibus in ausis requiritur modus,
+\@Ratio.= Audacibus in ausis requiritur modus,
 
 Prudentia, et matura consultatio,
 
@@ -581,59 +581,59 @@ Prudentia, et matura consultatio,
 
 Temet refrena, et cogita quid cogites.
 
-Ger. Cum cogitaris quod sat est, opus est manu,
+\@Ger.= Cum cogitaris quod sat est, opus est manu,
 
 Dilatione saepe abest occasio.
 
-Ratio. Quae occasio? Auriacus petens Hollandiam
+\@Ratio.= Quae occasio? Auriacus petens Hollandiam
 
 ≤line=255≥ Tota recessit callidus Brabantia.
 
-Ger. Adeunda nostro Hollandia est etiam pede.
+\@Ger.= Adeunda nostro Hollandia est etiam pede.
 
-Ratio. Adiueris licet, quid illic est spei?
+\@Ratio.= Adiueris licet, quid illic est spei?
 
-Ger. Mitti rebellem nostra ad orcum dextera.
+\@Ger.= Mitti rebellem nostra ad orcum dextera.
 
-Ratio. Inter suos suis latentem in aedibus?
+\@Ratio.= Inter suos suis latentem in aedibus?
 
-≤line=260≥ Ger. Melius ibi tum cum sibi cauet minus.
+≤line=260≥ \@Ger.= Melius ibi tum cum sibi cauet minus.
 
-Ratio. Vis vna vires opprimet qui plurimas?
+\@Ratio.= Vis vna vires opprimet qui plurimas?
 
-Ger. Iniqua si vis est, dolus vim suppetet.
+\@Ger.= Iniqua si vis est, dolus vim suppetet.
 
-Ratio. Vni nec ipsa vis, nec ipse sat est dolus.
+\@Ratio.= Vni nec ipsa vis, nec ipse sat est dolus.
 
-Ger. Vnumne eum quicum Deus sit censeas?
+\@Ger.= Vnumne eum quicum Deus sit censeas?
 
-≤line=265≥ Ratio. Conanti idem alteri Deus non adfuit.
+≤line=265≥ \@Ratio.= Conanti idem alteri Deus non adfuit.
 
-Ger. Fere est secunda intentio felicior.
+\@Ger.= Fere est secunda intentio felicior.
 
-Ratio. Quo res cadat, feliciter tibi nequit
+\@Ratio.= Quo res cadat, feliciter tibi nequit
 
-Contingere. Ger. At feliciter, si animum expleam.
+Contingere. \@Ger.= At feliciter, si animum expleam.
 
-Ratio. Certum est mori te, vt expleas, non expleas.
+\@Ratio.= Certum est mori te, vt expleas, non expleas.
 
-≤line=270≥ Ger. Si expleuero, mi sufficit, moriar lubens.
+≤line=270≥ \@Ger.= Si expleuero, mi sufficit, moriar lubens.
 
-Ratio. Vnde haec cupido dira, vt optes emori?
+\@Ratio.= Vnde haec cupido dira, vt optes emori?
 
-Ger. Quid gloriosius quam eo mori modo?
+\@Ger.= Quid gloriosius quam eo mori modo?
 
-Ratio. At quo modo? Ger. Regi, Deo, Reipublicae \[TK Republicae\]
+\@Ratio.= At quo modo? \@Ger.= Regi, Deo, Reipublicae \[TK Republicae\]
 
 ≤page=97≥
 
 Qui seruiens moriatur, an moritur male?
 
-≤line=275≥ Ratio. Haec verba digna fortibus quidem viris.
+≤line=275≥ \@Ratio.= Haec verba digna fortibus quidem viris.
 
-Ger. Sunt verba inania, at viros factum probat.
+\@Ger.= Sunt verba inania, at viros factum probat.
 
-Ratio. Audi Gerarde, tuta consilia accipe,
+\@Ratio.= Audi Gerarde, tuta consilia accipe,
 
 Siste impetus parumper, et tibi consule,
 
@@ -645,7 +645,7 @@ Fugiat temeritas, sera quam sapientia
 
 Sequitur, nihil lucri videns, damni satis.
 
-Ger. Vetasne Ratio liberare patriam,
+\@Ger.= Vetasne Ratio liberare patriam,
 
 Finire bella? Reddere et mundo diem?
 
@@ -659,7 +659,7 @@ Miserabili exemplo doceat apud inferos,
 
 Principibus arma quid sit inferri suis.
 
-≤line=290≥ Ratio. Postquam furor te coepit, et nullus modus
+≤line=290≥ \@Ratio.= Postquam furor te coepit, et nullus modus
 
 Datur temeritati, licet, fac omnia
 
@@ -669,7 +669,7 @@ Etiam nihil veto. Sed aspice terminum,
 
 It poenitentiam ante paulo audacia.
 
-≤line=295≥ Ger. Quo fata ducunt, quo vocat Deus, sequor.
+≤line=295≥ \@Ger.= Quo fata ducunt, quo vocat Deus, sequor.
 
 **CHORVS.**
 
@@ -781,7 +781,7 @@ Serua virum incolumem meum, et si quid domus
 
 ≤line=345≥ Peccauit ista, parce, vel veni, pater,
 
-Ad vltionem lentior. Nut. Quis te timor
+Ad vltionem lentior. \@Nvt.= Quis te timor
 
 Alumna torquet? Pallor ora quis occupat?
 
@@ -793,11 +793,11 @@ Niij
 
 ≤page=100≥
 
-≤line=350≥ Col. Animus refugit, Altrix, nec audet dicere,
+≤line=350≥ \@Col.= Animus refugit, Altrix, nec audet dicere,
 
 Ne forsan accidat quod ipse sibi malum
 
-Praesagit. Nut. Inclusus dolor cor strangulat,
+Praesagit. \@Nvt.= Inclusus dolor cor strangulat,
 
 Secreta cura pectus exurit magis,
 
@@ -805,7 +805,7 @@ Resume vires, te excita viriliter,
 
 ≤line=355≥ Quod mi ipsa dixeris, tibi dictum puta.
 
-Col. Nostrum leuamen, nostra consolatio
+Nostrum leuamen, nostra consolatio
 
 In rebus arduis et afflictis, mea
 
@@ -819,13 +819,13 @@ Animae latere possit. Ergo percipe
 
 Verbis tribus. Me terruerunt somnia.
 
-Nut. Somnia quid aliud sunt precor quam somnia?
+\@Nvt.= Somnia quid aliud sunt precor quam somnia?
 
 Parua est doloris ansa si nihil amplius,
 
 ≤line=365≥ Sed perge tamen, et explica quid videris.
 
-Col. Cadebant Coelo sydera, et iam Lucifer
+\@Col.= Cadebant Coelo sydera, et iam Lucifer
 
 Lucebat axe solus, indicans diem
 
@@ -837,7 +837,7 @@ Cum somnus absens parte noctis plurima
 
 Tum visus est mihi meus. Sed sustine
 
-Altrix cadentem, deficio, morior. Nut. Bono
+Altrix cadentem, deficio, morior. \@Nvt.= Bono
 
 Sis animo, alumna, vana somnus obiicit
 
@@ -845,7 +845,7 @@ Simulacra plerumque, et metus vanos ciet,
 
 ≤line=375≥ Ne metue, rem narra velut iam occoeperas.
 
-Col. Tum visus est mihi meus Nassouius,
+\@Col.= Tum visus est mihi meus Nassouius,
 
 Nassouius meus, mea salus, cor meum,
 
@@ -869,7 +869,7 @@ Quid hoc mali portendat haud scio, tamen
 
 Sudorque totum frigidus corpus tenet.
 
-Nut. Est somniorum inanis aestimatio,
+\@Nvt.= Est somniorum inanis aestimatio,
 
 Domina, ac alumna, nec fidem sapiens eis
 
@@ -899,13 +899,13 @@ At enim quis audax est satis Nassouium
 
 Vt moliatur patriae patri malum?
 
-Col. Nescis quis ausum fuerit in eundem prius?
+\@Col.= Nescis quis ausum fuerit in eundem prius?
 
-Nut. Nescis quid audax praemii perceperit?
+\@Nvt.= Nescis quid audax praemii perceperit?
 
-Col. At rursus alter si audeat felicius?
+\@Col.= At rursus alter si audeat felicius?
 
-≤line=405≥ Nut. Audaciae exitus prioris efficit,
+≤line=405≥ \@Nvt.= Audaciae exitus prioris efficit,
 
 Niij
 
@@ -913,7 +913,7 @@ Niij
 
 Imposterum ne quis nefas tantum audeat.
 
-Col. Faxit Deus vt hoc ita sit, at timor nequit
+\@Col.= Faxit Deus vt hoc ita sit, at timor nequit
 
 Recedere, et vim colligit quod suspicor.
 
@@ -923,36 +923,36 @@ NASSOVIVS. COLIGNIA.
 
 ≤line=410≥ Cuius querelas audio, coniux, tuas?
 
-Col. Vtinam esset integrum meas non dicere!
+\@Col.= Vtinam esset integrum meas non dicere!
 
-Nas. Quid esse dicam hoc? Causa quae cogit queri?
+\@Nas.= Quid esse dicam hoc? Causa quae cogit queri?
 
-Col. Permitte sileam, causa nam prodest nihil.
+\@Col.= Permitte sileam, causa nam prodest nihil.
 
-Nas. Celare quicquam coniugem possis tuum?
+\@Nas.= Celare quicquam coniugem possis tuum?
 
-≤line=415≥ Col. Celare possum scita quae prosunt minus.
+≤line=415≥ \@Col.= Celare possum scita quae prosunt minus.
 
-Nas. Prosit: vel obsit, quid sit audire expeto,
+\@Nas.= Prosit: vel obsit, quid sit audire expeto,
 
 Vterque cur te deficit poples? Tremis
 
 Etiam viro praesente? Quid metuis tibi?
 
-Col. Metuo quidem mihi, sed et primum tibi.
+\@Col.= Metuo quidem mihi, sed et primum tibi.
 
-≤line=420≥ Nas. Mihi quid? Col. Necem. Nas. Necem? Vnde sed necem
-auguras?
+≤line=420≥ \@Nas.= Mihi quid? \@Col.= Necem. \@Nas.= Necem? Vnde sed
+necem auguras?
 
-Col. In somniis, quae dum recordor, protinus
+\@Col.= In somniis, quae dum recordor, protinus
 
-Exanimor. Nas. An vanis fidem addis somniis?
+Exanimor. \@Nas.= An vanis fidem addis somniis?
 
 Mantoque somnians futura coniicis?
 
 Sed quae ista tandem terruere insomnia?
 
-≤line=425≥ Col. Hac nocte visa sum heu cruentum in atrio
+≤line=425≥ \@Col.= Hac nocte visa sum heu cruentum in atrio
 
 Medio iacentem euisceratum cernere,
 
@@ -960,35 +960,35 @@ Te dulce decus, et omne praesidium meum.
 
 ≤page=103≥
 
-Nas. Hoc scilicet te angit, premitque hic scrupulus?
+\@Nas.= Hoc scilicet te angit, premitque hic scrupulus?
 
 Nimium es mulier: effunde fletus aequior.
 
 ≤line=430≥ Nocturna spectra facere stultitiae arguit.
 
-Col. Quam stulta sic dici, augur et mendax velim!
+\@Col.= Quam stulta sic dici, augur et mendax velim!
 
-Nas. Secura viue, pectus antiquum aduocans.
+\@Nas.= Secura viue, pectus antiquum aduocans.
 
 *Colignia*
 
-Col. Securitatis da mihi causam prius.
+\@Col.= Securitatis da mihi causam prius.
 
-Nas. Tu quicquid optes postula, certum est dare.
+\@Nas.= Tu quicquid optes postula, certum est dare.
 
-≤line=435≥ Col. Caueas nefastum hunc postulo tibi diem.
+≤line=435≥ \@Col.= Caueas nefastum hunc postulo tibi diem.
 
-Nas. Num sat satellites meum stipant latus?
+\@Nas.= Num sat satellites meum stipant latus?
 
-Col. Numerus tuetur Principem, melius fides.
+\@Col.= Numerus tuetur Principem, melius fides.
 
-Nas. Batauisne gens possit fidelior eligi?
+\@Nas.= Batauisne gens possit fidelior eligi?
 
-Col. Etiam parari tibi alia insidiae queunt.
+\@Col.= Etiam parari tibi alia insidiae queunt.
 
 ≤line=440≥ Quod ante subiisti periculum, vide.
 
-Nas. Parere fatis, si velis, nolis, decet,
+\@Nas.= Parere fatis, si velis, nolis, decet,
 
 Humanaque illic nil valet prudentia,
 
@@ -1000,7 +1000,7 @@ Timere cessa, nil timendum contigit.
 
 Ad res gerendas aduocat, me confero.
 
-Col. O te deorum percolenda numina,
+\@Col.= O te deorum percolenda numina,
 
 Per fratris impie necati vmbram piam,
 
@@ -1020,7 +1020,7 @@ Obducta (cernis quis dies) noctem tibi
 
 ≤page=104≥
 
-Nas. Vt vortit omnia male, nec demens potest
+\@Nas.= Vt vortit omnia male, nec demens potest
 
 Timorem opinione conceptum leui
 
@@ -1258,17 +1258,17 @@ Video paratum de meis negotiis
 
 SATELLES. GERARDVS.
 
-≤line=565≥ Quis es, vnde pergis? Ger. Gallus, eque Gallia.
+≤line=565≥ Quis es, vnde pergis? \@Ger.= Gallus, eque Gallia.
 
 Cuius pedem istuc contulisti gratia?
 
-Ger. Vt nuntiarem Principi quod contigit
+\@Ger.= Vt nuntiarem Principi quod contigit
 
 Illic noui, non absque magno pondere,
 
 Et ecce missus quas ei adfero litteras.
 
-≤line=570≥ Dat. Sed amabo quid noui? Ger. Propius ergo tuam
+≤line=570≥ \@Sat.= Sed amabo quid noui? \@Ger.= Propius ergo tuam
 
 Aurem applica, ne quis secundus audiat:
 
@@ -1280,9 +1280,9 @@ Legati obire munus vt videar male.
 
 ≤line=575≥ Sed dic vicissim, vbi reperiam Principem?
 
-Sat. Iam commode mensae assidet subtristior.
+\@Sat.= Iam commode mensae assidet subtristior.
 
-Ger. Adibo, fungar munere imposito mihi.
+\@Ger.= Adibo, fungar munere imposito mihi.
 
 ≤page=109≥
 
@@ -1432,9 +1432,9 @@ Si quis amor, Altrix, quicquid est referens, citam
 
 Concede vitae vel necis mihi copiam.
 
-Nut. Aequa ferendum est mente quod Deus imperat.
+\@Nvt.= Aequa ferendum est mente quod Deus imperat.
 
-≤line=645≥ Col. Perplexitate quid tua miseram necas?
+≤line=645≥ \@Col.= Perplexitate quid tua miseram necas?
 
 Differsque longis veritatem ambagibus?
 
@@ -1470,7 +1470,7 @@ Vel lenta si Iouis manus, si immobilis
 
 Me rapite, per vos ad Stygem pateat via.
 
-Hol. Veterem aduoca constantia, Princeps, dolor
+\@Hol.= Veterem aduoca constantia, Princeps, dolor
 
 Non serpat vltra, disce fortunam pati, et
 
@@ -1484,7 +1484,7 @@ Non omnia adferunt cruentam vulnera.
 
 Cur fles calentem? Cur parentas viuido?
 
-Col. Ne vana iacias verba spem fingens mihi,
+\@Col.= Ne vana iacias verba spem fingens mihi,
 
 ≤line=670≥ Impia peremit Principem manus meum.
 
@@ -1524,7 +1524,7 @@ Frigensque quamuis corpus, amplectar tamen,
 
 Luminaque claudens hac manu, moriar super.
 
-Hol. Illam doloris anxifer vortex premit:
+\@Hol.= Illam doloris anxifer vortex premit:
 
 Vides colorem vt mutet, et maculet genas?
 
@@ -1538,7 +1538,7 @@ Mandare, praesens nos monet necessitas,
 
 Animas duas ne rapiat vna eadem dies.
 
-≤line=695≥ Nut. Ne soluat vterum cruda Lucina horreo,
+≤line=695≥ \@Nvt.= Ne soluat vterum cruda Lucina horreo,
 
 Matrique foetus viperae fatum ferat.
 
@@ -1552,13 +1552,13 @@ En vnius conatibus momentulo
 
 ≤line=700≥ Temporis, anima inanis iacet Nassoui. \[\< animae\]
 
-Cho. Expone seriem caedis, enarra omnia.
+\@Cho.= Expone seriem caedis, enarra omnia.
 
 P
 
 ≤page=114≥
 
-Nun. Medium axem Apollo transierat, et iam ad plagam
+\@Nvn.= Medium axem Apollo transierat, et iam ad plagam
 
 Fiebat inclinatio occiduam, atrio
 
@@ -1618,9 +1618,9 @@ Expectat audax, nec timori dat locum
 
 ≤line=730≥ In pectore inflato rei actae gloria.
 
-Chor. Rem audio stupendam, omnemque quae super fidem.
+\@Chor.= Rem audio stupendam, omnemque quae super fidem.
 
-Nun. Sed nondum habes omnia: querelas audiit
+\@Nvn.= Sed nondum habes omnia: querelas audiit
 
 Mortem gementum coniugis Colignia,
 

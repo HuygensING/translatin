@@ -1,7 +1,3 @@
-(Étienne Daxhelet, *Adrien Barlandus humaniste Belge 1486-1638: Sa Vie, Son Oeuvre, Sa Personnalité*, Humanistica Lovaniensia, 6 (Leuven: Uystpruyst, 1938), Repr. Nendeln, Liechtenstein: Kraus Reprint Ltd., 1967), pp. 218-220)
-
-\[original spelling\]
-
 /front/
 
 Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno restitutae salutatis MDXXIIII.
@@ -10,31 +6,31 @@ Dialogus, recitatus in Ecyram Terentij publice exhibitam Louanij, Anno restituta
 
 Henricus & Iodocus.
 
-HEN. Saluus sis o noster Iodoce.
+[\@Hen.=]{.smallcaps} Saluus sis o noster Iodoce.
 
-IO. Et tu salueto Henrice.
+[\@Io.=]{.smallcaps} Et tu salueto Henrice.
 
-HE. Quid rerum nunc agitur Louanij?
+[\@He.=]{.smallcaps} Quid rerum nunc agitur Louanij?
 
-IO. Quid ageretur, passim nunc mortales, aut ad pocula, & spumantes desident pateras, aut alea lusitant, aut ad numerum choreas ductitant.
+[\@Io.=]{.smallcaps} Quid ageretur, passim nunc mortales, aut ad pocula, & spumantes desident pateras, aut alea lusitant, aut ad numerum choreas ductitant.
 
-HE. Istaec insania est quam cum bonis omnibus, tum maxime Christiano uiro indignam iudico. Magis mihi probatur ueterum consuetudo Romanorum, qui festis huiusmodi Comoedias potius insignium poetarum exhibebant, ut a noxijs istiusmodi comessationibus auocatos iuueniles animos cum quadam iucunditate ad literarum & eloquentissi studium excitarent, accenderent, inflammarent.
+[\@He.=]{.smallcaps} Istaec insania est quam cum bonis omnibus, tum maxime Christiano uiro indignam iudico. Magis mihi probatur ueterum consuetudo Romanorum, qui festis huiusmodi Comoedias potius insignium poetarum exhibebant, ut a noxijs istiusmodi comessationibus auocatos iuueniles animos cum quadam iucunditate ad literarum & eloquentissi studium excitarent, accenderent, inflammarent.
 
-IO. Si tibi tantopere laudatur hoc factum Romani populi, quid tandem ad illud Lactantij respondes? In scaenis nescio an sit corruptela uitiosior. Nam Comicae fabulae de stupris uirginum loquuntur, & amoribus meretricum, & quo magis sunt eloquentes, qui flagitia illa finxerunt, eo magis sententiarum elegantia persuadent.
+[\@Io.=]{.smallcaps} Si tibi tantopere laudatur hoc factum Romani populi, quid tandem ad illud Lactantij respondes? In scaenis nescio an sit corruptela uitiosior. Nam Comicae fabulae de stupris uirginum loquuntur, & amoribus meretricum, & quo magis sunt eloquentes, qui flagitia illa finxerunt, eo magis sententiarum elegantia persuadent.
 
-HE. Istuc dicere Lactantium saepe miratus sum, & nunc item miror. Est enim Comoedia nihil aliud quam humanae simulacrum uitae, & quae illic de stupris uirginum & amoribus meretricum dicuntur, sic dicuntur, ut reprehendantur, non ut probentur. Illud enim patris Demeae in Fratribus: Cur amat? cur potat? Cur emis amicam Mitio? quem non doceat hoc turpe esse adolescentulo, si inter scorta, & combibones rem patriam dilapidet, abliguriat, deuoret? Sexcenta si sit ocium enumerare possem ex Comoedijs, quae hoc animo lecta, non officere, fed prodesse plurimum queant, unde nos laudatam Romanorum consuetudinem imitantes, nihilque ueriti Areopagitas ac religiosulos quosdam, qui sanctimoniam omnem in uestitu ac supercilijs sedere existimant huic illustrium ac doctissimorum coetui uirorum exhibebimus Terentij Ecyram.
+[\@He.=]{.smallcaps} Istuc dicere Lactantium saepe miratus sum, & nunc item miror. Est enim Comoedia nihil aliud quam humanae simulacrum uitae, & quae illic de stupris uirginum & amoribus meretricum dicuntur, sic dicuntur, ut reprehendantur, non ut probentur. Illud enim patris Demeae in Fratribus: Cur amat? cur potat? Cur emis amicam Mitio? quem non doceat hoc turpe esse adolescentulo, si inter scorta, & combibones rem patriam dilapidet, abliguriat, deuoret? Sexcenta si sit ocium enumerare possem ex Comoedijs, quae hoc animo lecta, non officere, fed prodesse plurimum queant, unde nos laudatam Romanorum consuetudinem imitantes, nihilque ueriti Areopagitas ac religiosulos quosdam, qui sanctimoniam omnem in uestitu ac supercilijs sedere existimant huic illustrium ac doctissimorum coetui uirorum exhibebimus Terentij Ecyram.
 
-IO. Elegantem profecto Comoediam, ac plane moralem, quamque mihi ac meis aequalibus hoc anno praeceptor enarrauit. Quo magis gaudeo, te nunc mihi datum esse obuium, unde hoc resciscerem.
+[\@Io.=]{.smallcaps} Elegantem profecto Comoediam, ac plane moralem, quamque mihi ac meis aequalibus hoc anno praeceptor enarrauit. Quo magis gaudeo, te nunc mihi datum esse obuium, unde hoc resciscerem.
 
-HE. Quaere igitur aliquem in turba locum unde spectes. Nos enim accingimur.
+[\@He.=]{.smallcaps} Quaere igitur aliquem in turba locum unde spectes. Nos enim accingimur.
 
 Dialogus recitatus post actam fabulam.
 
 Henricus & Iodocus.
 
-HEN. Non dici potest mi Iodoce, quam delectarit, quanta uoluptate remorata sit animum meum haec actio. Nulla uoluptas, nulae funt delitiae, quas cum hisce ludis conferre uelim, dic rogo quis instituit hanc iuuentutem?
+[\@Hen.=]{.smallcaps} Non dici potest mi Iodoce, quam delectarit, quanta uoluptate remorata sit animum meum haec actio. Nulla uoluptas, nulae funt delitiae, quas cum hisce ludis conferre uelim, dic rogo quis instituit hanc iuuentutem?
 
-IO. Non unius, sed plurium hic labor est, plures sunt autores, duces, praefecti. Collectiuus grex est.
+[\@Io.=]{.smallcaps} Non unius, sed plurium hic labor est, plures sunt autores, duces, praefecti. Collectiuus grex est.
 
 (Étienne Daxhelet, *Adrien Barlandus humaniste Belge 1486-1638: Sa Vie, Son Oeuvre, Sa Personnalité*, Humanistica Lovaniensia, 6 (Leuven: Uystpruyst, 1938), Repr. Nendeln, Liechtenstein: Kraus Reprint Ltd., 1967), pp. 210-212)
 

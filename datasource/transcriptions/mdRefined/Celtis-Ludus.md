@@ -2,7 +2,12 @@
 
 
 
-Ludus Dianae
+Ludus Diane in modum Comedie coram Maximiliano Rhomanorum Rege Kalendis
+Martijs & Ludis saturnalibus in arce Linsiana danubij actus:
+Clementissimo Gerege & Regina ducibusque illustribus Mediolani totaque
+Regia curia spectatoribus: per Petrum Grunpekium Reg. Secre. Contradum
+Celten: Reg: Poe. Vlsenium Phrisium: Vincentium Longinum in hoc Ludo
+Laurea donatum foeliciter et iucundissime representatus.
 
 
 
@@ -10,586 +15,535 @@ Ludus Dianae
 
 
 
-MERCURIUS praeludio missus a Diana ad spectatores loquitur:
+MERCURIUS Preludio missus a Diana ad spectatores loquitur:
 
 
 
 Pennata gesto calcibus vestigia
 
-Tectus galero et in hac aula prodeo,
+Tectus galero & in hac aula prodeo,
 
-Atlantide olim quem creatum praedicant,
+Atlantide olim quem creatum predicant,
 
-Fidus deorum et qui dearum nuntius,
+Fidus deorum & qui dearum nuncius,
 
-Hominum sagax et foederum caducifer
+≤line=5≥ Hominum sagax & federum caducifer
 
-Mandata vobis iam fero Triviae deae,
+Mandata vobis iam fero triuie dee,
 
-Nemorum latebris et feris quae praesidet
+Nemorum latebris & feris quae presidet
 
-Venationis et magistra regia
+Venationis & magistra regia
 
-Faunis, Satyris, Nymphis comitata agrestibus,
+Faunis Satyris Nymphis comitata agrestibus
 
-Silvano, Iaccho et putido Sileno.
+≤line=10≥ Siluano iaccho & putido Sylleno.
 
+Hec Maximo regi est datura emilio:
 
-
-Haec Maximo regi est datura Aemilio:
-
-Arcum, pharetram, cuspidas, rete et canes
+Arcum pharetram cuspidas rete & canes \[\< phatetram\]
 
 Sibi offerens venationum insignia
 
-Victam que se dicet per egregium virum
+Victamque se dicet per egregium virum
 
-Venationis omnis expertissimum.
+≤line=15≥ Venationis omnis expertissimum:
 
+Vos auribus sed cuncta nunc prehendite
 
+Alis leuatus ipse ad astra hinc euolo.
 
-Vos auribus sed cuncta nunc prehendite!
-
-Alis levatus ipse ad astra hinc evolo.
-
-
-
-## 1. ACTUS I.
+## 1. Incipit comediae in morem ludus.
 
 
 
-DIANA NYMPHIS, SATYRIS ET FAUNIS RELIQUA QUE SUA FAMILIA (singuli suis
-insignibus ornati et induti) regem alloquitur:
+Actus primus. Diana nymphis satyris & faunis reliquaque sua fmailia
+singuli suis insignibus ornate & induti Regem alloquitur
 
 
 
-Caesar, ave, auspicio superum qui dirigis orbem,
+Cesar aue auspicio superum qui dirigis orbem
 
-Quem decorat Romanus honor, cui vivida virtus
+Quem decorat Rhomanus honos cui viuida virtus
 
-Per varios casus, per mille pericula rerum,
+Per varios casus per mille pericula rerum
 
-Hoc peperit regnum, gestis qui cedere nescis
+Hoc peperit regnum: gestis qui cedere nescis
 
-Caesaribus priscis, et adhuc meliora supersunt.
+≤line=5≥ Caesaribus priscis: & adhuc meliora supersunt.
 
 
 
-Advenio supplex genubus prostrata sacratis,
+Aduenio supplex genubus prostrata sacratis
 
 Quam coluit crebris aris veneranda vetustas
 
 Atque Ephesus memori tot iam per saecula templo
 
-Donavit; Triviam vates dixere priores;
+Donauit: triuiam vates dixere Dianam
 
-Mansit honos nomen que meum, mihi numina ruris
+≤line=10≥ Mansit honos nomenque meum: mihi numina ruris
 
-Silvanus Satyri que leves Fauni que salaces
+Siluanus Satyrique leues faunique loquaces
 
-Et Bacchus socio Sileno in caespite sacrum
+Et Bacchus socio Sylleno in cespite sacrum
 
-Struxerunt, me magna cohors comitata sororum
+Struxerunt: me magna cohors comitata sororum
 
-Oreadum Dryadum que simul solem que nives que
+Oreadum Dryadumque simul: solemque niuesque
 
-Pertuleram in que humeris tot retia ferre sub aestu
+≤line=15≥ Pertuleram: inque humeris tot recia ferre sub estu
 
-Non piguit costis que cutem deducere cervis.
+Non piguit: costisque cutem deducere ceruis
 
+Nec minus et nostros ornarunt vndique postes
 
+Arcubus & iaculis captiuarumque ferarum
 
-Nec minus et nostros ornarunt undique postes
+Pellibus & votis mortales mille vocarunt
 
-Arcubus et iaculis captivarum que ferarum
+≤line=20≥ Donec in Austriaca quidam foelicior aula,
 
-Pellibus et votis mortales mille vocarunt,
+Ducit Auentina veteres qui ex arce parentes
 
-Donec in Austriaca quidam felicior aula,
+Progenitus: superans atauos virtute priores
 
-Ducet Aventina veteres qui ex arce parentes,
+Venatu oppressit siluas cautesque petiuit
 
-Progenitus superans atavos virtute priores
+Ignotas antehac homini: non vlla ferarum
 
-Venatu oppressit silvas cautes que petivit
+≤line=25≥ Non volucrum secura colit montisue cacumen
 
-Ignotas antehac homini: non ulla ferarum,
+Siue profunda lacus penetrat montesque lacusque
 
-Non volucrum secura colit montis ve cacumen
+Et manibus pedibusque ferox: certaque sagitta
 
-Sive profunda lacus: penetrat montes que lacus que
+Siue capit prendens lato venabula ferro
 
-Et manibus pedibus que ferox certa que sagitta,
+Seu iaculum torquet: rideris prisca vetustas
 
-Sive capit prendens lato venabula ferro,
+≤line=30≥ Herculea decorata manu: Calidonius heros
 
-Seu iaculum torquet.
+Iam nihil est quin ipsa virum venerata priorem
 
-Rideris, prisca vetustas,
+Ipsa Diana colo: Fauni Satyrique sequuntur
 
-Herculea decorata manu, Calydonius heros
+Siluanusque rudis Nymphe & generosus Iachus
 
-Iam nihil est, quin ipsa virum venerata priorem
+Auritoque sedens madidus sillenus asello
 
-Ipsa Diana colo.
+a ij
 
+≤line=35≥ Hunc dominum: nostrisque choris non amplius herent:
 
+Et si me vultus non decipit, ille videris
 
-Fauni Satyri que sequuntur
+Ille est cesar: ades venator maximus ille
 
-Silvanus que rudis, Nymphae et generosus Iacchus
+Quem capree ceruique timent. vrsique suesque
 
-Aurito que sedens madidus Silenus asello
+Et lupus & nuper tibi missi aquilone visontes
 
-Hunc dominum nostris que choris non amplius hacrent.
+≤line=40≥ Quem fugiunt: qui sepe ferus nemus omne fatigas
 
+Cedo libens: arcumque meum pharetramque nitentem
 
+Et Iaculum capias cesar spoliisque Dianae
 
-Et, si me vultus non decipit, ille videris,
+Laetior exultes & que tibi munera Mauors
 
-Ille est Caesar! ades venator maximus ille,
+Iampridem largitus erat crudelis in hostes,
 
-Quem capreae cervi que timent ursi que sues que
+≤line=45≥ Exerce his nostris, placidus lenisque fruaris:
 
-Et lupus et nuper tibi missi aquilone visontes
-
-Quem fugiunt, qui saepe ferus nemus omne fatigas.
-
-
-
-Cedo libens arcum que meum pharetram que nitentem
-
-Et iaculum capias, Caesar, spoliis que Dianae
-
-Laetior exultes et, quae tibi munera Mavors
-
-Iam pridem largitus erat crudelis in hostes,
-
-Exerce his nostris, placidus lenis que fruaris.
-
-
-
-Post huius carminis recitationem DIANA choro Nympharum stipata laudes
-regis et reginae CUM NYMPHIS ET FAUNIS quattuor vocibus cantat; ipsa in
+Post huius carminis recitationem Diana choro Nympharum stipata Laudes
+regis & regine cum Nymphis et Faunis quattuor vocibus cantat. Ipsa in
 medio choro corniculata stabat Nymphis in chorea circa ipsam salientibus
-et haec carmina canentibus:
+& hec carmina canentibus:
 
 
 
-Maxmilianeas, Nymphae, nunc dicite laudes
+Maxmilianeas Nymphe nunc dicite laudes
 
-Et resonet nostro Blanca Maria choro,
+Et resonet nostro Blanca maria choro
 
-Ducite iocundas, Fauni Satyri que, choreas!
+Ducite iocundas Fauni Satyrique choreas
 
-Indulget festis regia tota iocis.
+≤line=50≥ Indulget festis regia tota iocis
 
+Dedicat hanc Genio caesar cum coniuge noctem
 
+O nox perpetuo carmine digna coli.
 
-Dedicat hanc genio Caesar cum coniuge noctem,
+\[musical scores of Discantus, Altus, Tenor and Bassus\]
 
-O nox perpetuo carmine digna coli!
-
-## 2. ACTUS II.
-
-
-
-SILVANUS comitatus Baccho, Faunis et Satyris regem alloquitur:
+Actus Secundus Syluanus comitatus Bacho Faunis et Satyris Regem
+Alloquitur.
 
 
 
-Rex, \| cui Maximium praestant pia sidera nome\|N,
-
-Verus \| ab aethereo missus mortalibus orb\|E
-
-Cultor \| Olympiaci iusti que aequi que tonanti\|S,
-
-Iuris \| amator, oves Christi tua sceptra gubernen\|T,
-
-Mens \| vigil, ut caelo populus turbatus apert\|O
-
-Vivida \| ad aeterni tandem pius ora trahatu\|R,
-
-Serva \| commissum tibi, ne lupus intret, ovil\|E.
-
-Iustitiam \| superos obeuntem hoc orbe relict\|O
-
-Nobis, \| qui Austriaco fruimur pastore, remitta\|S.
 
 
+Rex \| cui Maximium prestant pia sidera nome\|N
 
-Victa \| diu Ausoniae lugubri moenia vult\|V
+Verus \| ab ethereo missus mortalibus orb\|E
 
-Impia \| luxerunt et adhuc Insubrica ploran\|T
+≤line=55≥ Cultor \| olympiaci iustique aequique tonanti\|S
 
-Culmina \| cristati vanissima proelia Gall\|I.
+Iuris \| amator oues christi tua sceptra gubernen\|T \[\< iubernen\|T\]
 
+Mens \| vigil ut celo populus turbatus apert\|O
 
+Viuida \| ad eterni tandem pius ora trahatu\|R
 
-Tolles \| laude atavos, si tu, venerabile nume\|N,
+Serua \| commissum tibi ne lupus intret ouil\|E
 
-Occurras \| Turcorum armis inimica que castr\|A
+≤line=60≥ Iustitiam \| superos obeuntem hoc orbe relict\|O
 
-Telis \| Christicolum superes Martem que tyrannu\|M
+Nobis \| qui Austriaco fruimur pastore, remitta\|S
 
-Urbis \| abegisti, dum tristia bella tumult\|V.
+Victa \| diu Ausonie Lugubri menia vult\|V
 
+Impia \| luxerunt & adhuc insubrica ploran\|T
 
+Culmina \| cristati vanissima prelia Gall\|I
 
-Tunde \| male infidi venientia perfida Turc\|I
+≤line=65≥ Tolles \| laude atauos si tu venerabile nume\|N
 
-Agmina \| et immanis nunc disiice daemonis illu\|D
+Occurras \| Turcorum armis inimicaque castr\|A
 
-Maumet \| robustum pectus, qui bella furor\|E
+Telis \| Christicolum superes martemque tyrannu\|M
 
-Suscitat \| insano Germana in corpora et arm\|A
+Vrbis \| abegisti, dum tristia bella tumult\|V
 
-Urbanos \| Christi cultus perdentia; gesti\|T
+Tunde \| male infidi venientia perfida turc\|I
 
-Bellator, \| Stygio qui fretus robore, Gese\|F
+≤line=70≥ Agmina \| et immanis nunc disijce demonis illu\|D
 
-Perdere \| nos reges que pios mandare gehenna\|E,
+Maumet \| robustum pectus qui bella furor\|E
 
-Ritus, \| heu, miseros hominum, quos si ante tribuna\|L
+Suscitat \| insano germana in corpora et arm\|A
 
-In \| nigra perpetui mittendos Tartara fat\|I
+Vrbanos \| Christi cultus perdentia; gesti\|T
 
-Nos \| timor admoneat, numquam mortalibus ista\|C
+Bellator \| Stygio qui fretus robore gese\|F
 
-Constrictos \| videas animos in crimina ferr\|I,
+≤line=75≥ Perdere \| nos regesque pios mandare gehenna\|E
 
-Intendens \| licet usque malum draco membra resolva\|T,
+Ritus \| heu miseros hominum, quos si ante tribuna\|L
 
-Perfidus \| exhaurit matris qui viscera nostra\|E.
+In \| nigra perpetui mittendos tartara fat\|I
 
+Nos \| timor admoneat numquam mortalibus ista\|C
 
+Constrictos \| videas animos in crimina ferr\|I
 
-Enses \| effodiens sic undique bella parentu\|R.
+≤line=80≥ Intendens \| licet usque malum draco membra resolua\|T
 
+Perfidus \| exhaurit matris qui viscera nostra\|E
 
+Enses \| effodiens sic vndique bella parentu\|R
 
 Vexati \| te iam cessent dominante pericl\|A
 
-Imperii, \| invictum tolletur ad aethera nome\|N.
+Imperij \| inuictum tolletur ad ethera nome\|N
+
+≤line=85≥ Turgentes \| Venetos igitur tuque omine Lume\|N
+
+Attere \| felici Gallorum: ac pectore tot\|O
+
+Motus \| Heluetice composce & turbida plebi\|S
+
+a iij
 
 
 
-Turgentes \| Venetos igitur tu que omine, lume\|N,
+Nota precedens carmen sex versus in capite et vnum in Litteris finalibus
+continet.
 
-Attere \| felici, Gallorum ac pectore tot\|O
+Non auro redimita comas mea carmina sunto
 
-Motus \| Helveticae composce et turbida plebi\|S.
+≤line=90≥ Nec sunt a tanto principe digna legi
+
+Arte tamen contexta diu qua nulla fuere
+
+Forsitan in nostris condita temporibus
+
+Littere in extremo carmen tibi fine reponunt
+
+Et sex principio carmina lector habes
 
 
 
-Praecedens carmen sex versus in capite et unum in litteris finalibus
-continet:
-
-
-
-Rex verus cultor iuris mens vivida serva
+\[Rex verus cultor iuris mens viuida serua
 
 Iustitiam nobis victa impia culmina tolles
 
-Occurras telis urbis tunde agmina Maumet
+Occurras telis vrbis tunde agmina Maumet
 
-Suscitat urbanos bellator perdere ritus
+Suscitat vrbanos bellator perdere ritus
 
 In nos constrictos intendens perfidus enses
 
-Vexati imperii turgentes attere motus.
+Vexati imperij turgentes attere motus.
 
-Nestoreos utinam uideat feliciter annos.
+Nestoreos utinam uideat feliciter annos.\]
 
-Post huius carminis recitationem per Silvanum CHORUS BACCHI ET COMITUM
-SUORUM ad fistulam et citharam saltabant haec carmina quattuor vocibus
-saltando modulantes:
-
-
-
-Silvanus, Satyri, Fauni, Silenus, Iacchus,
-
-Lascivis pedibus chorea nostra strepet.
+Post huius Carminis recitationem per Syluanum Chorus Bacchi & comitum
+suorum ad fistulam et cytharam saltabant hec carmina quattuor vocibus
+saltando modulantes.
 
 
 
-Maximus Aemilius, coniunx et Blanca Maria
+≤line=95≥ Siluanus Satyri Fauni Sillenus Iachus
 
-Cantentur nostris hic et ubique choris.
+Lasciuis pedibus chorea nostra strepet
 
+Maximus Emilius coniunx & Blanca maria
 
+Cantentur nostris hic & vbique choris
 
-Vivite felices ambo, dum vita superstes,
+Viuite foelices ambo dum vita superstes
 
-Et locet aethereo vos deus inde polo!
+≤line=100≥ Et locet aethereo vos deus inde polo
 
-## 3. ACTUS III.
+**Finis Actus Secundi.**
 
-
-
-BACCHUS thyrsiger comitatus Sileno et Bacchidibus regem alloquitur:
-
-
-
-Rex, qui stemmata Aventina geris sacra,
-
-Salve, Romulidum gloria Caesarum!
-
-Osiris capias et Dionysii
-
-Quondam magnificis gesta laboribus.
+Actus tercius Bachus Thyrsiger comitatus Sylleno et Bachidibus Regem
+alloquitur.
 
 
 
-Bacchus nunc vocitor laetitiae dator
+Rex qui stemmata Auentina geris sacra
 
-Impellens animos scribere carmina;
+Salue Rhomulidum gloria Caesarum
 
-Cantates Satyros iam tua saecula,
+Osyris capias & Dionysij
 
-Silvanos faciles, capripedes deos,
+Quondam magnificis gesta laboribus
 
-Silenum madido somniferum mero
+≤line=105≥ Bachus nunc vocitor leticie dator
 
-Me cum temporibus perpetuis fero
+Impellens animos scribere carmina
+
+Cantantes satyros iam tua secula
+
+Siluanos faciles, capripedes deos
+
+Syllenum madido somniferum mero
+
+≤line=110≥ Mecum temporibus perpetuis fero
 
 Cingentes capitis tempora frondeis
 
-Sertis, sunt quibus et pinea pocula.
+Sertis: sunt quibus & pinea pocula.
 
+Hi sunt qui manibus Thyrsigeris petunt
 
+Mecum colliculos celsaque montium
 
-Hi sunt, qui manibus thyrsigeris petunt
-
-Me cum colliculos celsa que montium
-
-Laeta vitiferum fronte cacumina.
-
-
+≤line=115≥ Leta vitiferum fronte cacumina
 
 Sic veni calida laetus ab India
 
-Et Nysam peragrans, Niliacam et plagam
+Et Nisam peragrans Niliacam & plagam
 
-Graiis et Latiis montibus inserens
+Graijs & Latijs montibus inserens
 
-Radices tenui sub scrobe vitium
+Radices: tenui sub scrobe vitium
 
-Dignum perpetuis munus honoribus.
+≤line=120≥ Dignum perpetuis munus honoribus
 
-Hinc montes adii laetior arduos
+Hinc montes adij letior arduos
 
-Gentis belligerae monticolas videns
+Gentis belligere monticolas videns
 
-Germanos, docui et pampineum nemus
+Germanos: docui et pampineum nemus
 
-Per colles teneris ducere surculis.
+Per colles teneris ducere surculis
 
+≤line=125≥ Sic Rhenana mihi culta fuit plaga
 
-
-Sic Rhenana mihi culta fuit plaga
-
-Et montosa scabris rura sub Alpibus
+Et montosa scabris rura sub alpibus
 
 Nostris muneribus vitea reddidi
 
-Moenum cum Necaro, cum Cocero et vago,
+Moenum cum Necaro cum Cocero & vago
 
-Albin cum que Odera et Bacchifero Sala;
+Albin cunque odera et Bachifero Sala
 
-Rhaeti, Vindelici, Carnioli.
+≤line=130≥ Rheti Vindelici Carnioli Stiri
 
+Et longa virides valle Carinthij
 
-
-Styri
-
-Et longa virides valle Carinthii,
-
-Hinc et Austriaci, qua Cetius ferax
+Hinc & Austriaci, qua Cecius ferax
 
 Vinosum tumido Danubio caput
 
-Infert vinifluis comminus uvulis,
+Infert vinifluis comminus vuulis
 
-Me vineta locis editioribus
+≤line=135≥ Me vineta locis editioribus
 
-Consecrasse sacris carminibus canunt,
+Consecrasse sacris carminibus canunt
 
 Me sic clara Vienna Austriaci soli
 
 A vino nitidum nomen habens bono
 
-Cantat Bacchidicis iam τριετηρικοῖς,
+Cantat Bachidicis iam Triatericis
 
-Ad quae conveniunt milia plurima
+≤line=140≥ Ad que conueniunt milia plurima
 
-Faunorum, Dryadum et silvicolum deum,
+Faunorum Dryadum & siluicolum deum,
 
 In primis referunt qui meritas pio
 
-Laudes Maxmiliano imperii duci,
+Laudes Maxmiliano imperij duci
 
-Urbem tam celebrem qui sinit orgiis
+Vrbem tam celebrem qui sinit orgijs
 
-Et natale solum muneribus meis
+≤line=145≥ Et natale solum muneribus meis
 
-Impleri et fieri Bacchica gaudia.
-
-
-
-Post recitationem illius carminis conticuere omnes intenti que ora
-tenebant et mox RECITATOR choriambi huius ad pedes regis provolutus
-lauream his carminibus a rege petiit:
+Impleri et fieri bachica gaudia.
 
 
 
-Si qua mihi est virtus doctrina que, maxime Caesar,
-
-Imponas capiti laurea serta meo.
-
-
-
-Per superos ego iuro tibi et per sceptra tonantis:
-
-Cantabo laudes hic et ubique tuas!
-
-Poeta igitur caeremoniis solitis per manus regias creato TOTUS CHORUS
-gratiarum actiones regi cantavit tribus vocibus:
+Post recitationem illius Carminis: conticuere omnes intentique ora
+tenebant & mox Recitator Choriambi huius ad pedes Regis prouolutus
+Lauream his Carminibus a rege pecijt
 
 
 
-Regis aeternas resonemus omnes
+Si qua mihi est virtus doctrinaque maxime Caesar
 
-Incliti laudes, nitidae coronae
+Imponas capiti Laurea serta meo.
 
-Serta quod docto dederat poetae
+Per superos ego iuro tibi & per sceptra tonantis
+
+≤line=150≥ Cantabo laudes hic & vbique tuas
+
+Poeta igitur Ceremonijs solitis per manus Regias creato totus chorus
+gratiarumactiones Regi cantauit tribus vocibus.
+
+
+
+Regis eternas resonemus omnes
+
+Incliti laudes: nitide corone
+
+Serta quod docto dederat Poete
 
 Sylesitano.
 
+≤line=155≥ Tuque susceptum videas honorem
 
+Vt sacris clarum celebres Camenis
 
-Tu que susceptum videas honorem,
+Neue te torpor furor aut libido &
 
-Ut sacris dignum facias Camenis
+Questus obumbret
 
-Neve te torpor, furor aut libido et
+Liber in vastis memorare siluis
 
-Quaestus obumbret,
+≤line=160≥ Vt canas laudes probitate partas
 
-Liber in vastis memorare silvis,
+Asper & contra vicijs fauentes
 
-Ut canas laudes probitate partas
-
-Asper et contra vitiis faventes
-
-Cornua tollas.
-
-
+Cornua tollas
 
 Sic tibi totum celebris per orbem
 
-Fama nascetur rapidum per Histrum,
+Fama nascetur rapidum per Istrum
 
-Vistulam et duras Codani per undas
+≤line=165≥ Vistulam et duras Codani per vndas
 
-Et vada Rheni.
+Et vada Rheni
 
-## 4. ACTUS IV.
+\[musical scores of Discantus, Tenor and Bassus\]
 
-
-
-SILENUS asello insidens et cantharum ansa attrita et contusa περιφέρεια
-extendens vacillante et titubante lingua et cruribus tremulus regem
-alloquitur:
+**Finis Axrtus Tercij**
 
 
 
-Clarus Aventino quondam qui sanguine cretus,
-
-Iam faveas nostris.
-
-
-
-Maxmiliane, iocis.
+Actus Quartus Syllenus asello insidens et Cantarum ansa attrita et
+contusa peripheria extendens: vacillante et titubante lingua & cruribus
+tremulus Regem Alloquitur
 
 
 
-Silenus sedeo pando temulentus asello
+Clarus Auentino quondam qui sanguine cretus
 
-Et negat officium pes que manus que suum.
+Iam faueas nostris Maxmiliane iocis
 
+Syllenus sedeo pando temulentus asello
 
+≤line=170≥ Et negat officium pesque manusque suum
 
-Est animal, toto quo nullum pigrius orbe
+Est animal toto quo nullum pigrius orbe
 
-Vivit, quod tergo corpora nostra gerit,
+Viuit, quod tergo corpora nostra gerit
 
 Pendula demissis cui torpent auribus ora
 
-Et lento graditur bestia pigra pede.
+Et lento graditur bestia pigra pede
+
+≤line=175≥ Aera rugitu & clamoso complet ab ore
+
+Cerberus obscuris vt solet ater aquis
+
+Officiumque suum duro nisi verbere discit
+
+Dum crebro baculo terga relisa sonant
+
+Tales despicias rex Maxmiliane rogamus
+
+≤line=180≥ Atque hos cesareis rex bone pasce cibis
 
 
 
-Aera rugitu clamoso et commovet ore,
+Hinc rursus silentium et pocula aurea et patere per Regios pincernas
+circumlate & inter pocula pulsata Tympana & cornua.
 
-Cerberus obscuris ut solet ater aquis,
-
-Officium que suum duro nisi verbere discit,
-
-Dum crebro baculo terga relisa sonant.
+**Finis Actus Quarti**
 
 
 
-Illis nunc faveas, rex Maxmiliane, rogamus
-
-Atque hos Caesareis, rex bone, pasce cibis.
-
-
-
-Hinc rursus silentium et pocula aurea et paterae per regios pincernas
-circumlatae et inter pocula pulsata tympana et cornua.
-
-## 5. ACTUS V.
+Actus Quintus & vltimus. Persone ludi omnes in unum chorum congregate
+gratiarumactiones agunt: Diana loquente & uniuerso choro quattuor vocum
+concentu singula carmina repetente et veniam abeundi petente: his
+carminibus.
 
 
 
-PERSONAE LUDI OMNES in unum chorum congregatae gratiarum actiones agunt
-DIANA loquente ET universo CHORO quattuor vocum concentu singula carmina
-repetente et veniam abeundi petente his carminibus.
+Viuite foelices ambo Caesarque thorique
 
+Consors: Nestoreos fata dedere dies
 
+Caesar ad occasum foelix sis solis ab ortu et
 
-Vivite felices ambo, Caesar que tori que
+Viribus inuictis regna solumque tene
 
-Consors; Nestoreos fata dedere dies.
+≤line=185≥ Multiplicem variet sobolem tibi Blanca maria
 
+Et ducibus terras impleat Austriacas
 
+Tardior extreme cum venerit hora senecte
 
-Caesar, ad occasum felix sis solis ab ortu et
+Collocet omnipotens letus vtrumque polo
 
-Viribus invictis regna solum que tene.
+Maxmiliane vale valeas iam Blanca maria
 
-
-
-Multiplicem variet sobolem tibi Blanca Maria
-
-Et ducibus terras impleat Austriacas.
-
-
-
-Tardior extremae cum venerit hora senectae,
-
-Collocet omnipotens laetus utrumque polo.
-
-
-
-Maxmiliane, vale; valeas iam, Blanca Maria;
-
-Iam repeto silvas casta Diana meas.
+≤line=190≥ Iam repeto siluas casta Diana meas
 
 
 
 # Back
 
 
+
+Post Ludum actum Diuus Amximilianus altera die conuiuio Regio omnes
+personas refecit. Que erant numero Vigintiquatuor Actores regijs
+muneribus donauit. Sodalitas illa Carmina subiecit.
+
+\[The poems follow\]
 

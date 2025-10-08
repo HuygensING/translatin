@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model
+    href="https://xmlschema.huygens.knaw.nl/translatin.rng"
+    type="application/xml"
+    schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="translatin0120" xml:lang="lat">
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title type="main">Ovis</title>
+        <title type="sub"></title>
+        <author>Zovitius, Jacobus</author>
+        <editor>Jan Bloemendal</editor>
+        <respStmt>
+            <resp>transcription</resp>
+            <name>Jan Bloemendal et al.</name>
+        </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Unknown publisher</publisher>
+        <pubPlace>None</pubPlace>
+        <date>none</date>
+    </publicationStmt>
+    <sourceDesc>
+        <bibl>
+            Identifier: <name>Zovitius-Ovis</name><lb/>
+            Short title: <title>Ovis</title><lb/>
+            Year of first edition: <date>none</date><lb/>
+            Author information:<lb/>
+            Alias: Zovitius Driescharus, Jacobus; Jacoppen Pietersen<lb/>
+            Birth: 1512, Dreischor<lb/>
+            Death: ??, ?<lb/>
+            Floruit: None, Hoogstraten, Breda<lb/>
+            <ref target="https://nl.wikipedia.org/wiki/Jacobus_Zovitius">Link</ref><lb/>
+            <emph>No source description</emph><lb/>
+            
+        </bibl>
+    </sourceDesc>
+</fileDesc>
+<profileDesc>
+    <textClass>
+        <keywords>
+            <term type="diction">None</term>
+            <term type="genre">unknown genre</term>
+            <term type="acts">0</term>
+            <term type="chorus">None</term>
+            <term type="medium">printed</term>
+        </keywords>
+    </textClass>
+</profileDesc>
+</teiHeader>
+<text>
+    <body>
+        <div type="level1" xml:id="front">
+  <head>Front</head>
+  <p>OVIS</p>
+  <p>PERDITA AVTORE</p>
+  <p>Iacobo Zouitio apud Braedanos</p>
+  <p>Ludimagistro.</p>
+  <p>EXCVDEBAT ANTVER|piae Vidua Martini Caesaris impen-|sis Ioannis
+  Coccij. An. M.D.XXXIX.</p>
+  <p>ORNATISSIMIS D. DO-|mino Decano sacrae Theologiae Licentiato. Et
+  Do|minis Canonicis sacri apud Braedanos collegij primatibus Iacobus
+  Zouitius S.D.</p>
+  <p>RIdebunt forsan aliqui nimis stultam meam audaciam, ut qui non
+  uerear iterum me huic tam nasuto, alioqui foelicissimo tamen, saeculo
+  comedendum (ut ait ille) et deridendum propinare. Superioribus annis
+  emiserat tenuis admodum nostra Thaliola fabulam, cui titulus Ruth
+  erat. Quae quidem quod citra genium nata sit, uel ex hoc colligo.
+  Multorum enim genuini in eadem fracti sunt, iure an iniuria iuxta
+  ignoro. Illud tamen aperte profitear, uel ipsa res me cogit. Luxuriem
+  plus satis iuuenilem fuisse in illa nimiam, cudebatur enim mihi, annos
+  dum uix habebam uigintiunum. Neque modo adultior, deierarem hancce
+  omnibus arrisuram. Quis enim omnibus unquàm fecit satis? quum Homero
+  suus Zoilus. Vergilio suus Pero, suus Philiscus, non defuerint. Imò ne
+  Iuppiter omnibus potuit unquam satisfacere. Atqui quando neque
+  omnibus, neque maiori, neque per omnia meliori parti, me placiturum
+  satis certo sciam, Manus ne de tabula? Nunquam. Sordeat haec nostra
+  foetura alijs, Mihi tamen non potest non esse pulchra. Torqueatur
+  interim illud Theocritici in me πολλάκις ἢ καὶ ἔρωτιτὰ μὴ καλὰ καλ’
+  ἀπέφανται. Quod quidem latine sed subrustice sic cernimus. Saepe minus
+  pulchra, bene pulchria uidentur amanti. Verum quisquis huc Momus
+  properabit, negocia, quibus</p>
+  <p>quotidie excarnificamur, semper prae oculis habeat. Quem si
+  aequiorem sensero, sunt apud me aliquot lepidae fabellulae, quas
+  tyrunculis literarijs impartiam, et quidem non multos post hos dies,
+  quod si iniquiorem resciuero eundem, prementur, non in nouum, sed in
+  annum millesimum, atque cum Augusti Aiace in spongiam incumbent. Vos
+  tamen interim, omnibus modis ornatissimis Domini, uos inquam
+  appellamus, quod si uestro senserimus nos probari calculo, non parum
+  spei concipimus, nostram hanc opellulam candidis quibusque non
+  improbatum* iri. Sub uestri itaque nominis auspicio in lucem dabitur
+  haec Ouis Perdita. Neque in praesentiâ animus est, meas heic in uos
+  laudando exprimere uiriculas. Moris enim solet esse, ut illi
+  consenescerent, tanquam apud Lotophagos, in laudibus eorum, quibus
+  suas solent dedicare uigilias. Vos uero quanto cumulatiore laude
+  digniores estis, tanto eiusdem, quae uestra est modestia,
+  negligentiores estis. Sed quo uestrarum laudum summam tribus
+  complectar uerbis. Inter laudandos modestissimi, et inter modestos
+  maxime laudandi estis. Vos itaque oro, ut hasce nostras
+  lucubratiunculas laetiore fronte excipiatis: nostri erga uos studij
+  quale quale mnemosynon futurum. Cognouero saltem hunc meum laborem à
+  uobis D. longe lateque probatissime probatum iri, nunquam me eiusdem
+  poenitebit. Nonquam defetiscar quoque uestram rem scholasticam
+  prouehere, et quidem summo cum studio. Cui aspiret Deus Opt. Max. qui
+  uestram modestiam nobis dignetur semper seruare incolumem. Valete D.
+  multis nominibus ornatiss. Braedae nostro Musaeo. iiij. Cal. Mart.
+  Anni supra sesquimillesimum tricesimi noni.</p>
+  <p><milestone unit="folio" facs="Aij"/></p>
+  <p>PROLOGVS.</p>
+  <p>Senarij.</p>
+  <p>Quamuis suboleat mihi fore aliquot, qui inquient,</p>
+  <p>Me iterum ad eundem impingere lapidem, attamen</p>
+  <p>Nonquàm mihi persuaserint, tabellulam</p>
+  <p>A scaenica ut tollam manus. Quando quidem</p>
+  <p>(5) Quisque studio suo unice capitur. Et, ut</p>
+  <p>Ille canit, Agnae polypus nimis bene</p>
+  <p>Suum iuuat Balbinum. Age, ex arbitrio</p>
+  <p>Animi satis successerit minime, aliâ</p>
+  <p>Viâ, imo eâdem, sed periclo non parum</p>
+  <p>(10) Instructiores, aleam tentabimus</p>
+  <p>Nunc comicam. Milonis ipsius aemuli in-</p>
+  <p>Dies uiriliora onera subibimus.</p>
+  <p>Mihi inuidus si inuidet, ego securus in</p>
+  <p>Vtramque dormiturus aurem rideo.</p>
+  <p>(15) Si explet suum Momus animum μωμήτερος,</p>
+  <p>Ego reliquero sandalium eidem nimis</p>
+  <p>Stridulum, ut mea nihil habeat haec scaenica Venus,</p>
+  <p>Momo quod huis minus satis faciat. Vide</p>
+  <p>Quàm recte agetur cum Inuido et Momo. Mihi</p>
+  <p>(20) Caeco inuidebit inuidus. Mihi quoque</p>
+  <p>Surdo suam fabellulam Momus canet.</p>
+  <p>Verum, ipsa quae non adeò multa reperiet</p>
+  <p>Notanda, si notauerit quis candidus.</p>
+  <p>Solidam à me inibit gratiam. Nunc optimi</p>
+  <p>(25) Viri adeste cum silentio, ut Momus habeat</p>
+  <p>Quod carpat. Inuidus quod inuideat, et id</p>
+  <p>Quod unice expeto, ut audiat quisque aequus et</p>
+  <p>Bene candidus, cum quae probet, tum quae improbet.</p>
+  <p>PERIOCHA.</p>
+  <p>Senarij.</p>
+  <p>O Vium ubi pastor perdidit centesimam,</p>
+  <p>V Sque adeo se dolore male cruciat, ob id</p>
+  <p>I Acturae, ut omnibus relictis, quaerere</p>
+  <p>S Ibi ouem uoluit. Eleemosyna uero egit, ut</p>
+  <p>P Er seruulos iste labor hauriretur. Ast (5)</p>
+  <p>E X alia ubi nouit reuersos seruulos,</p>
+  <p>R E infectâ inanes, illico hunc sibi cerdidit</p>
+  <p>D Atum laborem. Accinctus itineri, suam</p>
+  <p>I Pse adit ouem. Inuenit ipse, et in humeros quoque</p>
+  <p>T Enellulos positam, reportat. Hinc suos (10)</p>
+  <p>A D prandium laetus uocans, laetos facit.</p>
+  <p>________________________________________</p>
+  <p>Interloquutores.</p>
+  <p>Soter Saluator</p>
+  <p>Dicaeosyne Iusticia</p>
+  <p>Eleemosyna Misericordia</p>
+  <p>Bascania Latine Inuidia</p>
+  <p>Paracoë Inobedientia</p>
+  <p>Hyperephania Superbia</p>
+  <p>Cosmus Mundus</p>
+  <p>Sarx Caro</p>
+  <p>Helias</p>
+  <p><milestone unit="folio" facs="Aiij"/></p>
+  <p>Mundus</p>
+  <p>Caro</p>
+</div>
+<div type="level1" xml:id="main">
+  <head>Main</head>
+  <div type="level2" xml:id="scena-i.-ii">
+    <head>1. SCENA I. [&lt; II]</head>
+    <p></p>
+  </div>
+  <div type="level2" xml:id="actus-primi-scena-prima.">
+    <head>2. Actus Primi Scena Prima.</head>
+    <p>Soter.</p>
+    <p>Iambici Trimetri.</p>
+    <p>DIci nequit, quàm animus meus malè se habeat</p>
+    <p>Quod absit haec centesima ouicula. Hactenus</p>
+    <p>Diuina mihi uita fuit. Vbi sit nescio.</p>
+    <p>Sint nonaginta nouem adhuc licet, tamen</p>
+    <p>(5) Non defetiscar donec hanc inuenero.</p>
+    <p>Maiori erat curae mihi quàm caeterae,</p>
+    <p>Neque mirum id est, Nam ut caeterae sunt benehabiles,</p>
+    <p>Ita et obsequundantes quidem per omnia</p>
+    <p>Pastoris huius nutui. Sed perdita</p>
+    <p>(10) Haec, nescio suspecta quàm mihi fuerit</p>
+    <p>Semper, ideo beneficio studui mihi</p>
+    <p>Adiungere acretinere. Sed frustra quidem.</p>
+    <p>Paui hancce pascuae omnibus deliciolis.<ptr target="#tn1" n="1"/></p>
+    <p>Habuit ouile, tempe amoenissima, modo</p>
+    <p>(15) Quisquam uideret, diceret. Nunc pro meis</p>
+    <p>Beneficijs mihi hoc amicitiae exhibet</p>
+    <p>Misero, meum quod deserens ouile, ubi</p>
+    <p>Palatuli deliciolas habuit sibi,</p>
+    <p>Moerore me non pauculo donauerit.</p>
+    <p>(20) Quid cogitem nescio equidem. Ne aut alserit,</p>
+    <p>Aut uspiam ceciderit, aut perfregerit</p>
+    <p>Sibi tibiam, aut à canibus aut uoracibus</p>
+    <p>Sit deuorata lupis. Vt est pastor bonus</p>
+    <p>De ouibus suis sollicitus. Atqui isthaec nihil</p>
+    <p>(25) Hunc mitigant animi dolorem. Perdita</p>
+    <p>Est reperienda ouis, aut doloris remedium</p>
+    <p>Mihi dabitur nullum. Age age quiduis patiar, ut</p>
+    <p>Ouem hanc gregi restituam. Id ubi praestitero, tum</p>
+    <p>Dolor omnis aberit. Num Dicaeosyne mea huc?</p>
+    <p>(30) Celabo an eloquar? Repugnabit meo</p>
+    <p>Animo, satis certò scio. Verum haec mei</p>
+    <p>Animi aegritudo maior est, quàm quae potest</p>
+    <p>Celarier. Tantam quis in sinu feret?</p>
+    <p>Solatium maneat amiculis ubi</p>
+    <p>(35) Quis aperit infortunium. Veru’st qui ait,</p>
+    <p>Communis omnis est amicorum dolor.</p>
+  </div>
+  <div type="level2" xml:id="scena-ii.">
+    <head>3. SCENA II.</head>
+    <p>Dicaeosyne. Soter.</p>
+    <p>Trimetri.</p>
+    <p>HIccine meum uideo? Equidem ipsus est. Nisi</p>
+    <p>Oculi parum prospectitant. Soter meus</p>
+    <p>Est. Quid adeò tristis? Oculi facies, adhaec</p>
+    <p>(40) Incessus, arguunt uirum tristem lubet</p>
+    <p>Id scissitari quidquid est. Hem quid adeò</p>
+    <p>Tristis es? <hi rend="speaker">Soter.</hi> Ouem isthac nocte perdidi. <hi rend="speaker">Di.</hi> Male</p>
+    <p>Id te habet? <hi rend="speaker">So.</hi> Habet. <hi rend="speaker">Di.</hi> Iactura ouis? <hi rend="speaker">So.</hi> Sic est.
+    <hi rend="speaker">Di.</hi> Ain’?</p>
+    <p>Vnius? <hi rend="speaker">Soter.</hi> Vnius. Dic: eadem est parua admodum.</p>
+    <p>(45) <hi rend="speaker">Soter.</hi> Tibi parua sit, mihi maxima est. Mecum egit
+    is</p>
+    <p>Quoque pessime, qui hanc ex ouili abduxerit</p>
+    <p>Meo. <hi rend="speaker">Di.</hi> Vsqueadeò peccauit in te, qui tibi</p>
+    <p>Ex hocce tanto numero ouem unam abduxit? hem,</p>
+    <p>Quid si unicam tibi abstulisset ouiculam?</p>
+    <p><milestone unit="folio" facs="Aiiij"/></p>
+    <p>(50) <hi rend="speaker">So.</hi> Piaret hoc morte, et quidem praesente, ni</p>
+    <p>Secus Eleemosynae uideretur. <hi rend="speaker">Di.</hi> Ain’ hem?</p>
+    <p>Morte? hoc nephas commiserat quidam, rogo<ptr target="#tn2" n="2"/></p>
+    <p>Morte ne piabatur idem? ai? <hi rend="speaker">So.</hi> non siuit id</p>
+    <p>Soror Eleemosyna. <hi rend="speaker">Di.</hi> Mea? haec per omnia</p>
+    <p>(55) Contraria est mihi, etsi eodem genita sit</p>
+    <p>Patre mecum. Ouem an tractaueris male? <hi rend="speaker">Soter.</hi> optime</p>
+    <p>Nam gramine est uiuo usque pasta. <hi rend="speaker">Di.</hi> Vah</p>
+    <p>Qui ualet abesse ab hoc epulo? <hi rend="speaker">So.</hi> Nescio equidem.</p>
+    <p>Deliciolarum nisi quod hanc fors taedeat. <hi rend="speaker">Di.</hi></p>
+    <p>(60) Valeat tum. <hi rend="speaker">So.</hi> ain? me id consulis? <hi rend="speaker">Di.</hi> Mecum
+    nisi</p>
+    <p>Vellet, uelim dispargeret. <hi rend="speaker">So.</hi> Dispargitur<ptr target="#tn3" n="3"/></p>
+    <p>Forsan per ora rapacium luperorum. Dicae: et id</p>
+    <p>Meritò quidem. <hi rend="speaker">So.</hi> Bona uerba. Dicae: mansisset penes</p>
+    <p>Te. <hi rend="speaker">So.</hi> pulchrè ais, mansisset. An per se stetit</p>
+    <p>(65) Quo manserit minus? <hi rend="speaker">Di.</hi> Qui ab alijs abierit?
+    <hi rend="speaker">So.</hi></p>
+    <p>Cacodaemonis fortasse persuasu. <hi rend="speaker">Di.</hi> Si huic<ptr target="#tn4" n="4"/></p>
+    <p>Adhaeserit lubentius, quur te enecas?</p>
+    <p>Referto par pari. Nihil iacturae id est,</p>
+    <p>Facile aliam tibi ouem parabis. <hi rend="speaker">So.</hi> Siccine</p>
+    <p>(70) Ais? Mihi mea haec ouis charior erit.</p>
+    <p>Potius cruore proprio redimam mihi. <hi rend="speaker">Di.</hi></p>
+    <p>Pro pelle pellem malim ego. <hi rend="speaker">So.</hi> Ingenium tuum<ptr target="#tn5" n="5"/></p>
+    <p>Nonquàm exues. Per te aegritudini nihil</p>
+    <p>Decedet huic nostrae. <hi rend="speaker">Di.</hi> Quia moneo te tuae</p>
+    <p>(75) Iusticiae, id inquis. <hi rend="speaker">So.</hi> Quaero ouem, non quaero
+    nunc</p>
+    <p>Iusticiam. Ouem nisi habuero isthanc meam,</p>
+    <p>Vita mihi mors erit. <hi rend="speaker">Di.</hi> Alius es, atque loqueris.</p>
+    <p>Animo dolenti nihil oportet credere. <hi rend="speaker">So.</hi></p>
+    <p>Credis remissum iri dolorem? sopnias.</p>
+    <p>(80) Doloris huius uulneri medebitur</p>
+    <p>Nullus, nisi, quae inflixit, ouis haec perdita. <hi rend="speaker">Di.</hi></p>
+    <p>Hic, ubi uoles, te tibi medicum habiturus es.</p>
+    <p>Facile parabis tibi alicunde aliam. <hi rend="speaker">So.</hi> Aliam?</p>
+    <p>Nihil agis. hanc uolo perditam. Non tam egeo ego</p>
+    <p>(85) Illius, atque ipsa mei. Ouis, qui uita sum,<ptr target="#tn6" n="6"/></p>
+    <p>Non expeto mortem, ast ouile in pristinum</p>
+    <p>Vt redeat, et uiuat. Mihi credito, nihil</p>
+    <p>Est quod paratus non sum huic impendere. <hi rend="speaker">Di.</hi></p>
+    <p>Num praeter aequum et meritum id? <hi rend="speaker">So.</hi> audias parum</p>
+    <p>(90) Scin’ misericordem misericordiam sibi</p>
+    <p>Natiuam habere? <hi rend="speaker">Di.</hi> Maxime. <hi rend="speaker">So.</hi> talem esse me</p>
+    <p>Nosti arbitror. <hi rend="speaker">Di.</hi> noui. <hi rend="speaker">So.</hi> Obsecro, misericordiam</p>
+    <p>Quis facere dicitur? Quid. is ne qui lubens</p>
+    <p>Bene facit immerentibus? Quò ueneris</p>
+    <p>(95) Vides? <hi rend="speaker">Di.</hi> Quàm ames hanc perditam uideo, tui</p>
+    <p>Ne tantulam rationem habens neque uideo.</p>
+    <p>Amore quid tanto in oue dignum reperias. <hi rend="speaker">So.</hi></p>
+    <p>Spontaneus amor hic. Mihi sententia est</p>
+    <p>Quoque, caeteras deserto oues committere, et<ptr target="#tn7" n="7"/></p>
+    <p>(100) Hanc quaerere. <hi rend="speaker">Di.</hi> Arido rubo praefractior</p>
+    <p>Es, non potes flecti modo, te alium adloquar</p>
+    <p>Propediem. Eo. <hi rend="speaker">So.</hi> Optimè facis quidem. Rei</p>
+    <p>Se immisceat nemo, cui mederier</p>
+    <p>Nequit. Secus qui [&lt; qni] agit, agit insipide. Vale.</p>
+    <p>(105) Abiuit irata admodum. Scio tamen,</p>
+    <p>Mihi adhuc negotij facesset plurimum.</p>
+    <p>Quin abeo, Sed nox appetit, quod si secus,</p>
+    <p>Confecta pars uiae bona esset iam mihi. Ast</p>
+    <p>Diuerbium est. In nocte consilium. Equidem</p>
+    <p>(110) Insopnis haec nox mihi futura est. et boni</p>
+    <p>Si exhibuerit quid consili, laeta admodum.</p>
+  </div>
+  <div type="level2" xml:id="actvs-secvndvs">
+    <head>4. ACTVS SECVNDVS</head>
+    <p>Bascania.</p>
+    <p>Superioribus similes.</p>
+    <p>REs nulla tam difficilis est, quin facillima</p>
+    <p>Sit quàm libens facis. Cui hoc facinus, modo</p>
+    <p>Quod gnaua designaui ego negotij</p>
+    <p>(115) Non maximi, et difficillimum uisum est? tamen</p>
+    <p>Tam facile quàm uulpes comest pyrum, meum heic</p>
+    <p>Expleui animum. Et inuidia et indignatio</p>
+    <p>Mea, non tulere ouem hancce pasci tam unctile.</p>
+    <p>Exemi ouili eandem. et usqueadeò mihi</p>
+    <p>(120) Deditam habeo, ut si uellet haec nunquam tamen</p>
+    <p>A me et meis auellier posset. Neque</p>
+    <p>Istud mihi soli uolo adscribi, meos<ptr target="#tn8" n="8"/></p>
+    <p>Quum iuuerit magnos labores non parum</p>
+    <p>Hyperephania. Vide quid inuidia facit?</p>
+    <p>(125) Ex re mihi meum nomen cessit equidem.</p>
+    <p>Mea ditio late patet. Nam est inuidus</p>
+    <p>Peccator omnis. Nemo non peccator est<ptr target="#tn9" n="9"/></p>
+    <p>Quoque quàm impero. Pastor dolebit, at meus</p>
+    <p>Gaudebit haud mediocriter. Fera pessima</p>
+    <p>(130) Comedit, et bestia uorauit ouem, eiulet.<ptr target="#tn10" n="10"/></p>
+    <p>Vel si lubet, furto esse subductam inquiat.</p>
+    <p>Ego parui ingenio meo bene inuido. Hem</p>
+    <p>Quid haec sibi uult tristicia? Timeo mihi.</p>
+    <p>Malum mihi dabit lingua. Loquitur uultus hanc</p>
+    <p>(135) De familia pastoris huiusce cui ouem</p>
+    <p>Subtraxi ego. Quam nulla res est gaudij</p>
+    <p>Perpetui. Id ut ungues scio meos. Rem omnem audijt</p>
+    <p>En gaudij extremum occupat luctus. Volo hinc</p>
+    <p>Excipere, num male garrulam iactantiam</p>
+    <p>(140) Audierit haec meam. Oppido prudens is est,</p>
+    <p>Qui labia nouerit sua moderarier.</p>
+    <p>Me dico stultam. Sed laborat pessima hâc<ptr target="#tn11" n="11"/></p>
+    <p>Linguae febri mulierculon linguax genus.</p>
+  </div>
+  <div type="level2" xml:id="scena-secvnda">
+    <head>5. SCENA SECVNDA</head>
+    <p>Dicaeosyne. Bascania. Eleemosyna.</p>
+    <p>Senarij.</p>
+    <p>DEmiror usqueadeo hominem dolere de</p>
+    <p>(145) Vnius ouis absentiâ. <hi rend="speaker">Ba.</hi> Ouis hem, non moror.</p>
+    <p>Si sciret huius me rei caput mihi</p>
+    <p>Periculum praesens. Eo. <hi rend="speaker">Di.</hi> Vel sanguine</p>
+    <p>Redimere eandem est animus. Vt deperit eam</p>
+    <p>Ades Eleemosyna? Peropportune ades.</p>
+    <p>(150) Est quod tibi referam. <hi rend="speaker">Elee.</hi> ecquid est? <hi rend="speaker">Di.</hi>
+    ridiculum erit.</p>
+    <p>Soter ouem unam perdidit. <hi rend="speaker">Elee.</hi> Ridiculum id est?</p>
+    <p>Ain’? <hi rend="speaker">Di.</hi> dolet perijsset ac si funditus. <hi rend="speaker">Ele.</hi></p>
+    <p>Sui ut similimus est. <hi rend="speaker">Di.</hi> Virum usqueadeo parum</p>
+    <p>Se meminit. <hi rend="speaker">Ele.</hi> Haud sibi sed oui dolet. Mei</p>
+    <p>(155) Est is animi. Affligor animo quoque per ouem.</p>
+    <p>Non multum abest, quin lachrymer. <hi rend="speaker">Di.</hi> lachrymare tu.</p>
+    <p>Te quaeso cuius perijt haec culpa? suâ</p>
+    <p>Ne? suspicor. <hi rend="speaker">Elee.</hi> Iurare non ausim. Di, bene est.<ptr target="#tn12" n="12"/></p>
+    <p>Pastoris an perierit? <hi rend="speaker">Ele.</hi> absit. Vidimus</p>
+    <p>(160) Tam sedulam hunc ouium suarum curam habere,</p>
+    <p>Vt uel pro earundem salute animam suam</p>
+    <p>Pacisceretur, res modo ipsa posceret. <hi rend="speaker">Di.</hi></p>
+    <p>Pro pelle pellem malim. Et alteri male<ptr target="#tn13" n="13"/></p>
+    <p>Fieri ipsa malim quam mihi. <hi rend="speaker">Ele.</hi> humana loqueris</p>
+    <p>(165) <hi rend="speaker">Di.</hi> Humana loquor? An noueris aliquem, cui</p>
+    <p>Propriâ salute. alterius est potior salus?</p>
+    <p>[Iob. 1. Iob. 2.]</p>
+    <p>Obsecro, Qui dixit, deus dedit, deus<ptr target="#tn14" n="14"/></p>
+    <p>Abstulit, huic ne filiorum gregis opum</p>
+    <p>Iactura, mitior erat, atque corporis</p>
+    <p>(170) Mala hulcera? <hi rend="speaker">Ele.</hi> oblata huic fuisset si optio</p>
+    <p>Nescio quid optasset. Deus constituit hunc</p>
+    <p>Patientiae exemplar. <hi rend="speaker">Di.</hi> Dolere absentem ouem?</p>
+    <p>Quaerat ouis illum, et uiuet. Allicere solent</p>
+    <p>Siliquae sues ad haram, ouem deliciolae</p>
+    <p>(175) Ad ouile tale non queunt pellicere? Quin</p>
+    <p>Valeat ouis. <hi rend="speaker">Ele.</hi> Per se nihil potest ouis,</p>
+    <p>Alterius auxilio indiget. <hi rend="speaker">Di.</hi> dic scin’ ubi sit?</p>
+    <p><hi rend="speaker">Ele.</hi> Ne tantulum. <hi rend="speaker">Di.</hi> auxilio indiget dicis tamen</p>
+    <p><hi rend="speaker">Ele.</hi> Quid ouis potest, si inter lupos uersetur, et</p>
+    <p>(180) Inter canes? <hi rend="speaker">Di.</hi> Si est inter istos, nihil aget</p>
+    <p>Quaerendo homo ludet operam. Perijt ouis.</p>
+    <p>Quod perijt iste quaeret. <hi rend="speaker">Ele.</hi> Ast doleo hominis<ptr target="#tn15" n="15"/></p>
+    <p>Et ouis uicem. Ille labore summo, haec miseriâ</p>
+    <p>Non infimâ cruciabitur. <hi rend="speaker">Di.</hi> Animi uirum</p>
+    <p>(185) Alterius optarem. Sua heic relinquere,</p>
+    <p>Deserto oues committere, haud sani hominis est. <hi rend="speaker">Ele.</hi></p>
+    <p>Quando id animi est uiro, feras oportet. <hi rend="speaker">Di.</hi> At</p>
+    <p>Laboris id si ualero, dissuadebo. <hi rend="speaker">Ele.</hi> per-</p>
+    <p>Suadebo ego, quaerendae oui calcar homini</p>
+    <p>(190) Futura. <hi rend="speaker">Di.</hi> Non me mortuam dices. Vale. <hi rend="speaker">Ele.</hi></p>
+    <p>Quàm nulla flectit misericordia ualeat.</p>
+    <p>Miserum est duas tam animo impares cogi simul</p>
+    <p>Versarier, nec non eodem uti foco.</p>
+    <p>Sed hem, meus ne? Commode hac absente. Quàm</p>
+    <p>(195) Heic nunc meas partes agam. Haud dici potest.</p>
+    <p>Praestat tamen seruos ut emittat suos.</p>
+    <p>Vt, si quid est laboris, id per seruulos</p>
+    <p>Exhauriatur. Nam labor seruos decet</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia">
+    <head>6. SCENA TERTIA</head>
+    <p>Soter, Eleemosyna</p>
+    <p>Trimetri Iambici</p>
+    <p>NVnc sentio quàm absentia carae rei</p>
+    <p>(200) Sollicitet hominem. Hic meus animus pastorius</p>
+    <p>Tranquillus est nonquàm. tam ouis mea est mihi</p>
+    <p>Chara. imò charior, quàm egomet sum mihi</p>
+    <p>Quod uel quis ex hoc colliget, quia ponere</p>
+    <p>Animam pro oue hacce perdita est animus. Sed hem</p>
+    <p>(205) Mea ne Eleemosyna? ipsa adest percommode.</p>
+    <p>Mirum an resciuerit animi aegritudinem</p>
+    <p>Mei. <hi rend="speaker">Ele.</hi> Omnia ex sorore resciui. et tuus</p>
+    <p>De oue perdita dolor mouet me. Misereor</p>
+    <p>Huiusce perditae ouis. <hi rend="speaker">So.</hi> Probe nostri tamen,</p>
+    <p>(210) Nihil deesse ouibus meis, quas pasco. <hi rend="speaker">Ele.</hi> Sic<ptr target="#tn16" n="16"/></p>
+    <p>Est: Neque animo est crucis parum, beneficio</p>
+    <p>Suas sibi non posse demererier, <hi rend="speaker">So.</hi></p>
+    <p>Meo malo experior. Quàm ego, quoad me audijt.</p>
+    <p>Tenellule paui et alui terrae bonis,<ptr target="#tn17" n="17"/></p>
+    <p>(215) Me haec deserit. Si exuere pastorium animum</p>
+    <p>Liceret aut possem. <hi rend="speaker">Ele.</hi> ten’ exueres? eris</p>
+    <p>Miserator atque misericors, atque id bene ex</p>
+    <p>Animo meo. <hi rend="speaker">So.</hi> Et misericordiam meam, et</p>
+    <p>Miserationem, sentiet ouis perdita</p>
+    <p>(220) Vitae meae periculo reliquero</p>
+    <p>Nunquàm. Itineri accinctus pati quiduis uolo,</p>
+    <p>Modo salua sit mea haec ouis. <hi rend="speaker">Ele.</hi> quaeso audias</p>
+    <p>Me. Sunt tibi serui fideles et boni.</p>
+    <p>Hortum uni et alteri negotium tuum</p>
+    <p>(225) Committito. His fore rem scio curae haud secus</p>
+    <p>Atque tibi. <hi rend="speaker">So.</hi> Curatum probe si quid uelis,</p>
+    <p>Ipse facito. Nihil agis. <hi rend="speaker">Ele.</hi> obsecro, par hunc,</p>
+    <p>Quo te enecas, sanctum dolorem. <hi rend="speaker">So.</hi> Dic, cui</p>
+    <p>Negotium hoc difficile committi potest</p>
+    <p>(230) Tuto? <hi rend="speaker">Ele.</hi> Heliae. <hi rend="speaker">So.</hi> num me interim
+    tabescere</p>
+    <p>Cura et dolore uis. <hi rend="speaker">Ele.</hi> sine exorem. <hi rend="speaker">So.</hi> Age age tum.</p>
+    <p>Huc Heliam euocato. Non sero moram,</p>
+    <p>Ne res refrigeat. Negotij uolo</p>
+    <p>Sit certior futuri. <hi rend="speaker">Ele.</hi> aderit huc odius.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvarta">
+    <head>7. SCENA QVARTA</head>
+    <p>Helias. Eleemosyna Soter.</p>
+    <p>Trimetri Iambici.</p>
+    <p>(235) Meus herus? <hi rend="speaker">Ele.</hi> ipsus. <hi rend="speaker">So.</hi> Helia nunc mihi
+    tuâ</p>
+    <p>Operâ opus est. audis? <hi rend="speaker">He.</hi> here ecquid tibi placet?</p>
+    <p><hi rend="speaker">So.</hi> Scies: Ouis desideratur, hanc uolo</p>
+    <p>Quaeri. Sine hac, uita mihi mors est. Tu si herum</p>
+    <p>Tuum uoles saluum, hanc mihi adduces. <hi rend="speaker">He.</hi> Ego?</p>
+    <p>(240) Qui domine possem? <hi rend="speaker">So.</hi> [&lt; Si.] Si tibi id
+    molestius</p>
+    <p>Videbitur, fac ut sciam ubi deliteat. huc</p>
+    <p>Feram. <hi rend="speaker">He.</hi> decet domine per omnia me tibi</p>
+    <p>Parere. Fiat tua uoluntas. <hi rend="speaker">So.</hi> Per uias<ptr target="#tn18" n="18"/></p>
+    <p>Et per sepes quaerito. <hi rend="speaker">He.</hi> Si eam non reperio? <hi rend="speaker">So.</hi><ptr target="#tn19" n="19"/></p>
+    <p>(245) Redito. <hi rend="speaker">He.</hi> quid si arbitrio alterius lubens</p>
+    <p>Viuat? <hi rend="speaker">So.</hi> Volo cogas eandem, ut ad suum</p>
+    <p>Ouile ouis redeat. Lupus futura si<ptr target="#tn20" n="20"/></p>
+    <p>Secus facit. Nam qui picem tetigerit, ab</p>
+    <p>Ea inquinabitur. Esto tam qui talibus,</p>
+    <p>(250) Tanquàm domesticis. lupis fruatur. <hi rend="speaker">He.</hi> Ast</p>
+    <p>Sermonibus quis fidem adhibet nostris? <hi rend="speaker">So.</hi> mea.<ptr target="#tn21" n="21"/></p>
+    <p><hi rend="speaker">He.</hi> Si nolit? <hi rend="speaker">So.</hi> hem, nolit? ita dices. Bona, mala</p>
+    <p>Mors uita. Paupertas, Honestas, apud herum<ptr target="#tn22" n="22"/></p>
+    <p>Quod si reuertitur, bona expectet, secus</p>
+    <p>(255) Diuersa. Dic me esse omnium dominum, et nisi</p>
+    <p>Redierit. exheres erit. Ne quaeritet<ptr target="#tn23" n="23"/></p>
+    <p>Me sed oculos fugiat meos quoad potest</p>
+    <p>Id dicito male gratae oui. Inuenient tuum,</p>
+    <p>Minimè licet quaesiuerint. Qua fronte tum<ptr target="#tn24" n="24"/></p>
+    <p>(260) Audebis intueri eundem? non pudet</p>
+    <p>Te ingratitudinis? <hi rend="speaker">He.</hi> Si ad haec uerba fuerit</p>
+    <p>Surda? <hi rend="speaker">So.</hi> Redeas. Munere tuo fungere tamen</p>
+    <p>Strenue. <hi rend="speaker">He.</hi> ita dices. <hi rend="speaker">Ele.</hi> quid si huic non congredi</p>
+    <p>Volet relinques? <hi rend="speaker">So.</hi> ah relinquerem? quasi</p>
+    <p>(265) Non potius hac uita uelim priuarier. <hi rend="speaker">He.</hi></p>
+    <p>Viatici, domine nihil dabis? <hi rend="speaker">So.</hi> nihil?</p>
+    <p>Et corui et angeli prius te pascerent,<ptr target="#tn25" n="25"/></p>
+    <p>Quàm tu perires tam boni negotij ex-</p>
+    <p>Plorator optimus. Fac in diem pares,</p>
+    <p>(270) Te crastinum audin’? <hi rend="speaker">He.</hi> ubi uoles. <hi rend="speaker">Ele.</hi> Si
+    cederet</p>
+    <p>Illi haec peregrinatio male, socios</p>
+    <p>Adiungito, quo certior fias. <hi rend="speaker">So.</hi> probe</p>
+    <p>Mones. Tibi adscisce socios quos expetis. <hi rend="speaker">He.</hi></p>
+    <p>Domino ut placet, num quid aliud Domine. <hi rend="speaker">So.</hi>nihil</p>
+    <p>(275) Nos in domum tempus uocat, quo hic se paret.</p>
+    <p>Tu si uoles, sequere. <hi rend="speaker">Ele.</hi> Sequor. Molestiae</p>
+    <p>Quantum subinde amor parit. Noui uirum.</p>
+    <p>Est misericordiâ ipsa misericors magis, nisi</p>
+    <p>Quis misericordiam huncce dicat rectius</p>
+    <p>(280) Quin ad hominem me confero recta modo?</p>
+    <p>Nam simile gaudet simili adesse iugiter.</p>
+  </div>
+  <div type="level2" xml:id="actvs-tertivs.">
+    <head>8. ACTVS TERTIVS.</head>
+    <p>Bascania</p>
+    <p>Trochaici Trimetri</p>
+    <p>Dij boni. mali quid accidit mihi nunc.</p>
+    <p>Quàm loquax est lingua, si boni datur quid,</p>
+    <p>Obticere nescit. Heu, quàm sollidum esset</p>
+    <p>(285) Gaudium istud, lingua si mihi fuisset</p>
+    <p>Nulla. Vere dicitur. Linguae in manu sunt,<ptr target="#tn26" n="26"/></p>
+    <p>Mors et ipsa uita. Vita cesserat, iam</p>
+    <p>Istius uitae dedit mortem, mea isthaec</p>
+    <p>Lingua. Sopnum non mei sensere ocelli hac</p>
+    <p>(290) Nocte. tanto me dolore affecit isthaec</p>
+    <p>Lingua. Non inuisam haberem praedam ego, si</p>
+    <p>Lingua conticere quiuisset. Sed usque</p>
+    <p>Est loquax haec lingua. Nescit uox remitti</p>
+    <p>Missa. Quis medebitur? Quid hem? quis huc se</p>
+    <p>(295) Proripit? Longae uiae accinctus uidetur.</p>
+    <p>Quid, num ouem? Id diuino. Vah. quàm nunc in arctum</p>
+    <p>Res meae coguntur? hinc facillimè si</p>
+    <p>Quid sit hac de oue eloquutus, consequar nunc.</p>
+  </div>
+  <div type="level2" xml:id="scena-secvnda-1">
+    <head>9. SCENA SECVNDA</head>
+    <p>Helias</p>
+    <p>Senarij Iambici.</p>
+    <p>GRandis modo Heliae mihi restat uia.</p>
+    <p>[1 Reg. 19]</p>
+    <p>(300) Dolet impotentius uir iste absentiam<ptr target="#tn27" n="27"/></p>
+    <p>Ouis suae. Multam loquuntur noctem adhuc</p>
+    <p>Tenebrae. Diem oculis reddidit domini dolor.</p>
+    <p>Diutius dormiuimus, quàm postulat</p>
+    <p>Negotium. O aeterne et omnipotens pater.</p>
+    <p>(305) Cuius potentia, sapientia, bonitas,</p>
+    <p>Creauit ac conseruat omnia, te rogo</p>
+    <p>Supplex, ut hoc iter mihi feliciter</p>
+    <p>Cedat, mei donum bono atque commodo</p>
+    <p>Miserator atque misericors pater, optime<ptr target="#tn28" n="28"/></p>
+    <p>(310) Deus, te ouis misereat huius perditae.</p>
+    <p>Quae nunc misellula siliquis cibo suillo</p>
+    <p>Alitur, et id parcissimè. huc properet suum<ptr target="#tn29" n="29"/></p>
+    <p>Ad ouile per te, cum secus nunquam queat.</p>
+    <p>Pernoscat ouis ecquid reliquerit. Pater</p>
+    <p>(315) Te obsecro, ne claudito tuas aurea meis</p>
+    <p>Hisce preculis. Nunc in uiam tempus uocat.</p>
+    <p>Prodite socij, ac ocyus me sequimini.</p>
+  </div>
+  <div type="level2" xml:id="actvs-iii.-scena-iii.">
+    <head>10. ACTVS III. SCENA III.</head>
+    <p>Bascania.</p>
+    <p><milestone unit="folio" facs="B"/></p>
+    <p>Senarij.</p>
+    <p>PErijsse me misellulam certissimum est</p>
+    <p>Ne uerbulum potui ego proloqui, uiro hoc</p>
+    <p>(320) Praesente. Erat mihi is lupus prior uidens.</p>
+    <p>Hic cum suis quaeritat ouem. Quis ambigit</p>
+    <p>Quin perierim funditus. Vt inter spem et metum</p>
+    <p>Pendeo. Si adit eam, quae modo ex me didicerit,</p>
+    <p>Ouem esse sublatam mihi, istis est uiae</p>
+    <p>(325) Labor et molestia adempta, Vita et gaudium</p>
+    <p>Mihi. solitudinem ubique credidi. sed hanc</p>
+    <p>Quis crederet, uulgus licet perhibeat id,</p>
+    <p>Etiam esse pulchrè auritam. Id attamen eloqui,</p>
+    <p>Tempusculi opportunitas nunquam tulit.</p>
+    <p>(330) Is uerus est, si quis alius, qui ait, Optimum<ptr target="#tn30" n="30"/></p>
+    <p>Sermonem oportunum esse. Quo nunc gaudium</p>
+    <p>Partum dolo prolabitur? Quod stabile</p>
+    <p>Putauimus, [&lt; putauimuus] iacet. Ruinam os lubricum<ptr target="#tn31" n="31"/></p>
+    <p>Hoc meum operatum est illi. Opu’st ut uel alios</p>
+    <p>(335) Modo consulam, qui remedium huic malo parem</p>
+    <p>Salus enim consilia ubi sunt plurima.</p>
+    <p>Sed id pudet pigetque quod non à uia</p>
+    <p>Virum huncce miserim, atque fraude eluserim</p>
+    <p>Decuisset à me uisam ouem esse dicere,</p>
+    <p>(340) Dixisse dicerem, Mihi succenseo</p>
+    <p>Nunc plurimum, quod meticulosa usqueadeo sum</p>
+    <p>Huiusmodi uerbis uirum tractassem. Ehem</p>
+    <p>Bone uir. Quo iter? Quaesisset is de oue scio. Hic</p>
+    <p>Homini meo more indicassem uisam ouem.</p>
+    <p>(345) Sunt plus minus tria milia hinc, quod uiderim</p>
+    <p>Errantem et ebalantem ouem. Est iuxta locus</p>
+    <p>Arboribus ordine consitus. Mihi obuians</p>
+    <p>Ascendit aduersa uiâ quàm ocyssimè</p>
+    <p>Potuit. Si eam petis, in pedes conijcito te</p>
+    <p>(350) Quantum potes, facile adsequêris. hoc modo</p>
+    <p>Tractandus homo mihi fuisset. Sapio, sed</p>
+    <p>Sero. Meae partis alios adibo, Si.</p>
+    <p>Quid remedij norint, malo impendant huic</p>
+    <p>Quod si nihil, perij. Papae Quae huc proripit</p>
+    <p>(355) Se tristicia? Redijt mihi animi paululum,</p>
+    <p>Quod hunc mei quoque similem reperio. Nunc</p>
+    <p>Communia mala mitiora sentio.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvarta-1">
+    <head>11. SCENA QVARTA</head>
+    <p>Soter. Dicaeosyne.</p>
+    <p>Trimetri Iambici.</p>
+    <p>SEcura mens quasi iuge conuiuium Idem ego</p>
+    <p>Experior, ex quo enim miser miserrimam<ptr target="#tn32" n="32"/></p>
+    <p>(360) Ouem hancce perdidi, haud potest dici, meus</p>
+    <p>Quanto dolore animus male affectus fuit.</p>
+    <p>Saluâ hac, quietus absque sollicitudine</p>
+    <p>Vixi. Deus mihi uidebar, omnium</p>
+    <p>Rerum uoluptate obsitus. Modò uigilans</p>
+    <p>(365) Desidero, atque dormiens sompnio meam.</p>
+    <p>Animi mei molestia huc uenit. <hi rend="speaker">Di.</hi> Sibi</p>
+    <p>Cor esitat. <hi rend="speaker">So.</hi> Antiquum obtinet. <hi rend="speaker">Di.</hi> Quem hic audio?</p>
+    <p>Hic ipsus est de quo loquor. <hi rend="speaker">So.</hi> Nihil de oue? <hi rend="speaker">Di.</hi></p>
+    <p>Valeat ouis. <hi rend="speaker">So.</hi> de oue nihil? obticeas. <hi rend="speaker">D.</hi> dies</p>
+    <p>(370) Solet aegritudinem adimere, auget haec tibi<ptr target="#tn33" n="33"/></p>
+    <p>Eandem. S. ita est. <hi rend="speaker">Di.</hi> Iucunditas cordis hominis</p>
+    <p>Vita est. <hi rend="speaker">So.</hi> scio. <hi rend="speaker">Di.</hi> te hominem puta, atque uiuere.
+    <hi rend="speaker">So.</hi></p>
+    <p><milestone unit="folio" facs="Bij"/></p>
+    <p>Mihi uita mors est. <hi rend="speaker">Di.</hi> credo. praeferenda mors</p>
+    <p>Est uitae amarae. <hi rend="speaker">S.</hi> expertus id scio. <hi rend="speaker">Di.</hi> ponito<ptr target="#tn34" n="34"/></p>
+    <p>(375) Te quaesottristiciam hanc. S. oue hacce perditat</p>
+    <p>Abito tu. <hi rend="speaker">Di.</hi> occidit eadem multos. <hi rend="speaker">So.</hi> tibi</p>
+    <p>Id uelim habeas persuasum. ut maligno [&lt; m ligno] (licet<ptr target="#tn35" n="35"/></p>
+    <p>Ille maledictus censeatur) emori<ptr target="#tn36" n="36"/></p>
+    <p>Malim, quàm ouis relinqueretur perdita:</p>
+    <p>(380) Sed spero per seruos eandem. <hi rend="speaker">Di.</hi> Quo tuos? <hi rend="speaker">So.</hi></p>
+    <p>Quaerendae oui emisi. <hi rend="speaker">Di.</hi> Si manes redierint</p>
+    <p>Domum? <hi rend="speaker">So.</hi> mihi ille labor. Requiram ego meam</p>
+    <p>Ouem, et eruam ex manu imperantium eidem. <hi rend="speaker">Di.</hi> Ain’?<ptr target="#tn37" n="37"/></p>
+    <p>Periculi rationem habebis arbitror. <hi rend="speaker">So.</hi></p>
+    <p>(385) Periculi nihil amor hic fert. Obsecro, et</p>
+    <p>Tua, et tuos relinqueres? <hi rend="speaker">So.</hi> relinquerem. <hi rend="speaker">Di.</hi></p>
+    <p>Quid tibi boni per hanc ouem cessit? <hi rend="speaker">So.</hi> dolor. <hi rend="speaker">Di.</hi></p>
+    <p>Dolor? Vin’ ex animo tibi loquar? <hi rend="speaker">So.</hi> Volo.</p>
+    <p>Nam sani erit nihil. <hi rend="speaker">Di.</hi> tu homo me redigeres</p>
+    <p>(390) Perpetuam ad insaniam. Abeas. Amabis hanc</p>
+    <p>Quae te dolore afficit? <hi rend="speaker">So.</hi> Amabo. <hi rend="speaker">Di.</hi> lex docet <ptr target="#tn38" n="38"/></p>
+    <p>Pro oculo oculus, pro dente dens, quid impedit<ptr target="#tn39" n="39"/></p>
+    <p>Quin pro dolore dolor? <hi rend="speaker">So.</hi> Is ipse sum. mihi</p>
+    <p>Si quis alapam, hanc in dextram maxillulam</p>
+    <p>(395) Impingeret, sinistram huic obuerterem. <hi rend="speaker">Di.</hi></p>
+    <p>Patientia ipsa es. Quis feret plagas? mihi</p>
+    <p>Conuicium quodque regerendum iustius</p>
+    <p>Videtur. <hi rend="speaker">So.</hi> humana loqueris. Traducat et</p>
+    <p>Proscindat haec mea me ouis, eius gratiâ</p>
+    <p>(400) Tamen, lubens petesserem pertrahier ad</p>
+    <p>Occicionem ut ouis. sed obsecro te mea<ptr target="#tn40" n="40"/></p>
+    <p>Animo meo ne usqueadeo nunc resistito,</p>
+    <p>Cedito parum, tandem triumphabis, [&lt; triumphahis] abeas,</p>
+    <p>Te ferre non possum, nisi reperta sit</p>
+    <p>(405) Mea haec misellula. <hi rend="speaker">Di.</hi> studeo lenire, si</p>
+    <p>Possem quoque, extirpare, quo te plurimum</p>
+    <p>Maceras, dolore. <hi rend="speaker">So.</hi> Oleum camino addis. <hi rend="speaker">Di.</hi> abeo. <hi rend="speaker">So.</hi></p>
+    <p>Irata uerbo abijt. Vide impotantiam.</p>
+    <p>Beneficium praestare nitebatur haec,</p>
+    <p>(410) Lenire cum mihi dolorem uoluit. Ast</p>
+    <p>Beneficium tempore suo non praestitum,</p>
+    <p>Gratum est parum. Se bene suum officium putat</p>
+    <p>Facere, ubi inofficiosa plurimum est. Nihil</p>
+    <p>Fert remedij de absentere dolor, nisi</p>
+    <p>(415) Praesentia eiusdem. Meam ne? Quam rosas</p>
+    <p>Loquetur haec mihi meras. hanc expeto.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvinta">
+    <head>12. SCENA QVINTA</head>
+    <p>Eleemosyna Soter.</p>
+    <p>Eiusdem farinae cum superioribus.</p>
+    <p>PRouiso quid rerum meus foris gerat.</p>
+    <p>Sed ipse adest. quid rerum agis? <hi rend="speaker">So.</hi> doleo. <hi rend="speaker">Ele.</hi> doles?</p>
+    <p>Quaeso, dolorem paululum remittito. <hi rend="speaker">So.</hi></p>
+    <p>(420) Quaeso, dolorem admittito dicas. <hi rend="speaker">Ele.</hi> satin’</p>
+    <p>Compos tui es? ne admiseris, quod non potest</p>
+    <p>Pelli tua ex sententia, ubi uolueris. Ast</p>
+    <p>Velim mihi ex animo loquare modo, dolor</p>
+    <p>Nihil relaxatu’st? <hi rend="speaker">So.</hi> An intentus siet</p>
+    <p>(425) Quaeras. <hi rend="speaker">Ele.</hi> Quid atri consecutus es auribus?
+    <hi rend="speaker">So.</hi></p>
+    <p>Nihil atri, et albi totidem. <hi rend="speaker">Ele.</hi> Vt intentus dolor</p>
+    <p>Ergo? <hi rend="speaker">So.</hi> Per hanc tuam. Elemo. haec in istanc rem</p>
+    <p><milestone unit="folio" facs="Biij"/></p>
+    <p>Nihil</p>
+    <p>Sani dabit. Sua est rei cuique crux</p>
+    <p>Te certiorem seruuli facient ouis,</p>
+    <p>(430) Certo scio. Ponito dolorem. Vestibus<ptr target="#tn41" n="41"/></p>
+    <p>Vt tinea. ligno ut uermis. hic cordi nocet. <hi rend="speaker">So.</hi></p>
+    <p>Praesente oue aufugabitur quiuis dolor. <hi rend="speaker">Elee.</hi></p>
+    <p>Morare seruos. <hi rend="speaker">So.</hi> labor hic. haec poena, hic dolor</p>
+    <p>Momentulum uidetur annus. <hi rend="speaker">Ele.</hi> Animule</p>
+    <p>(435) Mi, ne male crucies te. Ouis tibi salua erit.</p>
+    <p>Longa est uia, et tenera est ouis, si hanc cogerent</p>
+    <p>Cito progredi, periculum esset, ne uiae</p>
+    <p>Molestiâ moreretur. <hi rend="speaker">So.</hi> Optem te modo</p>
+    <p>Veram. <hi rend="speaker">Ele.</hi> Putas non posse per seruos ouem</p>
+    <p>(440) Perducier saluam huc? <hi rend="speaker">So.</hi> Scies. Pedes mihi</p>
+    <p>Negant suum officium amplius. Nam plumbeu’st</p>
+    <p>Hic mihi dolor. Rectâ itro. <hi rend="speaker">Ele.</hi> Subsequor Decet</p>
+    <p>Me hunc misericordiae suae exhortarier,</p>
+    <p>Tum sedulo tum iugiter. Cum partis est</p>
+    <p>(445) Contrariae mihi mea haec, nisquam suo</p>
+    <p>Quae muneri deest. Mortuam non me inquiet.</p>
+    <p>Periret haec ouis, meae quae est gloriae</p>
+    <p>Seges, et quidem summae spei? Nonquàm sinam.</p>
+    <p>Currenti equo difficile no nerit mihi</p>
+    <p>(450) Modo calcar addere. Triumphabo, scio.</p>
+  </div>
+  <div type="level2" xml:id="scena-sexta">
+    <head>13. SCENA SEXTA</head>
+    <p>Dicaeosyne Eleèmosyna.</p>
+    <p>Senarij</p>
+    <p>TRagoediae quantum haec ouis perdita mouet</p>
+    <p>Suo malo pereat, suo quae non bono</p>
+    <p>Seuarier uult. Gloriae segetem suae</p>
+    <p>Haec uocat ouem. <hi rend="speaker">Ele.</hi> uah, audiuit omnia. <hi rend="speaker">Di.</hi> mascule</p>
+    <p>(455) Homini crucem persuadeas modo. <hi rend="speaker">Ele.</hi> absit. <hi rend="speaker">Di.</hi>
+    hoc</p>
+    <p>Studes tamen suadere, ut omnia deserens</p>
+    <p>Ouis unius caussa, peregre hinc nescio</p>
+    <p>Quo gentium proficisceretur. Nonne id est</p>
+    <p>Hominem foco adsuetum, itineris molestiâ, ad</p>
+    <p>(460) Mortem adigere? Aequior huius interpres eris ut</p>
+    <p>Conijcio, fortunatior tibi esset. <hi rend="speaker">Ele.</hi> Id</p>
+    <p>Ego suadeo? me consulente serui ad hoc</p>
+    <p>Sunt missi. <hi rend="speaker">Di.</hi> ut id ficulneum est. Scis nec per hos</p>
+    <p>Nec per alequem quid posse agi, praesertim in hac</p>
+    <p>(465) Re. <hi rend="speaker">Ele.</hi> hic alia es, atque loqueris, Id scio? <hi rend="speaker">Di.</hi>
+    putas</p>
+    <p>Fauces luprorum uel canum euasisse ouem? <hi rend="speaker">Ele.</hi></p>
+    <p>Spero. <hi rend="speaker">Di.</hi> Bene speres uelim Verumtamen</p>
+    <p>Non te decet restinguere incendium oleo. <hi rend="speaker">Ele.</hi></p>
+    <p>Hic aquâ opus est. <hi rend="speaker">Di.</hi> Scis quo uelim. <hi rend="speaker">Ele.</hi> Scrutator est</p>
+    <p>(470) Renum atque cordium Deus. <hi rend="speaker">Di.</hi> sic est tamen:<ptr target="#tn42" n="42"/></p>
+    <p>Per se fatiscupidum hominem incitas. quo ouem</p>
+    <p>Quaerat. neque id nunc dico, quod molesta sis</p>
+    <p>Eapse de caussa uiro. <hi rend="speaker">Ele.</hi> Molesta sim? <hi rend="speaker">Di.</hi></p>
+    <p>Quid quaeso uerba aliud sonant isthaec tua?</p>
+    <p>(475) Ouem relinques? Misericordiae suae</p>
+    <p>Me hortarier hominem decet, ne gloriae</p>
+    <p>Meae segès pereat. Scin’hem quoniam uelim</p>
+    <p>Siccine satis? <hi rend="speaker">Ele.</hi> sic res habet. <hi rend="speaker">Di.</hi> Vin’ huius hanc</p>
+    <p>Interpretem? <hi rend="speaker">Ele.</hi> Modo dissimilis esset tui. <hi rend="speaker">Di.</hi></p>
+    <p><milestone unit="folio" facs="Biiij"/></p>
+    <p>(480) Soter relinquito domum, tuos, tuaque<ptr target="#tn43" n="43"/></p>
+    <p>Omnia, et ouem hancce quaerito. Hoc è, pessimae et</p>
+    <p>Certissimae morti ocyus te tradito. <hi rend="speaker">Ele.</hi></p>
+    <p>Interpretatio ista tali interprete</p>
+    <p>Est digna. Dic, num animum tuum explesti? loqui</p>
+    <p>(485) Per te licet? <hi rend="speaker">Di.</hi> nescio. <hi rend="speaker">Ele.</hi> Mihi concedito</p>
+    <p>Quod tute cepisti tibi. <hi rend="speaker">Di.</hi> Non me admodum</p>
+    <p>Tua uerba delectant. Sed age loquitor tamen. <hi rend="speaker">Ele.</hi></p>
+    <p>Tecum loquar perinde, ut homo cum homine, obsecro</p>
+    <p>Si nauigares cum periculo. num opem</p>
+    <p>(490) Desiderares? <hi rend="speaker">Di.</hi> maximè. <hi rend="speaker">Ele.</hi> alterius et id</p>
+    <p>Ne cum periculo? <hi rend="speaker">Di.</hi> salus res optima. <hi rend="speaker">Ele.</hi></p>
+    <p>Et passa naufragium, tibi nolles opem</p>
+    <p>Ferri? D. modis uelim omnibus, <hi rend="speaker">Ele.</hi> Compendio</p>
+    <p>Iam dixero, Si undae te haberent mortuam.</p>
+    <p>(495) Officij haberes ne loco grati. modò</p>
+    <p>Quis corpus exemptum mari, terrae inderet?</p>
+    <p><hi rend="speaker">Di.</hi> Referret umbra gratias huic. <hi rend="speaker">Ele.</hi> Vides</p>
+    <p>Quàm nassae inhaeres? expedi te si potes. <hi rend="speaker">Di.</hi></p>
+    <p>Cui nassae inhaero? <hi rend="speaker">Ele.</hi> Te ouem esse credito.</p>
+    <p>(500) Quid inuides alij, tibi quod expetis</p>
+    <p>Fieri? <hi rend="speaker">Di.</hi> Eleemosyna. Eleemosyna utinam</p>
+    <p>Pars aequa amoris tibi foret mecum in hominem, ac</p>
+    <p>Pariter fieret, ut aut tibi doleret itidem, ut</p>
+    <p>Mihi dolet, aut ego abitionem hominis quoque</p>
+    <p>(505) Flocci facerem. Studes ut homo sese exuat,</p>
+    <p>Suae immemor iusticiae. <hi rend="speaker">Ele.</hi> Abigit hic me tuus</p>
+    <p>Sermo. Tuam in rem studeo. Sed ualebis. <hi rend="speaker">Di.</hi> haec</p>
+    <p>Me insaniorem reddit ex insana. At id</p>
+    <p>Thus aulicum est. Re ipsa nihil, uerbis tamen</p>
+    <p>(510) Praestare quaelibet. Studens in rem meam.</p>
+    <p>Me tollit è medio. Misera ubique iaceo.</p>
+  </div>
+  <div type="level2" xml:id="actvs-qvartvs.">
+    <head>14. ACTVS QVARTVS.</head>
+    <p>Cosmus.</p>
+    <p>Trimetri.</p>
+    <p>COsmus uocer licet, tamen κοσμοκράτως</p>
+    <p>Re ipsa sum, id est, mundi gubernator. Meum</p>
+    <p>Finitur imperium, neque Oceano neque</p>
+    <p>(515) Astris. Meo imperio uniuersa subiacent.</p>
+    <p>Licet hic sacro, ille se prophano iactitet</p>
+    <p>Imperio. et id meritò quidem. quando omnia</p>
+    <p>Tremefaciunt nutu unico. nisi id foret,</p>
+    <p>Quaeuis sacra prophanis mixta cerneret</p>
+    <p>(520) Quiuis. Sacro subsunt quidem, sanctissimum</p>
+    <p>Qui cardinem fidei tuentur sedulò:</p>
+    <p>Episcopi. Abbates. Decani. Canonici.</p>
+    <p>His uaria et indigesta silua sacrificῶμ.</p>
+    <p>Porrò. Imperatori prophano subiacent,</p>
+    <p>(525) Licet iugum aliquis iactet, augustissimi</p>
+    <p>Reges. Duces cum Marchionibus. Viri</p>
+    <p>Quoque principes, cum Heroïbus. Satrapa potens.</p>
+    <p>Et praetor aequus. Consules consulti: adhaec</p>
+    <p>Patres Senatores. Papae, paululum aberat,</p>
+    <p>(530) Quin omnium primos reliquissem bene</p>
+    <p>Lethaeus. Igniobilium in hoc albo tenet</p>
+    <p>Non infimas fictitia nobilitas: et his</p>
+    <p>Plebeia fex subsidit, ut fecem decet.</p>
+    <p>Nostrae potentiae uniuersi subsident</p>
+    <p>(535) Et diuites et pauperes monosyllabi</p>
+    <p>Mihi sunt. mei studiosus est et caecus, et</p>
+    <p>Claudus. Et, ut eloquar tribus uerbis, nisi</p>
+    <p>Forte è grege unum exceperis, quiuis. Quis hic</p>
+    <p>Sit, ipse non noui. Licet tamen adserat<ptr target="#tn44" n="44"/></p>
+    <p>(540) Quidam, quod idem me creauerit, quasi</p>
+    <p>Ab initio non fuerim, ut autores boni et</p>
+    <p>Non poenitendi disputant, et id quidem</p>
+    <p>Mordicus. At absurdius eo, idem blactitat.</p>
+    <p>Ait bonus uir ille, Quisquis ex uiro hoc<ptr target="#tn45" n="45"/></p>
+    <p>(545) Est natus, hic me uincit.Impudentiam</p>
+    <p>Vide obsecro. Hic modo euolabunt ex eodem</p>
+    <p>Ouo, in odium, atque in mutuum exitum.</p>
+    <p>Quàm idem loquatur dissidentia secum? Ait.</p>
+    <p>Huc ille missus est creator, ut et ego<ptr target="#tn46" n="46"/></p>
+    <p>(550) Quoque per eundem seruor. Absurdissimum.</p>
+    <p>Seruaret hic me, cum sui me uincerent?</p>
+    <p>Quae dissident secum, modo haecce consident?</p>
+    <p>Non uideo. uellem quis doceret me. Videt</p>
+    <p>Ne quilibet, quod hi quibus quiduis subest.</p>
+    <p>(555) Studiosores sunt mei plus quàm decet?</p>
+    <p>Cosmi iugum non illibentes hi ferunt.</p>
+    <p>Istos sequuntur caeteri, nempe capita. Ast</p>
+    <p>Operarios aliquot necesse est rideam.</p>
+    <p>Quos cernimus, quidquid diurnâ opellulâ,</p>
+    <p>(560) Sibi queant lucrifacere, illud uestibus:</p>
+    <p>Quae satrapas exenterarent maximos:</p>
+    <p>Impendere. His addunt bicornes, atque eos</p>
+    <p>Holosericatos calceos. Habent quoque</p>
+    <p>Sibi foemorlia serica. Horum si pedes</p>
+    <p>(565) Manu teneret aliquis, hastile tibias,</p>
+    <p>Vexilla foemora esse diceret. Etiam hoc</p>
+    <p>Ornatu, ita isti sibi placent, ut gaudeant</p>
+    <p>Cognomine appellari honorifico. uide</p>
+    <p>Quaeso hancce molliciem aurium, durâ manu</p>
+    <p>(570) Partam. Febris si menstrua adriperet eos,</p>
+    <p>Ornatus hic migraret ad danistam. Ita</p>
+    <p>Mihi placere student. Quis hic obsecro, non</p>
+    <p>Esset cachinno, saxeus quàmuis foret?</p>
+    <p>Atqui meam quid iactito potentiam?</p>
+    <p>(575) Est mundus et caro quilibet, coeli interim</p>
+    <p>Nulla ratio. Sarca huc meam? Ex aequo potens</p>
+    <p>Vterque. Dici non potest, quàm ego hanc, et haec</p>
+    <p>Me amet. Vel hic, uel nusquàm habet fontem adagio.</p>
+    <p>Mater amoris similitudo est. Me petit.</p>
+  </div>
+  <div type="level2" xml:id="scena-secvnda-2">
+    <head>15. SCENA SECVNDA</head>
+    <p>Sarx Cosmus.</p>
+    <p>Senarij.</p>
+    <p>(580) SAlueto Cosme mi. <hi rend="speaker">Co.</hi> Salutis ecquid ad-</p>
+    <p>Huc indigemus, quum sumus hominum salus. Sa:</p>
+    <p>Sic est. Mihi quando bene est, tibi quoque ubi</p>
+    <p>Res perplacet, diuina uita uiuitur.</p>
+    <p>Quis non meret Cosmo et mihi? <hi rend="speaker">Co.</hi> Nemo, nisi</p>
+    <p>(585) Cui non sinit egestas idem. <hi rend="speaker">Sa.</hi> Verus es.</p>
+    <p>Quiuis amicitiam meam unice expetit,</p>
+    <p>Nisi unus ille spiritus. cum quo mihi<ptr target="#tn47" n="47"/></p>
+    <p>Capitale dissidum fuit semper, et erit. <hi rend="speaker">Co.</hi></p>
+    <p>Facile huius impetus retundentur, modo</p>
+    <p>(590) Princeps meus me iuuerit. <hi rend="speaker">Sarx.</hi> Sed hic prucul<ptr target="#tn48" n="48"/></p>
+    <p>Fugabitur, si uerus ille sit. <hi rend="speaker">Co.</hi> Fere</p>
+    <p>Superbus, inuidus, gulosus, Venereusce</p>
+    <p>Acidiosus, auarus, iracundus, est</p>
+    <p>Quiuis procul fugabitur. <hi rend="speaker">Sa.</hi> Nihil excipi</p>
+    <p>(595) Volo. <hi rend="speaker">Co.</hi> Mihi religio esset. <hi rend="speaker">Sa.</hi> esset?
+    Dicere</p>
+    <p>Verum? <hi rend="speaker">Co.</hi> In malo et mendacio mundus situ’st<ptr target="#tn49" n="49"/></p>
+    <p>Totus. Fides mendaci habetur nulla. et</p>
+    <p>Verissima et comperta quamuis dicat. Ast</p>
+    <p>Ad rem. Obsecro, cuius opera tale est genus</p>
+    <p>(600) Mortale? dic? Quis haesitat quin principis</p>
+    <p>Mei? <hi rend="speaker">Sa.</hi> Aedepol nullus. <hi rend="speaker">Co.</hi> Ita naribus homines</p>
+    <p>Pertrahere quo uelis, imperare num tibi</p>
+    <p>Videtur? Hic ueru’st? <hi rend="speaker">Sa.</hi> Per omnia imperat.</p>
+    <p>Si quis alius. <hi rend="speaker">Co.</hi> Persuadeant sibi interim</p>
+    <p>(605) Mandasse se laqueos mihi. atque me sibi</p>
+    <p>Crucifixum, et itidem se mihi. <hi rend="speaker">Sa.</hi> Quàm duplices</p>
+    <p>[Ad Gal. 6]</p>
+    <p>Sunt. Quàm ab animo diuersa lingua est. Vidimus<ptr target="#tn50" n="50"/></p>
+    <p>Horum aliquot, et cinericio, et piceo quoque</p>
+    <p>Gaudere mundo. epulis et unctioribus</p>
+    <p>(610) Quo nitida sit caro, bene curataque cutis.</p>
+    <p><hi rend="speaker">Co.</hi> Ne quid nimis. tacto hulceri ne remedium</p>
+    <p>Fors reperiant, nobisque sese subtrahant</p>
+    <p>Nostro malo. <hi rend="speaker">Sa.</hi> ferenda iactura haec quidem.</p>
+    <p>Sed nescio, quam quisque sit battologus in</p>
+    <p>(615) Nos. Vsque habent in ore. Qui Christo merent,<ptr target="#tn51" n="51"/></p>
+    <p>Carnem cruci adfixere cum uitijs. Item<ptr target="#tn52" n="52"/></p>
+    <p>Si carnei uixeritis, interbitis.</p>
+    <p>Huius farinae ineptiunt plurima boni</p>
+    <p>Iste uiri. quae splendida illis suggerit</p>
+    <p>(620) Lingua. <hi rend="speaker">Co.</hi> Sileamus ergo, nobiscum in sinu</p>
+    <p>Circumferentes, his nocere quod potest.</p>
+    <p>Non omnium est sumenda semper ultio.</p>
+    <p>Iniuriae nobis nihil faciunt, licet</p>
+    <p>Haec personent. Nihil ferunt patientius</p>
+    <p>(625) Nostro iugo. <hi rend="speaker">Sa.</hi> Sic res se habet. Relinquo eis</p>
+    <p>Linguam, cui fidei hic habetur paululum.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.">
+    <head>16. SCENA TERTIA.</head>
+    <p>Paracoë Bascania</p>
+    <p>Scazontes.</p>
+    <p>NVnc sentio demum, quàm id inquiunt uerè,</p>
+    <p>Mortem atque uitam lingua gestitat secum.<ptr target="#tn53" n="53"/></p>
+    <p>Audiuit omnem rem? <hi rend="speaker">Ba.</hi> omnem. <hi rend="speaker">Pa.</hi> Ouem esse sublatam?</p>
+    <p>(630) <hi rend="speaker">Ba.</hi> Idipsum. <hi rend="speaker">Pa.</hi> Ain? Qui id conijcis? <hi rend="speaker">Ba.</hi>
+    Scies. Nostrae</p>
+    <p>Iactantiae haec lupum famelicum se obfert. Pa:</p>
+    <p>Iactantiâ hac opus fuit nihil. Rapto</p>
+    <p>Pullo inquiunt nunquàm suo bono cornum</p>
+    <p>Crocire. <hi rend="speaker">Ba.</hi> Sic est. Huic malo salus nulla</p>
+    <p>(635) Dari potest. Subuersio ipsius lingua im-<ptr target="#tn54" n="54"/></p>
+    <p>Prudentis est. Praecisa si mihi lingua</p>
+    <p>Fuisset. <hi rend="speaker">Pa.</hi> Inuido subinde non lingua</p>
+    <p>Opus’st. <hi rend="speaker">Ba.</hi> Modo aegritudinis nihil nobis</p>
+    <p>Esset. <hi rend="speaker">Pa.</hi> Animum capessito. Feras et non</p>
+    <p>(640) Culpes, quod ipsa sors tulit mali: Nam te</p>
+    <p>Confeceris cruce uariâ licet, factum</p>
+    <p>Reddideris infectum minimè tamen. Standum est</p>
+    <p>Fortunâ. At huc rectâ uenit caput, fons et</p>
+    <p>Origo nostra. nunc malo salus praesto est.</p>
+    <p>(645) Negocij quod plurimum exhibet multis</p>
+    <p>Subinde, consilio unius id in integrum</p>
+    <p>Restituitur facilè. Audias quid haec dicat.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvarta.">
+    <head>17. SCENA QVARTA.</head>
+    <p>Hyperephania. Bascania. Paracoë.</p>
+    <p>Trochaici trimetri.</p>
+    <p>O Omnia ex sententia cessere nobis.</p>
+    <p>Cui manum admouemus, indipiscitur mox</p>
+    <p>(650) Exitum cuique expetendum. Sum caput, prae<ptr target="#tn55" n="55"/></p>
+    <p>Omnibus, peccati. Vt illum, qui fuit re</p>
+    <p>Lucifer, tenebrifer modo, expuli coelo.</p>
+    <p>Suggerente me, uolens, altissimo esse<ptr target="#tn56" n="56"/></p>
+    <p>Persimilis hic, corruit momento eodem, ad</p>
+    <p>(655) Inferos, ipse omnium infimus. Sed id per</p>
+    <p>Me quidem. Tan sum potens. Nunc uero opella</p>
+    <p>Nostrâ ouis perchara pastori cuidam, est</p>
+    <p>Rapta. Quàm nunc est lupis commissa saeuis.</p>
+    <p>Sedulò gaudemus in sinu, ut decet, quod</p>
+    <p>(660) Ditioni subiacet nunc nostrae ouis. <hi rend="speaker">Ba.</hi> Quàm</p>
+    <p>Falleris. Hy. Quam hic audio? Bascaniam ne?</p>
+    <p>Qui se ouis? <hi rend="speaker">Ba.</hi> Non rite. <hi rend="speaker">Hy.</hi> quid? B. nullae sumus. Hy.
+    nos?</p>
+    <p>Dic, qui ita? <hi rend="speaker">Ba.</hi> omnem rem audies. Purgatam habe me.</p>
+    <p><hi rend="speaker">Hy.</hi> Quid mali actum est? <hi rend="speaker">Ba.</hi> Audies: lingua haesitat. <hi rend="speaker">Hy.</hi>
+    Ne</p>
+    <p>(665) Me diu teneto suspensam precor. <hi rend="speaker">Pa.</hi> Dic</p>
+    <p>Expetis me interpretem? <hi rend="speaker">Ba.</hi> Non, eloquar rem. Hy:</p>
+    <p>Quidquid est aequissime nunc consulam. Dic. Ba:</p>
+    <p>Pectus euomit subinde quo scatet. Scis</p>
+    <p>Et genus nostrum loquax esse admodum. Hypere. Quod</p>
+    <p>(670) Mordeat nos, audio nihil. <hi rend="speaker">Ba.</hi> Sequetur.</p>
+    <p>Prodeambulans ouem raptam esse iacto. Hy:</p>
+    <p>Salua adhuc quaeuis. <hi rend="speaker">Ba.</hi> Mane. Pastoris audit</p>
+    <p>Haec domestica. <hi rend="speaker">Hy.</hi> Hic dolor. Salua est ouis, sed</p>
+    <p>Nos nihil minus. <hi rend="speaker">Ba.</hi> Malo huic nulla est salus. <hi rend="speaker">P.</hi> quid</p>
+    <p>(675) Consili? nihil tibi? <hi rend="speaker">Hy.</hi> Solent uiri per</p>
+    <p>Se, haud probe gestae rei, medelam habere.</p>
+    <p>Nostrum adhibo principem, hic dabit salutem. <hi rend="speaker">Pa.</hi> Est</p>
+    <p>Callidus uulplenius. <hi rend="speaker">Hy.</hi> Me confero illuc. <hi rend="speaker">Pa.</hi></p>
+    <p>Vita, mors, in huius aduentu resistit.</p>
+    <p>(680) Praeda si reuertitur, mors praesto nobis.</p>
+    <p>Si secus, uita. <hi rend="speaker">Ba.</hi> Aedepol, sic res habet se. <hi rend="speaker">Pa.</hi></p>
+    <p>Hem quis huc uenit? <hi rend="speaker">Ba.</hi> Precor ne quaerito me.</p>
+    <p>Plumbeum hunc animum pedes non ferre possunt,</p>
+    <p>Vel morae tantillum. eo. <hi rend="speaker">Pa.</hi> Vulgus bene inquit.</p>
+    <p>(685) Quemlibet sui mali autorem sibi esse.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvinta.">
+    <head>18. SCENA QVINTA.</head>
+    <p>Helias.</p>
+    <p>Iambici Trimetri.</p>
+    <p>HVmanum id est factum? ferae non sunt ferae</p>
+    <p>Si conferantur his. Misella ouis quibus</p>
+    <p>Instructa erat modis. Lupus per omnia</p>
+    <p>Erat. Haud queo suis ouem depingere</p>
+    <p>(690) Coloribus, nisi quanta quanta sit, nihil</p>
+    <p>Minus quàm ouis sit. Comitibus morti datis</p>
+    <p>Satis ego cum periculo euasi. Domum<ptr target="#tn57" n="57"/></p>
+    <p>Vix audeo ingredi, tam hero tristis adero</p>
+    <p>Nuncius ego, haec faciat et addat mihi Deus,</p>
+    <p>(695) Si nouerim unde exordiar telam. Viro</p>
+    <p>Verbum futurum est quodque telum, et id quidem</p>
+    <p>Penetrabile. Vt luctu domus turbabitur.</p>
+    <p>Conuiuij domui domum luctus praehabent.</p>
+    <p>Sed, optioni cura quàmuis sit comes,<ptr target="#tn58" n="58"/></p>
+    <p>(700) Optaret optionem (ut arbitror) hominum</p>
+    <p>Quiuis. Mea ne prodit Dicaeosyne? Equidem</p>
+    <p>Ipsa est. Huic nihil, nisi iustum placet.</p>
+    <p>Iniusticiam ouis faxo resciscat tamen,</p>
+    <p>Vt quae bene monentem male à se repulerit.</p>
+  </div>
+  <div type="level2" xml:id="scena-sexta.">
+    <head>19. SCENA SEXTA.</head>
+    <p>Dicaeosyne Helias</p>
+    <p>Senarij.</p>
+    <p>(705) IVsticia apud uirum huncce non habet locum.</p>
+    <p>Quapropter haud feror, licet desiderem</p>
+    <p>Tamen meum officium exhibere sedula.</p>
+    <p>Reijcior officiosa. Id est hulcus animo</p>
+    <p>Meo, dolore quòd exedit se homo, et id quidem</p>
+    <p>(710) Abs re. Putat superesse ouem, quae inter feras</p>
+    <p>Versata iamdudum est? Scio haec si dicerem,</p>
+    <p>[Esaie. 11.]</p>
+    <p>Occineret ilico mihi, Cum agno lupus<ptr target="#tn59" n="59"/></p>
+    <p>Habitabit, et uitulus. leo, atque ouis simul</p>
+    <p>Domo fruentur eâdem. Vt est pulcherrimè</p>
+    <p>(715) Huiusmodi instructus. Papae, reuersus est</p>
+    <p>Seruus. num ouem reduxerit demiror: id</p>
+    <p>Modò sciscitari lubet. Ades gratissimus.</p>
+    <p>Prae foribus hîc quid, quaeso, uenare Helia? <hi rend="speaker">He.</hi></p>
+    <p>Ego forium coronidem non audeo</p>
+    <p>(720) Contingere. horreo quum easdem inspicio. <hi rend="speaker">Di.</hi>
+    Quid</p>
+    <p>An pertimes pistrinum? aï? <hi rend="speaker">He.</hi> Pistrinum ais?</p>
+    <p>Ex diametro ille dissidet mecum, cui<ptr target="#tn60" n="60"/></p>
+    <p>Eiusmodi cedet, tenebris, lachrymis.</p>
+    <p>Stridore dentium Horridum pistrinum. At haec</p>
+    <p>(725) Fabula agitur nostro. <hi rend="speaker">Di.</hi> Cui, hero? <hi rend="speaker">He.</hi> ipsi.
+    <hi rend="speaker">Di.</hi> nondum ouem</p>
+    <p>Reperisti? <hi rend="speaker">He.</hi> Ouem? reperi. <hi rend="speaker">Di.</hi> Viro uitam dabis.</p>
+    <p>Mirum in modum gaudeo. <hi rend="speaker">He.</hi> Pyraustae gaudium. <hi rend="speaker">Di.</hi></p>
+    <p>Hero quum ademptus est dolor, mihi gaudium</p>
+    <p>Est solidum atque iuge. <hi rend="speaker">He.</hi> Veram te uelim. <hi rend="speaker">Di.</hi></p>
+    <p>(730) Num ouis in ouili est? <hi rend="speaker">He.</hi> Salua res esset. <hi rend="speaker">Di.</hi>
+    ubi nam est?</p>
+    <p><hi rend="speaker">He.</hi> Inter ferissimas feras ferinam agit</p>
+    <p>Vitam. et nihil minus quàm oui’st. Dicae: Ouis? Bona</p>
+    <p>Verba. <hi rend="speaker">He.</hi> id meo periculo expertus sum ego.</p>
+    <p>Antris enim atque solitudini, meae<ptr target="#tn61" n="61"/></p>
+    <p>(735) Vitae salutem debeo. Sed (laus Deo)</p>
+    <p>Salua cute adsum, caeteri tamen cute</p>
+    <p>Lacera animis fores patefacere. <hi rend="speaker">Di.</hi> Quin<ptr target="#tn62" n="62"/></p>
+    <p>Fuistis imperiosiores forsitan</p>
+    <p>Quàm par erat. <hi rend="speaker">He.</hi> nullus suo non functus est</p>
+    <p>(740) Officio. Ouem quaesiuimus. Precibus minas</p>
+    <p>Adiecimus. Vitam ferinam seduli im-</p>
+    <p>Probauimus. <hi rend="speaker">Di.</hi> Periculum hui tibi. Quis hos</p>
+    <p>Momos feret? Cui non sua est uita optima? Haud</p>
+    <p>Ferunt salutifera incitabula hi, quibus</p>
+    <p>(745) Vitiosa uita carpitur. <hi rend="speaker">He.</hi> Sane, Salus</p>
+    <p>Non posset, etsi uellet, hos seruare. <hi rend="speaker">Di.</hi> Num</p>
+    <p>Letum tuis, periculum tibi, una ab oue? <hi rend="speaker">He.</hi></p>
+    <p>Erant ouillis pellibus lupi, haud oues. <hi rend="speaker">Di.</hi></p>
+    <p>Atqui hem, quid ex te audio? Laborant numero oues?</p>
+    <p>(750) Saltem unicam esse credidi. <hi rend="speaker">He.</hi> cum stellulis</p>
+    <p>De multitudine diceres certare oues. <hi rend="speaker">Di.</hi></p>
+    <p>Quid, tam cito? <hi rend="speaker">He.</hi> Vnus hic dies, ibi mille sunt<ptr target="#tn63" n="63"/></p>
+    <p>Anni. Mathusalem cui nongenti erant<ptr target="#tn64" n="64"/></p>
+    <p>Et sexaginta nouem. adhuc domini die</p>
+    <p>(755) Magno minor fuit. <hi rend="speaker">Di.</hi> Atqui ouile forsitan</p>
+    <p><milestone unit="folio" facs="C"/></p>
+    <p>Non caperet hunc numerum, licet cupidissime</p>
+    <p>Eò aduolarent. <hi rend="speaker">He.</hi> Mansiones plurimae<ptr target="#tn65" n="65"/></p>
+    <p>Hic sunt. <hi rend="speaker">Di.</hi> Sed obsecro, quid usque adeo times</p>
+    <p>Pulsare uestras has fores? <hi rend="speaker">He.</hi> uitae uiri</p>
+    <p>(760) Timeo, nihil cum nunciauero, quod hunc</p>
+    <p>Non mordeat. <hi rend="speaker">Di.</hi> Mihi iste sit labor. Quasi</p>
+    <p>Ex sympulo stillatim ei instillabo, quae</p>
+    <p>Tu nuncias modò, ne malorum mole fors</p>
+    <p>Succumbat. <hi rend="speaker">He.</hi> id recte fieret. <hi rend="speaker">Di.</hi> Hic interim</p>
+    <p>(765) Latens uirum spe pascito. <hi rend="speaker">He.</hi> Occultum est nihil</p>
+    <p>Quod non reuelabitur. Et aures, et oculos,</p>
+    <p>Nusquàm ille non habet. Oim est quoque praescius.</p>
+  </div>
+  <div type="level2" xml:id="actvs-v.">
+    <head>20. ACTVS V.</head>
+    <p>Bascania.</p>
+    <p>Superioribus similes.</p>
+    <p>COnsilij apud mulierculas nihil est. Malo</p>
+    <p>Cuiuis medentur lachrymis. Senatulus</p>
+    <p>(770) Est mortuus mulierculῶν consessus. Id</p>
+    <p>Vsque adeo me infortunium docuit meum. In</p>
+    <p>Procinctu habebat ille princeps noster, huic</p>
+    <p>Malo obuiam qui posset iri. Quàm hic tamen</p>
+    <p>Sudauimus mirum est, sed abs re, quamlibet</p>
+    <p>(775) Dicamur astutae tamen, gaudeo equidem.</p>
+    <p>Habet ille Cosmum et Sarca deuinctos sibi.</p>
+    <p>Istos satis fore credidit retinendae oui.</p>
+    <p>Eosdem adit, qui pollicentur suam operam</p>
+    <p>Vltronei. Quis obsecro non carneus</p>
+    <p>(780) Mundo placere non studet? Si quis secus</p>
+    <p>Facit, ambulans recto itinere, his despectui</p>
+    <p>[Prov. 14.]</p>
+    <p>Est. Dignus est iste meus ut stet aureus<ptr target="#tn66" n="66"/></p>
+    <p>In olympia. Qui piceus à pictoribus</p>
+    <p>Depingitur modo. Quem onerant uocabulis</p>
+    <p>(785) Horribilibus, pictura inani et pessima,</p>
+    <p>Hunc uita honorant. Diabolum. Sathana. re</p>
+    <p>Ipsa tamen, Daemona, uocant, omniscius</p>
+    <p>Quum sit. Calumniae quis hunc conuincere</p>
+    <p>Potest? Cui aduersatus est? Quin omnibus</p>
+    <p>(790) Est calcar ad uitam quam amant. Desiderant.</p>
+    <p>Calumniatorem uocent, qui aperte ait,</p>
+    <p>Bonum esse neminem. Benefacere neminem.<ptr target="#tn67" n="67"/></p>
+    <p>Sibi iustus ubi sit quilibet. Si principi<ptr target="#tn68" n="68"/></p>
+    <p>Nostro uelint nomen suum uerum indere,<ptr target="#tn69" n="69"/></p>
+    <p>(795) Mundi huius appellent eundem principem.</p>
+    <p>Quod eos sua oracula docent. Hypocritae</p>
+    <p>Alij ore sunt, alij animo. Aegrimonia</p>
+    <p>Ipsa huc uenit. Pastor ouis est. Nunc audiam</p>
+    <p>Quid hic de oue statuat. Solet enim dicier.</p>
+    <p>(800) Summâ haeret in linguâ malus animi dolor.</p>
+  </div>
+  <div type="level2" xml:id="scena-secvnda.">
+    <head>21. SCENA SECVNDA.</head>
+    <p>Soter. Bascania.</p>
+    <p>Senarij.</p>
+    <p>SEd dixin’ hoc fore? licet omnem operam homulus<ptr target="#tn70" n="70"/></p>
+    <p>Impendat, ut quaerat, tamen non reperiet.</p>
+    <p>Reperisse se inquit, at reductam, pristino</p>
+    <p>Nec non ouili restitutam, oportuit.</p>
+    <p>(805) Repertum erit alicui id, quod in furum manu</p>
+    <p>Situm est? Rem huic mandens arundineo admodum</p>
+    <p>Scipioni ego innitebar: Aegritudinem</p>
+    <p>C ij [&lt; ij C]</p>
+    <p>Non sustulit, sed auxit enarrando quàm</p>
+    <p>Ouilis oblita sit ouis. quàmque immemor</p>
+    <p>(810) Beneficiorum sit meorum. Proh dolor.</p>
+    <p>Sed quod meos occiderit, animo meo<ptr target="#tn71" n="71"/></p>
+    <p>Capitale uulnus est. Satius esset equidem haec</p>
+    <p>Nescire me. Atqui omnia scio: <hi rend="speaker">Basca.</hi> Salua omnia. <hi rend="speaker">So.</hi></p>
+    <p>Quid agam? relinquam ouem? meam? tenellulè à</p>
+    <p>(815) Me fotam et enutritam? ouem hancce perditam?</p>
+    <p><hi rend="speaker">Ba.</hi> Quàm timeo quorsum euadat? <hi rend="speaker">So.</hi> Hanc uiuere uolo.</p>
+    <p>Per me gregi addetur ouis haec suo. Meam</p>
+    <p>Vocem audiet. Sequetur à tergo me, ut hunc<ptr target="#tn72" n="72"/></p>
+    <p>Qui uerus eius pastor est. Reduxero<ptr target="#tn73" n="73"/></p>
+    <p>(820) Ego ipse ouem in terram hanc. in humeros
+    impositam<ptr target="#tn74" n="74"/></p>
+    <p>Domum hancce sustulero, negotio licet</p>
+    <p>Cum maximo. Heu. quaenam futura imaginor</p>
+    <p>Praesens, et ea certissima tamen. Inutilis</p>
+    <p>Vocitabor illi, uita cuius ero. Meae<ptr target="#tn75" n="75"/></p>
+    <p>(825) Vinclis, ligabuntur manus. Satiabor et</p>
+    <p>Conuitijs et quaestionibus. Columnae<ptr target="#tn76" n="76"/></p>
+    <p>Annexus, excoriabitur lictorijs</p>
+    <p>Virgis tenera cutis. Genae uellentur. et<ptr target="#tn77" n="77"/></p>
+    <p>Mucore facies contegetur. Proferet</p>
+    <p>(830) Terra tribulos mihi, labore maximo<ptr target="#tn78" n="78"/></p>
+    <p>Quam ego colui. Et tanti laboris praemium,</p>
+    <p>Cibus mihi fel, potus et mihi acetum erit.<ptr target="#tn79" n="79"/></p>
+    <p>Hinc ponar insignum, me ut aspiciens, queat<ptr target="#tn80" n="80"/></p>
+    <p>Vitam indipisci. Proh dolor. quinam euehar.</p>
+    <p>(835) Neque species, neque decor erit ullus mihi.<ptr target="#tn81" n="81"/></p>
+    <p>Abiecto plebis. popelli opprobrium.<ptr target="#tn82" n="82"/></p>
+    <p>[Psal. 28.]</p>
+    <p>De uestibus certabitur sorte. Haec satis<ptr target="#tn83" n="83"/></p>
+    <p>Certo scio. gratia ouis isthaec me manent.</p>
+    <p>Referre singula, temporis praesentis est</p>
+    <p>(840) Minimè. Cui non cogerent manum ab ancora</p>
+    <p>Isthaec referre? <hi rend="speaker">Ba.</hi> Bene est. <hi rend="speaker">So.</hi> Nisi me dempseris.</p>
+    <p>Qui me arietem obfero in hostiam ultro. <hi rend="speaker">Basc.</hi>Peius hoc<ptr target="#tn84" n="84"/></p>
+    <p>Nihil dari potest. <hi rend="speaker">So.</hi> Amor periculi</p>
+    <p>Nihil timet equidem. Sed hic quidnam moror?</p>
+    <p>(845) Accinctus itineri uiam capesso. Ne</p>
+    <p>Forte mea remora huc adueniret, ac per hanc</p>
+    <p>Remorarer. Ad minimum apicem quae ipse statui,</p>
+    <p>Fieri uolo. Difficile amanti nihil erit.</p>
+  </div>
+  <div type="level2" xml:id="scena-tertia.-1">
+    <head>22. SCENA TERTIA.</head>
+    <p>Bascania Sarx Cosmus.</p>
+    <p>Eiusdem numeri.</p>
+    <p>NIsi charitas hic sit, nihil erit. Proximum</p>
+    <p>(850) Esse sibi quemque ineptiunt. Sese huic ouis<ptr target="#tn85" n="85"/></p>
+    <p>Est charior, meo et id malo. Dubium esset, hunc</p>
+    <p>Nobis ouem posse eripere? Certo scio</p>
+    <p>Felicitatis ultimum hunc nobis diem. En</p>
+    <p>Nostra huc salus, quam saxea his nuncia adero,</p>
+    <p>(855) Saxa mera proferens. Adestis commodi.</p>
+    <p>Malis eram impar sola. <hi rend="speaker">Sa.</hi> ualeant mala <hi rend="speaker">Ba.</hi></p>
+    <p>Validissima esse adseres. Nostrae arcis ef-</p>
+    <p>Fingent fores. <hi rend="speaker">Co.</hi> Hem, loquitor auspicatius.</p>
+    <p>Rides? <hi rend="speaker">Ba.</hi> Ego? acsi scutica putasset oculos.</p>
+    <p>(860) Praeda auferetur opima. <hi rend="speaker">Sa.</hi> Ouis? <hi rend="speaker">Co.</hi> Animo
+    bono</p>
+    <p>Sis. <hi rend="speaker">Ba.</hi> pessimo. <hi rend="speaker">Co.</hi> Per sanguinis non paululum</p>
+    <p>Id fiet. <hi rend="speaker">Ba.</hi> Hic hic pastor est, cui causa ouis.</p>
+    <p><milestone unit="folio" facs="Ciij"/></p>
+    <p>Sanguineum erit, torcular et calcantium<ptr target="#tn86" n="86"/></p>
+    <p>Persimile uestimentum. <hi rend="speaker">Co.</hi> Opinaris aliquem</p>
+    <p>(865) Taedere tam uitae suae? insanis? <hi rend="speaker">Ba.</hi> Mori huic</p>
+    <p>Viuere erit. Et uerbis fides si sit aliqua.</p>
+    <p>Afflictionibus iste gaudet. Arbitror</p>
+    <p>Illud sibi persuasum habere uirum, quod et</p>
+    <p>Afflictio patientiam, patientia<ptr target="#tn87" n="87"/></p>
+    <p>(870) Probationem, isthaec probatio spem parit.</p>
+    <p>Spes bona hominem conseruat in rebus malis. <hi rend="speaker">Sa:</hi></p>
+    <p>Resciscat hic poenam sibi certissimam.</p>
+    <p>Referet pedem timore captus maximo. <hi rend="speaker">Ba.</hi> At-</p>
+    <p>Qui charitas timorem habet nullum. Insuper<ptr target="#tn88" n="88"/></p>
+    <p>(875) Poenam usque adeo floccifacit, ut sponte obferat<ptr target="#tn89" n="89"/></p>
+    <p>Se in hostiam pro sua oue mactandam. <hi rend="speaker">Co.</hi> Fidem</p>
+    <p>Quis misero habebit, se licet malae cruci<ptr target="#tn90" n="90"/></p>
+    <p>Dedat? <hi rend="speaker">Ba.</hi> Abolebitur per hunc mors, quae meâ</p>
+    <p>Industriâ genita, adoleuit hactenus.<ptr target="#tn91" n="91"/></p>
+    <p>(880) Et ouili ouis reddetur, illud unice</p>
+    <p>Doleo equidem. Sar: Vah tu mihi risum excutis.</p>
+    <p>Non capit ouile huiusmodi, qui in carne sunt.</p>
+    <p>Quem reperies non carneum? affectu atque non</p>
+    <p>Duci illius? <hi rend="speaker">Ba.</hi> carnis ais? <hi rend="speaker">Sa.</hi> Aio. Affectis et</p>
+    <p>(885) Carnis, tua haec mors est. quid, abolebitur? Vt
+    hic</p>
+    <p>Times ubi timor nullum habet locum. <hi rend="speaker">Co.</hi> equidem ita est.</p>
+    <p><hi rend="speaker">Sa.</hi> Quin et adamantinis apud nos uinculis</p>
+    <p>Vincta est, et in coecissimis tenebris aegens,</p>
+    <p>Facile uiri fallet oculos. <hi rend="speaker">Ba.</hi> Ficulnea haec<ptr target="#tn92" n="92"/></p>
+    <p>(890) Sunt. Verbulo dissolueret uulcania</p>
+    <p>Quaecunque uincula, imperans exire eos</p>
+    <p>Qui carcere nigro detinerentur. Viri</p>
+    <p>Huiusce fallere ocellulos, orci licet</p>
+    <p>Quis galeam haberet, nemini datur. Hic enim</p>
+    <p>(895) Lux lucidissima ipsissimas quoque<ptr target="#tn93" n="93"/></p>
+    <p>Illuminans tenebras. <hi rend="speaker">Sa.</hi> Deum facis uirum.</p>
+    <p>Qui id conijcis? <hi rend="speaker">Ba.</hi> me oracla de illo praestita</p>
+    <p>Idem docent. <hi rend="speaker">Co.</hi> Age ualeant haec obsecro,</p>
+    <p>Esto, redimat singuine suo hanc ouem sibi,</p>
+    <p>(900) Verum, canem ad suum ipsius uomitum, et suem<ptr target="#tn94" n="94"/></p>
+    <p>Lotam ad uolutabrum luti uidebimus</p>
+    <p>Redijsse. <hi rend="speaker">Sa.</hi> Princeps noster est fortis quoque <hi rend="speaker">Ba:</hi></p>
+    <p>Praedam auferet et à forti is, ut qui fortior. <hi rend="speaker">Co:</hi><ptr target="#tn95" n="95"/></p>
+    <p>Bene dicis. Ast compendio uis dicier</p>
+    <p>(905) Tibi? Laboret hic, laborent et sui</p>
+    <p>Pro uiribus, nonquàm tamen suo bono</p>
+    <p>Nobis mala inferent. Volent forsan aliquot</p>
+    <p>Agni, salutis quos suae taedet, sequi</p>
+    <p>Isthuncce pastorem, ast remedium huic, et quidem</p>
+    <p>(910) Praesens habemus, per Nerones, et itidem</p>
+    <p>Per Domitianos Imperatorij animi, et</p>
+    <p>Summae potentiae uiros. Adhaec quoque</p>
+    <p>Per strenuos hypocriticae uitae uiros.</p>
+    <p>Qui Christiano se sacramento efferent,</p>
+    <p>(915) Et spiritu se praeditos sanctissimo</p>
+    <p>Dicent, sed ipsa re meo autorati erunt</p>
+    <p>Principi equidem. <hi rend="speaker">Ba.</hi> ain’ haec? <hi rend="speaker">Cos.</hi> Aio. Abito. Ponito</p>
+    <p>Metum. Quid his stipata non facies? Per hos</p>
+    <p>Persuasione toxicata, crucibus et<ptr target="#tn96" n="96"/></p>
+    <p>(920) Gladijs per illos subijcientur principi</p>
+    <p>Meo. Videbitur sibi cultum Deo<ptr target="#tn97" n="97"/></p>
+    <p>Praestare, quisquis hos malâ morte afficit</p>
+    <p><milestone unit="folio" facs="Ciiij"/></p>
+    <p>Cui uita tam uilis foret, qui huiusmodi</p>
+    <p>Periculo bonum huncce pastorem sequi</p>
+    <p>(925) Vellet? Sit hic poenae paratus admodum,</p>
+    <p>Poenam sibi suam feret. Quis alicui in</p>
+    <p>Poena comes erit? quamlibet sit is quoque</p>
+    <p>Eidem amicissimus. Vt es sollicita. Quin</p>
+    <p>Animum capessito. Rem humeris imponito</p>
+    <p>(930) Nostris. Mihi et huic curae erit. <hi rend="speaker">Ba.</hi> Meliuscule</p>
+    <p>Se habet animus. Sororibus celabitur</p>
+    <p>Quidquid mali est. Soli mihi occurit malum</p>
+    <p>Omne. Atqui id est Bascaniae inuidae mihi</p>
+    <p>Ingenium, ut ubi studeo resciscere omnia</p>
+    <p>(935) Quae mordeant me, reperio non paucula. <hi rend="speaker">Co:</hi></p>
+    <p>Miraris occurrere tibi mala frequentius,</p>
+    <p>Cum aliena bona tibi, et cuiuis inuido,</p>
+    <p>Ipsissima mala sunt? Dolorem ponito.</p>
+    <p>Malefacienti, ouilis ostium patet</p>
+    <p>(940) Nemini. Et ouis, et agni eius, hoc de se datum</p>
+    <p>Oraclum habent. Prospexit è coelo ille qui<ptr target="#tn98" n="98"/></p>
+    <p>Creauit omnia, ut uideat an sit aliquis</p>
+    <p>Qui bene facere curet, sed unusquisque ab hoc</p>
+    <p>Defecit, atque inutilis factu’st. Nec est</p>
+    <p>(945) Qui bene facere studet, nec unus quidem. Abeas</p>
+    <p>Ecquid mali est? <hi rend="speaker">Ba.</hi> non memineram quidem.</p>
+    <p>Non fert homo aliquem, nisi uoluntatem patris</p>
+    <p>Sui per omnia fecerit. id est, nisi filij</p>
+    <p>Vestigia fuerit subsequutus, et ut tu ais,<ptr target="#tn99" n="99"/></p>
+    <p>(950) Nisi benefecerit. Iam ubi benefacere</p>
+    <p>Nemo studebit, ecquid hic mihi crucem</p>
+    <p>Sompnio? Nihil mali est. Valete. <hi rend="speaker">Co.</hi> tu quoque</p>
+    <p>Valeas. Negocio licet cum maximo</p>
+    <p>Hanc aegritudine liberauerim, tamen</p>
+    <p>[Hypermeter.]</p>
+    <p>(955) Triumpho. <hi rend="speaker">Sa.</hi> Verum. Hem tibi. Viden’? <hi rend="speaker">Co.</hi>
+    Valeant. In aurem<ptr target="#tn100" n="100"/></p>
+    <p>Vtranque dormiamus ociosuli.</p>
+    <p>Nam ut nunc se habet saeclum. Doleat an gaudeat</p>
+    <p>Alius, mouet res neminem. Quin sequere me.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvarta-2">
+    <head>23. SCENA QVARTA</head>
+    <p>Dicaeosyne Helias.</p>
+    <p>Trimetri.</p>
+    <p>SIccine abijt noster? <hi rend="speaker">He.</hi> Abijt. <hi rend="speaker">Di.</hi> Ouis unius</p>
+    <p>(960) Causa? <hi rend="speaker">He.</hi> Vnius ita, ut quae mom supra littoris</p>
+    <p>Foetauerit harenam. <hi rend="speaker">Di.</hi> Diu est quod abierit? <hi rend="speaker">He.</hi></p>
+    <p>Quaeso quid hic diu est? <hi rend="speaker">Di.</hi> nihil se respicit.</p>
+    <p>Parum ipse iusticiae suae meminit. Nisi in-</p>
+    <p>Effabilis uiri benignitas probe</p>
+    <p>(965) Mihi foret perspecta, parum abesset equidem</p>
+    <p>Quin dicerem eum auarum. <hi rend="speaker">He.</hi> Auidum ais. cum Ouis</p>
+    <p>Huiusce perditae salutem aueat. Neque</p>
+    <p>Scio quàm eam ingratam reperiet. Sordibus</p>
+    <p>Tam gaudet, et tam non sapit se perditam, ut</p>
+    <p>(970) Pastoris optimi optima illicia male</p>
+    <p>Reijciet. <hi rend="speaker">Di.</hi> Reijcula modis omnibus</p>
+    <p>Reijcienda. Quod mei non sit animi. <hi rend="speaker">He.</hi></p>
+    <p>Tum si uolet ouis perditae hulcuscula satis<ptr target="#tn101" n="101"/></p>
+    <p>Aperta tangere, quo malefaciat uiro</p>
+    <p>(975) Studebit acriter. <hi rend="speaker">Di.</hi> Vsqueadeo se uilem habet?</p>
+    <p>Reperio nunc uerissimum, quod inquiunt,</p>
+    <p>Inuitum ubi retines, quo abeat, hunc incitas.</p>
+    <p>Certauit hic soror mecum, sed uicta sum. et</p>
+    <p>Victis quid aliud quàm dolor? <hi rend="speaker">He.</hi> Vicit soror.</p>
+    <p>(980) Atqui parum est currenti equo calcaria</p>
+    <p>Subdere. Volens uitam suam impendit oui. At hanc<ptr target="#tn102" n="102"/></p>
+    <p>A nemine ablatam sibi iterum assumet. <hi rend="speaker">Di.</hi> hem</p>
+    <p>Vitam? huic oui? dolor. dolor. <hi rend="speaker">He.</hi> Quin hic tuus</p>
+    <p>Valeat dolor. Nam plus minus sesquihorulam</p>
+    <p>(985) Hunc abfuturum scimus. <hi rend="speaker">Di.</hi> Anni plus minus</p>
+    <p>Trigintatres, sesquihorula haec est. Heli. apud ouem.</p>
+    <p>Et iam tuum beneplacidi animi recipies,</p>
+    <p>Quem retinuisses se aegritudine nimia, et</p>
+    <p>Perpetua edentem. Gaudeat tecum obsecro.</p>
+    <p>(990) Tu illius, ipse ouis suae praesentiâ</p>
+    <p>Huc prodit Eleemosyna. Dicaeo. Quid animi obsecro,</p>
+    <p>Habet, quod hunc expulerit in crucem modo.</p>
+  </div>
+  <div type="level2" xml:id="scena-qvinta-1">
+    <head>24. SCENA QVINTA</head>
+    <p>Eleemosyna. Dicaeosyne. Helias.</p>
+    <p>Eiusdem numeri.</p>
+    <p>DIu est quod abijt noster Helia? <hi rend="speaker">Di.</hi> Quasi</p>
+    <p>Vtranque paginâ in hoc libro non feceris. El.</p>
+    <p>(995) Tun’ ades soror? Di factum est satis per omnia</p>
+    <p>Tuo animo. Oues licet et triumphes quod uirum</p>
+    <p>Eieceris. <hi rend="speaker">Ele.</hi> quonam? <hi rend="speaker">Di.</hi> in malam crucem. <hi rend="speaker">Elee.</hi> bona</p>
+    <p>Verba obsecro. <hi rend="speaker">Di.</hi> Sic ê tamen. <hi rend="speaker">Ele.</hi> Egon uirum? ain’? an</p>
+    <p>Ille imperatis nunc meis facere satis</p>
+    <p>(1000) Compellitur? Tibi in aliquem imperium habeo?
+    <hi rend="speaker">Di.</hi></p>
+    <p>Quidquid habeas ne scio. Sed id certò scio,</p>
+    <p>Per te uirum nobis abesse. <hi rend="speaker">Ele.</hi> demus id</p>
+    <p>Tibi, quandoquidem ita uis. Foret tamen hic mihi</p>
+    <p>Quod gratias ageres, ut huic quae esset bene</p>
+    <p>(1005) De te merita. <hi rend="speaker">Di.</hi> de me bene merita es? tun’
+    hem?</p>
+    <p>Peroptimè, tibi debeo aegritudinem hanc</p>
+    <p>Cum me mihi charissimo uiduaueris. <hi rend="speaker">He.</hi></p>
+    <p>Is tibi aderit simul cum oue, et saluus quidem. <hi rend="speaker">Di.</hi></p>
+    <p>Vt ille qui de se loquitur ita. Cur mea<ptr target="#tn103" n="103"/></p>
+    <p>(1010) Plaga renuit curarier? Sed numcubi</p>
+    <p>De me bene merita es? <hi rend="speaker">Ele.</hi> hic ubi tantum doles</p>
+    <p>Modò uelis audies? <hi rend="speaker">Di.</hi> Agas mecum licet</p>
+    <p>Meris sophismatibus, tamen praeter meum</p>
+    <p>Quod habeo praesens ingenium, adero hic tibi.</p>
+    <p><hi rend="speaker">Ele.</hi> (1015) Dic num illa quae est iusta actionis causa, de</p>
+    <p>Te bene meretur? Dicae. maximè. <hi rend="speaker">Elee.</hi> Quando me eam</p>
+    <p>Docuero, reliquum mihi facile dabis arbitror. <hi rend="speaker">Di.</hi></p>
+    <p>Doctrix ubi docueris hanc te esse, obtines. <hi rend="speaker">Ele.</hi></p>
+    <p>Potissimum Iusticiae erit tibi pietas</p>
+    <p>(1020) Credo. <hi rend="speaker">Di.</hi> erit. <hi rend="speaker">Ele.</hi> et haec dei ipsius notio
+    <hi rend="speaker">Di.</hi> eadem</p>
+    <p><hi rend="speaker">Ele.</hi> Ecquis Deum nouit probe? <hi rend="speaker">Di.</hi> qui colit eundem.</p>
+    <p><hi rend="speaker">Ele.</hi> Itaque Dei cultura erit Pietas. <hi rend="speaker">Di.</hi> erit. <hi rend="speaker">Ele.</hi></p>
+    <p>Et iusticia. <hi rend="speaker">Di.</hi> quis ambigit? <hi rend="speaker">Ele.</hi> Detur nisi</p>
+    <p>Qui coluerit Deum, neque pium habes. neque</p>
+    <p>(1025) Iustum. <hi rend="speaker">Di.</hi> reluctor? <hi rend="speaker">Ele.</hi> Iam cum eô
+    insipientiae</p>
+    <p>Ventum sit, ut Deum esse denegent, spei est</p>
+    <p>Aliquid Deum coli? <hi rend="speaker">Di.</hi> Spei ne tantulum</p>
+    <p>Quidem, Sed ubi iustae actionis causa tu?</p>
+    <p>Doleam licet, idem a te tamen discere libet. <hi rend="speaker">Ele.</hi></p>
+    <p>(1030) Maneto. Num cogi ualent ad id quo haec proferant</p>
+    <p>Magnifico, laudo, glorifico coeli ipsius<ptr target="#tn104" n="104"/></p>
+    <p>Regem, quia eius opera uera sunt,</p>
+    <p>Omnes uiae eius iudicia, cuius in</p>
+    <p>Manu est superbiâ tumentes, humilimos</p>
+    <p>(1035) Efficere. et his confinia? <hi rend="speaker">Di.</hi> duplici uia</p>
+    <p>Et ui et beneficio. <hi rend="speaker">Ele.</hi> coletur ne deus hic</p>
+    <p>Et à pijs. et identidem à iustis probe</p>
+    <p>Notus? <hi rend="speaker">Di.</hi> coletur. <hi rend="speaker">Ele.</hi> A quo ad hoc cogentur hi</p>
+    <p>Rectius? ab hoc ne qui Deo tam similis est</p>
+    <p>(1040) Quàm ouum ouo? <hi rend="speaker">Di.</hi> ita credo: <hi rend="speaker">Ele.</hi> iste noster
+    est. <hi rend="speaker">Di.</hi> scio,</p>
+    <p><hi rend="speaker">Ele.</hi> Quia huius oblita est ouis misellula,</p>
+    <p>Quod eius impietas facillimè arguit,<ptr target="#tn105" n="105"/></p>
+    <p>Abijt quo eidem se aperiat, sanctissimae<ptr target="#tn106" n="106"/></p>
+    <p>Pietatis arcana manifestaturus. Et</p>
+    <p>(1045) Hic (tibi si haberi uis fidem)* ego bene frigidam</p>
+    <p>Subfudi. et eieci uirum si dijs placet.</p>
+    <p>Hoc est futurae iusticiae ego causa sum.</p>
+    <p>Quid quaeso habes quod hic mihi respondeas. <hi rend="speaker">Di.</hi></p>
+    <p>Nihil nisi quod arguta es admodum. <hi rend="speaker">Ele.</hi> Precor</p>
+    <p>(1050) Animo bono sis. <hi rend="speaker">Di.</hi> si meus adesset. <hi rend="speaker">He.</hi> Scio</p>
+    <p>Iamiam uirum affuturum, et id</p>
+    <p>Salua oue. <hi rend="speaker">Elee.</hi> Scin’ hunc corruptioni obnoxium</p>
+    <p>Minimè? Futurum hinc est ouile unum, unus et</p>
+    <p>Pastor. <hi rend="speaker">Di.</hi> Si adesset. <hi rend="speaker">Ele.</hi> Saluus aderit. <hi rend="speaker">He.</hi> certe
+    adest.</p>
+    <p>(1055) <hi rend="speaker">Di.</hi> Riden’ misellulam? <hi rend="speaker">He.</hi> in humeros ouem
+    gerit.</p>
+    <p>Respicito. <hi rend="speaker">Ele.</hi> Serio triumphamus equidem</p>
+    <p>________________________________________</p>
+  </div>
+  <div type="level2" xml:id="scena-sexta-1">
+    <head>25. SCENA SEXTA</head>
+    <p>Soter Eleemosyna Helias Dicaeosyne</p>
+    <p>Iambici Trimetri.</p>
+    <p>Oui salutem, mihi reuersum sedulo</p>
+    <p>Congratulamini, qui amici estis mei.</p>
+    <p>Cum flente qui fleuistis, huc concurrite et</p>
+    <p>(1060) Gaudete cum gaudente. Qui nisi gaudium</p>
+    <p>Sit, nihil erit. Tanto afficit me gaudio,</p>
+    <p>Quanto mihi et poena et labore constitit</p>
+    <p>Erepta forti haec praeda. Non me poenitet</p>
+    <p>Domus relictae, haereditatis quoque meae.<ptr target="#tn107" n="107"/></p>
+    <p>(1065) Quando mihi ouis incolumis est. Quod perierat</p>
+    <p>Reperi. quod abiectum reduxi, quod debile</p>
+    <p>Corroboraui. sed quod uinctum et forte nunc<ptr target="#tn108" n="108"/></p>
+    <p>Pascam omnibus terrae bonis. Custodiae</p>
+    <p>Quoque uigilantiori erit de caetero</p>
+    <p>(1070) Mihi: triumphum ago, in trophaeum ductitans</p>
+    <p>Mundi huius ipsum principem. Quam modo mea</p>
+    <p>Gaudebit uniuersa familia. Non potest</p>
+    <p>Dici. <hi rend="speaker">Ele.</hi> Rem habes. [&lt; hahes] Saluum te adesse gaudeo</p>
+    <p><hi rend="speaker">So.</hi> Ten meam Eleemosynam habeo? Viden’ quàm ego</p>
+    <p>(1075) Beauerim te? <hi rend="speaker">Ele.</hi> Per tuam praesentiam</p>
+    <p>Dea sum. <hi rend="speaker">So.</hi> efficacissima. quum ouis per te mea</p>
+    <p>Reperta, reddita sit ouili pristino. Et</p>
+    <p>Licet aliquando transiluerit septa, tu es</p>
+    <p>Quae eidem ouilis ostium aperies. <hi rend="speaker">He.</hi> here</p>
+    <p>(1080) Vnica uoluptas est adesse tibi. <hi rend="speaker">So.</hi> Helia</p>
+    <p>Mi ades? stupent ocelluli prae gaudio. <hi rend="speaker">Di.</hi></p>
+    <p>Meum habeo? <hi rend="speaker">So.</hi> habes longe ab alio diuersum. <hi rend="speaker">Di.</hi> ain’?</p>
+    <p>Dic, num satin’ saluae? <hi rend="speaker">So.</hi> Satis. <hi rend="speaker">Di.</hi> Alius es modo ac</p>
+    <p>Fueris? <hi rend="speaker">So.</hi> qui abieram tristicia, redeo tibi</p>
+    <p>(1085) Laeticia. <hi rend="speaker">Di.</hi> Sed quaeso, mali passus nihil?
+    <hi rend="speaker">So.</hi></p>
+    <p>Obducta crustis uulnera refricarier</p>
+    <p>Nolo. neque tempus postulat. Volo mihi</p>
+    <p>Ouem reductam gratulemini modo.<ptr target="#tn109" n="109"/></p>
+    <p>Quod prandeamus apparetur. luceat</p>
+    <p>(1090) Focus. Diem hunc conuiuio celebrem uolo.</p>
+    <p>Conuiuium hospitum frequentia omnibus</p>
+    <p>Clarum uolo. Hospites cibum per uiuidum</p>
+    <p>Deos uolo. Ocyus sequimini me. Via<ptr target="#tn110" n="110"/></p>
+    <p>Dux ero uiae omnibus Viam qui ingreditur hanc</p>
+    <p>(1095) Tenebras timebit ille nullas. Sequimini. <hi rend="speaker">He.</hi></p>
+    <p>A prandio nihil est quod operiamini</p>
+    <p>Quin si lubet paratae uos conuiuio</p>
+    <p>Nam umbris fores paratae erunt quibuslibet,</p>
+    <p>Modo uitâ honestâ, et moribus sint integris.</p>
+    <p>(1100) Id uolo sciat quiuis, uocatos esse non<ptr target="#tn111" n="111"/></p>
+    <p>Paucos, sed electos quoque numero esse non</p>
+    <p>Multos. Valete. et si uidetur, Plaudite.</p>
+  </div>
+</div>
+<div type="level1" xml:id="back">
+  <head>Back</head>
+  <p>FINIS</p>
+</div>
+        
+<div type="notes"><note xml:id="tn1"><p><hi rend="footnote">1</hi> <hi rend="italic">In marg</hi>. Genes. 2</p></note>
+<note xml:id="tn2"><p><hi rend="footnote">2</hi> <hi rend="italic">In marg</hi>. 1. Reg. 12</p></note>
+<note xml:id="tn3"><p><hi rend="footnote">3</hi> <hi rend="italic">In marg</hi>. Math. 12</p></note>
+<note xml:id="tn4"><p><hi rend="footnote">4</hi> <hi rend="italic">In marg</hi>. Genes. 3</p></note>
+<note xml:id="tn5"><p><hi rend="footnote">5</hi> <hi rend="italic">In marg</hi>. Iob. 2</p></note>
+<note xml:id="tn6"><p><hi rend="footnote">6</hi> <hi rend="italic">In marg</hi>. Ioan. 14. Ezech.
+      18</p></note>
+<note xml:id="tn7"><p><hi rend="footnote">7</hi> <hi rend="italic">In marg</hi>. Oze. 14. Luce.
+      15.</p></note>
+<note xml:id="tn8"><p><hi rend="footnote">8</hi> <hi rend="italic">In marg</hi>. Eccl. 10.</p></note>
+<note xml:id="tn9"><p><hi rend="footnote">9</hi> <hi rend="italic">In marg</hi>. Eccle. 6.</p></note>
+<note xml:id="tn10"><p><hi rend="footnote">10</hi> <hi rend="italic">In marg</hi>. Gene. 37.</p></note>
+<note xml:id="tn11"><p><hi rend="footnote">11</hi> <hi rend="italic">In marg</hi>. Prou. 10.</p></note>
+<note xml:id="tn12"><p><hi rend="footnote">12</hi> <hi rend="italic">In marg</hi>. Gene. 3.</p></note>
+<note xml:id="tn13"><p><hi rend="footnote">13</hi> <hi rend="italic">In marg</hi>. Iob. 2.</p></note>
+<note xml:id="tn14"><p><hi rend="footnote">14</hi> <hi rend="italic">In marg</hi>. Iob. 1. Iob. 2.</p></note>
+<note xml:id="tn15"><p><hi rend="footnote">15</hi> <hi rend="italic">In marg</hi>. Ezec. 34.</p></note>
+<note xml:id="tn16"><p><hi rend="footnote">16</hi> <hi rend="italic">In marg</hi>. Psal. 22.</p></note>
+<note xml:id="tn17"><p><hi rend="footnote">17</hi> <hi rend="italic">In marg</hi>. Esai. 1.</p></note>
+<note xml:id="tn18"><p><hi rend="footnote">18</hi> <hi rend="italic">In marg</hi>. Math. 8.</p></note>
+<note xml:id="tn19"><p><hi rend="footnote">19</hi> <hi rend="italic">In marg</hi>. Luce. 14.</p></note>
+<note xml:id="tn20"><p><hi rend="footnote">20</hi> <hi rend="italic">In marg</hi>. Eccle. 13.</p></note>
+<note xml:id="tn21"><p><hi rend="footnote">21</hi> <hi rend="italic">In marg</hi>. Esa. 53.</p></note>
+<note xml:id="tn22"><p><hi rend="footnote">22</hi> <hi rend="italic">In marg</hi>. Eccle. 11.</p></note>
+<note xml:id="tn23"><p><hi rend="footnote">23</hi> <hi rend="italic">In marg</hi>. Hest. 13.</p></note>
+<note xml:id="tn24"><p><hi rend="footnote">24</hi> <hi rend="italic">In marg</hi>. Esai. 65.</p></note>
+<note xml:id="tn25"><p><hi rend="footnote">25</hi> <hi rend="italic">In marg</hi>. 3. Reg. 17 et
+      19.</p></note>
+<note xml:id="tn26"><p><hi rend="footnote">26</hi> <hi rend="italic">In marg</hi>. Eccl. 18.</p></note>
+<note xml:id="tn27"><p><hi rend="footnote">27</hi> <hi rend="italic">In marg</hi>. 3 Reg. 19</p></note>
+<note xml:id="tn28"><p><hi rend="footnote">28</hi> <hi rend="italic">In marg</hi>. Luc. 15.</p></note>
+<note xml:id="tn29"><p><hi rend="footnote">29</hi> <hi rend="italic">In marg</hi>. Ioan. 6.</p></note>
+<note xml:id="tn30"><p><hi rend="footnote">30</hi> <hi rend="italic">In marg</hi>. Prou. 13.</p></note>
+<note xml:id="tn31"><p><hi rend="footnote">31</hi> <hi rend="italic">In marg</hi>. Prou. 26.</p></note>
+<note xml:id="tn32"><p><hi rend="footnote">32</hi> <hi rend="italic">In marg</hi>. Prouer. 15</p></note>
+<note xml:id="tn33"><p><hi rend="footnote">33</hi> <hi rend="italic">In marg</hi>. Eccle. 30.</p></note>
+<note xml:id="tn34"><p><hi rend="footnote">34</hi> <hi rend="italic">In marg</hi>. Eccle. 30.</p></note>
+<note xml:id="tn35"><p><hi rend="footnote">35</hi> <hi rend="italic">In marg</hi>. Eccl. 30.</p></note>
+<note xml:id="tn36"><p><hi rend="footnote">36</hi> <hi rend="italic">In marg</hi>. Deut. 21.</p></note>
+<note xml:id="tn37"><p><hi rend="footnote">37</hi> <hi rend="italic">In marg</hi>. Ezec. 34.</p></note>
+<note xml:id="tn38"><p><hi rend="footnote">38</hi> <hi rend="italic">In marg</hi>. Deut. [&lt; Dent.]
+      10.</p></note>
+<note xml:id="tn39"><p><hi rend="footnote">39</hi> <hi rend="italic">In marg</hi>. Math. 5.</p></note>
+<note xml:id="tn40"><p><hi rend="footnote">40</hi> <hi rend="italic">In marg</hi>. Esai. 53.</p></note>
+<note xml:id="tn41"><p><hi rend="footnote">41</hi> <hi rend="italic">In marg</hi>. Prou. 15.</p></note>
+<note xml:id="tn42"><p><hi rend="footnote">42</hi> <hi rend="italic">In marg</hi>. Hier. 11.</p></note>
+<note xml:id="tn43"><p><hi rend="footnote">43</hi> <hi rend="italic">In marg</hi>. Hypermeter.</p></note>
+<note xml:id="tn44"><p><hi rend="footnote">44</hi> <hi rend="italic">In marg</hi>. Io. 1</p></note>
+<note xml:id="tn45"><p><hi rend="footnote">45</hi> <hi rend="italic">In marg</hi>. 1. Ioan. 5.</p></note>
+<note xml:id="tn46"><p><hi rend="footnote">46</hi> <hi rend="italic">In marg</hi>. 1. Ioan. 4</p></note>
+<note xml:id="tn47"><p><hi rend="footnote">47</hi> <hi rend="italic">In marg</hi>. Ad Gal. 5</p></note>
+<note xml:id="tn48"><p><hi rend="footnote">48</hi> <hi rend="italic">In marg</hi>. Ioan. 12</p></note>
+<note xml:id="tn49"><p><hi rend="footnote">49</hi> <hi rend="italic">In marg</hi>. 1. Ioan. 5.</p></note>
+<note xml:id="tn50"><p><hi rend="footnote">50</hi> <hi rend="italic">In marg</hi>. Ad Gal. 6</p></note>
+<note xml:id="tn51"><p><hi rend="footnote">51</hi> <hi rend="italic">In marg</hi>. Ad Gal. 5</p></note>
+<note xml:id="tn52"><p><hi rend="footnote">52</hi> <hi rend="italic">In marg</hi>. Ad Ro. 8.</p></note>
+<note xml:id="tn53"><p><hi rend="footnote">53</hi> <hi rend="italic">In marg</hi>. Prouer. 8</p></note>
+<note xml:id="tn54"><p><hi rend="footnote">54</hi> <hi rend="italic">In marg</hi>. Eccle. 5.</p></note>
+<note xml:id="tn55"><p><hi rend="footnote">55</hi> <hi rend="italic">In marg</hi>. Eccle. 10</p></note>
+<note xml:id="tn56"><p><hi rend="footnote">56</hi> <hi rend="italic">In marg</hi>. Esaiae. 14</p></note>
+<note xml:id="tn57"><p><hi rend="footnote">57</hi> <hi rend="italic">In marg</hi>. 3. Reg. 19</p></note>
+<note xml:id="tn58"><p><hi rend="footnote">58</hi> <hi rend="italic">In marg</hi>. Ecclesi. 7</p></note>
+<note xml:id="tn59"><p><hi rend="footnote">59</hi> <hi rend="italic">In marg</hi>. Esaie. 11.</p></note>
+<note xml:id="tn60"><p><hi rend="footnote">60</hi> <hi rend="italic">In marg</hi>. Matt. 22.</p></note>
+<note xml:id="tn61"><p><hi rend="footnote">61</hi> <hi rend="italic">In marg</hi>. 3. Reg. 19</p></note>
+<note xml:id="tn62"><p><hi rend="footnote">62</hi> <hi rend="italic">In marg</hi>. Lucae. 11.</p></note>
+<note xml:id="tn63"><p><hi rend="footnote">63</hi> <hi rend="italic">In marg</hi>. Gene. 15.</p></note>
+<note xml:id="tn64"><p><hi rend="footnote">64</hi> <hi rend="italic">In marg</hi>. Genes. 5.</p></note>
+<note xml:id="tn65"><p><hi rend="footnote">65</hi> <hi rend="italic">In marg</hi>. Ioan. 14</p></note>
+<note xml:id="tn66"><p><hi rend="footnote">66</hi> <hi rend="italic">In marg</hi>. Prou. 14.</p></note>
+<note xml:id="tn67"><p><hi rend="footnote">67</hi> <hi rend="italic">In marg</hi>. Psal. 13</p></note>
+<note xml:id="tn68"><p><hi rend="footnote">68</hi> <hi rend="italic">In marg</hi>. Prou. 21</p></note>
+<note xml:id="tn69"><p><hi rend="footnote">69</hi> <hi rend="italic">In marg</hi>. Ioan. 12</p></note>
+<note xml:id="tn70"><p><hi rend="footnote">70</hi> <hi rend="italic">In marg</hi>. Eccle. 8</p></note>
+<note xml:id="tn71"><p><hi rend="footnote">71</hi> <hi rend="italic">In marg</hi>. Luc. 13.</p></note>
+<note xml:id="tn72"><p><hi rend="footnote">72</hi> <hi rend="italic">In marg</hi>. Ioan. 10</p></note>
+<note xml:id="tn73"><p><hi rend="footnote">73</hi> <hi rend="italic">In marg</hi>. Hiere. 24</p></note>
+<note xml:id="tn74"><p><hi rend="footnote">74</hi> <hi rend="italic">In marg</hi>. hypermeter.</p></note>
+<note xml:id="tn75"><p><hi rend="footnote">75</hi> <hi rend="italic">In marg</hi>. Sapien. 2</p></note>
+<note xml:id="tn76"><p><hi rend="footnote">76</hi> <hi rend="italic">In marg</hi>. Ibidem</p></note>
+<note xml:id="tn77"><p><hi rend="footnote">77</hi> <hi rend="italic">In marg</hi>. Esa. 50.</p></note>
+<note xml:id="tn78"><p><hi rend="footnote">78</hi> <hi rend="italic">In marg</hi>. Genes. 3</p></note>
+<note xml:id="tn79"><p><hi rend="footnote">79</hi> <hi rend="italic">In marg</hi>. Psalm. 68</p></note>
+<note xml:id="tn80"><p><hi rend="footnote">80</hi> <hi rend="italic">In marg</hi>. Nume. 21</p></note>
+<note xml:id="tn81"><p><hi rend="footnote">81</hi> <hi rend="italic">In marg</hi>. Esai. 53</p></note>
+<note xml:id="tn82"><p><hi rend="footnote">82</hi> <hi rend="italic">In marg</hi>. Psal. 21</p></note>
+<note xml:id="tn83"><p><hi rend="footnote">83</hi> <hi rend="italic">In marg</hi>. Psal. 28.</p></note>
+<note xml:id="tn84"><p><hi rend="footnote">84</hi> <hi rend="italic">In marg</hi>. Gene. 22</p></note>
+<note xml:id="tn85"><p><hi rend="footnote">85</hi> <hi rend="italic">In marg</hi>. 1. Ioan. 4</p></note>
+<note xml:id="tn86"><p><hi rend="footnote">86</hi> <hi rend="italic">In marg</hi>. Esai. 64.</p></note>
+<note xml:id="tn87"><p><hi rend="footnote">87</hi> <hi rend="italic">In marg</hi>. Ad Ro. 5</p></note>
+<note xml:id="tn88"><p><hi rend="footnote">88</hi> <hi rend="italic">In marg.</hi> 1. Ioan. 4</p></note>
+<note xml:id="tn89"><p><hi rend="footnote">89</hi> <hi rend="italic">In marg</hi>. Esa. 53</p></note>
+<note xml:id="tn90"><p><hi rend="footnote">90</hi> <hi rend="italic">In marg</hi>. Deute. 28</p></note>
+<note xml:id="tn91"><p><hi rend="footnote">91</hi> <hi rend="italic">In marg</hi>. Sapien. 2</p></note>
+<note xml:id="tn92"><p><hi rend="footnote">92</hi> <hi rend="italic">In marg</hi>. Esai. 49</p></note>
+<note xml:id="tn93"><p><hi rend="footnote">93</hi> <hi rend="italic">In marg</hi>. Ioan. 8</p></note>
+<note xml:id="tn94"><p><hi rend="footnote">94</hi> <hi rend="italic">In marg</hi>. 2. Petri. 2</p></note>
+<note xml:id="tn95"><p><hi rend="footnote">95</hi> <hi rend="italic">In marg</hi>. Esa. 49</p></note>
+<note xml:id="tn96"><p><hi rend="footnote">96</hi> <hi rend="italic">In marg</hi>. Math. 24</p></note>
+<note xml:id="tn97"><p><hi rend="footnote">97</hi> <hi rend="italic">In marg</hi>. Ioan. 16.</p></note>
+<note xml:id="tn98"><p><hi rend="footnote">98</hi> <hi rend="italic">In marg</hi>. Psal. 13</p></note>
+<note xml:id="tn99"><p><hi rend="footnote">99</hi> <hi rend="italic">In marg</hi>. Math. 7</p></note>
+<note xml:id="tn100"><p><hi rend="footnote">100</hi> <hi rend="italic">In marg</hi>. Hypermeter.</p></note>
+<note xml:id="tn101"><p><hi rend="footnote">101</hi> <hi rend="italic">In marg</hi>. Sapien. 2.
+      [21?]</p></note>
+<note xml:id="tn102"><p><hi rend="footnote">102</hi> <hi rend="italic">In marg</hi>. Ioan. 10.</p></note>
+<note xml:id="tn103"><p><hi rend="footnote">103</hi> <hi rend="italic">In marg</hi>. Hier. 15.</p></note>
+<note xml:id="tn104"><p><hi rend="footnote">104</hi> <hi rend="italic">In marg</hi>. Dauid. 4.</p></note>
+<note xml:id="tn105"><p><hi rend="footnote">105</hi> <hi rend="italic">In marg</hi>. Psal. 15.</p></note>
+<note xml:id="tn106"><p><hi rend="footnote">106</hi> <hi rend="italic">In marg</hi>. Ioan. 10.</p></note>
+<note xml:id="tn107"><p><hi rend="footnote">107</hi> <hi rend="italic">In marg</hi>. Hier. 12.</p></note>
+<note xml:id="tn108"><p><hi rend="footnote">108</hi> <hi rend="italic">In marg</hi>. Eze. 34.</p></note>
+<note xml:id="tn109"><p><hi rend="footnote">109</hi> <hi rend="italic">In marg</hi>. Luce. 15.</p></note>
+<note xml:id="tn110"><p><hi rend="footnote">110</hi> <hi rend="italic">In marg</hi>. Ioan. 8.</p></note>
+<note xml:id="tn111"><p><hi rend="footnote">111</hi> <hi rend="italic">In marg</hi>. Math. 22.</p></note></div>
+
+    </body>
+</text>
+</TEI>

@@ -90,19 +90,19 @@ PISTOCLERVS adolescens.
 
 LYDVS seruus.
 
-VOlo te mihi obsequentem esse. Pist. Vt gnatum decet.
+VOlo te mihi obsequentem esse. \@Pist.= Vt gnatum decet.
 
-Phil. Tum gymnasium adire, apud magistrum aßidere,
+\@Phil.= Tum gymnasium adire, apud magistrum aßidere,
 
-Legere, commentari, scribere. Pistocl. Nil mauelim.
+Legere, commentari, scribere. \@Pistocl.= Nil mauelim.
 
-Phil. Cauesis vel digitum longè deuies, nisi
+\@Phil.= Cauesis vel digitum longè deuies, nisi
 
 ≤line=5≥ Lignatum ire velis infelici de ligno Hercule,
 
 Quóque corium tibi pingatur tuâ de purpurâ.
 
-Pist. Faxo, pater, ne quid diuidiae siet tibi.
+\@Pist.= Faxo, pater, ne quid diuidiae siet tibi.
 
 Et obsequens obediensque ero tuo
 
@@ -110,7 +110,7 @@ Mori ac imperijs: gnauum me atque strenuum
 
 ≤line=10≥ Dabo libris, & litteris, cerae, stylo.
 
-Phil. Nunc experiar an fungum genui an filium.
+\@Phil.= Nunc experiar an fungum genui an filium.
 
 Volo te mihi experimentum dare iam frugis bonae
 
@@ -120,54 +120,55 @@ Cùm luxuries teneram segetem enècat. Vide
 
 ≤line=15≥ Num dente depasci vlimeo luxuriem velis.
 
-Pist. Imò vnicè me morigerum dictis tuis
+\@Pist.= Imò vnicè me morigerum dictis tuis
 
-Faxo vt depraedices. Phil. Heus Lyde, Lyde, ades.
+Faxo vt depraedices. \@Phil.= Heus Lyde, Lyde, ades.
 
-Pist. Regiones colere mauelim Acheronticas
+\@Pist.= Regiones colere mauelim Acheronticas
 
 Quàm perferre hancce diutiùs seueritudinem,
 
 ≤line=20≥ Quae miserum ergastulo me includit peßimo.
 
-Phil. Agesis aures mihi totas, & mentem totam eloca,
+\@Phil.= Agesis aures mihi totas, & mentem totam eloca,
 
 ≤page=243≥
 
 Aut vlmos parasitos facies, quae te vsque attondeant.
 
-Lyd. Eccere. quid vis? Phil. Adolescentem hunc nosti: Lydus. Intus & in
-cute.
+\@Lyd.= Eccere. quid vis? \@Phil.= Adolescentem hunc nosti: \@Lydus.=
+Intus & in cute.
 
-Pist. Mentiris furcifer. Tun’ hanc nosti cutem?
+\@Pist.= Mentiris furcifer. Tun’ hanc nosti cutem?
 
 ≤line=25≥ Tuam Hercle lictor nouit extimè & intimè.
 
-Phil. Huic custodem te praepono sedulum:
+\@Phil.= Huic custodem te praepono sedulum:
 
 Ne quid agat, ne quid dicat nisi te conscio.
 
-Lyd. Manus Hercle illius habitabo perdius,
+\@Lyd.= Manus Hercle illius habitabo perdius,
 
 Linguamque pernox incolam Argo oculatior:
 
 ≤line=30≥ Ne quid agat, ne quid dicat nisi me conscio.
 
-Phil. Haud somniculosè hoc agendum est, mi Lyde.
+\@Phil.= Haud somniculosè hoc agendum est, mi Lyde.
 
-Lyd. Mirum est, me vt faciam te opere tanto quaesere.
+\@Lyd.= Mirum est, me vt faciam te opere tanto quaesere.
 
 Indigna digna habenda sunt herus quae iubet.
 
-Pist. Ego, Pol, faxo discas parere hero alteri,
+\@Pist.= Ego, Pol, faxo discas parere hero alteri,
 
 ≤line=35≥ Plures orienti faciunt, quàm occidenti. Ego
 
 Oriens, illic est occidens ipsißimus.
 
-Phil. Heus fili. Pistocl. Mi pater. Estne quod iubes? Philox. Huic
+\@Phil.= Heus fili. \@Pistocl.= Mi pater. Estne quod iubes? \@Philox.=
+Huic
 
-Parere te volo. Pist. Pro rotâ me vti licet.
+Parere te volo. \@Pist.= Pro rotâ me vti licet.
 
 Nempe hoc est; parebo, dum parere integrum est,
 
@@ -221,11 +222,12 @@ Carnificem, & illius capiti illuceat, qui peßimum
 
 Hunc pueris commentus de nihilo est Tartarum!
 
-≤line=60≥ Lyd. Quid ais adolescens nihili. Pistoc. Vxorem te mox domum
+≤line=60≥ \@Lyd.= Quid ais adolescens nihili. Pistoc. Vxorem te mox
+domum
 
-Ducturum esse. Lyd. Phanon id quidem est. Pistocl. Crucem Hercule
+Ducturum esse. \@Lyd.= Phanon id quidem est. \@Pistocl.= Crucem Hercule
 
-Pro vxore domum duces. Lyd. Erras puer, in crucem foras
+Pro vxore domum duces. \@Lyd.= Erras puer, in crucem foras
 
 Ducar, vbi nuptias celebrauit pater meus,
 
@@ -239,30 +241,30 @@ At scis? nisi mox ad scholas bites ocyßimè,
 
 Nil opus erit demum pistorem nostrum foris cribrum
 
-Quaerere. Pistocl. Quidum? Lyd. De cute mox cribrum nam fiet tuâ;
+Quaerere. \@Pistocl.= Quidum? \@Lyd.= De cute mox cribrum nam fiet tuâ;
 
 ≤page=245≥
 
-≤line=70≥ Ita Hercle forabitur virgarum mordicibus. Pist. Ohe.
+≤line=70≥ Ita Hercle forabitur virgarum mordicibus. \@Pist.= Ohe.
 
-Tacesis, nisi dentilegus fieri mauelis. Lyd. Etiam minas?
+Tacesis, nisi dentilegus fieri mauelis. \@Lyd.= Etiam minas?
 
-Pist. Nam meus est ballista pugnus, cubitus catapulta ’st mihi,
+\@Pist.= Nam meus est ballista pugnus, cubitus catapulta ’st mihi,
 
-Humerus aries. Lyd. O bellator strenue, stipendium
+Humerus aries. \@Lyd.= O bellator strenue, stipendium
 
 Tibi in vlmis crescit, mox dabitur hoc vlmeum stipendium.
 
-≤line=75≥ Pist. Quid me tibi curatio est? Lyd. Iam nunc scies. Pistocl.
-Iam nunc abi
+≤line=75≥ \@Pist.= Quid me tibi curatio est? \@Lyd.= Iam nunc scies.
+\@Pistocl.= Iam nunc abi
 
-In maximam malam crucem. Lyd. Hancce tibi iam fabricas miser.
+In maximam malam crucem. \@Lyd.= Hancce tibi iam fabricas miser.
 
 Nam hac si pergis, fieri nequit quin modò sis occisissimus.
 
-Pist. Ego tibi istam sceleste linguam. Lyd. Mox, pater, pater.
+\@Pist.= Ego tibi istam sceleste linguam. \@Lyd.= Mox, pater, pater.
 
-Pist. Tace, atque sequere Lyde me. Lyd. Illuc sis vide.
+\@Pist.= Tace, atque sequere Lyde me. \@Lyd.= Illuc sis vide.
 
 ≤line=80≥ Vt magna saepè ingenia in occulto latent!
 
@@ -280,9 +282,9 @@ SOSICLES. LYDUS.
 
 CLEOMACHVS.
 
-SEquere huc. Sosicl. Quorsum: Mnes. Vt volupe tibi de me siet hodie.
+SEquere huc. Sosicl. Quorsum: \@Mnes.= Vt volupe tibi de me siet hodie.
 
-Cleom. Quia iam adeò compleui me flore Liberi;
+\@Cleom.= Quia iam adeò compleui me flore Liberi;
 
 ≤folio=Q3≥
 
@@ -290,43 +292,43 @@ Cleom. Quia iam adeò compleui me flore Liberi;
 
 Iam liber, iam liberrimus, iam Libertas Dea.
 
-≤line=85≥ Pist. O lepidum solem hunc! ô diem lepidißimum!
+≤line=85≥ \@Pist.= O lepidum solem hunc! ô diem lepidißimum!
 
 Quàm exosculari peruelim te sol lepidißime!
 
-Lyd. Quid facis adolescens? facito vt facias stultitiam sepelibilem.
+\@Lyd.= Quid facis adolescens? facito vt facias stultitiam sepelibilem.
 
-Pist. Vbi tu es qui colere mores Maßilienses soles?
+\@Pist.= Vbi tu es qui colere mores Maßilienses soles?
 
 Hic ad Massylos commigrasse noueris.
 
-≤line=90≥ Mnes. Hui! hîc est Pistoclerus. Pist. Hui! hîc Charitum
+≤line=90≥ \@Mnes.= Hui! hîc est Pistoclerus. \@Pist.= Hui! hîc Charitum
 fraterculi.
 
 Imus sorores inuisum vestras, Charitum ô fraterculi?
 
-Lyd. Non patiar. Pistocl. Laqueum si vis emere, en triobolum,
+\@Lyd.= Non patiar. \@Pistocl.= Laqueum si vis emere, en triobolum,
 
 Suspendas te licet. auarus non sum: pretium offero,
 
 Operamque etiam meam, quò citiùs obstringas gulam.
 
-≤line=95≥ Lyd. O praeligatum pectus! Pist. O statua veruecea!
+≤line=95≥ \@Lyd.= O praeligatum pectus! \@Pist.= O statua veruecea!
 
-Cleom. Eia, eia, Pistoclere, par pari lude. Pist. Apagesis.
+\@Cleom.= Eia, eia, Pistoclere, par pari lude. \@Pist.= Apagesis.
 
-Lyd. Non pares? Pist. Non pendes? Lyd. Nec in mentem est tibi,
+\@Lyd.= Non pares? \@Pist.= Non pendes? \@Lyd.= Nec in mentem est tibi,
 
-Patrem tibi esse: Pist. Tibi ego, aut tu mihi seruus es?
+Patrem tibi esse: \@Pist.= Tibi ego, aut tu mihi seruus es?
 
-Sequere huc. Lyd. Quò recipis tè? Pist. Ad praesepem meam.
+Sequere huc. \@Lyd.= Quò recipis tè? \@Pist.= Ad praesepem meam.
 
-≤line=100≥ Vnde Liberi lepos iam nares afflat. Mnes. Vt nasum sagax
+≤line=100≥ Vnde Liberi lepos iam nares afflat. \@Mnes.= Vt nasum sagax
 habes.
 
 Age huc, veteris vetusti te implebo gutture tenus.
 
-Pist. Bono quo fruitur in vita homo, eo vero fruitur bono.
+\@Pist.= Bono quo fruitur in vita homo, eo vero fruitur bono.
 
 Mortis in arbitrio est reliquum: quale hoc sit, di viderint.
 
@@ -416,7 +418,7 @@ Et eccum, quo ornatu prodit conspicuus huc foras,
 
 Certum est hominem contrà alloqui.
 
-Lyd. Qui me sapere nimio censui plus quam Thalem,
+\@Lyd.= Qui me sapere nimio censui plus quam Thalem,
 
 ≤line=140≥ Stultior Hercle fui barbaro Potitio,
 
@@ -438,17 +440,17 @@ Atque hoc ventriculus testatur modò obesulus,
 
 Qui plenus antè inanijs fuit & araneis.
 
-≤line=150≥ Dau. At ventriculus ille tuus si iam ventriloquus foret,
+≤line=150≥ \@Dav.= At ventriculus ille tuus si iam ventriloquus foret,
 
 Malorum quae imminent gnarus, non tam improbè
 
-Tuo consuleret tergo. Lyd. Hui! monstrum Hercle:
+Tuo consuleret tergo. \@Lyd.= Hui! monstrum Hercle:
 
 ≤page=249≥
 
 Geminus ego sum factus, reor, gemina mihi parent omnia.
 
-Dau. Nempe hoc est, geminae tibi virgae domi, gemina sunt vincula,
+\@Dav.= Nempe hoc est, geminae tibi virgae domi, gemina sunt vincula,
 
 ≤line=155≥ Geminum pistrinum, geminumque & ergastulum,
 
@@ -456,41 +458,43 @@ Trabs gemina, ex quâ crux vna mox fiet tibi,
 
 In quâ tu non geminus, sed simplex pendeas.
 
-Lyd. Matheseos peritus subitò quos deformo circulos?
+\@Lyd.= Matheseos peritus subitò quos deformo circulos?
 
 Non Hercle magno constitit mathesis haec mihi;
 
 ≤line=160≥ Tales adire peruelim scholas quotidie.
 
-Dau. Alios ego mathematicos auguror breui adfore,
+\@Dav.= Alios ego mathematicos auguror breui adfore,
 
 Qui lineas in cute tuâ, rubricâ depingant tuâ.
 
 Si cui homini paratum in orbe malum, id tibi paratißimum est.
 
-Lyd. Quis hic aridus est pumex? Dau. Non omnes merum
+\@Lyd.= Quis hic aridus est pumex? \@Dav.= Non omnes merum
 
-≤line=165≥ Olere possunt Lyde. Lyd. Quid loquere frutex?
+≤line=165≥ Olere possunt Lyde. \@Lyd.= Quid loquere frutex?
 
-Dau. Fruticem ego me malim, quàm Lydum hodie. Lyd. Quianam? Dau. Scies,
+\@Dav.= Fruticem ego me malim, quàm Lydum hodie. \@Lyd.= Quianam?
+\@Dav.= Scies,
 
 Quando in catastâ pendebis mox noctem perpetem.
 
-Dau. Quid tum? Tum dedolabunt latera validi sex viri,
+\@Dav.= Quid tum? Tum dedolabunt latera validi sex viri,
 
-Et te refingent denuò. Lyd. Ostreato tergore
+Et te refingent denuò. \@Lyd.= Ostreato tergore
 
-≤line=170≥ Facient superbum. Dau. Ita arbitror. Lyd. Placet, Hercule,
+≤line=170≥ Facient superbum. \@Dav.= Ita arbitror. \@Lyd.= Placet,
+Hercule,
 
-Tuum hoc augurium, Daue. Da. Inde ad molam alligabere,
+Tuum hoc augurium, Daue. \@Da.= Inde ad molam alligabere,
 
 Nec inde exibis donec vita vitalis tibi.
 
-Lyd. Bellè. hoc hereditarium est mihi domicilium:
+\@Lyd.= Bellè. hoc hereditarium est mihi domicilium:
 
 Mei hinc maiores nobilitatis habent originem.
 
-≤line=175≥ Da. Dein scis quò? Ly. Ad crucem reor: hanc olim mihi
+≤line=175≥ \@Da.= Dein scis quò? \@Ly.= Ad crucem reor: hanc olim mihi
 
 Despondi, huiusque immoriar perlibens amplexibus.
 
@@ -498,52 +502,53 @@ Despondi, huiusque immoriar perlibens amplexibus.
 
 ≤page=250≥
 
-Dau. Quàm confidenter loquitur carnifex Lyd. Ita fieri solet,
+\@Dav.= Quàm confidenter loquitur carnifex \@Lyd.= Ita fieri solet,
 
 Nullius quando criminis animus sibi consciu’ st.
 
-Dau. Os ferreum! Lyd. Cauesis malum Daue. Dau. Etiam minas?
+\@Dav.= Os ferreum! \@Lyd.= Cauesis malum Daue. \@Dav.= Etiam minas?
 
-≤line=180≥ Lyd. Ego te exanimalem faxo, si quid amplius,
+≤line=180≥ \@Lyd.= Ego te exanimalem faxo, si quid amplius,
 
-Atque exheredem vitae tuae. Dau. Ohe verbero!
+Atque exheredem vitae tuae. \@Dav.= Ohe verbero!
 
-Lyd. Equidem. Dau. Quid me tibi tactio est:
+\@Lyd.= Equidem. \@Dav.= Quid me tibi tactio est:
 
-Ly. Quid tibi malum me, aut quid ego agam curatio’st
+\@Ly.= Quid tibi malum me, aut quid ego agam curatio’st
 
-Dau. Heri auspicijs huc legatus veni de filio.
+\@Dav.= Heri auspicijs huc legatus veni de filio.
 
-≤line=185≥ Lyd. Dic illum esse. Dau. Hoc Hercle scibam. Lyd. Quid igitur
-rogas?
+≤line=185≥ \@Lyd.= Dic illum esse. \@Dav.= Hoc Hercle scibam. \@Lyd.=
+Quid igitur rogas?
 
-Dau. Vbi siet nisi senex sciat, tu mox scies senex vbi siet.
+\@Dav.= Vbi siet nisi senex sciat, tu mox scies senex vbi siet.
 
-Lyd. Dic illum esse benè, vbi benè est illi. Dau. Eho.
+\@Lyd.= Dic illum esse benè, vbi benè est illi. \@Dav.= Eho.
 
-Id tuus ille probat ornatus. Lyd. Lydum decet:
+Id tuus ille probat ornatus. \@Lyd.= Lydum decet:
 
 Decet nos pergraecarier, sed te bubulcitarier.
 
-≤line=190≥ Dau. Dices vbi siet? Lyd. Ibi est Lydi pugnus in malis tuis.
+≤line=190≥ \@Dav.= Dices vbi siet? \@Lyd.= Ibi est Lydi pugnus in malis
+tuis.
 
-Dau. Verùm suo malo. Lyd. Mentiris furcifer,
+\@Dav.= Verùm suo malo. \@Lyd.= Mentiris furcifer,
 
 Tuo id malo est: id malae Pol dicent tuae.
 
-Nisi mox. Dau. Abeo: sed nihili es & omnino nihil.
+Nisi mox. \@Dav.= Abeo: sed nihili es & omnino nihil.
 
-Lyd. Tu porro perge quò miseria te vocat:
+\@Lyd.= Tu porro perge quò miseria te vocat:
 
 ≤line=195≥ Me mea voluptas iam suam inuitat domum:
 
 Mei tergi haec facio, non tui fiduciâ.
 
-Dau. Cis Hercle paucas tempestates furcifer,
+\@Dav.= Cis Hercle paucas tempestates furcifer,
 
 Augebis ruri numero genus ferratile.
 
-Lyd. Abijt haec torpedo: nunc omne consilium aduoca
+\@Lyd.= Abijt haec torpedo: nunc omne consilium aduoca
 
 ≤line=200≥ Lyde, ingens opus aggrederis, rem arduam Aedepol:
 
@@ -587,20 +592,20 @@ LORARII quatuor.
 
 LYDVS.
 
-Ain’ ita esse Daue? Dau. Aio. Philox. Certus es? Dauus. An caecum me
-putas,
+Ain’ ita esse Daue? \@Dav.= Aio. \@Philox.= Certus es? Dauus. An caecum
+me putas,
 
 Quae vidi non vidisse me si dicas, videris?
 
-≤line=215≥ Phil. Vbi nunc illum reperiam scelus? vbi hoc crucis
+≤line=215≥ \@Phil.= Vbi nunc illum reperiam scelus? vbi hoc crucis
 cimelium?
 
 Faxo iam Hercle vt suo crux gaudeat cimelio,
 
 Nec ploret diutiùs sibi fieri iniuriam.
 
-Dau. Huc respice. Quis hic est cum collatiuo ventre. Phil. Hic ipsus
-est.
+\@Dav.= Huc respice. Quis hic est cum collatiuo ventre. \@Phil.= Hic
+ipsus est.
 
 Eia, eia, Lyde, eia, ô potator strenuę!
 
@@ -610,63 +615,64 @@ Eia, eia, Lyde, eia, ô potator strenuę!
 
 Vt heri tui corrumperes rem & filium?
 
-Dau. Ergo ad Praetorem vt eamus res iam postulat,
+\@Dav.= Ergo ad Praetorem vt eamus res iam postulat,
 
 Vbi manu mittar ob nauatam gnauiter operam.
 
-Phil. Eamus, Hercle, ad carnificem, qui pendeas.
+\@Phil.= Eamus, Hercle, ad carnificem, qui pendeas.
 
-≤line=225≥ Dau. Eamus, Hercle: nil moror, at nisi filium
+≤line=225≥ \@Dav.= Eamus, Hercle: nil moror, at nisi filium
 
 Mox perdidisse mauelis, pro me salies in crucem libens,
 
 Et pro me pendeas Lydi-vicarius.
 
-Phil. Constringe tute illi Artemo actutum manus.
+\@Phil.= Constringe tute illi Artemo actutum manus.
 
-Dau. Non renuo: stringe etiam fortiùs, etiam ohe fortiùs,
+\@Dav.= Non renuo: stringe etiam fortiùs, etiam ohe fortiùs,
 
-≤line=230≥ Etiam pedes, etiam collum. Phil. Dij te perduint scelus.
+≤line=230≥ Etiam pedes, etiam collum. \@Phil.= Dij te perduint scelus.
 
-Dau. Quae te agitant intemperiae? cur malum tibi
+\@Dav.= Quae te agitant intemperiae? cur malum tibi
 
 Vltro imprecaris? si dij me perduint,
 
 Tu Hercle omnium mortalium es perditißimus.
 
-Phil. Tun’ me ludificas, triuenefice: agite, abducite
+\@Phil.= Tun’ me ludificas, triuenefice: agite, abducite
 
 ≤line=235≥ Intro, atque adstringite ad columnam fortiter.
 
-Dau. Agite, abducite, tanties quantiest fungus putidus.
+\@Dav.= Agite, abducite, tanties quantiest fungus putidus.
 
 Nil sentis, mox vltrò me obsecrabis miser,
 
 Vrgebis vt solui velim, libertatem offeres,
 
-Mulcebis Lydo genua. Phil. Mulcebo Hercule
+Mulcebis Lydo genua. \@Phil.= Mulcebo Hercule
 
 ≤line=240≥ Lydo tergus flagris bellè, bellißimè.
 
 Rapite sublimem in aëra: pendeat mox furcifer.
 
-Lyd. Rapite, agite, pendeam. Phil. Quâ tu haec fiduciâ?
+\@Lyd.= Rapite, agite, pendeam. \@Phil.= Quâ tu haec fiduciâ?
 
-Lyd. Aequi & boni. Phil. Non pendes: Lyd. Cùm lubet;
+\@Lyd.= Aequi & boni. \@Phil.= Non pendes: \@Lyd.= Cùm lubet;
 
-Sed priùs istas tabellas perlege. Philox. Ecquid ganniunt?
+Sed priùs istas tabellas perlege. @Philox.= Ecquid ganniunt?
 
 ≤line=245≥ Contrà ac volo mox famulae Vulcano seruient.
 
-Lydus. Nosce hoc signum, estne id filî? Phil. Noui. Lyd. Perlege.
+\@Lydus.= Nosce hoc signum, estne id filî? \@Phil.= Noui. \@Lyd.=
+Perlege.
 
 ≤page=253≥
 
-Phil. Ohe litteras minutas. Lyd. Qui quidem videat parum;
+\@Phil.= Ohe litteras minutas. \@Lyd.= Qui quidem videat parum;
 
 At qui satis videat grandes nimio satis.
 
-Phil. Iam conspicilla oculos iuuent meos. Lyd. Iuuent.
+\@Phil.= Iam conspicilla oculos iuuent meos. \@Lyd.= Iuuent.
 
 ≤line=250≥ Pater, peccasse me scio, & peccasse poenitet;
 
@@ -696,9 +702,9 @@ Nihili duxi monita, nihili feci: nunc poenitet.
 
 Vale pater, tuum nunquam visurus filium.
 
-Phil. Lyde, ô Lyde, lacrymas nati eliciunt mihi litterae.
+\@Phil.= Lyde, ô Lyde, lacrymas nati eliciunt mihi litterae.
 
-≤line=265≥ Lyd. Quicumque, vbicunque sunt, fuere, vel posthac erunt,
+≤line=265≥ \@Lyd.= Quicumque, vbicunque sunt, fuere, vel posthac erunt,
 
 Bardi, blenni, buccones, matulae, anteis
 
@@ -706,17 +712,17 @@ Omnes longè stultitiâ, & moribus praeposteris.
 
 Illum tu cures filium? illius ergo lacrymas.
 
-Phil. O Lyde, Lyde, aliter tu sapias, si pater fores.
+\@Phil.= O Lyde, Lyde, aliter tu sapias, si pater fores.
 
-≤line=270≥ Lydus. Hercle ego eum peßimis perdam modis si pater forem.
+≤line=270≥ \@Lydus.= Hercle ego eum peßimis perdam modis si pater forem.
 
-Phil. Tacesis. Lyd. Non possum tibi morem gerere, qui illius
+\@Phil.= Tacesis. \@Lyd.= Non possum tibi morem gerere, qui illius
 
-Mores noui. Phil. Sit prauus, sit malus, sit peßimus, at est filius.
+Mores noui. \@Phil.= Sit prauus, sit malus, sit peßimus, at est filius.
 
 ≤page=254≥
 
-Lyd. Non ego suspensum me mauelim, cùm audire isthaec cogor probra?
+\@Lyd.= Non ego suspensum me mauelim, cùm audire isthaec cogor probra?
 
 Tacesis, & filium eximas iam periculo:
 
@@ -724,35 +730,37 @@ Tacesis, & filium eximas iam periculo:
 
 Iam dabo, iam deferes, iam liberes mihi filium.
 
-Solue ellum sis. Lyd. Nolo solui. Phil. Ast ego volo.
+Solue ellum sis. \@Lyd.= Nolo solui. \@Phil.= Ast ego volo.
 
-Lyd. Ast ego magis aequus malo poenas luere flagitî.
+\@Lyd.= Ast ego magis aequus malo poenas luere flagitî.
 
-Phil. Cuius? Lyd. Tui, qui innoxium oneras tot malis.
+\@Phil.= Cuius? \@Lyd.= Tui, qui innoxium oneras tot malis.
 
 ≤line=280≥ Iubes ligari, indictâ caußâ me duci iubes.
 
-Phil. Quaeso hoc mihi flagitium noli imputare, mi Lyde.
+\@Phil.= Quaeso hoc mihi flagitium noli imputare, mi Lyde.
 
-Lyd. Nolo condonare nisi genua demulseris.
+\@Lyd.= Nolo condonare nisi genua demulseris.
 
-Philox. Mulsi: congialem tibi propinabo fideliam.
+\@Philox.= Mulsi: congialem tibi propinabo fideliam.
 
 Cape hoc aurum, Lyde, i fer filio.
 
-≤line=285≥ Lyd. Non equidem accipiam, proin tu quaeras qui ferat.
+≤line=285≥ \@Lyd.= Non equidem accipiam, proin tu quaeras qui ferat.
 
-Nolo ego mihi credi. Phil. Cape verò, odiosum facis.
+Nolo ego mihi credi. \@Phil.= Cape verò, odiosum facis.
 
-Lyd. Non equidem capiam. Phil At quaeso. Lydus. Dico vt res se habet.
+\@Lyd.= Non equidem capiam. Phil. At quaeso. \@Lydus.= Dico vt res se
+habet.
 
-Phil. Morare. Lydus. Nolo inquam concredi mihi;
+\@Phil.= Morare. \@Lydus.= Nolo inquam concredi mihi;
 
-Vel da aliquem qui me seruet. Phil. Ohe odiosè facis.
+Vel da aliquem qui me seruet. \@Phil.= Ohe odiosè facis.
 
-≤line=290≥ Lyd. Cedo si necesse sit. Phil. Cura hoc, iam ego reuenero.
+≤line=290≥ \@Lyd.= Cedo si necesse sit. \@Phil.= Cura hoc, iam ego
+reuenero.
 
-Lyd. Curatum est esse te senem miserrimum.
+\@Lyd.= Curatum est esse te senem miserrimum.
 
 Attonsus ad cutem es vt miserrima ouicula.
 
@@ -784,39 +792,39 @@ Ad Augurum collegium res deferri pote est.
 
 Mn. Nos Augures, hic Augurum est collegium.
 
-Pist. Cor histrionicam facit, salit impigrè.
+\@Pist.= Cor histrionicam facit, salit impigrè.
 
 ≤line=300≥ Sosicl. Nempe hoc est, salies mox prae gaudio.
 
-Pist. At ego, si quid Sibyllae mihi dictant meae,
+\@Pist.= At ego, si quid Sibyllae mihi dictant meae,
 
 Lydum in crucem salijsse nimis vereor malè.
 
-Cleom. Eccere quàm bellus augur: despuas miser
+\@Cleom.= Eccere quàm bellus augur: despuas miser
 
-Funesta dicta haec. Lyd. Quin propero de vicino congredi?
+Funesta dicta haec. \@Lyd.= Quin propero de vicino congredi?
 
-≤line=305≥ Pistoclere, ô Pistoclere. Pist. O Lyde, ô salus mea,
+≤line=305≥ Pistoclere, ô Pistoclere. \@Pist.= O Lyde, ô salus mea,
 
-Salue. Lyd. Apagesis ne cominus mihi. Pi. Quippeni?
+Salue. \@Lyd.= Apagesis ne cominus mihi. Pi. Quippeni?
 
-Lyd. Profanus es, ego sacerrimum sacrarium Hercule,
+\@Lyd.= Profanus es, ego sacerrimum sacrarium Hercule,
 
 Et augustißimum omnium lararium.
 
-Cleom. Quidum? quibus initiatus sacris triuenefice?
+\@Cleom.= Quidum? quibus initiatus sacris triuenefice?
 
-≤line=310≥ Lyd. Nisi modestiùs, vae. Sosic. Quanto fermento tibi
+≤line=310≥ \@Lyd.= Nisi modestiùs, vae. Sosic. Quanto fermento tibi
 
-Increuit subitò pectus. Lyd. Non de nihilo est haec fiducia.
+Increuit subitò pectus. \@Lyd.= Non de nihilo est haec fiducia.
 
-Pist. Tacete: sinite me meum Lydum oscularier,
+\@Pist.= Tacete: sinite me meum Lydum oscularier,
 
 Sinite me suauiarier fortunam meam.
 
 ≤page=256≥
 
-Lyd. Tun tanto coram numine impudens lasciuies?
+\@Lyd.= Tun tanto coram numine impudens lasciuies?
 
 ≤line=315≥ Ego hîc in hoc marsupio Plutum gero,
 
@@ -824,25 +832,25 @@ Vnà & salutem tuam, ô adolescens impie.
 
 Tu tanto coram numine adhuc lasciuies?
 
-Pist. Minimè Hercle. veneror haec numina, & Lydum meum,
+\@Pist.= Minimè Hercle. veneror haec numina, & Lydum meum,
 
 Mystam sacerrimum. Omnes. Vnà omnes sacra facimus
 
-≤line=320≥ Pluto & Lydo. Lyd. Salite prae gaudio. Cleom. Quianam
+≤line=320≥ Pluto & Lydo. \@Lyd.= Salite prae gaudio. \@Cleom.= Quianam
 
 Non Martem huc adfers sed Plutum: suos
 
-Mars Salios habet, haud Plutus. Ly. Salite extempulo,
+Mars Salios habet, haud Plutus. \@Ly.= Salite extempulo,
 
-Vel ne semuncia dabitur. Pist. Eia, salimus strenuè.
+Vel ne semuncia dabitur. \@Pist.= Eia, salimus strenuè.
 
-Lyd. Etiam adhuc, etiam adhuc, adhuc etiam, etiam adhuc.
+\@Lyd.= Etiam adhuc, etiam adhuc, adhuc etiam, etiam adhuc.
 
 ≤line=325≥ Mn. Iuppiter omnesque te dij perdant furcifer.
 
 Prae laßitudine concidunt mihi genua.
 
-Lyd. Sic praeparatur epulis sua penus;
+\@Lyd.= Sic praeparatur epulis sua penus;
 
 Eamus intro, triumphalem vt coenam vobis parem:
 
@@ -854,13 +862,13 @@ NICOBVLVS senex.
 
 MESSENIO seruus.
 
-≤line=330≥ Nicob. Malam rem ducit, multasque sibi fabricat cruces,
+≤line=330≥ \@Nicob.= Malam rem ducit, multasque sibi fabricat cruces,
 
 Vxorem qui ducit domum, quique fabricat filios.
 
-Mes. Pape! quis hic Vulcanus, filios qui fabricat?
+\@Mes.= Pape! quis hic Vulcanus, filios qui fabricat?
 
-Nicob. Ita equidem experior pridem. nam vxor mihi domi est,
+\@Nicob.= Ita equidem experior pridem. nam vxor mihi domi est,
 
 Quae fel vincit & absynthium amaritudine, res peßimas;
 
@@ -876,53 +884,53 @@ Hos ego iam peruelim mihi obuios dari hodie;
 
 Exenterabo, & emedullabo penitus.
 
-≤line=340≥ Mess. Vt Aeacidiuis animis expletus senex!
+≤line=340≥ \@Mess.= Vt Aeacidiuis animis expletus senex!
 
 Vereor ipsis oculos miseris exorbeat,
 
-Vitamque euitet. Nicob. Faciam Hercle sciant patrem
+Vitamque euitet. \@Nicob.= Faciam Hercle sciant patrem
 
 Me esse, & sese filios: si fustem sumpsero,
 
-Mox expupillatos rediam verberibus. Mess. Equidem
+Mox expupillatos rediam verberibus. \@Mess.= Equidem
 
 ≤line=345≥ In Libya mauelim occurrere leoni & tigri,
 
-Quàm huic hodie seni. Nicob. Siccine meperdere,
+Quàm huic hodie seni. \@Nicob.= Siccine meperdere,
 
 Rem meam decoquere, famam pessundare,
 
 Nepotari, impune! age Messenio, grandimus gradum?
 
-Mess. Ad quid: si pransum imus: si coenatum: eccere,
+\@Mess.= Ad quid: si pransum imus: si coenatum: eccere,
 
-≤line=350≥ Vel Pegasum praeuortam. Nicob. Tun’ aciem hebetes
+≤line=350≥ Vel Pegasum praeuortam. \@Nicob.= Tun’ aciem hebetes
 
-Mei furoris, tuis caput obtundens iocis? Mess. Eho
+Mei furoris, tuis caput obtundens iocis? \@Mess.= Eho
 
 Iam carina haec ventris mei ipsa est vacuitas:
 
 Quid mirum si saburram poscit, vt securiùs
 
-Velificetur nauis: Nicob. Saburram fusiùs
+Velificetur nauis: \@Nicob.= Saburram fusiùs
 
-≤line=355≥ Dabo quantam neuelis. Mess. Sine obsecro:
+≤line=355≥ Dabo quantam neuelis. \@Mess.= Sine obsecro:
 
 Haec cruda nimis est coena, atque stomacho nocet.
 
-Nic. Mox te elinguabo furcifer. Mess. Tuus ego sum.
+\@Nic.= Mox te elinguabo furcifer. \@Mess.= Tuus ego sum.
 
 Si mutum mauelis mancipium: tu videris.
 
-Nic. Age, inquam, & Mnesilochum quaeramus mox, & Sosiclem.
+\@Nic.= Age, inquam, & Mnesilochum quaeramus mox, & Sosiclem.
 
-≤line=360≥ Mess. Nempe pedes non habent vt redbitent domum.
+≤line=360≥ \@Mess.= Nempe pedes non habent vt redbitent domum.
 
-Nicob. Eamus, inquam, & ganeones peßimos
+\@Nicob.= Eamus, inquam, & ganeones peßimos
 
 Mox peßimis perdamus, vt decet, modis.
 
-Mess. Hoc est, quatuor iungamus indomitos equos.
+\@Mess.= Hoc est, quatuor iungamus indomitos equos.
 
 ≤folio=R≥
 
@@ -940,17 +948,17 @@ Sic ex vno duplum habebis foenori.
 
 Octo ex duobus mox fient: nihilo minùs.
 
-≤line=370≥ Nic. Sat filiorum diues sum, Messenio,
+≤line=370≥ \@Nic.= Sat filiorum diues sum, Messenio,
 
 Atque ex duobus malim vnum fieri, & bonum.
 
-Mes. Nempe hoc fiet: vicißim comedet alter alterum.
+\@Mes.= Nempe hoc fiet: vicißim comedet alter alterum.
 
 Medium vbi comederit alter alterius,
 
 Duos compingemus dein medios simul,
 
-≤line=375≥ Et fiet vnus è duobus. Nicob. Tu furcifer,
+≤line=375≥ Et fiet vnus è duobus. \@Nicob.= Tu furcifer,
 
 Perge age iocari, ego ted, illosque pariter
 
@@ -958,19 +966,19 @@ Fartum mox faciam, & in artocreâ coquam,
 
 Vt pasta vobis fiat contubernium.
 
-Mes. Non equidem volo tui animi exstinguere incendium,
+\@Mes.= Non equidem volo tui animi exstinguere incendium,
 
 ≤line=380≥ Here: optima res est, irasci peßimis,
 
 Sed magis oleum flammis ingero; quo ardeas.
 
-Nic. Aetnam Hercule flabello irritat Pygmaeolus.
+\@Nic.= Aetnam Hercule flabello irritat Pygmaeolus.
 
 Aetnam hoc gero pectore: euomam hanc in filios
 
 Totam, quanta est: sequere huc, Messenio.
 
-≤line=385≥ Mess. Laruas lemuresque omnes modò qui loquitur senex,
+≤line=385≥ \@Mess.= Laruas lemuresque omnes modò qui loquitur senex,
 
 Mox, Fili, mi fili: ne sic columbule,
 
@@ -1004,31 +1012,31 @@ LYDVS.
 
 MESSENIO.
 
-Mnes. Nunc ego inter sacrum, saxumque sto. Sosicl. Hercule,
+\@Mnes.= Nunc ego inter sacrum, saxumque sto. Sosicl. Hercule,
 
 Nos victimas mox caedet carnifex sacerrimus.
 
-≤line=395≥ Mnes. Quin tu quiescis, directum cor meum ac suspende te:
+≤line=395≥ \@Mnes.= Quin tu quiescis, directum cor meum ac suspende te:
 
 Tu sussultas, ego miser vix sto prae formidine.
 
-Pist. Tum nempe miser miserrimus est, cùm deficit
+\@Pist.= Tum nempe miser miserrimus est, cùm deficit
 
-Cum re consilium. Cleom. Omnem senatum conuoca
+Cum re consilium. \@Cleom.= Omnem senatum conuoca
 
 Dolique fraudisque, vt falsidicis fallacijs
 
-≤line=400≥ Senex iugulatus pereat. Pist. Acutas Hercule
+≤line=400≥ Senex iugulatus pereat. \@Pist.= Acutas Hercule
 
 Poscis fallacias, talem vt iugulent senem.
 
-Men. Lydum hoc poscit munus, nec frustra erit; scio:
+\@Men.= Lydum hoc poscit munus, nec frustra erit; scio:
 
 Nouit, senibus suis os oblinere offucijs.
 
-Mnes. Ad Lydum omnes hanc deferimus prouinciam.
+\@Mnes.= Ad Lydum omnes hanc deferimus prouinciam.
 
-≤line=405≥ Lyd. Periculi res plena est haec prouincia:
+≤line=405≥ \@Lyd.= Periculi res plena est haec prouincia:
 
 Nolo tam temerè iacere meo in tergo aleam.
 
@@ -1042,38 +1050,38 @@ Lictores, queis nulla est, nisi in cute, purpura:
 
 Qui non triumphant, nisi sub furcâ vapulent.
 
-≤line=410≥ Pist. Auctoritatem tun’ senatus negligas?
+≤line=410≥ \@Pist.= Auctoritatem tun’ senatus negligas?
 
 Videsis, senatu, consulto qui pareas.
 
-Mnes. In eandem omnes discedimus sententiam.
+\@Mnes.= In eandem omnes discedimus sententiam.
 
-Lyd. Quâ lege hanc traditis mihi prouinciam?
+\@Lyd.= Quâ lege hanc traditis mihi prouinciam?
 
 Nolo Praetor, nolo esse Propraetor, neque
 
 ≤line=415≥ Proconsul: res grauis est, & Dictatorem postulat.
 
-Dicite me Dictatorem. Omnes. Dicimus. Lydus. Date
+Dicite me Dictatorem. Omnes. Dicimus. \@Lydus.= Date
 
-Secures cum fascibus. Men. Eho, ceruicibus
+Secures cum fascibus. \@Men.= Eho, ceruicibus
 
-Tam citò minaris nostris? Lyd. Hoc mei sit arbitrî:
+Tam citò minaris nostris? \@Lyd.= Hoc mei sit arbitrî:
 
 Volo absolutum imperium mihi dari in vitam & necem.
 
-≤line=420≥ Omnes. Damus. Lyd. Nunc ergo tu hîc sis: age, statio haec tua
-est;
+≤line=420≥ Omnes. Damus. \@Lyd.= Nunc ergo tu hîc sis: age, statio haec
+tua est;
 
 Hunc tu serua locum, nec deseras, vide.
 
 Hîc mihi praetorium erit, huc concilium conuoco.
 
-Pist. Age, Imperator maxime, rem incipe strenuus.
+\@Pist.= Age, Imperator maxime, rem incipe strenuus.
 
 Tam facilè vinces, quàm volpes pirum comest.
 
-≤line=425≥ Lyd. Herclè, iam tempus aurem vellicat mihi,
+≤line=425≥ \@Lyd.= Herclè, iam tempus aurem vellicat mihi,
 
 Inconciliare copias omnes meas.
 
@@ -1101,7 +1109,7 @@ In hoc, inquam, capitis praetorio
 
 Iam consedere, iam rogito sententias.
 
-Pist. Quemadmodum adstitit seuerâ fronte curas cogitans?
+\@Pist.= Quemadmodum adstitit seuerâ fronte curas cogitans?
 
 Reperit, non reperit: nutat, abnutat: magnùm facinus animo
 
@@ -1109,19 +1117,19 @@ Reperit, non reperit: nutat, abnutat: magnùm facinus animo
 
 Quid hoc? quid agis? nugas agis, Pol, nugacißimus merè.
 
-Digitos credis te perdidisse? numeras. Lyd. Sine, reperi modò.
+Digitos credis te perdidisse? numeras. \@Lyd.= Sine, reperi modò.
 
-Pist. Pectus pultat, cor, credo, euocaturus est foras.
+\@Pist.= Pectus pultat, cor, credo, euocaturus est foras.
 
-Lyd. Hac si tetenderit acies, vicimus. Pistocl. Hui,quàm feruidè
+\@Lyd.= Hac si tetenderit acies, vicimus. \@Pistocl.= Hui,quàm feruidè
 
 ≤line=445≥ Concrepuit digitis! res tandem progreditur ex sententiâ.
 
-Actum est? Lyd. De cute tuâ; nisi quod occurrerit aliud mihi
+Actum est? \@Lyd.= De cute tuâ; nisi quod occurrerit aliud mihi
 
 Augurium: inebras hucusque aues video, arculasque peßimas:
 
-Non gero bellum, nisi auspicatò. Pist. Vigila, ne somno stude.
+Non gero bellum, nisi auspicatò. \@Pist.= Vigila, ne somno stude.
 
 Ecce autem aedificat, columnam mento suffecit suo.
 
@@ -1134,7 +1142,7 @@ Euge, euge, euschemè me Hercle astitit, & dulce, & comoedicè.
 
 ≤page=262≥
 
-Lyd. Io, io triumphe, adeste tubicines, tibicines,
+\@Lyd.= Io, io triumphe, adeste tubicines, tibicines,
 
 Equites, pedites, elephanti capti de hostibus,
 
@@ -1148,11 +1156,11 @@ Nostro Iugurtha nomen erit, illi alteri
 
 Perses: ego Marius atque Aemilius ero.
 
-Vbi est senatus? Pistocl. Lictores adfore mox arbitror,
+Vbi est senatus? \@Pistocl.= Lictores adfore mox arbitror,
 
-≤line=460≥ Nec sine virgis. Lyd. Quas Dictator equidem in humeros
+≤line=460≥ Nec sine virgis. \@Lyd.= Quas Dictator equidem in humeros
 
-Mox expediam tuos. Pist. Dictator inclyte,
+Mox expediam tuos. \@Pist.= Dictator inclyte,
 
 Dictata nisi mox proferas bellißima,
 
@@ -1162,39 +1170,39 @@ Eripiant, ibis patibulatum ocyßimè,
 
 ≤line=465≥ De Dictatore mox effectus furcifer.
 
-Lyd. Tun’ hisce minaciis me territes larua vmbratilis?
+\@Lyd.= Tun’ hisce minaciis me territes larua vmbratilis?
 
 Heus, lictor, caput obnubito illi, atque arbori
 
-Infelici suspendito. Pist. Actutum, nisi
+Infelici suspendito. \@Pist.= Actutum, nisi
 
 Explicaris mihi negotium, Hercules,
 
-≤line=470≥ Noctem pendebis perpetem. Lyd. Nihil, nihil,
+≤line=470≥ Noctem pendebis perpetem. \@Lyd.= Nihil, nihil,
 
 Nihil actum est; dictaturam exuo: nec ciuibus
 
-Rebellibus velim prodesse. Pist. At Iupiter
+Rebellibus velim prodesse. \@Pist.= At Iupiter
 
 Bene te amet. sis Dictator iure quàm optimo,
 
-Sis quidlibet: modò imperti me, quod commentu’st. Lyd. Tace,
+Sis quidlibet: modò imperti me, quod commentu’st. \@Lyd.= Tace,
 
 ≤line=475≥ Dum in regionem astutiarum mearum te induco, vt scias
 
-Iuxta mecum mea consilia. Pist. Salua sumes indidem.
+Iuxta mecum mea consilia. \@Pist.= Salua sumes indidem.
 
 ≤page=263≥
 
-Lyd. Herus meus elephanti corio circumtectus est, non suo,
+\@Lyd.= Herus meus elephanti corio circumtectus est, non suo,
 
-Neque habet plus sapientiae quàm lapis. Pist. Egomet istuc scio.
+Neque habet plus sapientiae quàm lapis. \@Pist.= Egomet istuc scio.
 
-Lyd. Nunc sic rationem incipissam: ita hanc instituam astutiam.
+\@Lyd.= Nunc sic rationem incipissam: ita hanc instituam astutiam.
 
 ≤line=480≥ Mox pater vbi venerit: faciem mox exues,
 
-Mox indues aliam, tu inquam, tu, tu, tu. Pist. Age.
+Mox indues aliam, tu inquam, tu, tu, tu. \@Pist.= Age.
 
 An noctuas nos esse putas? sic tu, & iterum
 
@@ -1206,7 +1214,7 @@ Tum facierum nos diuites sic autumes,
 
 Mutare & pro libito nos facies creduas,
 
-Vt mutatorias vestes? Lyd. Cauesis malum.
+Vt mutatorias vestes? \@Lyd.= Cauesis malum.
 
 Exorsa haec tela est non malè omnino mihi,
 
@@ -1218,9 +1226,9 @@ Furiosum tum te, tum lymphatum fingito,
 
 Tum ea dicas, tum facias, quae Orestes nunquam fecerit.
 
-Mnes. Quid tum? Lyd. Fugiet. Pist. Prò fraudium fraus peßima!
+\@Mnes.= Quid tum? \@Lyd.= Fugiet. \@Pist.= Prò fraudium fraus peßima!
 
-Lyd. Nunc experire sitne acetum tibi, & cor acre in pectore,
+\@Lyd.= Nunc experire sitne acetum tibi, & cor acre in pectore,
 
 ≤line=495≥ An fungum pro corde geras, peponem pro cerebro.
 
@@ -1228,7 +1236,7 @@ Hanc tu prouinciam pro legato obieris,
 
 In quâ duellum hodie feruebit maxumum.
 
-Pist. At tu qui facies mutare iubes hominem, vbi
+\@Pist.= At tu qui facies mutare iubes hominem, vbi
 
 Hae crescunt, quas mutemus facies, expedi.
 
@@ -1236,11 +1244,11 @@ Hae crescunt, quas mutemus facies, expedi.
 
 ≤page=264≥
 
-≤line=500≥ Lyd. In hoc crescunt marsupio, híc venum omnia
+≤line=500≥ \@Lyd.= In hoc crescunt marsupio, híc venum omnia
 
 Exponit lupiter, etiam fidem, & fiduciam.
 
-Pist. Age aperi tandem olitorium hoc forum. Lyd. Aperio.
+\@Pist.= Age aperi tandem olitorium hoc forum. \@Lyd.= Aperio.
 
 Sed Cereris hic mysteria sunt, cerni abnuunt.
 
@@ -1248,7 +1256,7 @@ Ibo intrò; mox prodibo foras, mox omnia
 
 ≤line=505≥ Dabo expedita, impedita quae vides modò.
 
-Pist. Miras hic turbellas excitabit furcifer,
+\@Pist.= Miras hic turbellas excitabit furcifer,
 
 Si Lydum noui, texit histrionibus
 
@@ -1262,7 +1270,7 @@ Si quis denariolo vendat mihi lanio
 
 Nolim Hercle. ita mox forabitur dente vlmeo.
 
-Mess. Hi me videre non putant, audire me
+\@Mess.= Hi me videre non putant, audire me
 
 Nihil. At verò vbi senex aderit, omnia
 
@@ -1278,31 +1286,31 @@ NICOBVLVS.
 
 MESSENIO.
 
-Lyd. Nemo vnquam magis sui ex animi sententiâ
+\@Lyd.= Nemo vnquam magis sui ex animi sententiâ
 
 Res expediuit peßimas, quàm ego hodie.
 
-Cleom. Eccum. Dictator adest. Pistocl. Quid cessamus? salus
+\@Cleom.= Eccum. Dictator adest. \@Pistocl.= Quid cessamus? salus
 
 Nostrae reipublicae huius in sinu tacet,
 
-≤line=520≥ Ibi quiescit. Mnes. Imperator maxime,
+≤line=520≥ Ibi quiescit. \@Mnes.= Imperator maxime,
 
 ≤page=265≥
 
 An commeatus in promptu est? num aerarium
 
-Neruusque belli solidus? Lyd. Agite, vicimus,
+Neruusque belli solidus? \@Lyd.= Agite, vicimus,
 
 Haec est panoplia, haec cataphractorum arma sunt
 
-Ipsißima. induite. Pist. Quin sagum das è praetorio?
+Ipsißima. induite. \@Pist.= Quin sagum das è praetorio?
 
 ≤line=525≥ Hostis adest, nimio quàm atrocißimus.
 
-Lyd. Si illi machaera est, & nobis rhomphaea ’st domi.
+\@Lyd.= Si illi machaera est, & nobis rhomphaea ’st domi.
 
-Nic. Bilem in nasum conciuit mihi labor, morá;
+\@Nic.= Bilem in nasum conciuit mihi labor, morá;
 
 Dum quaero, dum plateas omnes obeo, & perditos
 
@@ -1314,13 +1322,13 @@ Palàm nepotantur. Sed hem Messenio
 
 Opportunus adest consiliarius re in peßimâ.
 
-Mess. Ah Nicobule, Nicobule! Nicob. Oh mi Messenio,
+\@Mess.= Ah Nicobule, Nicobule! \@Nicob.= Oh mi Messenio,
 
-Messenio! Mess. Teneo praedam vnguibus. Nicob. Lupum auribus,
+Messenio! \@Mess.= Teneo praedam vnguibus. \@Nicob.= Lupum auribus,
 
-≤line=535≥ Vt vereor. Mess. Ego eos tibi si ostendero filios,
+≤line=535≥ Vt vereor. \@Mess.= Ego eos tibi si ostendero filios,
 
-Agnosces? Nic. Herculè, nisi oculos effodiant mihi,
+Agnosces? \@Nic.= Herculè, nisi oculos effodiant mihi,
 
 Agnoscam quos genui, quos eduxi malo
 
@@ -1328,36 +1336,37 @@ Suo, luctu meo familiari, & quod est
 
 Caput, meae crumenae exitio & funere?
 
-≤line=540≥ Mess. Viden’ hos? Nicob. Quid ni videam? Quid sic me captas
-carnifex?
+≤line=540≥ \@Mess.= Viden’ hos? \@Nicob.= Quid ni videam? Quid sic me
+captas carnifex?
 
 Nam ego quidem meos oculos habeo, nec rogo vtendos foris.
 
-Mess. Hi sunt. Nic. Hi sunt? Mess. Nisi fortè alicubi se perduint,
+\@Mess.= Hi sunt. \@Nic.= Hi sunt? \@Mess.= Nisi fortè alicubi se
+perduint,
 
 Aut se reliquerint forsitan in ganeâ.
 
-Nic. Hi sunt? Mess. Nisi de Euphorbo Pythagorae sient.
+\@Nic.= Hi sunt? \@Mess.= Nisi de Euphorbo Pythagorae sient.
 
 ≤folio=R5≥
 
 ≤page=266≥
 
-≤line=545≥ Nic. Hi sunt? Credo quidem me vidisse eos, nec alteri
+≤line=545≥ \@Nic.= Hi sunt? Credo quidem me vidisse eos, nec alteri
 
 Sed mihimet credo, oculis credo meis.
 
-Nicob. Hi sunt? Mess. Hi sunt? hi sunt? hi sunt? vomitum moues
+\@Nicob.= Hi sunt? \@Mess.= Hi sunt? hi sunt? hi sunt? vomitum moues
 
 Ita mihi ad nauseam, Hi sunt exscreas. hui!
 
-Nicob. Messenio, multa senium fert secum incommoda,
+\@Nicob.= Messenio, multa senium fert secum incommoda,
 
 ≤line=550≥ Oculis nubem obducit. Censen’ operae pretij
 
-Adire? Mess. Nisi perire eos mauelis. Nic. Quis hic?
+Adire? \@Mess.= Nisi perire eos mauelis. \@Nic.= Quis hic?
 
-Mess. Filius est, ni fallar. Nic. Nempe Aethiops mihi
+\@Mess.= Filius est, ni fallar. \@Nic.= Nempe Aethiops mihi
 
 Est filius. Mess Quid si in camino leno foris
 
@@ -1365,7 +1374,7 @@ Eum suspenderit, vti fit carnario,
 
 ≤line=555≥ Vbi pernae pendent, vbi lardum omne fumigat?
 
-Nic. Hercle fieri pote: nam mala merx leno est. age,
+\@Nic.= Hercle fieri pote: nam mala merx leno est. age,
 
 Mi fili quid cessas? num vocem agnoscis patris?
 
@@ -1373,27 +1382,27 @@ Hui! haec quidem Aedepol laruarum plena sunt.
 
 Censen’ eum esse filium Messenio?
 
-≤line=560≥ Mess. Nisi fortè migrauit ex corpore veluti solent
+≤line=560≥ \@Mess.= Nisi fortè migrauit ex corpore veluti solent
 
 Migrare ex aedibus antiquis in nouas.
 
-Nicob. At nasus illi plusculum est simus, Messenio,
+\@Nicob.= At nasus illi plusculum est simus, Messenio,
 
-Non filio item meo. Mess. Quid si pugnis ei
+Non filio item meo. \@Mess.= Quid si pugnis ei
 
 Interpolarit os meretrix, & denuò
 
-≤line=565≥ Refinxerit. Nicob. Labia hiulcant nimis, Messenio.
+≤line=565≥ Refinxerit. \@Nicob.= Labia hiulcant nimis, Messenio.
 
 Sed iterum aggrediar hominem. Perplexabili
 
 Nescio quo murmure incassum fremis frutex?
 
-Pist. Oύ γὰρ ἔγωγέ τι φημὶ τέλος χαριέστερον εἶναι,
+\@Pist.= Oύ γὰρ ἔγωγέ τι φημὶ τέλος χαριέστερον εἶναι,
 
 Η ὅταν εὐφροσύνη μὲν ἔχει κάτα δῆμον ἅπαντα.
 
-≤line=570≥ Nic. Malè metuo ne malum duit mihi: hic elephas
+≤line=570≥ \@Nic.= Malè metuo ne malum duit mihi: hic elephas
 
 Est, non homo, barrit, non loquitur Hercule.
 
@@ -1403,7 +1412,7 @@ An me risui, me ludibrio habes, Messenio?
 
 Ego te carnifici discipulum mox dabo carnifex.
 
-Mess. Si quidem omnes coniuratim cruciamenta conferant;
+\@Mess.= Si quidem omnes coniuratim cruciamenta conferant;
 
 ≤line=575≥ Habeo, opinor, familiare tergum, ne quaeram foris.
 
@@ -1411,29 +1420,29 @@ Non possunt mihi minacijs credo tuis hi oculi fodiri hodie,
 
 Sicvt non viderim ea quae ita certò viderim.
 
-Nicob. Tuten’ vidisse hos asseris? Mess. Assero.
+\@Nicob.= Tuten’ vidisse hos asseris? \@Mess.= Assero.
 
-Nicob. Quos? Mess. Filios. Nicob. Meos?
+\@Nicob.= Quos? \@Mess.= Filios. \@Nicob.= Meos?
 
-≤line=580≥ Mess. Tuos. neque enim mihi, reor, sunt filij,
+≤line=580≥ \@Mess.= Tuos. neque enim mihi, reor, sunt filij,
 
 Albas praeter bestiolas & totidem nigras.
 
-Nicob. Quis horum est? Mess. Horum nullus, & horum quilibet.
+\@Nicob.= Quis horum est? \@Mess.= Horum nullus, & horum quilibet.
 
-Nicob. Potisne esse iste ventricosus, obesulus?
+\@Nicob.= Potisne esse iste ventricosus, obesulus?
 
-Mess. Nam si in cauponâ benè bibit, quid ni pote?
+\@Mess.= Nam si in cauponâ benè bibit, quid ni pote?
 
-≤line=585≥ Nic. Aggrediar hominem confidenter. Mess. Optimè.
+≤line=585≥ \@Nic.= Aggrediar hominem confidenter. \@Mess.= Optimè.
 
-Nicob. Pape adolescens, vt bellè atque anserine ambulas.
+\@Nicob.= Pape adolescens, vt bellè atque anserine ambulas.
 
 Hic nempe gnatus est meus bellißimus,
 
 Quem mactabo omnibus cruciabilitatibus.
 
-PI. Δαιτυμόνες δ’ ἀνὰ δώματ’ ἀκουάζωνται ἀοιδοῦ,
+\@Pi.= Δαιτυμόνες δ’ ἀνὰ δώματ’ ἀκουάζωνται ἀοιδοῦ,
 
 (590) Ἥμενοι ἑξείης παρὰ δὲ πλήθωσι τράπεζαι
 
@@ -1443,7 +1452,7 @@ Oίνοχόος φορέῃσι, καὶ ἐκχείῃ δεπάεσσιν
 
 Τοῦτο τί μοι κάλλιστον ἐνὶ φρεσὶν εἴδεται εἶναι.
 
-Nicob. Messenio, Messenio! Iam Cerbero
+\@Nicob.= Messenio, Messenio! Iam Cerbero
 
 ≤line=595≥ Me malim esse hospitem, quàm haεc ferre diutiùs.
 
@@ -1453,13 +1462,14 @@ Aetate in hac me ludum fieri pupulis.
 
 ≤page=268≥
 
-Mess. Durum est. Sed vnum hoc scito: nimio crebriùs
+\@Mess.= Durum est. Sed vnum hoc scito: nimio crebriùs
 
 Venire quod molestum est, quàm id quod cupidè expetis.
 
-≤line=600≥ Nicob. Tentabo etiam adhuc? Mess. Etiam adhuc: saepè aucupes
+≤line=600≥ \@Nicob.= Tentabo etiam adhuc? \@Mess.= Etiam adhuc: saepè
+aucupes
 
-Falluntur, & tandem praeda obuenit. Nic. Igitur
+Falluntur, & tandem praeda obuenit. \@Nic.= Igitur
 
 Per satyram nunc exquiramus suffragia:
 
@@ -1483,11 +1493,12 @@ Dein caetera monstris examußim dixeris
 
 Similia, decollauit omne consilium mihi.
 
-Mess. At hosce vides? Nicob. Video. Mess. Facient rem omnem palàm;
+\@Mess.= At hosce vides? \@Nicob.= Video. \@Mess.= Facient rem omnem
+palàm;
 
 Modò tu tragicè, modò non agas sic comicè.
 
-≤line=615≥ Nicob. Video, video pestem iuuentae: Dî improbos
+≤line=615≥ \@Nicob.= Video, video pestem iuuentae: Dî improbos
 
 Adaxint ad suspendium veneficos,
 
@@ -1495,27 +1506,27 @@ Qui mentem eripiunt filijs, & rem patri.
 
 Pistoclere, hem, Pistoclere, an baculos edis?
 
-Pist. Durus cibus est, pernicies dentium mera.
+\@Pist.= Durus cibus est, pernicies dentium mera.
 
-≤line=620≥ Nic. Homo nullus est te scelestior hodie,
+≤line=620≥ \@Nic.= Homo nullus est te scelestior hodie,
 
 Neque cui ego de industriâ ampliùs malè
 
 Hodie faxim perlubens, faxim, inquam, perlubens.
 
-Pist. Quid me iubes facere, Apollo? hircum foetidum
+\@Pist.= Quid me iubes facere, Apollo? hircum foetidum
 
 ≤page=269≥
 
-Vt mactem tibi? placet. Nic. Expedit iam sese homo.
+Vt mactem tibi? placet. \@Nic.= Expedit iam sese homo.
 
-≤line=625≥ Pist. Agedum, machaera, Apollinis iusso obsequi
+≤line=625≥ \@Pist.= Agedum, machaera, Apollinis iusso obsequi
 
 Te decet, agedum, hancce victimam caede inferis;
 
 Nigra est, hanc quaerit sibi Proserpina.
 
-Nicob. Certè haud tutum est, certè pueri interdum senem
+\@Nicob.= Certè haud tutum est, certè pueri interdum senem
 
 Interimunt: parricidî hinc nata quaestio est.
 
@@ -1523,25 +1534,26 @@ Interimunt: parricidî hinc nata quaestio est.
 
 Serò praetor quaerat cùm mortuus siem.
 
-Mess. Ast ego herum non patiar inultum ludibrio
+\@Mess.= Ast ego herum non patiar inultum ludibrio
 
-Haberi à fungis istis. Lyd. Quid ais homo trium?
+Haberi à fungis istis. \@Lyd.= Quid ais homo trium?
 
-Mess. Dij te vellem perdant, homo marcide,
+\@Mess.= Dij te vellem perdant, homo marcide,
 
 ≤line=635≥ Germana illuuies, rusticus, hircus, hara, sus,
 
-Canis, capra commistae. Lyd. O nequam os & maledicum!
+Canis, capra commistae. \@Lyd.= O nequam os & maledicum!
 
 Indignis si maledicitur, maledictum id esse dico:
 
 Verum si dignis dicitur benedictu’ st, meo quidem animo.
 
-Lyd. Hem! quam Cato hic philosophus est, sententias
+\@Lyd.= Hem! quam Cato hic philosophus est, sententias
 
 ≤line=640≥ Loquitur iam noster carnifex. Age, verbero,
 
-Pugnos ede. Mess. Nolo Hercule. Lyd. At ego volo. Mess. Quaeso Hercule,
+Pugnos ede. \@Mess.= Nolo Hercule. \@Lyd.= At ego volo. \@Mess.= Quaeso
+Hercule,
 
 Tu istam coenam largire esurientibus. ego
 
@@ -1549,9 +1561,9 @@ Haud esurio pugnos: vaciuus mihi licet
 
 Stomachus octo propè dierum egit ferias.
 
-≤line=645≥ Lyd. Hoc quidem profectò certum est, non est arbitrarium.
+≤line=645≥ \@Lyd.= Hoc quidem profectò certum est, non est arbitrarium.
 
-Mess. Perij. Lyd. Parum etiam, praeut futurum est, praedicas.
+\@Mess.= Perij. \@Lyd.= Parum etiam, praeut futurum est, praedicas.
 
 Nisi te contuderim mollior vt lanâ sies.
 
@@ -1559,21 +1571,21 @@ Nisi te contuderim mollior vt lanâ sies.
 
 Ego istos execror pugnos quantumuis pugnacißimoi.
 
-Lyd. Ego te religione exuo, nihil debes mihi,
+\@Lyd.= Ego te religione exuo, nihil debes mihi,
 
-≤line=650≥ Soluisti. Mess. Nolo in aere esse alieno: cape.
+≤line=650≥ Soluisti. \@Mess.= Nolo in aere esse alieno: cape.
 
-Lyd. Nimis etiam prodigalis factus es Aedepol,
+\@Lyd.= Nimis etiam prodigalis factus es Aedepol,
 
-Tutore opu’st. Lyd. Quia vaniloquus es, nunc vapula.
+Tutore opu’st. \@Lyd.= Quia vaniloquus es, nunc vapula.
 
-Mess. Optati ciues, incolae, accolae. Lyd. Nunc vapula.
+\@Mess.= Optati ciues, incolae, accolae. \@Lyd.= Nunc vapula.
 
-Nicob. Quin fugimus hinc Messenio? Pist. Sic expedit,
+\@Nicob.= Quin fugimus hinc Messenio? \@Pist.= Sic expedit,
 
 ≤line=655≥ Nisi exossari malitis miseris modis.
 
-Nic. Vbi tu nunc, qui exossas homines, homuncio:
+\@Nic.= Vbi tu nunc, qui exossas homines, homuncio:
 
 Mox tibi cutis nulla erit in natibus, ô homuncio,
 
@@ -1591,9 +1603,9 @@ Tunc tibi cutis nulla erit in natibus, ô homuncio.
 
 PISTOCLERVS cum sociis.
 
-Mnes. PVgnata haec pugna est fortiter: fugit senex.
+\@Mnes.= PVgnata haec pugna est fortiter: fugit senex.
 
-Pist. Velim equidem non rediret auctus copiis:
+\@Pist.= Velim equidem non rediret auctus copiis:
 
 At mihi cor augurium facit, mox adfore.
 
@@ -1601,31 +1613,31 @@ At mihi cor augurium facit, mox adfore.
 
 Cupiat, potest: nec vsquam stabulum est confidentiae.
 
-Lyd. Ignaue miles, siccine post victoriam
+\@Lyd.= Ignaue miles, siccine post victoriam
 
 Cor palpitat? Quid si modò victus igitur,
 
 ≤page=271≥
 
-Quid foret animorum? Pist. Succidaneam
+Quid foret animorum? \@Pist.= Succidaneam
 
 ≤line=670≥ Pro me cutem tuam si dederis, aureum
 
-Dabo. qui liber fias. Lyd. Dabo, si quid accidat
+Dabo. qui liber fias. \@Lyd.= Dabo, si quid accidat
 
 Praeter fortunam, quam peteßis optimam.
 
-Pist. O carnificinum cribrum, quod credo fore,
+\@Pist.= O carnificinum cribrum, quod credo fore,
 
 Ita te forabunt patibulatum per vias
 
-≤line=675≥ Stimulis. Lyd. Sine, inquam, mox adero, mox proferam
+≤line=675≥ Stimulis. \@Lyd.= Sine, inquam, mox adero, mox proferam
 
 Bellaces machinas, queis mox senes
 
 Prosternam ambos. Sosicl. Aget aliquid, miscebit omnia.
 
-Noui hominem. Pist. Caeterûm siluam vlmorum integram
+Noui hominem. \@Pist.= Caeterûm siluam vlmorum integram
 
 Feremus hodie singuli, quantam Atlas vix ferat.
 
@@ -1645,8 +1657,8 @@ Induat, haec tibi, tibi haec. Panaceam credite
 
 Me à Ioue malorum omnium habere in promptu Hercule.
 
-≤line=685≥ Pist. Pandoram te credo Hercule. Lyd. Agesis. Pist. Vt
-pendeam?
+≤line=685≥ \@Pist.= Pandoram te credo Hercule. \@Lyd.= Agesis. \@Pist.=
+Vt pendeam?
 
 Sat citò pendebo, mox vbi senex venerit:
 
@@ -1656,23 +1668,23 @@ Quod nullo mox labore vltro mihi dabitur?
 
 ≤page=272≥
 
-Tu pendeas. Lyd. Tu priùs, Hercule; herus es mihi.
+Tu pendeas. \@Lyd.= Tu priùs, Hercule; herus es mihi.
 
-≤line=690≥ Pist. Non inuideo hancce praerogatiuam tibi.
+≤line=690≥ \@Pist.= Non inuideo hancce praerogatiuam tibi.
 
-Lyd. Mauis perire. Pist. Certè non pereo si pendeo?
+\@Lyd.= Mauis perire. \@Pist.= Certè non pereo si pendeo?
 
-Lyd. Ita me ament quos amo, patellarij dij,
+\@Lyd.= Ita me ament quos amo, patellarij dij,
 
-Vt non peribis. Pist. Quid igitur. Lyd. Collum insere;
+Vt non peribis. \@Pist.= Quid igitur. \@Lyd.= Collum insere;
 
 Scalas conscende, caetera ex sententiâ.
 
-≤line=695≥ Pist. Sed mox in tuto cùm fueris med exime
+≤line=695≥ \@Pist.= Sed mox in tuto cùm fueris med exime
 
 Periculo. Omnes. Bellè, optimè, haud pote meliùs.
 
-Lyd. Nunc obuiàm senibus ibo, leporibus canes
+\@Lyd.= Nunc obuiàm senibus ibo, leporibus canes
 
 Auribus eos capio timidè timidißimos.
 
@@ -1688,11 +1700,11 @@ Ain’ ita esse, Lydum, filios tuos
 
 ≤line=700≥ Meumque perdere, vnicè mihi vnicum?
 
-Vbi eum nunc reperiam scelus hominis? Nic. Viden’?
+Vbi eum nunc reperiam scelus hominis? \@Nic.= Viden’?
 
-Phil. Heus, Lyde, Lyde. Lyd. Philoxenum audio herum nicum.
+\@Phil.= Heus, Lyde, Lyde. \@Lyd.= Philoxenum audio herum nicum.
 
-Estne here quid imperes? Philox. Vt pendeas. Lyd. Placet.
+Estne here quid imperes? \@Philox.= Vt pendeas. \@Lyd.= Placet.
 
 Nec restis sumptui tibi futura’ st, attuli:
 
@@ -1700,43 +1712,44 @@ Nec restis sumptui tibi futura’ st, attuli:
 
 Frugi nunquam fui, nunquam ero, sine pendeam.
 
-Phil. Nec opus Demosthene est, Lyde, vt persuadear:
+\@Phil.= Nec opus Demosthene est, Lyde, vt persuadear:
 
 Pendebis: at mihi filium priùs exhibe.
 
-Lyd. Pendet, ni fallor, aut pendebit oppido,
+\@Lyd.= Pendet, ni fallor, aut pendebit oppido,
 
 ≤line=710≥ Longamque extemplò de se faciet litteram.
 
 ≤page=273≥
 
-Philox. Quianam? Lydus. Quia commeritu’st. Philox. Fallis me furcifer.
+\@Philox.= Quianam? \@Lydus.= Quia commeritu’st. \@Philox.= Fallis me
+furcifer.
 
-Lyd. Libitinam iam nunc expedi: ne foeteat.
+\@Lyd.= Libitinam iam nunc expedi: ne foeteat.
 
-Phil. O Lyde, Lyde, Lyde, vis fieri modò
+\@Phil.= O Lyde, Lyde, Lyde, vis fieri modò
 
-Libertus meus? Lyd. Haud vnquam merui istud. Phil. Malè
+Libertus meus? \@Lyd.= Haud vnquam merui istud. \@Phil.= Malè
 
 ≤line=715≥ De te sentis, manu te mitto, si velis.
 
-Lyd. Nolo manu mitti, nisi à carnifice. Phil. Quid
+\@Lyd.= Nolo manu mitti, nisi à carnifice. \@Phil.= Quid
 
-Hoc prodigij? Lyd. Volo, inquam, me mittat manu,
+Hoc prodigij? \@Lyd.= Volo, inquam, me mittat manu,
 
-Qui pendeam. Phil. Quidum? Lyd. Merui, merui, Hercule,
+Qui pendeam. \@Phil.= Quidum? \@Lyd.= Merui, merui, Hercule,
 
-Vnà & tuus filius. Phil. Obsecro? Lyd. Citò quid iubes?
+Vnà & tuus filius. \@Phil.= Obsecro? \@Lyd.= Citò quid iubes?
 
-≤line=720≥ Volo pendere: moram compendi facito. Phil. Duc
+≤line=720≥ Volo pendere: moram compendi facito. \@Phil.= Duc
 
-Me vbi filius. Lyd. Ducam. hac eundum est: num vides:
+Me vbi filius. \@Lyd.= Ducam. hac eundum est: num vides:
 
-Nostin’ hunc? hic tuus estne filius: Phil. Pape!
+Nostin’ hunc? hic tuus estne filius: \@Phil.= Pape!
 
 Charontis in cymbam alterum pedem intulit.
 
-Nic. Et Mnesilochum video hîc, & Sosiclem meum.
+\@Nic.= Et Mnesilochum video hîc, & Sosiclem meum.
 
 ## 20. SCENA IV.
 
@@ -1748,79 +1761,80 @@ NICOBVLVS.
 
 LYDVS.
 
-≤line=725≥ Pistocl. Vale pater: estne quod Plutoni nunciare mihi
+≤line=725≥ \@Pistocl.= Vale pater: estne quod Plutoni nunciare mihi
 imperas?
 
-Phil. Vt saluus sis, gnate. Pistocl. Ero mox, vbi reste hac obstruxero
-galam.
+\@Phil.= Vt saluus sis, gnate. \@Pistocl.= Ero mox, vbi reste hac
+obstruxero galam.
 
 ≤page=274≥
 
-Phil. Ne sic, mi fili, ne sic, mi columbule, ne ita saeuias.
+\@Phil.= Ne sic, mi fili, ne sic, mi columbule, ne ita saeuias.
 
-Nicob. Et vos, mea mellila, estne quod aegri quidquam hodie vobis siet:
+\@Nicob.= Et vos, mea mellila, estne quod aegri quidquam hodie vobis
+siet:
 
 Faciam mox omnia vt sient de saccharo. Date basium.
 
 ≤line=730≥ Sosic. Iam nunc dabimus cruci basia, quam sponsam hodie
 despondimus.
 
-Nicob. Ne sic, mei passerculi, ne sic, mei ô haedilluli.
+\@Nicob.= Ne sic, mei passerculi, ne sic, mei ô haedilluli.
 
 Mn. Meritis hostire nostris pro condignis nulla crux potest.
 
-Lyd. Quin properas, ac suspendis te? ad restem prurit ceruix mihi.
+\@Lyd.= Quin properas, ac suspendis te? ad restem prurit ceruix mihi.
 
 Pistoc. Benè mones, propero. vale, my Lyde, videndus apud inferos.
 
-≤line=735≥ Phil. Mane etiam nunc: quid properas? mnas decem dabo, si
+≤line=735≥ \@Phil.= Mane etiam nunc: quid properas? mnas decem dabo, si
 temet serues mihi
 
-Filium. Pist. Age etiam decem adde, etiam centum. malo poenas dare
+Filium. \@Pist.= Age etiam decem adde, etiam centum. malo poenas dare
 
-Mei sceleris. Lydus. Vt dignum est te meque, atque his omnibus. Philox.
-Dabo
+Mei sceleris. \@Lydus.= Vt dignum est te meque, atque his omnibus.
+\@Philox.= Dabo
 
 Etiam mille, etiam centena & millena millia iam dabo.
 
-Nicob. Addam totidem. Pistocl. Frustra. Lydus. Pergin’, iam coena apud
-inferos calet:
+\@Nicob.= Addam totidem. \@Pistocl.= Frustra. \@Lydus.= Pergin’, iam
+coena apud inferos calet:
 
 ≤line=740≥ Propera ne frigeat: nam fabulando dum teris diem,
 
-Iam venter inanijs plenus mihi est, & araneis. Pist. Vale.
+Iam venter inanijs plenus mihi est, & araneis. \@Pist.= Vale.
 
-Philox. Mane: dabo omnia, dabo plusquam omnia. Pist. Moues me pater.
-Lyd. Hui,
+\@Philox.= Mane: dabo omnia, dabo plusquam omnia. \@Pist.= Moues me
+pater. \@Lyd.= Hui,
 
 ≤page=275≥
 
-Vt gaudeo te necdum exuisse filium! Phil. Ob hoc verbulum ˂ho
+Vt gaudeo te necdum exuisse filium! \@Phil.= Ob hoc verbulum ˂ho
 
 Tibi pileum do, Lyde, & libertum facio iure optimo
 
-≤line=745≥ Quiritium. Lyd. Verum nouo liberto opus est quòd pappet.
-Nicob. Hem
+≤line=745≥ Quiritium. \@Lyd.= Verum nouo liberto opus est quòd pappet.
+\@Nicob.= Hem
 
-Talenta centum spondeo. Lyd. Certè, quid obest maturiùs
+Talenta centum spondeo. \@Lyd.= Certè, quid obest maturiùs
 
-Deliberare tanto de negotio? Pist. Hercule qui semel
+Deliberare tanto de negotio? \@Pist.= Hercule qui semel
 
 Pendet, semper mox pendeat necesse est. age, delibero:
 
 Mihi talenta modò viginti dentur praesentaria,
 
-≤line=750≥ Et Lydo libertas. Phil. Dantur. Omnes. Placet.
+≤line=750≥ Et Lydo libertas. \@Phil.= Dantur. Omnes. Placet.
 
 Abeamus omnes è vestigio iam domum,
 
 Opipara quo paretur coena. Senes. Parata est plane regia.
 
-Phil. Saluus sum modò, qui modò perieram. Amo te, mi Lyde, mea salus.
+\@Phil.= Saluus sum modò, qui modò perieram. Amo te, mi Lyde, mea salus.
 
-Nic. Etiam centenas pro te plagas accipiam libens
+\@Nic.= Etiam centenas pro te plagas accipiam libens
 
-≤line=755≥ Praegnanter in tergo meo. Lyd. Placet: quando voles, dabo.
+≤line=755≥ Praegnanter in tergo meo. \@Lyd.= Placet: quando voles, dabo.
 
 
 

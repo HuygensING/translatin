@@ -149,27 +149,27 @@ Non miseret magis, quasi desissemus
 
 Viuere, aut omnino non possemus amandi compotes.
 
-PET. Sapiunt. CRI. Quid ita?
+\@Pet.= Sapiunt. \@Cri.= Quid ita?
 
-P. Quia annosos equos non comparant ad onus,
+\@P.= Quia annosos equos non comparant ad onus,
 
 ≤line=30≥ Neque detritas uestes festo die induunt,
 
-Ea sunt omnium ingenia. CRI. Atqui?
+Ea sunt omnium ingenia. \@Cri.= Atqui?
 
 Haud ita oderunt ueterem pecuniam.
 
-P. Scio, nam ea mane\<t\> sibi similis,
+\@P.= Scio, nam ea mane\<t\> sibi similis,
 
 Senes non itidem: uarij sunt, momento
 
 ≤line=35≥ Euanidi sapientia, ingenio irritabiles,
 
-Praecoces in rixam. CRI. Carcer, seruum
+Praecoces in rixam. \@Cri.= Carcer, seruum
 
-Meum hostem alo. P. Here.
+Meum hostem alo. \@P.= Here.
 
-CR*.* Lorarij. P*.* Hem. CR. Hunc sycophantam
+\@Cr.= Lorarij. \@P.= Hem. \@Cr.= Hunc sycophantam
 
 Seruum meum Petulum, facite eum insimulationis
 
@@ -177,13 +177,13 @@ Seruum meum Petulum, facite eum insimulationis
 
 ≤line=40≥ Tam calumniosae poeniteat.
 
-PE. Audi, obsecro. CR*.* Non audio.
+\@Pe.= Audi, obsecro. \@Cr.= Non audio.
 
-P. Etiam ne uerbum ullum: C. Non unum quidem.
+\@P.= Etiam ne uerbum ullum: \@C.= Non unum quidem.
 
-P. Nec in rem tuam aliquid?
+\@P.= Nec in rem tuam aliquid?
 
-Cr. Auferte in praecipitium scelus. Pet. Hoihoi
+\@Cr.= Auferte in praecipitium scelus. \@Pet.= Hoihoi
 
 ≤line=45≥ Scapha meretricula iam nunc aderit.
 
@@ -191,15 +191,15 @@ Mehercule, non poterit ei persuaderi
 
 Vt maneat, nisi uerbis meis.
 
-CR. Scapham narras? euge mi Petule.
+\@Cr.= Scapham narras? euge mi Petule.
 
-PET. Protinus alius est. CR. Scapham
+\@Pet.= Protinus alius est. \@Cr.= Scapham
 
 ≤line=50≥ Ne huius patriae ornamentum?
 
-PET. Scapham, inquam, quae palmam facile
+\@Pet.= Scapham, inquam, quae palmam facile
 
-Praeripit omnibus. CR. Homo frugi es
+Praeripit omnibus. \@Cr.= Homo frugi es
 
 Pulchreque de me meritus, quo non optarem
 
@@ -207,85 +207,86 @@ Conducibiliorem. At abi uero intus, ac cura,
 
 ≤line=55≥ Luculentus sit locus et eleganter ubique omnia.
 
-PE. Nihil moror. CR. Iam nunc iuuenta mihi redijt.
+\@Pe.= Nihil moror. \@Cr.= Iam nunc iuuenta mihi redijt.
 
 Hislio pedellus, Crito, Petulus.
 
 Egregium uero senem, sed audito, hem Crito salue.
 
-C. Salue Hislio, tu hic aderas lepidum capitulum?
+\@C.= Salue Hislio, tu hic aderas lepidum capitulum?
 
-Ecquid obsecro nouarum rerum? His. Forensium aliquid.
+Ecquid obsecro nouarum rerum? \@His.= Forensium aliquid.
 
-≤line=60≥ Cr. Dij nos amant. His. Obambulabam cogitabundus,
+≤line=60≥ \@Cr.= Dij nos amant. \@His.= Obambulabam cogitabundus,
 
-Ac ungues rodens. Cr*.* Saepe soles.
+Ac ungues rodens. \@Cr.= Saepe soles.
 
-P. Video e specu fortuna emergentem uirgunculam.
+\@P.= Video e specu fortuna emergentem uirgunculam.
 
-Cr. Hem perge, apud me licet.
+\@Cr.= Hem perge, apud me licet.
 
-PE. Facite honesta, ut si qua est alia.
+\@Pe.= Facite honesta, ut si qua est alia.
 
-≤line=65≥ Cr. Beate. H. Plorabat, opem rogabat, quaerebat patronum.
+≤line=65≥ \@Cr.= Beate. \@H.= Plorabat, opem rogabat, quaerebat
+patronum.
 
-Cr. Offendit te opportunum satis, quid neges?
+\@Cr.= Offendit te opportunum satis, quid neges?
 
-His. Propere audio eam anxie dicentem causam.
+\@His.= Propere audio eam anxie dicentem causam.
 
-Cr. At non illubenter scio. His. Israëlitem
+\@Cr.= At non illubenter scio. \@His.= Israëlitem
 
 Interea se dicebat, patre circumciso natam.
 
-≤line=70≥ Cr. Si bella sit, quo patre, minimum.
+≤line=70≥ \@Cr.= Si bella sit, quo patre, minimum.
 
-His. Tum uerbis identidem sobrie isthuc egi,
+\@His.= Tum uerbis identidem sobrie isthuc egi,
 
-Vt temperaret lacrymas. Cr. Verbis
+Vt temperaret lacrymas. \@Cr.= Verbis
 
-An rebus? His. Imo, uirgo erat.
+An rebus? \@His.= Imo, uirgo erat.
 
-Cr. Caeterum, nam spes erat posse eam audire?
+\@Cr.= Caeterum, nam spes erat posse eam audire?
 
-≤line=75≥ PE. Quos? Cr. Senes. PET. Maxime,
+≤line=75≥ \@Pe.= Quos? \@Cr.= Senes. \@Pet.= Maxime,
 
 Modo nihil cum ea uestrae pugnaret sententiae.
 
-Cr. Nefas, fas, aequum, iniquum, lubens.
+\@Cr.= Nefas, fas, aequum, iniquum, lubens.
 
-PET. Capillus passus, oculus intime luxurians,
+\@Pet.= Capillus passus, oculus intime luxurians,
 
-Tota cutis eburnea. Cr. Vbi nam pergentum
+Tota cutis eburnea. \@Cr.= Vbi nam pergentum
 
-≤line=80≥ Ea est? His. Iussi alicunde consilium ut peteret
+≤line=80≥ Ea est? \@His.= Iussi alicunde consilium ut peteret
 
-Apud iudicem Chrisalum. Cr. Sterquilinium.
+Apud iudicem Chrisalum. \@Cr.= Sterquilinium.
 
-His. Succenses? Cr. Quid enim, num
+\@His.= Succenses? \@Cr.= Quid enim, num
 
-Ad\<d\>uxisti domi meae? His. Isthuc Petuli
+Ad\<d\>uxisti domi meae? \@His.= Isthuc Petuli
 
 ≤folio=Aiiij.≥
 
-Officium est. C.i. Vtrunque malis exemplis
+Officium est. \@Cr.= Vtrunque malis exemplis
 
-≤line=85≥ Dij deaeque perdant. His. Mitius fulminator.
+≤line=85≥ Dij deaeque perdant. \@His.= Mitius fulminator.
 
-Cr. Scisti me amicum? His. Scio etiam num,
+\@Cr.= Scisti me amicum? \@His.= Scio etiam num,
 
 Sed praepediuit memoriam uirginis improbus dolor.
 
-Pet. Imperator meus Hislio.
+\@Pet.= Imperator meus Hislio.
 
-His. Petule teipsum optabam, affines sumus
+\@His.= Petule teipsum optabam, affines sumus
 
 ≤line=90≥ Vtrunque eadem prece male deuouit senex.
 
-Cr. Vtinam mihi in manu teneam aeque perdere,
+\@Cr.= Vtinam mihi in manu teneam aeque perdere,
 
-Ac uelle hoc consiliabulum. His. Audisne iracundiam?
+Ac uelle hoc consiliabulum. \@His.= Audisne iracundiam?
 
-Pet. Occidi. Cr. Melius Petule
+\@Pet.= Occidi. \@Cr.= Melius Petule
 
 Ne cessa solicitus esse in uesperum,
 
@@ -295,11 +296,11 @@ Vt ualuerit cum scitula uirgine.
 
 Petulus, Hislio.
 
-Scilicet amat Crito. His. Octogenarius ne?
+Scilicet amat Crito. \@His.= Octogenarius ne?
 
-Pet. Et quidem procaciter, ac perdite.
+\@Pet.= Et quidem procaciter, ac perdite.
 
-His. O seuerum iudicem. Pet. Haud ita pisciculi
+\@His.= O seuerum iudicem. \@Pet.= Haud ita pisciculi
 
 ≤line=100≥ In piscinis ludibundi solem anhelant,
 
@@ -313,29 +314,29 @@ Scapham meretricem in cenam uocauit,
 
 ≤line=105≥ Huius hodie gratia mihi bene fiet.
 
-HIS. Ah Petule. PET. Quid est?
+\@His.= Ah Petule. \@Pet.= Quid est?
 
-H. Eiusdem omnino farinae ausim dicere iudicem
+\@H.= Eiusdem omnino farinae ausim dicere iudicem
 
 Herum meum Chrisalum. Nam lippit, titubat,
 
 Marcet totus: at at metuo, quorsum
 
-≤line=110≥ Euadat uirguncula. P. Eo concessit.
+≤line=110≥ Euadat uirguncula. \@P.= Eo concessit.
 
 Nihil addubita, lupus non remittet ouem.
 
-H. Me miserum, potui iam dudum ex uultu
+\@H.= Me miserum, potui iam dudum ex uultu
 
 Facere obstinatam libidinem. Atque adeo haec
 
-Non commemineram. P. Quenquam esse
+Non commemineram. \@P.= Quenquam esse
 
 ≤line=115≥ Ingenio tam bruto, ut citra uerecundiam
 
 In hunc sexum quoque peccet? O mores
 
-Ad quos secula redierunt. H. Quin tu
+Ad quos secula redierunt. \@H.= Quin tu
 
 Tace Petule, nisi hoc clamore ad restim
 
@@ -343,13 +344,13 @@ Mihi rem redire desyderas. Caeterum
 
 ≤line=120≥ Vt in aurem aperte aliquid fabuler,
 
-Reges nos esse oportuit. P. At hodie nihil
+Reges nos esse oportuit. \@P.= At hodie nihil
 
 Minus sumus, quam tanti mali auspices.
 
-H. Tum liceret tam manifestae insaniae
+\@H.= Tum liceret tam manifestae insaniae
 
-Nobis obicem ponere. P. Ah, obicem?
+Nobis obicem ponere. \@P.= Ah, obicem?
 
 ≤line=125≥ Scitum est, uel ubique gentium cum autoritate
 
@@ -359,9 +360,9 @@ Pessimos fieri, certe bonis parum conuenit
 
 Cum fucatis sublimibusque titulis.
 
-H. Ita est, sed ut abeam opus est facto.
+\@H.= Ita est, sed ut abeam opus est facto.
 
-≤line=130≥ P. Mihi uero ut scite omnia domi meae coaptem,
+≤line=130≥ \@P.= Mihi uero ut scite omnia domi meae coaptem,
 
 Quandoquidem tanta imperatrix proximo uentura sit.
 
@@ -387,9 +388,9 @@ Sed eccum Petulum ut ridet affatim, ut laetus
 
 Obligurire, saginari citra dispendium.
 
-P. Iubet scapha ad se quantum potes properes.
+\@P.= Iubet scapha ad se quantum potes properes.
 
-C. Viuo ad nomen Scaphae, quoties occurrit.
+\@C.= Viuo ad nomen Scaphae, quoties occurrit.
 
 Obliuiscor modo omnium iniuriarum, ita
 
@@ -409,51 +410,51 @@ Imo quid non dicant? Critonem esse, senem esse,
 
 Gestio illum in conspectu dari, ut sciat.
 
-CR. Atque adeo quid tua? CH. Ehem Crito,
+\@Cr.= Atque adeo quid tua? \@Ch.= Ehem Crito,
 
 Tu hic eras? oratum te aduenio.
 
-CR. Scilicet hominum omnium quos sol uidet deploratis.
+\@Cr.= Scilicet hominum omnium quos sol uidet deploratis.
 
 ≤line=155≥ An te putas tuaque facta ignorare omnes?
 
-Inuidus es. Ch. An metuis? Cr*.* Auarus es.
+Inuidus es. \@Ch.= An metuis? \@Cr.= Auarus es.
 
-**Ch. Saepe aliquando. Cr. Luxu perditus.**
+\@Ch.= Saepe aliquando. \@Cr.= Luxu perditus.
 
-Chr. Tempora uero. Cr. Incestuosus
+\@Chr.= Tempora uero. \@Cr.= Incestuosus
 
-Chr. Satis. Cr. Sacrilegus, ne quid addam.
+\@Chr.= Satis. \@Cr.= Sacrilegus, ne quid addam.
 
-≤line=160≥ Chr. Malum, nisi taceas, uicissim audies male
+≤line=160≥ \@Chr.= Malum, nisi taceas, uicissim audies male
 
-Dixi Crito. Cr. Si tu perges uno uerbulo
+Dixi Crito. \@Cr.= Si tu perges uno uerbulo
 
 Contra hoc strepere, iniuriarum teneo inexplebilem dicam
 
-Dixi Chrisale. Chr. Enim uero, si redeamus in gratiam.
+Dixi Chrisale. \@Chr.= Enim uero, si redeamus in gratiam.
 
-Cr. In pugnos malim. Ch. Aedepol non uidi
+\@Cr.= In pugnos malim. \@Ch.= Aedepol non uidi
 
-≤line=165≥ Magis immodestam audaciam. Cr. Consultius multo
+≤line=165≥ Magis immodestam audaciam. \@Cr.= Consultius multo
 
 Cacodaemonem irritasses, quam huic meo stomacho
 
-Negotium facessis. Chr. At ignosce obsecro.
+Negotium facessis. \@Chr.= At ignosce obsecro.
 
-Cr. Ni me haec aetas prohibeat magis quam metus,
+\@Cr.= Ni me haec aetas prohibeat magis quam metus,
 
 Facile doceant te non frustra absentis calumniatum
 
-≤line=170≥ Iri opera. Chr. Quin tu tandem memento nos
+≤line=170≥ Iri opera. \@Chr.= Quin tu tandem memento nos
 
 Esse presbyteros, quorum nutu ac renutu
 
-Oculi omnium pendeant. Cr. Scelus, omnium oculos
+Oculi omnium pendeant. \@Cr.= Scelus, omnium oculos
 
 Narras, quum nemo sit qui te impijssimum
 
-Non norit? Chri. Ingenue, haud admodum
+Non norit? \@Chri.= Ingenue, haud admodum
 
 ≤line=175≥ Enim dissidemus ab auditorio, caue ne imprudentes
 
@@ -465,21 +466,21 @@ Est authoritas, possumus uno strepitu grandem
 
 Opinioni nostrae facere iacturam.
 
-≤line=180≥ Ioach. Ita faciam, ut dixti, Susanna.
+≤line=180≥ \@Ioach.= Ita faciam, ut dixti, Susanna.
 
-Sus. Debemus aecastor isthuc aetati tardae
+\@Svs.= Debemus aecastor isthuc aetati tardae
 
 Vt uenerandae caniciei, ut meliuscule undique
 
 Sentiant nos affectos senes, etiam si
 
-Desit authoritas. Ioach. Vocabo utrunque ad prandium.
+Desit authoritas. \@Ioach.= Vocabo utrunque ad prandium.
 
-≤line=185≥ Chr. Sed eccum aggreditur. Ioach. Saluete oppido
+≤line=185≥ \@Chr.= Sed eccum aggreditur. \@Ioach.= Saluete oppido
 
-Multum magistri nostri. Chr. Tu uero
+Multum magistri nostri. \@Chr.= Tu uero
 
-Tantundem Ioachime suauissime. Cr. Nos
+Tantundem Ioachime suauissime. \@Cr.= Nos
 
 Equidem laboriosa hic contentione didiceramus,
 
@@ -489,7 +490,7 @@ Antequam aduenisses, ut sicubi commodioribus
 
 Pro republica posthac dicere.
 
-Ioach. Profecto ut ubique, ita hic exercitatio
+\@Ioach.= Profecto ut ubique, ita hic exercitatio
 
 Plurimum ponderis adfert, caeterum in prandium
 
@@ -497,11 +498,11 @@ Vtrunque gestio domi meae habere conuiuam, ne quid
 
 ≤line=195≥ Causemini: ita imperauit Susanna nostra.
 
-Cr. Foemina est, ita me dij bene ament, digna
+\@Cr.= Foemina est, ita me dij bene ament, digna
 
 Cui nunquam aliquid negetur. Itaque eamus.
 
-## 5. ACTVS SECVNDVS.
+## 4. ACTVS SECVNDVS.
 
 Crito, Chrisalus senes.
 
@@ -511,19 +512,19 @@ Misere. CHRISAL. O Susanna Susanna, quam
 
 ≤line=200≥ Magnifice experior oculos tuos uere esse
 
-Magnetes. CR. Eia mellitissime Chrisale.
+Magnetes. \@Cr.= Eia mellitissime Chrisale.
 
-Chr. O Crito quid est? Cr. Rogas? quod
+\@Chr.= O Crito quid est? \@Cr.= Rogas? quod
 
-Me eloqui indignum est. Chr. Quid enim?
+Me eloqui indignum est. \@Chr.= Quid enim?
 
 Hactenus non constamus inuicem.
 
-≤line=205≥ Cr. Potis est tacere? Chr. Maxime. Cr. Amo.
+≤line=205≥ \@Cr.= Potis est tacere? \@Chr.= Maxime. \@Cr.= Amo.
 
-Chr. Susannam ne? Cr. Eam ipsam.
+\@Chr.= Susannam ne? \@Cr.= Eam ipsam.
 
-Ah quam pertinaciter haeret. Chr. Hau, obsecro,
+Ah quam pertinaciter haeret. \@Chr.= Hau, obsecro,
 
 Eadem mihi. Iam iamque uertiginem attulit, adeo
 
@@ -533,27 +534,27 @@ Me indomitus decoquit ignis, abdita
 
 Quid est consilij? Abs te audire percupio.
 
-Cr. Quid? nisi ut demus operam mutuam,
+\@Cr.= Quid? nisi ut demus operam mutuam,
 
 Connitemur in hoc summis uiribus astuque.
 
-**Ch. Atqui? honesta est, non exaudiet**
+\@Ch.= Atqui? honesta est, non exaudiet
 
 ≤line=215≥ Illecebrosos: adolescentula est, auersabitur senes,
 
-Cum in properio reiciemur. Cr. Miserum me,
+Cum in properio reiciemur. \@Cr.= Miserum me,
 
-Nisi potiar, certum est perire. Ch. Ipsum id ego.
+Nisi potiar, certum est perire. \@Ch.= Ipsum id ego.
 
-Cr. Quin igitur aperte pereamus.
+\@Cr.= Quin igitur aperte pereamus.
 
-**Ch. Respira aliquantisper, plus satis est amare,**
+\@Ch.= Respira aliquantisper, plus satis est amare,
 
-≤line=220≥ Si non etiam desperemus. C. An tu
+≤line=220≥ Si non etiam desperemus. \@C.= An tu
 
 Vero nihil iam potes, qui saepe spingem
 
-Euicisti dolis? Ch. Caeterum tua refert hic
+Euicisti dolis? \@Ch.= Caeterum tua refert hic
 
 Altius insistere, qui ubi uis uniuersos sutelis
 
@@ -565,23 +566,23 @@ Expugnaueris inglorium est omne uetus
 
 Modo hic deficiant artes tuae.
 
-Cr. Pape spes est iniecta. Ch. Habundas.
+\@Cr.= Pape spes est iniecta. \@Ch.= Habundas.
 
-Enarra. Cr. Scine pomarium esse Ioachimo?
+Enarra. \@Cr.= Scine pomarium esse Ioachimo?
 
-**≤line=230≥ Ch. Scio, nempe quo contemplari solemus**
+≤line=230≥ \@Ch.= Scio, nempe quo contemplari solemus
 
 Euntem eam ac redeuntem bellissime.
 
-Cr. Ibi plurimum confert se a prandio, ut lauet
+\@Cr.= Ibi plurimum confert se a prandio, ut lauet
 
-Augusto pedissequarum sodalitio. Ch. Perge.
+Augusto pedissequarum sodalitio. \@Ch.= Perge.
 
-Cr. In angulo alibi crastino nos abdemus.
+\@Cr.= In angulo alibi crastino nos abdemus.
 
-≤line=235≥ Erumpemus dum plana nuda erit. Ch. Recte.
+≤line=235≥ Erumpemus dum plana nuda erit. \@Ch.= Recte.
 
-Cr. Tu, inquam, heus pulcherrima Susanna,
+\@Cr.= Tu, inquam, heus pulcherrima Susanna,
 
 Ecquid nos enecas eleganti specie? Equidem
 
@@ -589,7 +590,7 @@ Foeminarum id genus, mirum quam bene audiat,
 
 Sicubi telum ordiaris ab honesta forma.
 
-**≤line=240≥ Ch. Dij boni, nunquam audiui sapientius consilium.**
+≤line=240≥ \@Ch.= Dij boni, nunquam audiui sapientius consilium.
 
 Vt ut ex Vulcano subito factus sum Mercurius?
 
@@ -611,7 +612,7 @@ Connubi, certe studio uehementiori contenderetis
 
 In innocentiam illam sempiternam.
 
-≤line=250≥ Mau. Audimus mater. Sus. Maturas
+≤line=250≥ Mau. Audimus mater. \@Svs.= Maturas
 
 Decet matrimonium, non quaslibet, quarum sit
 
@@ -625,7 +626,7 @@ Quarum manus augeant suppellectilem.
 
 Gaudemus te nobis contigisse foeliciter heram.
 
-Sus. Caeterum dispatiatum hodie sat est.
+\@Svs.= Caeterum dispatiatum hodie sat est.
 
 Eamus intro.
 
@@ -647,63 +648,63 @@ Non adulatione, aut tam insperatae insaniae non angore
 
 ≤line=265≥ Peruincatur? At tu uero abscondere Chrisale.
 
-Chr. Actum, Cr. Quis nos hic suspicetur
+\@Chr.= Actum, \@Cr.= Quis nos hic suspicetur
 
 Delitescere curiosus. Caeterum ipsa aduenit.
 
 Dij immortales, quam turgida, quam scitula, quam purpurascens.
 
-Chr. Deam uidere mihi uideor.
+\@Chr.= Deam uidere mihi uideor.
 
-≤line=270≥ Sus. Heus uirgunculae? Mau. Quid iubes hera?
+≤line=270≥ \@Svs.= Heus uirgunculae? Mau. Quid iubes hera?
 
-Sus. Nempe ut conferatis oleum ac smigmata,
+\@Svs.= Nempe ut conferatis oleum ac smigmata,
 
 Vt hoc aestu ferbescente lauer. Mau. Curatu.,
 
-Nunquid nos uis? Sus. Tantum sedulo occludite
+Nunquid nos uis? \@Svs.= Tantum sedulo occludite
 
 Pomarij ostia. MAV. Auolamus.
 
-≤line=275≥ CR. Impune tantisper dormis: Chr. Imo uero,
+≤line=275≥ \@Cr.= Impune tantisper dormis: \@Chr.= Imo uero,
 
 Totus uigilo. Eccam occasio quae data est.
 
-CR. Ades, citheraea Venus, faue furtiuae
+\@Cr.= Ades, citheraea Venus, faue furtiuae
 
 Voluptatis pater magne Iuppiter.
 
-SVS. Me miseram, quid turbae?
+\@Svs.= Me miseram, quid turbae?
 
-≤line=280≥ CR. Ingere te quantum potes. Sus. Ah perij.
+≤line=280≥ \@Cr.= Ingere te quantum potes. \@Svs.= Ah perij.
 
-CR. Ecquid causae est (per superos) qui
+\@Cr.= Ecquid causae est (per superos) qui
 
 Non exonero humeros pensili hoc?
 
-Chr. Satis superque contatum est; excute ocius isthuc
+\@Chr.= Satis superque contatum est; excute ocius isthuc
 
-Ignobile, quid stas? CR. Au au omnium
+Ignobile, quid stas? \@Cr.= Au au omnium
 
 ≤line=285≥ Quae uiuunt foeminarum pulcherrima Susanna.
 
-Sus. (Malum) quid hic eratis, ubi non conuenit?
+\@Svs.= (Malum) quid hic eratis, ubi non conuenit?
 
-CR. Atqui tu nos sola protraxisti,
+\@Cr.= Atqui tu nos sola protraxisti,
 
-Vt fateamur. Sus. Ego ne?
+Vt fateamur. \@Svs.= Ego ne?
 
-Chri. Ha he ne clama: scimus raram aut penitus
+\@Chri.= Ha he ne clama: scimus raram aut penitus
 
 ≤line=290≥ Nullam mulierem esse, cui non peculiare est
 
-Cum cicadis expedite uociferari. Sus. Bona
+Cum cicadis expedite uociferari. \@Svs.= Bona
 
-Verba. Chr. Euge bellissima foemina:
+Verba. \@Chr.= Euge bellissima foemina:
 
 Nihil te pudeat, nos seorsum cupiditate omni
 
-Excipere. Sus. O scelera. CR. Haud admodum
+Excipere. \@Svs.= O scelera. \@Cr.= Haud admodum
 
 ≤line=295≥ Pensa inutile nostrum senium. Nam delicatiusculis
 
@@ -715,7 +716,7 @@ Litauimus hactenus in palaestra Veneris:
 
 Dicas nos plura super naturam, etiam iuuenilem posse.
 
-Quid inaniter dura es? Chr. Huiusmodi
+Quid inaniter dura es? \@Chr.= Huiusmodi
 
 ≤line=300≥ Est formae tuae elegantia, ea facilitas morum,
 
@@ -729,51 +730,51 @@ Quid angeris frustra? quid superstitiose metuis?
 
 ≤line=305≥ Quasi non soli simus, ut spes certa sit neminem
 
-Aduenturum. SVS. Hic nunc domi
+Aduenturum. \@Svs.= Hic nunc domi
 
-Meae abditos hostes? CR. Amici sumus,
+Meae abditos hostes? \@Cr.= Amici sumus,
 
-Tace. SVS. Adeo cruentos latrones? O
+Tace. \@Svs.= Adeo cruentos latrones? O
 
 Impudentia. Ego qua uia, ordine ue
 
-≤line=310≥ Praesedioque fulta, quo effugiam? CR. Au obsecro,
+≤line=310≥ Praesedioque fulta, quo effugiam? \@Cr.= Au obsecro,
 
-Susanna. SVS. Audiam uero? Chr. Ita
+Susanna. \@Svs.= Audiam uero? \@Chr.= Ita
 
-Facto opus est. SVS. Nihilne uos pudet?
+Facto opus est. \@Svs.= Nihilne uos pudet?
 
 Senes? arbitros? bene institutos? quos alui,
 
 Quos obrui bene factis, at tantopere exaltaui
 
-≤line=315≥ Semper? CR. Pessima, ni protinus audias.
+≤line=315≥ Semper? \@Cr.= Pessima, ni protinus audias.
 
-SVS. Numquam. Chr. Occupa ergo eam.
+\@Svs.= Numquam. \@Chr.= Occupa ergo eam.
 
-SVSANNA. Nihil apud me profeceritis e tam importunitate.
+\@Svsanna.= Nihil apud me profeceritis e tam importunitate.
 
-CR. Quidni, modeste igitur? age perfice
+\@Cr.= Quidni, modeste igitur? age perfice
 
 Quod extremo nolentem uolentem oporteat.
 
-≤line=320≥ SVS. Oporteat?, obtunditis.
+≤line=320≥ \@Svs.= Oporteat?, obtunditis.
 
-Chr. Lupa uerius est quam femina. SVS. Isthuc
+\@Chr.= Lupa uerius est quam femina. \@Svs.= Isthuc
 
 Praestaret quidem, quam natiuitatis originem
 
 Flagitijs uoluptatum obscurare, confundere, extinguere.
 
-Cr. In summam, nisi aliud proferas, definiemus
+\@Cr.= In summam, nisi aliud proferas, definiemus
 
-≤line=325≥ Te moechatam. Sus. Sapite.
+≤line=325≥ Te moechatam. \@Svs.= Sapite.
 
-Cr. Cum adolescente lacteo. Sus. Dij uostrum auxilium.
+\@Cr.= Cum adolescente lacteo. \@Svs.= Dij uostrum auxilium.
 
-Cr. Vidisse nos facinus indignum.
+\@Cr.= Vidisse nos facinus indignum.
 
-Sus. Miseram me, angustiae mihi sunt undique.
+\@Svs.= Miseram me, angustiae mihi sunt undique.
 
 Quippe isthuc si egero, mortem operor.
 
@@ -783,9 +784,9 @@ Vestras, quanquam satius esse putem, incidere
 
 In manus uestras, quam Deum inimicum habere.
 
-**Ch. Ita futurum praescito, uide quid incipias?**
+\@Ch.= Ita futurum praescito, uide quid incipias?
 
-Sus. Quid autem? nisi ut ignominias hasce
+\@Svs.= Quid autem? nisi ut ignominias hasce
 
 ≤line=335≥ Me meoque genere indignas, fortiter excutiam.
 
@@ -797,29 +798,29 @@ Quam irritem aeternum contagio uindicem.
 
 Ferte opem imbelli foeminae: pereo Susanna.
 
-**≤line=340≥ Ch. Perimus miseri senes. Cr. Festinate**
+≤line=340≥ \@Ch.= Perimus miseri senes. \@Cr.= Festinate
 
 ≤folio=B.ij.≥
 
-Adesse uicini. Cha. Quid id est?
+Adesse uicini. \@Cha.= Quid id est?
 
-CR. Haec meretrix. Char. Quid audio? CR. Cum adolescente.
+\@Cr.= Haec meretrix. \@Char.= Quid audio? \@Cr.= Cum adolescente.
 
-Char. Inauditum portentum. Cr. Modo hic.
+\@Char.= Inauditum portentum. \@Cr.= Modo hic.
 
-Char. Oh quam me uelim abesse: ita pudet me.
+\@Char.= Oh quam me uelim abesse: ita pudet me.
 
-≤line=345≥ Cr. Libidinem expleuit. Char. Occidi.
+≤line=345≥ \@Cr.= Libidinem expleuit. \@Char.= Occidi.
 
-Cr. Adprime turpiter. Char. Non sum apud me.
+\@Cr.= Adprime turpiter. \@Char.= Non sum apud me.
 
-Sus. Mortua sum, calumniam non sustinens.
+\@Svs.= Mortua sum, calumniam non sustinens.
 
-**Ch. Ambo adeo defessi sumus enisi comprehendere**
+\@Ch.= Ambo adeo defessi sumus enisi comprehendere
 
 Illam, ut uix respirare detur.
 
-≤line=350≥ CR. Miseret nos insignis patritij Ioachimi iuxta ac
+≤line=350≥ \@Cr.= Miseret nos insignis patritij Ioachimi iuxta ac
 integerrimi
 
 Pontificis Helchiae, Quorum haec una claritatem hodie
@@ -858,15 +859,15 @@ IOACHIMVS ET HELCHIAS.
 
 ≤line=365≥ Aiunt? Quid aiunt, perijsse animam? Susannam?
 
-Meamn e? uitam meam? credam? persuadebunt?
+Meamne? uitam meam? credam? persuadebunt?
 
 Illam? talem? tam exquisite continentem?
 
-HEL. At mihi uidetur uerisimile.
+\@Hel.= At mihi uidetur uerisimile.
 
 Neque possum inducere in animum, ut aliquando credam.
 
-≤line=370≥ IOA. Totam noctem insumpsi circum gemitu,
+≤line=370≥ \@Ioa.= Totam noctem insumpsi circum gemitu,
 
 Suspirijs, lacrymis, o dii, abij, redij, eadem plus
 
@@ -884,53 +885,53 @@ Tumque talia atque alia haud quaquam potis est
 
 Linguam instituere, ut cogitata proloquatur.
 
-HEL. Haeccine spectacula manebant aetatem meam?
+\@Hel.= Haeccine spectacula manebant aetatem meam?
 
-Ioach. Vae misero mihi, anxietas ea coepta est,
+\@Ioach.= Vae misero mihi, anxietas ea coepta est,
 
 ≤line=380≥ Quae mihi proxime mortem deriuet.
 
 CRITO, CHRISALUS, CARNIFICES, SUSANNA, IOACHIMUS, DANIEL, et Populus.
 
-Carnifices? CAR. Adsumus. Chr. Lorari, omnes.
+Carnifices? \@Car.= Adsumus. \@Chr.= Lorari, omnes.
 
-CAR. Quid est? CR. Quotquot praeestis
+\@Car.= Quid est? \@Cr.= Quotquot praeestis
 
-Vsquam lumbifragijs, facite adsitis. CAR. Furiae.
+Vsquam lumbifragijs, facite adsitis. \@Car.= Furiae.
 
-Chr. Carnifices inquam? CAR. Quid est inquam?
+\@Chr.= Carnifices inquam? \@Car.= Quid est inquam?
 
-≤line=385≥ CR. Expedite, producite Susannam filiam
+≤line=385≥ \@Cr.= Expedite, producite Susannam filiam
 
-Helchiae, nuptam Ioachimo. CAR. Quid
+Helchiae, nuptam Ioachimo. \@Car.= Quid
 
 Hoc monstri est? Nihil nobis commune est cum
 
-Tam ingenua. CR. Cessatis ire funesti?
+Tam ingenua. \@Cr.= Cessatis ire funesti?
 
 Abite iam nunc, dictum satis.
 
-≤line=390≥ Sus. Obuelate prius faciem, pueri quid fletis ubertim?
+≤line=390≥ \@Svs.= Obuelate prius faciem, pueri quid fletis ubertim?
 
 In coelis est, qui sortem meam opportune
 
-In melius commutabit. Ioach. Certum est me
+In melius commutabit. \@Ioach.= Certum est me
 
 Pariter cum illa perire, adobrui saxis.
 
-SVS. Nunc nunc ades deploratae foeminae,
+\@Svs.= Nunc nunc ades deploratae foeminae,
 
 ≤line=395≥ Sed speranti in te deus optimus maximus, rugentium
 
 Horum leonuum saeuitiam male uerte.
 
-Chr. Malum. Ecquid perditissimi, bisque
+\@Chr.= Malum. Ecquid perditissimi, bisque
 
 Pessimi sycophantae, huic faciem obduxtis?
 
 Facite plana sit, si officijs consulitis.
 
-≤line=400≥ CR. Heri cum deambularemus in pomario,
+≤line=400≥ \@Cr.= Heri cum deambularemus in pomario,
 
 Paulo post ingressa est et haec duabus subsequis.
 
@@ -950,19 +951,19 @@ Idcirco factum est, ut isthic iniecerimus manus.
 
 Horum nos deus testes esse uoluit.
 
-≤line=410≥ Sus. Ah mendacia. Pop. Mortem merita est.
+≤line=410≥ \@Svs.= Ah mendacia. \@Pop.= Mortem merita est.
 
-CR. Ita (iubet lex) sapis, decretum est id fieri.
+\@Cr.= Ita (iubet lex) sapis, decretum est id fieri.
 
 Vobis licet, auferte morituram.
 
-Sus. Deus aeterne abstrusorum perscrutator,
+\@Svs.= Deus aeterne abstrusorum perscrutator,
 
 Vide precor, quae est audacia. Iamdudum morior
 
 ≤line=415≥ Omnium expers, quae isti maliciose congesserunt in me.
 
-Ioach. Innocuam, unanimem me turbis proruam
+\@Ioach.= Innocuam, unanimem me turbis proruam
 
 Pariter in interitum.
 
@@ -990,9 +991,9 @@ Libeat, liceat, delectet uos quantum uultis.
 
 A me prorsus cupio remotam innocentis foeminae
 
-Necem. POPVLVS. Quid au prohibet nos
+Necem. \@Popvulus.= Quid au prohibet nos
 
-Propheta? DAN. Ita insulsi filij Israel,
+Propheta? \@Dan.= Ita insulsi filij Israel,
 
 ≤line=430≥ Neque quod aequum erat pensiculantes, damnastis
 
@@ -1000,27 +1001,27 @@ Impie sororem uestram? Redite, sapite,
 
 Discite, quam nefarie falsum sit, quod ij
 
-Religiosi adeo ementiti sunt. Chr. Ohe,
+Religiosi adeo ementiti sunt. \@Chr.= Ohe,
 
 Bonam rem occoeptas. Nobis senium praeripis
 
 ≤line=435≥ Vt elabatur adultera: uide temeritas
 
-Quid facit, et anxius liuor. DAN. Proscindite
+Quid facit, et anxius liuor. \@Dan.= Proscindite
 
 Inquam, ac seorsum ambos uincite, stringite
 
-Loris. Cr. Ha ha he callide. Chr. Astute.
+Loris. \@Cr.= Ha ha he callide. \@Chr.= Astute.
 
-DAN. Quod uobis uertat male aequissimus deus.
+\@Dan.= Quod uobis uertat male aequissimus deus.
 
-≤line=440≥ CR. Sed porro Scientia est aduersum senes
+≤line=440≥ \@Cr.= Sed porro Scientia est aduersum senes
 
-Sapere iuuenem? Chr. Scilicet. DAN. Ego ego
+Sapere iuuenem? \@Chr.= Scilicet. \@Dan.= Ego ego
 
 Qualis qualis sum, facile docuero, quam praepostere
 
-Vobis cum aequitate conueniat. Ioach. Dij
+Vobis cum aequitate conueniat. \@Ioach.= Dij
 
 Nos saluos uelint.
 
@@ -1063,24 +1064,24 @@ Comperire, quae uos quae uestrum imperium refelleret.
 
 Quando hic temet impuleris, sub qua arbore
 
-Vidisti? CR*.* Perii miser; utinam eadem mecum
+Vidisti? \@Cr.= Perii miser; utinam eadem mecum
 
-Definiat complex. DA. Taces? Quae sint
+Definiat complex. \@Da.= Taces? Quae sint
 
-Hic ueri uestigia? CR. Indignum reputo te
+Hic ueri uestigia? \@Cr.= Indignum reputo te
 
-≤line=465≥ Cui respondeam. DA. Apte quid, quando aliorsum \[\<
+≤line=465≥ Cui respondeam. \@Da.= Apte quid, quando aliorsum \[\<
 aleorsum\]
 
-Nequeas euadere.CR. Illa sub cino.
+Nequeas euadere.\@Cr.= Illa sub cino.
 
-DA. Nihil te etiamnum pudet? At uero alterum
+\@Da.= Nihil te etiamnum pudet? At uero alterum
 
-Proferte in medium.CAR. Ades uicissim tu
+Proferte in medium.\@Car.= Ades uicissim tu
 
-Orci fastidium. Chr. Itane tremulo sene
+Orci fastidium. \@Chr.= Itane tremulo sene
 
-≤line=470≥ Iuuat abuti? DA. Eho dic sodes, semen
+≤line=470≥ Iuuat abuti? \@Da.= Eho dic sodes, semen
 
 Canaan et non Iuda, species enim excaecauit te,
 
@@ -1088,13 +1089,13 @@ Et concupiscentia subuertit sensus tuos,
 
 Sub qua arbore patrata est iniquitas?
 
-Chr. Quasi uero id nesciam? sub ea nimirum
+\@Chr.= Quasi uero id nesciam? sub ea nimirum
 
-≤line=475≥ Quam designauit Crito. DA. Obtundis? Designa
+≤line=475≥ Quam designauit Crito. \@Da.= Obtundis? Designa
 
-Manifestius. Chr. Omitte me, sub pino.
+Manifestius. \@Chr.= Omitte me, sub pino.
 
-DA. Proh deum atque hominum fidem? ita ne putastis
+\@Da.= Proh deum atque hominum fidem? ita ne putastis
 
 Defore impunitatem? Ecce angelus dei adest,
 
@@ -1102,17 +1103,17 @@ Qui te desecet medium. Comperta est
 
 ≤line=480≥ Coniuratio, perdite, ita ut aequum est utribusque carnifices.
 
-CR. Au au obsecro. CAR. Extremum dix\<is\>tis,
+\@Cr.= Au au obsecro. \@Car.= Extremum dix\<is\>tis,
 
-Nihil audimus. Chr. Perimus. CAR. Hoc illud est.
+Nihil audimus. \@Chr.= Perimus. \@Car.= Hoc illud est.
 
 SVSANNA.
 
 Tibi gratiae deus sublimes, qui me uindicasti
 
-Ab improperio. Ioach. Multipliciter.
+Ab improperio. \@Ioach.= Multipliciter.
 
-≤line=485≥ HEL. Redi iam nunc, nostrum decus Susanna, ac
+≤line=485≥ \@Hel.= Redi iam nunc, nostrum decus Susanna, ac
 
 Rigidos a nobis metus deterge.
 

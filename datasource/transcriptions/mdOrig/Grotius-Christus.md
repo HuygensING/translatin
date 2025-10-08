@@ -537,7 +537,7 @@ Ipso verendus ore nec sontem ferens?
 17\
 Tu fare Solymi Caiapha princeps chori:\
 Quae nuntiatis scelera, quod fertis nefas?\
-C[ai]{.smallcaps}. Custos Latinae pacis, a summo duce\
+[\@Cai.=]{.smallcaps} Custos Latinae pacis, a summo duce\
 (380) Nobis secundum nomen, adduxit sacer\
 Reum senatus. scimus, haud nostrum putas\
 Obijcere poenis posse non meritum caput.\
@@ -554,7 +554,7 @@ Summumque numen, plebe cum vili satus\
 Palam Tonantem vindicat patrem sibi.\
 Haec sunt piari morte quae vates iubet\
 (395) Qui iura tabulis scripsit in geminis decem.\
-P[on]{.smallcaps}. Postquam ira belli mater atque auri fames\
+[\@Pon.=]{.smallcaps} Postquam ira belli mater atque auri fames\
 Artes nocendi reperit, et placidos suo\
 Praestare poterat nulla securos quies,\
 lnfirma per se vita communi metu\
@@ -583,7 +583,7 @@ In hoc iubetur vivere, vt nomen necis\
 Necique siquid restat horrescat diu.\
 Sin patria quiddam iura diversum sonant\
 (420) Commissa vestrae vocis arbitrio luat.\
-C[ai]{.smallcaps}. Quamvis avorum placita quod nobis manent\
+[\@Cai.=]{.smallcaps} Quamvis avorum placita quod nobis manent\
 Donum fatemur esse Romanum, tamen\
 Omnis redacta iuris est nostri necem
 
@@ -611,7 +611,7 @@ Cum iustus in nos saeviet Romae dolor?\
 Vnum perire satius, an populum putas?\
 (445) Quin hic piamen omnium culpae datus\
 Cruore gentis redimat exitium suo.\
-P[on]{.smallcaps}. Ambigua prudens causa consilium expetit.
+[\@Pon.=]{.smallcaps} Ambigua prudens causa consilium expetit.
 
 Bij
 
@@ -725,12 +725,12 @@ Biiij
 
 24\
 Habete lucro perfidi pretium doli.\
-C[ai]{.smallcaps}. Meritone culpes temet ac peragas reum,\
+[\@Cai.=]{.smallcaps} Meritone culpes temet ac peragas reum,\
 (540) Te stabit intra cura. Nec nos crimina\
 Aliena tangunt: nec tibi partas opes\
 Recipimus: a se nam cruentos respuit\
 Quaestus sacrato gaza Corbanae sinu.\
-I[vd]{.smallcaps}. Hoc fas et aequum vestra si pietas docet,\
+[\@Ivd.=]{.smallcaps} Hoc fas et aequum vestra si pietas docet,\
 (545) Probare facinus, execrari praemium,\
 Ibo, ibo ad aras et nefando munere\
 Templum impiabo. nil ibi frustra Deum\
@@ -872,9 +872,9 @@ Rubent lacerti: vulnere exhaustum latus:\
 Humeros cruentos concolor vestis tegit\
 Mendacis ostri: proque serto regio\
 (670) Vtrunque tempus asperae sentes premunt\
-Spectate miserum. T[vr]{.smallcaps}. Tolle et hoc purga solum\
+Spectate miserum. [\@Tvr.=]{.smallcaps} Tolle et hoc purga solum\
 Visu nefando: fige devotum cruci.\
-P[on]{.smallcaps}. Vestrumne regem? T[vr]{.smallcaps}. Nulla consortem sui\
+[\@Pon.=]{.smallcaps} Vestrumne regem? [\@Tvr.=]{.smallcaps} Nulla consortem sui\
 Patitur potestas. iuris humani arbitrum\
 (675) Quem Roma monstrat colimus: vnum Caesarem\
 Dominum fatemur: Caesari regnum eripit\
@@ -884,7 +884,7 @@ Res intuere. Quam fidem praestas hero,
 30\
 Si te timendum praeside exemplum incipit,\
 (680) Impune magni laesa maiestas ducis?\
-P[on]{.smallcaps}. Crescit tumultus: saeviunt procerum simul\
+[\@Pon.=]{.smallcaps} Crescit tumultus: saeviunt procerum simul\
 Plebisque voces: murmur incertum fremit,\
 Littorea qualis saxa ventorum fragor\
 Primus pererrat, cum procellas parturit\
@@ -897,10 +897,10 @@ Huc ferte famuli. Testor hos puros ego\
 Quas sordis expers imbre perfundit latex,\
 Nil sponte facimus: quod carens culpa perit,\
 Mea culpa non est. Iste vos teneat cruor.\
-T[vr]{.smallcaps}. Securus esto. quicquid huius pendere\
+[\@Tvr.=]{.smallcaps} Securus esto. quicquid huius pendere\
 (695) Caedes meretur sentiat nostrum caput,\
 Nostrique generis sera posteritas luat.\
-P[on]{.smallcaps}. Ergo hic, vbi inter nobilis crustas soli\
+[\@Pon.=]{.smallcaps} Ergo hic, vbi inter nobilis crustas soli\
 Surgit tribunal, iuris augusti locus,\
 Sedens profabor. Trahite damnatum cruci:\
 (700) Servile rex Iudaeus exitium ferat.
@@ -975,7 +975,7 @@ Rumpatque labor tenui haerentem\
 Sic posse mori. quantis eheu\
 Servare malis? Fers ipse crucem\
 Quae te, quae te miserande feret.\
-IES. Ne Iudaeae, ne me nimium\
+[\@Ies.=]{.smallcaps} Ne Iudaeae, ne me nimium\
 (765) Plangite matre. Vestro generi\
 Vobisque istas Solymae lachrimas\
 Servate nurus, quibus exitium\
@@ -991,7 +991,7 @@ Esse beatas, quas maternos\
 Nulla liquores pignora poscunt,\
 Cupiet tota cum rupe tegi\
 (775) Misera et magnos sidere montes.\
-CH. Eheu, dirae victima morti\
+[\@Ch.=]{.smallcaps} Eheu, dirae victima morti\
 Non nos iterum visurus abis.\
 Non te lethi porta remittet,\
 Qualis nuper tibi clamatus\
@@ -1015,15 +1015,15 @@ NVNTIVS PRIOR. CHORVS IVDAEARVM MVLIERVM. NVNTIVS ALTER.
 Tandem execranda barbara, infanda, impia\
 Facinora fugi, nec satis fugi tamen:\
 Quodcunque vidi sequitur, et totum scelus\
-Oculis oberrat. CH. Testis an certus venis\
+Oculis oberrat. [\@Ch.=]{.smallcaps} Testis an certus venis\
 (795) Supplicia vatis dira Galilaei ferens?\
-N.P. Si qua est sub oras gens relegata vltimas\
+[\@N.P.=]{.smallcaps} Si qua est sub oras gens relegata vltimas\
 Quae coelum et astra mariaque et terras Dei\
 Ignara cernit, pellit vbi caedes famem\
 Et mensa similes ponit epulanti dapes,\
-(800) Non ista faceret. CH. neminem insontis viri\
+(800) Non ista faceret. [\@Ch.=]{.smallcaps} neminem insontis viri\
 Igitur misertum est, nemo ad haec gemuit mala?\
-N.P. Sane misertum est: sed magis fera non fuit\
+[\@N.P.=]{.smallcaps} Sane misertum est: sed magis fera non fuit\
 Saevitia quam dum parcit. Vrgebat nimis\
 Exangue corpus pondere attritum suo\
 (805) Infamis arbor, morsque iam steterat prope:
@@ -1038,12 +1038,12 @@ Non illum amata ruris angusti quies\
 (810) Defendit: vrbis vitia fugientem premunt\
 Vrbis furores. Tractus ergo non suo\
 Succedit oneri, nequis ambigeret trahi\
-Et immerentes. CH. Pande iam totam simul\
+Et immerentes. [\@Ch.=]{.smallcaps} Pande iam totam simul\
 Faciem maloru. fare quis paenae modus,\
 (815) Quas vis dolorum rupit in voce. cupit\
 Animus quod horret scire. ne parce auribus\
 Timor ipse finxit quicquid audiri potest.\
-N.P. Quae pars ab vrbe frigidis Boreae patet\
+[\@N.P.=]{.smallcaps} Quae pars ab vrbe frigidis Boreae patet\
 Proiecta flabris, cognitum bellis iter\
 (820) Et certa semper cladibus nostris via,\
 Haec ipsa dirum Golgothae tollit iugum.\
@@ -1127,9 +1127,9 @@ Praeses rogatur, ne vel ipsa vindicet\
 Occidere verbo factus imperij potens.\
 At ille durus perstat, atque hominis modo\
 Donare vitam facilis hoc tandem negat.\
-CH. Dum misera longos vita cruciatus trahit\
+[\@Ch.=]{.smallcaps} Dum misera longos vita cruciatus trahit\
 (895) Quo populus adstat ore, quis circum sonus?\
-N.P. Non vna facies: dissonae voces strepunt.\
+[\@N.P.=]{.smallcaps} Non vna facies: dissonae voces strepunt.\
 Pars maesta vultu ac corde defixo stupet,\
 Pars morte lenta fruitur, et quantum potest\
 Extendit iras. Motuum discordia\
@@ -1209,7 +1209,7 @@ Largitur astra: Mecum, ait, mecum sacros\
 Tenebis hortos, veris aeterni loca,\
 Beatus hospes, antequam lucis parens\
 (965) Aurora referat crastinum terris iubar.\
-CH. Quid hoc? repente subsilit motu solum,\
+[\@Ch.=]{.smallcaps} Quid hoc? repente subsilit motu solum,\
 Et stare tellus nescit. auratos tegens\
 Sol ipse vultus limite ignoto fugit,\
 Et saeculorum lege contemta diem\
@@ -1220,14 +1220,14 @@ Quod nec sui meminisse naturam sinit?\
 Sed feriit aures cursus haud longe pedum.\
 (975) Tu quisquis ille es quem satis nosci vetat\
 Caligo mundi, tam graves imple metus,\
-Aut solve. N.A. Periit. Habuit eventum furor
+Aut solve. [\@N.A.=]{.smallcaps} Periit. Habuit eventum furor
 
 43\
 Damnatus astris, quemque, si possit, velit\
-Et terra fugere. CH. Nil queror. Lucem tibi\
+Et terra fugere. [\@Ch.=]{.smallcaps} Nil queror. Lucem tibi\
 (980) Coelum remitto. Tu tamen, quando loqui\
 Nobis relictum est, mortis effare ordinem.\
-N.A. Vt crescere vmbras iussit, et medio aetheris\
+[\@N.A.=]{.smallcaps} Vt crescere vmbras iussit, et medio aetheris\
 Cursu peracto longius Titan suos\
 Respexit ortus, igneae sensim comae\
 (985) Perire, nulla nube praeductum caput\
@@ -1268,9 +1268,9 @@ Coelum sepulchrum est. redit antiquum chaos:\
 Non legis aequae gnara, non patiens vicis,\
 Sed qualis ante conditam lucem fuit,\
 (1020) Nox atra populos intulit terris suos.\
-CH. Sed inter haec portenta quae circum crucem\
+[\@Ch.=]{.smallcaps} Sed inter haec portenta quae circum crucem\
 Mens plebis? Ecquis vultus astantum fuit?\
-N.A. Lamenta fletu mixta femineo sonant\
+[\@N.A.=]{.smallcaps} Lamenta fletu mixta femineo sonant\
 Tum siquis ipsi notus et vitae comes\
 (1025) In morte adhaesit, ingemit tenebris diu
 
@@ -1288,10 +1288,10 @@ Fraenare, iniqua iurat extinctum nece\
 Perferre poenas horrido motu gemens,\
 Quem luce cassum lucis aeternae fuga\
 Caelumque moerens asserant coeli genus.\
-CH. Quis iste turbae cursus ad limen sacrum?\
+[\@Ch.=]{.smallcaps} Quis iste turbae cursus ad limen sacrum?\
 (1040) Nam causa in illis quaelibet credi potest\
 Nisi sola pietas. hisne tam impuris Deo\
-Litare sperant manibus? N.A. Horrendum, nova\
+Litare sperant manibus? [\@N.A.=]{.smallcaps} Horrendum, nova\
 Prodigia et istuc vulgus attonitum trahunt.\
 Nanque ille pendens trabibus auratis tapes\
 (1045) Multiplicis ostri, scissus in partes duas\
@@ -1316,12 +1316,12 @@ Admisit oculos, sive relligio feros\
 Pertaesa mores fugit et cerni dedit\
 Penetrale nudum, sive contemto loci\
 Horrore sola mente vult numen coli.\
-(1065) CH. Positone poenis fine quem mors attulit\
+(1065) [\@Ch.=]{.smallcaps} Positone poenis fine quem mors attulit\
 Natura tandem valuit, et tellus parens\
 Exanima placido corpora exspectat sinu?\
 An nuda pendent membra et aspectu impio\
 Sacrae profanant vesperam noctis ducem?\
-(1070) N.A. Animos feroces sera relligio subit,\
+(1070) [\@N.A.=]{.smallcaps} Animos feroces sera relligio subit,\
 Ne non paratos praevia insignis sacri\
 Deprendat hora. Pontium accedunt ducem,\
 Laceros cruentis deripi crucibus rogant\
@@ -1342,7 +1342,7 @@ Venis micantes mixtus effudit cruor.\
 Stetere, vultu turba non vno fugit,\
 Pars moesta, pars attonita. quo ruitis viri?\
 Mactandum ad agnum? vilis haec nimium hostia est:\
-Mactastis hominem. CH. Fallit ambiguus dies,\
+Mactastis hominem. [\@Ch.=]{.smallcaps} Fallit ambiguus dies,\
 (1090) An triste vulgus tueor, et muliebribus\
 Laniata palmis pectora et flentes genas?\
 At inde tardo miles Ausonius gradu\
@@ -1441,7 +1441,7 @@ Vt condat hominem terra et humanae manus
 Prece obtinendum est. nescit Ausonia indoles\
 Vel sponte recte facere vel gratis male.\
 Omne est in vsu facinus: his mortem imputant,\
-(1170) Illis sepulchrum. NIC. Parce vanis vocibus,\
+(1170) Illis sepulchrum. [\@Nic.=]{.smallcaps} Parce vanis vocibus,\
 Iosephe, vel, si iusta tam dulce est queri,\
 Dimitte Romam, quaere propiores reos.\
 Quem plangis hunc non Romuli occidit genus,\
@@ -1461,7 +1461,7 @@ Manibus pepercit? hoc quoque Italo militi\
 Invidit aliquis et scelus mallet suum.\
 Servire adhuc nos querimur? en caedem impiam\
 Impune licuit facere. quid facere, inquio?\
-(1190) Licuit iubere. IOS. Nicodeme vnis ego\
+(1190) Licuit iubere. [\@Ios.=]{.smallcaps} Nicodeme vnis ego\
 Devoveo diris Iliae et Sarae genus.
 
 Dij
@@ -1496,7 +1496,7 @@ Subiecta plaustro littora extorrem vocent,
 53\
 Quae refuga fluctu Tethys ambiguo ferit.\
 Erit ille patria qui patet vero locus.\
-NIC. Hic inter alios foedus humanum genus\
+[\@Nic.=]{.smallcaps} Hic inter alios foedus humanum genus\
 (1220) Insedit error. facta quis culpat sua?\
 Aliena quis non? magna pars non crimina\
 Damnat, sed homines, dispari sententia,\
@@ -1516,7 +1516,7 @@ Illi loquendo, nos tacendo prodimus.\
 In nomen irent, nos magistrum agnoscere\
 Segnes pavori noctis vmbram obtendimus.\
 Iosephe, tandem nostra sese aperit fides,\
-Sed in peremtum. IOS. Vera tu, fateor, mones.\
+Sed in peremtum. [\@Ios.=]{.smallcaps} Vera tu, fateor, mones.\
 (1240) Sed ille rapiens redditum vesper diem\
 Cura peragere iusta nos vigili iubet.
 
@@ -1534,7 +1534,7 @@ Oppositus antro. Quis scit an mox sanctior\
 (1250) Adveniat aetas, turba cum hanc sedem frequens\
 Et flexa regum capita pro templo colant,\
 Dignamque credant et mari et ferro peti?\
-NIC. Aqua pura fontis, vosque odoriferae plagae\
+[\@Nic.=]{.smallcaps} Aqua pura fontis, vosque odoriferae plagae\
 Cari liquores, saeva quos tumuli fugit\
 (1255) Tabes edacis, tingite hos vultus pios,\
 Intrate penitus ora. Non Deus hoc sinat,\
@@ -1559,7 +1559,7 @@ Translataque olim sceptra in externas manus,\
 (1270) Quod te vetaret esse securam fuit\
 Res vna, natus. ille te absolvit metu:\
 Timere iam nil orba paupertas potest.\
-MA. Lugere nobis forte Iohannes novum est,\
+[\@Ma.=]{.smallcaps} Lugere nobis forte Iohannes novum est,\
 Ego nata in hoc sum: ter decem annis amplius\
 (1275) Non aliud egi. nulla me species mali\
 Fefellit: ex quo casta coelesti satu\
@@ -1609,7 +1609,7 @@ Subito micantes lachrimae vultus gravant,\
 An vera video? Mater, illi artus tui,\
 (1315) Tuus ille sanguis. i, rape extrema oscula,\
 Imple parentem: filij hoc restat tibi.\
-MAR. Anima heu longis defessa malis\
+[\@Mar.=]{.smallcaps} Anima heu longis defessa malis\
 In maiores suffice luctus,\
 Dum crudeles apud exequias\
 (1320) Suprema dolor munera solvit.\
@@ -1710,7 +1710,7 @@ Coelestis aulae turma parienti adstitit,\
 Cunasque adorans igneus superum chorus\
 Genitale cecinit carmen, et nixus sacros\
 Imitatus aether astra parturiit nova.\
-(1410) MA. Fugiunt dolores. laetior praecordia\
+(1410) [\@Ma.=]{.smallcaps} Fugiunt dolores. laetior praecordia\
 Subit ille motus, quem pudico pectore
 
 61\

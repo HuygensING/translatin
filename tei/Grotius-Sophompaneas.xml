@@ -86,8 +86,7 @@
   conjungi semper tibi in felicitatis meae magna parte posui. Ingens est
   vinculum, omnium honestarum literarum commune stu-</p>
   <p><milestone unit="folio" facs="A2"/></p>
-  <p><milestone unit="page" facs="4"/></p>
-  <p>dium: sed accessit et aliud, quod in disputationum Theologicarum
+  <p>4 dium: sed accessit et aliud, quod in disputationum Theologicarum
   aestu fervente saeculo te reperi prudentia et animi moderatione
   singulari, qui ab iis, quae ecclesiae ab Apostolis satae, et quae cum
   illis germanitate disciplinae cohaerebant, ut certa atque explorata
@@ -106,8 +105,7 @@
   quod sibi Horatius, pretium dicere muneri, tragoedia est quam adfero,
   scripti genus, ut optime tu scis Vossi, à quo post grammatices et
   eloquentiae praecepta, artem quoque</p>
-  <p><milestone unit="page" facs="5"/></p>
-  <p>poeticam vivis coloribus expressam habemus, regale, tantaeque
+  <p>5 poeticam vivis coloribus expressam habemus, regale, tantaeque
   dignitatis, ut id Sophocles principe quem Athenis tenebat loco, Caesar
   autem Augustus animo totam vim Romani imperii complexo non inferius
   judicarint. Est et argumento sua commendatio, petito scilicet, non ex
@@ -443,12 +441,12 @@
   <div type="level2" xml:id="actvs-secvndvs.">
     <head>3. ACTVS SECVNDVS.</head>
     <p>RAMSES. IVDAS. RVBEN.</p>
-    <p>Ram. ET me tuae miserescit aetatis, puer,</p>
+    <p><hi rend="speaker">Ram.</hi> ET me tuae miserescit aetatis, puer,</p>
     <p>(235) Quem trahere magnos ad Sophompaneae lares</p>
     <p>Manibus revinctum cogor. at ratio imperî</p>
     <p>Non constat aliter, nosque lex jussis heri</p>
     <p>Jubet ministros esse, censores vetat.</p>
-    <p>Ivd. Si patere Ramse, pauca pro puero loquor.</p>
+    <p><hi rend="speaker">Ivd.</hi> Si patere Ramse, pauca pro puero loquor.</p>
     <p>(240) Si non sat illum liberat tali probro</p>
     <p>Ingenua species oris atque animi doli</p>
     <p>Nondum capaces, pende quod factum dies</p>
@@ -466,7 +464,7 @@
     <p>Si majus isto ferre potuissent onus</p>
     <p>Nostrae quadrupedes, jam puto nos diceres</p>
     <p>Non esse avaros, improbos multo minus.</p>
-    <p>(255) Ram.Inanis horas perdere in voces labor,</p>
+    <p>(255) <hi rend="speaker">Ram.</hi> Inanis horas perdere in voces labor,</p>
     <p>Res quas fefellit. Quod datum pretium modò</p>
     <p>Pro Cerere, clausum sarcinis vestris fuit,</p>
     <p>Omitto: plena talium nostra est domus.</p>
@@ -477,8 +475,8 @@
     <p>Poscit futurae sortis e caelo notas.</p>
     <p>Nam magnus illum saepe dominator poli</p>
     <p>(265) Omnes latentis conscium arcani facit.</p>
-    <p>Ivd. Si arcana novit, nos quoque haud dubie sciet</p>
-    <p>Esse absque noxa. Ram. pectoris vestri sinus</p>
+    <p><hi rend="speaker">Ivd.</hi> Si arcana novit, nos quoque haud dubie sciet</p>
+    <p>Esse absque noxa. <hi rend="speaker">Ram.</hi> pectoris vestri sinus</p>
     <p>Excutite. verum rectiùs dicet tibi,</p>
     <p>Quam tu ipse nemo. Sed cave te judices</p>
     <p>(270) Ex parte: vitae tota, quanta illa est, tibi</p>
@@ -498,18 +496,18 @@
     <p>Post multa sero facta saevitiae trucis,</p>
     <p>Ultraque sexum Veneris inventas faces,</p>
     <p>(285) Incendit urbes imbre sulfureo polus.</p>
-    <p>Ivd. Ferale Dothan nomen et vasti specus</p>
+    <p><hi rend="speaker">Ivd.</hi> Ferale Dothan nomen et vasti specus</p>
     <p>Immane praeceps, tuque avara Arabum cohors</p>
     <p>Parata quidvis emere, quam nunc memoria</p>
     <p>Ad vos recurrit tristis et cor verberat.</p>
-    <p>(290) Rvb. Monuisse memini saepe, ne tantum nefas</p>
+    <p>(290) <hi rend="speaker">Rvb.</hi> Monuisse memini saepe, ne tantum nefas</p>
     <p>Admitteretis. haeret hoc animo recens</p>
     <p>Miserum rogantis vultus: illae nos premunt</p>
     <p>Caelo receptae, fratribus surdis, preces.</p>
-    <p>Ivd. Alios monere facile. si propriam tibi</p>
+    <p><hi rend="speaker">Ivd.</hi> Alios monere facile. si propriam tibi</p>
     <p>(295) Inspicere vitam cura, non deerit nefas.</p>
-    <p>Ram. Quis oris iste turbidi inter vos sonus?</p>
-    <p>Ivd. Syriae repetimus clara quae nostri loca</p>
+    <p><hi rend="speaker">Ram.</hi> Quis oris iste turbidi inter vos sonus?</p>
+    <p><hi rend="speaker">Ivd.</hi> Syriae repetimus clara quae nostri loca</p>
     <p>Tenuere patres, omnibus circum inclita</p>
     <p><milestone unit="folio" facs="C2"/></p>
     <p><milestone unit="page" facs="20"/></p>
@@ -518,11 +516,11 @@
     <p>Quorum hospitale pectus et mores probos</p>
     <p>Grata celebrat laude Jordanis vadum</p>
     <p>Quae terra et undas inter Euphratis jacet.</p>
-    <p>Ram. At non propago semper in laudes patrum</p>
+    <p><hi rend="speaker">Ram.</hi> At non propago semper in laudes patrum</p>
     <p>(305) Succrescit. Est cùm degener proles probro</p>
     <p>Libidinoso, perfidis pactis, fero</p>
     <p>Facinore, turpat generis auctores sui.</p>
-    <p>Ivd. O, pars nostri sanguinis, aevi</p>
+    <p><hi rend="speaker">Ivd.</hi> O, pars nostri sanguinis, aevi</p>
     <p>Primo vernans in flore puer,</p>
     <p>(310) Donum infelix aetatis habes,</p>
     <p>Nescire quibus mergare malis.</p>
@@ -549,7 +547,7 @@
     <p>In te rursus crimina finget,</p>
     <p>Cum te cernent inopem, externum,</p>
     <p>Vindice nullo.</p>
-    <p>Ram. Laudo, propinquo sanguinis vinclo tibi</p>
+    <p><hi rend="speaker">Ram.</hi> Laudo, propinquo sanguinis vinclo tibi</p>
     <p>(335) Quod amas ligatum. Discrepant mortalium</p>
     <p>In multa mores: scita sunt aliis locis</p>
     <p>Alia, ut voluntas sceptra tractantum, aut sua</p>
@@ -559,7 +557,7 @@
     <p>Sed corde in ipso est scripta communis manu</p>
     <p>Auctoris: illam qui fugit, sese fugit.</p>
     <p>Ferae quoque ipsae genere consortes amant.</p>
-    <p>Ivd. Ipsos dolores tangis, ut nequeas magis.</p>
+    <p><hi rend="speaker">Ivd.</hi> Ipsos dolores tangis, ut nequeas magis.</p>
     <p>(345) Sed ecce densis praeses Aegypti venit</p>
     <p>Stipatus armis ad laris limen sui.</p>
     <p>Quae nunc neganti quod putant certum, fides?</p>
@@ -567,18 +565,18 @@
     <p>Mihi demit omnem, nec sibi vultum sinit</p>
     <p>(350) Constare culpae conscius veteris pavor.</p>
     <p>RAMSES. IOSEPHVS. IUDAS.</p>
-    <p>Ram. Deprensa noxa est. salva res. illum penes</p>
+    <p><hi rend="speaker">Ram.</hi> Deprensa noxa est. salva res. illum penes</p>
     <p>Sacrifica latuit patera quem vinctum vides.</p>
     <p><milestone unit="folio" facs="C3"/></p>
     <p><milestone unit="page" facs="22"/></p>
     <p>Unum retraxi: sponte grex fratrum it comes,</p>
     <p>Monstratque luctum vestibus ruptis suum.</p>
-    <p>(355) Ios. Quae vos cupido misera, quae fiducia</p>
+    <p>(355) <hi rend="speaker">Ios.</hi> Quae vos cupido misera, quae fiducia</p>
     <p>Ad hoc adegit facinus? an vobis ego</p>
     <p>Ignotus adeo, plenus afflatu Dei</p>
     <p>Cui monstrat animus quicquid abstrusum latet,</p>
     <p>Et alia vates, perspicax prudentia?</p>
-    <p>(360) Ivd. Magnanime princeps, proximum regno caput,</p>
+    <p>(360) <hi rend="speaker">Ivd.</hi> Magnanime princeps, proximum regno caput,</p>
     <p>Ad tua voluti genua, quae jam possumus</p>
     <p>Reperire pro re verba, quem fandi modum,</p>
     <p>Quo nos tueri teste, quos peragit reos</p>
@@ -589,7 +587,7 @@
     <p>Hominem facit res una contiguum Deo,</p>
     <p>Servare lapsos. Sume nos nexos tibi,</p>
     <p>(370) Hunc patera sub quo sedit et fratres decem.</p>
-    <p>Ios. Mos ille multos tenuit et multos tenet</p>
+    <p><hi rend="speaker">Ios.</hi> Mos ille multos tenuit et multos tenet</p>
     <p>Populos Eoi generis, ut poenas vetent</p>
     <p>Intra nocentes stare, sed contagio</p>
     <p>Patres eodem, liberos, fratres trahant,</p>
@@ -602,7 +600,7 @@
     <p><milestone unit="page" facs="23"/></p>
     <p>In jus abito. Caeteri immunes malo</p>
     <p>Repetite qui vos avidus exspectat, patrem.</p>
-    <p>Ivd. Quanquam loqui me terret et noster status,</p>
+    <p><hi rend="speaker">Ivd.</hi> Quanquam loqui me terret et noster status,</p>
     <p>Et oris illud specimen augustum tui</p>
     <p>(385) Regi secundum, si vales in nos graves</p>
     <p>Suspendere iras, pauca non dura precor</p>
@@ -661,10 +659,11 @@
     <p>Ne me gemitibus atque lachrymarum imbribus</p>
     <p>Accuset, et cum fuerit in terrae sinum</p>
     <p>Condendus, ipse crimen ibi condam meum.</p>
-    <p>(440) Ios. Nec cuncta quae tibi dicta, nec credo nihil.</p>
+    <p>(440) <hi rend="speaker">Ios.</hi> Nec cuncta quae tibi dicta, nec credo
+    nihil.</p>
     <p>Qui constituere properat, ingreditur viam</p>
     <p>Ad poenitendum. Videro mox amplius.</p>
-    <p>Ivd. Felix nimis Iosephe, si exstinctus jaces,</p>
+    <p><hi rend="speaker">Ivd.</hi> Felix nimis Iosephe, si exstinctus jaces,</p>
     <p>Quod ista jam non patere nobiscum mala;</p>
     <p>(445) Si vivis, ipse quod tuas injurias</p>
     <p>Non sinit inultas aetheris magni parens.</p>
@@ -761,7 +760,7 @@
     <p>Rubrum vetat coire Carpathio mare,</p>
     <p>Tota est in armis. quisque jus dicit sibi,</p>
     <p>Spretoque magni regis imperio furit.</p>
-    <p>(530) Ios. Grave: sed frequens jam gentibus Phariis
+    <p>(530) <hi rend="speaker">Ios.</hi> Grave: sed frequens jam gentibus Phariis
     malum.</p>
     <p>Sed non medenti sufficit, quali lues</p>
     <p>Flammetur aestu nosse, quam partem premat,</p>
@@ -832,7 +831,7 @@
     <p>Pavore, muri parte neglecta irruunt,</p>
     <p>(595) Statimque rapta publicis penetralibus</p>
     <p>Arma induuntur, et vibrant enses manu.</p>
-    <p>Ios. Solos nomarchas ista seditio petit?</p>
+    <p><hi rend="speaker">Ios.</hi> Solos nomarchas ista seditio petit?</p>
     <p>An latius vagatur, et discrimine</p>
     <p><milestone unit="page" facs="31"/></p>
     <p>Sontes remoto miscet innocuo gregi?</p>
@@ -853,9 +852,9 @@
     <p>Diripitur ardens Coptos; ingenuam quoque</p>
     <p>(615) Pubem virosque nobiles captos trahunt</p>
     <p>Pretioque servos barbaro mittunt solo.</p>
-    <p>Ios. Quis ausus emere liberi juris genus?</p>
+    <p><hi rend="speaker">Ios.</hi> Quis ausus emere liberi juris genus?</p>
     <p>Nvn. Arabum regentes arva bisseni duces.</p>
-    <p>Ios. Gens ista mores Agaris iniustos refert.</p>
+    <p><hi rend="speaker">Ios.</hi> Gens ista mores Agaris iniustos refert.</p>
     <p>(620) Sed in urbe capta nunc quis imperii modus?</p>
     <p>Nvn. Non una mansit forma: ductorem sibi</p>
     <p>Legêre summo jure: displicuit cito.</p>
@@ -867,7 +866,7 @@
     <p>Contenta verbis nec manet discordia:</p>
     <p>Vulneribus agitur: ipse conflictum trucem,</p>
     <p>Motasque vidi mutuam in caedem manus.</p>
-    <p>Ios. (630) Spondent paratam quae refers victoriam.</p>
+    <p><hi rend="speaker">Ios.</hi> (630) Spondent paratam quae refers victoriam.</p>
     <p>Ramse, properiter quot potes turmas rape</p>
     <p>Cincturus urbem. Fecero justae brevi</p>
     <p>Adsint cohortes, et per infernos specus</p>
@@ -924,7 +923,7 @@
     <p>(680) Proh, qualis iste, Simeo, vir! quam provide</p>
     <p>Cuncta ordinavit, quam peraequavit bene</p>
     <p>Supplicia meritis, juris ac recti tenax!</p>
-    <p>Sim. Talem diu jam video, pro vobis ego</p>
+    <p><hi rend="speaker">Sim.</hi> Talem diu jam video, pro vobis ego</p>
     <p>Dum servor obses. Saepe conspectus mihi</p>
     <p>(685) Sedere, et aequus, partis utriusque, arbiter</p>
     <p>Audire patiens dicta: nec verbo levi,</p>
@@ -936,41 +935,41 @@
     <p>Suaderet aliquid tristibus clementia</p>
     <p>Detrahere poenis, non tamen sic lenitas</p>
     <p>Nimis ut soluta demeret vitiis metum.</p>
-    <p>(695) Ivd. Quid esse dicam, quod Sophompaneas, heri</p>
+    <p>(695) <hi rend="speaker">Ivd.</hi> Quid esse dicam, quod Sophompaneas, heri</p>
     <p>Nos hospitali largus excipiens dape,</p>
     <p>Hoc, quem dedit natura, disposuit loco?</p>
-    <p>Sim. Mihi crede, quod tu, frater, eximium putas,</p>
+    <p><hi rend="speaker">Sim.</hi> Mihi crede, quod tu, frater, eximium putas,</p>
     <p>Minimum est in illo. magna vis illum Dei</p>
     <p>(700) Inspirat, et, quae non valet mens assequi</p>
     <p>Mortalis, intus spiritu aetherio monet.</p>
-    <p>Ivd. Quae se ista tanto porticus spatio explicat,</p>
+    <p><hi rend="speaker">Ivd.</hi> Quae se ista tanto porticus spatio explicat,</p>
     <p>Amplexa totam latere tergemino domum?</p>
-    <p>Sim. Istam petitis littore usque ab Ionio</p>
+    <p><hi rend="speaker">Sim.</hi> Istam petitis littore usque ab Ionio</p>
     <p>(705) Fieri columnis jussit in amicum suum</p>
     <p>(35) p.</p>
-    <p>Rex non avarus. Ivd. Intus aspicere an licet?</p>
-    <p>Sim. Licet et juvabit. namque et hîc multo litas</p>
+    <p>Rex non avarus. <hi rend="speaker">Ivd.</hi> Intus aspicere an licet?</p>
+    <p><hi rend="speaker">Sim.</hi> Licet et juvabit. namque et hîc multo litas</p>
     <p>Colore tabulas, opera sollicitae manus,</p>
     <p>Rex jussit addi, quae Sophompaneae decus</p>
     <p>(710) Et acta monstrent hospitum conspectibus,</p>
     <p>Ut ipse famae vivus intersit suae.</p>
-    <p>Ivd. Eamus ergo. Ne time: non, Beniamin,</p>
+    <p><hi rend="speaker">Ivd.</hi> Eamus ergo. Ne time: non, Beniamin,</p>
     <p>Te deseremus. non tuos fratrum chorus</p>
     <p>Effugiet oculos, ilicetque aderit tibi,</p>
     <p>(715) Simulatque magni praesidis cardo strepet.</p>
-    <p>Sim. Haec opera visu, quam potes, propero rape.</p>
-    <p>Ivd. Quid ista sibi vult femina iratum rubens,</p>
+    <p><hi rend="speaker">Sim.</hi> Haec opera visu, quam potes, propero rape.</p>
+    <p><hi rend="speaker">Ivd.</hi> Quid ista sibi vult femina iratum rubens,</p>
     <p>Quae crine vulso lacera et humectans genas</p>
     <p>Chlamydem simul fugientis à tergo rapit?</p>
-    <p>(720) Sim. Matrona forma simul et imperio potens</p>
+    <p>(720) <hi rend="speaker">Sim.</hi> Matrona forma simul et imperio potens</p>
     <p>Stimulis negati saevit in castum stupri,</p>
     <p>Regeritque crimen, scelereque obvelat scelus,</p>
     <p>Mendacioque pignore hoc quaerit fidem.</p>
-    <p>Ivd. Video nigrantem carceris saevi domum.</p>
-    <p>(725) Sim.Hoc ille clausus crimen alienum luit.</p>
-    <p>Ivd. Quis de racemo triplice tres uvas premens</p>
+    <p><hi rend="speaker">Ivd.</hi> Video nigrantem carceris saevi domum.</p>
+    <p>(725) <hi rend="speaker">Sim.</hi> Hoc ille clausus crimen alienum luit.</p>
+    <p><hi rend="speaker">Ivd.</hi> Quis de racemo triplice tres uvas premens</p>
     <p>Geniale regis fundit in phialam merum?</p>
-    <p>Sim. Non gesta res est. sed Sophompaneae fuit</p>
+    <p><hi rend="speaker">Sim.</hi> Non gesta res est. sed Sophompaneae fuit</p>
     <p>Qui vinculorum socius hanc somno datus</p>
     <p>(730) imaginem conspexit; et, Phoebi jubar</p>
     <p>Simul extulisset tertiam coelo facem,</p>
@@ -987,17 +986,17 @@
     <p>(740) Donec suum bis signa per bis sex iter</p>
     <p>Sol explicaret et Phari sapientibus</p>
     <p>obscura regis quaereret vatem quies.</p>
-    <p>Ivd. Est alia tetra tristis in caligine</p>
+    <p><hi rend="speaker">Ivd.</hi> Est alia tetra tristis in caligine</p>
     <p>Species. Canistra plena regalis tria</p>
     <p>(745) Mensae paratu lancinant rostris aves,</p>
     <p>Epulasque dulces unguibus faedis trahunt.</p>
-    <p>Sim. Et ista somni forma quam vidit miser</p>
+    <p><hi rend="speaker">Sim.</hi> Et ista somni forma quam vidit miser</p>
     <p>Captivus, olim regiae structor dapis:</p>
     <p>Sicutque vatis dixerat vox praescia,</p>
     <p>(750) Cùm tertio purpurea curriculo diem</p>
     <p>Proferret Eos, horrida pendens cruce</p>
     <p>Avidas volucres artubus pavit suis.</p>
-    <p>Ivd. Septem superbas corpore eximio boves</p>
+    <p><hi rend="speaker">Ivd.</hi> Septem superbas corpore eximio boves</p>
     <p>Niliaca profert unda, quas ripam gravi</p>
     <p>(755) Pede metientes graminum pascit viror.</p>
     <p>Sequuntur aliae, pigra quas genuit palus,</p>
@@ -1012,13 +1011,13 @@
     <p>Quos aestuosus solis exhausit vapor.</p>
     <p>(765) Et virus horum nobiles spicas necat.</p>
     <p>Quis iste in ostro talia aspectat jacens?</p>
-    <p>Sim. Rex ipse. namque huic fruge felici uberes</p>
+    <p><hi rend="speaker">Sim.</hi> Rex ipse. namque huic fruge felici uberes</p>
     <p>Septem, atque septem segetis infaustae notat</p>
     <p>Annos latente noctis effigie Deus.</p>
     <p>(770) Sed nemo nodos potuit hos evolvere,</p>
     <p>Nisi ille quem rex carcere eductum horrido</p>
     <p>Ob id secundum culmini fecit suo.</p>
-    <p>Ivd. Agnosco pictum byssino cultu: trahit</p>
+    <p><hi rend="speaker">Ivd.</hi> Agnosco pictum byssino cultu: trahit</p>
     <p>Eburnus illum currus; in laeva micat</p>
     <p>(775) Radiatus adamas, torquis insigne aureum</p>
     <p>Dependet humeris: pronus in faciem jacens</p>
@@ -1027,7 +1026,7 @@
     <p>Succincta tunicis prima pars: pars altera</p>
     <p>(780) Sudat sub armis: carbaso pars tertia</p>
     <p>A capite ad imos candida tegitur pedes.</p>
-    <p>Sim. Quoscunque populos claustra regnorum Philae</p>
+    <p><hi rend="speaker">Sim.</hi> Quoscunque populos claustra regnorum Philae</p>
     <p>Cohibent, et ingens Nilus et Nili mare,</p>
     <p>Hos docuit ille in genera partiri tria</p>
     <p>(785) Et distributas singulis artes novis</p>
@@ -1074,9 +1073,9 @@
     <p>A Mesore primo nomina, et populi truces</p>
     <p>Motus in alta mole pyramidum notant,</p>
     <p>(825) Rerum exprimentes signa, non vocum sonos.</p>
-    <p>Ivd. Quid illa sibi vult tabula, generosi ducis,</p>
+    <p><hi rend="speaker">Ivd.</hi> Quid illa sibi vult tabula, generosi ducis,</p>
     <p>Ubi plebs ad aulam pallida ac trepidans coit?</p>
-    <p>Sim. Res magna regis agitur. Ut primum fidem</p>
+    <p><hi rend="speaker">Sim.</hi> Res magna regis agitur. Ut primum fidem</p>
     <p>Segeti abnegavit annus, esurie exciti</p>
     <p>(830) Mancipia vendunt Cerere, quam rex horreis,</p>
     <p>Dum larga messis fuerat, abdiderat suis,</p>
@@ -1090,12 +1089,12 @@
     <p>Quos ille (namque id columen imperii fore</p>
     <p>(840) Dux aestimavit) linquere a proavis diu</p>
     <p>Habitata jussit arva, et aliena in loca</p>
-    <p>Misit colonos. Ivd. Proh viri sapientiam,</p>
+    <p>Misit colonos. <hi rend="speaker">Ivd.</hi> Proh viri sapientiam,</p>
     <p>Sive illa ab usu, sive de coelo data est.</p>
     <p>Sed ne illa nobis obsit, haud frustra mihi</p>
     <p>(845) Cor timet; ab ipso multa nesciri velim.</p>
     <p><milestone unit="page" facs="40"/></p>
-    <p>Sim. Spatium quod ultra porticus tergum domus</p>
+    <p><hi rend="speaker">Sim.</hi> Spatium quod ultra porticus tergum domus</p>
     <p>Spectans recedit, nil habet, te quod juvet</p>
     <p>Inspicere. saeclis cuncta quae populo Phari</p>
     <p>Venient futuris fata, mens ibi praescia</p>
@@ -1155,75 +1154,75 @@
   <div type="level2" xml:id="actvs-qvartvs.">
     <head>7. ACTVS QVARTVS.</head>
     <p>IOSEPHVS. IVDAS. BENJAMIN.</p>
-    <p>Ios. Abripite puero vincula, ut respondeat</p>
+    <p><hi rend="speaker">Ios.</hi> Abripite puero vincula, ut respondeat</p>
     <p>Liberius: et vos, corporis comites mei,</p>
     <p>(900) Et fida famuli turba, vosque ô Nubides,</p>
     <p>Abstate. Sunt quae solus hospitibus loquar.</p>
     <p>Vivitne genitor ille, quem dixtis, senex?</p>
-    <p>Ivd. Vivum reliqui, regna cùm peterem Phari.</p>
-    <p>Ios. Quot ejus aetas annuos cursus habet?</p>
-    <p>(905) Ivd. Orbes peregit prope ter et decies decem.</p>
-    <p>Ios. Aetasne tam declivis à morbo vacat?</p>
-    <p>Ivd. Moerore demto nullum habet morbi genus.</p>
-    <p>Ios. Hunc ergo puerum moeret abductum sibi?</p>
-    <p>Ivd. Est alius etiam qui senem torquet dolor.</p>
-    <p>(910) Ios. Licetne scire? nam senex pater et mihi est.</p>
-    <p>Ivd. Dixisse memini. filium amissum dolet.</p>
-    <p>Ios. Quae saeva patri filium sors abstulit?</p>
-    <p>Ivd. Id scire oportet cuncta cernentem Deum.</p>
-    <p>Ios. Testem invocasti rite quem fugiat nihil.</p>
-    <p>(915) Ivd. Certum docere nemo nos hominum potest.</p>
-    <p>Ios. Permulta saepe ignota detexit dies.</p>
-    <p>Ivd. O si ulla praestet hoc quod optamus dies.</p>
-    <p>Ios. Velletis illum forte restitui patri.</p>
-    <p>Ivd. Si liceat emere hoc morte non faciam moram.</p>
-    <p>(920) Ios. Adeone patris proximus cordi fuit?</p>
-    <p>Ivd. Ut nullus ullum genitor adamarit magis.</p>
+    <p><hi rend="speaker">Ivd.</hi> Vivum reliqui, regna cùm peterem Phari.</p>
+    <p><hi rend="speaker">Ios.</hi> Quot ejus aetas annuos cursus habet?</p>
+    <p>(905) <hi rend="speaker">Ivd.</hi> Orbes peregit prope ter et decies decem.</p>
+    <p><hi rend="speaker">Ios.</hi> Aetasne tam declivis à morbo vacat?</p>
+    <p><hi rend="speaker">Ivd.</hi> Moerore demto nullum habet morbi genus.</p>
+    <p><hi rend="speaker">Ios.</hi> Hunc ergo puerum moeret abductum sibi?</p>
+    <p><hi rend="speaker">Ivd.</hi> Est alius etiam qui senem torquet dolor.</p>
+    <p>(910) <hi rend="speaker">Ios.</hi> Licetne scire? nam senex pater et mihi est.</p>
+    <p><hi rend="speaker">Ivd.</hi> Dixisse memini. filium amissum dolet.</p>
+    <p><hi rend="speaker">Ios.</hi> Quae saeva patri filium sors abstulit?</p>
+    <p><hi rend="speaker">Ivd.</hi> Id scire oportet cuncta cernentem Deum.</p>
+    <p><hi rend="speaker">Ios.</hi> Testem invocasti rite quem fugiat nihil.</p>
+    <p>(915) <hi rend="speaker">Ivd.</hi> Certum docere nemo nos hominum potest.</p>
+    <p><hi rend="speaker">Ios.</hi> Permulta saepe ignota detexit dies.</p>
+    <p><hi rend="speaker">Ivd.</hi> O si ulla praestet hoc quod optamus dies.</p>
+    <p><hi rend="speaker">Ios.</hi> Velletis illum forte restitui patri.</p>
+    <p><hi rend="speaker">Ivd.</hi> Si liceat emere hoc morte non faciam moram.</p>
+    <p>(920) <hi rend="speaker">Ios.</hi> Adeone patris proximus cordi fuit?</p>
+    <p><hi rend="speaker">Ivd.</hi> Ut nullus ullum genitor adamarit magis.</p>
     <p><milestone unit="page" facs="43"/></p>
-    <p>Ios. Animo probo quod esset, et nulli invidens?</p>
-    <p>Ivd. Et quia bonam spem dederat egregia indole.</p>
-    <p>Ios. Quid visa vobis regna pollentis Phari?</p>
-    <p>(925) Ivd. Nihil illa cedunt optimis Syriae locis.</p>
-    <p>Ios. Etiamne regimen placet et imperii modus?</p>
-    <p>Ivd. Miranda vero cuncta, te imprimis duce.</p>
-    <p>Ios. Velletis et vos his locis considere?</p>
-    <p>Ivd. Ob multa; primum ne ingruat rursum fames.</p>
-    <p>(930) Ios. Et vos quid ergo cogit hinc discedere?</p>
-    <p>Ivd. Domi relictus non relinquendus pater.</p>
-    <p>Ios. An huc et ipse posset adduci senex?</p>
-    <p>Ivd. Illius est statuere: parêre est meum.</p>
-    <p>Ios. Amore forte filii huc posset trahi.</p>
-    <p>(935) Ivd. Nam carus illi fuit et hic semper puer.</p>
-    <p>Ios. Quod nomen illi genitor imposuit, rogo.</p>
-    <p>Ivd. Iussu vocari Benjamin patrio solet.</p>
-    <p>Ios. Dextrae potentis omen isto in nomine est.</p>
-    <p>Ivd. Quid hoc? Hebraeae percipis linguae sonum?</p>
-    <p>(940) Ios. Et ipse vestris adfui quondam locis.</p>
-    <p>Ivd. Huc quae tulit te causa, si fas quaerere est?</p>
-    <p>Ios. Iniquus in me livor, inclemens fera.</p>
-    <p>Ivd. Non illa nostro pestis ignota est solo.</p>
-    <p>Ios. Vendine et illic liberum corpus solet?</p>
-    <p>(945) Ivd. Hoc mos et acri scita supplicio vetant.</p>
-    <p>Ios. Sed multa fieri video quae leges vetant.</p>
-    <p>Ivd. Sed quae, nisi homines puniant, punit Deus.</p>
-    <p>Ios. Jam dic quod illi nomen amisso fuit.</p>
-    <p>Ivd. Josephus. hoc egregius imposuit parens.</p>
+    <p><hi rend="speaker">Ios.</hi> Animo probo quod esset, et nulli invidens?</p>
+    <p><hi rend="speaker">Ivd.</hi> Et quia bonam spem dederat egregia indole.</p>
+    <p><hi rend="speaker">Ios.</hi> Quid visa vobis regna pollentis Phari?</p>
+    <p>(925) <hi rend="speaker">Ivd.</hi> Nihil illa cedunt optimis Syriae locis.</p>
+    <p><hi rend="speaker">Ios.</hi> Etiamne regimen placet et imperii modus?</p>
+    <p><hi rend="speaker">Ivd.</hi> Miranda vero cuncta, te imprimis duce.</p>
+    <p><hi rend="speaker">Ios.</hi> Velletis et vos his locis considere?</p>
+    <p><hi rend="speaker">Ivd.</hi> Ob multa; primum ne ingruat rursum fames.</p>
+    <p>(930) <hi rend="speaker">Ios.</hi> Et vos quid ergo cogit hinc discedere?</p>
+    <p><hi rend="speaker">Ivd.</hi> Domi relictus non relinquendus pater.</p>
+    <p><hi rend="speaker">Ios.</hi> An huc et ipse posset adduci senex?</p>
+    <p><hi rend="speaker">Ivd.</hi> Illius est statuere: parêre est meum.</p>
+    <p><hi rend="speaker">Ios.</hi> Amore forte filii huc posset trahi.</p>
+    <p>(935) <hi rend="speaker">Ivd.</hi> Nam carus illi fuit et hic semper puer.</p>
+    <p><hi rend="speaker">Ios.</hi> Quod nomen illi genitor imposuit, rogo.</p>
+    <p><hi rend="speaker">Ivd.</hi> Iussu vocari Benjamin patrio solet.</p>
+    <p><hi rend="speaker">Ios.</hi> Dextrae potentis omen isto in nomine est.</p>
+    <p><hi rend="speaker">Ivd.</hi> Quid hoc? Hebraeae percipis linguae sonum?</p>
+    <p>(940) <hi rend="speaker">Ios.</hi> Et ipse vestris adfui quondam locis.</p>
+    <p><hi rend="speaker">Ivd.</hi> Huc quae tulit te causa, si fas quaerere est?</p>
+    <p><hi rend="speaker">Ios.</hi> Iniquus in me livor, inclemens fera.</p>
+    <p><hi rend="speaker">Ivd.</hi> Non illa nostro pestis ignota est solo.</p>
+    <p><hi rend="speaker">Ios.</hi> Vendine et illic liberum corpus solet?</p>
+    <p>(945) <hi rend="speaker">Ivd.</hi> Hoc mos et acri scita supplicio vetant.</p>
+    <p><hi rend="speaker">Ios.</hi> Sed multa fieri video quae leges vetant.</p>
+    <p><hi rend="speaker">Ivd.</hi> Sed quae, nisi homines puniant, punit Deus.</p>
+    <p><hi rend="speaker">Ios.</hi> Jam dic quod illi nomen amisso fuit.</p>
+    <p><hi rend="speaker">Ivd.</hi> Josephus. hoc egregius imposuit parens.</p>
     <p><milestone unit="folio" facs="F2"/></p>
     <p><milestone unit="page" facs="44"/></p>
-    <p>(950) Ios. Vestri quid illud voce sermonis notat?</p>
-    <p>Ivd. Significat incrementa felicis domus.</p>
-    <p>Ios. Res saepe respondere nominibus solet.</p>
-    <p>Ivd. Sed hoc inane nomen eventus docet.</p>
-    <p>Ios. Ne temere desperare. nîl durum Deo.</p>
-    <p>(955) Ivd. Utinam, sed insperata det nobis Deus.</p>
-    <p>Ios. Dedit et dabit. respicite me fratres mei.</p>
+    <p>(950) <hi rend="speaker">Ios.</hi> Vestri quid illud voce sermonis notat?</p>
+    <p><hi rend="speaker">Ivd.</hi> Significat incrementa felicis domus.</p>
+    <p><hi rend="speaker">Ios.</hi> Res saepe respondere nominibus solet.</p>
+    <p><hi rend="speaker">Ivd.</hi> Sed hoc inane nomen eventus docet.</p>
+    <p><hi rend="speaker">Ios.</hi> Ne temere desperare. nîl durum Deo.</p>
+    <p>(955) <hi rend="speaker">Ivd.</hi> Utinam, sed insperata det nobis Deus.</p>
+    <p><hi rend="speaker">Ios.</hi> Dedit et dabit. respicite me fratres mei.</p>
     <p>Iosephus ego sum. nomen Aegyptus mihi</p>
     <p>Imposuit aliud. quam meam sortem auxerit</p>
     <p>Fautor Deus, videtis. Ex animo procul</p>
     <p>(960) Dothan, minaeque mortis, et tristis specus,</p>
     <p>Et Arabes, abeant. Somniis constat fides.</p>
     <p>Satis hoc: nec aliud majus a vobis volo.</p>
-    <p>Ivd. Generose praeses: non enim fratrem audeam</p>
+    <p><hi rend="speaker">Ivd.</hi> Generose praeses: non enim fratrem audeam</p>
     <p>Vocare, quia nos conscius culpae pudor</p>
     <p>(965) In te arguit fecisse fraternum nihil:</p>
     <p>Iterum voluti, supplices, miserabiles,</p>
@@ -1231,7 +1230,7 @@
     <p>Nostrae, sed ut te tumet opponas tibi.</p>
     <p>Ignosce. longis fessus aerumnis pater</p>
     <p>(970) Hoc ipse, si vis, postulat: si vis, rogat.</p>
-    <p>Ios. Abiicite curas. poscitis sera prece</p>
+    <p><hi rend="speaker">Ios.</hi> Abiicite curas. poscitis sera prece</p>
     <p>Quod impetratum est. Hoc quoque est nimium leve</p>
     <p>Donare culpam. frater ut fratres amo,</p>
     <p>Cum Benjaminem video sincera fide</p>
@@ -1266,7 +1265,7 @@
     <p>Contingere, innexumque cervici manu</p>
     <p>Haerere utraque: gaudio manant genae,</p>
     <p>Hilarisque fletus vocis occlusit viam.</p>
-    <p>(1005) Beni. Salve, Rachelis dividens mecum genus,</p>
+    <p>(1005) <hi rend="speaker">Beni.</hi> Salve, Rachelis dividens mecum genus,</p>
     <p><milestone unit="folio" facs="F3"/></p>
     <p><milestone unit="page" facs="46"/></p>
     <p>Reperte frater mihi nec optanti quidem</p>
@@ -1274,31 +1273,31 @@
     <p>Quali Pharum regis arte, germanum rege:</p>
     <p>Et hos amoris, quaeso, non ficti indices</p>
     <p>(1010) Permitte fletus collo ut infundam tuo.</p>
-    <p>Ios. O mihi nunquam sperata dies</p>
+    <p><hi rend="speaker">Ios.</hi> O mihi nunquam sperata dies</p>
     <p>Gaudia per te quam magna fero!</p>
-    <p>Beni. Iam me nec iter longum Sicimis</p>
+    <p><hi rend="speaker">@Beni.</hi>= Iam me nec iter longum Sicimis</p>
     <p>Vectum ad Nili poenitet urbes,</p>
     <p>(1015) Nec percussum crimine falso</p>
     <p>Vincla innocua gessisse manu.</p>
-    <p>Ios. Fratrum in te animus mihi non certo</p>
+    <p><hi rend="speaker">Ios.</hi> Fratrum in te animus mihi non certo</p>
     <p>Notus in hos me compulit astus.</p>
     <p>Doleo tibi quod mala, quodque metum</p>
     <p>(1020) Tulit illorum spectata fides.</p>
-    <p>Beni. Magnum est fratres purgasse suos.</p>
+    <p><hi rend="speaker">@Beni.</hi>= Magnum est fratres purgasse suos.</p>
     <p>Isto pretio mihi cuncta placent.</p>
-    <p>Ios. Jam vita mihi dulcior, ex quo</p>
+    <p><hi rend="speaker">Ios.</hi> Jam vita mihi dulcior, ex quo</p>
     <p>Fratres licuit reperire pios.</p>
     <p>(1025) Non illa mihi tam laeta dies,</p>
     <p>Quo deserui carceris umbram,</p>
     <p>Quo me patrem rex ipse suum</p>
     <p>Memphisque simul tota vocavit.</p>
-    <p>Beni. Bona cùm specto tua, mi frater,</p>
+    <p><hi rend="speaker">Beni.</hi> Bona cùm specto tua, mi frater,</p>
     <p>(1030) Sentio laetos pectore motus.</p>
-    <p>Ios. Mea quae cernis, tua sunt, frater.</p>
-    <p>Beni. Haec quam noster gaudeat unà</p>
+    <p><hi rend="speaker">Ios.</hi> Mea quae cernis, tua sunt, frater.</p>
+    <p><hi rend="speaker">@Beni.</hi>=@ Haec quam noster gaudeat unà</p>
     <p>Spectare senex!</p>
     <p><milestone unit="page" facs="47"/></p>
-    <p>Ios. Veniet, veniet: nec longa mora est.</p>
+    <p><hi rend="speaker">Ios.</hi> Veniet, veniet: nec longa mora est.</p>
     <p>(1035) Ibitis illuc cum magnifica</p>
     <p>Missi pompa, ducis excelsi</p>
     <p>Quae legatos fratresque decet.</p>
@@ -1308,7 +1307,7 @@
     <p>Quae digna sciri quaeque portavit dies.</p>
     <p>Adeste nostrum quos amat comites latus.</p>
     <p>IVDAS. RVBEN. BENIAMIN</p>
-    <p>Ivd. Quamquam carere me jubent omni metu</p>
+    <p><hi rend="speaker">Ivd.</hi> Quamquam carere me jubent omni metu</p>
     <p>Pietas benigni fratris et constans fides;</p>
     <p>(1045) Tamen innocentis vultus ipse habiti male,</p>
     <p>Animusque diri facinoris nondum immemor,</p>
@@ -1320,14 +1319,13 @@
     <p>Illum propitium fratribus praesta, et pium</p>
     <p>Placamen esto. te ille respiciens, tibi</p>
     <p>Favens, peracti fida bibat oblivia.</p>
-    <p>Rvb. (1055) Quae verba Iudas dixit, ea crede omnium.</p>
+    <p><hi rend="speaker">Rvb.</hi> (1055) Quae verba Iudas dixit, ea crede omnium.</p>
     <p>Si quid tibi unquam fecimus fratres boni,</p>
     <p>Id nunc repende: munus hoc facile est tibi,</p>
     <p>Magnumque nobis. da quod aeternum juvet</p>
     <p>Meminisse. sic te videat incolumis pater.</p>
     <p><milestone unit="page" facs="48"/></p>
-    <p>Beni. (1060) Nihil est opus, ceu video: sed nostram
-    tamen</p>
+    <p><hi rend="speaker">Beni.</hi> (1060) Nihil est opus, ceu video: sed nostram tamen</p>
     <p>Desiderari fratribus caris opem</p>
     <p>Non patiar: ita me instituit abeuntem pater.</p>
     <p>O nate, nullos oderis: sed ames tamen</p>
@@ -1349,7 +1347,7 @@
     <p>Donis et humili lenii tumidum prece.</p>
     <p>(1080) Haec monita patris optimi non memoria</p>
     <p>Tantùm fideli colere sed factis volo.</p>
-    <p>Ivd. Egregia certe pignora enixa est Rachel.</p>
+    <p><hi rend="speaker">Ivd.</hi> Egregia certe pignora enixa est Rachel.</p>
     <p><hi rend="bold">CHORVS.</hi></p>
     <p>Rumor candidus ad meas</p>
     <p>Aures protinus advolans</p>
@@ -1433,7 +1431,7 @@
     <p>Agricola taurus arce siderea micans,</p>
     <p>(1155) Sicut propinquas arietis stellas tenet</p>
     <p>Inscriptus Hammon Mesoris antiqui pater.</p>
-    <p>Ios. In me tot atque tanta congessit tua,</p>
+    <p><hi rend="speaker">Ios.</hi> In me tot atque tanta congessit tua,</p>
     <p>Rex magne, bonitas, ut magis demi velim</p>
     <p>Quam pondus addi. Cur adhuc aliquid tamen</p>
     <p>(1160) Cogar precari, causa sunt fratres mei,</p>
@@ -1453,13 +1451,13 @@
     <p>Promitto id ipsis utile ac Phariis fore.</p>
     <p>Jamque ecce et ipsos, quod ego te verbis rogo,</p>
     <p>Gestu rogantes, corpora instratos solo.</p>
-    <p>Ivd. (1175) Vivat beatus dominus opulentae Phari.</p>
+    <p><hi rend="speaker">Ivd.</hi> (1175) Vivat beatus dominus opulentae Phari.</p>
     <p>Pha. Surgite: dabuntur herbidi sedes soli;</p>
     <p>Et qui parentem, qui domum totam vehant</p>
     <p>Currus quadrijuges, quosque iter poscit cibos,</p>
     <p>Quaeque optima edit arborum partu ferax</p>
     <p>(1180) Niliaca tellus, dono longaevo seni.</p>
-    <p>Ios. Pátere hoc ut addam. Liberos homines vides,</p>
+    <p><hi rend="speaker">Ios.</hi> Pátere hoc ut addam. Liberos homines vides,</p>
     <p>Qui sponte veniunt in potestatem tuam.</p>
     <p>Ne sacra patribus tradita et generis sui</p>
     <p>Mutare ritus, longa quos aetas probat,</p>
@@ -1471,7 +1469,7 @@
     <p>(1190) Multaque matres prole tellurem impleant,</p>
     <p>Et sceptra nunquam posteris abeant tuis.</p>
     <p><milestone unit="page" facs="53"/></p>
-    <p>Pha. Juro potentem cuncta moderari Deum,</p>
+    <p><hi rend="speaker">Pha.</hi> Juro potentem cuncta moderari Deum,</p>
     <p>Meumque caput hoc obligo et seros mei</p>
     <p>Generis nepotes, semper Hebraeis sui</p>
     <p>(1195) Arbitria ritus, exitus tutos fore.</p>
@@ -1489,7 +1487,7 @@
     <p>Eat per omnes luctus. id si non sat est,</p>
     <p>Nereus quoque ipse legis exsorti vado</p>
     <p>Ruat, atque totos sorbeat populos mare.</p>
-    <p>(1210) Ios. Non erit Hebraeos hospites nullum tibi</p>
+    <p>(1210) <hi rend="speaker">Ios.</hi> Non erit Hebraeos hospites nullum tibi</p>
     <p>Habuisse pretium, terra locupletis Phari.</p>
     <p>Nam dum pium Deoque dilectum genus</p>
     <p>Clemens fovebis, cuncta tibi votum fluent</p>
@@ -1509,7 +1507,7 @@
     <p>(1225) Leges Hebraeis ille communes meis</p>
     <p>Nilique populo ponet, et miscens sacra</p>
     <p>Docebit uno more venerari Deum.</p>
-    <p>Cho. Veniet et ad nos tam grande bonum:</p>
+    <p><hi rend="speaker">Cho.</hi> Veniet et ad nos tam grande bonum:</p>
     <p>Et coelestis melior Phoebo</p>
     <p>(1230) Calor Aethiopum corda perurat.</p>
   </div>

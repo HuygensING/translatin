@@ -1,5 +1,3 @@
-URL: <https://daten.digitale-sammlungen.de/~db/0001/bsb00016450/images/>
-
 /front/
 
 GREGORII HOLO-
@@ -60,13 +58,13 @@ toritate compescant, et quam per se nondum assecuti sunt gloriam, eius, cui dica
 
 dere placuit: ad eum ego modum tuo vicissim nomini meos libellos tuendos offeram. Tametsi dissimilis hic sit vtriusque et dispar officij ratio. Ego si liberos tuos minus industriè, quod absit, instituam, minus vel literis vel moribus commendatos reddam, negligentia atque impietate meritò infamis sim Caeterùm tu, si nostri libelli displiceant, si non probentur Criticis, si de numero Philomusorum reuiciantur (quanquam nomen tuum, ne quis facilè insultet, arcebit) non tamen culpandus eris: ego solus repraehendar, qui versus tam incultòs, nec annis nouem pressos in lucem producere non fuerim veritus: emouit attamen ad istud audendum me hominum non indoctorum consilium, qui quum hasce Tragaediolas et legissent et è Theatro spectassent, iudicarunt ac persuaserunt edendas: quod vbi audere coepi, no vllis putaui aliis deberi, quàm iis quibus quicquid in literis
 
-A iij
+A uj
 
 possum, libenter impendam, filiis nempe tuis: qua in re multa mihi commodò esse animaduerti: quòd dum his istud dedico, quod no sine iniuria ad exteros transtulissem, illud pariter assequor, vt nomine tuo, quemadmodum dixi, istud opusculum comendetur; et sit interim, vti spero, ad doctrinam amplectendam tuis incitamento: gratiamque promereantur, si ipsorum nomine iuuentus habeat noua sacraque quae lectitet, et in quibus sese exercitet. Quod si assequor, et tibi gratum sit, contigit quod ambibam; abundè mihi factum est satis. Hinc autem si non parem cum veteribus Lector percipiat eloquentiam; maiorem verò, sicut confido, sentiet sanctitatem. Quid ni? quum veteres illi Ioues suos adulteros, Tyrannos sanguinarios, adolescentum libidines producant, quibus auditorum animi inquinentur verius, qi instruantur: nos sanctorum Heroum pietatem, charitatem,
 
 fortitudinem commendamus, vt eorum exempla, nec ficta, nec falsa, excitent Christianum Lectorem ad ardorem rerum caelestium, prae quibus facilè vilescant mortalia. Sed huius penes Lectorem esto iudicium. nos tamen hanc nostram quantulamcunque opellulam tuae humanitati commendamus, praestituri maiora, vbi doctrina et ocium facultatem dabunt maiorem: isthaec enim mihi leuiter ac praecipitanter etiam, quòd seriis studus nollem multum temporis adimere, lusa sunt, nihil etiamtum de aedendo cogitanti. Vale. Leodij, An. 1556. postridie Idus April.
 
-Aiiij
+Ailij
 
 GENEROSO ADOLE-
 
@@ -116,7 +114,7 @@ Quemuis parare operam vsibus domesticis:
 
 Nos etiam Iambos sanctitatis indigi,
 
-Leuesque versus, vileque poëma ferimus:
+\(5\) Leuesque versus, vileque poëma ferimus:
 
 Despectui, spero, haec nec herus habeat Deus.
 
@@ -126,7 +124,7 @@ Alius eburnas, dat alius et argenteas.
 
 Sunt arte figuli, et humilis vsus quaepiam.
 
-Est expolita peluis, olla fictilis.
+\(10\) Est expolita peluis, olla fictilis.
 
 Fit omne vas perutile, supellectilem
 
@@ -136,7 +134,7 @@ Nec vile, qualecunque sit, Christo aestimes:
 
 Magnum es leue etiam praestitisse huic obsequium.
 
-Sed nos egeni, quum nihil in vsus domus
+\(15\) Sed nos egeni, quum nihil in vsus domus
 
 Possemus offerre, vel tribuere diuitis,
 
@@ -146,7 +144,7 @@ Minusque in vsum memoriae elapsa attrahi.
 
 Quae refricare tersa voluimus situ,
 
-Vt si haud dare, at tergere queamus vascula.
+\(20\) Vt si haud dare, at tergere queamus vascula.
 
 Lamberti alia spectamus inter munera,
 
@@ -154,13 +152,11 @@ Quae sacrosancti contulerunt caelites,
 
 Grandem coronam, quam Deo martyr dedit,
 
-ues
-
 PROLOGVS
 
 Auro tumentem, atque rutilis gemmis grauem,
 
-Sed nonnihil pulueribus et situ obsitam:
+\(25\) Sed nonnihil pulueribus et situ obsitam:
 
 Dum rarò quisquam notam habet celeberrimi
 
@@ -170,7 +166,7 @@ Diuersa de re quum incolae recenseant.
 
 Nil hicce ficti, vel leuis commenti erit,
 
-At rem bona referemus autorum fide,
+\(30\) At rem bona referemus autorum fide,
 
 Missis parum fidis librorum fabulis.
 
@@ -180,7 +176,7 @@ Traduximus primi, vel vt primi tamen:
 
 Etsi audiamus enim actum id esse Gallicum.
 
-Huius tamen, qui hos scripsit actus scenicos,
+\(35\) Huius tamen, qui hos scripsit actus scenicos,
 
 Nullius omnium actiones comperit,
 
@@ -190,7 +186,7 @@ Haec scripsit hystoriae vnica fretus fide.
 
 Vos ergo cognoscite, simul et ignoscite,
 
-Tragico cothurno sicubi haud respondeant.
+\(40\) Tragico cothurno sicubi haud respondeant.
 
 Spectate vestri gesta quondam Antistitis
 
@@ -200,7 +196,7 @@ Quantum per vmbras assequi licuit styli:
 
 Quem vtinam loquentem potius audire liceat.
 
-Sed quando non licet, precamur attamen,
+\(45\) Sed quando non licet, precamur attamen,
 
 Aspiret vt dexter sibi certantibus.
 
@@ -212,7 +208,7 @@ ARGVMENT.
 
 Sed nè quis hospes adsit huius inscius,
 
-Breui tenete rem vniuersam Lemmate.
+\(50\) Breui tenete rem vniuersam Lemmate.
 
 ARGVMENTVM TRAGOEDIAE.
 
@@ -224,7 +220,7 @@ Quòd pellicem aleret coniuge explosa arguit.
 
 Pellex at Alpais toris pelli timens,
 
-Infesta fratrem armat Dodonem in Episcopum.
+\(5\) Infesta fratrem armat Dodonem in Episcopum.
 
 Dodo perditorum cum manu satellitum
 
@@ -234,9 +230,11 @@ Caelos petit Praesul. Dodo vnà cum suis,
 
 Furore, ferro, tabe, rabieque occidunt.
 
-Paenitet at Alpaidem, et Pipino vsque indolet.
+\(10\) Paenitet at Alpaidem, et Pipino vsque indolet.
 
 Fauete linguis, idque noscite plenius.
+
+/main/
 
 PERSONAE TRAGOEDIAE, et Historiae elucidatio.
 
@@ -296,11 +294,11 @@ PRobè profectò cessit haaec venatio,
 
 Capta est ferarum vis potens quarumlibet.
 
-BI. Cursum vsque, clamatum, atque sudatum affatim.
+[\@Bi.=]{.smallcaps} Cursum vsque, clamatum, atque sudatum affatim.
 
 Hac Hercle lassitudine genua adhuc labant:
 
-Anhelitusque graues mihi artus concutit:
+\(5\) Anhelitusque graues mihi artus concutit:
 
 Senium huic renunciare vult certamini.
 
@@ -308,9 +306,9 @@ Leonidi, et quibus vegetus in corpore
 
 Vigor est, relinquimus: hos decet forte studium.
 
-LE. Tantoperè delectat feras per montium
+[\@Le.=]{.smallcaps} Tantoperè delectat feras per montium
 
-Iuga, atque valles insequi, vt haud delicius
+\(10\) Iuga, atque valles insequi, vt haud delicius
 
 Optem frui maioribus: mihi vnica
 
@@ -318,9 +316,9 @@ Haec est voluptas. Namque venari, elegans
 
 Res est, et vna Principes decens viros.
 
-PI. Ita censeo: ne marcido vsque scilicet
+[\@Pi.=]{.smallcaps} Ita censeo: ne marcido vsque scilicet
 
-Obtorpeat situ iuuentus nobilis,
+\(15\) Obtorpeat situ iuuentus nobilis,
 
 Atque senio podagram alat cruciabilem.
 
@@ -334,27 +332,27 @@ LAMBERTIAD.
 
 Nunc transuolantem montium crepidines,
 
-Nunc anteuertentem aëripedes cursibus
+\(20\) Nunc anteuertentem aëripedes cursibus
 
 Ceruos, Aprosque feris minantes faucibus
 
 Vidi eruentem, et te induentem spiculo.
 
-BI. Diem profunda nox prius clarum occupet,
+[\@Bi.=]{.smallcaps} Diem profunda nox prius clarum occupet,
 
 Atque huc reductis Sol redeat inde radius,
 
-Quam ego vel exiguam iuuentae vigiliam
+\(25\) Quam ego vel exiguam iuuentae vigiliam
 
 Memorem meae: obtundam alioqui taedio.
 
-PI. Nota est tua hic satis alta virtus omnibus:
+[\@Pi.=]{.smallcaps} Nota est tua hic satis alta virtus omnibus:
 
 Sat nominis, sat comparatum est gloriae.
 
 Fortem Bianta tota resonat Gallia
 
-BI. Libet id quidem Princeps meis dare auribus.
+\(30\) [\@Bi.=]{.smallcaps} Libet id quidem Princeps meis dare auribus.
 
 Nihil ego praeter caeteros praeclarius.
 
@@ -364,39 +362,39 @@ Nostrum suo offuscabit olim nomine,
 
 Nec inuidebo: faueo semper strenuis.
 
-LE. Tecum aequa virtutis foret si portio,
+\(35\) [\@Le.=]{.smallcaps} Tecum aequa virtutis foret si portio,
 
 Splendoris ego sperare tum possim parem.
 
-PI. Virtutis est tantum, sibi vt quisque imperat,
+[\@Pi.=]{.smallcaps} Virtutis est tantum, sibi vt quisque imperat,
 
 Et inclytus quisquis satis voluit, fuit.
 
 Age, macte virtute esto, mentem hanc obtine,
 
-In te meum impensum fauorem senties.
+\(40\) In te meum impensum fauorem senties.
 
-LE. Ego gratiam, Princeps, habeo quammaximam.
+[\@Le.=]{.smallcaps} Ego gratiam, Princeps, habeo quammaximam.
 
-PI. Sed post ferarum diuitem praedam, quid est
+[\@Pi.=]{.smallcaps} Sed post ferarum diuitem praedam, quid est
 
 Quo facto opus censes, Bia? hocistuc refer.
 
 ACTVS.I.
 
-BI. Equidem quid aliud suadeam, quam istum diem[^1]
+[\@Bi.=]{.smallcaps} Equidem quid aliud suadeam, quam istum diem[^1]
 
-Cum amiculis vt festum agamus? Copia est.
+\(45\) Cum amiculis vt festum agamus? Copia est.
 
-L. Hoc ipsum et ipse approbo. ferarum est plus satis
+[\@L.=]{.smallcaps} Hoc ipsum et ipse approbo. ferarum est plus satis
 
 Ad huius omnes principatus Satrapas.
 
-PI. Ita verò, et ego prior volebam. Gaudeo
+[\@Pi.=]{.smallcaps} Ita verò, et ego prior volebam. Gaudeo
 
 Probare mecum vos parem sententiam.
 
-Vestes viri has exuite venatorias,
+\(50\) Vestes viri has exuite venatorias,
 
 Seponite ocreas, reijcite causias.
 
@@ -406,21 +404,21 @@ Stat animo aliquot accire amicos principes.
 
 Dicare decretum est diem huncce Gratiis.
 
-LE. Res nulla potuit accidere mihi gratior.
+\(55\) [\@Le.=]{.smallcaps} Res nulla potuit accidere mihi gratior.
 
 ACTVS.I. SCENA.II.
 
 PIPINVS. LEPTOSCELES.
 
-LEptosceles huc esto. LEP. Dux, asto: iube.
+LEptosceles huc esto. [\@Lep.=]{.smallcaps} Dux, asto: iube.
 
-PI. Nisi tibi venatu hocce lassi sunt pedes,
+[\@Pi.=]{.smallcaps} Nisi tibi venatu hocce lassi sunt pedes,
 
 Quod exequare est oppidò quàm celerime.
 
-LE. Mihin\' tibi lassi pedes Dux inclyte?
+[\@Le.=]{.smallcaps} Mihin\' tibi lassi pedes Dux inclyte?
 
-Genibus ego serpam antè contritis, tua
+\(60\) Genibus ego serpam antè contritis, tua
 
 Quàm iussa vel tantillum iners neglexero.
 
@@ -428,25 +426,25 @@ Nec aui volatus, nec mihi cursus grauis:
 
 Quoquò lubet mitte, obsequar, nil parcito.
 
-PI. Probè. at quod à tergo geris onus pensile?
+[\@Pi.=]{.smallcaps} Probè. at quod à tergo geris onus pensile?
 
-LE. Leporem, quem ego hisce manibs arripui celer.
+\(65\) [\@Le.=]{.smallcaps} Leporem, quem ego hisce manibs arripui celer.
 
 Bij
 
 LAMBERTIAD.
 
-PI. Hunc aufer, ita eris pedibus expeditior.
+[\@Pi.=]{.smallcaps} Hunc aufer, ita eris pedibus expeditior.
 
-IE. Faxo. quò eundum est? quò mihi cursum impens?
+[\@Le.=]{.smallcaps} Faxo. quò eundum est? quò mihi cursum impens?
 
-PI. Est haud procul Mosam vltra obintrans riuulus,
+[\@Pi.=]{.smallcaps} Est haud procul Mosam vltra obintrans riuulus,
 
 Hunc accolarum lingua Legiam vocat.
 
-LE. Noui colonos istius multos loci.
+\(70\) [\@Le.=]{.smallcaps} Noui colonos istius multos loci.
 
-PI. Hucce recipere se patriae Antistes solet,
+[\@Pi.=]{.smallcaps} Hucce recipere se patriae Antistes solet,
 
 Lambertus vndique Praesul integerrimus,
 
@@ -454,23 +452,23 @@ Turba remotus, vt Deo totus vacet.
 
 Eum salute nomine imperti meo,
 
-Inuisat et nos cupere me hodie dixeris.
+\(75\) Inuisat et nos cupere me hodie dixeris.
 
 Serum est, vola, mandata perfer ocyus.
 
-LE. Volasse me putes. PI. Sed heus, hoc amplius:
+[\@Le.=]{.smallcaps} Volasse me putes. [\@Pi.=]{.smallcaps} Sed heus, hoc amplius:
 
 Comitem Drian eodem itinere mihi aduoces.
 
-LE. Curabitur, Princeps: nihil ne est amplius.
+[\@Le.=]{.smallcaps} Curabitur, Princeps: nihil ne est amplius.
 
-PI. Nihil. vola inquam, vt prandio adsint tempori.
+\(80\) [\@Pi.=]{.smallcaps} Nihil. vola inquam, vt prandio adsint tempori.
 
 ACTVS.I. SCENA.III.
 
 ALPAIS. POPPEA. MELCHARIS. PIPINVS. BIAS.
 
-AL. PRinceps adest. Cedamus obuiam viro,
+[\@Al.=]{.smallcaps} PRinceps adest. Cedamus obuiam viro,
 
 Pauloque suscipiamus obsequentius.
 
@@ -478,73 +476,73 @@ Vos comptulae este, ne quid offendat viri
 
 Oculos, vel animum: seruiamus illius
 
-Genio: his enim retinendus artibus,
+\(85\) Genio: his enim retinendus artibus,
 
 Formaeque fascinandus in amore specie
 
 ACTVS.I.
 
-POP. Tu vti placeas, amoreque teneas tuo
+[\@Pop.=]{.smallcaps} Tu vti placeas, amoreque teneas tuo
 
 Effice, et amantem dehinc fouebimus virum.
 
 Multum placere conuenit, vti coniuge
 
-Sis gratior iuncta. Sed en vltrò aduenit.
+\(90\) Sis gratior iuncta. Sed en vltrò aduenit.
 
-A. Felix reditus esto tuus, Dux inclyte
+[\@A.=]{.smallcaps} Felix reditus esto tuus, Dux inclyte
 
-M. Felix ades Dux inclyte. PI. Est gratum id vtique.
+[\@M.=]{.smallcaps} Felix ades Dux inclyte. [\@Pi.=]{.smallcaps} Est gratum id vtique.
 
-A. Qui cessit haec venatio? PI. Perprosperè.
+[\@A.=]{.smallcaps} Qui cessit haec venatio? [\@Pi.=]{.smallcaps} Perprosperè.
 
-A. Video. Sed vsque lassus et anhelus redis.
+[\@A.=]{.smallcaps} Video. Sed vsque lassus et anhelus redis.
 
-Vt es tui semper laboris prodigus,
+\(95\) Vt es tui semper laboris prodigus,
 
-Otij, quietusqe impotens. PI. At strenuum
+Otij, quietusqe impotens. [\@Pi.=]{.smallcaps} At strenuum
 
 Turpe est domi ad focum residere Principem.
 
-A. Fateor. Sed omnis lux acerba mi oboritur,
+[\@A.=]{.smallcaps} Fateor. Sed omnis lux acerba mi oboritur,
 
 Tu vbi, lux mea, abes: aut etenim (id auertant dij)
 
-Male esse, vel quid acerbius, tibi metuo.
+\(100\) Male esse, vel quid acerbius, tibi metuo.
 
-PI. Non est, quòd vsque adeo, meum pectulculum,
+[\@Pi.=]{.smallcaps} Non est, quòd vsque adeo, meum pectulculum,
 
 Timeas: nihil, nihil accidet, spero, mali.
 
-A. Quae non amat, non metuit. At venatica
+[\@A.=]{.smallcaps} Quae non amat, non metuit. At venatica
 
 Isthaec paludamenta pone. sine auferam.
 
-PI. Nunquam feram, mihi vt adeò tu inseruias.
+\(105\) [\@Pi.=]{.smallcaps} Nunquam feram, mihi vt adeò tu inseruias.
 
-A. Vos ociosulae, manus intendite.
+[\@A.=]{.smallcaps} Vos ociosulae, manus intendite.
 
 Adferte laenulas, et aurum tortile.
 
-PI. Quod istud obsequium, rogo? nimis, nimis
+[\@Pi.=]{.smallcaps} Quod istud obsequium, rogo? nimis, nimis
 
 Comitis, et ornatis superstitiosius.
 
-An non sat incomptus placeo? A. At adeò equidem,
+\(110\) An non sat incomptus placeo? [\@A.=]{.smallcaps} At adeò equidem,
 
 Vt non mihi mea vita sit te charior.
 
-B iii
+B ui
 
 LAMBERTIAD.
 
-PI. Lubens id ex te audio meum solatium.
+[\@Pi.=]{.smallcaps} Lubens id ex te audio meum solatium.
 
-AL. Cedo dexteram, atque vnà, si amas me. PI. Sed viros
+[\@Al.=]{.smallcaps} Cedo dexteram, atque vnà, si amas me. [\@Pi.=]{.smallcaps} Sed viros
 
 Ad hoc vocaui principes conuiuium:
 
-Proin differendum est paululum. Quos, vbi aderunt,
+\(115\) Proin differendum est paululum. Quos, vbi aderunt,
 
 Vide vt hilari excipias sinu ac vultu simul:
 
@@ -552,9 +550,9 @@ Antistitem patriae virum integerrimum,
 
 Aliosque clarae dignitatis Praesides.
 
-AL. Quoscunque Princeps, aduocas, gratos putes.
+[\@Al.=]{.smallcaps} Quoscunque Princeps, aduocas, gratos putes.
 
-Sed Praesulis suasu metuo ne me abdices:
+\(120\) Sed Praesulis suasu metuo ne me abdices:
 
 Nam nescio quid ille sceleris de me tonat.
 
@@ -564,7 +562,7 @@ Aut ipsius vitae remedium elucescere?
 
 Deserta, profuga, misera, me me quò abdicem?
 
-PI. Secura siste: non leuis adeò me implicat
+\(125\) [\@Pi.=]{.smallcaps} Secura siste: non leuis adeò me implicat
 
 Amor tui, vt facilè calorem temperet.
 
@@ -572,9 +570,9 @@ Ne lachryma, haud fiet: fidem hîc speres meam:
 
 Quod lubuit, animo nemo diuellet meo.
 
-BI. Delusit, habet, allexit alloquio Ducem,
+[\@Bi.=]{.smallcaps} Delusit, habet, allexit alloquio Ducem,
 
-Vultuque quo etiam ipsas feras edomueris:
+\(130\) Vultuque quo etiam ipsas feras edomueris:
 
 Pepulit suis veram toris hinc coniugem.
 
@@ -592,7 +590,7 @@ LEPTOSCELES. LAMBERTVS.
 
 VIdeo: propemodum Praesulis subij domum.
 
-Atque en adest. Iuuenes duo, quos instita
+\(135\) Atque en adest. Iuuenes duo, quos instita
 
 Vestit decens, virum assequuntur cominus.
 
@@ -602,17 +600,17 @@ Tellure despecta, vsque caelum suspicit.
 
 Caelos obire, non solum hoc existimes,
 
-Diuina vultus sic refulget dignitas.
+\(140\) Diuina vultus sic refulget dignitas.
 
 At quo modo sermonis affabor virum?
 
-Salue Pater diuine. LAM. Quem me existimas?
+Salue Pater diuine. [\@Lam.=]{.smallcaps} Quem me existimas?
 
 Mortalis ego sum, haud me decet cultus Dei.
 
 Cedo sed, quid est, quod postulas? quam exigis opem?
 
-LE. Gratiam habeo. At aliud, ad Pipini principis
+\(145\) [\@Le.=]{.smallcaps} Gratiam habeo. At aliud, ad Pipini principis
 
 Arcem haud moreris adesse protinus. Is dies
 
@@ -622,13 +620,13 @@ Huc rusticatum venit: vt aliquot suis
 
 Frui liceret amiculis, te maximè,
 
-Res cuius, inquit, expetunt sensum graues.
+\(150\) Res cuius, inquit, expetunt sensum graues.
 
-LAM. Princeps meus is ipse est, mei habeat copiam.
+[\@Lam.=]{.smallcaps} Princeps meus is ipse est, mei habeat copiam.
 
 Nihil negabo, quod ipsius vota expetant.
 
-LE. Ego interim Comitem Driam vnà aduoco.
+[\@Le.=]{.smallcaps} Ego interim Comitem Driam vnà aduoco.
 
 Vos praeite ad arcem: subsequemur ilicet.
 
@@ -638,27 +636,27 @@ LAMBERT. ANDOLET. PETRVS.
 
 LAMBERTIAD.
 
-QVid Andolete, quid dabis mihi consilij?
+\(155\) QVid Andolete, quid dabis mihi consilij?
 
-Censesne eundum? A. Censeo, vt placet, Pater:
+Censesne eundum? [\@A.=]{.smallcaps} Censeo, vt placet, Pater:
 
 Nam te monente, pellicem fortè abdicet,
 
 Et criminis pudeatque, pigeatque hunc sui.
 
-L. Pudebit, ac pigebit etiam hunc, sat scio:
+[\@L.=]{.smallcaps} Pudebit, ac pigebit etiam hunc, sat scio:
 
-Spem enim mihi certam Dominus huius facit.
+\(160\) Spem enim mihi certam Dominus huius facit.
 
 Sed non Sathan antiquus vsquam dormiet:
 
 Acres prius rerum parat tragoedias.
 
-P. Consule igitur tibi, Pater: haud proficiscere.
+[\@P.=]{.smallcaps} Consule igitur tibi, Pater: haud proficiscere.
 
-L. O Petre, sapit carnem tua haec oratio.
+[\@L.=]{.smallcaps} O Petre, sapit carnem tua haec oratio.
 
-Sic Petrus olim morte Christum territans,
+\(165\) Sic Petrus olim morte Christum territans,
 
 Reuocabat ab amarae trucis patientia.
 
@@ -668,7 +666,7 @@ Instat supremus: quem ardeo atque postulo,
 
 Tot lacrymis, tot precibus, ac gemitu graui.
 
-O gratiorem hoc iubare lucem, quando immolar,
+\(170\) O gratiorem hoc iubare lucem, quando immolar,
 
 Quum pro Deo pinguis cadam ferro hostia.
 
@@ -678,23 +676,23 @@ At vos magis athletae Dei date corpora
 
 Ferro: merus vitae est sopor mundo mori.
 
-Vos robur inuicti probate pectoris
+\(175\) Vos robur inuicti probate pectoris
 
 Christo, tot auditis adaptum dogmatis.
 
 Corpusque humo, sed spiritum Christo date.
 
-A. Sequor lubens. Christo mori mihi lucrum est.
+[\@A.=]{.smallcaps} Sequor lubens. Christo mori mihi lucrum est.
 
 ACTVS.I.
 
-P. Nec iam recuso, Pater, simul tecum emori.
+[\@P.=]{.smallcaps} Nec iam recuso, Pater, simul tecum emori.
 
-L. Pergamus: haec Christus reget suauiter.
+\(180\) [\@L.=]{.smallcaps} Pergamus: haec Christus reget suauiter.
 
-A. En Principem istuc cerno gradientem eminus.
+[\@A.=]{.smallcaps} En Principem istuc cerno gradientem eminus.
 
-L. Eo obuiam, amolimini vos paululum.
+[\@L.=]{.smallcaps} Eo obuiam, amolimini vos paululum.
 
 Est mihi cum eo res conferenda arcanior.
 
@@ -704,29 +702,29 @@ LAMBERTVS. PIPINVS.
 
 SIt prosper iste lucis exortus tibi,
 
-Semperque Princeps lux redeat augustior.
+\(185\) Semperque Princeps lux redeat augustior.
 
-P. Tibi Praesul, vt queo, sancte tantundem precor.
+[\@P.=]{.smallcaps} Tibi Praesul, vt queo, sancte tantundem precor.
 
-L. Et potes, et est gratum. quid est, qui habet animus?
+[\@L.=]{.smallcaps} Et potes, et est gratum. quid est, qui habet animus?
 
 Nondumne labem illam eluisti funditus?
 
 Pulsum ne prorsus tibi malum hoc domesticum?
 
-P. Vt semper es acerbus, Pater: vel leniter
+\(190\) [\@P.=]{.smallcaps} Vt semper es acerbus, Pater: vel leniter
 
-Nunc fare. L. Lenem hîc esse, magnum crimen est.
+Nunc fare. [\@L.=]{.smallcaps} Lenem hîc esse, magnum crimen est.
 
 Is lenis est, qui non perire sustinet.
 
-P. Iusti haud sumus, fateor, nec omnes possumus.
+[\@P.=]{.smallcaps} Iusti haud sumus, fateor, nec omnes possumus.
 
 Iustum facit, quem vult Deus: ni praebeat,
 
-Nil possumus: vbi dederit, et mutabimur.
+\(195\) Nil possumus: vbi dederit, et mutabimur.
 
-L. Inertis est, vitare quod potes, queri:
+[\@L.=]{.smallcaps} Inertis est, vitare quod potes, queri:
 
 Vel habere, quod facilè queas non quaerere.
 
@@ -734,81 +732,81 @@ Optima volentem Christus adiuuat virum.
 
 Procul scelestum hinc amoue domo nephas,
 
-Diuinitatis senties pronas manus,
+\(200\) Diuinitatis senties pronas manus,
 
 Adesse Christus negat, vbi libido imperat.
 
 LAMBERTIAD.
 
-PI. Tantillum acerbis tam increpas sermonibus?
+[\@Pi.=]{.smallcaps} Tantillum acerbis tam increpas sermonibus?
 
-LAM. Tantillum ais, quod caelicum numen fugat?
+[\@Lam.=]{.smallcaps} Tantillum ais, quod caelicum numen fugat?
 
 Quod maius esse scelus potest, quàm coniuge
 
-Per vim repulsa, pro hac fouere pellicem?
+\(205\) Per vim repulsa, pro hac fouere pellicem?
 
-PI. Qui domi alit, haud proinde vitium perpetrat.
+[\@Pi.=]{.smallcaps} Qui domi alit, haud proinde vitium perpetrat.
 
-LAM. Si nec te habet vitium, quid alis ansas vitij?
+[\@Lam.=]{.smallcaps} Si nec te habet vitium, quid alis ansas vitij?
 
 Quod quis amat, hoc et incidet periculum.
 
 Ista trepidae sunt mentis excusamina.
 
-Non hos recipiet iustus aestus arbiter.
+\(210\) Non hos recipiet iustus aestus arbiter.
 
-PI. Num ego solus erro? passim id vsu est plurimis.
+[\@Pi.=]{.smallcaps} Num ego solus erro? passim id vsu est plurimis.
 
-LAM. Errare cum multis, grauior error Deo est.
+[\@Lam.=]{.smallcaps} Errare cum multis, grauior error Deo est.
 
 Primus sape, et te subsequentur subditi.
 
 Plerumque ciues Principis mos inficit:
 
-Hic si sapiat, et patria stultitiam fugit.
+\(215\) Hic si sapiat, et patria stultitiam fugit.
 
-PI. Non Principi amplius licet quàm subdito?
+[\@Pi.=]{.smallcaps} Non Principi amplius licet quàm subdito?
 
-LAM. Istic nihil. nulli licet malum. altior
+[\@Lam.=]{.smallcaps} Istic nihil. nulli licet malum. altior
 
 Quò te gradus tulit, grauior hinc casus est.
 
 Maiore semper cum malo errat dignitas.
 
-PI. Istud quidem. Sed durum amata repellere,
+\(220\) [\@Pi.=]{.smallcaps} Istud quidem. Sed durum amata repellere,
 
 Solitisque iam olim tam citè dissuescere.
 
-LAM. At suaue, Christus quod iubet, suis facit.
+[\@Lam.=]{.smallcaps} At suaue, Christus quod iubet, suis facit.
 
 Durum putes: quantò erit acerbius, pati
 
 Quondam supremas sine modo inferi cruces,
 
-Gelu rigere, ac rursus igne percoqui.
+\(225\) Gelu rigere, ac rursus igne percoqui.
 
-PI. Bene ominare: cras erit, quod fors iam abest.
+[\@Pi.=]{.smallcaps} Bene ominare: cras erit, quod fors iam abest.
 
 ACTVS.I.
 
 Quoad spiritus alit quemque sperandum venit.
 
-LAM. Frustra alit eum spes, cui malum non displicet.
+[\@Lam.=]{.smallcaps} Frustra alit eum spes, cui malum non displicet.
 
-PI. At misericors facile recipit omnes Deus.
+[\@Pi.=]{.smallcaps} At misericors facile recipit omnes Deus.
 
-LAM. Indignus est venia, Dei indulgentiam
+\(230\) [\@Lam.=]{.smallcaps} Indignus est venia, Dei indulgentiam
 
 Qui criminum securitatem existimat.
 
-PI. Dauid graui sapuit ab errato tamen.
+[\@Pi.=]{.smallcaps} Dauid graui sapuit ab errato tamen.
 
-LAM. Stolidum imitari, errare quem prius scias.
+[\@Lam.=]{.smallcaps} Stolidum imitari, errare quem prius scias.
 
 Si te cum eo peccare contigit, cum eo
 
-Resipisce monitus ilicet. Crimen graue
+\(235\) Resipisce monitus ilicet. Crimen graue
 
 Quisquis suum errorem videt, nec sapit, habet.
 
@@ -818,27 +816,27 @@ Aut sulfuris et imbre, et nouo diluuio.
 
 Cumque Sodomitis igneo abolendum lacu.
 
-PI. Terres Pater. sed quo modo vitabimus?
+\(240\) [\@Pi.=]{.smallcaps} Terres Pater. sed quo modo vitabimus?
 
 Fidem dedi, non me abdicaturum asserens.
 
-LAM. Si pellici fidem tenendam existimas,
+[\@Lam.=]{.smallcaps} Si pellici fidem tenendam existimas,
 
 Quin tu verere magis facere Christo irritam,
 
 Quam fonte sacro pollicitus es ei fidem?
 
-Praestanda non est, quam dat impietas, fides.
+\(245\) Praestanda non est, quam dat impietas, fides.
 
-PI. Velim secus, sed terret ambiguus labor,
+[\@Pi.=]{.smallcaps} Velim secus, sed terret ambiguus labor,
 
 Ne iam probus, mox carnis astu concidam:
 
 Agnosco nostri infirmitatem pectoris.
 
-LAM. Solus times, quod tot virorum olim agmina,
+[\@Lam.=]{.smallcaps} Solus times, quod tot virorum olim agmina,
 
-Molles tot effecére virginum chori?
+\(250\) Molles tot effecére virginum chori?
 
 Non imbecillitas, voluptas impedit.
 
@@ -848,9 +846,9 @@ Metue Deum, qui cordis arcanum videt,
 
 Extinguet omnes carnis indomitae faces.
 
-PI. Vincor, pater. quid ergo praetexam Deo,
+[\@Pi.=]{.smallcaps} Vincor, pater. quid ergo praetexam Deo,
 
-Si quod homini respondeam non suppetit.
+\(255\) Si quod homini respondeam non suppetit.
 
 Placitis carere praestat istis omnibus,
 
@@ -860,7 +858,7 @@ Enigitur in tuam manum me dedico.
 
 Iube, mone, rege, impera, iam iam obsequor.
 
-LAM. Eamus intrò, ibi quid opus factu, exigam.
+\(260\) [\@Lam.=]{.smallcaps} Eamus intrò, ibi quid opus factu, exigam.
 
 CHORVS.
 
@@ -872,7 +870,7 @@ Aut quem terra iuuat, sydera quaerere:
 
 In praecepsue mali tollere labilem.
 
-Nam qui dat vitiis pectus inertibus,
+\(265\) Nam qui dat vitiis pectus inertibus,
 
 Et mentem scelerum sordibus imbuit:
 
@@ -882,7 +880,7 @@ Vt coeni vapidam colluuies suem.
 
 Quem si perplaciti sorde leues fimi,
 
-Et veras animi delicias feras,
+\(270\) Et veras animi delicias feras,
 
 Sic has effugit vt porcus amaracum,
 
@@ -892,7 +890,7 @@ Vt quem debilitat mentis inops furor,
 
 Dissolui metuit verbere vinculi,
 
-Pressus sponte sua, fertque lubens onus,
+\(275\) Pressus sponte sua, fertque lubens onus,
 
 ACTVS.I.
 
@@ -904,7 +902,7 @@ At qui delicias mentis amabiles,
 
 Quas dat sydereo Christus ab aethere,
 
-Gustat, fit sapiens, purus, et integer.
+\(280\) Gustat, fit sapiens, purus, et integer.
 
 Turpes illecebras felle fugit magis,
 
@@ -918,7 +916,7 @@ ACTVS SECVNDI SCENA.I.
 
 MASTROPVS. ALPAIS.
 
-A Paruulis iam olim mihi hoc studio fuit,
+\(285\) A Paruulis iam olim mihi hoc studio fuit,
 
 Segnitiae vt vsque deditus agerem nihil
 
@@ -928,7 +926,7 @@ Creuere sic vnà et gula atque inertia:
 
 Nec vnde continuem hunc statum sat suppetit.
 
-Mihi Principum aulas consequi ars es tutior
+\(290\) Mihi Principum aulas consequi ars es tutior
 
 Reperta, quae ventri satisfaciat meo.
 
@@ -938,7 +936,7 @@ Audita, inaudita hinc refero mendacia.
 
 Arcana quaeque elimino, atque inter bonos
 
-Persaepe machinor graues discordias:
+\(295\) Persaepe machinor graues discordias:
 
 Caelum solo, terram mari commisceo.
 
@@ -950,47 +948,47 @@ Inde redit haud paruum gulae compendium:
 
 Praesertim ob hanc ego gratiam, Alpaidi Ducis
 
-Adulterae gratus sum, et adprimè vtilis.
+\(300\) Adulterae gratus sum, et adprimè vtilis.
 
 Eo rectà ad illam, et quae audij nunc omnia
 
 Ac plura multò ementiar: sed eccam eam.
 
-A. Quid Mastrope, quod adfers noui? quid maestus es?
+[\@A.=]{.smallcaps} Quid Mastrope, quod adfers noui? quid maestus es?
 
 Solitò quid est frons tristior? vbi sunt ioci?
 
-M. Ridere non lubet Domina, flere at magis.
+\(305\) [\@M.=]{.smallcaps} Ridere non lubet Domina, flere at magis.
 
-A. Graue sit oportet, quod iocum adimat Mastropo.
+[\@A.=]{.smallcaps} Graue sit oportet, quod iocum adimat Mastropo.
 
-Sed dic quid est? M. Malim silere, quam hinc scias.
+Sed dic quid est? [\@M.=]{.smallcaps} Malim silere, quam hinc scias.
 
-A. Imò quid est, dic. M. Vix fidem habeas, et vtinam.
+[\@A.=]{.smallcaps} Imò quid est, dic. [\@M.=]{.smallcaps} Vix fidem habeas, et vtinam.
 
-A. At perge. M. Memorabo sed inuitus tamen.
+[\@A.=]{.smallcaps} At perge. [\@M.=]{.smallcaps} Memorabo sed inuitus tamen.
 
-A. At liberè, dic quae scias, dic libere.
+\(310\) [\@A.=]{.smallcaps} At liberè, dic quae scias, dic libere.
 
-M. Turpiter adorna Ducis ab aedibus fugam:
+[\@M.=]{.smallcaps} Turpiter adorna Ducis ab aedibus fugam:
 
 Extremus iste Sol in his lucet tibi.
 
-A. Quid somnias? quis stolidum agitat error caput?
+[\@A.=]{.smallcaps} Quid somnias? quis stolidum agitat error caput?
 
-M. Non dixeram? Num vera dicere autumat?
+[\@M.=]{.smallcaps} Non dixeram? Num vera dicere autumat?
 
-A. Ecquis tibi scelerum caput recensuit?
+\(315\) [\@A.=]{.smallcaps} Ecquis tibi scelerum caput recensuit?
 
-M. Nemo: auribus et oculis id audiui meis.
+[\@M.=]{.smallcaps} Nemo: auribus et oculis id audiui meis.
 
-A. Quinam? M. Hoc loco iam nunc Episcopum et Ducem
+[\@A.=]{.smallcaps} Quinam? [\@M.=]{.smallcaps} Hoc loco iam nunc Episcopum et Ducem
 
 Edisserentes audij: Pelli ille te
 
 Arce, ditione volebat, et terris procul:
 
-At Dux reniti et te fouere maximè.
+\(320\) At Dux reniti et te fouere maximè.
 
 Hîc ille voce Principem conterritans,
 
@@ -1002,7 +1000,7 @@ Nec desijt saeuus prius, quàm supplicem
 
 Coëgit in suam Ducem sententiam.
 
-AL. Tantumne derepentè mihi strui nephas?
+\(325\) [\@Al.=]{.smallcaps} Tantumne derepentè mihi strui nephas?
 
 Quidnam fleam, an furiis agiter Acherontiis?
 
@@ -1012,7 +1010,7 @@ Quin vindicem armemus potius astu manum.
 
 Dodo frater est, Dux Arduennae praepotens,
 
-Affectus ab eo non semel iam iniuria:
+\(330\) Affectus ab eo non semel iam iniuria:
 
 Huic conquerar, odiisque fratris pristinas
 
@@ -1022,7 +1020,7 @@ In totius nostri generis hostem ac domus:
 
 Nam eius dolis vterque frater occidit.
 
-Impunè quoniam id passi inertes, nec vindicem
+\(335\) Impunè quoniam id passi inertes, nec vindicem
 
 Dudum executi dexteram, audet amplius:
 
@@ -1032,19 +1030,19 @@ At non muliebrem sentiet faxo manum:
 
 Me pellit arce? hunc vita at excutiam sua.
 
-Vel me mori, vel hunc perire conuenit:
+\(340\) Vel me mori, vel hunc perire conuenit:
 
 Explebo nostram sanguine illius sitim.
 
 Hîc Mastrope, hîc opera mihi est opus tua.
 
-M. Vtere me, abutere ad huius hypocritae necem.
+[\@M.=]{.smallcaps} Vtere me, abutere ad huius hypocritae necem.
 
-A. Tantisper hîc operire, quoad tibi literas
+[\@A.=]{.smallcaps} Tantisper hîc operire, quoad tibi literas
 
-Fratri ferendas mox in hoc scelus parem.
+\(345\) Fratri ferendas mox in hoc scelus parem.
 
-M. Maneo, sed expedi: omnis hic obstat mora.
+[\@M.=]{.smallcaps} Maneo, sed expedi: omnis hic obstat mora.
 
 C
 
@@ -1058,23 +1056,23 @@ HEus expedi, puer, trapezas instrue.
 
 Pransurus est Dux cum suis: moras seca.
 
-PV. En ad manum omnia. quid agendum est amplius?
+[\@Pv.=]{.smallcaps} En ad manum omnia. quid agendum est amplius?
 
-PO. Insterne. PV. Quid postea? PO. Salem, quadras, scyphos,
+\(350\) [\@Po.=]{.smallcaps} Insterne. [\@Pv.=]{.smallcaps} Quid postea? [\@Po.=]{.smallcaps} Salem, quadras, scyphos,
 
-Panem superponito. PV. Breui fiam aulicus.
+Panem superponito. [\@Pv.=]{.smallcaps} Breui fiam aulicus.
 
-PO. Rusticulus es, praeponere salem conuenit.
+[\@Po.=]{.smallcaps} Rusticulus es, praeponere salem conuenit.
 
 O aulicum nouum, bubulcum imò magis.
 
 En excidit trepida propè hic scyphus manu.
 
-PV. Ignosce nunc, posthac reperies sedulum,
+\(355\) [\@Pv.=]{.smallcaps} Ignosce nunc, posthac reperies sedulum,
 
 Ad omne sancta meque mandatum fide
 
-PO. Ne saepè quaeras post tibi ignosci, caue.
+[\@Po.=]{.smallcaps} Ne saepè quaeras post tibi ignosci, caue.
 
 ACTVS.II. SCENA.III.
 
@@ -1084,7 +1082,7 @@ SCedas refero, certamque perniciem hostibus.
 
 Ego his meum noctu hac adesse cum manu
 
-Suorum in armis iubeo fratrem, si me amat.
+\(360\) Suorum in armis iubeo fratrem, si me amat.
 
 Infestum honori tollat hostem funditus,
 
@@ -1092,13 +1090,13 @@ Qui me toris pelli Pipini perpulit,
 
 Dedecus inuri sempiternae infamiae.
 
-M. Sile, rem ego verbis atrocibus tuam,
+[\@M.=]{.smallcaps} Sile, rem ego verbis atrocibus tuam,
 
-Vt qui hocce viderim, affatim ipse exauxero.
+\(365\) Vt qui hocce viderim, affatim ipse exauxero.
 
 ACTVS.II.
 
-A. I, ego vos profunda quàmlibet nocte operiar.
+[\@A.=]{.smallcaps} I, ego vos profunda quàmlibet nocte operiar.
 
 Nusquam quiescet mens mihi, quoad stirpitus
 
@@ -1106,7 +1104,7 @@ Hypocritam hunc extinxero: vt liceat frui
 
 Solitis mihi dudum Pipini amplexibus.
 
-Et quia nocent astu peracta fortius,
+\(370\) Et quia nocent astu peracta fortius,
 
 Me fronte laetam mentiar nunc subdola.
 
@@ -1116,7 +1114,7 @@ Vel mors ferenda, vel inferenda hosti magis.
 
 Quocunque me ira, vel furor, vel mens trahet,
 
-Istuc sequemur, iacta sit vitae alea.
+\(375\) Istuc sequemur, iacta sit vitae alea.
 
 ACTVS.II. SCENA.IIII.
 
@@ -1126,23 +1124,23 @@ PRoperè capessenda, inclyte est Comes, via:
 
 Metuo trahatur ne Ducis mensae mora.
 
-D. Vix distat isto breuis equi cursus loco,
+[\@D.=]{.smallcaps} Vix distat isto breuis equi cursus loco,
 
 Quò lusitabundi sine mora adibimus.
 
-LE. Bene est, viri nondum assident, in tempore
+\(380\) [\@Le.=]{.smallcaps} Bene est, viri nondum assident, in tempore
 
 Adsumus: at en Dux obuius prodit tibi.
 
-D. Vos nunc abite. A. At te quota reuocabimus?
+[\@D.=]{.smallcaps} Vos nunc abite. [\@A.=]{.smallcaps} At te quota reuocabimus?
 
-D. At, verbero, nescis quum adesse oporteat?
+[\@D.=]{.smallcaps} At, verbero, nescis quum adesse oporteat?
 
 Num vos ego morari? adeste, inquam, ilicet.
 
-V. Quàm rusticus es, Agrestio, et egenus animi.
+\(385\) [\@V.=]{.smallcaps} Quàm rusticus es, Agrestio, et egenus animi.
 
-A. Id, ita me amet Deus, in bonam partem intuli.
+[\@A.=]{.smallcaps} Id, ita me amet Deus, in bonam partem intuli.
 
 Cij
 
@@ -1158,37 +1156,37 @@ Vxor? ea cur non vnà adest? non id tibi
 
 Dederam negotij, tu vt vnà adduceres?
 
-Vt hocce famulorum est negligens semper genus.
+\(390\) Vt hocce famulorum est negligens semper genus.
 
-D. Haud est opus mulieribus: meipsum adfero.
+[\@D.=]{.smallcaps} Haud est opus mulieribus: meipsum adfero.
 
-PI. Es gratus admodum: at boni isthaec consules
+[\@Pi.=]{.smallcaps} Es gratus admodum: at boni isthaec consules
 
 Rustica nemoribus Arduennis eruta.
 
-D. Salue Pater sanctissime, et patriae parens.
+[\@D.=]{.smallcaps} Salue Pater sanctissime, et patriae parens.
 
-LAM. Ecquid mihi tribuis Comes clarissime?
+\(395\) [\@Lam.=]{.smallcaps} Ecquid mihi tribuis Comes clarissime?
 
 Te seruet omnipotens salus nostrum omnium.
 
-D. Salue Bia senum decus prudentium.
+[\@D.=]{.smallcaps} Salue Bia senum decus prudentium.
 
-BI. Non sum, fui olim aliquis, sed aetas abstulit.
+[\@Bi.=]{.smallcaps} Non sum, fui olim aliquis, sed aetas abstulit.
 
-D. Vires ademit illa, at animum haud perculit.
+[\@D.=]{.smallcaps} Vires ademit illa, at animum haud perculit.
 
-BI. Concedo vtrinqe aetas et animus iam labunt.
+\(400\) [\@Bi.=]{.smallcaps} Concedo vtrinqe aetas et animus iam labunt.
 
-LE. Sit saluus iste dulcis aduentus Parens.
+[\@Le.=]{.smallcaps} Sit saluus iste dulcis aduentus Parens.
 
-D. At nate salue: qui se habent res aulicae!
+[\@D.=]{.smallcaps} At nate salue: qui se habent res aulicae!
 
 Valent amici singuli? valent Duces?
 
-LE. Valent, Parens: et te salutant plurimùm.
+[\@Le.=]{.smallcaps} Valent, Parens: et te salutant plurimùm.
 
-PI. Sat est saluti nunc datum, huc accumbite.
+\(405\) [\@Pi.=]{.smallcaps} Sat est saluti nunc datum, huc accumbite.
 
 PVER CONSECRANS.
 
@@ -1202,7 +1200,7 @@ Potus, cibique suffici:
 
 Suprenie da Pater Deus
 
-Salubre robur corporis,
+\(410\) Salubre robur corporis,
 
 Vt fomes absit criminum.
 
@@ -1216,33 +1214,33 @@ ACTVS.II. SCENA.VI.
 
 PIPINVS, LAMBERTVS, DRIAS, LEONIDES, ALPAIS.
 
-SI pace Praesul liceat istud tua,
+\(415\) SI pace Praesul liceat istud tua,
 
 Vocemus inter tot viros vel foeminam.
 
-LAM. Princeps vt aulae, sic tuae Rex es domi:
+[\@Lam.=]{.smallcaps} Princeps vt aulae, sic tuae Rex es domi:
 
 Adscisce quosuis, sit Dei tantùm timor.
 
-PI. Adscisce dominam puer. ita assueui hactenus.
+[\@Pi.=]{.smallcaps} Adscisce dominam puer. ita assueui hactenus.
 
-Huc Alpais, festum celebremus diem:
+\(420\) Huc Alpais, festum celebremus diem:
 
 Accumbe pariter, et hilarem frontem exhibe.
 
-A. Hoc esto faustum, Principes, conuiuium.
+[\@A.=]{.smallcaps} Hoc esto faustum, Principes, conuiuium.
 
-PI. At hospites, hâc ne este vos rogo hospites.
+[\@Pi.=]{.smallcaps} At hospites, hâc ne este vos rogo hospites.
 
 Credite domi vos esse vestrae. nam mea
 
-Vestra esse volo: ne parcite. meum si quid est,
+\(425\) Vestra esse volo: ne parcite. meum si quid est,
 
 Simul est amicorum: huc parari opes decet.
 
-D. Gratum est. tibi hanc perpetuet affluentiam
+[\@D.=]{.smallcaps} Gratum est. tibi hanc perpetuet affluentiam
 
-Deus. L. Vt dedit opes Christus, ita det integram
+Deus. [\@L.=]{.smallcaps} Vt dedit opes Christus, ita det integram
 
 Ciij
 
@@ -1250,49 +1248,49 @@ LAMBERTIAD.
 
 Seruare mentem à criminum lasciuia.
 
-PI. Esum diu: semel bibendum est interim.
+\(430\) [\@Pi.=]{.smallcaps} Esum diu: semel bibendum est interim.
 
 Sed id prius non fecero, quàm mihi manu
 
 Praesul pia hocce consecrarit poculum.
 
-LAM. Non, Dux, mea: at Domini manus tibi consecret,
+[\@Lam.=]{.smallcaps} Non, Dux, mea: at Domini manus tibi consecret,
 
 Vt sit salubre corpori et menti tuae.
 
-PI. Saluto cunctos poculo istoc vos viri,
+\(435\) [\@Pi.=]{.smallcaps} Saluto cunctos poculo istoc vos viri,
 
 Hilarique, laetos esse fronte postulo.
 
-D. Eia salubres ebibas haustus meri.
+[\@D.=]{.smallcaps} Eia salubres ebibas haustus meri.
 
 Sed et ego ad istud Praesulis peto manum,
 
 Nostro salutaresque crateri preces.
 
-LAM. Sancti liquor tibi pneumatis animum irriget.
+\(440\) [\@Lam.=]{.smallcaps} Sancti liquor tibi pneumatis animum irriget.
 
-BI. Habeam et ego Pater sacra scyphi signacula.
+[\@Bi.=]{.smallcaps} Habeam et ego Pater sacra scyphi signacula.
 
-L. Qui vinum aquam aedidit, merum hoc tibi consecret.
+[\@L.=]{.smallcaps} Qui vinum aquam aedidit, merum hoc tibi consecret.
 
-LE. Sed et ego diuina Pater cruce gaudeam.
+[\@Le.=]{.smallcaps} Sed et ego diuina Pater cruce gaudeam.
 
-LAM. Leniit amaras ligno vti Moses aquas,
+[\@Lam.=]{.smallcaps} Leniit amaras ligno vti Moses aquas,
 
-Crux ita mali omnem adimat amaritudinem.
+\(445\) Crux ita mali omnem adimat amaritudinem.
 
-AL. Quum omnes sacraueris scyphos ex ordine,
+[\@Al.=]{.smallcaps} Quum omnes sacraueris scyphos ex ordine,
 
 Non mihi grauaberis et meum his adiungere.
 
-LAM. Haud ego grauabor, si nec ipsa grauabere
+[\@Lam.=]{.smallcaps} Haud ego grauabor, si nec ipsa grauabere
 
 Vnum mihi spondere facturam prius.
 
-AL. Si sit potestas, nil negabo Praesuli.
+\(450\) [\@Al.=]{.smallcaps} Si sit potestas, nil negabo Praesuli.
 
-LAM. Facilis potestas, si modò voles, erit,
+[\@Lam.=]{.smallcaps} Facilis potestas, si modò voles, erit,
 
 Salusque tibi. Clam crebriter, palàm quoque
 
@@ -1302,7 +1300,7 @@ ACTVS.II.
 
 Connisus hactenus sum dissecare, ac rumpere,
 
-Vsus paternis primitus sermonibus,
+\(455\) Vsus paternis primitus sermonibus,
 
 Mitique, tanti vulneris medicamine.
 
@@ -1312,7 +1310,7 @@ Efferri aperte, quando suppressa interit.
 
 Sed virulento tu potens vultu Ducem
 
-Toties tuis blandita verbis fascinas:
+\(460\) Toties tuis blandita verbis fascinas:
 
 Tu coniugem pellex viri pellis toro,
 
@@ -1322,9 +1320,9 @@ Nec te pudet vitij, nec vsquam criminum.
 
 Iam ergo malum praecordiis nephas moue:
 
-Vitij sat ac super: malis adsit modus.
+\(465\) Vitij sat ac super: malis adsit modus.
 
-AL. Nunc nunc paratum pectoris virus vomis,
+[\@Al.=]{.smallcaps} Nunc nunc paratum pectoris virus vomis,
 
 Infestus vsque et honori, et vni foeminae,
 
@@ -1332,17 +1330,17 @@ Palpator ingens, hypocrita infensissime,
 
 Non me nouo linguae veneno conspuis.
 
-Noui tuas artes: per omnia tartara.
+\(470\) Noui tuas artes: per omnia tartara.
 
-D. Compesce voces: est nephas haec eloqui.
+[\@D.=]{.smallcaps} Compesce voces: est nephas haec eloqui.
 
-LAM. Non equidem, id altus nouit arbiter, haec ego
+[\@Lam.=]{.smallcaps} Non equidem, id altus nouit arbiter, haec ego
 
 Arguo, vt honori dedecus inuram tuo,
 
 Nec odia, sed dici ipsa suadet veritas,
 
-Amore cuius nullius metuo minas.
+\(475\) Amore cuius nullius metuo minas.
 
 Infamiam haud ego infero, factam abluo.
 
@@ -1356,7 +1354,7 @@ LAMBERTIAD.
 
 Sed ecquid istud occino frustra malae?
 
-Quid veritatis margaritas nobiles
+\(480\) Quid veritatis margaritas nobiles
 
 Obijcio scrophae, et pertinaci pellici?
 
@@ -1366,27 +1364,27 @@ Te illicit, et illigat caduci oris decor,
 
 Astuta vox, perdita voluptas criminis:
 
-Constans si es, hinc abige nocens domo malum.
+\(485\) Constans si es, hinc abige nocens domo malum.
 
-AL Abeo, fugio, nolim nocere Principi,
+[\@Al.=]{.smallcaps} Abeo, fugio, nolim nocere Principi,
 
 Nolim domum polluere, vel decus infici,
 
 Cuius mihi cura fuit vsque maxima.
 
-PI. Huc Alpais, nondum mihi causas satis
+[\@Pi.=]{.smallcaps} Huc Alpais, nondum mihi causas satis
 
-Collegi: ades, nondum mihi sat displices.
+\(490\) Collegi: ades, nondum mihi sat displices.
 
 Ac tibi loquendum nonnihil, Praesul, scias
 
 In hac mihi mensa modestius mea.
 
-LAM. Te rursus illexit malus amoris furor.
+[\@Lam.=]{.smallcaps} Te rursus illexit malus amoris furor.
 
 Loquor modestè, quum mali modum peto:
 
-Tu vltra modum patientia es abusus mea.
+\(495\) Tu vltra modum patientia es abusus mea.
 
 Clàm saepè monui, sed animum vicit furor.
 
@@ -1394,11 +1392,11 @@ Palàm effero, necdum sapis: potentia
 
 Te decipit tua, hac tegitur enormitas.
 
-PI. At parcius: memento sedis redditae,
+[\@Pi.=]{.smallcaps} At parcius: memento sedis redditae,
 
-Adimere possum, nisi quid amplius etiam.
+\(500\) Adimere possum, nisi quid amplius etiam.
 
-LAM. Quum redderes sedem, dabas monendi onus:
+[\@Lam.=]{.smallcaps} Quum redderes sedem, dabas monendi onus:
 
 Haec mihi sedet cura: adime cathedram quum voles:
 
@@ -1408,7 +1406,7 @@ ACTVS.II.
 
 Pro castitate dimicans, quàm adulteros
 
-Non arguisse tam nephando in crimine:
+\(505\) Non arguisse tam nephando in crimine:
 
 Ne nostra prauos foueat indulgentia,
 
@@ -1418,27 +1416,27 @@ Olimque Domino perfidus poenas luam.
 
 Nec sustinebo cum adulteris vesci cibo:
 
-Atque abeo, nihil ago, aequus haec norit Dens.
+\(510\) Atque abeo, nihil ago, aequus haec norit Dens.
 
-PI. Valete conuiuae, caput aliud monet.
+[\@Pi.=]{.smallcaps} Valete conuiuae, caput aliud monet.
 
 Non sat mihi, quae Praesuli obieci, placent.
 
 At pergite interim, este non minus alacres.
 
-DR. Ecquem remoto Principe oblectent dapes?
+[\@Dr.=]{.smallcaps} Ecquem remoto Principe oblectent dapes?
 
-Quin totus hic moeror animo adimendus tuo.
+\(515\) Quin totus hic moeror animo adimendus tuo.
 
-BI. Feruidum animum prudente consilio rege
+[\@Bi.=]{.smallcaps} Feruidum animum prudente consilio rege
 
 Vix cessit vnquam, quod animus fecit furens.
 
-AL. Nunc, nunc paratae tempus est noxae aptius.
+[\@Al.=]{.smallcaps} Nunc, nunc paratae tempus est noxae aptius.
 
 Nunc exerendus, si quis est menti vigor.
 
-Virtute, fraude, qua potes hostis premi,
+\(520\) Virtute, fraude, qua potes hostis premi,
 
 Est irruendum: palma virtutem facit.
 
@@ -1450,7 +1448,7 @@ AStus graues sunt impiis,
 
 Cupidinesque foeminis:
 
-Quae voce, vultu, pectore
+\(525\) Quae voce, vultu, pectore
 
 Vagas virùm mentes trahunt.
 
@@ -1462,7 +1460,7 @@ Deuincit ardor foederis,
 
 Hinc stringit error improbus,
 
-Et hinc cupido cassibus.
+\(530\) Et hinc cupido cassibus.
 
 Hinc nullus ad bonum locus:
 
@@ -1472,7 +1470,7 @@ Sordes parit menti piae,
 
 Pio vacanti numine.
 
-Procus nephastis nuptiis,
+\(535\) Procus nephastis nuptiis,
 
 Et impiis pellex toris
 
@@ -1482,7 +1480,7 @@ Obnisus aduersario.
 
 Minantur ignes et cruces,
 
-Neruos, tenebras, carceres,
+\(540\) Neruos, tenebras, carceres,
 
 His, qui cruento spiritum
 
@@ -1492,7 +1490,7 @@ Mens subiacet libidini,
 
 Cupido regnat insolens:
 
-Plus mentis impiae furor,
+\(545\) Plus mentis impiae furor,
 
 Quàm pectoris vigor valet.
 
@@ -1512,9 +1510,9 @@ Quoad Dodonis attigi castrum Ducis.
 
 Sed en virum. Germana Dux tibi tua
 
-Has Alpais reddi iubet maesta et dolens.
+\(550\) Has Alpais reddi iubet maesta et dolens.
 
-D. Tantisper istic donec inspiciam, mane.
+[\@D.=]{.smallcaps} Tantisper istic donec inspiciam, mane.
 
 O Ditis infandum Chaos! Iam intelligo,
 
@@ -1522,27 +1520,27 @@ Haud cessat infestus hypocrita, me laedere
 
 Non valuit, in sororem odia flexit meam.
 
-Quid verò aliud agit, quàm vt et nostrum genus
+\(555\) Quid verò aliud agit, quàm vt et nostrum genus
 
 Honore spoliet omni, oneret opprobriis,
 
 Fauore priuet Principis, et hac gratia.
 
-M. Noui rem ego hanc omnem: viri linguam audij.
+[\@M.=]{.smallcaps} Noui rem ego hanc omnem: viri linguam audij.
 
-D. Num conscius es harum? M. Soror mihi omnia
+[\@D.=]{.smallcaps} Num conscius es harum? [\@M.=]{.smallcaps} Soror mihi omnia
 
-Aperuit: et ob hanc ipsa misit gratiam,
+\(560\) Aperuit: et ob hanc ipsa misit gratiam,
 
-Quòd se ipse nossem plenius. D. Memora igitur.
+Quòd se ipse nossem plenius. [\@D.=]{.smallcaps} Memora igitur.
 
-M. Vnà hostis hic vester, Pipinusque hoc die
+[\@M.=]{.smallcaps} Vnà hostis hic vester, Pipinusque hoc die
 
 Edisserebant: inter alia, vt fit, tonat
 
 Permulta hic in vos Praesul. obniti statim
 
-Dux coepit, atque vos tueri impensius.
+\(565\) Dux coepit, atque vos tueri impensius.
 
 LAMBERTIAD.
 
@@ -1554,17 +1552,17 @@ Apud hunc sorori gratiam fecit tuae,
 
 Vobisque simul omnibus: ita vt se pepigerit
 
-Hodiernus antequam dies iste occidat,
+\(570\) Hodiernus antequam dies iste occidat,
 
 Arce, familia, et oris abacturum suis.
 
-DO. O rem haud ferendam! per lacus atri inferi,
+[\@Do.=]{.smallcaps} O rem haud ferendam! per lacus atri inferi,
 
 Per omnia tibi numina infestum caput,
 
 Per dexteram hanc iuro meam, tibi quae caput
 
-Auferet, ita illam linguam, et os, et cor nocens
+\(575\) Auferet, ita illam linguam, et os, et cor nocens
 
 Fibris ab ipsis eruam, vt praecordiis
 
@@ -1574,9 +1572,9 @@ Docebo nobilitatis ecquis fit meae
 
 Vigor, impetere quam lingua non debet tua.
 
-Huc nuncie, armatam paremus citò manum.
+\(580\) Huc nuncie, armatam paremus citò manum.
 
-M. Ita suadeo: mora rumpit animum, impetus agit.
+[\@M.=]{.smallcaps} Ita suadeo: mora rumpit animum, impetus agit.
 
 ACTVS.III. SCENA.II.
 
@@ -1586,21 +1584,21 @@ PRinceps vale, vide ne quid obturbatius
 
 In Praesulem sanclum, vt mihi dixti, inferas.
 
-BI. Non, si meo rem pro arbitratu Dux agat.
+[\@Bi.=]{.smallcaps} Non, si meo rem pro arbitratu Dux agat.
 
-Hîc audiet, quem consulentem vsque audijt,
+\(585\) Hîc audiet, quem consulentem vsque audijt,
 
 Non nostra consilia mala expertus reor.
 
 ACTVS.III.
 
-PI. Imò adeò ego consulta semper repperi, vt
+[\@Pi.=]{.smallcaps} Imò adeò ego consulta semper repperi, vt
 
 Nec nunc, nec vnquam reijcere stet mihi animo.
 
-DRI. Quae dixerat Praesul, vtriusque hinc est salus.
+[\@Dri.=]{.smallcaps} Quae dixerat Praesul, vtriusque hinc est salus.
 
-PI. Rectè mones Dria: sed indignatio
+\(590\) [\@Pi.=]{.smallcaps} Rectè mones Dria: sed indignatio
 
 Partim pudore, amoris aut amentia
 
@@ -1610,23 +1608,23 @@ Vt multa tum me indigna proferret furor.
 
 Fac hicce pacificator vt tu sis mihi.
 
-D. Desine pudere Dux. facilè veniam dabit
+\(595\) [\@D.=]{.smallcaps} Desine pudere Dux. facilè veniam dabit
 
 Mitissimus Pater, ira quem non incitat,
 
 Sed veritas, amorque iustitiae mouent.
 
-PI. Haec scio, et ob id longè mihi ille gratior.
+[\@Pi.=]{.smallcaps} Haec scio, et ob id longè mihi ille gratior.
 
 Vereor vt Alpais haec tulerit, ea ne in virum
 
-Graue machinetur laesa facinus ambigo.
+\(600\) Graue machinetur laesa facinus ambigo.
 
-D. Cauebimus, mittemus armatam manum.
+[\@D.=]{.smallcaps} Cauebimus, mittemus armatam manum.
 
 Mecum huc meus natus tua pace veniat.
 
-Valebis interim. PI. Vale, Comes inclyte,
+Valebis interim. [\@Pi.=]{.smallcaps} Vale, Comes inclyte,
 
 ACTVS.III. SCENA.III.
 
@@ -1634,7 +1632,7 @@ DRIAS, LEONIDES, LAMBERTVS
 
 OB hanc ego te gratiam Leonides
 
-Adesse volui, ne quid inde contrahas
+\(605\) Adesse volui, ne quid inde contrahas
 
 Vitij domestici: impetus quos sic rapit.
 
@@ -1644,11 +1642,11 @@ Et sis peracti particeps homicidij.
 
 LAMBERTIAD.
 
-LE. Nunquam, Parens, nunquam in animum tantum nephas
+[\@Le.=]{.smallcaps} Nunquam, Parens, nunquam in animum tantum nephas
 
-Induxerint meum: pro eo malim emori.
+\(610\) Induxerint meum: pro eo malim emori.
 
-DR. Constanter huius pectoris robur tene:
+[\@Dr.=]{.smallcaps} Constanter huius pectoris robur tene:
 
 Nec laede, superis quos sua pietas probat.
 
@@ -1656,29 +1654,29 @@ Sed is en adest, huic indicemus relliquum.
 
 Nostras vt ira Praesul accensus epulas
 
-Verbis, et indignante turbasti fuga?
+\(615\) Verbis, et indignante turbasti fuga?
 
-LAN. Non ira, sed ratio pudicitia asperum
+[\@Lam]{.smallcaps}.= Non ira, sed ratio pudicitia asperum
 
 Me reddidit, summique terror numinis.
 
-DR. Sed ista montes verba terrent omnium.
+[\@Dr.=]{.smallcaps} Sed ista montes verba terrent omnium.
 
-LAM. Quo igitur ferent vultu seuerum iudicem,
+[\@Lam.=]{.smallcaps} Quo igitur ferent vultu seuerum iudicem,
 
-Vocati ad vsque illa rigida tribunalia,
+\(620\) Vocati ad vsque illa rigida tribunalia,
 
 Vbi summa scelerum ratio reddenda penitus?
 
-DR. Dux indolet iam plurimùm, quod asperè
+[\@Dr.=]{.smallcaps} Dux indolet iam plurimùm, quod asperè
 
 Adeò sit obnisus, parum compos sui.
 
-Et gratiam repetit. LAM. Deum imò postulet,
+Et gratiam repetit. [\@Lam.=]{.smallcaps} Deum imò postulet,
 
-Haud me: Deum offendit, propitium huncce expetat.
+\(625\) Haud me: Deum offendit, propitium huncce expetat.
 
-LE. Sed metuit Alpaidis tibi saeuae minas:
+[\@Le.=]{.smallcaps} Sed metuit Alpaidis tibi saeuae minas:
 
 Nam non quiescet improbae odium pellicis.
 
@@ -1686,9 +1684,9 @@ Aduersus hanc tibi, Praesul, addemus viros
 
 Armis potentes, viuidisque dexteris.
 
-Pro to profectò fidus haud dubitem mori.
+\(630\) Pro to profectò fidus haud dubitem mori.
 
-LAM. Gratiam habeo Leonides, et me vtere.
+[\@Lam.=]{.smallcaps} Gratiam habeo Leonides, et me vtere.
 
 Sed qui suum praesidium habet Deum optimum,
 
@@ -1698,19 +1696,19 @@ ACTVS.III.
 
 Humana nec quaerit qui habet caelestia.
 
-Causam Deo meam tuendam vni offero.
+\(635\) Causam Deo meam tuendam vni offero.
 
 Ferro ferire me prohibuit Rex meus.
 
-LE. Tibi verus ille sit ergo protector Deus.
+[\@Le.=]{.smallcaps} Tibi verus ille sit ergo protector Deus.
 
-LAM. Vitam adimat vbi volet, animam at seruet sibi.
+[\@Lam.=]{.smallcaps} Vitam adimat vbi volet, animam at seruet sibi.
 
-DR. Mori parato, nil timendum est huic super.
+[\@Dr.=]{.smallcaps} Mori parato, nil timendum est huic super.
 
-LAM. Diuina speranti facilè alia displicent.
+\(640\) [\@Lam.=]{.smallcaps} Diuina speranti facilè alia displicent.
 
-DR. Sed spero nullus fier istuc impetus.
+[\@Dr.=]{.smallcaps} Sed spero nullus fier istuc impetus.
 
 ACTVS.III. SCENA.IIII.
 
@@ -1720,31 +1718,31 @@ ECquid animi est vobis ad haec, fratres mei,
 
 Pro laude Christi ferre mortem, num ratum est?
 
-A. Perquam ratum, vel si mori sit nunc opus.
+[\@A.=]{.smallcaps} Perquam ratum, vel si mori sit nunc opus.
 
-P. Nos spero pia tutabitur Domini manus.
+\(645\) [\@P.=]{.smallcaps} Nos spero pia tutabitur Domini manus.
 
-A. Rectè tuetur, quem sibi morte applicat.
+[\@A.=]{.smallcaps} Rectè tuetur, quem sibi morte applicat.
 
-P. Haud vsus incassum est, datus vitae tamen.
+[\@P.=]{.smallcaps} Haud vsus incassum est, datus vitae tamen.
 
-A. Sic datus, vt hunc, quando volet, repetat Deus.
+[\@A.=]{.smallcaps} Sic datus, vt hunc, quando volet, repetat Deus.
 
-L. Felix, paratum quem repererit seruulum,
+[\@L.=]{.smallcaps} Felix, paratum quem repererit seruulum,
 
-Quacunque veniat horula pulsans herus.
+\(650\) Quacunque veniat horula pulsans herus.
 
-A. Magni ego beneficij loco duco mori
+[\@A.=]{.smallcaps} Magni ego beneficij loco duco mori
 
 Pro Christo, et eius obtinendis legibus.
 
-L. Non maius vllum munus expeti queat.
+[\@L.=]{.smallcaps} Non maius vllum munus expeti queat.
 
-P. Non refugio vitam quoque Deo effundere.
+[\@P.=]{.smallcaps} Non refugio vitam quoque Deo effundere.
 
 LAMBERTIAD.
 
-Ita me animatis hisce nunc sermonibus.
+\(655\) Ita me animatis hisce nunc sermonibus.
 
 Nimis imbecillis, meticulosus sum nimis.
 
@@ -1754,7 +1752,7 @@ Ille est salus tua, et solida felicitas.
 
 Vitam caducam luce mutat perpeti.
 
-LAM. Hoc fortiter, Petre, quod eos non iam times,
+\(660\) [\@Lam.=]{.smallcaps} Hoc fortiter, Petre, quod eos non iam times,
 
 Qui corpus enecant. sed in quam nos volet
 
@@ -1768,7 +1766,7 @@ ACTVS.III. SCEN.V.
 
 DODO, THANATODES, RESTVS.
 
-OB hanc ego vos aduocaui gratiam,
+\(665\) OB hanc ego vos aduocaui gratiam,
 
 Hodie fideles vt satellites mihi
 
@@ -1776,31 +1774,31 @@ Praestetis in quo iussero periculo.
 
 Vobis paratam ecce in manum pecuniam.
 
-T. Per acinacem, ventumque Dux tibi deiero,
+[\@T.=]{.smallcaps} Per acinacem, ventumque Dux tibi deiero,
 
-Nullum recuso subire discrimen necis.
+\(670\) Nullum recuso subire discrimen necis.
 
-R. Non, si mihi restim paratum praesciam.
+[\@R.=]{.smallcaps} Non, si mihi restim paratum praesciam.
 
 Per omnia sacra spondeo, haud fallam fidem.
 
-D. Vos postquam ita animatos video: dicam quo opus
+[\@D.=]{.smallcaps} Vos postquam ita animatos video: dicam quo opus
 
 Facto: hostis hic capitalis est in proximo,
 
-Infensus in primis mihi, atque item omnibus.
+\(675\) Infensus in primis mihi, atque item omnibus.
 
 ACTVS.III.
 
-T. Tollendus est. vbi is est? eamus conciti.
+[\@T.=]{.smallcaps} Tollendus est. vbi is est? eamus conciti.
 
-R. Tollamus inuisum caput. quis vir, quis est?
+[\@R.=]{.smallcaps} Tollamus inuisum caput. quis vir, quis est?
 
-D. Moderatius, ratione, pensoque, est opus.
+[\@D.=]{.smallcaps} Moderatius, ratione, pensoque, est opus.
 
 Fidis prius munire vos armis decet,
 
-Hastilibus, galeis, sicis, et fustibus.
+\(680\) Hastilibus, galeis, sicis, et fustibus.
 
 Adeoque metuo ne parum sit virium.
 
@@ -1808,19 +1806,19 @@ Non quòd virilis sit animi hic hostis meus,
 
 Sed ne quam opem aliunde metuens contraxerit.
 
-T. Non mihi alia arma, quam sica isthaec suppetit,
+[\@T.=]{.smallcaps} Non mihi alia arma, quam sica isthaec suppetit,
 
-Complurium exhausto cruenta sanguine.
+\(685\) Complurium exhausto cruenta sanguine.
 
-R. Sunt arma mihi pugio nece infectus recens.
+[\@R.=]{.smallcaps} Sunt arma mihi pugio nece infectus recens.
 
-D. Armorum abundè, sed virorum non satis.
+[\@D.=]{.smallcaps} Armorum abundè, sed virorum non satis.
 
 Quaerendus vnus miles aut alter ferox,
 
 Non debet inconsultò adiri ingens labor.
 
-R. Bene est, Melanta video, quo haud audacior.
+\(690\) [\@R.=]{.smallcaps} Bene est, Melanta video, quo haud audacior.
 
 Nemo profectò hoc viuit orbe nequior.
 
@@ -1834,7 +1832,7 @@ DODO. MELAS. RESTVS. THANATHODES.
 
 HVc, hospes, huc. mecumne pro stipendio?
 
-M. Quonam euocas? D. Mecum, inquam, vsque proxima.
+\(695\) [\@M.=]{.smallcaps} Quonam euocas? [\@D.=]{.smallcaps} Mecum, inquam, vsque proxima.
 
 D
 
@@ -1844,31 +1842,31 @@ Ego dux ero: nec plus tibi incumbit mali,
 
 Quàm ipsi mihi, si caeteris te adiunxeris.
 
-R. Sat esto tibi. num quid timoris occupat?
+[\@R.=]{.smallcaps} Sat esto tibi. num quid timoris occupat?
 
-M. Tume timoris, Reste, túne vsquam arguas:
+[\@M.=]{.smallcaps} Tume timoris, Reste, túne vsquam arguas:
 
-Mihi aliud est negocii, audire haud vacat.
+\(700\) Mihi aliud est negocii, audire haud vacat.
 
 Sed Reste, nostrum acie timorem sustine
 
-R. AEs porrige huic, atqu facile astringas virum.
+[\@R.=]{.smallcaps} AEs porrige huic, atqu facile astringas virum.
 
-D. At en, in hanc noctem decem numero aureos:
+[\@D.=]{.smallcaps} At en, in hanc noctem decem numero aureos:
 
 Pluresque posthac, si virum te ostenderis.
 
-M. Me si virum? Duc quò voles, non est Satan
+\(705\) [\@M.=]{.smallcaps} Me si virum? Duc quò voles, non est Satan
 
 Quem non profundis audeam excire inferis.
 
-D. Sed arma desunt. M. Non deest pectus valens.
+[\@D.=]{.smallcaps} Sed arma desunt. [\@M.=]{.smallcaps} Non deest pectus valens.
 
 Armat animus quemque suus, haud aes: vis tegit.
 
 Sola haec mihi in quosuis sarissa sufficit.
 
-D. At hancce loricam cape, atque eris tutior.
+\(710\) [\@D.=]{.smallcaps} At hancce loricam cape, atque eris tutior.
 
 Nox instat, insidiis agentem haud refugias.
 
@@ -1878,9 +1876,9 @@ Quaecunque munimenta postulat animus.
 
 Vterque loricam trilicem assumite,
 
-Omni impetu mucronis impenetrabilem.
+\(715\) Omni impetu mucronis impenetrabilem.
 
-T. Sine, sine, nos adeò cataphracti ibimus,
+[\@T.=]{.smallcaps} Sine, sine, nos adeò cataphracti ibimus,
 
 Vt ferreos existimes, aut chalybeos:
 
@@ -1894,17 +1892,17 @@ MELCHARIS. POPPEA. ALPAIS.
 
 QVò trepida tam citò domina gressum rapit?
 
-Quid versat animo? quos habet vultus truces?
+\(720\) Quid versat animo? quos habet vultus truces?
 
-PO. Est grande forsan quod mouet mentem malum.
+[\@Po.=]{.smallcaps} Est grande forsan quod mouet mentem malum.
 
-M. Solare moerentem, aut furentem reprime.
+[\@M.=]{.smallcaps} Solare moerentem, aut furentem reprime.
 
-AL. Vbi impius moratur adeò Mastropus,
+[\@Al.=]{.smallcaps} Vbi impius moratur adeò Mastropus,
 
 Cessator ignauus, et iners mastigia?
 
-Longa omnis est mora, cùm semel caeptum nephas.
+\(725\) Longa omnis est mora, cùm semel caeptum nephas.
 
 Vbi animus in procliue rapitur impotens,
 
@@ -1912,35 +1910,35 @@ Pellendus vltrò, vt sit ruina vastior.
 
 Audere grande facinus, aut nihil decet.
 
-PO. Comprime domina tumidum furore isthoc iecur.
+[\@Po.=]{.smallcaps} Comprime domina tumidum furore isthoc iecur.
 
-AL. Intrò redite, sola quod agam nunc latet.
+\(730\) [\@Al.=]{.smallcaps} Intrò redite, sola quod agam nunc latet.
 
-M. Deserta ne sis, nos abire non decet.
+[\@M.=]{.smallcaps} Deserta ne sis, nos abire non decet.
 
-AL. Turbatus animus conscios semper fugit.
+[\@Al.=]{.smallcaps} Turbatus animus conscios semper fugit.
 
-M. At solus auget impetum, et curas graues.
+[\@M.=]{.smallcaps} At solus auget impetum, et curas graues.
 
 Vt non loquare, proditur vultu dolor:
 
-Proin quid est? fidas ministras consilij
+\(735\) Proin quid est? fidas ministras consilij
 
 Ne conscias vites tui: fit mitius
 
 Quod alteri patefeceris questu malum.
 
-AL. Inuidia et ira feruet et odio simul
+[\@Al.=]{.smallcaps} Inuidia et ira feruet et odio simul
 
 In Presulem pectus: moras nec queo pati.
 
-Mitescere malum nolo, nisi cruor imbuat.
+\(740\) Mitescere malum nolo, nisi cruor imbuat.
 
 Dij
 
 LAMBERTIAD.
 
-POP. Frena, Domina, ratione tantos impetus: \[\< impettus\]
+[\@Pop.=]{.smallcaps} Frena, Domina, ratione tantos impetus: \[\< impettus\]
 
 Et quanta tentes cogita, vix vel viris
 
@@ -1948,7 +1946,7 @@ Moliris ausa, vix furentibus adita.
 
 Sacro impias cruore scelerabis manus.
 
-Nec tu, nec vsquam ausint manere complicess:
+\(745\) Nec tu, nec vsquam ausint manere complicess:
 
 Pro Patre sumet arma patria vltrix suo:
 
@@ -1958,17 +1956,17 @@ Explosa regno, inuisa vix viues Deo.
 
 Fama fereris tam scelesta gentibus,
 
-Quotquot furorem hunc vspiam norint tuum.
+\(750\) Quotquot furorem hunc vspiam norint tuum.
 
 Intusque caeca nocte mens te vbique arguet.
 
-AL. Non debet inferre, capere malum qui negat.
+[\@Al.=]{.smallcaps} Non debet inferre, capere malum qui negat.
 
 Nec id facio, factum prius iure reprimo.
 
 Compesce linguam, verba nec plura euome:
 
-Obtemperare, haud te imperare conuenit.
+\(755\) Obtemperare, haud te imperare conuenit.
 
 ACTVS.III. SCENA.VIII.
 
@@ -1978,35 +1976,35 @@ NVnc viri ad iter succingite. Viam, nuncie,
 
 Praemonstra: adhuc splendet dies, haud opus face
 
-MAS. Compendiosa duxero vos semita,
+[\@Mas.=]{.smallcaps} Compendiosa duxero vos semita,
 
 Ne nox propinqua tardiores occupet.
 
 ACTVS.III.
 
-Hàc est iter tutius, vbi nemo obuiet.
+\(760\) Hàc est iter tutius, vbi nemo obuiet.
 
 Maiore si non carpimus viam gradu,[^2]
 
 Nos nox profunda deuios passim trahet.
 
-DO. Quin ecce tenebris nox refudit omnia.
+[\@Do.=]{.smallcaps} Quin ecce tenebris nox refudit omnia.
 
-ME. Per Styga, quò eam nescio. num adimus lemures?
+[\@Me.=]{.smallcaps} Per Styga, quò eam nescio. num adimus lemures?
 
-RES. An dimicaturi sumus cum vmbris diu?
+\(765\) RES. An dimicaturi sumus cum vmbris diu?
 
-MAS. Lentè, viri, video per vmbras quempiam.[^3]
+[\@Mas.=]{.smallcaps} Lentè, viri, video per vmbras quempiam.[^3]
 
-THA. Atat, expedite ferrum: ad arma strennui.
+[\@Tha.=]{.smallcaps} Atat, expedite ferrum: ad arma strennui.
 
-DO. Ecquò fugitis? hic non erit congressio.
+[\@Do.=]{.smallcaps} Ecquò fugitis? hic non erit congressio.
 
-THA. Id rebar, et stationis aptabam locum.
+[\@Tha.=]{.smallcaps} Id rebar, et stationis aptabam locum.
 
-MAS. Bene habet, Domina adest, me nisi vmbra decipit.
+\(770\) [\@Mas.=]{.smallcaps} Bene habet, Domina adest, me nisi vmbra decipit.
 
-AL. O tu'ne! mi frater, meae vires, mea
+[\@Al.=]{.smallcaps} O tu'ne! mi frater, meae vires, mea
 
 Solus potentia, cui meum curae decus.
 
@@ -2014,7 +2012,7 @@ Vides, vides sororem in hisce sordibus,
 
 In hocce luctu tabidam, atque lacrymis.
 
-Non sum Pipino chara, vt olim, Principi:
+\(775\) Non sum Pipino chara, vt olim, Principi:
 
 Non auro, et argento potes, quondam et opibus:
 
@@ -2022,11 +2020,11 @@ Nectantae vt aulae Domina: at explodor toro,
 
 Explodor arcis termino, et terra et mari.
 
-DO. Ne lacryma mea soror: huc vindex tui
+[\@Do.=]{.smallcaps} Ne lacryma mea soror: huc vindex tui
 
-Veni decoris, et restitutor stemmatis.
+\(780\) Veni decoris, et restitutor stemmatis.
 
-AL. At ille tantum stemma, famamque lacerat,
+[\@Al.=]{.smallcaps} At ille tantum stemma, famamque lacerat,
 
 Vt nilla restitui vnquam ab integro queat.
 
@@ -2034,47 +2032,47 @@ Diij
 
 LAMBERTIAD.
 
-DO. Vita luet deperditum famae decus.
+[\@Do.=]{.smallcaps} Vita luet deperditum famae decus.
 
 Sed numquid aliud praeter illa in literis?
 
-AL. Quin Principem, et me publico coetu palàm \[\< paalàm\]
+\(785\) [\@Al.=]{.smallcaps} Quin Principem, et me publico coetu palàm \[\< paalàm\]
 
 Spectante nobilium arguit lingua nocens.
 
-D. Qua fronte Princeps tam superbum perttulit?
+[\@D.=]{.smallcaps} Qua fronte Princeps tam superbum perttulit?
 
-AL. Pertristi, et indignante: nam conuiuium
+[\@Al.=]{.smallcaps} Pertristi, et indignante: nam conuiuium
 
 Dirupit ira: fugit at hic pertinax.
 
-DO. An non liceat illum iam igitur vsquam asssequi?
+\(790\) [\@Do.=]{.smallcaps} An non liceat illum iam igitur vsquam asssequi?
 
-AL. Facilè licebit: nouit hic ductor viam,
+[\@Al.=]{.smallcaps} Facilè licebit: nouit hic ductor viam,
 
 Vbi noster antro pertinax hostis latet.
 
-MAS. Spelaea noui, quae tenet sub proximo,
+[\@Mas.=]{.smallcaps} Spelaea noui, quae tenet sub proximo,
 
 Quibus furentem beluam necabimus.
 
-DO. Eamus, et somno sepultum fustibus
+\(795\) [\@Do.=]{.smallcaps} Eamus, et somno sepultum fustibus
 
 Tollamus è medio caput teterrimum.
 
-AL. Sed viribus maioribus opus et viris,
+[\@Al.=]{.smallcaps} Sed viribus maioribus opus et viris,
 
 Ne tanta temerè coepta res vobis cadat.
 
 Solerte debet facinus astu suscipi,
 
-Ne turpe probrum, quod male euenit, ferat.
+\(800\) Ne turpe probrum, quod male euenit, ferat.
 
 Concedite huc, vobis satellitium dabo :
 
 Vinoque plus animi, atque pectoris ingeram.
 
-MAS. Namque illud armat plurimum, et munit animum.
+[\@Mas.=]{.smallcaps} Namque illud armat plurimum, et munit animum.
 
 RES. Et stomachus amplè potus est ferocior.
 
@@ -2082,7 +2080,7 @@ ACTVS.III.
 
 CHORVS.
 
-AERumnae grauibus saepè laboribus
+\(805\) AERumnae grauibus saepè laboribus
 
 Permixtae, pietas quos iuuat, excitant:
 
@@ -2092,7 +2090,7 @@ Vt sunt materies vberior boni.
 
 His furtim stimulus carnis agit faces,
 
-Cum mundoque Satan bella palàm mouent:
+\(810\) Cum mundoque Satan bella palàm mouent:
 
 At constans acies sustinet hostium,
 
@@ -2102,7 +2100,7 @@ Conspirant initis conciliis mali,
 
 Aduersus Domini perplacidum gregem,
 
-Et versant medio decipulas toro,
+\(815\) Et versant medio decipulas toro,
 
 Vt stirpem innocuam funditus eruant.
 
@@ -2112,7 +2110,7 @@ Tutatur placidum Christus amans gregem,
 
 Et promptus pedicis soluit ab improbis,
 
-Imponens placidi sedibus aetheris:
+\(820\) Imponens placidi sedibus aetheris:
 
 Victrici redimit tempora Laurea,
 
@@ -2122,7 +2120,7 @@ Et dulces cytharae suaue melos canunt,
 
 Et stant perpetuis gaudia saeculis.
 
-At non sic vitus gaudeat obrutus,
+\(825\) At non sic vitus gaudeat obrutus,
 
 Quem vitae sequitur flebilis exitus,
 
@@ -2144,17 +2142,17 @@ LAMBERTVS, ANDOLETVS, PETRVS.
 
 IAm lapsa medio nox recessit cardine,
 
-Sat est quietum, corpori sat est datum:
+\(830\) Sat est quietum, corpori sat est datum:
 
 Nunc ad preces eundum, vt et animus suo
 
 Fruatur alimento, et quiete caelica.
 
-A. Vnà libenter pensa soluemus precum,
+[\@A.=]{.smallcaps} Vnà libenter pensa soluemus precum,
 
 Iuxta sacratam Praesule Theodardo humum.
 
-LAM. O ter beatum, atque sacrosanctum martyrem.
+\(835\) [\@Lam.=]{.smallcaps} O ter beatum, atque sacrosanctum martyrem.
 
 Haec mihi recordatio animum firmat meum,
 
@@ -2164,7 +2162,7 @@ Successor huic indignus in sede hac fui,
 
 Vtinam ferendo subsequar eum martyrio:
 
-Et dabitur, huius spem mihi certam Deus
+\(840\) Et dabitur, huius spem mihi certam Deus
 
 Hac nocte dedit, et indubia presagia.
 
@@ -2174,7 +2172,7 @@ Cursum peregi, tempus instat termini.
 
 At vos mei fratres, fugite. subinde nam
 
-Christus sinit vitare furiarum impetus,
+\(845\) Christus sinit vitare furiarum impetus,
 
 Passim lupis ne ouium obuius grex innocen.
 
@@ -2186,7 +2184,7 @@ Verum ego senex inutilis, laboribus
 
 Impar datis, et vineae Christi piger
 
-Vinnitor, vt aram eius cruore meo imbuam
+\(850\) Vinnitor, vt aram eius cruore meo imbuam
 
 Superest, et aequitatis immoler hostia.
 
@@ -2196,9 +2194,9 @@ Queris robur est ad pondus, aestusque validum,
 
 Superesse decet, et colere Christi vineam.
 
-Consulite vitae, vel mori mox conuenit.
+\(855\) Consulite vitae, vel mori mox conuenit.
 
-P. Vetas mori, quando mori iam didicimus?
+[\@P.=]{.smallcaps} Vetas mori, quando mori iam didicimus?
 
 Et ffrre mortis martyres palmam vetas?
 
@@ -2206,7 +2204,7 @@ Non deseram te, subsequar natus patrem,
 
 Mysten minister, clericusque Episcopum.
 
-A. Nos ergo pastorem lupísne rapacibus
+\(860\) [\@A.=]{.smallcaps} Nos ergo pastorem lupísne rapacibus
 
 Vorandum oues fuga sinemus deuiae?
 
@@ -2216,7 +2214,7 @@ Viuere simul, morique iuxta pendimus.
 
 Votiua mors est pro aequitate occumbere.
 
-LAM. Vos quando tantum pectoris Christo datis,
+\(865\) [\@Lam.=]{.smallcaps} Vos quando tantum pectoris Christo datis,
 
 Nunquam refragabor, nec animos molliam.
 
@@ -2226,7 +2224,7 @@ Constantiaeque manere ratio postulat,
 
 Ne sit tuendae lenta iustitiae fides.
 
-P. Vt statutum Praesul indicat Deus,
+\(870\) [\@P.=]{.smallcaps} Vt statutum Praesul indicat Deus,
 
 LAMBERTIAD.
 
@@ -2234,11 +2232,11 @@ Istuc feramur hostiae summo Patri.
 
 Decreta carpamus trophaea caelitus.
 
-AN. Sed quis relictas pascet ablato te oues?
+[\@An.=]{.smallcaps} Sed quis relictas pascet ablato te oues?
 
-LAM. Pastorem ouili constituet alium Deus,
+[\@Lam.=]{.smallcaps} Pastorem ouili constituet alium Deus,
 
-Et sanctitate, atque meritis dignum magis:
+\(875\) Et sanctitate, atque meritis dignum magis:
 
 Hubertus hubertim dabit pascua ouibus.
 
@@ -2248,7 +2246,7 @@ Christo offeramus graue piamen criminum,
 
 Atque exituris efficax remedium.
 
-In sancta sanctorum immolaturi ibimus.
+\(880\) In sancta sanctorum immolaturi ibimus.
 
 ACTVS.IIII. SCENA.II.
 
@@ -2258,21 +2256,21 @@ HVnc rursus accipe ac bibe, hauri strennuè:
 
 Praesagit. animus spem mihi bonam tui.
 
-M. Peribit hostis per sacrum hoc iuro merum.
+[\@M.=]{.smallcaps} Peribit hostis per sacrum hoc iuro merum.
 
-AL. Versate, bibite, fundite merum largiter.
+[\@Al.=]{.smallcaps} Versate, bibite, fundite merum largiter.
 
-Tibi frater hoc propino germane cyatho.
+\(885\) Tibi frater hoc propino germane cyatho.
 
-D. Gratum venit. post vt reor potabimus[^4]
+[\@D.=]{.smallcaps} Gratum venit. post vt reor potabimus[^4]
 
 Alacrius, vbi huc hoste suppresso aderimus.
 
-AL. O tum mihi festum diem? ò gratum iubar!
+[\@Al.=]{.smallcaps} O tum mihi festum diem? ò gratum iubar!
 
 Tum cordi erit mori, hostem vt vnà istuc traha.
 
-Pulchrè saginatos, meroque turgidos
+\(890\) Pulchrè saginatos, meroque turgidos
 
 Dimitto, res animis gerite ferocibus:
 
@@ -2284,17 +2282,17 @@ Nil metuite, at quosque obuios sustollite:
 
 Munere reuersum quemque remerebor suo,
 
-Septem talentis, qui hostis referet caput.
+\(895\) Septem talentis, qui hostis referet caput.
 
-DO. Me tantopere ferocias soror Alpais:
+[\@Do.=]{.smallcaps} Me tantopere ferocias soror Alpais:
 
 Nobis sat ac super animi, nil ambigas.
 
-THA. Quis se mihi iam nunc dare audeat obuium?[^5]
+[\@Tha.=]{.smallcaps} Quis se mihi iam nunc dare audeat obuium?[^5]
 
 Quos daemonas non strauero vel Hercules?
 
-ME. Quin imus, animos qua remittimus mora?
+\(900\) [\@Me.=]{.smallcaps} Quin imus, animos qua remittimus mora?
 
 Do. Huc ergo Mastrope, praebe lucidas faces,[^6]
 
@@ -2308,9 +2306,9 @@ PETRVS. LAMBERT. ANGELVS.
 
 VIdeo micantes hinc procul, Pater, faces,
 
-Armis moueri vnâ, et fragosos impetus.
+\(905\) Armis moueri vnâ, et fragosos impetus.
 
-LAM. Nunc instat hora, qua Deo demus fidem:
+[\@Lam.=]{.smallcaps} Nunc instat hora, qua Deo demus fidem:
 
 Hic est supremi iam labor discriminis.
 
@@ -2318,7 +2316,7 @@ O Rex supreme, caelitum Pater Deus,
 
 O Christe patris lumen vnicum tui,
 
-Sacrumque numen spiritus et vnus Deus,
+\(910\) Sacrumque numen spiritus et vnus Deus,
 
 Soles amicis postulantibus dare,
 
@@ -2330,7 +2328,7 @@ Testator ergo, quae dedisti iam lego.
 
 Me me voluntati offero totum tuae,
 
-Humo hocce corpus trado, spiritum tibi.
+\(915\) Humo hocce corpus trado, spiritum tibi.
 
 Ouesque nostrae traditas custodiae[^7]
 
@@ -2340,7 +2338,7 @@ Sit patria fidei fida seruatrix tuae.
 
 Semper tribue nostrae cathedrae principes
 
-Mites, fideles, et gregis amantes tui,
+\(920\) Mites, fideles, et gregis amantes tui,
 
 Pacemque clero, et legis ardorem tuae,
 
@@ -2350,7 +2348,7 @@ Propitius esto sicubi peccauerint:
 
 Sint sobrij, iusti, pijque omnes simul,
 
-Et sint pudica castitate feruidi,
+\(925\) Et sint pudica castitate feruidi,
 
 Quam morte nostra despicatam vendico.
 
@@ -2358,9 +2356,9 @@ Discant pudicos me docente sequi toros,
 
 Seruareque exemplo laborent ij meo.
 
-AN. Exaudiit tuas supremus has Deus
+[\@An.=]{.smallcaps} Exaudiit tuas supremus has Deus
 
-Preces: iam obi securus: optatam tibi
+\(930\) Preces: iam obi securus: optatam tibi
 
 Petes repostam, et cuilibet sedem bono.
 
@@ -2370,7 +2368,7 @@ Et promptus illi Christus aderit perpetim,
 
 Si non remittat legis ardorem suae.
 
-Quemuis iuuabit supplicem ob vitium sibi,
+\(935\) Quemuis iuuabit supplicem ob vitium sibi,
 
 Tuo petentem missionem nomine,
 
@@ -2382,17 +2380,17 @@ Sedem nouabit et cathedram transferet,
 
 Traiectum habet quae Praesulum nam insignia,
 
-Legia feret: Christi sit hoc foedus ratum.
+\(940\) Legia feret: Christi sit hoc foedus ratum.
 
 Solare, robur concipe virilis animi,
 
 Hodie coronam cum tuis grandem feres.
 
-LAM. Gratia sit alto summa Christi numini,
+[\@Lam.=]{.smallcaps} Gratia sit alto summa Christi numini,
 
 Me huic dedo, tractet ille pro nutu suo.
 
-P. Pater, propinquant. L. His Deus mitissime
+\(945\) [\@P.=]{.smallcaps} Pater, propinquant. [\@L.=]{.smallcaps} His Deus mitissime
 
 Ignosce caecis, nam haud sciunt ecquid agitent.
 
@@ -2404,19 +2402,19 @@ VOcem loquentis audio: sunt vigilia:
 
 Hac nocte nostrorum metu excubias agunt.
 
-R. Hostes parato nos morantur pectore,
+[\@R.=]{.smallcaps} Hostes parato nos morantur pectore,
 
-Tutum haud sat est pugnare cum ferocibus.
+\(950\) Tutum haud sat est pugnare cum ferocibus.
 
-M. Ni sufficere se posse confisi forent,
+[\@M.=]{.smallcaps} Ni sufficere se posse confisi forent,
 
 Num credis operiri hostium ausos impetum?[^8]
 
-R. Haud commodùm successimus, nunc censeo
+[\@R.=]{.smallcaps} Haud commodùm successimus, nunc censeo
 
 Id differendum, atque redeundum occultius.
 
-T. Sed nec cui paremus his arma tenebris,
+\(955\) [\@T.=]{.smallcaps} Sed nec cui paremus his arma tenebris,
 
 Nec cuius oppugnemus aedes nouimus.
 
@@ -2426,9 +2424,9 @@ Aliis vt illo commodum paret malo.
 
 LAMBERTIAD.
 
-D. Quò fugitis attoniti? quis, ecquis hic timor:
+[\@D.=]{.smallcaps} Quò fugitis attoniti? quis, ecquis hic timor:
 
-Quis terror vrget pectora, et fugam mouet?
+\(960\) Quis terror vrget pectora, et fugam mouet?
 
 Est digna tantis haec viris trepidatio?
 
@@ -2438,7 +2436,7 @@ Ne metuite insidias, nihil animi hostibus:
 
 Prudentiae nibil, minus et industriae.
 
-Nox est profunda, quis pudor aut pauor vetat?[^9]
+\(965\) Nox est profunda, quis pudor aut pauor vetat?[^9]
 
 Animis opus: peccasse quis hominum sciat?
 
@@ -2448,27 +2446,27 @@ Primùm, ego meum hunc exercitum, periculi
 
 Ne quid fit, aut fortassis insidias struant,
 
-Partiar in ordines duos, et binc fores
+\(970\) Partiar in ordines duos, et binc fores
 
 Et inde, ne quis ferat opem, interclusero.
 
-MAS. Tutò facis: vos tum irruetis in viros.
+[\@Mas.=]{.smallcaps} Tutò facis: vos tum irruetis in viros.
 
-DO. Tu Reste cum Melante sitis agminis
+[\@Do.=]{.smallcaps} Tu Reste cum Melante sitis agminis
 
 Huius duces, et hocce seruetis latus.
 
-ME. Animum addidisti: abeat iners mentis pauor:
+\(975\) [\@Me.=]{.smallcaps} Animum addidisti: abeat iners mentis pauor:
 
 Pugnabimus cûm strennuè tum fortiter.
 
 Nil nisi necem iam nunc meae sitiunt manus.
 
-DO. At militariter, vt decet fortes viros.
+[\@Do.=]{.smallcaps} At militariter, vt decet fortes viros.
 
 Ego ordines istos regam: videte ne
 
-Quis impetat vos, dexteri, omnes strennuè.
+\(980\) Quis impetat vos, dexteri, omnes strennuè.
 
 Et ne hinc quis eruat, este strictis ensibus.
 
@@ -2480,7 +2478,7 @@ ACTVS.IIII.
 
 Ecquis sit intus, quae ve confidentia.
 
-MAS. Faxo. Nihil per sacra, nil video alius
+\(985\) [\@Mas.=]{.smallcaps} Faxo. Nihil per sacra, nil video alius
 
 Quàm intus senem mitratum, et adulescentulos
 
@@ -2494,17 +2492,17 @@ QVin irruimus igitur? quid haec cessatio?[^10]
 
 Vel per fenestras, tectaue aditum perforo
 
-DO. Ego fores labefaciam. hîc hîc hypocrita,
+\(990\) [\@Do.=]{.smallcaps} Ego fores labefaciam. hîc hîc hypocrita,
 
 Ad mortem et orcum, perfide hostis. nunc caput
 
 Mihi porrige: en, iam nostra te tollet manus.
 
-AN. At bone vir, ô parce, reprime et feras manus.[^11]
+[\@An.=]{.smallcaps} At bone vir, ô parce, reprime et feras manus.[^11]
 
 Christum Dei ne tange, et insontem virum.
 
-Si nil verere, Judicem summum time.
+\(995\) Si nil verere, Judicem summum time.
 
 PE. Nos nos petite, mactate, nec virum Dei
 
@@ -2512,33 +2510,33 @@ Insignem Episcopum ne ita hunc interimite
 
 Conuertite in nos arma potius, sic minus
 
-Erit sceleris, THA. Abscede, vel iam iam occides.
+Erit sceleris, [\@Tha.=]{.smallcaps} Abscede, vel iam iam occides.
 
-ME. Sine, sine, te teneant, ego illum expediero:
+\(1000\) [\@Me.=]{.smallcaps} Sine, sine, te teneant, ego illum expediero:
 
 Videbis ecquid mea sarissa foderit.
 
 Occide hypocrita, sinu reconde spiculum.
 
-LAM. Ignosce Domine, recta nescientibus.
+[\@Lam.=]{.smallcaps} Ignosce Domine, recta nescientibus.
 
 LAMBERTIAD.
 
 Nostrum et receptent spiritum tuae manus
 
-T. Iam mitte me, atque hic pie precator occide.
+\(1005\) [\@T.=]{.smallcaps} Iam mitte me, atque hic pie precator occide.
 
-P. Miseresce nostri spiritus mitis Deus.
+[\@P.=]{.smallcaps} Miseresce nostri spiritus mitis Deus.
 
-R. Et ego Dodo hunc, tibi qui molestus est, neco.
+[\@R.=]{.smallcaps} Et ego Dodo hunc, tibi qui molestus est, neco.
 
 Ferrum accipe rogator, sequere mysten tuum.
 
 Recipe necum properam prece ambitam tua.
 
-A. Serua meam animam Christe seruator Deus.
+\(1010\) [\@A.=]{.smallcaps} Serua meam animam Christe seruator Deus.
 
-D. Periit. Sorori iam meae poenas dedit.
+[\@D.=]{.smallcaps} Periit. Sorori iam meae poenas dedit.
 
 Sed ego ociosus, nullius caede nobilis,
 
@@ -2546,9 +2544,9 @@ Ferrum reportem hocce incruentum ignauior?
 
 Id vetuit hic ipse impeditor impotens.
 
-R. Necauit et qui caedis autores dedit.
+\(1015\) [\@R.=]{.smallcaps} Necauit et qui caedis autores dedit.
 
-D. Prurit tamen nece iam mihi manus insolens.
+[\@D.=]{.smallcaps} Prurit tamen nece iam mihi manus insolens.
 
 Nos intro eamus, et domesticos simul
 
@@ -2556,7 +2554,7 @@ Necemus omnes, et reliquias hostium,
 
 Ne caedis adsit nuncium qui deferat.
 
-ME. Agè, irruamus, opprimamus funditus.
+\(1020\) [\@Me.=]{.smallcaps} Agè, irruamus, opprimamus funditus.
 
 Quando semel coeptum est, manus cruor imbuat:
 
@@ -2570,21 +2568,21 @@ HVcce populares obsecro: sicarij
 
 Antistitis domum eruunt, et enecant.
 
-R. Quis furcifer fugit per vmbras clamitans?
+\(1025\) [\@R.=]{.smallcaps} Quis furcifer fugit per vmbras clamitans?
 
 Heus morere vociferator improbe, morere.
 
 ACTVS. IIII.
 
-VR. Serua Deus, me, me, Deus, serua obsecro.
+[\@Vr.=]{.smallcaps} Serua Deus, me, me, Deus, serua obsecro.
 
 RES. Ne mucro noster posset istum consequi,
 
 Caligo noctis obfuit: redeo ad meos:
 
-Etsi referre facinus hoc possit fugax.
+\(1030\) Etsi referre facinus hoc possit fugax.
 
-VR. Seruator alte, gratias soluo tibi,
+[\@Vr.=]{.smallcaps} Seruator alte, gratias soluo tibi,
 
 Quòd mortis hinc me liberas periculo.
 
@@ -2592,7 +2590,7 @@ Eo: nuncio publicè nepharium scelus:
 
 Hinc tota mihi terrore membra contremunt,
 
-Vix valeo firmum ponere ingressa pedem.
+\(1035\) Vix valeo firmum ponere ingressa pedem.
 
 CHORVS ANGELORVM ET PVERORVM,
 
@@ -2608,7 +2606,7 @@ Intres coelica gaudia
 
 Prudens oeconomus domus beatae.
 
-Fidus cùm fueris super
+\(1040\) Fidus cùm fueris super
 
 Tutela sobolis Dei parentis:
 
@@ -2618,7 +2616,7 @@ Princeps imperium potentis aulae.
 
 Eia pollicitam cape
 
-Haeres perpetuus beatitatem,
+\(1045\) Haeres perpetuus beatitatem,
 
 E
 
@@ -2634,7 +2632,7 @@ Vrbes fundite lachrymas,
 
 Lambertus pius occidit Patronus,
 
-Sublatus nece perfida
+\(1050\) Sublatus nece perfida
 
 Propter iura probata castitatis.
 
@@ -2646,7 +2644,7 @@ Quem clarissima sanctitas coronat.
 
 Laudes edite maximo,
 
-Quem caeli veneratur alta moles.
+\(1055\) Quem caeli veneratur alta moles.
 
 PVERORVM.
 
@@ -2660,7 +2658,7 @@ Laudes et cytharae Deo referte.
 
 ANGELORVM.
 
-Laudes tympana promite,
+\(1060\) Laudes tympana promite,
 
 Laudes syderei chori tonate,
 
@@ -2674,7 +2672,7 @@ PVERORVM.
 
 Vos et cymbala psallite,
 
-Spirantes animantiumque voces
+\(1065\) Spirantes animantiumque voces
 
 Labris rite canentibus
 
@@ -2692,7 +2690,7 @@ GRatum sorori nuncium fero meae,
 
 Iam victor abeo, periit hostis funditus,
 
-Periit familia, nemo patefaciat vnde sit.
+\(1070\) Periit familia, nemo patefaciat vnde sit.
 
 Suspitio multos, quos habet hostes, notet:
 
@@ -2702,9 +2700,9 @@ Noctis vagae norint, vel ipsi lemures.
 
 Sed iam dies instat, iubar Phoebus adhibet.
 
-Fugienda sceleris lux peracti conscia.
+\(1075\) Fugienda sceleris lux peracti conscia.
 
-ME. Quod caelum oberro, quod tero gradu fretum[^13]
+[\@Me.=]{.smallcaps} Quod caelum oberro, quod tero gradu fretum[^13]
 
 En nox noua redit, fulmen exurit solum.
 
@@ -2712,7 +2710,7 @@ Caelumque tonat, aether cruore fluctuat,
 
 In saxa caput, in ora flammae conuolant,
 
-Sceleris que poenas debitas nostri petunt.
+\(1080\) Sceleris que poenas debitas nostri petunt.
 
 Eij
 
@@ -2726,7 +2724,7 @@ Mures, lupos, vrsos, leones, tygrides,
 
 Venatum abimus: solue cassibus canes.
 
-DO. Quod hoc malum? quis subitus incitat furor?
+\(1085\) [\@Do.=]{.smallcaps} Quod hoc malum? quis subitus incitat furor?
 
 Acieque vanas quas vides falsa faces?
 
@@ -2736,19 +2734,19 @@ MEL. An non phalanges cernis istic cominus?
 
 Ferunt dracones concitos armis equos.
 
-En huc propinquant, expetunt poenas necis.
+\(1090\) En huc propinquant, expetunt poenas necis.
 
 Ferte arma mecum, tollite hostium gregem.
 
-DO. Tene furentem, Mastrope, amplexu virum.
+[\@Do.=]{.smallcaps} Tene furentem, Mastrope, amplexu virum.
 
 MEL. Si vos negatis iam mihi socias manus,
 
 Tot arma solus, tot viros vnus feram.
 
-Huc, si quid animi, inferte eominus pedem.
+\(1095\) Huc, si quid animi, inferte eominus pedem.
 
-MAS. Compesce saeuos pectoris motus tui.
+[\@Mas.=]{.smallcaps} Compesce saeuos pectoris motus tui.
 
 Socias furenti dextera turmas petis.
 
@@ -2756,7 +2754,7 @@ MEL. At tu scelesti ductor agminis, cade.
 
 Primus periit, animos reliqua perdit phalanx.
 
-Victoriae spes est: stupet et hostis manum,
+\(1100\) Victoriae spes est: stupet et hostis manum,
 
 Roburque nostrum. vix sui compos manet.
 
@@ -2768,19 +2766,19 @@ MEL. En fugit hostis, terga vertit territus:
 
 ACTVS.V.
 
-Hic solus animo fisus acri restitit,
+\(1105\) Hic solus animo fisus acri restitit,
 
 Est impetendus, restet vt nemo nocens.
 
-THA. Reconde gladium, vel mihi poenas dabis.
+[\@Tha.=]{.smallcaps} Reconde gladium, vel mihi poenas dabis.
 
 Furor furori semper est hostis grauis:
 
 Tu furis, at insanio: fuge furorem scium.
 
-MEL. Ruam per enses, mille per tela hostium.
+\(1110\) MEL. Ruam per enses, mille per tela hostium.
 
-THAN. Cecidit suo detorsus impetu Melas,
+[\@Than]{.smallcaps}.= Cecidit suo detorsus impetu Melas,
 
 Procumbat ater, et animam foedam expuat.
 
@@ -2792,7 +2790,7 @@ ME, me horreo, versat oculos scelus et nephas:
 
 Lucem tueri dispudet. Quid hoc mali?
 
-Quis horror intus agitat, et latus quatit?
+\(1115\) Quis horror intus agitat, et latus quatit?
 
 Dolor ingruit, prurit cutis et exulcerat,
 
@@ -2802,9 +2800,9 @@ Suffocat ipse me meus puror grauis:
 
 Vaporat olidus poedor impetiginis,
 
-Quod, me nisi fugiam, fugere nequeam malum.
+\(1120\) Quod, me nisi fugiam, fugere nequeam malum.
 
-THA. Obuersat animo iam mihi facinus meum.[^14]
+[\@Tha.=]{.smallcaps} Obuersat animo iam mihi facinus meum.[^14]
 
 Celare velit animus, sui sed conscius
 
@@ -2816,11 +2814,11 @@ Di
 
 E iij
 
-Vis conscientia. c
+Vis conscientiae.
 
 LAMBERTIAD.
 
-Diuersa dubiam quae mihi mentem trahunt,
+\(1125\) Diuersa dubiam quae mihi mentem trahunt,
 
 Ac terret etiam huiusmodi sermonibus,
 
@@ -2830,7 +2828,7 @@ Nil tam profundo conditum facis sinu,
 
 Nec tam tenebris occulis spissis nephas,
 
-Quod vnius oculos latère queat Dei.
+\(1130\) Quod vnius oculos latère queat Dei.
 
 Cor ille cernit, et latebras pectoris,
 
@@ -2840,7 +2838,7 @@ Indagat artes, et dolos, et vim mali,
 
 Perlustrat omnia, et quidem quae te latent.
 
-Vt desit vltor, at graues poenas capit:
+\(1135\) Vt desit vltor, at graues poenas capit:
 
 Caecum suis impune nec sinit scelus
 
@@ -2850,7 +2848,7 @@ Flammas, facesque ibi admouet, Styga tartarum,
 
 Furias et Harpeias, Canemque tricipitem.
 
-Secum mouent bellum scelesta viscera,
+\(1140\) Secum mouent bellum scelesta viscera,
 
 Die tenebras, nocte sufferunt faces,
 
@@ -2858,13 +2856,13 @@ Mori velint, at emori territa pauent,
 
 Viuunt necata, viua mortem sustinent.
 
-DO. Lamberte vincis, iam noces plus mortuus,
+[\@Do.=]{.smallcaps} Lamberte vincis, iam noces plus mortuus,
 
-Superas sine armis, grauius absens das malum:
+\(1145\) Superas sine armis, grauius absens das malum:
 
 Agnosco numen, sydera hoc tibi vindicant.
 
-THAN. Non fero cruces laterum, nec animi aestus graues.
+[\@Than]{.smallcaps}.= Non fero cruces laterum, nec animi aestus graues.
 
 ACTVS.V.
 
@@ -2872,9 +2870,9 @@ Hic commoda manum, abde ferrum in viscera:
 
 Mihi munus erit, aliis quod extremum est malum.
 
-DO. Absit, tua vt mihi polluam manus necè.
+\(1150\) [\@Do.=]{.smallcaps} Absit, tua vt mihi polluam manus necè.
 
-THA. Quam sponte, nolenti intuli caedem negas!
+[\@Tha.=]{.smallcaps} Quam sponte, nolenti intuli caedem negas!
 
 Metuis scelesto polluere funerè manus?
 
@@ -2882,17 +2880,17 @@ Sic antè decuit te pium esse: en sis pius,
 
 Tractum sacra nephas, mea purga nece.
 
-Quàm bene Mela ferro occidissem iam tuo?
+\(1155\) Quàm bene Mela ferro occidissem iam tuo?
 
 Deest Praesuli vltor, me mihi vltorem dabo.
 
 Hocce nocui ferro, hocce ferro me neco.
 
-DO. Solus superstes de meo sum exercitu:
+[\@Do.=]{.smallcaps} Solus superstes de meo sum exercitu:
 
 Redire pudet: haerere, certa infamia.
 
-Vix repere queo, ita impetigine saucior:
+\(1160\) Vix repere queo, ita impetigine saucior:
 
 Et est dies: redire me suadet pudor,
 
@@ -2906,7 +2904,7 @@ FRatrem manere tam diu miror trement,
 
 Haud ominis de illo boni quid suspicor.
 
-Terrent tenebris, visane aut insomnia?
+\(1165\) Terrent tenebris, visane aut insomnia?
 
 Sed visa mihi perhorrida omina noctium.
 
@@ -2920,7 +2918,7 @@ Fratrem venenis imbui, et lue infici.
 
 Metuo quid id sit, auida reditum istic moror.
 
-Sed quem procul repente languentem gradu
+\(1170\) Sed quem procul repente languentem gradu
 
 Venire conspicor? an ne germanum meum?
 
@@ -2930,25 +2928,25 @@ ACTVS.V. SCENA.IIII.
 
 ALPAIS. DODO.
 
-GErmane! DO. Lachrymas mitte, vixit iam tuus.
+GErmane! [\@Do.=]{.smallcaps} Lachrymas mitte, vixit iam tuus.
 
-AL. Sed quis te habet dolor? vbi reliqui milites?
+[\@Al.=]{.smallcaps} Sed quis te habet dolor? vbi reliqui milites?
 
-DO. Bene habet. perijt hostis tuus, mihi carnifex.[^15]
+\(1175\) [\@Do.=]{.smallcaps} Bene habet. perijt hostis tuus, mihi carnifex.[^15]
 
-AL. Sed vnde scabri pure tanto poplites?
+[\@Al.=]{.smallcaps} Sed vnde scabri pure tanto poplites?
 
-DO. Sublatus hostis vnà et alios sustulit:
+[\@Do.=]{.smallcaps} Sublatus hostis vnà et alios sustulit:
 
 Perijt quidem, sed ultus est manes suos.
 
-AL. Nunquid hic et armis restitit, et acri manu?
+[\@Al.=]{.smallcaps} Nunquid hic et armis restitit, et acri manu?
 
-DO. Concessit armis: arma sed vicit mea.
+\(1180\) [\@Do.=]{.smallcaps} Concessit armis: arma sed vicit mea.
 
-AL. Quin dic apertè, quos mihi nodos ligas?
+[\@Al.=]{.smallcaps} Quin dic apertè, quos mihi nodos ligas?
 
-DO. Viuus fugit, sed mortuus magis nocet.
+[\@Do.=]{.smallcaps} Viuus fugit, sed mortuus magis nocet.
 
 Huic coelici vltrici manu poenas potunt.
 
@@ -2956,7 +2954,7 @@ Nos quum nephandos facimus in domum impetus,
 
 ACTVS.V.
 
-Postesque rupto cardine elisi labant,
+\(1185\) Postesque rupto cardine elisi labant,
 
 Palla senem illum reperimus amicium sacra,
 
@@ -2966,7 +2964,7 @@ Stolis precantes, opprimimus omnes simul,
 
 Rabidi velut pauidas lupi raptant oues.
 
-Proterimus, et cruore gladij atro madent,
+\(1190\) Proterimus, et cruore gladij atro madent,
 
 Ades subimus, et atria nece aspergimus.
 
@@ -2976,7 +2974,7 @@ Atque socios stupendus inuadit furor:
 
 Percussor ante alios senis amicti furit,
 
-Sociosque turbata manu infestat suos:
+\(1195\) Sociosque turbata manu infestat suos:
 
 Necat, necatur: strage mutua cadunt.
 
@@ -2986,7 +2984,7 @@ Confossus alter proprio telo occidit:
 
 Omnes repentino malo interitus rapit.
 
-At longior mihi poena vitae dat moras:[^16]
+\(1200\) At longior mihi poena vitae dat moras:[^16]
 
 Sensim veneni vis potens cutem exedit,
 
@@ -2996,9 +2994,9 @@ Vide vt scatent abominandis vermibus:
 
 Infandus omnes occupat vires dolor,
 
-Viuo moriens, viuusque morte lancinor.
+\(1205\) Viuo moriens, viuusque morte lancinor.
 
-AL. Istius, o frater, mali tibi sum caput.
+[\@Al.=]{.smallcaps} Istius, o frater, mali tibi sum caput.
 
 Ferro scelestum istoc pete infenso latus,[^17]
 
@@ -3008,17 +3006,17 @@ Tanto videre te premi angore haud queo.
 
 LAMBERTIAD.
 
-DO. Videre te, atque ferre me sors postulat.
+\(1210\) [\@Do.=]{.smallcaps} Videre te, atque ferre me sors postulat.
 
-AL. Non queo grauem perferre puris halitum.
+[\@Al.=]{.smallcaps} Non queo grauem perferre puris halitum.
 
-DO. Sic lancinor, vel ipse poedor enecat,
+[\@Do.=]{.smallcaps} Sic lancinor, vel ipse poedor enecat,
 
 Vel me dolor grauis opprimit, et horror agitat.
 
-AL. O me scelestam, ò ter, quater scelere impiam!
+[\@Al.=]{.smallcaps} O me scelestam, ò ter, quater scelere impiam!
 
-Manus nefastum fratris ad crimen dedi:
+\(1215\) Manus nefastum fratris ad crimen dedi:
 
 Mihi scelestus, purulentus es mihi.
 
@@ -3028,7 +3026,7 @@ Furiis furores excitaui istos meis.
 
 Meum venenis imbui fratrem soror.
 
-Quicquid sceleris hîc vestra patrauit manus,
+\(1220\) Quicquid sceleris hîc vestra patrauit manus,
 
 Meum est, peregi sola, sola sum nocens.
 
@@ -3038,7 +3036,7 @@ Si tam scelestae foeminae exaudis preces,
 
 Vt Magdalenes abluisti crimina:
 
-Sed Magdalene sum nocens longè magis.
+\(1225\) Sed Magdalene sum nocens longè magis.
 
 At vt latronis es misertus penduli,
 
@@ -3048,7 +3046,7 @@ Iunxi libidini et homicidij scelus.
 
 Bis, ter, quaterque vno scelere feci nephas.
 
-Miserere per Christi precor pias cruces.
+\(1230\) Miserere per Christi precor pias cruces.
 
 Me me abdico mundi iocis et sordibus.
 
@@ -3060,7 +3058,7 @@ Seclusa viuam: carnis et stimulos malae
 
 Ieiunus, precibus, flagellis edomans.
 
-Dehinc facultates, quoad nostrae sinent,
+\(1235\) Dehinc facultates, quoad nostrae sinent,
 
 Villas, dominia, atque redditus amplissimos,
 
@@ -3070,7 +3068,7 @@ Fundabo virginum sacrarum tibi chorum,
 
 Quae castitate meam expient libidinem.
 
-Spero misertus lachrymas nostras, pius
+\(1240\) Spero misertus lachrymas nostras, pius
 
 Tolles patrati criminis noxam Deus.
 
@@ -3078,25 +3076,25 @@ Huc frater vnà, poenitentia mali
 
 Mecum ingemisce, remittet illud optimus.
 
-DO. Quid ingemiscam? grandius feci nephas,
+[\@Do.=]{.smallcaps} Quid ingemiscam? grandius feci nephas,
 
-Quàm cui remittere debeat vindex Deus.
+\(1245\) Quàm cui remittere debeat vindex Deus.
 
 Iam iam futuri sentio inferni cruces,
 
 Dandae ad tribunal nuncias sententiae.
 
-AL. At melius ominare, frater, obsecro:
+[\@Al.=]{.smallcaps} At melius ominare, frater, obsecro:
 
 Spem concipe, alleuat cadentem imò magis.
 
-Concede mecum istuc, toroque artus foue.
+\(1250\) Concede mecum istuc, toroque artus foue.
 
-DO. Frustra fouebis putria intus viscera.
+[\@Do.=]{.smallcaps} Frustra fouebis putria intus viscera.
 
 Sed me trahe intrò, vt vis, at incassum tamen.
 
-AL. O impotens, enerueque cadauer hominis.
+[\@Al.=]{.smallcaps} O impotens, enerueque cadauer hominis.
 
 LAMBERTIAD.
 
@@ -3106,69 +3104,69 @@ LEONIDES. VRBIVS. PIPINVS.
 
 MEcum Vrbi, et indicemus impium nephas.
 
-VR. Lubens: sed arma conferamus tutius,
+\(1255\) [\@Vr.=]{.smallcaps} Lubens: sed arma conferamus tutius,
 
 Ne nos inermes ij latrones opprimant.
 
-LEO. Prudenter: ensem cum securi suscipe,
+[\@Leo.=]{.smallcaps} Prudenter: ensem cum securi suscipe,
 
 Ego me his tuebor. Huc vide cadauera.
 
-VRB. Sunt ij profectò, quos ego effugi, viri:
+[\@Vrb.=]{.smallcaps} Sunt ij profectò, quos ego effugi, viri:
 
-Agnosco nigrum illum, et sua huncce cum face.
+\(1260\) Agnosco nigrum illum, et sua huncce cum face.
 
-LEO. Diuina poenas sumpsit aequitas, reor.
+[\@Leo.=]{.smallcaps} Diuina poenas sumpsit aequitas, reor.
 
 En proprio hic pugione confossus iacet,
 
 Adhuc cruentam continet in ictu manum.
 
-VRB. Huc Dux Pipinus obuio tendit gradu.
+[\@Vrb.=]{.smallcaps} Huc Dux Pipinus obuio tendit gradu.
 
-LEO. O Dux, nephandam Praesulis porto necem.
+\(1265\) [\@Leo.=]{.smallcaps} O Dux, nephandam Praesulis porto necem.
 
-PIP. At at, quid adfers? omen auertat Deus.
+[\@Pip.=]{.smallcaps} At at, quid adfers? omen auertat Deus.
 
-LEO. Lambertus altas aetheris abiit domos,
+[\@Leo.=]{.smallcaps} Lambertus altas aetheris abiit domos,
 
 Sublatus hinc est caede, et ense perfido.
 
-PIP. At quis, quis autor caedis, ausus quis nephas?
+[\@Pip.=]{.smallcaps} At quis, quis autor caedis, ausus quis nephas?
 
-LEO. Hic vidit, hic vix complicum euasit manus.
+\(1270\) [\@Leo.=]{.smallcaps} Hic vidit, hic vix complicum euasit manus.
 
 ACTVS.V.
 
-PIP. Tu qui sacrilegae conscius cladis, refer.
+[\@Pip.=]{.smallcaps} Tu qui sacrilegae conscius cladis, refer.
 
-VR. Hac nocte, Princeps, Praesulis ineram domo,
+[\@Vr.=]{.smallcaps} Hac nocte, Princeps, Praesulis ineram domo,
 
 Pressos sopore cùm repentinus fragor
 
 Nos occupat, primusque Praesulem impetus:
 
-Confoditur ille in aede cum mystis suis,
+\(1275\) Confoditur ille in aede cum mystis suis,
 
 Dein fit in domum acer armorum furor.
 
 Fugi per vmbras, caeterùm quid post, latet.
 
-LEO. Vidimus et illos ense confossos suo,
+[\@Leo.=]{.smallcaps} Vidimus et illos ense confossos suo,
 
 Dedisse poenas Praesuli passim obuios:
 
-Diuina quos vltrix caeciderat aquitas.
+\(1280\) Diuina quos vltrix caeciderat aquitas.
 
-PI. Quis dux nephandi fuit igitur exercitus?
+[\@Pi.=]{.smallcaps} Quis dux nephandi fuit igitur exercitus?
 
-VR. Vidi Dodonem per faces factum obuium:
+[\@Vr.=]{.smallcaps} Vidi Dodonem per faces factum obuium:
 
 Reliquos, metu perterritus, noui nihil.
 
-PI. Prò, ter scelestum pellicis nostrae caput:
+[\@Pi.=]{.smallcaps} Prò, ter scelestum pellicis nostrae caput:
 
-Sunt huius artes, sunt doli, sunt machina:
+\(1285\) Sunt huius artes, sunt doli, sunt machina:
 
 Iam serò tandem perfidum noui genus,
 
@@ -3178,7 +3176,7 @@ Vnà vt ego parricidij essem particeps.
 
 Dicar peremptor gentibus passim meis,
 
-Populisque caedis autor inuisus ferar,
+\(1290\) Populisque caedis autor inuisus ferar,
 
 Quòd ausa pellex facinus est tantum mea
 
@@ -3188,7 +3186,7 @@ Te sancte Praesul, et mihi charum caput,
 
 Me non dedisse pro nece impias manus.
 
-Me imò inscio tentaui infidum scelus.
+\(1295\) Me imò inscio tentaui infidum scelus.
 
 LAMBERTIAD.
 
@@ -3200,7 +3198,7 @@ Totumque genus euulsero radicitus.
 
 Scrutabor omnes parricidas impios,
 
-Multabo vita, et in cruces vindex feram.
+\(1230\) Multabo vita, et in cruces vindex feram.
 
 Sunt criminum isti semper euentus graues,
 
@@ -3210,7 +3208,7 @@ Actoque discimus sapere flagitio.
 
 At viuus hic frustra monitor Episcopus,
 
-Sublatus aethere fortius cor emouet,
+\(1235\) Sublatus aethere fortius cor emouet,
 
 Absensque cogit, quae palam incassum arguit.
 
@@ -3220,17 +3218,17 @@ Prô, quàm repentè displicet monstrum nocens.
 
 At iam pudicos Pleutridis thalamos meae
 
-Sequar pudicus, quam hocce pro scelere expuli,
+\(1240\) Sequar pudicus, quam hocce pro scelere expuli,
 
 Reuocabo coniugem, atque sobolem ad me meam.
 
 Vel serò sapere, vbi haud queaes secus, addetet.
 
+/back/
+
 LAMBERTIADIS
 
 FINIS.
-
-/back/
 
 TYP. DIESTHEMII.
 

@@ -90,7 +90,7 @@ I Acturae, ut omnibus relictis, quaerere
 
 S Ibi ouem uoluit. Eleemosyna uero egit, ut
 
-P Er seruulos iste labor hauriretur. Ast
+P Er seruulos iste labor hauriretur. Ast (5)
 
 E X alia ubi nouit reuersos seruulos,
 
@@ -100,7 +100,7 @@ D Atum laborem. Accinctus itineri, suam
 
 I Pse adit ouem. Inuenit ipse, et in humeros quoque
 
-T Enellulos positam, reportat. Hinc suos
+T Enellulos positam, reportat. Hinc suos (10)
 
 A D prandium laetus uocans, laetos facit.
 
@@ -230,17 +230,17 @@ Est. Quid adeò tristis? Oculi facies, adhaec
 
 Id scissitari quidquid est. Hem quid adeò
 
-Tristis es? Soter. Ouem isthac nocte perdidi. Di: Male
+Tristis es? [\@Soter.=]{.smallcaps} Ouem isthac nocte perdidi. [\@Di.=]{.smallcaps} Male
 
-Id te habet? So: Habet. Di: Iactura ouis? So: Sic est. Di: Ain'?
+Id te habet? [\@So.=]{.smallcaps} Habet. [\@Di.=]{.smallcaps} Iactura ouis? [\@So.=]{.smallcaps} Sic est. [\@Di.=]{.smallcaps} Ain'?
 
-Vnius? Soter. Vnius. Dic: eadem est parua admodum.
+Vnius? [\@Soter.=]{.smallcaps} Vnius. Dic: eadem est parua admodum.
 
-\(45\) Soter. Tibi parua sit, mihi maxima est. Mecum egit is
+\(45\) [\@Soter.=]{.smallcaps} Tibi parua sit, mihi maxima est. Mecum egit is
 
 Quoque pessime, qui hanc ex ouili abduxerit
 
-Meo. Di: Vsqueadeò peccauit in te, qui tibi
+Meo. [\@Di.=]{.smallcaps} Vsqueadeò peccauit in te, qui tibi
 
 Ex hocce tanto numero ouem unam abduxit? hem,
 
@@ -248,73 +248,73 @@ Quid si unicam tibi abstulisset ouiculam?
 
 Aiiij
 
-\(50\) So: Piaret hoc morte, et quidem praesente, ni
+\(50\) [\@So.=]{.smallcaps} Piaret hoc morte, et quidem praesente, ni
 
-Secus Eleemosynae uideretur. Di: Ain' hem?
+Secus Eleemosynae uideretur. [\@Di.=]{.smallcaps} Ain' hem?
 
 Morte? hoc nephas commiserat quidam, rogo[^2]
 
-Morte ne piabatur idem? ai? So: non siuit id
+Morte ne piabatur idem? ai? [\@So.=]{.smallcaps} non siuit id
 
-Soror Eleemosyna. Di: Mea? haec per omnia
+Soror Eleemosyna. [\@Di.=]{.smallcaps} Mea? haec per omnia
 
 \(55\) Contraria est mihi, etsi eodem genita sit
 
-Patre mecum. Ouem an tractaueris male? Soter. optime
+Patre mecum. Ouem an tractaueris male? [\@Soter.=]{.smallcaps} optime
 
-Nam gramine est uiuo usque pasta. Di: Vah
+Nam gramine est uiuo usque pasta. [\@Di.=]{.smallcaps} Vah
 
-Qui ualet abesse ab hoc epulo? So: Nescio equidem.
+Qui ualet abesse ab hoc epulo? [\@So.=]{.smallcaps} Nescio equidem.
 
-Deliciolarum nisi quod hanc fors taedeat. Di:
+Deliciolarum nisi quod hanc fors taedeat. [\@Di.=]{.smallcaps}
 
-\(60\) Valeat tum. So: ain? me id consulis? Di: Mecum nisi
+\(60\) Valeat tum. [\@So.=]{.smallcaps} ain? me id consulis? [\@Di.=]{.smallcaps} Mecum nisi
 
-Vellet, uelim dispargeret. So: Dispargitur[^3]
+Vellet, uelim dispargeret. [\@So.=]{.smallcaps} Dispargitur[^3]
 
 Forsan per ora rapacium luperorum. Dicae: et id
 
-Meritò quidem. So: Bona uerba. Dicae: mansisset penes
+Meritò quidem. [\@So.=]{.smallcaps} Bona uerba. Dicae: mansisset penes
 
-Te. So: pulchrè ais, mansisset. An per se stetit
+Te. [\@So.=]{.smallcaps} pulchrè ais, mansisset. An per se stetit
 
-\(65\) Quo manserit minus? Di: Qui ab alijs abierit? So:
+\(65\) Quo manserit minus? [\@Di.=]{.smallcaps} Qui ab alijs abierit? @[So]{.smallcaps}.=
 
-Cacodaemonis fortasse persuasu. Di: Si huic[^4]
+Cacodaemonis fortasse persuasu. [\@Di.=]{.smallcaps} Si huic[^4]
 
 Adhaeserit lubentius, quur te enecas?
 
 Referto par pari. Nihil iacturae id est,
 
-Facile aliam tibi ouem parabis. So: Siccine
+Facile aliam tibi ouem parabis. [\@So.=]{.smallcaps} Siccine
 
 \(70\) Ais? Mihi mea haec ouis charior erit.
 
-Potius cruore proprio redimam mihi. Di.
+Potius cruore proprio redimam mihi. [\@Di.=]{.smallcaps}
 
-Pro pelle pellem malim ego. So. Ingenium tuum[^5]
+Pro pelle pellem malim ego. [\@So.=]{.smallcaps} Ingenium tuum[^5]
 
 Nonquàm exues. Per te aegritudini nihil
 
-Decedet huic nostrae. Di. Quia moneo te tuae
+Decedet huic nostrae. [\@Di.=]{.smallcaps} Quia moneo te tuae
 
-\(75\) Iusticiae, id inquis. So. Quaero ouem, non quaero nunc
+\(75\) Iusticiae, id inquis. [\@So.=]{.smallcaps} Quaero ouem, non quaero nunc
 
 Iusticiam. Ouem nisi habuero isthanc meam,
 
-Vita mihi mors erit. Di. Alius es, atque loqueris.
+Vita mihi mors erit. [\@Di.=]{.smallcaps} Alius es, atque loqueris.
 
-Animo dolenti nihil oportet credere. So.
+Animo dolenti nihil oportet credere. @[So]{.smallcaps}.=
 
 Credis remissum iri dolorem? sopnias.
 
 \(80\) Doloris huius uulneri medebitur
 
-Nullus, nisi, quae inflixit, ouis haec perdita. Di.
+Nullus, nisi, quae inflixit, ouis haec perdita. @[Di]{.smallcaps}.=
 
 Hic, ubi uoles, te tibi medicum habiturus es.
 
-Facile parabis tibi alicunde aliam. So. Aliam?
+Facile parabis tibi alicunde aliam. [\@So.=]{.smallcaps} Aliam?
 
 Nihil agis. hanc uolo perditam. Non tam egeo ego
 
@@ -324,35 +324,35 @@ Non expeto mortem, ast ouile in pristinum
 
 Vt redeat, et uiuat. Mihi credito, nihil
 
-Est quod paratus non sum huic impendere. Di.
+Est quod paratus non sum huic impendere. @[Di]{.smallcaps}.=
 
-Num praeter aequum et meritum id? So. audias parum
+Num praeter aequum et meritum id? [\@So.=]{.smallcaps} audias parum
 
 \(90\) Scin' misericordem misericordiam sibi
 
-Natiuam habere? Di. Maxime. So. talem esse me
+Natiuam habere? [\@Di.=]{.smallcaps} Maxime. [\@So.=]{.smallcaps} talem esse me
 
-Nosti arbitror. Di. noui. So: Obsecro, misericordiam
+Nosti arbitror. [\@Di.=]{.smallcaps} noui. [\@So.=]{.smallcaps} Obsecro, misericordiam
 
 Quis facere dicitur? Quid. is ne qui lubens
 
 Bene facit immerentibus? Quò ueneris
 
-\(95\) Vides? Di. Quàm ames hanc perditam uideo, tui
+\(95\) Vides? [\@Di.=]{.smallcaps} Quàm ames hanc perditam uideo, tui
 
 Ne tantulam rationem habens neque uideo.
 
-Amore quid tanto in oue dignum reperias. So.
+Amore quid tanto in oue dignum reperias. @[So]{.smallcaps}.=
 
 Spontaneus amor hic. Mihi sententia est
 
 Quoque, caeteras deserto oues committere, et[^7]
 
-\(100\) Hanc quaerere. Di. Arido rubo praefractior
+\(100\) Hanc quaerere. [\@Di.=]{.smallcaps} Arido rubo praefractior
 
 Es, non potes flecti modo, te alium adloquar
 
-Propediem. Eo. So. Optimè facis quidem. Rei
+Propediem. Eo. [\@So.=]{.smallcaps} Optimè facis quidem. Rei
 
 Se immisceat nemo, cui mederier
 
@@ -450,47 +450,47 @@ Senarij.
 
 DEmiror usqueadeo hominem dolere de
 
-\(145\) Vnius ouis absentiâ. Ba. Ouis hem, non moror.
+\(145\) Vnius ouis absentiâ. [\@Ba.=]{.smallcaps} Ouis hem, non moror.
 
 Si sciret huius me rei caput mihi
 
-Periculum praesens. Eo. Di. Vel sanguine
+Periculum praesens. Eo. [\@Di.=]{.smallcaps} Vel sanguine
 
 Redimere eandem est animus. Vt deperit eam
 
 Ades Eleemosyna? Peropportune ades.
 
-\(150\) Est quod tibi referam. Elee. ecquid est? Di. ridiculum erit.
+\(150\) Est quod tibi referam. [\@Elee.=]{.smallcaps} ecquid est? [\@Di.=]{.smallcaps} ridiculum erit.
 
-Soter ouem unam perdidit. Elee: Ridiculum id est?
+Soter ouem unam perdidit. [\@Elee.=]{.smallcaps} Ridiculum id est?
 
-Ain'? Di: dolet perijsset ac si funditus. Ele.
+Ain'? [\@Di.=]{.smallcaps} dolet perijsset ac si funditus. [\@Ele.=]{.smallcaps}
 
-Sui ut similimus est. Di.Virum usqueadeo parum
+Sui ut similimus est. [\@Di.=]{.smallcaps} Virum usqueadeo parum
 
-Se meminit. Ele. Haud sibi sed oui dolet. Mei
+Se meminit. [\@Ele.=]{.smallcaps} Haud sibi sed oui dolet. Mei
 
 \(155\) Est is animi. Affligor animo quoque per ouem.
 
-Non multum abest, quin lachrymer. Di. lachrymare tu.
+Non multum abest, quin lachrymer. [\@Di.=]{.smallcaps} lachrymare tu.
 
 Te quaeso cuius perijt haec culpa? suâ
 
-Ne? suspicor. Elee. Iurare non ausim. Di, bene est.[^12]
+Ne? suspicor. [\@Elee.=]{.smallcaps} Iurare non ausim. Di, bene est.[^12]
 
-Pastoris an perierit? Ele. absit. Vidimus
+Pastoris an perierit? [\@Ele.=]{.smallcaps} absit. Vidimus
 
 \(160\) Tam sedulam hunc ouium suarum curam habere,
 
 Vt uel pro earundem salute animam suam
 
-Pacisceretur, res modo ipsa posceret. Di.
+Pacisceretur, res modo ipsa posceret. @[Di]{.smallcaps}.=
 
 Pro pelle pellem malim. Et alteri male[^13]
 
-Fieri ipsa malim quam mihi. Ele. humana loqueris
+Fieri ipsa malim quam mihi. [\@Ele.=]{.smallcaps} humana loqueris
 
-\(165\) Di. Humana loquor? An noueris aliquem, cui
+\(165\) [\@Di.=]{.smallcaps} Humana loquor? An noueris aliquem, cui
 
 Propriâ salute. alterius est potior salus?
 
@@ -502,11 +502,11 @@ Abstulit, huic ne filiorum gregis opum
 
 Iactura, mitior erat, atque corporis
 
-\(170\) Mala hulcera? Ele. oblata huic fuisset si optio
+\(170\) Mala hulcera? [\@Ele.=]{.smallcaps} oblata huic fuisset si optio
 
 Nescio quid optasset. Deus constituit hunc
 
-Patientiae exemplar. Di. Dolere absentem ouem?
+Patientiae exemplar. [\@Di.=]{.smallcaps} Dolere absentem ouem?
 
 Quaerat ouis illum, et uiuet. Allicere solent
 
@@ -514,35 +514,35 @@ Siliquae sues ad haram, ouem deliciolae
 
 \(175\) Ad ouile tale non queunt pellicere? Quin
 
-Valeat ouis. Ele. Per se nihil potest ouis,
+Valeat ouis. [\@Ele.=]{.smallcaps} Per se nihil potest ouis,
 
-Alterius auxilio indiget. Di. dic scin' ubi sit?
+Alterius auxilio indiget. [\@Di.=]{.smallcaps} dic scin' ubi sit?
 
-Ele. Ne tantulum. Di. auxilio indiget dicis tamen
+[\@Ele.=]{.smallcaps} Ne tantulum. [\@Di.=]{.smallcaps} auxilio indiget dicis tamen
 
-Ele. Quid ouis potest, si inter lupos uersetur, et
+[\@Ele.=]{.smallcaps} Quid ouis potest, si inter lupos uersetur, et
 
-\(180\) Inter canes? Di. Si est inter istos, nihil aget
+\(180\) Inter canes? [\@Di.=]{.smallcaps} Si est inter istos, nihil aget
 
 Quaerendo homo ludet operam. Perijt ouis.
 
-Quod perijt iste quaeret. Ele. Ast doleo hominis[^15]
+Quod perijt iste quaeret. [\@Ele.=]{.smallcaps} Ast doleo hominis[^15]
 
 Et ouis uicem. Ille labore summo, haec miseriâ
 
-Non infimâ cruciabitur. Di. Animi uirum
+Non infimâ cruciabitur. [\@Di.=]{.smallcaps} Animi uirum
 
 \(185\) Alterius optarem. Sua heic relinquere,
 
-Deserto oues committere, haud sani hominis est. Ele.
+Deserto oues committere, haud sani hominis est. [\@Ele.=]{.smallcaps}
 
-Quando id animi est uiro, feras oportet. Di. At
+Quando id animi est uiro, feras oportet. [\@Di.=]{.smallcaps} At
 
-Laboris id si ualero, dissuadebo. Ele. per-
+Laboris id si ualero, dissuadebo. [\@Ele.=]{.smallcaps} per-
 
 Suadebo ego, quaerendae oui calcar homini
 
-\(190\) Futura. Di. Non me mortuam dices. Vale. Ele.
+\(190\) Futura. [\@Di.=]{.smallcaps} Non me mortuam dices. Vale. [\@Ele.=]{.smallcaps}
 
 Quàm nulla flectit misericordia ualeat.
 
@@ -582,17 +582,17 @@ Animam pro oue hacce perdita est animus. Sed hem
 
 Mirum an resciuerit animi aegritudinem
 
-Mei. Ele. Omnia ex sorore resciui. et tuus
+Mei. [\@Ele.=]{.smallcaps} Omnia ex sorore resciui. et tuus
 
 De oue perdita dolor mouet me. Misereor
 
-Huiusce perditae ouis. So. Probe nostri tamen,
+Huiusce perditae ouis. [\@So.=]{.smallcaps} Probe nostri tamen,
 
-\(210\) Nihil deesse ouibus meis, quas pasco. Ele. Sic[^16]
+\(210\) Nihil deesse ouibus meis, quas pasco. [\@Ele.=]{.smallcaps} Sic[^16]
 
 Est: Neque animo est crucis parum, beneficio
 
-Suas sibi non posse demererier, So.
+Suas sibi non posse demererier, [\@So.=]{.smallcaps}
 
 Meo malo experior. Quàm ego, quoad me audijt.
 
@@ -600,11 +600,11 @@ Tenellule paui et alui terrae bonis,[^17]
 
 \(215\) Me haec deserit. Si exuere pastorium animum
 
-Liceret aut possem. Ele. ten' exueres? eris
+Liceret aut possem. [\@Ele.=]{.smallcaps} ten' exueres? eris
 
 Miserator atque misericors, atque id bene ex
 
-Animo meo. So. Et misericordiam meam, et
+Animo meo. [\@So.=]{.smallcaps} Et misericordiam meam, et
 
 Miserationem, sentiet ouis perdita
 
@@ -612,7 +612,7 @@ Miserationem, sentiet ouis perdita
 
 Nunquàm. Itineri accinctus pati quiduis uolo,
 
-Modo salua sit mea haec ouis. Ele. quaeso audias
+Modo salua sit mea haec ouis. [\@Ele.=]{.smallcaps} quaeso audias
 
 Me. Sunt tibi serui fideles et boni.
 
@@ -620,23 +620,23 @@ Hortum uni et alteri negotium tuum
 
 \(225\) Committito. His fore rem scio curae haud secus
 
-Atque tibi. So. Curatum probe si quid uelis,
+Atque tibi. [\@So.=]{.smallcaps} Curatum probe si quid uelis,
 
-Ipse facito. Nihil agis. Ele. obsecro, par hunc,
+Ipse facito. Nihil agis. [\@Ele.=]{.smallcaps} obsecro, par hunc,
 
-Quo te enecas, sanctum dolorem. So. Dic, cui
+Quo te enecas, sanctum dolorem. [\@So.=]{.smallcaps} Dic, cui
 
 Negotium hoc difficile committi potest
 
-\(230\) Tuto? Ele. Heliae. So. num me interim tabescere
+\(230\) Tuto? [\@Ele.=]{.smallcaps} Heliae. [\@So.=]{.smallcaps} num me interim tabescere
 
-Cura et dolore uis. Ele. sine exorem. So. Age age tum.
+Cura et dolore uis. [\@Ele.=]{.smallcaps} sine exorem. [\@So.=]{.smallcaps} Age age tum.
 
 Huc Heliam euocato. Non sero moram,
 
 Ne res refrigeat. Negotij uolo
 
-Sit certior futuri. Ele. aderit huc odius.
+Sit certior futuri. [\@Ele.=]{.smallcaps} aderit huc odius.
 
 SCENA QVARTA
 
@@ -644,29 +644,29 @@ Helias. Eleemosyna Soter.
 
 Trimetri Iambici.
 
-\(235\) Meus herus? Ele: ipsus. So. Helia nunc mihi tuâ
+\(235\) Meus herus? [\@Ele.=]{.smallcaps} ipsus. [\@So.=]{.smallcaps} Helia nunc mihi tuâ
 
-Operâ opus est. audis? He. here ecquid tibi placet?
+Operâ opus est. audis? [\@He.=]{.smallcaps} here ecquid tibi placet?
 
-So. Scies: Ouis desideratur, hanc uolo
+[\@So.=]{.smallcaps} Scies: Ouis desideratur, hanc uolo
 
 Quaeri. Sine hac, uita mihi mors est. Tu si herum
 
-Tuum uoles saluum, hanc mihi adduces. He. Ego?
+Tuum uoles saluum, hanc mihi adduces. [\@He.=]{.smallcaps} Ego?
 
-\(240\) Qui domine possem? So. \[\< Si.\] Si tibi id molestius
+\(240\) Qui domine possem? [\@So.=]{.smallcaps} \[\< Si.\] Si tibi id molestius
 
 Videbitur, fac ut sciam ubi deliteat. huc
 
-Feram. He. decet domine per omnia me tibi
+Feram. [\@He.=]{.smallcaps} decet domine per omnia me tibi
 
-Parere. Fiat tua uoluntas. So.Per uias[^18]
+Parere. Fiat tua uoluntas. @[So]{.smallcaps}.= Per uias[^18]
 
-Et per sepes quaerito. He. Si eam non reperio? So.[^19]
+Et per sepes quaerito. [\@He.=]{.smallcaps} Si eam non reperio? [\@So.=]{.smallcaps}[^19]
 
-\(245\) Redito. He. quid si arbitrio alterius lubens
+\(245\) Redito. [\@He.=]{.smallcaps} quid si arbitrio alterius lubens
 
-Viuat? So: Volo cogas eandem, ut ad suum
+Viuat? [\@So.=]{.smallcaps} Volo cogas eandem, ut ad suum
 
 Ouile ouis redeat. Lupus futura si[^20]
 
@@ -674,11 +674,11 @@ Secus facit. Nam qui picem tetigerit, ab
 
 Ea inquinabitur. Esto tam qui talibus,
 
-\(250\) Tanquàm domesticis. lupis fruatur. He: Ast
+\(250\) Tanquàm domesticis. lupis fruatur. [\@He.=]{.smallcaps} Ast
 
-Sermonibus quis fidem adhibet nostris? So. mea.[^21]
+Sermonibus quis fidem adhibet nostris? [\@So.=]{.smallcaps} mea.[^21]
 
-He. Si nolit? So: hem, nolit? ita dices. Bona, mala
+[\@He.=]{.smallcaps} Si nolit? [\@So.=]{.smallcaps} hem, nolit? ita dices. Bona, mala
 
 Mors uita. Paupertas, Honestas, apud herum[^22]
 
@@ -696,17 +696,17 @@ Minimè licet quaesiuerint. Qua fronte tum[^24]
 
 \(260\) Audebis intueri eundem? non pudet
 
-Te ingratitudinis? He: Si ad haec uerba fuerit
+Te ingratitudinis? [\@He.=]{.smallcaps} Si ad haec uerba fuerit
 
-Surda? So: Redeas. Munere tuo fungere tamen
+Surda? [\@So.=]{.smallcaps} Redeas. Munere tuo fungere tamen
 
-Strenue. He: ita dices. Ele: quid si huic non congredi
+Strenue. [\@He.=]{.smallcaps} ita dices. [\@Ele.=]{.smallcaps} quid si huic non congredi
 
-Volet relinques? So: ah relinquerem? quasi
+Volet relinques? [\@So.=]{.smallcaps} ah relinquerem? quasi
 
-\(265\) Non potius hac uita uelim priuarier. He:
+\(265\) Non potius hac uita uelim priuarier. @[He]{.smallcaps}.=
 
-Viatici, domine nihil dabis? So: nihil?
+Viatici, domine nihil dabis? [\@So.=]{.smallcaps} nihil?
 
 Et corui et angeli prius te pascerent,[^25]
 
@@ -714,19 +714,19 @@ Quàm tu perires tam boni negotij ex-
 
 Plorator optimus. Fac in diem pares,
 
-\(270\) Te crastinum audin'? He. ubi uoles. Ele: Si cederet
+\(270\) Te crastinum audin'? [\@He.=]{.smallcaps} ubi uoles. [\@Ele.=]{.smallcaps} Si cederet
 
 Illi haec peregrinatio male, socios
 
-Adiungito, quo certior fias. So. probe
+Adiungito, quo certior fias. [\@So.=]{.smallcaps} probe
 
-Mones. Tibi adscisce socios quos expetis. He.
+Mones. Tibi adscisce socios quos expetis. @[He]{.smallcaps}.=
 
-Domino ut placet, num quid aliud Domine. So.nihil
+Domino ut placet, num quid aliud Domine. [\@So.=]{.smallcaps}nihil
 
 \(275\) Nos in domum tempus uocat, quo hic se paret.
 
-Tu si uoles, sequere. Ele. Sequor. Molestiae
+Tu si uoles, sequere. [\@Ele.=]{.smallcaps} Sequor. Molestiae
 
 Quantum subinde amor parit. Noui uirum.
 
@@ -934,29 +934,29 @@ Rerum uoluptate obsitus. Modò uigilans
 
 \(365\) Desidero, atque dormiens sompnio meam.
 
-Animi mei molestia huc uenit. Di. Sibi
+Animi mei molestia huc uenit. [\@Di.=]{.smallcaps} Sibi
 
-Cor esitat. So. Antiquum obtinet. Di. Quem hic audio?
+Cor esitat. [\@So.=]{.smallcaps} Antiquum obtinet. [\@Di.=]{.smallcaps} Quem hic audio?
 
-Hic ipsus est de quo loquor. So. Nihil de oue? Di.
+Hic ipsus est de quo loquor. [\@So.=]{.smallcaps} Nihil de oue? @[Di]{.smallcaps}.=
 
-Valeat ouis. So. de oue nihil? obticeas. D. dies
+Valeat ouis. [\@So.=]{.smallcaps} de oue nihil? obticeas. @[D]{.smallcaps}.= dies
 
 \(370\) Solet aegritudinem adimere, auget haec tibi[^33]
 
-Eandem. S. ita est. Di. Iucunditas cordis hominis
+Eandem. S. ita est. [\@Di.=]{.smallcaps} Iucunditas cordis hominis
 
-Vita est. So. scio. Di. te hominem puta, atque uiuere. So.
+Vita est. [\@So.=]{.smallcaps} scio. [\@Di.=]{.smallcaps} te hominem puta, atque uiuere. @[So]{.smallcaps}.=
 
 Bij
 
-Mihi uita mors est. Di. credo. praeferenda mors
+Mihi uita mors est. [\@Di.=]{.smallcaps} credo. praeferenda mors
 
-Est uitae amarae. S. expertus id scio. Di. ponito[^34]
+Est uitae amarae. \@S.= expertus id scio. [\@Di.=]{.smallcaps} ponito[^34]
 
 \(375\) Te quaesottristiciam hanc. S. oue hacce perditat
 
-Abito tu. Di. occidit eadem multos. So. tibi
+Abito tu. [\@Di.=]{.smallcaps} occidit eadem multos. [\@So.=]{.smallcaps} tibi
 
 Id uelim habeas persuasum. ut maligno \[\< m ligno\] (licet[^35]
 
@@ -964,43 +964,43 @@ Ille maledictus censeatur) emori[^36]
 
 Malim, quàm ouis relinqueretur perdita:
 
-\(380\) Sed spero per seruos eandem. Do. Quo tuos? So.
+\(380\) Sed spero per seruos eandem. @[Di]{.smallcaps}.= Quo tuos? @[So]{.smallcaps}.=
 
-Quaerendae oui emisi. Di. Si manes redierint
+Quaerendae oui emisi. [\@Di.=]{.smallcaps} Si manes redierint
 
-Domum? So. mihi ille labor. Requiram ego meam
+Domum? [\@So.=]{.smallcaps} mihi ille labor. Requiram ego meam
 
-Ouem, et eruam ex manu imperantium eidem. Di. Ain'?[^37]
+Ouem, et eruam ex manu imperantium eidem. [\@Di.=]{.smallcaps} Ain'?[^37]
 
-Periculi rationem habebis arbitror. So.
+Periculi rationem habebis arbitror. @[So]{.smallcaps}.=
 
 \(385\) Periculi nihil amor hic fert. Obsecro, et
 
-Tua, et tuos relinqueres? So. relinquerem. Di.
+Tua, et tuos relinqueres? [\@So.=]{.smallcaps} relinquerem. @[Di]{.smallcaps}.=
 
-Quid tibi boni per hanc ouem cessit? So. dolor. Di.
+Quid tibi boni per hanc ouem cessit? [\@So.=]{.smallcaps} dolor. @[Di]{.smallcaps}.=
 
-Dolor? Vin' ex animo tibi loquar? So. Volo.
+Dolor? Vin' ex animo tibi loquar? [\@So.=]{.smallcaps} Volo.
 
-Nam sani erit nihil. Di. tu homo me redigeres
+Nam sani erit nihil. [\@Di.=]{.smallcaps} tu homo me redigeres
 
 \(390\) Perpetuam ad insaniam. Abeas. Amabis hanc
 
-Quae te dolore afficit? So. Amabo. Di. lex docet [^38]
+Quae te dolore afficit? [\@So.=]{.smallcaps} Amabo. [\@Di.=]{.smallcaps} lex docet [^38]
 
 Pro oculo oculus, pro dente dens, quid impedit[^39]
 
-Quin pro dolore dolor? So. Is ipse sum. mihi
+Quin pro dolore dolor? [\@So.=]{.smallcaps} Is ipse sum. mihi
 
 Si quis alapam, hanc in dextram maxillulam
 
-\(395\) Impingeret, sinistram huic obuerterem. Di.
+\(395\) Impingeret, sinistram huic obuerterem. [\@Di.=]{.smallcaps}
 
 Patientia ipsa es. Quis feret plagas? mihi
 
 Conuicium quodque regerendum iustius
 
-Videtur. So. humana loqueris. Traducat et
+Videtur. [\@So.=]{.smallcaps} humana loqueris. Traducat et
 
 Proscindat haec mea me ouis, eius gratiâ
 
@@ -1014,11 +1014,11 @@ Cedito parum, tandem triumphabis, \[\< triumphahis\] abeas,
 
 Te ferre non possum, nisi reperta sit
 
-\(405\) Mea haec misellula. Di. studeo lenire, si
+\(405\) Mea haec misellula. [\@Di.=]{.smallcaps} studeo lenire, si
 
 Possem quoque, extirpare, quo te plurimum
 
-Maceras, dolore. So. Oleum camino addis. Di. abeo. So.
+Maceras, dolore. [\@So.=]{.smallcaps} Oleum camino addis. [\@Di.=]{.smallcaps} abeo. @[So]{.smallcaps}.=
 
 Irata uerbo abijt. Vide impotantiam.
 
@@ -1046,11 +1046,11 @@ Eiusdem farinae cum superioribus.
 
 PRouiso quid rerum meus foris gerat.
 
-Sed ipse adest. quid rerum agis? So. doleo. Ele. doles?
+Sed ipse adest. quid rerum agis? [\@So.=]{.smallcaps} doleo. [\@Ele.=]{.smallcaps} doles?
 
-Quaeso, dolorem paululum remittito. So.
+Quaeso, dolorem paululum remittito. [\@So.=]{.smallcaps}
 
-\(420\) Quaeso, dolorem admittito dicas. Ele. satin'
+\(420\) Quaeso, dolorem admittito dicas. [\@Ele.=]{.smallcaps} satin'
 
 Compos tui es? ne admiseris, quod non potest
 
@@ -1058,13 +1058,13 @@ Pelli tua ex sententia, ubi uolueris. Ast
 
 Velim mihi ex animo loquare modo, dolor
 
-Nihil relaxatu'st? So. An intentus siet
+Nihil relaxatu'st? [\@So.=]{.smallcaps} An intentus siet
 
-\(425\) Quaeras. Ele. Quid atri consecutus es auribus? So.
+\(425\) Quaeras. [\@Ele.=]{.smallcaps} Quid atri consecutus es auribus? [\@So.=]{.smallcaps}
 
-Nihil atri, et albi totidem. Ele. Vt intentus dolor
+Nihil atri, et albi totidem. [\@Ele.=]{.smallcaps} Vt intentus dolor
 
-Ergo? So. Per hanc tuam. Elemo. haec in istanc rem
+Ergo? [\@So.=]{.smallcaps} Per hanc tuam. Elemo. haec in istanc rem
 
 Biij
 
@@ -1076,13 +1076,13 @@ Te certiorem seruuli facient ouis,
 
 \(430\) Certo scio. Ponito dolorem. Vestibus[^41]
 
-Vt tinea. ligno ut uermis. hic cordi nocet. So.
+Vt tinea. ligno ut uermis. hic cordi nocet. @[So]{.smallcaps}.=
 
-Praesente oue aufugabitur quiuis dolor. Elee.
+Praesente oue aufugabitur quiuis dolor. [\@Elee.=]{.smallcaps}
 
-Morare seruos. So. labor hic. haec poena, hic dolor
+Morare seruos. [\@So.=]{.smallcaps} labor hic. haec poena, hic dolor
 
-Momentulum uidetur annus. Ele. Animule
+Momentulum uidetur annus. [\@Ele.=]{.smallcaps} Animule
 
 \(435\) Mi, ne male crucies te. Ouis tibi salua erit.
 
@@ -1090,15 +1090,15 @@ Longa est uia, et tenera est ouis, si hanc cogerent
 
 Cito progredi, periculum esset, ne uiae
 
-Molestiâ moreretur. So. Optem te modo
+Molestiâ moreretur. [\@So.=]{.smallcaps} Optem te modo
 
-Veram. Ele. Putas non posse per seruos ouem
+Veram. [\@Ele.=]{.smallcaps} Putas non posse per seruos ouem
 
-\(440\) Perducier saluam huc? So. Scies. Pedes mihi
+\(440\) Perducier saluam huc? [\@So.=]{.smallcaps} Scies. Pedes mihi
 
 Negant suum officium amplius. Nam plumbeu'st
 
-Hic mihi dolor. Rectâ itro. Ele. Subsequor Decet
+Hic mihi dolor. Rectâ itro. [\@Ele.=]{.smallcaps} Subsequor Decet
 
 Me hunc misericordiae suae exhortarier,
 
@@ -1128,9 +1128,9 @@ Suo malo pereat, suo quae non bono
 
 Seuarier uult. Gloriae segetem suae
 
-Haec uocat ouem. Ele. uah, audiuit omnia. Di. mascule
+Haec uocat ouem. [\@Ele.=]{.smallcaps} uah, audiuit omnia. [\@Di.=]{.smallcaps} mascule
 
-\(455\) Homini crucem persuadeas modo. Ele. absit. Di. hoc
+\(455\) Homini crucem persuadeas modo. [\@Ele.=]{.smallcaps} absit. [\@Di.=]{.smallcaps} hoc
 
 Studes tamen suadere, ut omnia deserens
 
@@ -1142,31 +1142,31 @@ Hominem foco adsuetum, itineris molestiâ, ad
 
 \(460\) Mortem adigere? Aequior huius interpres eris ut
 
-Conijcio, fortunatior tibi esset. Ele. Id
+Conijcio, fortunatior tibi esset. [\@Ele.=]{.smallcaps} Id
 
 Ego suadeo? me consulente serui ad hoc
 
-Sunt missi. Di. ut id ficulneum est. Scis nec per hos
+Sunt missi. [\@Di.=]{.smallcaps} ut id ficulneum est. Scis nec per hos
 
 Nec per alequem quid posse agi, praesertim in hac
 
-\(465\) Re. Ele. hic alia es, atque loqueris, Id scio? Di. putas
+\(465\) Re. [\@Ele.=]{.smallcaps} hic alia es, atque loqueris, Id scio? [\@Di.=]{.smallcaps} putas
 
-Fauces luprorum uel canum euasisse ouem? Ele.
+Fauces luprorum uel canum euasisse ouem? [\@Ele.=]{.smallcaps}
 
-Spero. Di: Bene speres uelim Verumtamen
+Spero. [\@Di.=]{.smallcaps} Bene speres uelim Verumtamen
 
-Non te decet restinguere incendium oleo. Ele.
+Non te decet restinguere incendium oleo. [\@Ele.=]{.smallcaps}
 
-Hic aquâ opus est. Di: Scis quo uelim. Ele: Scrutator est
+Hic aquâ opus est. [\@Di.=]{.smallcaps} Scis quo uelim. [\@Ele.=]{.smallcaps} Scrutator est
 
-\(470\) Renum atque cordium Deus. Di. sic est tamen:[^42]
+\(470\) Renum atque cordium Deus. [\@Di.=]{.smallcaps} sic est tamen:[^42]
 
 Per se fatiscupidum hominem incitas. quo ouem
 
 Quaerat. neque id nunc dico, quod molesta sis
 
-Eapse de caussa uiro. Ele. Molesta sim? Di:
+Eapse de caussa uiro. [\@Ele.=]{.smallcaps} Molesta sim? [\@Di.=]{.smallcaps}
 
 Quid quaeso uerba aliud sonant isthaec tua?
 
@@ -1176,9 +1176,9 @@ Me hortarier hominem decet, ne gloriae
 
 Meae segès pereat. Scin'hem quoniam uelim
 
-Siccine satis? Ele: sic res habet. Di. Vin' huius hanc
+Siccine satis? [\@Ele.=]{.smallcaps} sic res habet. [\@Di.=]{.smallcaps} Vin' huius hanc
 
-Interpretem? Ele. Modo dissimilis esset tui. Di.
+Interpretem? [\@Ele.=]{.smallcaps} Modo dissimilis esset tui. @[Di]{.smallcaps}.=
 
 Biiij
 
@@ -1186,29 +1186,29 @@ Biiij
 
 Omnia, et ouem hancce quaerito. Hoc è, pessimae et
 
-Certissimae morti ocyus te tradito. Ele.
+Certissimae morti ocyus te tradito. [\@Ele.=]{.smallcaps}
 
 Interpretatio ista tali interprete
 
 Est digna. Dic, num animum tuum explesti? loqui
 
-\(485\) Per te licet? Di. nescio. Ele. Mihi concedito
+\(485\) Per te licet? [\@Di.=]{.smallcaps} nescio. [\@Ele.=]{.smallcaps} Mihi concedito
 
-Quod tute cepisti tibi. Di. Non me admodum
+Quod tute cepisti tibi. [\@Di.=]{.smallcaps} Non me admodum
 
-Tua uerba delectant. Sed age loquitor tamen. Ele.
+Tua uerba delectant. Sed age loquitor tamen. [\@Ele.=]{.smallcaps}
 
 Tecum loquar perinde, ut homo cum homine, obsecro
 
 Si nauigares cum periculo. num opem
 
-\(490\) Desiderares? Di. maximè. Ele. alterius et id
+\(490\) Desiderares? [\@Di.=]{.smallcaps} maximè. [\@Ele.=]{.smallcaps} alterius et id
 
-Ne cum periculo? Di. salus res optima. Ele.
+Ne cum periculo? [\@Di.=]{.smallcaps} salus res optima. [\@Ele.=]{.smallcaps}
 
 Et passa naufragium, tibi nolles opem
 
-Ferri? D. modis uelim omnibus, Ele. Compendio
+Ferri? D. modis uelim omnibus, [\@Ele.=]{.smallcaps} Compendio
 
 Iam dixero, Si undae te haberent mortuam.
 
@@ -1216,15 +1216,15 @@ Iam dixero, Si undae te haberent mortuam.
 
 Quis corpus exemptum mari, terrae inderet?
 
-Di. Referret umbra gratias huic. Ele. Vides
+[\@Di.=]{.smallcaps} Referret umbra gratias huic. [\@Ele.=]{.smallcaps} Vides
 
-Quàm nassae inhaeres? expedi te si potes. Di.
+Quàm nassae inhaeres? expedi te si potes. @[Di]{.smallcaps}.=
 
-Cui nassae inhaero? Ele. Te ouem esse credito.
+Cui nassae inhaero? [\@Ele.=]{.smallcaps} Te ouem esse credito.
 
 \(500\) Quid inuides alij, tibi quod expetis
 
-Fieri? Di. Eleemosyna. Eleemosyna utinam
+Fieri? [\@Di.=]{.smallcaps} Eleemosyna. Eleemosyna utinam
 
 Pars aequa amoris tibi foret mecum in hominem, ac
 
@@ -1234,9 +1234,9 @@ Mihi dolet, aut ego abitionem hominis quoque
 
 \(505\) Flocci facerem. Studes ut homo sese exuat,
 
-Suae immemor iusticiae. Ele. Abigit hic me tuus
+Suae immemor iusticiae. [\@Ele.=]{.smallcaps} Abigit hic me tuus
 
-Sermo. Tuam in rem studeo. Sed ualebis. Di. haec
+Sermo. Tuam in rem studeo. Sed ualebis. [\@Di.=]{.smallcaps} haec
 
 Me insaniorem reddit ex insana. At id
 
@@ -1394,7 +1394,7 @@ Sarx Cosmus.
 
 Senarij.
 
-\(580\) SAlueto Cosme mi. Co: Salutis ecquid ad-
+\(580\) SAlueto Cosme mi. [\@Co.=]{.smallcaps} Salutis ecquid ad-
 
 Huc indigemus, quum sumus hominum salus. Sa:
 
@@ -1402,31 +1402,31 @@ Sic est. Mihi quando bene est, tibi quoque ubi
 
 Res perplacet, diuina uita uiuitur.
 
-Quis non meret Cosmo et mihi? Co: Nemo, nisi
+Quis non meret Cosmo et mihi? [\@Co.=]{.smallcaps} Nemo, nisi
 
-\(585\) Cui non sinit egestas idem. Sa: Verus es.
+\(585\) Cui non sinit egestas idem. [\@Sa.=]{.smallcaps} Verus es.
 
 Quiuis amicitiam meam unice expetit,
 
 Nisi unus ille spiritus. cum quo mihi[^47]
 
-Capitale dissidum fuit semper, et erit. Co:
+Capitale dissidum fuit semper, et erit. @[Co]{.smallcaps}.=
 
 Facile huius impetus retundentur, modo
 
-\(590\) Princeps meus me iuuerit. Sarx: Sed hic prucul[^48]
+\(590\) Princeps meus me iuuerit. [\@Sarx.=]{.smallcaps} Sed hic prucul[^48]
 
-Fugabitur, si uerus ille sit. Co: Fere
+Fugabitur, si uerus ille sit. [\@Co.=]{.smallcaps} Fere
 
 Superbus, inuidus, gulosus, Venereusce
 
 Acidiosus, auarus, iracundus, est
 
-Quiuis procul fugabitur. Sa. Nihil excipi
+Quiuis procul fugabitur. [\@Sa.=]{.smallcaps} Nihil excipi
 
-\(595\) Volo. Co. Mihi religio esset. Sa: esset? Dicere
+\(595\) Volo. [\@Co.=]{.smallcaps} Mihi religio esset. [\@Sa.=]{.smallcaps} esset? Dicere
 
-Verum? Co: In malo et mendacio mundus situ'st[^49]
+Verum? [\@Co.=]{.smallcaps} In malo et mendacio mundus situ'st[^49]
 
 Totus. Fides mendaci habetur nulla. et
 
@@ -1436,17 +1436,17 @@ Ad rem. Obsecro, cuius opera tale est genus
 
 \(600\) Mortale? dic? Quis haesitat quin principis
 
-Mei? Sa. Aedepol nullus. Co. Ita naribus homines
+Mei? [\@Sa.=]{.smallcaps} Aedepol nullus. [\@Co.=]{.smallcaps} Ita naribus homines
 
 Pertrahere quo uelis, imperare num tibi
 
-Videtur? Hic ueru'st? Sa. Per omnia imperat.
+Videtur? Hic ueru'st? [\@Sa.=]{.smallcaps} Per omnia imperat.
 
-Si quis alius. Co. Persuadeant sibi interim
+Si quis alius. [\@Co.=]{.smallcaps} Persuadeant sibi interim
 
 \(605\) Mandasse se laqueos mihi. atque me sibi
 
-Crucifixum, et itidem se mihi. Sa: Quàm duplices
+Crucifixum, et itidem se mihi. [\@Sa.=]{.smallcaps} Quàm duplices
 
 \[Ad Gal. 6\]
 
@@ -1458,11 +1458,11 @@ Gaudere mundo. epulis et unctioribus
 
 \(610\) Quo nitida sit caro, bene curataque cutis.
 
-Co. Ne quid nimis. tacto hulceri ne remedium
+[\@Co.=]{.smallcaps} Ne quid nimis. tacto hulceri ne remedium
 
 Fors reperiant, nobisque sese subtrahant
 
-Nostro malo. Sa: ferenda iactura haec quidem.
+Nostro malo. [\@Sa.=]{.smallcaps} ferenda iactura haec quidem.
 
 Sed nescio, quam quisque sit battologus in
 
@@ -1476,7 +1476,7 @@ Huius farinae ineptiunt plurima boni
 
 Iste uiri. quae splendida illis suggerit
 
-\(620\) Lingua. Co. Sileamus ergo, nobiscum in sinu
+\(620\) Lingua. [\@Co.=]{.smallcaps} Sileamus ergo, nobiscum in sinu
 
 Circumferentes, his nocere quod potest.
 
@@ -1486,7 +1486,7 @@ Iniuriae nobis nihil faciunt, licet
 
 Haec personent. Nihil ferunt patientius
 
-\(625\) Nostro iugo. Sa: Sic res se habet. Relinquo eis
+\(625\) Nostro iugo. [\@Sa.=]{.smallcaps} Sic res se habet. Relinquo eis
 
 Linguam, cui fidei hic habetur paululum.
 
@@ -1500,9 +1500,9 @@ NVnc sentio demum, quàm id inquiunt uerè,
 
 Mortem atque uitam lingua gestitat secum.[^53]
 
-Audiuit omnem rem? Ba: omnem. Pa: Ouem esse sublatam?
+Audiuit omnem rem? [\@Ba.=]{.smallcaps} omnem. [\@Pa.=]{.smallcaps} Ouem esse sublatam?
 
-\(630\) Ba: Idipsum. Pa: Ain? Qui id conijcis? Ba. Scies. Nostrae
+\(630\) [\@Ba.=]{.smallcaps} Idipsum. [\@Pa.=]{.smallcaps} Ain? Qui id conijcis? [\@Ba.=]{.smallcaps} Scies. Nostrae
 
 Iactantiae haec lupum famelicum se obfert. Pa:
 
@@ -1510,17 +1510,17 @@ Iactantiâ hac opus fuit nihil. Rapto
 
 Pullo inquiunt nunquàm suo bono cornum
 
-Crocire. Ba: Sic est. Huic malo salus nulla
+Crocire. [\@Ba.=]{.smallcaps} Sic est. Huic malo salus nulla
 
 \(635\) Dari potest. Subuersio ipsius lingua im-[^54]
 
 Prudentis est. Praecisa si mihi lingua
 
-Fuisset. Pa. Inuido subinde non lingua
+Fuisset. [\@Pa.=]{.smallcaps} Inuido subinde non lingua
 
-Opus'st. Ba: Modo aegritudinis nihil nobis
+Opus'st. [\@Ba.=]{.smallcaps} Modo aegritudinis nihil nobis
 
-Esset. Pa: Animum capessito. Feras et non
+Esset. [\@Pa.=]{.smallcaps} Animum capessito. Feras et non
 
 \(640\) Culpes, quod ipsa sors tulit mali: Nam te
 
@@ -1568,19 +1568,19 @@ Rapta. Quàm nunc est lupis commissa saeuis.
 
 Sedulò gaudemus in sinu, ut decet, quod
 
-\(660\) Ditioni subiacet nunc nostrae ouis. Ba: Quàm
+\(660\) Ditioni subiacet nunc nostrae ouis. [\@Ba.=]{.smallcaps} Quàm
 
 Falleris. Hy. Quam hic audio? Bascaniam ne?
 
-Qui se ouis? Ba: Non rite. Hy: quid? B. nullae sumus. Hy. nos?
+Qui se ouis? [\@Ba.=]{.smallcaps} Non rite. [\@Hy.=]{.smallcaps} quid? B. nullae sumus. Hy. nos?
 
-Dic, qui ita? Ba. omnem rem audies. Purgatam habe me.
+Dic, qui ita? [\@Ba.=]{.smallcaps} omnem rem audies. Purgatam habe me.
 
-Hy: Quid mali actum est? Ba: Audies: lingua haesitat. Hy: Ne
+[\@Hy.=]{.smallcaps} Quid mali actum est? [\@Ba.=]{.smallcaps} Audies: lingua haesitat. [\@Hy.=]{.smallcaps} Ne
 
-\(665\) Me diu teneto suspensam precor. Pa. Dic
+\(665\) Me diu teneto suspensam precor. [\@Pa.=]{.smallcaps} Dic
 
-Expetis me interpretem? Ba. Non, eloquar rem. Hy:
+Expetis me interpretem? [\@Ba.=]{.smallcaps} Non, eloquar rem. Hy:
 
 Quidquid est aequissime nunc consulam. Dic. Ba:
 
@@ -1588,35 +1588,35 @@ Pectus euomit subinde quo scatet. Scis
 
 Et genus nostrum loquax esse admodum. Hypere. Quod
 
-\(670\) Mordeat nos, audio nihil. Ba: Sequetur.
+\(670\) Mordeat nos, audio nihil. [\@Ba.=]{.smallcaps} Sequetur.
 
 Prodeambulans ouem raptam esse iacto. Hy:
 
-Salua adhuc quaeuis. Ba: Mane. Pastoris audit
+Salua adhuc quaeuis. [\@Ba.=]{.smallcaps} Mane. Pastoris audit
 
-Haec domestica. Hy: Hic dolor. Salua est ouis, sed
+Haec domestica. [\@Hy.=]{.smallcaps} Hic dolor. Salua est ouis, sed
 
-Nos nihil minus. Ba. Malo huic nulla est salus. P: quid
+Nos nihil minus. [\@Ba.=]{.smallcaps} Malo huic nulla est salus. [\@P.=]{.smallcaps} quid
 
-\(675\) Consili? nihil tibi? Hy: Solent uiri per
+\(675\) Consili? nihil tibi? [\@Hy.=]{.smallcaps} Solent uiri per
 
 Se, haud probe gestae rei, medelam habere.
 
-Nostrum adhibo principem, hic dabit salutem. Pa: Est
+Nostrum adhibo principem, hic dabit salutem. [\@Pa.=]{.smallcaps} Est
 
-Callidus uulplenius. Hy: Me confero illuc. Pa:
+Callidus uulplenius. [\@Hy.=]{.smallcaps} Me confero illuc. @[Pa]{.smallcaps}.=
 
 Vita, mors, in huius aduentu resistit.
 
 \(680\) Praeda si reuertitur, mors praesto nobis.
 
-Si secus, uita. Ba: Aedepol, sic res habet se. Pa:
+Si secus, uita. [\@Ba.=]{.smallcaps} Aedepol, sic res habet se. @[Pa]{.smallcaps}.=
 
-Hem quis huc uenit? Ba. Precor ne quaerito me.
+Hem quis huc uenit? [\@Ba.=]{.smallcaps} Precor ne quaerito me.
 
 Plumbeum hunc animum pedes non ferre possunt,
 
-Vel morae tantillum. eo. Pa: Vulgus bene inquit.
+Vel morae tantillum. eo. [\@Pa.=]{.smallcaps} Vulgus bene inquit.
 
 \(685\) Quemlibet sui mali autorem sibi esse.
 
@@ -1698,13 +1698,13 @@ Seruus. num ouem reduxerit demiror: id
 
 Modò sciscitari lubet. Ades gratissimus.
 
-Prae foribus hîc quid, quaeso, uenare Helia? He:
+Prae foribus hîc quid, quaeso, uenare Helia? [\@He.=]{.smallcaps}
 
 Ego forium coronidem non audeo
 
-\(720\) Contingere. horreo quum easdem inspicio. Di. Quid
+\(720\) Contingere. horreo quum easdem inspicio. [\@Di.=]{.smallcaps} Quid
 
-An pertimes pistrinum? aï? He: Pistrinum ais?
+An pertimes pistrinum? aï? [\@He.=]{.smallcaps} Pistrinum ais?
 
 Ex diametro ille dissidet mecum, cui[^60]
 
@@ -1712,23 +1712,23 @@ Eiusmodi cedet, tenebris, lachrymis.
 
 Stridore dentium Horridum pistrinum. At haec
 
-\(725\) Fabula agitur nostro. Di: Cui, hero? He: ipsi. Di: nondum ouem
+\(725\) Fabula agitur nostro. [\@Di.=]{.smallcaps} Cui, hero? [\@He.=]{.smallcaps} ipsi. [\@Di.=]{.smallcaps} nondum ouem
 
-Reperisti? He: Ouem? reperi. Di: Viro uitam dabis.
+Reperisti? [\@He.=]{.smallcaps} Ouem? reperi. [\@Di.=]{.smallcaps} Viro uitam dabis.
 
-Mirum in modum gaudeo. He: Pyraustae gaudium. Di:
+Mirum in modum gaudeo. [\@He.=]{.smallcaps} Pyraustae gaudium. [\@Di.=]{.smallcaps}
 
 Hero quum ademptus est dolor, mihi gaudium
 
-Est solidum atque iuge. He: Veram te uelim. Di:
+Est solidum atque iuge. [\@He.=]{.smallcaps} Veram te uelim. [\@Di.=]{.smallcaps}
 
-\(730\) Num ouis in ouili est? He: Salua res esset. Di: ubi nam est?
+\(730\) Num ouis in ouili est? [\@He.=]{.smallcaps} Salua res esset. [\@Di.=]{.smallcaps} ubi nam est?
 
-He: Inter ferissimas feras ferinam agit
+[\@He.=]{.smallcaps} Inter ferissimas feras ferinam agit
 
 Vitam. et nihil minus quàm oui'st. Dicae: Ouis? Bona
 
-Verba. He: id meo periculo expertus sum ego.
+Verba. [\@He.=]{.smallcaps} id meo periculo expertus sum ego.
 
 Antris enim atque solitudini, meae[^61]
 
@@ -1736,65 +1736,65 @@ Antris enim atque solitudini, meae[^61]
 
 Salua cute adsum, caeteri tamen cute
 
-Lacera animis fores patefacere. Di: Quin[^62]
+Lacera animis fores patefacere. [\@Di.=]{.smallcaps} Quin[^62]
 
 Fuistis imperiosiores forsitan
 
-Quàm par erat. He: nullus suo non functus est
+Quàm par erat. [\@He.=]{.smallcaps} nullus suo non functus est
 
 \(740\) Officio. Ouem quaesiuimus. Precibus minas
 
 Adiecimus. Vitam ferinam seduli im-
 
-Probauimus. Di: Periculum hui tibi. Quis hos
+Probauimus. [\@Di.=]{.smallcaps} Periculum hui tibi. Quis hos
 
 Momos feret? Cui non sua est uita optima? Haud
 
 Ferunt salutifera incitabula hi, quibus
 
-\(745\) Vitiosa uita carpitur. He: Sane, Salus
+\(745\) Vitiosa uita carpitur. [\@He.=]{.smallcaps} Sane, Salus
 
-Non posset, etsi uellet, hos seruare. Di: Num
+Non posset, etsi uellet, hos seruare. [\@Di.=]{.smallcaps} Num
 
-Letum tuis, periculum tibi, una ab oue? He:
+Letum tuis, periculum tibi, una ab oue? [\@He.=]{.smallcaps}
 
-Erant ouillis pellibus lupi, haud oues. Di:
+Erant ouillis pellibus lupi, haud oues. [\@Di.=]{.smallcaps}
 
 Atqui hem, quid ex te audio? Laborant numero oues?
 
-\(750\) Saltem unicam esse credidi. He: cum stellulis
+\(750\) Saltem unicam esse credidi. [\@He.=]{.smallcaps} cum stellulis
 
-De multitudine diceres certare oues. Di:
+De multitudine diceres certare oues. [\@Di.=]{.smallcaps}
 
-Quid, tam cito? He: Vnus hic dies, ibi mille sunt[^63]
+Quid, tam cito? [\@He.=]{.smallcaps} Vnus hic dies, ibi mille sunt[^63]
 
 Anni. Mathusalem cui nongenti erant[^64]
 
 Et sexaginta nouem. adhuc domini die
 
-\(755\) Magno minor fuit. Di: Atqui ouile forsitan
+\(755\) Magno minor fuit. [\@Di.=]{.smallcaps} Atqui ouile forsitan
 
 C
 
 Non caperet hunc numerum, licet cupidissime
 
-Eò aduolarent. He: Mansiones plurimae[^65]
+Eò aduolarent. [\@He.=]{.smallcaps} Mansiones plurimae[^65]
 
-Hic sunt. Di: Sed obsecro, quid usque adeo times
+Hic sunt. [\@Di.=]{.smallcaps} Sed obsecro, quid usque adeo times
 
-Pulsare uestras has fores? He: uitae uiri
+Pulsare uestras has fores? [\@He.=]{.smallcaps} uitae uiri
 
 \(760\) Timeo, nihil cum nunciauero, quod hunc
 
-Non mordeat. Di: Mihi iste sit labor. Quasi
+Non mordeat. [\@Di.=]{.smallcaps} Mihi iste sit labor. Quasi
 
 Ex sympulo stillatim ei instillabo, quae
 
 Tu nuncias modò, ne malorum mole fors
 
-Succumbat. He: id recte fieret. Di: Hic interim
+Succumbat. [\@He.=]{.smallcaps} id recte fieret. [\@Di.=]{.smallcaps} Hic interim
 
-\(765\) Latens uirum spe pascito. He. Occultum est nihil
+\(765\) Latens uirum spe pascito. [\@He.=]{.smallcaps} Occultum est nihil
 
 Quod non reuelabitur. Et aures, et oculos,
 
@@ -1906,13 +1906,13 @@ Sed quod meos occiderit, animo meo[^71]
 
 Capitale uulnus est. Satius esset equidem haec
 
-Nescire me. Atqui omnia scio: Basca: Salua omnia. So:
+Nescire me. Atqui omnia scio: [\@Basca.=]{.smallcaps} Salua omnia. [\@So.=]{.smallcaps}
 
 Quid agam? relinquam ouem? meam? tenellulè à
 
 \(815\) Me fotam et enutritam? ouem hancce perditam?
 
-Ba: Quàm timeo quorsum euadat? So: Hanc uiuere uolo.
+[\@Ba.=]{.smallcaps} Quàm timeo quorsum euadat? [\@So.=]{.smallcaps} Hanc uiuere uolo.
 
 Per me gregi addetur ouis haec suo. Meam
 
@@ -1964,11 +1964,11 @@ Referre singula, temporis praesentis est
 
 \(840\) Minimè. Cui non cogerent manum ab ancora
 
-Isthaec referre? Ba: Bene est. So: Nisi me dempseris.
+Isthaec referre? [\@Ba.=]{.smallcaps} Bene est. [\@So.=]{.smallcaps} Nisi me dempseris.
 
-Qui me arietem obfero in hostiam ultro. Basc: Peius hoc[^84]
+Qui me arietem obfero in hostiam ultro. [\@Basc.=]{.smallcaps}Peius hoc[^84]
 
-Nihil dari potest. So: Amor periculi
+Nihil dari potest. [\@So.=]{.smallcaps} Amor periculi
 
 Nihil timet equidem. Sed hic quidnam moror?
 
@@ -2000,27 +2000,27 @@ Nostra huc salus, quam saxea his nuncia adero,
 
 \(855\) Saxa mera proferens. Adestis commodi.
 
-Malis eram impar sola. Sa: ualeant mala Ba.
+Malis eram impar sola. [\@Sa.=]{.smallcaps} ualeant mala [\@Ba.=]{.smallcaps}
 
 Validissima esse adseres. Nostrae arcis ef-
 
-Fingent fores. Co: Hem, loquitor auspicatius.
+Fingent fores. [\@Co.=]{.smallcaps} Hem, loquitor auspicatius.
 
-Rides? Ba: Ego? acsi scutica putasset oculos.
+Rides? [\@Ba.=]{.smallcaps} Ego? acsi scutica putasset oculos.
 
-\(860\) Praeda auferetur opima. Sa: Ouis? Co: Animo bono
+\(860\) Praeda auferetur opima. [\@Sa.=]{.smallcaps} Ouis? [\@Co.=]{.smallcaps} Animo bono
 
-Sis. Ba: pessimo. Co: Per sanguinis non paululum
+Sis. [\@Ba.=]{.smallcaps} pessimo. [\@Co.=]{.smallcaps} Per sanguinis non paululum
 
-Id fiet. Ba: Hic hic pastor est, cui causa ouis.
+Id fiet. [\@Ba.=]{.smallcaps} Hic hic pastor est, cui causa ouis.
 
 Ciij
 
 Sanguineum erit, torcular et calcantium[^86]
 
-Persimile uestimentum. Co: Opinaris aliquem
+Persimile uestimentum. [\@Co.=]{.smallcaps} Opinaris aliquem
 
-\(865\) Taedere tam uitae suae? insanis? Ba: Mori huic
+\(865\) Taedere tam uitae suae? insanis? [\@Ba.=]{.smallcaps} Mori huic
 
 Viuere erit. Et uerbis fides si sit aliqua.
 
@@ -2032,21 +2032,21 @@ Afflictio patientiam, patientia[^87]
 
 \(870\) Probationem, isthaec probatio spem parit.
 
-Spes bona hominem conseruat in rebus malis. Sa:
+Spes bona hominem conseruat in rebus malis. @[Sa:=]{.smallcaps}
 
 Resciscat hic poenam sibi certissimam.
 
-Referet pedem timore captus maximo. Ba: At-
+Referet pedem timore captus maximo. [\@Ba.=]{.smallcaps} At-
 
 Qui charitas timorem habet nullum. Insuper[^88]
 
 \(875\) Poenam usque adeo floccifacit, ut sponte obferat[^89]
 
-Se in hostiam pro sua oue mactandam. Co: Fidem
+Se in hostiam pro sua oue mactandam. [\@Co.=]{.smallcaps} Fidem
 
 Quis misero habebit, se licet malae cruci[^90]
 
-Dedat? Ba: Abolebitur per hunc mors, quae meâ
+Dedat? [\@Ba.=]{.smallcaps} Abolebitur per hunc mors, quae meâ
 
 Industriâ genita, adoleuit hactenus.[^91]
 
@@ -2058,17 +2058,17 @@ Non capit ouile huiusmodi, qui in carne sunt.
 
 Quem reperies non carneum? affectu atque non
 
-Duci illius? Ba: carnis ais? Sa: Aio. Affectis et
+Duci illius? [\@Ba.=]{.smallcaps} carnis ais? [\@Sa.=]{.smallcaps} Aio. Affectis et
 
 \(885\) Carnis, tua haec mors est. quid, abolebitur? Vt hic
 
-Times ubi timor nullum habet locum. Co: equidem ita est.
+Times ubi timor nullum habet locum. [\@Co.=]{.smallcaps} equidem ita est.
 
-Sa: Quin et adamantinis apud nos uinculis
+[\@Sa.=]{.smallcaps} Quin et adamantinis apud nos uinculis
 
 Vincta est, et in coecissimis tenebris aegens,
 
-Facile uiri fallet oculos. Ba: Ficulnea haec[^92]
+Facile uiri fallet oculos. [\@Ba.=]{.smallcaps} Ficulnea haec[^92]
 
 \(890\) Sunt. Verbulo dissolueret uulcania
 
@@ -2082,11 +2082,11 @@ Quis galeam haberet, nemini datur. Hic enim
 
 \(895\) Lux lucidissima ipsissimas quoque[^93]
 
-Illuminans tenebras. Sa: Deum facis uirum.
+Illuminans tenebras. [\@Sa.=]{.smallcaps} Deum facis uirum.
 
-Qui id conijcis? Ba: me oracla de illo praestita
+Qui id conijcis? [\@Ba.=]{.smallcaps} me oracla de illo praestita
 
-Idem docent. Co: Age ualeant haec obsecro,
+Idem docent. [\@Co.=]{.smallcaps} Age ualeant haec obsecro,
 
 Esto, redimat singuine suo hanc ouem sibi,
 
@@ -2094,9 +2094,9 @@ Esto, redimat singuine suo hanc ouem sibi,
 
 Lotam ad uolutabrum luti uidebimus
 
-Redijsse. Sa: Princeps noster est fortis quoque Ba:
+Redijsse. [\@Sa.=]{.smallcaps} Princeps noster est fortis quoque @[Ba:=]{.smallcaps}
 
-Praedam auferet et à forti is, ut qui fortior. Co:[^95]
+Praedam auferet et à forti is, ut qui fortior. @[Co]{.smallcaps}:=[^95]
 
 Bene dicis. Ast compendio uis dicier
 
@@ -2124,7 +2124,7 @@ Qui Christiano se sacramento efferent,
 
 Dicent, sed ipsa re meo autorati erunt
 
-Principi equidem. Ba: ain' haec? Cos: Aio. Abito. Ponito
+Principi equidem. [\@Ba.=]{.smallcaps} ain' haec? @[Cos.=]{.smallcaps} Aio. Abito. Ponito
 
 Metum. Quid his stipata non facies? Per hos
 
@@ -2152,7 +2152,7 @@ Eidem amicissimus. Vt es sollicita. Quin
 
 Animum capessito. Rem humeris imponito
 
-\(930\) Nostris. Mihi et huic curae erit. Ba: Meliuscule
+\(930\) Nostris. Mihi et huic curae erit. [\@Ba.=]{.smallcaps} Meliuscule
 
 Se habet animus. Sororibus celabitur
 
@@ -2162,7 +2162,7 @@ Omne. Atqui id est Bascaniae inuidae mihi
 
 Ingenium, ut ubi studeo resciscere omnia
 
-\(935\) Quae mordeant me, reperio non paucula. Co:
+\(935\) Quae mordeant me, reperio non paucula. @[Co]{.smallcaps}:=
 
 Miraris occurrere tibi mala frequentius,
 
@@ -2184,7 +2184,7 @@ Defecit, atque inutilis factu'st. Nec est
 
 \(945\) Qui bene facere studet, nec unus quidem. Abeas
 
-Ecquid mali est? Ba: non memineram quidem.
+Ecquid mali est? [\@Ba.=]{.smallcaps} non memineram quidem.
 
 Non fert homo aliquem, nisi uoluntatem patris
 
@@ -2196,7 +2196,7 @@ Vestigia fuerit subsequutus, et ut tu ais,[^99]
 
 Nemo studebit, ecquid hic mihi crucem
 
-Sompnio? Nihil mali est. Valete. Co: tu quoque
+Sompnio? Nihil mali est. Valete. [\@Co.=]{.smallcaps} tu quoque
 
 Valeas. Negocio licet cum maximo
 
@@ -2204,7 +2204,7 @@ Hanc aegritudine liberauerim, tamen
 
 \[Hypermeter.\]
 
-\(955\) Triumpho. Sa. Verum. Hem tibi. Viden'? Co. Valeant. In aurem[^100]
+\(955\) Triumpho. [\@Sa.=]{.smallcaps} Verum. Hem tibi. Viden'? [\@Co.=]{.smallcaps} Valeant. In aurem[^100]
 
 Vtranque dormiamus ociosuli.
 
@@ -2218,13 +2218,13 @@ Dicaeosyne Helias.
 
 Trimetri.
 
-SIccine abijt noster? He. Abijt. Di. Ouis unius
+SIccine abijt noster? [\@He.=]{.smallcaps} Abijt. [\@Di.=]{.smallcaps} Ouis unius
 
-\(960\) Causa? He. Vnius ita, ut quae mom supra littoris
+\(960\) Causa? [\@He.=]{.smallcaps} Vnius ita, ut quae mom supra littoris
 
-Foetauerit harenam. Di. Diu est quod abierit? He.
+Foetauerit harenam. [\@Di.=]{.smallcaps} Diu est quod abierit? [\@He.=]{.smallcaps}
 
-Quaeso quid hic diu est? Di. nihil se respicit.
+Quaeso quid hic diu est? [\@Di.=]{.smallcaps} nihil se respicit.
 
 Parum ipse iusticiae suae meminit. Nisi in-
 
@@ -2232,7 +2232,7 @@ Effabilis uiri benignitas probe
 
 \(965\) Mihi foret perspecta, parum abesset equidem
 
-Quin dicerem eum auarum. He. Auidum ais. cum Ouis
+Quin dicerem eum auarum. [\@He.=]{.smallcaps} Auidum ais. cum Ouis
 
 Huiusce perditae salutem aueat. Neque
 
@@ -2242,15 +2242,15 @@ Tam gaudet, et tam non sapit se perditam, ut
 
 \(970\) Pastoris optimi optima illicia male
 
-Reijciet. Di. Reijcula modis omnibus
+Reijciet. [\@Di.=]{.smallcaps} Reijcula modis omnibus
 
-Reijcienda. Quod mei non sit animi. He.
+Reijcienda. Quod mei non sit animi. [\@He.=]{.smallcaps}
 
 Tum si uolet ouis perditae hulcuscula satis[^101]
 
 Aperta tangere, quo malefaciat uiro
 
-\(975\) Studebit acriter. Di. Vsqueadeo se uilem habet?
+\(975\) Studebit acriter. [\@Di.=]{.smallcaps} Vsqueadeo se uilem habet?
 
 Reperio nunc uerissimum, quod inquiunt,
 
@@ -2258,19 +2258,19 @@ Inuitum ubi retines, quo abeat, hunc incitas.
 
 Certauit hic soror mecum, sed uicta sum. et
 
-Victis quid aliud quàm dolor? He. Vicit soror.
+Victis quid aliud quàm dolor? [\@He.=]{.smallcaps} Vicit soror.
 
 \(980\) Atqui parum est currenti equo calcaria
 
 Subdere. Volens uitam suam impendit oui. At hanc[^102]
 
-A nemine ablatam sibi iterum assumet. Di. hem
+A nemine ablatam sibi iterum assumet. [\@Di.=]{.smallcaps} hem
 
-Vitam? huic oui? dolor. dolor. He. Quin hic tuus
+Vitam? huic oui? dolor. dolor. [\@He.=]{.smallcaps} Quin hic tuus
 
 Valeat dolor. Nam plus minus sesquihorulam
 
-\(985\) Hunc abfuturum scimus. Di. Anni plus minus
+\(985\) Hunc abfuturum scimus. [\@Di.=]{.smallcaps} Anni plus minus
 
 Trigintatres, sesquihorula haec est. Heli. apud ouem.
 
@@ -2292,7 +2292,7 @@ Eleemosyna. Dicaeosyne. Helias.
 
 Eiusdem numeri.
 
-DIu est quod abijt noster Helia? Di. Quasi
+DIu est quod abijt noster Helia? [\@Di.=]{.smallcaps} Quasi
 
 Vtranque paginâ in hoc libro non feceris. El.
 
@@ -2300,71 +2300,71 @@ Vtranque paginâ in hoc libro non feceris. El.
 
 Tuo animo. Oues licet et triumphes quod uirum
 
-Eieceris. Ele. quonam? Di. in malam crucem. Elee. bona
+Eieceris. [\@Ele.=]{.smallcaps} quonam? [\@Di.=]{.smallcaps} in malam crucem. [\@Elee.=]{.smallcaps} bona
 
-Verba obsecro. Di. Sic ê tamen. Ele. Egon uirum? ain'? an
+Verba obsecro. [\@Di.=]{.smallcaps} Sic ê tamen. [\@Ele.=]{.smallcaps} Egon uirum? ain'? an
 
 Ille imperatis nunc meis facere satis
 
-\(1000\) Compellitur? Tibi in aliquem imperium habeo? Di:
+\(1000\) Compellitur? Tibi in aliquem imperium habeo? [\@Di.=]{.smallcaps}
 
 Quidquid habeas ne scio. Sed id certò scio,
 
-Per te uirum nobis abesse. Ele. demus id
+Per te uirum nobis abesse. [\@Ele.=]{.smallcaps} demus id
 
 Tibi, quandoquidem ita uis. Foret tamen hic mihi
 
 Quod gratias ageres, ut huic quae esset bene
 
-\(1005\) De te merita. Di. de me bene merita es? tun' hem?
+\(1005\) De te merita. [\@Di.=]{.smallcaps} de me bene merita es? tun' hem?
 
 Peroptimè, tibi debeo aegritudinem hanc
 
-Cum me mihi charissimo uiduaueris. He.
+Cum me mihi charissimo uiduaueris. [\@He.=]{.smallcaps}
 
-Is tibi aderit simul cum oue, et saluus quidem. Di.
+Is tibi aderit simul cum oue, et saluus quidem. [\@Di.=]{.smallcaps}
 
 Vt ille qui de se loquitur ita. Cur mea[^103]
 
 \(1010\) Plaga renuit curarier? Sed numcubi
 
-De me bene merita es? Ele. hic ubi tantum doles
+De me bene merita es? [\@Ele.=]{.smallcaps} hic ubi tantum doles
 
-Modò uelis audies? Di. Agas mecum licet
+Modò uelis audies? [\@Di.=]{.smallcaps} Agas mecum licet
 
 Meris sophismatibus, tamen praeter meum
 
 Quod habeo praesens ingenium, adero hic tibi.
 
-Ele. (1015) Dic num illa quae est iusta actionis causa, de
+[\@Ele.=]{.smallcaps} (1015) Dic num illa quae est iusta actionis causa, de
 
-Te bene meretur? Dicae. maximè. Elee. Quando me eam
+Te bene meretur? Dicae. maximè. [\@Elee.=]{.smallcaps} Quando me eam
 
-Docuero, reliquum mihi facile dabis arbitror. Di.
+Docuero, reliquum mihi facile dabis arbitror. [\@Di.=]{.smallcaps}
 
-Doctrix ubi docueris hanc te esse, obtines. Ele.
+Doctrix ubi docueris hanc te esse, obtines. [\@Ele.=]{.smallcaps}
 
 Potissimum Iusticiae erit tibi pietas
 
-\(1020\) Credo. Di. erit. Ele. et haec dei ipsius notio Di. eadem
+\(1020\) Credo. [\@Di.=]{.smallcaps} erit. [\@Ele.=]{.smallcaps} et haec dei ipsius notio [\@Di.=]{.smallcaps} eadem
 
-Ele. Ecquis Deum nouit probe? Di. qui colit eundem.
+[\@Ele.=]{.smallcaps} Ecquis Deum nouit probe? [\@Di.=]{.smallcaps} qui colit eundem.
 
-Ele. Itaque Dei cultura erit Pietas. Di. erit. Ele.
+[\@Ele.=]{.smallcaps} Itaque Dei cultura erit Pietas. [\@Di.=]{.smallcaps} erit. [\@Ele.=]{.smallcaps}
 
-Et iusticia. Di. quis ambigit? Ele. Detur nisi
+Et iusticia. [\@Di.=]{.smallcaps} quis ambigit? [\@Ele.=]{.smallcaps} Detur nisi
 
 Qui coluerit Deum, neque pium habes. neque
 
-\(1025\) Iustum. Di. reluctor? Ele. Iam cum eô insipientiae
+\(1025\) Iustum. [\@Di.=]{.smallcaps} reluctor? [\@Ele.=]{.smallcaps} Iam cum eô insipientiae
 
 Ventum sit, ut Deum esse denegent, spei est
 
-Aliquid Deum coli? Di. Spei ne tantulum
+Aliquid Deum coli? [\@Di.=]{.smallcaps} Spei ne tantulum
 
 Quidem, Sed ubi iustae actionis causa tu?
 
-Doleam licet, idem a te tamen discere libet. Ele.
+Doleam licet, idem a te tamen discere libet. [\@Ele.=]{.smallcaps}
 
 \(1030\) Maneto. Num cogi ualent ad id quo haec proferant
 
@@ -2376,19 +2376,19 @@ Omnes uiae eius iudicia, cuius in
 
 Manu est superbiâ tumentes, humilimos
 
-\(1035\) Efficere. et his confinia? Di. duplici uia
+\(1035\) Efficere. et his confinia? [\@Di.=]{.smallcaps} duplici uia
 
-Et ui et beneficio. Ele. coletur ne deus hic
+Et ui et beneficio. [\@Ele.=]{.smallcaps} coletur ne deus hic
 
 Et à pijs. et identidem à iustis probe
 
-Notus? Di: coletur. Ele. A quo ad hoc cogentur hi
+Notus? [\@Di.=]{.smallcaps} coletur. [\@Ele.=]{.smallcaps} A quo ad hoc cogentur hi
 
 Rectius? ab hoc ne qui Deo tam similis est
 
-\(1040\) Quàm ouum ouo? Di: ita credo: Ele: iste noster est. Di: scio,
+\(1040\) Quàm ouum ouo? [\@Di.=]{.smallcaps} ita credo: [\@Ele.=]{.smallcaps} iste noster est. [\@Di.=]{.smallcaps} scio,
 
-Ele. Quia huius oblita est ouis misellula,
+[\@Ele.=]{.smallcaps} Quia huius oblita est ouis misellula,
 
 Quod eius impietas facillimè arguit,[^105]
 
@@ -2402,23 +2402,23 @@ Subfudi. et eieci uirum si dijs placet.
 
 Hoc est futurae iusticiae ego causa sum.
 
-Quid quaeso habes quod hic mihi respondeas. Di:
+Quid quaeso habes quod hic mihi respondeas. [\@Di.=]{.smallcaps}
 
-Nihil nisi quod arguta es admodum. Ele. Precor
+Nihil nisi quod arguta es admodum. [\@Ele.=]{.smallcaps} Precor
 
-\(1050\) Animo bono sis. Di: si meus adesset. He: Scio
+\(1050\) Animo bono sis. [\@Di.=]{.smallcaps} si meus adesset. [\@He.=]{.smallcaps} Scio
 
 Iamiam uirum affuturum, et id
 
-Salua oue. Elee: Scin' hunc corruptioni obnoxium
+Salua oue. [\@Elee.=]{.smallcaps} Scin' hunc corruptioni obnoxium
 
 Minimè? Futurum hinc est ouile unum, unus et
 
-Pastor. Di: Si adesset. Ele: Saluus aderit. He: certe adest.
+Pastor. [\@Di.=]{.smallcaps} Si adesset. [\@Ele.=]{.smallcaps} Saluus aderit. [\@He.=]{.smallcaps} certe adest.
 
-\(1055\) Di: Riden' misellulam? He: in humeros ouem gerit.
+\(1055\) [\@Di.=]{.smallcaps} Riden' misellulam? [\@He.=]{.smallcaps} in humeros ouem gerit.
 
-Respicito. Ele: Serio triumphamus equidem
+Respicito. [\@Ele.=]{.smallcaps} Serio triumphamus equidem
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2460,31 +2460,31 @@ Mundi huius ipsum principem. Quam modo mea
 
 Gaudebit uniuersa familia. Non potest
 
-Dici. Ele. Rem habes. \[\< hahes\] Saluum te adesse gaudeo
+Dici. [\@Ele.=]{.smallcaps} Rem habes. \[\< hahes\] Saluum te adesse gaudeo
 
-So. Ten meam Eleemosynam habeo? Viden' quàm ego
+[\@So.=]{.smallcaps} Ten meam Eleemosynam habeo? Viden' quàm ego
 
-\(1075\) Beauerim te? Ele. Per tuam praesentiam
+\(1075\) Beauerim te? [\@Ele.=]{.smallcaps} Per tuam praesentiam
 
-Dea sum. So. efficacissima. quum ouis per te mea
+Dea sum. [\@So.=]{.smallcaps} efficacissima. quum ouis per te mea
 
 Reperta, reddita sit ouili pristino. Et
 
 Licet aliquando transiluerit septa, tu es
 
-Quae eidem ouilis ostium aperies. He. here
+Quae eidem ouilis ostium aperies. [\@He.=]{.smallcaps} here
 
-\(1080\) Vnica uoluptas est adesse tibi. So. Helia
+\(1080\) Vnica uoluptas est adesse tibi. [\@So.=]{.smallcaps} Helia
 
-Mi ades? stupent ocelluli prae gaudio. Di.
+Mi ades? stupent ocelluli prae gaudio. [\@Di.=]{.smallcaps}
 
-Meum habeo? So. habes longe ab alio diuersum. Di. ain'?
+Meum habeo? [\@So.=]{.smallcaps} habes longe ab alio diuersum. [\@Di.=]{.smallcaps} ain'?
 
-Dic, num satin' saluae? So. Satis. Di. Alius es modo ac
+Dic, num satin' saluae? [\@So.=]{.smallcaps} Satis. [\@Di.=]{.smallcaps} Alius es modo ac
 
-Fueris? So. qui abieram tristicia, redeo tibi
+Fueris? [\@So.=]{.smallcaps} qui abieram tristicia, redeo tibi
 
-\(1085\) Laeticia. Di. Sed quaeso, mali passus nihil? So.
+\(1085\) Laeticia. [\@Di.=]{.smallcaps} Sed quaeso, mali passus nihil? [\@So.=]{.smallcaps}
 
 Obducta crustis uulnera refricarier
 
@@ -2504,7 +2504,7 @@ Deos uolo. Ocyus sequimini me. Via[^110]
 
 Dux ero uiae omnibus Viam qui ingreditur hanc
 
-\(1095\) Tenebras timebit ille nullas. Sequimini. He.
+\(1095\) Tenebras timebit ille nullas. Sequimini. [\@He.=]{.smallcaps}
 
 A prandio nihil est quod operiamini
 
@@ -2520,9 +2520,9 @@ Paucos, sed electos quoque numero esse non
 
 Multos. Valete. et si uidetur, Plaudite.
 
-FINIS
-
 /back/
+
+FINIS
 
 [^1]: *In marg*. Genes. 2
 

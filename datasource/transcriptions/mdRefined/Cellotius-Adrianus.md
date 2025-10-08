@@ -301,7 +301,7 @@ Seruire domino: macte, vinciri imminet.
 
 Vri, necari: grauius & si quid iubes
 
-Orci lanista, pectus addictum offeres.
+≤line=5≥ Orci lanista, pectus addictum offeres.
 
 Aliis locatas tendere ad populum manus,
 
@@ -311,7 +311,7 @@ Statum rogare; te decet iugulum dare
 
 Totumque ferrum recipere, & stantem mori.
 
-Sed vita prorogetur; hîc certè breuis
+≤line=10≥ Sed vita prorogetur; hîc certè breuis
 
 Dabitur honorum meta, Caesareus fauor
 
@@ -321,7 +321,7 @@ Christo probandus? Chara quid comitum manus?
 
 Primae clientes vota fortunae ferunt;
 
-Et hanc sequantur: ditior coelo venis
+≤line=15≥ Et hanc sequantur: ditior coelo venis
 
 ≤page=2≥ Mihi aequa, & illis. Caesaris laesi furor
 
@@ -331,7 +331,7 @@ Et aliquis ab hara Pontifex, nullum sibi
 
 Litare porcum questus. Hîc pronum, hîc nefas
 
-Vinci Adriane, siue blanditia tegunt
+≤line=20≥ Vinci Adriane, siue blanditia tegunt
 
 Fallace furias: seu catastarum minis
 
@@ -341,7 +341,7 @@ Est Christianum, quandò quae vitam extrahit
 
 Non maxima, at suprema iam fessis venit.
 
-Vidi haud suo pallere tortorem metu:
+≤line=25≥ Vidi haud suo pallere tortorem metu:
 
 Vidi caducâ pendulum in vulnus manu
 
@@ -351,7 +351,7 @@ Praeberet infans, atque vix lethi capax
 
 Victrice tenerum laureâ impleret caput.
 
-Haec virgo potuit, potuit in vitae puer
+≤line=30≥ Haec virgo potuit, potuit in vitae puer
 
 Limine, Deo maturus; & durum tibi
 
@@ -361,7 +361,7 @@ Opus vigoris, perque pueriles fibras
 
 Rigere ferrum? robur hoc coelo meat
 
-In Christianos, nomini reddit pares
+≤line=35≥ In Christianos, nomini reddit pares
 
 Dominóque. Me quoque entheat: iam se nouos
 
@@ -371,7 +371,7 @@ Meque ipse maior, & ille non dudum tener.
 
 Cui ventus oculum laesit, & cyathus niue.
 
-Male temperatus nocuit, aduersum neci
+≤line=40≥ Male temperatus nocuit, aduersum neci
 
 Oppono pectus. Terga plumbatis feri,
 
@@ -381,7 +381,7 @@ Malis supererit animus, & poenae locum
 
 Membris negatum mentis inueniet vigor.
 
-Hàc ire iuuat ad gloriam: hoc pretio benè
+≤line=45≥ Hàc ire iuuat ad gloriam: hoc pretio benè
 
 Redemptae virtus constat. Vuum est quo latus
 
@@ -391,7 +391,7 @@ Nudare vereor: socia genialis tori
 
 Adriane amat te: genua prensabit manu,
 
-Rigabit ora lacrymis, praesens bonum,
+≤line=50≥ Rigabit ora lacrymis, praesens bonum,
 
 Tot spes futuri voce quàm blandâ occinet:
 
@@ -401,7 +401,7 @@ Spensare coelebis: se toro sociam inferet
 
 Inuisa Christo? non amat, si me negat
 
-Amare, vel sic: non amat, si quem sequor
+≤line=55≥ Amare, vel sic: non amat, si quem sequor
 
 Sequi recusat. Quicquid hic etiam est meum
 
@@ -417,7 +417,7 @@ ADRIANVS. METELLVS.
 
 \-- NAENIAS iam non vacat
 
-Audire vestras. Metell. A Ioue & magnis Dei?
+≤line=60≥ Audire vestras. \@Metell.= A Ioue & magnis Dei?
 
 Quod nunciatur, naeniam appelles caue
 
@@ -427,7 +427,7 @@ Qualis Falisco nulla de fonte exiit.
 
 Admota Diuis sponte suscincto dabat
 
-Iugulum ministro: cùm ille nescio quid furens
+≤line=65≥ Iugulum ministro: cùm ille nescio quid furens
 
 [^3]Aberrat ictu, quáque postremos pedes
 
@@ -437,7 +437,7 @@ Stat auida caedis mater, & qualis solet
 
 Balare laetùm, perque vulnificas manus,
 
-Quà larga cultros vena suppositos rigat,
+≤line=70≥ Quà larga cultros vena suppositos rigat,
 
 Succisa prolis membra sanguineo rapit
 
@@ -447,17 +447,17 @@ Profugit ab aris, séque non vllâ eripit
 
 Perienda dextrâ. Clamat attonitus Popa,
 
-≤page=4≥ Sua sacra damnat; ac nisi hortatu, minis,
+≤line=75≥ ≤page=4≥ Sua sacra damnat; ac nisi hortatu, minis,
 
 Precibus, pauenti insisterem, numerum hostia,
 
 Idem & minister, funere impleret suo.
 
-Adrian. Haec monstra narra queis superstitio Deos
+\@Adrian.= Haec monstra narra queis superstitio Deos
 
 Fecit timendos: curame potior coquit.
 
-Metell. Ambigua facies viscerum, atque inter minas,
+≤line=80≥ \@Metell.= Ambigua facies viscerum, atque inter minas,
 
 Interque spem pependit, at propior minis.
 
@@ -467,7 +467,7 @@ Latebrásque prodit: viuidus fibris color:
 
 Pulmo suâ receptus, alienâ iecur
 
-In sede lentum palpitat: tristes latus
+≤line=85≥ In sede lentum palpitat: tristes latus
 
 Hostile venas auget, & iecoris caput
 
@@ -477,9 +477,9 @@ Cordis cacumen. Tristia auertat potus!
 
 [^4]Nam cui litauit ante versicolor sacrum?
 
-Tamen & in ignes lance prosicias dedi,
+≤line=90≥ Tamen & in ignes lance prosicias dedi,
 
-Et vota dixi Patribus. Adrian. Vanos metus
+Et vota dixi Patribus. \@Adrian.= Vanos metus
 
 Depone Flamen: vester insanum Tages
 
@@ -487,7 +487,7 @@ Superis honorem posuit, & ludum puer
 
 Immisit aris. Qui tenet Coelum Deus.
 
-Vestri arietinis quippe visceribus notat
+≤line=95≥ Vestri arietinis quippe visceribus notat
 
 Momenta fativaria! si timidus mori
 
@@ -497,7 +497,7 @@ Fugere suasit, non suo cecidit loco,
 
 Minantur astra! Tabe liquefactum iecur
 
-Corque irrepertum, liuidis pulmo fibris
+≤line=100≥ Corque irrepertum, liuidis pulmo fibris
 
 Imperia mutant! Quae potens rerum manus
 
@@ -505,9 +505,9 @@ Tam parua tantis foedere aeterno alligat?
 
 Quis ordo mundi iecoris in fisso mei
 
-Spem scripsit aeui? Metell. Quod vides, quod non vides,
+Spem scripsit aeui? \@Metell.= Quod vides, quod non vides,
 
-≤page=5≥ Elementa quicquid mutuâ formant ope
+≤line=105≥ ≤page=5≥ Elementa quicquid mutuâ formant ope
 
 Tellure, coelóque abditum, tenuis subit,
 
@@ -517,7 +517,7 @@ Animante viuit. Ipse circùm orbe eminens
 
 In se reducto, ne qua pars fallat, regit.
 
-Sibíque de se genitus, aeternum igneo
+≤line=110≥ Sibíque de se genitus, aeternum igneo
 
 Motum propagat fomite. Hinc vegetum capit
 
@@ -527,7 +527,7 @@ Pennis vibrantur alites; ponti aequora
 
 Pinna volucri squammeum verrit pecus.
 
-Et opima bifidi prata rimantur greges:
+≤line=115≥ Et opima bifidi prata rimantur greges:
 
 Hominesque ab astris ducta gens, diae inclyta
 
@@ -537,9 +537,9 @@ Fortuna membrum corporis; si pars dolet,
 
 Non ingemiscet alia? tensarum rigor
 
-Fidium mouetur vna si resonat leui
+≤line=120≥ Fidium mouetur vna si resonat leui
 
-Percussa plectro. Adrian. Rebus hic cunctis amor
+Percussa plectro. \@Adrian.= Rebus hic cunctis amor
 
 Et vbíque constet, omnia indoleant mihi,
 
@@ -547,7 +547,7 @@ Nullúmque magni corporis nostro vacet
 
 Labore membrum; causa sed varios facit
 
-Eadem tumultus: terreat tristi tuus
+≤line=125≥ Eadem tumultus: terreat tristi tuus
 
 Te taurus exto; regias hosti vices
 
@@ -557,17 +557,17 @@ Herculius illic non bonas patitur fibras:
 
 Et vterque membrum est orbis, imperii caput,
 
-Dicam otiosos? sordidos malim Deos,
+≤line=130≥ Dicam otiosos? sordidos malim Deos,
 
 Si iecore, & extis sancta consilia occulunt,
 
 Quae vatis amans prodat Hetrusci furor.
 
-Metell. Firmata Diuûm numine, & longis patrum
+\@Metell.= Firmata Diuûm numine, & longis patrum
 
 Probata seclis parce vesano sacra
 
-≤page=6≥ Temerare risu. Cùm triumphanti pede
+≤line=135≥ ≤page=6≥ Temerare risu. Cùm triumphanti pede
 
 Calcaret orbem Roma, & indomita manu
 
@@ -577,7 +577,7 @@ Vmbras syene, quóque glacialem piger
 
 Currum Bootes sequitur, hâc aquilas tulit
 
-Pietate victrix: vrbis haec Tyriae ducem
+≤line=140≥ Pietate victrix: vrbis haec Tyriae ducem
 
 Religio portis: arce Tarpeiâ arcuit
 
@@ -587,17 +587,17 @@ Terrarum alumna, Palladis castae domus:
 
 Teque Ephyra Achiuûm lumen, immoto obiice
 
-Quae gemina semper maria committi vetas,
+≤line=145≥ Quae gemina semper maria committi vetas,
 
 Vos cultus iste domuit, in nostris prius
 
 Cecidistis aris, saxa quàm latio impete
 
-Quassaret aries. Adrian. Ritibus maior tuis
+Quassaret aries. \@Adrian.= Ritibus maior tuis
 
 Arsacia Macedo sceptra, & indociles iugi
 
-Fraenauit Indos. Caesar iratâ hostiâ
+≤line=150≥ Fraenauit Indos. Caesar iratâ hostiâ
 
 Alacris iubámque, téque Scipiada, Africae
 
@@ -607,17 +607,17 @@ Vincendo fecit. Mecell. Martias doctus Tages
 
 Canebat Idus, spreuit & verax sacrum
 
-Moriendo fecit. Nemo contempsit Deos
+≤line=155≥ Moriendo fecit. Nemo contempsit Deos
 
 Impunè felix: hostiae quisquis minas
 
 Contrà tetendit, se dedit fato hostiam.
 
-Adrian. Si fulminastrum voce non brutâ facis,
+\@Adrian.= Si fulminastrum voce non brutâ facis,
 
 Christum professis quicquid est coelo Deûm
 
-Committe, Regum ponat interea furor
+≤line=160≥ Committe, Regum ponat interea furor
 
 Pugna reductus, faciet euentus fidem
 
@@ -631,7 +631,7 @@ VAE cura patrum, Caesaris qui te fauor
 
 Reflectere animum cupiat, est vanum eloqui
 
-Benè sentienti: nulla turbatam quies
+≤line=165≥ Benè sentienti: nulla turbatam quies
 
 Pacauit aulam, consilî rumor tui
 
@@ -641,7 +641,7 @@ Aduersa Boreas stridet, & pontum improbo
 
 Vexant duello: talis instabilem ciet
 
-Tumultus aulam: iurat hic vano seri
+≤line=170≥ Tumultus aulam: iurat hic vano seri
 
 Terrore famam; certat emotam hic tibi
 
@@ -651,9 +651,9 @@ Hic in dolosas isse deceptum plagas
 
 Miseratur: animum Caesar huc illuc rapit
 
-Incertus. Adrian. Ecquid nomen exceptor dedit?
+≤line=175≥ Incertus. \@Adrian.= Ecquid nomen exceptor dedit?
 
-Flau. Heu! falsa sperat, vera quae credi iubes.
+\@Flav.= Heu! falsa sperat, vera quae credi iubes.
 
 Veneranda procerum Caesarem ambibat cohors,
 
@@ -661,7 +661,7 @@ Pro se fidelem quisque perdendo manum
 
 Christo offerebat; ille quo vultu polum
 
-Phoebus serenat; vincet hoc, proceres mei
+≤line=180≥ Phoebus serenat; vincet hoc, proceres mei
 
 Labor Adriani, vincet, & coelo auspice
 
@@ -671,7 +671,7 @@ Strident catenis oppida, angusti gemunt,
 
 Vomuntque turbam carceres, crebrâ necè
 
-Fessae secures, arma carnifici, reis
+≤line=185≥ Fessae secures, arma carnifici, reis
 
 Tormenta desunt: dixerat, magno ambitu
 
@@ -681,17 +681,17 @@ Titianus intrat grande dicturus nefas.
 
 Murmur per aulam, Iouius an letho occidit?
 
-Romam tyrannus occupat? largo perit
+≤line=190≥ Romam tyrannus occupat? largo perit
 
 Vrbs Nicomedis igne? quid dubios tenes?
 
 Eloquere. Christum noster Adrianus colit.
 
-Metell. Christum Adriane? Flau. Moestus attonitis pauor
+\@Metell.= Christum Adriane? \@Flav.= Moestus attonitis pauor
 
 Primum ora claudit. Sic vbi aestiuo Ioue
 
-Coruscat aether, densa messorum cohors
+≤line=195≥ Coruscat aether, densa messorum cohors
 
 Praesaga cladis robore sub alto latet.
 
@@ -701,7 +701,7 @@ In opaca turbo brachia, & latè ilicem
 
 Populatur agro, pauitat exsanguis metu
 
-Colonus hospes, séque defixum solo
+≤line=200≥ Colonus hospes, séque defixum solo
 
 Sternit bidental. Caesar attonitos supra
 
@@ -711,27 +711,27 @@ Gemitque, trepidátque, omnis in vultu est labor
 
 Amantis, & dolentis, & nondum pudet
 
-Adriane facti? Caesaris non sic tibi
+≤line=205≥ Adriane facti? Caesaris non sic tibi
 
 Amor est probatus? eia perspectam fidem
 
-Felix adora. Adrian. Si cui Adrianus placet,
+Felix adora. \@Adrian.= Si cui Adrianus placet,
 
-Et Christianus placeat. Flau. Id leges vetant.
+Et Christianus placeat. \@Flav.= Id leges vetant.
 
-Metell. Inimica templis capita, ferróque, & face
+\@Metell.= Inimica templis capita, ferróque, & face
 
-Insequitur vltor, iamque plebeiae abstulit
+≤line=210≥ Insequitur vltor, iamque plebeiae abstulit
 
 Praesidia genti, militum Ausonius vigor
 
-loui litare iussus, aut turpi ordinem
+Ioui litare iussus, aut turpi ordinem
 
 Deserere letho. Timida Cerdonum phalanx
 
 Per te euocata, quos in horrendas specus,
 
-Stabulata monstris antra compegit pauor
+≤line=215≥ Stabulata monstris antra compegit pauor
 
 Tot perduelles inter Augusta in domo
 
@@ -741,17 +741,18 @@ Cultorem amabit: Num Dioclaeâ satus
 
 Sceptróque socium asciuit, & generum toro.
 
-Ritum vt nefandum rueret? Astraeae rigor
+≤line=220≥ Ritum vt nefandum rueret? Astraeae rigor
 
 Aequare ciues, causa pietatis iubet
 
-Saeuire in aulam. Adrian. Saeuiat, longa est mora.
+Saeuire in aulam. \@Adrian.= Saeuiat, longa est mora.
 
-Flau. Certum est perire? Adrian. Quod volet. Flau. Amicas praeces
+\@Flav.= Certum est perire? \@Adrian.= Quod volet. \@Flav.= Amicas
+praeces
 
 Suspiria aulae, Caesaris vota accipe.
 
-Quid moliaris cogita: tenerum metis
+≤line=225≥ Quid moliaris cogita: tenerum metis
 
 Florem dierum, praeco quas fruges tuae
 
@@ -761,7 +762,7 @@ Quid lecta coniux, nuper hymenai faces
 
 Experta? saltem prole ditasset domum
 
-Lucina, vestros perque reptaret sinus
+≤line=230≥ Lucina, vestros perque reptaret sinus
 
 Puer Adrianus, ore qui referat patrem,
 
@@ -771,7 +772,7 @@ Nunc totus vno funere efferri cupis,
 
 Nusquam superstes. Nota gradiuo manus,
 
-Pectus pauere nescium educet gradus
+≤line=235≥ Pectus pauere nescium educet gradus
 
 Ad inuidendos. Clara quae Iouii atria.
 
@@ -781,7 +782,7 @@ Armenta reboant: vetera quid frustra exsequar?
 
 Subitum Adriani culmen, aut longo ambitu
 
-Emptum Seuero? quique barbarici laris
+≤line=240≥ Emptum Seuero? quique barbarici laris
 
 Magale nostro fecit imperio inclytum,
 
@@ -791,37 +792,37 @@ Fornace sceptrum Pertinax, quâ te imperi
 
 Dote anteibant? quis parem iuueni neget
 
-Sperare sortem? tam bonas ergo malâ
+≤line=245≥ Sperare sortem? tam bonas ergo malâ
 
 Spes perdis horâ, teque crudeli obiicis
 
-≤page=10≥ Letho nocentem? Metell. Dum salus tuta est adhuc
+≤page=10≥ Letho nocentem? \@Metell.= Dum salus tuta est adhuc
 
 Resume mentem, néue sacrorum minas
 
 Contemne praeceps; profuit multis semel
 
-Peccasse, non est culpa quae celerem petit
+≤line=250≥ Peccasse, non est culpa quae celerem petit
 
-Veniae regressum. Adrian. Pectore immoto sedet
+Veniae regressum. \@Adrian.= Pectore immoto sedet
 
 Coluisse Christum; vestra tractari inscium
 
 Monita fatigans: ite, non Caesar minis,
 
-Non aula fuco moueat. Flau. Est aliquid super
+Non aula fuco moueat. \@Flav.= Est aliquid super
 
-Quo iussa tendant. Caesar allegans tibi,
+≤line=255≥ Quo iussa tendant. Caesar allegans tibi,
 
 Tua cura, Flaui, flectere alloquio virum.
 
 Si renuit, inquit, carcere, & vinclis doma.
 
-Adrian. Hoc age, parata membra tormentis habes,
+\@Adrian.= Hoc age, parata membra tormentis habes,
 
 Mei volens amplector armillas ducis.
 
-Innecte torques, arma de coelo expedi:
+≤line=260≥ Innecte torques, arma de coelo expedi:
 
 Vbi castra, & hostes? video, non longum est iter.
 
@@ -831,7 +832,7 @@ Vbi dite victo Christianorum manu
 
 Christus triumphet. Fla. Robur aut nullum foret,
 
-Meliore causa aut poneres! nunc vis agit
+≤line=265≥ Meliore causa aut poneres! nunc vis agit
 
 Indomita. Ceu cùm currus adductas negat
 
@@ -845,7 +846,7 @@ GALERIVS. ADRIANVS.
 
 HAEC illa meriti gratia? haec nostris fides
 
-Iurata sceptris? transfuga, & nostri, & tui
+≤line=270≥ Iurata sceptris? transfuga, & nostri, & tui
 
 ≤page=11≥ Oblitus hostem colere vt affectes Deum?
 
@@ -855,7 +856,7 @@ Adiungit aula: quos pex obsequij dolos
 
 Capiti imminere patimur, & fiduciâ
 
-Stolidi infideles facimus! ô nunquam satis
+≤line=275≥ Stolidi infideles facimus! ô nunquam satis
 
 Officia regum tuta! quàm rarò stetit
 
@@ -865,7 +866,7 @@ Ipsos fauores inter, addictam fidem
 
 Momento in ipso deserunt, & quos erat
 
-Emise pretium, gratis alieno locant
+≤line=280≥ Emise pretium, gratis alieno locant
 
 Animos tyranno. Nam quid aggredior miser
 
@@ -875,7 +876,7 @@ Per clausa Phoebo lustra, & aestiferi canis
 
 Perusta flammis arua, Christicolûm insequor
 
-Sacrilega vindex capita, & introrsus meâ
+≤line=285≥ Sacrilega vindex capita, & introrsus meâ
 
 Surgunt in aulâ; quos procul venor, meo
 
@@ -885,7 +886,7 @@ Dabit recessum? Regios inter lares,
 
 Veneranda & hosti saxa, Romanus petit
 
-Subsessor animam. Tutius libycâ gradum
+≤line=290≥ Subsessor animam. Tutius libycâ gradum
 
 Moueas arenâ qua ferâ dipsas siti
 
@@ -895,17 +896,17 @@ Cerasta fronte cornua; aut anceps caput
 
 Exertat amphisbaena. Sic Regi timor
 
-Suus est satelles: sic neque ingratus, fera
+≤line=295≥ Suus est satelles: sic neque ingratus, fera
 
 Laribus recepta, Caesarum pretio, aut prece
 
-Mansuescit vnquam. Adrian. Multa peccare arguis
+Mansuescit vnquam. \@Adrian.= Multa peccare arguis
 
 Inuicte Caesar: Christus at scelerum est caput,
 
 Cui colla tyro subdidi: hoc leuius iugo
 
-Nullum est Galeri: vestra religio vagum
+≤line=300≥ Nullum est Galeri: vestra religio vagum
 
 Egit per aras mentis exsortem piae,
 
@@ -915,7 +916,7 @@ Scit ipse, nemo me sine admouit sacram
 
 Salsâ notauit fruge: quid numerem meis,
 
-Cerata votis aera? quid donis tholos
+≤line=305≥ Cerata votis aera? quid donis tholos
 
 Pretiosiores? Nulla sed fidam dedit
 
@@ -925,7 +926,7 @@ Animum alligauit Christus, & vera decus
 
 Pietatis hausi. Numen hunc credo meum,
 
-Putare liceat, nulla libertas minor
+≤line=310≥ Putare liceat, nulla libertas minor
 
 Praestatur homini. Nam quod infidum vocas,
 
@@ -935,7 +936,7 @@ Malus est latentis arbiter vulgus boni.
 
 Olim Adriano si stetit vita innocens,
 
-Quae Christianum culpa constituit reum?
+≤line=315≥ Quae Christianum culpa constituit reum?
 
 Christus fidelem ludere incautos vetat,
 
@@ -945,7 +946,7 @@ Captare gazas; sanguine innocuo manus
 
 Foedare, venenis scandere illicitae toros.
 
-Haec iussa coelo elicuit, haec Christi asseclae
+≤line=320≥ Haec iussa coelo elicuit, haec Christi asseclae
 
 In verba coëunt, illa nocturnis sacra
 
@@ -955,7 +956,7 @@ Artus rigaui, latera sulcaui vngulis,
 
 Ferro reclusi viscera, hoc tantum erui,
 
-Cecinisse Christo carmen, in noxae inscios
+≤line=325≥ Cecinisse Christo carmen, in noxae inscios
 
 Jurasse mores, Caesarum multis caput
 
@@ -965,7 +966,7 @@ Iniqua torquet fama, & audire abnuit,
 
 Damnare quod quaesitor auditum haud queat.
 
-Hinc est rebellis secta, quos Christus facit
+≤line=330≥ Hinc est rebellis secta, quos Christus facit
 
 Post Christum amant & Caesares: surdum Iouem,
 
@@ -975,17 +976,17 @@ In astra palmas, deque regnorum Deo
 
 Inuicta poscunt regna, non pecorum horridis
 
-≤page=13≥ Visceribus inhiant, mente sed pura litant.
+≤line=335≥ ≤page=13≥ Visceribus inhiant, mente sed pura litant.
 
-Galer. Tuum est. Deos eligere? iudicio placet
+\@Galer.= Tuum est. Deos eligere? iudicio placet
 
 Meo petatur, quae mihi petitur salus.
 
-Adrian. A quo impetranda est poscitur: cassa prece
+\@Adrian.= A quo impetranda est poscitur: cassa prece
 
 Metalli inane pondus impelli iubes?
 
-Galer. Quem quondam amasti, qui te amat, magnum Iouem,
+≤line=340≥ \@Galer.= Quem quondam amasti, qui te amat, magnum Iouem,
 
 Iouisque comites, thure placari iubet.
 
@@ -995,27 +996,27 @@ Quo turbine iras torqueam: quanto impios
 
 Horrore nuper tute laceraris, memor,
 
-Violas putato; durius in aulae ratum est
+≤line=345≥ Violas putato; durius in aulae ratum est
 
 Saeuire famulos. Elige, beatum velim
 
 Viuere: perire si obstinas, votum augeo.
 
-Adrian. Colere Deorum ludicra, erranti fuit
+\@Adrian.= Colere Deorum ludicra, erranti fuit
 
 Suasisse pronum; nunc vbi illuxit Deus,
 
-Et iniqua diti veritas, iussa exequi
+≤line=350≥ Et iniqua diti veritas, iussa exequi
 
-(Permitte fari) non licet, Galer. Conde in specus,
+(Permitte fari) non licet, \@Galer.= Conde in specus,
 
 Onera catenis miles, operosa necis
 
 Consilia donec pectore artifici excoquam.
 
-Adrian. Tuus esse Christe incipio, promissum nouo
+\@Adrian.= Tuus esse Christe incipio, promissum nouo
 
-Infunde pugili robur. Inuisas domos
+≤line=355≥ Infunde pugili robur. Inuisas domos
 
 Et vincla subeo laetus; in vinclis habes
 
@@ -1029,7 +1030,7 @@ DOminos timebit orbis; exemplum vnius,
 
 Esto populorum terror: odisse ardeo,
 
-Quem frustra amaui. Titia. Si rei merita aestimas,
+≤line=360≥ Quem frustra amaui. \@Titia.= Si rei merita aestimas,
 
 Plumbo subactum, aut inter Arsacidum scaphas
 
@@ -1039,7 +1040,7 @@ Ita perduelli? mente sed reputes velim
 
 Quid facere deceat Casarem, non quid pati
 
-Iubeas nocentes; aliquis est irae modus:
+≤line=365≥ Iubeas nocentes; aliquis est irae modus:
 
 Inopina fecit culpa momento reum,
 
@@ -1049,9 +1050,9 @@ Metanoea culpam. Nemo quia factum est scelus
 
 Poenam irrogat, sed nequis exemplo nocens
 
-Peccare pergat. Ne hoc age vt pereant mali.
+≤line=370≥ Peccare pergat. Ne hoc age vt pereant mali.
 
-Sedne mali sint: dulce vindictae est genus
+Sed ne mali sint: dulce vindictae est genus
 
 Homini salutem facere, saeuire in scelus.
 
@@ -1059,7 +1060,7 @@ Ergo Adriani reuocet antiquus fauor
 
 Nomen decúsque: prosit, indigno licet,
 
-Fuisse carum Caesari: lentâ manu
+≤line=375≥ Fuisse carum Caesari: lentâ manu
 
 Supplicia libra, satage promissis ferum
 
@@ -1069,7 +1070,7 @@ Minásque precibus, sed diu steriles minas:
 
 Nil dedecet si parcis, & seruos amas.
 
-Galer. Ignotae fallit pestis: in lucro putant
+≤line=380≥ \@Galer.= Ignotae fallit pestis: in lucro putant
 
 Lethi moras traxisse: vis subita opprimit
 
@@ -1079,7 +1080,7 @@ Socios furoris comparant: coelo inseri,
 
 Vltra Sibyllas viuere, impositis rogo
 
-≤page=15≥ Reparanda vitae dona pellaces canunt.
+≤line=385≥ ≤page=15≥ Reparanda vitae dona pellaces canunt.
 
 Vnum putasti perdere, reorum vndique
 
@@ -1089,7 +1090,7 @@ Parili rebelles, Caede defungi vnicâ,
 
 Seruare reliquos, omnium cogit salus.
 
-Sed ne quis aulae morte properatâ arguat
+≤line=390≥ Sed ne quis aulae morte properatâ arguat
 
 Tolli ministros, pono tormentis moram.
 
@@ -1099,7 +1100,7 @@ Tentate: domitum carceris squalor dabit,
 
 Et grauia ferri pondera, & residens citò
 
-Nouitatis ardor. Mente si versâ sapit,
+≤line=395≥ Nouitatis ardor. Mente si versâ sapit,
 
 Patet aula, neque se nostrae subducet manus,
 
@@ -1109,7 +1110,7 @@ Cumulum fauoris poscit, at, quod plus reor,
 
 Si pergit insanire, per quicquid Deûm est
 
-Totum in furorem spreta se bonitas aget.
+≤line=400≥ Totum in furorem spreta se bonitas aget.
 
 **[^10]CHORVS.**
 
@@ -1121,7 +1122,7 @@ Cur praesentia perdunt,
 
 Incumbuntque futuris?
 
-Hic nutritus in ostro,
+≤line=405≥ Hic nutritus in ostro,
 
 Hic & stemmate clarus,
 
@@ -1131,7 +1132,7 @@ Aulae vincula rumpit,
 
 Regalisque beata
 
-Mensae fercula damnat.
+≤line=410≥ Mensae fercula damnat.
 
 Jam non vllus honorum
 
@@ -1141,7 +1142,7 @@ Pubis, non pretiosis
 
 Acquirenda periclis
 
-≤page=16≥ Mentem gaza penetrat.
+≤line=415≥ ≤page=16≥ Mentem gaza penetrat.
 
 Castae Cypridis annos
 
@@ -1151,7 +1152,7 @@ Spernit virgo popellum.
 
 Cerni lubrica forma,
 
-Vibrantes & ocelli;
+≤line=420≥ Vibrantes & ocelli;
 
 Candorémque genarum
 
@@ -1161,7 +1162,7 @@ Et collum per eburnum
 
 Crinis molliter errans:
 
-Turgentesque papillae
+≤line=425≥ Turgentesque papillae
 
 Bysso non bene tecta:
 
@@ -1171,7 +1172,7 @@ Quem fert dextra smaragdo:
 
 Per ieiunia marcent:
 
-Et fastidia vitae,
+≤line=430≥ Et fastidia vitae,
 
 Obscurósque recessus
 
@@ -1181,7 +1182,7 @@ Coelestúmque hominúmque
 
 Depraedatur amores.
 
-Tali Bellerephontes
+≤line=435≥ Tali Bellerephontes
 
 Quondam percitus oestro.
 
@@ -1191,7 +1192,7 @@ Et spelaea ferarum
 
 Gressus fixit acerbos:
 
-Tam non ipse sibi aequus
+≤line=440≥ Tam non ipse sibi aequus
 
 Quam Proeto grauis hosti.
 
@@ -1207,7 +1208,7 @@ Obnoxia dolis mulier? Adrianus Deum?
 
 Ille administer caedium, totus pio
 
-Cruore manans, ille Christiadum timor,
+≤line=445≥ Cruore manans, ille Christiadum timor,
 
 Odium Tonantis? mite, feritati inuium
 
@@ -1217,7 +1218,7 @@ Dominorum, & aulae ambitio, et impatiens boni
 
 Vsus malorum, iamque plus dominis furit.
 
-Vt gutture atro saeua maternum ebibit
+≤line=450≥ Vt gutture atro saeua maternum ebibit
 
 Serpens venenum, quâque stagnatur palus,
 
@@ -1227,7 +1228,7 @@ Depasta saniem creuit, & Stygio halitu
 
 Afflauit auras matre deterior malâ.
 
-Vt fallere ardet cantus! vt cordis sinus
+≤line=455≥ Vt fallere ardet cantus! vt cordis sinus
 
 Penetrare caecos! Luna bisseno ambitu
 
@@ -1237,7 +1238,7 @@ Ex quo pudicâ iunxit Hymenaeus face
 
 Iuueni maritant: sensit in fraudes sagax
 
-Mihi templa sperni, vota non dici Ioui,
+≤line=460≥ Mihi templa sperni, vota non dici Ioui,
 
 Non diuûm in aris, non lares inter domus
 
@@ -1247,7 +1248,7 @@ Sacrilega perdi thura: suspectam, indigam
 
 Prodere recessus pectoris: seruum oppidò
 
-Ad me fidelem legat: is anhelans, gemens,
+≤line=465≥ Ad me fidelem legat: is anhelans, gemens,
 
 Et ora foedans vnguibus, terram pede
 
@@ -1257,7 +1258,7 @@ In vincla Dominus rapitur extremâ tonat
 
 Furiosus irâ Caesar. Ego mente anxiâ,
 
-Secura vultu; tenuis obductum abstulit
+≤line=470≥ Secura vultu; tenuis obductum abstulit
 
 Vapor fauorem, prima quem reddet dies,
 
@@ -1267,7 +1268,7 @@ Et Magica fecit secta: Dum torquet reos,
 
 Auditque miserûm somnia, induitur plagis
 
-Incautus, excors, iamque Christiadum iacet
+≤line=475≥ Incautus, excors, iamque Christiadum iacet
 
 Inter cateruas. Dixit, & iussâ artifex
 
@@ -1277,7 +1278,7 @@ Vtrâque plangit, addit & quae non agat
 
 Simplex probari veritas. Sed cur meum
 
-Explorat animum proditor? quam spem coquit?
+≤line=480≥ Explorat animum proditor? quam spem coquit?
 
 Parúmne premimur, capitaquod bello inclyta,
 
@@ -1287,7 +1288,7 @@ Discerpta letho? sexus armorum rudis,
 
 Impos dolorum petitur? & ne quà exeat
 
-Inimica in auras secta; Christiadûm ferax
+≤line=485≥ Inimica in auras secta; Christiadûm ferax
 
 Damnatur vterus. Ergo me primam vocat
 
@@ -1297,7 +1298,7 @@ De capite statuit? euge, celatum est nimis
 
 Natalia, aude, Iudici dices palàm
 
-Quod corde in imo saepe narrabas Deo.
+≤line=490≥ Quod corde in imo saepe narrabas Deo.
 
 Cui te reseruas timida? singula singulae
 
@@ -1309,7 +1310,7 @@ Agnes iuuentam, sexum Agatha, Thecla omnia,
 
 Et amare dubitas? & times Christum sequi?
 
-≤page=19≥ O cui superbos ante foemineus labor
+≤line=495≥ ≤page=19≥ O cui superbos ante foemineus labor
 
 Perdomuit animos hostium, & tenerae manus
 
@@ -1319,7 +1320,7 @@ Si mihi palaestram pandis, & honestâ iubes
 
 Luctâ implicari, debiles artus tuo
 
-Perfunde oliuo Christe, da membris statum,
+≤line=500≥ Perfunde oliuo Christe, da membris statum,
 
 Robur lacertis, si licet tecum, stygis
 
@@ -1333,7 +1334,7 @@ Quaero, per illum prompta, vel cum illo mori.
 
 FLAVIVS. NATALIA.
 
-BENE habet, secundâ flectis huc gressum alite
+≤line=505≥ BENE habet, secundâ flectis huc gressum alite
 
 Natalia; ô si mitior cladem Deus
 
@@ -1343,19 +1344,19 @@ Dedisset ante coniugi! staret suâ
 
 Modo purpuratus gratiâ, & magni latus
 
-Cingeret amicum Caesaris: nunc, heu pudet
+≤line=510≥ Cingeret amicum Caesaris: nunc, heu pudet
 
 Meminisse! vinctos auget, & nudâ iacens
 
 Tellure, coelum voce blasphemâ asperat.
 
-Nat. Ergone malorum rumor apprimè tenax
+\@Nat.= Ergone malorum rumor apprimè tenax
 
 Mihi vera retulit, carceris clausum specu
 
-Sub mole ferri gemere dimidium mei?
+≤line=515≥ Sub mole ferri gemere dimidium mei?
 
-Flau. Queri remitte, maius auditu est malum
+\@Flav.= Queri remitte, maius auditu est malum
 
 Quod ausus in vos Christianorum furor.
 
@@ -1363,19 +1364,19 @@ Sibi tibíque coniugem, at grauius sibi
 
 Eripuit: ille scorpios, flammas, cruces,
 
-Caeli execratus numina, in vota aduocat.
+≤line=520≥ Caeli execratus numina, in vota aduocat.
 
 Iam longa iuueni vita, Circaeâ manu
 
 ≤page=20≥ Versum in Leonem dixeris: quodni iuuas,
 
-Tibi Adrianus perijt. Natal. Ignaram mali
+Tibi Adrianus perijt. \@Natal.= Ignaram mali
 
 Rerum insuetam, vix adhuc primâ rudem
 
-Taedâ maritam facere quid deceat, mone.
+≤line=525≥ Taedâ maritam facere quid deceat, mone.
 
-Flau. I flecte furias Caesaris, multâ prece
+\@Flav.= I flecte furias Caesaris, multâ prece
 
 Roga salutem coniugi: accinget latus
 
@@ -1383,17 +1384,17 @@ Amica procerum turba, fundetur comes
 
 Populus clientum: si placet solam ingredi,
 
-Comitata satis est cui dedit formam Venus.
+≤line=530≥ Comitata satis est cui dedit formam Venus.
 
-Natal. Frustrà rogamus, ille si mentem fouet
+\@Natal.= Frustrà rogamus, ille si mentem fouet
 
 Rigidus moueri: cordis explorem sine
 
-Prius latebras cauta. Flau. Consultè facis.
+Prius latebras cauta. \@Flav.= Consultè facis.
 
 Stygiae paludis aura sed potius tibi
 
-Toleranda veniat, quàm tenebrosae haurias
+≤line=535≥ Toleranda veniat, quàm tenebrosae haurias
 
 Domus mephitim: siste, dùm educo foras.
 
@@ -1407,7 +1408,7 @@ Exsufflo buccâ: Christe tibi coniux meus,
 
 Tibi Adrianus seruit, & fidei gerit
 
-Pignus catenas! ille non dudum Leo
+≤line=540≥ Pignus catenas! ille non dudum Leo
 
 Auidam cruore proluens sacro sitim,
 
@@ -1417,7 +1418,7 @@ Jnter gregales sponte dat ingulum popae.
 
 Iam vera Sauli est fama, cui furias Deus
 
-Excussit astris, voce non illâ tonans.
+≤line=545≥ Excussit astris, voce non illâ tonans.
 
 Quâ repetet olim mundus antiquum chaos
 
@@ -1427,7 +1428,7 @@ Iramque, amorémque inter exstimulat malos.
 
 ≤page=21≥ Talis maritum tetigit, & patriâ manu
 
-Vulnus reuulsit. Audio, gratae sonat
+≤line=550≥ Vulnus reuulsit. Audio, gratae sonat
 
 Stridor catenae: gaudia haud capiunt modum,
 
@@ -1439,9 +1440,9 @@ NATALIA. FLAVIVS.
 
 PROH sancta coeli numina! ô rerum vices!
 
-Adrianus hic est? Flau. Coniugem agnoscis tuum?
+Adrianus hic est? \@Flav.= Coniugem agnoscis tuum?
 
-Talem videbas casta cùm primo Venus
+≤line=555≥ Talem videbas casta cùm primo Venus
 
 Hausit medullas igne, cùm laetâ face
 
@@ -1451,7 +1452,7 @@ Vtrîque Roma inuidit, at plures tibi,
 
 Mutatum ab illo cerne, quod luges, quota
 
-Pars est futuri? doceat exemplo hic senex
+≤line=560≥ Pars est futuri? doceat exemplo hic senex
 
 Cui vermis intus bullit, & coecâ effluunt
 
@@ -1461,9 +1462,9 @@ Restitue mentem coniugi; hoc Caesar iubet,
 
 Hoc sperat aula: si pias Flaui preces
 
-Natalia audis, oro; deceptum dolet
+≤line=565≥ Natalia audis, oro; deceptum dolet
 
-Perire amicum. Natal. Cura quod tangit mei,
+Perire amicum. \@Natal.= Cura quod tangit mei,
 
 Quod Adrianum diligis, dignas Deus
 
@@ -1471,11 +1472,11 @@ Grates rependat. Nunc quod vrgendum mones,
 
 Quod vtérque cupimus, artibus totis agam,
 
-Velit vt beatus esse, suadentem optima
+≤line=570≥ Velit vt beatus esse, suadentem optima
 
 Audiat amicum, neue se blandâ sinat
 
-Sirene ludi. Flau. Sancta proh thalami fides?
+Sirene ludi. \@Flav.= Sancta proh thalami fides?
 
 ≤page=22≥ Iam factum in aulam nuntio, quod te aggredi
 
@@ -1487,7 +1488,7 @@ ADRIANVS. NATALIA. ANTHIMVS.
 
 \-- MVLIER huc aurem, & sile.
 
-Ignémque & vndam, iuncta non sacris sacra
+≤line=575≥ Ignémque & vndam, iuncta non sacris sacra
 
 Seu quae parentum iustus è ceris bona
 
@@ -1497,7 +1498,7 @@ Amico amicus legat, vnde vnde accidant,
 
 Communia inter esse consortes tori
 
-Voluêre iura Romuli: hoc animi pares
+≤line=580≥ Voluêre iura Romuli: hoc animi pares
 
 Coëunt in vnum foedere, concors domus
 
@@ -1507,7 +1508,7 @@ Sed aut eosdem iure connubij Deos,
 
 Aut ritu eosdem colere, ni varij placent,
 
-Lex nulla iussit: velle fac aliquam tamen;
+≤line=585≥ Lex nulla iussit: velle fac aliquam tamen;
 
 Vtrum decebit cedere, & placita alteri
 
@@ -1517,7 +1518,7 @@ Virine potiùs foeminam numen dare
 
 Geniúmque laribus? Ergo quodvinclis premi
 
-Cernis maritum, fecit hoc Christi recens
+≤line=590≥ Cernis maritum, fecit hoc Christi recens
 
 Religio, pietásque agnita: aeternum vale
 
@@ -1527,7 +1528,7 @@ Vnum pudet, fecisse quod iubeor pati;
 
 Sed & iuuat fecisse, dum plenâ Deos
 
-Clamant inanes voce, quos tenui halitu
+≤line=595≥ Clamant inanes voce, quos tenui halitu
 
 Frangunt, ruuntque: Numem at Christi probant
 
@@ -1537,7 +1538,7 @@ Dulci rigantur imbre, dum memorant piae
 
 ≤page=23≥ Seruata morti pretia: quod coelo bonum est,
 
-Terrâque, ab vno fluere cui pereat. Nihil,
+≤line=600≥ Terrâque, ab vno fluere cui pereat. Nihil,
 
 Redire in vnum cuncta cui accedat nihil;
 
@@ -1547,7 +1548,7 @@ Quem nulla possint secla, non vlla appetat
 
 Mutare satias: placuit & virtus virûm,
 
-Et causa: plura mente scrutatus piâ
+≤line=605≥ Et causa: plura mente scrutatus piâ
 
 Quid tegeret intus secta, quae sordet foris
 
@@ -1557,7 +1558,7 @@ Caesar catenis, aula consilio putat,
 
 Tu flendo, blandiendo, libando oscula,
 
-Spes porrò vanas alitis: edico palàm,
+≤line=610≥ Spes porrò vanas alitis: edico palàm,
 
 Nulla Adrianum cernet insanum dies.
 
@@ -1567,7 +1568,7 @@ Viduam superstes coniugem coniux facit;
 
 Alium iuuenta, forma, nobilitas, opes,
 
-Et quae beata ducitis, ab aulâ dabit.
+≤line=615≥ Et quae beata ducitis, ab aulâ dabit.
 
 Viden’ vt catenae foedere aeterno mihi
 
@@ -1577,7 +1578,7 @@ Vt coniugalem carcer insternit torum?
 
 Natalia vale: quid genas lacrymis rigas?
 
-Non sum Adrianus ille: felicem tibi
+≤line=620≥ Non sum Adrianus ille: felicem tibi
 
 Thalamum secundet qui virum abduxit Deus.
 
@@ -1587,7 +1588,7 @@ Amabis, & me, sequere quam instituo viam,
 
 Experta dices, spondeo, suauem malis
 
-Jnesse sensum, supera tormentis emi,
+≤line=625≥ Jnesse sensum, supera tormentis emi,
 
 Desinere mortem morte dum vita incipit:
 
@@ -1595,9 +1596,9 @@ Vbi nos perenni charitas iunget face:
 
 Vterque amabit vtrumque, sed amati Deo,
 
-Deumque amantes. Natal. Christe tam potens habes,
+Deumque amantes. \@Natal.= Christe tam potens habes,
 
-Tam dulce numen? Teneo te pars ô mei,
+≤line=630≥ Tam dulce numen? Teneo te pars ô mei,
 
 ≤page=24≥ Adriane mea lux? effer euinctas manus:
 
@@ -1607,7 +1608,7 @@ Regnata tellus, audiat coelo Deus:
 
 Nunc Adriani rite conuenio in manum
 
-Non falsa coniux; Christus hoc vinclo inuicem,
+≤line=635≥ Non falsa coniux; Christus hoc vinclo inuicem,
 
 Sibíque amantes sociat. O thalamum! ô faces
 
@@ -1617,7 +1618,7 @@ Natíque testor nullus humano procus
 
 Thalamo iugandam Martyris rapiet sinu:
 
-Non si quaterni Caesares mundi offerant
+≤line=640≥ Non si quaterni Caesares mundi offerant
 
 Dotale regnum: melius imperijs puto
 
@@ -1625,9 +1626,9 @@ Christi catenas ferre; nam sociam tori
 
 Aliqua laborum parte fraudare haud velis,
 
-Mi dulcis Adriane. Adrian. Te coniux amo
+Mi dulcis Adriane. \@Adrian.= Te coniux amo
 
-Christi sequacem iamque perpetui innouo
+≤line=645≥ Christi sequacem iamque perpetui innouo
 
 Leges amoris: esse te iubeo meam
 
@@ -1637,17 +1638,17 @@ Socio, aut Tonanti fregerit, pereat sacer,
 
 Et execrandus Tartari flammas alat.
 
-Natal. Quodque est miserius Tartaro, coeli excidat
+≤line=650≥ \@Natal.= Quodque est miserius Tartaro, coeli excidat
 
-Fauore, gratiâque. Adrian. Dic autem soror
+Fauore, gratiâque. \@Adrian.= Dic autem soror
 
 Vnde iste subitus pectus inuasit calor?
 
-Natal. Fatebor equidem frater, & totam dabo
+\@Natal.= Fatebor equidem frater, & totam dabo
 
 Nataliam Adriano. Vnus & mundo intulit,
 
-Christóque peperit vterus: in cunis erat
+≤line=655≥ Christóque peperit vterus: in cunis erat
 
 Audire Christum ludus, haerentem vberi,
 
@@ -1657,17 +1658,17 @@ Christum canebat. Creuit interea simul
 
 Aetas, amorque numinis, donec viro
 
-≤page=25≥ Maturam amasti fratrer. Atque omnes licet
+≤line=660≥ ≤page=25≥ Maturam amasti fratrer. Atque omnes licet
 
 Virtute, formâ, genere, diuitijs procos
 
 Longè anteires, pertinax cultus Deûm
 
-Matrem auocabat, meque. Adrian. Tanto equidem meas
+Matrem auocabat, meque. \@Adrian.= Tanto equidem meas
 
 Mirabar opere penitùs eludi preces,
 
-Mihi te negari. Natal. Restitit, donec minis
+≤line=665≥ Mihi te negari. \@Natal.= Restitit, donec minis
 
 Caesar subegit: fleuimus. Nam quid dedit
 
@@ -1677,7 +1678,7 @@ Clauserat Olympo vesper, ad Laetas fores
 
 Pilenta stabant, illa me arcanum domûs
 
-Rapit in opertum, lapsus vbi coelo cibus,
+≤line=670≥ Rapit in opertum, lapsus vbi coelo cibus,
 
 Deúsque farre obtectus in subitae necis
 
@@ -1687,7 +1688,7 @@ Et habere si quid sanctius coelum potest,
 
 Adiurat ardens, & sacramentum praeit,
 
-Omnesque in istud aduocat diras caput
+≤line=675≥ Omnesque in istud aduocat diras caput
 
 Si fallo, si aras tango, si aspicio Deos.
 
@@ -1697,7 +1698,7 @@ Dilecta stringit. Vltimum est quod te alloquor,
 
 J nata felix: si qua relligio mouet
 
-Dissidia, tu homini victa succumbas caue:
+≤line=680≥ Dissidia, tu homini victa succumbas caue:
 
 Quin oro vincas. In nouos Christus Lares
 
@@ -1707,7 +1708,7 @@ Sin, viua nunquam tristetransilias domûs
 
 Limen nefandae. Dixit, & largè sinum
 
-Lacrymis rigauit. Flentis abrepta è sinu
+≤line=685≥ Lacrymis rigauit. Flentis abrepta è sinu
 
 Flens ipsa currum scando: scit verax Deus
 
@@ -1717,7 +1718,7 @@ Jn ferrum, in ignes robore armaui fidem.
 
 ≤page=26≥ Tibi iuncta nunquam thura delubro intuli,
 
-Nunquam tuos ingressa spectaui lares:
+≤line=690≥ Nunquam tuos ingressa spectaui lares:
 
 Sed prima quoties nocte superatâ diem
 
@@ -1727,7 +1728,7 @@ Quoties reduxit; duplices Christo manus
 
 Tuli, precésque mentis vt tenebras tuae
 
-Felix bonúsque, solueret: dira interim
+≤line=695≥ Felix bonúsque, solueret: dira interim
 
 Sanctis parabas funera. Iratum anxiis
 
@@ -1737,7 +1738,7 @@ Malè fluctuantem erexit, & mediâ dedit
 
 In morte vitam quando votorum ream
 
-Facis Adriane. Adrian. Munus agnosco soror
+≤line=700≥ Facis Adriane. \@Adrian.= Munus agnosco soror
 
 Tibi restitutae debeo mentis statum:
 
@@ -1747,17 +1748,17 @@ Tàm purè amantem coniugem, tantum boni
 
 Celare poteras? furere, bacchari in pios,
 
-Virtutis hostem, debitum diti caput
+≤line=705≥ Virtutis hostem, debitum diti caput
 
 Christo rebellem, immota spectasti virum?
 
-Anthi. Quid virgo faceret? sanguine arentem sitim
+\@Anthi.= Quid virgo faceret? sanguine arentem sitim
 
 Audax Leoni premeret? & nudâ prece
 
 Tardaret irae fulmen? humanis suum est
 
-Adriane vitiis, & suum tempus Deo.
+≤line=710≥ Adriane vitiis, & suum tempus Deo.
 
 Modò vorticosi more torrentis rapi
 
@@ -1767,7 +1768,7 @@ Modò cursu in ipso frangit, & stectit retrò.
 
 Est vbi paratos, inque procinctu opprimat,
 
-Hîc iustus, atque hîc. Pulsat interno tamen
+≤line=715≥ Hîc iustus, atque hîc. Pulsat interno tamen
 
 Motu fugaces, atque peccati fodit
 
@@ -1777,7 +1778,7 @@ Libido, & animi gaudia insani mala.
 
 Hos ergo Phlegethon vortice indomito abripit,
 
-≤page=27≥ Auctorem & ipsum culpa praecipitans agit.
+≤line=720≥ ≤page=27≥ Auctorem & ipsum culpa praecipitans agit.
 
 Illos Deo trahente scelerata expuit
 
@@ -1787,7 +1788,7 @@ Quod velle fecit; qui dedit, nouit sui
 
 Momenta doni: quis salutarem prior.
 
-Inuadat horam? Natal. Vera narrantem audio
+≤line=725≥ Inuadat horam? \@Natal.= Vera narrantem audio
 
 Animose Martyr, omnium nouit pater
 
@@ -1797,7 +1798,7 @@ Saepe administros operis, hi si quid morâ,
 
 Metú-ve peccant, nonne tardatae reos
 
-Faciet salutis? Talis ad genua accido.
+≤line=730≥ Faciet salutis? Talis ad genua accido.
 
 Jgnosce frater, facta peccaui tua,
 
@@ -1807,7 +1808,7 @@ Calestis ardor, saepe compressi impetum.
 
 Heu! dum morantem prauus absterret pudor.
 
-Tuas secures innocens tinxit cruor.
+≤line=735≥ Tuas secures innocens tinxit cruor.
 
 Tot scelera quae mors vindicet? quis me rogus
 
@@ -1817,17 +1818,17 @@ Nunc hora sanctos morte communi vocat
 
 Placare manes; Cernis vt pariter reos
 
-Vindex eandem Christus ad poenam aggregat?
+≤line=740≥ Vindex eandem Christus ad poenam aggregat?
 
 Satis vnus est vtrique carcerque, & dolor,
 
-Et Caesar vnus. Adrian. Sponte metuendum viris
+Et Caesar vnus. \@Adrian.= Sponte metuendum viris
 
 Tentare bellum parce, quod mecum haud licet,
 
-Patieris in me. Natal. Non placeo consors boni?
+Patieris in me. \@Natal.= Non placeo consors boni?
 
-Quae culpa damnat? scelere quo teneor nocens?
+≤line=745≥ Quae culpa damnat? scelere quo teneor nocens?
 
 Aut si nocens sum quid mihi poenam negas?
 
@@ -1837,7 +1838,7 @@ Mihi inuidetur? si quid in morte est mali
 
 Vni irrogatur? Seu me amas, seu non amas
 
-Crudelis, astra deligis, terram & mala
+≤line=750≥ Crudelis, astra deligis, terram & mala
 
 ≤page=28≥ Tibi spreta sumam? non hic Astraeae est tenor
 
@@ -1845,9 +1846,9 @@ Tua illa non sunt quae malè herciscis bona:
 
 Vtriúsque partem diues implebit Deus.
 
-Anthi. Nemo à Tonante reuocat, aut terrae bona
+\@Anthi.= Nemo à Tonante reuocat, aut terrae bona
 
-Curare suadet, filia; Haud vno pares
+≤line=755≥ Curare suadet, filia; Haud vno pares
 
 Conuexa coeli tramite beati tenent.
 
@@ -1857,7 +1858,7 @@ Meritoue stadium mortis aperiri inclytae?
 
 Deus hoc Deus dispensat, & vitae arbiter,
 
-Hic morte siccâ placidus euoluet dies,
+≤line=760≥ Hic morte siccâ placidus euoluet dies,
 
 Hic ferrum, & ignes vincet: hic coelum abdito
 
@@ -1867,7 +1868,7 @@ Statione serui figimus, quáque euocat
 
 Dominum volentes sequimur. An bonus est, Dei
 
-Cui non probatur ordo? Te miti iubet
+≤line=765≥ Cui non probatur ordo? Te miti iubet
 
 Exire letho, nulla tortorum manus
 
@@ -1877,9 +1878,9 @@ Dominum iuuabis, & ministerio attrahes
 
 Partem coronae. Martyrum primos gradus
 
-Tenere non permissa, ne sperne alteros.
+≤line=770≥ Tenere non permissa, ne sperne alteros.
 
-Natal. Has quando lentae destinat mortis vices
+\@Natal.= Has quando lentae destinat mortis vices
 
 Cortina coeli, spes mihi pereant meae,
 
@@ -1887,17 +1888,17 @@ Tibi reddo votum hoc Christe: seruitij fide
 
 Animum probabo, quolibet fatum vocet,
 
-Vinctos per omne Caesar imperium trahat,
+≤line=775≥ Vinctos per omne Caesar imperium trahat,
 
 Sequar vsque in ignes. Multa famulantum manus
 
 Hinc iam excubabit ne quis inopinus mihi
 
-Vos turbo rapiat. Adrian. Parce non fidas soror
+Vos turbo rapiat. \@Adrian.= Parce non fidas soror
 
 ≤page=29≥ Agitare mentes, pectoris Christus sinu
 
-Latere pergat, ipsa narrabis tibi
+≤line=780≥ Latere pergat, ipsa narrabis tibi
 
 Quid res, & vsus poscat: hinc nusquam inscia
 
@@ -1907,7 +1908,7 @@ Ad te recurret Martyr, aut si quis potest
 
 Magis esse fidus. Clauis interea lares
 
-Resignet omnes, quósque sacrilegus Deos
+≤line=785≥ Resignet omnes, quósque sacrilegus Deos
 
 Coluisse doleo, frange: Vulcani pede,
 
@@ -1915,9 +1916,9 @@ Capite louis, petasóque Mercurij, indigum
 
 Dita popellum: prosit hoc certè aureos
 
-Fecisse diuos. Anthi. Cede confestim loco,
+Fecisse diuos. \@Anthi.= Cede confestim loco,
 
-Compone vultus, Consulis prodit cohors.
+≤line=790≥ Compone vultus, Consulis prodit cohors.
 
 ## 16. [^17]SCENA SEXTA.
 
@@ -1931,17 +1932,17 @@ Pietásque matronalis: iratos Deos
 
 Optare poteras: non manum ad palmam comes.
 
-Sed testis oculos adfero: si quid sapit
+≤line=795≥ Sed testis oculos adfero: si quid sapit
 
 Adrianus, omne coniugi acceptum dabo.
 
-Quo res Loco sunt? Natal. Quantus Hybernas Athos
+Quo res Loco sunt? \@Natal.= Quantus Hybernas Athos
 
 Patitur pruinas; qualis aut Cauri minis
 
 Inhospitale Bosphorus praebet latus,
 
-Talis Deorum obsequia, & ambitas priù
+≤line=800≥ Talis Deorum obsequia, & ambitas priù
 
 Nunc audit aras durus, intractabilis.
 
@@ -1951,7 +1952,7 @@ Adamante clausum. Dicere ardentem priùs
 
 Silere iussit: longa consilij sui
 
-≤page=30≥ Exorsa deinde fatus, absoluit fide,
+≤line=805≥ ≤page=30≥ Exorsa deinde fatus, absoluit fide,
 
 Ni sua probarem sacra. Necquicquam nouos
 
@@ -1961,7 +1962,7 @@ Mihi nemo numen auferat, quin & iubet
 
 Simulacra diuûm frrangere, & forti lares
 
-Violare dextrâ. Timeo conatu irrito
+≤line=810≥ Violare dextrâ. Timeo conatu irrito
 
 Ne vestra ludat vota, ne Procerum decus
 
@@ -1971,17 +1972,17 @@ Narrate potius Caesari, & promptum mori.
 
 Addite querelis comugis victae preces.
 
-Ne longa ducat funera, aut miseri vago
+≤line=815≥ Ne longa ducat funera, aut miseri vago
 
 Supplicia spargat orbe; quod potui hactenus
 
-Debere viuo, praestiti, Titia. O coniux viro
+Debere viuo, praestiti, \@Titia.= O coniux viro
 
 Meliore digna (Caesaris iuro caput)
 
 Quicquid Adrianus statuat, haec nunquam fides
 
-Morietur indotata, seu primas placet
+≤line=820≥ Morietur indotata, seu primas placet
 
 Renouare taedas, seu malè astrictam nouus
 
@@ -1989,9 +1990,9 @@ Zonam maritus soluet; at veteres velim
 
 Durare amores; & dabit spero manum
 
-Amico amicus Consuli. Natal. Quò non prius
+Amico amicus Consuli. \@Natal.= Quò non prius
 
-Blanditia subiit foeminae, per vim & metum
+≤line=825≥ Blanditia subiit foeminae, per vim & metum
 
 Penetrare speras? notus est animus viri
 
@@ -2001,7 +2002,7 @@ Sensi proteruum saepe, & immotum gradu.
 
 Adriane, vel si nomen antiquum probas.
 
-Dilecte coniux, aulicae florem vides
+≤line=830≥ Dilecte coniux, aulicae florem vides
 
 Fidelitatis, sana consilia accipe;
 
@@ -2011,7 +2012,7 @@ Minus futuro statue: per oculos precor
 
 Meos tuósque, pronubo iunctam annulo
 
-Teneo malum, osculórque, per thalami fidem,
+≤line=835≥ Teneo malum, osculórque, per thalami fidem,
 
 Memor supremi foederis, mentem indue
 
@@ -2025,17 +2026,17 @@ GALLVS. TITIANVS. ADRIANVS. ANTHIMVS.
 
 TVne hos amores rigidus, illacrymabilis
 
-Caute rhodopoea tristior, surdo Ioue
+≤line=840≥ Caute rhodopoea tristior, surdo Ioue
 
 Sprenisse speras? pectus alienum mouent.
 
-A te remittis irritas? Titian. Vinci pudet
+A te remittis irritas? \@Titian.= Vinci pudet
 
 Vni Adrianum foeminae; agnosco virum.
 
 Titianus alia consul, & custos sacri
 
-Gallus palatî verba non tardè expriment:
+≤line=845≥ Gallus palatî verba non tardè expriment:
 
 Vt haec placet promulsis? vt sectam aspero
 
@@ -2045,7 +2046,7 @@ Plebeia iure talis Astraeae chalybs
 
 In capita saeuit. Nam quod est Christi genus?
 
-Male penulata turba, quisquiliae vrbium,
+≤line=850≥ Male penulata turba, quisquiliae vrbium,
 
 Credula mulierum seruitus, mendica plebs;
 
@@ -2055,7 +2056,7 @@ Honoribúsque fulta: non sophiae Attico
 
 Lepore tincta, sortis & vitae bona
 
-Quae non habent, sperant-ve, spreuisse ambiunt.
+≤line=855≥ Quae non habent, sperant-ve, spreuisse ambiunt.
 
 Hinc ille regum hinc ille contemptus Deûm,
 
@@ -2065,7 +2066,7 @@ Adde & furentum somnia, hospitium in vetus
 
 Redire laruas, busta viuendo sua
 
-Superare cineres, siue mobilibus iocos
+≤line=860≥ Superare cineres, siue mobilibus iocos
 
 Dedêre ventis, membra seu tumuli indiga
 
@@ -2075,7 +2076,7 @@ Per secla mille in omne transfusis genus,
 
 ≤page=32≥ Artus suos ex iure consertum manu
 
-Elementa repetent: haec mea, haec non sunt mea,
+≤line=865≥ Elementa repetent: haec mea, haec non sunt mea,
 
 Haec fecit oculum portio, haec clauos pedum
 
@@ -2085,7 +2086,7 @@ In sede Praetor; inite praesentes viam;
 
 Viam redite, dicet; noc frustum arbuti,
 
-Tuum esto, hic eius caulis est. Risum haec cient
+≤line=870≥ Tuum esto, hic eius caulis est. Risum haec cient
 
 Fletumne? leue sit error incautos agens
 
@@ -2095,7 +2096,7 @@ Jn ferrum, & ignes, quaque difficile est mori,
 
 Gradiuntur hac spe: dumque post mortem timent
 
-Perire, mortem non timent. Dignum viris
+≤line=875≥ Perire, mortem non timent. Dignum viris
 
 Religio numen reperit, vt adorent cruces
 
@@ -2105,7 +2106,7 @@ Si sic putant placare? Si noui tuos
 
 Adriane sensus, fabulas vulgum suas
 
-Iussisti habere; melior ad Christum tulit
+≤line=880≥ Iussisti habere; melior ad Christum tulit
 
 Ignota nobis causa. Praeteritos malè
 
@@ -2115,7 +2116,7 @@ Aulis querelam generis: hoc Reges habent
 
 Ingratum, iniquum, cuncta deberi putant
 
-Quae sponte facimus publico intenti bono.
+≤line=885≥ Quae sponte facimus publico intenti bono.
 
 Hos tarda merces sequitur: hos sterilis fauor
 
@@ -2125,7 +2126,7 @@ Nati benigno (pars quota infelicium?)
 
 Amantur, & ditantur: & quod plus dolet,
 
-Quod sanguine emitur, gratiam Domini vocant.
+≤line=890≥ Quod sanguine emitur, gratiam Domini vocant.
 
 Quamquam & fauoris, non palatinae vetus
 
@@ -2135,7 +2136,7 @@ Quaesitor omnes lectus aequales suprà,
 
 ≤page=33≥ Senúmque canos. Caesar haud alio queat
 
-Testari amorem pignore; huic nuper fidem
+≤line=895≥ Testari amorem pignore; huic nuper fidem
 
 Validè probabas ipse, cum magicis retrò
 
@@ -2147,7 +2148,7 @@ Nimis imminentem. Cura si vitae est super
 
 Deluse, mentem recipe; vel si te abdicas,
 
-Mihi, Gallo, amicis redde. Adrian. Quod de me rogas
+≤line=900≥ Mihi, Gallo, amicis redde. \@Adrian.= Quod de me rogas
 
 Titiane, doni Caesar hoc faciet sui,
 
@@ -2157,7 +2158,7 @@ Vitamque amicis. Nam quod in venis fluit,
 
 Quod spirat imo in corde, quod membra haec fouet,
 
-Regi sacrauit ortus. Innatam fidem
+≤line=905≥ Regi sacrauit ortus. Innatam fidem
 
 Quod crimen intercepit, euulsit metus,
 
@@ -2167,7 +2168,7 @@ Rogatus aulae veni in obsequium, bonus
 
 Potui videri cum bonis feci malè.
 
-Erat hoc in albo regis officij decus:
+≤line=910≥ Erat hoc in albo regis officij decus:
 
 Ego nunc furorem appello, & immanem sitim.
 
@@ -2177,7 +2178,7 @@ Qui iubet amicos furere? sed non hoc queror;
 
 Iubeat, reponam munus; aut si non licet
 
-Hostire regi, ne quis ingratum arguat,
+≤line=915≥ Hostire regi, ne quis ingratum arguat,
 
 Doni fatebor gratiam, quodque est super
 
@@ -2187,7 +2188,7 @@ Quódque aere nequeo nomen exoluam artubus,
 
 Debitor amoris, Vltimas addo preces,
 
-Tenue est quod opto: libero coelum ferat
+≤line=920≥ Tenue est quod opto: libero coelum ferat
 
 Spectare vultu, neu mihi sacra imperet,
 
@@ -2197,7 +2198,7 @@ Deúm-ve. Plures astra si coeli tenent,
 
 Natura in vnum, qui ima, qui supera impleat.
 
-Colatur vnus. Túne tam certo regi
+≤line=925≥ Colatur vnus. Túne tam certo regi
 
 Tenore mundum sub duce incerto putas?
 
@@ -2207,7 +2208,7 @@ Romae parentes vix sub vberibus lupae
 
 Lite abstinebant: perfidum Oedipodae genus
 
-Commisit aestus sceptri, & odiorum faces
+≤line=930≥ Commisit aestus sceptri, & odiorum faces
 
 Secutus ignis, duplicem fecit rogum
 
@@ -2217,7 +2218,7 @@ Et quà refuso cingitur tellus mari,
 
 Tot gentium altrix ampla, non cepit duos.
 
-Quid alia memorem? ductor armenti gregem
+≤line=935≥ Quid alia memorem? ductor armenti gregem
 
 Minatur vnus; regna mellita obtinet
 
@@ -2227,17 +2228,17 @@ Gubernat vnus: temperat castra, & feras
 
 Dux vnus acies. Supera diuiso regi
 
-Imperia domino credis, & rerum caput
+≤line=940≥ Imperia domino credis, & rerum caput
 
 In varia spargi? quis laboranti Deo
 
-Opus est minister? Anthi. Velle quod bonitas facit,
+Opus est minister? \@Anthi.= Velle quod bonitas facit,
 
 Dedit potestas facere, quod vasto ambitu
 
 Coërcet orbis artifice verbo edidit,
 
-Ipsumque nutu fecit omnifero chaos,
+≤line=945≥ Ipsumque nutu fecit omnifero chaos,
 
 Genus vnde et homines duximus. Sed non pari
 
@@ -2247,7 +2248,7 @@ Vt grata pietas dona factori sua
 
 Memori reponat pectore: vt mentes regat
 
-Animosa virtus: vt per obstantum minas
+≤line=950≥ Animosa virtus: vt per obstantum minas
 
 Suppliciáque eluctata difficilem fides
 
@@ -2257,7 +2258,7 @@ Sine fine felix. Liuor incassum fremat,
 
 Splenem in cachinnos attici soluant sophi,
 
-≤page=35≥ Nemo vetabit eloqui. Letho datos,
+≤line=955≥ ≤page=35≥ Nemo vetabit eloqui. Letho datos,
 
 Dudum sepultos hora rediuiuo situ
 
@@ -2267,7 +2268,7 @@ Fandi, & nefandi stabimus, vitae dies
 
 Remetietur Praetor: in coelum boni,
 
-Vos alij in orcum, dicet: vt quemque impulit
+≤line=960≥ Vos alij in orcum, dicet: vt quemque impulit
 
 Sui potestas, pretia factorum ferat
 
@@ -2277,7 +2278,7 @@ Fletumne? lethes gurgite immergi putas
 
 Hominémque totum morte perpetuâ emori?
 
-Si reuolat animus liber & coeli domos
+≤line=965≥ Si reuolat animus liber & coeli domos
 
 Affectat, vrnam casus, an Iudex mouet?
 
@@ -2287,7 +2288,7 @@ Spatiantur agris? Membra restitui negas?
 
 Promittit ipse conditor; cùm nil forem
 
-Verbo esse fecit, inde transfusum in feras
+≤line=970≥ Verbo esse fecit, inde transfusum in feras
 
 Non est potis reuocare? Tabescam in fretis,
 
@@ -2297,7 +2298,7 @@ Ludibria ventis praebeam, flammis cibos,
 
 Extra Pronoeam nil iacet: gremio excipit
 
-Mundus cadentem, tutus hâc condor penu
+≤line=975≥ Mundus cadentem, tutus hâc condor penu
 
 Domini potentis. Iussa depositi fidem
 
@@ -2307,7 +2308,7 @@ Iterumque coelo exoritur; vt veris tepor
 
 Hyberna soluit frigora, & gratâ vice
 
-Syluae resurgunt: semen immissum solo,
+≤line=980≥ Syluae resurgunt: semen immissum solo,
 
 Multóque aratum vomere, & fimo obrutum
 
@@ -2317,19 +2318,19 @@ Reparata Phoebi volucris, inque auras meas
 
 Nunquam ipsa, & ipsa semper. Haec rerum potens
 
-Sic ire voluit, pignus vt certum boni
+≤line=985≥ Sic ire voluit, pignus vt certum boni
 
 Daret futuri; quod priùs factum tulit
 
 ≤page=36≥ Transactus ordo, posse venturis probat
 
-Redire seclis. Titian. Error hic, seu spem vocas,
+Redire seclis. \@Titian.= Error hic, seu spem vocas,
 
 (Nam quis silentum testis è regno redit?)
 
-[^19]In aperta mittit funera, & patitur cruces
+≤line=990≥ [^19]In aperta mittit funera, & patitur cruces
 
-lam non colendas: quíque defunctos Deus
+Iam non colendas: quíque defunctos Deus
 
 A morte reuocat, morte defungi haud vetat:
 
@@ -2337,17 +2338,17 @@ Inique, vtrumque si potest; si non potest,
 
 Impostor, imbecillus, immanis suis.
 
-Anthi. Et posse ratio suadet, & velle interim
+≤line=995≥ \@Anthi.= Et posse ratio suadet, & velle interim
 
 Monstrauit vsus. Iacuit ad nudos pedes
 
-leiuna tigris; ignium immanes rogos
+Ieiuna tigris; ignium immanes rogos
 
 Placidus rigauit imber; horrendum vngulae
 
 Posuit rigorem interque luxantes puer
 
-Suaue risit machinas. Solui interim
+≤line=1000≥ Suaue risit machinas. Solui interim
 
 Sinit in dolores corpus: vt placitum, vt iuuat
 
@@ -2357,7 +2358,7 @@ Quem nemotentat, nemo virtutis probat
 
 [^20]Robur latentis? nonne par dignum Deo est.
 
-Forti viro composita fortunae manus,
+≤line=1005≥ Forti viro composita fortunae manus,
 
 Etiam furentis? laetus hoc spectat suo
 
@@ -2367,7 +2368,7 @@ Brabenta laurum. Victa me Siculo inferat
 
 Fortuna tauro, condat Arsacidum scaphis,
 
-Plumbo vrat artus, vulnus incassum irruet
+≤line=1010≥ Plumbo vrat artus, vulnus incassum irruet
 
 In non pauentem. Caesus adamantis rigor
 
@@ -2377,7 +2378,7 @@ Immissa in auras tela Achaemenij ducis
 
 Fecere tenebras, vlla semotum attigit
 
-Sagitta solem? vincla Neptuni manus
+≤line=1015≥ Sagitta solem? vincla Neptuni manus
 
 Strinxêre ponto iniecta? non miser est dolor,
 
@@ -2387,7 +2388,7 @@ Sed mens dolore fracta. Seruatae reus
 
 Et quod malorum maximum est, Poenos tulit,
 
-Miserum putabis? vnctus epulatur Nero,
+≤line=1020≥ Miserum putabis? vnctus epulatur Nero,
 
 Interque largas regij luxûs dapes
 
@@ -2397,47 +2398,47 @@ Cadit Senatus; Roma pulsanti Chelyn
 
 Tumulata flammis barbarum inspirat melos,
 
-Dices beatum? Quęmlibet mente aestima,
+≤line=1025≥ Dices beatum? Quęmlibet mente aestima,
 
 Vtramque virtus Domina fortunam regit:
 
 Honesta mors, aut vita sapienti est bonum.
 
-Gallus. Honesta ne sit, diritas poenae vetat.
+\@Gallvs.= Honesta ne sit, diritas poenae vetat.
 
-Anthi. Fieri beatam nec vetat, claram facit.
+\@Anthi.= Fieri beatam nec vetat, claram facit.
 
-Gallus. Non esse tanti non emo. Anthi. Virtus emat.
+≤line=1030≥ \@Gallvs.= Non esse tanti non emo. \@Anthi.= Virtus emat.
 
-Gallus. Si porrò eundum est vnico impulsu exeam.
+\@Gallvs.= Si porrò eundum est vnico impulsu exeam.
 
-Anthi. Referre credis quamdiu, aut vnde exeas,
+\@Anthi.= Referre credis quamdiu, aut vnde exeas,
 
-Si porrò eundum est? Gallus. Morte finitur dolor,
+Si porrò eundum est? \@Gallvs.= Morte finitur dolor,
 
 Nolim diu perire, ne peream semel.
 
-Anthi. Velim ego semel perire, ne peream diu.
+≤line=1035≥ \@Anthi.= Velim ego semel perire, ne peream diu.
 
-Gallus. Horrenda mors est illa quam leges iubent.
+\@Gallvs.= Horrenda mors est illa quam leges iubent.
 
-Anthi. At sempiternam perfidis cudit Deus.
+\@Anthi.= At sempiternam perfidis cudit Deus.
 
-Gallus. Amoena vitae gaudia, & laetum iuuat
+\@Gallvs.= Amoena vitae gaudia, & laetum iuuat
 
 Coluisse genium, viuida ad ludum, & iocos
 
-Jnuitat aetas. Egone praesentum bona
+≤line=1040≥ Jnuitat aetas. Egone praesentum bona
 
 Stultus dierum perdam, vt incerti metu
 
-Crucier futuri? Anthi. Scilicet lege hâc satus
+Crucier futuri? \@Anthi.= Scilicet lege hâc satus
 
 Venisti in auras? nulla virtutis tibi
 
 Mandata cura est? vna te letho dies
 
-≤page=38≥ Animámque rapiet? fabula, & cinis, & nihil
+≤line=1045≥ ≤page=38≥ Animámque rapiet? fabula, & cinis, & nihil
 
 Post fata fies? Sed quid in vitâ expetis?
 
@@ -2447,7 +2448,7 @@ Fortuna vanus mentis elusae iocus.
 
 Spolium senectae robur, & morbo decor.
 
-Cohors amica, miseriae solatium.
+≤line=1050≥ Cohors amica, miseriae solatium.
 
 Ventosa longo syrmate ambitio tumet,
 
@@ -2457,7 +2458,7 @@ Quid opes? periclum possidentis, aut onus.
 
 Et auara in omnes vota porrigitis plagas:
 
-Solísve nomen prodigâ indulsit manu
+≤line=1055≥ Solísve nomen prodigâ indulsit manu
 
 Quodcunque nascens Phoebus, aut moriens videt?
 
@@ -2467,7 +2468,7 @@ Non solus vni. Fundus hic, regnum fuit.
 
 Haec illa foribus clausa tercentum domus.
 
-Cui vacua longas atria obiiciunt moras,
+≤line=1060≥ Cui vacua longas atria obiiciunt moras,
 
 Validaeque turres acre propugnant latus,
 
@@ -2477,7 +2478,7 @@ Onerate villis, cycladas Hesperio mari,
 
 [^21]Cycladas Eoo spargite; extra anni vias
 
-Locate sedes, omnia extruitis loca,
+≤line=1065≥ Locate sedes, omnia extruitis loca,
 
 Viuitis in vno, singuli. Sunt haec mala,
 
@@ -2487,7 +2488,7 @@ Ventris saburram. quid Dionaeae loquar
 
 Meretricis ignes, turpe quà placuit bonum?
 
-Quid coniugalis proditam lecti fidem?
+≤line=1070≥ Quid coniugalis proditam lecti fidem?
 
 Salit in Priapum, fascino nupta insidet:
 
@@ -2497,7 +2498,7 @@ Ingens cinaedum tumulus Antinoüm tegit.
 
 Ruitur in haec propudia? in hoc aninum polo
 
-Hausistis homines? sceleribus scelera additis:
+≤line=1075≥ Hausistis homines? sceleribus scelera additis:
 
 Beatitatis magna pars vestrae est, diu
 
@@ -2505,29 +2506,29 @@ Peccare: leges scilicet dirum tonent,
 
 ≤page=39≥ Immunis esse qui potest, insons erit.
 
-Titian. Priuata quereris, hominis haud populi mala.
+\@Titian.= Priuata quereris, hominis haud populi mala.
 
-[^22]Anth. Vnum vnus, omnes omne complestis nefas
+≤line=1080≥ [^22]Anth. Vnum vnus, omnes omne complestis nefas
 
-Titian. Sibi quisque mentem moribus fingit suis.
+\@Titian.= Sibi quisque mentem moribus fingit suis.
 
-Anthi. Sibi quisque mores fingit ad mentem, & Deum.
+\@Anthi.= Sibi quisque mores fingit ad mentem, & Deum.
 
-Titian. In praua nullus deuios ducit Deus.
+\@Titian.= In praua nullus deuios ducit Deus.
 
-Anthi. In praua multi deuios ducunt Dei.
+\@Anthi.= In praua multi deuios ducunt Dei.
 
-Titian. Boni malorum vindices? Anthi. Imo rei.
+≤line=1085≥ \@Titian.= Boni malorum vindices? \@Anthi.= Imo rei.
 
-Titian. Natura sanctos fecit. Anthi. At vita improbos.
+\@Titian.= Natura sanctos fecit. \@Anthi.= At vita improbos.
 
-Titian. Humana de diis loqueris. Anthi. Et diuos putas?
+\@Titian.= Humana de diis loqueris. \@Anthi.= Et diuos putas?
 
-Gallus. Quid illa tangis? sacra Pontifices canant.
+\@Gallvs.= Quid illa tangis? sacra Pontifices canant.
 
 Adriane solùm id posceris, legum impiger
 
-Mandata facias: quisquis est coelo Deus,
+≤line=1090≥ Mandata facias: quisquis est coelo Deus,
 
 Coelum gubernet; more quo Domini volunt,
 
@@ -2537,7 +2538,7 @@ Sibi quietum, fata voluentem sua.
 
 Haurire fumos thuris, & donis capi,
 
-Aut capere vota vulgus insanum putet,
+≤line=1095≥ Aut capere vota vulgus insanum putet,
 
 Et hoc timore gentium constet quies.
 
@@ -2547,7 +2548,7 @@ Fauorque Regum Iuppiter. Christus, simul
 
 Vterque neuter, sunto si reges volent
 
-Diui, & colantur. Adrian. Istud impietas mihi,
+≤line=1100≥ Diui, & colantur. \@Adrian.= Istud impietas mihi,
 
 Gallusne suadet? sic Deo nulli litas,
 
@@ -2557,27 +2558,27 @@ Romanus hinc, hinc hostis ad partes vocet.
 
 ≤page=40≥ Vtrique faueas casus vt quemque offerret?
 
-O Perduelles! innocens Christi genus
+≤line=1105≥ O Perduelles! innocens Christi genus
 
 Fidumque, nullo Regum in obsequio labat,
 
 Reges habere vos putem, expertes Dei?
 
-Gallus. Aures amicis denegas? Adrian. Ite impij,
+\@Gallvs.= Aures amicis denegas? \@Adrian.= Ite impij,
 
 Mea sacra testor, nunc amicitiae pudet.
 
-Titian. Reconde latebris miles, & vincla aggere,
+≤line=1110≥ \@Titian.= Reconde latebris miles, & vincla aggere,
 
 Iter est in aulam. Caesaris te iam puta
 
-Iustum ad Tribunal stare. Adrian. Vos rigidum Dei
+Iustum ad Tribunal stare. \@Adrian.= Vos rigidum Dei
 
-Cito ad Tribunal. Gallus. Regium cingent latus
+Cito ad Tribunal. \@Gallvs.= Regium cingent latus
 
-Irae, neces, tormenta. Adrian. Cum Christo irruent
+Irae, neces, tormenta. \@Adrian.= Cum Christo irruent
 
-Crucesque, & ignes, & rotae, aeterna omnia.
+≤line=1115≥ Crucesque, & ignes, & rotae, aeterna omnia.
 
 **[^23]CHORVS.**
 
@@ -2589,7 +2590,7 @@ Christi ducat Roma choreas
 
 Male Caesareis aucta triumphis.
 
-Perfida sacrilegam voluebant secula noctem,
+≤line=1120≥ Perfida sacrilegam voluebant secula noctem,
 
 Vndabantque aris vulgus ferale Deorum:
 
@@ -2599,7 +2600,7 @@ Materia informis populum, super aurea coeli
 
 Sidera, adulterio soboles Saturnia creuit.
 
-Allijs audet dare thura Memphis:
+≤line=1125≥ Allijs audet dare thura Memphis:
 
 ≤page=41≥ Scythes cruento supplicat ensi:
 
@@ -2609,7 +2610,7 @@ Et tu Crocodile, voratâ
 
 Puerûm sufferte cateruâ.
 
-Haec portenta Deûm
+≤line=1130≥ Haec portenta Deûm
 
 Seculi quos consecrat error impuri
 
@@ -2619,7 +2620,7 @@ In iura sibi debita vt asseras Tonantem.
 
 Tu Solis Radius non variabilis:
 
-Tu fons fonte satus; tu speculi nitor
+≤line=1135≥ Tu fons fonte satus; tu speculi nitor
 
 Vinam perpetuò reddis imaginem,
 
@@ -2629,7 +2630,7 @@ Nec spectante minor, nec iunior
 
 Aeterno generante prenniter.
 
-Omnia posse,
+≤line=1140≥ Omnia posse,
 
 Omnia scire,
 
@@ -2639,7 +2640,7 @@ Tu sanctus, tua Sanctitas:
 
 Tu bonus, Bonitas tua:
 
-Tu rerum archetypum vetus,
+≤line=1145≥ Tu rerum archetypum vetus,
 
 Irreprensibilis regula tu boni.
 
@@ -2649,7 +2650,7 @@ Vinclo non resolubili
 
 Sanctis nexus amoribus,
 
-Quem producis amorem!
+≤line=1150≥ Quem producis amorem!
 
 Quando mortalis super-induisti
 
@@ -2659,7 +2660,7 @@ In sinu clausus, simul & videri
 
 Inter aequales facilis, liquentes
 
-Aequorum passu solidante campos
+≤line=1155≥ Aequorum passu solidante campos
 
 Tutus intrasti; siluêre venti,
 
@@ -2669,7 +2670,7 @@ Et procellarum posuit tumultus.
 
 Vocis ad nutum Dominae: sepultis
 
-Reddidit manes libitina membris:
+≤line=1160≥ Reddidit manes libitina membris:
 
 Hospes impuro Phlegetonte missus
 
@@ -2679,7 +2680,7 @@ Perdidit artus.
 
 Te coelestem monstrante viam
 
-Fugit ab aris lugubre sonans
+≤line=1165≥ Fugit ab aris lugubre sonans
 
 Plebs vana Deûm: Cortina silet,
 
@@ -2689,7 +2690,7 @@ Prius alieni perspicax.
 
 Iamque Mercurius, claudicansque laeso
 
-Poplite Vulcanus,
+≤line=1170≥ Poplite Vulcanus,
 
 Satyrûmque, Faunorumque cornuta
 
@@ -2699,7 +2700,7 @@ Eiecto Patre tyrannus
 
 Fraudes professi, nomina vana
 
-Et largos populis dedere risus.
+≤line=1175≥ Et largos populis dedere risus.
 
 Quid styx ringeris?
 
@@ -2709,7 +2710,7 @@ In Christi genus armas?
 
 Prospero viuet data secta coelo:
 
-Christus Romuleum tenebit orbem,
+≤line=1180≥ Christus Romuleum tenebit orbem,
 
 Et verum miseris mortalibus
 
@@ -2719,7 +2720,7 @@ Tempus erit cum tranquillâ rate
 
 Mundum sulcabit Christi decus.
 
-Christum claustra canent Mareotica,
+≤line=1185≥ Christum claustra canent Mareotica,
 
 Et non inuito sub gutture
 
@@ -2729,7 +2730,7 @@ Surgentíque Indus Phoebo obuius
 
 Dulce salutabit Christi iubar.
 
-Génsque Iouis cultrix Maurusia,
+≤line=1190≥ Génsque Iouis cultrix Maurusia,
 
 ≤page=43≥ Massagetûmque minax truculentia,
 
@@ -2739,7 +2740,7 @@ Aurea tum current promissi secula mundi,
 
 Mutabit natura vices, reparata tumebit
 
-Fruge nouâ tellus; Pax diuite candida peplo
+≤line=1195≥ Fruge nouâ tellus; Pax diuite candida peplo
 
 Vmbrabit latè populos; terrásque reuisens
 
@@ -2755,7 +2756,7 @@ Si non, iniquo tempore, exosus tuos
 
 Ad vnum amicos, aliqua consilia accipis,
 
-Permitte fari; Adriane quisquis te Deus
+≤line=1200≥ Permitte fari; Adriane quisquis te Deus
 
 In illa adegit verba, peccasti improbè.
 
@@ -2765,7 +2766,7 @@ Excipere honore publico, & fidas boni
 
 Consulere voces: imprimis saeuum vlceri
 
-Doliturus vnguem, quamque sopire est opus
+≤line=1205≥ Doliturus vnguem, quamque sopire est opus
 
 Tenace flammam perditus oliuo foues.
 
@@ -2775,7 +2776,7 @@ Veniam daturum crimini: orabant tui,
 
 Tuae & propinqui coniugis. Cùm aulam gradu
 
-Rapiunt citato Consul, & Gallus comes,
+≤line=1210≥ Rapiunt citato Consul, & Gallus comes,
 
 Suos labores, coniugis lacrymas, tua
 
@@ -2785,7 +2786,7 @@ Responsa narrant, quódque vix credi queat,
 
 Nequiter abactos fugere se; qualis pede
 
-Qui pressit anguem incautus. Hîc fremere aulici,
+≤line=1215≥ Qui pressit anguem incautus. Hîc fremere aulici,
 
 Pallere amici, Maenadum in morem faces
 
@@ -2795,7 +2796,7 @@ Spirare vultu: longa quod viuis mora est,
 
 Etiam in catenis. Ire quis contrà audeat
 
-Si quando vastam passibus magnis tulit
+≤line=1220≥ Si quando vastam passibus magnis tulit
 
 Furias per aulam solus, immane infremens?
 
@@ -2805,7 +2806,7 @@ Hostile rabiem. Parte sed magnâ ferox
 
 Posuerat animus, iamque placari potens:
 
-Egêre proceres parte ne indictâ alterâ
+≤line=1225≥ Egêre proceres parte ne indictâ alterâ
 
 Duci iuberet, lege in auditos agi.
 
@@ -2815,7 +2816,7 @@ Nostrum ad Tribunal, clamat; & quassans caput,
 
 Malè sic potestas luditur; iniquum cies
 
-Furiose bellum, cadere quo solùm potes.
+≤line=1230≥ Furiose bellum, cadere quo solùm potes.
 
 Sed hoc petis: sed oportet; & si meus tibi
 
@@ -2825,17 +2826,17 @@ Ita Caesar. At tu statue quo iustus dolor
 
 Placetur aditu, quâ ferum euincas prece:
 
-Certò occidisti. Adrian. Si reum facti citat
+≤line=1235≥ Certò occidisti. \@Adrian.= Si reum facti citat
 
 Fecisse fateor: iure si factum negat,
 
-Non poenitet fecisse. Flau. Lictorum cohors
+Non poenitet fecisse. \@Flav.= Lictorum cohors
 
 Robusta teneros scorpio, loris, flagris,
 
 Cùm scindet artus, fune protensum vndique
 
-Luxabit equulus, Consulum vestro ebria
+≤line=1240≥ Luxabit equulus, Consulum vestro ebria
 
 Sanguine securis membra, non vitam auferet:
 
@@ -2845,39 +2846,39 @@ Tibi superstes truncus hanc feries humum,
 
 Sed voce serâ Parce si dira occino
 
-Malè ominatus augur; vt se res habent
+≤line=1245≥ Malè ominatus augur; vt se res habent
 
 Grauiora metue. Fructum amicitiae puto
 
-Fida in periclis monita. Adrian. Praesepi antehac,
+Fida in periclis monita. \@Adrian.= Praesepi antehac,
 
 Et inferendo ferre perdidici mala.
 
 Sed me priusquam Caesar in vinclis videt,
 
-Permitte, Flaui dulcis amplexu vltimo
+≤line=1250≥ Permitte, Flaui dulcis amplexu vltimo
 
 Fruar maritae: tenuis est lethi mora,
 
-Et triste numus. Flau. Debita supremum rogas
+Et triste numus. \@Flav.= Debita supremum rogas
 
 Vtriusque meritis: non facit iussis moram
 
 Pietas licet diuturna: celeberemus tamen
 
-Ne Caesar irae faciat hoc partem suae.
+≤line=1255≥ Ne Caesar irae faciat hoc partem suae.
 
-Adrian. Praecedite hinc vos, solus ad solam ferar,
+\@Adrian.= Praecedite hinc vos, solus ad solam ferar,
 
-Thalamus recusat conscium. Flau. Fortis quidem
+Thalamus recusat conscium. \@Flav.= Fortis quidem
 
 Timere virtus prohibet, & mortem diu
 
 Animus lacessens: Si quis amoto tamen
 
-Custode latebras suadet imbelles metus?
+≤line=1260≥ Custode latebras suadet imbelles metus?
 
-Homo es, potes nutare. Adrian. Me de te aestimas
+Homo es, potes nutare. \@Adrian.= Me de te aestimas
 
 Ignaue lixa? Scimus ô spretam tibi
 
@@ -2885,7 +2886,7 @@ Redimere vitâ gloriam, scimus gradu
 
 Composti in vno vincere, aut pulchrè mori.
 
-Anthi. Meliora Flaui, fortia & facere, & pati
+≤line=1265≥ \@Anthi.= Meliora Flaui, fortia & facere, & pati
 
 Est Christianum, nemo repressit pedem
 
@@ -2895,7 +2896,7 @@ Per tot furores Principum & Regis minas,
 
 ≤page=46≥ Praelusit orco: gestit inuictum caput:
 
-Lauro propinquâ cingere, & certam abnuat
+≤line=1270≥ Lauro propinquâ cingere, & certam abnuat
 
 Victus coronam? postulas mortis vadem?
 
@@ -2905,9 +2906,9 @@ Causâ perire non suâ laeti ambiunt.
 
 Addo & per orbem quanta Romuleum manus
 
-Christi catenas patitur; in fratre vnico
+≤line=1275≥ Christi catenas patitur; in fratre vnico
 
-Vadamur omnes. Flau. Plena quae vestri plaga
+Vadamur omnes. \@Flav.= Plena quae vestri plaga
 
 Non est laboris? quisve generosos negat
 
@@ -2915,7 +2916,7 @@ Christo fideles? nec tuam damno fidem
 
 Adriane, sed me regis offensi metus
 
-Mihi prouidere cogit. I faustâ alite
+≤line=1280≥ Mihi prouidere cogit. I faustâ alite
 
 Quocunque libuit: hoc precor, ne te implicet
 
@@ -2925,17 +2926,17 @@ Moriturus ista rumpe quae frangunt viros.
 
 Dissolue nexus miles, haud aliter lares
 
-Nataliamque cernere Adrianum decet.
+≤line=1285≥ Nataliamque cernere Adrianum decet.
 
-Adrian. Ad Caesarem ambo, mox sequar quod si fauor
+\@Adrian.= Ad Caesarem ambo, mox sequar quod si fauor
 
 Non abiit omnis, pauca pro causâ loqui
 
 Permittat, ora. Video quae Domiuum imperî
 
-Audire prosit. Flau. Si domi vinci cupis,
+Audire prosit. \@Flav.= Si domi vinci cupis,
 
-Si stas in illo coniugis charae sinu,
+≤line=1290≥ Si stas in illo coniugis charae sinu,
 
 Quam fronte laeta Caesar id de me audiet?
 
@@ -2949,7 +2950,7 @@ Etiamne vinclis numen, & numen loco est:
 
 Durâ reuinctus compede, infandae luto
 
-Tenebrisque caueae clausus ô quales polo
+≤line=1295≥ Tenebrisque caueae clausus ô quales polo
 
 Hausi liquores! gaudia ô quanta ebibi!
 
@@ -2959,7 +2960,7 @@ Saturae fugacis, huc parum stabiles & huc
 
 Error vagari cogit, & vanâ famem
 
-Proritat vmbrâ: ferre pro Christo aspera,
+≤line=1300≥ Proritat vmbrâ: ferre pro Christo aspera,
 
 Gaudere certum est. Ecce dum vincla exui
 
@@ -2969,7 +2970,7 @@ Fusus per artus, abiit adstricti Deo
 
 Animi serenum: sentio, non est meum
 
-Quod tot periclis extuli victor pedem.
+≤line=1305≥ Quod tot periclis extuli victor pedem.
 
 Quod tot malorum insuetus, extrema appeto.
 
@@ -2979,7 +2980,7 @@ Mens acquiescit suauiter, non est meum.
 
 Si prouocare fata, si duram datur
 
-Mortem occupare fortiter, Christe est tuum,
+≤line=1310≥ Mortem occupare fortiter, Christe est tuum,
 
 Pugnet Adrianus, Christe tu palmam feres.
 
@@ -2991,9 +2992,9 @@ DOMINVM salutat nobilis consors tori,
 
 Rogantque num quid desit? an saluè satis?
 
-Adrian. Vbi illa? quid agit? Timae. Excutit totam penum,
+\@Adrian.= Vbi illa? quid agit? \@Timae.= Excutit totam penum,
 
-Cellas recludit sedula, hinc byssum, hinc togas,
+≤line=1315≥ Cellas recludit sedula, hinc byssum, hinc togas,
 
 Hinc vile linum segregat: fama est opes
 
@@ -3003,7 +3004,7 @@ Saeuijt iniqua, nullus euasit Deûm,
 
 Et quos colebas sanctiùs, ludum hostibus
 
-Dedêre, et aurum. Me quoque in praedae bonus
+≤line=1320≥ Dedêre, et aurum. Me quoque in praedae bonus
 
 Partem vocauit Iuppiter: contra aureum
 
@@ -3011,9 +3012,9 @@ Fulmen steti audax, voluit obniti quidem,
 
 Conatu at vno brachium, & telum abstuli.
 
-Adrian. Mox ad futurum nuncia. Timae. Ad caecam domum
+\@Adrian.= Mox ad futurum nuncia. \@Timae.= Ad caecam domum
 
-Adire iussus, tempore haud iusto redux,
+≤line=1325≥ Adire iussus, tempore haud iusto redux,
 
 Percellam amantem. Quid cùm & Adrianum sciet
 
@@ -3023,7 +3024,7 @@ Ferre in penates? gaudio pectus salit;
 
 Vel cuncta fallunt, pileus vel me manet.
 
-Sed curro, tarda est omnis optanti mora.
+≤line=1330≥ Sed curro, tarda est omnis optanti mora.
 
 ## 23. ≤page=49≥ [^27]SCENA QVARTA.
 
@@ -3037,7 +3038,7 @@ Subit voluptas, meque coelestum eripit
 
 Beatitati: Prima coniugii fides,
 
-Et dulcis ardor osculi, & totos tegens
+≤line=1335≥ Et dulcis ardor osculi, & totos tegens
 
 Complexus artus, quódque delicias suprà est
 
@@ -3047,7 +3048,7 @@ Furatur animum? liberum, & nullo latus
 
 Custode cinctum, penè & addictum neci
 
-Quâ fronte cernet? basia è quibus imprimet
+≤line=1340≥ Quâ fronte cernet? basia è quibus imprimet
 
 Secura labris? quosue morituro sonos,
 
@@ -3057,7 +3058,7 @@ Nuper canebat Consuli & Gallo asseclae
 
 Factura fucum: lacrymis, precibus, probris
 
-Videre videor, quâque plus mulier potest,
+≤line=1345≥ Videre videor, quâque plus mulier potest,
 
 Blanditiâ, amantem, mente sollicitam anxiâ
 
@@ -3067,7 +3068,7 @@ Mihi hanc magistram christus, & fides ducem
 
 Parauit olim, nec pudet. Virtus bona est
 
-Vndelibet adsit. Fallor! an claues sonant?
+≤line=1350≥ Vndelibet adsit. Fallor! an claues sonant?
 
 Matrona quali nostra cum ardore aduolat?
 
@@ -3077,21 +3078,21 @@ Jpsa est, quis illam turbo tam praeceps agit?
 
 NATALIA. ADRIANVS.
 
-HEM! Adrian. Salue amata. Natal. Martyr! Hem victor stygis,
+HEM! \@Adrian.= Salue amata. \@Natal.= Martyr! Hem victor stygis,
 
-Domitor tyrannorum! Adrian. Anime mi salue satis?
+Domitor tyrannorum! \@Adrian.= Anime mi salue satis?
 
-Natal. Periure, Christi proditor, generis lues,
+≤line=1355≥ \@Natal.= Periure, Christi proditor, generis lues,
 
 Sacrilege, mundi dedecus:: stare hîc potes?
 
 Nec terra ne te sorbeat rupto sinu
 
-Foedifrage metuis? Adrian. Siccine maritum excipis
+Foedifrage metuis? \@Adrian.= Siccine maritum excipis
 
-Amara mulier? Natal. Solis hanc specta facem,
+Amara mulier? \@Natal.= Solis hanc specta facem,
 
-Lucere vt indignatur? vt tenebras perit?
+≤line=1360≥ Lucere vt indignatur? vt tenebras perit?
 
 Vt fugere inardet, & remetiri polum?
 
@@ -3101,17 +3102,17 @@ Condat latebrâ transfugam. Et coelo potes
 
 Offerre vultum? cernere, & cerni potes?
 
-Adrian. Hîc indecorum est coniugum audiri probra,
+≤line=1365≥ \@Adrian.= Hîc indecorum est coniugum audiri probra,
 
 Subeamus aedes, iurgiis dabitur modus,
 
-Natal. Túne hos penates? Adrian Me meo excludis lare?
+\@Natal.= Túne hos penates? \@Adrian.= Me meo excludis lare?
 
 Natalia haec est: quis furor mentem incitat?
 
 Quae monstra fatur? vxor heus, Natalia
 
-Aperis? recludis? cogis effringi fores?
+≤line=1370≥ Aperis? recludis? cogis effringi fores?
 
 Adeste famuli, quíque communi leuem
 
@@ -3121,7 +3122,8 @@ Voco Adrianus, rumpite obstantes moras,
 
 Properate, patriâ Dominus eiicior domo.
 
-≤page=51≥ Natal. Ego Caia, non tu Caius: incassum imperas,
+≤line=1375≥ ≤page=51≥ \@Natal.= Ego Caia, non tu Caius: incassum
+imperas,
 
 Parere vetui. Vade, promissas opes,
 
@@ -3131,17 +3133,17 @@ Repete à Tyranno victus, & coeli bonis
 
 Exclusus. I voluente mobilior trocho,
 
-Jnfide Proteu, Cepphe, Plutonem roga,
+≤line=1380≥ Jnfide Proteu, Cepphe, Plutonem roga,
 
 Domum ille auerno praeparat, multâ domum
 
-Flammâ micantem, & sulphure. Adrian. Adriano lares
+Flammâ micantem, & sulphure. \@Adrian.= Adriano lares
 
-Natalia aperi. Natal. Carceris custos forem!
+Natalia aperi. \@Natal.= Carceris custos forem!
 
 [^29]Nunquam exiisses. Magne promissis Thraso.
 
-Vix dum sonabat Classicum, & molles tremor
+≤line=1385≥ Vix dum sonabat Classicum, & molles tremor
 
 Inuasit artus. Vnde? quid speras boni?
 
@@ -3151,17 +3153,17 @@ Timidum aula ridet, Martyres abortum, & suae
 
 Pestem execrantur gloriae: Christus styge
 
-Sibi perduellem damnat; in poenam, manus
+≤line=1390≥ Sibi perduellem damnat; in poenam, manus
 
 Armant ministri coelites; coelo & solo
 
 Eiectus ad me curris vt rapias parem
 
-Tecum in ruinam? Adrian. Taedet irarum & morae,
+Tecum in ruinam? \@Adrian.= Taedet irarum & morae,
 
-Aperi. Natal. Vt receptum te domus, méque obruat?
+Aperi. \@Natal.= Vt receptum te domus, méque obruat?
 
-Vt nos, Dei odium, propius asslatu eneces?
+≤line=1395≥ Vt nos, Dei odium, propius asslatu eneces?
 
 Quid spreta faciam Martyris nuper soror,
 
@@ -3171,17 +3173,17 @@ Cocyti alumno iunxit? ô nox, ô dies,
 
 Quâ me, execrande, basio primum obtuli.
 
-Nunc consenescam, moesta, languida, tabida,
+≤line=1400≥ Nunc consenescam, moesta, languida, tabida,
 
 Misera, infidelis passa conspectum viri.
 
 Sic nata non sum, non ego ignauo, impio
 
-≤page=52≥ Hâc dote nupsi. Adrian. Quo ruit? quo fert truces
+≤page=52≥ Hâc dote nupsi. \@Adrian.= Quo ruit? quo fert truces
 
 Lymphata gressus? video quid rerum paret:
 
-Vincla exuisse perfidum coelo putat:
+≤line=1405≥ Vincla exuisse perfidum coelo putat:
 
 Meliora Christe! semet in furias agit
 
@@ -3191,37 +3193,37 @@ Et hos iuuentus, hos amor taedae recens
 
 Exeat in ignes? foeminae hoc robur vocem
 
-Non estuantis corde sub magno Dei?
+≤line=1410≥ Non estuantis corde sub magno Dei?
 
-Natal. Tua tibi habeto. Porta, quàm lata est, patet,
+\@Natal.= Tua tibi habeto. Porta, quàm lata est, patet,
 
 Ingredere, fruere, peiera, Christum abnega,
 
 Et si potes valere, perpetuum vale.
 
-Adrian. Natalia, heus quo? Natal. Jn carcerem, abiectam tibi
+\@Adrian.= Natalia, heus quo? \@Natal.= Jn carcerem, abiectam tibi
 
-Rapturae palmam, Martyrum iungar choris
+≤line=1415≥ Rapturae palmam, Martyrum iungar choris
 
 Pensare possum mulier imbellem virum.
 
-Adrian. Natalia audi, scire quod cupias, loquar.
+\@Adrian.= Natalia audi, scire quod cupias, loquar.
 
-Natal. Sile, aut nefandae stirpitùs linguae fibras
+\@Natal.= Sile, aut nefandae stirpitùs linguae fibras
 
-Hâc, hâc reuellam dexterâ. Adrian. Vera eloquor
+Hâc, hâc reuellam dexterâ. \@Adrian.= Vera eloquor
 
-Fraus abeat omnis, numen obtestor meum,
+≤line=1420≥ Fraus abeat omnis, numen obtestor meum,
 
 Tuúmque coniux, Christus immotâ sedet
 
 Mihi mente victor: occidam, si me dies
 
-Vidit fugacem. Natal. Scilicet gressum huc feras
+Vidit fugacem. \@Natal.= Scilicet gressum huc feras
 
-Comite & catenis liber? Adrian. Auertat polus
+Comite & catenis liber? \@Adrian.= Auertat polus
 
-Quod metuis. Jn me prima tempestas furit,
+≤line=1425≥ Quod metuis. Jn me prima tempestas furit,
 
 Inire pugnam cogor, inuictum dolis,
 
@@ -3231,7 +3233,7 @@ Ad arma amici prouocant: Caesar citat,
 
 Promissa vocis impleo, dumque arduum
 
-Auspicor agonem, robur è coelo ambio.
+≤line=1430≥ Auspicor agonem, robur è coelo ambio.
 
 Credis? supremos iunge complexus soror.
 
@@ -3241,7 +3243,7 @@ Cúmque Adriani saeua supplicia audies,
 
 Saltem Tonantis numen in vota aduoca.
 
-[^30]Natal. Resiste frater. Lingua peccauit procax,
+≤line=1435≥ [^30]\@Natal.= Resiste frater. Lingua peccauit procax,
 
 Agnosco Christi Martyrem. ô si fas foret!
 
@@ -3249,9 +3251,9 @@ Vt inuiderem! vt membra tormento inderem!
 
 Tortoris ictum clepere, si furtim dares
 
-O me beatam! Adrian. Pone iam votis modum,
+O me beatam! \@Adrian.= Pone iam votis modum,
 
-Vocat hora, num quid imperas? Natal. Non hoc tamen
+≤line=1440≥ Vocat hora, num quid imperas? \@Natal.= Non hoc tamen
 
 Duces triumphum schemate, ibi laurum metes,
 
@@ -3261,7 +3263,7 @@ Citatus effer rore Sidonio ebriam,
 
 Quam Phrygia pinxit dextera, & circum duplex
 
-Maeander auri currit. Hymenaeo dedit
+≤line=1445≥ Maeander auri currit. Hymenaeo dedit
 
 Adriane pompam: sanctiùs non hos quiden
 
@@ -3271,7 +3273,7 @@ Induere cessas? Ecce flagrantem ferunt
 
 Pinum Camilli coelites: totis sacrum
 
-Auditur astris carmen: it lateri comes
+≤line=1450≥ Auditur astris carmen: it lateri comes
 
 Virgo, parénsque pronuba: amplexus parat
 
@@ -3281,7 +3283,7 @@ Da coelo amores: labis hic expers torus.
 
 O dulce mentis osculum! ô castum Dei
 
-Complexum amantis! fontem ô aeternum boni!
+≤line=1455≥ Complexum amantis! fontem ô aeternum boni!
 
 ≤page=54≥ Quid melius aut par Roma deliciis fouet?
 
@@ -3291,7 +3293,7 @@ Tamen & per enses saepe, non dubiae per ex
 
 Perîcla mortis itur in certum vltimae
 
-Mortis perîclum: frigidum, aestiuum Jouem,
+≤line=1460≥ Mortis perîclum: frigidum, aestiuum Jouem,
 
 Curas, repulsas, taedia, & Dominae probra
 
@@ -3301,9 +3303,9 @@ Amoris aestus, his emunt horam malis,
 
 Serúmque poenitere. Te praesta virum
 
-Adriane; tenui poena momento parit
+≤line=1465≥ Adriane; tenui poena momento parit
 
-Aeternitatem. Adrian. Totus in coelum feror.
+Aeternitatem. \@Adrian.= Totus in coelum feror.
 
 [^31]Hîc condita aeui meta. Sed timeo tibi
 
@@ -3311,9 +3313,9 @@ Amata coniux: lege damnatum, bona
 
 Sequentur: vnde nobilem serues statum
 
-Eripiet hastae Caesare offenso rigor.
+≤line=1470≥ Eripiet hastae Caesare offenso rigor.
 
-Natal. Humana mitte, Martyr es, coelo & Deo
+\@Natal.= Humana mitte, Martyr es, coelo & Deo
 
 Inuictus haere. Cura me tanget mei.
 
@@ -3321,7 +3323,7 @@ Tu pars mearum magna Gazarum, eripe
 
 His te periclis, tuta sum: si te Dei
 
-Recondo in arcammille nil Croesos moror.
+≤line=1475≥ Recondo in arcammille nil Croesos moror.
 
 Nimis est auara cui satis non est, Deo
 
@@ -3331,7 +3333,7 @@ Praetoriana? Caesar hîc causam audiet.
 
 Discedo, macte Adriane, nunc animis opus,
 
-Deus in propinquo est. Christe luctantem adiuua.
+≤line=1480≥ Deus in propinquo est. Christe luctantem adiuua.
 
 Adrianus. Secreta vires vota luctanti dabunt.
 
@@ -3345,7 +3347,7 @@ Gratam est quod aliud mente consilium coquis.
 
 Sortem hanc priori confer, & reducem foue
 
-Beatitatem sedulus. nostro sede
+≤line=1485≥ Beatitatem sedulus. nostro sede
 
 A Consule alter; munus, officium, decus,
 
@@ -3355,27 +3357,27 @@ Dare possit, ora: Caesar Adriano dabit
 
 Cui neque se ipsum denegat. Non hoc loqui
 
-Nuper volebas? cerne quam promptè audiam,
+≤line=1490≥ Nuper volebas? cerne quam promptè audiam,
 
 Nondum rogatus vota qui facio rata.
 
-Adrian. O digna Superum cura, Romulei caput
+\@Adrian.= O digna Superum cura, Romulei caput
 
 Columénque regni, tutius magni loca
 
 Cumulum fauoris, quicquid extremum tibi est,
 
-Meritum omne superat. Si quid obsequiis tamen
+≤line=1495≥ Meritum omne superat. Si quid obsequiis tamen
 
 Donare spondes, commoda huic aures seni,
 
-Hoc munus ingens esto. Galer. Quàm faciles volet.
+Hoc munus ingens esto. \@Galer.= Quàm faciles volet.
 
 Anth. Malum inquietum fama & incertum, & vagum,
 
 Sui auctor ipsa, quae mala affinxit, timet,
 
-Auara recti, pérque rumores procax
+≤line=1500≥ Auara recti, pérque rumores procax
 
 Crescit malignos: quamdiu minimùm probat,
 
@@ -3385,7 +3387,7 @@ Munúsque functa nuncii, rebus fidem
 
 Fieri suadet. Jlla nascentem, & suo
 
-≤page=56≥ Adhuc rubentem à patre, Christiadum fidem
+≤line=1505≥ ≤page=56≥ Adhuc rubentem à patre, Christiadum fidem
 
 Inimica sparsit: credulus vulgi timor
 
@@ -3395,7 +3397,7 @@ Mensura falsi. Nemo iam quaeri iubet
 
 Quod fama seclis aluit; innatum ferunt
 
-Pietatis odium, quódque iudicio nequit.
+≤line=1510≥ Pietatis odium, quódque iudicio nequit.
 
 Famâ aestimandum liberis tradit pater.
 
@@ -3405,7 +3407,7 @@ Perimíque crusto: póstque sacrilegas dapes
 
 Miscere tenebris veneris incesta toros.
 
-Et hoc putare satis habent, quod si foret
+≤line=1515≥ Et hoc putare satis habent, quod si foret
 
 Nulla expiaret flamma, non sorbens maris
 
@@ -3415,7 +3417,7 @@ Tot patitur hostes secta: numeroso agmine
 
 Circùm obsidemur, coetibus se fraus quoque
 
-Insinuat imis, pérque nocturnas meat
+≤line=1520≥ Insinuat imis, pérque nocturnas meat
 
 Inuisa tenebras, scelera quis tanta eruit?
 
@@ -3425,7 +3427,7 @@ Liquêre partes plurimi, & pactum sacris
 
 Soluêre foedus, vestrum ad arbitrium impiis
 
-Fecisse quis fatetur? absoluunt tamen
+≤line=1525≥ Fecisse quis fatetur? absoluunt tamen
 
 Edicta dudum vestra, nec damnant nefas
 
@@ -3435,7 +3437,7 @@ Sed quod vocamur, crimen est. Leges reum
 
 Plectunt fatentem; quale delicti est genus
 
-Quod vt negetur, torqueor? fio innocens
+≤line=1530≥ Quod vt negetur, torqueor? fio innocens
 
 Ego illi naturae hostis, & Regum, & Deûm
 
@@ -3445,7 +3447,7 @@ Florem sororis, proditam imperio fidem,
 
 Si Christianum nomen inuitè abdico.
 
-Quid ergo? puros sceleris iniustae neci
+≤line=1535≥ Quid ergo? puros sceleris iniustae neci
 
 ≤page=57≥ Tot subdidêrunt secla? Si crimen vocas
 
@@ -3455,7 +3457,7 @@ Non supplicamus Herculi: coelum Deo,
 
 Ritus perosi publicos vni damus.
 
-Nam cur adorem terra quos homines tulit,
+≤line=1540≥ Nam cur adorem terra quos homines tulit,
 
 Coelo sacrauit error? & nondum loquor
 
@@ -3465,7 +3467,7 @@ Vos falsa fingi sinitis. Huic cornu minax,
 
 Huic perpes alâ maximus diuûm placet.
 
-Abnoctat isti potiùs, & casti rapit
+≤line=1545≥ Abnoctat isti potiùs, & casti rapit
 
 Thalami pudorem adulter: est & quem iuuat
 
@@ -3475,7 +3477,7 @@ Vxoris ille iurgia, & poenam canit:
 
 Auro pependit coniuge irato soror,
 
-Et domina Iuno, gemina Reginae pedes
+≤line=1550≥ Et domina Iuno, gemina Reginae pedes
 
 Grauauit incus. Patria Vulcanum polo
 
@@ -3485,7 +3487,7 @@ Lemnúmque claudus pressit. Exemptos solo
 
 Vitâque cassos quis Deos, manceps Deus
 
-Maiórque fecit? Nempe multorum manu
+≤line=1555≥ Maiórque fecit? Nempe multorum manu
 
 Erat adiuuandus? Ante Saturni genus
 
@@ -3495,7 +3497,7 @@ Micuêre flammae? tacitus, & teli innocens
 
 Dilapsus humor nubium? quos fert manu
 
-Non timuit ignes Iuppiter? Sed quae Deos
+≤line=1560≥ Non timuit ignes Iuppiter? Sed quae Deos
 
 Fecêre merita? Farris Actao seges
 
@@ -3505,7 +3507,7 @@ Liquore Naxus: olea viridanti Deum
 
 Victura trunco: valle Nemaeà Leo,
 
-Serpens palude domitus. Occlusit fores
+≤line=1565≥ Serpens palude domitus. Occlusit fores
 
 Jllis receptis; multa potiorum vndique
 
@@ -3515,7 +3517,7 @@ Voluuntur orco millia, & coelo procul
 
 Venere sedes, hospes antiqui Dei
 
-Excidit Olympo Ianus, at geminâ probum
+≤line=1570≥ Excidit Olympo Ianus, at geminâ probum
 
 [^33]Seruat pudorem fronte, quam turbae Iouis
 
@@ -3525,7 +3527,7 @@ Etiamne regnant pallor, & pauor, & febris?
 
 Et hos velis habere praesentes Deos?
 
-Virides ab hortis Pharia dat tellus Deos
+≤line=1575≥ Virides ab hortis Pharia dat tellus Deos
 
 Canémque Anubin, téque qui nunquam satis
 
@@ -3535,7 +3537,7 @@ Amissus iterum. Sanctiùs quantò Deum
 
 Christigena format? sceptra qui coeli tenet
 
-Ille ille (Caesar) vnus & coelum, & solum
+≤line=1580≥ Ille ille (Caesar) vnus & coelum, & solum
 
 Capace replet numine, & rerum vices
 
@@ -3545,7 +3547,7 @@ In sede Dominus fluere seclorum iubet
 
 Perennitates: terminum rebus locat
 
-Immensus, infinitus, & nusquam minor,
+≤line=1585≥ Immensus, infinitus, & nusquam minor,
 
 Et vbique totus. Quaeris huic nomen Deo!
 
@@ -3555,7 +3557,7 @@ Discreta virtus nominum, ne singulos
 
 Confundat error omnium: sed quem facit
 
-Natura solum, nomen est vni Deus!
+≤line=1590≥ Natura solum, nomen est vni Deus!
 
 Huic mundus ara est, si potest fingi, in suo
 
@@ -3565,7 +3567,7 @@ Homo simulacrum est: compos aetherei micat
 
 Vigoris animus, mole terrena vacans
 
-Transcurrit auras subitus, & morte altior
+≤line=1595≥ Transcurrit auras subitus, & morte altior
 
 Aeterna lustrat. Numen hoc templo sedet;
 
@@ -3575,7 +3577,7 @@ Saturnus Afer, ille natorum antea
 
 Tumulus: ad aras flagra ludentes necant
 
-Spartana pueros: editum Maiâ viris
+≤line=1600≥ Spartana pueros: editum Maiâ viris
 
 ≤page=59≥ Cruenta placat Gallia; ignotum bibit
 
@@ -3583,7 +3585,7 @@ Inhospitalis sanguinem Phoebi soror;
 
 Iouem eruore Roma latialem colit:
 
-Jn honore diuûm sorbet immensas ferox
+≤line=1605≥ Jn honore diuûm sorbet immensas ferox
 
 Arena caedes: sacra res ludis homo
 
@@ -3593,7 +3595,7 @@ Inter secures Iudicum: & caesi arguunt
 
 Pueri innocentes? & per inuidiam reos
 
-Faciunt suorum criminum? at noster Deus
+≤line=1610≥ Faciunt suorum criminum? at noster Deus
 
 Intaminato mentis obsequio coli,
 
@@ -3603,7 +3605,7 @@ Occlude Veneri lumina, innocuos tege
 
 Animo recessus, comparem factis ama,
 
-Deo litasti. Christus hos mundo intulit
+≤line=1615≥ Deo litasti. Christus hos mundo intulit
 
 A patre ritus: Christus aequaeuus patri
 
@@ -3613,7 +3615,7 @@ Se fudit artus, gentis humanae artifex,
 
 Reparator idem, de salutari edidit
 
-Haec iussa trunco, quicquid aduersum impudens
+≤line=1620≥ Haec iussa trunco, quicquid aduersum impudens
 
 Calumnietur fama, quam docti sumus
 
@@ -3623,7 +3625,7 @@ Non tegimus ore, pallio & barbâ boni.
 
 Tales ab aeuo Caesarum vitae sagax
 
-Censura reperit. Fecit Augusti nepos
+≤line=1625≥ Censura reperit. Fecit Augusti nepos
 
 Priuata Christo sacra: si sinerent Patrum
 
@@ -3633,7 +3635,7 @@ In Christianos iustus inquiri vetas
 
 Traiane mores. Templa iam Christo dabas
 
-Adriane, quod si pergeres vatum metus
+≤line=1630≥ Adriane, quod si pergeres vatum metus
 
 Contemnere audax, Roma sub Christi iugo
 
@@ -3643,7 +3645,7 @@ Illa illa legio fulminis, & imbris potens,
 
 Quae sempiternum peperit imperio decus,
 
-≤page=60≥ Tibi triumphum Marce. Qui Solymam truci
+≤line=1635≥ ≤page=60≥ Tibi triumphum Marce. Qui Solymam truci
 
 Vertêre dextrâ, genitor, & melior patre,
 
@@ -3653,7 +3655,7 @@ Quae tela legum, quasue torsêrunt faces?
 
 Bacchante primus dite Caesareum Nero
 
-Exacuit ensem. Roma fumantis dabat
+≤line=1640≥ Exacuit ensem. Roma fumantis dabat
 
 Simulachra Troiae, regis imperio sui
 
@@ -3663,7 +3665,7 @@ Deriuat in nos crimen, immanes alit
 
 Cruore flammas, Caesaris furias luunt,
 
-Voce absoluti publicâ. Frater Titi
+≤line=1645≥ Voce absoluti publicâ. Frater Titi
 
 Bustum aliud orbis, Flauiae gentis probrum
 
@@ -3673,7 +3675,7 @@ Malè feriatos impetus. Fera non homo
 
 Thrax Maximinus, pariter & si qui impii,
 
-Si qui Tyranni, quosque barbariae reos
+≤line=1650≥ Si qui Tyranni, quosque barbariae reos
 
 Damnatis ipsi, nostra damnarunt sacra.
 
@@ -3683,7 +3685,7 @@ Nunc eligendum, Caesar, vtrorum magis
 
 Te vita deceat, exitus vtrorum iuuet.
 
-Nos aliqua mundi membra, naturâ pares,
+≤line=1655≥ Nos aliqua mundi membra, naturâ pares,
 
 Regni latini portio, &, sectam excipe,
 
@@ -3693,7 +3695,7 @@ Molem occupamus, nullus à Christo vacat
 
 Relictus ordo: chlamyde Romana latet
 
-Militia Christi; nobilis Christum tegit
+≤line=1660≥ Militia Christi; nobilis Christum tegit
 
 Abolla Patrum; purpura, & vestros gerens
 
@@ -3703,7 +3705,7 @@ Sed ante Christo. Nomen vt Christi eruas,
 
 Euiscerandus maximi imperii status.
 
-Curia Senatu orbanda, Iudicibus forum,
+≤line=1665≥ Curia Senatu orbanda, Iudicibus forum,
 
 Vacuanda seruis aula, quódque hostes velint
 
@@ -3713,7 +3715,7 @@ Clara legionum robora indignâ nece
 
 Vtroque magnam Phoebus instituit viam,
 
-Syluaeque, & vrbes, saxáque, & caeci specus
+≤line=1670≥ Syluaeque, & vrbes, saxáque, & caeci specus
 
 Natant piorum sanguine. O non sic perit
 
@@ -3723,7 +3725,7 @@ Pietatis ardor! integra, insistens sibi
 
 Animos ab ipsis secta suppliciis trahit
 
-Damnísque crescit. Christianorum cruor,
+≤line=1675≥ Damnísque crescit. Christianorum cruor,
 
 Christi sequaces germinat: nudum feris
 
@@ -3733,7 +3735,7 @@ Christo eadem arena mille spectantes parit
 
 Dum stabilis haeret pectore immoto fides.
 
-Ffferre nam quis lumina in coelum vetet
+≤line=1680≥ Efferre nam quis lumina in coelum vetet
 
 Quo me supinum vis tyrannorum eiicit!
 
@@ -3743,7 +3745,7 @@ Vel quem animus ardet colere me impedias Deum,
 
 Qui mente colitur? libera humanas tenet
 
-Relligio mentes; quicquid exterius fremat,
+≤line=1685≥ Relligio mentes; quicquid exterius fremat,
 
 Opertum in animo est; non colit, si quis potest
 
@@ -3753,7 +3755,7 @@ Priuata non est causa: Me letho vocat
 
 Languida senectus, carceris longi situs,
 
-Et scissa plagis membra: vox Romam sonat,
+≤line=1690≥ Et scissa plagis membra: vox Romam sonat,
 
 Eheu! ruentem: viscera effundi dolet
 
@@ -3763,7 +3765,7 @@ Stagnare, & agros. Corrigi natos monet
 
 Clemente poenâ, non nouercali manu
 
-Perire: Patrem patriae afflictis iubet
+≤line=1695≥ Perire: Patrem patriae afflictis iubet
 
 Consulere mundo, ciuibus, famae, sibi.
 
@@ -3771,9 +3773,9 @@ Demùm ista viuet secta si Augusti sinent:
 
 Eadémque secta, non sinant, viuet tamen.
 
-Galer. Oratum abunde est, Casarum & legum satis
+\@Galer.= Oratum abunde est, Casarum & legum satis
 
-≤page=62≥ Tentata pietas: poscis armatâ proce
+≤line=1700≥ ≤page=62≥ Tentata pietas: poscis armatâ proce
 
 Pacem scelestis: hoc capi proceres metu
 
@@ -3783,7 +3785,7 @@ Ebullit vnquam! ponere sed irae modum
 
 Animóque praestat; subigere humanas placet
 
-Ratione mentes, si quid humanum tenent.
+≤line=1705≥ Ratione mentes, si quid humanum tenent.
 
 Causam Deorum quâ fide, & suadâ potes
 
@@ -3793,7 +3795,7 @@ Transacta causam secla: damnari nequit
 
 Quod nemo non probauit. Heroum tulit
 
-Partus verendos terra, cum Saturnio
+≤line=1710≥ Partus verendos terra, cum Saturnio
 
 Splenderet auro mundus: argento louis
 
@@ -3803,7 +3805,7 @@ Vestiuit aere, ferreus donec rigor
 
 Coelum occupauit, nósque degeneri nimis
 
-Profudit ortu: per tot aetatum gradus
+≤line=1715≥ Profudit ortu: per tot aetatum gradus
 
 Micuêre sophiae sidera, & mundo insitam
 
@@ -3813,7 +3815,7 @@ Quot voluit vndas pelagus, autumni recens
 
 Quot folia frigus decutit, nobis sophos
 
-Tot vna peperit: edidit persis Magos,
+≤line=1720≥ Tot vna peperit: edidit persis Magos,
 
 Generosa Druidas Gallia, & rapido India
 
@@ -3823,7 +3825,7 @@ Pendêre nudos. Ecce tot seclis virûm
 
 Tam multa nostros millia assensu pari
 
-Coluêre diuos, vnus & contrà impio
+≤line=1725≥ Coluêre diuos, vnus & contrà impio
 
 Incurret ausu? Singulae in ritus suos
 
@@ -3833,7 +3835,7 @@ At illa rerum Domina, terrarum potens
 
 Alumna coeli, sacra populorum omnium
 
-Accepit aris, regna quaesiuit manu.
+≤line=1730≥ Accepit aris, regna quaesiuit manu.
 
 ≤page=63≥ Diues triumphis prosperas rerum vices
 
@@ -3843,7 +3845,7 @@ Secunda fructus fata spondebant Deûm:
 
 Cùm Christus interuenit, & laeuo obiice
 
-Pacem moratus publicam, heu quantos tibi
+≤line=1735≥ Pacem moratus publicam, heu quantos tibi
 
 Peperit dolores Roma! Tu merito licet
 
@@ -3853,7 +3855,7 @@ Dilata scelerum est vltio, haeredes malae
 
 Inuenit artis, credulas vulgi magus
 
-Impleuit aures, animus hinc praui tenax,
+≤line=1740≥ Impleuit aures, animus hinc praui tenax,
 
 Se se per orbem publico expertus malo
 
@@ -3863,7 +3865,7 @@ Elicere spondet: ille commotâ styge
 
 Exire manes: alter è membris luem
 
-Carminibus abigit: latice deceptis, caput
+≤line=1745≥ Carminibus abigit: latice deceptis, caput
 
 Hic lustrat excantato, & infandâ prece
 
@@ -3873,7 +3875,7 @@ Pestis fefellit, atque compositae nitor
 
 Probitásque frontis, inde per totum imperî
 
-Effusa corpus, improbo amplexus necat.
+≤line=1750≥ Effusa corpus, improbo amplexus necat.
 
 Sic vbi sequaces robore annoso comas
 
@@ -3883,7 +3885,7 @@ Lambens cacumen, impio suctu ebibit
 
 Nutricis animam, quémque nascendo premit,
 
-Crescendo truncum perimit. At non se Deûm
+≤line=1755≥ Crescendo truncum perimit. At non se Deûm
 
 Continuit ira: cladibus quantis monet
 
@@ -3893,7 +3895,7 @@ Petis vnde dirae, & pestilens Romam grauet
 
 Mephitis? Vnde Tiberis egressus toro
 
-Stagnetur vrbe? stare quae coelum manus
+≤line=1760≥ Stagnetur vrbe? stare quae coelum manus
 
 Iubeat? quis almum inuideat humorem satis?
 
@@ -3903,7 +3905,7 @@ Decoquat adurus Sirius? Memphitici
 
 ≤page=64≥ [^34]Vix summa limus arua libarit Iouis?
 
-Vidit tenebras Phoebus, & noctem dies
+≤line=1765≥ Vidit tenebras Phoebus, & noctem dies
 
 Elumbis hausit: fulminum nothâ face
 
@@ -3913,7 +3915,7 @@ Vlulantur vmbrae: spiritus terrâ horridum
 
 Clusus remugit: alia disiecti procul
 
-Texêre montes spatia: titubanti solo
+≤line=1770≥ Texêre montes spatia: titubanti solo
 
 Abrupit Isthmos pontus, & peperit sibi.
 
@@ -3923,7 +3925,7 @@ Rutilúmque pigrâ tramitem duxit face
 
 Crinitus ardor. Monstra quid memorem hostium
 
-Emissa dite nomina Bagaudas, Chrocum,
+≤line=1775≥ Emissa dite nomina Bagaudas, Chrocum,
 
 Carausium, Blemiásque, Francósque, & Gothos?
 
@@ -3933,7 +3935,7 @@ Jnuicta veheret, Trebia iam votis foret
 
 Optanda, quíque spreta puniuit lacus
 
-Auspicia superum. Dira Christiadum lues
+≤line=1780≥ Auspicia superum. Dira Christiadum lues
 
 Etiamne saeuis? Carnifex mundi furor
 
@@ -3943,7 +3945,7 @@ Tacitis aruspex incubat vanus fibris,
 
 Auiúmque linguas damnat, & pennae fidem
 
-Elusus angur: Domina regnorum silet
+≤line=1785≥ Elusus angur: Domina regnorum silet
 
 Cortina Phoebi: nulla fatidicam entheat
 
@@ -3953,7 +3955,7 @@ Romae penates Statue flagitiis modum
 
 Vesana turba, vincimur; non hoc satis?
 
-Gemimus. Parum est? obruimur: etiamnum leue?
+≤line=1790≥ Gemimus. Parum est? obruimur: etiamnum leue?
 
 Saturemus iras, quósque barbaries fuat
 
@@ -3963,7 +3965,7 @@ Tumulare busto, rapere spirantum iecur,
 
 ≤page=65≥ Et Christiano dente scrutari abditos
 
-Animae recessus. Anthi. Ruit in auxilium furor
+≤line=1795≥ Animae recessus. \@Anthi.= Ruit in auxilium furor
 
 Cùm ratio defit: sic malè Ausonios moues
 
@@ -3973,7 +3975,7 @@ Et fons malorum est. Fabulam rebus proba,
 
 Compone testes, non facit rumor fidem.
 
-Quid ? Christus ex quo numen in terras tulit
+≤line=1800≥ Quid ? Christus ex quo numen in terras tulit
 
 Natura fluxit! insitam rebus fidem
 
@@ -3983,7 +3985,7 @@ Vertigo coeli! bruma diuturnum tenet
 
 Amoena solem! noctis vmbrosae moras
 
-Extendit aestas? nullus in nubes liquor
+≤line=1805≥ Extendit aestas? nullus in nubes liquor
 
 [^35]Pendet coactus? nullus immotas vapor
 
@@ -3993,7 +3995,7 @@ Pacis redemptae Caudium, & rupem citrà
 
 Euersa Gallis Roma, Patriciae auctior
 
-Cremera cruore gentis, & iam non locus
+≤line=1810≥ Cremera cruore gentis, & iam non locus
 
 Cannae, sed orbis tumulus, haud culti Iouis
 
@@ -4003,7 +4005,7 @@ Et sacra ruebant spreta, cùm Sulla impotens,
 
 Et Marius armis melior insanas foro
 
-Fecêre cedes? bísque ciuilem bibit
+≤line=1815≥ Fecêre cedes? bísque ciuilem bibit
 
 Aemus tumultum? túque Germanis feras
 
@@ -4013,7 +4015,7 @@ Felicitati conditor posuit Deus,
 
 Vt se ipsa frangat, vt per oppositas vices
 
-Cadatque, stetque: Machinam rerum nefa
+≤line=1820≥ Cadatque, stetque: Machinam rerum nefa
 
 Timere solui: peccat, & certo tamen
 
@@ -4023,7 +4025,7 @@ Non ritè fieri ostendat. Irati Iouis
 
 ≤page=66≥ Quod si illa poena est, prospero vobis eat
 
-Natura cursu, nos vt opposita obruat.
+≤line=1825≥ Natura cursu, nos vt opposita obruat.
 
 Vestras benigno proferat tellus sinu
 
@@ -4033,7 +4035,7 @@ Rarescat aruis: suppleat vestros greges
 
 Foetura, nostros creber inuadat lupus.
 
-Vestris ab oleis dulcis exsudet liquor
+≤line=1830≥ Vestris ab oleis dulcis exsudet liquor
 
 Amurca nobis: Rore bacchaeo fluat
 
@@ -4043,39 +4045,39 @@ Cados auarus. Sed quis è multis Deus
 
 Insurget vltor? fare, quem verum putas
 
-[^36]Iouem è trecentis: Metell. Magna Tarpeio colit
+≤line=1835≥ [^36]Iouem è trecentis: \@Metell.= Magna Tarpeio colit
 
-Quem Roma templo. Anthi. Turba natorum Iouis
+Quem Roma templo. \@Anthi.= Turba natorum Iouis
 
-Vnde astra meruit? Metell. Generis aeterni bono.
+Vnde astra meruit? \@Metell.= Generis aeterni bono.
 
-Anthi. Et cur tot orbi Iuppiter fudit Deos?
+\@Anthi.= Et cur tot orbi Iuppiter fudit Deos?
 
-Metell. Foret vt beatus. Anthi. Esse qui solus nequit?
+\@Metell.= Foret vt beatus. \@Anthi.= Esse qui solus nequit?
 
-Metell. Bonitas Deorum est, esse nec possunt boni
+≤line=1840≥ \@Metell.= Bonitas Deorum est, esse nec possunt boni
 
 Pares bearint sorte ni multos suâ.
 
-Anthi. Claudus beatum Mulciber fecit Iouem?
+\@Anthi.= Claudus beatum Mulciber fecit Iouem?
 
-Metell. Aliíque quotquot semine aethereo sati.
+\@Metell.= Aliíque quotquot semine aethereo sati.
 
 Anchi. Paricida Mauors, Phoebus Amphryso greges
 
-Agens Pheraeos. Euius cornu ferox:
+≤line=1845≥ Agens Pheraeos. Euius cornu ferox:
 
 Hermes peritus clepere: capripedum salax
 
 Pecus Deorum. Mecell. Magna sub turpi latent
 
-≤page=67≥ Operta velo. Anthi. Prisca cur tantum Deos
+≤page=67≥ Operta velo. \@Anthi.= Prisca cur tantum Deos
 
 Peperêre mundo secla? cur diuûm ferax
 
-Sterilescit vterus? Metell. Coelites puerum senem!
+≤line=1850≥ Sterilescit vterus? \@Metell.= Coelites puerum senem!
 
-Anthi. An quia minutis cuncta numinibus scatent?
+\@Anthi.= An quia minutis cuncta numinibus scatent?
 
 Coelum fatiscit, agmen heroum leues
 
@@ -4083,39 +4085,37 @@ Inundat auras, voluit Oceanus Deos,
 
 Deos auernus ructat, & tellus Deos.
 
-Metel. Natura summo quà patet, paret Ioui.
+≤line=1855≥ \@Metel.= Natura summo quà patet, paret Ioui.
 
-Anthi. Quid si senectus fibulam iniecit Deo,
+\@Anthi.= Quid si senectus fibulam iniecit Deo,
 
 Cyprias vietum frigus extinxit faces?
 
-Metell. Quid si iuuenta perpes, & viridis Deo?
+\@Metell.= Quid si iuuenta perpes, & viridis Deo?
 
-Anthi. Effoeta fors & pellices tellus negat.
+\@Anthi.= Effoeta fors & pellices tellus negat.
 
-Danaën repone, redde Catamitum phrygem,
+≤line=1860≥ Danaën repone, redde Catamitum phrygem,
 
 Europa redeat, redeat Asopi genus
 
 Erit ignis, aurum Iuppiter, taurum induet,
 
-Aquila volabit. Metell. E cquid haec tandem satis
+Aquila volabit. \@Metell.= E cquid haec tandem satis
 
-Recocta crambe? Anthi. Sponte ni foetum Patri
-
-Valens bipenni Mulciber findat caput:
+≤line=1865≥ Valens bipenni Mulciber findat caput:
 
 Aut femore rupto bis satus Cadmi nepos
 
-Saliat in auras. Metell. Fabulas vatum canis
+Saliat in auras. \@Metell.= Fabulas vatum canis
 
-Anthi. Quas vestra festis scena suppliciis agit,
+\@Anthi.= Quas vestra festis scena suppliciis agit,
 
 Intérque pensa virgines vestrae canunt,
 
-Galet. Odi prophano docta mentiri stylo
+≤line=1870≥ Galet. Odi prophano docta mentiri stylo
 
-Lasciuientes Graeculos. Anthi. Leuibus patent
+Lasciuientes Graeculos. \@Anthi.= Leuibus patent
 
 ≤page=68≥ Aspersa falsis vera: ne famam putes:
 
@@ -4123,7 +4123,7 @@ Iouem Ida peperit Creta ferali tenet
 
 Cinerem sepulchro: regna violentus patri
 
-Extorsit haeres: profugus, afflictus senex
+≤line=1875≥ Extorsit haeres: profugus, afflictus senex
 
 Aliena coluit iugera, & patiens heri
 
@@ -4133,7 +4133,7 @@ Exin magistro libera, & patre, & sene
 
 Auida iuuentus quale non ausa est nefas?
 
-Fortuna regum est ire quà nulli licet.
+≤line=1880≥ Fortuna regum est ire quà nulli licet.
 
 At ille matris dedecus, fratris pila,
 
@@ -4143,7 +4143,7 @@ Virtus per orbem famula, nùm sponte Omphalem
 
 Leno maritam passus, & monstris graues,
 
-Clauae assuetas fregit ad calathos manus?
+≤line=1885≥ Clauae assuetas fregit ad calathos manus?
 
 Inde vbi stolatus fabulam Lydis dedit
 
@@ -4153,7 +4153,7 @@ Recens per astra fecit Engonasin Deus.
 
 Sic consecrantur scelera, fit libidinum
 
-Coelo lupanar: vt quod arrisit Deo
+≤line=1890≥ Coelo lupanar: vt quod arrisit Deo
 
 Prauum videri desinat. Nam quis vetet
 
@@ -4163,39 +4163,39 @@ Et hoc choragi circulatores canunt,
 
 Et hoc iuuentus cerea in vitium trahi
 
-Tonante discit verbere, & magnae spei est
+≤line=1895≥ Tonante discit verbere, & magnae spei est
 
 Quicumque meliùs furta dinumerat Iouis.
 
-Metell. Disci vetabis scripta quae mundus colit?
+\@Metell.= Disci vetabis scripta quae mundus colit?
 
 Anchi. Nescire pulchrum est facere quod turpe est, senex,
 
-Metell. Quod turpiter fit, scire, vt euites, decet.
+\@Metell.= Quod turpiter fit, scire, vt euites, decet.
 
-≤page=69≥ Anthi. Tale esse censes quod fit exemplo Deûm?
+≤line=1900≥ ≤page=69≥ \@Anthi.= Tale esse censes quod fit exemplo Deûm?
 
-Galer. In vana abisse iurgia hàc liceat tenus,
+\@Galer.= In vana abisse iurgia hàc liceat tenus,
 
 Hoc iubeo: sivis viuere Tonantem louem,
 
-Deósque adora. Anthi. Vita si tanti foret
+Deósque adora. \@Anthi.= Vita si tanti foret
 
 Tuis catastis ante certassem eripi.
 
-Nunc cùm senectae vester accessit labor,
+≤line=1905≥ Nunc cùm senectae vester accessit labor,
 
 Inspirat aliud Christus, & coelo breuis
 
-Posita doloris meta. Galer. Tundendum flagris
+Posita doloris meta. \@Galer.= Tundendum flagris
 
 Abripe satelles, effluat laceros loquax
 
 Anima per artus: taedet hoc monstro ampliùs
 
-Spureare solem. Anthi. Christus ad palmam vocat,
+≤line=1910≥ Spureare solem. \@Anthi.= Christus ad palmam vocat,
 
-Stas Adriane, an sequeris? Adrian. Iniustè facis
+Stas Adriane, an sequeris? \@Adrian.= Iniustè facis
 
 Aequè nocentes, Caesar, arbitrio impari,
 
@@ -4203,9 +4203,9 @@ Hostis, & amicus dirimis. An plecti iubes
 
 Quod liberè ausa est lingua! dixi quod meo
 
-Dixit rogatu. Christus ad culpam redit?
+≤line=1915≥ Dixit rogatu. Christus ad culpam redit?
 
-Sum Christianus. Galer. Proditor. quis me tenet
+Sum Christianus. \@Galer.= Proditor. quis me tenet
 
 Quin ense pectus? vltimum hoc deerat tuis
 
@@ -4213,7 +4213,7 @@ Vesane technis? fidus, & patiens tui
 
 Eram hàc petendus? Christe quàm saeuo fodis
 
-Stimulo immerentes! quàm malâ, & forti manu
+≤line=1920≥ Stimulo immerentes! quàm malâ, & forti manu
 
 Diuellis animas! Sed vbi, sed de quo queror?
 
@@ -4223,17 +4223,17 @@ Pietas moratur, spreta maiestas ruit.
 
 Sarcite culpam, vester, & dudum meus
 
-Illusor hic est: fustibus quantum pote est
+≤line=1925≥ Illusor hic est: fustibus quantum pote est
 
 ≤page=70≥ Nudate latera, nemo pro vitâ roget
 
 Actum est, amorem iustus exclusit furor.
 
-Adrian. Hoc tamen amoris pignus, heu nescis, tui est:
+\@Adrian.= Hoc tamen amoris pignus, heu nescis, tui est:
 
 Grates rependo vota quod cumulas mea:
 
-Quod per furorem, Christus ignoscat polò.
+≤line=1930≥ Quod per furorem, Christus ignoscat polò.
 
 Vale Galeri, Iudicem iudex time.
 
@@ -4247,9 +4247,9 @@ Restitue cippo. Pectus attonitum stupor
 
 Non occupauit Galle? tam similem sui,
 
-Tam non pauentem nullus Adrianum dies
+≤line=1935≥ Tam non pauentem nullus Adrianum dies
 
-Spectarat vnquam. Gallus. Mirus hic non est rigor
+Spectarat vnquam. \@Gallvs.= Mirus hic non est rigor
 
 Crudos tueri Martis assueto impetus.
 
@@ -4257,7 +4257,7 @@ Vidi irruentes, quáque telorum seges
 
 Horrenda condensatur, ardentes mori.
 
-Nuper latinâ pectus ex haustus manu
+≤line=1940≥ Nuper latinâ pectus ex haustus manu
 
 Vulnus iuuabat miles, & capulo tenus
 
@@ -4267,9 +4267,9 @@ Referiret hostem: victus, & victor pari
 
 Jacuêre letho. Nempe quid fugiat bonae
 
-Contemptor animus lucis, & morti obuius?
+≤line=1945≥ Contemptor animus lucis, & morti obuius?
 
-Titia. Sic est, timere strepitus armorum vetat,
+\@Titia.= Sic est, timere strepitus armorum vetat,
 
 Resonansque murmur, cornuum & toto agmine
 
@@ -4279,49 +4279,49 @@ Hos gloria, illos praeda sperantes agit.
 
 Sed torua Regis ora spectare, & diu
 
-≤page=71≥ Vnâ quietum sede, constantem sibi,
+≤line=1950≥ ≤page=71≥ Vnâ quietum sede, constantem sibi,
 
 Optare legum verba, ne pactam suo
 
 Animus Tonanti fallat instabilis fidem,
 
-Hoc Christianum est. Gallus. Stemma patriciae domus,
+Hoc Christianum est. \@Gallvs.= Stemma patriciae domus,
 
 Et auita honorum decora, Caesarei recens
 
-Munus fauoris, quodque spes reliquum facit
+≤line=1955≥ Munus fauoris, quodque spes reliquum facit
 
 Proiicere iuuenem, mortis vt certus dolor
 
 Dubias futuri credulo sortes emat,
 
-Hoc est furori proximum. Titian. Quanquam improbâ
+Hoc est furori proximum. \@Titian.= Quanquam improbâ
 
 Laesit proteruus voce, amicitiae tamen
 
-In iura veteris redeat: indignum quoque
+≤line=1960≥ In iura veteris redeat: indignum quoque
 
-Letho extrahamus. Gallus. Munus ingrato dabis.
+Letho extrahamus. \@Gallvs.= Munus ingrato dabis.
 
-Titian. Vtendo fiet gratus. Gallus. Inuitus nequit.
+\@Titian.= Vtendo fiet gratus. \@Gallvs.= Inuitus nequit.
 
-Titian. Qui secla sperat, viuere inuitum putas?
+\@Titian.= Qui secla sperat, viuere inuitum putas?
 
-Gallus. Qui certa spernit, viuere inuitum negas?
+\@Gallvs.= Qui certa spernit, viuere inuitum negas?
 
-Titian. Non ille vitam reicit, at Christum tenet.
+≤line=1965≥ \@Titian.= Non ille vitam reicit, at Christum tenet.
 
 Gall. Tenere vtrumque iure Romano nefas.
 
-Titian. Quem lingua fallax pectore inseuit Deum.
+\@Titian.= Quem lingua fallax pectore inseuit Deum.
 
-Excutere nequeam? Gallus. Qualis humenti solo
+Excutere nequeam? \@Gallvs.= Qualis humenti solo
 
 Segetes tenace lappa complexu necat:
 
-Inhaeret animo talis, & verum obruit
+≤line=1970≥ Inhaeret animo talis, & verum obruit
 
-Auidè recepta falsitas. Titian. Sed quis vetet
+Auidè recepta falsitas. \@Titian.= Sed quis vetet
 
 Aditus secundos aggredi, atque omni ariete
 
@@ -4329,17 +4329,17 @@ Aditus secundos aggredi, atque omni ariete
 
 Sperare suada prohibet, & mentis vigor
 
-Supplicio & aeuo maior. euersum puta,
+≤line=1975≥ Supplicio & aeuo maior. euersum puta,
 
 Vitam vt redonet Caesar? vt iustae modum
 
-Permittat irae? Titian. Caesaris praesto fidem:
+Permittat irae? \@Titian.= Caesaris praesto fidem:
 
 Pietas repugnat sape dum cogi cupit.
 
 At ille suprà vegetus aetatem senex
 
-Age segregetur. Facilis impendet labor
+≤line=1980≥ Age segregetur. Facilis impendet labor
 
 Tribune, caesos conde diuerso specu,
 
@@ -4347,9 +4347,9 @@ Et ahena serua claustra, ne tacito pede
 
 Irrepat vllus, ipse vix tenuem dies
 
-Rimetur aditum. Flau. Coniugem Adriani quoque
+Rimetur aditum. \@Flav.= Coniugem Adriani quoque
 
-Arces ab antro? Titian. Foemina leuis est dolus:
+≤line=1985≥ Arces ab antro? \@Titian.= Foemina leuis est dolus:
 
 Admitte, tamen & lumine intento vigil
 
@@ -4361,7 +4361,7 @@ MAgni propago Patris, honoribus
 
 Intaminatis candida veritas,
 
-O quàm peregrino laboras
+≤line=1990≥ O quàm peregrino laboras
 
 Diua solo, melioris haeres!
 
@@ -4371,7 +4371,7 @@ Regum aula ridet: te sacer infulâ
 
 Prodit Sacerdos: te loquentem
 
-Sanctiùs Ausonii Senatûs
+≤line=1995≥ Sanctiùs Ausonii Senatûs
 
 Odêre Patres. Quo semel exulas
 
@@ -4381,7 +4381,7 @@ Contempta regno, Perfidia impios
 
 Fraúsque subit, pauidásque ducens
 
-Error tenebras: omnipatentibus
+≤line=2000≥ Error tenebras: omnipatentibus
 
 Venenum adulans auribus ingerit,
 
@@ -4391,7 +4391,7 @@ Visceribus furit occupatis.
 
 Tales dolosâ rupe Pelorias
 
-Puella nautae non bene credulo
+≤line=2005≥ Puella nautae non bene credulo
 
 Stillauit artes, & volantis
 
@@ -4401,7 +4401,7 @@ Fixit carinae: risit inhospitis
 
 Deprehensa puppis vorticibus, dabat
 
-Mortem voluptas, & volentum
+≤line=2010≥ Mortem voluptas, & volentum
 
 Blanda lues populabat artus.
 
@@ -4411,7 +4411,7 @@ Corrupta fusis: sed vitia interim
 
 Placent rudimento, grauémque
 
-Prima leuat nouitas laborem:
+≤line=2015≥ Prima leuat nouitas laborem:
 
 Experta languent; dat satias modum.
 
@@ -4421,7 +4421,7 @@ Augetur vsu, séque turpis
 
 Impatiens senii propagat.
 
-Cum tela lucis per liquidum aëra
+≤line=2020≥ Cum tela lucis per liquidum aëra
 
 Recente Phoebus fudit anhelitu,
 
@@ -4431,7 +4431,7 @@ Elicuit pelago vapores.
 
 Vides vt atrâ nube tyrannidem
 
-Coelo minantur? Stat Deus altior,
+≤line=2025≥ Coelo minantur? Stat Deus altior,
 
 Viámque rimatus diei
 
@@ -4441,7 +4441,7 @@ Tandem recepto pulcrior aethere
 
 Mundo auspicatam Caesariem explicat:
 
-Currúque iam victor, sereno
+≤line=2030≥ Currúque iam victor, sereno
 
 ≤page=74≥ Per solitos equitat meatus:
 
@@ -4451,7 +4451,7 @@ Alumna virgo temporis, & iugum
 
 Olim triumphatae sequentur
 
-Horribiles scelerum cateruae.
+≤line=2035≥ Horribiles scelerum cateruae.
 
 ## 28. [^39]ACTVS QVARTVS.
 
@@ -4465,7 +4465,7 @@ Obtexit habitu: reddo depositum togae:
 
 Audax virilem foemina ornatum induo.
 
-Non clara virtus, non Deus sexum eligit,
+≤line=2040≥ Non clara virtus, non Deus sexum eligit,
 
 Quicunque fecit fortiter, Christo vir est.
 
@@ -4475,7 +4475,7 @@ Virtus abollâ: crinis effusi decor,
 
 Circumque picti syrma luxurians pepli,
 
-Et nebula collum linea infidè tegens,
+≤line=2045≥ Et nebula collum linea infidè tegens,
 
 Niueum tribaccâ pectus eoâ tumens,
 
@@ -4485,7 +4485,7 @@ Vox veneris anceps, quam malè ingenui locum
 
 Seruant honoris! pallet intutus pudor
 
-Viros tot inter, & quid in vitâ, viros
+≤line=2050≥ Viros tot inter, & quid in vitâ, viros
 
 Non cogit inter esse? praedatum irruunt
 
@@ -4495,7 +4495,7 @@ Occultat hamum, virgini illusum est priùs
 
 ≤page=75≥ Retecta quam fraus pateat. Inuasi dolum
 
-Hominésque cepi cauta quà potui capi.
+≤line=2055≥ Hominésque cepi cauta quà potui capi.
 
 Haec vna me lux Flauio notam facit,
 
@@ -4505,7 +4505,7 @@ In carcere ipso, (credat hoc quisquam?) in situ,
 
 In morte, viuo coniuge affectat meos
 
-Improbus amores, laudat absentem, obuiae
+≤line=2060≥ Improbus amores, laudat absentem, obuiae
 
 Occurrit vltrò, blandiùs verba eliquans
 
@@ -4515,7 +4515,7 @@ Custos pudoris, si quid Adriani potest
 
 Vxor mereri; si qua te pietas mouet
 
-Pro te relictae; ne, per inuicti hactenus
+≤line=2065≥ Pro te relictae; ne, per inuicti hactenus
 
 Ligni trophaeum, per triumphantem fidem,
 
@@ -4525,7 +4525,7 @@ In haec relabi membra: violaui caput,
 
 Flauúmque secui crinis intonsi decus,
 
-Ne rete stolidis tenderet: iam tu meum
+≤line=2070≥ Ne rete stolidis tenderet: iam tu meum
 
 Caput esto Christe. Cycladas, armillas, peplos,
 
@@ -4535,7 +4535,7 @@ Tandem abdicaui: Christe potiorem dabis
 
 Amate mundum. Mentior corpus viri,
 
-Seruata thalamis Christe perpetuùm tuis:
+≤line=2075≥ Seruata thalamis Christe perpetuùm tuis:
 
 Vtque Adriani spiritum praesens legam.
 
@@ -4545,7 +4545,7 @@ Ibo vxor, ibo mulier, & si me pia
 
 Fraus in periclo deserit, mortis ream
 
-Iunget marito: & ne quis immeritum putet
+≤line=2080≥ Iunget marito: & ne quis immeritum putet
 
 Subire lethum, duplices necto dolos,
 
@@ -4555,7 +4555,7 @@ Natalia intret Flauio, & notos viro
 
 Vultus, Tribuno voce non fractâ tegam.
 
-Et ecce circùm limen obscurae domus
+≤line=2085≥ Et ecce circùm limen obscurae domus
 
 Sollicitus errat. \-\--
 
@@ -4567,21 +4567,21 @@ NATALIA. FLAVIVS.
 
 Occurris; isto carcere Adrianus iacet?
 
-Flau. Quis, & vnde poscis? Natal. Coniugi eunuchus comes:
+\@Flav.= Quis, & vnde poscis? \@Natal.= Coniugi eunuchus comes:
 
 Huc missus adsum, si vel alloquio licet
 
-Recreare Dominum, quando foemineam procul
+≤line=2090≥ Recreare Dominum, quando foemineam procul
 
 Exesse curam Caesar iratus iubet.
 
-Flau. O te beatum, fata quem tali obsequi
+\@Flav.= O te beatum, fata quem tali obsequi
 
 Voluére Dominae. Legis edictum nouae
 
-Quâ mente cepit? Natal. Iura naturae sibi
+Quâ mente cepit? \@Natal.= Iura naturae sibi
 
-Negata queritur, Caesarem exceptum dolis,
+≤line=2095≥ Negata queritur, Caesarem exceptum dolis,
 
 Plenâ Tribuni voce perfidiam increpat:
 
@@ -4591,47 +4591,47 @@ Dignum Leaenae sancta qui taedae vetet
 
 Foedera iugalis: in maritarum choro,
 
-Inter quasillos virginum, immanis sonat
+≤line=2100≥ Inter quasillos virginum, immanis sonat
 
 Nomen Tribuni, Veneris iratae iocum
 
-Faciunt puellae. Flau. Funditus perii miser.
+Faciunt puellae. \@Flav.= Funditus perii miser.
 
-Natal. Túne es Tribunus ille? Flau. Sexcentos loues
+\@Natal.= Túne es Tribunus ille? \@Flav.= Sexcentos loues
 
 Et mille diuos eligam offensos magis
 
-Nataliâ vnâ. non capit frenos dolor,
+≤line=2105≥ Nataliâ vnâ. non capit frenos dolor,
 
 Ibo & recentis exequar facti ordinem.
 
-Decepta credet Flauio. Natal. Frustrà iueris,
+Decepta credet Flauio. \@Natal.= Frustrà iueris,
 
 Vidi migrantem laribus, & saeuo minas
 
-Murmure frementem. Flau. Mene inauditum reis
+Murmure frementem. \@Flav.= Mene inauditum reis
 
-≤page=77≥ Iniqua iunget? quid si & edicto truci.
+≤line=2110≥ ≤page=77≥ Iniqua iunget? quid si & edicto truci.
 
 Dedit ipsa causam? sceleris euentum sui
 
-Refundet in me? Natal. Si patrocinium petis
+Refundet in me? \@Natal.= Si patrocinium petis
 
 Tibi adero crimen explica, Nataliae
 
-Dictum putato. Flau. Forma cui similem facit;
+Dictum putato. \@Flav.= Forma cui similem facit;
 
-Si mitra crines, si pedes tegeret cyclas,
+≤line=2115≥ Si mitra crines, si pedes tegeret cyclas,
 
-Natalia esses ipsa. Natal. Iudicium probo,
+Natalia esses ipsa. \@Natal.= Iudicium probo,
 
 Sed occuparunt plurimi, vt quisque aspicit.
 
-Flau. Vbi Adriano valida lictorum manus
+\@Flav.= Vbi Adriano valida lictorum manus
 
 Lignísque, fustibúsque difregit latus,
 
-Iterum ad catenas ferre seminecem institi,
+≤line=2120≥ Iterum ad catenas ferre seminecem institi,
 
 Iussúsque ahenâ carcerem obduxi serâ,
 
@@ -4641,7 +4641,7 @@ Aditum impetraui coniugi: irrata audiat.
 
 Dicam furenti, gratiam hanc debet mihi,
 
-Scit Consul, & qui Consulem sequitur gradu
+≤line=2125≥ Scit Consul, & qui Consulem sequitur gradu
 
 Gallus propinquo: venit ingenti choro
 
@@ -4651,7 +4651,7 @@ Numerúsque, personaeque secretum haud dabant.
 
 Tandem periclo mortis addixi caput
 
-Nataliae ergo. Quà patent valuae, loquax
+≤line=2130≥ Nataliae ergo. Quà patent valuae, loquax
 
 Ingreditur agmen, perque cellarum abdita
 
@@ -4661,7 +4661,7 @@ Examen antris, & susurranti thymum
 
 Bombo salutat, illa clementi manu
 
-Diducit oras vulnerum; haec tabum vlceris
+≤line=2135≥ Diducit oras vulnerum; haec tabum vlceris
 
 Exsugere audet: illa manantem stolâ
 
@@ -4671,7 +4671,7 @@ Vermes recondit, rore turgentem putes
 
 Baccam ipso in Indo radere. Aequales suprà
 
-≤page=78≥ Socia Adriani feruet: & quamquam omnibus
+≤line=2140≥ ≤page=78≥ Socia Adriani feruet: & quamquam omnibus
 
 Impendit animum, totus exsangui labor
 
@@ -4681,7 +4681,7 @@ Cohibétque partes, vulnera humenti rigat
 
 Oleo, alligátque: vincula, & ferri leuat
 
-Immane pondus: quicquid exsequitur decet.
+≤line=2145≥ Immane pondus: quicquid exsequitur decet.
 
 Non hâc Machaon arte, non Phoebo satus
 
@@ -4691,37 +4691,37 @@ Conglutinatur vulnus, & plagis amor
 
 Facit medelam: deinde cum laeui cibos
 
-Infert in ora pollice, & fundit merum,
+≤line=2150≥ Infert in ora pollice, & fundit merum,
 
 O nectar! aut cùm sustinet dextr6a caput,
 
 Collúmque mulcet, cúmque in amplexus cadit,
 
-O basia! Natal. Illâ coniuge Adrianus tibi
+O basia! \@Natal.= Illâ coniuge Adrianus tibi
 
 Felix videtur? Flauius. Capere quae potuit Jouem,
 
-Iunone spretâ, namque perpetui toro
+≤line=2155≥ Iunone spretâ, namque perpetui toro
 
 Digna erat amoris praecoce Adrianus fidem
 
-Aetate dirimit. Natal. Nomen Adriani excidat,
+Aetate dirimit. \@Natal.= Nomen Adriani excidat,
 
 Thalamos relictae melior affectat procus.
 
-Flau. Quis ille? Natal. Genere, gloria, & formâ inclytus,
+\@Flav.= Quis ille? \@Natal.= Genere, gloria, & formâ inclytus,
 
-Opúmque diues. Flau. Caesari inuidiam parat
+≤line=2160≥ Opúmque diues. \@Flav.= Caesari inuidiam parat
 
-Hoc quisquis ambit, Natal. Caesaris sortem suprà
+Hoc quisquis ambit, \@Natal.= Caesaris sortem suprà
 
-Euectus, illum timeat? Flau. Herculium manet,
+Euectus, illum timeat? \@Flav.= Herculium manet,
 
-Iouiumne? Natal. Disces, fata si rapiunt virum.
+Iouiumne? \@Natal.= Disces, fata si rapiunt virum.
 
 Sed cur vetabas coniugum extrema oscula
 
-Delator importunus? Flau. Hoc vasto caput
+≤line=2165≥ Delator importunus? \@Flav.= Hoc vasto caput
 
 Tellus hiatu sorbeat, si me audiit
 
@@ -4731,47 +4731,47 @@ His aucupatur gratiam, & crebris ferit
 
 Proceres querelis, visa non visa aggerat;
 
-Hinc illa legis fata muliebri negant
+≤line=2170≥ Hinc illa legis fata muliebri negant
 
-Aditum cohorti. Natal. Si quis est precibus locus,
+Aditum cohorti. \@Natal.= Si quis est precibus locus,
 
 Donisue, iam nunc maximè admitti ad virum
 
-Natalia rogat. Flau. Non si achaemenias opes,
+Natalia rogat. \@Flav.= Non si achaemenias opes,
 
 Non si in penates diuitem immittat Tagum,
 
-A me impetrarit, Sola venisset, pius
+≤line=2175≥ A me impetrarit, Sola venisset, pius
 
-Tutò esse potui. Natal. Sola, per tenebras, caput
+Tutò esse potui. \@Natal.= Sola, per tenebras, caput
 
-Centone tecta, veniet. Flau. Excludam, ratum est.
+Centone tecta, veniet. \@Flav.= Excludam, ratum est.
 
-Natal. Sunt multa, queis te si fidem hanc reddis, beet.
+\@Natal.= Sunt multa, queis te si fidem hanc reddis, beet.
 
-Flau. Fidem imperanti praesto. Natal. Pietati dabis,
+\@Flav.= Fidem imperanti praesto. \@Natal.= Pietati dabis,
 
-Amat maritum. Flau. Mene vt alienum oderit,
+≤line=2180≥ Amat maritum. \@Flav.= Mene vt alienum oderit,
 
-Moríque cogat?. Natal. Quod times praesto malum,
+Moríque cogat?. \@Natal.= Quod times praesto malum,
 
 Jdem erit perîclum méque, & illam admittêre.
 
-Flau. Rogare parce, gratiam introitûs tui
+\@Flav.= Rogare parce, gratiam introitûs tui
 
-Nataliae omnem facio. Natal. Sat rigidè quidem
+Nataliae omnem facio. \@Natal.= Sat rigidè quidem
 
-Sed tempus aderit, pauca cùm doleas, meâ
+≤line=2185≥ Sed tempus aderit, pauca cùm doleas, meâ
 
-Voluisse causâ. Flau. Semiuir forti vtilem
+Voluisse causâ. \@Flav.= Semiuir forti vtilem
 
 Nauare opellam turgidus speres viro?
 
-Natal. Dolebis inquam, meliùs ignotos habe.
+\@Natal.= Dolebis inquam, meliùs ignotos habe.
 
-≤page=80≥ Flau. Certùm ire porrò, an stare? quid dubium tenes?
+≤page=80≥ \@Flav.= Certùm ire porrò, an stare? quid dubium tenes?
 
-Comitare tu intrò: caetera obseruet cohors
+≤line=2190≥ Comitare tu intrò: caetera obseruet cohors
 
 Cui claustra pateant, si quis immittat pedem
 
@@ -4785,7 +4785,7 @@ QVI saxo amorem Thespium, aut rigido extudit
 
 Faber metallo, mole tardauit Deum
 
-Fragilem & volucrem: penna mutantem huc & huc
+≤line=2195≥ Fragilem & volucrem: penna mutantem huc & huc
 
 Fluxu reciproco portat; apprensum putat?
 
@@ -4795,7 +4795,7 @@ Splendore cinctum? frangitur quà plus nitet.
 
 Reuocare sparsa fragmina, incertus labor
 
-Nec membra membris artifex vnquam manus
+≤line=2200≥ Nec membra membris artifex vnquam manus
 
 Sic alligarit quin per ingratas hiet
 
@@ -4805,7 +4805,7 @@ Duxisse amorem vitreâ instabilis Deus
 
 Volabit alâ; stringere aggrediar manu
 
-Manum refractus fallet, & adacto volam
+≤line=2205≥ Manum refractus fallet, & adacto volam
 
 Penetrabit ictu. Vitreos plagae appetens
 
@@ -4815,7 +4815,7 @@ Indiderit ignem, tela rumpentur feri
 
 Medullâ in imâ. Stabit aligero comes
 
-Fortuna puero diuitem ostentans penum
+≤line=2210≥ Fortuna puero diuitem ostentans penum
 
 Cornu capacis. Caecitas vtri minor,
 
@@ -4825,7 +4825,7 @@ Leuitásque diuo? spernit immeritos vter,
 
 Sed sortis amor est. Parte iam magnâ sui
 
-Mortem Adrianus hausit, & totum optima
+≤line=2215≥ Mortem Adrianus hausit, & totum optima
 
 Rapit maritum coniugi; expertem tori
 
@@ -4835,7 +4835,7 @@ Natalia aeui flore, quam Veneri aureae
 
 Fecit venustas supparem, at mentis vigor
 
-Aequat Mineruae, vidua, deserta, anxia,
+≤line=2220≥ Aequat Mineruae, vidua, deserta, anxia,
 
 Casti tumoris nescia aeternum gemet?
 
@@ -4845,7 +4845,7 @@ Reparare thalamos equidem, & incerti vagos
 
 Aestus parabam pectoris nunquam irritâ
 
-Stabilire taedâ; fateor Adriano minor,
+≤line=2225≥ Stabilire taedâ; fateor Adriano minor,
 
 At non pudendus. Et mihi est clarum genus
 
@@ -4855,7 +4855,7 @@ Dedit alma Cypris: stare plebeio gradu
 
 Et fata vatum, & stella natalis vetant.
 
-Quid plura? coepi amare, & obsequium mihi
+≤line=2230≥ Quid plura? coepi amare, & obsequium mihi
 
 Benè grata debet. Sensit ambita, & bono
 
@@ -4865,7 +4865,7 @@ Aduersa fratri Delia, & nubes face
 
 Rumpit serenâ. Sed quis heu! rutilum notus
 
-Obduxit astrum? quis mihi eripuit diem?
+≤line=2235≥ Obduxit astrum? quis mihi eripuit diem?
 
 Nimis inquietam de maritali sinu
 
@@ -4875,7 +4875,7 @@ Credit relatu, praemia officii miser
 
 Et tot salutes perdidi: in partes amor
 
-Desiliit & quis posse reparari autumet?
+≤line=2240≥ Desiliit & quis posse reparari autumet?
 
 Saltem Adriani vita dum corpus reget
 
@@ -4885,7 +4885,7 @@ Quod semiuiuo inhaeret, & spirat fides
 
 Vel morte in ipsâ pertinax: quantò aequiùs
 
-Stabit perennis nacta connubio virum
+≤line=2245≥ Stabit perennis nacta connubio virum
 
 ≤page=82≥ Diuturniorem? Cuius impulsu strepit
 
@@ -4897,7 +4897,7 @@ GALERIVS. FLAVIVS.
 
 ITA non rebellat Christus, & iustam imperî
 
-Legem capessit subditus? rapite ocyus,
+≤line=2250≥ Legem capessit subditus? rapite ocyus,
 
 Eruite tenebris, fata violantem mea
 
@@ -4907,7 +4907,7 @@ Tribunus auget, capitis & custos sacri
 
 In me furentes armat? est aliquid super
 
-Iudaea quo me consilî expertem trahat
+≤line=2255≥ Iudaea quo me consilî expertem trahat
 
 Religio? me ipse metuo, nam circùm latus
 
@@ -4917,7 +4917,7 @@ Te video perduellis? hunc aditum tua
 
 Proditio reperit? si quid in dominos paras,
 
-Sumus hàc petendi? Flau. Dubius infidum tibi
+≤line=2260≥ Sumus hàc petendi? \@Flav.= Dubius infidum tibi
 
 Rumor Galeri nunciat, an implet tuas
 
@@ -4927,37 +4927,37 @@ Nec sic piget vixisse, nec mortem abnuo
 
 A te imperatam. Cuncta cernentem Iouis
 
-Sed testor oculum, si quid est factum improbè
+≤line=2265≥ Sed testor oculum, si quid est factum improbè
 
 Dictúmne, capiti Caesar, & generi meo.
 
-Galer. Quis ille sontis claustra penetrauit domus?
+\@Galer.= Quis ille sontis claustra penetrauit domus?
 
 Quis carceres irrupit, vt dulci impios
 
-Soletur ore? Flau. Nemo violentos tulit
+Soletur ore? \@Flav.= Nemo violentos tulit
 
-In adyta gressus, sic mihi faueat polus,
+≤line=2270≥ In adyta gressus, sic mihi faueat polus,
 
 Túque alme Caesar, nullus irrupit domum.
 
-≤page=83≥ Galer. Ignaue, non si mille glomerentur neces,
+≤page=83≥ \@Galer.= Ignaue, non si mille glomerentur neces,
 
 Oculósque stringat chalybis horrificus nitor
 
 Conuellere ausis legem, & augustae vltima
 
-Effata vocis: tunc gratuitò malus
+≤line=2275≥ Effata vocis: tunc gratuitò malus
 
 Terrore nullo adactus, in mentis meae
 
-Decreta pecces? Flau. Nulla fraus iussum abrogat,
+Decreta pecces? \@Flav.= Nulla fraus iussum abrogat,
 
 Vis nulla legem; non vir immissus domum
 
-Non foemina introgressa. Galer. Verborum dolos
+Non foemina introgressa. \@Galer.= Verborum dolos
 
-Si nectis, ego te rupe praecipitem dabo,
+≤line=2280≥ Si nectis, ego te rupe praecipitem dabo,
 
 Thebana qualem morte nobilitat lues.
 
@@ -4971,19 +4971,17 @@ TVNE ille legum qui per obstantes moras
 
 Irrumpis audax claustra? qui Regum minas,
 
-Amentiae, fraudísque materiam facis:
-
-Vbi spem salutis Caesare offenso locas?
+≤line=2285≥ Vbi spem salutis Caesare offenso locas?
 
 Etiamne vitae taedet, & properum mori
 
 Furore redimis? quisquis, aut vnde aduenis,
 
-Dispone mortem. Natal. Iustus exstimulat dolor,
+Dispone mortem. \@Natal.= Iustus exstimulat dolor,
 
 Peccasse fateor, mente sed factum bona.
 
-Ego Adriani coniugem assector comes,
+≤line=2290≥ Ego Adriani coniugem assector comes,
 
 Fato parentum seruus, alloquio & sinu
 
@@ -4993,7 +4991,7 @@ Exclusa domini, legis augustae sonum
 
 Oculos imbres soluit. Heu fata aspera
 
-Meam Adrianus viuat, aut moriar prior!
+≤line=2295≥ Meam Adrianus viuat, aut moriar prior!
 
 Vni superstes coniugi, praeda omnium
 
@@ -5003,7 +5001,7 @@ Abluere lymphâ corpus, aut summum datur
 
 Transfundere in me Spiritum. Hinc probra aggerat
 
-In te, in Tribunum, in Consulem. Quod sic vomit
+≤line=2300≥ In te, in Tribunum, in Consulem. Quod sic vomit
 
 Amor est. At astra quando, superósque increpat,
 
@@ -5013,7 +5011,7 @@ O muta templis saxa, cur fulmen riget
 
 Si quid potestis: spreti, & illusi diu
 
-Feritate legum statis: Augusti sinant,
+≤line=2305≥ Feritate legum statis: Augusti sinant,
 
 Irae recondant spicula, & crudas neces,
 
@@ -5023,7 +5021,7 @@ Diana aprorum, Phoebe serpentum metus,
 
 Tremenda saxis Pallas, & Mauors feris
 
-Quis vos Typhoeum mille pugnantem toris,
+≤line=2310≥ Quis vos Typhoeum mille pugnantem toris,
 
 Gyges, briareos montibus vulsis graues
 
@@ -5033,7 +5031,7 @@ Lacerata secta, virgines, pueri, Deis
 
 Minantur, & timentur, ô coeli probrum!
 
-O male parati conscium regni Jouem!
+≤line=2315≥ O male parati conscium regni Jouem!
 
 Miserans querentem talia, eluso impuli
 
@@ -5043,7 +5041,7 @@ Penetrare limen; sed tuae legis metu
 
 Non ipsa veniat, moneo; submittat virum
 
-Notum Adriano: sancta quod pietas velit
+≤line=2320≥ Notum Adriano: sancta quod pietas velit
 
 Non impediri legibus; gratum fore
 
@@ -5053,17 +5051,17 @@ Quod nunquàm amatum deserat: me me offero
 
 Et nunc paratum pectus ad mortem gero,
 
-Fateórque crimen, iussus intraui specum.
+≤line=2325≥ Fateórque crimen, iussus intraui specum.
 
 Non vlla mihi vis, Caesar, effregit fores,
 
 Subii volente Flauio, extremam tuli
 
-Domino salutem. Galer. Nostra clementi vigent
+Domino salutem. \@Galer.= Nostra clementi vigent
 
 Imperia sceptro, pone foemineos metus:
 
-Quod ausus in me es parco, nec Nataliae
+≤line=2330≥ Quod ausus in me es parco, nec Nataliae
 
 Condemno amores, poena nec legi addita est
 
@@ -5071,9 +5069,9 @@ Illius ergò, visus est coniux, ope
 
 Indignus vllâ. Iamne phryx plagis sapit?
 
-Natal. Animus dolori pugnat, & fractos vigor
+\@Natal.= Animus dolori pugnat, & fractos vigor
 
-Sustentat artus peruicax latios Deûm
+≤line=2335≥ Sustentat artus peruicax latios Deûm
 
 Odisse cultus, quando me fari iubes
 
@@ -5083,7 +5081,7 @@ Seque viduari, coniugem tolli dolet,
 
 Plus principi debemus, & Domino imperî.
 
-Quod pertinacis pectus hâc frangi manu
+≤line=2340≥ Quod pertinacis pectus hâc frangi manu
 
 Putas Galeri, falleris, morbo ferox
 
@@ -5093,7 +5091,7 @@ Cùm plus vetatur; qualis effractâ crepat
 
 Fornace clausus Mulciber, séque explicat
 
-Per inane victor: odia per lacerum vomit
+≤line=2345≥ Per inane victor: odia per lacerum vomit
 
 Talis cadauer, quotque carnificis manu
 
@@ -5103,9 +5101,9 @@ Eructat ardens, séque sic Christo probat.
 
 Quid plura? desperatus, & vitam trahens
 
-Suspirat in te Caesar, & mortem rogat.
+≤line=2350≥ Suspirat in te Caesar, & mortem rogat.
 
-Galer. Mortem execrando dabimus, & quod non rogat
+\@Galer.= Mortem execrando dabimus, & quod non rogat
 
 Longam, asperam, insolentem. Age incudi indito,
 
@@ -5113,7 +5111,7 @@ Longam, asperam, insolentem. Age incudi indito,
 
 Rumpátque validus carnifex, animam expuat
 
-Inter dolores. Poena par dudum nocens
+≤line=2355≥ Inter dolores. Poena par dudum nocens
 
 Populetur agmen. Summe Regnator Deûm
 
@@ -5123,7 +5121,7 @@ Tibi sum cruentus, causa me cogit tua
 
 Furere in amicos; haec tibi hecatombe cadit.
 
-Opima non si colla submittant greges,
+≤line=2360≥ Opima non si colla submittant greges,
 
 Fumétque ruris toto Panchaei seges,
 
@@ -5133,9 +5131,9 @@ Nataliam esse; testor augustum caput,
 
 Opum nihil peribit; & spero, tori
 
-Reparabo taedas, seruet hanc nobis fidem,
+≤line=2365≥ Reparabo taedas, seruet hanc nobis fidem,
 
-Mille Adrianos faciet. Natal. O fractae ratis
+Mille Adrianos faciet. \@Natal.= O fractae ratis
 
 Portúsque, spésque sola, si famulam exigat
 
@@ -5143,19 +5141,19 @@ Tibi nexa vitam, mille si cupiat tibi
 
 Profundere animas, viuere ingratam tamen
 
-Caesarea pietas coget. Hoc etiam precor
+≤line=2370≥ Caesarea pietas coget. Hoc etiam precor
 
 Adnecte donis, certus vt triste afferam
 
 Solamen orbae, liceat Adriani vltimum
 
-Morari agonem. Galer. Si lubet morere insimul,
+Morari agonem. \@Galer.= Si lubet morere insimul,
 
 Tua esto, Consul, cura, lege actum volo.
 
 **[^44]CHORVS.**
 
-QVID par habuit foemina fortis?
+≤line=2375≥ QVID par habuit foemina fortis?
 
 Quid pretioso natura sinu
 
@@ -5165,7 +5163,7 @@ Illa pudicam seruare domum,
 
 Et Palladias docta per artes
 
-Ducere tenui pollice lanam,
+≤line=2380≥ Ducere tenui pollice lanam,
 
 Famâ celebris, formâ ignota.
 
@@ -5175,7 +5173,7 @@ Castae veneris praemia, pendent.
 
 Et virtutem sub lacte trahunt:
 
-Qualis riuus gramina tinguens
+≤line=2385≥ Qualis riuus gramina tinguens
 
 Haurit patrio fonte saporem.
 
@@ -5185,7 +5183,7 @@ Domini in dubiis sedula rebus
 
 Quas non animo versare vias,
 
-Quid non lacrymis superare potens?
+≤line=2390≥ Quid non lacrymis superare potens?
 
 Vtramque pati bona fortunam,
 
@@ -5195,7 +5193,7 @@ Sic quae rigido marmore sculptum
 
 Intulit astris Domini nomen,
 
-Viuâ cineres condidit vrnâ.
+≤line=2395≥ Viuâ cineres condidit vrnâ.
 
 Quaeque Emathiis animosa virum
 
@@ -5205,7 +5203,7 @@ Ebibit ignes non vetita mori.
 
 Et quae pectus non dolituro
 
-Saucia ferro, Paetum docuit
+≤line=2400≥ Saucia ferro, Paetum docuit
 
 Optare necem. Quaeque maritum
 
@@ -5215,7 +5213,7 @@ Ausa & mulier saepe virilem
 
 Cohibere fugam: saepe emotas
 
-Reddere pauido pectore vires.
+≤line=2405≥ Reddere pauido pectore vires.
 
 Cruenta viros strauerat agris
 
@@ -5225,7 +5223,7 @@ Et foemineis cincta maniplis
 
 Quae ludenti cecinit plectro
 
-Telesilla, manu praelia fecit.
+≤line=2410≥ Telesilla, manu praelia fecit.
 
 Dedit & Tyriis iura colonis
 
@@ -5235,7 +5233,7 @@ Stabat in armis gens Dite sata,
 
 In sua versis certa perire
 
-≤page=88≥ Viscera telis. Jamque Odrysiam
+≤line=2415≥ ≤page=88≥ Viscera telis. Jamque Odrysiam
 
 Mauors auidus monerat hastam,
 
@@ -5245,7 +5243,7 @@ Territat vrbes: iam sanguineam
 
 Bellona facem phlegetontaeis
 
-Animarat aquis: ibat diuam
+≤line=2420≥ Animarat aquis: ibat diuam
 
 Comitata trucem turba malorum:
 
@@ -5255,7 +5253,7 @@ Et laeta suis vltio damnis,
 
 Proprióque dolor grauis auctori,
 
-Luctus & atrae mortis imago.
+≤line=2425≥ Luctus & atrae mortis imago.
 
 Ruit in medios agmen inerme,
 
@@ -5265,7 +5263,7 @@ Vos state patres, vos state viri
 
 Clamat & acres cohibete minas:
 
-Consanguineos iure tumultus
+≤line=2430≥ Consanguineos iure tumultus
 
 Sedare iuitat, non fraternâ
 
@@ -5275,7 +5273,7 @@ Aut si furor est stringere ferrum,
 
 Per dispositas saeuite moras,
 
-Per mactatas ite puellas:
+≤line=2435≥ Per mactatas ite puellas:
 
 Et habent matrum membra cruorem.
 
@@ -5285,7 +5283,7 @@ Et cognati sanguinis ardor:
 
 Tunc desertas lege vnanimi
 
-Petiêre lares, in foemineum
+≤line=2440≥ Petiêre lares, in foemineum
 
 Foedus ituri.
 
@@ -5295,7 +5293,7 @@ Thalami consors fida Adriani?
 
 Tu ferales penetrare domos,
 
-Et per densos vigilum cuneos
+≤line=2445≥ Et per densos vigilum cuneos
 
 Ausa in medias ire catenas,
 
@@ -5305,7 +5303,7 @@ Per tot mortes secura tui.
 
 Decus intacti potis immiti
 
-Sternere cultro: tu syrma stolae
+≤line=2450≥ Sternere cultro: tu syrma stolae
 
 Mutare togâ: déque nitenti
 
@@ -5315,7 +5313,7 @@ Fortis, & omnem spernere mundum
 
 Mentita virum. Sed falsa loquor:
 
-Cùm Caesaries flueret niueos
+≤line=2455≥ Cùm Caesaries flueret niueos
 
 Flaua per armos: cùm crepitaret
 
@@ -5325,7 +5323,7 @@ Tunc foemineum mentita genus
 
 Laxata virum stola celabat.
 
-Sexum virtus, non forma facit.
+≤line=2460≥ Sexum virtus, non forma facit.
 
 At ecce hiatu carcer obliquo patet,
 
@@ -5341,7 +5339,7 @@ Sollicita: luctum Consul interiùs coquit.
 
 TITIANVS. ADRIANVS. NATALIA.
 
-SERVM est monere quando iam rerum status
+≤line=2465≥ SERVM est monere quando iam rerum status
 
 Certam in ruinam pendet. Ante equidem institi
 
@@ -5351,7 +5349,7 @@ Plus dandum amicis fuerat. Et memet tamen
 
 ≤page=90≥ Incuso, posse fata speraui Deûm
 
-Rogando flecti; parca ineluctabilis
+≤line=2470≥ Rogando flecti; parca ineluctabilis
 
 Huc te coëgit; vincula, & fustes, Iouis
 
@@ -5361,7 +5359,7 @@ Tuum iubentur: vita si cordi est, potes
 
 Vitare mortem: si mori placitum est licet;
 
-Nec astra iam te, sed tuum perdit scelus.
+≤line=2475≥ Nec astra iam te, sed tuum perdit scelus.
 
 Et cur recuses viuere? attritos malo
 
@@ -5371,17 +5369,17 @@ Compage corpus, solue nodosos pedum,
 
 Manuúmque nexus, tuber in foedum exeant
 
-Pectúsque, scapulaeque, impiam inuade in crucem,
+≤line=2480≥ Pectúsque, scapulaeque, impiam inuade in crucem,
 
 Animámque tot tormenta tracturam trahe,
 
 Summam bonorum vitae si superest, tenes.
 
-Adrian. O fidei alumne, &, ni Deûm cultus vetet,
+\@Adrian.= O fidei alumne, &, ni Deûm cultus vetet,
 
 O flos bonorum, quam mihi prestas, mihi
 
-Permitte curam, vana quod poscis, dolet,
+≤line=2485≥ Permitte curam, vana quod poscis, dolet,
 
 Quod iniqua, quod sacrilega, quae mihimet negem.
 
@@ -5391,17 +5389,17 @@ Naufragium in ipsâ facere? dissuadet dolor
 
 Et corpus exantlatum, & effusus Deo,
 
-Christóque sanguis. Si me amas, his abstine
+≤line=2490≥ Christóque sanguis. Si me amas, his abstine
 
 Titiane, dae breue otium cadaueri
 
 Vt pacificè animam exuat, Consul vale.
 
-Titian. Non te tuorum miseret, aut miseret tui
+\@Titian.= Non te tuorum miseret, aut miseret tui
 
 Adriane? sic nos linquis, & vegetae secas
 
-Florem iuuentae? hoc illud Augusti refers
+≤line=2495≥ Florem iuuentae? hoc illud Augusti refers
 
 Donum fauoris? gloria hoc culmen tenes
 
@@ -5411,7 +5409,7 @@ Deum Adriane morte qui pensat fidem.
 
 Quem toruà spectas? Ora cur flectis retro?
 
-Iterum, iterúmque moneo, vel tu te aspice
+≤line=2500≥ Iterum, iterúmque moneo, vel tu te aspice
 
 Aut fida amicos pectora, aut Nataliae
 
@@ -5421,7 +5419,7 @@ Silet. Adriane Consul appellat tuus,
 
 Vitam reporto, viuere Augusti sinunt,
 
-Vel Christianum. Vertice obstipo riget.
+≤line=2505≥ Vel Christianum. Vertice obstipo riget.
 
 Adest quod optas, lictor ad mortem vocat.
 
@@ -5429,9 +5427,9 @@ Arridet oculis stolidus. In mortem rue
 
 Si furere pergis, quid diu insanum moror?
 
-Natal. Viden vt propinquâ morte luctantem trahit
+\@Natal.= Viden vt propinquâ morte luctantem trahit
 
-Infanus animam? quando violauit Deos
+≤line=2510≥ Infanus animam? quando violauit Deos
 
 Fac poena mors sit: caede naturam occupa
 
@@ -5441,7 +5439,7 @@ Hoc est honori, posteris, famae mori.
 
 Sub vecte rigido primus infelix gemat,
 
-Caetera sequetur turba. Titian. Non frustrà mones.
+≤line=2515≥ Caetera sequetur turba. \@Titian.= Non frustrà mones.
 
 Huc triste vectis pondus incudi additum
 
@@ -5451,7 +5449,7 @@ Eadem nocentes poena dein reliquos voret.
 
 At vos, in vrbe media quae fornax hiat,
 
-Animate flammâ, funerum hoc illis erit
+≤line=2520≥ Animate flammâ, funerum hoc illis erit
 
 In honore bustum, quáque plus spirant Noti
 
@@ -5465,7 +5463,7 @@ NATALIA. ADRIANVS.
 
 HVC frater oculos liberè, soli sumus.
 
-Nunc nunc minacis gurgitem emensus freti
+≤line=2525≥ Nunc nunc minacis gurgitem emensus freti
 
 Syrtésque, scopulósque, atque ridentis malè
 
@@ -5475,7 +5473,7 @@ Aquilonis animas, post tot inferni manus
 
 Piratae abactas fortiter saluâ tenes
 
-Portum carinâ; Macte, iacienda anchora,
+≤line=2530≥ Portum carinâ; Macte, iacienda anchora,
 
 Prensanda coeli statio, ne rabies sali
 
@@ -5485,27 +5483,27 @@ Adrianus. Nil est timendum, dentis inuicti haereo
 
 Fundatus vnco. Quicquid est Erebi asperum,
 
-Totos furoris impetus in me imprimat,
+≤line=2535≥ Totos furoris impetus in me imprimat,
 
 Superare ditem morte non facili iuuat.
 
-Natal. Animosa frater verba, sed scopulum caue;
+\@Natal.= Animosa frater verba, sed scopulum caue;
 
 Styge prouocatâ typhus irrepit leuis,
 
 Et homine maior animus, & fidens sibi.
 
-Qui sis, & vnde cogita: non tu potes,
+≤line=2540≥ Qui sis, & vnde cogita: non tu potes,
 
 Quod posse numen fecit infusum tibi.
 
-Adrian. Quàm dulce, Christo viuere, affligi, mori!
+\@Adrian.= Quàm dulce, Christo viuere, affligi, mori!
 
-Natal. Christus supremum tramitem vitae terens
+\@Natal.= Christus supremum tramitem vitae terens
 
 Coelum inter & nos medius, offensi patris
 
-Excepit iram totus, & iussos polo
+≤line=2545≥ Excepit iram totus, & iussos polo
 
 Hausit dolores? fluxit infusus liquor
 
@@ -5515,7 +5513,7 @@ Tormenta calice de propinato ebibit,
 
 Iam non amara. Sic vbi occultas latex
 
-Terrae medullas subiit, & tacito agmine
+≤line=2550≥ Terrae medullas subiit, & tacito agmine
 
 Venas Metalli strinxit, irriguâ capit
 
@@ -5525,7 +5523,7 @@ Se fonte percolatus, & pestes fugat
 
 Mortalis aeui: non secus Christi replent
 
-Venas acerba turminum, vt suauis liquor
+≤line=2555≥ Venas acerba turminum, vt suauis liquor
 
 Meet in nepotes. quanta prô pietas Dei
 
@@ -5535,17 +5533,17 @@ Propinat orcus, primus exhausit merum:
 
 Nos delicati spineum amplexi caput
 
-Rosarum amoena legimus: & tanto piget
+≤line=2560≥ Rosarum amoena legimus: & tanto piget
 
 Vitam parenti reddere? & carum putas
 
-Hoc pretio Olympum? Adrian. Cor dolet, circum nigror
+Hoc pretio Olympum? \@Adrian.= Cor dolet, circum nigror
 
-Oberrat oculos, morior. Natal. Eia animam tene,
+Oberrat oculos, morior. \@Natal.= Eia animam tene,
 
 Mox lictor aderit, Martyri standum in gradu est,
 
-Vel morte in ipsâ: laureae tempus venit,
+≤line=2565≥ Vel morte in ipsâ: laureae tempus venit,
 
 Caue occuparis. Cùm Deus lacero crucem
 
@@ -5555,7 +5553,7 @@ Clauo imprimens vtrúmque penetranti pedem
 
 Infirmus, attritus, ferâ exhaustus siti:
 
-Cum sole rapto medius horrendâ dies
+≤line=2570≥ Cum sole rapto medius horrendâ dies
 
 In nocte periit, & truci silentio
 
@@ -5565,7 +5563,7 @@ Quam fortis inter illa, quam dignus Deo
 
 Animus stetit, boníque diuini appetens
 
-Sustinuit artus, ante ne vellent mori
+≤line=2575≥ Sustinuit artus, ante ne vellent mori
 
 Quam iussa sinerent patria, & culpa modus
 
@@ -5575,17 +5573,17 @@ Adriane, tibi, mihíque tam constans fuit.
 
 Age, eia, frater, euge, lictores viden’?
 
-Coelum propinquat, pectus in coelum euehe,
+≤line=2580≥ Coelum propinquat, pectus in coelum euehe,
 
-O Christe. Adrian. Christo tu vicem potius soror
+O Christe. \@Adrian.= Christo tu vicem potius soror
 
-Gratare nostram, morior. Natal. O magni patris
+Gratare nostram, morior. \@Natal.= O magni patris
 
 Aequaeua soboles, Martyrum dux, & vigor,
 
 Salutis ara, statio iactatae ratis:
 
-Quod vana stolidus, victimâ infami, Deûm
+≤line=2585≥ Quod vana stolidus, victimâ infami, Deûm
 
 Simulacra coluit, quod pios morti impiae
 
@@ -5595,7 +5593,7 @@ Eheu tyranni, poenitet, & illis, reus
 
 Propria parentat morte. Quod cultu in tuo
 
-Vitam profundit Martyr, & coeli fidem
+≤line=2590≥ Vitam profundit Martyr, & coeli fidem
 
 Cruore signat, quicquid est coelo tuum,
 
@@ -5605,19 +5603,19 @@ Grates rependat, donec aethereum augeat
 
 Populum triumphans, gloriae testis tuae.
 
-Sint membra linguae, sanguis in voces eat,
+≤line=2595≥ Sint membra linguae, sanguis in voces eat,
 
 Totóque Christum corpore in poenis sonet.
 
 Rata vota feci, Christus ad coelum vocat,
 
-Placet ire frater? Adrian. In tuo amplexus placet.
+Placet ire frater? \@Adrian.= In tuo amplexus placet.
 
-Natal. Quicquid superba, quicquid erraui loquax
+\@Natal.= Quicquid superba, quicquid erraui loquax
 
-Ignosce Martyr, méque concilia Deo.
+≤line=2600≥ Ignosce Martyr, méque concilia Deo.
 
-Adrian. Natalia vale. Natal. Pars mei frater vale.
+\@Adrian.= Natalia vale. \@Natal.= Pars mei frater vale.
 
 Euolue crura fasciis, profer pedem,
 
@@ -5625,9 +5623,9 @@ Ascende lentus, tibiam incudi applica.
 
 Oculos in astra frater, en medius poli
 
-≤page=95≥ Discedit orbis, alites circùm aduolant
+≤line=2605≥ ≤page=95≥ Discedit orbis, alites circùm aduolant
 
-Auro & coronis nobiles. Adrian. Eheu! Natal. Dolor
+Auro & coronis nobiles. \@Adrian.= Eheu! \@Natal.= Dolor
 
 Abscessit; actum est: macte. Nunc laeuo est opus
 
@@ -5635,17 +5633,17 @@ Et hunc beatus promoue coelo gradum.
 
 Vtrumque Christus vulnere ostentat pari,
 
-Vterque puras solis exsuperat faces
+≤line=2610≥ Vterque puras solis exsuperat faces
 
 Splendore plagae. Quà sacer fluxit cruor,
 
-Omnia coruscant. Adrian. Christe! Natal. Momento gemis,
+Omnia coruscant. \@Adrian.= Christe! \@Natal.= Momento gemis,
 
 Pretium perenne est. Euge. sed nimiùm diu
 
 Trahis Adriane spiritum: vsque adeo pati
 
-Moríue miserum est? anima quin tenui volat
+≤line=2615≥ Moríue miserum est? anima quin tenui volat
 
 Resoluta vinclo? Nempe te vitae arbiter
 
@@ -5655,17 +5653,17 @@ Stygius cruentat. Eia quam dextram osculor
 
 Sine resecari Martyr, hac palmam ocyus
 
-Victor prehendes. Christus hâc laetus manu
+≤line=2620≥ Victor prehendes. Christus hâc laetus manu
 
 Aeterna trahet in regna. Nil mancum est Deo,
 
 Nisi inchoatum si quis abrumpit bonum
 
-Extremo in actu. Adri. Ah! Natal. Frater ingemina Deum,
+Extremo in actu. Adri. Ah! \@Natal.= Frater ingemina Deum,
 
 Christum saluta. Fallor? exangui riget
 
-Pallore facies? frater appella Deum.
+≤line=2625≥ Pallore facies? frater appella Deum.
 
 Retroacta ceruix pondus insolitum trahit:
 
@@ -5675,7 +5673,7 @@ Abiit, peractum est, ore, nutu, oculis silet.
 
 Caedes ad alias lictor, Adrianum omnibus
 
-Vixisse referes. Offici pretium accipe,
+≤line=2630≥ Vixisse referes. Offici pretium accipe,
 
 At tu vicissim sanguine illusas pio
 
@@ -5689,7 +5687,7 @@ NATALIA.
 
 I fortis anime, victor in coelum euola
 
-Vbi luce clarâ visus amplexum Deus
+≤line=2635≥ Vbi luce clarâ visus amplexum Deus
 
 Offert capitque: amoris aeterni focus
 
@@ -5699,7 +5697,7 @@ Honora Christi vulnera, & socios boni
 
 Condunt laboris: lauream hoc tutus sinu
 
-Depone Martyr, hic triumphale otium
+≤line=2640≥ Depone Martyr, hic triumphale otium
 
 Age dite domito: mortis & ferri rigor
 
@@ -5709,7 +5707,7 @@ Cessit ferendo. Adriane, dimidium mei
 
 Bene collocasti: Adriane, pietate ex tuâ
 
-Incipio respirare, sidereos ago
+≤line=2645≥ Incipio respirare, sidereos ago
 
 In te triumphos, haurio diuûm sacros
 
@@ -5719,7 +5717,7 @@ Vita, & voluptas. Crinis euulsi decus
 
 Bissena reddunt sidera, & claro caput
 
-Agmine coronant: luminum extinctas faces
+≤line=2650≥ Agmine coronant: luminum extinctas faces
 
 Reparat Tonantis flamma quae curru emicat.
 
@@ -5729,7 +5727,7 @@ Quali rigaentur imbre! quae lapides Deos
 
 Lingua execrata est, dulce ter sanctae melos
 
-Triadi frequentat. Vecte contriti pedes
+≤line=2655≥ Triadi frequentat. Vecte contriti pedes
 
 Solidati in agni passibus, ceruâ ocyùs
 
@@ -5739,7 +5737,7 @@ Quàm suaue psallentum inter aligerum choros,
 
 Fatidica vatum nablia, & voce inclytas
 
-Assâ puellas, sanguine rubentem suo,
+≤line=2660≥ Assâ puellas, sanguine rubentem suo,
 
 Palmâ decorum, spatia metiri aetheris!
 
@@ -5749,7 +5747,7 @@ Terram metallo, quaeque porticibus iacent
 
 Jnania amplis iugera, atque afris cedros
 
-Fultas columnis, inque priuatas domos
+≤line=2665≥ Fultas columnis, inque priuatas domos
 
 Deducta riuis flumina, & quae maxima
 
@@ -5759,7 +5757,7 @@ In illa magna admissus, in apertum Dei
 
 Receptus adytum? sortis hîc seriem legis
 
-Modúmque nostrae: cernis arcanum chaos,
+≤line=2670≥ Modúmque nostrae: cernis arcanum chaos,
 
 Vbi magna rerum semina, & certi latent
 
@@ -5769,7 +5767,7 @@ Factura leges, haec vt aethereas modò
 
 Surgant in auras, illa sub tenebris adhuc
 
-Reposta lateant: esse nunc tempus iubet
+≤line=2675≥ Reposta lateant: esse nunc tempus iubet
 
 Olim futurum, idmque praeteritum in nihil
 
@@ -5779,7 +5777,7 @@ Sempérque praesens. Cernis vt massa pater
 
 Jstos ab atrâ educit; hos foedâ sinit
 
-Torpere culpâ: vult vt immeritis benè,
+≤line=2680≥ Torpere culpâ: vult vt immeritis benè,
 
 Secla ante, & ante temporum primas vices.
 
@@ -5789,7 +5787,7 @@ Catena vitam: nec odium est; idem eligit
 
 Amor tyrannum, & martyrem; colo locat,
 
-Condemnat orco. Sed quis haerentem solo
+≤line=2685≥ Condemnat orco. Sed quis haerentem solo
 
 Rapit aestus? vnde coelitum, terrae immemor,
 
@@ -5799,7 +5797,7 @@ Pars vna, partem hîc seruo. Simulacrum hoc tui
 
 Adriane amarit alia, fugitiui procax
 
-Decoris auceps rupimus carnis moras,
+≤line=2690≥ Decoris auceps rupimus carnis moras,
 
 Animaeque adhaesit anima. Sed quando benè est
 
@@ -5809,7 +5807,7 @@ Tonantis aram, pneumatis magni thronum,
 
 ≤page=98≥ Rigabo lacrymis, mille defigam oscula,
 
-Hac assidebo sedula, atque iterùm meo
+≤line=2695≥ Hac assidebo sedula, atque iterùm meo
 
 Spirare faciam spiritu. \-\--
 
@@ -5819,33 +5817,33 @@ FLAVIVS. NATALIA.
 
 \-\--HOC vnum est super,
 
-Abripite famuli. Natal. Quo scelus scelere aggeras
+Abripite famuli. \@Natal.= Quo scelus scelere aggeras
 
 Cruente miles! spiritu euulso, innocens
 
 Furis in cadauer! hac tyrannorum tenus
 
-Ierit potestas, mors tibi eripuit virum.
+≤line=2700≥ Ierit potestas, mors tibi eripuit virum.
 
-Flau. Facite imperata. Natal. Iuris Adrianus sui est,
+\@Flav.= Facite imperata. \@Natal.= Iuris Adrianus sui est,
 
 Nil iam tyrannis debet: aut Domino abstine,
 
 Aut simul vtrumque perde communi rogo.
 
-Flau. Properate, reliqua mox cibum flammis dabit
+\@Flav.= Properate, reliqua mox cibum flammis dabit
 
-Turba impiorum. Natal. Ardente si prohibes pyra,
+≤line=2705≥ Turba impiorum. \@Natal.= Ardente si prohibes pyra,
 
 Da legere cineres, rite quo iaceant, queo
 
 Struere sepulcrum, nulla refodiet manus.
 
-Flau. Sat est amoris, Caesarem irrites caue,
+\@Flav.= Sat est amoris, Caesarem irrites caue,
 
 Dominam reuise, coniugis narra necem,
 
-Viduae parari vincla, promissi fidem,
+≤line=2710≥ Viduae parari vincla, promissi fidem,
 
 A Rege repeti: subiice & nomen proci,
 
@@ -5861,7 +5859,7 @@ Non poenitebit Flauii, Adriano datam?
 
 Vni iugatam Martyri, affinem omnibus:
 
-Maritum abisse quisquis hoc audes, putas,
+≤line=2715≥ Maritum abisse quisquis hoc audes, putas,
 
 Manu retineo. Martyris testor Deum
 
@@ -5871,7 +5869,7 @@ Hanc coniugi olim iuncta conueni in manum.
 
 O dextra, primis vltimas aequa faces,
 
-O sine smargdo cara! ô inuidiam inclytis
+≤line=2720≥ O sine smargdo cara! ô inuidiam inclytis
 
 Factura gemmis nuda! quid post te ambiam,
 
@@ -5881,7 +5879,7 @@ Distringit iram, verticem vmbrabis reum,
 
 Potiórque lauro fulminis franges minas.
 
-Me si benigno lumine aspiciet Deus
+≤line=2725≥ Me si benigno lumine aspiciet Deus
 
 In dona facilis; Tornus hos auro facit
 
@@ -5891,7 +5889,7 @@ Hyacinthus imbre. Monstra tartarei specus
 
 In bella rapient pectus auxilii indigum?
 
-Scutum cauenti, tela ferienti dabis
+≤line=2730≥ Scutum cauenti, tela ferienti dabis
 
 Fabricata coelo dextra. Cùm tristi excita
 
@@ -5901,7 +5899,7 @@ Ingente in arcu iudicem vallis feret,
 
 Adriane terrâ maior, aethereos Deo
 
-Rapieris inter ordines: haec me pigram
+≤line=2735≥ Rapieris inter ordines: haec me pigram
 
 Tumulo euocabit dextera, atque isti soror
 
@@ -5911,7 +5909,7 @@ Manus ô manus prensura mortalem Deum!
 
 ≤page=100≥ Vbi te recondam? quis tibi dignam locus
 
-Faciet quietem? Si placeo, cordis sinus
+≤line=2740≥ Faciet quietem? Si placeo, cordis sinus
 
 Penetra reductos, mollis hic thalamus iacet
 
@@ -5919,9 +5917,9 @@ Quo dediceris. Sed quid hîc duco diem?
 
 Non curro ad hostes? non simul in ignem inuolo?
 
-Xon stringo fratris colla complexu vltimo?
+Non stringo fratris colla complexu vltimo?
 
-Adrianus ardet, & sedet Natalia?
+≤line=2745≥ Adrianus ardet, & sedet Natalia?
 
 
 

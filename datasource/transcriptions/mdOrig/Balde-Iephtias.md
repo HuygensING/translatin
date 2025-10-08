@@ -1,15 +1,5 @@
 BALDE IEPHTIAS
 
-\[Ludi theatrales, 1666\] CAMENA -- UNI-MANNHEIM
-
-<https://mateo.uni-mannheim.de/camena/bald4/jpg/s549.html>
-
-19 May 2002 Susanne Mussmann
-
-TEI header added, structural corrections, suggestions: add metric, mark content, spelling of words (bad quality), include speakers in tragedy
-
-22-04-2025 Jan Bloemendal corrected some ocr-mistakes and added line numbering and italics.
-
 /front/
 
 JACOBI BALDE

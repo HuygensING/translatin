@@ -263,7 +263,7 @@ Euphratis. Chorus est ex bonis spiritibus, quos Angelos vocamus. Sathan
 
 Trimetri Iambici.
 
-Sathan.
+@Sathan.=
 
 Saevi tonantis hostis, exsul patriae
 
@@ -971,7 +971,7 @@ Servire rerum conditori, nec sinit
 
 Mentesque proprium ducit ad primordium.
 
-An. O te beatum, cujus in praecordiis \[\< paecordiis\]
+\@An.= O te beatum, cujus in praecordiis \[\< paecordiis\]
 
 Imago magni nobilis fulget Dei,
 
@@ -1027,7 +1027,7 @@ Parere jussis voluit, haec lex est data:
 
 Tibi benignus reliqua, te fecit sibi.
 
-Ad. Deus est profectò, cujus et terra, et fretum
+\@Ad.= Deus est profectò, cujus et terra, et fretum
 
 ≤line=360≥ Et utraeque Phoebi sentiunt Numen domus.
 
@@ -1077,7 +1077,7 @@ Vtrumque Sancti Spiritus Concordia
 
 Amorque jungit: Tresque sunt Vnus Deus.
 
-An. Quam multa paucis, Magna parvis vocibus
+\@An.= Quam multa paucis, Magna parvis vocibus
 
 Satis explicasti, quantaque ingenij tui
 
@@ -1143,7 +1143,7 @@ Vis conditorem nosse? rebus conditis
 
 Vtere magistris: quicquid est index Dei est.
 
-≤line=415≥ Ad. Cum nîl fuisse tot feras, pisces, aves,
+≤line=415≥ \@Ad.= Cum nîl fuisse tot feras, pisces, aves,
 
 Ipsumque me, Telluris, et Coeli globos
 
@@ -1161,7 +1161,7 @@ Narra petenti, quo modo, quoque ordine,
 
 Tam magna numeris machina impleta est suis.
 
-An. Gemina ante tempus omne, cum solum foret
+\@An.= Gemina ante tempus omne, cum solum foret
 
 ≤line=425≥ Nil praeter ipsum, corpora effecit Deus,
 
@@ -1211,11 +1211,11 @@ Confusa magnis parva, duris mollia
 
 Ex mole poterant, cuncta formis perfici.
 
-Ad. Iacuítne inanis illa materies diu,
+\@Ad.= Iacuítne inanis illa materies diu,
 
 An subito species rebus effulsit sua?
 
-An. Non illud una singulis formis opus
+\@An.= Non illud una singulis formis opus
 
 ≤line=450≥ Perfecit hora: quippe lapsu temporum
 
@@ -1277,7 +1277,7 @@ Sic temperanda noctis alternae vice
 
 Primi diei fuit opus primum dies.
 
-Ad. Quibus illa, si fas scire, disposita est modis
+\@Ad.= Quibus illa, si fas scire, disposita est modis
 
 ≤line=480≥ Rerum parens quadriga, quae nunc mutuò
 
@@ -1285,7 +1285,7 @@ Complexa sese parte ab omni convenit,
 
 Vastúmque inane cuncta complendo fugat?
 
-An. Redeunte rebus luce praecepit Deus
+\@An.= Redeunte rebus luce praecepit Deus
 
 Inania auris spatia repleri vagis,
 
@@ -1387,11 +1387,11 @@ Genúsque totum planta ne secum auferat
 
 ≤line=530≥ Moritura formae proferunt similes suae.
 
-Ad. Veréne quarto credimus factas die
+\@Ad.= Veréne quarto credimus factas die
 
 Stellas, et ipsas Solis, et Lunae faces?
 
-An. Cum per quaternas Mundus aetherius vices
+\@An.= Cum per quaternas Mundus aetherius vices
 
 Repetîsset unde coeperat volvi locum,
 
@@ -1525,11 +1525,11 @@ Contenta Phoebi menstruo cursu soror;
 
 Haec cum videret opera, qui fecit Deus
 
-Laudans probavit. Ad. Quae feras, Pisces, aves,
+Laudans probavit. \@Ad.= Quae feras, Pisces, aves,
 
 Iumenta, et angues vidit effingi dies?
 
-≤line=600≥ An. Vbi secundam Phoebus accendit facem,
+≤line=600≥ \@An.= Vbi secundam Phoebus accendit facem,
 
 Iussit per amnes, Numen, et vitreos lacus,
 
@@ -1625,7 +1625,7 @@ Tuâ carere justa me pietas vetat
 
 Amórque sancta corda succendens face.
 
-Ad. Consors cubilis cuî meis ex ossibus
+\@Ad.= Consors cubilis cuî meis ex ossibus
 
 ≤line=645≥ Composuit ossa, cuî maritali Deus
 
@@ -1705,13 +1705,13 @@ Vestrâ regatur sobole: quas Tellus feras,
 
 Imperia vestri sanguinis discant pati.
 
-Ev. Felicitatis magna pars, aut unica
+\@Ev.= Felicitatis magna pars, aut unica
 
 Vir est maritae: dulce nunc quicquid mihi est
 
 ≤page=27≥
 
-Te sine nocebit. Ad. Sic amoris mutui
+Te sine nocebit. \@Ad.= Sic amoris mutui
 
 ≤line=685≥ Vt duret ardor, utque communi bono
 
@@ -2127,7 +2127,7 @@ Securum amoris pignus, aeternum mihi
 
 Promitte foedus. Quid sacrum quassas caput?
 
-Ad. Deo rebellis, perfide, execrabilis,
+\@Ad.= Deo rebellis, perfide, execrabilis,
 
 Procul nefandos corpore à puro amove
 
@@ -2137,7 +2137,7 @@ Tu sempiternis propter horrendum scelus
 
 Damnate poenis procul ab aspectu fuge
 
-Pij et beati. Sa. Gerere quid tandem juvat
+Pij et beati. \@Sa.= Gerere quid tandem juvat
 
 Inimica semper odia? Si nescis, malum
 
@@ -2153,7 +2153,7 @@ Et pertinaces: Semper in melius trahi
 
 ≤line=890≥ Sors est beati. Pone nunc iras truces.
 
-Ad. Seges ante multo mergite in coelestibus
+\@Ad.= Seges ante multo mergite in coelestibus
 
 Metetur arvis, Terra sidereas faces
 
@@ -2179,7 +2179,7 @@ Aurora surget, noxque dum stellas feret,
 
 Dúmque ego beatus, túque dum infelix eris.
 
-Sa. Fortis potenti pugnet: in miseros potest
+\@Sa.= Fortis potenti pugnet: in miseros potest
 
 Qui bella gerere, spiritus humiles gerit.
 
@@ -2201,9 +2201,9 @@ Odijs, sed ultrò pacis oblatae fidem
 
 Suscipe: clientem perditum felix fove.
 
-Ad. Non esse dignum te meis odijs puta,
+\@Ad.= Non esse dignum te meis odijs puta,
 
-≤line=915≥ Sed minùs amore es. Sa. Non itàs abjecti sumus,
+≤line=915≥ Sed minùs amore es. \@Sa.= Non itàs abjecti sumus,
 
 Adame, nec te vana fallat opinio,
 
@@ -2235,7 +2235,7 @@ Imperia sunt vicina, regnemus simul.
 
 ≤page=36≥
 
-Ad. Quod Terra Sceptris paret et Pontus meis,
+\@Ad.= Quod Terra Sceptris paret et Pontus meis,
 
 ≤line=930≥ Donum est Tonantis, mutuâ qui me fide
 
@@ -2247,45 +2247,45 @@ Contentus istâ sorte quam tribuit Deus,
 
 Damnumque censens omne cum vitio lucrum.
 
-≤line=935≥ Sa. Oblata ab aliquo quis recusat munera?
+≤line=935≥ \@Sa.= Oblata ab aliquo quis recusat munera?
 
-Ad. Quemcunque non tàm dona, quàm donans iuvat.
+\@Ad.= Quemcunque non tàm dona, quàm donans iuvat.
 
-Sa. Perpetua gerere bella prodest nemini.
+\@Sa.= Perpetua gerere bella prodest nemini.
 
-Ad. Mihi quid nocebit? nîl timens, spero nihil.
+\@Ad.= Mihi quid nocebit? nîl timens, spero nihil.
 
-Sa. Misero quod est necesse, felici expedit.
+\@Sa.= Misero quod est necesse, felici expedit.
 
-≤line=940≥ Ad. Relligio quod permittit id solum expedit.
+≤line=940≥ \@Ad.= Relligio quod permittit id solum expedit.
 
-Sa. Ferire foedus ecqua relligio vetat?
+\@Sa.= Ferire foedus ecqua relligio vetat?
 
-Ad. Communionem criminis foedus vocas?
+\@Ad.= Communionem criminis foedus vocas?
 
-Sa. Quodcunque nostrum est fiat hoc pariter tuum.
+\@Sa.= Quodcunque nostrum est fiat hoc pariter tuum.
 
-Ad. Vestrum daturus, nîl potes praeter malum.
+\@Ad.= Vestrum daturus, nîl potes praeter malum.
 
-≤line=945≥ Sa. Nunquam nocebo: quà licebit prodero.
+≤line=945≥ \@Sa.= Nunquam nocebo: quà licebit prodero.
 
-Ad. Hoc ita futurum quis fidem faciet mihi?
+\@Ad.= Hoc ita futurum quis fidem faciet mihi?
 
-Sa. Promitto, polliceor, paciscor, spondeo.
+\@Sa.= Promitto, polliceor, paciscor, spondeo.
 
-Ad. Desertor, exul, perduellis, perfidus.
+\@Ad.= Desertor, exul, perduellis, perfidus.
 
-Sa. Iurabo magni Numen aeternum Dei.
+\@Sa.= Iurabo magni Numen aeternum Dei.
 
-≤line=950≥ Ad. Qui jam, quod in te est, aetheris regno caret.
+≤line=950≥ \@Ad.= Qui jam, quod in te est, aetheris regno caret.
 
-Sa. Si fallo, semper ira me illius premat.
+\@Sa.= Si fallo, semper ira me illius premat.
 
-Ad. Poenam timebis, qui nihil pejus times?
+\@Ad.= Poenam timebis, qui nihil pejus times?
 
-Sa. Iuvare socios soleo. Ad. Sic, simul ut ruant.
+\@Sa.= Iuvare socios soleo. \@Ad.= Sic, simul ut ruant.
 
-Sa. Quia pertinaci fretus insipientiâ
+\@Sa.= Quia pertinaci fretus insipientiâ
 
 ≤line=955≥ Pacem recusas, odia nunc primum mea
 
@@ -2303,7 +2303,7 @@ Nec coeptus unquam cedet ex animo furor,
 
 Patiare poenae. Parta, jam parta ultio est.
 
-Ad. Saevi, feroci, dum libet, nec bellicas
+\@Ad.= Saevi, feroci, dum libet, nec bellicas
 
 Leges recuso, nec tuas metuo minas,
 
@@ -2313,7 +2313,7 @@ Cuï sagittis cor tuis impervium
 
 Deum timere, nec aliud tutissimum est.
 
-Exul recede. Sa. Vos quoque exilium manet.
+Exul recede. \@Sa.= Vos quoque exilium manet.
 
 **Chorvs.**
 
@@ -2495,7 +2495,7 @@ Longósque tractus pedibus advolvit meis:
 
 Attollit ora: miror an queat et loqui.
 
-≤line=1050≥ Sa. Vtilia certè proloqui, et possum tibi,
+≤line=1050≥ \@Sa.= Vtilia certè proloqui, et possum tibi,
 
 Et non omittam. Gratulor vestris ego
 
@@ -2525,7 +2525,7 @@ Is vos nec uno patitur horto perfrui?
 
 ≤page=41≥
 
-Ev. Quascunque plantas istud arbustum gerit,
+\@Ev.= Quascunque plantas istud arbustum gerit,
 
 ≤line=1065≥ Quoscumque fructus, usibus nostris gerit.
 
@@ -2539,7 +2539,7 @@ His abstinere Lex monet magni patris,
 
 ≤line=1070≥ Ne fortè vitae consequamur terminum.
 
-Sa. Ne crede pomi unius ob dispendium
+\@Sa.= Ne crede pomi unius ob dispendium
 
 Debere certam protinus mortem sequi.
 
@@ -2623,7 +2623,7 @@ Rebus creatis si putes uti nefas
 
 ≤line=1110≥ Hanc, quae cavenda fecit, accusas manum.
 
-Ev. Incerta iussi causa: sed certum tamen
+\@Ev.= Incerta iussi causa: sed certum tamen
 
 Parêre iusso. quicquid est vetuit Deus.
 
@@ -2637,7 +2637,7 @@ Magistra nostras planta pollueret manus.
 
 Dare quenque ius est muneri legem suo.
 
-Sa. Cur non et illam muneris legem dedit,
+\@Sa.= Cur non et illam muneris legem dedit,
 
 Cum Terra vestris, cum juberetur salum
 
@@ -2729,7 +2729,7 @@ Nullum periclum sine periclo vincitur.
 
 ≤line=1160≥ Cùm res sit anceps certa res audacia est.
 
-Ev. Procul absit: absit hunc ut invidiae putem
+\@Ev.= Procul absit: absit hunc ut invidiae putem
 
 Stimulis peruri, et angi ab alieno bono,
 
@@ -2747,7 +2747,7 @@ At tu, recense, cujus ingenium feras
 
 Exsuperat omnes, quod putes vetito bonum
 
-≤line=1170≥ Latere fructu. Sa. Nomen hoc ipsum docet.
+≤line=1170≥ Latere fructu. \@Sa.= Nomen hoc ipsum docet.
 
 Animae est voluptas scire, res cognoscere
 
@@ -2847,7 +2847,7 @@ Quae res agatur cerne, si quicquam vides:
 
 Ex homine morsus unus efficiet Deam.
 
-Ev. Adeóne et alia praeter hominum pectora
+\@Ev.= Adeóne et alia praeter hominum pectora
 
 Ratio occupavit? bruta namque haec bestia est,
 
@@ -2863,7 +2863,7 @@ Tamen est dolosas illecebras vincere,
 
 ≤line=1225≥ Quàm se ut voluptas vera nobis subtrahat.
 
-Sa. Permitte vanis ne superstitionibus
+\@Sa.= Permitte vanis ne superstitionibus
 
 Te fascinandam, néve naturae tuae
 
@@ -2909,7 +2909,7 @@ Iam restat ori tantum ut admoveas tuo.
 
 Minimum est, quod unum facere te magnam potest.
 
-Ev. O dulce pomum, quàm tua haec species meis
+\@Ev.= O dulce pomum, quàm tua haec species meis
 
 Arridet oculis, quàm vel olfactus juvat?
 
@@ -3055,7 +3055,7 @@ Gratus palato, quam tuus succus juvat,
 
 Tanti ut maritus particeps fiat boni.
 
-Sa. Fiat profectò: plurimum dices meis
+\@Sa.= Fiat profectò: plurimum dices meis
 
 Debere monitis, cùm, quod est res, senties.
 
@@ -3109,15 +3109,15 @@ Vbi tamdiu haeres? cujus alimento dapis,
 
 ≤page=51≥
 
-Ev. Haec ipsa viridem gramine imposito thorum,
+\@Ev.= Haec ipsa viridem gramine imposito thorum,
 
 Haec arbor umbram tribuit, haec etiam cibum.
 
-Ad. Quid video? nónne haec illa, quam Deus imperat
+\@Ad.= Quid video? nónne haec illa, quam Deus imperat
 
 Vitare, cujus fructibus pasci vetat?
 
-≤line=1345≥ Ev. Adame, sic est: vetuit attingi arborem,
+≤line=1345≥ \@Ev.= Adame, sic est: vetuit attingi arborem,
 
 Fructum caveri iussit: hoc ipsum fuit
 
@@ -3127,7 +3127,7 @@ Praestringat aciem luminum: Ecquid tu putas
 
 Intus latere, si foris tantum est boni?
 
-≤line=1350≥ Ad. Gelidus per artus vadit excussos tremor,
+≤line=1350≥ \@Ad.= Gelidus per artus vadit excussos tremor,
 
 Exanguis asto, crinis erectus riget.
 
@@ -3141,7 +3141,7 @@ Spectator Orbis: ipse homo gemit, et tremit.
 
 Percipio leges: Ipse iam videor mori.
 
-Ev. Non est, marite, crede, cur trepides: nihil
+\@Ev.= Non est, marite, crede, cur trepides: nihil
 
 Est perpetratum, quod citet suspiria.
 
@@ -3149,11 +3149,11 @@ Quin potius aude tu quoque, atque hilaris cape
 
 ≤line=1360≥ Tibi coniugali traditum pomum manu.
 
-Ad. Egóne ut supremi iussa contemnens Dei
+\@Ad.= Egóne ut supremi iussa contemnens Dei
 
 Purus profanam te sequar, vir feminam?
 
-Ev. Cum iudicâris velle quidquam est dignius,
+\@Ev.= Cum iudicâris velle quidquam est dignius,
 
 Quàm cum volueris caeca judicia exsequi.
 
@@ -3169,31 +3169,31 @@ Fecisse fateor, jure non factum nego.
 
 ≤page=52≥
 
-Ad. Herile jussum jure contemni putas?
+\@Ad.= Herile jussum jure contemni putas?
 
-≤line=1370≥ Ev. Si sceptra iniquo rector imperio tenet.
+≤line=1370≥ \@Ev.= Si sceptra iniquo rector imperio tenet.
 
-Ad. Si dominus aequus est ames, si non, feras.
+\@Ad.= Si dominus aequus est ames, si non, feras.
 
-E. Servire et ipso turpius letho putes.
+\@E.= Servire et ipso turpius letho putes.
 
-A. Servire magno est summa libertas Deo.
+\@A.= Servire magno est summa libertas Deo.
 
-E. Quin hoc laboras potiùs ut fias Deus?
+\@E.= Quin hoc laboras potiùs ut fias Deus?
 
-≤line=1375≥ A. Ex homine Numen effici ratio negat.
+≤line=1375≥ \@A.= Ex homine Numen effici ratio negat.
 
-E. Dabit illud arbor, quam tuis oculis vides,
+\@E.= Dabit illud arbor, quam tuis oculis vides,
 
-Omnis magistra quae boni est. A. eadem et mali est.
+Omnis magistra quae boni est. \@A.= eadem et mali est.
 
-E. Mala scire gaudet ipse, quem laudas, Deus.
+\@E.= Mala scire gaudet ipse, quem laudas, Deus.
 
-A. Vt careat: at tu experta percipies malum.
+\@A.= Vt careat: at tu experta percipies malum.
 
-≤line=1380≥ E. Procul absit omen: me facinoris non piget.
+≤line=1380≥ \@E.= Procul absit omen: me facinoris non piget.
 
-A. Peccare nolle prima virtutis via est,
+\@A.= Peccare nolle prima virtutis via est,
 
 Pudor secunda: facta didicit reddere
 
@@ -3209,25 +3209,25 @@ Pudétque verè, est innocenti proximus.
 
 Spes aliqua veniae est, si potes resipiscere.
 
-Ev. Quantùm moveri nescius sedeat Deo
+\@Ev.= Quantùm moveri nescius sedeat Deo
 
 ≤line=1390≥ Amor ultionis poena Sathânum docet.
 
-Ad. Quae spes tibi est residua? Ev. desperem ut nihil.
+\@Ad.= Quae spes tibi est residua? \@Ev.= desperem ut nihil.
 
-Ad. Deus est timendus. Ev. temerè quis metuit parem.
+\@Ad.= Deus est timendus. \@Ev.= temerè quis metuit parem.
 
-Ad. Moriêre. Ev. Vivam. Ad. digna poenâ es. Ev. praemio.
+\@Ad.= Moriêre. \@Ev.= Vivam. \@Ad.= digna poenâ es. \@Ev.= praemio.
 
-Ad. Quid misera fies? Ev. Diva. Ad. quo tandem modo?
+\@Ad.= Quid misera fies? \@Ev.= Diva. \@Ad.= quo tandem modo?
 
-≤line=1395≥ Ev. Virtute pomi. Ad. Quo frui vetuit Deus?
+≤line=1395≥ \@Ev.= Virtute pomi. \@Ad.= Quo frui vetuit Deus?
 
-Ev. Quia invidebat. Ad. Maximum hoc reri est nefas.
+\@Ev.= Quia invidebat. \@Ad.= Maximum hoc reri est nefas.
 
 ≤page=53≥
 
-Ev. Per conjugalem te precor supplex fidem,
+\@Ev.= Per conjugalem te precor supplex fidem,
 
 Tuos per oculos, et per amplexus meos,
 
@@ -3289,13 +3289,13 @@ Quid habere possis. hoc erit verè tuum,
 
 Metu vetaris? hoc timere ipsum time.
 
-Ad. Non est pavere fortis: odium criminis
+\@Ad.= Non est pavere fortis: odium criminis
 
 Probo, quàm timorem. Sed amor adversus Deum
 
 Me deligatum retinet aeternâ fide.
 
-≤line=1430≥ Ev. Amare stultum est quempiam, tanquam effici
+≤line=1430≥ \@Ev.= Amare stultum est quempiam, tanquam effici
 
 Non possit hostis: sic amicum dilige
 
@@ -3319,7 +3319,7 @@ Fidem vocares? Me beatam nuncupo,
 
 Mala sim necesse est, si nec Adamo proba.
 
-Ad. Quid est agendum? lubricas agitant duo
+\@Ad.= Quid est agendum? lubricas agitant duo
 
 Curas amores: hinc Dei, atque hinc conjugis.
 
@@ -3359,7 +3359,7 @@ Conjugis amores anteferri caeteris
 
 ≤line=1460≥ Etiam parentum? Voluit: huc Pomum mihi.
 
-Ev. Vox Homine digna. Sume secretum bonum,
+\@Ev.= Vox Homine digna. Sume secretum bonum,
 
 Adame, sume. Quicquid est usquam mali,
 
@@ -3683,7 +3683,7 @@ Tollit, cruentas sanguine innocuo, manus.
 
 Perspicere nequeo: semper ulterius malum est.
 
-Ev. Quae fingis amens spectra? quis te agitat furor?
+\@Ev.= Quae fingis amens spectra? quis te agitat furor?
 
 ≤line=1610≥ Quóve aestuantes huc et huc vultus refers,
 
@@ -3705,7 +3705,7 @@ Recolligendo tempus indulge tibi,
 
 Rationis usu spiritum indomitum exue.
 
-Ad. Quin parte ab omni, rector astrorum tonas,
+\@Ad.= Quin parte ab omni, rector astrorum tonas,
 
 ≤line=1620≥ Quin motus irâ bella ventorum undique
 
@@ -3723,13 +3723,13 @@ Mundus ruinâ: non potest in nos gravis
 
 Errare lapsus: me, vel hanc Coelum premat,
 
-Vtriusque merito. Ev. Sana meditari incipe,
+Vtriusque merito. \@Ev.= Sana meditari incipe,
 
 Et imprecari ne velis demens tibi.
 
 ≤line=1630≥ Decreta si qua est poena non tardè venit.
 
-Ad. Quaecunque fuerit, sera ventura est mihi.
+\@Ad.= Quaecunque fuerit, sera ventura est mihi.
 
 Iamjam decebat stare in inferno specu
 
@@ -3769,11 +3769,11 @@ Hortíque tumulo condar, atque istam arborem,
 
 Quae passa scelus est, in meum vertam caput.
 
-≤line=1650≥ Ev. Meliora, conjux, loquere: nemo sic perit
+≤line=1650≥ \@Ev.= Meliora, conjux, loquere: nemo sic perit
 
 Vt non salutis spe foveri debeat.
 
-Ad. Quae spes salutis post nefas tantum mihi?
+\@Ad.= Quae spes salutis post nefas tantum mihi?
 
 Heu, quos dolores, quos miser questus dabo,
 
@@ -3827,11 +3827,11 @@ Vivum cadaver: quid juvat poenas tuas
 
 Proferre? possum, debeo, cupio mori.
 
-Ev. Supplicia votis aggravas demens tuis.
+\@Ev.= Supplicia votis aggravas demens tuis.
 
 Mortalitatem pateris, et mortem petis.
 
-≤line=1680≥ Ad. Pereo ante mortem: spiritum exemit dolor.
+≤line=1680≥ \@Ad.= Pereo ante mortem: spiritum exemit dolor.
 
 Infamis author sceleris, exosus Deo,
 
@@ -3871,7 +3871,7 @@ Evelle: nusquam corpore in toto tuum
 
 Vulnus peribit. Morte sanandum est scelus.
 
-Ev. Quod odit auget, scelere qui punit scelus.
+\@Ev.= Quod odit auget, scelere qui punit scelus.
 
 ≤line=1700≥ Dignum esse vitâ monstrat hoc, dignum nece
 
@@ -3893,7 +3893,7 @@ Illo jubente morere. nunc insaniâ
 
 Rogo ne subactus fata praecipites tua.
 
-≤line=1710≥ Ad. Non ita pudorem caecus extinxit furor,
+≤line=1710≥ \@Ad.= Non ita pudorem caecus extinxit furor,
 
 Vt, quicquid usquam est, impio aspectu fugem.
 
@@ -3921,7 +3921,7 @@ Nunc vita restat: hanc quoque amitto libens.
 
 ≤page=65≥
 
-Ev. Quò te ipse, conjunx, impiae morti ingeris?
+\@Ev.= Quò te ipse, conjunx, impiae morti ingeris?
 
 Quò pergis amens? fortè post vitae moram
 
@@ -3935,11 +3935,11 @@ Ego te fefelli misera. Iam facies scelus
 
 Vltrò atque certus? unicum hoc aufer malum.
 
-≤line=1730≥ Mihi crede conjunx. Ad. Credidi semel, et nimis.
+≤line=1730≥ Mihi crede conjunx. \@Ad.= Credidi semel, et nimis.
 
-Ev. Perimésne memet? Ad. Nolo, ne possim, óccidam.
+\@Ev.= Perimésne memet? \@Ad.= Nolo, ne possim, óccidam.
 
-Ev. Ratione quamvis careat, et flecti dolor
+\@Ev.= Ratione quamvis careat, et flecti dolor
 
 Magnus recuset, pauca miserandae precor
 
@@ -3985,7 +3985,7 @@ Quodcunque querere est error: immeritò cadis,
 
 Nisi te ipse perimens jure te perimi facis.
 
-Ad. Vnde illa virtus tanta tantis in malis
+\@Ad.= Vnde illa virtus tanta tantis in malis
 
 Emersa lucet? aliquis etiamnum sapit,
 
@@ -4005,7 +4005,7 @@ Socia malorum, desere infaustum virum,
 
 Deliberatas luere me poenas sine.
 
-Ev. Per sancta thalami sacra, per jus nominis
+\@Ev.= Per sancta thalami sacra, per jus nominis
 
 Quodcunque nostri, sive me natam vocas
 
@@ -4031,7 +4031,7 @@ Auferre quidquid mors potest, vita abstulit.
 
 ≤line=1775≥ Nil pejus ultra restat: in tuto es loco.
 
-Ad. Bona mors futura est, quae tot extinguet mala,
+\@Ad.= Bona mors futura est, quae tot extinguet mala,
 
 Aut non molesta, si nihil pejus dabit.
 
@@ -4039,7 +4039,7 @@ Placet interire, parce vanis vocibus.
 
 ≤page=67≥
 
-Ev. Ergóne vacuos vidua, deserta, et vaga
+\@Ev.= Ergóne vacuos vidua, deserta, et vaga
 
 ≤line=1780≥ Curram per agros mistáque errabo feris?
 
@@ -4107,7 +4107,7 @@ Vnum in duobus statue: nîl sine me facis.
 
 ≤line=1810≥ Mori volentem praeeo, viventem sequor.
 
-Ad. Iam parce conjunx, parce, parebo tibi,
+\@Ad.= Iam parce conjunx, parce, parebo tibi,
 
 Parebo rursus. Vincis affectus meos
 
@@ -4121,7 +4121,7 @@ Iubente te vel iussa contemnam Dei,
 
 Iubente te vel sustinebo vivere.
 
-Ev. Quis ille strepitus? audio ventos truces
+\@Ev.= Quis ille strepitus? audio ventos truces
 
 Latè furentes: audio murmur grave,
 
@@ -4137,7 +4137,7 @@ Fragore vasto tonuit: omnes arbores
 
 ≤line=1825≥ Concussit horror, silváque erexit comam.
 
-Ad. Pavet animus, horret corpus: insedit meos
+\@Ad.= Pavet animus, horret corpus: insedit meos
 
 Torpor per artus. frigidus sanguis coît.
 
@@ -4187,7 +4187,7 @@ Muneribus auxi. Natus ausculta patri,
 
 Cliens patrono, nunc hero servus tuo.
 
-Fugitive, prodi. Ad. Pareo: audivi truces,
+Fugitive, prodi. \@Ad.= Pareo: audivi truces,
 
 Metuende rector, per nemus sacrum sonos;
 
@@ -4207,7 +4207,7 @@ Ingenuus istis, et verecundus pudor
 
 Velatus artus ad forum sistor tuum.
 
-Talem creâsti. Vox. Nuditatis conscius
+Talem creâsti. \@Vox.= Nuditatis conscius
 
 Per quem fuisti? nullus in terris fuit
 
@@ -4225,17 +4225,17 @@ Vetitâ comedere es ausus, et legem meam
 
 ≤line=1805≥ Poenámque mortis spernere, infidum caput?
 
-Ad. Mea culpa non est. Crimen hujus feminae est,
+\@Ad.= Mea culpa non est. Crimen hujus feminae est,
 
 Quam mihi dedisti sortis auxilium meae,
 
 Pellace quae me voce et exemplo suo
 
-Cepit: comedi. Vox. Conjugi conjux nocens
+Cepit: comedi. \@Vox.= Conjugi conjux nocens
 
 ≤line=1870≥ Dic, causa tantae quae fuit dementiae?
 
-Ev. Serpens, Creator, dexterâ fictus tuâ,
+\@Ev.= Serpens, Creator, dexterâ fictus tuâ,
 
 Astu fefellit simplicem, atque insons ego,
 
@@ -4243,7 +4243,7 @@ Quam sexus ipse perviam fecit dolis,
 
 Seducta pomum gutturi admovi meo.
 
-≤line=1875≥ V. Fraudibus nimis apte Serpens, quem creatrix dextera
+≤line=1875≥ \@V.= Fraudibus nimis apte Serpens, quem creatrix dextera
 
 Vsui hominum destinârat, quos iniquè subdolâ
 
@@ -4451,7 +4451,7 @@ Ne gravibus auris, atque coeli iniuriá
 
 Superatus animae fomes intereat calor.
 
-Ad. O dura sors! ô poena peccati minax!
+\@Ad.= O dura sors! ô poena peccati minax!
 
 ≤line=1975≥ O longa misero vita, languenti gravis!
 
@@ -4483,7 +4483,7 @@ Heu jure quanti sceleris actus sum reus,
 
 Meóque vidi crimine iratum Deum.
 
-≤line=1990≥ Vox. Adamus ecce (qui prius speraverat
+≤line=1990≥ \@Vox.= Adamus ecce (qui prius speraverat
 
 Boni malíque gnarus aequalis mihi
 
@@ -4519,7 +4519,7 @@ Vos, state in aditu nemoris, Ortivam ad plagam,
 
 Mucrone teli, ne quis infigat pedem.
 
-Ev. Quis subitus ardor iste, quae lux emicat?
+\@Ev.= Quis subitus ardor iste, quae lux emicat?
 
 Corripuit hortum flamma, et excelsae arbores
 
@@ -4533,7 +4533,7 @@ Haec digna thalamis taeda praelucet meis:
 
 Hominum propago patriam hâc discet notâ.
 
-Ad. Fugiamus aestus: ista divinae manus
+\@Ad.= Fugiamus aestus: ista divinae manus
 
 ≤line=2015≥ Sunt opera, quae nos ire in exilium jubet.
 

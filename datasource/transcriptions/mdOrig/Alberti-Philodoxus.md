@@ -1,9 +1,3 @@
-(Leon Batt. Alberti, *Opere vulgare, per la più parte inedite e tratte dagli autographi, annotate e illustrate dal dott.* Anicio Bonucci, vol. 1 (Florence: Galilei, 1843), pp. cxxvii-clxv. https://books.google.nl/books?id=CApZAAAAYAAJ)
-
-\[the original spelling seems to have been retained\]
-
-[Transcr. Jan Bloemendal]{.mark}
-
 /front/
 
 Philodoxios Leonis Baptistae Alberti fabula iam sub Lepidi antiqui Comici nomine pervagata, ab Anicio Bonutio medico doctore ex originali ataestino nunc primum eruta atque suo auctore restituta.

@@ -40,13 +40,9 @@ ID sim, quod minime volo, praestantissime Vossi, id est ingratus, si cum omnes c
 
 A2
 
-4
+4 dium: sed accessit et aliud, quod in disputationum Theologicarum aestu fervente saeculo te reperi prudentia et animi moderatione singulari, qui ab iis, quae ecclesiae ab Apostolis satae, et quae cum illis germanitate disciplinae cohaerebant, ut certa atque explorata tenuerunt, nunquam decederes: ab iis vero quae antiquitus liberam habuerunt disputationem, inhiberes decretorium stylum. Quod propositum quo teneres felicius, magna tibi duo auxilia aderant: ingens et quanta cuiquam homini fuit in evolvenda ecclesiae antiquitate diligentia, et limatum judicium: de quibus dubitare nemo poterit, qui historiam tuam Pelagianam legerit, per Galliam Britanniamque praedicatissimum opus. Tantis virtutibus tuis, et in me meritis, eximium aliquid muneris debebatur: sed cum disjectis hactenus chartis librisque meis sedem certam constituere nondum potuerim, eoque nec operum majoribus imponere ultimam et irrevocabilem manum; memor interim humanorum casuum, solvendo adhuc impar, pignore tamen vel exiguo dato, testari volui quantum quamque libenter deberem. Et tamen, si mihi concedis, quod sibi Horatius, pretium dicere muneri, tragoedia est quam adfero, scripti genus, ut optime tu scis Vossi, à quo post grammatices et eloquentiae praecepta, artem quoque
 
-dium: sed accessit et aliud, quod in disputationum Theologicarum aestu fervente saeculo te reperi prudentia et animi moderatione singulari, qui ab iis, quae ecclesiae ab Apostolis satae, et quae cum illis germanitate disciplinae cohaerebant, ut certa atque explorata tenuerunt, nunquam decederes: ab iis vero quae antiquitus liberam habuerunt disputationem, inhiberes decretorium stylum. Quod propositum quo teneres felicius, magna tibi duo auxilia aderant: ingens et quanta cuiquam homini fuit in evolvenda ecclesiae antiquitate diligentia, et limatum judicium: de quibus dubitare nemo poterit, qui historiam tuam Pelagianam legerit, per Galliam Britanniamque praedicatissimum opus. Tantis virtutibus tuis, et in me meritis, eximium aliquid muneris debebatur: sed cum disjectis hactenus chartis librisque meis sedem certam constituere nondum potuerim, eoque nec operum majoribus imponere ultimam et irrevocabilem manum; memor interim humanorum casuum, solvendo adhuc impar, pignore tamen vel exiguo dato, testari volui quantum quamque libenter deberem. Et tamen, si mihi concedis, quod sibi Horatius, pretium dicere muneri, tragoedia est quam adfero, scripti genus, ut optime tu scis Vossi, à quo post grammatices et eloquentiae praecepta, artem quoque
-
-5
-
-poeticam vivis coloribus expressam habemus, regale, tantaeque dignitatis, ut id Sophocles principe quem Athenis tenebat loco, Caesar autem Augustus animo totam vim Romani imperii complexo non inferius judicarint. Est et argumento sua commendatio, petito scilicet, non ex Graecorum mendacio inquinatis Trojae et Thebarum malis, sed ex intacta falso Mosis historia; et quidem, ni fallor, in divinis libris unico, quod duo illa habeat Aristoteli, viro et in hac parte, ut mecum tu judicas maximo, etiam singula ad tragoediae gratiam valere plurimum existimata, agnitionem insperatam, et rerum vices repentinas. Nam et Iosephus Israelis filius fratribus diu ignaris se patefacit, et fratres ipsi ex maximo metu in res maxime prosperas subito transferuntur: nisi forte futuri sunt qui reprehendent quod hujus tragoediae non tristis sit exitus: qui si errorem eum in cothurni ac socci discrimine nondum deposuerunt, legant aut Aeschyli Danaidas aut nostri Euripidis Alcestim, Iona, Helenam, et quam nuper Latine vertere mihi libuit, in Tauris Iphigeneam, aut, si id laboris nolunt sumere, tua illa, quae modo memoravi, legant de arte poetica praecepta. Quibus an haec, quae damus, satis congruant, non alium potius quam te ferimus judicem; non sane fiducia nostrorum conatuum, qui et fortunae A3
+5 poeticam vivis coloribus expressam habemus, regale, tantaeque dignitatis, ut id Sophocles principe quem Athenis tenebat loco, Caesar autem Augustus animo totam vim Romani imperii complexo non inferius judicarint. Est et argumento sua commendatio, petito scilicet, non ex Graecorum mendacio inquinatis Trojae et Thebarum malis, sed ex intacta falso Mosis historia; et quidem, ni fallor, in divinis libris unico, quod duo illa habeat Aristoteli, viro et in hac parte, ut mecum tu judicas maximo, etiam singula ad tragoediae gratiam valere plurimum existimata, agnitionem insperatam, et rerum vices repentinas. Nam et Iosephus Israelis filius fratribus diu ignaris se patefacit, et fratres ipsi ex maximo metu in res maxime prosperas subito transferuntur: nisi forte futuri sunt qui reprehendent quod hujus tragoediae non tristis sit exitus: qui si errorem eum in cothurni ac socci discrimine nondum deposuerunt, legant aut Aeschyli Danaidas aut nostri Euripidis Alcestim, Iona, Helenam, et quam nuper Latine vertere mihi libuit, in Tauris Iphigeneam, aut, si id laboris nolunt sumere, tua illa, quae modo memoravi, legant de arte poetica praecepta. Quibus an haec, quae damus, satis congruant, non alium potius quam te ferimus judicem; non sane fiducia nostrorum conatuum, qui et fortunae A3
 
 6
 
@@ -596,7 +592,7 @@ ACTVS SECVNDVS.
 
 RAMSES. IVDAS. RVBEN.
 
-R[am]{.smallcaps}. ET me tuae miserescit aetatis, puer,
+[\@Ram.=]{.smallcaps} ET me tuae miserescit aetatis, puer,
 
 \(235\) Quem trahere magnos ad Sophompaneae lares
 
@@ -606,7 +602,7 @@ Non constat aliter, nosque lex jussis heri
 
 Jubet ministros esse, censores vetat.
 
-I[vd]{.smallcaps}. Si patere Ramse, pauca pro puero loquor.
+[\@Ivd.=]{.smallcaps} Si patere Ramse, pauca pro puero loquor.
 
 \(240\) Si non sat illum liberat tali probro
 
@@ -642,7 +638,7 @@ Nostrae quadrupedes, jam puto nos diceres
 
 Non esse avaros, improbos multo minus.
 
-\(255\) R[am]{.smallcaps}.Inanis horas perdere in voces labor,
+\(255\) [\@Ram.=]{.smallcaps} Inanis horas perdere in voces labor,
 
 Res quas fefellit. Quod datum pretium modò
 
@@ -664,9 +660,9 @@ Nam magnus illum saepe dominator poli
 
 \(265\) Omnes latentis conscium arcani facit.
 
-I[vd]{.smallcaps}. Si arcana novit, nos quoque haud dubie sciet
+[\@Ivd.=]{.smallcaps} Si arcana novit, nos quoque haud dubie sciet
 
-Esse absque noxa. R[am]{.smallcaps}. pectoris vestri sinus
+Esse absque noxa. [\@Ram.=]{.smallcaps} pectoris vestri sinus
 
 Excutite. verum rectiùs dicet tibi,
 
@@ -706,7 +702,7 @@ Ultraque sexum Veneris inventas faces,
 
 \(285\) Incendit urbes imbre sulfureo polus.
 
-[Ivd]{.smallcaps}. Ferale Dothan nomen et vasti specus
+[\@Ivd.=]{.smallcaps} Ferale Dothan nomen et vasti specus
 
 Immane praeceps, tuque avara Arabum cohors
 
@@ -714,7 +710,7 @@ Parata quidvis emere, quam nunc memoria
 
 Ad vos recurrit tristis et cor verberat.
 
-\(290\) R[vb]{.smallcaps}. Monuisse memini saepe, ne tantum nefas
+\(290\) [\@Rvb.=]{.smallcaps} Monuisse memini saepe, ne tantum nefas
 
 Admitteretis. haeret hoc animo recens
 
@@ -722,13 +718,13 @@ Miserum rogantis vultus: illae nos premunt
 
 Caelo receptae, fratribus surdis, preces.
 
-I[vd]{.smallcaps}. Alios monere facile. si propriam tibi
+[\@Ivd.=]{.smallcaps} Alios monere facile. si propriam tibi
 
 \(295\) Inspicere vitam cura, non deerit nefas.
 
-R[am]{.smallcaps}. Quis oris iste turbidi inter vos sonus?
+[\@Ram.=]{.smallcaps} Quis oris iste turbidi inter vos sonus?
 
-I[vd]{.smallcaps}. Syriae repetimus clara quae nostri loca
+[\@Ivd.=]{.smallcaps} Syriae repetimus clara quae nostri loca
 
 Tenuere patres, omnibus circum inclita
 
@@ -746,7 +742,7 @@ Grata celebrat laude Jordanis vadum
 
 Quae terra et undas inter Euphratis jacet.
 
-R[am]{.smallcaps}. At non propago semper in laudes patrum
+[\@Ram.=]{.smallcaps} At non propago semper in laudes patrum
 
 \(305\) Succrescit. Est cùm degener proles probro
 
@@ -754,7 +750,7 @@ Libidinoso, perfidis pactis, fero
 
 Facinore, turpat generis auctores sui.
 
-[Ivd]{.smallcaps}. O, pars nostri sanguinis, aevi
+[\@Ivd.=]{.smallcaps} O, pars nostri sanguinis, aevi
 
 Primo vernans in flore puer,
 
@@ -808,7 +804,7 @@ Cum te cernent inopem, externum,
 
 Vindice nullo.
 
-R[am]{.smallcaps}. Laudo, propinquo sanguinis vinclo tibi
+[\@Ram.=]{.smallcaps} Laudo, propinquo sanguinis vinclo tibi
 
 \(335\) Quod amas ligatum. Discrepant mortalium
 
@@ -828,7 +824,7 @@ Auctoris: illam qui fugit, sese fugit.
 
 Ferae quoque ipsae genere consortes amant.
 
-I[vd]{.smallcaps}. Ipsos dolores tangis, ut nequeas magis.
+[\@Ivd.=]{.smallcaps} Ipsos dolores tangis, ut nequeas magis.
 
 \(345\) Sed ecce densis praeses Aegypti venit
 
@@ -844,7 +840,7 @@ Mihi demit omnem, nec sibi vultum sinit
 
 RAMSES. IOSEPHVS. IUDAS.
 
-R[am]{.smallcaps}. Deprensa noxa est. salva res. illum penes
+[\@Ram.=]{.smallcaps} Deprensa noxa est. salva res. illum penes
 
 Sacrifica latuit patera quem vinctum vides.
 
@@ -856,7 +852,7 @@ Unum retraxi: sponte grex fratrum it comes,
 
 Monstratque luctum vestibus ruptis suum.
 
-\(355\) I[os]{.smallcaps}. Quae vos cupido misera, quae fiducia
+\(355\) [\@Ios.=]{.smallcaps} Quae vos cupido misera, quae fiducia
 
 Ad hoc adegit facinus? an vobis ego
 
@@ -866,7 +862,7 @@ Cui monstrat animus quicquid abstrusum latet,
 
 Et alia vates, perspicax prudentia?
 
-\(360\) [Ivd]{.smallcaps}. Magnanime princeps, proximum regno caput,
+\(360\) [\@Ivd.=]{.smallcaps} Magnanime princeps, proximum regno caput,
 
 Ad tua voluti genua, quae jam possumus
 
@@ -888,7 +884,7 @@ Servare lapsos. Sume nos nexos tibi,
 
 \(370\) Hunc patera sub quo sedit et fratres decem.
 
-I[os]{.smallcaps}. Mos ille multos tenuit et multos tenet
+[\@Ios.=]{.smallcaps} Mos ille multos tenuit et multos tenet
 
 Populos Eoi generis, ut poenas vetent
 
@@ -914,7 +910,7 @@ In jus abito. Caeteri immunes malo
 
 Repetite qui vos avidus exspectat, patrem.
 
-I[vd]{.smallcaps}. Quanquam loqui me terret et noster status,
+[\@Ivd.=]{.smallcaps} Quanquam loqui me terret et noster status,
 
 Et oris illud specimen augustum tui
 
@@ -1032,13 +1028,13 @@ Accuset, et cum fuerit in terrae sinum
 
 Condendus, ipse crimen ibi condam meum.
 
-\(440\) I[os]{.smallcaps}. Nec cuncta quae tibi dicta, nec credo nihil.
+\(440\) [\@Ios.=]{.smallcaps} Nec cuncta quae tibi dicta, nec credo nihil.
 
 Qui constituere properat, ingreditur viam
 
 Ad poenitendum. Videro mox amplius.
 
-[Ivd]{.smallcaps}. Felix nimis Iosephe, si exstinctus jaces,
+[\@Ivd.=]{.smallcaps} Felix nimis Iosephe, si exstinctus jaces,
 
 Quod ista jam non patere nobiscum mala;
 
@@ -1228,7 +1224,7 @@ Tota est in armis. quisque jus dicit sibi,
 
 Spretoque magni regis imperio furit.
 
-\(530\) [Ios]{.smallcaps}. Grave: sed frequens jam gentibus Phariis malum.
+\(530\) [\@Ios.=]{.smallcaps} Grave: sed frequens jam gentibus Phariis malum.
 
 Sed non medenti sufficit, quali lues
 
@@ -1368,7 +1364,7 @@ Pavore, muri parte neglecta irruunt,
 
 Arma induuntur, et vibrant enses manu.
 
-[Ios]{.smallcaps}. Solos nomarchas ista seditio petit?
+[\@Ios.=]{.smallcaps} Solos nomarchas ista seditio petit?
 
 An latius vagatur, et discrimine
 
@@ -1410,11 +1406,11 @@ Diripitur ardens Coptos; ingenuam quoque
 
 Pretioque servos barbaro mittunt solo.
 
-[Ios]{.smallcaps}. Quis ausus emere liberi juris genus?
+[\@Ios.=]{.smallcaps} Quis ausus emere liberi juris genus?
 
 [Nvn]{.smallcaps}. Arabum regentes arva bisseni duces.
 
-[Ios]{.smallcaps}. Gens ista mores Agaris iniustos refert.
+[\@Ios.=]{.smallcaps} Gens ista mores Agaris iniustos refert.
 
 \(620\) Sed in urbe capta nunc quis imperii modus?
 
@@ -1438,7 +1434,7 @@ Vulneribus agitur: ipse conflictum trucem,
 
 Motasque vidi mutuam in caedem manus.
 
-[Ios]{.smallcaps}. (630) Spondent paratam quae refers victoriam.
+[\@Ios.=]{.smallcaps} (630) Spondent paratam quae refers victoriam.
 
 Ramse, properiter quot potes turmas rape
 
@@ -1552,7 +1548,7 @@ Cuncta ordinavit, quam peraequavit bene
 
 Supplicia meritis, juris ac recti tenax!
 
-[Sim]{.smallcaps}. Talem diu jam video, pro vobis ego
+[\@Sim.=]{.smallcaps} Talem diu jam video, pro vobis ego
 
 Dum servor obses. Saepe conspectus mihi
 
@@ -1576,13 +1572,13 @@ Detrahere poenis, non tamen sic lenitas
 
 Nimis ut soluta demeret vitiis metum.
 
-\(695\) [Ivd]{.smallcaps}. Quid esse dicam, quod Sophompaneas, heri
+\(695\) [\@Ivd.=]{.smallcaps} Quid esse dicam, quod Sophompaneas, heri
 
 Nos hospitali largus excipiens dape,
 
 Hoc, quem dedit natura, disposuit loco?
 
-[Sim]{.smallcaps}. Mihi crede, quod tu, frater, eximium putas,
+[\@Sim.=]{.smallcaps} Mihi crede, quod tu, frater, eximium putas,
 
 Minimum est in illo. magna vis illum Dei
 
@@ -1590,19 +1586,19 @@ Minimum est in illo. magna vis illum Dei
 
 Mortalis, intus spiritu aetherio monet.
 
-[Ivd]{.smallcaps}. Quae se ista tanto porticus spatio explicat,
+[\@Ivd.=]{.smallcaps} Quae se ista tanto porticus spatio explicat,
 
 Amplexa totam latere tergemino domum?
 
-[Sim]{.smallcaps}. Istam petitis littore usque ab Ionio
+[\@Sim.=]{.smallcaps} Istam petitis littore usque ab Ionio
 
 \(705\) Fieri columnis jussit in amicum suum
 
 p\. 35
 
-Rex non avarus. [Ivd]{.smallcaps}. Intus aspicere an licet?
+Rex non avarus. [\@Ivd.=]{.smallcaps} Intus aspicere an licet?
 
-[Sim]{.smallcaps}. Licet et juvabit. namque et hîc multo litas
+[\@Sim.=]{.smallcaps} Licet et juvabit. namque et hîc multo litas
 
 Colore tabulas, opera sollicitae manus,
 
@@ -1612,7 +1608,7 @@ Rex jussit addi, quae Sophompaneae decus
 
 Ut ipse famae vivus intersit suae.
 
-[Ivd]{.smallcaps}. Eamus ergo. Ne time: non, Beniamin,
+[\@Ivd.=]{.smallcaps} Eamus ergo. Ne time: non, Beniamin,
 
 Te deseremus. non tuos fratrum chorus
 
@@ -1620,15 +1616,15 @@ Effugiet oculos, ilicetque aderit tibi,
 
 \(715\) Simulatque magni praesidis cardo strepet.
 
-[Sim]{.smallcaps}. Haec opera visu, quam potes, propero rape.
+[\@Sim.=]{.smallcaps} Haec opera visu, quam potes, propero rape.
 
-[Ivd]{.smallcaps}. Quid ista sibi vult femina iratum rubens,
+[\@Ivd.=]{.smallcaps} Quid ista sibi vult femina iratum rubens,
 
 Quae crine vulso lacera et humectans genas
 
 Chlamydem simul fugientis à tergo rapit?
 
-\(720\) [Sim]{.smallcaps}. Matrona forma simul et imperio potens
+\(720\) [\@Sim.=]{.smallcaps} Matrona forma simul et imperio potens
 
 Stimulis negati saevit in castum stupri,
 
@@ -1636,15 +1632,15 @@ Regeritque crimen, scelereque obvelat scelus,
 
 Mendacioque pignore hoc quaerit fidem.
 
-[Ivd]{.smallcaps}. Video nigrantem carceris saevi domum.
+[\@Ivd.=]{.smallcaps} Video nigrantem carceris saevi domum.
 
-\(725\) [Sim]{.smallcaps}.Hoc ille clausus crimen alienum luit.
+\(725\) [\@Sim.=]{.smallcaps} Hoc ille clausus crimen alienum luit.
 
-[Ivd]{.smallcaps}. Quis de racemo triplice tres uvas premens
+[\@Ivd.=]{.smallcaps} Quis de racemo triplice tres uvas premens
 
 Geniale regis fundit in phialam merum?
 
-[Sim]{.smallcaps}. Non gesta res est. sed Sophompaneae fuit
+[\@Sim.=]{.smallcaps} Non gesta res est. sed Sophompaneae fuit
 
 Qui vinculorum socius hanc somno datus
 
@@ -1678,7 +1674,7 @@ Sol explicaret et Phari sapientibus
 
 obscura regis quaereret vatem quies.
 
-[Ivd]{.smallcaps}. Est alia tetra tristis in caligine
+[\@Ivd.=]{.smallcaps} Est alia tetra tristis in caligine
 
 Species. Canistra plena regalis tria
 
@@ -1686,7 +1682,7 @@ Species. Canistra plena regalis tria
 
 Epulasque dulces unguibus faedis trahunt.
 
-[Sim]{.smallcaps}. Et ista somni forma quam vidit miser
+[\@Sim.=]{.smallcaps} Et ista somni forma quam vidit miser
 
 Captivus, olim regiae structor dapis:
 
@@ -1698,7 +1694,7 @@ Proferret Eos, horrida pendens cruce
 
 Avidas volucres artubus pavit suis.
 
-[Ivd]{.smallcaps}. Septem superbas corpore eximio boves
+[\@Ivd.=]{.smallcaps} Septem superbas corpore eximio boves
 
 Niliaca profert unda, quas ripam gravi
 
@@ -1728,7 +1724,7 @@ Quos aestuosus solis exhausit vapor.
 
 Quis iste in ostro talia aspectat jacens?
 
-[Sim]{.smallcaps}. Rex ipse. namque huic fruge felici uberes
+[\@Sim.=]{.smallcaps} Rex ipse. namque huic fruge felici uberes
 
 Septem, atque septem segetis infaustae notat
 
@@ -1740,7 +1736,7 @@ Nisi ille quem rex carcere eductum horrido
 
 Ob id secundum culmini fecit suo.
 
-[Ivd]{.smallcaps}. Agnosco pictum byssino cultu: trahit
+[\@Ivd.=]{.smallcaps} Agnosco pictum byssino cultu: trahit
 
 Eburnus illum currus; in laeva micat
 
@@ -1758,7 +1754,7 @@ Succincta tunicis prima pars: pars altera
 
 A capite ad imos candida tegitur pedes.
 
-[Sim]{.smallcaps}. Quoscunque populos claustra regnorum Philae
+[\@Sim.=]{.smallcaps} Quoscunque populos claustra regnorum Philae
 
 Cohibent, et ingens Nilus et Nili mare,
 
@@ -1852,11 +1848,11 @@ Motus in alta mole pyramidum notant,
 
 \(825\) Rerum exprimentes signa, non vocum sonos.
 
-[Ivd]{.smallcaps}. Quid illa sibi vult tabula, generosi ducis,
+[\@Ivd.=]{.smallcaps} Quid illa sibi vult tabula, generosi ducis,
 
 Ubi plebs ad aulam pallida ac trepidans coit?
 
-[Sim]{.smallcaps}. Res magna regis agitur. Ut primum fidem
+[\@Sim.=]{.smallcaps} Res magna regis agitur. Ut primum fidem
 
 Segeti abnegavit annus, esurie exciti
 
@@ -1884,7 +1880,7 @@ Quos ille (namque id columen imperii fore
 
 Habitata jussit arva, et aliena in loca
 
-Misit colonos. [Ivd]{.smallcaps}. Proh viri sapientiam,
+Misit colonos. [\@Ivd.=]{.smallcaps} Proh viri sapientiam,
 
 Sive illa ab usu, sive de coelo data est.
 
@@ -1894,7 +1890,7 @@ Sed ne illa nobis obsit, haud frustra mihi
 
 40
 
-[Sim]{.smallcaps}. Spatium quod ultra porticus tergum domus
+[\@Sim.=]{.smallcaps} Spatium quod ultra porticus tergum domus
 
 Spectans recedit, nil habet, te quod juvet
 
@@ -2010,7 +2006,7 @@ ACTVS QVARTVS.
 
 IOSEPHVS. IVDAS. BENJAMIN.
 
-[Ios]{.smallcaps}. Abripite puero vincula, ut respondeat
+[\@Ios.=]{.smallcaps} Abripite puero vincula, ut respondeat
 
 Liberius: et vos, corporis comites mei,
 
@@ -2020,119 +2016,119 @@ Abstate. Sunt quae solus hospitibus loquar.
 
 Vivitne genitor ille, quem dixtis, senex?
 
-[Ivd]{.smallcaps}. Vivum reliqui, regna cùm peterem Phari.
+[\@Ivd.=]{.smallcaps} Vivum reliqui, regna cùm peterem Phari.
 
-[Ios]{.smallcaps}. Quot ejus aetas annuos cursus habet?
+[\@Ios.=]{.smallcaps} Quot ejus aetas annuos cursus habet?
 
-\(905\) [Ivd]{.smallcaps}. Orbes peregit prope ter et decies decem.
+\(905\) [\@Ivd.=]{.smallcaps} Orbes peregit prope ter et decies decem.
 
-[Ios]{.smallcaps}. Aetasne tam declivis à morbo vacat?
+[\@Ios.=]{.smallcaps} Aetasne tam declivis à morbo vacat?
 
-[Ivd]{.smallcaps}. Moerore demto nullum habet morbi genus.
+[\@Ivd.=]{.smallcaps} Moerore demto nullum habet morbi genus.
 
-[Ios]{.smallcaps}. Hunc ergo puerum moeret abductum sibi?
+[\@Ios.=]{.smallcaps} Hunc ergo puerum moeret abductum sibi?
 
-[Ivd]{.smallcaps}. Est alius etiam qui senem torquet dolor.
+[\@Ivd.=]{.smallcaps} Est alius etiam qui senem torquet dolor.
 
-\(910\) [Ios]{.smallcaps}. Licetne scire? nam senex pater et mihi est.
+\(910\) [\@Ios.=]{.smallcaps} Licetne scire? nam senex pater et mihi est.
 
-[Ivd]{.smallcaps}. Dixisse memini. filium amissum dolet.
+[\@Ivd.=]{.smallcaps} Dixisse memini. filium amissum dolet.
 
-[Ios]{.smallcaps}. Quae saeva patri filium sors abstulit?
+[\@Ios.=]{.smallcaps} Quae saeva patri filium sors abstulit?
 
-[Ivd]{.smallcaps}. Id scire oportet cuncta cernentem Deum.
+[\@Ivd.=]{.smallcaps} Id scire oportet cuncta cernentem Deum.
 
-[Ios]{.smallcaps}. Testem invocasti rite quem fugiat nihil.
+[\@Ios.=]{.smallcaps} Testem invocasti rite quem fugiat nihil.
 
-\(915\) [Ivd]{.smallcaps}. Certum docere nemo nos hominum potest.
+\(915\) [\@Ivd.=]{.smallcaps} Certum docere nemo nos hominum potest.
 
-[Ios]{.smallcaps}. Permulta saepe ignota detexit dies.
+[\@Ios.=]{.smallcaps} Permulta saepe ignota detexit dies.
 
-[Ivd]{.smallcaps}. O si ulla praestet hoc quod optamus dies.
+[\@Ivd.=]{.smallcaps} O si ulla praestet hoc quod optamus dies.
 
-[Ios]{.smallcaps}. Velletis illum forte restitui patri.
+[\@Ios.=]{.smallcaps} Velletis illum forte restitui patri.
 
-[Ivd]{.smallcaps}. Si liceat emere hoc morte non faciam moram.
+[\@Ivd.=]{.smallcaps} Si liceat emere hoc morte non faciam moram.
 
-\(920\) [Ios]{.smallcaps}. Adeone patris proximus cordi fuit?
+\(920\) [\@Ios.=]{.smallcaps} Adeone patris proximus cordi fuit?
 
-[Ivd]{.smallcaps}. Ut nullus ullum genitor adamarit magis.
+[\@Ivd.=]{.smallcaps} Ut nullus ullum genitor adamarit magis.
 
 43
 
-[Ios]{.smallcaps}. Animo probo quod esset, et nulli invidens?
+[\@Ios.=]{.smallcaps} Animo probo quod esset, et nulli invidens?
 
-[Ivd]{.smallcaps}. Et quia bonam spem dederat egregia indole.
+[\@Ivd.=]{.smallcaps} Et quia bonam spem dederat egregia indole.
 
-[Ios]{.smallcaps}. Quid visa vobis regna pollentis Phari?
+[\@Ios.=]{.smallcaps} Quid visa vobis regna pollentis Phari?
 
-\(925\) [Ivd]{.smallcaps}. Nihil illa cedunt optimis Syriae locis.
+\(925\) [\@Ivd.=]{.smallcaps} Nihil illa cedunt optimis Syriae locis.
 
-[Ios]{.smallcaps}. Etiamne regimen placet et imperii modus?
+[\@Ios.=]{.smallcaps} Etiamne regimen placet et imperii modus?
 
-[Ivd]{.smallcaps}. Miranda vero cuncta, te imprimis duce.
+[\@Ivd.=]{.smallcaps} Miranda vero cuncta, te imprimis duce.
 
-[Ios]{.smallcaps}. Velletis et vos his locis considere?
+[\@Ios.=]{.smallcaps} Velletis et vos his locis considere?
 
-[Ivd]{.smallcaps}. Ob multa; primum ne ingruat rursum fames.
+[\@Ivd.=]{.smallcaps} Ob multa; primum ne ingruat rursum fames.
 
-\(930\) [Ios]{.smallcaps}. Et vos quid ergo cogit hinc discedere?
+\(930\) [\@Ios.=]{.smallcaps} Et vos quid ergo cogit hinc discedere?
 
-[Ivd]{.smallcaps}. Domi relictus non relinquendus pater.
+[\@Ivd.=]{.smallcaps} Domi relictus non relinquendus pater.
 
-[Ios]{.smallcaps}. An huc et ipse posset adduci senex?
+[\@Ios.=]{.smallcaps} An huc et ipse posset adduci senex?
 
-[Ivd]{.smallcaps}. Illius est statuere: parêre est meum.
+[\@Ivd.=]{.smallcaps} Illius est statuere: parêre est meum.
 
-[Ios]{.smallcaps}. Amore forte filii huc posset trahi.
+[\@Ios.=]{.smallcaps} Amore forte filii huc posset trahi.
 
-\(935\) [Ivd]{.smallcaps}. Nam carus illi fuit et hic semper puer.
+\(935\) [\@Ivd.=]{.smallcaps} Nam carus illi fuit et hic semper puer.
 
-[Ios]{.smallcaps}. Quod nomen illi genitor imposuit, rogo.
+[\@Ios.=]{.smallcaps} Quod nomen illi genitor imposuit, rogo.
 
-[Ivd]{.smallcaps}. Iussu vocari Benjamin patrio solet.
+[\@Ivd.=]{.smallcaps} Iussu vocari Benjamin patrio solet.
 
-[Ios]{.smallcaps}. Dextrae potentis omen isto in nomine est.
+[\@Ios.=]{.smallcaps} Dextrae potentis omen isto in nomine est.
 
-[Ivd]{.smallcaps}. Quid hoc? Hebraeae percipis linguae sonum?
+[\@Ivd.=]{.smallcaps} Quid hoc? Hebraeae percipis linguae sonum?
 
-\(940\) [Ios]{.smallcaps}. Et ipse vestris adfui quondam locis.
+\(940\) [\@Ios.=]{.smallcaps} Et ipse vestris adfui quondam locis.
 
-[Ivd]{.smallcaps}. Huc quae tulit te causa, si fas quaerere est?
+[\@Ivd.=]{.smallcaps} Huc quae tulit te causa, si fas quaerere est?
 
-[Ios]{.smallcaps}. Iniquus in me livor, inclemens fera.
+[\@Ios.=]{.smallcaps} Iniquus in me livor, inclemens fera.
 
-[Ivd]{.smallcaps}. Non illa nostro pestis ignota est solo.
+[\@Ivd.=]{.smallcaps} Non illa nostro pestis ignota est solo.
 
-[Ios]{.smallcaps}. Vendine et illic liberum corpus solet?
+[\@Ios.=]{.smallcaps} Vendine et illic liberum corpus solet?
 
-\(945\) [Ivd]{.smallcaps}. Hoc mos et acri scita supplicio vetant.
+\(945\) [\@Ivd.=]{.smallcaps} Hoc mos et acri scita supplicio vetant.
 
-[Ios]{.smallcaps}. Sed multa fieri video quae leges vetant.
+[\@Ios.=]{.smallcaps} Sed multa fieri video quae leges vetant.
 
-[Ivd]{.smallcaps}. Sed quae, nisi homines puniant, punit Deus.
+[\@Ivd.=]{.smallcaps} Sed quae, nisi homines puniant, punit Deus.
 
-[Ios]{.smallcaps}. Jam dic quod illi nomen amisso fuit.
+[\@Ios.=]{.smallcaps} Jam dic quod illi nomen amisso fuit.
 
-[Ivd]{.smallcaps}. Josephus. hoc egregius imposuit parens.
+[\@Ivd.=]{.smallcaps} Josephus. hoc egregius imposuit parens.
 
 F2
 
 44
 
-\(950\) [Ios]{.smallcaps}. Vestri quid illud voce sermonis notat?
+\(950\) [\@Ios.=]{.smallcaps} Vestri quid illud voce sermonis notat?
 
-[Ivd]{.smallcaps}. Significat incrementa felicis domus.
+[\@Ivd.=]{.smallcaps} Significat incrementa felicis domus.
 
-[Ios]{.smallcaps}. Res saepe respondere nominibus solet.
+[\@Ios.=]{.smallcaps} Res saepe respondere nominibus solet.
 
-[Ivd]{.smallcaps}. Sed hoc inane nomen eventus docet.
+[\@Ivd.=]{.smallcaps} Sed hoc inane nomen eventus docet.
 
-[Ios]{.smallcaps}. Ne temere desperare. nîl durum Deo.
+[\@Ios.=]{.smallcaps} Ne temere desperare. nîl durum Deo.
 
-\(955\) [Ivd]{.smallcaps}. Utinam, sed insperata det nobis Deus.
+\(955\) [\@Ivd.=]{.smallcaps} Utinam, sed insperata det nobis Deus.
 
-[Ios]{.smallcaps}. Dedit et dabit. respicite me fratres mei.
+[\@Ios.=]{.smallcaps} Dedit et dabit. respicite me fratres mei.
 
 Iosephus ego sum. nomen Aegyptus mihi
 
@@ -2146,7 +2142,7 @@ Et Arabes, abeant. Somniis constat fides.
 
 Satis hoc: nec aliud majus a vobis volo.
 
-[Ivd]{.smallcaps}. Generose praeses: non enim fratrem audeam
+[\@Ivd.=]{.smallcaps} Generose praeses: non enim fratrem audeam
 
 Vocare, quia nos conscius culpae pudor
 
@@ -2162,7 +2158,7 @@ Ignosce. longis fessus aerumnis pater
 
 \(970\) Hoc ipse, si vis, postulat: si vis, rogat.
 
-[Ios]{.smallcaps}. Abiicite curas. poscitis sera prece
+[\@Ios.=]{.smallcaps} Abiicite curas. poscitis sera prece
 
 Quod impetratum est. Hoc quoque est nimium leve
 
@@ -2232,7 +2228,7 @@ Haerere utraque: gaudio manant genae,
 
 Hilarisque fletus vocis occlusit viam.
 
-\(1005\) [Beni]{.smallcaps}. Salve, Rachelis dividens mecum genus,
+\(1005\) [\@Beni.=]{.smallcaps} Salve, Rachelis dividens mecum genus,
 
 F3
 
@@ -2248,11 +2244,11 @@ Et hos amoris, quaeso, non ficti indices
 
 \(1010\) Permitte fletus collo ut infundam tuo.
 
-[Ios]{.smallcaps}. O mihi nunquam sperata dies
+[\@Ios.=]{.smallcaps} O mihi nunquam sperata dies
 
 Gaudia per te quam magna fero!
 
-[Beni]{.smallcaps}. Iam me nec iter longum Sicimis
+[@@Beni.=]{.smallcaps}= Iam me nec iter longum Sicimis
 
 Vectum ad Nili poenitet urbes,
 
@@ -2260,7 +2256,7 @@ Vectum ad Nili poenitet urbes,
 
 Vincla innocua gessisse manu.
 
-[Ios]{.smallcaps}. Fratrum in te animus mihi non certo
+[\@Ios.=]{.smallcaps} Fratrum in te animus mihi non certo
 
 Notus in hos me compulit astus.
 
@@ -2268,11 +2264,11 @@ Doleo tibi quod mala, quodque metum
 
 \(1020\) Tulit illorum spectata fides.
 
-[Beni]{.smallcaps}. Magnum est fratres purgasse suos.
+[@@Beni.=]{.smallcaps}= Magnum est fratres purgasse suos.
 
 Isto pretio mihi cuncta placent.
 
-[Ios]{.smallcaps}. Jam vita mihi dulcior, ex quo
+[\@Ios.=]{.smallcaps} Jam vita mihi dulcior, ex quo
 
 Fratres licuit reperire pios.
 
@@ -2284,19 +2280,19 @@ Quo me patrem rex ipse suum
 
 Memphisque simul tota vocavit.
 
-[Beni]{.smallcaps}. Bona cùm specto tua, mi frater,
+[\@Beni.=]{.smallcaps} Bona cùm specto tua, mi frater,
 
 \(1030\) Sentio laetos pectore motus.
 
-Ios. Mea quae cernis, tua sunt, frater.
+[\@Ios.=]{.smallcaps} Mea quae cernis, tua sunt, frater.
 
-[Beni]{.smallcaps}. Haec quam noster gaudeat unà
+[@@Beni.=]{.smallcaps}=@ Haec quam noster gaudeat unà
 
 Spectare senex!
 
 47
 
-[Ios]{.smallcaps}. Veniet, veniet: nec longa mora est.
+[\@Ios.=]{.smallcaps} Veniet, veniet: nec longa mora est.
 
 \(1035\) Ibitis illuc cum magnifica
 
@@ -2316,7 +2312,7 @@ Adeste nostrum quos amat comites latus.
 
 IVDAS. RVBEN. BENIAMIN
 
-[Ivd]{.smallcaps}. Quamquam carere me jubent omni metu
+[\@Ivd.=]{.smallcaps} Quamquam carere me jubent omni metu
 
 Pietas benigni fratris et constans fides;
 
@@ -2340,7 +2336,7 @@ Placamen esto. te ille respiciens, tibi
 
 Favens, peracti fida bibat oblivia.
 
-[Rvb]{.smallcaps}. (1055) Quae verba Iudas dixit, ea crede omnium.
+[\@Rvb.=]{.smallcaps} (1055) Quae verba Iudas dixit, ea crede omnium.
 
 Si quid tibi unquam fecimus fratres boni,
 
@@ -2352,7 +2348,7 @@ Meminisse. sic te videat incolumis pater.
 
 48
 
-[Beni]{.smallcaps}. (1060) Nihil est opus, ceu video: sed nostram tamen
+[\@Beni.=]{.smallcaps} (1060) Nihil est opus, ceu video: sed nostram tamen
 
 Desiderari fratribus caris opem
 
@@ -2396,7 +2392,7 @@ Donis et humili lenii tumidum prece.
 
 Tantùm fideli colere sed factis volo.
 
-[Ivd]{.smallcaps}. Egregia certe pignora enixa est Rachel.
+[\@Ivd.=]{.smallcaps} Egregia certe pignora enixa est Rachel.
 
 CHORVS.
 
@@ -2560,7 +2556,7 @@ Agricola taurus arce siderea micans,
 
 Inscriptus Hammon Mesoris antiqui pater.
 
-[Ios]{.smallcaps}. In me tot atque tanta congessit tua,
+[\@Ios.=]{.smallcaps} In me tot atque tanta congessit tua,
 
 Rex magne, bonitas, ut magis demi velim
 
@@ -2600,7 +2596,7 @@ Jamque ecce et ipsos, quod ego te verbis rogo,
 
 Gestu rogantes, corpora instratos solo.
 
-[Ivd]{.smallcaps}. (1175) Vivat beatus dominus opulentae Phari.
+[\@Ivd.=]{.smallcaps} (1175) Vivat beatus dominus opulentae Phari.
 
 [Pha]{.smallcaps}. Surgite: dabuntur herbidi sedes soli;
 
@@ -2612,7 +2608,7 @@ Quaeque optima edit arborum partu ferax
 
 \(1180\) Niliaca tellus, dono longaevo seni.
 
-[Ios]{.smallcaps}. Pátere hoc ut addam. Liberos homines vides,
+[\@Ios.=]{.smallcaps} Pátere hoc ut addam. Liberos homines vides,
 
 Qui sponte veniunt in potestatem tuam.
 
@@ -2636,7 +2632,7 @@ Et sceptra nunquam posteris abeant tuis.
 
 53
 
-[Pha]{.smallcaps}. Juro potentem cuncta moderari Deum,
+[\@Pha]{.smallcaps}.= Juro potentem cuncta moderari Deum,
 
 Meumque caput hoc obligo et seros mei
 
@@ -2672,7 +2668,7 @@ Nereus quoque ipse legis exsorti vado
 
 Ruat, atque totos sorbeat populos mare.
 
-\(1210\) [Ios]{.smallcaps}. Non erit Hebraeos hospites nullum tibi
+\(1210\) [\@Ios.=]{.smallcaps} Non erit Hebraeos hospites nullum tibi
 
 Habuisse pretium, terra locupletis Phari.
 
@@ -2712,7 +2708,7 @@ Nilique populo ponet, et miscens sacra
 
 Docebit uno more venerari Deum.
 
-[Cho]{.smallcaps}. Veniet et ad nos tam grande bonum:
+[\@Cho]{.smallcaps}.= Veniet et ad nos tam grande bonum:
 
 Et coelestis melior Phoebo
 
