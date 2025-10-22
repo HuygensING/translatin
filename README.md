@@ -22,6 +22,10 @@ that contain data produced by the Translatin project:
     Data production for the final published result of the project: a collection
     of 100+ medieval, latin dramas.
 
+Work continues in [translatin-dramas](https://gitlab.huc.knaw.nl/eDITem/translatin-dramas)
+where the TEI production is followed by a new pipeline to preview and publish the corpus
+on the web.
+
 The most comprehensive information on Translatin, the project, the people involved,
 the data and the programs, is in
 [translatin-manif](https://github.com/HuygensING/translatin-manif).
