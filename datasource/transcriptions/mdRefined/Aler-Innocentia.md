@@ -1035,15 +1035,15 @@ Vix ipse tantum, vix adhuc credo scelus \...
 
 ≤page=385≥ Haec facere Conjux potuit? \... haec consore mei
 
-Genovefa thalamii \@Golo.*=* Cura quae mentem gravat,
+Genovefa thalamii \@Golo.= Cura quae mentem gravat,
 
 Magnanime Princeps? aut quis attonitus pavor
 
 Stupefecit artus? \@Sigref.= Crimen! heu crimen meum
 
-Genovefa periit. \@Golo.*=* Scelere sed periit suo.
+Genovefa periit. \@Golo.= Scelere sed periit suo.
 
-≤page=390≥ \@Sigref.= Genovefa! \@Golo.*=* Non Genovefa; sed foedum sui
+≤page=390≥ \@Sigref.= Genovefa! \@Golo.= Non Genovefa; sed foedum sui
 
 Probrum mariti, dedecus clarae domûs,
 
@@ -1063,7 +1063,7 @@ Deberet orco victimam, infamem lupam.
 
 ≤page=15≥
 
-\@Golo.*=* Fuisse spursum, sceleris hoc erat satis.
+\@Golo.= Fuisse spursum, sceleris hoc erat satis.
 
 ≤page=400≥ Maneant sepulti noctis aeternae lacu,
 
@@ -1095,7 +1095,7 @@ Moritura thalami socia, quas reduci darem
 
 Tibi legendas. \@Sigef.= Conjugis nosco manum.
 
-\@Golo.*=* Quaecunque sacri pacta violavit thori,
+\@Golo.= Quaecunque sacri pacta violavit thori,
 
 ≤page=415≥ Hanc jure Lenam dixeris. \@Sigref.= Chartas lego.
 
@@ -1107,7 +1107,7 @@ Hab allzeit trew gehalten dir/
 
 Und halten werd/ das glaube mir.
 
-≤page=420≥ \@Golo.*=* Haec feminarum est indoles: fraudes parant,
+≤page=420≥ \@Golo.= Haec feminarum est indoles: fraudes parant,
 
 Et mentiuntur; & tamen sibi fidem
 
@@ -1127,7 +1127,7 @@ Suspicio fraudis oritur: alienum scelus
 
 Genovefa? culpae nescia, exitio luit.
 
-≤page=430≥ \@Golo.*=* Haec est suprema feminarum malitia;
+≤page=430≥ \@Golo.= Haec est suprema feminarum malitia;
 
 Natura mentem queis dedit pronam malo,
 
@@ -1167,7 +1167,7 @@ Precibus, minisque, fraude confictâ, malè
 
 In innocentis feminae torquent caput.
 
-\@Golo.*=* Haec ipsa res est; tangit & nostrum scelus.[^3]
+\@Golo.= Haec ipsa res est; tangit & nostrum scelus.[^3]
 
 ≤page=450≥ \@Sigref.= Absolvo chartam.
 
@@ -1233,7 +1233,7 @@ Fixûmque semper: norina regnandi unica, est
 
 Una his voluntas. \@Sigref.= Jussa properasti nimis.
 
-≤page=480≥ \@Golo.*=* Obsequia servum lenta condemnant reum.
+≤page=480≥ \@Golo.= Obsequia servum lenta condemnant reum.
 
 \@Sigref.= Quid suspicabor? \... Conjugis nostrae procus
 
@@ -1243,7 +1243,7 @@ Fictoque proprium scelere velavit scelus.
 
 Juvat experiri: fraudis aperiam modum. (a)[^4]
 
-≤page=485≥ \@Golo.*=* Actum est; perimus: sceleris ut poenas luam
+≤page=485≥ \@Golo.= Actum est; perimus: sceleris ut poenas luam
 
 Suspicio satis est: Principum quando haec semel
 
@@ -1461,7 +1461,7 @@ crimen suum Sigefrido.
 
 *Personae*. Golo, Conscientia, Umbra Coqui Droganis, Justitia divina &c.
 
-\@Golo.*=* Quis me recessus? quis locus profugum teget?
+\@Golo.= Quis me recessus? quis locus profugum teget?
 
 Ubi me recondam? quave tellure obruam?
 
@@ -1509,15 +1509,14 @@ Adesse culpae suadet ultorem pavor.
 
 Lethifera nuper vulnera haec saevus dares.
 
-≤page=605≥ \@Golo.*=* Egóne? \@Consc.= dubitas? \@Golo.*=* ego tibi has
+≤page=605≥ \@Golo.= Egóne? \@Consc.= dubitas? \@Golo.= ego tibi has
 plagas dedi?
 
-\@Consc.= Improbe, dedisti. \@Golo.*=* Quaenam es? \@Consc.= ò pudor!
-tuam
+\@Consc.= Improbe, dedisti. \@Golo.= Quaenam es? \@Consc.= ò pudor! tuam
 
 Non nôsse temet Conscientiam ampliùs?
 
-\@Golo.*=* Túne mea Conscientia? ô monstrum insolens!
+\@Golo.= Túne mea Conscientia? ô monstrum insolens!
 
 \@Consc.= Id credo: casta namque, pudibunda, innocens,
 
@@ -1529,19 +1528,19 @@ Regebat artus: Tua sed infamis mihi
 
 Istud libido rapuit excellens decus.
 
-\@Golo.*=* O tetra facies mentis! \@Consc.= at mentis tuae.
+\@Golo.= O tetra facies mentis! \@Consc.= at mentis tuae.
 
 ≤page=615≥ Age nunc, ut optas, tabe funestâ horridos
 
-Tuere vultus. \@Golo.*=* Morior aspectu truci.
+Tuere vultus. \@Golo.= Morior aspectu truci.
 
 \@Consc.= Quid? itane Veneris gaudia optatae expaves?
 
-\@Golo.*=* Vah! quàm nefando pollui mentem probro!
+\@Golo.= Vah! quàm nefando pollui mentem probro!
 
 \@Consc.= Scelerate! non fers propriae mentis nefas?
 
-≤page=620≥ \@Golo.*=* O magne Rector! merge portentum hoc stygi,
+≤page=620≥ \@Golo.= O magne Rector! merge portentum hoc stygi,
 
 \@Consc.= Merget, sed unà merget hoc tetrum caput.
 
@@ -1553,7 +1552,7 @@ Cocyti inertis cernere, aut Lernae mala.
 
 ≤page=625≥ \@Consc.= Et illa cernes; me nec effugies tamen.
 
-\@Golo.*=* Ferox hyaena, cede; Garamantas pete.
+\@Golo.= Ferox hyaena, cede; Garamantas pete.
 
 \@Consc.= Egóne cedam? Latere non cedam tuo.
 
@@ -1565,7 +1564,7 @@ Fugis? volatu praepetem anteibo fugam.
 
 Scelere Droganem? vindices caedis meae
 
-Poenas reposco. \@Golo.*=* Fugio, nec fugio tamen.
+Poenas reposco. \@Golo.= Fugio, nec fugio tamen.
 
 Undique tenemur Vmbra. Siste, nil prodest fuga!
 
@@ -1573,7 +1572,7 @@ Ubique sceleris ultio infestat reum.[^5]
 
 ≤page=635≥ \@Just. div.= Modicam quietem sinite. dum scenam paro.
 
-\@Golo.*=* Dehisce tellus; Tartari ad finem ultimum \...
+\@Golo.= Dehisce tellus; Tartari ad finem ultimum \...
 
 ≤page=22≥
 
@@ -1657,7 +1656,7 @@ Funes, catenas. flagra, plumbatas, cruces,
 
 ≤page=675≥ Enses, catastas, forcipes, ignes, rotas.
 
-\@Golo.*=* Vigilo? vel oculos dubius illudit sopor?
+\@Golo.= Vigilo? vel oculos dubius illudit sopor?
 
 Quae monstra vidi? coeca tenebrarum loca,
 
@@ -1886,23 +1885,23 @@ collo pendentem funem.
 
 ## 22. Personae. *Golo, Sigefridus, Filii Golonis*.
 
-≤page=775≥ \@Golo.*=* Generose Princeps; contine justum precor
+≤page=775≥ \@Golo.= Generose Princeps; contine justum precor
 
 Animo furorem, donec exstructam impiae
 
 Pertexo fraudis machinam, & nostrum scelus.
 
-\@Sigref.= Quis ille cultus corporis? \@Golo.*=* Qualis decet
+\@Sigref.= Quis ille cultus corporis? \@Golo.= Qualis decet
 
 Reum nefandi sceleris, addictum neci.
 
-≤page=780≥ \@Sigref.= Tandem fateris? \@Golo.*=* Facinus agnosco impium.
+≤page=780≥ \@Sigref.= Tandem fateris? \@Golo.= Facinus agnosco impium.
 
 \@Sigref.= *Sua quemque produnt scelera, nec latuit bene*
 
 *Quodcunque caelo teste patratum est nefas*.
 
-\@Golo.*=* Ego Genovefam ad stupra, & illicitos thoros
+\@Golo.= Ego Genovefam ad stupra, & illicitos thoros
 
 Tentavi adulter. Dixit: abscede impiè,
 
@@ -1948,7 +1947,7 @@ Et jam perimitur, Facinus ignotum, efferum;
 
 Natura majus ferre quo nullum potest.
 
-≤page=805≥ \@Golo.*=* Nihil recuso; dira tormenta ingere:
+≤page=805≥ \@Golo.= Nihil recuso; dira tormenta ingere:
 
 Merui; cruentis scelera suppliciis preme.
 

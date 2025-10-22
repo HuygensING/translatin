@@ -642,6 +642,7 @@ class TeiFromDocx:
         text = normalizeChars(text)
 
         text = FIX_ITALIC_RE.sub(r"\n*\1*\2\n", text)
+        text = text.replace("*=*", "=")
         text = text.replace("\\\n", "\n\n")
         text = text.replace("\n> ", "\n")
         text = text.replace("\n>\n", "\n\n")

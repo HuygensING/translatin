@@ -8,9 +8,10 @@ Contains the following sections:
 
 Formatting Attributes
 
-	<hi>               rend=          1035x bold
+	<hi>               rend=          1017x bold
 	                                  3325x footnote
-	                                  9018x italic
+	                                  8697x italic
+	                                  7730x speaker
 	                                    19x superscript
 	                                     5x underline
 
@@ -19,10 +20,10 @@ Keyword Attributes
 	<TEI>              lang=           121x lat
 
 	<div>              type=           363x level1
-	                                  2637x level2
+	                                  2633x level2
 	                                    42x notes
 
-	<list>             type=           130x ordered:arabic
+	<list>             type=           149x ordered:arabic
 	                                     2x ordered:loweralpha
 	                                     6x ordered:lowerroman
 	                                    14x ordered:upperalpha
@@ -405,7 +406,7 @@ Keyword Attributes
 	                                     1x 397
 	                                     1x 398
 	                                     1x 399
-	                                    30x 4
+	                                    29x 4
 	                                    38x 40
 	                                     2x 400
 	                                     1x 402
@@ -459,7 +460,7 @@ Keyword Attributes
 	                                     1x 490
 	                                     1x 491
 	                                     1x 495
-	                                    34x 5
+	                                    33x 5
 	                                    34x 50
 	                                     1x 500
 	                                     1x 505
@@ -646,17 +647,18 @@ Keyword Attributes
 	                                     1x Aiia
 	                                     1x Aiii
 	                                     1x Aiiii
-	                                     6x Aiiij
+	                                     5x Aiiij
 	                                     1x Aiiij.
 	                                     1x Aiiija
 	                                     1x Aiiijb
-	                                     9x Aiij
+	                                     8x Aiij
 	                                     1x Aiija
 	                                     1x Aiijb
 	                                     1x Aiijv
 	                                     8x Aij
 	                                     1x Aija
 	                                     1x Aijb
+	                                     1x Ailij
 	                                     1x Ar
 	                                     2x Av
 	                                     1x Ava
@@ -693,7 +695,7 @@ Keyword Attributes
 	                                     3x B8v
 	                                     1x Bi
 	                                     2x Bii
-	                                     2x Biii
+	                                     1x Biii
 	                                     5x Biiij
 	                                     1x Biiijb
 	                                     9x Biij
@@ -1051,8 +1053,8 @@ Keyword Attributes
 	                                     1x π1v
 	                                     1x π2r
 	                                     1x π2v
-	                   unit=          1213x folio
-	                                  3982x page
+	                   unit=          1211x folio
+	                                  3980x page
 
 	<term>             type=           121x acts
 	                                   121x chorus
@@ -1075,7 +1077,7 @@ Remaining Attributes and Elements
 
 	<date>                             242x 
 
-	<div>              id=            3000x X
+	<div>              id=            2996x X
 
 	<editor>                           121x 
 
@@ -1083,13 +1085,13 @@ Remaining Attributes and Elements
 
 	<fileDesc>                         121x 
 
-	<head>                            3000x 
+	<head>                            2996x 
 
-	<item>                              27x 
-	                   n=               60x N
-	                                   120x NN
+	<item>                              32x 
+	                   n=               68x N
+	                                   127x NN
 	                                    39x NNN
-	                                     6x NNNN
+	                                     7x NNNN
 
 	<keywords>                         121x 
 
